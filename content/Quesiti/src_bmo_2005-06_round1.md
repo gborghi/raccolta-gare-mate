@@ -33,8 +33,6 @@ level: BMO Round 1
 
 > Se $n$ è un numero intero maggiore di $6$. Prova che se $n-1$ e $n+1$ sono entrambi primi, allora $n^2(n^2+16)$ è divisibile da $720$. È vero il contrario?
 
-[[Quesiti/src_bmo_2005-06_round1#q01|src_bmo_2005-06_round1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_casi_conteggio,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -68,8 +66,6 @@ level: BMO Round 1
 > 
 > ii) In quanti modi può dividerli in tre squadre di quattro?
 
-[[Quesiti/src_bmo_2005-06_round1#q02|src_bmo_2005-06_round1__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
@@ -94,8 +90,6 @@ level: BMO Round 1
 *Angolo di bisezione di diagonale quadrilaterale ciclico, CE=CA se DE=AB*
 
 > Nel quadrilaterale ciclico $ABCD$, la diagonale $AC$ divide l'angolo $DAB$. Il lato $AD$ è esteso oltre $D$ fino a un punto $E$. Indicare che $CE = CA$ se e solo se $DE = AB$.
-
-[[Quesiti/src_bmo_2005-06_round1#q03|src_bmo_2005-06_round1__Q03]]
 
 
 
@@ -126,8 +120,6 @@ level: BMO Round 1
 > 
 > Si sceglie un percorso continuo, che inizia all'interno della cella con vertice $A$ e attraversa sempre da una cella all'altra attraverso un bordo condiviso dalle due celle. Nessuna cellula viene visitata più di una volta. Trova, con la prova, il maggior numero di celle che possono essere visitate.
 
-[[Quesiti/src_bmo_2005-06_round1#q04|src_bmo_2005-06_round1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -153,8 +145,6 @@ level: BMO Round 1
 
 > Che $G$ sia un quadrilaterale convex. Indicare che vi è un punto $X$ nel piano di $G$ con la proprietà che ogni linea retta attraverso $X$ divide $G$ in due regioni di superficie uguale se e solo se $G$ è un parallelo.
 
-[[Quesiti/src_bmo_2005-06_round1#q05|src_bmo_2005-06_round1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_geometria_piana,method_doppio_conteggio,method_conteggio,method_invarianti,skill_conteggio_sistematico,skill_astrazione"></span>
@@ -179,5 +169,3 @@ level: BMO Round 1
 *Ogni punto si trova all'interno di un numero pari di triangoli*
 
 > $T$ sia un insieme di punti coplanari $2005$ senza tre punti collineari. Mostrare che, per uno qualsiasi dei punti $2005$, il numero dei triangoli che si trova strettamente all'interno, le cui vertici sono punti in $T$, è pari.
-
-[[Quesiti/src_bmo_2005-06_round1#q06|src_bmo_2005-06_round1__Q06]]

@@ -39,8 +39,6 @@ level: IMO
 > Si dimostri che, se $z_1, z_2, \ldots, z_n$ è un qualsiasi permutamento di $y_1, y_2, \ldots, y_n$, allora
 > $$\sum_{i=1}^{n}(x_i - y_i)^2 \le \sum_{i=1}^{n}(x_i - z_i)^2.$$.
 
-[[Quesiti/src_imho_1975#q01|src_imho_1975__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_induzione,method_ricorsione,skill_ragionamento_geometrico,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
@@ -70,8 +68,6 @@ level: IMO
 > $$a_m = x \cdot a_p + y \cdot a_q$$
 > con $x, y$ interi positivi e $q > p$.
 
-[[Quesiti/src_imho_1975#q02|src_imho_1975__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -96,8 +92,6 @@ level: IMO
 *Condizione sull'angolo in un triangolo con triangoli costruiti esternamente*
 
 > Su ciascun lato di un triangolo arbitrario $ABC$, vengono costruiti esternamente dei triangoli $ABR$, $BCP$, $CAQ$ tali che $\angle CBP = \angle CAQ = 45^\circ$, $\angle BCP = \angle ACQ = 30^\circ$, $\angle ABR = \angle BAR = 15^\circ$. Si dimostri che $\angle QRP = 90^\circ$ e $QR = RP$.
-
-[[Quesiti/src_imho_1975#q03|src_imho_1975__Q03]]
 
 
 
@@ -124,8 +118,6 @@ level: IMO
 
 > Quando $4444^{4444}$ viene scritto nella notazione decimale, la somma delle sue cifre è $A$. Sia $B$ la somma delle cifre di $A$. Determinare la somma delle cifre di $B$. ($A$ e $B$ sono scritti nella notazione decimale.)
 
-[[Quesiti/src_imho_1975#q04|src_imho_1975__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_geometria_piana,method_congruenze,method_induzione,method_ricorsione,skill_modellizzazione,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
@@ -150,8 +142,6 @@ level: IMO
 *Punti su una circonferenza con distanze reciproche razionali*
 
 > Si stabilisca, motivando la risposta, se è possibile trovare 1975 punti sulla circonferenza di raggio unitario in modo che la distanza tra due qualsiasi di essi sia un numero razionale.
-
-[[Quesiti/src_imho_1975#q05|src_imho_1975__Q05]]
 
 
 
@@ -189,5 +179,3 @@ level: IMO
 > (ii) per tutti i numeri reali $a, b, c$:
 > $$P(b+c, a) + P(c+a, b) + P(a+b, c) = 0,$$
 > (iii) $P(1, 0) = 1$.
-
-[[Quesiti/src_imho_1975#q06|src_imho_1975__Q06]]

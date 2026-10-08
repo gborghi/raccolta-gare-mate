@@ -43,7 +43,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 ![[src_bocconi_finaleint_2010_g1__q01.png]]
 
 **Answer:** 4
-[[Quesiti/src_bocconi_finaleint_2010_g1#q01|src_bocconi_finaleint_2010_g1__Q01]]
 
 
 
@@ -75,8 +74,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 ![[src_bocconi_finaleint_2010_g1__q02.png]]
 
-**Answer:** figura completata: riga 1: 2|2 2|0 0; riga 2: 2 ... 0; riga 3: 1 1|1 1|0
-[[Quesiti/src_bocconi_finaleint_2010_g1#q02|src_bocconi_finaleint_2010_g1__Q02]]
+**Answer:** completed figure: row 1: 2|2 2|0 0; row 2: 2 ... 0; row 3: 1 1|1 1|0
 
 
 
@@ -108,8 +106,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 ![[src_bocconi_finaleint_2010_g1__q03.png]]
 
-**Answer:** figura: stella completata con i numeri da 1 a 4
-[[Quesiti/src_bocconi_finaleint_2010_g1#q03|src_bocconi_finaleint_2010_g1__Q03]]
+**Answer:** figure: star completed with the numbers from 1 to 4
 
 
 
@@ -142,7 +139,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 ![[src_bocconi_finaleint_2010_g1__q04.png]]
 
 **Answer:** 12
-[[Quesiti/src_bocconi_finaleint_2010_g1#q04|src_bocconi_finaleint_2010_g1__Q04]]
 
 
 
@@ -175,7 +171,6 @@ Minimum number of doors so that each room has exactly three doors and you can ge
 ![[src_bocconi_finaleint_2010_g1__q05.png]]
 
 **Answer:** 8
-[[Quesiti/src_bocconi_finaleint_2010_g1#q05|src_bocconi_finaleint_2010_g1__Q05]]
 
 
 
@@ -204,7 +199,6 @@ Minimum number of doors so that each room has exactly three doors and you can ge
 > Mathias placed identical matches on his desk to form at least a square and at least a triangle. Count the squares and triangles of all sizes that appear. Each plotted triangle is $2$ points and each plotted square is $5$ points. What's the maximum score Mathias can score? Each end of a match is in contact with the end of another match or with the ends of more than one match, and two matches never cross.
 
 **Answer:** 17
-[[Quesiti/src_bocconi_finaleint_2010_g1#q06|src_bocconi_finaleint_2010_g1__Q06]]
 
 
 
@@ -237,7 +231,6 @@ Minimum number of doors so that each room has exactly three doors and you can ge
 ![[src_bocconi_finaleint_2010_g1__q07.png]]
 
 **Answer:** 72
-[[Quesiti/src_bocconi_finaleint_2010_g1#q07|src_bocconi_finaleint_2010_g1__Q07]]
 
 
 
@@ -269,8 +262,7 @@ Minimum number of doors so that each room has exactly three doors and you can ge
 
 ![[src_bocconi_finaleint_2010_g1__q08.png]]
 
-**Answer:** figura: dischi 1, 2, 4, 5, 6, 3 (somme 11, 11, 17, 8, 9, 15)
-[[Quesiti/src_bocconi_finaleint_2010_g1#q08|src_bocconi_finaleint_2010_g1__Q08]]
+**Answer:** figure: discs 1, 2, 4, 5, 6, 3 (sums 11, 11, 17, 8, 9, 15)
 
 
 
@@ -298,8 +290,7 @@ Minimum number of doors so that each room has exactly three doors and you can ge
 
 > Mathilde wrote to Mathias four mysterious additions: $? \times 2 + 17$, $? + 11 \times 7$, $? + 18 \times 7$, $? + 23 \times 7$, where each question point always represents the same positive number and each asterisk represents all different numbers; the four additions all yield the same result. Mathilde found the number represented by the question mark. It's your turn!
 
-**Answer:** 2 soluzioni: 7; 17
-[[Quesiti/src_bocconi_finaleint_2010_g1#q09|src_bocconi_finaleint_2010_g1__Q09]]
+**Answer:** 2 solutions: 7; 17
 
 
 
@@ -332,7 +323,6 @@ Minimum number of doors so that each room has exactly three doors and you can ge
 ![[src_bocconi_finaleint_2010_g1__q10.png]]
 
 **Answer:** 25
-[[Quesiti/src_bocconi_finaleint_2010_g1#q10|src_bocconi_finaleint_2010_g1__Q10]]
 
 
 
@@ -365,7 +355,6 @@ Minimum number of doors so that each room has exactly three doors and you can ge
 ![[src_bocconi_finaleint_2010_g1__q11.png]]
 
 **Answer:** 384
-[[Quesiti/src_bocconi_finaleint_2010_g1#q11|src_bocconi_finaleint_2010_g1__Q11]]
 
 
 
@@ -394,7 +383,6 @@ Maximum number of sides of a polygon of Pogo decomposable into rectangular trian
 > Pogo's polygons are convex. They can be cut into rectangular triangles whose sharp angles measure $30^\circ$ and $60^\circ$. What is the maximum number of sides of a Pogo polygon?
 
 **Answer:** 12
-[[Quesiti/src_bocconi_finaleint_2010_g1#q12|src_bocconi_finaleint_2010_g1__Q12]]
 
 
 
@@ -422,8 +410,7 @@ Maximum number of sides of a polygon of Pogo decomposable into rectangular trian
 
 > A odd box is a rectangular parallel-piped whose three beams measure odd integers of centimeters. It shall be filled with as many cubes as possible, the length of which shall be two centimetres, and the cubes shall be arranged in parallel with those of the box. What's the volume of the box, knowing that the cubes occupy the$64\%$?
 
-**Answer:** 7 soluzioni: 525, 7425, 8325, 8925, 11625, 15225, 26325
-[[Quesiti/src_bocconi_finaleint_2010_g1#q13|src_bocconi_finaleint_2010_g1__Q13]]
+**Answer:** 7 solutions: 525, 7425, 8325, 8925, 11625, 15225, 26325
 
 
 
@@ -455,8 +442,7 @@ Maximum number of sides of a polygon of Pogo decomposable into rectangular trian
 
 ![[src_bocconi_finaleint_2010_g1__q14.png]]
 
-**Answer:** 7 soluzioni (vedi figure)
-[[Quesiti/src_bocconi_finaleint_2010_g1#q14|src_bocconi_finaleint_2010_g1__Q14]]
+**Answer:** 7 solutions (see figures)
 
 
 
@@ -489,7 +475,6 @@ Maximum number of sides of a polygon of Pogo decomposable into rectangular trian
 ![[src_bocconi_finaleint_2010_g1__q15.png]]
 
 **Answer:** 3024
-[[Quesiti/src_bocconi_finaleint_2010_g1#q15|src_bocconi_finaleint_2010_g1__Q15]]
 
 
 
@@ -521,8 +506,7 @@ Maximum number of sides of a polygon of Pogo decomposable into rectangular trian
 
 ![[src_bocconi_finaleint_2010_g1__q16.png]]
 
-**Answer:** 10 soluzioni: 205, 206, 207, 208, 209, 255, 256, 257, 258, 259
-[[Quesiti/src_bocconi_finaleint_2010_g1#q16|src_bocconi_finaleint_2010_g1__Q16]]
+**Answer:** 10 solutions: 205, 206, 207, 208, 209, 255, 256, 257, 258, 259
 
 
 
@@ -551,7 +535,6 @@ Maximum number of sides of a polygon of Pogo decomposable into rectangular trian
 > Your share of$2$. It iteratively replaces all $2$ with $210$, all $1$ with $20$, all $0$ with $1$. It is obtained by $2$, $210$, $210201$, $210201210120$, $210201210120210201202101\ldots$. By convention, from left to right, the number of rank $0$ is $2$, that of rank $1$ is $1$, that of rank $2$ is $0$, that of rank $3$ is $2$, that of rank $4$ is $0$, etc. What are the nine digits of the ranks from $2002$ to $2010$ included?
 
 **Answer:** 020121012
-[[Quesiti/src_bocconi_finaleint_2010_g1#q17|src_bocconi_finaleint_2010_g1__Q17]]
 
 
 
@@ -580,4 +563,3 @@ Maximum number of sides of a polygon of Pogo decomposable into rectangular trian
 > The two circles, the triangle, and the great circle represent an ant's two eyes, nose, and head, respectively. Each of the two circles is tangent to the other circle and the great circle. The two circles have the same radius. The triangle has three equal sides and its vertices are on the circles. The three sides of the triangle and the diameters of the two circles all measure $1$ millimetres. What is the diameter of the great circle in millimeters? A value approximating the nearest cent of a millimeter shall be given, taking, if necessary, $1{,}414$ for $\sqrt{2}$; $1{,}732$ for $\sqrt{3}$; $2{,}236$ for $\sqrt{5}$; $2{,}646$ for $\sqrt{7}$; $3{,}317$ for $\sqrt{11}$.
 
 **Answer:** 2,03
-[[Quesiti/src_bocconi_finaleint_2010_g1#q18|src_bocconi_finaleint_2010_g1__Q18]]

@@ -35,7 +35,6 @@ level: JMO Yosen
 > Tra i numeri espressi come $n^2+4n$ per un intero positivo $n$, trova quello la cui differenza assoluta da $10000$ è più piccola.
 
 **Risposta:** 9996
-[[Quesiti/src_jmo19yq_yosen#q01|src_jmo19yq_yosen__Q01]]
 
 
 
@@ -68,7 +67,6 @@ level: JMO Yosen
 ![[src_jmo19yq_yosen__q02.png]]
 
 **Risposta:** 8/3
-[[Quesiti/src_jmo19yq_yosen#q02|src_jmo19yq_yosen__Q02]]
 
 
 
@@ -95,8 +93,6 @@ level: JMO Yosen
 
 > Trova tutti i triples $(a,b,c)$ di numeri interi positivi che soddisfano $$\begin{cases} ab+c=13 \\ a+bc=23 \end{cases}$$ Qui i triples che differiscono solo nell'ordine dei tre numeri sono considerati distinti.
 
-[[Quesiti/src_jmo19yq_yosen#q03|src_jmo19yq_yosen__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_trigonometria,method_estremalita,method_trigonometria,skill_ragionamento_geometrico,skill_stima"></span>
@@ -121,8 +117,6 @@ level: JMO Yosen
 *BAC angolo minimo dato AB=4 e AM mediana=1*
 
 > Nel triangolo $ABC$, $M$ sia il punto medio del lato $BC$, con $AB=4$ e $AM=1$. Trova il minimo valore possibile dell'angolo $\angle BAC$. Qui $XY$ indica la lunghezza del segmento $XY$.
-
-[[Quesiti/src_jmo19yq_yosen#q04|src_jmo19yq_yosen__Q04]]
 
 
 
@@ -149,8 +143,6 @@ level: JMO Yosen
 
 > Sei palle rosse, tre palle blu e tre palle gialle sono disposte in fila. In quanti modi possono essere disposte in modo che due palle adiacenti abbiano colori diversi? Qui non si distinguono le palle dello stesso colore.
 
-[[Quesiti/src_jmo19yq_yosen#q05|src_jmo19yq_yosen__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,topic_trigonometria,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -175,8 +167,6 @@ level: JMO Yosen
 *Volume di tetraedro dai bordi e dagli angoli a O*
 
 > Il tetraedro $OABC$ soddisfa $OA=3$, $OB=4$, $OC=5$ e $\angle AOB=\angle AOC=45^\circ$, $\angle BOC=60^\circ$. Trova il volume del tetraedro $OABC$. Qui $XY$ indica la lunghezza del segmento $XY$.
-
-[[Quesiti/src_jmo19yq_yosen#q06|src_jmo19yq_yosen__Q06]]
 
 
 
@@ -203,8 +193,6 @@ level: JMO Yosen
 
 > I numeri reali $x_1,x_2,x_3,x_4,x_5$ soddisfano le seguenti cinque equazioni: $$\begin{cases} x_1x_2+x_1x_3+x_1x_4+x_1x_5=-1 \\ x_2x_1+x_2x_3+x_2x_4+x_2x_5=-1 \\ x_3x_1+x_3x_2+x_3x_4+x_3x_5=-1 \\ x_4x_1+x_4x_2+x_4x_3+x_4x_5=-1 \\ x_5x_1+x_5x_2+x_5x_3+x_5x_4=-1 \end{cases}$$ Trova tutti i valori possibili di $x_1$.
 
-[[Quesiti/src_jmo19yq_yosen#q07|src_jmo19yq_yosen__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -229,8 +217,6 @@ level: JMO Yosen
 *Polinomio di grado minimo nell'identità f(x^3)+g(x)=f(x)+x^5 g(x)*
 
 > Che $f(x)$ e $g(x)$ siano entrambi polinomi non zero con coefficienti reali soddisfacenti $$f(x^3)+g(x)=f(x)+x^5 g(x).$$ Tra i polinomi $f(x)$ che possono verificarsi in questo modo, trova uno del grado più piccolo.
-
-[[Quesiti/src_jmo19yq_yosen#q08|src_jmo19yq_yosen__Q08]]
 
 
 
@@ -257,8 +243,6 @@ level: JMO Yosen
 
 > Dieci interpreti sono invitati a una conferenza internazionale di matematica. Ogni interprete può parlare esattamente due delle cinque seguenti lingue: greco, sloveno, vietnamita, spagnolo e tedesco. Inoltre, non ci sono due interpreti che abbiano la stessa combinazione di lingue. Tali interpreti devono essere alloggiati due a stanza in cinque stanze, in modo che i due interpreti in ciascuna stanza possano parlare una lingua comune. In quanti modi si può farlo? Qui, due assegnazioni di stanza che danno esattamente gli stessi gruppi di persone sono contate come le stesse (solo scambiando quale stanza una coppia occupa non crea un'assegnazione diversa).
 
-[[Quesiti/src_jmo19yq_yosen#q09|src_jmo19yq_yosen__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,topic_aritmetica,method_telescoping,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -283,8 +267,6 @@ level: JMO Yosen
 *Ratio di due somme di radici quadrate incastonate*
 
 > Calcolare $$\frac{\sqrt{10+\sqrt{1}}+\sqrt{10+\sqrt{2}}+\cdots+\sqrt{10+\sqrt{99}}}{\sqrt{10-\sqrt{1}}+\sqrt{10-\sqrt{2}}+\cdots+\sqrt{10-\sqrt{99}}}.$$ Qui il denominatore è la somma di $\sqrt{10-\sqrt{n}}$ come $n$ si estende sui numeri interi da $1$ a $99$, e il numeratore è la somma di $\sqrt{10+\sqrt{n}}$ come $n$ si estende sui numeri interi da $1$ a $99$.
-
-[[Quesiti/src_jmo19yq_yosen#q10|src_jmo19yq_yosen__Q10]]
 
 
 
@@ -311,8 +293,6 @@ level: JMO Yosen
 
 > Trova la somma di tutte le soluzioni della seguente equazione nella variabile reale $x$: $$[x]+[2x]+[3x]+[4x]+[5x]+[6x]+[7x]+[8x]+[9x]=44x.$$ Qui $[r]$ indica il numero intero più grande non superiore al numero reale $r$.
 
-[[Quesiti/src_jmo19yq_yosen#q11|src_jmo19yq_yosen__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_geometria_solida,method_casework,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione,skill_astrazione"></span>
@@ -337,5 +317,3 @@ level: JMO Yosen
 *Sottoinsiemi di 10 punti tagliati da mezzo spazio*
 
 > Un piano nello spazio divide lo spazio in due parti; una di queste parti (senza includere il piano stesso) è chiamata mezzo spazio. Che $S$ sia un insieme di punti $10$ nello spazio in modo tale che nessuno di loro sia coplanare. Trovare il numero di sottoinsiemi di $S$ che si formano come intersezione di $S$ con qualche mezzo spazio.
-
-[[Quesiti/src_jmo19yq_yosen#q12|src_jmo19yq_yosen__Q12]]

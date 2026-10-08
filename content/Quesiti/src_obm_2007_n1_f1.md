@@ -47,7 +47,6 @@ level: OBM Nível 1
 > (A) $1001$ \quad (B) $2007$ \quad (C) $2009$ \quad (D) $4008$ \quad (E) $4014$
 
 **Risposta:** E
-[[Quesiti/src_obm_2007_n1_f1#q01|src_obm_2007_n1_f1__Q01]]
 
 
 
@@ -82,7 +81,6 @@ level: OBM Nível 1
 > (A) 4 \quad (B) 6 \quad (C) 7 \quad (D) 10 \quad (E) 12
 
 **Risposta:** D
-[[Quesiti/src_obm_2007_n1_f1#q02|src_obm_2007_n1_f1__Q02]]
 
 
 
@@ -113,8 +111,6 @@ level: OBM Nível 1
 > Unendo due quadrati uguali fianco a fianco, si forma un rettangolo il cui perimetro è $18$ cm. Ora, unendo $144$ di questi quadrati fianco a fianco, in una singola riga, formiamo un rettangolo con larghezza e lunghezza diverse. Qual è il perimetro di questo ultimo rettangolo, in cm?
 > 
 > (A) 1300 \quad (B) 1308 \quad (C) 1400 \quad (D) 1500 \quad (E) 1512
-
-[[Quesiti/src_obm_2007_n1_f1#q03|src_obm_2007_n1_f1__Q03]]
 
 
 
@@ -150,8 +146,6 @@ level: OBM Nível 1
 
 ![[src_obm_2007_n1_f1__q04.png]]
 
-[[Quesiti/src_obm_2007_n1_f1#q04|src_obm_2007_n1_f1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -185,7 +179,6 @@ level: OBM Nível 1
 > (A) 1003 \quad (B) 1004 \quad (C) 2005 \quad (D) 2006 \quad (E) 2007
 
 **Risposta:** B
-[[Quesiti/src_obm_2007_n1_f1#q05|src_obm_2007_n1_f1__Q05]]
 
 
 
@@ -217,8 +210,6 @@ Due orologi, uno veloce e uno lento, impostato da Silvia. Trova l'ora di Cristin
 > Silvia pensava che il suo orologio fosse $10$ minuti lento, quando in realtà era $5$ minuti veloce. Cristina pensava che il suo orologio fosse $10$ minuti veloce, quando in realtà era $5$ minuti lento. Nello stesso momento, i due amici si trovarono insieme e concordarono di fissare gli orologi presso Silvia. Poi, come era stato concordato, quando l'orologio di Silvia segnò l'ora $10$, Cristina arrivò. In quel momento, secondo l'orologio di Cristina, che ore erano?
 > 
 > (A) $9\text{h}\,30\text{min}$ \quad (B) $9\text{h}\,50\text{min}$ \quad (C) $10\text{h}$ \quad (D) $10\text{h}\,10\text{min}$ \quad (E) $10\text{h}\,15\text{min}$
-
-[[Quesiti/src_obm_2007_n1_f1#q06|src_obm_2007_n1_f1__Q06]]
 
 
 
@@ -255,8 +246,6 @@ Due orologi, uno veloce e uno lento, impostato da Silvia. Trova l'ora di Cristin
 
 ![[src_obm_2007_n1_f1__q07.png]]
 
-[[Quesiti/src_obm_2007_n1_f1#q07|src_obm_2007_n1_f1__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -289,7 +278,6 @@ Due orologi, uno veloce e uno lento, impostato da Silvia. Trova l'ora di Cristin
 > A) 200 \quad (B) 260 \quad (C) 93 \quad (D) 223 \quad (E) 300
 
 **Risposta:** B
-[[Quesiti/src_obm_2007_n1_f1#q08|src_obm_2007_n1_f1__Q08]]
 
 
 
@@ -320,8 +308,6 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > In una determinata città, il rapporto tra il numero di uomini e il numero di donne è $2:3$, e quello tra il numero di donne e il numero di bambini è $4:1$. Il rapporto tra il numero di uomini e il numero di bambini è:
 > 
 > (A) $5:1$ \quad (B) $16:1$ \quad (C) $12:1$ \quad (D) $40:3$ \quad (E) $13:1$
-
-[[Quesiti/src_obm_2007_n1_f1#q09|src_obm_2007_n1_f1__Q09]]
 
 
 
@@ -357,8 +343,6 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 
 ![[src_obm_2007_n1_f1__q10.png]]
 
-[[Quesiti/src_obm_2007_n1_f1#q10|src_obm_2007_n1_f1__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -391,7 +375,6 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > (A) $68\%$ \quad (B) $6.8\%$ \quad (C) $0.68\%$ \quad (D) $3.2\%$ \quad (E) $32\%$
 
 **Risposta:** E
-[[Quesiti/src_obm_2007_n1_f1#q11|src_obm_2007_n1_f1__Q11]]
 
 
 
@@ -423,8 +406,6 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > Esmeralda e Perola si trovano in una coda. Perola osserva che tra loro ci sono $7$ persone e che dietro Esmeralda ci sono $6$ persone. Due persone aggiuntive poi entrano nella coda tra Esmeralda e Perola. Quale dei numeri seguenti non potrebbe essere la posizione di Esmeralda contando dal fronte della coda?
 > 
 > (A) 9 \quad (B) 11 \quad (C) 13 \quad (D) 14 \quad (E) 15
-
-[[Quesiti/src_obm_2007_n1_f1#q12|src_obm_2007_n1_f1__Q12]]
 
 
 
@@ -461,8 +442,6 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 
 ![[src_obm_2007_n1_f1__q13.png]]
 
-[[Quesiti/src_obm_2007_n1_f1#q13|src_obm_2007_n1_f1__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_algebra,topic_aritmetica,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -492,8 +471,6 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > Il contenuto di una bottiglia di bicchieri non alcoolici riempie tre grandi bicchieri e un altro mezzo di un bicchiere piccolo; o $5$ di questi bicchieri piccoli e un altro mezzo di un bicchiere grande. Qual è il rapporto tra il volume di un bicchiere piccolo e quello di un bicchiere grande?
 > 
 > (A) $\dfrac{3}{5}$ \quad (B) $\dfrac{5}{7}$ \quad (C) $\dfrac{7}{10}$ \quad (D) $\dfrac{5}{9}$ \quad (E) $\dfrac{3}{7}$
-
-[[Quesiti/src_obm_2007_n1_f1#q14|src_obm_2007_n1_f1__Q14]]
 
 
 
@@ -530,8 +507,6 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 
 ![[src_obm_2007_n1_f1__q15.png]]
 
-[[Quesiti/src_obm_2007_n1_f1#q15|src_obm_2007_n1_f1__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,method_conteggio,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
@@ -567,8 +542,6 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 
 ![[src_obm_2007_n1_f1__q16.png]]
 
-[[Quesiti/src_obm_2007_n1_f1#q16|src_obm_2007_n1_f1__Q16]]
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_combinatoria,topic_logica,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -600,8 +573,6 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > 
 > (A) 7 \quad (B) 8 \quad (C) 9 \quad (D) 10 \quad (E) 11
 
-[[Quesiti/src_obm_2007_n1_f1#q17|src_obm_2007_n1_f1__Q17]]
-
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,topic_algebra,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -631,8 +602,6 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > Inacio pensava che ci sarebbero voluti $12$ minuti per finire un viaggio, guidando a $80$ km/h su una determinata autostrada. Con una sorpresa, ha perso $15$ minuti. A che velocità costante dovrebbe guidare su quella autostrada affinché il viaggio sia ancora completato entro il tempo previsto?
 > 
 > (A) $90\text{ km/h}$ \quad (B) $95\text{ km/h}$ \quad (C) $100\text{ km/h}$ \quad (D) $110\text{ km/h}$ \quad (E) $120\text{ km/h}$
-
-[[Quesiti/src_obm_2007_n1_f1#q18|src_obm_2007_n1_f1__Q18]]
 
 
 
@@ -669,8 +638,6 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 
 ![[src_obm_2007_n1_f1__q19.png]]
 
-[[Quesiti/src_obm_2007_n1_f1#q19|src_obm_2007_n1_f1__Q19]]
-
 
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_aritmetica,method_congruenze,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
@@ -701,5 +668,3 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > Quando si esegue la somma $13^1 + 13^2 + 13^3 + \cdots + 13^{2006} + 13^{2007}$ si ottiene un numero intero. Qual è la cifra di unità di questo numero?
 > 
 > (A) 1 \quad (B) 3 \quad (C) 5 \quad (D) 7 \quad (E) 9
-
-[[Quesiti/src_obm_2007_n1_f1#q20|src_obm_2007_n1_f1__Q20]]

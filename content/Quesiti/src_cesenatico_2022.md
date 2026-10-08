@@ -37,8 +37,7 @@ level: nazionale
 
 > Determine for which positive integers n there exists a positive integer A such that • A is multiple to 2022, • The decimal expression of A contains only digits 0 and 7, • The decimal expression of A contains exactly n times the number 7.
 
-**Answer:** multipli di 3
-[[Quesiti/src_cesenatico_2022#q01|src_cesenatico_2022__Q01]]
+**Answer:** multiples of 3
 
 
 
@@ -74,8 +73,6 @@ level: nazionale
 
 > Let's say ABC is an acute triangle with AB < AC. They are • D the foot of the angle's edge in A, • And the point of the segment BC (different from B) such that AB = AE, • F the point of the segment BC (different from B) such that BD = DF, • G the point of the segment AC such that AB = AG. Demonstrate that the circumference circumscribed to the EFG triangle is tangent to the straight AC.
 
-[[Quesiti/src_cesenatico_2022#q02|src_cesenatico_2022__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_estremalita,skill_manipolazione_algebrica"></span>
@@ -106,8 +103,7 @@ Who takes the biggest slice
 
 > In a mathematical competition, n = 10 000 competitors participate. At the closing party, in succession, the first takes 1/n of the cake, the second takes 2/n of the remaining cake, the third takes 3/n of the cake that remains after the first and second have been served, and so on until the last, who takes all the remaining cake. Determine which competitor gets the biggest piece of cake.
 
-**Answer:** il 100-esimo
-[[Quesiti/src_cesenatico_2022#q03|src_cesenatico_2022__Q03]]
+**Answer:** the 100th
 
 
 
@@ -196,7 +192,6 @@ Who takes the biggest slice
 > Barbara doesn't know the numbers Alberto chose, but she knows how they were arranged in the table. Fitted an integer k, with 1 ≤k ≤2022, Barbara wants to determine the value of ak, while she is not interested in determining the values of the other a with the =k. To do this, Barbara can ask Albert one or more questions, each of which asks Albert how much the sum of the numbers contained in the boxes of a percorso is worth, where the term percorso means an ordered list of boxes with the following characteristics: • the path begins with the box above left and ends with the box below right, • the boxes of the path are all distinct, • two consecutive boxes of the path always have a side in common. Determine, when k varies, the minimum number of requests needed by Barbara to determine ak.
 
 **Answer:** 2
-[[Quesiti/src_cesenatico_2022#q04|src_cesenatico_2022__Q04]]
 
 
 
@@ -238,8 +233,7 @@ Who takes the biggest slice
 
 > The Mag-o-matic robot handles 101 glasses, arranged in a row whose positions are numbered from 1 to 101. There may or may not be a ball in each glass. The Mag-o-matic robot only accepts basic instructions of the form (a; b, c), which interprets how considers the glass in position a: if it contains a ball, then it exchanges between them the glasses in positions b and c (with the relevant content), otherwise it moves on to the subsequent instruction (it is understood that a, b, c are integers between 1 and 101, with b and c different between them, but not necessarily different from a). A program is a finite sequence of elementary instructions, assigned initially, that Mag-o-matic executes one after the other. A subset S ⊆{0, 1, 2, . . . , 101} is said to be identifiable if there is a program which, from any initial configuration, produces a final configuration in which the glass in position 1 contains a ball if and only if the number of glasses containing a ball is an element of S. (a) Demonstrate that the subset of {0, 1, . . . , 101} consisting of odd numbers can be identified. (b) Determine all subsets of {0, 1, . . . Identifiable.
 
-**Answer:** S identificabile iff 0 non in S e 101 in S
-[[Quesiti/src_cesenatico_2022#q05|src_cesenatico_2022__Q05]]
+**Answer:** S identifiable iff 0 not in S and 101 in S
 
 
 
@@ -279,5 +273,4 @@ Who takes the biggest slice
 
 > Let ABC be a non-equilateral triangle, and let R be the radius of its circumscribed circumference. The circumference inscribed in ABC is centered in I, and is tangent to the CA side at point D, and to the CB side at point E. So either A1 is the point of the line EI such that A1I = R, with I standing between A1 and E. Both B1 and B1I = R, with I standing between B1 and D. Both the AA1 and BB1 intersection. (a) Demonstrate that P belongs to the circumscribed circumference of the triangle ABC. (b) Now let's also assume that AB = 1 and P is C. Determine the possible values of the perimeter of ABC.
 
-**Answer:** perimetro tra 2 e 3
-[[Quesiti/src_cesenatico_2022#q06|src_cesenatico_2022__Q06]]
+**Answer:** perimeter between 2 and 3

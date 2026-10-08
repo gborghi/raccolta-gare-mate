@@ -39,7 +39,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 ![[src_bocconi_semifinale_2011__q01.png]]
 
 **Answer:** $\begin{array}{|c|c|c|c|}\hline 2&0&1&1\\\hline 0&1&1&2\\\hline 1&1&2&0\\\hline 1&2&0&1\\\hline\end{array}$
-[[Quesiti/src_bocconi_semifinale_2011#q01|src_bocconi_semifinale_2011__Q01]]
 
 
 
@@ -71,8 +70,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 ![[src_bocconi_semifinale_2011__q02.png]]
 
-**Answer:** $\begin{array}{|c|c|}\hline 3&5\\\hline 1&8\\\hline\end{array}$ con base $7\;4\;6\;2$ (3,5 / 1,8 / 7,4,6,2)
-[[Quesiti/src_bocconi_semifinale_2011#q02|src_bocconi_semifinale_2011__Q02]]
+**Answer:** $\begin{array}{|c|c|}\hline 3&5\\\hline 1&8\\\hline\end{array}$ with base $7\;4\;6\;2$ (3,5 / 1,8 / 7,4,6,2)
 
 
 
@@ -104,8 +102,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 ![[src_bocconi_semifinale_2011__q03.png]]
 
-**Answer:** 8 mosse
-[[Quesiti/src_bocconi_semifinale_2011#q03|src_bocconi_semifinale_2011__Q03]]
+**Answer:** 8 moves
 
 
 
@@ -133,8 +130,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Fill the five boxes with five different digits. None can be equal to 0 or 5. Their sum must be equal to 20. Finally, they must be ordered (left to right) from the smallest to the largest.
 
-**Answer:** Due soluzioni: 12368 e 12467
-[[Quesiti/src_bocconi_semifinale_2011#q04|src_bocconi_semifinale_2011__Q04]]
+**Answer:** Two solutions: 12368 and 12467
 
 
 
@@ -167,7 +163,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 ![[src_bocconi_semifinale_2011__q05.png]]
 
 **Answer:** $(13 - 4) \times 2$
-[[Quesiti/src_bocconi_semifinale_2011#q05|src_bocconi_semifinale_2011__Q05]]
 
 
 
@@ -195,8 +190,7 @@ How many numbers of the Debora sequence do we need to get to 2011.
 
 > Deborah writes the number 1, adds 70 and gets 71. Then (reversing his numbers) he writes 17, he adds 70 and he finds 87. It divides, reversing the figures of the last result obtained: it writes 78, adds 70 and finds 148. Doing so and continuing, he writes (including the initial one) the numbers 1.71,87,148,911,.... How many numbers of this sequence are needed to get to 2011?
 
-**Answer:** 22 numeri
-[[Quesiti/src_bocconi_semifinale_2011#q06|src_bocconi_semifinale_2011__Q06]]
+**Answer:** 22 numbers
 
 
 
@@ -224,8 +218,7 @@ How many numbers of the Debora sequence do we need to get to 2011.
 
 > There are three individuals living in our condo. The first one is a greedy guy and every night he lights up his room for only an hour, from 8:00 to 9:00. The second suffers instead of insomnia and keeps the room light on from 11 p.m. to 5 a.m. for six hours. The third is a curious type: he keeps his room lit when the lights of at least one of the two condominiums are on or when one of these lights has been off for no more than an hour. How many hours a day (of 24 hours) do the lights in the three rooms all go out?
 
-**Answer:** 15 ore
-[[Quesiti/src_bocconi_semifinale_2011#q07|src_bocconi_semifinale_2011__Q07]]
+**Answer:** 15 hours
 
 
 
@@ -253,8 +246,7 @@ Find the digits of the two tokens chosen by Carla.
 
 > Carla and Milena take, each, two tokens from the nine that are on the table and that are identified by the digits 1,2,3,4,5,6,7,8,9. Of the four tokens chosen, the one with the biggest number is Carla's. Then a very strange fact happens: the product of the digits of the two tokens of Milena is equal to the sum of those of the tokens of Carla and the product of the latter is equal to the sum of the digits of the tokens of Milena. What are the numbers on the tokens Carla chose?
 
-**Answer:** 1 e 5 (o viceversa)
-[[Quesiti/src_bocconi_semifinale_2011#q08|src_bocconi_semifinale_2011__Q08]]
+**Answer:** 1 and 5 (or vice versa)
 
 
 
@@ -282,8 +274,7 @@ Find the digits of the two tokens chosen by Carla.
 
 > In our (convex) polygon, the number of diagonals is 13 times that of the sides. How many sides does our polygon have?
 
-**Answer:** 29 lati
-[[Quesiti/src_bocconi_semifinale_2011#q09|src_bocconi_semifinale_2011__Q09]]
+**Answer:** 29 sides
 
 
 
@@ -310,8 +301,7 @@ Find the digits of the two tokens chosen by Carla.
 
 > Desiderio, Nadia's father, is 58. Jacob (Nadia's brother) is 27 years old, while her mother, Fausta, is 22 years older than her daughter. When Desiderio is twice Jacob's age, Fausta and Nadia will be 100 years old. How old is Nadia today?
 
-**Answer:** 35 anni
-[[Quesiti/src_bocconi_semifinale_2011#q10|src_bocconi_semifinale_2011__Q10]]
+**Answer:** 35 years
 
 
 
@@ -339,8 +329,7 @@ Find the digits of the two tokens chosen by Carla.
 
 > Strike five grid boxes in the figure so that, with the remaining boxes, the sum of the numbers of each row and each column is always the same. The $5\times 5$ grid contains: line 1: $25,16,23,5,10$; line 2: $21,12,14,7,2$; line 3: $6,11,1,20,17$; line 4: $8,15,13,24,18$; line 5: $19,3,4,22,9$.
 
-**Answer:** Annerire le caselle: (riga1,col1)=25, (riga2,col5)=2, (riga3,col2)=11, (riga4,col3)=13, (riga5,col2)=3
-[[Quesiti/src_bocconi_semifinale_2011#q11|src_bocconi_semifinale_2011__Q11]]
+**Answer:** Shade the cells: (row1,col1)=25, (row2,col5)=2, (row3,col2)=11, (row4,col3)=13, (row5,col2)=3
 
 
 
@@ -368,8 +357,7 @@ Find the digits of the two tokens chosen by Carla.
 
 > It's called a palindrome, a number that reads the same way from left to right and right to left. For example, 252 is a palindrome number. Marco is all happy because he found some three-digit palindromes that are also the square of an integer. What are the numbers Marco found?
 
-**Answer:** Tre soluzioni: 121 – 484 – 676
-[[Quesiti/src_bocconi_semifinale_2011#q12|src_bocconi_semifinale_2011__Q12]]
+**Answer:** Three solutions: 121 – 484 – 676
 
 
 
@@ -398,7 +386,6 @@ Find the digits of the two tokens chosen by Carla.
 > Amerigo developed the lateral surface of a cube by leaning it on the plane, within a square of 120 cm by side (the development of the lateral surface of the cube is "a single piece" consisting of 6 squares). What is the maximum size of the side of Amerigo's cube? (Replace $1{,}414$ with $\sqrt{2}$ and round the result to the nearest cm).
 
 **Answer:** 34 cm
-[[Quesiti/src_bocconi_semifinale_2011#q13|src_bocconi_semifinale_2011__Q13]]
 
 
 
@@ -426,8 +413,7 @@ Find the digits of the two tokens chosen by Carla.
 
 > To get from the town of Mathville to that of Geocity, which is 40 miles away, Angelo and Pietro have a bicycle at their disposal. One, though, that they can't ride in two. Angelo walks at a speed of 4 km/h and cycles at 30 km/h. Peter's, on the other hand, walks 6 km/h and cycles 20 km/h. If they leave together at 8:00 a.m. from Mathville, what time will they arrive together at Geocity as soon as possible?
 
-**Answer:** ore 12 e 48 minuti
-[[Quesiti/src_bocconi_semifinale_2011#q14|src_bocconi_semifinale_2011__Q14]]
+**Answer:** 12:48
 
 
 
@@ -455,8 +441,7 @@ Find the digits of the two tokens chosen by Carla.
 
 > Luke considers two positive integers. Then he adds them up, multiplies them, makes the difference (the greater minus the lesser) and then he calculates their power, raising the first to the exponent represented by the second. Finally, Luke adds up the four results and finds 88. What were the two numbers originally considered by Luke?
 
-**Answer:** Tre soluzioni: $(2,6) - (22,1) - (1,29)$
-[[Quesiti/src_bocconi_semifinale_2011#q15|src_bocconi_semifinale_2011__Q15]]
+**Answer:** Three solutions: $(2,6) - (22,1) - (1,29)$
 
 
 
@@ -485,7 +470,6 @@ Find the digits of the two tokens chosen by Carla.
 > The witch Liliana has been given the gift of new crystal balls to practice reading the future with. The balls received as a gift are four and equal to each other. They lie on the bottom of a cylinder-shaped box, which has a base diameter of 20 cm, and their centers form a square. They are tangent to each other (two to two), tangent to the side surface of the box and tangent to the cover of the box when the box is closed. The box also contains a smaller fifth sphere, leaning (above) the previous four and tangent to the cover of the box when it is closed. What is the diameter of the smallest of the five spheres of the Liliana witch? (give the answer in cm, replacing $1{,}414$ with $\sqrt{2}$ and rounding the second decimal digit of the result to the nearest cent).
 
 **Answer:** cm 4,14
-[[Quesiti/src_bocconi_semifinale_2011#q16|src_bocconi_semifinale_2011__Q16]]
 
 
 
@@ -514,7 +498,6 @@ Minimize the diameter of the round table so that the three noses do not touch ea
 > She's the one who's been upsetting the Pinocchi family. The nose of Pinocchio's father measures 40 cm; that of his wife, Pinocchio, 30 cm while that of their son Pinocchio measures 20 cm. The problem is that the head of the family wants to install a circular table large enough in the dining room so that all three members of the family can sit around and turn their heads freely without fear of touching their noses. For this to happen, the diameter of the table must be greater than a certain value. What is the minimum of this value? The 'attachment' of each nose is assumed to be on the vertical passing through the edge of the table and to be at the same height as the others (given the answer in cm, replacing $1{,}732$ with $\sqrt{3}$ and $1{,}414$ with $\sqrt{2}$ and then rounding the result to the nearest cm).
 
 **Answer:** cm 71
-[[Quesiti/src_bocconi_semifinale_2011#q17|src_bocconi_semifinale_2011__Q17]]
 
 
 
@@ -542,5 +525,4 @@ Minimize the diameter of the round table so that the three noses do not touch ea
 
 > It consists of an unlimited strip of numbered boxes: 0,1,2,3 ... . There is also an unlimited number of tokens and, in turn, each box can contain an unlimited number of tokens. At the beginning of the game, however, there is only one token placed in the box with the number 1. Two types of moves are possible: you 'double' a token (not in the box with the number 0) by replacing it with two tokens placed in the adjacent boxes (one to its left, one to its right); you remove a token, 'group' two and replace them with a token placed in the only box between the two. You win when you can get a single token, and that's in the box with the number 2011. How many moves, at least, can you win? (you answer 0 if you think the question is impossible).
 
-**Answer:** 5362 mosse
-[[Quesiti/src_bocconi_semifinale_2011#q18|src_bocconi_semifinale_2011__Q18]]
+**Answer:** 5362 moves

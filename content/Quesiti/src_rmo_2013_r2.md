@@ -34,8 +34,6 @@ level: RMO
 
 > Provare che non esistono numeri naturali $x$ e $y$, con $x > 1$, in modo tale che $$\frac{x^5 - 1}{x - 1} = y^2 + 1.$$
 
-[[Quesiti/src_rmo_2013_r2#q01|src_rmo_2013_r2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -60,8 +58,6 @@ level: RMO
 *Triangolo con altitudine, circoncentro e collinearietà tangente*
 
 > In un triangolo $ABC$, $AD$ è l'altitudine da $A$ a $BC$ e $H$ è l'ortocentro. Il $K$ deve essere il centro del cerchio che attraversa $D$ e tangente a $BH$ al punto $H$. Provare che $DK$ bisecta $AC$.
-
-[[Quesiti/src_rmo_2013_r2#q02|src_rmo_2013_r2__Q02]]
 
 
 
@@ -90,8 +86,6 @@ level: RMO
 
 > Considerare l'espressione $$2013^2 + 2014^2 + 2015^2 + \cdots + n^2.$$ Prove che esiste un numero naturale $n > 2013$ per il quale si può cambiare un numero appropriato di segni più a segni meno nell'espressione di cui sopra per rendere l'espressione risultante uguale a $9999$.
 
-[[Quesiti/src_rmo_2013_r2#q03|src_rmo_2013_r2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -116,8 +110,6 @@ level: RMO
 *Triangolo di kit con angolo di 90 gradi, proprietà del bisettore angolare*
 
 > Il $ABC$ deve essere un triangolo con $\angle A = 90^\circ$ e $AB = AC$. Il punto $D$ e il punto $E$ devono essere punti del segmento $BC$ in modo tale che $BD : DE : EC = 1 : 2 : \sqrt{3}$. Dimostra che $\angle DAE = 45^\circ$.
-
-[[Quesiti/src_rmo_2013_r2#q04|src_rmo_2013_r2__Q04]]
 
 
 
@@ -145,8 +137,6 @@ level: RMO
 
 > Che $n \ge 3$ sia un numero naturale e che $P$ sia un poligono con lati $n$. Il $a_1, a_2, \ldots, a_n$ è la lunghezza dei lati di $P$ e il $p$ è il suo perimetro. Provare che $$\frac{a_1}{p - a_1} + \frac{a_2}{p - a_2} + \cdots + \frac{a_n}{p - a_n} < 2.$$
 
-[[Quesiti/src_rmo_2013_r2#q05|src_rmo_2013_r2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_bigezione,method_doppio_conteggio,skill_astrazione,skill_modellizzazione,skill_conteggio_sistematico"></span>
@@ -171,5 +161,3 @@ level: RMO
 *Posizioni di bilanci ponderate contando le disuguaglianze T(100)>T(99)*
 
 > $n \ge 3$ sia un numero naturale, $T(n)$ indichi il numero di modi in cui possiamo posizionare $n$ oggetti di pesi $1, 2, \ldots, n$ su un equilibrio in modo tale che la somma dei pesi in ogni pannello sia uguale. Prove che $T(100) > T(99)$.
-
-[[Quesiti/src_rmo_2013_r2#q06|src_rmo_2013_r2__Q06]]

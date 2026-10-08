@@ -33,8 +33,6 @@ level: BMO Round 2
 
 > Le diagonali $AC$ e $BD$ di un quadrilaterale ciclico si incontrano a $E$. I punti intermedi dei lati $AB$, $BC$, $CD$ e $DA$ sono rispettivamente $P$, $Q$, $R$ e $S$. Provare che le circondazioni dei triangoli $EPQ$, $EQR$, $ERS$ e $ESP$ sono tutte uguali.
 
-[[Quesiti/src_bmo_2011-12_round2#q01|src_bmo_2011-12_round2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -66,8 +64,6 @@ level: BMO Round 2
 > 
 > [Questi sono esempi di utilizzo di $\lfloor x \rfloor$: $\lfloor 3.729 \rfloor = 3$; $\lfloor 1729 \rfloor = 1729$]
 
-[[Quesiti/src_bmo_2011-12_round2#q02|src_bmo_2011-12_round2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_estremalita,method_cassetti,skill_astrazione,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
@@ -93,8 +89,6 @@ level: BMO Round 2
 
 > L'insieme dei numeri reali è diviso in due sottinsiemi non vuoti. Prova che per ogni coppia $(m, n)$ di integri positivi, ci sono $x < y$ nello stesso sottoinsieme in modo tale che $m(y - x) < n$.
 
-[[Quesiti/src_bmo_2011-12_round2#q03|src_bmo_2011-12_round2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -119,5 +113,3 @@ level: BMO Round 2
 *Interi a,b,c,d: condizione di divisibilità per ogni n positivo*
 
 > Mostrare che se $a$, $b$, $c$, $d$ sono interi e $a$ è un divisore di $b^n + c^n + d^n - b - c - d$ per tutti gli interi positivi $n$, allora $a$ divide $b + c + d$.
-
-[[Quesiti/src_bmo_2011-12_round2#q04|src_bmo_2011-12_round2__Q04]]

@@ -33,8 +33,6 @@ level: BMO Round 1
 
 > Due cerchi incrociati $C_1$ e $C_2$ hanno una tangente comune che tocca $C_1$ a $P$ e $C_2$ a $Q$. I due cerchi si incrociano a $M$ e $N$, dove $N$ è più vicino a $PQ$ rispetto a $M$. La linea $PN$ incontra nuovamente il cerchio $C_2$ a $R$. Provare che $MQ$ divide l'angolo $PMR$.
 
-[[Quesiti/src_bmo_1999-00_round1#q01|src_bmo_1999-00_round1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -61,8 +59,6 @@ level: BMO Round 1
 *Prove che una certa espressione in n è divisibile per 2000*
 
 > Mostra che per ogni intero positivo $n$, $$121^n - 25^n + 1900^n - (-4)^n$$ è divisibile per 2000.
-
-[[Quesiti/src_bmo_1999-00_round1#q02|src_bmo_1999-00_round1__Q02]]
 
 
 
@@ -91,8 +87,6 @@ level: BMO Round 1
 
 > Il triangolo $ABC$ ha angoli $60^\circ$, $75^\circ$, $45^\circ$ rispettivamente a $A$, $B$ e $C$. Un punto $P$ sul perimetro del triangolo è tale da ridurre al minimo $$AP + BP + CP$$. Trova la posizione di $P$.
 
-[[Quesiti/src_bmo_1999-00_round1#q03|src_bmo_1999-00_round1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_ricorsione,method_backward,method_casework,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -119,8 +113,6 @@ level: BMO Round 1
 *Sequenza simile a Collatz; trovare tutti i k per i quali appare 2000*
 
 > Per ogni numero intero positivo $n$ definire $a_n$ come segue: $a_1 = k$, e per $n \geq 1$ $$a_{n+1} = \begin{cases} \dfrac{a_n}{2} & \text{if } a_n \text{ is even,} \\ 3a_n + 1 & \text{if } a_n \text{ is odd.} \end{cases}$$ determinare tutti i valori di $k$ per i quali 2000 è un termine della sequenza $(a_n)_{n \geq 1}$.
-
-[[Quesiti/src_bmo_1999-00_round1#q04|src_bmo_1999-00_round1__Q04]]
 
 
 
@@ -150,5 +142,3 @@ level: BMO Round 1
 > Le sette nane decidono di formare quattro squadre per competere nel Millennium Quiz. Naturalmente, le dimensioni delle squadre non saranno uguali. Ad esempio, una squadra di Dopey da sola, una di Sleepy, Happy e Grumpy, e una di Bashful e Sneezy, e una di Doc (l'ordine delle squadre non importa, ma ogni nano deve essere esattamente in una squadra).
 > 
 > Supponiamo che anche Biancaneve abbia accettato di partecipare. In quanti modi potevano allora essere formate le quattro squadre?
-
-[[Quesiti/src_bmo_1999-00_round1#q05|src_bmo_1999-00_round1__Q05]]

@@ -40,7 +40,6 @@ level: kangourou
 > On an island there are exactly 190 mice and 20 cats. After each cat has eaten five mice, how many live animals, mice and cats, remain on the island? A) 90 B) 100 C) 110 D) 95 E) 85
 
 **Answer:** C
-[[Quesiti/src_kangourou_2018_ecolier_semif#q01|src_kangourou_2018_ecolier_semif__Q01]]
 
 
 
@@ -86,7 +85,6 @@ level: kangourou
 > E) 11
 
 **Answer:** A
-[[Quesiti/src_kangourou_2018_ecolier_semif#q02|src_kangourou_2018_ecolier_semif__Q02]]
 
 
 
@@ -140,7 +138,6 @@ level: kangourou
 > E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2018_ecolier_semif#q03|src_kangourou_2018_ecolier_semif__Q03]]
 
 
 
@@ -187,7 +184,6 @@ level: kangourou
 > D) 18 E) 24
 
 **Answer:** E
-[[Quesiti/src_kangourou_2018_ecolier_semif#q04|src_kangourou_2018_ecolier_semif__Q04]]
 
 
 
@@ -235,7 +231,6 @@ Price of the gift item given total expenditure of EUR 25
 > E) 6
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_ecolier_semif#q05|src_kangourou_2018_ecolier_semif__Q05]]
 
 
 
@@ -280,7 +275,6 @@ Price of the gift item given total expenditure of EUR 25
 > E) RRRTSS
 
 **Answer:** D
-[[Quesiti/src_kangourou_2018_ecolier_semif#q06|src_kangourou_2018_ecolier_semif__Q06]]
 
 
 
@@ -333,7 +327,6 @@ Price of the gift item given total expenditure of EUR 25
 > (Points 5) In each cell of Table 4 × 4 in Figure 1 or 3 shall be inserted so that in each Table 2 × 2 contained in Table 4 × 4 there are three and no more than three equal numbers. What is the maximum value of the sum of all 16 numbers once entered? A) 42               B) 40            C) 36            D) 33              E) 30
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_ecolier_semif#q07|src_kangourou_2018_ecolier_semif__Q07]]
 
 
 
@@ -380,7 +373,6 @@ Price of the gift item given total expenditure of EUR 25
 > A) 21          B) 23          C) 32           D) 35           E) 37
 
 **Answer:** C
-[[Quesiti/src_kangourou_2018_ecolier_semif#q08|src_kangourou_2018_ecolier_semif__Q08]]
 
 
 
@@ -439,7 +431,6 @@ Price of the gift item given total expenditure of EUR 25
 > (e) Open-ended questions
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_ecolier_semif#q09|src_kangourou_2018_ecolier_semif__Q09]]
 
 
 
@@ -479,7 +470,6 @@ Maximum number of polygons with 41 matches
 > The figure shows how, with all matches equal to each other, triangles, squares and pentagons can be constructed. You have 41 matches, all equal to one another. By using them all you want to build as many polygons as possible, but by making sure that each match is part of a single polygon and that there is at least one triangle, square and pentagon. How many polygons can you build, at most?
 
 **Answer:** 12
-[[Quesiti/src_kangourou_2018_ecolier_semif#q10|src_kangourou_2018_ecolier_semif__Q10]]
 
 
 
@@ -510,7 +500,6 @@ Maximum number of polygons with 41 matches
 > By choosing a digit of the number 345 and a digit of the number 921 and swapping them, Sandra obtained two new numbers whose sum is greater than the sum of the original numbers. How much is the new sum?
 
 **Answer:** 1293
-[[Quesiti/src_kangourou_2018_ecolier_semif#q11|src_kangourou_2018_ecolier_semif__Q11]]
 
 
 
@@ -540,7 +529,6 @@ Maximum number of polygons with 41 matches
 > (Points 6) A swimming pool is served by 10 water pipes, 9 of the same capacity and one of double capacity. If I only opened the last one, it would take 15 hours to fill the pool. How many other pipes, besides the double-capacity one, should be opened to fill it in six hours?
 
 **Answer:** 3
-[[Quesiti/src_kangourou_2018_ecolier_semif#q12|src_kangourou_2018_ecolier_semif__Q12]]
 
 
 
@@ -572,7 +560,6 @@ Maximum number of polygons with 41 matches
 > (Points 6) In each of the spaces (denoted by three dots) of the equation ... + ... + ... = ... + ... + ... ... enter one and only one of the seven numbers 1, 3, 4, 5, 7, 11, 15, so that all but one of them are used and the operation is correct. Which number is left over?
 
 **Answer:** 4
-[[Quesiti/src_kangourou_2018_ecolier_semif#q13|src_kangourou_2018_ecolier_semif__Q13]]
 
 
 
@@ -605,7 +592,6 @@ Maximum number of polygons with 41 matches
 > simultaneously vertices of 4 of the 6,000 squares that compose it?
 
 **Answer:** 5841
-[[Quesiti/src_kangourou_2018_ecolier_semif#q14|src_kangourou_2018_ecolier_semif__Q14]]
 
 
 
@@ -652,4 +638,3 @@ Maximum number of polygons with 41 matches
 > 0090
 
 **Answer:** 90
-[[Quesiti/src_kangourou_2018_ecolier_semif#q15|src_kangourou_2018_ecolier_semif__Q15]]

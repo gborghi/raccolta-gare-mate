@@ -33,8 +33,6 @@ level: OBM Nível 3
 
 > L'equazione di secondo grado $x^2 - 5x + m = 2011$ ha almeno una soluzione di un intero. Qual è il valore intero positivo più piccolo di $m$?
 
-[[Quesiti/src_obm_2011_n3_f2#q01|src_obm_2011_n3_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: OBM Nível 3
 *Conta gli anagrammi di FELICIDADE alternati (consonante/vocale)*
 
 > Una sequenza di lettere, con o senza significato, viene chiamata $alternated$ quando è formata da consonanti e vocali alternati. Ad esempio, EZEQAF, MATEMATICA, LEGAL e ANIMADA sono parole alternate, mentre DSOIUF, OLIMPIADA e ORDINARIO non lo sono. Quanti anagrammi della parola FELICIDADE (compresa la parola FELICIDADE stessa) sono sequenze alternate?
-
-[[Quesiti/src_obm_2011_n3_f2#q02|src_obm_2011_n3_f2__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: OBM Nível 3
 
 > L'angolo interno alla vertica $A$ di un triangolo acuto $ABC$ misura $75$ gradi. L'altitudine relativa al vertice $A$ tocca il lato $BC$ al punto $D$. Le distanze da $D$ alla verticale $B$ e all'ortocentro del triangolo sono uguali a $10$ cm. Qual è l'area del triangolo $ABC$, approssimato al numero intero più vicino? Se necessario, utilizzare $\sqrt{3} \approx 1{,}732$.
 
-[[Quesiti/src_obm_2011_n3_f2#q03|src_obm_2011_n3_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_estremalita,skill_riconoscimento_pattern,skill_stima"></span>
@@ -113,8 +107,6 @@ level: OBM Nível 3
 *Gcd più piccolo possibile di due numeri distinti in {1,...,2011}*
 
 > Qual è il più grande valore possibile del più grande divisore comune di due numeri distinti appartenenti all'insieme $\{1, 2, 3, \ldots, 2011\}$?
-
-[[Quesiti/src_obm_2011_n3_f2#q04|src_obm_2011_n3_f2__Q04]]
 
 
 
@@ -146,8 +138,6 @@ level: OBM Nível 3
 
 > Che $f$ sia una funzione dai reali non-zero ai reali non-zero tale che \begin{itemize} \item $(f(x) + f(y) + f(z))^2 = (f(x))^2 + (f(y))^2 + (f(z))^2$ per tutti i reali non-zero $x, y, z$ tale che $x + y + z = 0$; \item $f(-x) = -f(x)$ per ogni reale non-zero $x$; \item $f(2011) = 1$. \end{itemize} Trova il numero intero più vicino a $f(33)$.
 
-[[Quesiti/src_obm_2011_n3_f2#q05|src_obm_2011_n3_f2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
@@ -172,8 +162,6 @@ level: OBM Nível 3
 *Triangolo ABC con angolo A=45°; cerchio sul diametro BC incontra AB, AC a D, E; distanza dal punto medio del BC alla linea DE*
 
 > Nel triangolo $ABC$, l'angolo $B\hat{A}C$ misura $45^\circ$. Il cerchio di diametro $BC$ taglia rispettivamente i lati $AB$ e $AC$ a $D$ e $E$. Dato che $DE = 10$, trovare la distanza dal punto medio $M$ di $BC$ alla linea $DE$.
-
-[[Quesiti/src_obm_2011_n3_f2#q06|src_obm_2011_n3_f2__Q06]]
 
 
 
@@ -203,8 +191,6 @@ level: OBM Nível 3
 
 > Trova tutte le soluzioni reali $(x, y, z)$ del sistema \[ \begin{cases} 2y = x + \dfrac{1}{x} \\ 2z = y + \dfrac{1}{y} \\ 2x = z + \dfrac{1}{z} \end{cases} \]
 
-[[Quesiti/src_obm_2011_n3_f2#q07|src_obm_2011_n3_f2__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_casework_accurato"></span>
@@ -230,8 +216,6 @@ level: OBM Nível 3
 
 > Che $P(x)$ sia un polinomio con coefficienti interi. È noto che $P(x) = 2011$ ha almeno due radici di numeri interi distinte uguali a $1$ e $t$, e che $P(x) = 0$ ha almeno una radice di numeri interi. Determinare tutti i possibili valori di $t$.
 
-[[Quesiti/src_obm_2011_n3_f2#q08|src_obm_2011_n3_f2__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,method_ricorsione,method_inclusione_esclusione,method_casework,skill_conteggio_sistematico,skill_astrazione"></span>
@@ -256,5 +240,3 @@ level: OBM Nível 3
 *Correcte colorazioni di un disco diviso in n settori ciclici con k colori*
 
 > Esmeralda ha un cerchio di cartone diviso in settori circolari $n$, numerati da $1$ a $n$, in ordine orario. In quanti modi Esmeralda può dipingere il cartone, dipingendo ogni settore con un unico colore, avendo $k$ colori disponibili, in modo che due settori circolari vicini (cioè settori che condividono un segmento in comune, un confine) abbiano colori diversi? Si noti che ciò implica che i settori numerati $1$ e $n$ devono avere colori diversi.
-
-[[Quesiti/src_obm_2011_n3_f2#q09|src_obm_2011_n3_f2__Q09]]

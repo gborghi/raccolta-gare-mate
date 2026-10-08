@@ -37,8 +37,6 @@ level: China Mathematical Competition (Complementary Test)
 
 ![[src_cn_cmc-complementary-test_b11_w85__q01.png]]
 
-[[Quesiti/src_cn_cmc-complementary-test_2013#q01|src_cn_cmc-complementary-test_2013__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_induzione,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
@@ -65,8 +63,6 @@ level: China Mathematical Competition (Complementary Test)
 *Sequenza definita da ricorrenza dell'indice binario; infinite somme parziali sono quadrati perfetti*
 
 > (40 marchi) Per i numeri interi positivi $u$, $v$, la sequenza $\{a_n\}$ è definita come: $a_1 = u + v$, e per $m \ge 1$, $$\begin{cases} a_{2m} = a_m + u, \\ a_{2m+1} = a_m + v. \end{cases}$$ Denoto $S_m = a_1 + a_2 + \cdots + a_m$ ($m = 1, 2, \ldots$). Prova che ci sono termini infiniti nella sequenza $\{S_n\}$ che sono numeri quadrati.
-
-[[Quesiti/src_cn_cmc-complementary-test_2013#q02|src_cn_cmc-complementary-test_2013__Q02]]
 
 
 
@@ -95,7 +91,6 @@ level: China Mathematical Competition (Complementary Test)
 > (50 punti) Supponiamo che ci siano domande $m$ in un esame frequentato da studenti $n$, in cui $m$, $n \ge 7$ ricevono numeri naturali. La regola di punteggio per ciascuna domanda è la seguente: se ci sono esattamente $x$ studenti che non rispondono correttamente alla domanda, allora ognuno di loro otterrà $0$ voti, e quelli che rispondono correttamente otterranno $x$ voti. I voti complessivi di uno studente sono la somma dei voti ottenuti dalle domande $m$. Ora classificare i voti totali degli studenti $n$ come $p_1 \ge p_2 \ge \cdots \ge p_n$. Trova il valore massimo possibile di $p_1 + p_n$.
 
 **Risposta:** $m(n-1)$
-[[Quesiti/src_cn_cmc-complementary-test_2013#q03|src_cn_cmc-complementary-test_2013__Q03]]
 
 
 
@@ -121,5 +116,3 @@ level: China Mathematical Competition (Complementary Test)
 *2t integri non divisibili da s; ogni partizione di 2 ha un gruppo con somma di sottoinsieme divisibile da s*
 
 > (50 marchi) $s$, $t$ sono numeri interi superiori a $1$ e soddisfano $s < 2^t$. Prova che ci sono $2t$ enti non divisibili da $s$, in modo tale che se li dividiamo in due gruppi, allora deve esistere un gruppo in cui la somma di alcuni enti può essere divisa da $s$.
-
-[[Quesiti/src_cn_cmc-complementary-test_2013#q04|src_cn_cmc-complementary-test_2013__Q04]]

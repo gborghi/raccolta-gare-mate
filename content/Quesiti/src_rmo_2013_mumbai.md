@@ -32,8 +32,6 @@ level: RMO
 
 > Let $ABC$ essere un triangolo di uguali dimensioni con $AB = AC$ e let $\Gamma$ denotare il suo circoncircolo. Un punto $D$ è sull'arco $AB$ di $\Gamma$ che non contiene $C$ e un punto $E$ è sull'arco $AC$ di $\Gamma$ che non contiene $B$ in modo tale che $AD = CE$. Provare che $BE$ è parallelo a $AD$.
 
-[[Quesiti/src_rmo_2013_mumbai#q01|src_rmo_2013_mumbai__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato"></span>
@@ -58,8 +56,6 @@ level: RMO
 *Ricerca tutti i tripli primi (p,q,r) con pq=r+1 e 2p^2+q^2=r^2+1*
 
 > Trova tutti i triples $(p, q, r)$ di numeri primi come $pq = r + 1$ e $2p^2 + q^2 = r^2 + 1$.
-
-[[Quesiti/src_rmo_2013_mumbai#q02|src_rmo_2013_mumbai__Q02]]
 
 
 
@@ -86,8 +82,6 @@ level: RMO
 
 > Un insieme finito non vuoto $S$ di numeri interi è chiamato $3$-buono se la somma degli elementi di $S$ è divisibile da $3$. Trova il numero di $3$-buoni sottoinsiemi non vuoti di $\{0, 1, 2, \ldots, 9\}$.
 
-[[Quesiti/src_rmo_2013_mumbai#q03|src_rmo_2013_mumbai__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -112,8 +106,6 @@ level: RMO
 *Triangolo con D,E su BC,AC; P su ED; rapporto BS/SD*
 
 > In un triangolo $ABC$, i punti $D$ e $E$ si trovano sui segmenti $BC$ e $AC$ in modo tale che $BD = 3DC$ e $AE = 4EC$. Il punto $P$ è in linea $ED$ in modo tale che $D$ sia il punto medio del segmento $EP$. Le linee $AP$ e $BC$ si incrociano al punto $S$. Trova il rapporto $BS/SD$.
-
-[[Quesiti/src_rmo_2013_mumbai#q04|src_rmo_2013_mumbai__Q04]]
 
 
 
@@ -144,8 +136,6 @@ level: RMO
 
 > $a_1, b_1, c_1$ siano numeri naturali. Definire $$a_2 = \gcd(b_1, c_1), \quad b_2 = \gcd(c_1, a_1), \quad c_2 = \gcd(a_1, b_1),$$ e $$a_3 = \operatorname{lcm}(b_2, c_2), \quad b_3 = \operatorname{lcm}(c_2, a_2), \quad c_3 = \operatorname{lcm}(a_2, b_2).$$ Mostra che $\gcd(b_3, c_3) = a_2$.
 
-[[Quesiti/src_rmo_2013_mumbai#q05|src_rmo_2013_mumbai__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -170,5 +160,3 @@ level: RMO
 *Ricerca il divisore comune di P(2013!+1) e Q(2013!+1) per i polinomi dati*
 
 > $a, b$ siano numeri reali e $P(x) = x^3 + ax^2 + b$ e $Q(x) = x^3 + bx + a$. Supponiamo che le radici dell'equazione $P(x) = 0$ siano le reciprocità delle radici dell'equazione $Q(x) = 0$. Trova il divisore comune di $P(2013! + 1)$ e $Q(2013! + 1)$.
-
-[[Quesiti/src_rmo_2013_mumbai#q06|src_rmo_2013_mumbai__Q06]]

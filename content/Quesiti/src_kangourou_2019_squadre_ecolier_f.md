@@ -36,7 +36,6 @@ level: squadre
 > How many positive integers are such that the product of their digits is 33?
 
 **Answer:** 0000
-[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q01|src_kangourou_2019_squadre_ecolier_f__Q01]]
 
 
 
@@ -71,7 +70,6 @@ level: squadre
 > two colorings are equal if one can be obtained from the other by rotating the cube?
 
 **Answer:** 0008
-[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q02|src_kangourou_2019_squadre_ecolier_f__Q02]]
 
 
 
@@ -105,7 +103,6 @@ level: squadre
 > Measuring the road in jumps, how many jumps is the kangaroo away from the starting point after 2019 jumps?
 
 **Answer:** 1011
-[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q03|src_kangourou_2019_squadre_ecolier_f__Q03]]
 
 
 
@@ -140,7 +137,6 @@ level: squadre
 > the outcome of six consecutive tosses turn out to be winning?
 
 **Answer:** 0012
-[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q04|src_kangourou_2019_squadre_ecolier_f__Q04]]
 
 
 
@@ -186,7 +182,6 @@ level: squadre
 > What number must she have thought of in order to make the bracelet that you see below?
 
 **Answer:** 0150
-[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q05|src_kangourou_2019_squadre_ecolier_f__Q05]]
 
 
 
@@ -221,7 +216,6 @@ level: squadre
 > centimetres. What number is ABC?
 
 **Answer:** 0164
-[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q06|src_kangourou_2019_squadre_ecolier_f__Q06]]
 
 
 
@@ -254,7 +248,6 @@ level: squadre
 > whose last six digits are all equal to each other?
 
 **Answer:** 1235
-[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q07|src_kangourou_2019_squadre_ecolier_f__Q07]]
 
 
 
@@ -286,7 +279,6 @@ level: squadre
 > the sides of all the stickers gives 2019. How many square stickers are there?
 
 **Answer:** 0060
-[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q08|src_kangourou_2019_squadre_ecolier_f__Q08]]
 
 
 
@@ -322,7 +314,6 @@ level: squadre
 > its perimeter long?
 
 **Answer:** 0080
-[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q09|src_kangourou_2019_squadre_ecolier_f__Q09]]
 
 
 
@@ -357,7 +348,6 @@ level: squadre
 > for example, 1330 was a wonderful year. How many wonderful years are there in the 21st century?
 
 **Answer:** 0006
-[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q10|src_kangourou_2019_squadre_ecolier_f__Q10]]
 
 
 
@@ -390,7 +380,6 @@ level: squadre
 > by each of its four digits.
 
 **Answer:** 9864
-[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q11|src_kangourou_2019_squadre_ecolier_f__Q11]]
 
 
 
@@ -425,7 +414,6 @@ level: squadre
 > sum of the numbers written at the midpoints?
 
 **Answer:** 0009
-[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q12|src_kangourou_2019_squadre_ecolier_f__Q12]]
 
 
 
@@ -463,7 +451,6 @@ level: squadre
 > How many of these roars were not responses to other roars?
 
 **Answer:** 0058
-[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q13|src_kangourou_2019_squadre_ecolier_f__Q13]]
 
 
 
@@ -502,7 +489,6 @@ level: squadre
 > smallest cube that also boxes this new cube: how many small cubes do I have to add?
 
 **Answer:** 0098
-[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q14|src_kangourou_2019_squadre_ecolier_f__Q14]]
 
 
 
@@ -538,4 +524,3 @@ level: squadre
 > are opened simultaneously, in how many hours is the tank filled?
 
 **Answer:** 0006
-[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q15|src_kangourou_2019_squadre_ecolier_f__Q15]]

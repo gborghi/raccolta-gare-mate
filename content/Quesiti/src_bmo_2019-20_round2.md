@@ -35,8 +35,6 @@ level: BMO Round 2
 
 > Una sequenza $a_1, a_2, a_3, \ldots$ ha $a_1 > 2$ e soddisfa $$a_{n+1} = \frac{a_n(a_n - 1)}{a_n + 1}$$ per tutti gli integri positivi $n$. Per quali valori di $a_1$ tutti i termini della sequenza sono numeri interi pari?
 
-[[Quesiti/src_bmo_2019-20_round2#q01|src_bmo_2019-20_round2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta"></span>
@@ -65,8 +63,6 @@ level: BMO Round 2
 > Descrivere tutte le collezioni $S$ di almeno quattro punti del piano in modo tale che non ci siano tre punti collineari e in modo tale che ogni triangolo formato da tre punti di $S$ abbia lo stesso raggio di circonda.
 > 
 > (Il circonradio di un triangolo è il raggio del cerchio che attraversa tutti e tre i suoi vertici.)
-
-[[Quesiti/src_bmo_2019-20_round2#q02|src_bmo_2019-20_round2__Q02]]
 
 
 
@@ -97,8 +93,6 @@ level: BMO Round 2
 > 
 > (Due colorazioni sono diverse se in una di esse c'è almeno una cellula di colore nero.)
 
-[[Quesiti/src_bmo_2019-20_round2#q03|src_bmo_2019-20_round2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_induzione,method_estremalita,method_ricorsione,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
@@ -125,5 +119,3 @@ level: BMO Round 2
 *Ricorrenza della sequenza: risultati di limitazione e di non limitazione*
 
 > Una sequenza $b_1, b_2, b_3, \ldots$ di numeri reali non zero ha la proprietà che $$b_{n+1} = \frac{b_n^2 - 1}{b_n}$$ per tutti gli enti interi positivi $n$. Supponiamo che $b_1 = 1$ e $b_7 = k$ dove $1 < k < 2$. Indicare che esiste una costante $B$, a seconda di $k$, tale che $-B \le b_n \le B$ per tutti $n$. Indicare inoltre che, per alcuni $1 < k < 2$, esiste un valore di $n$ tale che $b_n > 2020$.
-
-[[Quesiti/src_bmo_2019-20_round2#q04|src_bmo_2019-20_round2__Q04]]

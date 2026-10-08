@@ -33,8 +33,6 @@ Le linee tangenti e perpendicolari della parabola tracciano un'iperbola
 
 > Si deve indicare una parabola e un punto $A$ al di fuori di essa. Per ogni punto $P$ della parabola, $t$ è la tangente della parabola a $P$ e $r$ la linea parallela all'asse della parabola attraverso $P$. La perpendicolare a $t$ attraverso $A$ incontra $r$ a $Q$. Prove che, poiché $P$ varia sulla parabola, $Q$ traccia un iperbola.
 
-[[Quesiti/src_obm_2003_nu_f2#q01|src_obm_2003_nu_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
@@ -69,8 +67,6 @@ Le linee tangenti e perpendicolari della parabola tracciano un'iperbola
 > 
 > b) Prove che non esistono polinomi non costanti $r, s, t, u \in \mathbb{C}[x]$ come $f = \dfrac{r}{s}$, $g = \dfrac{t}{u}$ e $$f^2 = g(g-1)(g-a), \quad a \in \mathbb{C},\; a \neq 0,\; a \neq 1.$$
 
-[[Quesiti/src_obm_2003_nu_f2#q02|src_obm_2003_nu_f2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -101,8 +97,6 @@ Le linee tangenti e perpendicolari della parabola tracciano un'iperbola
 > $p > 2$ sia un numero primo. $X_p$ sia l'insieme di tutte le matrici quadrate $A$ con coefficienti in $\mathbb{Z}/(p)$ e di ordine $4$ in modo tale che $$A^2 = I : \quad X_p = \left\{ A \in (\mathbb{Z}/(p))^{4 \times 4} \mid A^2 = I \right\}.$$ calcoli il numero di elementi di $X_p$.
 > 
 > **Remark.** $\mathbb{Z}/(p) = \{0, 1, 2, \ldots, p-1\}$ è il campo finito con elementi $p$. L'aggiunta e il prodotto sono definiti modulo $p$; ad esempio, in $\mathbb{Z}/(7)$, $4 + 5 = 2$ e $4 \cdot 5 = 6$.
-
-[[Quesiti/src_obm_2003_nu_f2#q03|src_obm_2003_nu_f2__Q03]]
 
 
 
@@ -135,8 +129,6 @@ Le linee tangenti e perpendicolari della parabola tracciano un'iperbola
 > 
 > **Remark.** $P(a = c \mid a = b)$ è la probabilità condizionale $$P(a = c \mid a = b) = \frac{P(a = b \text{ and } a = c)}{P(a = b)}.$$ Un dado è giusto se la probabilità di ciascuna faccia è $\dfrac{1}{6}$.
 
-[[Quesiti/src_obm_2003_nu_f2#q04|src_obm_2003_nu_f2__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_insiemi_funzioni,topic_algebra,method_induzione,skill_manipolazione_algebrica,skill_astrazione,skill_ragionamento_geometrico"></span>
@@ -167,8 +159,6 @@ Le linee tangenti e perpendicolari della parabola tracciano un'iperbola
 > Una funzione $f : (-1,1) \to \mathbb{R}$ della classe $C^\infty$ viene chiamata *lacunaria* se esiste un intero positivo $n$ e polinomi $P_j \in \mathbb{R}[t]$, $0 \le j \le n$, con $P_n$ non identicamente zero, in modo tale che $$\sum_{j=0}^{n} P_j(t) f^{(j)}(t) = 0 \quad \text{for all } t \in (-1,1).$$ dimostri che se $f$ e $g$ sono lacunarie allora $f + g$ e $f \cdot g$ sono anche lacunarie.
 > 
 > **Remarchi.** Definimmo $f^{(m)} = f$ per $m \ge 0$ (che significa $f^{(0)} = f$), e $(f^{(m)})' = f^{(m+1)}$.
-
-[[Quesiti/src_obm_2003_nu_f2#q05|src_obm_2003_nu_f2__Q05]]
 
 
 
@@ -201,5 +191,3 @@ Le linee tangenti e perpendicolari della parabola tracciano un'iperbola
 > $A = (a_{ij})_{1 \le i,j \le n}$ sia una matrice $n \times n$ tale che $a_{ij} \in [0,1]$ per tutte le $i, j$, e $$|(G, J)| = \left\| a_{ij} \right\| \ge \frac{99}{100} \cdot n^2.$$ dimostri che $$\operatorname{tr}(A^k) \ge \left(\frac{9}{10}\right)^k n, \quad \text{for all } k \ge 2.$$
 > 
 > Se $B = (b_{ij})_{1 \le i,j \le n}$ è una matrice quadrata, allora $\operatorname{tr}(B) = \displaystyle\sum_{i=1}^{n} b_{ii}$ indica la traccia di $B$.
-
-[[Quesiti/src_obm_2003_nu_f2#q06|src_obm_2003_nu_f2__Q06]]

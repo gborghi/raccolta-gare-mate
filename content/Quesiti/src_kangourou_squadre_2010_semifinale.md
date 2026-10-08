@@ -40,7 +40,6 @@ level: squadre
 > large as possible. What is the larger of the two numbers?
 
 **Answer:** 0941
-[[Quesiti/src_kangourou_squadre_2010_semifinale#q01|src_kangourou_squadre_2010_semifinale__Q01]]
 
 
 
@@ -77,7 +76,6 @@ Maximum number of passengers with separate rows (occupations)
 > marked with the same letters. What is the maximum number of passengers on that plane?
 
 **Answer:** 0189
-[[Quesiti/src_kangourou_squadre_2010_semifinale#q02|src_kangourou_squadre_2010_semifinale__Q02]]
 
 
 
@@ -110,7 +108,6 @@ Maximum number of passengers with separate rows (occupations)
 > 8 × 8 chessboard? (Two squares are called "adjacent" if they are different and share a side.)
 
 **Answer:** 1904
-[[Quesiti/src_kangourou_squadre_2010_semifinale#q03|src_kangourou_squadre_2010_semifinale__Q03]]
 
 
 
@@ -155,7 +152,6 @@ Maximum number of passengers with separate rows (occupations)
 > is, in cm², the area of the surface covered by exactly two stickers?
 
 **Answer:** 0408
-[[Quesiti/src_kangourou_squadre_2010_semifinale#q04|src_kangourou_squadre_2010_semifinale__Q04]]
 
 
 
@@ -192,7 +188,6 @@ Maximum number of passengers with separate rows (occupations)
 > p²). What are the last two digits of the last (the largest) one?
 
 **Answer:** 0092
-[[Quesiti/src_kangourou_squadre_2010_semifinale#q05|src_kangourou_squadre_2010_semifinale__Q05]]
 
 
 
@@ -230,7 +225,6 @@ Maximum number of passengers with separate rows (occupations)
 > would they take?
 
 **Answer:** 0090
-[[Quesiti/src_kangourou_squadre_2010_semifinale#q06|src_kangourou_squadre_2010_semifinale__Q06]]
 
 
 
@@ -261,7 +255,6 @@ Maximum number of passengers with separate rows (occupations)
 > Find the sum of all positive even integers n such that – 53 < 2010/(53 – n) < 53 – n.
 
 **Answer:** 0302
-[[Quesiti/src_kangourou_squadre_2010_semifinale#q07|src_kangourou_squadre_2010_semifinale__Q07]]
 
 
 
@@ -297,7 +290,6 @@ Members of the association with double A of B and 64%
 > total possible votes. How many members is the association composed of?
 
 **Answer:** 0075
-[[Quesiti/src_kangourou_squadre_2010_semifinale#q08|src_kangourou_squadre_2010_semifinale__Q08]]
 
 
 
@@ -336,7 +328,6 @@ Members of the association with double A of B and 64%
 > entirely colored red?
 
 **Answer:** 0048
-[[Quesiti/src_kangourou_squadre_2010_semifinale#q09|src_kangourou_squadre_2010_semifinale__Q09]]
 
 
 
@@ -369,7 +360,6 @@ Members of the association with double A of B and 64%
 > a total of 3005 digits. How many pages does the book have?
 
 **Answer:** 1028
-[[Quesiti/src_kangourou_squadre_2010_semifinale#q10|src_kangourou_squadre_2010_semifinale__Q10]]
 
 
 
@@ -404,7 +394,6 @@ Members of the association with double A of B and 64%
 > obtained in this way; write [0000] in the case that there are infinitely many of these numbers.
 
 **Answer:** 0114
-[[Quesiti/src_kangourou_squadre_2010_semifinale#q11|src_kangourou_squadre_2010_semifinale__Q11]]
 
 
 
@@ -434,7 +423,6 @@ Members of the association with double A of B and 64%
 > What is the only 4-digit number that is simultaneously a perfect square and a perfect cube?
 
 **Answer:** 4096
-[[Quesiti/src_kangourou_squadre_2010_semifinale#q12|src_kangourou_squadre_2010_semifinale__Q12]]
 
 
 
@@ -465,7 +453,6 @@ Members of the association with double A of B and 64%
 > How many 4-digit (significant) numbers of the form ABBA are multiples of 11?
 
 **Answer:** 0090
-[[Quesiti/src_kangourou_squadre_2010_semifinale#q13|src_kangourou_squadre_2010_semifinale__Q13]]
 
 
 
@@ -501,7 +488,6 @@ Members of the association with double A of B and 64%
 > wants to earn 15% of what it spends to produce it?
 
 **Answer:** 1725
-[[Quesiti/src_kangourou_squadre_2010_semifinale#q14|src_kangourou_squadre_2010_semifinale__Q14]]
 
 
 
@@ -536,4 +522,3 @@ Members of the association with double A of B and 64%
 > is Paolo's code number?
 
 **Answer:** 5041
-[[Quesiti/src_kangourou_squadre_2010_semifinale#q15|src_kangourou_squadre_2010_semifinale__Q15]]

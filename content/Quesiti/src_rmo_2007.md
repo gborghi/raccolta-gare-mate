@@ -32,8 +32,6 @@ level: RMO
 
 > Che $ABC$ sia un triangolo a angolo acuto; $AD$ sia il bisettore di $\angle BAC$ con $D$ su $BC$; e $BE$ sia l'altitudine da $B$ su $AC$. Mostra che $\angle CED > 45^\circ$.
 
-[[Quesiti/src_rmo_2007#q01|src_rmo_2007__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -59,8 +57,6 @@ level: RMO
 
 > $a, b, c$ siano tre numeri naturali quali $a < b < c$ e $\gcd(c - a, c - b) = 1$. Supponiamo che esista un intero $d$ tale che $a + d$, $b + d$, $c + d$ formino i lati di un triangolo rettangolare. Prove che esistono integri $l, m$ che $c + d = l^2 + m^2$.
 
-[[Quesiti/src_rmo_2007#q02|src_rmo_2007__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato"></span>
@@ -85,8 +81,6 @@ level: RMO
 *Trova tutte le coppie reali (a,b) così una radice di x^2+ax+b implica a^2-2 è anche radice*
 
 > Trova tutte le coppie $(a, b)$ di numeri reali in modo tale che ogni volta che $a$ è una radice di $x^2 + ax + b = 0$, $a^2 - 2$ è anche una radice dell'equazione.
-
-[[Quesiti/src_rmo_2007#q03|src_rmo_2007__Q03]]
 
 
 
@@ -119,8 +113,6 @@ level: RMO
 > 
 > (Esempio: $225252$ è un numero ammissibile, mentre $222133$ non lo è.)
 
-[[Quesiti/src_rmo_2007#q04|src_rmo_2007__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -147,8 +139,6 @@ level: RMO
 *Trapezio inserito in cerchio, diagonali che si incontrano a M con OM=2; trovare differenza di lati paralleli*
 
 > Un trapezio $ABCD$, in cui $AB$ è parallelo a $CD$, è inserito in un cerchio con il centro $O$. Supponiamo che le diagonali $AC$ e $BD$ del trapezio si intersecano a $M$ e $OM = 2$. (a) Se $\angle AMB = 60^\circ$, determinare, con la prova, la differenza tra le lunghezze dei lati paralleli. b) Se $\angle AMD = 60^\circ$, trovare la differenza tra le lunghezze dei lati paralleli.
-
-[[Quesiti/src_rmo_2007#q05|src_rmo_2007__Q05]]
 
 
 
@@ -177,5 +167,3 @@ level: RMO
 *Prove le disuguaglianze che confrontano n con la somma delle sue radici per n>=9*
 
 > Prova che: a) $5 < \sqrt[3]{5} + \sqrt[4]{5} + \sqrt[5]{5}$; b) $8 > \sqrt{8} + \sqrt[3]{8} + \sqrt[4]{8}$; c) $n > \sqrt{n} + \sqrt[3]{n} + \sqrt[4]{n}$ per tutti gli enti $n \ge 9$.
-
-[[Quesiti/src_rmo_2007#q06|src_rmo_2007__Q06]]

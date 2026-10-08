@@ -39,7 +39,6 @@ level: OBM Nível 1
 > **Nota:** Blocchi di dimensioni $2 \times 3 \times 4$ e $2 \times 4 \times 3$ sono considerati uguali.
 
 **Risposta:** 6
-[[Quesiti/src_obm_2000_n1_f2#q01|src_obm_2000_n1_f2__Q01]]
 
 
 
@@ -75,7 +74,6 @@ level: OBM Nível 1
 ![[src_obm_2000_n1_f2__q02.png]]
 
 **Risposta:** 18
-[[Quesiti/src_obm_2000_n1_f2#q02|src_obm_2000_n1_f2__Q02]]
 
 
 
@@ -107,8 +105,7 @@ level: OBM Nível 1
 > 
 > È possibile determinare a partire da questi dati il colore del punto sul lato destro? In tal caso, di che colore è il punto?
 
-**Risposta:** red
-[[Quesiti/src_obm_2000_n1_f2#q03|src_obm_2000_n1_f2__Q03]]
+**Risposta:** rosso
 
 
 
@@ -151,8 +148,6 @@ level: OBM Nível 1
 
 ![[src_obm_2000_n1_f2__q04.png]]
 
-[[Quesiti/src_obm_2000_n1_f2#q04|src_obm_2000_n1_f2__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -180,7 +175,6 @@ level: OBM Nível 1
 > Qual è il numero intero positivo più piccolo che è sia il doppio di un cubo perfetto che il quintuplico (cinque volte) di un quadrato perfetto?
 
 **Risposta:** 2000
-[[Quesiti/src_obm_2000_n1_f2#q05|src_obm_2000_n1_f2__Q05]]
 
 
 
@@ -209,4 +203,3 @@ level: OBM Nível 1
 > Qual è il più grande intero positivo $n$ in modo che i rimanenti quando $154$, $238$ e $334$ sono entrambi divisi da $n$ siano tutti uguali?
 
 **Risposta:** 12
-[[Quesiti/src_obm_2000_n1_f2#q06|src_obm_2000_n1_f2__Q06]]

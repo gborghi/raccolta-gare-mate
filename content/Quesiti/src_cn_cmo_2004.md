@@ -41,7 +41,6 @@ level: China Mathematical Olympiad
 ![[src_cn_cmo_2004__q01.png]]
 
 **Risposta:** \frac{F_1C}{CG_1} = \lambda
-[[Quesiti/src_cn_cmo_2004#q01|src_cn_cmo_2004__Q01]]
 
 
 
@@ -74,7 +73,6 @@ level: China Mathematical Olympiad
 > Che $c$ sia un numero intero positivo e che una sequenza di numeri $x_1, x_2, \ldots$ soddisfi $x_1 = c$ e $$x_n = x_{n-1} + \left\lfloor \frac{2(x_{n-1} - 1)}{n} \right\rfloor + 1, \quad n = 2, 3, \ldots,$$ dove $\lfloor x \rfloor$ indica il numero intero più grande non superiore a $x$. Determinare l'espressione di $x_n$ in termini di $n$ e $c$. (Posizionato da Huang Yumin)
 
 **Risposta:** x_n = \frac{c-1}{6}(n+1)(n+2)+1 \text{ for } c\equiv1\pmod3; \ x_n=\frac{c-2}{6}(n+1)(n+2)+n+1 \text{ for } c\equiv2\pmod3; \ x_n=\frac{c-3}{6}(n+1)(n+2)+\left\lfloor\frac{(n+2)^2}{4}\right\rfloor+1 \text{ for } c\equiv0\pmod3
-[[Quesiti/src_cn_cmo_2004#q02|src_cn_cmo_2004__Q02]]
 
 
 
@@ -105,7 +103,6 @@ level: China Mathematical Olympiad
 > Che $M$ sia un insieme costituito da $n$ punti nel piano, e che soddisfi: (1) ci sono 7 punti in $M$ che costituiscono le vertici di un settone convex; (2) se per 5 punti in $M$ che costituiscono le vertici di un settone convex, allora c'è un punto in $M$ che si trova all'interno del settone. Trova il valore minimo di $n$. (Possibile da Leng Gangsong)
 
 **Risposta:** 11
-[[Quesiti/src_cn_cmo_2004#q03|src_cn_cmo_2004__Q03]]
 
 
 
@@ -143,8 +140,6 @@ level: China Mathematical Olympiad
 > 
 > (2) la sequenza $x_0, x_1, \ldots, x_n, x_{n+1}$ di (1) soddisfa $|x_i| \le |a|$, $i = 0, 1, \ldots, n+1$.
 
-[[Quesiti/src_cn_cmo_2004#q04|src_cn_cmo_2004__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_disuguaglianze,topic_aritmetica,method_disuguaglianze,method_telescoping,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
@@ -174,8 +169,6 @@ level: China Mathematical Olympiad
 
 > Per un dato intero positivo $n \ge 2$, supponiamo che gli interi positivi $a_i$ ($i = 1, 2, \ldots, n$) soddisfino $a_1 < a_2 < \cdots < a_n$ e $\displaystyle\sum_{i=1}^{n} \frac{1}{a_i} \le 1$. Prove che, per qualsiasi numero reale $x$, si verifica la seguente disuguaglianza, $$\left(\sum_{i=1}^{n} \frac{1}{a_i^2 + x^2}\right)^2 \le \frac{1}{2} \cdot \frac{1}{a_1(a_1 - 1) + x^2}.$$ (posato da Li Shenghong)
 
-[[Quesiti/src_cn_cmo_2004#q05|src_cn_cmo_2004__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_induzione,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -202,5 +195,3 @@ level: China Mathematical Olympiad
 *Prove tutti, se non finiti, molti integri positivi sono somme del 2004 di integri rigorosamente in aumento con catena di divisibilità*
 
 > Prova che ogni intero positivo $n$, ad eccezione di un numero finito di essi, può essere rappresentato come una somma di interi positivi 2004: $n = a_1 + a_2 + \cdots + a_{2004}$, dove $1 \le a_1 < a_2 < \cdots < a_{2004}$, e $a_i \mid a_{i+1}$, $i = 1, 2, \ldots, 2003$. (Possibile da Chen Yonggao)
-
-[[Quesiti/src_cn_cmo_2004#q06|src_cn_cmo_2004__Q06]]

@@ -46,7 +46,6 @@ level: triennio
 > - **(E)** a and b have a different sign and between the two the negative has an absolute higher value.
 
 **Answer:** D
-[[Quesiti/src_archimede_2007_triennio#q04|src_archimede_2007_triennio__Q04]]
 
 
 
@@ -89,7 +88,6 @@ This is the total amount of aid granted by the Member State in accordance with A
 > - **(E)** 4 3√ 2.
 
 **Answer:** E
-[[Quesiti/src_archimede_2007_triennio#q05|src_archimede_2007_triennio__Q05]]
 
 
 
@@ -132,7 +130,6 @@ This is the total amount of aid granted by the Member State in accordance with A
 > - **(E)** 4750 m.
 
 **Answer:** D
-[[Quesiti/src_archimede_2007_triennio#q07|src_archimede_2007_triennio__Q07]]
 
 
 
@@ -173,7 +170,6 @@ The following table shows the number of samples of the samples:
 > - **(E)** 215 · 17.
 
 **Answer:** D
-[[Quesiti/src_archimede_2007_triennio#q08|src_archimede_2007_triennio__Q08]]
 
 
 
@@ -216,7 +212,6 @@ Days at the next Earth Day on Uru
 > - **(E)** 1904.
 
 **Answer:** C
-[[Quesiti/src_archimede_2007_triennio#q09|src_archimede_2007_triennio__Q09]]
 
 
 
@@ -263,7 +258,6 @@ Days at the next Earth Day on Uru
 > - **(E)** 10 cm.                        
 
 **Answer:** C
-[[Quesiti/src_archimede_2007_triennio#q14|src_archimede_2007_triennio__Q14]]
 
 
 
@@ -306,7 +300,6 @@ Days at the next Earth Day on Uru
 > - **(E)** 104.
 
 **Answer:** D
-[[Quesiti/src_archimede_2007_triennio#q15|src_archimede_2007_triennio__Q15]]
 
 
 
@@ -350,7 +343,6 @@ Days at the next Earth Day on Uru
 > - **(E)** 20 km/h.
 
 **Answer:** D
-[[Quesiti/src_archimede_2007_triennio#q16|src_archimede_2007_triennio__Q16]]
 
 
 
@@ -390,7 +382,6 @@ Days at the next Earth Day on Uru
 > - **(E)** Five of them.
 
 **Answer:** D
-[[Quesiti/src_archimede_2007_triennio#q17|src_archimede_2007_triennio__Q17]]
 
 
 
@@ -435,7 +426,6 @@ Days at the next Earth Day on Uru
 > - **(E)** 2.
 
 **Answer:** A
-[[Quesiti/src_archimede_2007_triennio#q19|src_archimede_2007_triennio__Q19]]
 
 
 
@@ -480,7 +470,6 @@ Days at the next Earth Day on Uru
 > - **(E)** 18.
 
 **Answer:** C
-[[Quesiti/src_archimede_2007_triennio#q20|src_archimede_2007_triennio__Q20]]
 
 
 
@@ -524,7 +513,6 @@ Days at the next Earth Day on Uru
 > - **(E)** 8.
 
 **Answer:** D
-[[Quesiti/src_archimede_2007_triennio#q21|src_archimede_2007_triennio__Q21]]
 
 
 
@@ -566,7 +554,6 @@ Days at the next Earth Day on Uru
 > - **(E)** If you're in a lot of people, you're studying badly.
 
 **Answer:** C
-[[Quesiti/src_archimede_2007_triennio#q22|src_archimede_2007_triennio__Q22]]
 
 
 
@@ -608,7 +595,6 @@ Days at the next Earth Day on Uru
 > - **(E)** between 90% and 100%.
 
 **Answer:** C
-[[Quesiti/src_archimede_2007_triennio#q23|src_archimede_2007_triennio__Q23]]
 
 
 
@@ -651,4 +637,3 @@ Days at the next Earth Day on Uru
 > - **(E)** 28 · 32.
 
 **Answer:** C
-[[Quesiti/src_archimede_2007_triennio#q25|src_archimede_2007_triennio__Q25]]

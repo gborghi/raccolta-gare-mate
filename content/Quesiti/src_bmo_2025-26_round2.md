@@ -35,8 +35,6 @@ level: BMO Round 2
 
 > Per due numeri interi positivi $m$ e $n$, definiamo $l(m,n)$ come il loro più piccolo comune multiplo e $h(m,n)$ come il loro più alto fattore comune. Data una prima $p > 3$, $k$ indichi il numero di coppie ordinate di integri positivi $(m, n)$ che soddisfano l'equazione $$l(m, n) + h(m, n) = p^k.$$ Determinare il valore più piccolo di $k$ su tutte le scelte della prima $p > 3$.
 
-[[Quesiti/src_bmo_2025-26_round2#q01|src_bmo_2025-26_round2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -66,8 +64,6 @@ level: BMO Round 2
 > 
 > Provare che $AC = BD$ se e solo se $XY$ divide $\angle DXC$.
 
-[[Quesiti/src_bmo_2025-26_round2#q02|src_bmo_2025-26_round2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_casework,method_estremalita,method_invarianti,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_modellizzazione,skill_stima"></span>
@@ -96,8 +92,6 @@ level: BMO Round 2
 > Ogni cella di una griglia $30 \times 30$ contiene uno dei numeri $-1$, $0$ o $1$ con ciascuno di questi tre numeri che appare esattamente $300$ volte.
 > 
 > È possibile che le somme delle righe e delle colonne $60$ siano tutte diverse?
-
-[[Quesiti/src_bmo_2025-26_round2#q03|src_bmo_2025-26_round2__Q03]]
 
 
 
@@ -129,5 +123,3 @@ Sequenza infinita da somme parziali: finitamente molti termini positivi o finita
 > Che $N$ sia un intero positivo e che $(k_n)_{n \geq 1}$ sia una sequenza di interi positivi con tutti i termini al massimo $N$. Annabel inizia scegliendo i numeri interi $x_1, x_2, \ldots, x_N$. Poi lo estende a una sequenza infinita $(x_n)_{n \geq 1}$ di numeri interi definendo $$x_n = \sum_{i=n-k_{n-1}}^{n-1} x_i$$ per ogni $n > N$.
 > 
 > Mostrare che ci sono finitamente molti termini strettamente positivi o finitamente molti termini strettamente negativi nella sequenza infinita $(x_n)$.
-
-[[Quesiti/src_bmo_2025-26_round2#q04|src_bmo_2025-26_round2__Q04]]

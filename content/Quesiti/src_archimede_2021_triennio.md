@@ -46,8 +46,6 @@ level: triennio
 > - **(D)** 65
 > - **(E)** 54
 
-[[Quesiti/src_archimede_2021_triennio#q01|src_archimede_2021_triennio__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
@@ -85,8 +83,6 @@ level: triennio
 > - **(C)** 22/3
 > - **(D)** 19/2
 > - **(E)** 47/7
-
-[[Quesiti/src_archimede_2021_triennio#q02|src_archimede_2021_triennio__Q02]]
 
 
 
@@ -128,8 +124,6 @@ level: triennio
 > - **(D)** It is not possible to establish
 > - **(E)** 42
 
-[[Quesiti/src_archimede_2021_triennio#q03|src_archimede_2021_triennio__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
@@ -166,8 +160,6 @@ level: triennio
 > - **(C)** 777 · 1417 · 2213
 > - **(D)** 779 · 1416 · 2213
 > - **(E)** 779 · 1412 · 2216
-
-[[Quesiti/src_archimede_2021_triennio#q04|src_archimede_2021_triennio__Q04]]
 
 
 
@@ -207,8 +199,6 @@ level: triennio
 > - **(D)** 8/15
 > - **(E)** 5/8
 
-[[Quesiti/src_archimede_2021_triennio#q05|src_archimede_2021_triennio__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica"></span>
@@ -247,8 +237,6 @@ level: triennio
 > - **(D)** 70
 > - **(E)** 81
 
-[[Quesiti/src_archimede_2021_triennio#q06|src_archimede_2021_triennio__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -285,8 +273,6 @@ level: triennio
 > - **(C)** 148 m
 > - **(D)** 152 m
 > - **(E)** 154 m
-
-[[Quesiti/src_archimede_2021_triennio#q07|src_archimede_2021_triennio__Q07]]
 
 
 
@@ -383,8 +369,6 @@ level: triennio
 > - **(D)** 27 mm2
 > - **(E)** 32 mm2
 
-[[Quesiti/src_archimede_2021_triennio#q08|src_archimede_2021_triennio__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
@@ -422,8 +406,6 @@ level: triennio
 > - **(C)** 17/4
 > - **(D)** 23/2
 > - **(E)** 19/4
-
-[[Quesiti/src_archimede_2021_triennio#q09|src_archimede_2021_triennio__Q09]]
 
 
 
@@ -463,8 +445,6 @@ level: triennio
 > - **(C)** None of them.
 > - **(D)** Endless
 > - **(E)** 4
-
-[[Quesiti/src_archimede_2021_triennio#q10|src_archimede_2021_triennio__Q10]]
 
 
 
@@ -506,8 +486,6 @@ level: triennio
 > - **(D)** 36°
 > - **(E)** 33°
 
-[[Quesiti/src_archimede_2021_triennio#q11|src_archimede_2021_triennio__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_funzionali,method_simmetria,skill_astrazione"></span>
@@ -545,5 +523,3 @@ level: triennio
 > - **(C)** It is not possible to establish
 > - **(D)** 9/2
 > - **(E)** 18/5 1302 Italian Mathematical Union Olympic Mathematics Project Ministry of Education The Archimedean Games - Triennial Competition 2 December 2021  The test consists of 12 problems. Each question shall be followed by 5 answers indicated by the letters (A), (B), (C), (D) and (E). One of these answers is correct, the other four are wrong.  Each correct answer is worth 5 points, each wrong answer is worth 0 points. For each answer left blank or unreadable one point will be awarded.  For each of the problems, the corresponding letter to the correct answer must be transcribed in the grid below. Cancellations or corrections on the grid are not permitted. No calculator or communication device shall be used during the test. The time you have is 60 minutes. Good work and good fun! COGNOME COGNOME CLASS date of birth: email address: RESPONSES TO PROBLEMS: 1 2 3 4 5 6 7 8 9 10 11 12 The games of Archimedes 2021 GARA TREENNIO   CODE PROVA: 1302
-
-[[Quesiti/src_archimede_2021_triennio#q12|src_archimede_2021_triennio__Q12]]

@@ -63,8 +63,6 @@ Cassa per il peso perfetto: caratterizzare e contare per fattorizzazione, massa 
 > 
 > **4.** Determina tutte le scatole perfette di pesi di massa totale $1993$ grammi.
 
-[[Quesiti/src_cgen_1993#q01|src_cgen_1993__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,topic_insiemi_funzioni,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
@@ -115,8 +113,6 @@ Cassa per il peso perfetto: caratterizzare e contare per fattorizzazione, massa 
 > 
 > Si può usare l'identità $1^2 + 2^2 + \cdots + n^2 = \left[\dfrac{n(n+1)}{2}\right]^2$.
 
-[[Quesiti/src_cgen_1993#q02|src_cgen_1993__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_insiemi_funzioni,topic_algebra,method_estremalita,method_backward,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -143,8 +139,6 @@ Cassa per il peso perfetto: caratterizzare e contare per fattorizzazione, massa 
 *Funzione di sotto limite su Z con disuguaglianza di punto medio implica costante*
 
 > $f$ sia un'applicazione da $\mathbb{Z}$ all'insieme $\mathbb{R}$ di numeri reali. Supponiamo che $f$ sia delimitato di seguito e soddisfi: per ogni numero intero relativo $n$, $$f(n) > \frac{1}{2}|f(n+1) + f(n-1)|.$$ Mostri che l'applicazione $f$ è costante.
-
-[[Quesiti/src_cgen_1993#q03|src_cgen_1993__Q03]]
 
 
 
@@ -178,8 +172,6 @@ Cassa per il peso perfetto: caratterizzare e contare per fattorizzazione, massa 
 > **1.** Indicare che è impossibile coprire il disco $D$ con due dischi dello stesso raggio $r$, quando $r$ è strettamente inferiore a $1$.
 > 
 > **2.** Indicare che, per alcuni valori di $r < 1$, è possibile coprire il disco $D$ con tre dischi dello stesso raggio $r$. Qual è il valore minimo di $r$ che consente tale copertura?
-
-[[Quesiti/src_cgen_1993#q04|src_cgen_1993__Q04]]
 
 
 
@@ -225,5 +217,3 @@ Cassa per il peso perfetto: caratterizzare e contare per fattorizzazione, massa 
 > **2.** In un tetraedro di volume $V$, $a, b, c, d$ deve avere quattro bordi in modo che ognuno di essi sia non coplanare e $L = a + b + c + d$.
 > 
 > Determinare il valore massimo del quotiente $\dfrac{V}{L^3}$.
-
-[[Quesiti/src_cgen_1993#q05|src_cgen_1993__Q05]]

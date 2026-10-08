@@ -38,8 +38,6 @@ level: kangourou
 
 > Look at the figure beside it. Only one of the circles below is the enlargement of its central part. Which one?
 
-[[Quesiti/src_kangourou_2014_ecolier#q01|src_kangourou_2014_ecolier__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,skill_riconoscimento_pattern"></span>
@@ -69,8 +67,6 @@ level: kangourou
 *Where to enter 3 to get the smallest number*
 
 > Giacomo wants to turn the number 2014 into a five-digit number by adding the digit 3 to the already existing digits. If you want to get the smallest number possible, where should you put the number 3? A) At the beginning B) Between 2 and 0 C) Between 0 and 1 D) Between 1 and 4 E) At the end
-
-[[Quesiti/src_kangourou_2014_ecolier#q02|src_kangourou_2014_ecolier__Q02]]
 
 
 
@@ -108,8 +104,6 @@ level: kangourou
 
 > Some rectangles, including a square, and some triangles, have been added or superimposed to form the five houses you see. For which of them were identical pieces and in the same quantity used? A) 1 and 4	            B) 3 and 4 C) 1, 4 and 5	              D) 3, 4 and 5	        E) 1, 2, 4 and 5
 
-[[Quesiti/src_kangourou_2014_ecolier#q03|src_kangourou_2014_ecolier__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,skill_modellizzazione"></span>
@@ -142,8 +136,6 @@ level: kangourou
 ![[src_kangourou_2014_ecolier__prob4.png]]
 
 > Each of the points here corresponds to the result of the subtraction indicated next to it. Starting from the point where the result 0 corresponds, Maria wants to link it to the point where the result 1 corresponds, then she wants to link the latter to the point where the result 2 corresponds, and so on until the result 5. Which of the following patterns indicates the connections that Maria wants to make?
-
-[[Quesiti/src_kangourou_2014_ecolier#q04|src_kangourou_2014_ecolier__Q04]]
 
 
 
@@ -194,8 +186,6 @@ level: kangourou
 > Adam has less candy than Martino, but more than Susanna. Lucia has more candy than both Adam and Martin. Diana has more candy than Adam, but less than Lucia. Which one of them has more candy than the others? (A) Martin B) Adam C) Susanna D) Diana E) Lucia A) B) C) D) E) 2  2 8  6 13  9 6  5 11  8 17  12 A) B) C) D) E)
 >
 
-[[Quesiti/src_kangourou_2014_ecolier#q05|src_kangourou_2014_ecolier__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -234,7 +224,6 @@ level: kangourou
 > ?
 
 **Answer:** C
-[[Quesiti/src_kangourou_2014_ecolier#q06|src_kangourou_2014_ecolier__Q06]]
 
 
 
@@ -267,8 +256,6 @@ level: kangourou
 
 > A shopkeeper painted the flowers you see in the figure on the right on the outside of his shop window. The glass is transparent. What does the drawing look like from inside the store?
 
-[[Quesiti/src_kangourou_2014_ecolier#q07|src_kangourou_2014_ecolier__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -299,8 +286,6 @@ level: kangourou
 *Which square equals the black and white area*
 
 > Maria sits at the table with her mother Enrica, her father Roberto and her uncle Carlo, who is Roberto's brother. Who is the youngest of the four? A) Enrica B) Maria C) Carlo D) Roberto E) It is not possible to reply without further information. Questions from n. 9 to n. 16 are worth 4 points each.
-
-[[Quesiti/src_kangourou_2014_ecolier#q08|src_kangourou_2014_ecolier__Q08]]
 
 
 
@@ -340,8 +325,6 @@ level: kangourou
 > In each of the empty square cells remaining in the figure, Monica wants to write a number so that every number that appears is the product of the two numbers that are below it. What's the sum of the numbers Monica has to write? A) 8 B) 16
 > 	
 > C) 32 D) 64 E) 88
-
-[[Quesiti/src_kangourou_2014_ecolier#q09|src_kangourou_2014_ecolier__Q09]]
 
 
 
@@ -386,8 +369,6 @@ level: kangourou
 > D) 24
 > 	
 > E) 48
-
-[[Quesiti/src_kangourou_2014_ecolier#q10|src_kangourou_2014_ecolier__Q10]]
 
 
 
@@ -440,8 +421,6 @@ level: kangourou
 > Look at the figure next to me. Which of the following tiles should you replace the question mark if you want the black part to have the same area as the white part? A) B) C) D) E) A) B) C) D) E) 1 2 2 1 A) B) C) D) E)
 >
 
-[[Quesiti/src_kangourou_2014_ecolier#q11|src_kangourou_2014_ecolier__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_combinatoria,skill_conteggio_sistematico"></span>
@@ -492,7 +471,6 @@ level: kangourou
 > E) 100
 
 **Answer:** D
-[[Quesiti/src_kangourou_2014_ecolier#q12|src_kangourou_2014_ecolier__Q12]]
 
 
 
@@ -538,8 +516,6 @@ level: kangourou
 > C) 7 D) 15
 > 	
 > E) 18
-
-[[Quesiti/src_kangourou_2014_ecolier#q13|src_kangourou_2014_ecolier__Q13]]
 
 
 
@@ -592,8 +568,6 @@ level: kangourou
 > 	
 > E) 10
 
-[[Quesiti/src_kangourou_2014_ecolier#q14|src_kangourou_2014_ecolier__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,topic_combinatoria,skill_modellizzazione"></span>
@@ -624,8 +598,6 @@ level: kangourou
 ![[src_kangourou_2014_ecolier__prob15.png]]
 
 > By joining eight equal cubes, Thomas obtained a construction and laid it on the floor as shown in the figure to the right. Looking at the construction from above, which of the following images can Thomas see?
-
-[[Quesiti/src_kangourou_2014_ecolier#q15|src_kangourou_2014_ecolier__Q15]]
 
 
 
@@ -685,8 +657,6 @@ level: kangourou
 > 
 > Questions from n. 17 to n. 24 are worth five points each.
 
-[[Quesiti/src_kangourou_2014_ecolier#q16|src_kangourou_2014_ecolier__Q16]]
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_combinatoria,method_conteggio,skill_riconoscimento_pattern"></span>
@@ -740,7 +710,6 @@ level: kangourou
 > E) 7
 
 **Answer:** B
-[[Quesiti/src_kangourou_2014_ecolier#q17|src_kangourou_2014_ecolier__Q17]]
 
 
 
@@ -776,7 +745,6 @@ level: kangourou
 > Seven people, men and women, are sitting around a round table. There are no two men next to each other, and no woman sits between two other women. So the number of women sitting at table A is definitely 3. B) can be either 3 or 4. C) is definitely 4. D) can be either 4 or 5. E) is definitely 5.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2014_ecolier#q18|src_kangourou_2014_ecolier__Q18]]
 
 
 
@@ -828,7 +796,6 @@ level: kangourou
 > E) 6
 
 **Answer:** B
-[[Quesiti/src_kangourou_2014_ecolier#q19|src_kangourou_2014_ecolier__Q19]]
 
 
 
@@ -877,8 +844,6 @@ level: kangourou
 >              C)	
 >         D)	 	
 >    E)
-
-[[Quesiti/src_kangourou_2014_ecolier#q20|src_kangourou_2014_ecolier__Q20]]
 
 
 
@@ -960,8 +925,6 @@ level: kangourou
 > S
 > E
 >
-
-[[Quesiti/src_kangourou_2014_ecolier#q21|src_kangourou_2014_ecolier__Q21]]
 
 
 
@@ -1059,7 +1022,6 @@ level: kangourou
 > E) 7
 
 **Answer:** A
-[[Quesiti/src_kangourou_2014_ecolier#q22|src_kangourou_2014_ecolier__Q22]]
 
 
 
@@ -1108,7 +1070,6 @@ level: kangourou
 > E) 6
 
 **Answer:** D
-[[Quesiti/src_kangourou_2014_ecolier#q23|src_kangourou_2014_ecolier__Q23]]
 
 
 
@@ -1180,5 +1141,3 @@ level: kangourou
 > STRINGA ECOLIER 2014
 
 **Answer:** D
-
-[[Quesiti/src_kangourou_2014_ecolier#q24|src_kangourou_2014_ecolier__Q24]]

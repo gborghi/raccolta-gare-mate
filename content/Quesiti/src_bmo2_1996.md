@@ -34,8 +34,6 @@ level: BMO Round 2
 
 > Determinare tutti gli insiemi di integri non negativi $x$, $y$, $z$ che soddisfano l'equazione $$2^x + 3^y = z^2.$$
 
-[[Quesiti/src_bmo2_1996#q01|src_bmo2_1996__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -63,8 +61,6 @@ level: BMO Round 2
 
 > I lati $a$, $b$, $c$ e $u$, $v$, $w$ di due triangoli $ABC$ e $UVW$ sono correlati dalle equazioni $$v(u + v - w) = a^2, \quad u(u + v - w) = b^2, \quad w(u + v - w) = c^2.$$ Prove che il triangolo $ABC$ sia rettangolare ed esprime gli angoli $U$, $V$, $W$ in termini di $A$, $B$, $C$.
 
-[[Quesiti/src_bmo2_1996#q02|src_bmo2_1996__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_astrazione"></span>
@@ -89,8 +85,6 @@ level: BMO Round 2
 *Tre cerchi reciprocamente tangenti; dimostrare che una linea è una tangente comune*
 
 > Due cerchi $S_1$ e $S_2$ si toccano all'esterno a $K$; toccano anche un cerchio $S$ all'interno rispettivamente a $A_1$ e $A_2$. Il punto di intersezione di $S$ deve essere $P$ con la tangente comune di $S_1$ e $S_2$ a $K$. La riga $PA_1$ incontra di nuovo $S_1$ a $B_1$ e $PA_2$ incontra di nuovo $S_2$ a $B_2$. Prova che $B_1 B_2$ è una tangente comune di $S_1$ e $S_2$.
-
-[[Quesiti/src_bmo2_1996#q03|src_bmo2_1996__Q03]]
 
 
 
@@ -120,5 +114,3 @@ level: BMO Round 2
 *Ricerca i reali positivi che soddisfano due equazioni simmetriche in quattro variabili*
 
 > Che $a$, $b$, $c$, $d$ siano numeri reali positivi in modo tale che $$a + b + c + d = 12$$ e $$abcd = 27 + ab + ac + ad + bc + bd + cd.$$ Trovino tutti i possibili valori di $a$, $b$, $c$, $d$ che soddisfano queste equazioni.
-
-[[Quesiti/src_bmo2_1996#q04|src_bmo2_1996__Q04]]

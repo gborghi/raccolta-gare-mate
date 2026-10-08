@@ -50,7 +50,6 @@ level: kangourou
 > - **(E)** 3. Kangourou 15 March 2001, category Benjamin. Page No. 2
 
 **Answer:** B
-[[Quesiti/src_kangourou_2001_benjamin#q01|src_kangourou_2001_benjamin__Q01]]
 
 
 
@@ -82,7 +81,6 @@ level: kangourou
 > Which of the following sheets corresponds to the one folded in the figure?
 
 **Answer:** C
-[[Quesiti/src_kangourou_2001_benjamin#q02|src_kangourou_2001_benjamin__Q02]]
 
 
 
@@ -123,7 +121,6 @@ level: kangourou
 > - **(E)** 11 minutes.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2001_benjamin#q03|src_kangourou_2001_benjamin__Q03]]
 
 
 
@@ -155,7 +152,6 @@ level: kangourou
 > How much of this figure is black?
 
 **Answer:** D
-[[Quesiti/src_kangourou_2001_benjamin#q04|src_kangourou_2001_benjamin__Q04]]
 
 
 
@@ -196,7 +192,6 @@ level: kangourou
 > - **(E)** 72.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2001_benjamin#q05|src_kangourou_2001_benjamin__Q05]]
 
 
 
@@ -237,7 +232,6 @@ Product S times F of siblings
 > - **(E)** 18.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2001_benjamin#q06|src_kangourou_2001_benjamin__Q06]]
 
 
 
@@ -269,7 +263,6 @@ Product S times F of siblings
 > In which figure is the grey area of the surface larger?
 
 **Answer:** E
-[[Quesiti/src_kangourou_2001_benjamin#q07|src_kangourou_2001_benjamin__Q07]]
 
 
 
@@ -312,7 +305,6 @@ Product S times F of siblings
 > - **(E)** 880. (Kangourou 15 March 2001, category Benjamin. Page No. 3
 
 **Answer:** D
-[[Quesiti/src_kangourou_2001_benjamin#q08|src_kangourou_2001_benjamin__Q08]]
 
 
 
@@ -357,7 +349,6 @@ Product S times F of siblings
 > - **(E)** None of the above.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2001_benjamin#q09|src_kangourou_2001_benjamin__Q09]]
 
 
 
@@ -406,7 +397,6 @@ Product S times F of siblings
 > - **(E)** 6. Questions from No. 11 to No. 20 are worth 4 points each
 
 **Answer:** A
-[[Quesiti/src_kangourou_2001_benjamin#q10|src_kangourou_2001_benjamin__Q10]]
 
 
 
@@ -448,7 +438,6 @@ When Nikita and Sasha meet again
 > - **(E)** You can't answer, because it depends on the length of the track.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2001_benjamin#q11|src_kangourou_2001_benjamin__Q11]]
 
 
 
@@ -490,7 +479,6 @@ When Nikita and Sasha meet again
 > - **(E)** 2001. Kangourou 15 March 2001, category Benjamin. Page No. 4
 
 **Answer:** A
-[[Quesiti/src_kangourou_2001_benjamin#q12|src_kangourou_2001_benjamin__Q12]]
 
 
 
@@ -532,7 +520,6 @@ When Nikita and Sasha meet again
 > (E) 96 cm.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2001_benjamin#q13|src_kangourou_2001_benjamin__Q13]]
 
 
 
@@ -576,7 +563,6 @@ When Nikita and Sasha meet again
 > - **(E)** 88.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2001_benjamin#q14|src_kangourou_2001_benjamin__Q14]]
 
 
 
@@ -618,7 +604,6 @@ Red dragon heads
 > - **(E)** 16.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2001_benjamin#q15|src_kangourou_2001_benjamin__Q15]]
 
 
 
@@ -660,7 +645,6 @@ Red dragon heads
 > - **(E)** 100 m.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2001_benjamin#q16|src_kangourou_2001_benjamin__Q16]]
 
 
 
@@ -703,7 +687,6 @@ Red dragon heads
 > - **(E)** 40 minutes.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2001_benjamin#q17|src_kangourou_2001_benjamin__Q17]]
 
 
 
@@ -743,7 +726,6 @@ Red dragon heads
 > - **(D)** 12 years (E) 15 years. Kangourou 15 March 2001, category Benjamin. Page No. 5
 
 **Answer:** D
-[[Quesiti/src_kangourou_2001_benjamin#q18|src_kangourou_2001_benjamin__Q18]]
 
 
 
@@ -791,7 +773,6 @@ Red dragon heads
 > - **(E)** 900.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2001_benjamin#q19|src_kangourou_2001_benjamin__Q19]]
 
 
 
@@ -837,7 +818,6 @@ Red dragon heads
 > - **(E)** 70. Questions from No. 21 to No. 30 are worth 5 points each
 
 **Answer:** B
-[[Quesiti/src_kangourou_2001_benjamin#q20|src_kangourou_2001_benjamin__Q20]]
 
 
 
@@ -883,7 +863,6 @@ Red dragon heads
 > - **(E)** 8 cm.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2001_benjamin#q21|src_kangourou_2001_benjamin__Q21]]
 
 
 
@@ -932,7 +911,6 @@ Red dragon heads
 > - **(E)** 37. Kangourou 15 March 2001, category Benjamin. Page N. 6
 
 **Answer:** B
-[[Quesiti/src_kangourou_2001_benjamin#q22|src_kangourou_2001_benjamin__Q22]]
 
 
 
@@ -976,7 +954,6 @@ Red dragon heads
 > - **(E)** 21.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2001_benjamin#q23|src_kangourou_2001_benjamin__Q23]]
 
 
 
@@ -1041,7 +1018,6 @@ Red dragon heads
 > - **(E)** 12.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2001_benjamin#q24|src_kangourou_2001_benjamin__Q24]]
 
 
 
@@ -1090,7 +1066,6 @@ Red dragon heads
 > - **(E)** 96.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2001_benjamin#q25|src_kangourou_2001_benjamin__Q25]]
 
 
 
@@ -1134,7 +1109,6 @@ Red dragon heads
 > - **(E)** less than 17.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2001_benjamin#q26|src_kangourou_2001_benjamin__Q26]]
 
 
 
@@ -1181,7 +1155,6 @@ Red dragon heads
 > - **(E)** 85.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2001_benjamin#q27|src_kangourou_2001_benjamin__Q27]]
 
 
 
@@ -1252,7 +1225,6 @@ Red dragon heads
 > - **(E)** 18. Kangourou 15 March 2001, category Benjamin. Page N. 7
 
 **Answer:** C
-[[Quesiti/src_kangourou_2001_benjamin#q28|src_kangourou_2001_benjamin__Q28]]
 
 
 
@@ -1286,7 +1258,6 @@ Red dragon heads
 > All of the following solids, obtained by adjoining identical cubes, have the same volume. Which has the largest total surface area?
 
 **Answer:** A
-[[Quesiti/src_kangourou_2001_benjamin#q29|src_kangourou_2001_benjamin__Q29]]
 
 
 
@@ -1331,4 +1302,3 @@ Red dragon heads
 > - **(E)** 38. Answers category Benjamin, 15 March 2001. Page No. 1 Answers Category Benjamin Competition of 15 March 2001
 
 **Answer:** D
-[[Quesiti/src_kangourou_2001_benjamin#q30|src_kangourou_2001_benjamin__Q30]]

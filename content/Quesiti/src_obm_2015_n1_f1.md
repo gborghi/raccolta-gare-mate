@@ -49,7 +49,6 @@ level: OBM Nível 1
 > - **(E)** B-A-M-V
 
 **Risposta:** C
-[[Quesiti/src_obm_2015_n1_f1#q01|src_obm_2015_n1_f1__Q01]]
 
 
 
@@ -91,7 +90,6 @@ level: OBM Nível 1
 > - **(E)** 54 minuti
 
 **Risposta:** D
-[[Quesiti/src_obm_2015_n1_f1#q02|src_obm_2015_n1_f1__Q02]]
 
 
 
@@ -134,7 +132,6 @@ level: OBM Nível 1
 > - **(E)** 4029
 
 **Risposta:** E
-[[Quesiti/src_obm_2015_n1_f1#q03|src_obm_2015_n1_f1__Q03]]
 
 
 
@@ -177,7 +174,6 @@ level: OBM Nível 1
 > - **(E)** 64
 
 **Risposta:** E
-[[Quesiti/src_obm_2015_n1_f1#q04|src_obm_2015_n1_f1__Q04]]
 
 
 
@@ -221,8 +217,6 @@ level: OBM Nível 1
 > - **(E)** 30
 
 ![[src_obm_2015_n1_f1__q05.png]]
-
-[[Quesiti/src_obm_2015_n1_f1#q05|src_obm_2015_n1_f1__Q05]]
 
 
 
@@ -268,7 +262,6 @@ level: OBM Nível 1
 ![[src_obm_2015_n1_f1__q06.png]]
 
 **Risposta:** A
-[[Quesiti/src_obm_2015_n1_f1#q06|src_obm_2015_n1_f1__Q06]]
 
 
 
@@ -310,7 +303,6 @@ level: OBM Nível 1
 > - **(E)** 202
 
 **Risposta:** C
-[[Quesiti/src_obm_2015_n1_f1#q07|src_obm_2015_n1_f1__Q07]]
 
 
 
@@ -350,8 +342,6 @@ level: OBM Nível 1
 > - **(C)** 6
 > - **(D)** 7
 > - **(E)** 9
-
-[[Quesiti/src_obm_2015_n1_f1#q08|src_obm_2015_n1_f1__Q08]]
 
 
 
@@ -396,8 +386,6 @@ level: OBM Nível 1
 
 ![[src_obm_2015_n1_f1__q09.png]]
 
-[[Quesiti/src_obm_2015_n1_f1#q09|src_obm_2015_n1_f1__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -435,8 +423,6 @@ level: OBM Nível 1
 > - **(C)** R\$15.00
 > - **(D)** R\$18.00
 > - **(E)** R\$20.00
-
-[[Quesiti/src_obm_2015_n1_f1#q10|src_obm_2015_n1_f1__Q10]]
 
 
 
@@ -479,8 +465,6 @@ level: OBM Nível 1
 > - **(E)** $250\,\text{cm}^2$
 
 ![[src_obm_2015_n1_f1__q11.png]]
-
-[[Quesiti/src_obm_2015_n1_f1#q11|src_obm_2015_n1_f1__Q11]]
 
 
 
@@ -525,8 +509,6 @@ level: OBM Nível 1
 
 ![[src_obm_2015_n1_f1__q12.png]]
 
-[[Quesiti/src_obm_2015_n1_f1#q12|src_obm_2015_n1_f1__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_estremalita,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -570,8 +552,6 @@ level: OBM Nível 1
 
 ![[src_obm_2015_n1_f1__q13.png]]
 
-[[Quesiti/src_obm_2015_n1_f1#q13|src_obm_2015_n1_f1__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_stima"></span>
@@ -613,7 +593,6 @@ level: OBM Nível 1
 > - **(E)** 55
 
 **Risposta:** B
-[[Quesiti/src_obm_2015_n1_f1#q14|src_obm_2015_n1_f1__Q14]]
 
 
 
@@ -674,7 +653,6 @@ level: OBM Nível 1
 > - **(E)** Le affermazioni precedenti non derivano dalle informazioni fornite.
 
 **Risposta:** E
-[[Quesiti/src_obm_2015_n1_f1#q15|src_obm_2015_n1_f1__Q15]]
 
 
 
@@ -714,8 +692,6 @@ level: OBM Nível 1
 > - **(C)** 450
 > - **(D)** 570
 > - **(E)** 999
-
-[[Quesiti/src_obm_2015_n1_f1#q16|src_obm_2015_n1_f1__Q16]]
 
 
 
@@ -762,7 +738,6 @@ level: OBM Nível 1
 ![[src_obm_2015_n1_f1__q17.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2015_n1_f1#q17|src_obm_2015_n1_f1__Q17]]
 
 
 
@@ -805,7 +780,6 @@ level: OBM Nível 1
 > - **(E)** 256
 
 **Risposta:** A
-[[Quesiti/src_obm_2015_n1_f1#q18|src_obm_2015_n1_f1__Q18]]
 
 
 
@@ -851,7 +825,6 @@ level: OBM Nível 1
 ![[src_obm_2015_n1_f1__q19.png]]
 
 **Risposta:** A
-[[Quesiti/src_obm_2015_n1_f1#q19|src_obm_2015_n1_f1__Q19]]
 
 
 
@@ -903,5 +876,3 @@ level: OBM Nível 1
 > - **(C)** 15
 > - **(D)** 16
 > - **(E)** 17
-
-[[Quesiti/src_obm_2015_n1_f1#q20|src_obm_2015_n1_f1__Q20]]

@@ -41,7 +41,6 @@ level: BMO Round 2
 > Esistono numeri interi $b, c$ in modo che l'equazione $$ax^2 - bx + c = 0$$ abbia due radici distinte nell'intervallo $0 < x < 1$.
 
 **Risposta:** 5
-[[Quesiti/src_bmo_1988-89_round2#q01|src_bmo_1988-89_round2__Q01]]
 
 
 
@@ -74,8 +73,6 @@ level: BMO Round 2
 > 
 > Indicare se è possibile generizzare il caso delle lettere $n$ che appaiono ciascuna cinque volte.
 
-[[Quesiti/src_bmo_1988-89_round2#q02|src_bmo_1988-89_round2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_induzione,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
@@ -103,8 +100,6 @@ level: BMO Round 2
 
 > Che $f(x)$ sia un polinomio di grado $n$ tale che $$f(k) = \frac{1}{k+1}, \quad k = 0, 1, 2, \ldots, n.$$ Trova $f(n+1)$, esprimendo il risultato il più semplicemente possibile.
 
-[[Quesiti/src_bmo_1988-89_round2#q03|src_bmo_1988-89_round2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_trigonometria,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -129,5 +124,3 @@ level: BMO Round 2
 *Ricerca BM nel triangolo ABC dato BAM e BMC hanno uguali inradii*
 
 > $M$ è un punto sul lato $AC$ del triangolo $ABC$ in modo tale che i triangoli $BAM$, $BMC$ abbiano scritti cerchi di uguale raggio. Trova la lunghezza di $BM$ in termini di lunghezza $a, b, c$ dei lati del triangolo $ABC$.
-
-[[Quesiti/src_bmo_1988-89_round2#q04|src_bmo_1988-89_round2__Q04]]

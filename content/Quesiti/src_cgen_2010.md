@@ -67,8 +67,6 @@ level: Concours Général
 > 
 > (Nota: la dichiarazione stampata utilizza diverse etichette di punti/cerchi che sono parzialmente illeggibili nella scansione sorgente; vedi avvertenze.)
 
-[[Quesiti/src_cgen_2010#q01|src_cgen_2010__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_geometria_piana,method_estremalita,method_conteggio,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -139,8 +137,6 @@ level: Concours Général
 > 4. Determinare $s(n)$ come funzione di $n$.
 > 
 > (Nota: la formulazione precisa delle due condizioni è parzialmente illeggibile nella scansione sorgente; vedere gli avvertimenti.)
-
-[[Quesiti/src_cgen_2010#q02|src_cgen_2010__Q02]]
 
 
 
@@ -252,5 +248,3 @@ level: Concours Général
 > d. Determinare i limiti di $(a_n)$, $(b_n)$, $(c_n)$.
 > 
 > e. Quale scenario ti sembra più pertinente?
-
-[[Quesiti/src_cgen_2010#q03|src_cgen_2010__Q03]]

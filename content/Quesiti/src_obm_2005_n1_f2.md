@@ -33,8 +33,6 @@ level: OBM Nível 1
 
 > Il serbatoio della macchina di Esmeralda ha una capacità di 60 litri e contiene una miscela di alcol del 20% e benzina dell'80%, a metà piena. Esmeralda chiese di aggiungere alcolici al serbatoio fino a che la miscela non diventasse uguale quantità di alcol e benzina. Quanti litri di alcol dovrebbero essere aggiunti?
 
-[[Quesiti/src_obm_2005_n1_f2#q01|src_obm_2005_n1_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_ricorsione,skill_riconoscimento_pattern,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
@@ -60,8 +58,6 @@ level: OBM Nível 1
 
 > Nella sequenza di numeri $1, a, 2, b, c, d, \ldots$ il primo termine è $1$, il secondo termine è $a$, il terzo termine è $2$, il quarto termine è $b$, e così via. È noto che questa sequenza ha termini del 2005 e che ogni termine, dal terzo in poi, è la media aritmetica dei due termini precedenti. Qual è l'ultimo termine (2005) di questa sequenza?
 
-[[Quesiti/src_obm_2005_n1_f2#q02|src_obm_2005_n1_f2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -86,8 +82,6 @@ level: OBM Nível 1
 Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
 
 > Natasha è superstiziosa e, a partire dalla pagina 1 del suo diario di 200 pagine, ha incrociato tutti i numeri in cui i numeri 1 e 3 appaiono insieme (in qualsiasi ordine). Per esempio, i numeri 31 e 137 non figurano nel diario, ma 103 invece. Qual è il numero che Natasha ha scritto sull'ultima pagina del suo diario?
-
-[[Quesiti/src_obm_2005_n1_f2#q03|src_obm_2005_n1_f2__Q03]]
 
 
 
@@ -126,8 +120,6 @@ Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
 
 ![[src_obm_2005_n1_f2__q04.png]]
 
-[[Quesiti/src_obm_2005_n1_f2#q04|src_obm_2005_n1_f2__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_casework,method_simmetria,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -152,8 +144,6 @@ Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
 *Contare i modi per dipingere cubetti uguali con facce arancione, non due identici*
 
 > Lara ha cubi uguali e vuole dipingere in modi diversi, usando il colore arancione per dipingere ciascuno dei 6 volti. Per due cubi che non possono essere confusi (cioè uno non può essere rotato per apparire identico all'altro), ad esempio, c'è solo un modo per dipingere un cubo con una faccia arancione. Quanti cubetti dipinti diversamente può ottenere?
-
-[[Quesiti/src_obm_2005_n1_f2#q05|src_obm_2005_n1_f2__Q05]]
 
 
 
@@ -184,8 +174,6 @@ Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
 
 ![[src_obm_2005_n1_f2__q06.png]]
 
-[[Quesiti/src_obm_2005_n1_f2#q06|src_obm_2005_n1_f2__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -215,8 +203,6 @@ Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
 
 ![[src_obm_2005_n1_f2__q07.png]]
 
-[[Quesiti/src_obm_2005_n1_f2#q07|src_obm_2005_n1_f2__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -241,8 +227,6 @@ Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
 *Ricerca tutti i multipli a 3 cifre di 7 dove il successore è multiple di 11*
 
 > Considerate tre numeri interi positivi consecutivi di tre cifre in modo tale che il più piccolo sia un multiple di $7$, il medio è un multiple di $9$, e il più grande è un multiple di $11$. Scrivi tutte le sequenze di numeri che soddisfano queste proprietà.
-
-[[Quesiti/src_obm_2005_n1_f2#q08|src_obm_2005_n1_f2__Q08]]
 
 
 
@@ -280,5 +264,3 @@ Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
 > (b) Spiegate perché non è possibile fare lo stesso con tutti i 10 pezzi formati solo dai numeri 1, 2, 3 e 4.
 
 ![[src_obm_2005_n1_f2__q09.png]]
-
-[[Quesiti/src_obm_2005_n1_f2#q09|src_obm_2005_n1_f2__Q09]]

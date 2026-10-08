@@ -33,8 +33,6 @@ level: China Mathematical Olympiad
 
 > Supponiamo che i punti $I$ e $H$ siano rispettivamente l'incentro e l'ortocentro di un triangolo acuto $ABC$, e che i punti $B_1$ e $C_1$ siano rispettivamente i punti medi dei lati $AC$ e $AB$. È noto che il raggio $B_1I$ interseca il lato $AB$ a $B_2$ (o la sua estensione), $C_1I$ interseca l'estensione $AC$ a $C_2$, $B_2C_2$ e $BC$ interseca a $K$, e $A_1$ è il circoncentro di $\triangle BHC$. Prova che i tre punti $A_1$, $I$ e $A$ sono collineari se e solo se le superfici di $\triangle B_1B_2K$ e $\triangle C_1C_2K$ sono uguali. (Posizionato da Shen Wenxuan)
 
-[[Quesiti/src_cn_cmo_2003#q01|src_cn_cmo_2003__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,skill_conteggio_sistematico,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
@@ -70,7 +68,6 @@ level: China Mathematical Olympiad
 > Find the maximum number of elements in $S$. (posed by Yao Jiangang)
 
 **Risposta:** 72
-[[Quesiti/src_cn_cmo_2003#q02|src_cn_cmo_2003__Q02]]
 
 
 
@@ -99,7 +96,6 @@ level: China Mathematical Olympiad
 > Data un numero intero positivo $n$, trovare il valore minimo $\lambda$ tale che $\cos\theta_1 + \cos\theta_2 + \cdots + \cos\theta_n < \lambda$ sia valido ogni volta che $\tan\theta_1 \cdot \tan\theta_2 \cdots \tan\theta_n = 2^{\frac{n}{2}}$ per qualsiasi $\theta_i \in \left(0, \frac{\pi}{2}\right)$, $i = 1, 2, \ldots, n$. (Posizionato da Huang Yumin)
 
 **Risposta:** n-1
-[[Quesiti/src_cn_cmo_2003#q03|src_cn_cmo_2003__Q03]]
 
 
 
@@ -125,8 +121,6 @@ level: China Mathematical Olympiad
 *Ricerca tutti i tripli interi (a,m,n) con a^n+203 divisibile da a^m+1*
 
 > Trovare tutti i gruppi di interi interi positivi ternali $(a, m, n)$ soddisfacendo $a \ge 2$ e $m \ge 2$ in modo tale che $a^n + 203$ sia un multiple di $a^m + 1$. (Possibile da Chen Yonggao)
-
-[[Quesiti/src_cn_cmo_2003#q04|src_cn_cmo_2003__Q04]]
 
 
 
@@ -163,8 +157,6 @@ Prove probabilità >70% di assumere uno dei primi 3 candidati da 10 candidati
 > 
 > Provare che la politica data dal gestore ha le seguenti due proprietà: (1) La probabilità che l'impresa impiega uno dei tre principali (cioè: $A_1$, $A_2$ o $A_3$) è maggiore di $70\%$. (2) La probabilità che l'azienda impiega uno dei tre ultimi non è superiore a $10\%$. (Posizionato da Su Chun)
 
-[[Quesiti/src_cn_cmo_2003#q05|src_cn_cmo_2003__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_disuguaglianze,topic_geometria_analitica,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -191,5 +183,3 @@ Prove probabilità >70% di assumere uno dei primi 3 candidati da 10 candidati
 *Ineguaglianza per quattro punti sul cerchio unitario con ab+cd=1*
 
 > Supponiamo che $a$, $b$, $c$ e $d$ siano numeri reali positivi che soddisfano $ab + cd = 1$ e $P_i(x_i, y_i)$ ($i = 1, 2, 3, 4$) sono quattro punti sul cerchio unitario che ha l'origine come centro. Dimostrare che $$(ay_1 + by_2 + cy_3 + dy_4)^2 + (ax_4 + bx_3 + cx_2 + dx_1)^2 \le 2\left(\frac{a^2+b^2}{ab} + \frac{c^2+d^2}{cd}\right).$$ (posato da Li Shenghong)
-
-[[Quesiti/src_cn_cmo_2003#q06|src_cn_cmo_2003__Q06]]

@@ -35,8 +35,6 @@ level: Olimpiade Polacca Round 1
 
 > Risolvere la seguente equazione nei numeri reali $$|x| + |x+2| + |x+4| + |x+6| + \cdots + |x+998| =$$ $$= |x+1| + |x+3| + |x+5| + \cdots + |x+7| + \cdots + |x+999|.$$
 
-[[Quesiti/src_pol_2002_r1#q01|src_pol_2002_r1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -61,8 +59,6 @@ level: Olimpiade Polacca Round 1
 *Triangolo con quadrati costruiti verso l'esterno su due lati; trovare tutti i valori di MN:BC dove M, N sono i punti di mezzo di due segmenti.*
 
 > $ABC$ è un triangolo dato. $ABDE$ e $ACFG$ sono i quadrati disegnati fuori dal triangolo. I punti $M$ e $N$ sono rispettivamente i punti intermedi di $DG$ e $EF$. Trova tutti i valori della razione $MN : BC$.
-
-[[Quesiti/src_pol_2002_r1#q02|src_pol_2002_r1__Q02]]
 
 
 
@@ -91,8 +87,6 @@ level: Olimpiade Polacca Round 1
 
 > Provare che il numero $$\sum_{n=0}^{10^{10}} \binom{2 \cdot 10^{10}}{2n} 5^n$$ è divisibile da $2^{10^{10}-1}$.
 
-[[Quesiti/src_pol_2002_r1#q03|src_pol_2002_r1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_insiemi_funzioni,method_fattorizzazione,method_simmetria,skill_astrazione,skill_manipolazione_algebrica"></span>
@@ -118,8 +112,6 @@ level: Olimpiade Polacca Round 1
 
 > Prova che il grafico del polinomio $W(x)$ con $\deg W > 1$ possiede un asse di simmetria se e solo se esistono polinomi $F(x), G(x)$ come $W(x) = F(G(x))$ e $\deg G = 2$.
 
-[[Quesiti/src_pol_2002_r1#q04|src_pol_2002_r1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,skill_astrazione,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -143,8 +135,6 @@ level: Olimpiade Polacca Round 1
 *Dimostrare che per ogni k c'è un intero positivo m in modo che m, 2m, ..., m! hanno esattamente k numeri non zero nella loro espansione binomial.*
 
 > Prova che per ogni intero positivo $k$ esiste un intero positivo $m$ tale che per i numeri $m, 2m, 3m, \ldots, m!$ ci siano esattamente $k$ cifre non zero nell'espansione binomial.
-
-[[Quesiti/src_pol_2002_r1#q05|src_pol_2002_r1__Q05]]
 
 
 
@@ -170,8 +160,6 @@ level: Olimpiade Polacca Round 1
 Un cerchio divide ogni lato di un rombo in tre pezzi; i 12 segmenti sono colorati in tre colori; dimostrare che il totale rosso è uguale al totale bianco.
 
 > Un cerchio divide tutti i lati di un rombo in tre pezzi. Partendo da un vertex del rombo e andando in una direzione fissa lungo il confine del rombo i 12 segmenti sono colorati rosso, verde e bianco successivamente. Prove che la somma delle lunghezze dei segmenti rossi è uguale alla somma delle lunghezze dei segmenti bianchi.
-
-[[Quesiti/src_pol_2002_r1#q06|src_pol_2002_r1__Q06]]
 
 
 
@@ -202,8 +190,6 @@ Un cerchio divide ogni lato di un rombo in tre pezzi; i 12 segmenti sono colorat
 > 
 > \textit{Remark.} Supponiamo che nessuno si inserisca nel gruppo dei suoi conoscenti e che $A$ conosca $B$ se e solo se $B$ conosce $A$.
 
-[[Quesiti/src_pol_2002_r1#q07|src_pol_2002_r1__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
@@ -228,8 +214,6 @@ Un cerchio divide ogni lato di un rombo in tre pezzi; i 12 segmenti sono colorat
 *Lasciate che S(n) sia la somma digitali di n; dimostri che S(2n^2+3) non è mai un quadrato perfetto.*
 
 > $S(n)$ indichi la somma dei numeri $n$. Prova che per ogni intero positivo $n$ il numero $S(2n^2 + 3)$ non è il quadrato di un intero.
-
-[[Quesiti/src_pol_2002_r1#q08|src_pol_2002_r1__Q08]]
 
 
 
@@ -256,8 +240,6 @@ Un cerchio divide ogni lato di un rombo in tre pezzi; i 12 segmenti sono colorat
 
 > Una piana interseca i bordi laterali di un prisma con una base esagonale nei punti $D_1, D_2, \ldots, D_6$. L'insieme di intersezioni $D_1 D_2 D_3 D_4 D_5 D_6$ è un esagono converso. Indicare per $d_i$ la distanza del punto $D_i$ dalla pianura che contiene una base fissa del prisma. Prove che $d_1^2 + d_3^2 + d_5^2 = d_2^2 + d_4^2 + d_6^2$.
 
-[[Quesiti/src_pol_2002_r1#q09|src_pol_2002_r1__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,method_invarianti,method_colorazione,skill_astrazione,skill_riconoscimento_pattern,skill_modellizzazione"></span>
@@ -282,8 +264,6 @@ Un cerchio divide ogni lato di un rombo in tre pezzi; i 12 segmenti sono colorat
 *Su una lavagna 2000x2000 con una pietra su ciascun campo, si muovono due pietre tre a parte sul centro; si decide se tutte le pietre possono finire su un campo.*
 
 > Su ogni campo di una scacchiera $2000 \times 2000$ si trova una pietra. Le pietre possono essere spostate nel modo seguente: Colmare tre campi successivi in fila o in colonna. Se sul primo e sul terzo campo si trova una pietra, allora queste due pietre possono essere spostate sul secondo campo. (Nota che un movimento può essere eseguito indipendentemente dal numero di pietre che si trovano sul mezzo archivato.) Prova o smentire: Esiste una sequenza di movimenti tale che alla fine tutte le pietre si trovano su un campo della scacchiera.
-
-[[Quesiti/src_pol_2002_r1#q10|src_pol_2002_r1__Q10]]
 
 
 
@@ -311,8 +291,6 @@ Un cerchio divide ogni lato di un rombo in tre pezzi; i 12 segmenti sono colorat
 
 > Nel triangolo $ABC$ si trova $\angle B > \angle C$. Il punto $D$ si trova sul lato $BC$ e soddisfa l'uguaglianza $\angle DAC = (1/2)(\angle B - \angle C)$. Il cerchio tangente alla linea $AC$ nel punto $A$ e contenente il punto $D$ interseca la linea $AB$ nel punto $P \ne A$. Provare che $$\frac{BP}{AC} = \frac{BD}{DC}.$$
 
-[[Quesiti/src_pol_2002_r1#q11|src_pol_2002_r1__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
@@ -338,5 +316,3 @@ Un cerchio divide ogni lato di un rombo in tre pezzi; i 12 segmenti sono colorat
 *Una sequenza di interi positivi non in diminuzione ha esattamente k valori uguali a k; trovare tutti i primi tra le sue somme parziali.*
 
 > In una sequenza non diminuente $a_1, a_2, a_3, \ldots$ tutti i valori sono interi positivi e esattamente $k$ i valori sono uguali a $k$. Trova tutti i numeri primi del modulo $$a_1 + a_2 + \cdots + a_n.$$
-
-[[Quesiti/src_pol_2002_r1#q12|src_pol_2002_r1__Q12]]

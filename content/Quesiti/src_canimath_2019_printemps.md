@@ -37,8 +37,6 @@ level: Coupe Animath Printemps
 > 
 > Trova tutti i numeri reali $x$ in modo tale che $\lfloor x \rfloor \times \{x\} = 2019 \times x$.
 
-[[Quesiti/src_canimath_2019_printemps#q01|src_canimath_2019_printemps__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_congruenze,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -63,8 +61,6 @@ level: Coupe Animath Printemps
 *Contare i numeri a 8 cifre ab2019cd divisibili per 360*
 
 > Quanti sono i numeri a 8 cifre la cui espansione decimale ha la forma $\overline{ab2019cd}$ (dove $a$, $b$, $c$, $d$ sono cifre) e che sono divisibili da $360$?
-
-[[Quesiti/src_canimath_2019_printemps#q02|src_canimath_2019_printemps__Q02]]
 
 
 
@@ -95,8 +91,6 @@ level: Coupe Animath Printemps
 > 
 > Indicare che l'area del quadrilaterale $DXYZ$ soddisfa $a + b = c$.
 
-[[Quesiti/src_canimath_2019_printemps#q03|src_canimath_2019_printemps__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_invarianti,method_estremalita,method_casework,skill_modellizzazione,skill_ragionamento_geometrico,skill_stima,skill_riconoscimento_pattern"></span>
@@ -125,8 +119,6 @@ level: Coupe Animath Printemps
 > Considera una grande griglia quadrata di lato $10$, divisa in unità quadrate di lato $1$. Due unità quadrate sono chiamate vicine se condividono un lato. In ogni unità quadrata è scritto un numero reale. Inoltre, le rane $5$ sono posizionate sulla griglia; da un istante all'altro ciascuna rane può spostarsi in un quadrato vicino. A ogni istante ogni rana legge il numero nel suo quadrato corrente.
 > 
 > Supponiamo che la somma dei numeri visibili a tutte e cinque le rane sia $10^1$ all'istante $1$, $10^2$ all'istante $2$, $10^3$ all'istante $3$, e in generale $10^k$ all'istante $k$. Qual è il valore più grande possibile di $k$ per il quale la somma può essere uguale a $10^k$?
-
-[[Quesiti/src_canimath_2019_printemps#q04|src_canimath_2019_printemps__Q04]]
 
 
 
@@ -157,8 +149,6 @@ Se il pavimento x^2) = pavimento x^2, mostrare il pavimento x^2), il pavimento x
 > 
 > Supponiamo che $x$ sia un numero reale positivo tale che $\lfloor x^2 \rfloor = \lfloor x \rfloor^2$. Mostrare che $\lfloor x^2 \rfloor$, $\lfloor x^3 \rfloor$ e $\lfloor x^4 \rfloor$ sono tutti quadrati perfetti di numeri interi.
 
-[[Quesiti/src_canimath_2019_printemps#q05|src_canimath_2019_printemps__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -187,8 +177,6 @@ Se il pavimento x^2) = pavimento x^2, mostrare il pavimento x^2), il pavimento x
 > $ABCD$ sia un parallelo, e $P$ sia un punto all'interno di $ABCD$ tale da $CP = CB$. $M$ e $N$ siano rispettivamente i punti intermedi di $[AP]$ e $[CD]$.
 > 
 > Indicare che le linee $(BP)$ e $(MN)$ sono perpendicolari.
-
-[[Quesiti/src_canimath_2019_printemps#q06|src_canimath_2019_printemps__Q06]]
 
 
 
@@ -219,8 +207,6 @@ Se il pavimento x^2) = pavimento x^2, mostrare il pavimento x^2), il pavimento x
 > 
 > Indicare che esiste $N$ in modo tale che per tutti $n > N$, il numero intero $u_n$ sia divisibile da $3^{2019}$.
 
-[[Quesiti/src_canimath_2019_printemps#q07|src_canimath_2019_printemps__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,method_estremalita,method_doppio_conteggio,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_stima,skill_riconoscimento_pattern"></span>
@@ -249,5 +235,3 @@ Se il pavimento x^2) = pavimento x^2, mostrare il pavimento x^2), il pavimento x
 > $m$ e $n$ siano integri con $m \geq 3$. In una griglia $m \times n$, ogni quadrato unitario è di colore blu o rosso. $A$ è il numero di righe in cui i quadrati blu sono in maggioranza, e $B$ il numero di colonne in cui i quadrati rossi sono in maggioranza.
 > 
 > Qual è il valore più grande possibile di $A + B$?
-
-[[Quesiti/src_canimath_2019_printemps#q08|src_canimath_2019_printemps__Q08]]

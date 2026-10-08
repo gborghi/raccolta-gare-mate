@@ -47,7 +47,6 @@ level: biennio
 > - **(E)** None of the previous ones.
 
 **Answer:** D
-[[Quesiti/src_archimede_1996_biennio#q01|src_archimede_1996_biennio__Q01]]
 
 
 
@@ -88,7 +87,6 @@ level: biennio
 > - **(E)** None of the previous ones.
 
 **Answer:** D
-[[Quesiti/src_archimede_1996_biennio#q02|src_archimede_1996_biennio__Q02]]
 
 
 
@@ -134,7 +132,6 @@ level: biennio
 > - **(E)** the information is insufficient.
 
 **Answer:** A
-[[Quesiti/src_archimede_1996_biennio#q03|src_archimede_1996_biennio__Q03]]
 
 
 
@@ -175,7 +172,6 @@ level: biennio
 > - **(E)** the weight of the bucket cannot be determined.
 
 **Answer:** B
-[[Quesiti/src_archimede_1996_biennio#q04|src_archimede_1996_biennio__Q04]]
 
 
 
@@ -218,7 +214,6 @@ level: biennio
 > - **(E)** 19:00.
 
 **Answer:** B
-[[Quesiti/src_archimede_1996_biennio#q05|src_archimede_1996_biennio__Q05]]
 
 
 
@@ -267,7 +262,6 @@ level: biennio
 > - **(E)** The three areas are the same.
 
 **Answer:** E
-[[Quesiti/src_archimede_1996_biennio#q06|src_archimede_1996_biennio__Q06]]
 
 
 
@@ -309,7 +303,6 @@ level: biennio
 > - **(E)** When I don't have breakfast, I never go to school.
 
 **Answer:** D
-[[Quesiti/src_archimede_1996_biennio#q07|src_archimede_1996_biennio__Q07]]
 
 
 
@@ -351,7 +344,6 @@ level: biennio
 > - **(E)** The previous answers are all wrong.
 
 **Answer:** E
-[[Quesiti/src_archimede_1996_biennio#q08|src_archimede_1996_biennio__Q08]]
 
 
 
@@ -394,7 +386,6 @@ level: biennio
 > - **(E)** 20 s.
 
 **Answer:** C
-[[Quesiti/src_archimede_1996_biennio#q09|src_archimede_1996_biennio__Q09]]
 
 
 
@@ -464,7 +455,6 @@ level: biennio
 > - **(E)** The previous answers are all wrong.
 
 **Answer:** B
-[[Quesiti/src_archimede_1996_biennio#q10|src_archimede_1996_biennio__Q10]]
 
 
 
@@ -508,7 +498,6 @@ level: biennio
 > - **(E)** 495 kg.
 
 **Answer:** A
-[[Quesiti/src_archimede_1996_biennio#q11|src_archimede_1996_biennio__Q11]]
 
 
 
@@ -549,7 +538,6 @@ level: biennio
 > - **(E)** It's impossible to determine.
 
 **Answer:** C
-[[Quesiti/src_archimede_1996_biennio#q12|src_archimede_1996_biennio__Q12]]
 
 
 
@@ -598,7 +586,6 @@ level: biennio
 > - **(E)** - What?
 
 **Answer:** D
-[[Quesiti/src_archimede_1996_biennio#q13|src_archimede_1996_biennio__Q13]]
 
 
 
@@ -639,7 +626,6 @@ level: biennio
 > - **(E)** 7693.
 
 **Answer:** B
-[[Quesiti/src_archimede_1996_biennio#q14|src_archimede_1996_biennio__Q14]]
 
 
 
@@ -683,7 +669,6 @@ The probability of one team winning all matches
 > - **(E)** 2 3.
 
 **Answer:** D
-[[Quesiti/src_archimede_1996_biennio#q15|src_archimede_1996_biennio__Q15]]
 
 
 
@@ -765,7 +750,6 @@ The probability of one team winning all matches
 > - **(E)** 3 √ 2.
 
 **Answer:** D
-[[Quesiti/src_archimede_1996_biennio#q16|src_archimede_1996_biennio__Q16]]
 
 
 
@@ -814,7 +798,6 @@ The probability of one team winning all matches
 > - **(E)** The data on the problem is insufficient.
 
 **Answer:** A
-[[Quesiti/src_archimede_1996_biennio#q17|src_archimede_1996_biennio__Q17]]
 
 
 
@@ -856,7 +839,6 @@ The probability of one team winning all matches
 > - **(E)** You can have four.
 
 **Answer:** D
-[[Quesiti/src_archimede_1996_biennio#q18|src_archimede_1996_biennio__Q18]]
 
 
 
@@ -900,7 +882,6 @@ Which bag is most likely given the white ball
 > - **(E)** All the bags have the same probability of being extracted.
 
 **Answer:** A
-[[Quesiti/src_archimede_1996_biennio#q19|src_archimede_1996_biennio__Q19]]
 
 
 
@@ -984,4 +965,3 @@ Which bag is most likely given the white ball
 > - **(E)** 170°.
 
 **Answer:** D
-[[Quesiti/src_archimede_1996_biennio#q20|src_archimede_1996_biennio__Q20]]

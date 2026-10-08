@@ -35,7 +35,6 @@ level: China Southeastern Mathematical Olympiad
 > È dato il set $S = \{1, 2, 3, \cdots, 3n\}$ dove $n$ è un intero positivo. $T$ è un sottoinsieme di $S$ tale che, per qualsiasi $x, y, z \in T$ (dove $x$, $y$, $z$ possono essere uguali), $x + y \neq z$. Trova il valore massimo del numero di elementi in tale insieme.
 
 **Risposta:** 2n
-[[Quesiti/src_cn_csmo_2008#q01|src_cn_csmo_2008__Q01]]
 
 
 
@@ -63,8 +62,6 @@ level: China Southeastern Mathematical Olympiad
 *Trova termine generale di ricorrenza a_{n+1}=2a_n+n(1+2^n)*
 
 > È data la sequenza $\{a_n\}$: $a_1 = 1$, $$a_{n+1} = 2a_n + n \cdot (1 + 2^n), \quad n = 1, 2, 3, \cdots.$$ Trova il termine generale $a_n$.
-
-[[Quesiti/src_cn_csmo_2008#q02|src_cn_csmo_2008__Q02]]
 
 
 
@@ -94,8 +91,6 @@ level: China Southeastern Mathematical Olympiad
 > In $\triangle ABC$, $BC > AB$, $BD$ divide $\angle ABC$ e incrocia $AC$ a $D$. Come mostrato nella figura, $CP \perp BD$ con $P$ come piede perpendicolare e $AQ \perp BP$ con $Q$ come piede perpendicolare. I punti $M$ e $E$ sono rispettivamente i punti intermedi di $AC$ e $BC$. Il cerchio circoscritto $O$ di $\triangle PQM$ interseca $AC$ al punto $H$. Provare che $O$, $H$, $E$, $M$ sono conciclici.
 
 ![[src_cn_b07_w182__q03.png]]
-
-[[Quesiti/src_cn_csmo_2008#q03|src_cn_csmo_2008__Q03]]
 
 
 
@@ -144,7 +139,6 @@ level: China Southeastern Mathematical Olympiad
 > (2) il residuo di $f(2008)$ diviso per $13$.
 
 **Risposta:** f(10) = 8008; f(2008) \equiv 10 \pmod{13}
-[[Quesiti/src_cn_csmo_2008#q04|src_cn_csmo_2008__Q04]]
 
 
 
@@ -177,7 +171,6 @@ level: China Southeastern Mathematical Olympiad
 > where $x^2 + y^2 + z^2 = 1$.
 
 **Risposta:** 2
-[[Quesiti/src_cn_csmo_2008#q05|src_cn_csmo_2008__Q05]]
 
 
 
@@ -208,8 +201,6 @@ level: China Southeastern Mathematical Olympiad
 
 ![[src_cn_b07_w182__q06.png]]
 
-[[Quesiti/src_cn_csmo_2008#q06|src_cn_csmo_2008__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_casework_accurato,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -238,5 +229,3 @@ La strategia vincente del capitano Jack nel gioco di selezione della scatola d'o
 > Il capitano Jack e i suoi pirati hanno derubato 6 scatole di monete d'oro. Nella casella $A_i$ ($i = 1, 2, 3, 4, 5, 6$) e $a_i \neq a_j$ ($i \neq j$) ci sono monete $a_i$. Hanno posto le scatole come mostrato nella figura. Il capitano Jack si alternerebbe con un pirata nominato per scegliere una scatola. La regola era: ogni persona poteva scegliere solo una scatola adiacente ad un massimo di scatola. Se il capitano Jack avesse più monete d'oro dei pirati, il capitano avrebbe vinto. Se il capitano Jack fu il primo, quale dovrebbe essere la sua strategia per vincere la partita?
 
 ![[src_cn_b07_w182__q07.png]]
-
-[[Quesiti/src_cn_csmo_2008#q07|src_cn_csmo_2008__Q07]]

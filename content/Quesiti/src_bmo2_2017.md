@@ -33,8 +33,6 @@ level: BMO Round 2
 
 > Questo problema riguarda i triangoli che hanno vertici con coordinate interi nel solito piano di coordinate $x,y$. Per quanti numeri interi positivi $n<2017$ è possibile disegnare un triangolo a rettangolo di isosceles in modo tale che esattamente $n$ punti sul suo perimetro, compresi tutti e tre i suoi vertici, abbiano coordinate interi?
 
-[[Quesiti/src_bmo2_2017#q01|src_bmo2_2017__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_stima"></span>
@@ -66,8 +64,6 @@ level: BMO Round 2
 > 
 > [Questi sono alcuni esempi di utilizzo di $\lfloor x \rfloor$: $\lfloor \pi \rfloor = 3$, $\lfloor 1729 \rfloor = 1729$ e $\left\lfloor \frac{2017}{1000} \right\rfloor = 2$.]
 
-[[Quesiti/src_bmo2_2017#q02|src_bmo2_2017__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
@@ -93,8 +89,6 @@ level: BMO Round 2
 
 > Considerate un quadrilaterale ciclico $ABCD$. Le diagonali $AC$ e $BD$ si incontrano a $P$, e i raggi $AD$ e $BC$ si incontrano a $Q$. Il bisettore di angolo interno $\angle BQA$ incontra $AC$ a $R$ e il bisettore di angolo interno $\angle APD$ incontra $AD$ a $S$. Provare che $RS$ è parallelo a $CD$.
 
-[[Quesiti/src_bmo2_2017#q03|src_bmo2_2017__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_logica,method_casework,method_estremalita,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione,skill_casework_accurato"></span>
@@ -119,5 +113,3 @@ level: BMO Round 2
 *Una cassaforte ha bisogno di un codice a 3 cifre; una sonda risponde Fallo se nessuna cifra è corretta, altrimenti Chiudi (anche quando tutte sono corrette); trova il minor numero di tentativi in una strategia ottimale che garantisca che il codice sia conosciuto.*
 
 > La cassaforte incastrata di Bobby richiede un codice a 3 cifre per sbloccarla. Alex ha una sonda che puo' testare le combinazioni senza scriverle sulla cassaforte. La sonda risponde $\textit{Fail}$ se nessuna cifra individuale è corretta. Altrimenti risponde $\textit{Close}$, anche quando tutti i numeri sono corretti. Ad esempio, se il codice corretto è 014, allora le risposte a 099 e 014 sono entrambe Close, ma la risposta a 140 è Fail. Se Alex sta seguendo una strategia ottimale, qual è il minor numero di tentativi necessari per garantire che conosca il codice corretto, qualunque sia?
-
-[[Quesiti/src_bmo2_2017#q04|src_bmo2_2017__Q04]]

@@ -70,8 +70,6 @@ level: Concours Général
 > 
 > \textbf{c.} Mostra che esiste una sequenza geometrica unica $(y_n)$ tale che, per ogni numero naturale $n$, $$|y_n - x_n| \le \frac{\varepsilon}{q-1}.$$
 
-[[Quesiti/src_cgen_2014#q01|src_cgen_2014__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_probabilita,topic_combinatoria,method_conteggio,method_casi_conteggio,skill_modellizzazione,skill_conteggio_sistematico,skill_stima"></span>
@@ -120,8 +118,6 @@ level: Concours Général
 > Determinare la probabilità che ci sia un vincitore unico, quindi il limite di questa probabilità come $n$ tende all'infinito.
 > 
 > Determinare il numero atteso di vincitori, quindi il limite di questa aspettativa come $n$ tende all'infinito.
-
-[[Quesiti/src_cgen_2014#q02|src_cgen_2014__Q02]]
 
 
 
@@ -229,5 +225,3 @@ level: Concours Général
 > \textbf{6.} Mostrare che se $\omega$ è un numero cattivo, allora ammette un infinito di bloccanti.
 > 
 > \textit{Per informazioni, si può dimostrare che ci sono esattamente $22$ buoni numeri. Questi sono i divisori positivi dei numeri $18$, $24$, $45$, $50$, $60$, $80$.}
-
-[[Quesiti/src_cgen_2014#q03|src_cgen_2014__Q03]]

@@ -34,8 +34,6 @@ level: BMO Round 2
 
 > Il triangolo $ABC$ è angolato a destra a $C$. Trova tutti i punti $D$ nel piano che soddisfano le condizioni $$AD \cdot BC = BD \cdot AC = \frac{1}{\sqrt{2}} AB \cdot CD .$$
 
-[[Quesiti/src_bmo_1983-84_round2#q01|src_bmo_1983-84_round2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -69,8 +67,6 @@ level: BMO Round 2
 > 
 > ii) Determinare con prova il valore di $t$, espresso in termini di $d$ e $e$, che riduce al minimo l'area del quadrilaterale $MQNP$.
 
-[[Quesiti/src_bmo_1983-84_round2#q02|src_bmo_1983-84_round2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_trigonometria,topic_disuguaglianze,method_estremalita,method_simmetria,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima"></span>
@@ -98,8 +94,6 @@ level: BMO Round 2
 *Ricerca il massimo e il minimo di cos α + cos β + cos γ con α+β+γ = 4π/3*
 
 > Trova, con prova, i valori massimi e minimi di $$\cos\alpha + \cos\beta + \cos\gamma ,$$ dove $\alpha \ge 0$, $\beta \ge 0$, $\gamma \ge 0$ e $$\alpha + \beta + \gamma = \frac{4\pi}{3} .$$
-
-[[Quesiti/src_bmo_1983-84_round2#q03|src_bmo_1983-84_round2__Q03]]
 
 
 
@@ -130,8 +124,6 @@ level: BMO Round 2
 
 > $b_n$ sia il numero di modi di esprimere il numero intero positivo $n$ come somma di una o più potenze non necessariamente distinte di $2$; qui $1$ ($= 2^0$) è considerato una potenza di $2$. L'ordine delle sommazioni è irrilevante, quindi ad esempio $b_4 = 4$, le espressioni in questione sono $$1+1+1+1 , \quad 1+1+2 , \quad 2+2 , \quad 4 .$$ Chiamare tale espressione *full* se include almeno una somma $2^i$ per $0 \le i \le k$, dove $2^k$ è la somma più grande che vi si verifica. Per esempio, le prime due espressioni di $4$ sono complete, le altre non lo sono. $c_n$ è il numero di espressioni complete per $n$. Provare che $$b_{n+1} = 2c_n$$ per $n \ge 1$.
 
-[[Quesiti/src_bmo_1983-84_round2#q04|src_bmo_1983-84_round2__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_astrazione,skill_modellizzazione"></span>
@@ -157,5 +149,3 @@ level: BMO Round 2
 *Polinomio con coefficienti interi approssimativi p/q in intervallo di lunghezza 1/q*
 
 > Lasciate che $p$ e $q$ siano integri positivi. Mostrare che esiste un intervallo $I$ di lunghezza $\dfrac{1}{q}$ e un polinomio $P$ con coefficienti interi in modo che, per tutti $x$ in $I$, $$\left| P(x) - \frac{p}{q} \right| \le \frac{1}{q^2} .$$
-
-[[Quesiti/src_bmo_1983-84_round2#q05|src_bmo_1983-84_round2__Q05]]

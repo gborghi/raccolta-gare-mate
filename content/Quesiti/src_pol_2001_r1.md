@@ -33,8 +33,6 @@ level: Olimpiade Polacca Round 1
 
 > Risolvere in numeri interi l'equazione $x^{2000} + 2000^{1999} = x^{1999} + 2000^{2000}$.
 
-[[Quesiti/src_pol_2001_r1#q01|src_pol_2001_r1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -59,8 +57,6 @@ level: Olimpiade Polacca Round 1
 *L'intersezione di Cevian e un parallelo sui lati di un triangolo danno un rapporto uguale.*
 
 > I punti $D$ e $E$ si trovano rispettivamente sui lati $BC$ e $AC$ del triangolo $ABC$. Le linee $AD$ e $BE$ si incontrano a $P$. I punti $K$ e $L$ sono presi rispettivamente su $BC$ e $AC$ in modo che $CLPK$ sia un parallelo. Prove che $\frac{AE}{EL} = \frac{BD}{DK}$.
-
-[[Quesiti/src_pol_2001_r1#q02|src_pol_2001_r1__Q02]]
 
 
 
@@ -89,8 +85,6 @@ level: Olimpiade Polacca Round 1
 
 > Trovare tutti i numeri interi $n \ge 2$ in modo tale che la disuguaglianza $$x_1 x_2 + x_2 x_3 + \cdots + x_{n-1} x_n \le \frac{n-1}{n}\left(x_1^2 + x_2^2 + \cdots + x_n^2\right)$$ sia soddisfatta per tutti i numeri positivi $x_1, x_2, \ldots, x_n$.
 
-[[Quesiti/src_pol_2001_r1#q03|src_pol_2001_r1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,topic_combinatoria,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_stima"></span>
@@ -116,8 +110,6 @@ level: Olimpiade Polacca Round 1
 
 > Provare o respingere: si possono collocare sfere $65$ di diametro $1$ all'interno di un cubo di bordo $4$.
 
-[[Quesiti/src_pol_2001_r1#q04|src_pol_2001_r1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -142,8 +134,6 @@ level: Olimpiade Polacca Round 1
 *Mostra che n^(p^p) + p^p è composto per n>=2 e p primo.*
 
 > Prova che per tutti i numeri interi $n \ge 2$ e i numeri primi $p$ il numero $n^{p^p} + p^p$ è composto.
-
-[[Quesiti/src_pol_2001_r1#q05|src_pol_2001_r1__Q05]]
 
 
 
@@ -172,8 +162,6 @@ level: Olimpiade Polacca Round 1
 
 > I numeri interi $a, b, x, y$ soddisfano l'uguaglianza $$a + b\sqrt{2001} = \left(x + y\sqrt{2001}\right)^{2000}.$$ Prove che $a \ge 44b$.
 
-[[Quesiti/src_pol_2001_r1#q06|src_pol_2001_r1__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -198,8 +186,6 @@ level: Olimpiade Polacca Round 1
 *Punti D,E sull'ipotenusa con angolo DAE=45°; circoncircolo di ADE incontra le gambe a P,Q; prova BP+CQ=PQ.*
 
 > I punti $D$ e $E$ si trovano sull'ipotenusa $BC$ di un triangolo rettangolo $ABC$ di uguale taglia in modo tale che $\angle DAE = 45^\circ$. Il circoncircolo del triangolo $ADE$ incontra i lati $AB$ e $AC$ di nuovo rispettivamente a $P$ e $Q$. Prova che $BP + CQ = PQ$.
-
-[[Quesiti/src_pol_2001_r1#q07|src_pol_2001_r1__Q07]]
 
 
 
@@ -230,8 +216,6 @@ level: Olimpiade Polacca Round 1
 
 ![[src_pol_2001_r1__q08.png]]
 
-[[Quesiti/src_pol_2001_r1#q08|src_pol_2001_r1__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -257,8 +241,6 @@ level: Olimpiade Polacca Round 1
 
 > Prova che tra tutti i numeri interi $12$ consecutivi c'è uno che non può essere scritto come la somma di dieci potenze quattordici.
 
-[[Quesiti/src_pol_2001_r1#q09|src_pol_2001_r1__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -283,8 +265,6 @@ level: Olimpiade Polacca Round 1
 *Prove che ogni triangolo ha un punto interno con una proprietà di divisibilità di area/perimetro definita.*
 
 > Prova che ogni triangolo $ABC$ contiene un punto interno $P$ con la seguente proprietà: ogni linea che attraversa $P$ divide il perimetro e l'area del triangolo $ABC$ nello stesso rapporto.
-
-[[Quesiti/src_pol_2001_r1#q10|src_pol_2001_r1__Q10]]
 
 
 
@@ -313,8 +293,6 @@ level: Olimpiade Polacca Round 1
 
 > Un $n$-tuple $(c_1, c_2, \ldots, c_n)$ di numeri interi positivi è ammissibile se ogni intero positivo $k$ non superiore a $2(c_1 + c_2 + \cdots + c_n)$ può essere rappresentato nella forma $$k = \sum_{i=1}^{n} a_i c_i, \quad \text{with } a_i \in \{-2, -1, 0, 1, 2\}.$$ Per ogni $n$ si trova il valore massimo possibile di $c_1 + \cdots + c_n$ se $(c_1, \ldots, c_n)$ è ammissibile.
 
-[[Quesiti/src_pol_2001_r1#q11|src_pol_2001_r1__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra,topic_combinatoria,method_estremalita,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_stima"></span>
@@ -341,5 +319,3 @@ level: Olimpiade Polacca Round 1
 *Sequenze con x0 e \ \x_n=di_{n-1}+1\; trovare il minimo della somma assoluta.*
 
 > Considerare tutte le sequenze $x_0, x_1, \ldots, x_{2000}$ di numeri interi che soddisfano $$x_0 = 0 \quad \text{and} \quad |x_n| = |x_{n-1} + 1| \text{ for } n = 1, 2, \ldots, 2000.$$ Trovare il valore minimo dell'espressione $|x_1 + x_2 + \cdots + x_{2000}|$.
-
-[[Quesiti/src_pol_2001_r1#q12|src_pol_2001_r1__Q12]]

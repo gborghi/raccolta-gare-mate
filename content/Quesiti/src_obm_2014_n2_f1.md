@@ -39,7 +39,6 @@ Quale differenza di due numeri primi consecutivi è impossibile?
 > (A) 4 $\quad$ (B) 6 $\quad$ (C) 7 $\quad$ (D) 8 $\quad$ (E) 9
 
 **Risposta:** C
-[[Quesiti/src_obm_2014_n2_f1#q01|src_obm_2014_n2_f1__Q01]]
 
 
 
@@ -80,7 +79,6 @@ Quale differenza di due numeri primi consecutivi è impossibile?
 > - **(E)** Ci sono più carte nere a numeri odd che carte verdi a numeri odd.
 
 **Risposta:** E
-[[Quesiti/src_obm_2014_n2_f1#q02|src_obm_2014_n2_f1__Q02]]
 
 
 
@@ -113,7 +111,6 @@ Quale differenza di due numeri primi consecutivi è impossibile?
 > (A) 3 ore $\quad$ (B) 4 ore $\quad$ (C) 5 ore $\quad$ (D) 6 ore $\quad$ (E) 7 ore
 
 **Risposta:** B
-[[Quesiti/src_obm_2014_n2_f1#q03|src_obm_2014_n2_f1__Q03]]
 
 
 
@@ -149,7 +146,6 @@ Quale parola ha più lettere del numero che chiama?
 > (In portoghese: Um, Três, Quatro, Cinco, Seis.)
 
 **Risposta:** C
-[[Quesiti/src_obm_2014_n2_f1#q04|src_obm_2014_n2_f1__Q04]]
 
 
 
@@ -186,7 +182,6 @@ Quale parola ha più lettere del numero che chiama?
 ![[src_obm_2014_n2_f1__q05.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2014_n2_f1#q05|src_obm_2014_n2_f1__Q05]]
 
 
 
@@ -219,7 +214,6 @@ Quale parola ha più lettere del numero che chiama?
 > (A) $2^{2^3 \cdot 19} \cdot 5^3$ $\quad$ (B) $2^{53} 3^{18} 5^2$ $\quad$ (C) $2^{52} 3^{18} 5$ $\quad$ (D) $2^{18} 5^3$ $\quad$ (E) $2^{27} 5^2$
 
 **Risposta:** B
-[[Quesiti/src_obm_2014_n2_f1#q06|src_obm_2014_n2_f1__Q06]]
 
 
 
@@ -263,7 +257,6 @@ Quale parola ha più lettere del numero che chiama?
 > (A) 1 $\quad$ (B) 2 $\quad$ (C) 3 $\quad$ (D) 4 $\quad$ (E) Non esiste una porta che possa garantire la sicurezza.
 
 **Risposta:** B
-[[Quesiti/src_obm_2014_n2_f1#q07|src_obm_2014_n2_f1__Q07]]
 
 
 
@@ -296,7 +289,6 @@ Distribuire 240 reais in eguaglianza; ridurre di 1 reale per nipote consente esa
 > (A) 5 reais $\quad$ (B) 10 reais $\quad$ (C) 12 reais $\quad$ (D) 15 reais $\quad$ (E) 20 reais
 
 **Risposta:** C
-[[Quesiti/src_obm_2014_n2_f1#q08|src_obm_2014_n2_f1__Q08]]
 
 
 
@@ -329,7 +321,6 @@ Distribuire 240 reais in eguaglianza; ridurre di 1 reale per nipote consente esa
 > (A) 2 $\quad$ (B) 4 $\quad$ (C) 6 $\quad$ (D) 8 $\quad$ (E) 10
 
 **Risposta:** C
-[[Quesiti/src_obm_2014_n2_f1#q09|src_obm_2014_n2_f1__Q09]]
 
 
 
@@ -366,7 +357,6 @@ Distribuire 240 reais in eguaglianza; ridurre di 1 reale per nipote consente esa
 ![[src_obm_2014_n2_f1__q10.png]]
 
 **Risposta:** A
-[[Quesiti/src_obm_2014_n2_f1#q10|src_obm_2014_n2_f1__Q10]]
 
 
 
@@ -402,7 +392,6 @@ Distribuire 240 reais in eguaglianza; ridurre di 1 reale per nipote consente esa
 ![[src_obm_2014_n2_f1__q11.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2014_n2_f1#q11|src_obm_2014_n2_f1__Q11]]
 
 
 
@@ -438,7 +427,6 @@ Distribuire 240 reais in eguaglianza; ridurre di 1 reale per nipote consente esa
 ![[src_obm_2014_n2_f1__q12.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2014_n2_f1#q12|src_obm_2014_n2_f1__Q12]]
 
 
 
@@ -471,7 +459,6 @@ Quale data è il 3 giugno 2014 nel calendario giuliano?
 > (A) 20 maggio 2014 $\quad$ (B) 21 maggio 2014 $\quad$ (C) 22 maggio 2014 $\quad$ (D) 16 giugno 2014 $\quad$ (E) 17 giugno 2014
 
 **Risposta:** B
-[[Quesiti/src_obm_2014_n2_f1#q13|src_obm_2014_n2_f1__Q13]]
 
 
 
@@ -504,7 +491,6 @@ Quale data è il 3 giugno 2014 nel calendario giuliano?
 > (A) 3 $\quad$ (B) 5 $\quad$ (C) 1 $\quad$ (D) 4 $\quad$ (E) 9
 
 **Risposta:** A
-[[Quesiti/src_obm_2014_n2_f1#q14|src_obm_2014_n2_f1__Q14]]
 
 
 
@@ -541,7 +527,6 @@ Quale data è il 3 giugno 2014 nel calendario giuliano?
 ![[src_obm_2014_n2_f1__q15.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2014_n2_f1#q15|src_obm_2014_n2_f1__Q15]]
 
 
 
@@ -586,7 +571,6 @@ Quale data è il 3 giugno 2014 nel calendario giuliano?
 ![[src_obm_2014_n2_f1__q16.png]]
 
 **Risposta:** A
-[[Quesiti/src_obm_2014_n2_f1#q16|src_obm_2014_n2_f1__Q16]]
 
 
 
@@ -622,7 +606,6 @@ Quale data è il 3 giugno 2014 nel calendario giuliano?
 ![[src_obm_2014_n2_f1__q17.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2014_n2_f1#q17|src_obm_2014_n2_f1__Q17]]
 
 
 
@@ -655,7 +638,6 @@ Quale data è il 3 giugno 2014 nel calendario giuliano?
 > (A) $-\sqrt{2}$ $\quad$ (B) $\sqrt{2}\,\sqrt{3}$ $\quad$ (C) $\sqrt{3}$ $\quad$ (D) $\sqrt{2}$ $\quad$ (E) $\sqrt{3}$
 
 **Risposta:** A
-[[Quesiti/src_obm_2014_n2_f1#q18|src_obm_2014_n2_f1__Q18]]
 
 
 
@@ -688,7 +670,6 @@ Quale dei cinque numeri è il più grande?
 > (A) $2014^5$ $\quad$ (B) $3015^4$ $\quad$ (C) $4016^3$ $\quad$ (D) $5017^2$ $\quad$ (E) $6018^1$
 
 **Risposta:** B
-[[Quesiti/src_obm_2014_n2_f1#q19|src_obm_2014_n2_f1__Q19]]
 
 
 
@@ -721,7 +702,6 @@ Quale dei cinque numeri è il più grande?
 > (A) $\frac{5}{4}$ $\quad$ (B) $\frac{9}{4}$ $\quad$ (C) $\frac{23}{4}$ $\quad$ (D) $\frac{25}{4}$ $\quad$ (E) $\frac{4}{5}$
 
 **Risposta:** D
-[[Quesiti/src_obm_2014_n2_f1#q20|src_obm_2014_n2_f1__Q20]]
 
 
 
@@ -754,7 +734,6 @@ Quale dei cinque numeri è il più grande?
 > (A) 2 $\quad$ (B) $2\sqrt{3}$ $\quad$ (C) $2 + \sqrt{3}$ $\quad$ (D) 3 $\quad$ (E) 6
 
 **Risposta:** D
-[[Quesiti/src_obm_2014_n2_f1#q21|src_obm_2014_n2_f1__Q21]]
 
 
 
@@ -787,7 +766,6 @@ Quale dei cinque numeri è il più grande?
 > (A) 0 $\quad$ (B) 1 $\quad$ (C) 2 $\quad$ (D) 3 $\quad$ (E) 4
 
 **Risposta:** D
-[[Quesiti/src_obm_2014_n2_f1#q22|src_obm_2014_n2_f1__Q22]]
 
 
 
@@ -820,7 +798,6 @@ Quale dei cinque numeri è il più grande?
 > (A) $\dfrac{b^2 - a^2}{4}$ $\quad$ (B) $\dfrac{a^2}{b}$ $\quad$ (C) $\dfrac{b^2 + a^2}{4b}$ $\quad$ (D) $\dfrac{1}{b}$ $\quad$ (E) $a^2$
 
 **Risposta:** A
-[[Quesiti/src_obm_2014_n2_f1#q23|src_obm_2014_n2_f1__Q23]]
 
 
 
@@ -857,7 +834,6 @@ Quale dei cinque numeri è il più grande?
 ![[src_obm_2014_n2_f1__q24.png]]
 
 **Risposta:** A
-[[Quesiti/src_obm_2014_n2_f1#q24|src_obm_2014_n2_f1__Q24]]
 
 
 
@@ -890,4 +866,3 @@ Quale dei cinque numeri è il più grande?
 > (A) 25 $\quad$ (B) 36 $\quad$ (C) 45 $\quad$ (D) 103 $\quad$ (E) 105
 
 **Risposta:** E
-[[Quesiti/src_obm_2014_n2_f1#q25|src_obm_2014_n2_f1__Q25]]

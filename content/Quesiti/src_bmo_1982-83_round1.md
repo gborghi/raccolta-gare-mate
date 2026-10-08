@@ -33,8 +33,6 @@ level: BMO Round 1
 
 > Nel triangolo $ABC$ con circoncentro $O$, $D$ è il punto medio di $AB$ e $E$ è il centroide del triangolo $ACD$. Prova che $OE$ è perpendicolare a $CD$.
 
-[[Quesiti/src_bmo_1982-83_round1#q01|src_bmo_1982-83_round1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -61,8 +59,6 @@ level: BMO Round 1
 Sequenza di Fibonacci: mostra f_n - ab^n divisibile da tutti i numeri interi positivi
 
 > La sequenza di Fibonacci $\{f_n\}$ è definita da $$f_1 = 1,\quad f_2 = 1,\quad f_{n+2} = f_{n+1} + f_n \qquad (n > 2).$$ Prove che ci sono integri unici $a$, $b$ in modo tale che $0 < a < b$ e $f_n - ab^n$ siano divisibili da $b$ per tutti gli integri positivi $n$.
-
-[[Quesiti/src_bmo_1982-83_round1#q02|src_bmo_1982-83_round1__Q02]]
 
 
 
@@ -95,8 +91,6 @@ Sequenza di Fibonacci: mostra f_n - ab^n divisibile da tutti i numeri interi pos
 > 
 > Prova che $nS_n + F_n = 1$ per tutti $n$.
 
-[[Quesiti/src_bmo_1982-83_round1#q03|src_bmo_1982-83_round1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,topic_geometria_analitica,method_coordinate,method_estremalita,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -124,8 +118,6 @@ Sequenza di Fibonacci: mostra f_n - ab^n divisibile da tutti i numeri interi pos
 
 > Le due superfici cilindriche $$x^2 + z^2 = 4, \quad y \geq 0 \quad \text{and} \quad y^2 + z^2 = 4, \quad x \geq 0$$ si intersecano e con $x \geq 0$, $y \geq 0$, $z \geq 0$ formano una forma di cupola che qui viene chiamata "cupola". La cupola è collocata sopra una torre verticale di altezza $h$ la cui sezione trasversale orizzontale è un quadrato laterale $2$. Trova la distanza più breve dal punto più alto della cupola a un angolo della base della torre, sopra la superficie della cupola e della torre.
 
-[[Quesiti/src_bmo_1982-83_round1#q04|src_bmo_1982-83_round1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_piana,method_cassetti,skill_ragionamento_geometrico,skill_modellizzazione"></span>
@@ -150,8 +142,6 @@ Sequenza di Fibonacci: mostra f_n - ab^n divisibile da tutti i numeri interi pos
 *10 punti in un cerchio di diametro 5"; provare due entro 2" l'uno dell'altro*
 
 > Se i punti $10$ sono all'interno di un cerchio di diametro $5''$, dimostrare che la distanza tra alcuni $2$ dei punti è inferiore a $2''$.
-
-[[Quesiti/src_bmo_1982-83_round1#q05|src_bmo_1982-83_round1__Q05]]
 
 
 
@@ -181,5 +171,3 @@ Sequenza di Fibonacci: mostra f_n - ab^n divisibile da tutti i numeri interi pos
 *Equazione con radici quadrate; trovare p per esattamente una soluzione reale x*
 
 > Considera l'equazione $$\sqrt{2p + 1 - x^2} + \sqrt{3x + p + 4} = \sqrt{x^2 + 9x + 3p + 9} \tag{1}$$ in cui $x, p$ sono numeri reali e le radici quadrate devono essere reali e non negative. Mostrare che se $(1)$ è valido allora $$(x^2 + x - p)(x^2 + 8x + 2p + 9) = 0.$$ Trovare quindi l'insieme dei numeri reali $p$ per i quali $(1)$ è soddisfatto da esattamente un numero reale $x$.
-
-[[Quesiti/src_bmo_1982-83_round1#q06|src_bmo_1982-83_round1__Q06]]

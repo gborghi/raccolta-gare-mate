@@ -37,7 +37,6 @@ level: China Western Mathematical Olympiad
 > Trova il numero intero meno positivo $m$, in modo che per ogni numero primo $p > 3$, $$105 \mid 9^{p^2} - 29^p + m.$$ (posato da Yang Hu)
 
 **Risposta:** 20
-[[Quesiti/src_cn_cwmo_2012#q01|src_cn_cwmo_2012__Q01]]
 
 
 
@@ -63,8 +62,6 @@ level: China Western Mathematical Olympiad
 Tra le n vertici di un gono regolare (2n-1), tre formano un triangolo di pari dimensioni
 
 > Prove che: tra i vertici $n$ di un poligono regolare $2n - 1$ ($n \ge 3$), ci sono tre, che sono i vertici di un triangolo di uguale occhio. (Posizionato da Zou Jin)
-
-[[Quesiti/src_cn_cwmo_2012#q02|src_cn_cwmo_2012__Q02]]
 
 
 
@@ -93,7 +90,6 @@ Tra le n vertici di un gono regolare (2n-1), tre formano un triangolo di pari di
 > $E$ sia un insieme dato con elementi $n$. Supponiamo che $A_1, A_2, \ldots, A_k$ siano $k$ sudinsiemi non vuoti distinti di $E$, con la proprietà che: per qualsiasi $1 \le i < j \le k$, sia $A_i \cap A_j = \emptyset$ che uno include l'altro (cioè $A_i \subseteq A_j$, o $A_j \subseteq A_i$). Trova il valore massimo di $k$. (Posizionato da Lang Guangqiong)
 
 **Risposta:** 2n-1
-[[Quesiti/src_cn_cwmo_2012#q03|src_cn_cwmo_2012__Q03]]
 
 
 
@@ -124,8 +120,6 @@ Tra le n vertici di un gono regolare (2n-1), tre formano un triangolo di pari di
 
 ![[src_cn_cwmo_b11_w252__q04.png]]
 
-[[Quesiti/src_cn_cwmo_2012#q04|src_cn_cwmo_2012__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -155,8 +149,6 @@ Tra le n vertici di un gono regolare (2n-1), tre formano un triangolo di pari di
 
 ![[src_cn_cwmo_b11_w252__q05.png]]
 
-[[Quesiti/src_cn_cwmo_2012#q05|src_cn_cwmo_2012__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_telescoping,method_induzione,skill_manipolazione_algebrica,skill_stima"></span>
@@ -184,7 +176,6 @@ Tra le n vertici di un gono regolare (2n-1), tre formano un triangolo di pari di
 > La sequenza $\{a_n\}$ è definita da $a_0 = \dfrac{1}{2}$, $a_{n+1} = a_n + \dfrac{1}{2012}a_n^2$, $n = 0, 1, 2, \ldots$. Trova un numero intero $k$ tale da $a_k < 1 < a_{k+1}$. (Posizionato da Bian Hongping)
 
 **Risposta:** 2012
-[[Quesiti/src_cn_cwmo_2012#q06|src_cn_cwmo_2012__Q06]]
 
 
 
@@ -211,8 +202,6 @@ Tra le n vertici di un gono regolare (2n-1), tre formano un triangolo di pari di
 
 > Data una griglia $n \times n$, chiamiamo due celle adiacenti se hanno un lato comune. All'inizio, ad ogni cella viene assegnato il numero $+1$. Un'operazione sulla griglia è definita come segue: si sceglie una cella, e poi si cambiano i segni di ogni numero nelle sue celle adiacenti (ma non si cambia il segno del numero in sé). Trova tutti i numeri interi $n \ge 2$, in modo che dopo un numero finito di operazioni, tutti i numeri nelle celle della griglia siano cambiati in $-1$. (Possibile da Shen Huyue)
 
-[[Quesiti/src_cn_cwmo_2012#q07|src_cn_cwmo_2012__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_congruenze,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato"></span>
@@ -237,5 +226,3 @@ Tra le n vertici di un gono regolare (2n-1), tre formano un triangolo di pari di
 *Trova tutti i numeri primi p dividendo n^(n+1)+(n+1)^n per infiniti n*
 
 > Trova tutti i numeri primi $p$, per i quali ci sono infinitamente molti interi positivi $n$, come $p \mid n^{n+1} + (n+1)^n$. (Possibile da Chen Yonggao)
-
-[[Quesiti/src_cn_cwmo_2012#q08|src_cn_cwmo_2012__Q08]]

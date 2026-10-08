@@ -37,8 +37,6 @@ level: BMO Round 2
 
 > Mostrare come assegnare ai vertici di un poligono regolare con vertici $2^n$ numeri in modo che (a) vengano utilizzate solo le cifre 1 e 2 (b) ogni numero abbia cifre $n$ (c) ogni vertice abbia un numero diverso e (d) i vertici vicini abbiano numeri diversi in un solo e solo luogo di una cifra.
 
-[[Quesiti/src_bmo2_1972#q01|src_bmo2_1972__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_simmetria,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
@@ -66,8 +64,6 @@ level: BMO Round 2
 
 > $a, b, c, d$ sono numeri positivi e $$S = \frac{a+b}{a+b+c} + \frac{b+c}{b+c+d} + \frac{c+d}{c+d+a} + \frac{d+a}{d+a+b}.$$ Provare che $S$ non è inferiore a 2, e ottenere le condizioni necessarie per $S = 4$.
 
-[[Quesiti/src_bmo2_1972#q02|src_bmo2_1972__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_grafi,method_doppio_conteggio,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_conteggio_sistematico,skill_astrazione"></span>
@@ -92,8 +88,6 @@ level: BMO Round 2
 *Trova n quando ogni due sconosciuti condividono lo stesso numero di amici e il numero di amicizia è 5*
 
 > Ci sono persone $n$ presenti in una riunione. Ogni due persone sono o amiche l'una dell'altra o estranee l'una all'altra. Non ci sono due amici che abbiano un amico in comune. Ogni sconosciuto ha lo stesso numero di amici in riunione. Prove che ogni persona abbia lo stesso numero di amici alla riunione. Se questo numero è 5, trova $n$.
-
-[[Quesiti/src_bmo2_1972#q03|src_bmo2_1972__Q03]]
 
 
 
@@ -121,5 +115,3 @@ level: BMO Round 2
 *Ricerca tutti i punti P con la somma ponderata delle distanze uguale a k per abc*
 
 > Quando $k = 1$ trovi tutti i punti $P$ nello spazio in modo tale che $$a \cdot PA + b \cdot PB + c \cdot PC = k \cdot abc,$$ dove $a, b, c$ sono le lunghezze dei lati $BC$, $CA$, $AB$ del triangolo $ABC$, e prova il risultato. Qual è l' effetto di alterare $k$?
-
-[[Quesiti/src_bmo2_1972#q04|src_bmo2_1972__Q04]]

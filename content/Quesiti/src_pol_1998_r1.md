@@ -35,8 +35,6 @@ level: Olimpiade Polacca Round 1
 
 > Risolvere il sistema di equazioni: $$|x - y| - \frac{|y|}{x} = -1,$$ $$|2x - y| + |x + y - 1| + |x - y| - y + x - 1 = 0.$$
 
-[[Quesiti/src_pol_1998_r1#q01|src_pol_1998_r1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -60,8 +58,6 @@ level: Olimpiade Polacca Round 1
 *Orthocenter e circumcenter equidistanti da una vertice; trovare angolo CAB*
 
 > Che $H$ sia l'ortocentro di un triangolo inciso in un cerchio con centro $O$. Poiché $AO = AH$, trovare la misura di $\angle CAB$.
-
-[[Quesiti/src_pol_1998_r1#q02|src_pol_1998_r1__Q02]]
 
 
 
@@ -90,8 +86,6 @@ level: Olimpiade Polacca Round 1
 
 > Le sequenze $(a_n)$, $(b_n)$, $(x_n)$ sono indicate da $a_1 = 4$ e per $n \ge 1$, $$a_{n+1} = a_n(a_n - 1), \quad 2^{b_n} = a_n, \quad 2^{x_n - x_{n-1}} = b_n.$$ Provare che la sequenza $(x_n)$ è delimitata.
 
-[[Quesiti/src_pol_1998_r1#q03|src_pol_1998_r1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_stima"></span>
@@ -118,8 +112,6 @@ level: Olimpiade Polacca Round 1
 
 > Il numero $a$ è positivo. Determinare tutti i numeri reali $c$ con la proprietà che, per qualsiasi numero positivo $x$, $y$, ha la seguente disuguaglianza: $$(c - 1)x^{c+1} \le (cy - x)y^a.$$
 
-[[Quesiti/src_pol_1998_r1#q04|src_pol_1998_r1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_trigonometria,method_trigonometria,skill_manipolazione_algebrica"></span>
@@ -145,8 +137,6 @@ level: Olimpiade Polacca Round 1
 
 > Risolvere l'equazione $|\tan^2 x - \cot^2 x| = 2n|\cot 2x|$, dove $n$ è un dato numero intero positivo.
 
-[[Quesiti/src_pol_1998_r1#q05|src_pol_1998_r1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -171,8 +161,6 @@ level: Olimpiade Polacca Round 1
 *Triangolo con punto medio D e proiezioni P, Q su AD; dimostrare BE=AE+AC se AD=PQ*
 
 > In un triangolo $ABC$ con $AB > AC$, $D$ è il punto medio di $BC$ e $E$ è un punto arbitrario sul lato $AC$. I punti $P$ e $Q$ sono rispettivamente le proiezioni ortogonali di $B$ e $E$ su $AD$. Indicare che $BE = AE + AC$ se e solo se $AD = PQ$.
-
-[[Quesiti/src_pol_1998_r1#q06|src_pol_1998_r1__Q06]]
 
 
 
@@ -200,8 +188,6 @@ level: Olimpiade Polacca Round 1
 
 > Si devono dare $m, n$ integri positivi e $A = \{1, 2, \ldots, n\}$. Determinare il numero di funzioni $f : A \to A$ che assumono esattamente i valori $m$ in modo tale che $$f(f(k)) = f(k) \le f(l) \quad \text{for all } k, l \in A \text{ with } k \le l.$$
 
-[[Quesiti/src_pol_1998_r1#q07|src_pol_1998_r1__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_solida,topic_combinatoria,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -226,8 +212,6 @@ level: Olimpiade Polacca Round 1
 *Esistenza di un poliedro convexo con bordi k e di un piano di taglio con bordi r con 3r>2k*
 
 > Determinare se esiste un poliedro converso con bordi $k$ e un piano che non attraversa alcuna vertice e taglia bordi $r$ in modo tale da $3r > 2k$.
-
-[[Quesiti/src_pol_1998_r1#q08|src_pol_1998_r1__Q08]]
 
 
 
@@ -254,8 +238,6 @@ level: Olimpiade Polacca Round 1
 
 > Definire $a_0 = 0.91$ e $a_n = 0.99\underbrace{9\ldots9}_{n}00$ per $k > 0$. Calcolare $\lim a_0 a_1 \cdots a_n$.
 
-[[Quesiti/src_pol_1998_r1#q09|src_pol_1998_r1__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -280,8 +262,6 @@ level: Olimpiade Polacca Round 1
 *Mediani di un triangolo pari lati di un altro; dimostrare ABC equilaterale*
 
 > I media $AD$, $BE$, $CF$ di un triangolo $ABC$ si incontrano a $G$. Prova che se i quadrilaterali $AFGE$ e $BDGF$ sono ciclici, il triangolo $ABC$ è equilaterale.
-
-[[Quesiti/src_pol_1998_r1#q10|src_pol_1998_r1__Q10]]
 
 
 
@@ -308,8 +288,6 @@ Torneo: prova dell'esistenza di un giocatore che si batte direttamente o tramite
 
 > In un torneo di tennis $n$ parteciparono giocatori. Qualsiasi due giocatori hanno giocato una partita (senza pareggio). Prove che esiste un giocatore $A$ tale che per qualsiasi altro giocatore $B$, sia $A$ sconfitto $B$ o che vi sia un giocatore $C$ che $A$ ha sconfitto e $B$ perso a $C$.
 
-[[Quesiti/src_pol_1998_r1#q11|src_pol_1998_r1__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -334,5 +312,3 @@ Torneo: prova dell'esistenza di un giocatore che si batte direttamente o tramite
 *Il più grande primo divisore dei valori polinomici; finità dell'insieme risultante*
 
 > $g(k)$ indichi il più grande primo divisore di un intero $k$ se $|k| \ge 2$, e $g(0) = g(1) = 1$. Trova se esiste un polinomio non costante $W$ con coefficienti interi in modo che l'insieme $\{g(W(x)) \mid x \in \mathbb{Z}\}$ sia finito.
-
-[[Quesiti/src_pol_1998_r1#q12|src_pol_1998_r1__Q12]]

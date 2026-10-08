@@ -55,7 +55,6 @@ level: kangourou
 > D) 10 E) 11
 
 **Answer:** C
-[[Quesiti/src_kangourou_2018_benjamin_semifinale#q01|src_kangourou_2018_benjamin_semifinale__Q01]]
 
 
 
@@ -97,7 +96,6 @@ level: kangourou
 > D) it cannot be 22. E) can be any of the numbers in the previous answers.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2018_benjamin_semifinale#q02|src_kangourou_2018_benjamin_semifinale__Q02]]
 
 
 
@@ -128,7 +126,6 @@ level: kangourou
 > When the integer 4^5 × 5^13 is written in decimal notation, how many digits does it have? A) 18           B) 17 C) 16           	 D) 13 E) 12
 
 **Answer:** D
-[[Quesiti/src_kangourou_2018_benjamin_semifinale#q03|src_kangourou_2018_benjamin_semifinale__Q03]]
 
 
 
@@ -160,7 +157,6 @@ level: kangourou
 > (Points 4) A positive integer is said to be modern if the sum of its digits is 2018. What is the first digit of the smallest modern number? A) 1              B) 2 C) 3              	 D) 4                 E) 9
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_benjamin_semifinale#q04|src_kangourou_2018_benjamin_semifinale__Q04]]
 
 
 
@@ -210,7 +206,6 @@ level: kangourou
 > E) Less than 1 euro but not 0.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2018_benjamin_semifinale#q05|src_kangourou_2018_benjamin_semifinale__Q05]]
 
 
 
@@ -254,7 +249,6 @@ level: kangourou
 > E) 162
 
 **Answer:** D
-[[Quesiti/src_kangourou_2018_benjamin_semifinale#q06|src_kangourou_2018_benjamin_semifinale__Q06]]
 
 
 
@@ -286,7 +280,6 @@ level: kangourou
 > (Point 5) Aldo and Bruno compete on a 1000-meter route (starting at the same moment and from the same point) and each runs at a constant speed. When Aldo is 100 metres away from the finish line, Bruno is 200 metres away. Which of the following numbers is closest to the distance (in meters) that separates Aldo from Bruno when Aldo cuts the finish line? A) 111            	B) 114           	 C) 115         	 D) 120             E) 122
 
 **Answer:** A
-[[Quesiti/src_kangourou_2018_benjamin_semifinale#q07|src_kangourou_2018_benjamin_semifinale__Q07]]
 
 
 
@@ -321,7 +314,6 @@ level: kangourou
 > In an ABC triangle the three bisectors meet at a point I. The degree measurements of the AIB, BIC and CIA angles are 110, 130 and 120 respectively. How many degrees does the angle ABC measure? A) 20 B) 30 C) 40 D) 60 E) 80
 
 **Answer:** D
-[[Quesiti/src_kangourou_2018_benjamin_semifinale#q08|src_kangourou_2018_benjamin_semifinale__Q08]]
 
 
 
@@ -364,7 +356,6 @@ level: kangourou
 > Open-response questions
 
 **Answer:** E
-[[Quesiti/src_kangourou_2018_benjamin_semifinale#q09|src_kangourou_2018_benjamin_semifinale__Q09]]
 
 
 
@@ -399,7 +390,6 @@ level: kangourou
 > I tiled the floor of my antechamber with square tiles all equal to each other, without cutting any. The result is what you see in the figure. What's the maximum number of tiles I can use?
 
 **Answer:** 0024
-[[Quesiti/src_kangourou_2018_benjamin_semifinale#q10|src_kangourou_2018_benjamin_semifinale__Q10]]
 
 
 
@@ -430,7 +420,6 @@ level: kangourou
 > (Points 5) The product of 10 positive integers (not necessarily different from each other) is 10^10. If M is the maximum value that the sum of these 10 numbers can have, what are the last 4 digits of M?
 
 **Answer:** 0009
-[[Quesiti/src_kangourou_2018_benjamin_semifinale#q11|src_kangourou_2018_benjamin_semifinale__Q11]]
 
 
 
@@ -462,7 +451,6 @@ level: kangourou
 > Twenty-two kangaroos and koalas sit around a round table. Kangaroos always tell the truth, koalas always lie. Ten of these animals say, "He who is seated at my right hand is of my own species". The other 12 say, "He who is seated at my right hand is of a different species". How many kangaroos are around the table?
 
 **Answer:** 0010
-[[Quesiti/src_kangourou_2018_benjamin_semifinale#q12|src_kangourou_2018_benjamin_semifinale__Q12]]
 
 
 
@@ -539,7 +527,6 @@ level: kangourou
 > (Point 6) Paola has five sticks of 2, 3, 4, 5, and 6 centimeters in length and can choose the length of a sixth stick so that using all six sticks she can form an equilateral triangle. How many different lengths can the sixth stick have? (The figure shows you how you can build the triangle with a sixth stick 4 cm long, and this is one of the possible lengths.)
 
 **Answer:** 0004
-[[Quesiti/src_kangourou_2018_benjamin_semifinale#q13|src_kangourou_2018_benjamin_semifinale__Q13]]
 
 
 
@@ -572,7 +559,6 @@ level: kangourou
 > (Points 6) Fruits may be exchanged on the market under the following rule: the value of 4 apples is equal to 3 oranges or 2 bananas. Of course, the fruit cannot be broken. Anna has only apples and wants to give each of her five friends the same gift: a basket containing the same number of apples, oranges and bananas (at least one fruit per type). What is the minimum number of apples that, after proper market trading, allows her to carry out her plan?
 
 **Answer:** 0023
-[[Quesiti/src_kangourou_2018_benjamin_semifinale#q14|src_kangourou_2018_benjamin_semifinale__Q14]]
 
 
 
@@ -603,7 +589,6 @@ level: kangourou
 > (Points 6) Two circles with the same centre (but different radius) are intersected at 8 points by two different diameters of the larger circle. How many parallelograms have 4 of these 8 points as vertices?
 
 **Answer:** 0004
-[[Quesiti/src_kangourou_2018_benjamin_semifinale#q15|src_kangourou_2018_benjamin_semifinale__Q15]]
 
 
 
@@ -634,7 +619,6 @@ level: kangourou
 > (Points 7) For each natural number from 1 to 99 inclusive, the product of its digits is calculated (which coincides with the number itself if the number is one digit). All the products thus obtained are then added. What is the result?
 
 **Answer:** 2070
-[[Quesiti/src_kangourou_2018_benjamin_semifinale#q16|src_kangourou_2018_benjamin_semifinale__Q16]]
 
 
 
@@ -665,7 +649,6 @@ level: kangourou
 > (Points 7) The sum of the digits of a four-digit number A is 2. The sum of the digits of a two-digit number B is also 2. How many numbers can be seen as the sum of a number A and a number B with these properties?
 
 **Answer:** 0007
-[[Quesiti/src_kangourou_2018_benjamin_semifinale#q17|src_kangourou_2018_benjamin_semifinale__Q17]]
 
 
 
@@ -713,4 +696,3 @@ level: kangourou
 > 0024 0009 0010 0004 0023 0004 2070 0007 0011
 
 **Answer:** 0011
-[[Quesiti/src_kangourou_2018_benjamin_semifinale#q18|src_kangourou_2018_benjamin_semifinale__Q18]]

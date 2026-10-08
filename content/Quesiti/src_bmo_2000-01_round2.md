@@ -43,7 +43,6 @@ level: BMO Round 2
 > Trova $\dfrac{p}{q}$ in termini di $n$.
 
 **Risposta:** $2^n$
-[[Quesiti/src_bmo_2000-01_round2#q01|src_bmo_2000-01_round2__Q01]]
 
 
 
@@ -70,8 +69,6 @@ level: BMO Round 2
 *Ricerca tutte le coppie di numeri interi che soddisfano un'equazione diofantina*
 
 > Trova tutte le coppie di integri $(x, y)$ soddisfacenti $$1 + x^2 y = x^2 + 2xy + y.$$
-
-[[Quesiti/src_bmo_2000-01_round2#q02|src_bmo_2000-01_round2__Q02]]
 
 
 
@@ -106,8 +103,6 @@ level: BMO Round 2
 > 
 > Mostra che $\angle BAD = \angle FDC$.
 
-[[Quesiti/src_bmo_2000-01_round2#q03|src_bmo_2000-01_round2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_estremalita,method_casework,method_simmetria,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -136,5 +131,3 @@ level: BMO Round 2
 > I numeri $N$ $1, 2, 3, \ldots, N$ sono disposti in un cerchio. Per ogni coppia di nani vicini viene calcolata la differenza positiva tra i numeri, e la somma di queste differenze $N$ viene chiamata $V$.
 > 
 > Trova (con prova) i valori massimi e minimi possibili di $V$.
-
-[[Quesiti/src_bmo_2000-01_round2#q04|src_bmo_2000-01_round2__Q04]]

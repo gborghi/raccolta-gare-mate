@@ -36,7 +36,6 @@ level: kangourou
 > There are eight holes in Matthew's garden. The gardener covers half of each hole with stones. How many holes are there in that garden after the gardener's job? A) 0               B) 4              C) 8              D) 16             E) 837
 
 **Answer:** C
-[[Quesiti/src_kangourou_2005_ecolier#q01|src_kangourou_2005_ecolier__Q01]]
 
 
 
@@ -65,7 +64,6 @@ level: kangourou
 > How many months in a solar year contain the 30th day? A) 6               B) 7              C) 9              D) 11              E) 12
 
 **Answer:** D
-[[Quesiti/src_kangourou_2005_ecolier#q02|src_kangourou_2005_ecolier__Q02]]
 
 
 
@@ -103,7 +101,6 @@ level: kangourou
 > There are eight kangaroos in the boxes on the right. Find the minimum number of kangaroos you need to move to another box if you want each row and column in the table to contain exactly 2 kangaroos. A) 4               B) 3              C) 2              D) 1 E) 0
 
 **Answer:** D
-[[Quesiti/src_kangourou_2005_ecolier#q03|src_kangourou_2005_ecolier__Q03]]
 
 
 
@@ -137,7 +134,6 @@ level: kangourou
 > Daniel wants to fill a water tank for his turtle. The tank is filled with the contents of 4 buckets. Daniel fills the bucket at a tap, but every time he travels from the tap to the tank with the bucket full, he loses half the contents. What is the minimum number of trips, from the tap to the tank, that will allow Daniel to fill the tank? A) 4               B) 5              C) 6              D) 7              E) 8
 
 **Answer:** E
-[[Quesiti/src_kangourou_2005_ecolier#q04|src_kangourou_2005_ecolier__Q04]]
 
 
 
@@ -184,8 +180,6 @@ level: kangourou
 
 **Answer:** B
 
-[[Quesiti/src_kangourou_2005_ecolier#q05|src_kangourou_2005_ecolier__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_logica,skill_astrazione"></span>
@@ -214,7 +208,6 @@ level: kangourou
 > Each child (male or female) of Mr. and Mrs. Rossi has at least one brother and one sister and the number of the Rossi's children is the smallest that allows this to occur. How many children do Mr. and Mrs. Rossi have? A) 2             B) 3              C) 4               D) 5               E) 6
 
 **Answer:** C
-[[Quesiti/src_kangourou_2005_ecolier#q06|src_kangourou_2005_ecolier__Q06]]
 
 
 
@@ -276,7 +269,6 @@ level: kangourou
 > Elisabeth had a rectangular chocolate tablet made of 1 cm x 1 cm squares. She ate some of these squares and the piece of chocolate that remains has the shape of the figure. How many squares are left? A) 66               B) 64              C) 62 D) 60               E) 58
 
 **Answer:** D
-[[Quesiti/src_kangourou_2005_ecolier#q07|src_kangourou_2005_ecolier__Q07]]
 
 
 
@@ -308,7 +300,6 @@ level: kangourou
 > Re-read the previous question. Now let's ask you, how many square chocolates did Elizabeth eat? A) 6 B) 10 C) 12 D) 17 E) it is not possible to know the questions from N. 9 al N. 16 is worth 4 points each.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2005_ecolier#q08|src_kangourou_2005_ecolier__Q08]]
 
 
 
@@ -344,7 +335,6 @@ level: kangourou
 > Two road signs are located at the foot of a bridge. They indicate the maximum width, 325 cm, and the maximum weight, 4300 kg, permitted for a vehicle to cross that bridge. Which of the following cars is allowed to cross that bridge? A) A width of 315 cm and a weight of 4307 kg. B) A width of 330 cm and a weight of 4250 kg. C) A width of 325 cm and weight of 4400 kg. D) A width of 322 cm and a weight of 4298 kg. E) None of the above.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2005_ecolier#q09|src_kangourou_2005_ecolier__Q09]]
 
 
 
@@ -401,8 +391,6 @@ level: kangourou
 
 **Answer:** E
 
-[[Quesiti/src_kangourou_2005_ecolier#q10|src_kangourou_2005_ecolier__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,skill_conteggio_sistematico"></span>
@@ -437,7 +425,6 @@ level: kangourou
 > On a piece of paper, you draw a rectangle 17 cm x 13 cm that I want to divide into squares of 1 cm side. I have a 20 cm long ruler. What is the minimum number of segments I need to trace to reach my goal? A) 24 B) 28 C) 30 D) 32 E) 220
 
 **Answer:** B
-[[Quesiti/src_kangourou_2005_ecolier#q11|src_kangourou_2005_ecolier__Q11]]
 
 
 
@@ -472,7 +459,6 @@ level: kangourou
 > A square sheet of paper was cut into three parts. Two of these are on the right. Which of the following can be the third? A)            B)          C)              D)                 E)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2005_ecolier#q12|src_kangourou_2005_ecolier__Q12]]
 
 
 
@@ -503,7 +489,6 @@ level: kangourou
 > There were 15 pieces of paper. After some were cut into three pieces, the pieces of paper became 23. How many pieces of paper were cut? A) 1              B) 2              C) 3              D) 4             E) 5
 
 **Answer:** D
-[[Quesiti/src_kangourou_2005_ecolier#q13|src_kangourou_2005_ecolier__Q13]]
 
 
 
@@ -535,7 +520,6 @@ level: kangourou
 > Three men, far apart, walk along an alleyway with numbered benches at regular intervals. At the same time, the three of them sit down to rest. The first man sits on bench number 66, the third man on bench number 24, and the second man halfway between the two. What is the number of the bench on which the second man sits? A) 33              B) 35              C) 42              D) 45             E) 48
 
 **Answer:** D
-[[Quesiti/src_kangourou_2005_ecolier#q14|src_kangourou_2005_ecolier__Q14]]
 
 
 
@@ -572,7 +556,6 @@ level: kangourou
 > Peter rotates a triangle clockwise by one position per second (note the figure, where the initial position P, the one after 1 second and the one after 2 seconds are represented in the order). What will be the position of the triangle after 2005 seconds? A)               B)              C)               D)              E)
 
 **Answer:** A
-[[Quesiti/src_kangourou_2005_ecolier#q15|src_kangourou_2005_ecolier__Q15]]
 
 
 
@@ -625,8 +608,6 @@ level: kangourou
 
 **Answer:** E
 
-[[Quesiti/src_kangourou_2005_ecolier#q16|src_kangourou_2005_ecolier__Q16]]
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_logica,topic_combinatoria,method_casework,skill_modellizzazione"></span>
@@ -661,7 +642,6 @@ level: kangourou
 > The maximum capacity of an elevator is 150 kilograms. Four friends must use it to reach the tenth floor from the ground floor: three of them weigh 80 kilograms each, while the fourth weighs 60 kilograms. What is the minimum number of elevator trips to take the four friends to the desired floor? A) 1 B) 2 C) 3 D) 4             E) 7
 
 **Answer:** C
-[[Quesiti/src_kangourou_2005_ecolier#q17|src_kangourou_2005_ecolier__Q17]]
 
 
 
@@ -717,7 +697,6 @@ level: kangourou
 > There is only one rectangle that you can make using 6 matches, the one shown in the figure. How many different rectangles by size can you make using (for each) 14 matches? (All matches are the same length.) A) 2 B) 3 C) 4 D) 6 E) 8
 
 **Answer:** B
-[[Quesiti/src_kangourou_2005_ecolier#q18|src_kangourou_2005_ecolier__Q18]]
 
 
 
@@ -753,7 +732,6 @@ How many games did Edward win at cards?
 > Edward, Susanna and Teresa are playing cards. At the end of each match, the winner gains 3 points, the second-placed 1 point while the third-placed does not gain points. After four games, Susanna has 4 points and Teresa has 3. How many games has Edward won? A) 1 B) 2 C) 3 D) all four E) it is not possible to know.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2005_ecolier#q19|src_kangourou_2005_ecolier__Q19]]
 
 
 
@@ -795,7 +773,6 @@ How many games did Edward win at cards?
 > D) 34 m               E) 36 m
 
 **Answer:** C
-[[Quesiti/src_kangourou_2005_ecolier#q20|src_kangourou_2005_ecolier__Q20]]
 
 
 
@@ -846,8 +823,6 @@ How many games did Edward win at cards?
 
 **Answer:** C
 
-[[Quesiti/src_kangourou_2005_ecolier#q21|src_kangourou_2005_ecolier__Q21]]
-
 
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_combinatoria,topic_logica,skill_conteggio_sistematico"></span>
@@ -889,7 +864,6 @@ How many games did Edward win at cards?
 > Five cards, numbered 1 to 5, are lined up on the table in the order 5, 1, 4, 3, 2. You have to place the cards in the order 1, 2, 3, 4, 5 by making only moves of the following type: each move consists of exchanging two cards. What is the minimum number of moves that will allow you to perform the operation? A) 2 B) 3 C) 4 D) 5 E) 6
 
 **Answer:** B
-[[Quesiti/src_kangourou_2005_ecolier#q22|src_kangourou_2005_ecolier__Q22]]
 
 
 
@@ -924,7 +898,6 @@ How many games did Edward win at cards?
 > Only one of the following cubes admits the net shown on the right. Which one? A)                 B)                   C) D)                            E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2005_ecolier#q23|src_kangourou_2005_ecolier__Q23]]
 
 
 
@@ -966,4 +939,3 @@ How many games did Edward win at cards?
 > The product of 100 integers greater than zero is equal to 100. What is the minimum value that the sum of these numbers can have? A) 100 B) 110 C) 118 D) 127 E) 199 5 1 4 3 2 1 2 3 4 5 Ecolier_05_D.qxp 21/02/2005 15.54 Page 9
 
 **Answer:** B
-[[Quesiti/src_kangourou_2005_ecolier#q24|src_kangourou_2005_ecolier__Q24]]

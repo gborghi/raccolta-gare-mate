@@ -33,8 +33,6 @@ level: BMO Round 1
 
 > Una strada ha case numerate da $1$ a $n$, dove $n$ è un numero a tre cifre. Esattamente $\frac{1}{k}$ dei numeri inizia con la cifra $2$, dove $k$ è un intero positivo. Trova i valori possibili di $n$.
 
-[[Quesiti/src_bmo1_2023#q01|src_bmo1_2023__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_casework,method_ricorsione,method_induzione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -62,8 +60,6 @@ level: BMO Round 1
 
 > Una sequenza di integri positivi $a_n$ inizia con $a_1 = a$ e $a_2 = b$ per gli integri positivi $a$ e $b$. I termini successivi della sequenza soddisfano le seguenti due regole per tutti i numeri interi positivi $n$: $$a_{2n+1} = a_{2n} a_{2n-1}, \quad a_{2n+2} = a_{2n+1} + 4.$$ Esattamente $m$ dei numeri $a_1, a_2, a_3, \ldots, a_{2022}$ sono numeri quadrati. Qual è il valore massimo possibile di $m$? Si noti che $m$ dipende da $a$ e $b$, quindi il massimo è superiore a tutte le possibili scelte di $a$ e $b$.
 
-[[Quesiti/src_bmo1_2023#q02|src_bmo1_2023__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -89,8 +85,6 @@ level: BMO Round 1
 
 > In un triangolo acuto e non isosceles $ABC$ i punti medi di $AC$ e $AB$ sono rispettivamente $B_1$ e $C_1$. Un punto $D$ si trova su $BC$ con $C$ tra $B$ e $D$. Il punto $F$ è tale che $\angle AFC$ sia un angolo retto e $\angle DCF = \angle FCA$. Il punto $G$ è tale che $\angle AGB$ sia un angolo retto e $\angle CBG = \angle GBA$. Prove che $B_1$, $C_1$, $F$ e $G$ sono collineari.
 
-[[Quesiti/src_bmo1_2023#q03|src_bmo1_2023__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_invarianti,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_modellizzazione,skill_conteggio_sistematico"></span>
@@ -115,8 +109,6 @@ level: BMO Round 1
 *8×8 gioco a griglia; trovare il punteggio massimo garantito per Katy*
 
 > Alex e Katy giocano su una griglia quadrata di cellule unità $64$. Si girano a turno per giocare, con Alex prima. A sua volta, Alex scrive "A" in una cella vuota. A sua volta, Katy scrive "K" in due celle vuote che condividono un lato. La partita finisce quando un giocatore non può muoversi. Il punteggio di Katy è il numero di K sulla griglia alla fine della partita. Qual e' il punteggio piu' alto che Katy puo' ottenere se suona bene, non importa cosa faccia Alex?
-
-[[Quesiti/src_bmo1_2023#q04|src_bmo1_2023__Q04]]
 
 
 
@@ -147,8 +139,6 @@ level: BMO Round 1
 > 
 > $(So\ f(1) = 1,\ f(2) = 1\ and\ f(6) = 3.)$
 
-[[Quesiti/src_bmo1_2023#q05|src_bmo1_2023__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_combinatoria,method_invarianti,method_casework,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione,skill_riconoscimento_pattern"></span>
@@ -173,5 +163,3 @@ level: BMO Round 1
 *Circolo Γ, linea l, rane che saltano tra l e Γ; provare il ritorno al punto di partenza*
 
 > Un cerchio $\Gamma$ ha un raggio $1$. Una linea $l$ è tale che la distanza perpendicolare da $l$ al centro di $\Gamma$ sia strettamente tra $0$ e $2$. Una rana sceglie un punto su $\Gamma$ la cui distanza perpendicolare da $l$ è inferiore a $1$ e si trova su quel punto. Poi esegue una sequenza di salti. Ogni salto ha una lunghezza $1$ e se un salto inizia su $\Gamma$ deve finire su $l$ e viceversa. Prova che dopo un numero finito di salti la rana ritorna a un punto su cui è stata prima.
-
-[[Quesiti/src_bmo1_2023#q06|src_bmo1_2023__Q06]]

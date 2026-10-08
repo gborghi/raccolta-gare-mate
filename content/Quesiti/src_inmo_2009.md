@@ -33,8 +33,6 @@ level: INMO
 
 > Che $ABC$ sia un triangolo e che $P$ sia un punto interno tale che $\angle BPC = 90^\circ$, $\angle BAP = \angle BCP$. $M$ e $N$ siano rispettivamente i punti di mezzo di $AC$ e $BC$. Supponiamo $BP = 2PM$. Prove che $A$, $P$, $N$ sono collineari.
 
-[[Quesiti/src_inmo_2009#q01|src_inmo_2009__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_insiemi_funzioni,method_induzione,method_congruenze,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -61,8 +59,6 @@ level: INMO
 *Sequenza di 0/1 per parità del numero di divisori; razionale o irrazionale?*
 
 > Definire una sequenza $(a_n)_{n \ge 1}$ come segue: $$a_n = \begin{cases} 0, & \text{if the number of positive divisors of } n \text{ is odd,} \\ 1, & \text{if the number of positive divisors of } n \text{ is even.} \end{cases}$$ (I divisori positivi di $n$ includono $1$ e $n$.) $x = 0.a_1 a_2 a_3 \ldots$ sia il numero reale la cui espansione decimale contiene $a_n$ nel posto di $n$, $n \ge 1$. Determinare, con la prova, se $x$ è razionale o irrazionale.
-
-[[Quesiti/src_inmo_2009#q02|src_inmo_2009__Q02]]
 
 
 
@@ -91,8 +87,6 @@ level: INMO
 
 > Trova tutti i numeri reali $x$ in modo tale che $$[x^2 + 2x] = [x]^2 + 2[x].$$ (Qui $[x]$ indica il più grande numero intero non superiore a $x$.)
 
-[[Quesiti/src_inmo_2009#q03|src_inmo_2009__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_geometria_piana,method_colorazione,method_cassetti,method_casework,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -117,8 +111,6 @@ level: INMO
 *3-colorazione del piano produce isosceles monocromatici o triangolo di progressione geometrica*
 
 > Tutti i punti del piano sono colorati con tre colori. Prova che esiste un triangolo con vertici dello stesso colore in modo tale che sia uguale o gli angoli siano in progressione geometrica.
-
-[[Quesiti/src_inmo_2009#q04|src_inmo_2009__Q04]]
 
 
 
@@ -146,8 +138,6 @@ level: INMO
 
 > Che $ABC$ sia un triangolo acuto e che $H$ sia il suo centro ortografico. $h_{\max}$ indichi l'altitudine più grande del triangolo $ABC$. Provare che $$AH + BH + CH \le 2h_{\max}.$$
 
-[[Quesiti/src_inmo_2009#q05|src_inmo_2009__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione,skill_stima"></span>
@@ -173,5 +163,3 @@ level: INMO
 *Per i reali positivi con a3+b3=c3, provare a2+b2−c2≥6(c−a)(c−b)*
 
 > $a$, $b$, $c$ siano numeri reali positivi tali da $a^3 + b^3 = c^3$. Provare che $$a^2 + b^2 - c^2 \ge 6(c - a)(c - b).$$
-
-[[Quesiti/src_inmo_2009#q06|src_inmo_2009__Q06]]

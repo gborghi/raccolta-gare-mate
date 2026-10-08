@@ -39,7 +39,6 @@ level: kangourou
 > In a straight circular cone the radius of the base circle is $3$ cm and the generatrix $6$ cm. An ant wants to climb the lateral surface of the cone from the $A$ point on the base circle to the middle point of the opposite generator $BC$ (see figure). What is the shortest route an ant can take? (see figure)
 
 **Answer:** 3*sqrt5 cm
-[[Quesiti/src_kangourou_2007_student_maggio#qs1|src_kangourou_2007_student_maggio__QS1]]
 
 
 
@@ -68,7 +67,6 @@ Winning strategy in the 52 card game
 > I have $52$ cards on each of which a positive integer is indicated and the sum of all the numbers is an odd number. I play with a friend like this: after you put all the cards in a row on the table, you remove a card at one end of the row and then you move the hand to the other one who does the same thing; you iterate until there are no more cards on the table. In the end, each player adds the numbers written on the cards he has chosen; the winner is the one whose cards' numbers have the greater sum. Is there a winning strategy for whoever starts the game? If yes, indicate one, if not, provide a reason.
 
 **Answer:** yes
-[[Quesiti/src_kangourou_2007_student_maggio#qs2|src_kangourou_2007_student_maggio__QS2]]
 
 
 
@@ -147,7 +145,6 @@ Winning strategy in the 52 card game
 > Let $ABC$ be any triangle whose heights relative to the vertices $A$, $B$, $C$ satisfy the following relations: $h_A \geq 3$ cm, $h_B \geq 4$ cm, $h_C \geq 5$ cm respectively. How many square centimetres is the minimum area of $ABC$?
 
 **Answer:** 10
-[[Quesiti/src_kangourou_2007_student_maggio#qs3|src_kangourou_2007_student_maggio__QS3]]
 
 
 
@@ -176,7 +173,6 @@ Sum of the first 21 decimal places of 2^2007/7*
 > What is the sum of the first twenty-one digits after the decimal point of division by $7$ of $2^{2007}$?
 
 **Answer:** 88
-[[Quesiti/src_kangourou_2007_student_maggio#qs4|src_kangourou_2007_student_maggio__QS4]]
 
 
 
@@ -205,7 +201,6 @@ Sum of the first 21 decimal places of 2^2007/7*
 > A set $S$ of positive natural numbers is called "porous" if it is empty or does not contain three consecutive integers. How many porous subsets of the $\{1, 2, 3, \ldots, 10\}$ set are there?
 
 **Answer:** 504
-[[Quesiti/src_kangourou_2007_student_maggio#qs5|src_kangourou_2007_student_maggio__QS5]]
 
 
 
@@ -234,4 +229,3 @@ Finding the fake bag with three weights
 > $2007$ numbered bags shall each contain at least $3000$ coins. The coins in each single bag are all equal in weight and shape and are marked with the bag number. Except for one bag containing counterfeit coins, all the others contain official coins. Official coins all have the same weight, different from the weight of counterfeit coins: the two weights are unknown. You have an electronic scale. Find a strategy to determine with three weighings which bag contains the counterfeit coins, showing its effectiveness.
 
 **Answer:** strategy with 3 weighings
-[[Quesiti/src_kangourou_2007_student_maggio#qs6|src_kangourou_2007_student_maggio__QS6]]

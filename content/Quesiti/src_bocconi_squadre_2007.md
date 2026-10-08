@@ -35,8 +35,6 @@ level: Gara a Squadre
 
 > Place, instead of the asterisk, the appropriate operation marks (using them all at least once: sum, subtraction, multiplication, division) so that  without using the parentheses  resulting in: $$7 * 7 * 7 * 7 * 7 * 7 * 7 = 34$$ (Sufficient to provide a solution)
 
-[[Quesiti/src_bocconi_squadre_2007#q01|src_bocconi_squadre_2007__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -61,8 +59,6 @@ level: Gara a Squadre
 *How to form 1 Euro with coins of 5, 10, 20 cents*
 
 > How many different ways can one form 1 Euro with coins of 5, 10 and 20 cents?
-
-[[Quesiti/src_bocconi_squadre_2007#q02|src_bocconi_squadre_2007__Q02]]
 
 
 
@@ -92,8 +88,6 @@ level: Gara a Squadre
 > Angelo owns three types of stamps: the white 1 Euro, the red and finally the green ones (the value of both is given by an integer of Euro, but the value of the greens is less than that of the red stamps). Angelo also notes that for letters and packages which require a stamp from any whole number of Euro not exceeding 15, three stamps (maximum) are sufficient.
 > 
 > What are the values of a red and green stamp?
-
-[[Quesiti/src_bocconi_squadre_2007#q03|src_bocconi_squadre_2007__Q03]]
 
 
 
@@ -128,8 +122,6 @@ level: Gara a Squadre
 
 ![[src_bocconi_squadre_2007__q04.png]]
 
-[[Quesiti/src_bocconi_squadre_2007#q04|src_bocconi_squadre_2007__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_aritmetica,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -162,8 +154,6 @@ level: Gara a Squadre
 
 ![[src_bocconi_squadre_2007__q05.png]]
 
-[[Quesiti/src_bocconi_squadre_2007#q05|src_bocconi_squadre_2007__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -189,8 +179,6 @@ level: Gara a Squadre
 
 > Write (in increasing order) all positive three-digit integers whose square ends in 444. (Write 0 if you think there are no numbers with this characteristic.)
 
-[[Quesiti/src_bocconi_squadre_2007#q06|src_bocconi_squadre_2007__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -215,8 +203,6 @@ level: Gara a Squadre
 *Positive three- or four-digit integers with a finite square for 4444*
 
 > Write (in increasing order) all positive integers of three or four digits whose square ends in 4444. (Write 0 if you think there are no numbers with this characteristic.)
-
-[[Quesiti/src_bocconi_squadre_2007#q07|src_bocconi_squadre_2007__Q07]]
 
 
 
@@ -247,8 +233,6 @@ level: Gara a Squadre
 > 
 > Write 0 if you think there are no tiles with the required feature.
 
-[[Quesiti/src_bocconi_squadre_2007#q08|src_bocconi_squadre_2007__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_modellizzazione"></span>
@@ -277,8 +261,6 @@ level: Gara a Squadre
 > When my son is 15 years older than he is now, he will be the same age as I was in the year I was eight times his age. On the other hand, when he reaches my age now, together we'll have  if he's still in this world  31 times the age he was when he was 8 times his age.
 > 
 > How old is my son today?
-
-[[Quesiti/src_bocconi_squadre_2007#q09|src_bocconi_squadre_2007__Q09]]
 
 
 
@@ -310,8 +292,6 @@ level: Gara a Squadre
 > 
 > What is the probability that there is a three-year-old child among them and that everyone else is not younger? (You have to indicate the probability of failure, with a two-digit decimal number.)
 
-[[Quesiti/src_bocconi_squadre_2007#q10|src_bocconi_squadre_2007__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -338,8 +318,6 @@ level: Gara a Squadre
 *Number multiplied by 792 with partially unreadable digits*
 
 > On an old sheet, which emerges from the memories of a cellar, is a product. However, time has rendered the second factor and 3 of the 11 digits of the result unreadable (where each of the 3 unreadable digits has now been replaced by a dots): $$792 \times \boxed{\phantom{00}} = 1989 \cdot 1990 \cdots$$ For what number was 792 multiplied?
-
-[[Quesiti/src_bocconi_squadre_2007#q11|src_bocconi_squadre_2007__Q11]]
 
 
 
@@ -369,8 +347,6 @@ level: Gara a Squadre
 > 
 > In how many jumps will the dog reach the fox?
 
-[[Quesiti/src_bocconi_squadre_2007#q12|src_bocconi_squadre_2007__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_solida,topic_geometria_piana,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -398,8 +374,6 @@ level: Gara a Squadre
 > What is the shortest path for an ant in $A$ and wants to reach the point $B$, moving along the faces of the paralelepipedo in the figure? (You have to approximate the solution by default, rounding to the first decimal point.)
 
 ![[src_bocconi_squadre_2007__q13.png]]
-
-[[Quesiti/src_bocconi_squadre_2007#q13|src_bocconi_squadre_2007__Q13]]
 
 
 
@@ -430,8 +404,6 @@ level: Gara a Squadre
 > 
 > How many girls were at the party?
 
-[[Quesiti/src_bocconi_squadre_2007#q14|src_bocconi_squadre_2007__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -461,8 +433,6 @@ level: Gara a Squadre
 > 
 > How many other similar-perfect numbers are there between 1900 and 2000?
 
-[[Quesiti/src_bocconi_squadre_2007#q15|src_bocconi_squadre_2007__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_algebra,topic_logica,method_casework,method_disuguaglianze,skill_lettura_attenta,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -491,8 +461,6 @@ level: Gara a Squadre
 > Anna says that she is a daughter in the family and that her brothers are at least as many as her sisters. For one of her younger brothers, Luke, the number of sisters is at least twice that of the brothers.
 > 
 > How many daughters are there in Anna and Luke's family?
-
-[[Quesiti/src_bocconi_squadre_2007#q16|src_bocconi_squadre_2007__Q16]]
 
 
 
@@ -531,8 +499,6 @@ level: Gara a Squadre
 
 ![[src_bocconi_squadre_2007__q17.png]]
 
-[[Quesiti/src_bocconi_squadre_2007#q17|src_bocconi_squadre_2007__Q17]]
-
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -565,8 +531,6 @@ level: Gara a Squadre
 > How much is this perimeter worth at most?
 
 ![[src_bocconi_squadre_2007__q18.png]]
-
-[[Quesiti/src_bocconi_squadre_2007#q18|src_bocconi_squadre_2007__Q18]]
 
 
 
@@ -601,8 +565,6 @@ level: Gara a Squadre
 
 ![[src_bocconi_squadre_2007__q19.png]]
 
-[[Quesiti/src_bocconi_squadre_2007#q19|src_bocconi_squadre_2007__Q19]]
-
 
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_algebra,topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -634,5 +596,3 @@ level: Gara a Squadre
 > With his 81 kg, Nando has an index equal to 25 while Desiderio (with his 80 kg) has a BMI equal to 20.
 > 
 > What is the (in cm) height difference between Desiderio and Nando?
-
-[[Quesiti/src_bocconi_squadre_2007#q20|src_bocconi_squadre_2007__Q20]]

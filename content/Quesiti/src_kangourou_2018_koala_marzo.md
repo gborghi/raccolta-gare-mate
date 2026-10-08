@@ -38,7 +38,6 @@ level: kangourou
 > Luke drew a drawing (see figure). What drawing would you see if Luke had changed colors, that is, if he had painted yellow what is black in the first drawing and vice versa?
 
 **Answer:** E
-[[Quesiti/src_kangourou_2018_koala_marzo#q01|src_kangourou_2018_koala_marzo__Q01]]
 
 
 
@@ -70,7 +69,6 @@ level: kangourou
 > The cake you see in the picture was cut into equal slices. Then some of them were eaten. How many?
 
 **Answer:** D
-[[Quesiti/src_kangourou_2018_koala_marzo#q02|src_kangourou_2018_koala_marzo__Q02]]
 
 
 
@@ -102,7 +100,6 @@ level: kangourou
 > Alice drew a line connecting the ladybugs in the figure according to the number of dots: she started from the ladybug with a single dot, reached the one with two, and then continued in increasing order. Which of the following lines did she draw? (see figure)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2018_koala_marzo#q03|src_kangourou_2018_koala_marzo__Q03]]
 
 
 
@@ -134,7 +131,6 @@ level: kangourou
 > Maria glued some four-pointed stars, all identical to each other, obtaining the result you see in the figure. What is the minimum number of stars she used? (see figure)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2018_koala_marzo#q04|src_kangourou_2018_koala_marzo__Q04]]
 
 
 
@@ -166,7 +162,6 @@ level: kangourou
 > How many kangaroos do you have to move from the left park to the right one in order to have the same number of kangaroos in both parks? (see figure)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_koala_marzo#q05|src_kangourou_2018_koala_marzo__Q05]]
 
 
 
@@ -210,7 +205,6 @@ level: kangourou
 > - **(E)** The one in the middle.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_koala_marzo#q06|src_kangourou_2018_koala_marzo__Q06]]
 
 
 
@@ -242,7 +236,6 @@ level: kangourou
 > Emilia has many beads of different shapes and colors. Prepare groups of 4 beads and align them according to a pattern (see figure). What will be the 16th group? (see figure)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_koala_marzo#q07|src_kangourou_2018_koala_marzo__Q07]]
 
 
 
@@ -274,7 +267,6 @@ How many discs does Marco see from above?
 > Mark has inserted several wooden discs onto a peg: the drawing shows what Mark sees as he looks at the building from the front. How many discs does Marco see looking at it from above? (see figure)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2018_koala_marzo#q08|src_kangourou_2018_koala_marzo__Q08]]
 
 
 
@@ -306,7 +298,6 @@ How many discs does Marco see from above?
 > A clumsy little witch has dropped her 5 flying brooms. She removes them one after another without moving those still on the ground. Which broom is left for her to remove last? (see figure)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_koala_marzo#q09|src_kangourou_2018_koala_marzo__Q09]]
 
 
 
@@ -338,7 +329,6 @@ How many discs does Marco see from above?
 > On two equal squares of clear plastic, Alberto marked points and drew lines as you can see below. What drawing do you see overlapping the two squares? (see figure)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2018_koala_marzo#q10|src_kangourou_2018_koala_marzo__Q10]]
 
 
 
@@ -370,7 +360,6 @@ How many discs does Marco see from above?
 > Paul reproduced on a square sheet, twice, the same Greek key pattern (see figure). Now it will repeat it a third time: which of the points indicated will the Greek key pattern pass? (The second Greek starts and ends where the blue dots are placed.) (see figure)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2018_koala_marzo#q11|src_kangourou_2018_koala_marzo__Q11]]
 
 
 
@@ -414,7 +403,6 @@ How many discs does Marco see from above?
 > - **(E)** C or D
 
 **Answer:** A
-[[Quesiti/src_kangourou_2018_koala_marzo#q12|src_kangourou_2018_koala_marzo__Q12]]
 
 
 
@@ -446,7 +434,6 @@ How many discs does Marco see from above?
 > Diana scored 6 points with the three arrows on the first target (the one on the left) and 8 points with the arrows on the second one (the one in the center). How many points did she make with the arrows on the third? (see figure)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2018_koala_marzo#q13|src_kangourou_2018_koala_marzo__Q13]]
 
 
 
@@ -478,7 +465,6 @@ How many discs does Marco see from above?
 > To reach his bone at the crossroads, the dog made a total of three right turns and two left turns. Which of the following is the path taken by the dog? (see figure)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2018_koala_marzo#q14|src_kangourou_2018_koala_marzo__Q14]]
 
 
 
@@ -510,7 +496,6 @@ How many discs does Marco see from above?
 > If the images you see in the picture represent your hands, how many times does your right hand appear in the picture? (see figure)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2018_koala_marzo#q15|src_kangourou_2018_koala_marzo__Q15]]
 
 
 
@@ -542,7 +527,6 @@ How many discs does Marco see from above?
 > Carlo cut a rope into three equal pieces and then made each of the knots, all the same. Which of the following illustrates the three pieces of rope correctly once knotted? (see figure)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_koala_marzo#q16|src_kangourou_2018_koala_marzo__Q16]]
 
 
 
@@ -574,7 +558,6 @@ How many discs does Marco see from above?
 > A storm breaks out and 33 gnomes seek shelter under the four mushrooms you see in the figure. Under each mushroom can be as many gnomes as there are the large white dots on the mushroom's hat. You can only see the front of each fungus in the drawing, but on the opposite side there are the same number of dots. How many gnomes get wet? (see figure)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_koala_marzo#q17|src_kangourou_2018_koala_marzo__Q17]]
 
 
 
@@ -606,7 +589,6 @@ How many discs does Marco see from above?
 > At the supermarket, an ice cream costs one euro, but if you buy six, you only pay five euros. What's the largest number of ice creams you can buy for 36 euros?
 
 **Answer:** D
-[[Quesiti/src_kangourou_2018_koala_marzo#q18|src_kangourou_2018_koala_marzo__Q18]]
 
 
 
@@ -635,7 +617,6 @@ How many discs does Marco see from above?
 > Using two of the digits 2, 0, 1, and 8, how many two-digit numbers can you write if you want them to be larger than 10 and smaller than 25?
 
 **Answer:** A
-[[Quesiti/src_kangourou_2018_koala_marzo#q19|src_kangourou_2018_koala_marzo__Q19]]
 
 
 
@@ -667,7 +648,6 @@ Within days the two chests will have the same coins
 > A pirate has two chests: the one on the left has 10 coins, the other one is empty. Starting tomorrow, the pirate will put one coin every day in the left and two in the right. In how many days will the two chests have the same number of coins?
 
 **Answer:** C
-[[Quesiti/src_kangourou_2018_koala_marzo#q20|src_kangourou_2018_koala_marzo__Q20]]
 
 
 
@@ -699,7 +679,6 @@ Within days the two chests will have the same coins
 > Alice has three pieces of white paper, two black and two gray. First, cut every piece of non-black paper in half; then cut every piece of non-white paper in half. How many pieces of paper does she have at the end?
 
 **Answer:** D
-[[Quesiti/src_kangourou_2018_koala_marzo#q21|src_kangourou_2018_koala_marzo__Q21]]
 
 
 
@@ -731,7 +710,6 @@ Within days the two chests will have the same coins
 > A boy has some stickers 5 centimetres wide and 1 centimetre high: with these he draws a fence like the one in the figure. How many centimetres long is the fence? (see figure)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_koala_marzo#q22|src_kangourou_2018_koala_marzo__Q22]]
 
 
 
@@ -763,7 +741,6 @@ Within days the two chests will have the same coins
 > The alleyway from Anna's house to Maria's is 16 meters long. Instead, from Maria's house to Gianni's house, it's 20 meters and from Maria's house to the crossroads, it's 9 meters. How many meters is the alleyway from Anna's house to Gianni's? (see figure)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2018_koala_marzo#q23|src_kangourou_2018_koala_marzo__Q23]]
 
 
 
@@ -795,4 +772,3 @@ Cheaper and more expensive toy by price
 > Ornella bought some toys. Their price satisfies all these equalities (see figure). Which are, in order, the cheapest and most expensive toys? (see figure)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2018_koala_marzo#q24|src_kangourou_2018_koala_marzo__Q24]]

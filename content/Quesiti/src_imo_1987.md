@@ -47,8 +47,6 @@ level: IMO
 > (Osservazione: una permutazione f di un insieme S è una corrispondenza biunivoca di S in sé.
 > Un elemento i di S si dice punto fisso della permutazione f se f(i) = i.)
 
-[[Quesiti/src_imo_1987#q01|src_imo_1987__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -76,8 +74,6 @@ level: IMO
 *I quadrilatero AKNM e il triangolo ABC hanno aree uguali*
 
 > In un triangolo acutangolo ABC, la bisettrice interna dell'angolo A interseca BC in L e la circonferenza circoscritta ad ABC nuovamente in N. Dall punto L si conducono le perpendicolari a AB e AC; i piedi di queste perpendicolari sono rispettivamente K e M. Si dimostri che il quadrilatero AKNM e il triangolo ABC hanno la stessa area.
-
-[[Quesiti/src_imo_1987#q02|src_imo_1987__Q02]]
 
 
 
@@ -129,8 +125,6 @@ level: IMO
 > Giorno II
 > 11 luglio 1987
 
-[[Quesiti/src_imo_1987#q03|src_imo_1987__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,method_invarianti"></span>
@@ -156,8 +150,6 @@ level: IMO
 
 > Si dimostri che non esiste alcuna funzione f dall'insieme degli interi non negativi in sé
 > tale che f(f(n)) = n + 1987 per ogni n.
-
-[[Quesiti/src_imo_1987#q04|src_imo_1987__Q04]]
 
 
 
@@ -189,8 +181,6 @@ level: IMO
 > e tre punti qualsiasi determinano un triangolo non degenere di area
 > razionale.
 
-[[Quesiti/src_imo_1987#q05|src_imo_1987__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze"></span>
@@ -218,5 +208,3 @@ level: IMO
 *Polinomio quadratrico che genera numeri primi estende la primalità a un intervallo più ampio*
 
 > Sia n un intero maggiore o uguale a 2. Si dimostri che se k² + k + n è primo per tutti gli interi k tali che 0 ≤ k ≤ √(n/3), allora k² + k + n è primo per tutti gli interi k tali che 0 ≤ k ≤ n − 2.
-
-[[Quesiti/src_imo_1987#q06|src_imo_1987__Q06]]

@@ -47,7 +47,6 @@ level: triennio
 > - **(E)** 319/6.
 
 **Answer:** E
-[[Quesiti/src_archimede_2003_triennio#q01|src_archimede_2003_triennio__Q01]]
 
 
 
@@ -90,7 +89,6 @@ level: triennio
 > - **(E)** 4005.
 
 **Answer:** B
-[[Quesiti/src_archimede_2003_triennio#q02|src_archimede_2003_triennio__Q02]]
 
 
 
@@ -132,7 +130,6 @@ level: triennio
 > - **(E)** There are no such triangles.
 
 **Answer:** C
-[[Quesiti/src_archimede_2003_triennio#q03|src_archimede_2003_triennio__Q03]]
 
 
 
@@ -174,7 +171,6 @@ level: triennio
 > - **(E)** 3 14.
 
 **Answer:** B
-[[Quesiti/src_archimede_2003_triennio#q04|src_archimede_2003_triennio__Q04]]
 
 
 
@@ -217,7 +213,6 @@ level: triennio
 > - **(E)** Depends on the length of the road.
 
 **Answer:** E
-[[Quesiti/src_archimede_2003_triennio#q05|src_archimede_2003_triennio__Q05]]
 
 
 
@@ -254,8 +249,6 @@ The following information is provided in the Annex to Implementing Regulation (E
 > - **(C)** only (b) and (c)
 > - **(D)** only a)
 > - **(E)** only c). a) x2 + 1 x2 ≥2 b) x2 ≥2x −2 c) x4−2x3+x2 ≥0.
-
-[[Quesiti/src_archimede_2003_triennio#q07|src_archimede_2003_triennio__Q07]]
 
 
 
@@ -296,8 +289,6 @@ The following information is provided in the Annex to Implementing Regulation (E
 > - **(D)** Michael and Juan Pablo
 > - **(E)** Michael and Kimi.
 
-[[Quesiti/src_archimede_2003_triennio#q08|src_archimede_2003_triennio__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_coordinate"></span>
@@ -336,8 +327,6 @@ The following information is provided in the Annex to Implementing Regulation (E
 > - **(C)** 4
 > - **(D)** 5
 > - **(E)** infinite.
-
-[[Quesiti/src_archimede_2003_triennio#q09|src_archimede_2003_triennio__Q09]]
 
 
 
@@ -378,8 +367,6 @@ The report shall contain the following information:
 > - **(C)** 3
 > - **(D)** 3 2 √ 2
 > - **(E)** None of the previous ones.
-
-[[Quesiti/src_archimede_2003_triennio#q10|src_archimede_2003_triennio__Q10]]
 
 
 
@@ -422,8 +409,6 @@ The report shall contain the following information:
 > - **(D)** 32
 > - **(E)** None of the previous ones.                          A B
 
-[[Quesiti/src_archimede_2003_triennio#q11|src_archimede_2003_triennio__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_invarianti"></span>
@@ -464,8 +449,6 @@ The report shall contain the following information:
 > - **(C)** 4
 > - **(D)** a finite number greater than 4
 > - **(E)** No number of detections is enough.
-
-[[Quesiti/src_archimede_2003_triennio#q12|src_archimede_2003_triennio__Q12]]
 
 
 
@@ -516,8 +499,6 @@ The report shall contain the following information:
 > - **(D)** For every real x, if (II) is true, so is (I)
 > - **(E)** For every real x, if (I) is true then (III) is false.
 
-[[Quesiti/src_archimede_2003_triennio#q13|src_archimede_2003_triennio__Q13]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica"></span>
@@ -564,8 +545,6 @@ The report shall contain the following information:
 > - **(D)** 35
 > - **(E)** None of the above values.
 
-[[Quesiti/src_archimede_2003_triennio#q15|src_archimede_2003_triennio__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -603,8 +582,6 @@ The report shall contain the following information:
 > - **(C)** 2 − √ 3 2
 > - **(D)** 5 4
 > - **(E)** The previous answers are wrong.
-
-[[Quesiti/src_archimede_2003_triennio#q16|src_archimede_2003_triennio__Q16]]
 
 
 
@@ -669,8 +646,6 @@ The report shall contain the following information:
 > - **(D)** 76
 > - **(E)** 84.       
 
-[[Quesiti/src_archimede_2003_triennio#q17|src_archimede_2003_triennio__Q17]]
-
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,method_coordinate,skill_conteggio_sistematico"></span>
@@ -710,8 +685,6 @@ The report shall contain the following information:
 > - **(C)** between 60 and 69
 > - **(D)** Between 70 and 79
 > - **(E)** It's impossible. They counted wrong.
-
-[[Quesiti/src_archimede_2003_triennio#q19|src_archimede_2003_triennio__Q19]]
 
 
 
@@ -755,8 +728,6 @@ The report shall contain the following information:
 > - **(D)** 2
 > - **(E)** None of the above values.
 
-[[Quesiti/src_archimede_2003_triennio#q20|src_archimede_2003_triennio__Q20]]
-
 
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_conteggio,skill_conteggio_sistematico"></span>
@@ -794,8 +765,6 @@ The report shall contain the following information:
 > - **(C)** 4
 > - **(D)** 1002
 > - **(E)** 2003.
-
-[[Quesiti/src_archimede_2003_triennio#q22|src_archimede_2003_triennio__Q22]]
 
 
 
@@ -840,8 +809,6 @@ Size of region deleted 14 minutes ago from virus
 > - **(D)** 4 bytes
 > - **(E)** 16 bytes.
 
-[[Quesiti/src_archimede_2003_triennio#q24|src_archimede_2003_triennio__Q24]]
-
 
 
 <span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico"></span>
@@ -883,5 +850,3 @@ Size of region deleted 14 minutes ago from virus
 > - **(C)** 9
 > - **(D)** 12
 > - **(E)** There's no such pyramid.
-
-[[Quesiti/src_archimede_2003_triennio#q25|src_archimede_2003_triennio__Q25]]

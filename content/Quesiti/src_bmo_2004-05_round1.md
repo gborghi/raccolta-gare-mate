@@ -47,7 +47,6 @@ level: BMO Round 1
 > Dato che tutte queste affermazioni sono vere e che $n$ è un intero positivo, quali sono i valori possibili per $n$?
 
 **Risposta:** n = 2
-[[Quesiti/src_bmo_2004-05_round1#q01|src_bmo_2004-05_round1__Q01]]
 
 
 
@@ -73,8 +72,6 @@ level: BMO Round 1
 *Prove che la BP divide l'angolo EBC utilizzando piedi e semicircoli perpendicolari*
 
 > Il $ABC$ sia un triangolo acuto angolato e $D$, $E$ siano i piedi delle perpendicolari da $A$, $B$ a $BC$, $CA$ rispettivamente. $P$ è il punto in cui la linea $AD$ incontra il semicircolo costruito verso l'esterno su $BC$. Provare che $BP$ taglia l'angolo $EBC$.
-
-[[Quesiti/src_bmo_2004-05_round1#q02|src_bmo_2004-05_round1__Q02]]
 
 
 
@@ -107,7 +104,6 @@ level: BMO Round 1
 > Indipendentemente da come gli elementi di $\{1, 2, \ldots, n\}$ siano colorati in rosso o in blu, ci sono enti $x$, $y$, $z$, $w$ in $\{1, 2, \ldots, n\}$ (non necessariamente distinti) dello stesso colore, come $x + y + z = w$.
 
 **Risposta:** 11
-[[Quesiti/src_bmo_2004-05_round1#q03|src_bmo_2004-05_round1__Q03]]
 
 
 
@@ -136,7 +132,6 @@ level: BMO Round 1
 > Determinare il minimo valore possibile del termine più grande in una progressione aritmetica di quattro numeri primi distinti.
 
 **Risposta:** 23
-[[Quesiti/src_bmo_2004-05_round1#q04|src_bmo_2004-05_round1__Q04]]
 
 
 
@@ -174,5 +169,3 @@ level: BMO Round 1
 > ii) Se $x \in S$, allora sia $\frac{1}{x+1} \in S$ che $\frac{x}{x+1} \in S$.
 > 
 > Provare che $S$ contiene tutti i numeri razionali nell'intervallo $0 < c < 1$.
-
-[[Quesiti/src_bmo_2004-05_round1#q05|src_bmo_2004-05_round1__Q05]]

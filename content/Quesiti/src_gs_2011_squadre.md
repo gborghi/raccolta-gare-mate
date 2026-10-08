@@ -35,7 +35,6 @@ level: squadre
 > James Bond is in action on the island of Bunscerol in French Guiana, inhabited only by SPECTRE members since 2011. Fortunately, every bunserolo (= inhabitant of Bunscerol) has the characteristic of always telling the truth or always telling the lie. He hears a watchman murmur: "The thieves who tell the truth are as many as the bunserals who tell the lies". How many at most are always telling the truth?
 
 **Answer:** 2010
-[[Quesiti/src_gs_2011_squadre#q01|src_gs_2011_squadre__Q01]]
 
 
 
@@ -64,7 +63,6 @@ level: squadre
 > A skyscraper is cylindrical with a perimeter base $150\,\text{m}$, the high walls $160\,\text{m}$, the conical roof with the same cylinder base and high $20\,\text{m}$. Thanks to windshields that allow it to move in any direction on the smooth surface of the building, 007 is climbing the skyscraper to place three bombs exactly $30\,\text{m}$ under the chimney at the base of the roof and at the same distance from each other. You just fixed the second one and you need to go to the point where you fixed the third one. What is the length in meters of the minimum distance to travel?
 
 **Answer:** 0050
-[[Quesiti/src_gs_2011_squadre#q02|src_gs_2011_squadre__Q02]]
 
 
 
@@ -116,7 +114,6 @@ level: squadre
 > The radius of the circumference circumscribed to the square is 1 2 p 4 √ 2 = p 4 √ 2, the radius of the circumference circumscribed to the triangle is 2 3 p 3 √ 3 2 = p 3 √ 3. The required ratio is 27 32 = 0.84375.
 
 **Answer:** 2025
-[[Quesiti/src_gs_2011_squadre#q03|src_gs_2011_squadre__Q03]]
 
 
 
@@ -146,7 +143,6 @@ level: squadre
 > = 63 1024 = 0, 0615234375.
 
 **Answer:** 8437
-[[Quesiti/src_gs_2011_squadre#q04|src_gs_2011_squadre__Q04]]
 
 
 
@@ -175,7 +171,6 @@ level: squadre
 > James Bond was imprisoned by the bunserols. To pass the time it sums the perfect squares (i.e. numbers that are squares of positive integers) of the form $\dfrac{n}{4000-n}$ for $n$ whole. What is the result?
 
 **Answer:** 0063
-[[Quesiti/src_gs_2011_squadre#q05|src_gs_2011_squadre__Q05]]
 
 
 
@@ -204,7 +199,6 @@ level: squadre
 > Dr. No challenges Bond to a game with three dice: one with 4 faces numbered from $1$ to $4$, one with 6 faces numbered from $1$ to $6$ and the last dice with 8 faces numbered from $1$ to $8$. Bond has to roll all the dice twice and add up the faces. You can leave the island if the result you get is $14$, or you'll be thrown in jail. James pulls all three dice together once, getting $5$ as the sum of the numbers on the faces. What are the odds of Bond not getting thrown in jail? Answer by writing the first four digits after the resulting comma.
 
 **Answer:** 1093
-[[Quesiti/src_gs_2011_squadre#q06|src_gs_2011_squadre__Q06]]
 
 
 
@@ -233,7 +227,6 @@ level: squadre
 > Sun-drenched on the beach on Bunscerol Island, 007 entertains Honey by talking about her famous polynomials. The famous polynomials are those $P(x)$ polynomials of degree at most $11$, which are obtained by adding up some powers distinct from the variable $x$ and such as $P(1) = 5$ and $P(-1) = 1$. For example, $x^8 + x^4 + x^3 + x + 1$ is famous while $x^2 + x + 1$ and $2x^2 + 2x + 1$ are not famous. James turns to Honey and asks her in a sobering voice how many famous polynomials, calculated in $2$, give values greater than $2011$. What's Honey's answer to good math?
 
 **Answer:** 0100
-[[Quesiti/src_gs_2011_squadre#q07|src_gs_2011_squadre__Q07]]
 
 
 
@@ -262,7 +255,6 @@ level: squadre
 > The central building has many entrances, but most of them are protected from explosives. 007 found that the only doors not protected from explosive are those marked with a $k$ (all positive) number such that $2011 + k$ divides $2011 + k^2$. James quickly determines all such $k$. Answer with the sum of all their digits.
 
 **Answer:** 0067
-[[Quesiti/src_gs_2011_squadre#q08|src_gs_2011_squadre__Q08]]
 
 
 
@@ -290,7 +282,6 @@ level: squadre
 > To activate the car launcher of the 007, the release button must be pressed twice (the first time to remove the safety). James is trying to activate the launcher, but the button is damaged: not only does the button work with probability $\dfrac{3}{4}$, but it is also necessary that the button works twice in a row to be able to activate the weapon because the safe is damaged and, if you press the button and that doesn't work, the safe reacts. What's the probability that the weapon will activate exactly at the fifth press of the button? Answer by writing the first four digits after the resulting comma.
 
 **Answer:** 0615
-[[Quesiti/src_gs_2011_squadre#q09|src_gs_2011_squadre__Q09]]
 
 
 
@@ -322,7 +313,6 @@ level: squadre
 > It's the night. Emilio Largo and his scouts are chasing 007 with a jeep that mounts a projector at $3$ meters from the ground to illuminate the surroundings. James is hiding behind a strange high vertical sheet. The jeep's projector lights the plate forming a square shadow on the ground. James, very coldly, evaluates the area of the shadow in $64\,\text{m}^2$ and determines the distance of the jeep from the plate. He realizes that he can also calculate the area of the plate. What is the plate area in $\text{dm}^2$?
 
 **Answer:** 1066
-[[Quesiti/src_gs_2011_squadre#q10|src_gs_2011_squadre__Q10]]
 
 
 
@@ -350,7 +340,6 @@ level: squadre
 > Emilio Largo has captured James Bond and, with sadistic taste, challenges him to a strange roulette. There are thirty-six boxes numbered from $1$ to $36$ and thirty-six balls numbered from $1$ to $36$; Largo randomly inserts a ball into each box. Bond will have to open a box, look at the number of the ball, open the box with that number, and continue. He stops when he finds a ball with the number of a box already open. If he opens less than thirteen boxes, he'll be thrown into the shark tank. James quickly calculates the probability of escape, makes a mocking gesture, and opens the box number $5$. What's the probability he calculated? Answer by writing the first four digits after the resulting comma.
 
 **Answer:** 6666
-[[Quesiti/src_gs_2011_squadre#q11|src_gs_2011_squadre__Q11]]
 
 
 
@@ -379,7 +368,6 @@ level: squadre
 > Miss Moneypenny kept in a drawer the socks that James Bond left her for her to remember before leaving: she explained that there are $2$ socks of one color, $4$ socks of another color, $6$ socks of a third, and so on; in other words, for a proper numbering of the colors of the socks from $1$ to $n$, there are $2i$ socks of the $i$-eighth color. James calculated that, by taking$79$socks at random, it is certain that you have$4$socks of different colors, but, by taking$78$socks at random, you may not succeed. What is the minimum number of random extractions needed to be sure you have $6$ socks of the same colour?
 
 **Answer:** 0067
-[[Quesiti/src_gs_2011_squadre#q12|src_gs_2011_squadre__Q12]]
 
 
 
@@ -410,7 +398,6 @@ level: squadre
 > While sitting on a shakered, unmixed vodka martini, James Bond had noticed the writing of the conical ratio formula of the laser $$r = \sqrt[3]{8 - \sqrt{37}} + \sqrt[3]{8 + \sqrt{37}}$$ imprudently left near the olives. Later, he discovered that the laser power ratio must be $r^3 - 9r + 2011$. Now, in order to effectively sabotage the laser, you have to calculate the value of the power ratio exactly. What number does James count?
 
 **Answer:** 2027
-[[Quesiti/src_gs_2011_squadre#q13|src_gs_2011_squadre__Q13]]
 
 
 
@@ -442,7 +429,6 @@ level: squadre
 > SPECTRE has built a triangular fence to delimit a field. Within the field there is a triangular pool with sides of $70\,\text{m}$, $90\,\text{m}$ and $110\,\text{m}$. Three straight alleys connect the summits of the enclosure to those of the pool: each alley extends a different side of the pool. James Bond's doing a surrender and he decides that that field can't be used as a missile base. Knowing that each alley is as long as the side of the pool that extends, determine the ratio between the area of land occupied by the pool and the rest. Answer by writing the first four digits after the resulting comma.
 
 **Answer:** 1666
-[[Quesiti/src_gs_2011_squadre#q14|src_gs_2011_squadre__Q14]]
 
 
 
@@ -471,7 +457,6 @@ level: squadre
 > James discovered that the base entry code is a four digit number, divisible by $7$ and such that the number obtained by writing the digits backwards is greater than the original number, but also divisible by $7$. Additionally both numbers have the same remainder in the division with $37$; finally the code is the largest with these properties. What's the entrance code?
 
 **Answer:** 2779
-[[Quesiti/src_gs_2011_squadre#q15|src_gs_2011_squadre__Q15]]
 
 
 
@@ -504,7 +489,6 @@ level: squadre
 > In the same area of the cylindrical skyscraper is another skyscraper composed of a prism and a pyramid. The prism has a regular pentagon as its base: the base perimeter is $600\,\text{m}$, the side walls are high $240\,\text{m}$. The pyramid, which acts as a roof, has the same base as the prism, and each vertex is an equilateral triangle. Also thanks to windshields that allow it to move in any direction on the smooth surface of the building, 007 is climbing the skyscraper to place a bomb on each of the towers, exactly $30\,\text{m}$ under the chimney at the base of the roof. James has placed the third, but he realizes that he has made a mistake: he has already fixed a bomb in each of the two nearby branches and now he must reach one after the other the two furthest branches. What is the metre length of the minimum distance to complete the work and to fix all five bombs at the required points?
 
 **Answer:** 0357
-[[Quesiti/src_gs_2011_squadre#q16|src_gs_2011_squadre__Q16]]
 
 
 
@@ -550,7 +534,6 @@ level: squadre
 > James doesn't know what to say, but he tries to determine all the pairs of questions $(a, b)$ with $1 \le a \le 6$ and $1 \le b \le 6$ so that the "yes" answer to the first results in the "yes" answer to the second. How many of these couples are there?
 
 **Answer:** 0015
-[[Quesiti/src_gs_2011_squadre#q17|src_gs_2011_squadre__Q17]]
 
 
 
@@ -579,7 +562,6 @@ level: squadre
 > To become head of SPECTRE, Blofeld must pass a very tough test: the Final Test. La P.D. It's a game of chance where one player stands alone against everyone else. There are ten boxes numbered $1$ to $10$ and ten balls numbered $1$ to $10$. The player alone inserts, without looking at them, a ball into each box. Now, each of the other players, one after the other, opens a box, looks at the number of the ball, opens the box with that number, looks at the number of the ball in the last one and continues until he finds a ball with the number of a box already open. Each player sees the boxes that the player who played before him opened. The player alone outperforms the P.D. if one of the others opens more than five boxes. Knowing that the other contenders for the position of head of SPECTRE were exactly five, what are the odds that Blofeld will beat PD? Answer by writing the first four digits after the resulting comma.
 
 **Answer:** 6456
-[[Quesiti/src_gs_2011_squadre#q18|src_gs_2011_squadre__Q18]]
 
 
 
@@ -608,7 +590,6 @@ level: squadre
 > SIS report codes shall use a table of $10$ rows for $5$ columns. A code is determined by the color of all $50$ frames: each frame is colored red, blue, yellow or black, so that two frames of the same color do not have sides or vertices in common. Determine how many report codes can be generated.
 
 **Answer:** 6312
-[[Quesiti/src_gs_2011_squadre#q19|src_gs_2011_squadre__Q19]]
 
 
 
@@ -645,7 +626,6 @@ level: squadre
 > How many keys are there?
 
 **Answer:** 3969
-[[Quesiti/src_gs_2011_squadre#q20|src_gs_2011_squadre__Q20]]
 
 
 
@@ -677,7 +657,6 @@ level: squadre
 > As soon as James Bond is caught off Bunscerol Island, he informs Intelligence of a plant with SPECTRE bases. Draw a triangle of vertices $S$, $E$, $R$; on the side $SE$ indicate the middle point with $P$. Then combine $R$ with $P$ and trace the intersections of the two angles in $P$ that are not flat, marking with $T$ and $C$ respectively the meeting points of one intersection with the $SR$ segment and the other with the $RE$ segment. Intelligence knows that the distance between base $S$ and base $E$ is $240\,\text{km}$, the distance between base $R$ and base $S$ is $100\,\text{km}$ and the distance between base $P$ and base $R$ is $90\,\text{km}$. They also know that the SPECTRE operational centre is at the intersection of $TC$ and $RP$. How many kilometres from the base $T$ from the operational centre?
 
 **Answer:** 0051
-[[Quesiti/src_gs_2011_squadre#q21|src_gs_2011_squadre__Q21]]
 
 
 
@@ -722,7 +701,6 @@ level: squadre
 > To infuriate Goldfinger, Bond makes him note that there is dependence between his questions, explaining that the question $x$ depends on the question $y$ when a positive answer to the question $y$ results in a positive answer to the question $x$. To illustrate what he's saying and waste more time, he tells Goldfinger: how many questions do not depend on others; how many questions do not depend on another question exactly; how many questions do not depend on two more questions exactly; how many questions do not depend on three more questions exactly. What are the four numbers Bond tells Goldfinger? He answers by writing them from left to right in the order he calculated them.
 
 **Answer:** 2102
-[[Quesiti/src_gs_2011_squadre#q22|src_gs_2011_squadre__Q22]]
 
 
 
@@ -751,7 +729,6 @@ level: squadre
 > The representative symbol of the SPECTRE is the octagonal triangle. On the main building of Bunscerol Island, a square matrix of lights shows an abstraction of the symbol: $81$ lights are distributed on $9$ lines and $9$ columns, the light in the center always stays on, two more of the remaining $80$ lights are lit randomly for a few seconds, so that the three lights lit form the vertices of an octagonal triangle without being aligned. How many pairs of lights can you light?
 
 **Answer:** 1408
-[[Quesiti/src_gs_2011_squadre#q23|src_gs_2011_squadre__Q23]]
 
 
 
@@ -779,4 +756,3 @@ level: squadre
 > James must enter a spherical capsule with a surface $60\,\text{m}^2$. It is known that the opening consists of a spherical triangle with angles of $90^\circ$, $60^\circ$, $45^\circ$. A spherical triangle is the part of a spherical surface enclosed by three arcs of maximum circumference. James's trying to figure out if the opening's gonna be wide enough to go in with Honey. What is the area of the spherical triangle measured in $\text{dm}^2$?
 
 **Answer:** 0125
-[[Quesiti/src_gs_2011_squadre#q24|src_gs_2011_squadre__Q24]]

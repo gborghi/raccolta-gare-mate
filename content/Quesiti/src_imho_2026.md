@@ -49,8 +49,6 @@ level: IMO
 > 
 > (Nota che $\gcd(x,y)$ indica il massimo comun divisore degli interi positivi $x$ e $y$, mentre $\mathrm{lcm}(x,y)$ indica il minimo comune multiplo di $x$ e $y$.)
 
-[[Quesiti/src_imho_2026#q01|src_imho_2026__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -80,8 +78,6 @@ level: IMO
 > $$\angle KBA = \angle ACL,\qquad \angle LBK = \angle LNC,\qquad \text{and}\qquad \angle LCK = \angle BMK.$$
 > Sia $O$ il circocentro del triangolo $AKL$. Si dimostri che $OM = ON$.
 
-[[Quesiti/src_imho_2026#q02|src_imho_2026__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_disuguaglianze,method_casework,method_invarianti,skill_astrazione,skill_lettura_attenta"></span>
@@ -110,8 +106,6 @@ level: IMO
 > Sia $n$ un intero positivo. Liu Bang e Xiang Yu possiedono un bastone di lunghezza $1$ e vogliono dividerlo tra loro. Liu segna al massimo $n$ punti sul bastone, dopodiché Xiang segna al massimo $n$ punti sul bastone. I punti segnati sono tutti distinti. Successivamente, il bastone viene tagliato in corrispondenza di tutti i punti segnati, producendo un certo numero di pezzi. A questo punto, essi si alternano nel prendere uno qualsiasi dei pezzi non ancora presi, con Liu che inizia per primo. Ogni giocatore vuole massimizzare la lunghezza totale dei pezzi che gli appartengono.
 > 
 > Per ogni $n$, determinare il valore massimo di $c$ tale che Liu possa garantire una lunghezza totale almeno pari a $c$, indipendentemente dalla mossa di Xiang.
-
-[[Quesiti/src_imho_2026#q03|src_imho_2026__Q03]]
 
 
 
@@ -150,8 +144,6 @@ level: IMO
 > 
 > Per quali valori reali di $\theta$ Mulan può garantire la vittoria in un numero finito di passi, indipendentemente dalla giocata di Shan-Yu?
 
-[[Quesiti/src_imho_2026#q04|src_imho_2026__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_disuguaglianze,method_sostituzione,method_disuguaglianze,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -181,8 +173,6 @@ level: IMO
 > $$\frac{x^2 + f(y)^2}{2} \ge \frac{f(x)+y}{2} \ge \sqrt{x f(y)}$$
 > per ogni $x,y\in\mathbb{R}_{>0}$.
 
-[[Quesiti/src_imho_2026#q05|src_imho_2026__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_funzionali,method_invarianti,method_fattorizzazione,skill_riconoscimento_pattern,skill_astrazione"></span>
@@ -211,5 +201,3 @@ level: IMO
 > Sia $a_1,a_2,a_3,\ldots$ una successione infinita di interi positivi maggiori di $1$. Si supponga che per ogni intero positivo $n$, il numero $a_{n+1}$ sia il più piccolo intero positivo maggiore di $a_n$ tale che $\gcd(a_{n+1},a_i)>1$ per ogni $i=1,2,\ldots,n$. Si dimostri che esistono interi positivi $T$ e $L$ tali che
 > $$a_{n+T}=a_n+L$$
 > per ogni intero positivo $n$.
-
-[[Quesiti/src_imho_2026#q06|src_imho_2026__Q06]]

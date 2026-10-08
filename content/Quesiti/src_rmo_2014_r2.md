@@ -32,8 +32,6 @@ level: RMO
 
 > In un triangolo a angolo acuto $ABC$, $\angle ABC$ è l'angolo più grande. I bisettori perpendicolari di $BC$ e $BA$ si incrociano rispettivamente a $X$ e $Y$. Prova che il circoncentro del triangolo $ABC$ è il centro del triangolo $BXY$.
 
-[[Quesiti/src_rmo_2014_r2#q01|src_rmo_2014_r2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -60,8 +58,6 @@ level: RMO
 
 > Lasciate che $x, y, z$ siano numeri reali positivi. Provare che $$\frac{y^2 + z^2}{x} + \frac{z^2 + x^2}{y} + \frac{x^2 + y^2}{z} \ge 2(x + y + z).$$
 
-[[Quesiti/src_rmo_2014_r2#q02|src_rmo_2014_r2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -86,8 +82,6 @@ level: RMO
 *Ricerca tutte le coppie (x,y) di numeri interi positivi con 2x+7y dividendo 7x+2y*
 
 > Trova tutte le coppie $(x, y)$ di integri positivi in modo tale che $2x + 7y$ divida $7x + 2y$.
-
-[[Quesiti/src_rmo_2014_r2#q03|src_rmo_2014_r2__Q03]]
 
 
 
@@ -115,8 +109,6 @@ level: RMO
 *Summa provata delle reciprocità di coppie prime consecutive uguali (n-1)/(2n+2)*
 
 > Per qualsiasi numero intero positivo $n > 1$, $P(n)$ indica il primo più grande non superiore a $n$. $N(n)$ indichi il primo successivo più grande di $P(n)$. (ad esempio $P(10) = 7$ e $N(10) = 11$, mentre $P(11) = 11$ e $N(11) = 13$.) Se $n + 1$ è un numero primo, dimostrare che il valore della somma $$\frac{1}{P(2)N(2)} + \frac{1}{P(3)N(3)} + \frac{1}{P(4)N(4)} + \cdots + \frac{1}{P(n)N(n)}$$ è uguale a $\dfrac{n-1}{2(n+2)}$.
-
-[[Quesiti/src_rmo_2014_r2#q04|src_rmo_2014_r2__Q04]]
 
 
 
@@ -146,8 +138,6 @@ level: RMO
 
 ![[src_rmo_2014_r2__q05.png]]
 
-[[Quesiti/src_rmo_2014_r2#q05|src_rmo_2014_r2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_algebra,method_invarianti,method_congruenze,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione"></span>
@@ -173,5 +163,3 @@ level: RMO
 *Odd n: la somma dei prodotti delle righe e dei prodotti delle colonne nella griglia n×n non è zero*
 
 > Supponiamo che $n$ sia pari e ogni quadrato di una griglia $n \times n$ sia arbitrariamente riempito con $1$ o $-1$. $r_j$ e $c_k$ indichino il prodotto di tutti i numeri rispettivamente nella riga $j$ e nella colonna $k$, $1 \le j, k \le n$. Provare che $$\sum_{j=1}^{n} r_j + \sum_{k=1}^{n} c_k \ne 0.$$
-
-[[Quesiti/src_rmo_2014_r2#q06|src_rmo_2014_r2__Q06]]

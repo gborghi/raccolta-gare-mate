@@ -33,8 +33,6 @@ level: JMO Honsen
 
 > Trovare tutti gli integri positivi $n$ in modo che $\dfrac{10^n}{n^3 + n^2 + n + 1}$ sia un intero.
 
-[[Quesiti/src_jmo25mq_honsen#q01|src_jmo25mq_honsen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_estremalita,method_grafi,method_invarianti,skill_modellizzazione,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -63,8 +61,6 @@ level: JMO Honsen
 > $n$ sia un numero intero positivo. Un esagono regolare $ABCDEF$ con lunghezza laterale $n$ è diviso in triangoli equilaterali unitari con linee parallele ai suoi lati. Un controllore è posizionato in un punto $P$ rigorosamente all'interno dell'esagono (non sul confine). Il controllatore può saltare su uno dei 4 vertici del triangolo unitario che contiene $P$. Per ciascun bordo $PQ$ di lunghezza-1 della triangolazione, il controllore può passare da $P$ a $Q$, ma non può passare da $Q$ a $P$. (Qui, $P$ può raggiungere $Q$ in una mossa significa $P$ è un vertice di un triangolo unitario e $Q$ è uno dei 4 vertici consentiti di quel triangolo.) Indipendentemente da come le direzioni di triangolazione sono assegnate, esiste sempre un punto $k$ sulla griglia di triangolazione da cui si può raggiungere qualsiasi altro punto di griglia. Trova il valore minimo di tale $k$.
 
 ![[src_jmo25mq_honsen__q02.png]]
-
-[[Quesiti/src_jmo25mq_honsen#q02|src_jmo25mq_honsen__Q02]]
 
 
 
@@ -100,8 +96,6 @@ level: JMO Honsen
 > 
 > (2) $p$ sia un primo pari. Indicare che esiste una sequenza ascendente $\{a_n\}$ che non contiene un multiple di $p$.
 
-[[Quesiti/src_jmo25mq_honsen#q03|src_jmo25mq_honsen__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -126,8 +120,6 @@ level: JMO Honsen
 *Quattro punti conciclici dalle costruzioni incircolare e circoncircolare sul triangolo ABC*
 
 > Il $ABC$ deve essere un triangolo scaleno (non isosceles), $\Gamma$ il suo circoncircolo e $I$ il suo incentro. Lascia che l'incircolo dei lati $\triangle ABC$ tocchi $AB$ e $AC$ rispettivamente a $D$ e $E$. Il $P$ deve essere la seconda intersezione (diversi da $B$) del circoncircolo di $\triangle BEI$ con $\Gamma$. Il $Q$ deve essere la seconda intersezione (diversi da $C$) del circoncircolo di $\triangle CDI$ con $\Gamma$. Provare che i quattro punti $D$, $E$, $P$, $Q$ sono conciclici.
-
-[[Quesiti/src_jmo25mq_honsen#q04|src_jmo25mq_honsen__Q04]]
 
 
 
@@ -161,5 +153,3 @@ level: JMO Honsen
 > Selezionare le celle $n$ da una griglia infinita e colorarle in nero. Il $K$ è il numero di $a \times a$ sottogridi (quadrati laterali allineati all'asse $a$) che contengono esattamente $a$ cellule nere. In questo caso, il valore massimo possibile di $K$ è $a(n + 1 - a)$.
 > 
 > (Qui, "rende per tutti $n$ sufficientemente grandi" significa che esiste un numero intero $N$ tale che l'indicazione rende per ogni $n \ge N$.)
-
-[[Quesiti/src_jmo25mq_honsen#q05|src_jmo25mq_honsen__Q05]]

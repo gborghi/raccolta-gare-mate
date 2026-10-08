@@ -45,7 +45,6 @@ level: kangourou
 > E)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2019_benjamin_marzo#q01|src_kangourou_2019_benjamin_marzo__Q01]]
 
 
 
@@ -79,7 +78,6 @@ level: kangourou
 > The sum of the dots on opposite sides of a regular die is always 7. Which of the following is the image of a regular die? A) B) C) D) E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_benjamin_marzo#q02|src_kangourou_2019_benjamin_marzo__Q02]]
 
 
 
@@ -133,7 +131,6 @@ level: kangourou
 > E) Dodecagon
 
 **Answer:** D
-[[Quesiti/src_kangourou_2019_benjamin_marzo#q03|src_kangourou_2019_benjamin_marzo__Q03]]
 
 
 
@@ -181,7 +178,6 @@ level: kangourou
 > E) 1
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_benjamin_marzo#q04|src_kangourou_2019_benjamin_marzo__Q04]]
 
 
 
@@ -220,7 +216,6 @@ level: kangourou
 >
 
 **Answer:** D
-[[Quesiti/src_kangourou_2019_benjamin_marzo#q05|src_kangourou_2019_benjamin_marzo__Q05]]
 
 
 
@@ -259,7 +254,6 @@ In what order were the four photos taken?
 > Tina took in a certain order the four photographs you see: they show the same group of people who are on their way, in the direction from the bottom of the photos to the top. In what order were they taken? A) 2431 B) 4321 C) 1324 D) 4231 E) 2413
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_benjamin_marzo#q06|src_kangourou_2019_benjamin_marzo__Q06]]
 
 
 
@@ -306,7 +300,6 @@ In what order were the four photos taken?
 > E) 29
 
 **Answer:** C
-[[Quesiti/src_kangourou_2019_benjamin_marzo#q07|src_kangourou_2019_benjamin_marzo__Q07]]
 
 
 
@@ -340,7 +333,6 @@ In what order were the four photos taken?
 > Kangourou Day is always on the third Thursday of March: this year it corresponds to the 21st. And in 2020, what day will it be? A) The 19th. B) The 20th. C) Still the 21st. D) The 22nd. E) The 23rd.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2019_benjamin_marzo#q08|src_kangourou_2019_benjamin_marzo__Q08]]
 
 
 
@@ -386,7 +378,6 @@ In what order were the four photos taken?
 > E) 24
 
 **Answer:** B
-[[Quesiti/src_kangourou_2019_benjamin_marzo#q09|src_kangourou_2019_benjamin_marzo__Q09]]
 
 
 
@@ -434,7 +425,6 @@ In what order were the four photos taken?
 > E) 9 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2019_benjamin_marzo#q10|src_kangourou_2019_benjamin_marzo__Q10]]
 
 
 
@@ -469,7 +459,6 @@ In what order were the four photos taken?
 > A digital clock marks 20:19. What is the closest time to 20:19 as opposed to 20:19, which is written using the same digits? A) 19:02 B) 2:19 C) 19:20 D) 9:12 E) None of the above.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_benjamin_marzo#q11|src_kangourou_2019_benjamin_marzo__Q11]]
 
 
 
@@ -510,7 +499,6 @@ In what order were the four photos taken?
 >
 
 **Answer:** A
-[[Quesiti/src_kangourou_2019_benjamin_marzo#q12|src_kangourou_2019_benjamin_marzo__Q12]]
 
 
 
@@ -562,7 +550,6 @@ In what order were the four photos taken?
 > E) 11
 
 **Answer:** C
-[[Quesiti/src_kangourou_2019_benjamin_marzo#q13|src_kangourou_2019_benjamin_marzo__Q13]]
 
 
 
@@ -607,7 +594,6 @@ In what order were the four photos taken?
 > D) 20 E) 21
 
 **Answer:** A
-[[Quesiti/src_kangourou_2019_benjamin_marzo#q14|src_kangourou_2019_benjamin_marzo__Q14]]
 
 
 
@@ -655,7 +641,6 @@ In what order were the four photos taken?
 > E) 11
 
 **Answer:** C
-[[Quesiti/src_kangourou_2019_benjamin_marzo#q15|src_kangourou_2019_benjamin_marzo__Q15]]
 
 
 
@@ -703,7 +688,6 @@ In what order were the four photos taken?
 >     E)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2019_benjamin_marzo#q16|src_kangourou_2019_benjamin_marzo__Q16]]
 
 
 
@@ -755,7 +739,6 @@ In which mosaic is the black area the largest
 > E)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2019_benjamin_marzo#q17|src_kangourou_2019_benjamin_marzo__Q17]]
 
 
 
@@ -818,7 +801,6 @@ In which mosaic is the black area the largest
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2019_benjamin_marzo#q18|src_kangourou_2019_benjamin_marzo__Q18]]
 
 
 
@@ -872,7 +854,6 @@ In which mosaic is the black area the largest
 > E) 36
 
 **Answer:** A
-[[Quesiti/src_kangourou_2019_benjamin_marzo#q19|src_kangourou_2019_benjamin_marzo__Q19]]
 
 
 
@@ -937,7 +918,6 @@ In which mosaic is the black area the largest
 > Questions from No. 21 to No. 30 are worth 5 points each
 
 **Answer:** A
-[[Quesiti/src_kangourou_2019_benjamin_marzo#q20|src_kangourou_2019_benjamin_marzo__Q20]]
 
 
 
@@ -983,7 +963,6 @@ Who rode a bicycle given the implications
 > E) It is not possible to know
 
 **Answer:** A
-[[Quesiti/src_kangourou_2019_benjamin_marzo#q21|src_kangourou_2019_benjamin_marzo__Q21]]
 
 
 
@@ -1030,7 +1009,6 @@ Who rode a bicycle given the implications
 > E) 90
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_benjamin_marzo#q22|src_kangourou_2019_benjamin_marzo__Q22]]
 
 
 
@@ -1071,7 +1049,6 @@ Which of the five statements by Dad is false
 >
 
 **Answer:** D
-[[Quesiti/src_kangourou_2019_benjamin_marzo#q23|src_kangourou_2019_benjamin_marzo__Q23]]
 
 
 
@@ -1115,7 +1092,6 @@ Which of the five statements by Dad is false
 > C) Exactly 2. D) 2 or 3 depending on the initial number. E) 3 or 4 depending on the initial number.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2019_benjamin_marzo#q24|src_kangourou_2019_benjamin_marzo__Q24]]
 
 
 
@@ -1166,7 +1142,6 @@ Which of the five statements by Dad is false
 > E)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2019_benjamin_marzo#q25|src_kangourou_2019_benjamin_marzo__Q25]]
 
 
 
@@ -1214,7 +1189,6 @@ Which of the five statements by Dad is false
 > E) 7
 
 **Answer:** B
-[[Quesiti/src_kangourou_2019_benjamin_marzo#q26|src_kangourou_2019_benjamin_marzo__Q26]]
 
 
 
@@ -1269,7 +1243,6 @@ Which of the five statements by Dad is false
 > D) 26 E) 28
 
 **Answer:** D
-[[Quesiti/src_kangourou_2019_benjamin_marzo#q27|src_kangourou_2019_benjamin_marzo__Q27]]
 
 
 
@@ -1327,7 +1300,6 @@ Which of the five statements by Dad is false
 >
 
 **Answer:** A
-[[Quesiti/src_kangourou_2019_benjamin_marzo#q28|src_kangourou_2019_benjamin_marzo__Q28]]
 
 
 
@@ -1383,7 +1355,6 @@ Which of the five statements by Dad is false
 > E)
 
 **Answer:** A
-[[Quesiti/src_kangourou_2019_benjamin_marzo#q29|src_kangourou_2019_benjamin_marzo__Q29]]
 
 
 
@@ -1439,4 +1410,3 @@ Which of the five statements by Dad is false
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2019_benjamin_marzo#q30|src_kangourou_2019_benjamin_marzo__Q30]]

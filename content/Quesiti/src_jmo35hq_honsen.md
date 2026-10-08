@@ -36,8 +36,6 @@ level: JMO Honsen
 
 > $n \ge 2$ sia un numero intero. I numeri reali $a_1, a_2, \ldots, a_{2n}$ soddisfano $$|a_k - a_{n+k}| \ge 1$$ per ogni numero intero $k$ con $1 \le k \le n$. Trova il valore minimo di $$(a_1 - a_2)^2 + (a_2 - a_3)^2 + \cdots + (a_{2n-1} - a_{2n})^2 + (a_{2n} - a_1)^2.$$
 
-[[Quesiti/src_jmo35hq_honsen#q01|src_jmo35hq_honsen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
@@ -62,8 +60,6 @@ level: JMO Honsen
 *Circumcenti di sotto-triangoli con circoncentro; prova di collinearietà*
 
 > $ABC$ sia un triangolo acuto con il centro circundante $O$. $O_1$ e $O_2$ siano rispettivamente i circoncentri dei triangoli $ABO$ e $ACO$. Il circoncircolo del triangolo $AO_1O_2$ incontra la linea $BC$ a due punti distinti $P$ e $Q$. Lasciate che $O_3$ sia il centro circundante del triangolo $OPQ$. Prove che i tre punti $A$, $O$ e $O_3$ sono collineari.
-
-[[Quesiti/src_jmo35hq_honsen#q02|src_jmo35hq_honsen__Q02]]
 
 
 
@@ -98,8 +94,6 @@ level: JMO Honsen
 > 
 > Trova il valore minimo possibile di $n$.
 
-[[Quesiti/src_jmo35hq_honsen#q03|src_jmo35hq_honsen__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -128,8 +122,6 @@ level: JMO Honsen
 *Ricerca tutte le funzioni a valore intero con f(n)>0 e f(n) divisi n^{f(n)}-1*
 
 > Trova tutte le funzioni $f$ definite su enti $n \ge 2$ che assumono valori interi positivi in modo tale che entrambe le seguenti condizioni si applichino a tutti gli enti $n \ge 2$: \begin{itemize} \item $f(n) > 0$, \item $f(n) \mid n^{f(n)} - 1$. # Finire #
-
-[[Quesiti/src_jmo35hq_honsen#q04|src_jmo35hq_honsen__Q04]]
 
 
 
@@ -164,5 +156,3 @@ level: JMO Honsen
 *Punti interni tramite bisettori angolari; i riflessi producono triangoli simili*
 
 > Che il $ABC$ sia un triangolo acuto non isosceles. Ci sono tre punti distinti $A_1$, $B_1$, $C_1$ all'interno del triangolo $ABC$ che soddisfano $$AB_1 : CB_1 = AB : CB \quad \text{and} \quad AC_1 : BC_1 = AC : BC.$$ Che $A_2$ sia il riflesso di $A_1$ sulla linea $BC$, che $B_2$ sia il riflesso di $B_1$ sulla linea $AC$, e che $C_2$ sia il riflesso di $C_1$ sulla linea $AB$. Le seguenti condizioni si applicano tutte: \begin{itemize} \item I quattro punti $A$, $A_2$, $B$, $C_2$ sono conciclici. \item I quattro punti $A$, $A_2$, $B_2$, $C$ sono conciclici. \item I quattro punti $B$, $B_2$, $C$, $C_2$ sono conciclici. \item Nessuno dei punti $A_2$, $B_2$, $C_2$ si trova sul circoncircolo del triangolo $ABC$. \end{itemize} Prova che il triangolo $A_1B_1C_1$ è simile al triangolo $A_2B_2C_2$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
-
-[[Quesiti/src_jmo35hq_honsen#q05|src_jmo35hq_honsen__Q05]]

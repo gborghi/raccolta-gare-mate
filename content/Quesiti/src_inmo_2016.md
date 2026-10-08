@@ -33,8 +33,6 @@ level: INMO
 
 > $ABC$ sia un triangolo in cui $AB = AC$. Supponiamo che l'ortocentro del triangolo si trovi sul cerchio interno. Trova il rapporto $AB/BC$.
 
-[[Quesiti/src_inmo_2016#q01|src_inmo_2016__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_disuguaglianze,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -64,8 +62,6 @@ level: INMO
 
 > Per i numeri reali positivi $a, b, c$, quale delle seguenti affermazioni implica necessariamente $a = b = c$: (I) $a(b^3 + c^3) = b(c^3 + a^3)$, (II) $a(b^3 + c^3) = c(a^3 + b^3)$, (III) $a^2(b + c) = b^2(c + a) = c^2(a + b)$? Giustifica la tua risposta.
 
-[[Quesiti/src_inmo_2016#q02|src_inmo_2016__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_induzione,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -93,8 +89,6 @@ level: INMO
 
 > $\mathbb{N}$ indichi l'insieme di tutti i numeri naturali. Definire una funzione $T : \mathbb{N} \to \mathbb{N}$ da $T(2k) = k$ e $T(2k+1) = 2k + 2$. Scriviamo $T^1(n) = T(T(n))$ e in generale $T^k(n) = T(T^{k-1}(n))$ per qualsiasi $k \ge 1$. (i) Indicare che per ogni $n \in \mathbb{N}$, esiste un $k$ tale che $T^k(n) = 1$. (ii) Per $k \in \mathbb{N}$, $c_k$ indichi il numero di elementi dell'insieme $\{n : T^k(n) = 1\}$. Provare che $c_{k+2} = c_{k+1} + c_k$ per $k \ge 1$.
 
-[[Quesiti/src_inmo_2016#q03|src_inmo_2016__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_geometria_piana,method_invarianti,method_cassetti,method_simmetria,skill_ragionamento_geometrico,skill_astrazione,skill_modellizzazione"></span>
@@ -119,8 +113,6 @@ level: INMO
 *2016 punti rossi sul cerchio; ogni n-gon regolare ha una copia blu*
 
 > Supponiamo che i punti 2016 della circonferenza di un cerchio siano di colore rosso e i punti rimanenti di colore blu. Date qualsiasi numero naturale $n \ge 3$, dimostrare che esiste un poligono a lato regolare $n$ i cui vertici sono tutti blu.
-
-[[Quesiti/src_inmo_2016#q04|src_inmo_2016__Q04]]
 
 
 
@@ -148,8 +140,6 @@ level: INMO
 
 > Il $ABC$ deve essere un triangolo rettangolare con $\angle B = 90^\circ$. Il $D$ deve essere un punto su $AC$ tale da rendere uguali i radii di in dei triangoli $ABD$ e $CBD$. Se questo valore comune è $r'$ e se $r$ è il raggio di in del triangolo $ABC$, dimostrare che $$\frac{1}{r'} = \frac{1}{r} + \frac{1}{BD}.$$
 
-[[Quesiti/src_inmo_2016#q05|src_inmo_2016__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_congruenze,method_fattorizzazione,method_induzione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -174,5 +164,3 @@ level: INMO
 *AP non costante con determinate potenze anche in AP implica che tutti i termini sono interi*
 
 > Considera una progressione aritmetica non costante $a_1, a_2, \ldots, a_n, \ldots$. Supponiamo che esistano numeri interi positivi relativamente primi $p > 1$ e $q > 1$ in modo tale che $a_1^p$, $a_{q+1}^p$ e $a_{q^2+1}^p$ siano anche i termini della stessa progressione aritmetica. Prova che i termini della progressione aritmetica sono tutti interi.
-
-[[Quesiti/src_inmo_2016#q06|src_inmo_2016__Q06]]

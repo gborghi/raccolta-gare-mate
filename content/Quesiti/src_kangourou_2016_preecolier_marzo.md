@@ -50,7 +50,6 @@ level: kangourou
 > - **(E)** O
 
 **Answer:** D
-[[Quesiti/src_kangourou_2016_preecolier_marzo#q01|src_kangourou_2016_preecolier_marzo__Q01]]
 
 
 
@@ -90,7 +89,6 @@ level: kangourou
 > - **(E)** 6
 
 **Answer:** B
-[[Quesiti/src_kangourou_2016_preecolier_marzo#q02|src_kangourou_2016_preecolier_marzo__Q02]]
 
 
 
@@ -130,7 +128,6 @@ How many matches in Michele's house
 > - **(E)** 13
 
 **Answer:** D
-[[Quesiti/src_kangourou_2016_preecolier_marzo#q03|src_kangourou_2016_preecolier_marzo__Q03]]
 
 
 
@@ -170,7 +167,6 @@ How many matches in Michele's house
 > - **(E)** 9
 
 **Answer:** E
-[[Quesiti/src_kangourou_2016_preecolier_marzo#q04|src_kangourou_2016_preecolier_marzo__Q04]]
 
 
 
@@ -210,7 +206,6 @@ What point Gianni can reach in the maze
 > - **(E)** E
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_preecolier_marzo#q05|src_kangourou_2016_preecolier_marzo__Q05]]
 
 
 
@@ -250,7 +245,6 @@ What point Gianni can reach in the maze
 > - **(E)** 8
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_preecolier_marzo#q06|src_kangourou_2016_preecolier_marzo__Q06]]
 
 
 
@@ -290,7 +284,6 @@ What point Gianni can reach in the maze
 > - **(E)** 35
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_preecolier_marzo#q07|src_kangourou_2016_preecolier_marzo__Q07]]
 
 
 
@@ -330,7 +323,6 @@ What point Gianni can reach in the maze
 > - **(E)** E
 
 **Answer:** A
-[[Quesiti/src_kangourou_2016_preecolier_marzo#q08|src_kangourou_2016_preecolier_marzo__Q08]]
 
 
 
@@ -370,7 +362,6 @@ What point Gianni can reach in the maze
 > - **(E)** E
 
 **Answer:** D
-[[Quesiti/src_kangourou_2016_preecolier_marzo#q09|src_kangourou_2016_preecolier_marzo__Q09]]
 
 
 
@@ -411,7 +402,6 @@ What point Gianni can reach in the maze
 > - **(E)** 5
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_preecolier_marzo#q10|src_kangourou_2016_preecolier_marzo__Q10]]
 
 
 
@@ -451,7 +441,6 @@ Minimum number of doors from A to B in the doll house
 > - **(E)** 7
 
 **Answer:** B
-[[Quesiti/src_kangourou_2016_preecolier_marzo#q11|src_kangourou_2016_preecolier_marzo__Q11]]
 
 
 
@@ -491,7 +480,6 @@ The number of rooms where the light was off, 18 windows lit.
 > - **(E)** 6
 
 **Answer:** B
-[[Quesiti/src_kangourou_2016_preecolier_marzo#q12|src_kangourou_2016_preecolier_marzo__Q12]]
 
 
 
@@ -531,7 +519,6 @@ The number of rooms where the light was off, 18 windows lit.
 > - **(E)** 6
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_preecolier_marzo#q13|src_kangourou_2016_preecolier_marzo__Q13]]
 
 
 
@@ -571,7 +558,6 @@ The number of rooms where the light was off, 18 windows lit.
 > - **(E)** KAO
 
 **Answer:** A
-[[Quesiti/src_kangourou_2016_preecolier_marzo#q14|src_kangourou_2016_preecolier_marzo__Q14]]
 
 
 
@@ -611,7 +597,6 @@ Sum of Gino and Gina's age in four years
 > - **(E)** 20
 
 **Answer:** E
-[[Quesiti/src_kangourou_2016_preecolier_marzo#q15|src_kangourou_2016_preecolier_marzo__Q15]]
 
 
 
@@ -651,7 +636,6 @@ Sum of Gino and Gina's age in four years
 > - **(E)** E
 
 **Answer:** A
-[[Quesiti/src_kangourou_2016_preecolier_marzo#q16|src_kangourou_2016_preecolier_marzo__Q16]]
 
 
 
@@ -691,7 +675,6 @@ Sum of Gino and Gina's age in four years
 > - **(E)** E
 
 **Answer:** E
-[[Quesiti/src_kangourou_2016_preecolier_marzo#q17|src_kangourou_2016_preecolier_marzo__Q17]]
 
 
 
@@ -731,7 +714,6 @@ Sum of Gino and Gina's age in four years
 > - **(E)** E
 
 **Answer:** B
-[[Quesiti/src_kangourou_2016_preecolier_marzo#q18|src_kangourou_2016_preecolier_marzo__Q18]]
 
 
 
@@ -771,7 +753,6 @@ Sum of Gino and Gina's age in four years
 > - **(E)** 12
 
 **Answer:** D
-[[Quesiti/src_kangourou_2016_preecolier_marzo#q19|src_kangourou_2016_preecolier_marzo__Q19]]
 
 
 
@@ -812,7 +793,6 @@ Sum of Gino and Gina's age in four years
 > - **(E)** 12
 
 **Answer:** D
-[[Quesiti/src_kangourou_2016_preecolier_marzo#q20|src_kangourou_2016_preecolier_marzo__Q20]]
 
 
 
@@ -852,7 +832,6 @@ Sum of Gino and Gina's age in four years
 > - **(E)** E
 
 **Answer:** E
-[[Quesiti/src_kangourou_2016_preecolier_marzo#q21|src_kangourou_2016_preecolier_marzo__Q21]]
 
 
 
@@ -892,7 +871,6 @@ Sum of Gino and Gina's age in four years
 > - **(E)** E
 
 **Answer:** D
-[[Quesiti/src_kangourou_2016_preecolier_marzo#q22|src_kangourou_2016_preecolier_marzo__Q22]]
 
 
 
@@ -932,7 +910,6 @@ Sum of Gino and Gina's age in four years
 > - **(E)** $\blacksquare$
 
 **Answer:** A
-[[Quesiti/src_kangourou_2016_preecolier_marzo#q23|src_kangourou_2016_preecolier_marzo__Q23]]
 
 
 
@@ -973,4 +950,3 @@ Sum of Gino and Gina's age in four years
 > - **(E)** 5
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_preecolier_marzo#q24|src_kangourou_2016_preecolier_marzo__Q24]]

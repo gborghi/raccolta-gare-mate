@@ -33,8 +33,6 @@ level: RMO
 
 > Che $ABCD$ sia un trapezio di parice con un incircolo; che $AB$ e $CD$ siano i lati paralleli e che $CE$ sia la perpendicolare da $C$ a $AB$. Provare che $CE$ è uguale alla media geometrica di $AB$ e $CD$.
 
-[[Quesiti/src_rmo_2014_r4#q01|src_rmo_2014_r4__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -61,8 +59,6 @@ level: RMO
 
 > Se $x$ e $y$ sono numeri reali positivi, dimostrare che $$4x^4 + 4y^3 + 5x^2 + y + 1 \ge 12xy.$$
 
-[[Quesiti/src_rmo_2014_r4#q02|src_rmo_2014_r4__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -88,8 +84,6 @@ level: RMO
 *Ricerca tutte le coppie m>n di integri positivi con catena gcd uguale a gcd(m,2m-n)*
 
 > Determinare tutte le coppie $m > n$ di integri positivi tali che $$1 = \gcd(n+1,\, m+1) = \gcd(n+2,\, m+2) = \cdots = \gcd(m,\, 2m-n).$$
-
-[[Quesiti/src_rmo_2014_r4#q03|src_rmo_2014_r4__Q03]]
 
 
 
@@ -120,8 +114,6 @@ level: RMO
 
 ![[src_rmo_2014_r4__q04.png]]
 
-[[Quesiti/src_rmo_2014_r4#q04|src_rmo_2014_r4__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -149,8 +141,6 @@ level: RMO
 > Che il $ABC$ sia un triangolo acuto e che il $I$ sia il suo centro. Lascia che l'incircolo del triangolo $ABC$ tocchi $BC$ in $D$. L'incircolo del triangolo $ABD$ tocca $AB$ in $E$; il circolo del triangolo $ACD$ tocca $AC$ in $F$. Provare che $B, E, I, F$ sono conciclici.
 
 ![[src_rmo_2014_r4__q05.png]]
-
-[[Quesiti/src_rmo_2014_r4#q05|src_rmo_2014_r4__Q05]]
 
 
 
@@ -180,5 +170,3 @@ level: RMO
 > Nella figura adiacente, è possibile posizionare i numeri $1, 2, 3, 4, \cdots, 18$, uno su ogni segmento di linea, in modo che la somma dei numeri sui tre segmenti di linea che si incontrano a ciascun punto sia divisibile da $3$?
 
 ![[src_rmo_2014_r4__q06.png]]
-
-[[Quesiti/src_rmo_2014_r4#q06|src_rmo_2014_r4__Q06]]

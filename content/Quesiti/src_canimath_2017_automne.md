@@ -35,8 +35,6 @@ level: Coupe Animath Automne
 
 > Si può scrivere $225$ come la somma di $3$ numeri interi consecutivi: $225 = 74 + 75 + 76$. a) Può essere scritta come somma di $5$ numeri interi consecutivi? b) Può essere scritta come la somma di $4$ numeri interi consecutivi?
 
-[[Quesiti/src_canimath_2017_automne#q01|src_canimath_2017_automne__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_conteggio,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -63,8 +61,6 @@ level: Coupe Animath Automne
 *a_n = ultima cifra della somma digitali del 2005 scritta n volte di fila; trovare n con a_n=0 e calcolare una somma*
 
 > Per ogni intero rigorosamente positivo $n$, definire $a_n$ come l'ultima cifra della somma delle cifre del numero $2005\,2005\ldots 2005$ (si scrive "$2005$" $n$ volte di fila). Ad esempio $a_1 = 7$ e $a_2 = 4$. a) Quali integri rigorosamente positivi $n$ soddisfano $a_n = 0$? b) Calcolare $a_1 + a_2 + \cdots + a_{2005}$.
-
-[[Quesiti/src_canimath_2017_automne#q02|src_canimath_2017_automne__Q02]]
 
 
 
@@ -93,8 +89,6 @@ Gioco da portiere per tre giocatori: contare le fasi totali e trovare chi ha seg
 
 > Il calcio con tre persone viene giocato in fasi successive: un giocatore è il portiere mentre gli altri due, chiamati "giocatori di campo", cercano di segnare un gol. Appena un giocatore fa un gol, la fase termina e quel giocatore diventa il portiere per la fase successiva. Amandine, Bobby e Charles giocano a questo gioco. Quando la partita è finita, ricordano che Amandine era un giocatore di campo $12$ volte, Bobby $21$ volte, e Charles $8$ volte. a) Quante fasi ci sono state in totale? b) Chi ha segnato il sesto gol?
 
-[[Quesiti/src_canimath_2017_automne#q03|src_canimath_2017_automne__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -121,8 +115,6 @@ Gioco da portiere per tre giocatori: contare le fasi totali e trovare chi ha seg
 
 > a) Trovare un intero rigorosamente positivo $n$ tale che, se si scrive $n^2$ e si toglie le sue ultime due cifre, il numero risultante sia ancora il quadrato di un intero. b) Trovare tutti i numeri interi rigorosamente positivi $n$ che non sono multipli di $10$ in modo tale che, scrivendo $n^2$ e eliminando le sue ultime due cifre, si ottiene nuovamente il quadrato di un numero intero (si considera che un numero con cifre zero è uguale a zero).
 
-[[Quesiti/src_canimath_2017_automne#q04|src_canimath_2017_automne__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -147,8 +139,6 @@ Gioco da portiere per tre giocatori: contare le fasi totali e trovare chi ha seg
 *Triangolo isosceles, linea (d) perpendicolare a (BC) attraverso C, parallelo AEDB; prova M è il punto medio di [AE]*
 
 > Si costruisce la seguente figura: disegna un triangolo $ABC$ a uguali dimensioni $A$, quindi la linea $(d)$ perpendicolare a $(BC)$ che passa attraverso $C$. Si sceglie un punto $D$ su $(d)$. Un posto $E$ in modo che $AEDB$ sia un parallelo. Infine, $M$ è il punto di intersezione di $(AE)$ e $(d)$. Prova che $M$ è il punto medio di $[AE]$.
-
-[[Quesiti/src_canimath_2017_automne#q05|src_canimath_2017_automne__Q05]]
 
 
 
@@ -175,8 +165,6 @@ Gioco da portiere per tre giocatori: contare le fasi totali e trovare chi ha seg
 
 > I numeri interi rigorosamente positivi $x$, $y$ e $z$ soddisfano le due equazioni seguenti: $x + 2y = z$ e $x^2 - 4y^2 + z^2 = 310$. Trova tutti i valori che il prodotto $xyz$ può assumere.
 
-[[Quesiti/src_canimath_2017_automne#q06|src_canimath_2017_automne__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_casework,skill_riconoscimento_pattern,skill_modellizzazione,skill_conteggio_sistematico"></span>
@@ -202,8 +190,6 @@ Numeri *2012 (±1) su un cerchio, non 10 somma consecutiva fino a 0; trovare pos
 
 > Su un cerchio si scrivono i numeri $2012$. Ciascuno di essi è uguale a $1$ o $-1$. La somma è $S$. Supponiamo che non esistano $10$ numeri consecutivi sul cerchio la cui somma è $0$. Quali valori $S$ può assumere in questa condizione?
 
-[[Quesiti/src_canimath_2017_automne#q07|src_canimath_2017_automne__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -228,5 +214,3 @@ Numeri *2012 (±1) su un cerchio, non 10 somma consecutiva fino a 0; trovare pos
 *Rettangolo ABCD, E = piede di perp da B a AC, cerchio attraverso A e E centrato su (AD), F su [CD]; dimostrare che BF divide angolo AFC*
 
 > $ABCD$ sia un rettangolo tale che $AB > BC$. Il $E$ è la proiezione ortogonale di $B$ su $(AC)$ e $\Gamma$ il cerchio che attraversa $A$ e $E$ il cui centro si trova su $(AD)$. Il punto di intersezione di $\Gamma$ e $[CD]$ è $F$. Prove che $(BF)$ è il bisettore di $\widehat{AFC}$.
-
-[[Quesiti/src_canimath_2017_automne#q08|src_canimath_2017_automne__Q08]]

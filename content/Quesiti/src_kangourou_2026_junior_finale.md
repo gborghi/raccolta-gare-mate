@@ -35,8 +35,6 @@ level: kangourou
 
 **Answer:** 280
 
-[[Quesiti/src_kangourou_2026_junior_finale#qj1|src_kangourou_2026_junior_finale__QJ1]]
-
 
 
 <span class="atom-split" id="qj2" data-atom="qj2" data-title="Quesito J2" data-tags="topic_combinatoria,skill_astrazione"></span>
@@ -63,8 +61,6 @@ level: kangourou
 > All coins are identical except one counterfeit that is lighter. Using a two-pan balance, at most 6 weighings are allowed. What is the maximum number of coins?
 
 **Answer:** 729
-
-[[Quesiti/src_kangourou_2026_junior_finale#qj2|src_kangourou_2026_junior_finale__QJ2]]
 
 
 
@@ -94,8 +90,6 @@ level: kangourou
 
 **Answer:** 36
 
-[[Quesiti/src_kangourou_2026_junior_finale#qj3|src_kangourou_2026_junior_finale__QJ3]]
-
 
 
 <span class="atom-split" id="qj4" data-atom="qj4" data-title="Quesito J4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -122,8 +116,6 @@ level: kangourou
 > A convex pentagon with all internal angles greater than $90^\circ$ is circumscribed about a circle of radius $10$ cm and has perimeter $75$ cm. A circular coin of radius $1$ cm is translated so that its center always remains on the boundary of the pentagon. What is the area in square centimeters of the region inside the pentagon and covered by the coin?
 
 **Answer:** 71,25
-
-[[Quesiti/src_kangourou_2026_junior_finale#qj4|src_kangourou_2026_junior_finale__QJ4]]
 
 
 
@@ -152,8 +144,6 @@ level: kangourou
 
 **Answer:** 2
 
-[[Quesiti/src_kangourou_2026_junior_finale#qj5|src_kangourou_2026_junior_finale__QJ5]]
-
 
 
 <span class="atom-split" id="qj6" data-atom="qj6" data-title="Quesito J6" data-tags="topic_geometria_piana,topic_disuguaglianze,skill_astrazione"></span>
@@ -180,5 +170,3 @@ level: kangourou
 > What is the smallest real number $K>1$ such that, in every non-degenerate triangle, there are two sides whose lengths have a ratio between $1$ and $K$?
 
 **Answer:** $(1+\sqrt{5})/2$
-
-[[Quesiti/src_kangourou_2026_junior_finale#qj6|src_kangourou_2026_junior_finale__QJ6]]

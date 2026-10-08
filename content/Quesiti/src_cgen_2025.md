@@ -123,8 +123,6 @@ level: Concours Général
 > 
 > 9. Let $A$ essere nuovamente il punto delle coordinate $(3\,;\,9)$ e let $(A_n)$ essere la sequenza ricorrente associata a $A$. Per ogni intero naturale $n$, un insieme $t_n = \frac{h(A_n)}{2^n}$. Indicare che la sequenza $(t_n)$ converge.
 
-[[Quesiti/src_cgen_2025#q01|src_cgen_2025__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_disuguaglianze,topic_insiemi_funzioni,method_ricorsione,method_disuguaglianze,method_induzione,method_estremalita,skill_manipolazione_algebrica,skill_casework_accurato,skill_astrazione,skill_lettura_attenta"></span>
@@ -229,8 +227,6 @@ level: Concours Général
 > 
 > 9. Quali sono i reals $\alpha$ che verificano la proprietà $\mathscr{B}$?
 
-[[Quesiti/src_cgen_2025#q02|src_cgen_2025__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_funzionali,topic_insiemi_funzioni,method_simmetria,method_ricorsione,skill_astrazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -274,5 +270,3 @@ level: Concours Général
 > 2. Si ricorda che una funzione $g$ definita su $\mathbb{R}$ è periodica se esiste una $T > 0$ reale tale che $$\text{for every real } x,\quad g(x + T) = g(x).$$ $f$ sia una funzione che verifica $\mathscr{E}$. Indicare che $f$ è periodico.
 > 
 > 3. Proporre un'infinità di funzioni continue $f$ che verificano $\mathscr{E}$ e che $f(0) = \frac{1}{2}$.
-
-[[Quesiti/src_cgen_2025#q03|src_cgen_2025__Q03]]

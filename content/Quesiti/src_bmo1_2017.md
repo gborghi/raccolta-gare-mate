@@ -33,8 +33,6 @@ level: BMO Round 1
 
 > I numeri interi $1, 2, 3, \ldots, 2016$ sono scritti in base $10$, apparendo uno dopo l'altro. Ciascuna delle cifre da $0$ a $9$ appare molte volte. Una cifra $d$ viene chiamata odd se il numero di volte $d$ appare nell'elenco $1, 2, 3, \ldots, 2016$ è odd. Trova tutte le possibilità per l'insieme di cifre rare.
 
-[[Quesiti/src_bmo1_2017#q01|src_bmo1_2017__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_insiemi_funzioni,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
@@ -60,8 +58,6 @@ level: BMO Round 1
 *Trova tutti i reali positivi y che soddisfano {y}{2y}=1 dove {x}=max(x,1/x)*
 
 > Per ogni numero reale positivo $x$, definire $\{x\}$ come il più grande di $x$ e $\dfrac{1}{x}$. Trova, con la prova, tutti i numeri reali positivi $y$ in modo tale che $$\{y\}\{2y\} = 1.$$
-
-[[Quesiti/src_bmo1_2017#q02|src_bmo1_2017__Q02]]
 
 
 
@@ -89,8 +85,6 @@ level: BMO Round 1
 
 > Determinare tutte le coppie $(m, n)$ di integri positivi che soddisfano l'equazione $$m^6 - 66 = n^2 + 5n - 10.$$
 
-[[Quesiti/src_bmo1_2017#q03|src_bmo1_2017__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_casework,method_estremalita,skill_lettura_attenta,skill_modellizzazione,skill_casework_accurato"></span>
@@ -115,8 +109,6 @@ level: BMO Round 1
 Gioco di somma integrale di Naomi e Tom; determina la strategia vincente
 
 > Naomi e Tom giocano a un gioco. Lo scelgono a turno per scegliere un numero intero positivo, con Naomi prima. Un giocatore perde la partita se, dopo il turno, la somma di tutti i numeri interi scelti dall'inizio della partita (da entrambi) non può essere espressa come la differenza di due quadrati. Determina se uno dei giocatori ha una strategia vincente e, se sì, quale.
-
-[[Quesiti/src_bmo1_2017#q04|src_bmo1_2017__Q04]]
 
 
 
@@ -145,8 +137,6 @@ Gioco di somma integrale di Naomi e Tom; determina la strategia vincente
 
 > $ABC$ sia un triangolo con $\angle A < \angle B < \angle C$. Il circolo $\Gamma$ deve essere il circolo che attraversa $A$, $B$ e $C$. Le tangenti di $\Gamma$ a $A$ e $C$ si incontrano a $P$. Il segmento di linea $AP$ incontra di nuovo $\Gamma$ a $Q$. È dato che $$[ACP] = [ABC] = [BQC].$$ dimostra che $\angle BCA = 90^\circ$. Qui $[XYZ]$ indica l'area del triangolo $XYZ$.
 
-[[Quesiti/src_bmo1_2017#q05|src_bmo1_2017__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -171,5 +161,3 @@ Gioco di somma integrale di Naomi e Tom; determina la strategia vincente
 *insieri positivi consecutivi divisibili da numeri interi unici consecutivi; trovare il più piccolo m*
 
 > I numeri interi positivi consecutivi $n$, $n + 2$ e $n + 4$ sono entrambi esattamente divisibili rispettivamente da numeri interi positivi odd $m$, $m + 2$ e $m + 4$. Determinare il minimo valore possibile di $m$.
-
-[[Quesiti/src_bmo1_2017#q06|src_bmo1_2017__Q06]]

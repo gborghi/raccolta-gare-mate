@@ -34,8 +34,6 @@ level: BMO Round 1
 
 > Calcolare il valore di $$\frac{2014^2 + 4 \times 2013^2}{2013^2 + 4027^2} + \frac{2012^2 + 4 \times 2013^2}{2013^2 + 4 \times 2013^2}.$$
 
-[[Quesiti/src_bmo1_2014#q01|src_bmo1_2014__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -60,8 +58,6 @@ level: BMO Round 1
 *Perpendicolare dal piede di altitudine alla linea è parallela al lato*
 
 > Nel triangolo a angolo acuto $ABC$, il piede della perpendicolare da $A$ a $BC$ è $E$. Il $G$ deve essere il piede della perpendicolare da $E$ a $AB$. Il piede della perpendicolare da $C$ a $AB$ è $F$. Prova che la perpendicolare da $E$ a $CF$ è parallela a $AB$.
-
-[[Quesiti/src_bmo1_2014#q02|src_bmo1_2014__Q02]]
 
 
 
@@ -88,8 +84,6 @@ level: BMO Round 1
 
 > Un numero scritto nella base 10 è una catena di $3^{2013}$ cifre $3$s. Nessun altro numero appare. Trova la potenza più alta di $3$ che divide questo numero.
 
-[[Quesiti/src_bmo1_2014#q03|src_bmo1_2014__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_ricorsione,method_casework,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_modellizzazione"></span>
@@ -114,8 +108,6 @@ level: BMO Round 1
 *Contare gli orari di vacanze di nove giorni con restrizioni di sport acquatici*
 
 > Isaac sta pianificando una vacanza di nove giorni. Ogni giorno andrà a fare surf, a sciare in acqua o a riposare. In ogni giorno fa solo una di queste tre cose. Non fa mai sport acquatici diversi nei giorni successivi. Quanti programmi sono possibili per le vacanze?
-
-[[Quesiti/src_bmo1_2014#q04|src_bmo1_2014__Q04]]
 
 
 
@@ -145,8 +137,6 @@ level: BMO Round 1
 
 > Lasciate che $ABC$ sia un triangolo e lasciate che $P$ sia un punto all'interno del triangolo. I piedi delle perpendicolari $D$, $E$ e $F$ siano i piedi delle perpendicolari $P$ ai lati $BC$, $CA$ e $AB$ rispettivamente. Prova che: a) $AF + BD + CE = AE + BF + CD$; b) $[BPF] + [CPD] + [APE] = [APF] + [BPD] + [CPE]$, dove $[XYZ]$ indica l'area del triangolo $XYZ$.
 
-[[Quesiti/src_bmo1_2014#q05|src_bmo1_2014__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_disuguaglianze,topic_geometria_piana,method_disuguaglianze,method_simmetria,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima"></span>
@@ -172,5 +162,3 @@ level: BMO Round 1
 *La media ponderata di prova degli angoli si trova in [60, 90)*
 
 > Gli angoli $A$, $B$ e $C$ di un triangolo sono misurati in gradi e le lunghezze dei lati opposti sono rispettivamente $a$, $b$ e $c$. Provare che $$60 \le \frac{aA + bB + cC}{a + b + c} < 90.$$
-
-[[Quesiti/src_bmo1_2014#q06|src_bmo1_2014__Q06]]

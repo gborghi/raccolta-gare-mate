@@ -50,7 +50,6 @@ level: 2 livello
 > - **(E)** 121 144
 
 **Answer:** D
-[[Quesiti/src_archimede_2013_febb_2livello#q01|src_archimede_2013_febb_2livello__Q01]]
 
 
 
@@ -94,7 +93,6 @@ level: 2 livello
 > - **(E)** It cannot be determined from the data provided.
 
 **Answer:** C
-[[Quesiti/src_archimede_2013_febb_2livello#q02|src_archimede_2013_febb_2livello__Q02]]
 
 
 
@@ -130,7 +128,6 @@ level: 2 livello
 > On the vertices of a polygon with n ≥3 sides are written whole numbers, so that the number written on each vertex has the same parity as the sum of the numbers written on the two adjacent vertices (i.e. if the number on the vertex is equal, also the sum of the numbers appearing on the adjacent vertices is equal, while if the number is odd also the sum is odd). Which of the following is certainly true? (A) There are more even numbers than odd ones. (B) There are more odd numbers than equal. (C) The number of vertices on which an odd number is written is equal. (D) n is multiple of 3. (E) None of the above.
 
 **Answer:** C
-[[Quesiti/src_archimede_2013_febb_2livello#q03|src_archimede_2013_febb_2livello__Q03]]
 
 
 
@@ -176,7 +173,6 @@ level: 2 livello
 > - **(E)** None of the above.
 
 **Answer:** D
-[[Quesiti/src_archimede_2013_febb_2livello#q04|src_archimede_2013_febb_2livello__Q04]]
 
 
 
@@ -219,7 +215,6 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 > - **(E)** None of the above.
 
 **Answer:** A
-[[Quesiti/src_archimede_2013_febb_2livello#q05|src_archimede_2013_febb_2livello__Q05]]
 
 
 
@@ -260,7 +255,6 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 > - **(E)** 2
 
 **Answer:** B
-[[Quesiti/src_archimede_2013_febb_2livello#q06|src_archimede_2013_febb_2livello__Q06]]
 
 
 
@@ -303,7 +297,6 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 > - **(E)** 2 √ 3 −2
 
 **Answer:** E
-[[Quesiti/src_archimede_2013_febb_2livello#q07|src_archimede_2013_febb_2livello__Q07]]
 
 
 
@@ -345,7 +338,6 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 > - **(E)** 405
 
 **Answer:** E
-[[Quesiti/src_archimede_2013_febb_2livello#q08|src_archimede_2013_febb_2livello__Q08]]
 
 
 
@@ -386,7 +378,6 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 > - **(E)** 0
 
 **Answer:** A
-[[Quesiti/src_archimede_2013_febb_2livello#q09|src_archimede_2013_febb_2livello__Q09]]
 
 
 
@@ -428,7 +419,6 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 > - **(E)** There's no such thing as a quadrilateral.
 
 **Answer:** C
-[[Quesiti/src_archimede_2013_febb_2livello#q10|src_archimede_2013_febb_2livello__Q10]]
 
 
 
@@ -471,7 +461,6 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 > - **(E)** 169 1024
 
 **Answer:** B
-[[Quesiti/src_archimede_2013_febb_2livello#q11|src_archimede_2013_febb_2livello__Q11]]
 
 
 
@@ -512,7 +501,6 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 > - **(E)** 14 Problems with a numerical answer  5 points
 
 **Answer:** E
-[[Quesiti/src_archimede_2013_febb_2livello#q12|src_archimede_2013_febb_2livello__Q12]]
 
 
 
@@ -550,7 +538,6 @@ Marine battle, minimum hits to hit aircraft carriers 5x1
 > In a variant of the naval battle game, Anna places an aircraft carrier (which we can think of as a rectangle 5 × 1) in a grid 10 × 10, either vertically or horizontally, without showing it to Jacopo. Jacopo tries to hit the aircraft carrier, telling her again and again the coordinates of a square inside the grid. If the picture you chose is among those covered by the aircraft carrier, this one is hit, otherwise it is missing. How many shots does Jacopo have to shoot at least to hit her for sure at least once?
 
 **Answer:** 20
-[[Quesiti/src_archimede_2013_febb_2livello#q13|src_archimede_2013_febb_2livello__Q13]]
 
 
 
@@ -582,7 +569,6 @@ Marine battle, minimum hits to hit aircraft carriers 5x1
 > Anacleto just finished eating a chocolate bar, and he starts playing with the paper it was wrapped in, a 360 mm and 300 mm rectangle. He decides to make a single straight fold so that, once the paper is folded, a vertex of the rectangle is exactly halfway along the short side of which it is not extreme. How many millimeters is the fold?
 
 **Answer:** 325
-[[Quesiti/src_archimede_2013_febb_2livello#q14|src_archimede_2013_febb_2livello__Q14]]
 
 
 
@@ -612,8 +598,6 @@ Marine battle, minimum hits to hit aircraft carriers 5x1
 *Term (a,b,c) with MCD 1 and reciprocal divisibility of the sides*
 
 > DEMOSTRATIVE EXERCISE Determine all the terms of strictly positive integers (a, b, c) such that - a ≤b ≤c; - MCD (a, b, c) = 1; - a is divisor of b + c, b is divisor of c + a and c is divisor of a + b.
-
-[[Quesiti/src_archimede_2013_febb_2livello#q15|src_archimede_2013_febb_2livello__Q15]]
 
 
 
@@ -646,8 +630,6 @@ Marine battle, minimum hits to hit aircraft carriers 5x1
 *for which n returns to the starting point*
 
 > Demonstrative Exercise Be a positive whole. A flea is on the real line and performs a sequence of n jumps of length 1,2,3. . . ,n. The flea can choose the order of the jump lengths and for each jump it can decide whether to jump to the right or to the left. (a) Demonstrate that for n = 2012, the fly can end the jump sequence at the same point from which it started. (b) Demonstrate that for n = 2013 this is not possible. (c) In general, what is the point of departure?
-
-[[Quesiti/src_archimede_2013_febb_2livello#q16|src_archimede_2013_febb_2livello__Q16]]
 
 
 
@@ -749,5 +731,3 @@ Marine battle, minimum hits to hit aircraft carriers 5x1
 ```
 
 > Demonstrative Exercise Whether ABCD is a trapezoid or not a parallelogram. P shall be the meeting point of the diagonal and Q the intersection point of the oblique side extensions. (a) Draw the parallel to the passing bases for the point P and let X and Y be its meeting points with the oblique sides: show that XP = Y P. (b) It is shown that the straight PQ intersects the minor base at its midpoint.
-
-[[Quesiti/src_archimede_2013_febb_2livello#q17|src_archimede_2013_febb_2livello__Q17]]

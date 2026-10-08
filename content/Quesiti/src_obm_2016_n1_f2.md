@@ -33,8 +33,6 @@ level: OBM Nível 1
 
 > L'aumento del numero $2016$ al cubo dà il numero $10$ a cifre $8{,}193{,}540{,}096$. Quanti numeri interi positivi inferiori a $2016$ hanno un cubo con meno di dieci cifre?
 
-[[Quesiti/src_obm_2016_n1_f2#q01|src_obm_2016_n1_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,skill_lettura_attenta,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -59,8 +57,6 @@ level: OBM Nível 1
 Concessionario di auto usate: 20% di profitto su una macchina, 20% di perdita su un'altra al medesimo prezzo; risultato totale*
 
 > Un concessionario di auto usate ha venduto due auto a $12{,}000$ reais ciascuno. In una di esse ha ottenuto un profitto di $20\%$ rispetto al costo, e nell'altra ha subito una perdita di $20\%$ rispetto al costo. Sembra che, poiché non ha perso né guadagnato in nessuna delle due transazioni, il risultato complessivo sia stato un equilibrio, ma in realtà ha fatto o perso denaro. Qual era il suo profitto o perdita totale, in reais?
-
-[[Quesiti/src_obm_2016_n1_f2#q02|src_obm_2016_n1_f2__Q02]]
 
 
 
@@ -89,8 +85,6 @@ Concessionario di auto usate: 20% di profitto su una macchina, 20% di perdita su
 > Il quadrato $ABCD$ è diviso in due rettangoli congruenti e due quadrati le cui aree, in metri quadrati, sono indicate nella figura ($64$ e $121$). Qual è la superficie di $ABCD$ quadrato in metri quadrati?
 
 ![[src_obm_2016_n1_f2__q03.png]]
-
-[[Quesiti/src_obm_2016_n1_f2#q03|src_obm_2016_n1_f2__Q03]]
 
 
 
@@ -121,8 +115,6 @@ Concessionario di auto usate: 20% di profitto su una macchina, 20% di perdita su
 
 ![[src_obm_2016_n1_f2__q04.png]]
 
-[[Quesiti/src_obm_2016_n1_f2#q04|src_obm_2016_n1_f2__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
@@ -150,8 +142,6 @@ Concessionario di auto usate: 20% di profitto su una macchina, 20% di perdita su
 > Nella figura, i due quadrati grigi condividono un vertice comune, e il quadrato bianco ha un vertice su ogni lato di quei quadrati grigi. Le misure di alcuni angoli (in gradi) sono indicate nella figura: $47^\circ$, $122^\circ$ e $X^\circ$. Qual è il valore di $X$?
 
 ![[src_obm_2016_n1_f2__q05.png]]
-
-[[Quesiti/src_obm_2016_n1_f2#q05|src_obm_2016_n1_f2__Q05]]
 
 
 
@@ -182,8 +172,6 @@ Concessionario di auto usate: 20% di profitto su una macchina, 20% di perdita su
 
 ![[src_obm_2016_n1_f2__q06.png]]
 
-[[Quesiti/src_obm_2016_n1_f2#q06|src_obm_2016_n1_f2__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_casework,method_estremalita,method_doppio_conteggio,skill_modellizzazione,skill_conteggio_sistematico,skill_casework_accurato,skill_ragionamento_geometrico"></span>
@@ -208,8 +196,6 @@ Concessionario di auto usate: 20% di profitto su una macchina, 20% di perdita su
 *Colore 7×7 tabella rosso/blu/bronzo in modo che il blu domini ogni riga e colonna; min cellule rosse e min cellule marrone*
 
 > [Parte B] Janaína vuole dipingere le celle di una tabella $7 \times 7$ con tre colori  rosso, blu e marrone  in questo modo: in ogni riga e in ogni colonna, il numero di celle blu deve essere maggiore o uguale al numero di celle rosse e il numero di celle blu deve anche essere maggiore o uguale al numero di celle marrone. Tutte le righe e le colonne devono contenere cellule di tutti e tre i colori. a) Qual è il numero minimo di cellule da dipingere in rosso? b) Qual è il numero minimo di cellule da dipingere in marrone?
-
-[[Quesiti/src_obm_2016_n1_f2#q07|src_obm_2016_n1_f2__Q07]]
 
 
 
@@ -240,8 +226,6 @@ Concessionario di auto usate: 20% di profitto su una macchina, 20% di perdita su
 
 ![[src_obm_2016_n1_f2__q08.png]]
 
-[[Quesiti/src_obm_2016_n1_f2#q08|src_obm_2016_n1_f2__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,method_inclusione_esclusione,skill_conteggio_sistematico,skill_casework_accurato,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -270,5 +254,3 @@ Concessionario di auto usate: 20% di profitto su una macchina, 20% di perdita su
 > [Parte B] Ana vuole scrivere le cifre da $1$ a $9$, una in ogni casella del diagramma di seguito (9 caselle consecutive), per formare un numero $9$ a cifre $N$. Le scatole grigie sono le scatole nelle posizioni $1, 3, 5, 7, 9$ (le 5 posizioni indicizzate parie), e le scatole bianche sono quelle nelle posizioni $2, 4, 6, 8$.\n(a) In quanti modi può Ana formare il numero $N$ scrivendo numeri pari nelle scatole grigie?\n(b) In quanti modi può Ana formare il numero $N$ scrivendo solo numeri parie nelle scatole grigie?\n(c) In quanti modi può formare $N$ in modo tale che la somma delle cifre nelle scatole grigie sia pari al doppio della somma delle cifre nelle scatole bianche?
 
 ![[src_obm_2016_n1_f2__q09.png]]
-
-[[Quesiti/src_obm_2016_n1_f2#q09|src_obm_2016_n1_f2__Q09]]

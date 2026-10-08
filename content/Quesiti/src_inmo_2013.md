@@ -37,8 +37,6 @@ level: INMO
 
 ![[src_inmo_2013__q01.png]]
 
-[[Quesiti/src_inmo_2013#q01|src_inmo_2013__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_casework_accurato"></span>
@@ -65,8 +63,6 @@ level: INMO
 
 > Trova tutti gli integri positivi $m$, $n$ e i numeri primi $p \ge 5$ in modo tale che $$m(4m^2 + 12m + 3) = 3(p^n - 1).$$
 
-[[Quesiti/src_inmo_2013#q02|src_inmo_2013__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -91,8 +87,6 @@ level: INMO
 *insieri interi positivi a,b,c,d; dimostrare che il polinomio non ha soluzione di numeri interi*
 
 > $a, b, c, d$ siano integri positivi come $a \ge b \ge c \ge d$. Prove che l'equazione $x^4 - ax^3 - bx^2 - cx - d = 0$ non ha una soluzione integrale.
-
-[[Quesiti/src_inmo_2013#q03|src_inmo_2013__Q03]]
 
 
 
@@ -119,8 +113,6 @@ level: INMO
 
 > $n$ sia un numero intero positivo. Chiamare valido un sottogruppo non vuoto $S$ di $\{1, 2, \ldots, n\}$ se la media aritmetica degli elementi di $S$ è anche un intero. $t_n$ indica il numero di buoni sottoinsiemi di $\{1, 2, \ldots, n\}$. Prove che $t_n$ e $n$ sono entrambi pari o pari.
 
-[[Quesiti/src_inmo_2013#q04|src_inmo_2013__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_coordinate,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -146,8 +138,6 @@ level: INMO
 
 > In un triangolo acuto $ABC$, $O$ è il circoncentro, $H$ è l'ortocentro e $G$ è il centroide. Il $OD$ deve essere perpendicolare a $BC$ e il $HE$ deve essere perpendicolare a $CA$, con $D$ su $BC$ e $E$ su $CA$. Il $F$ deve essere il punto medio di $AB$. Supponiamo che le superfici dei triangoli $ODC$, $HEA$ e $GFB$ siano uguali. Trova tutti i valori possibili di $\hat{C}$.
 
-[[Quesiti/src_inmo_2013#q05|src_inmo_2013__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_disuguaglianze,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -172,5 +162,3 @@ level: INMO
 *Reali positivi a,b,c,x,y,z; a+b+c=x+y+z=xyz; dimostrare a=x,b=y,c=z*
 
 > $a, b, c, x, y, z$ siano numeri reali positivi come $a + b + c = x + y + z = xyz$. Inoltre, supponiamo che $a \le x < y \le b < c \le z$ e $a < b < c$. Prove che $a = x$, $b = y$ e $c = z$.
-
-[[Quesiti/src_inmo_2013#q06|src_inmo_2013__Q06]]

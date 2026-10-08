@@ -34,7 +34,6 @@ level: kangourou
 > *(5 points) * A 10 metre pole shall be broken so that it is possible to store (possibly overlapping) all the pieces obtained in a square cardboard of 1 metre side. What's the minimum number of pieces to reach the goal?
 
 **Answer:** 8
-[[Quesiti/src_kangourou_2009_junior_maggio#qj1|src_kangourou_2009_junior_maggio__QJ1]]
 
 
 
@@ -63,7 +62,6 @@ level: kangourou
 > *(7 points)* Is the number $29^n + 4$ prime? Justify the answer.
 
 **Answer:** no
-[[Quesiti/src_kangourou_2009_junior_maggio#qj2|src_kangourou_2009_junior_maggio__QJ2]]
 
 
 
@@ -92,7 +90,6 @@ level: kangourou
 > *(11 points) * Consider an ordered stack of 5998 sheets numbered from 1 (i.e. the first sheet at the top has the number 1). Now build a new stack like this: take the first sheet, put the second over the first and the third under the first; then repeat the process: the fourth sheet will go over the second and the fifth under the third, and so on. Once the operation is complete, will there be sheets that, in the new stack, will be in the same position as they were in the old one? If yes, which ones?
 
 **Answer:** 2000
-[[Quesiti/src_kangourou_2009_junior_maggio#qj3|src_kangourou_2009_junior_maggio__QJ3]]
 
 
 
@@ -125,7 +122,6 @@ level: kangourou
 > *(14 points) * An ant is free to move on the surface of a rectangular parallel-piped measuring $1 \times 1 \times 2$ meters, but not to enter it. Starting from a vertex, it wants to reach the antipodal vertex (i.e. the one farthest from it) by moving along the shortest path possible: how much distance must it cover? Is the opposite vertex the point of the parallelepiped farthest from the starting vertex (as long as it is bound to move on the surface)?
 
 **Answer:** sqrt8
-[[Quesiti/src_kangourou_2009_junior_maggio#qj4|src_kangourou_2009_junior_maggio__QJ4]]
 
 
 
@@ -154,7 +150,6 @@ level: kangourou
 > *(18 points) * Consider a regular polygon of 21 sides. You want to color some vertices red so that, however you choose two pairs of vertices both colored red, the distance between the vertices of one pair is different from that between the vertices of the other. How many vertices can you color?
 
 **Answer:** 5
-[[Quesiti/src_kangourou_2009_junior_maggio#qj5|src_kangourou_2009_junior_maggio__QJ5]]
 
 
 
@@ -190,5 +185,4 @@ level: kangourou
 > 
 > Justify both answers.
 
-**Answer:** si,no
-[[Quesiti/src_kangourou_2009_junior_maggio#qj6|src_kangourou_2009_junior_maggio__QJ6]]
+**Answer:** yes,no

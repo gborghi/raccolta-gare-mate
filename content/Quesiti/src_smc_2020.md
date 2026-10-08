@@ -46,7 +46,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $0.55$
 
 **Risposta:** C
-[[Quesiti/src_smc_2020#q01|src_smc_2020__Q01]]
 
 
 
@@ -87,7 +86,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $4$
 
 **Risposta:** C
-[[Quesiti/src_smc_2020#q02|src_smc_2020__Q02]]
 
 
 
@@ -132,7 +130,6 @@ level: Senior Mathematical Challenge
 ![[src_smc_2020__q03.png]]
 
 **Risposta:** A
-[[Quesiti/src_smc_2020#q03|src_smc_2020__Q03]]
 
 
 
@@ -172,7 +169,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $34$
 
 **Risposta:** B
-[[Quesiti/src_smc_2020#q04|src_smc_2020__Q04]]
 
 
 
@@ -212,7 +208,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $111$
 
 **Risposta:** C
-[[Quesiti/src_smc_2020#q05|src_smc_2020__Q05]]
 
 
 
@@ -253,7 +248,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $7$
 
 **Risposta:** E
-[[Quesiti/src_smc_2020#q06|src_smc_2020__Q06]]
 
 
 
@@ -293,7 +287,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $90$
 
 **Risposta:** D
-[[Quesiti/src_smc_2020#q07|src_smc_2020__Q07]]
 
 
 
@@ -334,7 +327,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $17$
 
 **Risposta:** D
-[[Quesiti/src_smc_2020#q08|src_smc_2020__Q08]]
 
 
 
@@ -374,7 +366,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $1$
 
 **Risposta:** B
-[[Quesiti/src_smc_2020#q09|src_smc_2020__Q09]]
 
 
 
@@ -415,7 +406,6 @@ Contare le persone che stanno tra Tara e Uma in una fila di sei amici
 > - **(E)** $0$
 
 **Risposta:** C
-[[Quesiti/src_smc_2020#q10|src_smc_2020__Q10]]
 
 
 
@@ -459,7 +449,6 @@ Contare le persone che stanno tra Tara e Uma in una fila di sei amici
 ![[src_smc_2020__q11.png]]
 
 **Risposta:** E
-[[Quesiti/src_smc_2020#q11|src_smc_2020__Q11]]
 
 
 
@@ -499,7 +488,6 @@ Contare le persone che stanno tra Tara e Uma in una fila di sei amici
 > - **(E)** ulteriori informazioni necessarie
 
 **Risposta:** B
-[[Quesiti/src_smc_2020#q12|src_smc_2020__Q12]]
 
 
 
@@ -540,7 +528,6 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(E)** $17$
 
 **Risposta:** D
-[[Quesiti/src_smc_2020#q13|src_smc_2020__Q13]]
 
 
 
@@ -585,7 +572,6 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 ![[src_smc_2020__q14.png]]
 
 **Risposta:** B
-[[Quesiti/src_smc_2020#q14|src_smc_2020__Q14]]
 
 
 
@@ -629,7 +615,6 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 ![[src_smc_2020__q15.png]]
 
 **Risposta:** A
-[[Quesiti/src_smc_2020#q15|src_smc_2020__Q15]]
 
 
 
@@ -674,7 +659,6 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 ![[src_smc_2020__q16.png]]
 
 **Risposta:** E
-[[Quesiti/src_smc_2020#q16|src_smc_2020__Q16]]
 
 
 
@@ -715,7 +699,6 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(E)** $9$
 
 **Risposta:** A
-[[Quesiti/src_smc_2020#q17|src_smc_2020__Q17]]
 
 
 
@@ -755,7 +738,6 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(E)** $10$
 
 **Risposta:** E
-[[Quesiti/src_smc_2020#q18|src_smc_2020__Q18]]
 
 
 
@@ -796,7 +778,6 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(E)** $2$
 
 **Risposta:** A
-[[Quesiti/src_smc_2020#q19|src_smc_2020__Q19]]
 
 
 
@@ -836,7 +817,6 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(E)** $\dfrac{1}{\sqrt{5}}$
 
 **Risposta:** E
-[[Quesiti/src_smc_2020#q20|src_smc_2020__Q20]]
 
 
 
@@ -876,7 +856,6 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(E)** $4041$
 
 **Risposta:** C
-[[Quesiti/src_smc_2020#q21|src_smc_2020__Q21]]
 
 
 
@@ -920,7 +899,6 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 ![[src_smc_2020__q22.png]]
 
 **Risposta:** A
-[[Quesiti/src_smc_2020#q22|src_smc_2020__Q22]]
 
 
 
@@ -960,7 +938,6 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(E)** $2023$
 
 **Risposta:** D
-[[Quesiti/src_smc_2020#q23|src_smc_2020__Q23]]
 
 
 
@@ -1005,7 +982,6 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 ![[src_smc_2020__q24.png]]
 
 **Risposta:** B
-[[Quesiti/src_smc_2020#q24|src_smc_2020__Q24]]
 
 
 
@@ -1050,4 +1026,3 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 ![[src_smc_2020__q25.png]]
 
 **Risposta:** C
-[[Quesiti/src_smc_2020#q25|src_smc_2020__Q25]]

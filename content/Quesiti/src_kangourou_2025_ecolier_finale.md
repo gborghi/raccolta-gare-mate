@@ -34,7 +34,6 @@ level: kangourou
 > Some identical apples have been placed in 5 identical (initially empty) boxes; each box contains the same number of apples as the others. Some pears, in the same number as the total number of apples, have been placed in 7 boxes (initially empty) identical to each other: each box contains the same number of pears as the others. Each box of pears contains six fewer fruits than each box of apples. How many apples (or pears)?
 
 **Answer:** 105
-[[Quesiti/src_kangourou_2025_ecolier_finale#qe1|src_kangourou_2025_ecolier_finale__QE1]]
 
 
 
@@ -63,7 +62,6 @@ level: kangourou
 > To each integer between 1 and 9 included, Marta assigned one and only one of the colors red, blue, green so that each red number is the sum of a green number and a blue number. The numbers Marta assigned the red to are 4. Write down one of the assignments that Marta may have made.
 
 **Answer:** example assignment
-[[Quesiti/src_kangourou_2025_ecolier_finale#qe2|src_kangourou_2025_ecolier_finale__QE2]]
 
 
 
@@ -91,7 +89,6 @@ level: kangourou
 > Write the smallest positive integer greater than 0 whose digits sum to 30. Explain how you determined it.
 
 **Answer:** 3999
-[[Quesiti/src_kangourou_2025_ecolier_finale#qe3|src_kangourou_2025_ecolier_finale__QE3]]
 
 
 
@@ -119,8 +116,7 @@ level: kangourou
 
 > On the fingers of one hand, Silvia counted in the following way: 1 thumb, 2 index, 3 middle, 4 ring, 5 little; then she went back: 6 ring, 7 middle, 8 index, 9 thumb. Then she started again: 10 index, 11 middle and so on, until she reached 2,025. On which finger?
 
-**Answer:** pollice
-[[Quesiti/src_kangourou_2025_ecolier_finale#qe4|src_kangourou_2025_ecolier_finale__QE4]]
+**Answer:** thumb
 
 
 
@@ -169,7 +165,6 @@ level: kangourou
 > (see figure)
 
 **Answer:** a)260 b)60
-[[Quesiti/src_kangourou_2025_ecolier_finale#qe5|src_kangourou_2025_ecolier_finale__QE5]]
 
 
 
@@ -197,4 +192,3 @@ level: kangourou
 > A circular park is surrounded by a path lit by lamps. Simona and Tania counted the lamps, but separately, starting from different points and moving both in the same direction. What was the 20th lamp for Simona was the 7th for Tania, what was the 7th for Simona was the 94th for Tania. How many lamps are there in total?
 
 **Answer:** 100
-[[Quesiti/src_kangourou_2025_ecolier_finale#qe6|src_kangourou_2025_ecolier_finale__QE6]]

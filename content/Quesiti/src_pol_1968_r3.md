@@ -33,8 +33,6 @@ level: Olimpiade Polacca Round 3
 
 > Dimostra che se un polinomio con coefficienti interi prende un valore pari a 1 in valore assoluto a tre diversi punti interi, allora non ha zero interi.
 
-[[Quesiti/src_pol_1968_r3#q01|src_pol_1968_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_casework,method_bigezione,skill_conteggio_sistematico,skill_modellizzazione,skill_ragionamento_geometrico"></span>
@@ -59,8 +57,6 @@ level: Olimpiade Polacca Round 3
 Riorganizzare cinque o più persone alla tavola rotonda in modo che tutti ottengano due nuovi vicini
 
 > Mostrate che, se almeno cinque persone sono sedute a un tavolo rotondo, è possibile riorganizzarle in modo che ognuno abbia due nuovi vicini.
-
-[[Quesiti/src_pol_1968_r3#q02|src_pol_1968_r3__Q02]]
 
 
 
@@ -87,8 +83,6 @@ Riorganizzare cinque o più persone alla tavola rotonda in modo che tutti otteng
 
 > Dato un numero intero $n \ge 2$, dare un esempio di un insieme di numeri $n$ reciprocamente diversi $a_1, \ldots, a_n$ per i quali l'insieme delle loro somme in coppia $a_i + a_j$ ($i \ne j$) contiene il minor numero possibile di numeri diversi; dare anche un esempio di un insieme di numeri diversi $n$ $b_1, \ldots, b_n$ per i quali l'insieme delle somme in coppia $b_i + b_j$ ($i \ne j$) contiene il maggior numero possibile di numeri diversi.
 
-[[Quesiti/src_pol_1968_r3#q03|src_pol_1968_r3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_geometria_piana,method_estremalita,method_doppio_conteggio,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta"></span>
@@ -114,8 +108,6 @@ Riorganizzare cinque o più persone alla tavola rotonda in modo che tutti otteng
 
 > Sul piano ci sono punti $n \ge 3$, non tutti sulla stessa linea. Tracciando tutte le linee che attraversano due di questi punti si ottengono $k$ diverse linee. Prove che $k \ge n$.
 
-[[Quesiti/src_pol_1968_r3#q04|src_pol_1968_r3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_combinatoria,method_casework,method_induzione,skill_ragionamento_geometrico,skill_lettura_attenta,skill_astrazione"></span>
@@ -140,8 +132,6 @@ Riorganizzare cinque o più persone alla tavola rotonda in modo che tutti otteng
 *Qualsiasi quadrilaterale convex di quattro punti implica tutti i punti di un poligono convex*
 
 > Dati i punti $n \ge 4$ del piano in modo tale che tutti e quattro di essi siano i vertici di un quadrilaterale converso, dimostrare che questi punti sono i vertici di un poligono converso.
-
-[[Quesiti/src_pol_1968_r3#q05|src_pol_1968_r3__Q05]]
 
 
 
@@ -169,5 +159,3 @@ Riorganizzare cinque o più persone alla tavola rotonda in modo che tutti otteng
 *Grafica di connettività su n>3 punti: grafico di grado 4 senza triangolo vs. triangolo forzato*
 
 > Considera un insieme di punti $a > 3$ nel piano, di cui non ci sono tre collineari, e un numero naturale $4 < c$. Provare le seguenti affermazioni: (a) Se $4 \le \frac{c}{2}$, allora ogni punto può essere collegato con almeno altri 4 punti da segmenti in modo che non formino tre segmenti un triangolo. (b) Se $4 > \frac{c}{2}$, ogni punto è collegato con almeno altri 4 punti da segmenti, allora alcuni tre segmenti formano un triangolo.
-
-[[Quesiti/src_pol_1968_r3#q06|src_pol_1968_r3__Q06]]

@@ -41,8 +41,6 @@ level: IMO
 > 
 > (b) Determinare tutti gli interi $n \ge 3$ per i quali esiste un insieme bilanciato privo di centro formato da $n$ punti.
 
-[[Quesiti/src_imho_2015#q01|src_imho_2015__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_casework,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -76,8 +74,6 @@ level: IMO
 > 
 > (Potenza di $2$ è un intero della forma $2^n$, dove $n$ è un numero intero non negativo.)
 
-[[Quesiti/src_imho_2015#q02|src_imho_2015__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
@@ -106,8 +102,6 @@ level: IMO
 > Sia $ABC$ un triangolo acutangolo con $AB > AC$. Sia $\Gamma$ la sua circonferenza circoscritta, $H$ il suo ortocentro e $F$ il piede dell'altezza da $A$. Sia $M$ il punto medio di $BC$. Sia $Q$ il punto su $\Gamma$ tale che $\angle HQA = 90^\circ$, e sia $K$ il punto su $\Gamma$ tale che $\angle HKQ = 90^\circ$. Si assuma che i punti $A$, $B$, $C$, $K$ e $Q$ siano tutti distinti e giacciano su $\Gamma$ in quest'ordine.
 > 
 > Si dimostri che le circonferenze circoscritte ai triangoli $KQH$ e $FKM$ sono tangenti tra loro.
-
-[[Quesiti/src_imho_2015#q03|src_imho_2015__Q03]]
 
 
 
@@ -138,8 +132,6 @@ level: IMO
 > 
 > Siano le rette $FK$ e $GL$ diverse tra loro e che si intersechino nel punto $X$. Si dimostri che il punto $X$ appartiene alla retta $AO$.
 
-[[Quesiti/src_imho_2015#q04|src_imho_2015__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_algebra,method_simmetria,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta,skill_astrazione"></span>
@@ -169,8 +161,6 @@ f(x+f(x+y))+f(xy)=x+f(x+y)+yf(x)*
 > Sia $\mathbb{R}$ l'insieme dei numeri reali. Determinare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ che soddisfano l'equazione
 > $$f(x + f(x + y)) + f(xy) = x + f(x + y) + yf(x)$$
 > per tutti i numeri reali $x$ e $y$.
-
-[[Quesiti/src_imho_2015#q05|src_imho_2015__Q05]]
 
 
 
@@ -212,5 +202,3 @@ f(x+f(x+y))+f(xy)=x+f(x+y)+yf(x)*
 > Si dimostri che esistono due numeri interi positivi $b$ e $N$ tali che
 > $$\left| \sum_{j=m+1}^{n} (a_j - b) \right| \le 1007^2$$
 > per ogni coppia di numeri interi $m$ e $n$ che soddisfano $n > m \ge N$.
-
-[[Quesiti/src_imho_2015#q06|src_imho_2015__Q06]]

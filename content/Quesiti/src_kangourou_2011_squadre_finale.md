@@ -36,7 +36,6 @@ level: squadre
 > Anna and her watch Anna enjoys calculating the sum of the digits that appear on her digital watch: for example, if the clock indicates 21:17, Anna gets 11. What is the highest sum Anna can get?
 
 **Answer:** 24
-[[Quesiti/src_kangourou_2011_squadre_finale#q01|src_kangourou_2011_squadre_finale__Q01]]
 
 
 
@@ -69,7 +68,6 @@ level: squadre
 > choosing the lines from those on which the edges of a cube lie?
 
 **Answer:** 24
-[[Quesiti/src_kangourou_2011_squadre_finale#q02|src_kangourou_2011_squadre_finale__Q02]]
 
 
 
@@ -106,7 +104,6 @@ level: squadre
 > PAPA?
 
 **Answer:** 5454
-[[Quesiti/src_kangourou_2011_squadre_finale#q03|src_kangourou_2011_squadre_finale__Q03]]
 
 
 
@@ -140,7 +137,6 @@ level: squadre
 > The tennis tournament A tennis tournament proceeds by direct elimination. Two players face each other: the winner goes on, the loser is eliminated. At each stage the pairings are decided by drawing lots: if, in any stage, the number of players is odd, the last remaining at the end of the lottery automatically proceeds to the next stage. All things considered, to determine the winner, a total of 100 matches must be played. How many players are taking part in the tournament?
 
 **Answer:** 101
-[[Quesiti/src_kangourou_2011_squadre_finale#q04|src_kangourou_2011_squadre_finale__Q04]]
 
 
 
@@ -175,7 +171,6 @@ level: squadre
 > numbers?
 
 **Answer:** 221
-[[Quesiti/src_kangourou_2011_squadre_finale#q05|src_kangourou_2011_squadre_finale__Q05]]
 
 
 
@@ -206,7 +201,6 @@ level: squadre
 > The perfect square A six-digit integer is a perfect square, it's a multiple of 27, its units digit is 0, and that of the hundreds is 5. What is its square root?
 
 **Answer:** 450
-[[Quesiti/src_kangourou_2011_squadre_finale#q06|src_kangourou_2011_squadre_finale__Q06]]
 
 
 
@@ -243,7 +237,6 @@ level: squadre
 > could appear in 9 kilometers?
 
 **Answer:** 16
-[[Quesiti/src_kangourou_2011_squadre_finale#q07|src_kangourou_2011_squadre_finale__Q07]]
 
 
 
@@ -275,7 +268,6 @@ level: squadre
 > How many positive integers of 7 significant digits (i.e. the first digit of which is not 0) contain the 2011 block of digits as part of their decimal representation (it is understood that the block digits must appear consecutively)?
 
 **Answer:** 3700
-[[Quesiti/src_kangourou_2011_squadre_finale#q08|src_kangourou_2011_squadre_finale__Q08]]
 
 
 
@@ -308,7 +300,6 @@ level: squadre
 > The two runners Two runners, Marco and Felice, must make a common route: Marco from point A to point B, Felice from point B to point A. They start at the same moment and each keeps their speed constant. When Marco is halfway through, Felix has an hour and a half to get there; when Felix is halfway through, Marco has three-quarters of an hour to get there. How many more minutes does it take Felice than Marco to complete the journey?
 
 **Answer:** 30
-[[Quesiti/src_kangourou_2011_squadre_finale#q09|src_kangourou_2011_squadre_finale__Q09]]
 
 
 
@@ -346,7 +337,6 @@ level: squadre
 > A strange elevator In a 20-story hotel, the first ten are painted green, the ones from the 11th to the 20th are painted red. The hotel does not have stairs and you can only use a strange elevator to change your floor. Anyone entering the elevator on a green floor is sure to be taken to the floor they want. The person entering the elevator on a red floor is taken to a floor of the same colour as the one he selected, but not necessarily to the selected floor; in any case, the elevator changes floor. From whatever floor you call, the elevator will arrive as soon as it is free. A waitress has to go through all the floors, starting with the first and coming back. If the elevator behaves in a way that is most unfavorable to you, what is the minimum number of trips that will allow her to achieve her goal?
 
 **Answer:** 29
-[[Quesiti/src_kangourou_2011_squadre_finale#q10|src_kangourou_2011_squadre_finale__Q10]]
 
 
 
@@ -377,7 +367,6 @@ level: squadre
 > The smallest number What is the smallest integer greater than 1 that cannot be written in the form a × b + c where a, b and c are all distinct digits?
 
 **Answer:** 70
-[[Quesiti/src_kangourou_2011_squadre_finale#q11|src_kangourou_2011_squadre_finale__Q11]]
 
 
 
@@ -409,7 +398,6 @@ level: squadre
 > Grandpa Angelo, who is not yet centenarian, today says: "My age (expressed by an integer number of years) in a year will be a multiple of 2, in two years a multiple of 3, in three years a multiple of 4, in four years a multiple of 5." How old is Grandpa Angelo today?
 
 **Answer:** 61
-[[Quesiti/src_kangourou_2011_squadre_finale#q12|src_kangourou_2011_squadre_finale__Q12]]
 
 
 
@@ -438,7 +426,6 @@ level: squadre
 > A power of two. You know that 2^n is equal to 134,217,728. What is n ?
 
 **Answer:** 27
-[[Quesiti/src_kangourou_2011_squadre_finale#q13|src_kangourou_2011_squadre_finale__Q13]]
 
 
 
@@ -471,7 +458,6 @@ level: squadre
 > Birthdays Choosing three different people at random, what is the probability that at least two of them were born on the same day of the week (no matter which)? The result is a number between 0 and 1: write, in order, only its first four decimal digits (i.e. the first four to the right of the decimal point).
 
 **Answer:** 3877
-[[Quesiti/src_kangourou_2011_squadre_finale#q14|src_kangourou_2011_squadre_finale__Q14]]
 
 
 
@@ -520,4 +506,3 @@ level: squadre
 > Questions and solutions
 
 **Answer:** 60
-[[Quesiti/src_kangourou_2011_squadre_finale#q15|src_kangourou_2011_squadre_finale__Q15]]

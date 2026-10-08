@@ -43,8 +43,6 @@ level: OBM Nível 1
 > 
 > b) Quanti anni interi esistono tra $1900$ e $1999$? Giustifica la tua risposta.
 
-[[Quesiti/src_obm_2025_n1_fx#q01|src_obm_2025_n1_fx__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -80,8 +78,6 @@ level: OBM Nível 1
 
 ![[src_obm_2025_n1_fx__q02.png]]
 
-[[Quesiti/src_obm_2025_n1_fx#q02|src_obm_2025_n1_fx__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_logica,topic_aritmetica,method_casework,method_congruenze,method_invarianti,skill_casework_accurato,skill_astrazione,skill_riconoscimento_pattern"></span>
@@ -116,8 +112,6 @@ Due giocatori intercorso alternatamente i numeri da 1 a 25; si perde se la mossa
 > (a) Supponiamo che i numeri finora incrociati siano $3$, $2$ e $4$. Ora è il turno di Beto di giocare. Come deve giocare Beto per vincere? Giustifica la tua risposta.
 > 
 > b) Considerando il gioco dal suo stato iniziale, in cui nessun numero è ancora stato eliminato e Ana farà la prima mossa, quale dei giocatori ha una strategia vincente, cioè può giocare in modo da vincere sempre, indipendentemente dalle mosse compiute dall'avversario? Ricordate di spiegare come il giocatore che ha una strategia vincente deve giocare per garantire la vittoria.
-
-[[Quesiti/src_obm_2025_n1_fx#q03|src_obm_2025_n1_fx__Q03]]
 
 
 
@@ -157,8 +151,6 @@ Due giocatori intercorso alternatamente i numeri da 1 a 25; si perde se la mossa
 > b) dimostrare che se $N$ è un multiple di $9$, allora $S(N)$ è anche un multiple di $9$.
 > 
 > (c) Qual è il più piccolo intero positivo $N$ tale che $S(N)$ sia un multiple di $2025$?
-
-[[Quesiti/src_obm_2025_n1_fx#q04|src_obm_2025_n1_fx__Q04]]
 
 
 
@@ -211,5 +203,3 @@ Due giocatori intercorso alternatamente i numeri da 1 a 25; si perde se la mossa
 > b) Qual è il numero delle carte $2\times 2025$ di questo gioco?
 
 ![[src_obm_2025_n1_fx__q05.png]]
-
-[[Quesiti/src_obm_2025_n1_fx#q05|src_obm_2025_n1_fx__Q05]]

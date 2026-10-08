@@ -32,8 +32,6 @@ level: RMO
 
 > Il $ABC$ sia un triangolo a angolo acuto; $D$, $F$ siano rispettivamente i punti medi di $BC$ e $AB$. La perpendicolare da $F$ a $AC$ e la perpendicolare da $B$ a $BC$ si incontrano in $N$. Provare che $ND$ è il radio circostante di $ABC$.
 
-[[Quesiti/src_rmo_2008#q01|src_rmo_2008__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
@@ -63,8 +61,6 @@ Due sequenze infinite di numeri interi positivi che soddisfano quattro condizion
 
 > Dimostrare che esistono due sequenze infinite $(a_n)_{n \ge 1}$ e $(b_n)_{n \ge 1}$ di numeri interi positivi in modo tale che le seguenti condizioni si applichino contemporaneamente: (i) $1 < a_1 < a_2 < a_3 < \cdots$; (ii) $a_n < b_n < a_n^2$, per tutti $n \ge 1$; (iii) $a_n - 1$ divide $b_n - 1$, per tutti $n \ge 1$; (iv) $a_n^2 - 1$ divide $b_n^2 - 1$, per tutti $n \ge 1$.
 
-[[Quesiti/src_rmo_2008#q02|src_rmo_2008__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_simmetria,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima"></span>
@@ -91,8 +87,6 @@ Due sequenze infinite di numeri interi positivi che soddisfano quattro condizion
 
 > Supponiamo che $a$ e $b$ siano numeri reali in modo tale che le radici dell'equazione cubica $ax^3 - x^2 + bx - 1 = 0$ siano tutti numeri reali positivi. Prove che: i) $0 < 3ab \le 1$ e ii) $b \ge \sqrt{3}$.
 
-[[Quesiti/src_rmo_2008#q03|src_rmo_2008__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,method_inclusione_esclusione,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -117,8 +111,6 @@ Due sequenze infinite di numeri interi positivi che soddisfano quattro condizion
 *Conta i numeri a 6 cifre con somma di 10 cifre, ognuno di 0,1,2,3 che appaiono almeno una volta*
 
 > Trova il numero di tutti i numeri naturali a 6 cifre in modo tale che la somma dei loro numeri sia 10 e ognuno dei numeri $0, 1, 2, 3$ si verifichi almeno una volta in essi.
-
-[[Quesiti/src_rmo_2008#q04|src_rmo_2008__Q04]]
 
 
 
@@ -145,8 +137,6 @@ Due sequenze infinite di numeri interi positivi che soddisfano quattro condizion
 
 > Si dice che tre numeri reali non zero $a$, $b$, $c$ siano in progressione armonica se $\frac{1}{a} + \frac{1}{c} = \frac{2}{b}$. Trovare tutte le progressioni armoniche a tre termini $a$, $b$, $c$ di enti interi positivi in aumento rigoroso in cui $a = 20$ e $b$ dividono $c$.
 
-[[Quesiti/src_rmo_2008#q05|src_rmo_2008__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_modellizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
@@ -171,5 +161,3 @@ Due sequenze infinite di numeri interi positivi che soddisfano quattro condizion
 *Contare i triangoli obtus con perimetro 2008*
 
 > Trova il numero di tutti i triangoli con angolo obtuso con perimetro $2008$.
-
-[[Quesiti/src_rmo_2008#q06|src_rmo_2008__Q06]]

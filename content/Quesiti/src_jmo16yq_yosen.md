@@ -35,7 +35,6 @@ level: JMO Yosen
 > Che $n$ sia un intero positivo che non è un multiple di $10$ e la cui cifra di centinaia non è $0$. Quando si scambiano la cifra centinaia e la cifra unità di $n$, il numero intero risultante deve essere $m$. Trova il valore massimo di $n - m$.
 
 **Risposta:** 792
-[[Quesiti/src_jmo16yq_yosen#q01|src_jmo16yq_yosen__Q01]]
 
 
 
@@ -64,7 +63,6 @@ level: JMO Yosen
 > Che $P$ sia un punto all'interno di un triangolo equilaterale. Le lunghezze delle perpendicolari abbassate da $P$ a ciascun lato sono rispettivamente $1$, $2$ e $3$. Trova la lunghezza laterale di questo triangolo equilaterale.
 
 **Risposta:** $2\sqrt{7}$
-[[Quesiti/src_jmo16yq_yosen#q02|src_jmo16yq_yosen__Q02]]
 
 
 
@@ -97,7 +95,6 @@ level: JMO Yosen
 > In quanti modi ogni cella di una griglia $3 \times 4$ può essere riempita con uno dei numeri $1, 2, 3, 4$ in modo da soddisfare entrambe le seguenti condizioni? \begin{itemize} \item Lo stesso numero non appare più di una volta in nessuna riga. \item Lo stesso numero non appare più di una volta in nessuna colonna. # Finire #
 
 **Risposta:** 36
-[[Quesiti/src_jmo16yq_yosen#q03|src_jmo16yq_yosen__Q03]]
 
 
 
@@ -126,7 +123,6 @@ level: JMO Yosen
 > Tra tutti gli insiemi di tre diversi interi positivi in modo tale che la somma di due di essi sia un quadrato perfetto, trovare tutti tali insiemi per i quali l'elemento più piccolo è il più piccolo possibile. Due set sono considerati uguali se contengono gli stessi elementi indipendentemente dall'ordine (ad esempio, $\{1, 2, 3\}$ e $\{3, 2, 1\}$ sono uguali).
 
 **Risposta:** $\{41, 80, 104\}$
-[[Quesiti/src_jmo16yq_yosen#q04|src_jmo16yq_yosen__Q04]]
 
 
 
@@ -158,7 +154,6 @@ level: JMO Yosen
 > Trova tutti i triples dei numeri reali $(x, y, z)$ che soddisfano il seguente sistema di equazioni: $$x^2 - 3y - z = -8$$ $$y^2 - 5x - z = -12$$ $$z^2 - x - y = 6$$
 
 **Risposta:** $(1, 2, 3)$
-[[Quesiti/src_jmo16yq_yosen#q05|src_jmo16yq_yosen__Q05]]
 
 
 
@@ -192,7 +187,6 @@ level: JMO Yosen
 > Una griglia $3 \times 3$ ha ogni cella di colore rosso o blu. In quanti modi può essere fatto in modo che: \begin{itemize} \item No $2 \times 2$ sottogrid è interamente rosso. La sottorretto $2 \times 2$ è interamente blu. \end{itemize} I colori che differiscono per rotazione o riflessione sono contati come distinti.
 
 **Risposta:** 56
-[[Quesiti/src_jmo16yq_yosen#q06|src_jmo16yq_yosen__Q06]]
 
 
 
@@ -219,8 +213,6 @@ level: JMO Yosen
 
 > Che $x, y, z$ siano reciprocamente coprime interi positivi a due cifre in modo tale che la decina di $x$ sia pari alla decina di $y$, la decina di unità di $y$ sia pari alla decina di unità di $z$, e la decina di $z$ sia pari alla decina di unità di $x$. Quanti treplici $(x, y, z)$ esistono, contando treplici con lo stesso insieme di valori ma ordinamenti diversi come distinti?
 
-[[Quesiti/src_jmo16yq_yosen#q07|src_jmo16yq_yosen__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,skill_lettura_attenta,skill_modellizzazione,skill_stima"></span>
@@ -245,8 +237,6 @@ level: JMO Yosen
 *Minimum di giorni per Jiro e Saburo per finire di leggere insieme un libro di 120 pagine*
 
 > C'è un libro. Jiro lo legge a $2$ pagine al giorno, e Saburo lo legge a $3$ pagine al giorno. Tuttavia, quando uno di essi arriva alla fine di un capitolo, si ferma per il giorno anche se non ha letto il numero richiesto di pagine. Il libro ha capitoli $10$ e pagine $120$ in totale. Ogni giorno ogni persona inizia a leggere dalla prima pagina di un nuovo capitolo. Trova il minimo numero possibile di giorni da quando Jiro inizia a leggere fino a quando Saburo finisce di leggere. Si noti che entrambi possono iniziare a leggere nello stesso giorno.
-
-[[Quesiti/src_jmo16yq_yosen#q08|src_jmo16yq_yosen__Q08]]
 
 
 
@@ -275,7 +265,6 @@ level: JMO Yosen
 > Nel triangolo $ABC$ con $BC = 5$, $CA = 7$, $AB = 8$, $O$ sia un punto all'interno del triangolo. Le circondazioni dei triangoli $OBC$, $OCA$ e $OAB$ sono tutte uguali. Trova questo circondario comune.
 
 **Risposta:** $\dfrac{35}{\sqrt{759}}$
-[[Quesiti/src_jmo16yq_yosen#q09|src_jmo16yq_yosen__Q09]]
 
 
 
@@ -301,8 +290,6 @@ level: JMO Yosen
 *Contare i percorsi di formiche sui bordi del dodecaedro dal vertice X indietro a X*
 
 > Che $X$ sia uno vertex di un dodecaedro regolare. Una formica inizia a $X$, viaggia lungo i bordi del dodecaedro e ritorna a $X$. La formica attraversa ogni vertice esattamente una volta e attraversa ogni bordo al massimo una volta. Conteggi il numero di tali percorsi, dove i percorsi percorsi in senso inverso vengono contati come diversi.
-
-[[Quesiti/src_jmo16yq_yosen#q10|src_jmo16yq_yosen__Q10]]
 
 
 
@@ -334,7 +321,6 @@ level: JMO Yosen
 > Per i numeri reali $x, y$ con $0 \le x, y \le 1$, definire $$f(x, y) = xy\sqrt{1 - x^2} - x^2 y\sqrt{1 - y^2}.$$ Trovare la costante minima $c$ tale che: per ogni intero $n \ge 2$ e per ogni numero reale $0 \le a_1 < a_2 < \cdots < a_n \le 1$, $$f(a_1, a_2) + f(a_2, a_3) + \cdots + f(a_{n-1}, a_n) < c.$$
 
 **Risposta:** $\dfrac{1}{3\sqrt{3}}$
-[[Quesiti/src_jmo16yq_yosen#q11|src_jmo16yq_yosen__Q11]]
 
 
 
@@ -360,5 +346,3 @@ level: JMO Yosen
 *Contare 20 volte dei numeri interi positivi che soddisfano le condizioni di disuguaglianza dei prodotti*
 
 > $(p_1, p_2, \ldots, p_{10}, q_1, q_2, \ldots, q_{10})$ sia un $20$-topo di integri positivi con $p_1 = q_{10} = 1$, e per ogni $i = 1, 2, \ldots, 9$, la condizione $p_i q_i - p_{i+1} q_{i+1} \ge 1$ è valida. Quanti sono tali "$20$-tupli"?
-
-[[Quesiti/src_jmo16yq_yosen#q12|src_jmo16yq_yosen__Q12]]

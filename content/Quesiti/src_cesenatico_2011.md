@@ -37,8 +37,7 @@ level: nazionale
 
 > A trapezoid is given with long bases 1 and 4, respectively. We divide it into two trapezoids by a cut parallel to the bases, length 3. We now want to divide the two new trapezoids, always by cutting parallel to the bases, into m and n trapezoids, respectively, so that all the m + n trapezoids obtained have the same area. Determine the minimum possible value for m + n and the lengths of the cuts to be made to achieve this minimum value.
 
-**Answer:** 15 (tagli lunghi sqrt2..sqrt15)
-[[Quesiti/src_cesenatico_2011#q01|src_cesenatico_2011__Q01]]
+**Answer:** 15 (cuts of length sqrt2..sqrt15)
 
 
 
@@ -71,8 +70,6 @@ level: nazionale
 *Existence of two scales with MCD terms =1 and >1*
 
 > A sequence of positive integers a1, a2, . . . , an is called a length scale n if it consists of n consecutive numbers, in ascending order. (a) Demonstrate that for each positive integer n there are two length scales n, with no elements in common, a1, a2, . . . , an e b1, b2, . . . , bn, such that for each i between 1 and n the maximum common divisor between a and b is equal to 1. (b) Demonstrate that for every positive integer n there are two length scales n, with no elements in common, a1, a2, . . . , an e b1, b2, . . . , bn, such that for each i between 1 and n the maximum common divisor between a and b is greater than 1.
-
-[[Quesiti/src_cesenatico_2011#q02|src_cesenatico_2011__Q02]]
 
 
 
@@ -111,8 +108,6 @@ level: nazionale
 > 
 > • delete a 4 and a 5, and write the numbers 1, 2, 3, 6 and 7 instead; • delete a 1, 2, 3, 4, 5, 6 and 7 without writing anything in their place. Demonstrate that, if you can find a sequence of moves that, starting from the initial situation, leads to having a single number (written only once) on the board, then this number does not depend on the sequence of moves used.
 
-[[Quesiti/src_cesenatico_2011#q03|src_cesenatico_2011__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
@@ -145,8 +140,6 @@ level: nazionale
 
 > Let ABCD be a convex quadrilateral. Both P the intersection of the outer blades of $\widehat{DAC}$ and $\widehat{DBC}$. Show that $\widehat{APD}$ = $\widehat{BPC}$ if and only if AD + AC = BC + BD. [Note: Please note that the outer edge of an angle is the straight line passing through the top of the angle and perpendicular to the inner edge (i.e. the usual edge) of the angle itself.]
 
-[[Quesiti/src_cesenatico_2011#q04|src_cesenatico_2011__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_manipolazione_algebrica"></span>
@@ -176,7 +169,6 @@ level: nazionale
 > Determine all solutions (p, n) of the equation n3 = p2 −p −1 where p is a prime number and n is an integer.
 
 **Answer:** (2,1) e (37,11)
-[[Quesiti/src_cesenatico_2011#q05|src_cesenatico_2011__Q05]]
 
 
 
@@ -206,5 +198,3 @@ level: nazionale
 *4 colours are enough, 3 no*
 
 > If X is equal to {1, 2, 3, 4, 5, 6, 7, 8}. We want to colour, using k colors, all the subset of 3 elements of X so that, however you choose two disjoint elements, they have distinct colors. Demonstrate that: (a) 4 colours are sufficient; (b) 3 colours are not sufficient.
-
-[[Quesiti/src_cesenatico_2011#q06|src_cesenatico_2011__Q06]]

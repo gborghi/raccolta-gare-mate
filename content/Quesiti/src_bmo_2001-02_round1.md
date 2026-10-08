@@ -34,8 +34,6 @@ level: BMO Round 1
 
 > Trova tutti gli integri positivi $m$, $n$, dove $n$ è odd, che soddisfano $$\frac{1}{m} + \frac{1}{n} = \frac{4}{2001}.$$
 
-[[Quesiti/src_bmo_2001-02_round1#q01|src_bmo_2001-02_round1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -61,8 +59,6 @@ level: BMO Round 1
 *Quadrilaterale ciclico, lunghezze uguali CD=CP=DQ; prova angolo CAD=40°*
 
 > Il quadrilaterale $ABCD$ è inserito in un cerchio. Le diagonali $AC$, $BD$ si incontrano a $P$. I lati $DA$, estesi oltre $A$, e $CB$, estesi oltre $B$, si incontrano a $Q$. Dato che $CD = CP = DQ$, dimostrare che $\angle CAD = 40^\circ$.
-
-[[Quesiti/src_bmo_2001-02_round1#q02|src_bmo_2001-02_round1__Q02]]
 
 
 
@@ -91,8 +87,6 @@ level: BMO Round 1
 
 > Trovare tutti gli integri positivi $n$ in modo tale che $$n = \left\lfloor \frac{n}{1} \right\rfloor + \left\lfloor \frac{n}{2} \right\rfloor + \left\lfloor \frac{n}{3} \right\rfloor$$ dove $\lfloor x \rfloor$ denota la parte integrale di $x$ (il numero intero più grande inferiore o uguale al numero reale $x$).
 
-[[Quesiti/src_bmo_2001-02_round1#q03|src_bmo_2001-02_round1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,method_casework,method_ricorsione,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
@@ -118,8 +112,6 @@ level: BMO Round 1
 *Conteggiate le modalità di stretta di mano simultanea per 12 persone al tavolo circolare*
 
 > Dodici persone sono sedute attorno a un tavolo circolare. In quanti modi sei coppie di persone possono stringersi la mano contemporaneamente, in modo che non ci siano due coppie di persone che stringeranno la mano sedute vicine l'una all'altra al tavolo? (A nessuno è permesso stringersi la mano di più di una persona contemporaneamente.)
-
-[[Quesiti/src_bmo_2001-02_round1#q04|src_bmo_2001-02_round1__Q04]]
 
 
 
@@ -148,5 +140,3 @@ level: BMO Round 1
 *Ricerca tutti i valori di f(2001) per aumentare la funzione che soddisfa l'equazione funzionale*
 
 > $f$ è una funzione da $\mathbb{Z}^+$ a $\mathbb{Z}^+$, dove $\mathbb{Z}^+$ è l'insieme di integri non negativi, che soddisfa a) $f(n+1) > f(n)$ per ogni $n \in \mathbb{Z}^+$; b) $f(n + f(m)) = f(n) + m + 1$ per tutti $m, n \in \mathbb{Z}^+$. Trova tutti i valori possibili di $f(2001)$.
-
-[[Quesiti/src_bmo_2001-02_round1#q05|src_bmo_2001-02_round1__Q05]]

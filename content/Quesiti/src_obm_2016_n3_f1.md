@@ -39,7 +39,6 @@ level: OBM Nível 3
 ![[src_obm_2016_n3_f1__q01.png]]
 
 **Risposta:** E
-[[Quesiti/src_obm_2016_n3_f1#q01|src_obm_2016_n3_f1__Q01]]
 
 
 
@@ -67,7 +66,6 @@ level: OBM Nível 3
 > Josias sta in fila. Lasciate che la sua posizione sia $x$, così $x-1$ persone sono arrivate prima di lui e le persone che sono arrivate dopo di lui numero $2016-x$. Esse soddisfano $x-1=\frac{2016-x}{4}$, equivalentemente $4(x-1)=2016-x$. Qual è la posizione di Josias $x$ nella riga? [Valore della chiave di risposta: $x=404$.]
 
 **Risposta:** A
-[[Quesiti/src_obm_2016_n3_f1#q02|src_obm_2016_n3_f1__Q02]]
 
 
 
@@ -96,7 +94,6 @@ level: OBM Nível 3
 > $x$ e $y$ siano le dimensioni interi di un rettangolo il cui perimetro è $58$, quindi $x+y=29$. Le possibili coppie sono $(1,28),(2,27),(3,26),\dots,(14,15)$. Esattamente una di queste coppie ha il prodotto $x\cdot y$ pari a un quadrato perfetto, vale a dire $4\cdot 25=100$. Trova il lato $n$ di un quadrato con la stessa area di quel rettangolo, ovvero $n=\sqrt{4\cdot 25}=\sqrt{100}=10$. [Valore della chiave di risposta: $n=10$.]
 
 **Risposta:** C
-[[Quesiti/src_obm_2016_n3_f1#q03|src_obm_2016_n3_f1__Q03]]
 
 
 
@@ -125,7 +122,6 @@ Se una piramide sopra un normale 2016-gon può avere 1008 facce laterali congrue
 > Lasciate che $A_1A_2\dots A_{2016}$ sia un poligono regolare che forma la base di una piramide, e lasciate che l'apice sia sulla linea perpendicolare alla base attraverso la diagonale $A_1A_{1009}$, così posizionata che la proiezione ortogonale dell'apice sul piano base sia distinta dal centro del poligono. La piramide ha facce laterali congruenti o non triangolari $2016$; si chiede se sia possibile scegliere facce laterali $1008$ congruenti in coppia e non condividendo un bordo comune in coppia. La soluzione dimostra che ci sono al massimo $1008$ classi di facce congruenti, e secondo il principio del buco di piccione la configurazione che costringe la proiezione dell'apice ad essere il circoncentro è assurda, poiché la piramide non è regolare. È possibile una tale scelta di facce laterali congruenti $1008$? [La chiave di risposta indica la conclusione (opzione B).]
 
 **Risposta:** B
-[[Quesiti/src_obm_2016_n3_f1#q04|src_obm_2016_n3_f1__Q04]]
 
 
 
@@ -154,7 +150,6 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 > Ci sono gente che sta in fila, ognuna di loro fa una dichiarazione. La prima persona dice la verità; la seconda mente; l'analisi mostra che le affermazioni si alternano vero/falso lungo la linea, con $2016$ persone in totale. I veritieri e i bugiardi si alternano. Quante persone mentono? La soluzione conclude che ci sono mentitori $2016/2=1008$. [Valore della chiave di risposta: $1008$.]
 
 **Risposta:** C
-[[Quesiti/src_obm_2016_n3_f1#q05|src_obm_2016_n3_f1__Q05]]
 
 
 
@@ -183,7 +178,6 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 > Janaina ha un elenco di numeri $10$; lasciamo $x$ e $y$ essere, rispettivamente, quanti sono pari e quanti sono pari, quindi $x+y=10$. Il numero di coppie non ordinate con parità uguale è $\frac{x(x-1)}{2}+\frac{y(y-1)}{2}$ e il numero di coppie la cui somma è pari è impostato uguale a $4xy$, dando $\frac{x(x-1)}{2}+\frac{y(y-1)}{2}=4xy\;(\ast)$ (il lato sinistro conta coppie di parità uguale e il lato destro conta coppie dando una somma pari, entrambe aventi la stessa parità). Substituendo $y=10-x$ si ottiene nell'analisi l'equazione $x^2-x+9=0$, le cui soluzioni pertinenti sono $x=1$ o $x=9$; poiché $(x,y)=(9,1)$ soddisfa la condizione $(\ast)$, si cerca il valore massimo di $x+9$. [Il valore della chiave di risposta corrisponde all'opzione E.]
 
 **Risposta:** E
-[[Quesiti/src_obm_2016_n3_f1#q06|src_obm_2016_n3_f1__Q06]]
 
 
 
@@ -211,7 +205,6 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 > Un costo totale di $6000$ reais deve essere ripartito in modo uguale tra i partecipanti, ognuno pagando $\frac{6000}{x}$ reais. Poi le persone $3$ abbandonano e il resto di ciascuna retribuzione $100$ è maggiore, cioè $\frac{6000}{x-3}$ reais. Quindi $\frac{6000}{x}+100=\frac{6000}{x-3}$, che si semplifica a $60x(x-3)=60\cdot 6000$ dando $x^2-3x-180=0$. Trova il numero originale $x$ di persone. [Il valore della chiave di risposta corrisponde all'opzione B.]
 
 **Risposta:** B
-[[Quesiti/src_obm_2016_n3_f1#q07|src_obm_2016_n3_f1__Q07]]
 
 
 
@@ -240,7 +233,6 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 > L'angolo interno di un poligono regolare con lati $n$ è $\frac{180^\circ(n-2)}{n}$. Nella configurazione uno ha $\angle ABL=90^\circ$, $\angle ABI=108^\circ$ e $\angle ABC=135^\circ$ (angoli di un quadrato, un pentagono regolare e un ottagono regolare), quindi $\angle CBI=27^\circ$ e $\angle LBC=360^\circ-90^\circ-135^\circ=135^\circ$. Poiché $LB=BC=BI$, i triangoli $LBC$ e $CBI$ sono uguali a base $LC$ e $CI$, dando $x=\angle LCB+\angle BCI=\frac{180^\circ-135^\circ}{2}+\frac{180^\circ-27^\circ}{2}=99^\circ$. Trova $x$. [Valore della chiave di risposta: $x=99^\circ$.]
 
 **Risposta:** D
-[[Quesiti/src_obm_2016_n3_f1#q08|src_obm_2016_n3_f1__Q08]]
 
 
 
@@ -269,7 +261,6 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 > Considerate le stringhe di perle di due colori B e P, con una relazione di equivalenza tra le stringhe. La stringa $BBBPBPPP$ ha otto perle e nessuna sequenza equivalente. Il problema analizza le stringhe di perle $9$: per casi (esistono o meno tre perle consecutive dello stesso colore), viene dimostrato che qualsiasi sequenza di perle $9$ ha esattamente due sequenze equivalenti, l'unica sequenza che ammette un'estensione mantenendo un singolo equivalente è $BBBPBPPP$. Determinare il numero pertinente per le sequenze di perle $9$. [Il valore della chiave di risposta corrisponde all'opzione D.]
 
 **Risposta:** D
-[[Quesiti/src_obm_2016_n3_f1#q09|src_obm_2016_n3_f1__Q09]]
 
 
 
@@ -302,7 +293,6 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 ![[src_obm_2016_n3_f1__q10.png]]
 
 **Risposta:** A
-[[Quesiti/src_obm_2016_n3_f1#q10|src_obm_2016_n3_f1__Q10]]
 
 
 
@@ -335,7 +325,6 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 ![[src_obm_2016_n3_f1__q11.png]]
 
 **Risposta:** E
-[[Quesiti/src_obm_2016_n3_f1#q11|src_obm_2016_n3_f1__Q11]]
 
 
 
@@ -364,7 +353,6 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 > Riscrivere l'equazione data come $\lfloor x\rfloor=\frac{\lfloor x\rfloor-38}{2016}$ (la fonte scrive $\{x\}=\frac{\lfloor x\rfloor-38}{2016}$). Dato che $0\le\{x\}<1$, abbiamo bisogno di $0\le\frac{\lfloor x\rfloor-38}{2016}<1$, cioè $38\le\lfloor x\rfloor\le 2054$, so $1<\lfloor x\rfloor\le\dots\le 2054$. Poiché $\lfloor x\rfloor$ è un numero intero che va oltre $38,\dots,2053$, un totale di valori $2016$, e per ogni valore c'è esattamente un $x$; quindi ci sono $2016$ soluzioni. Quante soluzioni ha l'equazione? [Valore della chiave di risposta: $2016$.]
 
 **Risposta:** D
-[[Quesiti/src_obm_2016_n3_f1#q12|src_obm_2016_n3_f1__Q12]]
 
 
 
@@ -393,7 +381,6 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 > Si sceglie, il primo giorno, due delle persone $n$ in $\binom{n}{2}$ modi; nei giorni successivi le persone $n-2$ rimanenti possono essere scelte in $(n-2)$ modi ciascuno (soggetto alle restrizioni imposte), e il numero finale di modi per formare i comitati è $(n-2)(n-3)$ (come indicato nella soluzione). Determinare il numero di modi di scegliere i comitati. [Il valore della chiave di risposta corrisponde all'opzione A.]
 
 **Risposta:** A
-[[Quesiti/src_obm_2016_n3_f1#q13|src_obm_2016_n3_f1__Q13]]
 
 
 
@@ -422,7 +409,6 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 > Tutte le lettere digitali non sono nulo. L'annullamento di termini ripetuti dà $Z=S^3\times I^2$. Poiché $Z$ è una cifra singola, $I^2=4$ o $I^2=9$; il secondo caso è impossibile (forzerebbe $5\cdot I=1$), quindi le uniche possibilità sono $(S,I)=(1,2),(1,3)$ o $(2,1)$. Se $E$ è diverso da $I$ e $S$, ci sono opzioni $7$ per $E$ in ogni caso. Costruendo una tabella di possibili prodotti $P=S\times E\times I\times Z$ e escludendo le combinazioni che danno $Z$ uguale a una lettera già scelta, i valori possibili distinti di $P$ sono $6,10,12,14,15,16,18,20,21,24,28$ e $36$, cioè $12$ valori distinti. Quanti valori distinti può contenere $P$? [Valore della chiave di risposta: $12$.]
 
 **Risposta:** A
-[[Quesiti/src_obm_2016_n3_f1#q14|src_obm_2016_n3_f1__Q14]]
 
 
 
@@ -451,7 +437,6 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 > $p_1=\frac{2}{6}=\frac13$ sia la probabilità di ottenere un risultato uguale a $5$ o $6$ con un dado. Per due dadi (risultati $6^2=36$), i risultati favorevoli sono somme uguali a $10,11,12$: $2+1+2+1=6$ favorevoli, quindi $p_2=\frac{6}{36}=\frac16$. Per tre dadi (risultati $6^3=216$), il conteggio delle somme $15,16,17,18$ dà $20$ risultati favorevoli, quindi $p_3=\frac{20}{216}=\frac{5}{54}$. Di conseguenza $p_3<p_2<p_1$. Ordini $p_1$, $p_2$, $p_3$. [Valore della chiave di risposta: $p_3<p_2<p_1$.]
 
 **Risposta:** E
-[[Quesiti/src_obm_2016_n3_f1#q15|src_obm_2016_n3_f1__Q15]]
 
 
 
@@ -484,7 +469,6 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 ![[src_obm_2016_n3_f1__q16.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2016_n3_f1#q16|src_obm_2016_n3_f1__Q16]]
 
 
 
@@ -513,7 +497,6 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 > Il sistema può essere riscritto come $abc=b^2+c^2=c^2+a^2=a^2+b^2$, con $a,b,c$ non-zero. Questo forza $a^2=b^2=c^2$. Supponendo $a=b=c$ si ottiene $a=b=c=2$, la soluzione $(2,2,2)$. Se $a=b=-c$, allora $a=b=-c=2$, dando $(2,2,-2)$; permutando questo triplo, si ottiene anche $(-2,2,-2)$ e $(2,-2,-2)$, per un totale di soluzioni $4$. Quante soluzioni ha il sistema? [Valore della chiave di risposta: $4$.]
 
 **Risposta:** D
-[[Quesiti/src_obm_2016_n3_f1#q17|src_obm_2016_n3_f1__Q17]]
 
 
 
@@ -542,7 +525,6 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 > Si noti che ogni mese ha $4$ o $5$ sabati e che $365=7\cdot 52+1$. In un anno bisesuale sono $52$ settimane complete e $1$ giorno extra, mentre in un anno bisesuale sono $52$ settimane e $2$ giorni extra. Se si considera che $x$ sia il numero di anni biscotti, l'analisi utilizza $5x+4(12-x)=52\Rightarrow x=8$ e $5x+4(12-x)=53\Rightarrow x=5$. Il 1° gennaio è stato un sabato in $2016$ (aspettate: la tabella inizia con la setta per il 2016); la tabella della giornata di lavoro del 1° gennaio dice: 2016 setta, 2017 domingo, 2018 segunda, 2019 terca, 2020 quarta, 2021 setta, 2022 sabato. L'anno successivo in cui la data è nuovamente sabato è $2022$. In quale anno il prossimo è di nuovo sabato? [Valore della chiave di risposta: $2022$.]
 
 **Risposta:** E
-[[Quesiti/src_obm_2016_n3_f1#q18|src_obm_2016_n3_f1__Q18]]
 
 
 
@@ -571,7 +553,6 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 > L'insieme $\{1,2,3,5,29,869\}$ ha la proprietà descritta nella dichiarazione (ha elementi $6$). Una prova che $X$ contiene al massimo $7$ elementi. Supponiamo con contraddizione $X=\{a_1,a_2,a_3,a_4,a_5,a_6,a_7\}$ con $a_1<a_2<\dots$. Uno mostra $\gcd(a_i,a_j)=1$ per $i\neq j$: se un primo $p\mid a_i$ e $p\mid a_j$ con $i<j$ allora $a_i\mid a_j+1$ forza $p\nmid a_j$, una contraddizione. Quindi $a_2$ è un multiple del prodotto $a_3a_4a_5a_6a_7\geq 1\cdot 2\cdot 3\cdot 5\cdot 7\cdot 11=2310$, quindi $a_2\geq 2309$, assurdo dal momento che $a_2\leq 2016$. Trova il numero massimo di elementi di tale insieme. [Il valore della chiave di risposta corrisponde all'opzione D.]
 
 **Risposta:** D
-[[Quesiti/src_obm_2016_n3_f1#q19|src_obm_2016_n3_f1__Q19]]
 
 
 
@@ -600,7 +581,6 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 > Considerare un numero fino a quattro cifre $\overline{abcd}$ e nota $\overline{abcd}-(a+b+c+d)=999a+99b+9c$. Se $a\geq 1$ il risultato è almeno $1000$, e qualsiasi numero con $5$ o più cifre dà una differenza almeno $1000$. Quindi un numero di "sagaz" deve soddisfare $a=0$, dando $10$ opzioni per $b$ ecc.; l'analisi mostra che il termine più piccolo è $b=c=0$ con il prodotto inferiore a $1000$, e contando attentamente ci sono $99+1=100$ numeri di sagaz inferiori a $1000$. Quanti numeri di sagaz ci sono? [Valore della chiave di risposta: $100$.]
 
 **Risposta:** B
-[[Quesiti/src_obm_2016_n3_f1#q20|src_obm_2016_n3_f1__Q20]]
 
 
 
@@ -629,7 +609,6 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 > Esistono pile di pietre contenenti $1,2,3,\dots,9$ e $11$ pietre (nessuna pila di $10$), con totale $1+2+3+\dots+9+11=56$. Per che tutte le pile abbiano la stessa quantità $k$, $k$ deve essere un divisore di $56$. Analizzando i divisori, le possibilità sono $14,28$ o $56$ pietre per pile. Ogni fusione di pile è un'operazione; per creare pile di $28$ occorrono più operazioni, e per ottenere pile $4$ di $14$ occorrono operazioni $6$, realizzate esplicitamente come $(11+3),(9+5),(8+6),(7+4+2+1)$. Qual è il numero minimo di operazioni? [Il valore della chiave di risposta corrisponde all'opzione D.]
 
 **Risposta:** D
-[[Quesiti/src_obm_2016_n3_f1#q21|src_obm_2016_n3_f1__Q21]]
 
 
 
@@ -662,7 +641,6 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 ![[src_obm_2016_n3_f1__q22.png]]
 
 **Risposta:** A
-[[Quesiti/src_obm_2016_n3_f1#q22|src_obm_2016_n3_f1__Q22]]
 
 
 
@@ -691,7 +669,6 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 > Considera la funzione $f$ in modo tale che se $n=p_1^{a_1}\cdots p_k^{a_k}$ è la fattorizzazione primaria di $n$, allora $f(n)=a_1+\dots+a_k$, con la convenzione utilizzata nella prova. La funzione soddisfa: per $m>n$ con $m$ un multiple di $n$, $f(m)>f(n)$. Per induzione, se $\frac{n}{p}$ ha $t$ fattori primari $f(\frac{n}{p})\geq t$ e $f(n)>f(\frac{n}{p})\geq t$, quindi $f(n)\geq t+1$. Con questo calcolo $f(2016)=f(2^5\cdot 3^2\cdot 7)=5+2+1+1=9$. Determinare il valore richiesto (es. $f(2016)$ o il limite correlato). [Valore della chiave di risposta: $9$.]
 
 **Risposta:** C
-[[Quesiti/src_obm_2016_n3_f1#q23|src_obm_2016_n3_f1__Q23]]
 
 
 
@@ -720,7 +697,6 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 > Considerare $2016$ integri positivi con $n=p_1^{a_1}\cdots p_k^{a_k}$ (il quadro di fattorizzazione). Una costruzione con i numeri $2006$ uguali a $1$ e dieci numeri uguali a $2$ dà la somma $2006+10\cdot 2=2026$ e il prodotto $2^{10}=1024$, quindi la somma supera il prodotto. Si prova che ci devono essere almeno $2006$ numeri uguali a $1$: ordinando $x_1\le x_2\le\dots\le x_{2016}$, se meno di $2006$ erano uguali a $1$ si ottiene $k+(2016-k)x_{2016}\ge 2^{2016-k}x_{2016}$, portando a $2^{2015-k}+k-2016>0$ e poi $2^{2016-k}+k\le 4032$; per $k\le 2004$, $2^{2016-k}\ge 2^{12}=4096$ è assurdo, e per $k=2005$, $2^{11}=2048$ dà anche una contraddizione ($4043\le 4032$ falso). Quindi ci sono almeno $2006$ numeri uguali a $1$. Determina la risposta. [Il valore della chiave di risposta corrisponde all'opzione C.]
 
 **Risposta:** C
-[[Quesiti/src_obm_2016_n3_f1#q24|src_obm_2016_n3_f1__Q24]]
 
 
 
@@ -753,4 +729,3 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 ![[src_obm_2016_n3_f1__q25.png]]
 
 **Risposta:** E
-[[Quesiti/src_obm_2016_n3_f1#q25|src_obm_2016_n3_f1__Q25]]

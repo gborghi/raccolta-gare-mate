@@ -34,7 +34,6 @@ level: kangourou
 > An airline allows baggage to be carried without overpayment provided that the weight does not exceed a certain threshold; in case of excess weight, an additional amount must be paid for each kilogram (or fraction of kilogram) above the threshold. The baggage of Anna and Marco weighs the same: they total $60$ kg and, in total, they both had to pay $11$ extra euros. Enrico also has luggage: he weighs $60$ kilos and he had to pay $33$ extra euros. How many kilograms is the threshold beyond which the overpayment must be made?
 
 **Answer:** 24
-[[Quesiti/src_kangourou_2017_cadet_finale#qc1|src_kangourou_2017_cadet_finale__QC1]]
 
 
 
@@ -62,7 +61,6 @@ It's okay to choose 9 or 10 in the dice game.
 > A friend invites you to play dice like this. You and he repeatedly throw two identical fair dice, with the faces numbered, as usual, from $1$ to $6$, and calculate the sum of the points. If the sum is $9$ one of you wins, if the sum is $10$ the other wins, if the sum is different from $9$ and $10$ neither wins. He lets you choose between $9$ and $10$ the sum that makes you win, keeping to himself that of the two you didn't. Which one is best for you, and why?
 
 **Answer:** 9
-[[Quesiti/src_kangourou_2017_cadet_finale#qc2|src_kangourou_2017_cadet_finale__QC2]]
 
 
 
@@ -91,7 +89,6 @@ Best friends with different-tasting candy bars
 > Lucilla has several candies: $6$ mint, $7$ lemon, $8$ orange and $12$ strawberry. She wants to give 3 to each of some of her friends, but each friend asks to have candies all of different tastes. Considering the friends' wishes, how many friends can she satisfy, at most?
 
 **Answer:** 10
-[[Quesiti/src_kangourou_2017_cadet_finale#qc3|src_kangourou_2017_cadet_finale__QC3]]
 
 
 
@@ -119,7 +116,6 @@ Best friends with different-tasting candy bars
 > A line aircraft shall fly daily from an airport $A$ to an airport $B$ and return from $B$ to $A$ along the same straight route, always keeping the engines at maximum power. Yesterday there was no wind at all, but today there was a steady wind from $A$ to $B$ throughout the day. Overall, did both flights take the same amount of time today as yesterday? Less time? More time? Justify your answer as you see fit.
 
 **Answer:** more time
-[[Quesiti/src_kangourou_2017_cadet_finale#qc4|src_kangourou_2017_cadet_finale__QC4]]
 
 
 
@@ -148,7 +144,6 @@ Best friends with different-tasting candy bars
 > Are there sequences of (at least two) consecutive positive integers such that the sum of the digits of each sequence number is divisible by $7$? If yes, how many numbers can there be at most in one of these sequences?
 
 **Answer:** Yes, at most two
-[[Quesiti/src_kangourou_2017_cadet_finale#qc5|src_kangourou_2017_cadet_finale__QC5]]
 
 
 
@@ -182,4 +177,3 @@ Best friends with different-tasting candy bars
 > A $\{a, b\}$ pair of $S$ points is said to be **diametral** if, however, two $S$ points are chosen, their distance does not exceed the distance between $a$ and $b$. Establish whether it is true (by reasoning the answer) that: - each diametral pair of $S$ must necessarily be on the circumference that delimits $C$; - there are always circles containing $S$, but not $C$.
 
 **Answer:** No. Yes.
-[[Quesiti/src_kangourou_2017_cadet_finale#qc6|src_kangourou_2017_cadet_finale__QC6]]

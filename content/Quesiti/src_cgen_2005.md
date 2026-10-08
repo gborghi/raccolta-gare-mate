@@ -131,8 +131,6 @@ level: Concours Général
 > 
 > **3.** Disegna, poi cerca di essere estremamente preciso, l'insieme dei punti $M$ in modo tale che il triangolo $M_2M_3M_4$ definito nella parte 2 abbia un cerchio circonscritto di raggio $1$.
 
-[[Quesiti/src_cgen_2005#q01|src_cgen_2005__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_insiemi_funzioni,topic_algebra,method_casework,skill_astrazione,skill_lettura_attenta"></span>
@@ -168,8 +166,6 @@ level: Concours Général
 > 
 > **2.** Date un esempio di una funzione $f$ che verifica le ipotesi; possiamo accontentarci di una rappresentazione grafica chiara.
 
-[[Quesiti/src_cgen_2005#q02|src_cgen_2005__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_ricorsione,method_estremalita,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -204,8 +200,6 @@ level: Concours Général
 > **1.** Indichiamo con $A_1$ il centro del cerchio inscritto nel triangolo $A_0BC$ (cioè il punto di intersezione dei bisettori interni del triangolo $A_0BC$). Proseguiamo il processo considerando $A_2$, il centro del cerchio inscritto nel triangolo $A_1BC$, ecc. Pertanto, per ogni intero naturale $i$, $A_{i+1}$ è il centro del cerchio iscritto nel triangolo $A_iBC$. Mostrare che esiste un punto $A$, limite della sequenza $(A_n)$, cioè che $AA_n$ tende verso $0$ quando $n$ tende verso la sua posizione.
 > 
 > **2.** Che cosa succede al risultato precedente se, ad ogni passo, per $i=0,1,2,\ldots$, prendiamo $A_{i+1}$ per essere l'ortocentro del triangolo $A_iBC$ invece del centro del cerchio inciso?
-
-[[Quesiti/src_cgen_2005#q03|src_cgen_2005__Q03]]
 
 
 
@@ -330,5 +324,3 @@ level: Concours Général
 > **4. ** Lasciate $A\in[1;p-1]$. **a.** Indicare che l'insieme $\{g^s A \bmod p\}$ per $s\in[0;p-2]$ è $[1;p-1]$. **b.** Supponiamo conosciuto $s\in N$ in modo tale che $(g^s A \bmod p)$ factorizza con l'aiuto di $p_1,\ldots,p_n$ in modo unico. Supponiamo conosciuto $\ell(p_1),\ldots,\ell(p_n)$, dedurre $\ell(A)$. **c.** Con $p=53$ e $g=20$, determinare $\ell(30)$.
 > 
 > Ritorniamo al caso generale. **a.** Qual è il numero di integri di $[1;p-1]$ che sono una potenza di $p_1$? **b.** Ridurre la probabilità che un intero $s\in[0;p-2]$ sia tale che $(g^s A \bmod p)$ sia una potenza di $p_1$. **c.** Mostra che la probabilità $P$ per un intero $s\in[0;p-2]$ è tale che $(g^s A \bmod p)$ fattorizza con l'aiuto di $p_1$ e $p_2$ verifica in modo unico: $$\frac{(\ln(p-1))^2}{2(p-1)\big(\ln p_1\big)\big(\ln p_2\big)}\leq P\leq\frac{1}{p-1}\left(\frac{\ln(p-1)}{\ln p_1}+1\right)\left(\frac{\ln(p-1)}{\ln p_2}+1\right).$$ **.** Generalizza il risultato al caso di $n$ numeri primi $p_1,\ldots,p_n$.
-
-[[Quesiti/src_cgen_2005#q04|src_cgen_2005__Q04]]

@@ -41,7 +41,6 @@ level: kangourou
 > Anno doesn't believe him. If you think Amedeo is right, point to one of the dice he may have built; if you think it's good for Anno not to believe him, explain why.
 
 **Answer:** Anna is right
-[[Quesiti/src_kangourou_2015_finale_benjamin#qb1|src_kangourou_2015_finale_benjamin__QB1]]
 
 
 
@@ -69,7 +68,6 @@ level: kangourou
 > Sandro and Paolo play the following game: there are $8$ tokens on the table; you play in turns and, when it's your turn, you can take $1$, $2$ or $3$ tokens; the last one who manages to take some tokens wins. Sandro wants to win at any cost. Should he play first or let Paolo start?
 
 **Answer:** second (Paolo starts)
-[[Quesiti/src_kangourou_2015_finale_benjamin#qb2|src_kangourou_2015_finale_benjamin__QB2]]
 
 
 
@@ -101,7 +99,6 @@ level: kangourou
 > Kang is a station on a single track line. In the figure you can see the pattern of Kang's tracks, each of which is indicated in length: the running track is the upper one, while the lower track starts and ends with two dead-end sidings. All trains running on the line are made up of a locomotive, which is at the head, and some carriages: the length of each locomotive and carriage is $19$ meters. What are the least restrictive conditions to be imposed on the composition of two trains in order to cross at Kang? Please note that all types of maneuvering (especially trains can turn backwards) and signalling compatible with the station layout are permitted, including the breaking of trains into carriage groups. (see figure)
 
 **Answer:** max 13 carriages
-[[Quesiti/src_kangourou_2015_finale_benjamin#qb3|src_kangourou_2015_finale_benjamin__QB3]]
 
 
 
@@ -132,8 +129,7 @@ level: kangourou
 
 > The figure shows two equal squares that have exactly one vertex in common. Is it possible to determine the measure of angle $ABC$? (see figure)
 
-**Answer:** 45 gradi
-[[Quesiti/src_kangourou_2015_finale_benjamin#qb4|src_kangourou_2015_finale_benjamin__QB4]]
+**Answer:** 45 degrees
 
 
 
@@ -162,7 +158,6 @@ level: kangourou
 > $51$ crows are lined up on a suspended electric wire. When (and only when) one of them caws, its right-hand neighbor and its left-hand neighbor (or only one of the two, in the case where the crow is at one of the two ends) take flight and after exactly one minute return to the place where they were and caw in turn. The first crow in the row starts cawing. After exactly one hour from this first caw, how many times will the last crow have cawed?
 
 **Answer:** 6
-[[Quesiti/src_kangourou_2015_finale_benjamin#qb5|src_kangourou_2015_finale_benjamin__QB5]]
 
 
 
@@ -195,4 +190,3 @@ level: kangourou
 > (Note: to obtain, for example, $4$ kang, the $1+1+2$ mode must be considered the same as the $1+2+1$ mode, but not the $2+2$ mode.)
 
 **Answer:** proof
-[[Quesiti/src_kangourou_2015_finale_benjamin#qb6|src_kangourou_2015_finale_benjamin__QB6]]

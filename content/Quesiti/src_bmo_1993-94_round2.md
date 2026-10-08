@@ -35,7 +35,6 @@ level: BMO Round 2
 > Trova il primo intero $n > 1$ in modo tale che la media di $1^2, 2^2, \ldots, n^2$ sia un quadrato perfetto.
 
 **Risposta:** 337
-[[Quesiti/src_bmo_1993-94_round2#q01|src_bmo_1993-94_round2__Q01]]
 
 
 
@@ -61,8 +60,6 @@ level: BMO Round 2
 *Contare i triangoli non congruenti con lati interi e perimetro 1994*
 
 > Quanti triangoli diversi (cioè non congruenti in coppia) ci sono con lati interi e con perimetro 1994?
-
-[[Quesiti/src_bmo_1993-94_round2#q02|src_bmo_1993-94_round2__Q02]]
 
 
 
@@ -92,8 +89,6 @@ level: BMO Round 2
 
 > $AP$, $AQ$, $AR$, $AS$ sono accordi di un circolo dato con la proprietà che $$\angle PAQ = \angle QAR = \angle RAS.$$ dimostra che $$AR(AP + AR) = AQ(AQ + AS).$$
 
-[[Quesiti/src_bmo_1993-94_round2#q03|src_bmo_1993-94_round2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_induzione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -118,5 +113,3 @@ level: BMO Round 2
 *Contare i quadrati perfetti modulo 2^n*
 
 > Quanti quadrati perfetti ci sono (mod $2^n$)?
-
-[[Quesiti/src_bmo_1993-94_round2#q04|src_bmo_1993-94_round2__Q04]]

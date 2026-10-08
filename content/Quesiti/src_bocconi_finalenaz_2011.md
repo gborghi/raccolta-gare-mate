@@ -39,7 +39,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 ![[src_bocconi_finalenaz_2011__q01.png]]
 
 **Answer:** 18
-[[Quesiti/src_bocconi_finalenaz_2011#q01|src_bocconi_finalenaz_2011__Q01]]
 
 
 
@@ -75,8 +74,7 @@ Four queens who don't threaten each other in the mini chessboard.
 
 ![[src_bocconi_finalenaz_2011__q02.png]]
 
-**Answer:** (vedi figura soluzione)
-[[Quesiti/src_bocconi_finalenaz_2011#q02|src_bocconi_finalenaz_2011__Q02]]
+**Answer:** (see the figure in the solution)
 
 
 
@@ -108,8 +106,7 @@ Four queens who don't threaten each other in the mini chessboard.
 
 ![[src_bocconi_finalenaz_2011__q03.png]]
 
-**Answer:** 1012+999 oppure 1092+919 oppure 1099+912 (ciascuna è una sola delle quattro soluzioni)
-[[Quesiti/src_bocconi_finalenaz_2011#q03|src_bocconi_finalenaz_2011__Q03]]
+**Answer:** 1012+999 or 1092+919 or 1099+912 (each is just one of the four solutions)
 
 
 
@@ -137,8 +134,7 @@ How many times does Jacob press the computer button?
 
 > Jacob's calculator has a strange key. When you squeeze it, the calculator shows the largest integer not exceeding half the previous number. For example, if this was 1000, it makes 500 appear; if the initial number was 333, pressing the button makes 156. Now the number on the calculator is 2011. How many times does Jacob have to push the button to get the number 9 on the computer screen?
 
-**Answer:** Jacob dovrà schiacciare il tasto 11 volte
-[[Quesiti/src_bocconi_finalenaz_2011#q04|src_bocconi_finalenaz_2011__Q04]]
+**Answer:** Jacob will have to press the key 11 times
 
 
 
@@ -170,8 +166,7 @@ How many times does Jacob press the computer button?
 
 ![[src_bocconi_finalenaz_2011__q05.png]]
 
-**Answer:** Non verranno utilizzati 20 cubetti
-[[Quesiti/src_bocconi_finalenaz_2011#q05|src_bocconi_finalenaz_2011__Q05]]
+**Answer:** 20 small cubes will not be used
 
 
 
@@ -203,8 +198,7 @@ How many times does Jacob press the computer button?
 
 ![[src_bocconi_finalenaz_2011__q06.png]]
 
-**Answer:** (vedi figura soluzione)
-[[Quesiti/src_bocconi_finalenaz_2011#q06|src_bocconi_finalenaz_2011__Q06]]
+**Answer:** (see the figure in the solution)
 
 
 
@@ -236,8 +230,7 @@ How many times does Jacob press the computer button?
 
 ![[src_bocconi_finalenaz_2011__q07.png]]
 
-**Answer:** Ci vorranno 10 mosse
-[[Quesiti/src_bocconi_finalenaz_2011#q07|src_bocconi_finalenaz_2011__Q07]]
+**Answer:** It will take 10 moves
 
 
 
@@ -269,8 +262,7 @@ How many times does Jacob press the computer button?
 > 
 > What were the two numbers Uncle picked?
 
-**Answer:** (vedi soluzioni)
-[[Quesiti/src_bocconi_finalenaz_2011#q08|src_bocconi_finalenaz_2011__Q08]]
+**Answer:** (see solutions)
 
 
 
@@ -302,8 +294,7 @@ How many times does Jacob press the computer button?
 > 
 > How many numbers did Deborah add?
 
-**Answer:** Debora ha addizionato 36 numeri
-[[Quesiti/src_bocconi_finalenaz_2011#q09|src_bocconi_finalenaz_2011__Q09]]
+**Answer:** Debora added 36 numbers
 
 
 
@@ -331,8 +322,7 @@ How many times does Jacob press the computer button?
 
 > Five cities are located on the same circular road and can be reached in one direction or another. Specifically, to go from one city to another in a clockwise or counterclockwise direction, you find each time different integers between them. Going from first to second, you walk 9 kilometers. From the third to the fourth, they travel 11 km clockwise and 7 km counterclockwise. Going from 5th to 4th clockwise, they travel 20 kilometers. How many miles are there to go clockwise from fifth city to first?
 
-**Answer:** Il numero richiesto è 44
-[[Quesiti/src_bocconi_finalenaz_2011#q10|src_bocconi_finalenaz_2011__Q10]]
+**Answer:** The required number is 44
 
 
 
@@ -360,8 +350,7 @@ How many times does Jacob press the computer button?
 
 > The sum of the first $n$ consecutive odd numbers starting with $1$ is $n^2$. A number of four digits all equal is of the type $\overline{aaaa}$. For what value of $n$ is a four-digit number all equal?
 
-**Answer:** Il numero richiesto è 41
-[[Quesiti/src_bocconi_finalenaz_2011#q11|src_bocconi_finalenaz_2011__Q11]]
+**Answer:** The required number is 41
 
 
 
@@ -389,8 +378,7 @@ How many times does Jacob press the computer button?
 
 > The two bases of a trapezoid measure, respectively, 1515 cm and 1213 cm. The angles adjacent to the main base are complementary (their sum is $90^\circ$). What is the distance between the middle points of the two bases?
 
-**Answer:** La distanza è 248 cm
-[[Quesiti/src_bocconi_finalenaz_2011#q12|src_bocconi_finalenaz_2011__Q12]]
+**Answer:** The distance is 248 cm
 
 
 
@@ -418,8 +406,7 @@ How many times does Jacob press the computer button?
 
 > Write in increasing order two positive integers, each of three digits, whose product is $222.222$.
 
-**Answer:** $231 \times 962$, $273 \times 814$, $286 \times 777$, $\ldots$ (i fattori non possono essere invertiti)
-[[Quesiti/src_bocconi_finalenaz_2011#q13|src_bocconi_finalenaz_2011__Q13]]
+**Answer:** $231 \times 962$, $273 \times 814$, $286 \times 777$, $\ldots$ (the factors cannot be swapped)
 
 
 
@@ -447,8 +434,7 @@ How many times does Jacob press the computer button?
 
 > Two years are compatible when they are consecutive and the sum of the digits of the first divides the second. For example, 2011 and 2012 are compatible because 4 (sum of figures for 2011) divides 2012. Also 2015 and 2016 are compatible because 8 divides 2016. What will be the next two compatible years?
 
-**Answer:** I due anni compatibili sono 2045 e 2046
-[[Quesiti/src_bocconi_finalenaz_2011#q14|src_bocconi_finalenaz_2011__Q14]]
+**Answer:** The two compatible years are 2045 and 2046
 
 
 
@@ -476,8 +462,7 @@ How many times does Jacob press the computer button?
 
 > In the $ABC$ triangle, the medians traced by $B$ and $C$ are equal, respectively. It also applies $AB^2 + AC^2 = 500$. Calculate the distance $BC$ in cm.
 
-**Answer:** La distanza $BC$ è 10 cm
-[[Quesiti/src_bocconi_finalenaz_2011#q15|src_bocconi_finalenaz_2011__Q15]]
+**Answer:** The distance $BC$ is 10 cm
 
 
 
@@ -513,8 +498,7 @@ Professor Renato's age from the Fibonacci sequence
 > 
 > How old is Professor Renato?
 
-**Answer:** Il prof. Renato ha 88 anni
-[[Quesiti/src_bocconi_finalenaz_2011#q16|src_bocconi_finalenaz_2011__Q16]]
+**Answer:** Prof. Renato is 88 years old
 
 
 
@@ -546,5 +530,4 @@ Professor Renato's age from the Fibonacci sequence
 
 ![[src_bocconi_finalenaz_2011__q17.png]]
 
-**Answer:** La barriera $AB$ è lunga $55+33\sqrt{2}$ oppure $-22+\sqrt{8107+5082\sqrt{2}}$ m
-[[Quesiti/src_bocconi_finalenaz_2011#q17|src_bocconi_finalenaz_2011__Q17]]
+**Answer:** The barrier $AB$ is $55+33\sqrt{2}$ or $-22+\sqrt{8107+5082\sqrt{2}}$ m

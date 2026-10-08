@@ -35,7 +35,6 @@ level: China Western Mathematical Olympiad
 > Supponiamo che $\alpha^{100} + \beta^{100}$ possa essere espresso come polinomio in $\alpha + \beta$ e $\alpha\beta$. Trova la somma dei coefficienti del polinomio.
 
 **Risposta:** 2
-[[Quesiti/src_cn_cwmo_2005#q01|src_cn_cwmo_2005__Q01]]
 
 
 
@@ -66,8 +65,6 @@ level: China Western Mathematical Olympiad
 
 ![[src_cn_cwmo_2005__q02.png]]
 
-[[Quesiti/src_cn_cwmo_2005#q02|src_cn_cwmo_2005__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -93,8 +90,6 @@ level: China Western Mathematical Olympiad
 
 > Let $S = \{1, 2, \cdots, 2005\}$. Se in qualsiasi sottoinsieme di $S$ esiste almeno un numero primo composto da $n$ numeri copriemi in coppia, si trova il valore minimo di $n$.
 
-[[Quesiti/src_cn_cwmo_2005#q03|src_cn_cwmo_2005__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_disuguaglianze,method_estremalita,method_induzione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
@@ -119,8 +114,6 @@ level: China Western Mathematical Olympiad
 *Esistenza di somma parziale con valore assoluto massimo 1*
 
 > Se viene dato che i numeri reali $x_1, x_2, \cdots, x_n$ ($n > 2$) soddisfano $\left|\sum_{i=1}^{n} x_i\right| > 1$, $|x_i| \le 1$ ($i = 1, 2, \cdots, n$). Prova che esiste un intero positivo $k$ tale che $\left|\sum_{i=1}^{k} x_i\right| \le 1$.
-
-[[Quesiti/src_cn_cwmo_2005#q04|src_cn_cwmo_2005__Q04]]
 
 
 
@@ -150,8 +143,6 @@ level: China Western Mathematical Olympiad
 > I cerchi $O_1$ e $O_2$ si incontrano ai punti $A$ e $B$. La linea $DC$ passa attraverso $O_1$, incontra il cerchio $O_1$ a $D$ ed è tangente al cerchio $O_2$ a $C$. Inoltre, $CA$ è una tangente del cerchio $O_1$ a $A$. Il segmento $AE$ del cerchio $O_2$ è perpendicolare a $DC$. $AF$ è perpendicolare a $DE$ e risponde a $F$. Provare che $BD$ divide il segmento di linea $AF$.
 
 ![[src_cn_cwmo_2005__q05.png]]
-
-[[Quesiti/src_cn_cwmo_2005#q05|src_cn_cwmo_2005__Q05]]
 
 
 
@@ -184,7 +175,6 @@ level: China Western Mathematical Olympiad
 ![[src_cn_cwmo_2005__q06.png]]
 
 **Risposta:** $\frac{\sqrt{2}}{2} + \frac{3\sqrt{2}}{4}$
-[[Quesiti/src_cn_cwmo_2005#q06|src_cn_cwmo_2005__Q06]]
 
 
 
@@ -210,8 +200,6 @@ level: China Western Mathematical Olympiad
 *Prove la disuguaglianza per a+b+c=1 che coinvolge potenze 3 e 5*
 
 > Se i numeri reali $a$, $b$, $c$ soddisfano $a + b + c = 1$, dimostrano che $$10(a^3 + b^3 + c^3) - 9(a^5 + b^5 + c^5) \ge 1.$$
-
-[[Quesiti/src_cn_cwmo_2005#q07|src_cn_cwmo_2005__Q07]]
 
 
 
@@ -240,4 +228,3 @@ level: China Western Mathematical Olympiad
 > Ci sono $n$ nuovi studenti. Supponiamo che ci siano due studenti che si conoscono in ogni tre studenti e ci sono due studenti che non si conoscono in ogni quattro studenti. Trova il valore massimo di $n$.
 
 **Risposta:** 8
-[[Quesiti/src_cn_cwmo_2005#q08|src_cn_cwmo_2005__Q08]]

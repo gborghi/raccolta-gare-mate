@@ -38,8 +38,7 @@ level: Giochi d'Autunno
 
 ![[src_bocconi_autunno_2015__q01.png]]
 
-**Answer:** 5, 9, 9, 12 (l'ordine non interessa)
-[[Quesiti/src_bocconi_autunno_2015#q01|src_bocconi_autunno_2015__Q01]]
+**Answer:** 5, 9, 9, 12 (order does not matter)
 
 
 
@@ -72,7 +71,6 @@ level: Giochi d'Autunno
 ![[src_bocconi_autunno_2015__q02.png]]
 
 **Answer:** 26
-[[Quesiti/src_bocconi_autunno_2015#q02|src_bocconi_autunno_2015__Q02]]
 
 
 
@@ -105,7 +103,6 @@ level: Giochi d'Autunno
 ![[src_bocconi_autunno_2015__q03.png]]
 
 **Answer:** 6
-[[Quesiti/src_bocconi_autunno_2015#q03|src_bocconi_autunno_2015__Q03]]
 
 
 
@@ -133,8 +130,7 @@ level: Giochi d'Autunno
 
 > 2010 is divisible by 10 (the number formed by its last two digits); similarly 2016 is divisible by 16. Find the first two years, after 2016, whose number is divisible by the last two digits.
 
-**Answer:** 2020, 2025 (entrambe le soluzioni, l'ordine non interessa)
-[[Quesiti/src_bocconi_autunno_2015#q04|src_bocconi_autunno_2015__Q04]]
+**Answer:** 2020, 2025 (both solutions, order does not matter)
 
 
 
@@ -167,7 +163,6 @@ level: Giochi d'Autunno
 ![[src_bocconi_autunno_2015__q05.png]]
 
 **Answer:** 6, 8, 2
-[[Quesiti/src_bocconi_autunno_2015#q05|src_bocconi_autunno_2015__Q05]]
 
 
 
@@ -200,7 +195,6 @@ level: Giochi d'Autunno
 ![[src_bocconi_autunno_2015__q06.png]]
 
 **Answer:** 6
-[[Quesiti/src_bocconi_autunno_2015#q06|src_bocconi_autunno_2015__Q06]]
 
 
 
@@ -233,7 +227,6 @@ level: Giochi d'Autunno
 ![[src_bocconi_autunno_2015__q07.png]]
 
 **Answer:** $252$ $\text{cm}^2$
-[[Quesiti/src_bocconi_autunno_2015#q07|src_bocconi_autunno_2015__Q07]]
 
 
 
@@ -266,7 +259,6 @@ level: Giochi d'Autunno
 ![[src_bocconi_autunno_2015__q08.png]]
 
 **Answer:** 15
-[[Quesiti/src_bocconi_autunno_2015#q08|src_bocconi_autunno_2015__Q08]]
 
 
 
@@ -295,7 +287,6 @@ level: Giochi d'Autunno
 > Desiderio's numbers. Desiderio likes to play with positive integers. In particular, he enjoys choosing a number $a$, to which he first adds his double and then his six-fold (6 times the starting number) thus obtaining a first result. At this point, always Desiderio considers the sum of the cube of the number chosen more at the beginning with the cube of its double. It thus obtains a second result which, surprisingly, is equal to 1000 times the first result. What is Desiderio's second outcome?
 
 **Answer:** 1800
-[[Quesiti/src_bocconi_autunno_2015#q09|src_bocconi_autunno_2015__Q09]]
 
 
 
@@ -324,7 +315,6 @@ Maximum number of palindromes multiples of 3, 7 and 13
 > ...and this one from Nando. Nando found a five-digit number that's multiples of 3, 7, and 13. To write it, use only two digits: the 0 and another digit. Nando's number is palindrome (it reads the same way from left to right and from right to left). What's the maximum number?
 
 **Answer:** 99099
-[[Quesiti/src_bocconi_autunno_2015#q10|src_bocconi_autunno_2015__Q10]]
 
 
 
@@ -357,7 +347,6 @@ Maximum number of palindromes multiples of 3, 7 and 13
 ![[src_bocconi_autunno_2015__q11.png]]
 
 **Answer:** 30
-[[Quesiti/src_bocconi_autunno_2015#q11|src_bocconi_autunno_2015__Q11]]
 
 
 
@@ -386,7 +375,6 @@ Maximum number of palindromes multiples of 3, 7 and 13
 > Watch out for the 11! $10 \times 11 = 1 \times 1$. Then, with two digits $a$ and $b$, we find that also $\overline{ab}$ and $\overline{ba}$ (where $\overline{ab}$ is the number whose value is $10a + b$, and $\overline{ba}$ is the number you read the same way) must satisfy $\overline{ab} \times \overline{ba} = a \cdot b \cdot \overline{ab} \cdot \overline{ba}$ by reading $\overline{bb}$ the same way. Find the maximum product value of the two members of the previous equation.
 
 **Answer:** 1024
-[[Quesiti/src_bocconi_autunno_2015#q12|src_bocconi_autunno_2015__Q12]]
 
 
 
@@ -415,7 +403,6 @@ Maximum number of palindromes multiples of 3, 7 and 13
 > At the same time. What is the smallest integer greater than 1 that is simultaneously a square and also a fifth power of some natural number?
 
 **Answer:** 1024
-[[Quesiti/src_bocconi_autunno_2015#q13|src_bocconi_autunno_2015__Q13]]
 
 
 
@@ -448,7 +435,6 @@ Maximum number of palindromes multiples of 3, 7 and 13
 ![[src_bocconi_autunno_2015__q14.png]]
 
 **Answer:** $2016$ $\text{cm}^2$
-[[Quesiti/src_bocconi_autunno_2015#q14|src_bocconi_autunno_2015__Q14]]
 
 
 
@@ -481,7 +467,6 @@ Maximum number of palindromes multiples of 3, 7 and 13
 ![[src_bocconi_autunno_2015__q15.png]]
 
 **Answer:** 3
-[[Quesiti/src_bocconi_autunno_2015#q15|src_bocconi_autunno_2015__Q15]]
 
 
 
@@ -514,7 +499,6 @@ Maximum number of palindromes multiples of 3, 7 and 13
 ![[src_bocconi_autunno_2015__q16.png]]
 
 **Answer:** $400$ $\text{cm}^2$
-[[Quesiti/src_bocconi_autunno_2015#q16|src_bocconi_autunno_2015__Q16]]
 
 
 
@@ -543,7 +527,6 @@ Maximum number of palindromes multiples of 3, 7 and 13
 > A melodic ant. An ant moves in a square plane always following the same pattern: it starts from the source $(0,0)$, advances a unit to the right, $\frac{1}{8}$ to the left, $\frac{1}{8}$ to the bottom and $\frac{1}{16}$ back to the right. It continues as follows, rotating $90^\circ$ clockwise after each shift and running each time a distance that is half that of the previous stretch. What's the point of convergence of its path?
 
 **Answer:** $\left(\frac{4}{5},\ \frac{2}{5}\right)$
-[[Quesiti/src_bocconi_autunno_2015#q17|src_bocconi_autunno_2015__Q17]]
 
 
 
@@ -571,5 +554,4 @@ How many additions has Carla added to the alternate series?
 
 > It's Carla's alternate math. By alternately adding the squares of the integers according to the $-1^2 + 2^2 - 3^2 + 4^2 - \cdots$ series, Carla obtains a four-digit number, of the form $\overline{qqqq}$ (four equal digits). How many more did Carla add?
 
-**Answer:** 66 (il numero è 2211)
-[[Quesiti/src_bocconi_autunno_2015#q18|src_bocconi_autunno_2015__Q18]]
+**Answer:** 66 (the number is 2211)

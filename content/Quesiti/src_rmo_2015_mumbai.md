@@ -39,8 +39,6 @@ level: RMO
 
 *Apparizioni nelle regioni: Mumbai, Regione 5.*
 
-[[Quesiti/src_rmo_2015_mumbai#q01|src_rmo_2015_mumbai__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,method_inclusione_esclusione,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -65,8 +63,6 @@ level: RMO
 *Conta i numeri base-10 a 3 cifre con almeno un 5 e un massimo di 3*
 
 > Determinare il numero di numeri a 3 cifre nella base 10 che hanno almeno un 5 e un 3 al massimo.
-
-[[Quesiti/src_rmo_2015_mumbai#q02|src_rmo_2015_mumbai__Q02]]
 
 
 
@@ -93,8 +89,6 @@ level: RMO
 
 > Che $P(x)$ sia un polinomio non costante i cui coefficienti sono numeri interi positivi. Se $P(n)$ divide $P(P(n) - 2015)$ per ogni numero naturale positivo $n$, provare che $P(-2015) = 0$.
 
-[[Quesiti/src_rmo_2015_mumbai#q03|src_rmo_2015_mumbai__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -120,8 +114,6 @@ level: RMO
 
 > Trova tutti i numeri naturali a tre cifre della forma $(abc)_{10}$ in modo tale che $(abc)_{10}$, $(bca)_{10}$ e $(cab)_{10}$ siano in progressione geometrica. (Qui $(abc)_{10}$ è la rappresentazione nella base 10.)
 
-[[Quesiti/src_rmo_2015_mumbai#q04|src_rmo_2015_mumbai__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -146,8 +138,6 @@ level: RMO
 *Triangolo rettangolo, incentri di subtriangoli e circoncircolo: dimostrare collinearità*
 
 > Che $ABC$ sia un triangolo rettangolare con $\angle B = 90^\circ$ e che $BD$ sia l'altitudine da $B$ a $AC$. Disegnare $DE \perp AB$ e $DF \perp BC$. I segmenti $P$, $Q$, $R$ e $S$ siano rispettivamente gli incentri dei triangoli $DFC$, $DBF$, $DEB$ e $DAE$. Prove che $P$, $Q$, $R$, $D$ si trovano su un cerchio.
-
-[[Quesiti/src_rmo_2015_mumbai#q05|src_rmo_2015_mumbai__Q05]]
 
 
 
@@ -175,8 +165,6 @@ level: RMO
 *Summa dei tripli ordinati di sottoinsiemi la cui unione è S; trovare in termini di n*
 
 > $S = \{1, 2, \ldots, n\}$ e $T$ siano l'insieme di tutti i triples ordinati dei sottoinsiemi di $S$, ad esempio $(A_1, A_2, A_3)$, in modo tale che $A_1 \cup A_2 \cup A_3 = S$. Determinare, in termini di $n$, $$\sum_{(A_1,A_2,A_3)\in T} |A_1 \cap A_2 \cap A_3|$$ dove $|X|$ indica il numero di elementi nell'insieme $X$.
-
-[[Quesiti/src_rmo_2015_mumbai#q06|src_rmo_2015_mumbai__Q06]]
 
 
 
@@ -208,8 +196,6 @@ level: RMO
 
 *Apparizioni nelle regioni: Mumbai, Regione 5.*
 
-[[Quesiti/src_rmo_2015_mumbai#q07|src_rmo_2015_mumbai__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,method_estremalita,skill_manipolazione_algebrica,skill_casework_accurato,skill_ragionamento_geometrico"></span>
@@ -238,5 +224,3 @@ level: RMO
 > La lunghezza di ciascun lato di un quadrilaterale converso $ABCD$ è un intero positivo. Se la somma delle lunghezze di qualsiasi tre lati è divisibile per la lunghezza del lato rimanente, allora dimostrare che alcuni due lati del quadrilaterale hanno la stessa lunghezza.
 
 *Apparizioni nelle regioni: Mumbai, Regione 5.*
-
-[[Quesiti/src_rmo_2015_mumbai#q08|src_rmo_2015_mumbai__Q08]]

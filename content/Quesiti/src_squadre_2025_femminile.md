@@ -48,7 +48,6 @@ level: squadre
 > Ferb hasn't finished his vacation homework yet. He just lacks to find the value of k for which the polynomial 3 2 167 54 1 kx x x   is divisible by 57 1 x . Phineas decided to wait for Ferb to decide what to do today. Needless to say, after a few seconds, Ferb had the solution. What value did you find?
 
 **Answer:** 228
-[[Quesiti/src_squadre_2025_femminile#q01|src_squadre_2025_femminile__Q01]]
 
 
 
@@ -99,7 +98,6 @@ level: squadre
 > What Are We Doing Today? Phineas and Ferb help Baljeet build a portal to Mars. It 's about tracing a triangle on the metal any ABC of area 2 2025 cm . Then you take 1A , midpoint on the AC side , 1B , midpoint on the BC side , and you plot the triangle 1 1A B C . It continues in the same way, constructing 2 A middle point of 1AC and 2 B middle point of 1B C and tracing the triangle 2 2 A B C. By continuing infinitely and supplying the whole with an amount of current equal to the sum of all the areas of all the triangles traced (in 2 cm ), the portal to Mars will be opened. With this invention, Baljeet will win the Science Fair. But how much current will it need to power the portal?
 
 **Answer:** 2700
-[[Quesiti/src_squadre_2025_femminile#q02|src_squadre_2025_femminile__Q02]]
 
 
 
@@ -129,7 +127,6 @@ level: squadre
 > Hey, is that Perry? In the meantime, Dr. Doofenshmirtz is testing his Bicarbonator Volcano with the intention of eroding it to cover the entire city of Danville. Fortunately, Agent P. It's already in action. The Vulcan is a tetrahedron $ABCV$ with $AV = BV = CV = 6\text{ m}$ and $\widehat{AVB} = \widehat{BVC} = \widehat{CVA} = 90^\circ$. Perry has to find a ball to trap inside him to prevent it from erupting. What will be the radius, in millimeters, of the perfectly inscribed sphere in the volcano that will allow Agent P. To save the city?
 
 **Answer:** 1267
-[[Quesiti/src_squadre_2025_femminile#q03|src_squadre_2025_femminile__Q03]]
 
 
 
@@ -165,7 +162,6 @@ level: squadre
 > STAVOLT SET YOURSELF FUCKED! (Michelangelo Sabatini) Candace is in her room, on the phone with her friend Stacy, when, looking out the window, she sees Phineas and Ferb in the garden building a rocket. She then goes down to her mom's living room to report them, but she's busy: she's coloring square grids. It colours each box either red or green so that, by rotating the grid relative to the central box at an angle of 90,180 or 270 the grid remains colored as if it had not been rotated. Mom won't pay any attention to Candace until she's done. How many grids will it take to build?
 
 **Answer:** 128
-[[Quesiti/src_squadre_2025_femminile#q04|src_squadre_2025_femminile__Q04]]
 
 
 
@@ -200,7 +196,6 @@ level: squadre
 > NANI DA GARDINO (Carlo Càssola) The summer and the heat are becoming more and more felt: Phineas and Ferb decide to set up a large beach to invite anyone who wants to have fun. In the meantime, Agent P. He's committed to stopping Doofenshmirtz, who this time wants to eliminate all the garden dwarfs in the world, as he's haunted by bad memories of his childhood. Perry manages to destroy the Sucker by destroying it while it's in operation, so all the dwarves are raining from the sky to the beach. But how many were there? They were as many as the five-digit numbers that give 3 if divided by 4, and when they're written in reverse, they give 3 if divided by 5. How many of the little ones did Doofenshmirtz steal?
 
 **Answer:** 5000
-[[Quesiti/src_squadre_2025_femminile#q05|src_squadre_2025_femminile__Q05]]
 
 
 
@@ -236,7 +231,6 @@ level: squadre
 > For the first time ever, Phineas and Ferb decide not to do anything. But Candace suspects something and, worried about losing her spy job, decides to provoke her brothers. Phineas challenges Candace to a game. It takes an infinite tessellation covering the plane made of congruent equilateral triangles. With each move, Phineas chooses a vertex of a triangle and Candace can decide whether to color it red or blue. Phineas wins the game if he can color the same three points of the plane that are vertices of any equilateral triangle. Ferb's already calculated that it won't take many moves. What's the minimum number of moves Phineas will need, assuming Candace plays the smartest way possible to keep him from winning?
 
 **Answer:** 7
-[[Quesiti/src_squadre_2025_femminile#q06|src_squadre_2025_femminile__Q06]]
 
 
 
@@ -273,7 +267,6 @@ level: squadre
 > The boys are sad because Danville's mini golf is closed, so they decide to build one. For the first hole they construct an ABC triangle with the hole in H orthocentric and the departure in O circocentric of the triangle. Between O and H they place an obstacle but they make HO parallel to AB with a distance of 10 dm. If 22 dm HO , what is AB, always in dm?
 
 **Answer:** 56
-[[Quesiti/src_squadre_2025_femminile#q07|src_squadre_2025_femminile__Q07]]
 
 
 
@@ -307,7 +300,6 @@ level: squadre
 > The two brothers build a computer that knows everything about everyone to find out what will make their mom happiest as a birthday present. To test it, they ask him how many distinct rectangular triangles form by tracing 20 lines in the Cartesian plane, 5 parallel to the axis of the axes, 5 parallel to the axis of the orders, 5 parallel to the bisector of the first and third quadrants and 5 parallel to the bisector of the second and fourth quadrants. The answer they get is correct. Now they'll be able to find the perfect gift for Mom. What was the response from the supercomputer?
 
 **Answer:** 500
-[[Quesiti/src_squadre_2025_femminile#q08|src_squadre_2025_femminile__Q08]]
 
 
 
@@ -341,7 +333,6 @@ level: squadre
 > It's Phineas' birthday and his 50 friends decide to throw him a surprise party, recalling with a video the funniest moments they've had up to that point. Candace would like to take over the video to give it to Mom, but a strange beam of Dr. Doofenshmirtz, diverted by Perry, accidentally destroys the video. At the time of the greeting, Phineas notes that in the group of 50 friends, each right hand shakes the other right hand and only the other left, while each left hand shakes the other left hand. Ferb reveals that there were 490 more handshakes between the right hands than there were between the left. How many of Phineas' left friends are there?
 
 **Answer:** 15
-[[Quesiti/src_squadre_2025_femminile#q09|src_squadre_2025_femminile__Q09]]
 
 
 
@@ -389,7 +380,6 @@ level: squadre
 > In the meantime, Doofenshmirtz decides to use her switch-post-inator to put hair on the bald, removing it from those who have it, so she can sell her new hair regrowth product. To make the machine work, however, it must calculate what is the minimum n so 1 na  where na is the second term of a geometric progression of positive rational with 1 1 a  as the first term and such that   3 1361 32 a  . He didn't deal with Agent P, who intervenes promptly to disrupt his plans. What value would Dr. Doofenshmirtz to implement his evil plan?
 
 **Answer:** 2026
-[[Quesiti/src_squadre_2025_femminile#q10|src_squadre_2025_femminile__Q10]]
 
 
 
@@ -425,7 +415,6 @@ level: squadre
 > While Phineas, Ferb, and their friends build a spa, Doofenshmirtz adopts a kitten and decides to name it Pelosetto Calzoncino. The latter, however, causes him a series of accidents, including flying the sky with the annuvolinator; Perry is sent to investigate the incident. The agent finds out that the kitten has a box with 45 red balls. Perry, in order to distract the cat, decides to insert a number of green phosphorescent balls into the box so that the probability of extracting two balls of the same color simultaneously is equal to the probability of extracting two balls of a different color. Pelosetto gets hit by the balls and inadvertently fires a beam that destroys the Spa. How many green balls did Perry put in? (Give the sum of the squares of all possible solutions as an answer.)
 
 **Answer:** 4321
-[[Quesiti/src_squadre_2025_femminile#q11|src_squadre_2025_femminile__Q11]]
 
 
 
@@ -459,7 +448,6 @@ Maximum number of cows in the pasture forever, grass growing
 > Nearby grass (Sandro Campigotto) Phineas proposes to turn the grass behind the house into a pasture. After two quick calculations, Ferb concluded that the present grass, plus the one growing daily, would be enough for 100 cows, who could eat for 40 days before all the grass runs out. Phineas then re-calculates and discovers that 90 cows could graze for 65 days. Assuming that each cow eats at the same constant rate and that the grass grows at the same constant rate, what is the maximum number of cows that could graze forever without ever running out of grass?
 
 **Answer:** 74
-[[Quesiti/src_squadre_2025_femminile#q12|src_squadre_2025_femminile__Q12]]
 
 
 
@@ -520,7 +508,6 @@ Maximum number of cows in the pasture forever, grass growing
 > During an afternoon at the ice cream parlor, Phineas drops his ice cone on Buford's pants, sparking the bull's anger. Buford then decides to challenge Phineas to a chicken tournament. Meanwhile, Doofenshmirtz has built a hypnotizing machine to control people's minds and force them to celebrate his birthday. Only Agent P. It can save humanity! While Doofenshmirtz would like to activate the machine, inserting the value (14) p of a polynomial ( ) p x such that 2 2 ( ) ( ) (2) x p x p x p x   known only as   10 100 p  , Perry deflects the base of the machine by dropping it and destroying it. What value would it have allowed Dr. Doofenshmirtz to see the whole world celebrate his birthday?
 
 **Answer:** 200
-[[Quesiti/src_squadre_2025_femminile#q13|src_squadre_2025_femminile__Q13]]
 
 
 
@@ -565,7 +552,6 @@ Maximum number of cows in the pasture forever, grass growing
 > What's the matter, boys? Hit by one of Doofenshmirtz's rays, Phineas and Ferb lose their creativity. Candace tries to make them recover, subjecting them to various creative stimuli. Desperate, she writes the polynomial 3 2 10 x ax bx    and states that a , b can only be distinct integers with absolute value less than or equal to 7. He asks the two brothers to calculate the probability that the polynomial has 3 distinct whole roots. Something awakens in the subconscious of the two brothers who give the correct answer together. What response did they give to their sister? (Give the sum between numerator and denominator of the fraction reduced to minimum terms.)
 
 **Answer:** 106
-[[Quesiti/src_squadre_2025_femminile#q14|src_squadre_2025_femminile__Q14]]
 
 
 
@@ -605,7 +591,6 @@ Maximum number of cows in the pasture forever, grass growing
 > On a rainy day, Phineas and Ferb create a shrink to grow small and play hide-and-seek with their friends. The radius operates by means of a triangular component ABC: a rectangular triangle in C , where the angles ˆ BAC and ˆ ABC intersect BC and AC in P and Q respectively. Called H and K the feet of the perpendiculars from P and Q over AB , the radius that starts from H reaches C and returns to K . What is the angle of HCK ?
 
 **Answer:** 45
-[[Quesiti/src_squadre_2025_femminile#q15|src_squadre_2025_femminile__Q15]]
 
 
 
@@ -672,7 +657,6 @@ Maximum number of cows in the pasture forever, grass growing
 > Phineas and Ferb build pyramids with a triangular base ABC of V vertices capable of creating all kinds of traps. To test it, they test themselves trying to get out of the pyramid. Unfortunately, a transition beam of Doofenshmirtz cuts through the top of the pyramid. If the plane generated by the beam has passed through the points 'A , 'B and 'C belonging to the AV , BV , CV beams respectively , with 1 '2 A V AV  , 1 '3 B V BV  and 1 '4 C V CV  , what is the volume of the ABCV pyramid known that the volume of the 'VA part 'B C removed from the beam is 3 71 m ?
 
 **Answer:** 1704
-[[Quesiti/src_squadre_2025_femminile#q16|src_squadre_2025_femminile__Q16]]
 
 
 
@@ -719,7 +703,6 @@ Maximum number of cows in the pasture forever, grass growing
 > Candace breaks the cell phone for the second time and Phineas builds him a new one in a special shape. It takes an ABC triangle with sharp angles in B and C , with 10.6 cm AB  and 20.6 cm AC  . It traces the semicircular  of diameter AB that meets the side BC in D and measures that 7 cm BD  . Then trace the semicircular diameter of AC that intersects . It takes the tangent common to the two semicirculars which touches them at points P and Q and places the antenna directly on PQ. The built-in cell phone also has the teleportation function, which will definitely lead Candace to stir up some trouble. How long is the antenna of Candace' s mobile phone in mm?
 
 **Answer:** 120
-[[Quesiti/src_squadre_2025_femminile#q17|src_squadre_2025_femminile__Q17]]
 
 
 
@@ -756,7 +739,6 @@ Maximum number of cows in the pasture forever, grass growing
 > Finally (Simona Pieri) Candace finally manages to punish Phineas and Ferb, showing her mother the car the boys turned into the flying machine of the future. The two brothers are sent to the school/rehabilitation center Via the smile, where they are brainwashed. So they 're forced to play by rolling a dice in turn with the following rules: The first player to get 6 wins a round . The round continues until one player wins. Whoever loses the round, starts first in the next round. Phineas plays first. At the end of the third round, Candace and Jeremy break into the school to save Phineas and Ferb. Perry wakes up, realizing he's dreamed everything. What's the probability that Phineas was the first to throw the dice at the start of the fourth round? (Give the sum between numerator and denominator of the fraction reduced to minimum terms.)
 
 **Answer:** 1996
-[[Quesiti/src_squadre_2025_femminile#q18|src_squadre_2025_femminile__Q18]]
 
 
 
@@ -792,7 +774,6 @@ Maximum number of cows in the pasture forever, grass growing
 > Do You Want to Believe or Not? (Sandro Campigotto) Phineas and Ferb decide to modify Dad's ice cream machine to create a winter paradise where they can cool off the hot summer. After snowing the entire garden, they modify the machine to distribute ice cream balls to all their friends. Ferb programs the machine to distribute up to a maximum of 20 ice cream balls at a time, so that the first receives fewer balls than the second (possibly 0) who in turn receives less than a third while the fourth receives more than all. Meanwhile, Doofenshmirtz has built a laser beam to melt all the chocolate in the world. Candace calls Mom, but a moment before her arrival the laser beam melts the snow and ice cream and brings the summer back to Danville. How many different ways could the ice cream machine distribute up to 20 balls?
 
 **Answer:** 241
-[[Quesiti/src_squadre_2025_femminile#q19|src_squadre_2025_femminile__Q19]]
 
 
 
@@ -828,7 +809,6 @@ Maximum number of cows in the pasture forever, grass growing
 > Candace wants to become a supermodel at all costs, but she doesn't know that in the meantime her brothers are creating a line of clothing titled It's always summer. The kids draw beach pairs, starting with a piece of fabric shaped like a triangle rectangle isosceles. They then draw some heights with the following strategy: they first plot the height relative to the base of the great triangle, then they draw one of the heights (always relative to the base) of any of the isosceles triangles in the figure and proceed in this way until they divide the initial triangle into exactly 10 isosceles. The idea is immediately copied by a famous designer and becomes a hit. How many different garments constructed in this way can be made?
 
 **Answer:** 4862
-[[Quesiti/src_squadre_2025_femminile#q20|src_squadre_2025_femminile__Q20]]
 
 
 
@@ -888,4 +868,3 @@ Maximum number of cows in the pasture forever, grass growing
 > Phineas, Ferb, and Candace discover that the mall will be auditioning to become a pop star. While the boys compose a song, Candace is in line for the audition. During the show the three brothers sing Gitchi-Gitchi-Goo. Imagining the stage as a Cartesian plane, the choreography predicts that Candace will initially be at the point   0.12 C, Phineas at  5.0 P and Ferb at  0.0 F. At each verse of the song only one of the three moves onto the stage (or if he wants to stand still), following as a trajectory lellisse having as fires the other two brothers. At the end of the song Ferb is at the point   1.9 , Phineas at   11.9 and Candace must position himself in any of the points that maximize the area of the triangle formed by the three boys. The record label, seeing the three performing, decides to make money by selling the guys' newly recorded video. But a strange green beam produced by Dr. Seuss's machine. Doofenshmirtz, just destroyed by Agent P., deletes every trace of the video. What coordinates can Candace be at? (Give as a response the product of all possible points of ascises and orders.)
 
 **Answer:** 216
-[[Quesiti/src_squadre_2025_femminile#q21|src_squadre_2025_femminile__Q21]]

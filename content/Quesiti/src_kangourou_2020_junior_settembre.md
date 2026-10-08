@@ -35,7 +35,6 @@ level: kangourou
 > In the Cartesian plane, how long is the shortest path linking the $(808, 808)$ point to the $(404, -808)$ point by touching the $y$ axis at least once?
 
 **Answer:** 2020
-[[Quesiti/src_kangourou_2020_junior_settembre#q01|src_kangourou_2020_junior_settembre__Q01]]
 
 
 
@@ -64,7 +63,6 @@ level: kangourou
 > Let $n$ be the smallest positive integer such that the number $7 \times n$ has $2021$ digits. What is the units digit of $n$?
 
 **Answer:** 9
-[[Quesiti/src_kangourou_2020_junior_settembre#q02|src_kangourou_2020_junior_settembre__Q02]]
 
 
 
@@ -105,7 +103,6 @@ level: kangourou
 > (c) for each method of filling the grid there is at most a special number.
 
 **Answer:** a)F b)V c)V
-[[Quesiti/src_kangourou_2020_junior_settembre#q03|src_kangourou_2020_junior_settembre__Q03]]
 
 
 
@@ -133,8 +130,7 @@ level: kangourou
 
 > On a circle, $2020$ points are marked, all distinct from one another. Consider all possible convex polygons (that is, non-self-intersecting polygons whose interior angles all measure less than $180°$) whose vertices are some of the marked points. Let $p$ be any one of the marked points. Are there more polygons that contain $p$ or more that do not contain it, or are there equal numbers?
 
-**Answer:** contengono p
-[[Quesiti/src_kangourou_2020_junior_settembre#q04|src_kangourou_2020_junior_settembre__Q04]]
+**Answer:** those that contain p
 
 
 
@@ -163,7 +159,6 @@ level: kangourou
 > How many pairs $(x, y)$ of integers (not necessarily positive) such that $x^2 + 7y = xy$?
 
 **Answer:** 6
-[[Quesiti/src_kangourou_2020_junior_settembre#q05|src_kangourou_2020_junior_settembre__Q05]]
 
 
 
@@ -192,5 +187,3 @@ level: kangourou
 ![[src_kangourou_2020_junior_settembre__prob6.png]]
 
 > A circle with center $I$ is inscribed in a triangle $ABC$: denote by $D$ and $E$ its points of tangency with the sides $BC$ and $AC$ respectively. Denote furthermore by $M$ and $N$ respectively the midpoints of $BC$ and $AB$ and by $P$ the intersection between the line joining $A$ with $I$ and the one joining $D$ with $E$. Prove that $M$, $N$ and $P$ are collinear.
-
-[[Quesiti/src_kangourou_2020_junior_settembre#q06|src_kangourou_2020_junior_settembre__Q06]]

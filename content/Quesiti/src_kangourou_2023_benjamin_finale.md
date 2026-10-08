@@ -34,7 +34,6 @@ Distribute 16 bottles (full/half/empty) equally to 4*
 > There are 16 identical bottles: 7 are full of milk, 6 are half full of milk and 3 are empty. Indicate how you can distribute all these bottles, without changing the contents, to four people so that each person gets the same amount of milk and the same number of bottles.
 
 **Answer:** construction
-[[Quesiti/src_kangourou_2023_benjamin_finale#qb1|src_kangourou_2023_benjamin_finale__QB1]]
 
 
 
@@ -72,7 +71,6 @@ Distribute 16 bottles (full/half/empty) equally to 4*
 > Two boxes have already been filled. What is the sum of the numbers to be entered in the two boxes with the question mark? (see figure)
 
 **Answer:** 5
-[[Quesiti/src_kangourou_2023_benjamin_finale#qb2|src_kangourou_2023_benjamin_finale__QB2]]
 
 
 
@@ -100,7 +98,6 @@ Distribute 16 bottles (full/half/empty) equally to 4*
 > Five girls and four boys took part in a competition where there were no positions of equal merit. The first place in the ranking is taken by a girl; by adding the numbers of the girls' positions you get twice the sum of the numbers of the boys' positions. What position did the last of the boys rank in?
 
 **Answer:** 6 (sixth)
-[[Quesiti/src_kangourou_2023_benjamin_finale#qb3|src_kangourou_2023_benjamin_finale__QB3]]
 
 
 
@@ -149,7 +146,6 @@ Distribute 16 bottles (full/half/empty) equally to 4*
 > We want to place some tokens in as many square cells of a $2 \times 9$ grid so that each cell either contains a token or shares a side with some cell that contains a token. What is the minimum number of tokens that allows achieving the goal?
 
 **Answer:** 5
-[[Quesiti/src_kangourou_2023_benjamin_finale#qb4|src_kangourou_2023_benjamin_finale__QB4]]
 
 
 
@@ -177,7 +173,6 @@ The following information shall be provided:
 > To form a secret code, the 21 letters of the Italian alphabet (therefore without the letters K, J, X, Y, W), written in alphabetical order, were progressively numbered starting from a letter that is not necessarily the A and starting again with the A after the Z (for example, if the letter E was the number 1, the F would be the number 2, the Z the number 17 and the A the number 18 until reaching the D, the number 21). The sum of the numbers assigned to the letters P, Q, R, S is 44. What word does $(3, 1, 11)$ correspond to?
 
 **Answer:** THREE
-[[Quesiti/src_kangourou_2023_benjamin_finale#qb5|src_kangourou_2023_benjamin_finale__QB5]]
 
 
 
@@ -210,4 +205,3 @@ Max liars
 > One island is divided into 15 regions as shown in the figure. In every region there is one and only one inhabitant who either always tells the truth or always lies. Each resident says, "Among my neighbours there is at least one person who always lies". How many people can be at most lying all the time? (Two inhabitants are neighbours when their regions share a segment of their edge, not necessarily an entire side of either one.) (see figure)
 
 **Answer:** 6
-[[Quesiti/src_kangourou_2023_benjamin_finale#qb6|src_kangourou_2023_benjamin_finale__QB6]]

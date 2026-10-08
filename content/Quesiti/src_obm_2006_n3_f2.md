@@ -33,8 +33,6 @@ level: OBM Nível 3
 
 > Una coppia ordinata $(83; 89)$ è chiamata coppia del secolo ** perché $83 + 8 + 9 = 83 - 8 + 9 + 8 + 3 = 100$; cioè la somma di ogni numero con i numeri dell'altro numero è uguale a 100. Quante coppie di numeri interi positivi ci sono?
 
-[[Quesiti/src_obm_2006_n3_f2#q01|src_obm_2006_n3_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -68,8 +66,6 @@ level: OBM Nível 3
 
 ![[src_obm_2006_n3_f2__q02.png]]
 
-[[Quesiti/src_obm_2006_n3_f2#q02|src_obm_2006_n3_f2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_casework,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -95,8 +91,6 @@ level: OBM Nível 3
 
 > Esmeralda e Jade corrono in direzioni opposte su una pista circolare, partendo da punti diametralmente opposti. Il primo incrocio tra loro si verifica dopo che Esmeralda ha corso 200 metri. Il secondo attraversamento avviene dopo che Jade ha corso 350 metri dal primo punto di attraversamento. Le velocità delle ragazze sono costanti. Qual è la lunghezza della pista, in metri?
 
-[[Quesiti/src_obm_2006_n3_f2#q03|src_obm_2006_n3_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,skill_ragionamento_geometrico,skill_stima"></span>
@@ -120,8 +114,6 @@ level: OBM Nível 3
 *Lunghezza laterale della sezione trasversale di ottaedro regolare per piano*
 
 > Qual è la più grande lunghezza laterale che una sezione trasversale determinata da un piano di ottaedro regolare può avere?
-
-[[Quesiti/src_obm_2006_n3_f2#q04|src_obm_2006_n3_f2__Q04]]
 
 
 
@@ -148,8 +140,6 @@ level: OBM Nível 3
 
 > Rollano un certo numero di dadi cubici con volti numerati da 1 a 6. La probabilità di ottenere una somma del 2006 è pari alla probabilità di ottenere una somma di $S$. Qual è il minimo valore possibile di $S$?
 
-[[Quesiti/src_obm_2006_n3_f2#q05|src_obm_2006_n3_f2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_conteggio,method_inclusione_esclusione,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
@@ -174,8 +164,6 @@ level: OBM Nível 3
 Distribuire n+1 giocattoli distinti a n bambini, ognuno ne ottiene almeno uno*
 
 > $n$ sia un numero intero positivo. In quanti modi possiamo distribuire $n+1$ giocattoli distinti tra $n$ bambini in modo che ogni bambino riceva almeno un giocattolo?
-
-[[Quesiti/src_obm_2006_n3_f2#q06|src_obm_2006_n3_f2__Q06]]
 
 
 
@@ -202,8 +190,6 @@ Distribuire n+1 giocattoli distinti a n bambini, ognuno ne ottiene almeno uno*
 
 > Trova tutte le coppie di integri positivi $(a, b)$ in modo tale che $(a+1)(b+1)$ sia un multiple di $ab + 1$.
 
-[[Quesiti/src_obm_2006_n3_f2#q07|src_obm_2006_n3_f2__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -229,8 +215,6 @@ Distribuire n+1 giocattoli distinti a n bambini, ognuno ne ottiene almeno uno*
 
 > Nel triangolo $ABC$ abbiamo $AB = 4$, $AC = 3$, e l'angolo $\widehat{BAC} = 60^\circ$. Il punto di intersezione di $D$ deve essere la linea perpendicolare a $AB$ che attraversa $B$ e la linea perpendicolare a $AC$ che attraversa $C$. Determinare la distanza tra gli ortocentri dei triangoli $ABC$ e $BCD$.
 
-[[Quesiti/src_obm_2006_n3_f2#q08|src_obm_2006_n3_f2__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_induzione,method_estremalita,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -255,5 +239,3 @@ Distribuire n+1 giocattoli distinti a n bambini, ognuno ne ottiene almeno uno*
 *Sequenza di Fibonacci: trovare tutte le coppie di numeri interi positivi (m,n) con F_m·F_n=mn*
 
 > La sequenza $F_n$ è definita da $F_1 = F_2 = 1$ e $F_n = F_{n-1} + F_{n-2}$ per $n \ge 3$. Trova tutte le coppie di integri positivi $(m, n)$ tali da $F_m \cdot F_n = mn$.
-
-[[Quesiti/src_obm_2006_n3_f2#q09|src_obm_2006_n3_f2__Q09]]

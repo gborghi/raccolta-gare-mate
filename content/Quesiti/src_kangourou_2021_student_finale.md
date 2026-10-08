@@ -34,7 +34,6 @@ level: kangourou
 > (**5 points**) When you look at two spheres of different radii from a distance, they appear to you to be of the same size (as, for example, might happen to the sun and the moon). However, the distance of the largest from you is 100 times the distance of the smallest (assume that the distances are estimated between you and the centers of the spheres). What is the ratio of the volume of the largest to the volume of the smallest?
 
 **Answer:** 1000000
-[[Quesiti/src_kangourou_2021_student_finale#qs1|src_kangourou_2021_student_finale__QS1]]
 
 
 
@@ -79,7 +78,6 @@ level: kangourou
 > At the end of these operations we want to restore in each container the initial quantity of water, minimizing the number of pourings. By adopting a suitable strategy, how many pourings could be necessary, at most?
 
 **Answer:** 9
-[[Quesiti/src_kangourou_2021_student_finale#qs2|src_kangourou_2021_student_finale__QS2]]
 
 
 
@@ -149,7 +147,6 @@ level: kangourou
 > (see figure)
 
 **Answer:** 11
-[[Quesiti/src_kangourou_2021_student_finale#qs3|src_kangourou_2021_student_finale__QS3]]
 
 
 
@@ -186,7 +183,6 @@ level: kangourou
 > b) $m = 2020$ and $n = 2021$?
 
 **Answer:** a) No; b) Yes
-[[Quesiti/src_kangourou_2021_student_finale#qs4|src_kangourou_2021_student_finale__QS4]]
 
 
 
@@ -220,7 +216,6 @@ level: kangourou
 > 'Assigned $n$ positive real numbers $a_1, a_2, \ldots, a_n$, for each rearrangement of $b_1, b_2, \ldots, b_n$ $$\frac{a_1}{b_1} + \frac{a_2}{b_2} + \cdots + \frac{a_n}{b_n} \geq n.$$'
 
 **Answer:** TRUE
-[[Quesiti/src_kangourou_2021_student_finale#qs5|src_kangourou_2021_student_finale__QS5]]
 
 
 
@@ -246,5 +241,3 @@ level: kangourou
 *There exists a multiple of 2021 in binary with 2021 zeros and 2021 ones*
 
 > (**22 points**) Prove that there exists a positive integer divisible by $2021$ and expressible, in significant binary notation (i.e. the first digit from the left cannot be $0$), using exactly $2021$ digits zero and $2021$ digits one.
-
-[[Quesiti/src_kangourou_2021_student_finale#qs6|src_kangourou_2021_student_finale__QS6]]

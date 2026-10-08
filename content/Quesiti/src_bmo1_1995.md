@@ -33,8 +33,6 @@ level: BMO Round 1
 
 > Trova il primo intero positivo il cui quadrato finisce in tre 4's. Trova tutti i numeri interi positivi la cui quadrata termina in quattro 4. Mostrare che nessun quadrato perfetto finisce con cinque quattro.
 
-[[Quesiti/src_bmo1_1995#q01|src_bmo1_1995__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,topic_geometria_analitica,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -66,8 +64,6 @@ level: BMO Round 1
 
 ![[src_bmo1_1995__q02.png]]
 
-[[Quesiti/src_bmo1_1995#q02|src_bmo1_1995__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_stima,skill_casework_accurato"></span>
@@ -96,8 +92,6 @@ level: BMO Round 1
 
 > (a) Trova il valore massimo dell'espressione $x^2 y - y^2 x$ quando $0 \le x \le 1$ e $0 \le y \le 1$. b) Trova il valore massimo dell'espressione $$x^2 y + y^2 z + z^2 x - x^2 z - y^2 x - z^2 y$$ quando $0 \le x \le 1$, $0 \le y \le 1$, $0 \le z \le 1$.
 
-[[Quesiti/src_bmo1_1995#q03|src_bmo1_1995__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
@@ -123,8 +117,6 @@ level: BMO Round 1
 
 > $ABC$ è un triangolo, angolato a destra a $C$. I bisettori interni degli angoli $BAC$ e $ABC$ incontrano rispettivamente $BC$ e $CA$ a $P$ e $Q$. $M$ e $N$ sono i piedi delle perpendicolari da $P$ e $Q$ a $AB$. Trova l' angolo $MCN$.
 
-[[Quesiti/src_bmo1_1995#q04|src_bmo1_1995__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_conteggio,method_ricorsione,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
@@ -149,5 +141,3 @@ level: BMO Round 1
 *Contare ordini di altezza alternati di sette (o otto) nani*
 
 > Le sette nane camminano al lavoro ogni mattina in un unico file. Mentre vanno, cantano la loro famosa canzone, "Alto $-$ basso $-$ alto $-$ basso, è fuori lavoro andiamo". Ogni giorno si allineano in modo che non ci siano tre nani successivamente che aumentino o diminuiscano di altezza. Pertanto, la formazione deve andare su e giù su $\ldots$ o giù su e giù su $\ldots$ Se tutti hanno altezze diverse, per quanti giorni possono andare a lavorare in questo modo se insistono su un ordine diverso ogni giorno? E se anche Biancaneve venisse sempre?
-
-[[Quesiti/src_bmo1_1995#q05|src_bmo1_1995__Q05]]

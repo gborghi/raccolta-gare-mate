@@ -33,8 +33,6 @@ level: BMO Round 2
 
 > Che $ABC$ sia un triangolo equilaterale e $D$ un punto interno del lato $BC$. Un cerchio, tangente a $BC$ a $D$, taglia $AB$ internamente a $M$ e $N$, e $AC$ internamente a $P$ e $Q$. Mostra che $BD + AM + AN = CD + AP + AQ$.
 
-[[Quesiti/src_bmo2_2004#q01|src_bmo2_2004__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_conteggio,skill_conteggio_sistematico,skill_astrazione"></span>
@@ -61,8 +59,6 @@ level: BMO Round 2
 *Mostra che esiste un numero intero con 0 del 2004 e 0 del 2004 in binario, divisibile per 2004*
 
 > Indicare che esiste un intero $n$ con le seguenti proprietà: (i) l'espansione binaria di $n$ ha precisamente $2004$ $0$s e $2004$ $1$s; (ii) $2004$ divide $n$.
-
-[[Quesiti/src_bmo2_2004#q02|src_bmo2_2004__Q02]]
 
 
 
@@ -92,8 +88,6 @@ level: BMO Round 2
 
 > (a) Con i numeri reali $a, b, c$, con $a + b + c = 0$, dimostrare che $$a^3 + b^3 + c^3 > 0 \quad \text{if and only if} \quad a^5 + b^5 + c^5 > 0.$$ (b) Con i numeri reali $a, b, c, d$, con $a + b + c + d = 0$, dimostrare che $$a^3 + b^3 + c^3 + d^3 > 0 \quad \text{if and only if} \quad a^5 + b^5 + c^5 + d^5 > 0.$$
 
-[[Quesiti/src_bmo2_2004#q03|src_bmo2_2004__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_cassetti,method_ricorsione,skill_riconoscimento_pattern,skill_astrazione,skill_lettura_attenta"></span>
@@ -122,5 +116,3 @@ level: BMO Round 2
 *Numero limitato di blocchi decimali di lunghezza distinta-2004 implica che il numero è razionale*
 
 > Il numero reale $x$ tra $0$ e $1$ ha la rappresentazione decimale $$0 \cdot a_1 a_2 a_3 a_4 \ldots$$ con la seguente proprietà: il numero di blocchi distinti della forma $$a_k a_{k+1} a_{k+2} \ldots a_{k+2003},$$ come $k$ si estende attraverso tutti i numeri interi positivi, è inferiore o uguale a $2004$. Provare che $x$ è razionale.
-
-[[Quesiti/src_bmo2_2004#q04|src_bmo2_2004__Q04]]

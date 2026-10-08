@@ -47,7 +47,6 @@ level: OBM Nível 2
 > - **(E)** $105$
 
 **Risposta:** B
-[[Quesiti/src_obm_2010_n2_f1#q01|src_obm_2010_n2_f1__Q01]]
 
 
 
@@ -87,7 +86,6 @@ level: OBM Nível 2
 > - **(E)** $115$
 
 **Risposta:** D
-[[Quesiti/src_obm_2010_n2_f1#q02|src_obm_2010_n2_f1__Q02]]
 
 
 
@@ -127,7 +125,6 @@ level: OBM Nível 2
 > - **(E)** $4^{12}$
 
 **Risposta:** E
-[[Quesiti/src_obm_2010_n2_f1#q03|src_obm_2010_n2_f1__Q03]]
 
 
 
@@ -170,8 +167,6 @@ level: OBM Nível 2
 
 ![[src_obm_2010_n2_f1__q04.png]]
 
-[[Quesiti/src_obm_2010_n2_f1#q04|src_obm_2010_n2_f1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
@@ -211,7 +206,6 @@ level: OBM Nível 2
 > - **(E)** Sono necessari ulteriori dati.
 
 **Risposta:** C
-[[Quesiti/src_obm_2010_n2_f1#q05|src_obm_2010_n2_f1__Q05]]
 
 
 
@@ -251,7 +245,6 @@ level: OBM Nível 2
 > - **(E)** un numero superiore a $4$
 
 **Risposta:** B
-[[Quesiti/src_obm_2010_n2_f1#q06|src_obm_2010_n2_f1__Q06]]
 
 
 
@@ -296,7 +289,6 @@ level: OBM Nível 2
 ![[src_obm_2010_n2_f1__q07.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2010_n2_f1#q07|src_obm_2010_n2_f1__Q07]]
 
 
 
@@ -337,7 +329,6 @@ level: OBM Nível 2
 > - **(E)** $200$
 
 **Risposta:** C
-[[Quesiti/src_obm_2010_n2_f1#q08|src_obm_2010_n2_f1__Q08]]
 
 
 
@@ -374,8 +365,6 @@ level: OBM Nível 2
 > - **(C)** $70^\circ$
 > - **(D)** $90^\circ$
 > - **(E)** $100^\circ$
-
-[[Quesiti/src_obm_2010_n2_f1#q09|src_obm_2010_n2_f1__Q09]]
 
 
 
@@ -414,8 +403,6 @@ level: OBM Nível 2
 > - **(D)** $15$
 > - **(E)** $24$
 
-[[Quesiti/src_obm_2010_n2_f1#q10|src_obm_2010_n2_f1__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_fattorizzazione,method_conteggio,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -453,8 +440,6 @@ level: OBM Nível 2
 > - **(D)** $18$
 > - **(E)** $100$
 
-[[Quesiti/src_obm_2010_n2_f1#q11|src_obm_2010_n2_f1__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_algebra,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -490,8 +475,6 @@ level: OBM Nível 2
 > - **(C)** $8$
 > - **(D)** $10$
 > - **(E)** $16$
-
-[[Quesiti/src_obm_2010_n2_f1#q12|src_obm_2010_n2_f1__Q12]]
 
 
 
@@ -541,8 +524,6 @@ level: OBM Nível 2
 > - **(D)** Dernaldo
 > - **(E)** Non è possibile determinarlo.
 
-[[Quesiti/src_obm_2010_n2_f1#q13|src_obm_2010_n2_f1__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -583,8 +564,6 @@ level: OBM Nível 2
 
 ![[src_obm_2010_n2_f1__q14.png]]
 
-[[Quesiti/src_obm_2010_n2_f1#q14|src_obm_2010_n2_f1__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_casework,skill_riconoscimento_pattern,skill_casework_accurato"></span>
@@ -621,8 +600,6 @@ level: OBM Nível 2
 > - **(C)** $4$
 > - **(D)** $8$
 > - **(E)** $16$
-
-[[Quesiti/src_obm_2010_n2_f1#q15|src_obm_2010_n2_f1__Q15]]
 
 
 
@@ -665,8 +642,6 @@ level: OBM Nível 2
 
 ![[src_obm_2010_n2_f1__q16.png]]
 
-[[Quesiti/src_obm_2010_n2_f1#q16|src_obm_2010_n2_f1__Q16]]
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -706,8 +681,6 @@ level: OBM Nível 2
 > - **(E)** $40$
 
 ![[src_obm_2010_n2_f1__q17.png]]
-
-[[Quesiti/src_obm_2010_n2_f1#q17|src_obm_2010_n2_f1__Q17]]
 
 
 
@@ -750,8 +723,6 @@ level: OBM Nível 2
 
 ![[src_obm_2010_n2_f1__q18.png]]
 
-[[Quesiti/src_obm_2010_n2_f1#q18|src_obm_2010_n2_f1__Q18]]
-
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,method_congruenze,skill_modellizzazione"></span>
@@ -788,8 +759,6 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 > - **(C)** $13{:}00$
 > - **(D)** $17{:}00$
 > - **(E)** $21{:}00$
-
-[[Quesiti/src_obm_2010_n2_f1#q19|src_obm_2010_n2_f1__Q19]]
 
 
 
@@ -832,8 +801,6 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 
 ![[src_obm_2010_n2_f1__q20.png]]
 
-[[Quesiti/src_obm_2010_n2_f1#q20|src_obm_2010_n2_f1__Q20]]
-
 
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -871,8 +838,6 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 > - **(D)** $1003$
 > - **(E)** $1004$
 
-[[Quesiti/src_obm_2010_n2_f1#q21|src_obm_2010_n2_f1__Q21]]
-
 
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_aritmetica,method_estremalita,method_fattorizzazione,skill_riconoscimento_pattern,skill_stima"></span>
@@ -909,8 +874,6 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 > - **(C)** $15$
 > - **(D)** $30$
 > - **(E)** $105$
-
-[[Quesiti/src_obm_2010_n2_f1#q22|src_obm_2010_n2_f1__Q22]]
 
 
 
@@ -953,8 +916,6 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 
 ![[src_obm_2010_n2_f1__q23.png]]
 
-[[Quesiti/src_obm_2010_n2_f1#q23|src_obm_2010_n2_f1__Q23]]
-
 
 
 <span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -995,8 +956,6 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 
 ![[src_obm_2010_n2_f1__q24.png]]
 
-[[Quesiti/src_obm_2010_n2_f1#q24|src_obm_2010_n2_f1__Q24]]
-
 
 
 <span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_fattorizzazione,skill_manipolazione_algebrica,skill_stima"></span>
@@ -1036,4 +995,3 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 > - **(E)** $1 < a < b$
 
 **Risposta:** D
-[[Quesiti/src_obm_2010_n2_f1#q25|src_obm_2010_n2_f1__Q25]]

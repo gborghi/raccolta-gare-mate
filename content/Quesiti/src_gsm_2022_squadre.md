@@ -38,7 +38,6 @@ level: squadre
 > the whole of a real number x is the largest integer less than or equal to x; it is written x for example π=3, 10=10,  √ 17=4;
 
 **Answer:** 4041
-[[Quesiti/src_gsm_2022_squadre#q01|src_gsm_2022_squadre__Q01]]
 
 
 
@@ -68,7 +67,6 @@ level: squadre
 > the factor of the integer n is the product of all integers from 1 to n; we write n!for example 1! = 1, 5! = 120, 6! = 720;
 
 **Answer:** 4365
-[[Quesiti/src_gsm_2022_squadre#q02|src_gsm_2022_squadre__Q02]]
 
 
 
@@ -102,7 +100,6 @@ level: squadre
 > A perfect square is an integer that is squared of an integer. 16 is a perfect square, 22 is not a perfect square.
 
 **Answer:** 0225
-[[Quesiti/src_gsm_2022_squadre#q03|src_gsm_2022_squadre__Q03]]
 
 
 
@@ -401,7 +398,6 @@ level: squadre
 > Within a cylinder of height h and base radius r, there are two straight pyramids with a coinciding base. The peaks of the two pyramids each touch a different base of the cylinder in its center. The base of the two pyramids is an equilateral triangle whose vertices all touch the lateral surface of the cylinder. Knowing that the product rh = 100 and that r and h take only whole values, what is the difference between the maximum volume and the minimum volume occupied by the two pyramids? {14} CORTO di Lorenzo Mazza In how many ways can the number 2022 be written as the sum of two or more positive integers placed in non-decreasing order and in such a way that the difference between the last and the first term is plus 1?
 
 **Answer:** 4012
-[[Quesiti/src_gsm_2022_squadre#q04|src_gsm_2022_squadre__Q04]]
 
 
 
@@ -433,7 +429,6 @@ level: squadre
 > Two concentric circles shall be given: one radius $20$ cm; the other radius $40$ cm. Two lines tangent to the inner circle at $r$ and $s$ respectively in the $A$ and $B$ points and incidents between them at the $C$ point belonging to the outer circle. The points of intersection of the outer circumference with $E$ and $F$ shall be said with $r$ and $s$ respectively. What is the area of the $ABFE$ quadrilateral?
 
 **Answer:** 1558
-[[Quesiti/src_gsm_2022_squadre#q05|src_gsm_2022_squadre__Q05]]
 
 
 
@@ -462,7 +457,6 @@ level: squadre
 > Consider a positive integer $a > 1$. Let's write the number $a$ twice in a row and get a number $b$that is, assuming that $a$ is a number with $\ell$ digits, in other words it's $10^{\ell-1} \le a < 10^\ell$, the number $b$ is $a + a \cdot 10^\ell$. What is the smallest value of $a$ such that $b = k a^2$ for a suitable $k$ positive integer?
 
 **Answer:** 0143
-[[Quesiti/src_gsm_2022_squadre#q06|src_gsm_2022_squadre__Q06]]
 
 
 
@@ -494,7 +488,6 @@ level: squadre
 > [Give me the first four decimal places of probability.]
 
 **Answer:** 5294
-[[Quesiti/src_gsm_2022_squadre#q07|src_gsm_2022_squadre__Q07]]
 
 
 
@@ -523,7 +516,6 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 > In a campsite all members are twins except $40$, all members are trigemins except $41$, and all members are quadrigemins except $42$. How many people are at least enrolled in camp?
 
 **Answer:** 0050
-[[Quesiti/src_gsm_2022_squadre#q08|src_gsm_2022_squadre__Q08]]
 
 
 
@@ -551,7 +543,6 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 > 9 . The probability of an Italian being unvaccinated and getting sick is p(u) = 19· y. So the probability required is that p(u) = p(u) p(a) = 1 8 x y + 1 = 1 8 9 + 1 = 9 17≈ 0.5294. The answer is 5294. 2 Solution to Problem 8. The number of single subscribers is shown with s.
 
 **Answer:** 8883
-[[Quesiti/src_gsm_2022_squadre#q09|src_gsm_2022_squadre__Q09]]
 
 
 
@@ -580,7 +571,6 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 > If two real numbers $r$ and $s$ are taken, such as $r + s = 1$ and $r^4 + s^4 = 7$, which number is $r^5 + 5rs + s^5$?
 
 **Answer:** 0006
-[[Quesiti/src_gsm_2022_squadre#q10|src_gsm_2022_squadre__Q10]]
 
 
 
@@ -621,7 +611,6 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 > [Give the sum of the numerator and denominator of the reduced fraction to the minimum terms as a response.]
 
 **Answer:** 0016
-[[Quesiti/src_gsm_2022_squadre#q11|src_gsm_2022_squadre__Q11]]
 
 
 
@@ -649,7 +638,6 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 > What is the minimum number of consecutive positive integers whose product is always divisible by $2022$?
 
 **Answer:** 0337
-[[Quesiti/src_gsm_2022_squadre#q12|src_gsm_2022_squadre__Q12]]
 
 
 
@@ -677,7 +665,6 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 > Within a cylinder of height $h$ and base radius $r$, there are two straight pyramids with a coinciding base. The peaks of the two pyramids each touch a different base of the cylinder in its center. The base of the two pyramids is an equilateral triangle whose vertices all touch the lateral surface of the cylinder. Knowing that the product $rh = 100$ and that $r$ and $h$ take only whole values, what is the difference between the maximum volume and the minimum volume occupied by the two pyramids?
 
 **Answer:** 4286
-[[Quesiti/src_gsm_2022_squadre#q13|src_gsm_2022_squadre__Q13]]
 
 
 
@@ -706,7 +693,6 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 > In how many ways can the number $2022$ be written as the sum of two or more positive integers in non-decreasing order and so that the difference between the last and the first term is at most $1$?
 
 **Answer:** 2021
-[[Quesiti/src_gsm_2022_squadre#q14|src_gsm_2022_squadre__Q14]]
 
 
 
@@ -739,7 +725,6 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 > On a parallel piped square base of $5$ cm and high $10$ cm, an ant starts from a vertex $A$ of the square base and initially reaches the vertex $B$ diametrically opposite the other base. Then it goes to the center of that base and from there it goes back to$A$. What is the minimum length in mm of such a route?
 
 **Answer:** 0304
-[[Quesiti/src_gsm_2022_squadre#q15|src_gsm_2022_squadre__Q15]]
 
 
 
@@ -771,7 +756,6 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 > Knowing that $$\frac{1}{4a^2} + a^2 = 8,$$ what is the maximum value of $$\frac{1}{32a^5} + a^5$$?
 
 **Answer:** 0179
-[[Quesiti/src_gsm_2022_squadre#q16|src_gsm_2022_squadre__Q16]]
 
 
 
@@ -804,7 +788,6 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 > In a square $ABCD$ side $2$ cm, the inscribed circumference is plotted. Whether $M$ the middle point of the $BC$ side. The $MD$ segment intersects the circumference at an additional point $K$ beyond the point $M$. What is the area of the square constructed on $AK$ in $\text{mm}^2$?
 
 **Answer:** 0340
-[[Quesiti/src_gsm_2022_squadre#q17|src_gsm_2022_squadre__Q17]]
 
 
 
@@ -833,7 +816,6 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 > Around a round table there are $2022$ people. By talking to each other, they discover that the absolute value of the difference in money in the wallets of two people sitting next to each other is always $4\text{€}$ or $5\text{€}$. They also note that no couple of people have the same amount of money. What's the biggest difference between two people's money?
 
 **Answer:** 5054
-[[Quesiti/src_gsm_2022_squadre#q18|src_gsm_2022_squadre__Q18]]
 
 
 
@@ -876,7 +858,6 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 > How many of those Pythagorean terns are there?
 
 **Answer:** 0000
-[[Quesiti/src_gsm_2022_squadre#q19|src_gsm_2022_squadre__Q19]]
 
 
 
@@ -909,7 +890,6 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 > The mean points of the sides $AB$ and $CD$ of a square $ABCD$ shall be $M$ and $N$ respectively. Consider the $P$ point, which belongs to the $BD$ extension of the part of $D$; both $H$ the intersection of $PM$ with $AD$ and $K$ the intersection of $HN$ with $BD$. The width of the angle $\widehat{DKH}$ is $81°$. What is the width of the angle $\widehat{PND}$?
 
 **Answer:** 0036
-[[Quesiti/src_gsm_2022_squadre#q20|src_gsm_2022_squadre__Q20]]
 
 
 
@@ -946,4 +926,3 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 > How many pairs of numbers $(m, n)$ with $m$ and $n$ between $1$ and $30$ (extremes included) are such that the number of injections from the set $\{1, 2, \ldots, n\}$ to the set $\{1, 2, \ldots, m\}$ is a perfect square?
 
 **Answer:** 0440
-[[Quesiti/src_gsm_2022_squadre#q21|src_gsm_2022_squadre__Q21]]

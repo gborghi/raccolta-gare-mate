@@ -35,8 +35,6 @@ level: BMO Round 1
 
 > Riduzione della frazione $\dfrac{N}{D}$ ai suoi termini più bassi quando $$N = 22448511485348514627$$ $$D = 81188118811881188000$$
 
-[[Quesiti/src_bmo1_1986#q01|src_bmo1_1986__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -61,8 +59,6 @@ level: BMO Round 1
 *Condizioni di tangenza del cerchio; trovare il raggio in termini di r1, r2*
 
 > Un cerchio $S$ di raggio $R$ ha due tangenti paralleli $t_1$ e $t_2$. Un cerchio $S_1$ di raggio $r_1$ tocca $S$ e $t_1$; un cerchio $S_2$ di raggio $r_2$ tocca $S$ e $t_2$; anche $S_1$ tocca $S_2$ e tutti i contatti del cerchio sono esterni. Calcolare $R$ in termini di $r_1$ e $r_2$.
-
-[[Quesiti/src_bmo1_1986#q02|src_bmo1_1986__Q02]]
 
 
 
@@ -91,8 +87,6 @@ level: BMO Round 1
 
 > Prova che se $m$, $n$, $r$ sono numeri interi positivi e $$1 + m + n\sqrt{3} = (2 + \sqrt{3})^{2r-1}$$ allora $m$ è un quadrato perfetto.
 
-[[Quesiti/src_bmo1_1986#q03|src_bmo1_1986__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_disuguaglianze,topic_geometria_piana,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima"></span>
@@ -119,8 +113,6 @@ level: BMO Round 1
 *K più grande in modo che a2+b2+c2≥K(a+b+c)2 per i triangoli obtusi*
 
 > Trovare, con prova, il più grande numero reale $K$ (indipendente da $a, b, c$) tale che l'ineguaglianza $$a^2 + b^2 + c^2 \ge K(a + b + c)^2$$ sia valida per le lunghezze $a$, $b$, $c$ dei lati di qualsiasi triangolo angolato obtuso.
-
-[[Quesiti/src_bmo1_1986#q04|src_bmo1_1986__Q04]]
 
 
 
@@ -153,8 +145,6 @@ level: BMO Round 1
 
 > Trova, con prova, il numero di permutazioni $$a_1, a_2, \ldots, a_n$$ di $1, 2, \ldots, n$ in modo tale che $$a_i < a_{i+2} \quad \text{for } 1 \le i \le n-2$$ e $$a_i < a_{i+1} \quad \text{for } 1 \le i \le n-3$$ (In una permutazione ogni numero $1, 2, \ldots, n$ appare.)
 
-[[Quesiti/src_bmo1_1986#q05|src_bmo1_1986__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -179,5 +169,3 @@ level: BMO Round 1
 *L'area della sezione trasversale del cubo è uguale all'area della faccia; prova la coplanarità*
 
 > $AB$, $AC$, $AD$ sono tre bordi di un cubo. $AC$ è prodotto a $E$ in modo che $AE = 2AC$ e $AD$ è prodotto a $F$ in modo che $AF = 3AD$. Prova che l'area della sezione del cubo per qualsiasi piano parallelo a $BEF$ è uguale all'area della sezione del tetraedro $ABEF$ per lo stesso piano.
-
-[[Quesiti/src_bmo1_1986#q06|src_bmo1_1986__Q06]]

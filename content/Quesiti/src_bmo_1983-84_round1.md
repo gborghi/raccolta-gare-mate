@@ -33,8 +33,6 @@ level: BMO Round 1
 
 > $P$, $Q$, $R$ sono punti arbitrari sui lati $BC$, $CA$ e $AB$ rispettivamente del triangolo $ABC$. Prova che il triangolo le cui vertici sono i centri dei cerchi $AQR$, $BRP$, $CPQ$ è simile al triangolo $ABC$.
 
-[[Quesiti/src_bmo_1983-84_round1#q01|src_bmo_1983-84_round1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_induzione,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -59,8 +57,6 @@ level: BMO Round 1
 *Coefficienti binomiali mod 3: i rimanenti 1 superano i rimanenti 2*
 
 > Che $a_n$ sia il numero dei coefficienti binomiali $\binom{n}{r}$ ($0 \le r \le n$) che lasciano il rimanente $1$ alla divisione da $3$, e che $b_n$ sia il numero che lascia il rimanente $2$. Prove che $a_n > b_n$ per tutti i numeri interi positivi $n$.
-
-[[Quesiti/src_bmo_1983-84_round1#q02|src_bmo_1983-84_round1__Q02]]
 
 
 
@@ -93,8 +89,6 @@ level: BMO Round 1
 > 
 > (ii) dimostrare che se $a$, $b$, $c$, $d$, $e$ sono numeri reali positivi allora $$\left(\frac{a}{b}\right)^4 + \left(\frac{b}{c}\right)^4 + \left(\frac{c}{d}\right)^4 + \left(\frac{d}{e}\right)^4 + \left(\frac{e}{a}\right)^4 \ge \frac{b}{a} + \frac{c}{b} + \frac{d}{c} + \frac{e}{d} + \frac{a}{e}.$$
 
-[[Quesiti/src_bmo_1983-84_round1#q03|src_bmo_1983-84_round1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -126,8 +120,6 @@ level: BMO Round 1
 > 
 > (Per un numero reale $x$ la "parte integrale" $[x]$ è il numero intero più grande che è $\le x$.)
 
-[[Quesiti/src_bmo_1983-84_round1#q04|src_bmo_1983-84_round1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione"></span>
@@ -154,8 +146,6 @@ level: BMO Round 1
 
 > Un piano taglia un cono circolare destro con vertice $V$ in ellisse $E$ e incontra l'asse del cono a $C$; $A$ è un'estremità dell'asse principale di $E$. Prova che l'area della superficie curva del cono inclinato con $V$ come vertice e $E$ come base è $$\frac{VA}{AC} \times (\text{area of } E).$$
 
-[[Quesiti/src_bmo_1983-84_round1#q05|src_bmo_1983-84_round1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione,skill_ragionamento_geometrico"></span>
@@ -180,8 +170,6 @@ level: BMO Round 1
 *Condizione di divisibilità implica l'esistenza di un numero intero y con due proprietà di divisibilità*
 
 > Lasciate che $a$, $m$ siano numeri interi positivi. Prova che se esiste un intero $x$ tale che $a^2x - a$ sia divisibile da $m$, allora esiste un intero $y$ tale che sia $a^2y - a$ che $ay^2 - y$ siano divisibili da $m$.
-
-[[Quesiti/src_bmo_1983-84_round1#q06|src_bmo_1983-84_round1__Q06]]
 
 
 
@@ -210,5 +198,3 @@ level: BMO Round 1
 *Per un quadrilaterale con un cerchio inciso, quattro quantità associate sono uguali*
 
 > $ABCD$ è un quadrilaterale che ha un cerchio inciso. Con il lato $AB$ è associato $$u_{AB} = p_1 \sin\widehat{DAB} + p_2 \sin\widehat{ABC}$$ dove $p_1$, $p_2$ sono le perpendicolari da $A$, $B$ rispettivamente al lato opposto $CD$. Definire anche $u_{BC}$, $u_{CD}$, $u_{DA}$, utilizzando in ogni caso le perpendicolari verso il lato opposto. Indicare che $$u_{AB} = u_{BC} = u_{CD} = u_{DA}.$$
-
-[[Quesiti/src_bmo_1983-84_round1#q07|src_bmo_1983-84_round1__Q07]]

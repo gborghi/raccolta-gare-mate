@@ -45,8 +45,6 @@ level: kangourou
 
 > On a given day, the water level (measured in centimetres) in a port has risen and fallen relative to the average annual level, reported as 0, according to the diagram in figure. For how many hours that day, the water level was at least 30 cm. above the mean? A) 5 B) 6 C) 7 D) 9 E) 13
 
-[[Quesiti/src_kangourou_2012_student#q01|src_kangourou_2012_student__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_analitica,skill_lettura_attenta"></span>
@@ -80,8 +78,6 @@ level: kangourou
 > C)     .
 > D)       .
 > E) 2.
-
-[[Quesiti/src_kangourou_2012_student#q02|src_kangourou_2012_student__Q02]]
 
 
 
@@ -121,8 +117,6 @@ level: kangourou
 > D) 6
 > E) 10
 
-[[Quesiti/src_kangourou_2012_student#q03|src_kangourou_2012_student__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_logica,skill_riconoscimento_pattern"></span>
@@ -153,8 +147,6 @@ level: kangourou
 
 > In two hours, 10 workers dig a 60-foot-long ditch. How many feet of ditch can 20 workers dig in 20 minutes? A) 3 B) 4,5 C) 5 D) 6 E) 12
 
-[[Quesiti/src_kangourou_2012_student#q04|src_kangourou_2012_student__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
@@ -184,8 +176,6 @@ level: kangourou
 *Value of the nested root sqrt(2 sqrt2)*
 
 > Two sides of a quadrilateral measure 1 cm and 4 cm. One of the two diagonals measures 2 cm and divides the quadrilateral into two isosceles triangles. How many centimeters does the perimeter of the quadrilateral measure? A) 8 B) 9 C) 10 D) 11 E) 12
-
-[[Quesiti/src_kangourou_2012_student#q05|src_kangourou_2012_student__Q05]]
 
 
 
@@ -244,8 +234,6 @@ level: kangourou
 
 > What's the probability that two dice will result in two consecutive numbers? A) 13/90 B) 17/100 C) 5/18 D) 1/3 E) 1/2 80 70 60 50 40 30 20 10 0 -10 -20 -30 -40 Water level (cm) Time (hours) Water level (cm) Time (hours)
 
-[[Quesiti/src_kangourou_2012_student#q06|src_kangourou_2012_student__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
@@ -277,7 +265,6 @@ Maximum positive integer n with n^200 < 5^300 *
 > The maximum positive integer n for which n^200 < 5^300 is A) 5. B) 6. C) 8. D) 11. (E) 12.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_student#q07|src_kangourou_2012_student__Q07]]
 
 
 
@@ -315,7 +302,6 @@ Maximum positive integer n with n^200 < 5^300 *
 > E)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_student#q08|src_kangourou_2012_student__Q08]]
 
 
 
@@ -350,7 +336,6 @@ Maximum positive integer n with n^200 < 5^300 *
 > A real number x satisfies the inequalities x^3 < 64 < x^2. Which of the following statements on x is correct? A) 0 < x < 64 B) -8 < x < 4 C) x > 8 D) -4 < x < 8 E) x < -8
 
 **Answer:** E
-[[Quesiti/src_kangourou_2012_student#q09|src_kangourou_2012_student__Q09]]
 
 
 
@@ -409,7 +394,6 @@ Maximum positive integer n with n^200 < 5^300 *
 > The five-pointed star in the figure is regular. What is the degree of the angle indicated by α ? A) 24 B) 30 C) 36 D) 45 E) 72 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2012_student#q10|src_kangourou_2012_student__Q10]]
 
 
 
@@ -443,8 +427,6 @@ Maximum positive integer n with n^200 < 5^300 *
 
 > My age is a two-digit number (in decimal form) that is a power of 5, while the age of a colleague of mine is a two-digit number that is a power of 2. The sum of all the digits of our ages is an odd number. How much is the product of those figures worth? A) 240 B) 2010 C) 60 D) 50 E) 300
 
-[[Quesiti/src_kangourou_2012_student#q11|src_kangourou_2012_student__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra,topic_disuguaglianze,method_inclusione_esclusione,skill_manipolazione_algebrica"></span>
@@ -477,8 +459,6 @@ Maximum positive integer n with n^200 < 5^300 *
 True statement for x with x3<64<x2*
 
 > One group travel agency proposed four optional visits during one trip. Each visit was attended by 80% of the group. What is the minimum percentage of group travellers who must have attended all four visits? A) 80 % B) 60 % C) 40 % D) 20 % E) 16 %
-
-[[Quesiti/src_kangourou_2012_student#q12|src_kangourou_2012_student__Q12]]
 
 
 
@@ -529,8 +509,6 @@ True statement for x with x3<64<x2*
 > Kang 2012
 > Kang 2012
 
-[[Quesiti/src_kangourou_2012_student#q13|src_kangourou_2012_student__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_algebra,skill_modellizzazione"></span>
@@ -565,7 +543,6 @@ True statement for x with x3<64<x2*
 > School scores in Slovakia are awarded by five grades, from 1 (best) to 5. One test didn't go well and the average grade was 4. The boys scored slightly higher than the girls, with an average score of 3.6 against 4.2 of the girls. Which of the following statements about that class is correct? A) Boys are twice as many as girls B) Boys are four times as many as girls C) Girls are twice as many as boys D) Girls are four times as many as boys E) Boys are as many as girls
 
 **Answer:** C
-[[Quesiti/src_kangourou_2012_student#q14|src_kangourou_2012_student__Q14]]
 
 
 
@@ -604,7 +581,6 @@ True statement for x with x3<64<x2*
 > In a square flowerbed of 16 m on the side is inscribed the region shown in the figure, which is a union of three squares and a right triangle. How much is the area of this region in square meters? A) 114 B) 130 C) 144 D) 160 E) 186
 
 **Answer:** C
-[[Quesiti/src_kangourou_2012_student#q15|src_kangourou_2012_student__Q15]]
 
 
 
@@ -638,7 +614,6 @@ True statement for x with x3<64<x2*
 > All seats in the front row of a cinema were sold, numbered consecutively from 1. By mistake, an additional ticket for one of these seats was sold. We know that the sum of the number of seats marked on the tickets sold for the first row is 857: what is the number of the seat for which two tickets were sold? A) 4 B) 16 C) 25 D) 37 E) 42
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_student#q16|src_kangourou_2012_student__Q16]]
 
 
 
@@ -679,7 +654,6 @@ True statement for x with x3<64<x2*
 > Look at the figure. A rectangle of ABCD paper measuring 4 cm × 16 cm shall be folded over itself along a MN straight line so that the vertex C overlaps with the vertex A. What is the area of the ABNMD' pentagon in square centimetres? A) 17 B) 27 C) 37 D) 47 E) 57
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_student#q17|src_kangourou_2012_student__Q17]]
 
 
 
@@ -753,8 +727,6 @@ True statement for x with x3<64<x2*
 
 **Answer:** B
 
-[[Quesiti/src_kangourou_2012_student#q18|src_kangourou_2012_student__Q18]]
-
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -792,7 +764,6 @@ True statement for x with x3<64<x2*
 > The clock in the figure is rectangular in shape; as usual, the hands move at a constant angular speed. What is the distance between 1 and 2 measured on the dial in centimetres if the distance between 8 and 10 is 12 centimetres? A) 3 B) 2 C) 4 D) 2 + E) 12 - 3
 
 **Answer:** C
-[[Quesiti/src_kangourou_2012_student#q19|src_kangourou_2012_student__Q19]]
 
 
 
@@ -828,7 +799,6 @@ True statement for x with x3<64<x2*
 > At the end of an algebra lesson, the equation parabola y = x2 and 2012 lines parallel to the equation line y = x remain on the board, each of which intersects the parabola in two points. The sum of the abscissas of the intersection points of the lines with the parabola is A) 0. B) 1. C) 1006. D) 2012. E) a different number. The questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_student#q20|src_kangourou_2012_student__Q20]]
 
 
 
@@ -867,7 +837,6 @@ True statement for x with x3<64<x2*
 > E) 1/2012
 
 **Answer:** C
-[[Quesiti/src_kangourou_2012_student#q21|src_kangourou_2012_student__Q21]]
 
 
 
@@ -939,7 +908,6 @@ True statement for x with x3<64<x2*
 > E) Ex ≠ Ey but Vol(Ex) = Vol(Ey)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2012_student#q22|src_kangourou_2012_student__Q22]]
 
 
 
@@ -977,7 +945,6 @@ True statement for x with x3<64<x2*
 > It was decided to operate on fractions in only two ways: 1 increase the numerator by 8 and 1 increase the denominator by 7. Starting from fraction 7/8, after having made a total of n of these operations (in an order of choice), the fraction 7/8 was recovered after being reduced to minimum terms. What's the minimum value of n that this could have happened for? A) 56 B) 81 C) 109 D) 113 E) Can not be recovered 7/8
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_student#q23|src_kangourou_2012_student__Q23]]
 
 
 
@@ -1016,7 +983,6 @@ True statement for x with x3<64<x2*
 > An equilateral triangle rotates around a square of side 1 starting from the position indicated by the figure and as shown in it. How long is the path taken by the vertex of the triangle that is marked in bold, when both the triangle and the point meet for the first time in the initial position? A) 4π B) 28π/3              C) 8π D)14π/3                E)3π
 
 **Answer:** B
-[[Quesiti/src_kangourou_2012_student#q24|src_kangourou_2012_student__Q24]]
 
 
 
@@ -1051,7 +1017,6 @@ True statement for x with x3<64<x2*
 > How many permutations (x1, x2, x3, x4) of the set of integers {1, 2, 3, 4} have the property that the sum of x1x2 + x2x3 + x3x4 + x4x1 is divisible by 3? A) 8 B) 12 C) 14 D) 16 E) 24
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_student#q25|src_kangourou_2012_student__Q25]]
 
 
 
@@ -1087,7 +1052,6 @@ True statement for x with x3<64<x2*
 > You have a set of 50 real numbers (not necessarily pairwise distinct). If you multiply two numbers of the set in every possible way (excluding the order of factors), you get exactly 522 times a negative product. How many of those 50 numbers are equal to zero? A) 1 B) 3 C) 7 D) 11 E) 2 or 5
 
 **Answer:** B
-[[Quesiti/src_kangourou_2012_student#q26|src_kangourou_2012_student__Q26]]
 
 
 
@@ -1130,7 +1094,6 @@ True statement for x with x3<64<x2*
 > In a space with an orthogonal Cartesian reference system Oxyz, three vertices of a cube are the points P (3; 4; 1), Q (5; 2; 9) and R (1; 6; 5). Which of the following points is the center of the cube? A) A ≡(4; 3; 5) B) B ≡(2; 5; 3) C) C ≡(3; 4; 7) D) D ≡(3; 4; 5) E) E ≡(2; 3; 5)
 
 **Answer:** A
-[[Quesiti/src_kangourou_2012_student#q27|src_kangourou_2012_student__Q27]]
 
 
 
@@ -1166,7 +1129,6 @@ True statement for x with x3<64<x2*
 > In the sequence {1, 1, 0, 1, -1, 0, ...} the first two elements a1 and a2 are 1. The third element is the difference of the two preceding ones, a3 = a1 - a2; the fourth element is the sum of the two preceding ones, a4 = a2 + a3 and going on a5 = a3 - a4 , a6 = a4 + a5 and so on. What is the sum of the first 100 elements of the succession? A) 0 B) 3 C) -21 D) 100 E) -1
 
 **Answer:** B
-[[Quesiti/src_kangourou_2012_student#q28|src_kangourou_2012_student__Q28]]
 
 
 
@@ -1209,7 +1171,6 @@ True statement for x with x3<64<x2*
 > E) 6
 
 **Answer:** E
-[[Quesiti/src_kangourou_2012_student#q29|src_kangourou_2012_student__Q29]]
 
 
 
@@ -1264,4 +1225,3 @@ True statement for x with x3<64<x2*
 > STUDENT ANSWERS 2012
 
 **Answer:** B
-[[Quesiti/src_kangourou_2012_student#q30|src_kangourou_2012_student__Q30]]

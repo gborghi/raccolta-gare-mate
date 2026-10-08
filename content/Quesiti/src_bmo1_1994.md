@@ -41,8 +41,6 @@ level: BMO Round 1
 > 
 > (ii) Trovare tutti e tre i numeri $n$ in modo tale che $n/f(n) = 1$.
 
-[[Quesiti/src_bmo1_1994#q01|src_bmo1_1994__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -76,8 +74,6 @@ level: BMO Round 1
 > 
 > (ii) Supponiamo che $\angle BAC = 60^\circ$, che $AX$ divide l'angolo $BAC$ e che $BX = 1$. Che cosa si può dire (e dimostrare!) sulla somma $AB + AC$? Qual è il locus del punto $A$ in quanto $X$ varia lungo $BC$?
 
-[[Quesiti/src_bmo1_1994#q02|src_bmo1_1994__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_ricorsione,method_induzione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -105,8 +101,6 @@ level: BMO Round 1
 
 > La sequenza $u_1, u_2, u_3, \ldots$ soddisfa $u_1 = 1$ e $$u_{n+1} - u_n = k u_{n-1}, \quad \text{for each } n \ge 2,$$ dove $k$ è un numero intero fisso. Se $u_{2000} = 2000$, determinare tutti i possibili valori di $k$.
 
-[[Quesiti/src_bmo1_1994#q03|src_bmo1_1994__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
@@ -132,8 +126,6 @@ level: BMO Round 1
 
 > I punti $Q$, $R$ si trovano sul cerchio $\gamma$, e $P$ è un punto tale che $PQ$, $PR$ sono tangenti di $\gamma$. $A$ è il punto medio di $PQ$ e $C$ è il circoncentro del triangolo $PQR$. Il cerchio $\gamma$ taglia di nuovo $AQ$ al punto $B$. Prove che $\angle PAR = \angle ABC$.
 
-[[Quesiti/src_bmo1_1994#q04|src_bmo1_1994__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_ricorsione,method_induzione,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -158,5 +150,3 @@ level: BMO Round 1
 *Seguenza alternativa di integri con equazione funzionale*
 
 > Si dice che una sequenza crescente di numeri interi si alternasse se inizia con un termine impar, il secondo termine è pari, il terzo termine è impar, il quarto è pari, e così via. La sequenza vuota (senza termine) è considerata alternante. $A(n)$ indichi il numero di sequenze alternative che coinvolgono solo gli integri del set $\{1, 2, \ldots, n\}$. Indicare che $A(1) = 2$ e $A(2) = 3$. Trova una formula per $A(n+2)$ in termini di $A(n+1)$ e $A(n)$ e prova che la formula è corretta. Trova quindi il valore di $A(20)$ e prova che il valore è corretto.
-
-[[Quesiti/src_bmo1_1994#q05|src_bmo1_1994__Q05]]

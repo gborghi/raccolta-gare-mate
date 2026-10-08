@@ -36,8 +36,6 @@ level: RMO
 
 ![[src_rmo_2006__q01.png]]
 
-[[Quesiti/src_rmo_2006#q01|src_rmo_2006__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -62,8 +60,6 @@ level: RMO
 *Ricerca il valore minimo di a+b con condizioni di divisibilità su 11*
 
 > Trovare il minimo valore possibile di $a + b$, dove $a$, $b$ sono integri positivi in modo tale che 11 divide $a + 13b$ e 13 divide $a + 11b$.
-
-[[Quesiti/src_rmo_2006#q02|src_rmo_2006__Q02]]
 
 
 
@@ -91,8 +87,6 @@ level: RMO
 
 > Se $a$, $b$, $c$ sono tre numeri reali positivi, dimostrare che $$\frac{a^2+1}{b+c} + \frac{b^2+1}{c+a} + \frac{c^2+1}{a+b} \ge 3.$$
 
-[[Quesiti/src_rmo_2006#q03|src_rmo_2006__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_casework,method_estremalita,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -117,8 +111,6 @@ level: RMO
 *6×6 quadrato dissezionato in 9 rettangoli; sempre due congruenti*
 
 > Un quadrato $6 \times 6$ è dissezionato in 9 rettangoli con linee parallele ai suoi lati in modo che tutti questi rettangoli abbiano lati interi. Prova che ci sono sempre due rettangoli congruenti.
-
-[[Quesiti/src_rmo_2006#q04|src_rmo_2006__Q04]]
 
 
 
@@ -149,8 +141,6 @@ level: RMO
 
 ![[src_rmo_2006__q05.png]]
 
-[[Quesiti/src_rmo_2006#q05|src_rmo_2006__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
@@ -176,8 +166,6 @@ level: RMO
 
 > Dimostra che ci sono infiniti interi positivi $n$ in modo tale che $n(n+1)$ possa essere espressa come la somma di due quadrati positivi in almeno due modi diversi. (Qui $a^2 + b^2$ e $b^2 + a^2$ sono considerati come la stessa rappresentazione.)
 
-[[Quesiti/src_rmo_2006#q06|src_rmo_2006__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_funzionali,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -201,5 +189,3 @@ level: RMO
 *Equazione funzionale f(xy)=f(x+y) per gli integri ≥4; ritrovare f(9)*
 
 > $X$ sia l'insieme di tutti gli integri positivi superiori o uguali a 8 e $f : X \to X$ sia una funzione tale che $f(x + y) = f(xy)$ per tutti $x \ge 4$, $y \ge 4$. Se $f(8) = 9$, determinare $f(9)$.
-
-[[Quesiti/src_rmo_2006#q07|src_rmo_2006__Q07]]

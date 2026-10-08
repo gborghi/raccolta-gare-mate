@@ -35,7 +35,6 @@ level: kangourou
 > Which of the following numbers is the largest? A) 2006×2006  B) 2005×2007   C) 2004×2008  D) 2003×2009   E) 2002×2010
 
 **Answer:** A
-[[Quesiti/src_kangourou_2006_student_marzo#q01|src_kangourou_2006_student_marzo__Q01]]
 
 
 
@@ -69,7 +68,6 @@ level: kangourou
 > Note the figure: You can add more squares to the grey region without increasing the perimeter of the grey region. How many more can you add? A) 0         B) 7          C) 18          D) 12          E) 16
 
 **Answer:** E
-[[Quesiti/src_kangourou_2006_student_marzo#q02|src_kangourou_2006_student_marzo__Q02]]
 
 
 
@@ -132,7 +130,6 @@ level: kangourou
 > Stefania has two pendants made of the same material, the same thickness and weight. Ignoring thickness, one is shaped like a circular crown with an outer radius of 6 cm and an inner radius of 4 cm, the other is simply shaped like a circle. What's its radius in centimeters? A) 4         B) C) 5 D) E)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2006_student_marzo#q03|src_kangourou_2006_student_marzo__Q03]]
 
 
 
@@ -172,7 +169,6 @@ level: kangourou
 > E) 5
 
 **Answer:** C
-[[Quesiti/src_kangourou_2006_student_marzo#q04|src_kangourou_2006_student_marzo__Q04]]
 
 
 
@@ -205,7 +201,6 @@ level: kangourou
 > If 4a = 9 and 9b = 256, then ab is equal to A) 2006 B) 48 C) 36 D) 10 E) 4
 
 **Answer:** E
-[[Quesiti/src_kangourou_2006_student_marzo#q05|src_kangourou_2006_student_marzo__Q05]]
 
 
 
@@ -285,7 +280,6 @@ level: kangourou
 > tudent
 
 **Answer:** A
-[[Quesiti/src_kangourou_2006_student_marzo#q06|src_kangourou_2006_student_marzo__Q06]]
 
 
 
@@ -320,7 +314,6 @@ level: kangourou
 > On the occasion of a particularly important match, the price of the stadium entrance ticket was increased by 20% compared to previous matches. As a result, however, the attendance of spectators decreased by 20%. Compared to the previous batches, the proceeds are A) unchanged. (b) increased by 2%. (c) decreased by 2%. D) increased by 4%. E) decreased by 4%.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2006_student_marzo#q07|src_kangourou_2006_student_marzo__Q07]]
 
 
 
@@ -354,7 +347,6 @@ level: kangourou
 > Two circumferences lie on the same plane; their radii measure 3 meters and 5 meters, and there are exactly three lines tangent to both. So the distance in meters between their centers is A) less than 2 B) 2 C) 4 D) 8 E) greater than 8
 
 **Answer:** D
-[[Quesiti/src_kangourou_2006_student_marzo#q08|src_kangourou_2006_student_marzo__Q08]]
 
 
 
@@ -387,7 +379,6 @@ level: kangourou
 > An apple, or a part of it, floating on the surface of a lake emerges from it by 1/3 of its mass. A fish and a seagull jump on a floating whole apple at the same time and begin to eat the submerged part and the emerging part, respectively. In equal time, the seagull eats twice as much as the fish. When the whole apple has been eaten, what fraction of the apple has the seagull eaten? A) 2/3                B) 1/3             C) 1/2            D) 2/9              E) 7/9
 
 **Answer:** A
-[[Quesiti/src_kangourou_2006_student_marzo#q09|src_kangourou_2006_student_marzo__Q09]]
 
 
 
@@ -420,7 +411,6 @@ level: kangourou
 > A tunnel has a semicircular section with a diameter of 10 meters. The roof (flat) of a bus comes into contact with the tunnel's vault if its right wheels (flush with the side) are two metres from the right edge of the tunnel. What is the height of the bus in meters? A) 2,70 B) 3,20 C) 3,60 D) 4,00 E) 4,50 The questions from N. 11 to N. 20 are worth four points.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2006_student_marzo#q10|src_kangourou_2006_student_marzo__Q10]]
 
 
 
@@ -455,7 +445,6 @@ level: kangourou
 > If you divide 1001 by an appropriate one-digit number, you get 5 as remainder. If you divide 2006 by the same number, what do you get? A) 2 B) 3 C) 4 D) 5 E) 6
 
 **Answer:** A
-[[Quesiti/src_kangourou_2006_student_marzo#q11|src_kangourou_2006_student_marzo__Q11]]
 
 
 
@@ -506,8 +495,6 @@ level: kangourou
 
 **Answer:** E
 
-[[Quesiti/src_kangourou_2006_student_marzo#q12|src_kangourou_2006_student_marzo__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -540,7 +527,6 @@ level: kangourou
 > The radius of the circular sector and the radius of the circle in the figure are in the ratio 3:1. What is the ratio of the sector area to the circle area? A) 3:2       B) 4:3        C) 5:3        D) 6:5          E) 5:4
 
 **Answer:** A
-[[Quesiti/src_kangourou_2006_student_marzo#q13|src_kangourou_2006_student_marzo__Q13]]
 
 
 
@@ -572,7 +558,6 @@ level: kangourou
 > Last year in a polyphonic choir there were 30 more men than women. This year the number of choir members has increased by 10%, the number of women has increased by 20%, and the number of men by 5%. How many members does the choir have this year? A) 88               B) 99             C) 110              D) 121                E) 13
 
 **Answer:** B
-[[Quesiti/src_kangourou_2006_student_marzo#q14|src_kangourou_2006_student_marzo__Q14]]
 
 
 
@@ -605,7 +590,6 @@ level: kangourou
 > Consider all the positive 9-digit integers you can construct using each of the 9 digits 1,2,...,9. Suppose that each of those numbers is written on a piece of paper (one number on each piece of paper) and that the pieces of paper are deposited in an urn. What is the minimum number of sheets that you can extract from the urn if you want to be sure that, among the numbers shown on the extracted sheets, there are at least two that, in some position, have the same digit? A) 20160          B) 40320          C) 72            D) 10                E) 9
 
 **Answer:** D
-[[Quesiti/src_kangourou_2006_student_marzo#q15|src_kangourou_2006_student_marzo__Q15]]
 
 
 
@@ -643,7 +627,6 @@ level: kangourou
 > A cathedral window has a glass like the one in the figure, where the letters R, G, and B represent glass of red, yellow, and blue colors respectively. The area occupied by the yellow glass measures 400 dm2 . How many dm2 does the area occupied by blue glass measure? A) 396             B) 400           C) 120 π D) 90     π E) 382
 
 **Answer:** B
-[[Quesiti/src_kangourou_2006_student_marzo#q16|src_kangourou_2006_student_marzo__Q16]]
 
 
 
@@ -673,7 +656,6 @@ level: kangourou
 > If a and b are two numbers greater than 1, which of the following numbers is the largest? A)              B)                   C)                 D)              E)
 
 **Answer:** A
-[[Quesiti/src_kangourou_2006_student_marzo#q17|src_kangourou_2006_student_marzo__Q17]]
 
 
 
@@ -786,7 +768,6 @@ level: kangourou
 > tudent
 
 **Answer:** D
-[[Quesiti/src_kangourou_2006_student_marzo#q18|src_kangourou_2006_student_marzo__Q18]]
 
 
 
@@ -821,7 +802,6 @@ level: kangourou
 > How many angles of measure less than 60° can a convex polygon have at most? A) 1 B) 2 C) 3 D) 4 E) 6
 
 **Answer:** B
-[[Quesiti/src_kangourou_2006_student_marzo#q19|src_kangourou_2006_student_marzo__Q19]]
 
 
 
@@ -858,7 +838,6 @@ level: kangourou
 > A rectangular rectangular parallelepiped is shown in the figure. The dimensions, in centimetres, of the sides of the XYZ triangle are 8, 9 and . What is the size, in centimeters, of the XA diagonal? A) B) 10 C) D) 11 E) Questions from N. 21 to N. 30 are worth 5 points.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2006_student_marzo#q20|src_kangourou_2006_student_marzo__Q20]]
 
 
 
@@ -896,7 +875,6 @@ level: kangourou
 > Figure 1 shows a grid of 4×4 with white and grey cells. On it we are only allowed to make moves of the following type: exchange between two cells on the same row or column. What is the minimum number of moves that allows us to obtain the figure shown in Figure 2? A) We will never be able to achieve it if we only make authorized moves. B) 2                     C) 3                     D) 4                     E) 5
 
 **Answer:** D
-[[Quesiti/src_kangourou_2006_student_marzo#q21|src_kangourou_2006_student_marzo__Q21]]
 
 
 
@@ -926,7 +904,6 @@ level: kangourou
 > For how many positive integers n is the power n^300 a number that, in decimal notation, has no more than 100 digits? A) 1 B) 2 C) 3 D) 4 E) More than 4, but a finite number.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2006_student_marzo#q22|src_kangourou_2006_student_marzo__Q22]]
 
 
 
@@ -957,7 +934,6 @@ level: kangourou
 > How many subsets of the set {1, 2, 3, ..., 12} are such that the sum of the smallest and largest of their elements is 13? A) 1024         B) 1175            C) 1365          D) 1785                E) 4095
 
 **Answer:** C
-[[Quesiti/src_kangourou_2006_student_marzo#q23|src_kangourou_2006_student_marzo__Q23]]
 
 
 
@@ -1012,7 +988,6 @@ level: kangourou
 > I have to do a 10-question test, and the answer to each question is "yes" or "no". It must be structured in such a way that those who answer 'yes' to one half of the questions and 'no' to the other half still give correct answers to at least four questions. How many possible lists of correct answers give me this guarantee? A) 55 B) 252 C) 2 D) 10 E) 22 55 Z A X Y 90 120 200 figure 2 figure 1 Student_06.qxp 20/02/2006 23.38 Page 31
 
 **Answer:** E
-[[Quesiti/src_kangourou_2006_student_marzo#q24|src_kangourou_2006_student_marzo__Q24]]
 
 
 
@@ -1043,7 +1018,6 @@ level: kangourou
 > From a sequence of ten consecutive integers, one has been removed. The sum of the remaining nine numbers is 2006. What's the number that's been removed? A) 218          B) 219             C) 220               D) 225               E) 227
 
 **Answer:** B
-[[Quesiti/src_kangourou_2006_student_marzo#q25|src_kangourou_2006_student_marzo__Q25]]
 
 
 
@@ -1112,7 +1086,6 @@ level: kangourou
 > I want to write the numbers 1, 2, 3, 4, 5, 6 inside the squares that make up the figure (one for each square) so that if two squares are adjacent, the difference (positive) of the numbers written in them is not 3. How many different ways can I do this? (Squares having only one vertex in common are not considered adjacent.) A) 3 x 25 B) 36 C) 63 D) 2 x 35 E) 3 x 52
 
 **Answer:** A
-[[Quesiti/src_kangourou_2006_student_marzo#q26|src_kangourou_2006_student_marzo__Q26]]
 
 
 
@@ -1145,7 +1118,6 @@ level: kangourou
 > The natural numbers were grouped and summed within each group according to the criterion suggested below 1, 2+3, 4+5+6, 7+8+9+10, 11+12+13+14+15, ... What is the sum of the numbers hosted in the hundredth group? A) 500050        B) 5050        C) 50050      D) 499950         E) 49950
 
 **Answer:** A
-[[Quesiti/src_kangourou_2006_student_marzo#q27|src_kangourou_2006_student_marzo__Q27]]
 
 
 
@@ -1181,7 +1153,6 @@ level: kangourou
 > Note the figure: ABCD is a rectangle, M and N are randomly selected points, respectively, within the AB side and the BC side. The rectangle is divided into eight regions, some of which have an area. What is the area of the quadrilateral region indicated by "?" A) 20 B) 21 C) 25 D) 26 E) The information given is insufficient.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2006_student_marzo#q28|src_kangourou_2006_student_marzo__Q28]]
 
 
 
@@ -1216,7 +1187,6 @@ level: kangourou
 > In the figure you see a hexagon with side length [missing]; XABC and XPQR are squares. What is the area of the shaded triangle? A)              B)           C)        D)             E)
 
 **Answer:** A
-[[Quesiti/src_kangourou_2006_student_marzo#q29|src_kangourou_2006_student_marzo__Q29]]
 
 
 
@@ -1288,4 +1258,3 @@ level: kangourou
 > 1 Student category For students in fourth or fifth grades
 
 **Answer:** E
-[[Quesiti/src_kangourou_2006_student_marzo#q30|src_kangourou_2006_student_marzo__Q30]]

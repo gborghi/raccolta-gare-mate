@@ -39,7 +39,6 @@ level: kangourou
 > In the drawing you see two squares, each with side $3$ cm, joined at vertex $C$. An ant starts from point $A$ and travels along the edge of the figure following the path $ABCDEFCGA$. The ant repeats the path several times. After traveling a distance of $2019$ cm, the ant gets tired and stops at the vertex where it is at that moment. Which letter denotes it?
 
 **Answer:** B
-[[Quesiti/src_kangourou_2019_ecolier_finale#qe1|src_kangourou_2019_ecolier_finale__QE1]]
 
 
 
@@ -67,7 +66,6 @@ level: kangourou
 > Ada had $40$ biscuits: some chocolate, the others jam. She agreed with Cecilia as follows: for $3$ chocolate biscuits given to Cecilia, she received $5$ jam biscuits from Cecilia. Now Ada has $52$ biscuits, all jam. How many jam biscuits did she have before the exchange?
 
 **Answer:** 22
-[[Quesiti/src_kangourou_2019_ecolier_finale#qe2|src_kangourou_2019_ecolier_finale__QE2]]
 
 
 
@@ -95,7 +93,6 @@ level: kangourou
 > Last New Year I received a strange calculator as a gift: it can only add or subtract $2019$ to the number shown on the screen, or it can multiply or divide it by $2019$. Right now the screen shows the number $0$. By performing some of these operations in sequence, one at a time, can I obtain the number $2021$ as a result? Justify your answer if it is negative; if it is affirmative, indicate the shortest sequence of operations that allows you to obtain the result.
 
 **Answer:** yes: +2019, +2019, :2019, +2019
-[[Quesiti/src_kangourou_2019_ecolier_finale#qe3|src_kangourou_2019_ecolier_finale__QE3]]
 
 
 
@@ -123,7 +120,6 @@ level: kangourou
 > Dario summed all odd integers starting from $1$ and ending with $2019$; Paola summed all even integers starting from $2$ and ending with $2020$. Cristina calculated the difference between the number obtained by Paola and the one obtained by Dario. What number did Cristina obtain?
 
 **Answer:** 1010
-[[Quesiti/src_kangourou_2019_ecolier_finale#qe4|src_kangourou_2019_ecolier_finale__QE4]]
 
 
 
@@ -152,7 +148,6 @@ level: kangourou
 > Carla wrote a positive integer. Aldo rewrote Carla's number, putting the digit $1$ before and after it (for example, if Carla had written $27$, Aldo would have written $1271$). The difference between Aldo's number and Carla's is $14789$. What number did Carla write?
 
 **Answer:** 532
-[[Quesiti/src_kangourou_2019_ecolier_finale#qe5|src_kangourou_2019_ecolier_finale__QE5]]
 
 
 
@@ -185,4 +180,3 @@ level: kangourou
 > Every day a teacher rearranges the $9$ volumes of a small class encyclopedia, so that the numbers denoting the volumes are in increasing order from left to right. To do this, he takes two volumes in the wrong position (one in his right hand and the other in his left) and swaps them. Today he found the books in the order shown in the figure ($4\ 2\ 3\ 9\ 8\ 1\ 7\ 5\ 6$). What is the minimum number of swaps the teacher must make to rearrange the volumes?
 
 **Answer:** 4
-[[Quesiti/src_kangourou_2019_ecolier_finale#qe6|src_kangourou_2019_ecolier_finale__QE6]]

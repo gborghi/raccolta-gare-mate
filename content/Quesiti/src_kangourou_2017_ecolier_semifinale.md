@@ -48,7 +48,6 @@ level: kangourou
 > - **(E)** There is not enough data to determine it.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2017_ecolier_semifinale#q01|src_kangourou_2017_ecolier_semifinale__Q01]]
 
 
 
@@ -90,7 +89,6 @@ level: kangourou
 > - **(E)** 9
 
 **Answer:** B
-[[Quesiti/src_kangourou_2017_ecolier_semifinale#q02|src_kangourou_2017_ecolier_semifinale__Q02]]
 
 
 
@@ -133,7 +131,6 @@ Francesca's balloons from partial sums
 > - **(E)** 12
 
 **Answer:** C
-[[Quesiti/src_kangourou_2017_ecolier_semifinale#q03|src_kangourou_2017_ecolier_semifinale__Q03]]
 
 
 
@@ -235,7 +232,6 @@ Francesca's balloons from partial sums
 > - **(E)** 144
 
 **Answer:** E
-[[Quesiti/src_kangourou_2017_ecolier_semifinale#q04|src_kangourou_2017_ecolier_semifinale__Q04]]
 
 
 
@@ -273,7 +269,6 @@ Francesca's balloons from partial sums
 > (A) Ada        (B) Bea         (C) Camilla         (D) Doris            (E) Eva
 
 **Answer:** D
-[[Quesiti/src_kangourou_2017_ecolier_semifinale#q05|src_kangourou_2017_ecolier_semifinale__Q05]]
 
 
 
@@ -307,7 +302,6 @@ Francesca's balloons from partial sums
 > (Points 4) Using 12 canes all equal to each other, you can build three squares. If you overlap the three squares in part, how many squares can you see at most? (A) 3         (B) 5 (C) 7 (D) 9 (E) 11
 
 **Answer:** 8
-[[Quesiti/src_kangourou_2017_ecolier_semifinale#q06|src_kangourou_2017_ecolier_semifinale__Q06]]
 
 
 
@@ -338,7 +332,6 @@ Francesca's balloons from partial sums
 > (Points 5) A father has five children: each of those born after the first was born exactly two years after the previous one. Today the age of the eldest son is twice that of the youngest. How old is the penultimate born today? (A) 9             (B) 10              (C) 11             (D) 12            (E) 13
 
 **Answer:** C
-[[Quesiti/src_kangourou_2017_ecolier_semifinale#q07|src_kangourou_2017_ecolier_semifinale__Q07]]
 
 
 
@@ -379,8 +372,6 @@ Francesca's balloons from partial sums
 > - **(C)** 25
 > - **(D)** 30
 > - **(E)** 50
-
-[[Quesiti/src_kangourou_2017_ecolier_semifinale#q08|src_kangourou_2017_ecolier_semifinale__Q08]]
 
 
 
@@ -428,8 +419,6 @@ Francesca's balloons from partial sums
 > - **(C)** 2
 > - **(D)** 3 (E) 4 Open-ended questions
 
-[[Quesiti/src_kangourou_2017_ecolier_semifinale#q09|src_kangourou_2017_ecolier_semifinale__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
@@ -458,7 +447,6 @@ Francesca's balloons from partial sums
 > (Four points) The sum of two numbers is 30 and their product is 56. What are the two numbers? (In the answer, indicate the smaller one first; e.g. If the two numbers are 5 and 8, you should write 0508.
 
 **Answer:** 0228
-[[Quesiti/src_kangourou_2017_ecolier_semifinale#q10|src_kangourou_2017_ecolier_semifinale__Q10]]
 
 
 
@@ -489,7 +477,6 @@ The number of the knight dancing with the lady 374
 > (Points 4) There are 500 ladies and 500 knights at a grand ball. The first ones on the guest list are numbered from 1 to 500, the second ones are numbered from 501 to 1000. The last knight on the list is asked to dance with the first lady, the penultimate to dance with the second lady and so on. What is the number of the knight who will dance with the lady number 374?
 
 **Answer:** 0627
-[[Quesiti/src_kangourou_2017_ecolier_semifinale#q11|src_kangourou_2017_ecolier_semifinale__Q11]]
 
 
 
@@ -520,7 +507,6 @@ The number of the knight dancing with the lady 374
 > Four plants grow along one side of a road; the distances between one plant and the next are 7.5 m, 9 m and 21 m. What is the minimum number of plants that you need to add so that all the distances between two successive plants are equal?
 
 **Answer:** 0022
-[[Quesiti/src_kangourou_2017_ecolier_semifinale#q12|src_kangourou_2017_ecolier_semifinale__Q12]]
 
 
 
@@ -575,7 +561,6 @@ The number of the knight dancing with the lady 374
 > overlap each other. How many euros will Giuliana have to spend to carry out her plan?
 
 **Answer:** 0018
-[[Quesiti/src_kangourou_2017_ecolier_semifinale#q13|src_kangourou_2017_ecolier_semifinale__Q13]]
 
 
 
@@ -605,7 +590,6 @@ Minimum number of persons with 4 children and 2 fathers
 > (Points 8) In a room there are exactly four children, each with their own father, and exactly two fathers. What's the smallest number of people in the room for which this could happen?
 
 **Answer:** 0005
-[[Quesiti/src_kangourou_2017_ecolier_semifinale#q14|src_kangourou_2017_ecolier_semifinale__Q14]]
 
 
 
@@ -722,4 +706,3 @@ Minimum number of persons with 4 children and 2 fathers
 > B
 
 **Answer:** 0070
-[[Quesiti/src_kangourou_2017_ecolier_semifinale#q15|src_kangourou_2017_ecolier_semifinale__Q15]]

@@ -41,7 +41,6 @@ level: kangourou
 > You have a five-euro banknote, a two-euro coin and a one-euro coin in your pocket and you must pay one of the following amounts: A) 3 € B) 4 € C) 6 € D) 7 € E) 8 € For which of these must you necessarily wait for change?
 
 **Answer:** B
-[[Quesiti/src_kangourou_2009_ecolier_marzo#q01|src_kangourou_2009_ecolier_marzo__Q01]]
 
 
 
@@ -82,7 +81,6 @@ How many cubes did Anna take away?
 > Using all equal cubes to each other and only leaning them on each other, Charles built a large cube of 3 cubes on each side. To disregard him, his younger sister Anna removed some cubes from the large cube, and Charles kept the structure you see in the picture. How many cubes did Anna take away? A) 6 B) 8 C) 10 D)12 E) 16
 
 **Answer:** D
-[[Quesiti/src_kangourou_2009_ecolier_marzo#q02|src_kangourou_2009_ecolier_marzo__Q02]]
 
 
 
@@ -115,7 +113,6 @@ How many cubes did Anna take away?
 > Four sticks have a total of eight ends. How many ends do six and a half sticks have in all? A) 6 B) 8 C) 12 D) 13 E) 14
 
 **Answer:** E
-[[Quesiti/src_kangourou_2009_ecolier_marzo#q03|src_kangourou_2009_ecolier_marzo__Q03]]
 
 
 
@@ -158,7 +155,6 @@ How many cubes did Anna take away?
 > In the first line of the figure you see the number 930, obtained by illuminating some squares on a screen. Each square can be switched from illuminated to off or vice versa by pressing a button. You want to get the number 806 that appears in the second line: what is the smallest number of buttons you need to press to get the goal? A) 5 B) 6 C) 7 D) 8 E) 9
 
 **Answer:** B
-[[Quesiti/src_kangourou_2009_ecolier_marzo#q04|src_kangourou_2009_ecolier_marzo__Q04]]
 
 
 
@@ -202,7 +198,6 @@ How many cubes did Anna take away?
 > Pag. 6 Kang 2009
 
 **Answer:** D
-[[Quesiti/src_kangourou_2009_ecolier_marzo#q05|src_kangourou_2009_ecolier_marzo__Q05]]
 
 
 
@@ -242,7 +237,6 @@ How many cubes did Anna take away?
 > Antonio glued 10 rectangular sheets on the table, all of them equal in size, as shown in the figure; the sides of the sheets are 4 and 6 centimeters. On them Antonio drew the line marked in bold, constructed by connecting the centers of the sheets by means of straight lines. How many centimeters is the line traced by Antonio? A) 24 B) 40 C) 46 D) 50 E) 56
 
 **Answer:** C
-[[Quesiti/src_kangourou_2009_ecolier_marzo#q06|src_kangourou_2009_ecolier_marzo__Q06]]
 
 
 
@@ -282,7 +276,6 @@ How many cubes did Anna take away?
 > Peter had a chocolate bar divided into squares. He gave a five-square strip to his brother and a seven-square strip to his sister; the strips were removed from the bar as shown in the figure. How many squares did the chocolate bar initially consist of? A) 20 B) 40 C) 50 D) 60 E) 80
 
 **Answer:** B
-[[Quesiti/src_kangourou_2009_ecolier_marzo#q07|src_kangourou_2009_ecolier_marzo__Q07]]
 
 
 
@@ -325,7 +318,6 @@ How many cubes did Anna take away?
 > You have a cube and you want to color each of the vertices by following the rule: two vertices that are at the ends of the same edge must receive different colors. What's the smallest number of colors that allows you to achieve your goal? A) 2 B) 3 C) 4 D) 6 E) 8 Questions from N. 9 to N. 16 are worth 4 points each.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2009_ecolier_marzo#q08|src_kangourou_2009_ecolier_marzo__Q08]]
 
 
 
@@ -360,7 +352,6 @@ How many cubes did Anna take away?
 > There are currently 25 boys and 19 girls in a dance school. Starting next Tuesday, two boys and three girls will be added every Tuesday. How many Tuesdays will the number of girls be equal to the number of boys? A) 6 B) 5 C) 4 D) 3 E) 2
 
 **Answer:** A
-[[Quesiti/src_kangourou_2009_ecolier_marzo#q09|src_kangourou_2009_ecolier_marzo__Q09]]
 
 
 
@@ -440,7 +431,6 @@ How many cubes did Anna take away?
 > Kang 2009
 
 **Answer:** D
-[[Quesiti/src_kangourou_2009_ecolier_marzo#q10|src_kangourou_2009_ecolier_marzo__Q10]]
 
 
 
@@ -468,7 +458,6 @@ How many cubes did Anna take away?
 > 11. Answer B) The perimeter of the rectangle measures () 24482 =+ cm., so the side of the square is 6 cm long.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2009_ecolier_marzo#q11|src_kangourou_2009_ecolier_marzo__Q11]]
 
 
 
@@ -543,7 +532,6 @@ How many cubes did Anna take away?
 > You want to complete the 4 x 4 grid in the figure by entering a number chosen from 1, 2, 3, 4 in each of the remaining boxes. You want to do this so that in every row, in every column and in each of the four 2 x 2 subgrids highlighted, each number appears once and only once. How many different ways can you accomplish your purpose? A) 1 B) 2 C) 4 D) 8 E) It is impossible to achieve what is required.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2009_ecolier_marzo#q12|src_kangourou_2009_ecolier_marzo__Q12]]
 
 
 
@@ -591,7 +579,6 @@ How many cubes did Anna take away?
 > E) 14
 
 **Answer:** E
-[[Quesiti/src_kangourou_2009_ecolier_marzo#q13|src_kangourou_2009_ecolier_marzo__Q13]]
 
 
 
@@ -626,7 +613,6 @@ How many cubes did Anna take away?
 > Anna, Bice and Carla collected a total of seven mushrooms. Each of them collected at least one mushroom, but each collected a different number of mushrooms from each of the other two. Anna collected the least of them all and Carla the most. How many mushrooms did Bice collect? A) 1 B) 2 C) 3 D) 4 E) The situation described cannot have occurred.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2009_ecolier_marzo#q14|src_kangourou_2009_ecolier_marzo__Q14]]
 
 
 
@@ -660,7 +646,6 @@ How many cubes did Anna take away?
 > You have the two dominoes you see in the figure, and you're free to place them side by side as you please. Which of the following figures can't you make?
 
 **Answer:** E
-[[Quesiti/src_kangourou_2009_ecolier_marzo#q15|src_kangourou_2009_ecolier_marzo__Q15]]
 
 
 
@@ -708,7 +693,6 @@ How many cubes did Anna take away?
 > The questions from N. 17 to N. 24 are worth five points each.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2009_ecolier_marzo#q16|src_kangourou_2009_ecolier_marzo__Q16]]
 
 
 
@@ -742,7 +726,6 @@ How many cubes did Anna take away?
 > You've calculated the following sum 1 + 11 + 111 + ... + 111111111 + 1111111111 which is the sum of the first ten integers that you can write using only the number 1. How many different digits do you see in the result? A) 2 B) 5 C) 8 D)9 E) 10
 
 **Answer:** D
-[[Quesiti/src_kangourou_2009_ecolier_marzo#q17|src_kangourou_2009_ecolier_marzo__Q17]]
 
 
 
@@ -777,7 +760,6 @@ How many cubes did Anna take away?
 > A 180-meter-long train takes five seconds to pass a person. Shortly thereafter, the train enters a 360-meter viaduct. If the speed of the train remains the same, how many seconds pass from the moment the train enters the viaduct to the moment the last carriage leaves? A) 15 B) 10 C) 20 D)30 E) 25
 
 **Answer:** A
-[[Quesiti/src_kangourou_2009_ecolier_marzo#q18|src_kangourou_2009_ecolier_marzo__Q18]]
 
 
 
@@ -827,7 +809,6 @@ How many cubes did Anna take away?
 > E) 21
 
 **Answer:** A
-[[Quesiti/src_kangourou_2009_ecolier_marzo#q19|src_kangourou_2009_ecolier_marzo__Q19]]
 
 
 
@@ -863,7 +844,6 @@ How many cubes did Anna take away?
 > A secret code is made up of 6 digits; the sum of the digits in even positions is equal to the sum of the digits in odd positions. The code certainly corresponds to one of the following, where the figures indicated with * are unreadable. Which one? A) 81**61 B) 7*727* C) 4*4141 D) 12*9*8    E) 181*2*
 
 **Answer:** D
-[[Quesiti/src_kangourou_2009_ecolier_marzo#q20|src_kangourou_2009_ecolier_marzo__Q20]]
 
 
 
@@ -934,7 +914,6 @@ How many cubes did Anna take away?
 > Kang 2009
 
 **Answer:** B
-[[Quesiti/src_kangourou_2009_ecolier_marzo#q21|src_kangourou_2009_ecolier_marzo__Q21]]
 
 
 
@@ -972,7 +951,6 @@ How many cubes did Anna take away?
 > A palindrome number is a number that remains the same if it is read from right to left instead of from left to right: for example, numbers 101 and 1221 are palindromes, while number 1231 is not. My car's meter now has the palindrome number 15951. How many kilometres will I have to travel to get the next palindrome number? A) 100 B) 110 C) 710 D) 900 E) 1010
 
 **Answer:** B
-[[Quesiti/src_kangourou_2009_ecolier_marzo#q22|src_kangourou_2009_ecolier_marzo__Q22]]
 
 
 
@@ -1033,7 +1011,6 @@ How many cubes did Anna take away?
 > 2009 Ecolier Category For fourth and fifth year students of primary school
 
 **Answer:** E
-[[Quesiti/src_kangourou_2009_ecolier_marzo#q23|src_kangourou_2009_ecolier_marzo__Q23]]
 
 
 
@@ -1062,4 +1039,3 @@ Minimum number of friends (footwear)
 > 24. Answer A) To go from number 36 to 45 by buying the minimum number of pairs of shoes you will need to have 5 pairs of shoes that differ by two numbers and 1 that differ by a number from the previous one (e.g. shoes no.36,38,40,42,44,45). So we're going to have 12 shoes that, if you discard left foot 36 and right foot 45, will serve five friends.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2009_ecolier_marzo#q24|src_kangourou_2009_ecolier_marzo__Q24]]

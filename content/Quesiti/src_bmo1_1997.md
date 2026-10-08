@@ -33,8 +33,6 @@ level: BMO Round 1
 
 > $N$ è un numero intero a quattro cifre, che non termina in zero, e $R(N)$ è il numero intero a quattro cifre ottenuto invertendo i numeri di $N$; ad esempio, $R(3275) = 5723$. Determinare tutti gli integri $N$ in modo tale che $R(N) = 4N + 3$.
 
-[[Quesiti/src_bmo1_1997#q01|src_bmo1_1997__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_ricorsione,method_induzione,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -62,8 +60,6 @@ level: BMO Round 1
 
 > Per i numeri interi positivi $n$, la sequenza $a_1, a_2, a_3, \ldots$ è definita da $$a_1 = 1, \quad a_n = \left(\frac{n+1}{n-1}\right)(a_1 + a_2 + \cdots + a_{n-1}), \quad n > 1.$$ Determina il valore di $a_{1997}$.
 
-[[Quesiti/src_bmo1_1997#q02|src_bmo1_1997__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -89,8 +85,6 @@ level: BMO Round 1
 
 > I Nani della Terra sotto la Montagna hanno appena adottato un sistema di valuta completamente decimale basato sul Pippin, con monete d'oro del valore di 1 Pippin, 10 Pippins, 100 Pippins e 1000 Pippins. In quanti modi è possibile per un Nano pagare, in moneta esatta, una bolletta di Pippin del 1997?
 
-[[Quesiti/src_bmo1_1997#q03|src_bmo1_1997__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione"></span>
@@ -115,8 +109,6 @@ level: BMO Round 1
 *L'area di ABCD è uguale a 2 data la quadrilaterale PQRS di punto medio ha l'area 1*
 
 > Che $ABCD$ sia un quadrilaterale convex. I punti intermedi di $AB$, $BC$, $CD$ e $DA$ sono rispettivamente $P$, $Q$, $R$ e $S$. Dato che il quadrilaterale $PQRS$ ha area 1, dimostrare che l'area del quadrilaterale $ABCD$ è 2.
-
-[[Quesiti/src_bmo1_1997#q04|src_bmo1_1997__Q04]]
 
 
 
@@ -154,5 +146,3 @@ level: BMO Round 1
 > (ii) Se $x + y \ge 3$, è necessariamente vero che $\dfrac{1}{x} + \dfrac{1}{y} \le 3$?
 > 
 > (iii) Se $x + y \ge 3$, è necessariamente vero che $\dfrac{1}{x} + \dfrac{1}{y} \le 3$?
-
-[[Quesiti/src_bmo1_1997#q05|src_bmo1_1997__Q05]]

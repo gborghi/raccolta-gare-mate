@@ -87,7 +87,6 @@ level: triennio
 > - **(E)** It cannot be determined uniquely.
 
 **Answer:** C
-[[Quesiti/src_archimede_1999_triennio#q01|src_archimede_1999_triennio__Q01]]
 
 
 
@@ -129,7 +128,6 @@ level: triennio
 > - **(E)** x4 > y4.
 
 **Answer:** D
-[[Quesiti/src_archimede_1999_triennio#q09|src_archimede_1999_triennio__Q09]]
 
 
 
@@ -172,7 +170,6 @@ level: triennio
 > - **(E)** 8.
 
 **Answer:** C
-[[Quesiti/src_archimede_1999_triennio#q10|src_archimede_1999_triennio__Q10]]
 
 
 
@@ -214,7 +211,6 @@ level: triennio
 > - **(E)** None of the above.
 
 **Answer:** C
-[[Quesiti/src_archimede_1999_triennio#q11|src_archimede_1999_triennio__Q11]]
 
 
 
@@ -260,7 +256,6 @@ level: triennio
 > - **(E)** depends on the particular triangle in question.
 
 **Answer:** B
-[[Quesiti/src_archimede_1999_triennio#q12|src_archimede_1999_triennio__Q12]]
 
 
 
@@ -303,7 +298,6 @@ level: triennio
 > - **(E)** x ≥ 1 100.
 
 **Answer:** D
-[[Quesiti/src_archimede_1999_triennio#q13|src_archimede_1999_triennio__Q13]]
 
 
 
@@ -344,7 +338,6 @@ level: triennio
 > - **(E)** le 16:40.
 
 **Answer:** D
-[[Quesiti/src_archimede_1999_triennio#q14|src_archimede_1999_triennio__Q14]]
 
 
 
@@ -386,7 +379,6 @@ level: triennio
 > - **(E)** 0. I'm going to take note. Remember that number 1 is not considered prime and so the smallest prime number is 2.
 
 **Answer:** E
-[[Quesiti/src_archimede_1999_triennio#q15|src_archimede_1999_triennio__Q15]]
 
 
 
@@ -426,7 +418,6 @@ level: triennio
 > - **(E)** One of them.
 
 **Answer:** A
-[[Quesiti/src_archimede_1999_triennio#q16|src_archimede_1999_triennio__Q16]]
 
 
 
@@ -468,7 +459,6 @@ level: triennio
 > - **(E)** Fishing 8 socks of one color and 0 of another.
 
 **Answer:** B
-[[Quesiti/src_archimede_1999_triennio#q17|src_archimede_1999_triennio__Q17]]
 
 
 
@@ -508,7 +498,6 @@ level: triennio
 > - **(E)** There's a pentagon with all the same angles, but not all the sides are the same.
 
 **Answer:** E
-[[Quesiti/src_archimede_1999_triennio#q18|src_archimede_1999_triennio__Q18]]
 
 
 
@@ -550,7 +539,6 @@ How many ways to have 3 boys and 3 girls
 > - **(E)** 81.
 
 **Answer:** C
-[[Quesiti/src_archimede_1999_triennio#q19|src_archimede_1999_triennio__Q19]]
 
 
 
@@ -593,7 +581,6 @@ How many ways to have 3 boys and 3 girls
 > - **(E)** √ 2 2 .
 
 **Answer:** B
-[[Quesiti/src_archimede_1999_triennio#q21|src_archimede_1999_triennio__Q21]]
 
 
 
@@ -637,7 +624,6 @@ How many ways to have 3 boys and 3 girls
 > - **(E)** 29 10.
 
 **Answer:** C
-[[Quesiti/src_archimede_1999_triennio#q22|src_archimede_1999_triennio__Q22]]
 
 
 
@@ -681,7 +667,6 @@ What to deduce from Andrea's claims about thieves
 > - **(E)** Andrea is a con man.
 
 **Answer:** E
-[[Quesiti/src_archimede_1999_triennio#q23|src_archimede_1999_triennio__Q23]]
 
 
 
@@ -724,7 +709,6 @@ What to deduce from Andrea's claims about thieves
 > - **(E)** There is no such number.
 
 **Answer:** B
-[[Quesiti/src_archimede_1999_triennio#q24|src_archimede_1999_triennio__Q24]]
 
 
 
@@ -801,4 +785,3 @@ What to deduce from Andrea's claims about thieves
 > - **(E)** 3 4. O b P A
 
 **Answer:** D
-[[Quesiti/src_archimede_1999_triennio#q25|src_archimede_1999_triennio__Q25]]

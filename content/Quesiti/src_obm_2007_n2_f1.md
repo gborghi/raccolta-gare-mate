@@ -44,7 +44,6 @@ level: OBM Nível 2
 > (A) 1001 $\quad$ (B) 2007 $\quad$ (C) 2009 $\quad$ (D) 4008 $\quad$ (E) 4014
 
 **Risposta:** E
-[[Quesiti/src_obm_2007_n2_f1#q01|src_obm_2007_n2_f1__Q01]]
 
 
 
@@ -80,7 +79,6 @@ level: OBM Nível 2
 ![[src_obm_2007_n2_f1__q02.png]]
 
 **Risposta:** E
-[[Quesiti/src_obm_2007_n2_f1#q02|src_obm_2007_n2_f1__Q02]]
 
 
 
@@ -116,7 +114,6 @@ level: OBM Nível 2
 ![[src_obm_2007_n2_f1__q03.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2007_n2_f1#q03|src_obm_2007_n2_f1__Q03]]
 
 
 
@@ -148,7 +145,6 @@ level: OBM Nível 2
 > (A) $5:1$ $\quad$ (B) $16:1$ $\quad$ (C) $12:1$ $\quad$ (D) $40:3$ $\quad$ (E) $13:1$
 
 **Risposta:** D
-[[Quesiti/src_obm_2007_n2_f1#q04|src_obm_2007_n2_f1__Q04]]
 
 
 
@@ -180,7 +176,6 @@ level: OBM Nível 2
 > (A) 200 $\quad$ (B) 260 $\quad$ (C) 93 $\quad$ (D) 223 $\quad$ (E) 300
 
 **Risposta:** B
-[[Quesiti/src_obm_2007_n2_f1#q05|src_obm_2007_n2_f1__Q05]]
 
 
 
@@ -213,7 +208,6 @@ level: OBM Nível 2
 > (A) 3 $\quad$ (B) 12 $\quad$ (C) 36 $\quad$ (D) 54 $\quad$ (E) 108
 
 **Risposta:** E
-[[Quesiti/src_obm_2007_n2_f1#q06|src_obm_2007_n2_f1__Q06]]
 
 
 
@@ -249,7 +243,6 @@ level: OBM Nível 2
 ![[src_obm_2007_n2_f1__q07.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2007_n2_f1#q07|src_obm_2007_n2_f1__Q07]]
 
 
 
@@ -282,7 +275,6 @@ level: OBM Nível 2
 > (A) 0 $\quad$ (B) 1 $\quad$ (C) 2 $\quad$ (D) 3 $\quad$ (E) 4
 
 **Risposta:** C
-[[Quesiti/src_obm_2007_n2_f1#q08|src_obm_2007_n2_f1__Q08]]
 
 
 
@@ -315,7 +307,6 @@ level: OBM Nível 2
 > (A) 4017 $\quad$ (B) 220 $\quad$ (C) 4095 $\quad$ (D) 66 $\quad$ (E) 3572
 
 **Risposta:** C
-[[Quesiti/src_obm_2007_n2_f1#q09|src_obm_2007_n2_f1__Q09]]
 
 
 
@@ -348,7 +339,6 @@ level: OBM Nível 2
 > (A) 1 $\quad$ (B) 2 $\quad$ (C) 3 $\quad$ (D) 4 $\quad$ (E) 5
 
 **Risposta:** C
-[[Quesiti/src_obm_2007_n2_f1#q10|src_obm_2007_n2_f1__Q10]]
 
 
 
@@ -381,7 +371,6 @@ level: OBM Nível 2
 > (A) 0 $\quad$ (B) 1 $\quad$ (C) 2007 $\quad$ (D) 2008 $\quad$ (E) 2007
 
 **Risposta:** B
-[[Quesiti/src_obm_2007_n2_f1#q11|src_obm_2007_n2_f1__Q11]]
 
 
 
@@ -414,7 +403,6 @@ level: OBM Nível 2
 > (A) 80 $\quad$ (B) 81 $\quad$ (C) 84 $\quad$ (D) 90 $\quad$ (E) 100
 
 **Risposta:** B
-[[Quesiti/src_obm_2007_n2_f1#q12|src_obm_2007_n2_f1__Q12]]
 
 
 
@@ -447,7 +435,6 @@ level: OBM Nível 2
 > (A) 767 $\quad$ (B) 875 $\quad$ (C) 876 $\quad$ (D) 974 $\quad$ (E) 975
 
 **Risposta:** A
-[[Quesiti/src_obm_2007_n2_f1#q13|src_obm_2007_n2_f1__Q13]]
 
 
 
@@ -483,7 +470,6 @@ level: OBM Nível 2
 ![[src_obm_2007_n2_f1__q14.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2007_n2_f1#q14|src_obm_2007_n2_f1__Q14]]
 
 
 
@@ -516,7 +502,6 @@ level: OBM Nível 2
 > (A) 180 $\quad$ (B) 150 $\quad$ (C) 120 $\quad$ (D) 182 $\quad$ (E) 75
 
 **Risposta:** A
-[[Quesiti/src_obm_2007_n2_f1#q15|src_obm_2007_n2_f1__Q15]]
 
 
 
@@ -553,7 +538,6 @@ level: OBM Nível 2
 ![[src_obm_2007_n2_f1__q16.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2007_n2_f1#q16|src_obm_2007_n2_f1__Q16]]
 
 
 
@@ -588,7 +572,6 @@ level: OBM Nível 2
 > (A) 2 $\quad$ (B) 3 $\quad$ (C) 4 $\quad$ (D) 5 $\quad$ (E) 6
 
 **Risposta:** C
-[[Quesiti/src_obm_2007_n2_f1#q17|src_obm_2007_n2_f1__Q17]]
 
 
 
@@ -623,8 +606,6 @@ level: OBM Nível 2
 > A) Occidente $\quad$ B) Est $\quad$ C) Nord $\quad$ D) Sud $\quad$ E) Su
 
 ![[src_obm_2007_n2_f1__q18.png]]
-
-[[Quesiti/src_obm_2007_n2_f1#q18|src_obm_2007_n2_f1__Q18]]
 
 
 
@@ -665,7 +646,6 @@ level: OBM Nível 2
 > - **(E)** Almeno $25\%$ degli edifici hanno meno di $5$ piani.
 
 **Risposta:** D
-[[Quesiti/src_obm_2007_n2_f1#q19|src_obm_2007_n2_f1__Q19]]
 
 
 
@@ -698,7 +678,6 @@ level: OBM Nível 2
 > (A) 8 $\quad$ (B) 9 $\quad$ (C) 10 $\quad$ (D) 11 $\quad$ (E) 12
 
 **Risposta:** B
-[[Quesiti/src_obm_2007_n2_f1#q20|src_obm_2007_n2_f1__Q20]]
 
 
 
@@ -731,7 +710,6 @@ level: OBM Nível 2
 > (A) 02h30 $\quad$ (B) 06h20 $\quad$ (C) 05h40 $\quad$ (D) 08h50 $\quad$ (E) 09h55
 
 **Risposta:** E
-[[Quesiti/src_obm_2007_n2_f1#q21|src_obm_2007_n2_f1__Q21]]
 
 
 
@@ -764,7 +742,6 @@ level: OBM Nível 2
 > (A) 3 $\quad$ (B) 33 $\quad$ (C) 37 $\quad$ (D) 11 $\quad$ (E) 101
 
 **Risposta:** E
-[[Quesiti/src_obm_2007_n2_f1#q22|src_obm_2007_n2_f1__Q22]]
 
 
 
@@ -799,8 +776,6 @@ level: OBM Nível 2
 
 ![[src_obm_2007_n2_f1__q23.png]]
 
-[[Quesiti/src_obm_2007_n2_f1#q23|src_obm_2007_n2_f1__Q23]]
-
 
 
 <span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_aritmetica,method_casework,skill_casework_accurato,skill_conteggio_sistematico"></span>
@@ -830,8 +805,6 @@ level: OBM Nível 2
 > 
 > (A) Moltiplo di 3 $\quad$ (B) Primo $\quad$ (C) Con ultima cifra uguale a 7 $\quad$ (D) La cui somma di cifre è 10 $\quad$ (E) Moltiplo di 7
 
-[[Quesiti/src_obm_2007_n2_f1#q24|src_obm_2007_n2_f1__Q24]]
-
 
 
 <span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_aritmetica,method_ricorsione,method_conteggio,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -860,5 +833,3 @@ level: OBM Nível 2
 > $\{a_n\}$ sia una sequenza in cui ogni termine è definito come doppio della somma dei numeri del termine precedente, più una unità. Per esempio, se $a_n = 234$, allora $a_{n+1} = 2(2 + 3 + 4) + 1$. Se $a_1 = 1$, il valore di $a_{31} + a_{32} + a_{33} + a_{34} + a_{35}$ è uguale a:
 > 
 > (A) 44 $\quad$ (B) 54 $\quad$ (C) 64 $\quad$ (D) 77 $\quad$ (E) 84
-
-[[Quesiti/src_obm_2007_n2_f1#q25|src_obm_2007_n2_f1__Q25]]

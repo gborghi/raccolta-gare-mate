@@ -289,6 +289,40 @@ function mergeSiblings(key, body, origin, siblings, stats) {
   return { body: merged, langs }
 }
 
+// Each translation sibling in the vault carries a back-link to its original on a line
+// of its own, usually right under "**Answer:** …": `[[src_kangourou_2018_ecolier_finale__QE3]]`.
+// It stays in the vault (Obsidian navigation) but on the site it rendered the raw internal
+// code at the end of every translated text (after a soft line break, so it read
+// "Answer: 1 src_…__QE3"). Same rule as raccolta-gare-fisica (scripts/siblings.mjs,
+// stripLoneBacklink): only a line whose ENTIRE content, after trimming, is exactly
+// `[[<translation_of>]]` is dropped (no alias, no #heading, nothing else on the line, never
+// any other link). Compared NFC + case-insensitive (Obsidian links are case-insensitive).
+// Safety net for the same link glued to the end of an "Answer:/Risposta:" line: only the
+// trailing exact `[[<translation_of>]]` token goes, the answer text before it stays.
+// Returns { body, removed, inline }.
+const backlinkKey = (s) => String(s ?? "").normalize("NFC").trim().toLowerCase()
+const ANSWER_TAIL_RE = /^(\s*\**\s*(?:Answer|Risposta|Resposta|Réponse|Respuesta)\s*:?\s*\**\s*:?.*?\S?)[ \t]*\[\[([^\]|#\n]+)\]\][ \t]*$/i
+export function stripLoneBacklink(body, translationOf) {
+  const want = backlinkKey(`[[${translationOf ?? ""}]]`)
+  let removed = 0
+  let inline = 0
+  const out = []
+  for (const line of String(body ?? "").split("\n")) {
+    if (backlinkKey(line) === want) {
+      removed++
+      continue
+    }
+    const m = ANSWER_TAIL_RE.exec(line)
+    if (m && backlinkKey(`[[${m[2]}]]`) === want) {
+      inline++
+      out.push(m[1].replace(/[ \t]+$/, ""))
+      continue
+    }
+    out.push(line)
+  }
+  return { body: removed || inline ? out.join("\n") : body, removed, inline }
+}
+
 async function walk(dir, base = dir, out = []) {
   for (const ent of await fs.readdir(dir, { withFileTypes: true })) {
     const full = path.join(dir, ent.name)
@@ -324,7 +358,7 @@ async function main() {
   let decorated = 0
   let merged = 0 // quesiti that received at least one translation block
   let mergedBlocks = 0 // total qlang-split blocks emitted (one per sibling language)
-  const sibStats = { sameLang: 0, dupes: 0, noLang: 0 }
+  const sibStats = { sameLang: 0, dupes: 0, noLang: 0, backlinkBlocks: 0, backlinkLines: 0, backlinkInline: 0 }
 
   // Bilingual pass 1: collect hidden translation siblings, keyed by the default
   // basename they translate: key -> Map(lang -> {lang, body, mtime, rel}). A quesito can
@@ -348,7 +382,15 @@ async function main() {
       if (!siblings.has(key)) siblings.set(key, new Map())
       const byLang = siblings.get(key)
       const prev = byLang.get(lang)
-      const cur = { lang, body: transform(content), mtime, rel }
+      // drop the vault back-link [[<translation_of>]] on the RAW body (before transform /
+      // fix-content-links rewrite it into a gara#qNN link)
+      const lone = stripLoneBacklink(content, data.translation_of)
+      if (lone.removed || lone.inline) {
+        sibStats.backlinkBlocks++
+        sibStats.backlinkLines += lone.removed
+        sibStats.backlinkInline += lone.inline
+      }
+      const cur = { lang, body: transform(lone.body), mtime, rel }
       if (prev) {
         sibStats.dupes++
         // newest wins; equal mtime -> lexicographically last path (deterministic)
@@ -694,6 +736,9 @@ Seleziona uno o più tag per filtrare i ${quesiti.length} quesiti. Usa l'interru
   console.log(
     `copied ${written} notes, indexed ${quesiti.length} quesiti, merged ${mergedBlocks} translation siblings into ${merged} quesiti` +
       ` (skipped: ${sibStats.sameLang} same-lang, ${sibStats.dupes} duplicate-lang, ${sibStats.noLang} no-lang)`,
+  )
+  console.log(
+    `translation back-links [[<translation_of>]] dropped: ${sibStats.backlinkLines} lone lines + ${sibStats.backlinkInline} after Answer: in ${sibStats.backlinkBlocks} siblings`,
   )
   // link/image repairs shared with the committed content (scripts/fix-content-links.mjs):
   // atom links -> gara#qNN, lower-case figure names, PDF -> Drive, dangling concepts.

@@ -33,8 +33,6 @@ level: BMO Round 1
 
 > Giovedì 1 gennaio 2015, Anna compra un libro e uno scaffale. Per i prossimi due anni, compra un libro ogni giorno e uno scaffale ogni giovedì, quindi il prossimo scaffale viene acquistato il 15 gennaio 2015. Su quante date nel periodo Giovedì 1 gennaio 2015 fino al sabato 31 dicembre 2016 inclusi Anna ha un numero di libri che è un esatto moltiplo del numero di scaffali che ha?
 
-[[Quesiti/src_bmo_2015-16_round1#q01|src_bmo_2015-16_round1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -58,8 +56,6 @@ level: BMO Round 1
 *Quadrilaterale ciclico; tangente a D che incontra la linea CB; prova triangolo DEF isosceles.*
 
 > Che $ABCD$ sia un quadrilaterale ciclico e che le linee $CD$ e $BA$ si incontrino a $E$. La linea attraverso $D$ che è tangente al circoncircolo di $ABCD$ a $D$ incontra la linea $CB$ a $F$. Prova che il triangolo $DEF$ è uguale.
-
-[[Quesiti/src_bmo_2015-16_round1#q02|src_bmo_2015-16_round1__Q02]]
 
 
 
@@ -85,8 +81,6 @@ level: BMO Round 1
 *Sequenza definita da ricorrenza con costanti A e B; trovare valori iniziali razionali.*
 
 > Supponiamo che una sequenza $a_1, a_2, a_3, \ldots$ sia definita con una formula $a_n = a_{n-1} + A + B/a_{n-1}$ in cui $A$ e $B$ sono costanti razionali con $A \neq 0$. Determinare tutti i valori di $a_1$ che forniscono il minor numero possibile di termini nella sequenza che sono numeri razionali.
-
-[[Quesiti/src_bmo_2015-16_round1#q03|src_bmo_2015-16_round1__Q03]]
 
 
 
@@ -116,8 +110,6 @@ James Jar of 100 pebbles gioco; determinare le posizioni da cui il secondo gioca
 
 > James ha una bottiglia di 100 pietre. Una mossa consiste nel togliere uno o più ciottoli dal vaso o nel riportarne uno o più. Le seguenti condizioni devono essere soddisfatte: a) Il gioco non può mai essere restituito a uno stato precedente. (b) Il vaso non può mai essere vuoto. Un giocatore che non può fare una mossa perde. James e' il primo. Determina tutti i valori del numero iniziale di pietre da cui James può garantire una vittoria.
 
-[[Quesiti/src_bmo_2015-16_round1#q04|src_bmo_2015-16_round1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -141,8 +133,6 @@ James Jar of 100 pebbles gioco; determinare le posizioni da cui il secondo gioca
 *Piede di altitudine triangolare; quattro piedi perpendicolari sono conciclici.*
 
 > $ABC$ sia un triangolo e $D$ sia il piede dell'altitudine da $A$. I piedi delle perpendicolari $P$, $Q$, $R$ e $S$ siano rispettivamente i piedi delle perpendicolari $D$ a $AB$, $DB$, $DC$ e $CA$. Indicare che $P$, $Q$, $R$, $S$ sono conciclici.
-
-[[Quesiti/src_bmo_2015-16_round1#q05|src_bmo_2015-16_round1__Q05]]
 
 
 
@@ -168,5 +158,3 @@ James Jar of 100 pebbles gioco; determinare le posizioni da cui il secondo gioca
 *Tanti interi incantevoli definiti in modo ricorrente; dimostrare che ogni intero positivo è la somma di pochi interi incantevoli.*
 
 > Un intero positivo $n$ si chiama incantevole se è uguale a $1$ o può essere scritto come la somma di due interi non negativi in $k$ modi incantevoli diversi, dove $k$ è un intero non negativo. Prova che ogni numero intero positivo può essere scritto come la somma di un piccolo numero di numeri interi affascinanti.
-
-[[Quesiti/src_bmo_2015-16_round1#q06|src_bmo_2015-16_round1__Q06]]

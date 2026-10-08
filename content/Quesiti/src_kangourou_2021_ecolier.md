@@ -53,7 +53,6 @@ level: kangourou
 > E)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_ecolier#q01|src_kangourou_2021_ecolier__Q01]]
 
 
 
@@ -102,7 +101,6 @@ level: kangourou
 > E) 8
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_ecolier#q02|src_kangourou_2021_ecolier__Q02]]
 
 
 
@@ -152,7 +150,6 @@ level: kangourou
 > E) 33
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_ecolier#q03|src_kangourou_2021_ecolier__Q03]]
 
 
 
@@ -205,7 +202,6 @@ level: kangourou
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_ecolier#q04|src_kangourou_2021_ecolier__Q04]]
 
 
 
@@ -255,7 +251,6 @@ level: kangourou
 > E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2021_ecolier#q05|src_kangourou_2021_ecolier__Q05]]
 
 
 
@@ -309,7 +304,6 @@ level: kangourou
 > E) 69
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_ecolier#q06|src_kangourou_2021_ecolier__Q06]]
 
 
 
@@ -356,7 +350,6 @@ level: kangourou
 > E) 15
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_ecolier#q07|src_kangourou_2021_ecolier__Q07]]
 
 
 
@@ -396,7 +389,6 @@ level: kangourou
 > Rossana has some spheres, three different colors. Spheres of the same colour have the same weight. The balances in the figure show the overall weight of some groups of these spheres. What's the weight of each white sphere? A) 3 kg B) 4 kg C) 5 kg D) 6 kg E) 7 kg Questions from N. 9 to N. 16 are worth 4 points each.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_ecolier#q08|src_kangourou_2021_ecolier__Q08]]
 
 
 
@@ -444,7 +436,6 @@ level: kangourou
 > E) 38
 
 **Answer:** E
-[[Quesiti/src_kangourou_2021_ecolier#q09|src_kangourou_2021_ecolier__Q09]]
 
 
 
@@ -507,7 +498,6 @@ level: kangourou
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_ecolier#q10|src_kangourou_2021_ecolier__Q10]]
 
 
 
@@ -565,7 +555,6 @@ Alignment that prevents Gina from grouping
 > E)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_ecolier#q11|src_kangourou_2021_ecolier__Q11]]
 
 
 
@@ -611,7 +600,6 @@ Alignment that prevents Gina from grouping
 > E) She cannot do it.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_ecolier#q12|src_kangourou_2021_ecolier__Q12]]
 
 
 
@@ -665,7 +653,6 @@ Alignment that prevents Gina from grouping
 > E)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_ecolier#q13|src_kangourou_2021_ecolier__Q13]]
 
 
 
@@ -740,7 +727,6 @@ Box in which Eva attached the flower
 >
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_ecolier#q14|src_kangourou_2021_ecolier__Q14]]
 
 
 
@@ -791,7 +777,6 @@ Box in which Eva attached the flower
 > E) 22
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_ecolier#q15|src_kangourou_2021_ecolier__Q15]]
 
 
 
@@ -854,7 +839,6 @@ Box in which Eva attached the flower
 > Questions from No. 17 to No. 24 are worth 5 points each
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_ecolier#q16|src_kangourou_2021_ecolier__Q16]]
 
 
 
@@ -908,7 +892,6 @@ Box in which Eva attached the flower
 > E) 6
 
 **Answer:** A
-[[Quesiti/src_kangourou_2021_ecolier#q17|src_kangourou_2021_ecolier__Q17]]
 
 
 
@@ -960,7 +943,6 @@ Box in which Eva attached the flower
 > E) G
 
 **Answer:** E
-[[Quesiti/src_kangourou_2021_ecolier#q18|src_kangourou_2021_ecolier__Q18]]
 
 
 
@@ -1032,7 +1014,6 @@ Box in which Eva attached the flower
 >
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_ecolier#q19|src_kangourou_2021_ecolier__Q19]]
 
 
 
@@ -1085,7 +1066,6 @@ Box in which Eva attached the flower
 > E) 18
 
 **Answer:** A
-[[Quesiti/src_kangourou_2021_ecolier#q20|src_kangourou_2021_ecolier__Q20]]
 
 
 
@@ -1133,7 +1113,6 @@ Box in which Eva attached the flower
 > E) 48
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_ecolier#q21|src_kangourou_2021_ecolier__Q21]]
 
 
 
@@ -1172,7 +1151,6 @@ Box in which Eva attached the flower
 > Each of the five boxes in the picture contains either apples or bananas but not both types of fruit. The total weight of all bananas is three times the weight of all apples. Which boxes contain the apples? A) 1 and 2 B) 2 and 3 C) 2 and 4 D) 3 and 4 E) 1 and 4
 
 **Answer:** E
-[[Quesiti/src_kangourou_2021_ecolier#q22|src_kangourou_2021_ecolier__Q22]]
 
 
 
@@ -1226,7 +1204,6 @@ Number in the square? with arrows min->max*
 > E) 8
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_ecolier#q23|src_kangourou_2021_ecolier__Q23]]
 
 
 
@@ -1318,4 +1295,3 @@ Number in the square? with arrows min->max*
 >
 
 **Answer:** A
-[[Quesiti/src_kangourou_2021_ecolier#q24|src_kangourou_2021_ecolier__Q24]]

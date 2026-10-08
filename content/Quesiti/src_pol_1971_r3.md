@@ -34,8 +34,6 @@ level: Olimpiade Polacca Round 3
 
 > Mostrare che se $(a_n)$ è una sequenza infinita di numeri interi positivi distinti, nessuno dei quali contiene la cifra $0$ nell'espansione decimale, allora $$\sum_{i=1}^{\infty} \frac{1}{a_i} < 29.$$
 
-[[Quesiti/src_pol_1971_r3#q01|src_pol_1971_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_combinatoria,method_invarianti,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione"></span>
@@ -60,8 +58,6 @@ level: Olimpiade Polacca Round 3
 *Triangolo della tavola della piscina: la palla riflette i tempi finiti senza colpire il vertice*
 
 > Un tavolo da biliardo ha la forma di un triangolo i cui angoli sono in rapporto razionale. Una palla posizionata in un punto interno del tavolo viene colpita da un bastone. La palla riflette dai lati del triangolo secondo la legge del riflesso. Prova che la palla si muoverà solo lungo un numero finito di segmenti. (Si presume che la palla non raggiunga le vertici del triangolo.)
-
-[[Quesiti/src_pol_1971_r3#q02|src_pol_1971_r3__Q02]]
 
 
 
@@ -88,8 +84,6 @@ level: Olimpiade Polacca Round 3
 
 > Una cassaforte è protetta da un certo numero di serrature. Undici membri del comitato hanno le chiavi di alcune serrature. Qual è il numero minimo di serrature necessario affinché ogni sei membri del comitato possano aprire la cassaforte, ma non cinque membri possono farlo? Come dovrebbero essere distribuite le chiavi tra i membri del comitato se il numero di serrature è il più piccolo?
 
-[[Quesiti/src_pol_1971_r3#q03|src_pol_1971_r3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_casework,method_induzione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
@@ -115,8 +109,6 @@ level: Olimpiade Polacca Round 3
 
 > Prove che se i numeri interi positivi $x, y, z$ soddisfano l'equazione $x^y + y^z = z^x$, allora $\min\{x, y\} \ge n$.
 
-[[Quesiti/src_pol_1971_r3#q04|src_pol_1971_r3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_algebra,method_estremalita,method_casework,skill_conteggio_sistematico,skill_stima,skill_riconoscimento_pattern"></span>
@@ -141,8 +133,6 @@ level: Olimpiade Polacca Round 3
 *A più piccola tale che la somma di dieci numeri successivi sia almeno A*
 
 > Trovare il più grande intero $A$ in modo tale che per qualsiasi permutazione dei numeri naturali non superiore a $100$, la somma di circa dieci numeri successivi sia almeno $A$.
-
-[[Quesiti/src_pol_1971_r3#q05|src_pol_1971_r3__Q05]]
 
 
 
@@ -174,5 +164,3 @@ level: Olimpiade Polacca Round 3
 > Si dà un tetraedro regolare con lunghezza del bordo unitario. Prova che: (a) sulla superficie $S$ del tetraedro esistono quattro punti, in modo tale che la distanza da qualsiasi punto della superficie $S$ non superi $1/2$. b) Non esistono tre punti con questa proprietà.
 > 
 > La distanza tra due punti sulla superficie $S$ è definita come la lunghezza della linea poligonale più corta che attraversa $S$ e collega i due punti.
-
-[[Quesiti/src_pol_1971_r3#q06|src_pol_1971_r3__Q06]]

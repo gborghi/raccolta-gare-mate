@@ -35,8 +35,6 @@ level: BMO Round 2
 
 > Una sequenza $a_1, a_2, a_3, \ldots$ ha $a_1 > 2$ e soddisfa: $$a_{n+1} = \frac{a_n(a_n - 1)}{2}$$ per tutti gli integri positivi $n$. Per quali valori di $a_1$ tutti i termini della sequenza sono numeri interi pari?
 
-[[Quesiti/src_bmo2_2020#q01|src_bmo2_2020__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_casework,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_astrazione"></span>
@@ -66,8 +64,6 @@ level: BMO Round 2
 > 
 > *(Il radius circundiale di un triangolo è il radius del cerchio che attraversa tutte e tre le sue vertici.) *
 
-[[Quesiti/src_bmo2_2020#q02|src_bmo2_2020__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_conteggio,method_casework,method_invarianti,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -96,8 +92,6 @@ level: BMO Round 2
 > Una griglia quadrata $2019 \times 2019$ è composta da celle unità $2019^2$. Ogni cella è di colore nero o bianco. Un colorante è denominato *equilibrato* se, all'interno di ogni sottogrido quadrato composto da cellule $k^2$ per $1 \le k \le 2019$, il numero di cellule nere differisce dal numero di cellule bianche di almeno una. Quante diverse colorazioni equilibrate ci sono?
 > 
 > *(Due colorazioni sono diverse se in una di esse c'è almeno una cellula nera.) *
-
-[[Quesiti/src_bmo2_2020#q03|src_bmo2_2020__Q03]]
 
 
 
@@ -129,5 +123,3 @@ level: BMO Round 2
 > Una sequenza $b_1, b_2, b_3, \ldots$ di numeri reali non zero ha la proprietà di $$b_{n+2} = \frac{b_{n+1}^2 - 1}{b_n}$$ per tutti gli enti interi positivi $n$.
 > 
 > Supponiamo che $b_1 = 1$ e $b_2 = k$ dove $1 < k < 2$. Indicare che esiste una costante $B$, a seconda di $k$, tale che $-B \le b_n \le B$ per tutti $n$. Indicare anche che, per alcuni $1 < k < 2$, esiste un valore di $n$ tale che $b_n > 2020$.
-
-[[Quesiti/src_bmo2_2020#q04|src_bmo2_2020__Q04]]

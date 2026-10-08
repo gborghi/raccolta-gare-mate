@@ -41,8 +41,6 @@ level: BMO Round 2
 > 
 > Trova un intero $d > 9$ tale che il risultato sopra riportato in merito alla divisibilità per $7$ rimanga vero quando $M$ e $N$ sono due interi positivi a 4 cifre $d$.
 
-[[Quesiti/src_bmo2_1997#q01|src_bmo2_1997__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -68,8 +66,6 @@ level: BMO Round 2
 
 > Nel triangolo a angolo acuto $ABC$, $CF$ è un'altitudine, con $F$ su $AB$, e $BM$ è una media, con $M$ su $CA$. Dato che $BM = CF$ e $\angle MBC = \angle FCA$ dimostrano che il triangolo $ABC$ è equilaterale.
 
-[[Quesiti/src_bmo2_1997#q02|src_bmo2_1997__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_combinatoria,method_congruenze,method_conteggio,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -94,8 +90,6 @@ level: BMO Round 2
 *Contare polinomi di grado-5 con coefficienti distinti divisibili da x2−x+1*
 
 > Trova il numero di polinomi di grado $5$ con coefficienti distinti dall'insieme $\{1, 2, 3, 4, 5, 6, 7, 8\}$ divisibili da $x^2 - x + 1$.
-
-[[Quesiti/src_bmo2_1997#q03|src_bmo2_1997__Q03]]
 
 
 
@@ -129,5 +123,3 @@ level: BMO Round 2
 > (i) Trovare una progressione massima in $S$ di lunghezza $1996$.
 > 
 > (ii) C'è una progressione massima in $S$ di lunghezza $1997$?
-
-[[Quesiti/src_bmo2_1997#q04|src_bmo2_1997__Q04]]

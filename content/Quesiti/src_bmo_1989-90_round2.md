@@ -35,8 +35,6 @@ level: BMO Round 2
 
 > Prove che se $$p(x) = a_0 x^n + a_1 x^{n-1} + \cdots + a_n$$ i cui coefficienti sono interi, prende il valore 1990 per quattro valori interi distinti di $x$, allora non prende il valore 1991 per alcun valore interi di $x$.
 
-[[Quesiti/src_bmo_1989-90_round2#q01|src_bmo_1989-90_round2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
@@ -71,8 +69,6 @@ level: BMO Round 2
 > 
 > Ci sono soluzioni razionali?
 
-[[Quesiti/src_bmo_1989-90_round2#q02|src_bmo_1989-90_round2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_disuguaglianze,topic_geometria_piana,method_disuguaglianze,method_trigonometria,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -102,8 +98,6 @@ level: BMO Round 2
 > Indicare la regola cosina per un triangolo.
 > 
 > Prova che per i numeri reali positivi $a$, $b$, $c$ che sono i lati di un triangolo, $$\sqrt{a} + \sqrt{b} > \sqrt{c}.$$
-
-[[Quesiti/src_bmo_1989-90_round2#q03|src_bmo_1989-90_round2__Q03]]
 
 
 
@@ -138,5 +132,3 @@ level: BMO Round 2
 > Il $I$ deve essere il centro del cerchio inscritto nel triangolo $ABC$, con $AB$ e $AC$ prodotti al di là di $B$ e $C$ rispettivamente.
 > 
 > Provare che $$AI^2 = AB \cdot AC.$$
-
-[[Quesiti/src_bmo_1989-90_round2#q04|src_bmo_1989-90_round2__Q04]]

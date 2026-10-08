@@ -46,7 +46,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $21$
 
 **Risposta:** C
-[[Quesiti/src_smc_2023#q01|src_smc_2023__Q01]]
 
 
 
@@ -86,7 +85,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $\dfrac{1}{30000}$
 
 **Risposta:** C
-[[Quesiti/src_smc_2023#q02|src_smc_2023__Q02]]
 
 
 
@@ -126,7 +124,6 @@ level: Senior Mathematical Challenge
 > - **(E)** Aumenta di $5\%$
 
 **Risposta:** D
-[[Quesiti/src_smc_2023#q03|src_smc_2023__Q03]]
 
 
 
@@ -167,7 +164,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $25$
 
 **Risposta:** C
-[[Quesiti/src_smc_2023#q04|src_smc_2023__Q04]]
 
 
 
@@ -211,7 +207,6 @@ level: Senior Mathematical Challenge
 ![[src_smc_2023__q05.png]]
 
 **Risposta:** B
-[[Quesiti/src_smc_2023#q05|src_smc_2023__Q05]]
 
 
 
@@ -256,7 +251,6 @@ level: Senior Mathematical Challenge
 ![[src_smc_2023__q06.png]]
 
 **Risposta:** B
-[[Quesiti/src_smc_2023#q06|src_smc_2023__Q06]]
 
 
 
@@ -297,7 +291,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $2006$
 
 **Risposta:** D
-[[Quesiti/src_smc_2023#q07|src_smc_2023__Q07]]
 
 
 
@@ -337,7 +330,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $1$
 
 **Risposta:** A
-[[Quesiti/src_smc_2023#q08|src_smc_2023__Q08]]
 
 
 
@@ -382,7 +374,6 @@ level: Senior Mathematical Challenge
 ![[src_smc_2023__q09.png]]
 
 **Risposta:** D
-[[Quesiti/src_smc_2023#q09|src_smc_2023__Q09]]
 
 
 
@@ -423,7 +414,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $5$
 
 **Risposta:** B
-[[Quesiti/src_smc_2023#q10|src_smc_2023__Q10]]
 
 
 
@@ -464,7 +454,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $3$
 
 **Risposta:** B
-[[Quesiti/src_smc_2023#q11|src_smc_2023__Q11]]
 
 
 
@@ -505,7 +494,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $8$
 
 **Risposta:** E
-[[Quesiti/src_smc_2023#q12|src_smc_2023__Q12]]
 
 
 
@@ -549,7 +537,6 @@ level: Senior Mathematical Challenge
 ![[src_smc_2023__q13.png]]
 
 **Risposta:** A
-[[Quesiti/src_smc_2023#q13|src_smc_2023__Q13]]
 
 
 
@@ -590,7 +577,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $16$
 
 **Risposta:** E
-[[Quesiti/src_smc_2023#q14|src_smc_2023__Q14]]
 
 
 
@@ -631,7 +617,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $0$
 
 **Risposta:** D
-[[Quesiti/src_smc_2023#q15|src_smc_2023__Q15]]
 
 
 
@@ -672,7 +657,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $0$
 
 **Risposta:** D
-[[Quesiti/src_smc_2023#q15(1zz9)|src_smc_2023__Q15(1zz9)]]
 
 
 
@@ -713,7 +697,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $0$
 
 **Risposta:** D
-[[Quesiti/src_smc_2023#q15(lehr)|src_smc_2023__Q15(leHr)]]
 
 
 
@@ -757,7 +740,6 @@ level: Senior Mathematical Challenge
 ![[src_smc_2023__q16.png]]
 
 **Risposta:** A
-[[Quesiti/src_smc_2023#q16|src_smc_2023__Q16]]
 
 
 
@@ -798,7 +780,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $3$ e $5$
 
 **Risposta:** E
-[[Quesiti/src_smc_2023#q17|src_smc_2023__Q17]]
 
 
 
@@ -839,7 +820,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $8$
 
 **Risposta:** C
-[[Quesiti/src_smc_2023#q18|src_smc_2023__Q18]]
 
 
 
@@ -880,7 +860,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $14$
 
 **Risposta:** E
-[[Quesiti/src_smc_2023#q19|src_smc_2023__Q19]]
 
 
 
@@ -924,7 +903,6 @@ level: Senior Mathematical Challenge
 ![[src_smc_2023__q20.png]]
 
 **Risposta:** C
-[[Quesiti/src_smc_2023#q20|src_smc_2023__Q20]]
 
 
 
@@ -968,7 +946,6 @@ level: Senior Mathematical Challenge
 ![[src_smc_2023__q21.png]]
 
 **Risposta:** D
-[[Quesiti/src_smc_2023#q21|src_smc_2023__Q21]]
 
 
 
@@ -1012,7 +989,6 @@ level: Senior Mathematical Challenge
 ![[src_smc_2023__q22.png]]
 
 **Risposta:** C
-[[Quesiti/src_smc_2023#q22|src_smc_2023__Q22]]
 
 
 
@@ -1053,7 +1029,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $\dfrac{14}{19}$
 
 **Risposta:** D
-[[Quesiti/src_smc_2023#q23|src_smc_2023__Q23]]
 
 
 
@@ -1098,7 +1073,6 @@ level: Senior Mathematical Challenge
 ![[src_smc_2023__q24.png]]
 
 **Risposta:** B
-[[Quesiti/src_smc_2023#q24|src_smc_2023__Q24]]
 
 
 
@@ -1139,4 +1113,3 @@ level: Senior Mathematical Challenge
 > - **(E)** $4$
 
 **Risposta:** A
-[[Quesiti/src_smc_2023#q25|src_smc_2023__Q25]]

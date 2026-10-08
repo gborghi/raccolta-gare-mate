@@ -45,8 +45,6 @@ level: BMO Round 1
 > 
 > Determinare, con la prova, quali integri positivi $n$ nell'intervallo $3 \le n \le 12$ sono soddisfatti.
 
-[[Quesiti/src_bmo1_2025#q01|src_bmo1_2025__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_combinatoria,method_invarianti,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -75,8 +73,6 @@ level: BMO Round 1
 > Un mago esegue un trucco con un mazzo di carte $n$ numerate da $1$ a $n$. La mago si prepara per il trucco mettendo le carte in un ordine di sua scelta. Poi sfida un membro del pubblico a scrivere un numero intero su una lavagna. Il mago gira le carte una per una, nell'ordine predeterminato. Ogni volta che il mago gira una carta, il membro del pubblico moltiplica il numero della scheda di $-1$, la aggiunge al numero della scheda, scrive il risultato sulla scheda e cancella il vecchio numero. Il mago garantisce che, indipendentemente dal numero intero iniziale scelto, i numeri iniziali e finali si sommano a $0$.
 > 
 > Determina per quali numeri naturali il mago può eseguire il trucco. Dovete entrambi dimostrare che il trucco è possibile per i numeri che richiedete, e dimostrare che non è possibile per altri numeri.
-
-[[Quesiti/src_bmo1_2025#q02|src_bmo1_2025__Q02]]
 
 
 
@@ -107,8 +103,6 @@ level: BMO Round 1
 > 
 > Determina, con la prova, quale giocatore ha una strategia vincente.
 
-[[Quesiti/src_bmo1_2025#q03|src_bmo1_2025__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -137,8 +131,6 @@ level: BMO Round 1
 > Nel triangolo a angolo acuto $ABC$ abbiamo $AB < AC < BC$. Il punto medio di $BC$ è $M$. C'è un punto $P$ sul segmento di linea $AM$ tale che $AB = CP$ e $\angle PAB = \angle BCP$.
 > 
 > Prove che $\angle CPB = 90^\circ$.
-
-[[Quesiti/src_bmo1_2025#q04|src_bmo1_2025__Q04]]
 
 
 
@@ -169,8 +161,6 @@ level: BMO Round 1
 > 
 > Provare che almeno uno di $(n+1)^p - 1$ e $(n+1)^{p-1} - 1$ è divisibile per $p$.
 
-[[Quesiti/src_bmo1_2025#q05|src_bmo1_2025__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_cassetti,method_doppio_conteggio,method_colorazione,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_lettura_attenta,skill_modellizzazione"></span>
@@ -199,5 +189,3 @@ level: BMO Round 1
 > Björk ha 64 cubetti di zucchero, tutti di dimensioni $1 \times 1 \times 1$. Ogni cubo di zucchero ha un sapore bianco, demeraro o muscovado. Accumula i cubetti di zucchero in un cubo pulito.
 > 
 > Provare che devono esserci 12 cubetti di zucchero dello stesso sapore che possono essere messi in 6 coppie disgiunte in modo che la distanza tra i centri dei cubetti in ciascuna coppia sia uguale.
-
-[[Quesiti/src_bmo1_2025#q06|src_bmo1_2025__Q06]]

@@ -53,8 +53,6 @@ level: OBM Nível 1
 > 
 > c) La sequenza $S_3$ termina quando si ripete il primo termine. Quanti termini $S_3$ ha?
 
-[[Quesiti/src_obm_2006_n1_f3#q01|src_obm_2006_n1_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_casework_accurato,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -87,8 +85,6 @@ level: OBM Nível 1
 > $$\begin{array}{r} \square\,\triangle \\ +\quad\triangle\,\odot \\ \hline \odot\,\square\,\triangle \end{array}$$
 > 
 > Determinare il valore di ciascun simbolo; cioè trovare questi valori e dimostrare che non esistono altre possibilità.
-
-[[Quesiti/src_obm_2006_n1_f3#q02|src_obm_2006_n1_f3__Q02]]
 
 
 
@@ -131,8 +127,6 @@ level: OBM Nível 1
 
 ![[src_obm_2006_n1_f3__q03.png]]
 
-[[Quesiti/src_obm_2006_n1_f3#q03|src_obm_2006_n1_f3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_combinatoria,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_stima"></span>
@@ -169,8 +163,6 @@ level: OBM Nível 1
 > \textbf{Nota:} oltre a disegnare un $12$-gon con il numero massimo di vertici collineari, ricorda di mostrare che nessun altro $12$-gon può avere più vertici collineari di questo.
 
 ![[src_obm_2006_n1_f3__q04.png]]
-
-[[Quesiti/src_obm_2006_n1_f3#q04|src_obm_2006_n1_f3__Q04]]
 
 
 
@@ -213,5 +205,3 @@ level: OBM Nível 1
 > Determinare il numero minimo di mosse necessarie per finire la partita. Mostrate, passo dopo passo, come spostare i pezzi con questo numero di mosse, e dimostrate che non è possibile finire la partita con meno mosse.
 
 ![[src_obm_2006_n1_f3__q05.png]]
-
-[[Quesiti/src_obm_2006_n1_f3#q05|src_obm_2006_n1_f3__Q05]]

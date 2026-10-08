@@ -37,7 +37,6 @@ level: kangourou
 > AR BS CT DU
 
 **Answer:** 9
-[[Quesiti/src_kangourou_2014_ecolier_finale#q01|src_kangourou_2014_ecolier_finale__Q01]]
 
 
 
@@ -72,7 +71,6 @@ level: kangourou
 > AS BT CU DV
 
 **Answer:** 3 or 4
-[[Quesiti/src_kangourou_2014_ecolier_finale#q02|src_kangourou_2014_ecolier_finale__Q02]]
 
 
 
@@ -103,7 +101,6 @@ Minimum rounds for every boy to dance with every girl
 > AT BU CV DZ
 
 **Answer:** 6
-[[Quesiti/src_kangourou_2014_ecolier_finale#q03|src_kangourou_2014_ecolier_finale__Q03]]
 
 
 
@@ -132,8 +129,6 @@ Minimum rounds for every boy to dance with every girl
 
 > AU BV CZ DR
 
-[[Quesiti/src_kangourou_2014_ecolier_finale#q04|src_kangourou_2014_ecolier_finale__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,skill_casework_accurato"></span>
@@ -160,8 +155,6 @@ Minimum rounds for every boy to dance with every girl
 *Squirrel empties 15 plates in four visits*
 
 > AV BZ CR DS
-
-[[Quesiti/src_kangourou_2014_ecolier_finale#q05|src_kangourou_2014_ecolier_finale__Q05]]
 
 
 
@@ -203,5 +196,3 @@ Minimum rounds for every boy to dance with every girl
 >  
 >  
 > E4. (14 points) In a football match, the winning team receives 3 points and the losing team 0 points; if the match ends in a draw, both teams receive 1 point. Three teams play a mini-tournament on a neutral field: each plays each other once. We ask you to answer these two questions. - If, at the end of the tournament, all the teams have the same number of points, what can this number be? - Of the following scores 0, 1, 2, 3, 4, 5, 6, which cannot be achieved by any team at the end of the tournament?
-
-[[Quesiti/src_kangourou_2014_ecolier_finale#q06|src_kangourou_2014_ecolier_finale__Q06]]

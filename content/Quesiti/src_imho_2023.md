@@ -33,8 +33,6 @@ level: IMO
 
 > Determinare tutti gli interi positivi composti $n > 1$ che soddisfano la seguente proprietà: se $d_1, d_2, \ldots, d_k$ sono tutti i divisori positivi di $n$ minori di $1 = d_1 < d_2 < \cdots < d_k = n$, allora $d_i$ divide $d_{i+1} + d_{i+2}$ per ogni $1 \le i \le k - 2$.
 
-[[Quesiti/src_imho_2023#q01|src_imho_2023__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_modellizzazione"></span>
@@ -59,8 +57,6 @@ level: IMO
 *La tangente alla circonferenza circoscritta incontra la bisettrice interna nell'angolo*
 
 > Sia $ABC$ un triangolo acutangolo con $AB < AC$. Sia $\Omega$ la circonferenza circoscritta a $ABC$. Sia $S$ il punto medio dell'arco $CB$ della circonferenza $\Omega$ che contiene $A$. La perpendicolare da $A$ alla retta $BC$ incontra $BS$ in $D$ e $\Omega$ in $E \ne A$. La retta passante per $D$ parallela a $BC$ incontra la retta $BE$ in $L$. Si indichi con $\omega$ la circonferenza circoscritta al triangolo $BDL$. Sia $\omega$ l'altro punto di intersezione tra $\Omega$ e $P \ne B$. Si dimostri che la tangente a $\omega$ nel punto $P$ incontra la retta $BS$ sulla bisettrice interno dell'angolo $\angle BAC$.
-
-[[Quesiti/src_imho_2023#q02|src_imho_2023__Q02]]
 
 
 
@@ -91,8 +87,6 @@ level: IMO
 > $$P(a_n) = a_{n+1} a_{n+2} \cdots a_{n+k}$$
 > per ogni intero $n \ge 1$.
 
-[[Quesiti/src_imho_2023#q03|src_imho_2023__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_induzione,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
@@ -121,8 +115,6 @@ level: IMO
 > Siano $x_1, x_2, \ldots, x_{2023}$ numeri reali positivi a due a due distinti tali che
 > $$a_n = \sqrt{(x_1 + x_2 + \cdots + x_n)\left(\frac{1}{x_1} + \frac{1}{x_2} + \cdots + \frac{1}{x_n}\right)}$$
 > sia un numero intero per ogni $n = 1, 2, \ldots, 2023$. Si dimostri che $a_{2023} \ge 3034$.
-
-[[Quesiti/src_imho_2023#q04|src_imho_2023__Q04]]
 
 
 
@@ -157,8 +149,6 @@ level: IMO
 
 ![[src_imho_2023__q05.png]]
 
-[[Quesiti/src_imho_2023#q05|src_imho_2023__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -191,5 +181,3 @@ level: IMO
 > Le rette $BC_1$ e $CB_1$ si incontrano in $A_2$, le rette $CA_1$ e $AC_1$ si incontrano in $B_2$ e le rette $AB_1$ e $BA_1$ si incontrano in $C_2$. Si dimostri che se il triangolo $A_1B_1C_1$ è scaleno, allora le tre rette $A_1A_2$, $B_1B_2$, $C_1C_2$ passano tutte per due punti comuni.
 > 
 > (Nota: un triangolo scaleno è un triangolo in cui nessun due lati ha lunghezza uguale.)
-
-[[Quesiti/src_imho_2023#q06|src_imho_2023__Q06]]

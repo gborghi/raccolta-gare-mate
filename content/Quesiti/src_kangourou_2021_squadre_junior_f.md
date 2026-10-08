@@ -35,8 +35,6 @@ level: squadre
 > The product
 > The sum of the digits of a five-digit number is 37. What is the minimum possible value of their product?
 
-[[Quesiti/src_kangourou_2021_squadre_junior_f#q01|src_kangourou_2021_squadre_junior_f__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
@@ -64,8 +62,6 @@ level: squadre
 > The perfect square
 > What is the largest integer n such that $4^{27} + 4^{1025} + 4^n$ is a perfect square?
 
-[[Quesiti/src_kangourou_2021_squadre_junior_f#q02|src_kangourou_2021_squadre_junior_f__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,skill_conteggio_sistematico"></span>
@@ -91,8 +87,6 @@ level: squadre
 
 > "Fractions of the year"
 > We call "fraction of the year" a fraction of positive integers $N/D$ less than $1$, reduced to lowest terms and such that the sum $N + D$ equals $2021$. How many fractions of the year are there?
-
-[[Quesiti/src_kangourou_2021_squadre_junior_f#q03|src_kangourou_2021_squadre_junior_f__Q03]]
 
 
 
@@ -121,8 +115,6 @@ level: squadre
 > The chessboard
 > On a sheet of paper a traditional square chessboard of $8 \times 8$ square cells is drawn, each of area $\sqrt2 + 1$, with alternating white and black colors. On top of it a second chessboard identical to the first is drawn, concentric but rotated by $45$ degrees. What is the area of the region whose points were black in the first drawing and remain black in the second?
 
-[[Quesiti/src_kangourou_2021_squadre_junior_f#q04|src_kangourou_2021_squadre_junior_f__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
@@ -150,8 +142,6 @@ level: squadre
 > The tokens
 > Matteo has $6$ red tokens, $3$ green tokens and $3$ yellow tokens, and tokens of the same color are indistinguishable. He wants to build a stack by placing them one on top of another with the only constraint that tokens of the same color are never touching. How many different stacks (of $12$ tokens each) can he form? (Two stacks are considered different if at some level the color of the tokens placed there is different.)
 
-[[Quesiti/src_kangourou_2021_squadre_junior_f#q05|src_kangourou_2021_squadre_junior_f__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,skill_manipolazione_algebrica"></span>
@@ -177,8 +167,6 @@ level: squadre
 
 > Consecutive odd numbers
 > The number $25^3$ can be expressed as the sum of $25$ consecutive odd integers. What is the first of them?
-
-[[Quesiti/src_kangourou_2021_squadre_junior_f#q06|src_kangourou_2021_squadre_junior_f__Q06]]
 
 
 
@@ -212,8 +200,6 @@ level: squadre
 > a cloth at least 100 m long? (Give the date in the format ddmm, for example July 9 must be
 > given as 0907; if you think the answer is NEVER, give 9999.)
 
-[[Quesiti/src_kangourou_2021_squadre_junior_f#q07|src_kangourou_2021_squadre_junior_f__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_casework,skill_casework_accurato"></span>
@@ -242,8 +228,6 @@ level: squadre
 > A sum 2021
 > Determine all positive integers n such that 2021 can be expressed as the sum of n with the
 > sum of the digits of n, and add them together: what result do you get?
-
-[[Quesiti/src_kangourou_2021_squadre_junior_f#q08|src_kangourou_2021_squadre_junior_f__Q08]]
 
 
 
@@ -276,8 +260,6 @@ level: squadre
 > that have their endpoints on the boundary of the triangle. What is the smallest value of L such that every point
 > of the triangle belongs to at least one of these segments?
 
-[[Quesiti/src_kangourou_2021_squadre_junior_f#q09|src_kangourou_2021_squadre_junior_f__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato"></span>
@@ -306,8 +288,6 @@ level: squadre
 > Primes
 > Among the positive three-digit integers that can be written using only digits chosen from the set
 > {1, 3, 5}, how many are prime?
-
-[[Quesiti/src_kangourou_2021_squadre_junior_f#q10|src_kangourou_2021_squadre_junior_f__Q10]]
 
 
 
@@ -341,8 +321,6 @@ level: squadre
 > of its digits, not necessarily adjacent, for which the first digit is greater than the second; for
 > example, the size of 5142 is 4. Consider all possible 3-digit numbers with significant digits different from
 > one another, and add up their sizes: what number do you get?
-
-[[Quesiti/src_kangourou_2021_squadre_junior_f#q11|src_kangourou_2021_squadre_junior_f__Q11]]
 
 
 
@@ -378,8 +356,6 @@ level: squadre
 > instead he continued, Aldo and Carlo would reach the end of the bridge at the same instant. How many meters
 > long is the bridge?
 
-[[Quesiti/src_kangourou_2021_squadre_junior_f#q12|src_kangourou_2021_squadre_junior_f__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_funzionali,topic_algebra,skill_manipolazione_algebrica"></span>
@@ -410,8 +386,6 @@ level: squadre
 > mean of the first n terms of the sequence is n. How many terms of the sequence are less
 > than 2021?
 
-[[Quesiti/src_kangourou_2021_squadre_junior_f#q13|src_kangourou_2021_squadre_junior_f__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
@@ -438,8 +412,6 @@ level: squadre
 
 > The digits of the sum
 > Let a be the number of digits of $4^{2021}$ and let b be the number of digits of $25^{2021}$. What is the value of a + b?
-
-[[Quesiti/src_kangourou_2021_squadre_junior_f#q14|src_kangourou_2021_squadre_junior_f__Q14]]
 
 
 
@@ -477,5 +449,3 @@ level: squadre
 > one in each row is certainly different from 0. The four-digit numbers
 > possible for CASE are more than one: which is the largest?
 > (Diagram in the figure: CASE × CASE = …, with partial products ****C, ****A, ****S, ****E, each shifted one place to the left, and result ********.)
-
-[[Quesiti/src_kangourou_2021_squadre_junior_f#q15|src_kangourou_2021_squadre_junior_f__Q15]]

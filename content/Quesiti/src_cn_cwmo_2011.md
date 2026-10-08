@@ -35,7 +35,6 @@ level: China Western Mathematical Olympiad
 > Dato che $0 < x$, $y < 1$ determinano, con prova, il valore massimo di $\frac{xy(1-x-y)}{(x+y)(1-x)(1-y)}$.
 
 **Risposta:** \frac{1}{8}
-[[Quesiti/src_cn_cwmo_2011#q01|src_cn_cwmo_2011__Q01]]
 
 
 
@@ -64,7 +63,6 @@ level: China Western Mathematical Olympiad
 > Se $M \subseteq \{1, 2, \ldots, 2011\}$ è un sottoinsieme che soddisfa la seguente condizione: Per tutti e tre gli elementi di $M$, esistono due di essi $a$ e $b$, quali $a \mid b$ o $b \mid a$. Determinare, con prova, il valore massimo di $|M|$, dove $|M|$ indica il numero di elementi di $M$.
 
 **Risposta:** 21
-[[Quesiti/src_cn_cwmo_2011#q02|src_cn_cwmo_2011__Q02]]
 
 
 
@@ -101,7 +99,6 @@ level: China Western Mathematical Olympiad
 > (2) Determinare, con la prova, tutti i valori possibili della somma $\displaystyle\sum_{i=1}^{2^n} (-1)^{|S|} S(A_i)$, dove $S(A_i) = \displaystyle\sum_{x \in A_i} x$ e $S(\emptyset) = 0$ per qualsiasi sequenza del sottogruppo $A_1, A_2, \ldots, A_{2^n}$ che soddisfi la condizione di (1).
 
 **Risposta:** 0
-[[Quesiti/src_cn_cwmo_2011#q03|src_cn_cwmo_2011__Q03]]
 
 
 
@@ -132,8 +129,6 @@ level: China Western Mathematical Olympiad
 
 ![[src_cn_cwmo_b11_w244__q04.png]]
 
-[[Quesiti/src_cn_cwmo_2011#q04|src_cn_cwmo_2011__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_casework,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
@@ -161,7 +156,6 @@ level: China Western Mathematical Olympiad
 > Determinare se ci sono numeri interi unici $n \ge 3$ e $n$ distinti prime $p_1, p_2, \ldots, p_n$, in modo che tutti $p_i \cdot p_{i+1}$ ($1 \le i \le n$ e $p_{n+1} = p_1$) siano quadrati perfetti.
 
 **Risposta:** No
-[[Quesiti/src_cn_cwmo_2011#q05|src_cn_cwmo_2011__Q05]]
 
 
 
@@ -187,5 +181,3 @@ level: China Western Mathematical Olympiad
 *Trova tutte le coppie di numeri interi (a,b) con n. a^n + b^(n+1) per tutti n*
 
 > Determinare, con la prova, tutte le coppie $(a, b)$ di enti interi, in modo tale che per qualsiasi numero intero positivo $n$ si abbia $n \mid (a^n + b^{n+1})$. (Possibile da Chen Yonggao)
-
-[[Quesiti/src_cn_cwmo_2011#q06|src_cn_cwmo_2011__Q06]]

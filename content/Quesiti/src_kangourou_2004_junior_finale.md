@@ -34,7 +34,6 @@ There are bases where 15x15=321
 > Are there bases in which the expression $15 \times 15 = 321$ is correct?
 
 **Answer:** base 6
-[[Quesiti/src_kangourou_2004_junior_finale#qj1|src_kangourou_2004_junior_finale__QJ1]]
 
 
 
@@ -63,7 +62,6 @@ There are bases where 15x15=321
 > For which pairs of $(x, y)$ relative integers is $x^2 + y^2 + xy = 1$ true?
 
 **Answer:** 6 pairs
-[[Quesiti/src_kangourou_2004_junior_finale#qj2|src_kangourou_2004_junior_finale__QJ2]]
 
 
 
@@ -91,7 +89,6 @@ There are bases where 15x15=321
 > I wrote as many positive integers on five sheets. Adding them two by two in every possible way, I get the following ten results: $17, 20, 28, 14, 36, 28, 25, 31, 39$ and $42$. What numbers did I write?
 
 **Answer:** 3,11,14,17,25
-[[Quesiti/src_kangourou_2004_junior_finale#qj3|src_kangourou_2004_junior_finale__QJ3]]
 
 
 
@@ -170,7 +167,6 @@ There are bases where 15x15=321
 > Given a triangle $ABC$ right-angled at $C$, consider the points $A'$ the reflection of $A$ with respect to $BC$, $B'$ the reflection of $B$ with respect to $AC$ and $C'$ the reflection of $C$ with respect to $AB$. What is the ratio of the area of $A'B'C'$ to that of $ABC$?
 
 **Answer:** 3
-[[Quesiti/src_kangourou_2004_junior_finale#qj4|src_kangourou_2004_junior_finale__QJ4]]
 
 
 
@@ -205,8 +201,7 @@ There are bases where 15x15=321
 > 
 > Is it true that after a suitable number of these moves, every row consists of elements whose sum is non-negative and likewise every column? Justify.
 
-**Answer:** si
-[[Quesiti/src_kangourou_2004_junior_finale#qj5|src_kangourou_2004_junior_finale__QJ5]]
+**Answer:** yes
 
 
 
@@ -235,4 +230,3 @@ There are bases where 15x15=321
 > Can the $1, 2, 3, 4, 5, 6, 7, 8, 9$ digits be exchanged so that for each $n \in \{1, 2, \ldots, 8, 9\}$ the number formed by the first $n$ digits (from left) is divisible by $n$? If so, is the permutation unique?
 
 **Answer:** 381654729 unique
-[[Quesiti/src_kangourou_2004_junior_finale#qj6|src_kangourou_2004_junior_finale__QJ6]]

@@ -33,8 +33,6 @@ level: OBM Nível 1
 
 > Quanti integri positivi inferiori a $1000$ hanno la somma delle loro cifre uguale a $7$?
 
-[[Quesiti/src_obm_2003_n1_f3#q01|src_obm_2003_n1_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_backward,method_casework,skill_lettura_attenta,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -68,8 +66,6 @@ level: OBM Nível 1
 > 
 > **Nota: ** la sequenza più lunga è quella con il maggior numero di termini.
 
-[[Quesiti/src_obm_2003_n1_f3#q02|src_obm_2003_n1_f3__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_geometria_piana,method_casework,method_conteggio,skill_modellizzazione,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
@@ -102,8 +98,6 @@ Dividere un quadrato di lato 2003 in 6364 quadrati i cui lati sono potenze di 2*
 > Si desidera dividere un quadrato di lato $2003$ in altri quadrati i cui lati sono potenze di $2$.
 > 
 > Indicare un modo per eseguire la divisione e ottenere i quadrati $6364$ i cui lati sono potenze di $2$.
-
-[[Quesiti/src_obm_2003_n1_f3#q03|src_obm_2003_n1_f3__Q03]]
 
 
 
@@ -142,8 +136,6 @@ Dividere un quadrato di lato 2003 in 6364 quadrati i cui lati sono potenze di 2*
 
 ![[src_obm_2003_n1_f3__q04.png]]
 
-[[Quesiti/src_obm_2003_n1_f3#q04|src_obm_2003_n1_f3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_estremalita,skill_modellizzazione,skill_astrazione,skill_lettura_attenta"></span>
@@ -176,5 +168,3 @@ Dividere un quadrato di lato 2003 in 6364 quadrati i cui lati sono potenze di 2*
 > a) Mostrare che con una sola interruzione non è sempre possibile costruire il rettangolo.
 > 
 > b) Mostrare che con due intervalli è sempre possibile costruire il rettangolo.
-
-[[Quesiti/src_obm_2003_n1_f3#q05|src_obm_2003_n1_f3__Q05]]

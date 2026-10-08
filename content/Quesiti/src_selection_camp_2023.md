@@ -41,8 +41,6 @@ level: CAMP Selection Camp
 > 
 > Qui, per i numeri interi positivi $x, y$, $\gcd(x, y)$ indica il più grande divisore comune di $x$ e $y$.
 
-[[Quesiti/src_selection_camp_2023#q01|src_selection_camp_2023__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_colorazione,method_estremalita,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_ragionamento_geometrico"></span>
@@ -76,8 +74,6 @@ level: CAMP Selection Camp
 
 ![[src_selection_camp_2023__q02.png]]
 
-[[Quesiti/src_selection_camp_2023#q02|src_selection_camp_2023__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_combinatoria,method_estremalita,method_casework,skill_astrazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -106,8 +102,6 @@ level: CAMP Selection Camp
 > $n$ sia un numero intero con $n \ge 2$. Trova il valore più grande possibile di $n$ per il quale esistono $n$ numeri reali $a_1, a_2, \dots, a_n$ e un numero reale positivo $r \ne 1$ che soddisfa la seguente condizione:
 > 
 > Per ogni intero $k$ con $1 \le k \le \dfrac{n(n-1)}{2}$, esistono interi $i, j$ con $1 \le i < j \le n$ tali che $a_j - a_i = r^k$.
-
-[[Quesiti/src_selection_camp_2023#q03|src_selection_camp_2023__Q03]]
 
 
 
@@ -138,8 +132,6 @@ level: CAMP Selection Camp
 > 
 > Qui $XY$ indica la lunghezza del segmento $XY$.
 
-[[Quesiti/src_selection_camp_2023#q04|src_selection_camp_2023__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -165,8 +157,6 @@ level: CAMP Selection Camp
 *Ricerca i razionali q realizzati da f(x+f(y))=f(x)+f(y) con f(z)=qz*
 
 > Chiamare una funzione $f$ definita sui numeri reali e assumendo i valori reali una buona funzione se, per tutti i numeri reali $x, y$, $$f(x + f(y)) = f(x) + f(y).$$ Trovare tutti i numeri razionali $q$ che soddisfano la seguente condizione: esiste una buona funzione $f$ e un numero reale $z$ tale che $f(z) = qz$.
-
-[[Quesiti/src_selection_camp_2023#q05|src_selection_camp_2023__Q05]]
 
 
 
@@ -206,8 +196,6 @@ level: CAMP Selection Camp
 > 
 > - Esistono integri $i, j$ con $1 \le i, j \le 9$ tali da $d_i(T) \ne d_j(T)$. - Esistono due enti $x, y$ in modo che per ogni intero $i$ con $1 \le i \le 9$, sia $d_i(T) = x$ che $d_i(T) = y$.
 
-[[Quesiti/src_selection_camp_2023#q06|src_selection_camp_2023__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_algebra,method_estremalita,method_casework,skill_conteggio_sistematico,skill_stima,skill_riconoscimento_pattern"></span>
@@ -236,8 +224,6 @@ level: CAMP Selection Camp
 > Chiamare una sequenza di termini $2022$, ognuno dei quali è $1$ o $-1$, una buona sequenza. Trova il numero intero più grande $C$ che soddisfa la seguente condizione per ogni buona sequenza $a_1, a_2, \dots, a_{2022}$:
 > 
 > Esistono un intero $k \ge 2$ e un intero $t_1, t_2, \dots, t_k$ con $1 \le t_1 < t_2 < \cdots < t_k \le 2022$ in modo tale che $t_{i+1} - t_i \le 2$ per ogni intero $i$ con $1 \le i \le k-1$, e inoltre $\left| \sum_{i=1}^{k} a_{t_i} \right| \ge C$.
-
-[[Quesiti/src_selection_camp_2023#q07|src_selection_camp_2023__Q07]]
 
 
 
@@ -282,8 +268,6 @@ level: CAMP Selection Camp
 > 
 > Trova il più grande valore possibile di $x$ per il quale B può sempre impedire a A di raggiungere l'obiettivo, indipendentemente dalle azioni di A.
 
-[[Quesiti/src_selection_camp_2023#q08|src_selection_camp_2023__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -308,8 +292,6 @@ level: CAMP Selection Camp
 *Il punto fisso X si trova sulla linea PQ indipendente da P*
 
 > Il $ABC$ è un triangolo acuto e il $H$ è il piede della perpendicolare da $A$ a lato $BC$. Selezionare un punto $P$ non sulla linea $BC$ in modo tale che il bisettore $k$ di $\angle PBC$ e il bisettore $l$ di $\angle PCB$ si incontrino sul segmento $AH$ (esclusi i suoi punti terminali). $E$ sia l'intersezione di $k$ con la linea $AC$, $F$ sia l'intersezione di $l$ con la linea $AB$ e $Q$ sia l'intersezione di $EF$ con la linea $AH$. Prove che esiste un punto $X$ tale che, indipendentemente dalla scelta di $P$, $X$ si trova sulla linea $PQ$.
-
-[[Quesiti/src_selection_camp_2023#q09|src_selection_camp_2023__Q09]]
 
 
 
@@ -344,8 +326,6 @@ level: CAMP Selection Camp
 > 
 > Trova il minimo valore possibile del numero di elementi di $S$.
 
-[[Quesiti/src_selection_camp_2023#q10|src_selection_camp_2023__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,skill_ragionamento_geometrico"></span>
@@ -370,8 +350,6 @@ level: CAMP Selection Camp
 *Tre circoncircoli condividono un punto comune*
 
 > Il $P$ deve essere un punto all'interno (escluso il confine) di un triangolo acuto $ABC$ in modo tale che la linea $AP$ e la linea $BC$ non siano perpendicolari. $X, Y$ siano rispettivamente i riflessi di $P$ nelle linee $AB, AC$, e $\omega$ sia il circoncircolo del triangolo $AXY$. Supponiamo che un punto $Q$ all'interno (escluso il confine) del triangolo $ABC$ soddisfi $\angle QBC = \angle CAP$ e $\angle QCB = \angle BAP$, e supponiamo che le linee $AQ$ e $\omega$ si incontrino in un punto $R$ diverso da $A$ e $Q$. Prova che il circoncircolo del triangolo $ABC$, il circoncircolo del triangolo $PQR$ e $\omega$ condividono un punto comune.
-
-[[Quesiti/src_selection_camp_2023#q11|src_selection_camp_2023__Q11]]
 
 
 
@@ -409,5 +387,3 @@ level: CAMP Selection Camp
 > Il $d_{C,A}$ deve essere il numero minimo possibile di tunnel utilizzati durante il viaggio da $C$ a $A$ e il $d_{C,B}$ deve essere il numero minimo possibile di tunnel utilizzati durante il viaggio da $C$ a $B$. È quindi possibile scegliere un percorso $X$ da $C$ a $A$ utilizzando tunnel $d_{C,A}$ e un percorso $Y$ da $C$ a $B$ utilizzando tunnel $d_{C,B}$ in modo che $X$ e $Y$ non condividano tunnel comune.
 > 
 > Trova il secondo valore possibile del numero di buone coppie di città. Qui $\{A, B\}$ e $\{B, A\}$ sono considerati come la stessa coppia.
-
-[[Quesiti/src_selection_camp_2023#q12|src_selection_camp_2023__Q12]]

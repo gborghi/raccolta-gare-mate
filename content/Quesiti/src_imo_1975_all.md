@@ -35,8 +35,6 @@ level: IMO
 
 > Let $x_i, y_i$ ($i = 1, 2, \ldots, n$) be real numbers such that $$x_1 \geq x_2 \geq \cdots \geq x_n \quad \text{e} \quad y_1 \geq y_2 \geq \cdots \geq y_n.$$ Show that if $z_1, z_2, \ldots, z_n$ is any permutation of $y_1, y_2, \ldots, y_n$, then $$\sum_{i=1}^{n}(x_i - y_i)^2 \leq \sum_{i=1}^{n}(x_i - z_i)^2.$$
 
-[[Quesiti/src_imo_1975_all#q01|src_imo_1975_all__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_cassetti,method_congruenze"></span>
@@ -63,8 +61,6 @@ level: IMO
 
 > Whether $a_1, a_2, a_3, \ldots$ is an infinite succession of increasing positive integers. Demonstrate that for each $p \geq 1$ there are infinitesimal $a_m$ which can be written in the form $$a_m = x a_p + y a_q$$ with $x, y$ positive integers and $q > p$.
 
-[[Quesiti/src_imo_1975_all#q02|src_imo_1975_all__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_trigonometria"></span>
@@ -88,8 +84,6 @@ level: IMO
 *proves angle QRP=90 and QR=RP*
 
 > On the sides of an arbitrary $ABC$ triangle, the triangles $ABR$, $BCP$, $CAQ$ with $\angle CBP = \angle CAQ = 45^\circ$, $\angle BCP = \angle ACQ = 30^\circ$, $\angle ABR = \angle BAR = 15^\circ$ are constructed externally. Show that $\angle QRP = 90^\circ$ and $QR = RP$.
-
-[[Quesiti/src_imo_1975_all#q03|src_imo_1975_all__Q03]]
 
 
 
@@ -116,8 +110,6 @@ level: IMO
 
 > When $4444^{4444}$ is written in decimal notation, the sum of its digits is $A$. Whether $B$ is the sum of the digits of $A$. Find the sum of the digits $B$. ($A$ and $B$ are written in decimal notation.)
 
-[[Quesiti/src_imo_1975_all#q04|src_imo_1975_all__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_aritmetica,method_congruenze,method_trigonometria"></span>
@@ -141,8 +133,6 @@ level: IMO
 *1975 points on unit circle with rational pairwise distances*
 
 > Determine, by demonstration, whether or not it is possible to find 1975 points on the circumference of a circle of unit radius such that the distance between any two of them is a rational number.
-
-[[Quesiti/src_imo_1975_all#q05|src_imo_1975_all__Q05]]
 
 
 
@@ -183,5 +173,3 @@ level: IMO
 > (ii) for all real $a, b, c$ $$P(b+c,\, a) + P(c+a,\, b) + P(a+b,\, c) = 0,$$
 > 
 > (iii)$P(1, 0) = 1$.
-
-[[Quesiti/src_imo_1975_all#q06|src_imo_1975_all__Q06]]

@@ -33,8 +33,6 @@ level: BMO Round 2
 
 > Ci sono bambini in un campo di matematica. Ciascuno ha al massimo tre amici nel campo, e se $A$ è amico di $B$, allora $B$ è amico di $A$. Il capo del campo vorrebbe mettere in fila i bambini in modo che ci siano al massimo $2010$ bambini tra ogni coppia di amici. E' sempre possibile farlo?
 
-[[Quesiti/src_bmo2_2010#q01|src_bmo2_2010__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico"></span>
@@ -59,8 +57,6 @@ level: BMO Round 2
 *Nel triangolo ABC con centroide G e D il punto medio di CA, la linea attraverso G parallela a BC incontra AB a E; prova angolo AEC = angolo DGC se angolo ACB = 90 gradi.*
 
 > Nel triangolo $ABC$ il centroide è $G$ e $D$ è il punto medio di $CA$. La linea attraverso $G$ parallela a $BC$ incontra $AB$ a $E$. Prove che $\angle AEC = \angle DGC$ se, e solo se, $\angle ACB = 90^\circ$. (Il centroide di un triangolo è l'intersezione dei tre mediani, le linee che uniscono ogni vertice al punto medio del lato opposto.)
-
-[[Quesiti/src_bmo2_2010#q02|src_bmo2_2010__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: BMO Round 2
 
 > Il numero intero $x$ è almeno $3$ e $n = x^6 - 1$. Che $p$ sia un primo e $k$ un intero positivo tale che $p^k$ sia un fattore di $n$. Mostra che $p^{3k} < 8n$.
 
-[[Quesiti/src_bmo2_2010#q03|src_bmo2_2010__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica"></span>
@@ -114,5 +108,3 @@ level: BMO Round 2
 *Prove la disuguaglianza ciclica 4(x+y+z) ^3 > 27(x^2 y + y^2 z + z^2 x) per tutti i reali positivi x, y, z.*
 
 > Prova che, per tutti i numeri reali positivi $x$, $y$ e $z$, $$4(x + y + z)^3 > 27(x^2 y + y^2 z + z^2 x).$$
-
-[[Quesiti/src_bmo2_2010#q04|src_bmo2_2010__Q04]]

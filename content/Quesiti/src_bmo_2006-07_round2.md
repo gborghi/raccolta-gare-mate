@@ -33,8 +33,6 @@ level: BMO Round 2
 
 > Il triangolo $ABC$ ha lati a lunghezza interi e $AC = 2007$. Il bisettore interno di $\angle BAC$ incontra $BC$ a $D$. Dato che $AB = CD$, determinare $AB$ e $BC$.
 
-[[Quesiti/src_bmo_2006-07_round2#q01|src_bmo_2006-07_round2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -61,8 +59,6 @@ level: BMO Round 2
 *Mostra infinitamente molte coppie di numeri interi positivi che rendono la somma delle frazioni un numero intero positivo*
 
 > Mostrare che ci sono infinite coppie di integri positivi $(m, n)$ in modo tale che $$\frac{m+1}{n} + \frac{n+1}{m}$$ è un intero positivo.
-
-[[Quesiti/src_bmo_2006-07_round2#q02|src_bmo_2006-07_round2__Q02]]
 
 
 
@@ -93,8 +89,6 @@ level: BMO Round 2
 > 
 > Nota: il circoncentro del triangolo $ABC$ è il centro del cerchio che attraversa i vertici $A$, $B$ e $C$. L'ortocentro è il punto di intersezione delle perpendicolari da ogni vertice al lato opposto.
 
-[[Quesiti/src_bmo_2006-07_round2#q03|src_bmo_2006-07_round2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,method_inclusione_esclusione,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_ragionamento_geometrico"></span>
@@ -119,5 +113,3 @@ level: BMO Round 2
 *Rete ferroviaria di sei città, conteggiare le vie di chiusura delle linee mantenendo piena connettività*
 
 > Nel paese dell'Esagonia, le sei città sono collegate da una rete ferroviaria tale che esiste una linea ferroviaria diretta che collega ciascuna coppia di città. Domenica, alcune linee possono essere chiuse per la riparazione. La carta ferroviaria dei passeggeri stabilisce che ogni città deve essere accessibile in treno da qualsiasi altra città (non necessariamente direttamente) in ogni momento. In quanti modi diversi possono essere chiuse alcune linee a condizione di questa condizione?
-
-[[Quesiti/src_bmo_2006-07_round2#q04|src_bmo_2006-07_round2__Q04]]

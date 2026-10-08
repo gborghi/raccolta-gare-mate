@@ -35,7 +35,6 @@ level: JJMO Yosen
 > La persona $A$ sale $2$ passi alla volta e la persona $B$ sale $3$ passi alla volta. Tuttavia, entrambi possono anche salire $1$ passo alla volta. L'ultimo passo prima della cima deve essere arrampicato da $A$ e $B$ in un solo passo. Quando sono salite le scale, il numero totale di passi compiuti da $A$ e $B$ insieme è stato $16$. Trova tutti i valori possibili per il numero di scale nella scala.
 
 **Risposta:** 19, 20, 21, 22
-[[Quesiti/src_jjmo10yq_yosen#q01|src_jjmo10yq_yosen__Q01]]
 
 
 
@@ -64,7 +63,6 @@ level: JJMO Yosen
 > Un numero intero positivo è chiamato palindromo se i suoi numeri letti in ordine inverso danno lo stesso numero (senza zeri principali). Ad esempio, $1234$ non è un palindromo poiché la lettura inversa dà $4321$, che non è uguale a $1234$. Quanti palindromi ci sono che sono al massimo $2012$?
 
 **Risposta:** 119
-[[Quesiti/src_jjmo10yq_yosen#q02|src_jjmo10yq_yosen__Q02]]
 
 
 
@@ -97,7 +95,6 @@ level: JJMO Yosen
 ![[src_jjmo10yq_yosen__q03.png]]
 
 **Risposta:** 34+8\sqrt{5}
-[[Quesiti/src_jjmo10yq_yosen#q03|src_jjmo10yq_yosen__Q03]]
 
 
 
@@ -130,7 +127,6 @@ level: JJMO Yosen
 ![[src_jjmo10yq_yosen__q04.png]]
 
 **Risposta:** \frac{24}{5}
-[[Quesiti/src_jjmo10yq_yosen#q04|src_jjmo10yq_yosen__Q04]]
 
 
 
@@ -159,7 +155,6 @@ level: JJMO Yosen
 > Quanti 4 tupli $(a, b, c, d)$ di numeri interi positivi soddisfano $a + bcd = ab + cd$?
 
 **Risposta:** 913
-[[Quesiti/src_jjmo10yq_yosen#q05|src_jjmo10yq_yosen__Q05]]
 
 
 
@@ -192,7 +187,6 @@ level: JJMO Yosen
 ![[src_jjmo10yq_yosen__q06.png]]
 
 **Risposta:** \frac{1+\sqrt{2}}{2}
-[[Quesiti/src_jjmo10yq_yosen#q06|src_jjmo10yq_yosen__Q06]]
 
 
 
@@ -225,7 +219,6 @@ level: JJMO Yosen
 ![[src_jjmo10yq_yosen__q07.png]]
 
 **Risposta:** 24
-[[Quesiti/src_jjmo10yq_yosen#q07|src_jjmo10yq_yosen__Q07]]
 
 
 
@@ -254,7 +247,6 @@ level: JJMO Yosen
 > Tutti i numeri interi positivi inferiori a $10^6$ divisibili da $3$ sono scritti una volta su una lavagna. Trova il numero totale della cifra $1$ scritta sulla lavagna.
 
 **Risposta:** 199998
-[[Quesiti/src_jjmo10yq_yosen#q08|src_jjmo10yq_yosen__Q08]]
 
 
 
@@ -283,7 +275,6 @@ level: JJMO Yosen
 > La persona $A$ sceglie $3$ interi positivi a una cifra (la ripetizione è consentita, ma non lo stesso triplo di un'altra scelta). La persona $B$ sceglie anche $3$ integri positivi a una cifra nello stesso modo. Il prodotto dei tre numeri di $A$ è pari alla somma dei tre numeri di $B$, e la somma dei tre numeri di $A$ è pari al prodotto dei tre numeri di $B$. Quanti modi possono organizzare le loro scelte? (Le triples che sono riorganizzazioni l'una dell'altra sono considerate le stesse.)
 
 **Risposta:** 7
-[[Quesiti/src_jjmo10yq_yosen#q09|src_jjmo10yq_yosen__Q09]]
 
 
 
@@ -312,7 +303,6 @@ level: JJMO Yosen
 > Per un intero positivo $k$, $S(k)$ indica la somma delle sue cifre. Trova il numero di interi positivi $n \le 999$ in modo tale che $\dfrac{S(n)}{S(n+1)}$ sia un intero.
 
 **Risposta:** 17
-[[Quesiti/src_jjmo10yq_yosen#q10|src_jjmo10yq_yosen__Q10]]
 
 
 
@@ -341,7 +331,6 @@ level: JJMO Yosen
 > I cubetti unitari sono assemblati in una scatola rettangolare $a \times b \times c$ ($a, b, c$ numeri interi positivi). Ogni cubo unitario sulla superficie della scatola è dipinto. Il numero di cubetti unitari non dipinti è uguale al numero di cubetti unitari sulla superficie dipinti. Trova il numero di triples $(a, b, c)$ con $a \le b \le c$ che soddisfano questa condizione. (I triples che sono semplicemente riorganizzazioni l'uno dell'altro sono contati come uno.)
 
 **Risposta:** 20
-[[Quesiti/src_jjmo10yq_yosen#q11|src_jjmo10yq_yosen__Q11]]
 
 
 
@@ -374,4 +363,3 @@ level: JJMO Yosen
 ![[src_jjmo10yq_yosen__q12.png]]
 
 **Risposta:** 8
-[[Quesiti/src_jjmo10yq_yosen#q12|src_jjmo10yq_yosen__Q12]]

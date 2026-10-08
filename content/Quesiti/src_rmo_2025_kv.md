@@ -37,8 +37,6 @@ level: RMO
 
 > Risolvere il seguente sistema di equazioni in numeri interi non negativi $a_1, a_2, \ldots, a_8$ dove $a_i \neq 1$ per $i = 1, \ldots, 8$: $$a_1 a_2 = a_3 + a_4,$$ $$a_3 a_4 = a_5 + a_6,$$ $$a_5 a_6 = a_7 + a_8,$$ $$a_7 a_8 = a_1 + a_2.$$
 
-[[Quesiti/src_rmo_2025_kv#q01|src_rmo_2025_kv__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
@@ -65,8 +63,6 @@ level: RMO
 
 > $a, b, c$ siano numeri reali positivi che soddisfino $abc = 1$. Provare che $$\frac{2a^2}{a^2+1} + \frac{2b^2}{b^2+1} + \frac{2c^2}{c^2+1} \le a^2 + b^2 + c^2.$$
 
-[[Quesiti/src_rmo_2025_kv#q02|src_rmo_2025_kv__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -91,8 +87,6 @@ level: RMO
 *Pentagono convex con condizioni di simmetria; prova angolo retto a I*
 
 > Il $ABCDE$ deve essere un pentagono convexo in cui $AB = AE$, $CB = CE$ e $\angle CBD = 90^\circ$. Lasciate che i bisettori interni di $\angle EAB$ e $\angle DCB$ si intersecano a $I$, e lasciate che $M$ sia il punto medio di $AC$. Prove che $\angle MIC = 90^\circ$.
-
-[[Quesiti/src_rmo_2025_kv#q03|src_rmo_2025_kv__Q03]]
 
 
 
@@ -129,8 +123,6 @@ level: RMO
 > 
 > (Per esempio, per $n = 3$, $RDUR$, $DRD$ sono percorsi ammissibili, mentre $DDR$, $RUURR$ non lo sono.)
 
-[[Quesiti/src_rmo_2025_kv#q04|src_rmo_2025_kv__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -156,8 +148,6 @@ level: RMO
 
 > Il $ABC$ deve essere un triangolo acuto con $\angle BAC = 60^\circ$ e $AB < BC < AC$. $M$ e $N$ siano i piedi delle altitudini rispettivamente da $B$ e $C$. Supponiamo che $BE$, $CF$ siano le altitudini, con $E$ su $CA$ e $F$ su $AB$. L'immagine $X$ deve essere l'immagine di $M$ riflessa nel punto medio di $BF$, e l'immagine $Y$ deve essere l'immagine di $N$ riflessa nel punto medio di $CE$. Provare che $XY$ divide $BC$.
 
-[[Quesiti/src_rmo_2025_kv#q05|src_rmo_2025_kv__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_induzione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -182,5 +172,3 @@ level: RMO
 *La somma digitali di a_n^2 è uguale a n^2+n+7 per tutte le n≥0*
 
 > Definire la sequenza $\{a_n\}$ come segue: $a_0 = 49$ e $a_n = 10^{a_{n-1}} \cdot a_{n-1} - 1$ per $n \ge 1$. Indicare che $s(a_n^2) = n^2 + n + 7$ per tutti $n \ge 0$, dove $s(m)$ indica la somma di cifre nella rappresentazione di base $10$ di un intero non negativo $m$.
-
-[[Quesiti/src_rmo_2025_kv#q06|src_rmo_2025_kv__Q06]]

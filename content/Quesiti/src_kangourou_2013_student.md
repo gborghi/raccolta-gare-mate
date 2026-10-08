@@ -37,8 +37,6 @@ level: kangourou
 
 > Which of the following numbers is the largest? A) 2013 B) 20+13 C) 2013 D) 2013 E) 20 ∙ 13
 
-[[Quesiti/src_kangourou_2013_student#q01|src_kangourou_2013_student__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,skill_ragionamento_geometrico"></span>
@@ -82,8 +80,6 @@ level: kangourou
 > 	
 > D) 2,5 E) 2
 
-[[Quesiti/src_kangourou_2013_student#q02|src_kangourou_2013_student__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
@@ -112,8 +108,6 @@ level: kangourou
 *Number of edges of a prism with 2013 faces*
 
 > If a prism has, in total, 2013 faces, how many edges does it have? A) 2011 B) 2013 C) 4022 D) 4024 E) 6033
-
-[[Quesiti/src_kangourou_2013_student#q03|src_kangourou_2013_student__Q03]]
 
 
 
@@ -156,8 +150,6 @@ level: kangourou
 > 	
 > E) (      )3
 
-[[Quesiti/src_kangourou_2013_student#q04|src_kangourou_2013_student__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,skill_riconoscimento_pattern"></span>
@@ -187,8 +179,6 @@ level: kangourou
 *How many years before 2013 with four consecutive digits*
 
 > The year 2013 has the property that the number that identifies it is made up of four consecutive digits. How many years have passed since the last time a year enjoyed this same property? A) 467 B) 527 C) 581 D) 693 E) 990
-
-[[Quesiti/src_kangourou_2013_student#q05|src_kangourou_2013_student__Q05]]
 
 
 
@@ -227,8 +217,6 @@ level: kangourou
 > C) 120	 	
 > D) 150	 	
 > E) 180
-
-[[Quesiti/src_kangourou_2013_student#q06|src_kangourou_2013_student__Q06]]
 
 
 
@@ -277,8 +265,6 @@ level: kangourou
 > D) 3
 > 	
 > E) 4
-
-[[Quesiti/src_kangourou_2013_student#q07|src_kangourou_2013_student__Q07]]
 
 
 
@@ -331,8 +317,6 @@ level: kangourou
 > E) 3 (33) (33–1) (23) (32) 3 √
 >
 
-[[Quesiti/src_kangourou_2013_student#q08|src_kangourou_2013_student__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
@@ -374,7 +358,6 @@ level: kangourou
 > B) C) D) E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2013_student#q09|src_kangourou_2013_student__Q09]]
 
 
 
@@ -412,7 +395,6 @@ level: kangourou
 > (c) 1/12 D) 1/13 E) 13 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2013_student#q10|src_kangourou_2013_student__Q10]]
 
 
 
@@ -462,8 +444,6 @@ level: kangourou
 > 	
 > E) 15
 
-[[Quesiti/src_kangourou_2013_student#q11|src_kangourou_2013_student__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_conteggio,skill_conteggio_sistematico"></span>
@@ -507,8 +487,6 @@ level: kangourou
 > D) 100	 	
 > E) 300
 
-[[Quesiti/src_kangourou_2013_student#q12|src_kangourou_2013_student__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,method_casework,skill_ragionamento_geometrico"></span>
@@ -548,8 +526,6 @@ level: kangourou
 > A floor covered with square tiles is partially covered by a round carpet. In the following figures, the shaded tiles represent all and only the tiles that have more than one point covered by the carpet. What figure cannot be obtained? A)
 >     	
 > B) C) D) E)
-
-[[Quesiti/src_kangourou_2013_student#q13|src_kangourou_2013_student__Q13]]
 
 
 
@@ -605,8 +581,6 @@ level: kangourou
 > 	
 > E) There exists an odd number x such that f (x) is even.
 
-[[Quesiti/src_kangourou_2013_student#q14|src_kangourou_2013_student__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,skill_casework_accurato"></span>
@@ -651,7 +625,6 @@ level: kangourou
 > E) 5
 
 **Answer:** D
-[[Quesiti/src_kangourou_2013_student#q15|src_kangourou_2013_student__Q15]]
 
 
 
@@ -747,7 +720,6 @@ level: kangourou
 > E) 0
 
 **Answer:** A
-[[Quesiti/src_kangourou_2013_student#q16|src_kangourou_2013_student__Q16]]
 
 
 
@@ -818,7 +790,6 @@ level: kangourou
 > In the triangle ABC the points M and N are fixed on the AB side so that AN = AC and BM = BC. Determine the width of the ACB angle by knowing that the MCN angle measures 43°. A) 86° B) 89° C) 90° D) 92° E) 94°
 
 **Answer:** E
-[[Quesiti/src_kangourou_2013_student#q17|src_kangourou_2013_student__Q17]]
 
 
 
@@ -865,7 +836,6 @@ level: kangourou
 > E) A different number from the previous one
 
 **Answer:** E
-[[Quesiti/src_kangourou_2013_student#q18|src_kangourou_2013_student__Q18]]
 
 
 
@@ -914,7 +884,6 @@ level: kangourou
 > E) 55
 
 **Answer:** C
-[[Quesiti/src_kangourou_2013_student#q19|src_kangourou_2013_student__Q19]]
 
 
 
@@ -970,7 +939,6 @@ level: kangourou
 > Questions from No. 21 to No. 30 are worth 5 points each
 
 **Answer:** D
-[[Quesiti/src_kangourou_2013_student#q20|src_kangourou_2013_student__Q20]]
 
 
 
@@ -1017,7 +985,6 @@ level: kangourou
 > E) 8
 
 **Answer:** A
-[[Quesiti/src_kangourou_2013_student#q21|src_kangourou_2013_student__Q21]]
 
 
 
@@ -1068,7 +1035,6 @@ level: kangourou
 > D) E) None of the above.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2013_student#q22|src_kangourou_2013_student__Q22]]
 
 
 
@@ -1117,7 +1083,6 @@ level: kangourou
 > E) A different number from the previous one
 
 **Answer:** C
-[[Quesiti/src_kangourou_2013_student#q23|src_kangourou_2013_student__Q23]]
 
 
 
@@ -1166,7 +1131,6 @@ level: kangourou
 > E) Infinite
 
 **Answer:** E
-[[Quesiti/src_kangourou_2013_student#q24|src_kangourou_2013_student__Q24]]
 
 
 
@@ -1213,7 +1177,6 @@ level: kangourou
 > E) Infinite
 
 **Answer:** D
-[[Quesiti/src_kangourou_2013_student#q25|src_kangourou_2013_student__Q25]]
 
 
 
@@ -1260,7 +1223,6 @@ level: kangourou
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2013_student#q26|src_kangourou_2013_student__Q26]]
 
 
 
@@ -1307,7 +1269,6 @@ level: kangourou
 > E) 18
 
 **Answer:** B
-[[Quesiti/src_kangourou_2013_student#q27|src_kangourou_2013_student__Q27]]
 
 
 
@@ -1363,7 +1324,6 @@ level: kangourou
 > E) The information given is not sufficient to answer.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2013_student#q28|src_kangourou_2013_student__Q28]]
 
 
 
@@ -1399,7 +1359,6 @@ level: kangourou
 > Giuliana wrote an algorithm to generate a sequence of numbers: a1 = 1, am + n = am + an + mn, with m and n natural numbers. What is a100 ? A) 100 B) 1000 C) 2012 D) 4950 E) 5050
 
 **Answer:** E
-[[Quesiti/src_kangourou_2013_student#q29|src_kangourou_2013_student__Q29]]
 
 
 
@@ -1481,5 +1440,3 @@ level: kangourou
 > STUDENT STRING 2013
 
 **Answer:** B
-
-[[Quesiti/src_kangourou_2013_student#q30|src_kangourou_2013_student__Q30]]

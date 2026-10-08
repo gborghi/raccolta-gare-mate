@@ -45,8 +45,6 @@ level: OBM Nível 2
 
 ![[src_obm_2002_n2_f3__q01.png]]
 
-[[Quesiti/src_obm_2002_n2_f3#q01|src_obm_2002_n2_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_casework_accurato,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -71,8 +69,6 @@ level: OBM Nível 2
 *Tra diciotto numeri interi a tre cifre consecutive uno è divisibile dalla sua somma di cifre*
 
 > Mostrate che, tra diciotto numeri interi a tre cifre consecutive, esiste sempre uno che è divisibile dalla somma delle sue cifre.
-
-[[Quesiti/src_obm_2002_n2_f3#q02|src_obm_2002_n2_f3__Q02]]
 
 
 
@@ -103,8 +99,6 @@ level: OBM Nível 2
 > 
 > Il giocatore che per primo riesce a completare un quadrato $1 \times 1$ di fiammiferi vince. Supponendo che nessuno dei due giocatori commetta errori, quale dei due giocatori ha la strategia vincente, cioè può vincere indipendentemente dal modo in cui il suo avversario gioca?
 
-[[Quesiti/src_obm_2002_n2_f3#q03|src_obm_2002_n2_f3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -128,8 +122,6 @@ level: OBM Nível 2
 *Combinazione di tre miscele a due componenti per ottenere un rapporto di tre componenti obiettivo*
 
 > Una miscela ha i componenti $A$ e $B$ nel rapporto $3 : 5$, una seconda miscela ha i componenti $B$ e $C$ nel rapporto $1 : 2$, e una terza miscela ha i componenti $A$ e $C$ nel rapporto $2 : 3$. In quale rapporto dobbiamo combinare la prima, la seconda e la terza miscela in modo che i componenti $A$, $B$ e $C$ appaiano nel rapporto $3 : 5 : 2$?
-
-[[Quesiti/src_obm_2002_n2_f3#q04|src_obm_2002_n2_f3__Q04]]
 
 
 
@@ -168,8 +160,6 @@ level: OBM Nível 2
 > 
 > b) $PQ^2 = QR \cdot ST$.
 
-[[Quesiti/src_obm_2002_n2_f3#q05|src_obm_2002_n2_f3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_induzione,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -198,5 +188,3 @@ level: OBM Nível 2
 > $n$ sia un numero intero positivo. Definitiamo $\varphi(n) = \left(1 - \dfrac{1}{p_1}\right) \cdot \left(1 - \dfrac{1}{p_2}\right) \cdot \ldots \cdot \left(1 - \dfrac{1}{p_k}\right) \cdot n$, dove $p_1, p_2, \ldots, p_k$ sono i fattori primi distinti di $n$. Prova che per ogni $m \ge 1$ esiste $n$ tale che $\varphi(n) = m!$.
 > 
 > Nota: $m! = 1 \cdot 2 \cdot \ldots \cdot m$.
-
-[[Quesiti/src_obm_2002_n2_f3#q06|src_obm_2002_n2_f3__Q06]]

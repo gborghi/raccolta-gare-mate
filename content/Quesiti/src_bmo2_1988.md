@@ -33,8 +33,6 @@ level: BMO Round 2
 
 > $ABC$ è un triangolo equilaterale. Il cerchio $\Gamma_1$ ha centro $A$ e raggio $AB$. $\Gamma_2$ è il cerchio su $AB$ come diametro. Un cerchio con il centro $P$ su $AC$ tocca $\Gamma_1$ internamente a $C$ e $\Gamma_2$ esternamente a $Q$. Indicare che $AP/AC = 4/5$ e calcolare il rapporto $AQ/AC$.
 
-[[Quesiti/src_bmo2_1988#q01|src_bmo2_1988__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_conteggio,method_inclusione_esclusione,method_induzione,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -65,8 +63,6 @@ level: BMO Round 2
 > Dimostrare che il numero di modi di organizzare gli oggetti $2n$ distinguibili in coppie $n$ è $$1 \cdot 3 \cdot 5 \cdots (2n-1)$$ se l'ordine delle coppie e l'ordine degli oggetti all'interno di ciascuna coppia sono entrambi immateriali. Per gli oggetti $4$ $a, b, c, d$ le abbinamenti $3$ sono $ab, cd$; $ac, bd$; $ad, bc$.
 > 
 > Un gruppo di persone $10$ costituito da coppie sposate $5$ è diviso in coppie $5$. Una coppia può essere composta da due uomini, due donne o da un uomo e una donna, ma non deve essere una coppia sposata. In quanti modi si può fare questo accordo se l'ordine, come sopra, è insignificante? Spiega attentamente il tuo ragionamento.
-
-[[Quesiti/src_bmo2_1988#q02|src_bmo2_1988__Q02]]
 
 
 
@@ -103,8 +99,6 @@ level: BMO Round 2
 > 
 > Usando le prime due equazioni si esprime $z$ in termini di $a$, $b$, $x$, $y$. Prove che $$x^2(1 - b^2) = y^2(1 - a^2) = xy(ab - c)$$ e quindi trova il valore di $a^4 + b^4 + c^4 - 2abc$ (indipendentemente da $x$, $y$, $z$).
 
-[[Quesiti/src_bmo2_1988#q03|src_bmo2_1988__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_casework_accurato"></span>
@@ -131,8 +125,6 @@ level: BMO Round 2
 *Ricerca tutte le soluzioni integrali positive di 1/x + 2/y - 3/z = 1*
 
 > Trova, con prova, tutte le soluzioni di $$\frac{1}{x} + \frac{2}{y} - \frac{3}{z} = 1$$ dove $x$, $y$, $z$ sono integri positivi.
-
-[[Quesiti/src_bmo2_1988#q04|src_bmo2_1988__Q04]]
 
 
 
@@ -161,8 +153,6 @@ level: BMO Round 2
 
 > $L$ e $M$ sono due linee skew nello spazio, cioè non si incontrano né sono parallele. $A$, $B$ sono i punti di $L$ e $M$ rispettivamente in modo tale che $AB$ sia perpendicolare sia a $L$ che a $M$. I punti $P$ su $L$, $Q$ su $M$ variano in modo tale che $$P \neq A, \quad Q \neq B, \quad PQ \text{ is of constant length}.$$ Mostri che il centro della sfera attraverso $A$, $B$, $P$, $Q$ si trova su un cerchio fisso con il centro del punto medio di $AB$.
 
-[[Quesiti/src_bmo2_1988#q05|src_bmo2_1988__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_disuguaglianze,topic_geometria_piana,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima"></span>
@@ -189,5 +179,3 @@ level: BMO Round 2
 *Le disuguaglianze triangolari conservate sotto la radice quadrata della somma dei quadrati*
 
 > Prova che se $a_1$, $b_1$, $c_1$ e $a_2$, $b_2$, $c_2$ sono le lunghezze dei lati di due triangoli (in qualche unità di misura), allora $$a = \sqrt{a_1^2 + a_2^2}, \quad b = \sqrt{b_1^2 + b_2^2}, \quad c = \sqrt{c_1^2 + c_2^2}$$ sono anche le lunghezze dei lati di un triangolo.
-
-[[Quesiti/src_bmo2_1988#q06|src_bmo2_1988__Q06]]

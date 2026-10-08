@@ -37,8 +37,6 @@ level: BMO Round 1
 > 
 > (Due espressioni sono considerate diverse se contengono numeri diversi. L'ordine dei numeri che formano una somma è irrilevante.)
 
-[[Quesiti/src_bmo1_2022#q01|src_bmo1_2022__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -63,8 +61,6 @@ level: BMO Round 1
 *Partite minime giocate dati quattro percentuali cumulative di vittoria esattamente 30,40,50,60,70*
 
 > Un giorno Arun e Disha hanno giocato diverse partite di ping-pong. In cinque momenti della giornata, Arun ha calcolato la percentuale delle partite giocate finora che lui aveva vinto. I risultati di questi calcoli sono stati esattamente il 30%, il 40%, il 50%, il 60% e il 70%, in un certo ordine. Qual è il numero minimo possibile di partite che hanno giocato?
-
-[[Quesiti/src_bmo1_2022#q02|src_bmo1_2022__Q02]]
 
 
 
@@ -95,8 +91,6 @@ level: BMO Round 1
 > 
 > (Due pile sono diverse se contengono numeri diversi di pezzi d'oro di un certo peso. La disposizione dei pezzi nelle pile è irrilevante.)
 
-[[Quesiti/src_bmo1_2022#q03|src_bmo1_2022__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -126,8 +120,6 @@ level: BMO Round 1
 > 
 > (Un arco minore di un cerchio è il più breve dei due archi con determinati punti terminali.)
 
-[[Quesiti/src_bmo1_2022#q04|src_bmo1_2022__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -152,8 +144,6 @@ level: BMO Round 1
 *Conte N per il quale la media più piccola possibile di un insieme N è un intero*
 
 > Un insieme $N$ è un insieme di diversi integri positivi che comprende un dato intero positivo $N$. La media $m(N)$ deve essere la più piccola possibile di qualsiasi set $N$. Per quanti valori $N$ inferiori al 2021 $m(N)$ è un numero intero?
-
-[[Quesiti/src_bmo1_2022#q05|src_bmo1_2022__Q05]]
 
 
 
@@ -195,5 +185,3 @@ level: BMO Round 1
 > (iii) Ogni termine dopo il primo è uguale al termine precedente o alla somma di tutti i termini precedenti.
 > 
 > Quando Marvin sarà finito, quante delle liste avranno una somma pari a 999.999?
-
-[[Quesiti/src_bmo1_2022#q06|src_bmo1_2022__Q06]]

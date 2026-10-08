@@ -33,8 +33,6 @@ level: IMO
 
 > Si dimostri che esiste uno e un solo triangolo i cui lati sono numeri interi consecutivi, e tale che uno dei suoi angoli sia il doppio di un altro.
 
-[[Quesiti/src_imho_1968#q01|src_imho_1968__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_casework_accurato,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: IMO
 *Determinare tutti i numeri reali x tali che il prodotto delle cifre di x sia uguale a x² - 10x - 22*
 
 > Determinare tutti i numeri naturali $x$ tali che il prodotto delle loro cifre (nella notazione decimale) è uguale a $x^2 - 10x - 22$.
-
-[[Quesiti/src_imho_1968#q02|src_imho_1968__Q02]]
 
 
 
@@ -107,8 +103,6 @@ level: IMO
 > (b) Se $\Delta = 0$, esiste esattamente una soluzione.
 > (c) Se $\Delta > 0$, esistono più di una soluzione.
 
-[[Quesiti/src_imho_1968#q03|src_imho_1968__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_lettura_attenta,skill_astrazione"></span>
@@ -133,8 +127,6 @@ level: IMO
 *Tetraedro con un vertice le cui tre spigoli sono lati di un triangolo*
 
 > Si dimostri che in ogni tetraedro esiste un vertice tale che i tre spigoli che vi si incontrano hanno lunghezze che possono essere i lati di un triangolo.
-
-[[Quesiti/src_imho_1968#q04|src_imho_1968__Q04]]
 
 
 
@@ -171,8 +163,6 @@ level: IMO
 > (a) Si dimostri che la funzione $f$ è periodica (cioè esiste un numero positivo $b$ tale che $f(x + b) = f(x)$ per ogni $x$).
 > (b) Per $a = 1$, si dia un esempio di una funzione non costante con le proprietà richieste.
 
-[[Quesiti/src_imho_1968#q05|src_imho_1968__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -201,5 +191,3 @@ level: IMO
 > Per ogni numero naturale $n$, si valuti la somma
 > $$\sum_{k=0}^{\infty} \left\lfloor \frac{n + 2^k}{2^{k+1}} \right\rfloor = \left\lfloor \frac{n+1}{2} \right\rfloor + \left\lfloor \frac{n+2}{4} \right\rfloor + \cdots + \left\lfloor \frac{n + 2^k}{2^{k+1}} \right\rfloor + \cdots$$
 > (Il simbolo $[x]$ indica il massimo intero non superiore a $x$.)
-
-[[Quesiti/src_imho_1968#q06|src_imho_1968__Q06]]

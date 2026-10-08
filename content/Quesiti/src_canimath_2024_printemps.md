@@ -38,7 +38,6 @@ level: Coupe Animath Printemps
 > *Solo una risposta numerica è prevista.*
 
 **Risposta:** 42
-[[Quesiti/src_canimath_2024_printemps#q01|src_canimath_2024_printemps__Q01]]
 
 
 
@@ -64,8 +63,6 @@ level: Coupe Animath Printemps
 *Parallelogramma con segmenti uguali, bisettore angolare perpendicolare a KL*
 
 > $ABCD$ sia un parallelo. Il $K$ deve essere un punto del segmento $[BC]$ e $L$ un punto del segmento $[CD]$ tale che $CK = CL$. Indicare che il bisettore di $\widehat{DAB}$ e la linea $(KL)$ sono perpendicolari.
-
-[[Quesiti/src_canimath_2024_printemps#q02|src_canimath_2024_printemps__Q02]]
 
 
 
@@ -94,7 +91,6 @@ level: Coupe Animath Printemps
 > Determinare il più piccolo intero positivo $n$ in modo tale che il prodotto di $n$ interi positivi consecutivi sia sempre divisibile per 45.
 
 **Risposta:** 6
-[[Quesiti/src_canimath_2024_printemps#q03|src_canimath_2024_printemps__Q03]]
 
 
 
@@ -129,8 +125,6 @@ level: Coupe Animath Printemps
 > 
 > 2) if $n = 5$?
 
-[[Quesiti/src_canimath_2024_printemps#q04|src_canimath_2024_printemps__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_grafi,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -159,8 +153,6 @@ level: Coupe Animath Printemps
 > Nel campo di Animath ci sono almeno quattro città. Le due città sono collegate sia da una strada di cemento che da un sentiero di terra (ma non entrambe contemporaneamente). Lei non vuole usare alcun sentiero di terra. Si accorge che per viaggiare dalla sua città natale in un'altra città, utilizzando solo strade di cemento, deve sempre attraversare almeno due città intermedi.
 > 
 > Mostrare che tra due città è sempre possibile viaggiare da una ad un'altra utilizzando solo strade di cemento e passando per un massimo di due città intermedi.
-
-[[Quesiti/src_canimath_2024_printemps#q05|src_canimath_2024_printemps__Q05]]
 
 
 
@@ -191,8 +183,6 @@ level: Coupe Animath Printemps
 
 > Lasciate che $x, y, z$ siano tre numeri reali non zero (non necessariamente positivi) in modo tale che $$\frac{x+y}{z} = \frac{y+z}{x} = \frac{z+x}{y}.$$ Trova tutti i valori che il numero $$\frac{(x+y)(y+z)(z+x)}{xyz}$$ può prendere.
 
-[[Quesiti/src_canimath_2024_printemps#q06|src_canimath_2024_printemps__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -221,8 +211,6 @@ level: Coupe Animath Printemps
 > $ABC$ sia un triangolo di uguali braccia con l'apice $A$. Che $D$ sia il punto medio del segmento $[AC]$ e $G$ il centroide del triangolo $ABC$. La linea $(BD)$ interseca il cerchio di diametro $[AC]$ al punto $E$ in modo tale che $E$ e $B$ siano su entrambi i lati di $(AC)$. Il bisettore perpendicolare del segmento $[EC]$ incontra la linea $(AG)$ al punto $H$.
 > 
 > Indicare che la linea $(BH)$ è il bisettore dell'angolo $\widehat{GBA}$.
-
-[[Quesiti/src_canimath_2024_printemps#q07|src_canimath_2024_printemps__Q07]]
 
 
 
@@ -255,7 +243,6 @@ level: Coupe Animath Printemps
 > *Solo una risposta numerica è prevista.*
 
 **Risposta:** 1
-[[Quesiti/src_canimath_2024_printemps#q08|src_canimath_2024_printemps__Q08]]
 
 
 
@@ -281,8 +268,6 @@ level: Coupe Animath Printemps
 
 > Che $a$, $b$ e $c$ siano tre reali che soddisfano entrambe le equazioni $4a + 3b = c$ e $3a - 4b = 7c$. Mostra che $a^2 + b^2 = 2c^2$.
 
-[[Quesiti/src_canimath_2024_printemps#q09|src_canimath_2024_printemps__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -307,8 +292,6 @@ level: Coupe Animath Printemps
 *Triangolo con incentro: angolo di mostra BID è di almeno 90 gradi*
 
 > Lasciate che $ABC$ sia un triangolo non piatto. $I$ sia il centro del suo cerchio inscritto e $D$ il punto di intersezione del bisettore di angolo $\widehat{BAC}$ con il segmento $[BC]$. Mostra che $\widehat{BID} \ge 90^\circ$.
-
-[[Quesiti/src_canimath_2024_printemps#q10|src_canimath_2024_printemps__Q10]]
 
 
 
@@ -343,8 +326,6 @@ level: Coupe Animath Printemps
 > 
 > 2) if $n = 5$?
 
-[[Quesiti/src_canimath_2024_printemps#q11|src_canimath_2024_printemps__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_congruenze,method_conteggio,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_modellizzazione"></span>
@@ -369,8 +350,6 @@ level: Coupe Animath Printemps
 *Ricerca tutte le prime p in modo che 1..p possa essere suddivisa in gruppi di uguali somme consecutive*
 
 > Determinare tutti i numeri primi $p$ che soddisfano la seguente proprietà: se si scrivono i numeri interi da $1$ a $p$ su una tavola, si possono separare in diversi gruppi in cui la somma dei numeri interi in ogni gruppo è la stessa, e all'interno di ciascun gruppo i numeri interi formano un insieme di numeri interi consecutivi.
-
-[[Quesiti/src_canimath_2024_printemps#q12|src_canimath_2024_printemps__Q12]]
 
 
 
@@ -400,8 +379,6 @@ level: Coupe Animath Printemps
 > Considera una griglia $100 \times 100$ in cui tutte le celle sono inizialmente bianche. Un'operazione consiste nel selezionare una riga o una colonna della griglia e nel cambiare il colore di 99 delle celle di quella riga o colonna. Qual è il minor numero di operazioni necessarie per passare dalla configurazione completamente bianca a una vernice da scacchi?
 > 
 > Un *colore di scacchiatura* è un colore in cui due celle che condividono un lato hanno sempre colori diversi.
-
-[[Quesiti/src_canimath_2024_printemps#q13|src_canimath_2024_printemps__Q13]]
 
 
 
@@ -436,8 +413,6 @@ level: Coupe Animath Printemps
 > 
 > 2) Che $F$ sia il piede dell'altitudine dal vertice $A$ nel triangolo $ABC$. Indicare che le linee $(EF)$ e $(BH)$ sono parallele.
 
-[[Quesiti/src_canimath_2024_printemps#q14|src_canimath_2024_printemps__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_bigezione,method_estremalita,method_induzione,skill_modellizzazione,skill_astrazione,skill_conteggio_sistematico"></span>
@@ -466,5 +441,3 @@ level: Coupe Animath Printemps
 > Nel campo di Animath ci sono $n$ studenti, numerati da $1$ a $n$, dove $n \ge 2$ è un numero naturale. Théo ha infiniti doni diversi, ognuno esistente in una sola copia. Inoltre, al numero di studenti $i$ piace un numero finito $z_i > 0$ dei regali proposti da Théo.
 > 
 > Determinare, come funzione di $n$, il più grande reale $c > 0$ che soddisfi la seguente proprietà: per qualsiasi numero intero positivo $x_1, x_2, \ldots, x_n$ tale che $\dfrac{1}{x_1} + \dfrac{1}{x_2} + \cdots + \dfrac{1}{x_n} < c$, Théo può sempre organizzare le cose in modo che ogni studente riceva un regalo che gli piace (con ogni regalo che va a un studente al massimo).
-
-[[Quesiti/src_canimath_2024_printemps#q15|src_canimath_2024_printemps__Q15]]

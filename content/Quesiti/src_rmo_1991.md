@@ -34,8 +34,6 @@ level: RMO
 
 > Che $P$ sia un punto interno di un triangolo $ABC$ e $AP$, $BP$, $CP$ incontrino rispettivamente i lati $BC$, $CA$, $AB$ in $D$, $E$ e $F$. Indicare che $$\frac{AP}{PD} = \frac{AF}{FB} + \frac{AE}{EC}.$$
 
-[[Quesiti/src_rmo_1991#q01|src_rmo_1991__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -61,8 +59,6 @@ level: RMO
 *Ineguaglianza per quattro valori reali positivi condizione di somma*
 
 > Se $a$, $b$, $c$ e $d$ sono 4 numeri reali positivi, dimostrare che $$\frac{a}{b} + \frac{b}{c} + \frac{c}{d} + \frac{d}{a} \ge 4.$$
-
-[[Quesiti/src_rmo_1991#q02|src_rmo_1991__Q02]]
 
 
 
@@ -96,8 +92,6 @@ level: RMO
 > 
 > Trova tutti quei numeri a quattro cifre.
 
-[[Quesiti/src_rmo_1991#q03|src_rmo_1991__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_invarianti,method_induzione,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione"></span>
@@ -129,8 +123,6 @@ level: RMO
 > 
 > Mostrate che dopo aver eseguito queste operazioni infinite volte, entrambe le urne possono essere svuotate.
 
-[[Quesiti/src_rmo_1991#q04|src_rmo_1991__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -155,8 +147,6 @@ level: RMO
 *Line attraverso il punto sul lato del triangolo, catena di parallele*
 
 > Prendi qualsiasi punto $P_1$ sul lato $BC$ di un triangolo $ABC$ e disegni la seguente catena di linee: $P_1P_2$ parallelo a $AC$ ($P_2$ su $AB$); $P_2P_3$ parallelo a $BC$ ($P_3$ su $AC$); $P_3P_4$ parallelo a $AB$ ($P_4$ su $BC$); $P_4P_5$ parallelo a $CA$ ($P_5$ su $AB$); $P_5P_6$ parallelo a $BC$ ($P_6$ su $AC$). Qui $P_2$, $P_3$ si trovano su $AB$; $P_3$, $P_5$ si trovano su $CA$; $P_1$, $P_4$ si trovano su $BC$. Indicare che $P_6P_1$ è parallelo a $AB$.
-
-[[Quesiti/src_rmo_1991#q05|src_rmo_1991__Q05]]
 
 
 
@@ -185,8 +175,6 @@ level: RMO
 
 > Trova tutti i valori interi di $a$ in modo tale che l'espressione quadrata $$(x + a)(x + 1991) + 1$$ possa essere fatturata come prodotto $(x + b)(x + c)$ dove $b$ e $c$ sono interi.
 
-[[Quesiti/src_rmo_1991#q06|src_rmo_1991__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -212,8 +200,6 @@ level: RMO
 
 > Prova che $n^4 + 4^n$ è composto per tutti i valori interi di $n$ superiori a 1.
 
-[[Quesiti/src_rmo_1991#q07|src_rmo_1991__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_algebra,method_estremalita,skill_ragionamento_geometrico,skill_lettura_attenta,skill_astrazione"></span>
@@ -238,5 +224,3 @@ level: RMO
 *8x8 numeri interi della scacchiera in media per vicini, tutti uguali*
 
 > I 64 quadrati di una scacchiera $8 \times 8$ sono riempiti di numeri interi positivi in modo tale che ogni numero intero sia la media dei numeri interi sui quadrati vicini. (Due quadrati sono vicini se condividono un bordo comune o una vertex comune. Un quadrato può avere $8$, $5$ o $3$ vicini a seconda della sua posizione.) Mostrare che tutti i 64 numeri interi sono in realtà uguali.
-
-[[Quesiti/src_rmo_1991#q08|src_rmo_1991__Q08]]

@@ -33,8 +33,6 @@ level: OBM Nível 3
 
 > Che $ABCD$ sia un quadrilaterale converso nel piano e che $O_1, O_2, O_3, O_4$ siano rispettivamente i circoncenti dei triangoli $BCD$, $CDA$, $DAB$ e $ABC$. Supponiamo che questi quattro circoncentri siano separati in coppia. Prove che questi quattro punti si trovano su un cerchio comune.
 
-[[Quesiti/src_obm_2021_n3_fx#q01|src_obm_2021_n3_fx__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_casework,method_conteggio,method_invarianti,skill_conteggio_sistematico,skill_casework_accurato,skill_riconoscimento_pattern"></span>
@@ -68,8 +66,6 @@ level: OBM Nível 3
 > 
 > (b) Per questo massimo, in quanti modi possiamo contrassegnare le cellule? Le configurazioni distinte che possono essere ottenute l'una dall'altra mediante rotazione o riflessione sono considerate le stesse.
 
-[[Quesiti/src_obm_2021_n3_fx#q02|src_obm_2021_n3_fx__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_casework,method_induzione,method_estremalita,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -98,8 +94,6 @@ level: OBM Nível 3
 > Trova tutti gli integri positivi $k$ per i quali esiste un numero irrazionale $a > 1$ e un intero positivo $N$ in modo tale che $\lfloor a^n \rfloor$ sia un quadrato perfetto meno $k$, per ogni intero $n$ con $n > N$.
 > 
 > *Osservazione: * $\lfloor x \rfloor$ indica il numero intero più grande inferiore o uguale a $x$.
-
-[[Quesiti/src_obm_2021_n3_fx#q03|src_obm_2021_n3_fx__Q03]]
 
 
 
@@ -134,8 +128,6 @@ level: OBM Nível 3
 > 
 > Qual è il numero reale più piccolo che appartiene a ogni insieme framed?
 
-[[Quesiti/src_obm_2021_n3_fx#q04|src_obm_2021_n3_fx__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_casework,method_induzione,method_estremalita,skill_manipolazione_algebrica,skill_casework_accurato,skill_riconoscimento_pattern"></span>
@@ -162,8 +154,6 @@ level: OBM Nível 3
 
 > Determinare tutti i triples di integri non negativi $(a, b, c)$ in modo tale che $$a^2 + b^2 + c^2 = abc + 1.$$
 
-[[Quesiti/src_obm_2021_n3_fx#q05|src_obm_2021_n3_fx__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_trigonometria,method_invarianti,skill_ragionamento_geometrico,skill_astrazione,skill_manipolazione_algebrica"></span>
@@ -188,5 +178,3 @@ level: OBM Nível 3
 *N-gon bicentrico: cerchio tangente ai circoncircoli dei triangoli di intersezione semicircolare*
 
 > $n \ge 5$ sia un numero intero. Il poligono $P = A_1 A_2 \cdots A_n$ è *bicentrico*, cioè ha sia un cerchio inciso che un cerchio circonscritto. Definire $A_{i+n} = A_i$ per tutti $i$ (tutti gli indici sono presi modulo $n$). Supponiamo che per ogni $i$, $1 \le i \le n$, i semicircoli sui segmenti $A_{i-1}A_i$ e $A_i A_{i+1}$ (come diametri, disegnati sullo stesso lato) si incontrino al punto $B_i$. $\omega_i$ sia il circoncircolo del triangolo $B_i A_i A_{i+1}$. Prova che esiste un cerchio tangente contemporaneamente a tutti i cerchi $n$ $\omega_i$, $1 \le i \le n$.
-
-[[Quesiti/src_obm_2021_n3_fx#q06|src_obm_2021_n3_fx__Q06]]

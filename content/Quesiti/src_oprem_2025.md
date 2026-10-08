@@ -53,8 +53,6 @@ level: Olympiades Première
 
 ![[src_oprem_2025__q01.png]]
 
-[[Quesiti/src_oprem_2025#q01|src_oprem_2025__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_logica,skill_lettura_attenta,skill_astrazione"></span>
@@ -91,8 +89,6 @@ level: Olympiades Première
 > 
 > **(b) ** "Il municipio respinge la richiesta di cancellazione presentata dall'associazione *Organisons le premier Championnat de vitesse d'escargots*, invocando il decreto municipale che proibisce tale rimozione" - sostituire queste due o tre frasi con frasi semplici e chiare che mostrino che avete capito.
 
-[[Quesiti/src_oprem_2025#q02|src_oprem_2025__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -124,8 +120,6 @@ level: Olympiades Première
 > **3. E fare matematica non è ciò che ci danneggia.** Una coppa di champagne ha una forma conica. Sono riempiti diversi cupetti identici, ognuno fino alla metà della sua altezza $h$. Quanti cuponi si possono riempire in questo modo?
 
 ![[src_oprem_2025__q03.png]]
-
-[[Quesiti/src_oprem_2025#q03|src_oprem_2025__Q03]]
 
 
 
@@ -159,8 +153,6 @@ level: Olympiades Première
 > **4. O meglio, un po'.** Un vetro è formato da un emisfero (representato di fronte in sezione trasversale da un semicircolo per il disegno). Il vetro è riempito fino alla metà della sua altezza $h$. Qual è l'angolo massimo di inclinazione a cui si può inclinare il vetro senza versare il liquido?
 
 ![[src_oprem_2025__q04.png]]
-
-[[Quesiti/src_oprem_2025#q04|src_oprem_2025__Q04]]
 
 
 
@@ -199,8 +191,6 @@ level: Olympiades Première
 > 
 > **(b) ** Il gruppo riceve un sussidio di Stato di 1000 euro. Quanto pagherà ciascuno quando verranno solo 90 persone? Quando verranno 120 persone? E quante persone devono venire esattamente per far sì che il prezzo pagato sia minimo?
 
-[[Quesiti/src_oprem_2025#q05|src_oprem_2025__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,skill_modellizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -234,8 +224,6 @@ level: Olympiades Première
 
 ![[src_oprem_2025__q06.png]]
 
-[[Quesiti/src_oprem_2025#q06|src_oprem_2025__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico,skill_astrazione,skill_manipolazione_algebrica"></span>
@@ -268,8 +256,6 @@ level: Olympiades Première
 > **7. 3D Pitagora (teorema di de Gua).** Mostrare che, in un tetraedro tri rettangolare (tre angoli rettangolari ad un vertex), cioè un angolo di parallelepiped rectangulare, il quadrato dell'area della faccia obliqua è uguale alla somma dei quadrati delle aree delle altre tre facce.
 
 ![[src_oprem_2025__q07.png]]
-
-[[Quesiti/src_oprem_2025#q07|src_oprem_2025__Q07]]
 
 
 
@@ -334,8 +320,7 @@ level: Olympiades Première
 > 
 > **(c) ** Mostra che 204 è un numero bilanciato di equilibrio 84.
 
-**Risposta:** 6 has balance 2; 7 is not balanced; 204 has balance 84
-[[Quesiti/src_oprem_2025#q08|src_oprem_2025__Q08]]
+**Risposta:** 6 è bilanciato con equilibrio 2; 7 non è bilanciato; 204 è bilanciato con equilibrio 84
 
 
 
@@ -379,8 +364,7 @@ level: Olympiades Première
 > 
 > **(c) ** Concludi che $n$ è un numero equilibrato se e solo se $8n^2 + 1$ è un quadrato perfetto.
 
-**Risposta:** n is balanced iff 8n^2+1 is a perfect square
-[[Quesiti/src_oprem_2025#q09|src_oprem_2025__Q09]]
+**Risposta:** n è bilanciato se e solo se 8n^2+1 è un quadrato perfetto
 
 
 
@@ -447,7 +431,6 @@ level: Olympiades Première
 > **(f) ** Calcolare $u_2$. Se si ammette che gli unici numeri bilanciati strettamente inferiori a 36 sono 6 e 35, si deduce che se $n > u_2$ allora esiste un intero $m \ge 2$ tale che $u_m < n < u_{m+1}$. Conclusione.
 
 **Risposta:** u_2=35
-[[Quesiti/src_oprem_2025#q10|src_oprem_2025__Q10]]
 
 
 
@@ -500,8 +483,6 @@ level: Olympiades Première
 > 
 > **(c) ** Scrivere una funzione `equilibrio(n) ` prendendo come argomento un intero $n$ almeno uguale a 2 e restituendo `True` se $n$ è un numero equilibrato e `False` altrimenti (si può usare l'approccio della domanda 4a o della domanda 4b, spiegando tuttavia quale metodo è ragionevolmente utilizzabile sul computer).
 
-[[Quesiti/src_oprem_2025#q11|src_oprem_2025__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_ricorsione,skill_conteggio_sistematico,skill_modellizzazione"></span>
@@ -530,8 +511,6 @@ level: Olympiades Première
 > **Esercizio 2 - Per i candidati del flusso generale che seguono la specialità "spe mathematics"**
 > 
 > **5. Generare i numeri bilanciati nel linguaggio Python.** Scrivere una funzione `liste_equilibres(n)` prendendo come argomento un intero $n$ almeno uguale a 2 e restituendo l'elenco dei numeri bilanciati inferiori o uguali a $n$. Ricorda che `[]` è la lista vuota e che, data una lista `L` e un numero intero `i`, il comando `L.append(i)` aggiunge l'elemento `i` alla lista `L` inserendolo alla fine.
-
-[[Quesiti/src_oprem_2025#q12|src_oprem_2025__Q12]]
 
 
 
@@ -605,8 +584,7 @@ level: Olympiades Première
 > 
 > **(c) ** Mostra che 204 è un numero bilanciato di equilibrio 84.
 
-**Risposta:** 6 has balance 2; 7 is not balanced; 204 has balance 84
-[[Quesiti/src_oprem_2025#q13|src_oprem_2025__Q13]]
+**Risposta:** 6 è bilanciato con equilibrio 2; 7 non è bilanciato; 204 è bilanciato con equilibrio 84
 
 
 
@@ -650,8 +628,7 @@ level: Olympiades Première
 > 
 > **(c) ** Concludi che $n$ è un numero equilibrato se e solo se $8n^2 + 1$ è un quadrato perfetto.
 
-**Risposta:** n is balanced iff 8n^2+1 is a perfect square
-[[Quesiti/src_oprem_2025#q14|src_oprem_2025__Q14]]
+**Risposta:** n è bilanciato se e solo se 8n^2+1 è un quadrato perfetto
 
 
 
@@ -699,8 +676,6 @@ level: Olympiades Première
 > 
 > **(c) ** Mostra che $(u_k)_{k \ge 1}$ è una sequenza di numeri bilanciati in stretta crescita.
 
-[[Quesiti/src_oprem_2025#q15|src_oprem_2025__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_ricorsione,skill_conteggio_sistematico,skill_modellizzazione"></span>
@@ -729,5 +704,3 @@ level: Olympiades Première
 > **Esercizio 3 - Per i candidati del flusso generale NON che seguono la specialità "spe mathematics", e TUTTI i candidati del flusso tecnologico**
 > 
 > **6. Generare i numeri bilanciati nel linguaggio Python.** Scrivere una funzione `liste_equilibres(n)` prendendo come argomento un intero $n$ almeno uguale a 2 e restituendo l'elenco dei numeri bilanciati inferiori o uguali a $n$. Ricorda che `[]` è la lista vuota e che, data una lista `L` e un numero intero `i`, il comando `L.append(i)` aggiunge l'elemento `i` alla lista `L` inserendolo alla fine. Si utilizzerà l'istruzione `sqrt() ` per codificare la funzione di radice quadrata.
-
-[[Quesiti/src_oprem_2025#q16|src_oprem_2025__Q16]]

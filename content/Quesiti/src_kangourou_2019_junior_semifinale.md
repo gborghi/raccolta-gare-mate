@@ -46,7 +46,6 @@ level: kangourou
 > D) 14 E) 49
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_junior_semifinale#q01|src_kangourou_2019_junior_semifinale__Q01]]
 
 
 
@@ -82,7 +81,6 @@ level: kangourou
 > (Points 3) The vertices of a rectangle, named in a clockwise direction, are A, B, C, D. The AB side is 15 and the BC side is 20. The rectangle rotates, always clockwise and always 90 degrees, first around the C vertex, then around the D vertex (in the new position in which it came to be). What is the nearest integer to the length of the path traveled by vertex A in two rotations? A) 78 B) 79 C) 70 D) 71 E) A number different from the previous ones
 
 **Answer:** D
-[[Quesiti/src_kangourou_2019_junior_semifinale#q02|src_kangourou_2019_junior_semifinale__Q02]]
 
 
 
@@ -127,7 +125,6 @@ level: kangourou
 > E) All
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_junior_semifinale#q03|src_kangourou_2019_junior_semifinale__Q03]]
 
 
 
@@ -162,7 +159,6 @@ The probability that a 4-digit palindrome is divisible by 7*
 > (Points 4) If you randomly pick a four-digit palindrome integer, what is the probability that it is divisible by 7? A) 1/9 B) 1/8 C) 1/7 D) 1/6 E) 1/5
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_junior_semifinale#q04|src_kangourou_2019_junior_semifinale__Q04]]
 
 
 
@@ -202,7 +198,6 @@ The probability that a 4-digit palindrome is divisible by 7*
 > E) None
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_junior_semifinale#q05|src_kangourou_2019_junior_semifinale__Q05]]
 
 
 
@@ -292,7 +287,6 @@ Where the ball hits the left edge of the grid 4x2019*
 > C) C D) D E) E
 
 **Answer:** C
-[[Quesiti/src_kangourou_2019_junior_semifinale#q06|src_kangourou_2019_junior_semifinale__Q06]]
 
 
 
@@ -340,7 +334,6 @@ Where the ball hits the left edge of the grid 4x2019*
 > E) It cannot be established
 
 **Answer:** A
-[[Quesiti/src_kangourou_2019_junior_semifinale#q07|src_kangourou_2019_junior_semifinale__Q07]]
 
 
 
@@ -386,7 +379,6 @@ Where the ball hits the left edge of the grid 4x2019*
 > C) 14 D) 13 E) 12 (72019)2 - (72017)2 ----------------------------- (72018)2 - (72016)2 A B C D E
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_junior_semifinale#q08|src_kangourou_2019_junior_semifinale__Q08]]
 
 
 
@@ -431,7 +423,6 @@ Where the ball hits the left edge of the grid 4x2019*
 > Open-ended questions
 
 **Answer:** A
-[[Quesiti/src_kangourou_2019_junior_semifinale#q09|src_kangourou_2019_junior_semifinale__Q09]]
 
 
 
@@ -459,8 +450,6 @@ Where the ball hits the left edge of the grid 4x2019*
 
 > (4 points) How many positive integers n with three significant digits are there such that the tens
 > digit of n is half of the units digit and the prime factors of n all have the same parity?
-
-[[Quesiti/src_kangourou_2019_junior_semifinale#q10|src_kangourou_2019_junior_semifinale__Q10]]
 
 
 
@@ -491,7 +480,6 @@ Where the ball hits the left edge of the grid 4x2019*
 > (Points 5) To the (decimal) notation of a positive integer N I added a digit to the right: thus I obtained a number (with one digit more than N) that is k times N, with k an integer. What 's the maximum value of k ?
 
 **Answer:** 19
-[[Quesiti/src_kangourou_2019_junior_semifinale#q11|src_kangourou_2019_junior_semifinale__Q11]]
 
 
 
@@ -519,8 +507,6 @@ Where the ball hits the left edge of the grid 4x2019*
 *Fourth number of the geometric sequence from 6 to 192*
 
 > (Points 5) A sequence of 6 integers begins with 6 and ends with 192 and is constructed so that each intermediate number is the square root of the product of the number preceding it and the number following it. What is the fourth number?
-
-[[Quesiti/src_kangourou_2019_junior_semifinale#q12|src_kangourou_2019_junior_semifinale__Q12]]
 
 
 
@@ -552,8 +538,6 @@ Where the ball hits the left edge of the grid 4x2019*
 > the measures of the edges of the parallelepiped are each expressed by an integer number of centimeters 
 > and the volume of the octahedron is 150 cm3, what can the sum of the measures of the 
 > edges of the parallelepiped be at most?
-
-[[Quesiti/src_kangourou_2019_junior_semifinale#q13|src_kangourou_2019_junior_semifinale__Q13]]
 
 
 
@@ -590,8 +574,6 @@ Where the ball hits the left edge of the grid 4x2019*
 > of the votes. If, compatibly with the results obtained, in A the smallest possible number of
 > voters lied and in B the largest, how many voters lied altogether in the two towns?
 
-[[Quesiti/src_kangourou_2019_junior_semifinale#q14|src_kangourou_2019_junior_semifinale__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,method_backward,skill_conteggio_sistematico"></span>
@@ -619,8 +601,6 @@ Where the ball hits the left edge of the grid 4x2019*
 *Minimum exchanges for reds twice as white (tokens)*
 
 > (Points 6) There are two token-changers: one provides three red tokens for one white, the other five white tokens for one red. I am starting with only 4 white tokens: what is the smallest number of exchanges that allows me to get twice as many red tokens as white tokens?
-
-[[Quesiti/src_kangourou_2019_junior_semifinale#q15|src_kangourou_2019_junior_semifinale__Q15]]
 
 
 
@@ -654,8 +634,6 @@ Where the ball hits the left edge of the grid 4x2019*
 > the Kangaroos won by a one-point margin. The Kangaroos' scores, considered individually in the
 > four quarters, are in geometric progression, while those of the Giraffes are in arithmetic progression.
 > What is the minimum possible value for the total score achieved at the end of the game by the Giraffes?
-
-[[Quesiti/src_kangourou_2019_junior_semifinale#q16|src_kangourou_2019_junior_semifinale__Q16]]
 
 
 
@@ -705,8 +683,6 @@ Where the ball hits the left edge of the grid 4x2019*
 > 	
 > 	
 > (except the last of the sequence) adjacent to the next one. What is the smallest number of cells that you can blacken to achieve the goal?
-
-[[Quesiti/src_kangourou_2019_junior_semifinale#q17|src_kangourou_2019_junior_semifinale__Q17]]
 
 
 
@@ -758,5 +734,3 @@ Where the ball hits the left edge of the grid 4x2019*
 > 0074
 > 4040
 > 0029
-
-[[Quesiti/src_kangourou_2019_junior_semifinale#q18|src_kangourou_2019_junior_semifinale__Q18]]

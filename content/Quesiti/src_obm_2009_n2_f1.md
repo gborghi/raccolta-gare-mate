@@ -38,7 +38,6 @@ level: OBM Nível 2
 > **(A)** $\frac{1}{8}$ $\quad$ **(B)** $\frac{1}{5}$ $\quad$ **(C)** $1$ $\quad$ **(D)** $\frac{8}{5}$ $\quad$ **(E)** $2$
 
 **Risposta:** E
-[[Quesiti/src_obm_2009_n2_f1#q01|src_obm_2009_n2_f1__Q01]]
 
 
 
@@ -75,7 +74,6 @@ level: OBM Nível 2
 ![[src_obm_2009_n2_f1__q02.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2009_n2_f1#q02|src_obm_2009_n2_f1__Q02]]
 
 
 
@@ -108,7 +106,6 @@ level: OBM Nível 2
 > **(A)** $2$ $\quad$ **(B)** $4$ $\quad$ **(C)** $8$ $\quad$ **(D)** $12$ $\quad$ **(E)** $24$
 
 **Risposta:** C
-[[Quesiti/src_obm_2009_n2_f1#q03|src_obm_2009_n2_f1__Q03]]
 
 
 
@@ -140,7 +137,6 @@ level: OBM Nível 2
 > **(A)** $\dfrac{1}{4}$ $\quad$ **(B)** $\dfrac{3}{4}$ $\quad$ **(C)** $\dfrac{3}{4}$ $\quad$ **(D)** $\dfrac{4}{5}$ $\quad$ **(E)** $1$
 
 **Risposta:** D
-[[Quesiti/src_obm_2009_n2_f1#q04|src_obm_2009_n2_f1__Q04]]
 
 
 
@@ -177,7 +173,6 @@ level: OBM Nível 2
 ![[src_obm_2009_n2_f1__q05.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2009_n2_f1#q05|src_obm_2009_n2_f1__Q05]]
 
 
 
@@ -210,7 +205,6 @@ level: OBM Nível 2
 > **(A)** $5$ $\quad$ **(B)** $10$ $\quad$ **(C)** $12$ $\quad$ **(D)** $15$ $\quad$ **(E)** $20$
 
 **Risposta:** E
-[[Quesiti/src_obm_2009_n2_f1#q06|src_obm_2009_n2_f1__Q06]]
 
 
 
@@ -243,7 +237,6 @@ level: OBM Nível 2
 > **(A)** $120$ $\quad$ **(B)** $240$ $\quad$ **(C)** $360$ $\quad$ **(D)** $480$ $\quad$ **(E)** $600$
 
 **Risposta:** D
-[[Quesiti/src_obm_2009_n2_f1#q07|src_obm_2009_n2_f1__Q07]]
 
 
 
@@ -275,7 +268,6 @@ level: OBM Nível 2
 > **(A)** $160$ $\quad$ **(B)** $200$ $\quad$ **(C)** $240$ $\quad$ **(D)** $280$ $\quad$ **(E)** $400$
 
 **Risposta:** B
-[[Quesiti/src_obm_2009_n2_f1#q08|src_obm_2009_n2_f1__Q08]]
 
 
 
@@ -308,7 +300,6 @@ level: OBM Nível 2
 > **(A)** $5$ $\quad$ **(B)** $6$ $\quad$ **(C)** $7$ $\quad$ **(D)** $8$ $\quad$ **(E)** $9$
 
 **Risposta:** C
-[[Quesiti/src_obm_2009_n2_f1#q09|src_obm_2009_n2_f1__Q09]]
 
 
 
@@ -344,7 +335,6 @@ level: OBM Nível 2
 ![[src_obm_2009_n2_f1__q10.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2009_n2_f1#q10|src_obm_2009_n2_f1__Q10]]
 
 
 
@@ -381,7 +371,6 @@ level: OBM Nível 2
 ![[src_obm_2009_n2_f1__q11.png]]
 
 **Risposta:** E
-[[Quesiti/src_obm_2009_n2_f1#q11|src_obm_2009_n2_f1__Q11]]
 
 
 
@@ -417,7 +406,6 @@ level: OBM Nível 2
 ![[src_obm_2009_n2_f1__q12.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2009_n2_f1#q12|src_obm_2009_n2_f1__Q12]]
 
 
 
@@ -454,7 +442,6 @@ level: OBM Nível 2
 > **(A) ** Tale coda non esiste. Un fan di Grêmio è alla fine della coda. Un fan di Grêmio è un vicino di un fan di Flamengo. Un fan di Flamengo è un vicino di un fan di Grêmio. Un fan di Grêmio è un vicino di due fan di Corinthians.
 
 **Risposta:** E
-[[Quesiti/src_obm_2009_n2_f1#q13|src_obm_2009_n2_f1__Q13]]
 
 
 
@@ -495,7 +482,6 @@ level: OBM Nível 2
 ![[src_obm_2009_n2_f1__q14.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2009_n2_f1#q14|src_obm_2009_n2_f1__Q14]]
 
 
 
@@ -528,7 +514,6 @@ level: OBM Nível 2
 > **(A)** $112$ $\quad$ **(B)** $100$ $\quad$ **(C)** $84$ $\quad$ **(D)** $88$ $\quad$ **(E)** $80$
 
 **Risposta:** B
-[[Quesiti/src_obm_2009_n2_f1#q15|src_obm_2009_n2_f1__Q15]]
 
 
 
@@ -565,7 +550,6 @@ level: OBM Nível 2
 ![[src_obm_2009_n2_f1__q16.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2009_n2_f1#q16|src_obm_2009_n2_f1__Q16]]
 
 
 
@@ -598,7 +582,6 @@ level: OBM Nível 2
 > **(A) ** $0$ $\quad$ **(B) ** $1$ $\quad$ **(C) ** $2$ $\quad$ **(D) ** $3$ $\quad$ **
 
 **Risposta:** B
-[[Quesiti/src_obm_2009_n2_f1#q17|src_obm_2009_n2_f1__Q17]]
 
 
 
@@ -643,7 +626,6 @@ level: OBM Nível 2
 > **(A)** $8$ $\quad$ **(B)** $9$ $\quad$ **(C)** $10$ $\quad$ **(D)** $12$ $\quad$ **(E)** $14$
 
 **Risposta:** C
-[[Quesiti/src_obm_2009_n2_f1#q18|src_obm_2009_n2_f1__Q18]]
 
 
 
@@ -675,7 +657,6 @@ level: OBM Nível 2
 > **(A)** $1945$ $\quad$ **(B)** $1946$ $\quad$ **(C)** $3125$ $\quad$ **(D)** $1948$ $\quad$ **(E)** $1949$
 
 **Risposta:** B
-[[Quesiti/src_obm_2009_n2_f1#q19|src_obm_2009_n2_f1__Q19]]
 
 
 
@@ -707,7 +688,6 @@ level: OBM Nível 2
 > **(A)** $2925$ $\quad$ **(B)** $3025$ $\quad$ **(C)** $3125$ $\quad$ **(D)** $3225$ $\quad$ **(E)** $3325$
 
 **Risposta:** C
-[[Quesiti/src_obm_2009_n2_f1#q20|src_obm_2009_n2_f1__Q20]]
 
 
 
@@ -744,7 +724,6 @@ level: OBM Nível 2
 ![[src_obm_2009_n2_f1__q21.png]]
 
 **Risposta:** E
-[[Quesiti/src_obm_2009_n2_f1#q21|src_obm_2009_n2_f1__Q21]]
 
 
 
@@ -777,7 +756,6 @@ level: OBM Nível 2
 > **(A)** $10$ $\quad$ **(B)** $12$ $\quad$ **(C)** $14$ $\quad$ **(D)** $16$ $\quad$ **(E)** $18$
 
 **Risposta:** C
-[[Quesiti/src_obm_2009_n2_f1#q22|src_obm_2009_n2_f1__Q22]]
 
 
 
@@ -810,7 +788,6 @@ level: OBM Nível 2
 > **(A)** $144\text{ cm}^2$ $\quad$ **(B)** $288\text{ cm}^2$ $\quad$ **(C)** $364\text{ cm}^2$ $\quad$ **(D)** $442\text{ cm}^2$ $\quad$ **(E)** $841\text{ cm}^2$
 
 **Risposta:** B
-[[Quesiti/src_obm_2009_n2_f1#q23|src_obm_2009_n2_f1__Q23]]
 
 
 
@@ -843,7 +820,6 @@ level: OBM Nível 2
 > **(A)** $45$ $\quad$ **(B)** $54$ $\quad$ **(C)** $63$ $\quad$ **(D)** $72$ $\quad$ **(E)** $81$
 
 **Risposta:** C
-[[Quesiti/src_obm_2009_n2_f1#q24|src_obm_2009_n2_f1__Q24]]
 
 
 
@@ -880,4 +856,3 @@ level: OBM Nível 2
 ![[src_obm_2009_n2_f1__q25.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2009_n2_f1#q25|src_obm_2009_n2_f1__Q25]]

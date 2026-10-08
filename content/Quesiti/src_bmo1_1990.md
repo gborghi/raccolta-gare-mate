@@ -33,8 +33,6 @@ level: BMO Round 1
 
 > Trova un intero positivo la cui prima cifra è $1$ e che ha la proprietà che, se questa cifra viene trasferita alla fine del numero, il numero è triplicato.
 
-[[Quesiti/src_bmo1_1990#q01|src_bmo1_1990__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_analitica,topic_geometria_piana,method_coordinate,method_estremalita,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_modellizzazione"></span>
@@ -59,8 +57,6 @@ level: BMO Round 1
 *Ricerca il rapporto massimo e min PC/PD sul segmento AB del quadrato*
 
 > $ABCD$ è un quadrato e $P$ è un punto sulla linea $AB$. Trova i valori massimi e minimi del rapporto $PC/PD$, mostrando che si verificano per i punti $P$ dati da $AP \times BP = AB^2$.
-
-[[Quesiti/src_bmo1_1990#q02|src_bmo1_1990__Q02]]
 
 
 
@@ -89,8 +85,6 @@ level: BMO Round 1
 
 > Gli angoli $A$, $B$, $C$, $D$ di un quadrilatero convexo soddisfano la relazione $$\cos A + \cos B + \cos C + \cos D = 0.$$ Prove che $ABCD$ è un quadrilatero ciclico.
 
-[[Quesiti/src_bmo1_1990#q03|src_bmo1_1990__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_probabilita,method_ricorsione,method_casework,skill_modellizzazione,skill_manipolazione_algebrica,skill_casework_accurato"></span>
@@ -115,8 +109,6 @@ level: BMO Round 1
 *Valore equo di p per il gioco di monete pregiudiziale con sequenze HHH o HTH*
 
 > Una moneta è biassata in modo che la probabilità di ottenere una testa sia $p$, $0 < p < 1$. Due giocatori $A$ e $B$ lanciano la moneta a turno fino a quando non si verifica una delle sequenze $HHH$ o $HTH$. Se la sequenza $HHH$ si verifica prima, allora $A$ vince. Se $HTH$ si verifica per primo, allora $B$ vince. Per quale valore di $p$ è il fair game (cioè in modo tale che $A$ e $B$ abbiano uguali possibilità di vincere)?
-
-[[Quesiti/src_bmo1_1990#q04|src_bmo1_1990__Q04]]
 
 
 
@@ -147,8 +139,6 @@ level: BMO Round 1
 > 
 > [Il centroide di un triangolo è l'intersezione delle linee che uniscono ogni vertice al punto medio del lato opposto; l'ortocentro è l'intersezione delle altitudini.]
 
-[[Quesiti/src_bmo1_1990#q05|src_bmo1_1990__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
@@ -175,5 +165,3 @@ level: BMO Round 1
 *Equazione razionale x,y soddisfacente implica che 1-xy è quadrato di razionale*
 
 > Dimostra che se $x$, $y$ sono numeri razionali che soddisfano l'equazione $$x^4 + y^4 = 2x^2y^2$$ allora $1 - xy$ è il quadrato di un numero razionale.
-
-[[Quesiti/src_bmo1_1990#q06|src_bmo1_1990__Q06]]

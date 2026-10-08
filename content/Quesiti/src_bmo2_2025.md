@@ -37,8 +37,6 @@ level: BMO Round 2
 > 
 > [Un *numero triangolare * è una delle forme $\frac{k(k+1)}{2}$ per un intero positivo $k$.]
 
-[[Quesiti/src_bmo2_2025#q01|src_bmo2_2025__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
@@ -67,8 +65,6 @@ level: BMO Round 2
 > In un triangolo a angolo acuto $ABC$ con $AB < AC$, l'incentro è $I$ e il bisettore perpendicolare di $BC$ incontra $BI$ a $P$ e $CI$ a $Q$. I cerchi $BIQ$ e $CIP$ si incontrano di nuovo a $X$. Le linee $AX$ e $BC$ si incontrano a $D$.
 > 
 > Provare che $D$ si trova sul cerchio $AQP$.
-
-[[Quesiti/src_bmo2_2025#q02|src_bmo2_2025__Q02]]
 
 
 
@@ -99,8 +95,6 @@ level: BMO Round 2
 > 
 > In termini di $n$, qual è il maggior numero di swap che Elijah potrebbe aver bisogno?
 
-[[Quesiti/src_bmo2_2025#q03|src_bmo2_2025__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,method_ricorsione,method_invarianti,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -127,5 +121,3 @@ level: BMO Round 2
 *Conta sequenze di numeri interi positivi con u_1=1 e recidiva data*
 
 > Quante diverse sequenze di integri positivi soddisfano $u_1 = 1$ e $$u_{n+1} = \frac{(u_n^2 + u_n + 1)^{2025}}{u_{n-1}}$$ per tutti $n \ge 2$?
-
-[[Quesiti/src_bmo2_2025#q04|src_bmo2_2025__Q04]]

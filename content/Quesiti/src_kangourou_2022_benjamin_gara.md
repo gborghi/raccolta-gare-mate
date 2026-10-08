@@ -34,7 +34,6 @@ level: kangourou
 > Six points are numbered as shown in the figure. Cristina obtains two triangles: one with vertices marked by even numbers, the other with vertices marked by odd numbers. Which of the five figures shows the two triangles obtained by Cristina? (see figure)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2022_benjamin_gara#q01|src_kangourou_2022_benjamin_gara__Q01]]
 
 
 
@@ -74,7 +73,6 @@ level: kangourou
 > E) 1 and 3
 
 **Answer:** E
-[[Quesiti/src_kangourou_2022_benjamin_gara#q02|src_kangourou_2022_benjamin_gara__Q02]]
 
 
 
@@ -121,7 +119,6 @@ level: kangourou
 > E) 10
 
 **Answer:** B
-[[Quesiti/src_kangourou_2022_benjamin_gara#q03|src_kangourou_2022_benjamin_gara__Q03]]
 
 
 
@@ -173,7 +170,6 @@ Minimum number of vehicles to move to get the black car out
 > E) 6
 
 **Answer:** C
-[[Quesiti/src_kangourou_2022_benjamin_gara#q04|src_kangourou_2022_benjamin_gara__Q04]]
 
 
 
@@ -218,7 +214,6 @@ Minimum number of vehicles to move to get the black car out
 > A) 699 B) 113 C) 551 D) 967 E) 459
 
 **Answer:** A
-[[Quesiti/src_kangourou_2022_benjamin_gara#q05|src_kangourou_2022_benjamin_gara__Q05]]
 
 
 
@@ -264,7 +259,6 @@ Minimum number of vehicles to move to get the black car out
 > D) 4 E) 5
 
 **Answer:** C
-[[Quesiti/src_kangourou_2022_benjamin_gara#q06|src_kangourou_2022_benjamin_gara__Q06]]
 
 
 
@@ -304,7 +298,6 @@ Minimum number of vehicles to move to get the black car out
 > One of the two white cabins currently located further down in the Ferris wheel is to be taken to the farthest position from the ground. To that end, which of the following fractions of a full lap is enough to make the wheel complete? A) 5/6 B) 1/2 C) 5/12 D) 1/6 E) 1/12
 
 **Answer:** C
-[[Quesiti/src_kangourou_2022_benjamin_gara#q07|src_kangourou_2022_benjamin_gara__Q07]]
 
 
 
@@ -348,7 +341,6 @@ Minimum number of vehicles to move to get the black car out
 > C) 20 D) 23 E) 25
 
 **Answer:** C
-[[Quesiti/src_kangourou_2022_benjamin_gara#q08|src_kangourou_2022_benjamin_gara__Q08]]
 
 
 
@@ -387,7 +379,6 @@ Minimum number of vehicles to move to get the black car out
 > The square in the figure has an area of 100 cm2. How many square centimeters does the area of the grey star measure? A) 20 B) 25 C) 30 D) 35 E) 40
 
 **Answer:** B
-[[Quesiti/src_kangourou_2022_benjamin_gara#q09|src_kangourou_2022_benjamin_gara__Q09]]
 
 
 
@@ -438,7 +429,6 @@ Minimum number of vehicles to move to get the black car out
 > E) 60 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2022_benjamin_gara#q10|src_kangourou_2022_benjamin_gara__Q10]]
 
 
 
@@ -492,7 +482,6 @@ Minimum number of vehicles to move to get the black car out
 > fork? A)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2022_benjamin_gara#q11|src_kangourou_2022_benjamin_gara__Q11]]
 
 
 
@@ -541,7 +530,6 @@ Minimum number of vehicles to move to get the black car out
 > E) 48
 
 **Answer:** B
-[[Quesiti/src_kangourou_2022_benjamin_gara#q12|src_kangourou_2022_benjamin_gara__Q12]]
 
 
 
@@ -585,7 +573,6 @@ Minimum number of vehicles to move to get the black car out
 > The figure shows a water tank in the form of a right parallelepiped (i.e. box with all rectangular faces) in two different positions. Its dimensions are 1m×2m×4m and when placed on a face of 2m×4m the water in it reaches a height of 25 cm. What height does it reach when lying on a face measuring 1m×2m? A) 25 cm B) 50 cm C) 75 cm D) 1 m E) 1,25 m
 
 **Answer:** D
-[[Quesiti/src_kangourou_2022_benjamin_gara#q13|src_kangourou_2022_benjamin_gara__Q13]]
 
 
 
@@ -683,7 +670,6 @@ Minimum number of vehicles to move to get the black car out
 >
 
 **Answer:** E
-[[Quesiti/src_kangourou_2022_benjamin_gara#q14|src_kangourou_2022_benjamin_gara__Q14]]
 
 
 
@@ -731,7 +717,6 @@ Minimum number of vehicles to move to get the black car out
 > D)
 
 **Answer:** A
-[[Quesiti/src_kangourou_2022_benjamin_gara#q15|src_kangourou_2022_benjamin_gara__Q15]]
 
 
 
@@ -781,7 +766,6 @@ Minimum number of vehicles to move to get the black car out
 > D) D E) All solids require the same amount of paint.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2022_benjamin_gara#q16|src_kangourou_2022_benjamin_gara__Q16]]
 
 
 
@@ -828,7 +812,6 @@ Minimum number of vehicles to move to get the black car out
 > E) 134
 
 **Answer:** D
-[[Quesiti/src_kangourou_2022_benjamin_gara#q17|src_kangourou_2022_benjamin_gara__Q17]]
 
 
 
@@ -878,7 +861,6 @@ Minimum number of vehicles to move to get the black car out
 > D) 4 E) There is more than one possible answer.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2022_benjamin_gara#q18|src_kangourou_2022_benjamin_gara__Q18]]
 
 
 
@@ -923,7 +905,6 @@ Minimum number of vehicles to move to get the black car out
 > D) 5
 
 **Answer:** A
-[[Quesiti/src_kangourou_2022_benjamin_gara#q19|src_kangourou_2022_benjamin_gara__Q19]]
 
 
 
@@ -1026,7 +1007,6 @@ Minimum number of vehicles to move to get the black car out
 > Questions from No. 21 to No. 30 are worth 5 points each
 
 **Answer:** E
-[[Quesiti/src_kangourou_2022_benjamin_gara#q20|src_kangourou_2022_benjamin_gara__Q20]]
 
 
 
@@ -1076,7 +1056,6 @@ How many players are definitely weaker than the loser of the final?
 > E) 3
 
 **Answer:** E
-[[Quesiti/src_kangourou_2022_benjamin_gara#q21|src_kangourou_2022_benjamin_gara__Q21]]
 
 
 
@@ -1129,7 +1108,6 @@ How many players are definitely weaker than the loser of the final?
 > E) 26
 
 **Answer:** C
-[[Quesiti/src_kangourou_2022_benjamin_gara#q22|src_kangourou_2022_benjamin_gara__Q22]]
 
 
 
@@ -1170,7 +1148,6 @@ How many players are definitely weaker than the loser of the final?
 > A) 062 B) 082 C) 642 D) 042 E) 012
 
 **Answer:** D
-[[Quesiti/src_kangourou_2022_benjamin_gara#q23|src_kangourou_2022_benjamin_gara__Q23]]
 
 
 
@@ -1222,7 +1199,6 @@ Which solid represents Anna's from another perspective
 > C)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2022_benjamin_gara#q24|src_kangourou_2022_benjamin_gara__Q24]]
 
 
 
@@ -1268,7 +1244,6 @@ Which solid represents Anna's from another perspective
 > C) 3
 
 **Answer:** E
-[[Quesiti/src_kangourou_2022_benjamin_gara#q25|src_kangourou_2022_benjamin_gara__Q25]]
 
 
 
@@ -1375,7 +1350,6 @@ Which solid represents Anna's from another perspective
 > E) 18
 
 **Answer:** D
-[[Quesiti/src_kangourou_2022_benjamin_gara#q26|src_kangourou_2022_benjamin_gara__Q26]]
 
 
 
@@ -1441,7 +1415,6 @@ Which solid represents Anna's from another perspective
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2022_benjamin_gara#q27|src_kangourou_2022_benjamin_gara__Q27]]
 
 
 
@@ -1489,7 +1462,6 @@ Where the school is located minimizing distances
 > E) In D.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2022_benjamin_gara#q28|src_kangourou_2022_benjamin_gara__Q28]]
 
 
 
@@ -1536,7 +1508,6 @@ Where the school is located minimizing distances
 > C) 20 D) 21 E) 22
 
 **Answer:** B
-[[Quesiti/src_kangourou_2022_benjamin_gara#q29|src_kangourou_2022_benjamin_gara__Q29]]
 
 
 
@@ -1630,4 +1601,3 @@ Maximum number of people with a hat at the table
 > From the top, from the front to the right.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2022_benjamin_gara#q30|src_kangourou_2022_benjamin_gara__Q30]]

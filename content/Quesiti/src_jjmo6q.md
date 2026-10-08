@@ -34,8 +34,6 @@ level: JJMO
 
 > Calcolare la seguente espressione: $$877 \times 879 - 121 \times 123.$$
 
-[[Quesiti/src_jjmo6q#q01|src_jjmo6q__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_fattorizzazione,method_conteggio,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -60,8 +58,6 @@ level: JJMO
 *Max × 1004 ×1005 ×... ×2008 è divisibile per 2*
 
 > Quante volte $2$ divide $1004 \times 1005 \times 1006 \times \cdots \times 2008$? (cioè trovare il più grande intero $k$ tale che $2^k$ divida $1004 \times 1005 \times \cdots \times 2008$.)
-
-[[Quesiti/src_jjmo6q#q02|src_jjmo6q__Q02]]
 
 
 
@@ -92,8 +88,6 @@ level: JJMO
 
 ![[src_jjmo6q__q03.png]]
 
-[[Quesiti/src_jjmo6q#q03|src_jjmo6q__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_casi_conteggio,skill_casework_accurato,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -122,8 +116,6 @@ level: JJMO
 > Taro ha una banconota di 1000 yen, una moneta di 100 yen, una moneta di 10 yen e una moneta di 1 yen, e le usa tutte e quattro per acquistare un oggetto. Quanti prezzi possibili può avere l'oggetto?
 > 
 > La condizione è che il pagamento di Taro non abbia alcun importo in comune (come monete/monete) con il cambio che riceve; tra tutti i metodi di pagamento che soddisfano questa condizione, sceglie uno che riduca al minimo il numero di monete/monete che detiene dopo la transazione (cioè riduce al minimo il numero totale delle sue monete/monete rimanenti dopo aver ricevuto il cambio). Inoltre, il cambio viene sempre dato con il numero minimo di monete/monete, ed è anche possibile che il cambio sia di 0 yen.
-
-[[Quesiti/src_jjmo6q#q04|src_jjmo6q__Q04]]
 
 
 
@@ -154,8 +146,6 @@ level: JJMO
 
 ![[src_jjmo6q__q05.png]]
 
-[[Quesiti/src_jjmo6q#q05|src_jjmo6q__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -185,8 +175,6 @@ level: JJMO
 > 
 > (Le gare non si verificano; i disegni non sono possibili.)
 
-[[Quesiti/src_jjmo6q#q06|src_jjmo6q__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,method_fattorizzazione,skill_conteggio_sistematico,skill_casework_accurato,skill_manipolazione_algebrica"></span>
@@ -211,8 +199,6 @@ level: JJMO
 *Contare triples (a,b,c) di numeri interi positivi con lcm 720, tutti diversi*
 
 > Quanti triples ordinati di integri positivi $(a, b, c)$ esistono in modo tale che il più piccolo multiplo comune di $a$, $b$ e $c$ sia $720$, e i tre numeri $a$, $b$, $c$ siano parimenti distinti (nessuno di due è uguale)? (I triples che differiscono solo nell'ordine sono contati separatamente.)
-
-[[Quesiti/src_jjmo6q#q07|src_jjmo6q__Q07]]
 
 
 
@@ -242,8 +228,6 @@ level: JJMO
 > Una scuola media decise di far piantare i tulipani agli studenti. Ogni studente pianta almeno una lampadina. Gli studenti della stessa classe piantano lo stesso numero di lampadine, e ogni studente pianta lo stesso numero di lampadine come gli studenti di altre classi. Il numero totale di lampadine che possono essere piantate è massimo $100$; il numero di lampadine il cui totale è inferiore a $100$ è $6$, e i due numeri più piccoli sono $52$ e $64$.
 > 
 > Trovare tutte le possibili combinazioni del numero di studenti in ciascuno dei gradi 1, 2 e 3 (cioè anni di scuola media 1, 2, 3).
-
-[[Quesiti/src_jjmo6q#q08|src_jjmo6q__Q08]]
 
 
 
@@ -278,8 +262,6 @@ level: JJMO
 > 
 > (Questo è un problema di prova; anche se la risposta è dichiarata, deve essere dimostrata corretta.)
 
-[[Quesiti/src_jjmo6q#q09|src_jjmo6q__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,method_doppio_conteggio,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -310,8 +292,6 @@ level: JJMO
 > Considera una griglia $3 \times 3$ di quadrati unitari. Ogni cella è numerata come indicato di seguito: $$\begin{array}{|c|c|c|}\hline \textcircled{1} & \textcircled{2} & \textcircled{3} \\ \hline \textcircled{8} & & \textcircled{4} \\ \hline \textcircled{7} & \textcircled{6} & \textcircled{5} \\ \hline \end{array}$$ $A$, $B$, $C$, $D$ sono punti interni (non sul confine) delle unità quadrate $\textcircled{1}$, $\textcircled{3}$, $\textcircled{5}$ e $\textcircled{7}$ rispettivamente. $X$ è la somma delle superfici delle intersezioni di quadrato $ABCD$ con ciascuno dei quadrati $\textcircled{1}$, $\textcircled{3}$, $\textcircled{5}$, $\textcircled{7}$, e $Y$ è la somma delle superfici delle intersezioni di quadrato $ABCD$ con ciascuno dei quadrati $\textcircled{2}$, $\textcircled{4}$, $\textcircled{6}$, $\textcircled{8}$. Prova che $X < Y$.
 > 
 > (Questo è un problema di prova.)
-
-[[Quesiti/src_jjmo6q#q10|src_jjmo6q__Q10]]
 
 
 
@@ -363,5 +343,3 @@ level: JJMO
 > (2) Trova tutte le coppie $(m, n)$ per le quali esiste un colore valido.
 > 
 > (Questo è un problema di prova per la parte (2).)
-
-[[Quesiti/src_jjmo6q#q11|src_jjmo6q__Q11]]

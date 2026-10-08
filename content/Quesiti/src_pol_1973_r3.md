@@ -33,8 +33,6 @@ level: Olimpiade Polacca Round 3
 
 > Prova che ogni polinomio è una differenza di due polinomi in aumento.
 
-[[Quesiti/src_pol_1973_r3#q01|src_pol_1973_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_probabilita,topic_algebra,method_ricorsione,method_induzione,skill_modellizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -59,8 +57,6 @@ level: Olimpiade Polacca Round 3
 *Probabilità di testa in 100 lanci; convergenza delle sequenze*
 
 > $p_n$ indichi la probabilità che, in $n$ lanci, una moneta giusta mostri la testa in su 100 volte consecutive. Prove che la sequenza $\{p_n\}$ converge e determina il suo limite.
-
-[[Quesiti/src_pol_1973_r3#q02|src_pol_1973_r3__Q02]]
 
 
 
@@ -94,8 +90,6 @@ level: Olimpiade Polacca Round 3
 > 
 > Provare che $W$ è un parallelepiped.
 
-[[Quesiti/src_pol_1973_r3#q03|src_pol_1973_r3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_geometria_analitica,method_estremalita,method_doppio_conteggio,skill_modellizzazione,skill_ragionamento_geometrico,skill_stima"></span>
@@ -120,8 +114,6 @@ level: Olimpiade Polacca Round 3
 *Segmenti tradotti di lunghezza totale <1 su una linea rimanere lontani da dati punti*
 
 > Un insieme di segmenti con una lunghezza totale inferiore a 1 è indicato su una linea. Prova che ogni insieme di punti della linea può essere tradotto da un vettore di lunghezza non superiore a $\pi/2$, in modo che tutti i punti ottenuti siano lontani dai segmenti dati.
-
-[[Quesiti/src_pol_1973_r3#q04|src_pol_1973_r3__Q04]]
 
 
 
@@ -148,8 +140,6 @@ level: Olimpiade Polacca Round 3
 
 > Prova che ogni numero razionale positivo $m/s$ può essere rappresentato come somma di reciprocità di diversi interi positivi.
 
-[[Quesiti/src_pol_1973_r3#q05|src_pol_1973_r3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_analitica,topic_geometria_piana,method_estremalita,method_simmetria,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta"></span>
@@ -174,5 +164,3 @@ level: Olimpiade Polacca Round 3
 *Il poligono centralmente simmetrico ha un'ellisse che lo contiene con superficie minima*
 
 > Prove che per ogni poligono centralmente simmetrico c'è al massimo un'ellisse contenente il poligono e con la superficie minima.
-
-[[Quesiti/src_pol_1973_r3#q06|src_pol_1973_r3__Q06]]

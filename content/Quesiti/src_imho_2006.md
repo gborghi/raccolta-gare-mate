@@ -37,8 +37,6 @@ level: IMO
 > $$\angle PBA + \angle PCA = \angle PBC + \angle PCB.$$
 > Si dimostri che $AP \ge AI$, e che l'uguaglianza ha luogo se e solo se $P = I$.
 
-[[Quesiti/src_imho_2006#q01|src_imho_2006__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_estremalita,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_ragionamento_geometrico,skill_casework_accurato"></span>
@@ -67,8 +65,6 @@ level: IMO
 > Sia $P$ un 2006-ago regolare. Una diagonale di $P$ si dice buona se i suoi estremi dividono il bordo di $P$ in due parti, ciascuna delle quali è composta da un numero dispari di lati di $P$. I lati di $P$ si dicono anch'essi buoni.
 > 
 > Sia $P$ stato suddiviso in triangoli da 2003 diagonali, nessuna delle quali ha punti interni in comune con un'altra all'interno di $P$. Si determini il massimo numero di triangoli isosceli con due lati buoni che potrebbero comparire in tale configurazione.
-
-[[Quesiti/src_imho_2006#q02|src_imho_2006__Q02]]
 
 
 
@@ -99,8 +95,6 @@ level: IMO
 > $$\left|ab(a^2 - b^2) + bc(b^2 - c^2) + ca(c^2 - a^2)\right| \le M(a^2 + b^2 + c^2)^2$$
 > sia verificata per tutti i numeri reali $a$, $b$ e $c$.
 
-[[Quesiti/src_imho_2006#q03|src_imho_2006__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -128,8 +122,6 @@ level: IMO
 > Determinare tutte le coppie $(x, y)$ di interi tali che
 > $$1 + 2^x + 2^{2x+1} = y^2.$$
 
-[[Quesiti/src_imho_2006#q04|src_imho_2006__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_induzione,method_fattorizzazione,method_invarianti,skill_manipolazione_algebrica,skill_astrazione,skill_ragionamento_geometrico"></span>
@@ -155,8 +147,6 @@ level: IMO
 
 > Sia $P(x)$ un polinomio di grado $n > 1$ a coefficienti interi e sia $k$ un numero intero positivo. Si consideri il polinomio $Q(x) = P(P(\ldots P(P(x)) \ldots))$, in cui $P$ compare $k$ volte. Si dimostri che vi sono al più $n$ numeri interi $t$ tali che $Q(t) = t$.
 
-[[Quesiti/src_imho_2006#q05|src_imho_2006__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_disuguaglianze,method_estremalita,method_disuguaglianze,method_doppio_conteggio,skill_ragionamento_geometrico,skill_stima,skill_astrazione"></span>
@@ -181,5 +171,3 @@ level: IMO
 *La somma delle aree massime dei triangoli sui lati è almeno il doppio dell'area del poligono*
 
 > Assegnare a ciascun lato $b$ di un poligono convesso $P$ l'area massima di un triangolo che ha $b$ come lato e sia contenuto in $P$. Si dimostri che la somma delle aree così assegnate ai lati di $P$ è almeno il doppio dell'area di $P$.
-
-[[Quesiti/src_imho_2006#q06|src_imho_2006__Q06]]

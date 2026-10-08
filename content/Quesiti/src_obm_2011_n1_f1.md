@@ -40,7 +40,6 @@ level: OBM Nível 1
 > (A) R\$74.36 \quad (B) R\$74.46 \quad (C) R\$84.36 \quad (D) R\$89.86 \quad (E) R\$104.26
 
 **Risposta:** A
-[[Quesiti/src_obm_2011_n1_f1#q01|src_obm_2011_n1_f1__Q01]]
 
 
 
@@ -83,7 +82,6 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > - **(E)** 2 lattine di 200 g e 2 lattine di 400 g
 
 **Risposta:** D
-[[Quesiti/src_obm_2011_n1_f1#q02|src_obm_2011_n1_f1__Q02]]
 
 
 
@@ -129,7 +127,6 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 ![[src_obm_2011_n1_f1__q03.png]]
 
 **Risposta:** A
-[[Quesiti/src_obm_2011_n1_f1#q03|src_obm_2011_n1_f1__Q03]]
 
 
 
@@ -164,7 +161,6 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > (A) 396 \quad (B) 398 \quad (C) 400 \quad (D) 402 \quad (E) 404
 
 **Risposta:** D
-[[Quesiti/src_obm_2011_n1_f1#q04|src_obm_2011_n1_f1__Q04]]
 
 
 
@@ -203,7 +199,6 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 ![[src_obm_2011_n1_f1__q05.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2011_n1_f1#q05|src_obm_2011_n1_f1__Q05]]
 
 
 
@@ -237,7 +232,6 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > (A) 28\% \quad (B) 30\% \quad (C) 35\% \quad (D) 38\% \quad (E) 70\%
 
 **Risposta:** A
-[[Quesiti/src_obm_2011_n1_f1#q06|src_obm_2011_n1_f1__Q06]]
 
 
 
@@ -272,7 +266,6 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > (A) 15 \quad (B) 23 \quad (C) 27 \quad (D) 39 \quad (E) 107
 
 **Risposta:** E
-[[Quesiti/src_obm_2011_n1_f1#q07|src_obm_2011_n1_f1__Q07]]
 
 
 
@@ -311,7 +304,6 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 ![[src_obm_2011_n1_f1__q08.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2011_n1_f1#q08|src_obm_2011_n1_f1__Q08]]
 
 
 
@@ -346,7 +338,6 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > (A) 12 \quad (B) 14 \quad (C) 16 \quad (D) 18 \quad (E) 20
 
 **Risposta:** C
-[[Quesiti/src_obm_2011_n1_f1#q09|src_obm_2011_n1_f1__Q09]]
 
 
 
@@ -380,7 +371,6 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > (A) 30 \quad (B) 31 \quad (C) 32 \quad (D) 33 \quad (E) 66
 
 **Risposta:** D
-[[Quesiti/src_obm_2011_n1_f1#q10|src_obm_2011_n1_f1__Q10]]
 
 
 
@@ -412,8 +402,6 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > Luca ha comprato una rivista per pagare una banconota di 10,00 euro. In quanti modi può ricevere il cambio di 37 centesimi in monete, se le monete disponibili nella cassa sono di $1, 5, 10$ e $25$ centesimi? Supponiamo che ci siano molte monete di ogni tipo.
 > 
 > (A) 10 \quad (B) 12 \quad (C) 15 \quad (D) 24 \quad (E) 30
-
-[[Quesiti/src_obm_2011_n1_f1#q11|src_obm_2011_n1_f1__Q11]]
 
 
 
@@ -452,7 +440,6 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 ![[src_obm_2011_n1_f1__q12.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2011_n1_f1#q12|src_obm_2011_n1_f1__Q12]]
 
 
 
@@ -486,7 +473,6 @@ Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
 > (A) $20^\circ$ \quad (B) $42^\circ$ \quad (C) $105^\circ$ \quad (D) $403^\circ$ \quad (E) $1005^\circ$
 
 **Risposta:** D
-[[Quesiti/src_obm_2011_n1_f1#q13|src_obm_2011_n1_f1__Q13]]
 
 
 
@@ -518,8 +504,6 @@ Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
 > Quanti integri positivi inferiori a $30$ hanno esattamente quattro divisori?
 > 
 > (A) 9 \quad (B) 10 \quad (C) 11 \quad (D) 12 \quad (E) 13
-
-[[Quesiti/src_obm_2011_n1_f1#q14|src_obm_2011_n1_f1__Q14]]
 
 
 
@@ -558,7 +542,6 @@ Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
 ![[src_obm_2011_n1_f1__q15.png]]
 
 **Risposta:** A
-[[Quesiti/src_obm_2011_n1_f1#q15|src_obm_2011_n1_f1__Q15]]
 
 
 
@@ -593,7 +576,6 @@ Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
 > (A) 15 \quad (B) 18 \quad (C) 24 \quad (D) 26 \quad (E) 28
 
 **Risposta:** E
-[[Quesiti/src_obm_2011_n1_f1#q16|src_obm_2011_n1_f1__Q16]]
 
 
 
@@ -625,8 +607,6 @@ Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
 > Il numero $n = 9999\cdots99$ ha i numeri $2011$, tutti uguali a $9$. Quante cifre $9$ ha il numero $n^2$?
 > 
 > (A) nessuno (B) 11 (C) 2010 (D) 2011 (E) 4022
-
-[[Quesiti/src_obm_2011_n1_f1#q17|src_obm_2011_n1_f1__Q17]]
 
 
 
@@ -665,7 +645,6 @@ Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
 ![[src_obm_2011_n1_f1__q18.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2011_n1_f1#q18|src_obm_2011_n1_f1__Q18]]
 
 
 
@@ -700,7 +679,6 @@ Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
 > (A) 1 \quad (B) 3 \quad (C) 4 \quad (D) 7 \quad (E) 9
 
 **Risposta:** B
-[[Quesiti/src_obm_2011_n1_f1#q19|src_obm_2011_n1_f1__Q19]]
 
 
 
@@ -732,5 +710,3 @@ Meno numero di biglietti che cambiano di mano in modo che tre ragazze abbiano qu
 > Esmeralda ha 11 banconote di due reais, Rosa ha 7 banconote di cinque reais e Nelly ha 3 banconote di dieci reais. Qual è il numero più piccolo possibile del totale di banconote che devono cambiare mano in modo che tutte le ragazze finiscano con la stessa quantità?
 > 
 > (A) 5 \quad (B) 6 \quad (C) 7 \quad (D) 8 \quad (E) 9
-
-[[Quesiti/src_obm_2011_n1_f1#q20|src_obm_2011_n1_f1__Q20]]

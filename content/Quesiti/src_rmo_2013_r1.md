@@ -33,8 +33,6 @@ level: RMO
 
 > Lasciate che $ABC$ sia un triangolo angolato acuto. Il cerchio $\Gamma$ con $BC$ come diametro si interseca di nuovo con $AB$ e $AC$ rispettivamente a $P$ e $Q$. Determinare $\angle BAC$ dato che l'ortocentro del triangolo $APQ$ si trova su $\Gamma$.
 
-[[Quesiti/src_rmo_2013_r1#q01|src_rmo_2013_r1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -63,8 +61,6 @@ level: RMO
 
 > $f(x) = x^3 + ax^2 + bx + c$ e $g(x) = x^3 + bx^2 + cx + a$, dove $a, b, c$ sono integri con $c \neq 0$. Supponiamo che siano valide le seguenti condizioni: a) $f(1) = 0$; b) le radici di $g(x)$ sono quadrati delle radici di $f(x)$. Trova il valore di $a^{2013} + b^{2013} + c^{2013}$.
 
-[[Quesiti/src_rmo_2013_r1#q02|src_rmo_2013_r1__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_casework_accurato,skill_manipolazione_algebrica"></span>
@@ -89,8 +85,6 @@ level: RMO
 *Ricerca tutti i numeri primi p,q in modo che p divida q^2-4 e q divida p^2-1*
 
 > Trova tutti i numeri primi $p$ e $q$ in modo tale che $p$ divida $q^2 - 4$ e $q$ divida $p^2 - 1$.
-
-[[Quesiti/src_rmo_2013_r1#q03|src_rmo_2013_r1__Q03]]
 
 
 
@@ -118,8 +112,6 @@ level: RMO
 
 > Trova il numero di 10 tupli $(a_1, a_2, \ldots, a_{10})$ di numeri interi come $|a_i| \leq 1$ e $$a_1^2 + a_2^2 + a_3^2 + \cdots + a_{10}^2 - a_1 a_2 - a_2 a_3 - a_3 a_4 - \cdots - a_9 a_{10} - a_{10} a_1 = 2.$$
 
-[[Quesiti/src_rmo_2013_r1#q04|src_rmo_2013_r1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -145,8 +137,6 @@ level: RMO
 
 > Il $ABC$ deve essere un triangolo con $\angle A = 90^\circ$ e $AB = AC$. Il punto $D$ e il punto $E$ devono essere punti del segmento $BC$ in modo tale che $BD : DE : EC = 3 : 5 : 4$. Dimostra che $\angle DAE = 45^\circ$.
 
-[[Quesiti/src_rmo_2013_r1#q05|src_rmo_2013_r1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -171,5 +161,3 @@ level: RMO
 *Prove n divisibile per 6 dato che entrambe le quadratiche hanno radici interi*
 
 > Supponiamo che $m$ e $n$ siano integri in modo tale che entrambe le equazioni quadratiche $x^2 + mx - n = 0$ e $x^2 - mx + n = 0$ abbiano radici interi. Provare che $n$ è divisibile da $6$.
-
-[[Quesiti/src_rmo_2013_r1#q06|src_rmo_2013_r1__Q06]]

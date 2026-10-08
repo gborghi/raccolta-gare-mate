@@ -41,8 +41,6 @@ level: OBM Nível 1
 > 
 > b) Qual è il numero intero positivo più piccolo che è speciale e batte la risposta corretta al punto precedente?
 
-[[Quesiti/src_obm_2024_n1_fx#q01|src_obm_2024_n1_fx__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_logica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -96,8 +94,6 @@ level: OBM Nível 1
 
 ![[src_obm_2024_n1_fx__q02.png]]
 
-[[Quesiti/src_obm_2024_n1_fx#q02|src_obm_2024_n1_fx__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_aritmetica,method_coordinate,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -143,8 +139,6 @@ level: OBM Nível 1
 
 ![[src_obm_2024_n1_fx__q03.png]]
 
-[[Quesiti/src_obm_2024_n1_fx#q03|src_obm_2024_n1_fx__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
@@ -186,8 +180,6 @@ level: OBM Nível 1
 > 
 > c) Trovare un valore iniziale $N$ inferiore a $1{,}000{,}000$ (un milione) tale che la sequenza a partire da $N$ abbia esattamente 10 termini.
 
-[[Quesiti/src_obm_2024_n1_fx#q04|src_obm_2024_n1_fx__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_estremalita,skill_modellizzazione,skill_conteggio_sistematico,skill_stima,skill_casework_accurato"></span>
@@ -212,5 +204,3 @@ level: OBM Nível 1
 *Campionato di calcio a sei squadre, trovare il minimo massimo punteggio possibile*
 
 > Un campionato è giocato tra sei squadre di calcio, con ciascuna squadra che gioca ciascuna delle altre cinque squadre esattamente una volta. Il vincitore di ciascuna partita guadagna 3 punti e il perdente guadagna 0 punti; se la partita termina in pareggio, entrambe le squadre guadagnano 1 punto. È noto che, alla fine del campionato, le sei squadre avevano in coppia punti totali diversi. Qual è il minimo valore possibile per il numero di punti della squadra con più punti?
-
-[[Quesiti/src_obm_2024_n1_fx#q05|src_obm_2024_n1_fx__Q05]]

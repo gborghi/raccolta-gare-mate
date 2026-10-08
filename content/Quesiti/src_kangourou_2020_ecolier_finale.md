@@ -42,7 +42,6 @@ level: kangourou
 > (see figure)
 
 **Answer:** 6
-[[Quesiti/src_kangourou_2020_ecolier_finale#qe1|src_kangourou_2020_ecolier_finale__QE1]]
 
 
 
@@ -71,7 +70,6 @@ level: kangourou
 > Luisa has many pens: $29$ red, $13$ blue and $20$ black. She wants to pack bags containing $4$ pens, so that no bag contains more than two pens of the same color. How many bags can she pack?
 
 **Answer:** 15
-[[Quesiti/src_kangourou_2020_ecolier_finale#qe2|src_kangourou_2020_ecolier_finale__QE2]]
 
 
 
@@ -99,7 +97,6 @@ level: kangourou
 > Many books of different thicknesses are lined up on a shelf. To the left of the thickest book there are $20$ books, to the right of the thinner one there are $22$. Between the thickest book and the thinnest one is the oldest book, different from both. What is the minimum number of books that can be lined up on the shelf?
 
 **Answer:** 23
-[[Quesiti/src_kangourou_2020_ecolier_finale#qe3|src_kangourou_2020_ecolier_finale__QE3]]
 
 
 
@@ -177,7 +174,6 @@ level: kangourou
 > (see figure)
 
 **Answer:** 22
-[[Quesiti/src_kangourou_2020_ecolier_finale#qe4|src_kangourou_2020_ecolier_finale__QE4]]
 
 
 
@@ -237,8 +233,6 @@ level: kangourou
 > As long as you fill in the grids (circling the number in a special position in the first one), no explanation is required.
 > 
 > (see figure)
-
-[[Quesiti/src_kangourou_2020_ecolier_finale#qe5|src_kangourou_2020_ecolier_finale__QE5]]
 
 
 
@@ -314,4 +308,3 @@ level: kangourou
 > (see figure)
 
 **Answer:** 26
-[[Quesiti/src_kangourou_2020_ecolier_finale#qe6|src_kangourou_2020_ecolier_finale__QE6]]

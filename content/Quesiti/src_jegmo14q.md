@@ -36,8 +36,6 @@ level: JEGMO
 
 > Lasciate che $a, b, c, d$ siano numeri reali positivi separati in coppia. Tra i seguenti numeri reali $$a,\quad b,\quad c,\quad d,\quad a+b,\quad a+c,\quad a+d,\quad b+c,\quad b+d,\quad c+d,$$ $$a+b+c,\quad a+b+d,\quad a+c+d,\quad b+c+d,\quad a+b+c+d$$ il numero di valori distinti che appaiono è stato esattamente $k$. Trova il valore minimo possibile di $k$.
 
-[[Quesiti/src_jegmo14q#q01|src_jegmo14q__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -62,8 +60,6 @@ level: JEGMO
 *Quattro punti conciclici dal bisettore e dal circoncircolo dell'angolo orthocentrico*
 
 > Lasciate che $ABC$ sia un triangolo acuto che soddisfi $AB < AC$ e $\angle BAC = 60^\circ$, e lasciate che $H$ sia il suo centro orto. Il $P$ deve essere l'intersezione del bisettore di $\angle BHC$ con il lato $BC$. Tra i punti di intersezione del bisettore perpendicolare del lato $BC$ con il circoncircolo del triangolo $ABC$, $M$ sia quello che si trova sullo stesso lato della linea $BC$ come $A$, e $N$ sia quello che si trova sul lato opposto. Indicare che i quattro punti $H$, $M$, $N$, $P$ si trovano su un singolo cerchio. Qui $XY$ indica la lunghezza del segmento $XY$.
-
-[[Quesiti/src_jegmo14q#q02|src_jegmo14q__Q02]]
 
 
 
@@ -91,8 +87,6 @@ level: JEGMO
 *Ricerca tutti gli integri positivi n con n = phi(n) + 2 phi(phi(n))*
 
 > Trova tutti gli integri positivi $n$ che soddisfano $$n = \phi(n) + 2\phi\big(\phi(n)\big).$$ Qui, $\phi(n)$ indica il numero di integri da $1$ a $n$ che sono coprime a $n$.
-
-[[Quesiti/src_jegmo14q#q03|src_jegmo14q__Q03]]
 
 
 
@@ -127,8 +121,6 @@ level: JEGMO
 > 
 > Quando si raggiunge lo stato in cui nessuna casella diversa dalla casella $1$ contiene pietre, l'operazione viene interrotta. Trova il valore minimo possibile del numero di pietre nella casella $1$ quando l'operazione è terminata.
 
-[[Quesiti/src_jegmo14q#q04|src_jegmo14q__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_algebra,method_casework,method_simmetria,skill_manipolazione_algebrica,skill_casework_accurato,skill_astrazione"></span>
@@ -155,5 +147,3 @@ level: JEGMO
 *Equazione funzionale che coinvolge la funzione del pavimento*
 
 > Trovare tutte le funzioni $f$ definite sui numeri reali e prendere valori reali in modo tale che per tutti i numeri reali $x, y$, $$f(x)\,f\big(f(x) + y\big) = f(x)^2 + [x][y]$$ sia valido. Qui, per un numero reale $r$, $[r]$ indica il numero intero più grande inferiore o uguale a $r$; ad esempio $[3.14] = 3$, $[5] = 5$, $[-2.71] = -3$.
-
-[[Quesiti/src_jegmo14q#q05|src_jegmo14q__Q05]]

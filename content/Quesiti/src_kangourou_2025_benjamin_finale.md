@@ -34,7 +34,6 @@ level: kangourou
 > What is the smallest positive integer whose digits sum to $100$? Explain how you determined it.
 
 **Answer:** 199999999999
-[[Quesiti/src_kangourou_2025_benjamin_finale#qb1|src_kangourou_2025_benjamin_finale__QB1]]
 
 
 
@@ -63,7 +62,6 @@ level: kangourou
 > On the fingers of one hand, Silvia counted as follows: $1$ thumb, $2$ index, $3$ middle, $4$ ring, $5$ little finger; then she turned back: $6$ ring, $7$ middle, $8$ index, $9$ thumb. Then she started again: $10$ index, $11$ medium and so on, until it gets to $999$. What finger?
 
 **Answer:** middle
-[[Quesiti/src_kangourou_2025_benjamin_finale#qb2|src_kangourou_2025_benjamin_finale__QB2]]
 
 
 
@@ -108,7 +106,6 @@ level: kangourou
 > (see figure)
 
 **Answer:** a)260 b)60
-[[Quesiti/src_kangourou_2025_benjamin_finale#qb3|src_kangourou_2025_benjamin_finale__QB3]]
 
 
 
@@ -136,7 +133,6 @@ level: kangourou
 > A circular park is surrounded by a path lit by streetlights. Simona and Tania counted the streetlights, but separately, starting from different points and both moving in the same direction. The one that was the $20$-th streetlight for Simona was the $7$-th for Tania, the one that was the $7$-th for Simona was the $94$-th for Tania. How many streetlights are there in total?
 
 **Answer:** 100
-[[Quesiti/src_kangourou_2025_benjamin_finale#qb4|src_kangourou_2025_benjamin_finale__QB4]]
 
 
 
@@ -165,7 +161,6 @@ Maximum red numbers sum of green and blue (1-9)
 > Each integer between $1$ and $9$ included is assigned one and only one of the colors red, blue, green so that each red number is the sum of a green number and a blue number. How many red numbers can be at most?
 
 **Answer:** 4
-[[Quesiti/src_kangourou_2025_benjamin_finale#qb5|src_kangourou_2025_benjamin_finale__QB5]]
 
 
 
@@ -242,4 +237,3 @@ Maximum red numbers sum of green and blue (1-9)
 > **NOTE:** Two tiles are adjacent if they share a whole side.
 
 **Answer:** 4
-[[Quesiti/src_kangourou_2025_benjamin_finale#qb6|src_kangourou_2025_benjamin_finale__QB6]]

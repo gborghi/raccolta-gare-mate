@@ -57,7 +57,6 @@ level: kangourou
 > E)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2024_cadet#q01|src_kangourou_2024_cadet__Q01]]
 
 
 
@@ -103,7 +102,6 @@ level: kangourou
 > E) 50%
 
 **Answer:** E
-[[Quesiti/src_kangourou_2024_cadet#q02|src_kangourou_2024_cadet__Q02]]
 
 
 
@@ -152,7 +150,6 @@ level: kangourou
 > E) 9
 
 **Answer:** B
-[[Quesiti/src_kangourou_2024_cadet#q03|src_kangourou_2024_cadet__Q03]]
 
 
 
@@ -203,7 +200,6 @@ level: kangourou
 > E)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2024_cadet#q04|src_kangourou_2024_cadet__Q04]]
 
 
 
@@ -259,7 +255,6 @@ How many vertices does the solid have after removing 4 pyramids?
 >
 
 **Answer:** D
-[[Quesiti/src_kangourou_2024_cadet#q05|src_kangourou_2024_cadet__Q05]]
 
 
 
@@ -305,7 +300,6 @@ Maximum number of children in an elevator with 9 adults
 > E) 8
 
 **Answer:** C
-[[Quesiti/src_kangourou_2024_cadet#q06|src_kangourou_2024_cadet__Q06]]
 
 
 
@@ -370,7 +364,6 @@ Maximum number of children in an elevator with 9 adults
 > In each grid box in the figure, we wrote a different positive integer. Then we covered the numbers. The figure shows the four products of the numbers in the individual rows and columns. What's the sum of the four hidden integers? A) 10  B) 12 C) 13  D) 14  E) 15
 
 **Answer:** C
-[[Quesiti/src_kangourou_2024_cadet#q07|src_kangourou_2024_cadet__Q07]]
 
 
 
@@ -408,7 +401,6 @@ Maximum number of children in an elevator with 9 adults
 > The clock in the figure marks exactly 10:20. What is the width of the convex angle formed by the hour and minute hands? A) 162°30’ B) 165° C) 167°30’ D) 170° E) 172°15’
 
 **Answer:** D
-[[Quesiti/src_kangourou_2024_cadet#q08|src_kangourou_2024_cadet__Q08]]
 
 
 
@@ -461,7 +453,6 @@ Maximum number of children in an elevator with 9 adults
 > E) 1
 
 **Answer:** B
-[[Quesiti/src_kangourou_2024_cadet#q09|src_kangourou_2024_cadet__Q09]]
 
 
 
@@ -509,7 +500,6 @@ Maximum number of children in an elevator with 9 adults
 > E) 25 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2024_cadet#q10|src_kangourou_2024_cadet__Q10]]
 
 
 
@@ -562,7 +552,6 @@ Maximum number of children in an elevator with 9 adults
 > E)
 
 **Answer:** A
-[[Quesiti/src_kangourou_2024_cadet#q11|src_kangourou_2024_cadet__Q11]]
 
 
 
@@ -628,7 +617,6 @@ Maximum number of children in an elevator with 9 adults
 >
 
 **Answer:** E
-[[Quesiti/src_kangourou_2024_cadet#q12|src_kangourou_2024_cadet__Q12]]
 
 
 
@@ -707,7 +695,6 @@ Maximum number of children in an elevator with 9 adults
 > The side of the square in the figure is 10 m long. The square is divided into five triangles by three segments, as shown. The two shaded triangles have areas, in square meters, A and B. How much is the difference A – B ? A) 0 B) 1 C) 2 D) 5 E) 10
 
 **Answer:** A
-[[Quesiti/src_kangourou_2024_cadet#q13|src_kangourou_2024_cadet__Q13]]
 
 
 
@@ -755,7 +742,6 @@ Maximum number of children in an elevator with 9 adults
 > E) 58
 
 **Answer:** D
-[[Quesiti/src_kangourou_2024_cadet#q14|src_kangourou_2024_cadet__Q14]]
 
 
 
@@ -810,7 +796,6 @@ Maximum number of children in an elevator with 9 adults
 > E) 6
 
 **Answer:** C
-[[Quesiti/src_kangourou_2024_cadet#q15|src_kangourou_2024_cadet__Q15]]
 
 
 
@@ -846,7 +831,6 @@ Maximum number of children in an elevator with 9 adults
 > A kangaroo jumps up a hill and then jumps down the same road. His ascent jumps all measure 1 m. Even his descending jumps are all the same length, but with a descending jump he travels three times the distance he travels with a climbing jump. In total the kangaroo makes 2024 jumps. How many meters does the kangaroo go through? A) 506 B) 1012 C) 2024 D) 3036 E) 4048
 
 **Answer:** D
-[[Quesiti/src_kangourou_2024_cadet#q16|src_kangourou_2024_cadet__Q16]]
 
 
 
@@ -897,7 +881,6 @@ Maximum number of children in an elevator with 9 adults
 > E) 16
 
 **Answer:** B
-[[Quesiti/src_kangourou_2024_cadet#q17|src_kangourou_2024_cadet__Q17]]
 
 
 
@@ -942,7 +925,6 @@ Maximum number of children in an elevator with 9 adults
 > E) 85
 
 **Answer:** C
-[[Quesiti/src_kangourou_2024_cadet#q18|src_kangourou_2024_cadet__Q18]]
 
 
 
@@ -991,7 +973,6 @@ Maximum number of children in an elevator with 9 adults
 >
 
 **Answer:** D
-[[Quesiti/src_kangourou_2024_cadet#q19|src_kangourou_2024_cadet__Q19]]
 
 
 
@@ -1041,7 +1022,6 @@ Which card remains on the table from Ada's statements.
 > E) 9 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2024_cadet#q20|src_kangourou_2024_cadet__Q20]]
 
 
 
@@ -1093,7 +1073,6 @@ Which card remains on the table from Ada's statements.
 > E) 19
 
 **Answer:** A
-[[Quesiti/src_kangourou_2024_cadet#q21|src_kangourou_2024_cadet__Q21]]
 
 
 
@@ -1165,7 +1144,6 @@ Which card remains on the table from Ada's statements.
 > E) 6
 
 **Answer:** E
-[[Quesiti/src_kangourou_2024_cadet#q22|src_kangourou_2024_cadet__Q22]]
 
 
 
@@ -1217,7 +1195,6 @@ Which card remains on the table from Ada's statements.
 > D) 108 E) 120
 
 **Answer:** B
-[[Quesiti/src_kangourou_2024_cadet#q23|src_kangourou_2024_cadet__Q23]]
 
 
 
@@ -1266,7 +1243,6 @@ How many kangaroos never got the ball (50, jump 6)
 > E) 40
 
 **Answer:** D
-[[Quesiti/src_kangourou_2024_cadet#q24|src_kangourou_2024_cadet__Q24]]
 
 
 
@@ -1350,7 +1326,6 @@ How many kangaroos never got the ball (50, jump 6)
 >
 
 **Answer:** D
-[[Quesiti/src_kangourou_2024_cadet#q25|src_kangourou_2024_cadet__Q25]]
 
 
 
@@ -1399,7 +1374,6 @@ How many kangaroos never got the ball (50, jump 6)
 > E) 29
 
 **Answer:** E
-[[Quesiti/src_kangourou_2024_cadet#q26|src_kangourou_2024_cadet__Q26]]
 
 
 
@@ -1450,7 +1424,6 @@ How many kangaroos never got the ball (50, jump 6)
 > E) 105
 
 **Answer:** D
-[[Quesiti/src_kangourou_2024_cadet#q27|src_kangourou_2024_cadet__Q27]]
 
 
 
@@ -1493,7 +1466,6 @@ Who wrote the truth on the parchment (30 coins)
 > Captain Flint has asked four of his pirates to write on a parchment how many of the 30 coins in the treasure trunk are gold, how many are silver, and how many are bronze. In the figure, you see the scroll torn apart with only one part of each one's answers. It is known that only one pirate wrote the truth on the scroll, while the other three wrote the false in each of the three entries. Is it possible to determine with certainty who wrote the truth and if so who is it? A) Yes, Tom. B) Yes, Al. C) Yes, Pit. D) Yes, Jim. E) It cannot be established with certainty.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2024_cadet#q28|src_kangourou_2024_cadet__Q28]]
 
 
 
@@ -1543,7 +1515,6 @@ When Claudius and Leo meet for the second time
 > E) 45
 
 **Answer:** C
-[[Quesiti/src_kangourou_2024_cadet#q29|src_kangourou_2024_cadet__Q29]]
 
 
 
@@ -1613,4 +1584,3 @@ When Claudius and Leo meet for the second time
 > 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
 
 **Answer:** A
-[[Quesiti/src_kangourou_2024_cadet#q30|src_kangourou_2024_cadet__Q30]]

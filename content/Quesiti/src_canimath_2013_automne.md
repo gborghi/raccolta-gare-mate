@@ -35,7 +35,6 @@ level: Coupe Animath Automne
 > Qual è il numero di integri tra $1$ e $10000$ divisibili da $7$ ma non divisibili da $5$?
 
 **Risposta:** 1143
-[[Quesiti/src_canimath_2013_automne#q01|src_canimath_2013_automne__Q01]]
 
 
 
@@ -68,7 +67,6 @@ level: Coupe Animath Automne
 > Quante sonnelline di pomeriggio ha piovuto? (cioè, quante pomeriggi piovosi c'erano?)
 
 **Risposta:** 7
-[[Quesiti/src_canimath_2013_automne#q02|src_canimath_2013_automne__Q02]]
 
 
 
@@ -109,8 +107,6 @@ level: Coupe Animath Automne
 > 
 > Quante lampadine sono ancora accese?
 
-[[Quesiti/src_canimath_2013_automne#q03|src_canimath_2013_automne__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -138,7 +134,6 @@ level: Coupe Animath Automne
 > Quattro cerchi $C_1, C_2, C_3, C_4$ con raggi identici $r$ sono inseriti ciascuno all'interno di un cerchio di raggio $R$. Abbiamo impostato $C_5 = C_1$. Supponiamo che per ogni $i = 1, 2, 3, 4$, i cerchi $C_i$ e $C_{i+1}$ siano tangenti tra loro. Determinare il valore del rapporto $r/R$.
 
 **Risposta:** \frac{\sqrt{2}}{2+\sqrt{2}}
-[[Quesiti/src_canimath_2013_automne#q04|src_canimath_2013_automne__Q04]]
 
 
 
@@ -173,8 +168,6 @@ level: Coupe Animath Automne
 > 
 > 2) Quanti membri può contenere un club che soddisfa questa condizione?
 
-[[Quesiti/src_canimath_2013_automne#q05|src_canimath_2013_automne__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_casework,method_coordinate,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta"></span>
@@ -204,8 +197,6 @@ level: Coupe Animath Automne
 > 
 > Provare che $A$, $B$, $C$, $D$ sono collineari o che si trovano tutti su un cerchio comune.
 
-[[Quesiti/src_canimath_2013_automne#q06|src_canimath_2013_automne__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_disuguaglianze,topic_algebra,method_estremalita,method_disuguaglianze,method_simmetria,skill_manipolazione_algebrica,skill_stima,skill_casework_accurato"></span>
@@ -234,7 +225,6 @@ level: Coupe Animath Automne
 > Determinare il numero reale più grande $a$ e il numero reale più piccolo $b$ in modo tale che per tutti $x, y, z$ positivo o zero: $$a(x+y+z)^2 \le x^2 + y^2 + z^2 + yz \le b(x+y+z)^2.$$
 
 **Risposta:** a=\frac{1}{3},\; b=1
-[[Quesiti/src_canimath_2013_automne#q07|src_canimath_2013_automne__Q07]]
 
 
 
@@ -264,5 +254,3 @@ level: Coupe Animath Automne
 > Che $a$ sia un intero strettamente positivo tale che $a^3$ abbia $5$ volte quanti divisori positivi $a$.
 > 
 > Quanti divisori positivi può $a$ avere?
-
-[[Quesiti/src_canimath_2013_automne#q08|src_canimath_2013_automne__Q08]]

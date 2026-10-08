@@ -39,8 +39,6 @@ level: OBM Nível 2
 
 ![[src_obm_2003_n2_f2__q01.png]]
 
-[[Quesiti/src_obm_2003_n2_f2#q01|src_obm_2003_n2_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_fattorizzazione,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
@@ -69,8 +67,6 @@ level: OBM Nível 2
 *Scelta 13 numeri interi da 1 a 26 contenenti 4 in modo che nessun numero scelto divida un altro*
 
 > Tra i numeri interi da $1$ a $26$, scegli $13$ in modo tale che: 1) il numero $4$ sia tra i numeri scelti; 2) nessun numero scelto sia un divisore di un altro numero scelto.
-
-[[Quesiti/src_obm_2003_n2_f2#q02|src_obm_2003_n2_f2__Q02]]
 
 
 
@@ -103,8 +99,6 @@ level: OBM Nível 2
 
 ![[src_obm_2003_n2_f2__q03.png]]
 
-[[Quesiti/src_obm_2003_n2_f2#q03|src_obm_2003_n2_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -131,8 +125,6 @@ level: OBM Nível 2
 *Ricerca tutti i numeri "potenti" inferiori a 100, dove un numero è uguale al prodotto dei suoi divisiori propri*
 
 > Considera il prodotto di tutti i divisori positivi di un intero positivo, diverso da questo numero stesso. Diciamo che un numero è $\textit{powerful}$ se è uguale a quel prodotto. Ad esempio, il numero $12$ è potente, poiché i suoi divisori positivi sono $1$, $2$, $3$, $4$, $6$ e $1\cdot 2\cdot 3\cdot 4\cdot 6 = 144 = 12^2$. Presenta tutti i numeri potenti inferiori a $100$.
-
-[[Quesiti/src_obm_2003_n2_f2#q04|src_obm_2003_n2_f2__Q04]]
 
 
 
@@ -161,8 +153,6 @@ level: OBM Nível 2
 *Equazione funzionale f ((x) - f ((xy) = x/y+y/x: trovare f ((1) e una formula per f ((x)*
 
 > $f : \mathbb{R}_+^* \to \mathbb{R}_+^*$ deve essere una funzione tale che $f(x) - f(xy) = \dfrac{x}{y} + \dfrac{y}{x}$, per qualsiasi $x$ e $y$. (a) Calcolare $f(1)$. b) Trova una formula per $f(x)$.
-
-[[Quesiti/src_obm_2003_n2_f2#q05|src_obm_2003_n2_f2__Q05]]
 
 
 
@@ -194,5 +184,3 @@ level: OBM Nível 2
 > Diciamo che un numero a quattro cifre $N$ è $\textit{biquadrado}$ quando è uguale alla somma dei quadrati dei due numeri formati dalle sue due metà: uno formato dalle prime due cifre di $N$, nell'ordine, e l'altro formato dalle ultime due cifre di $N$, anche nell'ordine in cui appaiono in $N$. Ad esempio, $1233$ è biquadrato da $1233 = 12^2 + 33^2$. Trova un altro numero quadrato.
 > 
 > Nota: ricordate che un numero a quattro cifre non può iniziare con lo zero.
-
-[[Quesiti/src_obm_2003_n2_f2#q06|src_obm_2003_n2_f2__Q06]]

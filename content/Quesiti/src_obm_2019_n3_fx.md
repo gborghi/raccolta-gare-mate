@@ -33,8 +33,6 @@ level: OBM Nível 3
 
 > Si tratta di due cerchi con centri $C_1$ e $C_2$, che si incrociano rispettivamente a due punti $P$ e $Q$. Supponiamo che il circolo circonscritto del triangolo $PC_1C_2$ incontri $\omega_1$ di nuovo a $A \neq P$ e incontri $\omega_2$ di nuovo a $B \neq P$. Supponiamo inoltre che $Q$ si trovi all'interno del triangolo $PAB$. Provare che $Q$ è il centro del triangolo $PAB$.
 
-[[Quesiti/src_obm_2019_n3_fx#q01|src_obm_2019_n3_fx__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_ricorsione,method_induzione,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -59,8 +57,6 @@ level: OBM Nível 3
 *Operazioni minime per segnalare un numero intero n su una linea reale a partire da 0 e 1*
 
 > Ci viene data la linea reale con solo i punti $0$ e $1$ contrassegnati. Possiamo eseguire la seguente operazione quante volte vogliamo: scegliere due punti già segnalati $a$ e $b$ e segnalare il riflesso di $a$ su $b$. $f(n)$ sia il numero minimo di operazioni necessario per segnalare il numero reale $n$ (che è il numero a distanza $|n|$ da $0$, a destra di $0$ se $n > 0$ e a sinistra di $0$ se $n < 0$). Ad esempio, $f(0) = f(1) = 0$ e $f(-1) = f(2) = 1$. Trova $f(n)$.
-
-[[Quesiti/src_obm_2019_n3_fx#q02|src_obm_2019_n3_fx__Q02]]
 
 
 
@@ -89,8 +85,6 @@ level: OBM Nível 3
 
 > Che $\mathbb{R}_{>0}$ sia l'insieme dei numeri reali positivi. Determinare tutte le funzioni $f : \mathbb{R}_{>0} \to \mathbb{R}_{>0}$ in modo tale che $$f(xy + f(x)) = f(f(x)f(y)) + x$$ per tutti i valori reali positivi $x$ e $y$.
 
-[[Quesiti/src_obm_2019_n3_fx#q03|src_obm_2019_n3_fx__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_induzione,method_casework,skill_manipolazione_algebrica,skill_modellizzazione,skill_stima"></span>
@@ -116,8 +110,6 @@ level: OBM Nível 3
 *Per ogni m positivo c'è n_m così la somma unità di n-th potenze di reciprocità è*
 
 > Prova che per ogni intero positivo $m$, esiste un intero positivo $n_m$ tale che per ogni intero positivo $n \ge n_m$, esistono interi positivi (non necessariamente distinti) $a_1, a_2, \ldots, a_n$ tale che $$\frac{1}{a_1^n} + \frac{1}{a_2^n} + \cdots + \frac{1}{a_n^n} = 1.$$
-
-[[Quesiti/src_obm_2019_n3_fx#q04|src_obm_2019_n3_fx__Q04]]
 
 
 
@@ -152,8 +144,6 @@ level: OBM Nível 3
 > 
 > **Nota: ** Una partizione di un insieme significa scrivere che il set è un'unione di sottoinsiemi dissociati in coppia.
 
-[[Quesiti/src_obm_2019_n3_fx#q05|src_obm_2019_n3_fx__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_lettura_attenta,skill_astrazione"></span>
@@ -178,5 +168,3 @@ level: OBM Nível 3
 *Le intersezioni del circoncircolo del pentagono stellare producono cinque linee simultanee*
 
 > Il $A_1A_2A_3A_4A_5$ deve essere un pentagono convexo inserito in un cerchio in modo tale che $\angle A_i + \angle A_{i+1} > 180^\circ$ per $i = 1, 2, 3, 4, 5$ (indici mod 5 in tutto il problema). Definire $B_i$ come l'intersezione delle linee $A_{i-1}A_i$ e $A_{i+1}A_{i+2}$, in modo che i cinque punti $B_i$ formino una stella. I circoncircoli dei triangoli $A_{i-1}B_{i-1}A_i$ e $A_iB_{i+1}A_{i+1}$ si riuniscono a $C_i \neq A_i$, e i circoncircoli dei triangoli $B_{i-1}A_iB_i$ si riuniscono a $D_i \neq A_i$. Provare che le linee $A_iC_i$ e $B_iD_i$, per $i = 1, 2, 3, 4, 5$, passano tutte attraverso un punto comune.
-
-[[Quesiti/src_obm_2019_n3_fx#q06|src_obm_2019_n3_fx__Q06]]

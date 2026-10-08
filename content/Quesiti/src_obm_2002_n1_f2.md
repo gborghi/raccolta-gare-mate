@@ -41,8 +41,6 @@ level: OBM Nível 1
 > 
 > b) Il palindromo più recente prima del 1991 è stato strano. Quando si verificherà il prossimo anno palindromo?
 
-[[Quesiti/src_obm_2002_n1_f2#q01|src_obm_2002_n1_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -74,8 +72,6 @@ level: OBM Nível 1
 
 ![[src_obm_2002_n1_f2__q02.png]]
 
-[[Quesiti/src_obm_2002_n1_f2#q02|src_obm_2002_n1_f2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_backward,skill_riconoscimento_pattern,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -100,8 +96,6 @@ level: OBM Nível 1
 *A partire dal 2002, raggiungere il 13 raddoppiando o rimuovendo ripetutamente la cifra delle unità*
 
 > Dato un numero, è possibile scrivere il suo doppio o rimuovere (supprimere) la sua cifra unità. Presenta una sequenza che inizia con il 2002 e termina con il 13, utilizzando solo queste due operazioni.
-
-[[Quesiti/src_obm_2002_n1_f2#q03|src_obm_2002_n1_f2__Q03]]
 
 
 
@@ -128,8 +122,6 @@ level: OBM Nível 1
 
 > Tre amici andarono a una festa indossando abiti di blu, nero e bianco (un colore ciascuno), rispettivamente. I loro paia di scarpe venivano anche dei medesimi tre colori, ma ogni amica indossava scarpe di un colore diverso dal suo vestito. Ana indossava scarpe bianche. Né il vestito di J'ulia né le scarpe di J'ulia erano bianche. Marisa indossava scarpe blu. Determina il colore del vestito di ciascuna delle tre ragazze.
 
-[[Quesiti/src_obm_2002_n1_f2#q04|src_obm_2002_n1_f2__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_casework_accurato,skill_conteggio_sistematico,skill_modellizzazione"></span>
@@ -155,8 +147,6 @@ level: OBM Nível 1
 
 > Nel gioco di pega-varetas, i bastoni verdi valgono 5 punti ciascuno, i bastoni blu valgono 10 punti, i bastoni gialli valgono 15 punti e i bastoni rossi valgono 20. Ci sono 5 bastoni di ogni colore. Carlinhos è riuscito a segnare 40 punti in un giro. Considerando solo il numero di bastoni di ogni colore, in quanti modi diversi avrebbe potuto ottenere questo punteggio, supponendo che fosse sempre possibile scegliere bastoni di qualsiasi colore?
 
-[[Quesiti/src_obm_2002_n1_f2#q05|src_obm_2002_n1_f2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_colorazione,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -181,5 +171,3 @@ level: OBM Nível 1
 *Fill 8×8 grid con diversi numeri interi positivi in cui le celle adiacenti differiscono di 1; trova la somma diagonale*
 
 > Nelle cellule di una tabella $8 \times 8$ vengono scritti diversi interi positivi in modo tale che la differenza tra gli interi scritti nelle cellule vicine (cellule che condividono un lato) è sempre 1. In una cella è scritto il numero 17 e in un'altra è scritto il numero 3. Compila la tabella $8 \times 8$ seguendo queste regole e calcola la somma dei numeri scritti nelle due diagonali principali della tabella.
-
-[[Quesiti/src_obm_2002_n1_f2#q06|src_obm_2002_n1_f2__Q06]]

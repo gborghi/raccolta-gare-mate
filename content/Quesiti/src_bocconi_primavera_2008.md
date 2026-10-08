@@ -40,7 +40,6 @@ level: Semifinale di Primavera
 ![[src_bocconi_primavera_2008__q01.png]]
 
 **Answer:** 29
-[[Quesiti/src_bocconi_primavera_2008#q01|src_bocconi_primavera_2008__Q01]]
 
 
 
@@ -70,7 +69,6 @@ level: Semifinale di Primavera
 > The general test of the "International Mathematical Games Championships" took place on March 8, exactly one week before the competition. Only one of the figures for 8.3.2008 is odd. **What is the previous date composed solely of odd numbers? **
 
 **Answer:** 19.11.1999
-[[Quesiti/src_bocconi_primavera_2008#q02|src_bocconi_primavera_2008__Q02]]
 
 
 
@@ -102,7 +100,6 @@ level: Semifinale di Primavera
 ![[src_bocconi_primavera_2008__q03.png]]
 
 **Answer:** 2905
-[[Quesiti/src_bocconi_primavera_2008#q03|src_bocconi_primavera_2008__Q03]]
 
 
 
@@ -131,7 +128,6 @@ level: Semifinale di Primavera
 > From the Math City station at noon, four trains depart simultaneously to Milan, Rome, Bari and Venice. Those to Milan then leave every 40 minutes; those to Rome every 20 minutes; those to Bari every 15 minutes; those to Venice, finally, every 30 minutes. What time (after noon) will the four trains start again simultaneously for the first time?
 
 **Answer:** 14:00
-[[Quesiti/src_bocconi_primavera_2008#q04|src_bocconi_primavera_2008__Q04]]
 
 
 
@@ -164,7 +160,6 @@ level: Semifinale di Primavera
 ![[src_bocconi_primavera_2008__q05.png]]
 
 **Answer:** 7
-[[Quesiti/src_bocconi_primavera_2008#q05|src_bocconi_primavera_2008__Q05]]
 
 
 
@@ -194,7 +189,6 @@ level: Semifinale di Primavera
 > There are eight teams competing in the school basketball tournament. Each team only meets the others once. **How many matches will be played in the tournament? **
 
 **Answer:** 28
-[[Quesiti/src_bocconi_primavera_2008#q06|src_bocconi_primavera_2008__Q06]]
 
 
 
@@ -223,7 +217,6 @@ level: Semifinale di Primavera
 > **How many diagonals is a hexagon? **
 
 **Answer:** 9
-[[Quesiti/src_bocconi_primavera_2008#q07|src_bocconi_primavera_2008__Q07]]
 
 
 
@@ -257,7 +250,6 @@ level: Semifinale di Primavera
 ![[src_bocconi_primavera_2008__q08.png]]
 
 **Answer:** 711
-[[Quesiti/src_bocconi_primavera_2008#q08|src_bocconi_primavera_2008__Q08]]
 
 
 
@@ -290,7 +282,6 @@ level: Semifinale di Primavera
 ![[src_bocconi_primavera_2008__q09.png]]
 
 **Answer:** 6 cm
-[[Quesiti/src_bocconi_primavera_2008#q09|src_bocconi_primavera_2008__Q09]]
 
 
 
@@ -321,8 +312,6 @@ level: Semifinale di Primavera
 
 ![[src_bocconi_primavera_2008__q10.png]]
 
-[[Quesiti/src_bocconi_primavera_2008#q10|src_bocconi_primavera_2008__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_backward,skill_manipolazione_algebrica,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -350,8 +339,7 @@ EUR in the pocket in Nando after S. Luca and S. I'm going to tell you.
 
 > Nando asked S. Luke to help him double the amount of euros he owned; in return, he promised him 6 euros for the poor in the city. That 's what happens . It 's the first miracle ! Not happy, Nando signs a similar "contract" with S. I'm not going to lie. It 's the second miracle . Michele doubles the Euros he had in his pocket (after S. Luca) and Nando from another 6 Euros to the poor of the city. When you do the same thing with S. Desiderio, after giving 6 euros to the poor in the city for the third time, Nando realizes that his pockets are empty! How many euros did you have in your pocket at first, Nando?
 
-**Answer:** 5 Euro e 25 centesimi
-[[Quesiti/src_bocconi_primavera_2008#q11|src_bocconi_primavera_2008__Q11]]
+**Answer:** 5 Euro and 25 cents
 
 
 
@@ -379,8 +367,7 @@ EUR in the pocket in Nando after S. Luca and S. I'm going to tell you.
 
 > Three black cows and four white cows give as much milk in six days as three white cows and four black cows give in seven days. Which cows (individually) give more milk, the black cows or the white cows?
 
-**Answer:** Le nere danno più latte: 3 mucche bianche equivalgono a 10 nere
-[[Quesiti/src_bocconi_primavera_2008#q12|src_bocconi_primavera_2008__Q12]]
+**Answer:** The black ones give more milk: 3 white cows are equivalent to 10 black ones
 
 
 
@@ -409,7 +396,6 @@ Maximum result with digits 1,7,8,9 and operations *
 > What is the greatest result you can get by adding, subtracting, multiplying or dividing the numbers 1, 7, 8, 9 all used once?
 
 **Answer:** $(1+7) \times 8 \times 9 = 576$
-[[Quesiti/src_bocconi_primavera_2008#q13|src_bocconi_primavera_2008__Q13]]
 
 
 
@@ -438,8 +424,7 @@ Maximum result with digits 1,7,8,9 and operations *
 
 > At Math City's post office, they only sell five-euro, one-euro and five-cent stamps. Jacob bought 100 stamps, spending 100 euros. How many Euro stamps did you buy?
 
-**Answer:** 1 francobollo da 1 Euro (e 19 da 5 Euro e 80 da 5 centesimi)
-[[Quesiti/src_bocconi_primavera_2008#q14|src_bocconi_primavera_2008__Q14]]
+**Answer:** 1 stamp of 1 Euro (and 19 of 5 Euro and 80 of 5 cents)
 
 
 
@@ -468,7 +453,6 @@ Maximum result with digits 1,7,8,9 and operations *
 > In Math City, in the last election, 527 mathematicians voted. The new mayor's list received 18, 25 and 98 votes more than each of the other three competing lists. **How many votes did you get? **
 
 **Answer:** 167
-[[Quesiti/src_bocconi_primavera_2008#q15|src_bocconi_primavera_2008__Q15]]
 
 
 
@@ -498,7 +482,6 @@ Maximum result with digits 1,7,8,9 and operations *
 > Carla sums all integers, from 1 to 2008, using only the digits 0, 2, 8 (possibly repeated). **What is the result of the addition? **
 
 **Answer:** 16.000
-[[Quesiti/src_bocconi_primavera_2008#q16|src_bocconi_primavera_2008__Q16]]
 
 
 
@@ -528,7 +511,6 @@ Maximum result with digits 1,7,8,9 and operations *
 > You've got 10 piles of coins in front of you. One of these stacks consists of counterfeit coins (which weigh, each, 10 coins. One of these stacks consists of counterfeit coins (which weigh, each) 5 g; the others are made up of real coins (which each weigh) 5 g. Describe how the stack of counterfeit coins can be detected with a single weight.
 
 **Answer:** 275 g (the difference between the actual weight and 275 g gives the number of counterfeit coins and therefore the pile from which they were taken)
-[[Quesiti/src_bocconi_primavera_2008#q17|src_bocconi_primavera_2008__Q17]]
 
 
 
@@ -557,7 +539,6 @@ Seeing stars falling, knowing how many are missing at 36*
 > I saw it fall. - How many ? I don't know, but if I subtract from the number of stars I've seen half of the ones that are missing to get to 36, I get 24. So, how many?
 
 **Answer:** 28
-[[Quesiti/src_bocconi_primavera_2008#q18|src_bocconi_primavera_2008__Q18]]
 
 
 
@@ -594,8 +575,7 @@ Seeing stars falling, knowing how many are missing at 36*
 
 > Renato makes three relevant statements: 1) of the three propositions A, B, C only one is true; 2) of the propositions B, C, D only one is true; 3) between A and B, only one is true. His friend Amerigo reiterates to him equally strongly: 1) of A, B, C only one proposition is true; 2) of B, C, D only one proposition is true; 3) of A, C, D only one proposition is true. Keep in mind that one of the two friends lies at least once, while the other always tells the truth. What is (or are) the true proposition?
 
-**Answer:** C è vera
-[[Quesiti/src_bocconi_primavera_2008#q19|src_bocconi_primavera_2008__Q19]]
+**Answer:** C is true
 
 
 
@@ -624,5 +604,4 @@ Arm, legs and eyes of a Martian according to Ignobel
 
 > A recent study, winner of the prestigious Ignobel Prize, showed that Martians exist and also specified how many arms, legs and eyes they have. To find the number of the arms and legs of each Martian, you just add these two numbers together, and then you add their product to the result: you get 34. The same goes for the number of legs and eyes: adding these two numbers and adding their product again, you get 14. How many arms, legs and eyes does each Martian have?
 
-**Answer:** 6 braccia, 4 gambe e 2 occhi
-[[Quesiti/src_bocconi_primavera_2008#q20|src_bocconi_primavera_2008__Q20]]
+**Answer:** 6 arms, 4 legs and 2 eyes

@@ -36,7 +36,6 @@ level: kangourou
 > Consider the following sum of 2008 addends $$9 + 99 + 999 + \cdots + \underbrace{99\cdots9}_{2008}$$ of which the first is the single digit 9, the second is the digit 9 written twice, the third is the digit 9 written three times and so on until the 2008th and last addend, which is the digit 9 written 2008 times. How many digits does the resulting number have?
 
 **Answer:** 2009
-[[Quesiti/src_kangourou_2008_junior_maggio#qj1|src_kangourou_2008_junior_maggio__QJ1]]
 
 
 
@@ -65,7 +64,6 @@ level: kangourou
 > A set of $n$ objects ($n \geq 1$) is given. How many of its sub-sets are made up of an odd number of elements?
 
 **Answer:** 2^(n-1)
-[[Quesiti/src_kangourou_2008_junior_maggio#qj2|src_kangourou_2008_junior_maggio__QJ2]]
 
 
 
@@ -101,7 +99,6 @@ level: kangourou
 > Find at least one IMPERFECT set.
 
 **Answer:** {2^(2k+1)}
-[[Quesiti/src_kangourou_2008_junior_maggio#qj3|src_kangourou_2008_junior_maggio__QJ3]]
 
 
 
@@ -130,7 +127,6 @@ level: kangourou
 > They want to be drawn in a plane of lines so that between them they are sure to form angles of each of the following measures: $10^\circ$, $20^\circ$, $30^\circ$, $40^\circ$, $50^\circ$, $60^\circ$, $70^\circ$, $80^\circ$, $90^\circ$. What is the smallest number of lines that fulfill this requirement?
 
 **Answer:** 5
-[[Quesiti/src_kangourou_2008_junior_maggio#qj4|src_kangourou_2008_junior_maggio__QJ4]]
 
 
 
@@ -158,7 +154,6 @@ level: kangourou
 > In a plane, some non-collinear points (i.e. not all lying on the same line) are assigned in finite numbers greater than or equal to three. Is it true that there are necessarily three such points among them that the circle bounded by the circumference passing through these three does not contain any of the remaining points?
 
 **Answer:** yes
-[[Quesiti/src_kangourou_2008_junior_maggio#qj5|src_kangourou_2008_junior_maggio__QJ5]]
 
 
 
@@ -191,4 +186,3 @@ There is a line that intersects all polygons
 > Does the statement remain true if instead of polygons, they are considered generic sets of points?
 
 **Answer:** proof
-[[Quesiti/src_kangourou_2008_junior_maggio#qj6|src_kangourou_2008_junior_maggio__QJ6]]

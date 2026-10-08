@@ -35,8 +35,6 @@ level: INMO
 
 > Che $x_1, x_2, x_3, \ldots$ sia una sequenza di integri positivi definita come segue: $x_1 = 1$ e per ogni $n \ge 1$ abbiamo $$x_{n+1} = x_n + \lfloor \sqrt{x_n} \rfloor.$$ Determinare tutti gli integri positivi $m$ per i quali $x_n = m^2$ per alcuni $n \ge 1$. (Qui $\lfloor x \rfloor$ indica il numero intero più grande inferiore o uguale a $x$ per ogni numero reale $x$.)
 
-[[Quesiti/src_inmo_2026#q01|src_inmo_2026__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_funzionali,topic_combinatoria,method_conteggio,method_estremalita,skill_astrazione,skill_lettura_attenta"></span>
@@ -61,8 +59,6 @@ level: INMO
 *Per f:N->N dove f(k) conti la molteplicità massima in f(1),...,f(k-1) per k>2026, prova f(n)=f(n+1) per infinite n.*
 
 > Che $f : \mathbb{N} \to \mathbb{N}$ sia una funzione che soddisfi la seguente condizione: per ogni $k > 2026$, il numero $f(k)$ è uguale al numero massimo di volte in cui un numero appare nell'elenco $f(1), f(2), \ldots, f(k-1)$. Prova che $f(n) = f(n+1)$ per infinite $n \in \mathbb{N}$. (Qui $\mathbb{N}$ indica l'insieme $\{1, 2, 3, \ldots\}$ di numeri interi positivi.)
-
-[[Quesiti/src_inmo_2026#q02|src_inmo_2026__Q02]]
 
 
 
@@ -89,8 +85,6 @@ level: INMO
 
 > Il $ABC$ deve essere un triangolo scaleno a angolo acuto con un circoncircolo $\Gamma$. Il $M$ deve essere il punto medio del $BC$ e il $N$ deve essere il punto medio dell'arco minore $BC$ del $\Gamma$. I punti $P$ e $Q$ si trovano rispettivamente sui segmenti $AB$ e $AC$ in modo tale che $BP = BN$ e $CQ = CN$. Il punto $K \ne N$ si trova sulla linea $AN$ con $MK = MN$. Prova che $\angle PKQ = 90^\circ$.
 
-[[Quesiti/src_inmo_2026#q03|src_inmo_2026__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,topic_aritmetica,method_congruenze,method_fattorizzazione,skill_astrazione,skill_manipolazione_algebrica"></span>
@@ -116,8 +110,6 @@ level: INMO
 
 > Due integri $a$ e $b$ sono chiamati compagni se ogni numero primo $p$ divide entrambi o nessuno di $a, b$. Determinare tutte le funzioni $f : \mathbb{N}_0 \to \mathbb{N}_0$ in modo tale che $f(0) = 0$ e i numeri $f(n) + m$ e $f(n) + f(m)$ siano compagni di tutte le $m, n \in \mathbb{N}_0$. (Qui $\mathbb{N}_0$ indica l'insieme di tutti gli integri non negativi.)
 
-[[Quesiti/src_inmo_2026#q04|src_inmo_2026__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico"></span>
@@ -142,8 +134,6 @@ level: INMO
 *Per un punto interno P di un triangolo acuto T con riflessi successivi nei suoi lati, dimostrare che le sei immagini a triplice riflessione sono concicliche se P è l'ortocentro.*
 
 > Tre linee $t_1, t_2, t_3$ formano un triangolo acuto angolato $\mathcal{T}$ nel piano. Il punto $P$ si trova all'interno di $\mathcal{T}$. Il $r_i$ indica la trasformazione del piano in modo tale che l'immagine $r_i(X)$ di qualsiasi punto $X$ nel piano sia il riflesso di $X$ in $t_i$, per ogni $i \in \{1, 2, 3\}$. Indicare con $P_{ijk}$ il punto $r_k(r_j(r_i(P)))$ per ogni permutazione $(i, j, k)$ di $(1, 2, 3)$. Prova che $P_{123}, P_{132}, P_{213}, P_{231}, P_{312}, P_{321}$ sono conciclici se e solo se $P$ coincide con l'ortocentro di $\mathcal{T}$.
-
-[[Quesiti/src_inmo_2026#q05|src_inmo_2026__Q05]]
 
 
 
@@ -175,5 +165,3 @@ level: INMO
 *Due mazzi di 40 carte giocano duelli deterministici ripetuti con regole di vincita/riguardo/senza interazione; dimostrare che il tempo massimo che può richiedere un gioco di fine è di 356 ore.*
 
 > Due mazzi $\mathcal{A}$ e $\mathcal{B}$ di 40 schede sono posizionati su un tavolo al mezzogiorno. Ogni minuto dopo, scegliamo le prime carte $a \in \mathcal{A}$ e $b \in \mathcal{B}$, ciascuna una carta $b$, il risultato rimane lo stesso ed è indipendente da tutti gli altri duelli. Un duello ha tre possibili risultati: \begin{itemize} \item Se una carta vince, viene riposta in cima al suo mazzo e la carta perdente viene posta in fondo all'altro mazzo. \item Se $a$ e $b$ sono uguali, entrambi vengono rimossi dai rispettivi ponti. \item Se $a$ e $b$ non interagiscono tra loro, entrambi sono posizionati in fondo ai rispettivi ponti. Il processo termina quando entrambi i ponti sono vuoti. Un processo si chiama gioco se termina. Prove che il tempo massimo di una partita è pari a 356 ore.
-
-[[Quesiti/src_inmo_2026#q06|src_inmo_2026__Q06]]

@@ -33,8 +33,6 @@ level: INMO
 
 > I punti $D$, $E$, $F$ sono i punti sui lati $BC$, $CA$ e $AB$ rispettivamente di un triangolo $ABC$ in modo tale che $BD = CE = AF$ e $\angle BDF = \angle CED = \angle AFE$. Provare che $ABC$ è equilaterale.
 
-[[Quesiti/src_inmo_2011#q01|src_inmo_2011__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_fattorizzazione,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -62,8 +60,6 @@ level: INMO
 
 > Chiamare un numero naturale $n$ **fiduo** se esistono numeri naturali $a < b < c$ tali che $a$ divida $b$, $b$ divida $c$ e $n = a + b + c$. (i) Mostrare che tutti, tranne un numero finito di numeri naturali, sono fedeli. (ii) Trova l'insieme di tutti i numeri naturali che sono fedeli ** non **.
 
-[[Quesiti/src_inmo_2011#q02|src_inmo_2011__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_congruenze,method_fattorizzazione,method_backward,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
@@ -88,8 +84,6 @@ level: INMO
 *La radice razionale di P(r)=Q(r)=0 con polinomi a coefficiente intero deve essere un intero*
 
 > Considerate due polinomi $P(x) = a_n x^n + a_{n-1} x^{n-1} + \cdots + a_1 x + a_0$ e $Q(x) = b_n x^n + b_{n-1} x^{n-1} + \cdots + b_1 x + b_0$ con coefficienti interi come $a_n - b_n = b_0 - a_0 \neq 0$ e $a_0 b_0 - a_n b_n \neq 0$. Supponiamo che esista un numero razionale $r$ tale che $P(r) = Q(r) = 0$. Provare che $r$ non è un numero intero.
-
-[[Quesiti/src_inmo_2011#q03|src_inmo_2011__Q03]]
 
 
 
@@ -120,8 +114,6 @@ level: INMO
 
 ![[src_inmo_2011__q04.png]]
 
-[[Quesiti/src_inmo_2011#q04|src_inmo_2011__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -146,8 +138,6 @@ level: INMO
 *Quadrilatero ciclico con AC·BD=EG·FH implica quattro linee simultanee*
 
 > $ABCD$ sia un quadrilaterale inciso in un cerchio $\Gamma$. I punti intermedi $E$, $F$, $G$ e $H$ siano rispettivamente i punti intermedi $AB$, $BC$, $CD$ e $DA$ degli archi $\Gamma$. Supponiamo $AC \cdot BD = EG \cdot FH$. Prove che $AC$, $BD$, $EG$, $FH$ sono simultanei.
-
-[[Quesiti/src_inmo_2011#q05|src_inmo_2011__Q05]]
 
 
 
@@ -175,5 +165,3 @@ level: INMO
 *Ricerca tutte le f:R→R che soddisfano una determinata equazione funzionale*
 
 > Trova tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$, dove $\mathbb{R}$ indica l'insieme di tutti i numeri reali, in modo tale che $$f(x+y)f(x-y) = (f(x)+f(y))^2 - 4x^2 f(y)$$ per tutti $x, y \in \mathbb{R}$.
-
-[[Quesiti/src_inmo_2011#q06|src_inmo_2011__Q06]]

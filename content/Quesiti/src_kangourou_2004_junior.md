@@ -41,7 +41,6 @@ level: kangourou
 > C) − 48        D) 48         E) 50
 
 **Answer:** D
-[[Quesiti/src_kangourou_2004_junior#q01|src_kangourou_2004_junior__Q01]]
 
 
 
@@ -72,7 +71,6 @@ level: kangourou
 > You have 2004 confetti (each of one color). Half of them are blue, a quarter are red and a sixth are green. How many confetti are of other colors? A) 167         B) 334        C) 501        D) 1002      E) 1837
 
 **Answer:** A
-[[Quesiti/src_kangourou_2004_junior#q02|src_kangourou_2004_junior__Q02]]
 
 
 
@@ -102,7 +100,6 @@ level: kangourou
 > A) 7            B) 8            C) 12          D) 14         E) 21
 
 **Answer:** C
-[[Quesiti/src_kangourou_2004_junior#q03|src_kangourou_2004_junior__Q03]]
 
 
 
@@ -139,7 +136,6 @@ level: kangourou
 > In an ABCD quadrilateral some angles are known (see Figure, where the measurements are given in degrees). We also know that the BC side is as long as the AD side. How many degrees does the angle AC measure? A) 30          B) 50          C) 55          D) 65         E) 70
 
 **Answer:** D
-[[Quesiti/src_kangourou_2004_junior#q04|src_kangourou_2004_junior__Q04]]
 
 
 
@@ -170,7 +166,6 @@ John's points in ping-pong (system)
 > Giovanni and Stefano are playing ping-pong. Right now, if Giovanni had five more points, he'd have doubled Stefano's, while if he had seven fewer points, he'd have half Stefano's. How many points does Giovanni have right now? A) 5            B) 7            C) 9           D) 11          E) 15
 
 **Answer:** D
-[[Quesiti/src_kangourou_2004_junior#q05|src_kangourou_2004_junior__Q05]]
 
 
 
@@ -236,7 +231,6 @@ John's points in ping-pong (system)
 > Kang 2004
 
 **Answer:** D
-[[Quesiti/src_kangourou_2004_junior#q06|src_kangourou_2004_junior__Q06]]
 
 
 
@@ -268,7 +262,6 @@ John's points in ping-pong (system)
 > The floor of a shed is rectangular in shape with sides of 40 meters and 60 meters. The same floor is shown on a map as a rectangle whose perimeter measures (on the map) 100 centimeters. What scale is the map? A) 1:50       B) 1:100       C) 1:150      D) 1:160     E) 1:200
 
 **Answer:** E
-[[Quesiti/src_kangourou_2004_junior#q07|src_kangourou_2004_junior__Q07]]
 
 
 
@@ -302,7 +295,6 @@ John's points in ping-pong (system)
 > In one tray, among cookies and chocolates, there are 30 sweets in all. If we pick up 12 candies at random from the tray, we find at least one cookie among them; if we pick up 20 candies at random from the tray, we find at least one chocolate in them. How many cookies are in the tray? A) 11           B) 12           C) 19          D) 20         E) 29
 
 **Answer:** C
-[[Quesiti/src_kangourou_2004_junior#q08|src_kangourou_2004_junior__Q08]]
 
 
 
@@ -357,7 +349,6 @@ John's points in ping-pong (system)
 > The figure shows a target with three fields. The thickness of the two rings, black and white, is the same and is equal to the radius of the inner black circle. What's the ratio between the black ring area and the inner black circle area? A) 2            B) 3           C) 4            D) 5          E) 6
 
 **Answer:** D
-[[Quesiti/src_kangourou_2004_junior#q09|src_kangourou_2004_junior__Q09]]
 
 
 
@@ -393,7 +384,6 @@ John's points in ping-pong (system)
 > The figure shows a section of a bench constructed using, as indicated, three half-circular trunks: two of a diameter of 2 decimeters each acting as the base and one of a diameter of 4 decimeters acting as the seat. How many decimeters high is the bench? A) 3 B) C) 2,85 D) E) 2,5 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2004_junior#q10|src_kangourou_2004_junior__Q10]]
 
 
 
@@ -423,7 +413,6 @@ John's points in ping-pong (system)
 > Five people choose a number from these three: 1, 2, 4. The five numbers chosen are multiplied together. Only one of the following numbers could be the product obtained: which? A) 100         B) 256        C) 768       D) 2048      E) 4096
 
 **Answer:** B
-[[Quesiti/src_kangourou_2004_junior#q11|src_kangourou_2004_junior__Q11]]
 
 
 
@@ -501,7 +490,6 @@ John's points in ping-pong (system)
 > You have 16 cards: 4 blue (B), 4 red (R), 4 yellow (G) and 4 green (V). You want to place them in the square grid shown in the figure, one per cell, so that each row and column of the grid contains a card for each color. You have already started the work as indicated; how many different ways can you complete it? A) 1            B) 2            C) 4           D) 16          E) 128 B R B G V 8 10
 
 **Answer:** C
-[[Quesiti/src_kangourou_2004_junior#q12|src_kangourou_2004_junior__Q12]]
 
 
 
@@ -532,7 +520,6 @@ John's points in ping-pong (system)
 > How many numbers between 100 and 200 have their prime factors only the numbers 2 and/or 3? A) 2           B) 3            C) 4           D) 5           E) 6
 
 **Answer:** D
-[[Quesiti/src_kangourou_2004_junior#q13|src_kangourou_2004_junior__Q13]]
 
 
 
@@ -582,7 +569,6 @@ John's points in ping-pong (system)
 > E) 5 cm
 
 **Answer:** C
-[[Quesiti/src_kangourou_2004_junior#q14|src_kangourou_2004_junior__Q14]]
 
 
 
@@ -613,7 +599,6 @@ John's points in ping-pong (system)
 > A closed response test (such as Kangourou) consists of 20 questions. For each correct answer, 7 points are awarded, while for each wrong answer, 2 points are subtracted. Unsubmitted replies have no effect (0 points of charge). You passed the test and scored 87 points. How many questions have you not answered? A) 2           B) 3            C) 4           D) 5           E) 6
 
 **Answer:** D
-[[Quesiti/src_kangourou_2004_junior#q15|src_kangourou_2004_junior__Q15]]
 
 
 
@@ -644,7 +629,6 @@ John's points in ping-pong (system)
 > A clock has a traditional dial (12 hours). The hour hand is 4 centimeters long, while the minute hand is 8 centimeters long. What is the ratio between the distances traveled by the tips of the two hands between noon and 3 p.m. on the same day? A) 1:2         B) 1:4         C) 1:6         D) 1:12        E) 1:24
 
 **Answer:** E
-[[Quesiti/src_kangourou_2004_junior#q16|src_kangourou_2004_junior__Q16]]
 
 
 
@@ -711,7 +695,6 @@ John's points in ping-pong (system)
 > Kang 2004
 
 **Answer:** D
-[[Quesiti/src_kangourou_2004_junior#q17|src_kangourou_2004_junior__Q17]]
 
 
 
@@ -746,7 +729,6 @@ John's points in ping-pong (system)
 > The figure shows a square in which an equilateral dodecagon is "inscribed" (the two "arms of the cross" that form the dodecagon are perpendicular to each other). The perimeter of the dodecagon measures 36 centimetres. What is the area of the square, in square centimetres? A) 48          B) 72          C) 108        D) 115,2      E) 144
 
 **Answer:** B
-[[Quesiti/src_kangourou_2004_junior#q18|src_kangourou_2004_junior__Q18]]
 
 
 
@@ -784,7 +766,6 @@ John's points in ping-pong (system)
 > Look at the figure. The circumference of centre C and centre D meet at points A and B. The angle A C B measures 60 degrees, while the angle A D B measures 90 degrees. What is the ratio between the greater and the lesser of the two radii of the circumferences? A) 4:3         B) C) 3:2        D) E)2:1
 
 **Answer:** B
-[[Quesiti/src_kangourou_2004_junior#q19|src_kangourou_2004_junior__Q19]]
 
 
 
@@ -826,7 +807,6 @@ John's points in ping-pong (system)
 > A square mosaic of side 2003 is obtained by placing white tiles and gray tiles of side 1. The gray tiles are all only those centered on the diagonals (as in the figure, where the situation is represented for a square of side 7). How many white tiles are there? A) 20022 B) 2002 x 2001 C) 20032 D) 2003 x 2004 E) 20042 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2004_junior#q20|src_kangourou_2004_junior__Q20]]
 
 
 
@@ -928,7 +908,6 @@ John's points in ping-pong (system)
 > A) 1             B) 2            C) 3           D) 4           E) 5
 
 **Answer:** C
-[[Quesiti/src_kangourou_2004_junior#q21|src_kangourou_2004_junior__Q21]]
 
 
 
@@ -970,7 +949,6 @@ John's points in ping-pong (system)
 > A) 3             B)               C) 2           D) 4           E)3
 
 **Answer:** C
-[[Quesiti/src_kangourou_2004_junior#q22|src_kangourou_2004_junior__Q22]]
 
 
 
@@ -1005,7 +983,6 @@ John's points in ping-pong (system)
 > We start with 200 numbers all equal to zero written in succession. In the first step, we add 1 to each of the 200 numbers. In the second step we add 1 only to the numbers whose place is a multiple of 2 (i.e. those in even positions). In the third step we add 1 only to the numbers whose place is a multiple of 3 and we proceed according to this law: in the n-th step we add 1 only to the numbers whose place is a multiple of n. After 200 steps, what number do we find in place 120? A) 16          B) 12          C) 8           D) 32          E) 24
 
 **Answer:** A
-[[Quesiti/src_kangourou_2004_junior#q23|src_kangourou_2004_junior__Q23]]
 
 
 
@@ -1048,7 +1025,6 @@ John's points in ping-pong (system)
 > B) 6            C) 13/3      D) 4           E) 3
 
 **Answer:** B
-[[Quesiti/src_kangourou_2004_junior#q24|src_kangourou_2004_junior__Q24]]
 
 
 
@@ -1116,7 +1092,6 @@ John's points in ping-pong (system)
 > Kang 2004
 
 **Answer:** D
-[[Quesiti/src_kangourou_2004_junior#q25|src_kangourou_2004_junior__Q25]]
 
 
 
@@ -1147,7 +1122,6 @@ John's points in ping-pong (system)
 > A rectangular runner is made with a 1 cm thick carpet that, rolled over itself for its entire length, provides a cylinder whose base is (approximately) a circle of 1 meter in diameter. Which of the following numbers is closest to the length of the runner in meters? A) 20         B) 50          C) 75         D) 150         E) 300
 
 **Answer:** C
-[[Quesiti/src_kangourou_2004_junior#q26|src_kangourou_2004_junior__Q26]]
 
 
 
@@ -1185,7 +1159,6 @@ John's points in ping-pong (system)
 > The figure shows two circles mutually tangent whose radii are in the ratio 1:2. The small circle continuously rolls, without slipping, within the large circle, along the edge of the latter which guides it. Which of the following is the trajectory of point P of the small circle which, at the moment the figure refers to, is at the center of the large circle? A)              B)              C)               D) E)
 
 **Answer:** A
-[[Quesiti/src_kangourou_2004_junior#q27|src_kangourou_2004_junior__Q27]]
 
 
 
@@ -1216,7 +1189,6 @@ John's points in ping-pong (system)
 > How many integers n of exactly three digits (in decimal form), not more than 200, are such that the product (n + 1)(n + 2)(n + 3) is divisible by 7? A) 43         B) 31          C) 34          D) 24          E) 39
 
 **Answer:** A
-[[Quesiti/src_kangourou_2004_junior#q28|src_kangourou_2004_junior__Q28]]
 
 
 
@@ -1250,7 +1222,6 @@ John's points in ping-pong (system)
 > A) 1000      B) 5000      C) 10000     D) 6545     E) 7348
 
 **Answer:** E
-[[Quesiti/src_kangourou_2004_junior#q29|src_kangourou_2004_junior__Q29]]
 
 
 
@@ -1293,4 +1264,3 @@ John's points in ping-pong (system)
 >  JUNIOR 2004 SOLUTIONS
 
 **Answer:** B
-[[Quesiti/src_kangourou_2004_junior#q30|src_kangourou_2004_junior__Q30]]

@@ -42,7 +42,6 @@ level: squadre
 > from my house?
 
 **Answer:** 5000
-[[Quesiti/src_kangourou_squadre_2010_finale#q01|src_kangourou_squadre_2010_finale__Q01]]
 
 
 
@@ -78,7 +77,6 @@ level: squadre
 > The circuit has some regular pentagons and some squares available; the sides of these polygons are all the same length. By placing them alternating pentagons and squares, so that one side of a pentagon matches another side of a square and vice versa, you want to make a closed circuit on a plane: the construction of the ring must proceed as shown in the figure. Assuming it is possible to build it, how many polygons will the closed circuit consist of? (Write 0000 if you can't build it.)
 
 **Answer:** 2820
-[[Quesiti/src_kangourou_squadre_2010_finale#q02|src_kangourou_squadre_2010_finale__Q02]]
 
 
 
@@ -113,7 +111,6 @@ level: squadre
 > next 400 years, that is, of the years from 2011 to 2410 inclusive, will have this property?
 
 **Answer:** 0017
-[[Quesiti/src_kangourou_squadre_2010_finale#q03|src_kangourou_squadre_2010_finale__Q03]]
 
 
 
@@ -150,7 +147,6 @@ level: squadre
 > with the one in the previous row. How many different zig-zag paths can be found?
 
 **Answer:** 0296
-[[Quesiti/src_kangourou_squadre_2010_finale#q04|src_kangourou_squadre_2010_finale__Q04]]
 
 
 
@@ -185,7 +181,6 @@ level: squadre
 > of the numbers written at the vertices is 70. What is the sum of the numbers written on the faces?
 
 **Answer:** 0014
-[[Quesiti/src_kangourou_squadre_2010_finale#q05|src_kangourou_squadre_2010_finale__Q05]]
 
 
 
@@ -229,7 +224,6 @@ level: squadre
 > How many cubic centimeters does its volume measure?
 
 **Answer:** 0180
-[[Quesiti/src_kangourou_squadre_2010_finale#q06|src_kangourou_squadre_2010_finale__Q06]]
 
 
 
@@ -272,7 +266,6 @@ level: squadre
 > turning on again x minutes pass”. (To indicate, for example, 10:38, write 1038.)
 
 **Answer:** 1106
-[[Quesiti/src_kangourou_squadre_2010_finale#q07|src_kangourou_squadre_2010_finale__Q07]]
 
 
 
@@ -306,7 +299,6 @@ level: squadre
 > The rectangle becomes a square The figure shows the lines along which Mark cut a cardboard rectangle, the sides of which measured 36 and 81 centimeters, obtaining two triangles and a pentagon. By timely joining the three pieces, Marco was able to make a square. How many centimeters is the length of the segment indicated by x?
 
 **Answer:** 1340
-[[Quesiti/src_kangourou_squadre_2010_finale#q08|src_kangourou_squadre_2010_finale__Q08]]
 
 
 
@@ -343,7 +335,6 @@ level: squadre
 > something wonderful will happen”. The prediction later came true. In what year?
 
 **Answer:** 2008
-[[Quesiti/src_kangourou_squadre_2010_finale#q09|src_kangourou_squadre_2010_finale__Q09]]
 
 
 
@@ -382,7 +373,6 @@ level: squadre
 > the letters of the alphabet used in that country be at minimum?
 
 **Answer:** 0102
-[[Quesiti/src_kangourou_squadre_2010_finale#q10|src_kangourou_squadre_2010_finale__Q10]]
 
 
 
@@ -420,7 +410,6 @@ level: squadre
 > hexagons whose thickness exceeds 130 occupy in the sequence?
 
 **Answer:** 0971
-[[Quesiti/src_kangourou_squadre_2010_finale#q11|src_kangourou_squadre_2010_finale__Q11]]
 
 
 
@@ -457,7 +446,6 @@ level: squadre
 > {a,b}, {c,d}, {e,f} you should write the number a + b + c + d + e + f ).
 
 **Answer:** 5997
-[[Quesiti/src_kangourou_squadre_2010_finale#q12|src_kangourou_squadre_2010_finale__Q12]]
 
 
 
@@ -492,7 +480,6 @@ level: squadre
 > element of S can have?
 
 **Answer:** 1040
-[[Quesiti/src_kangourou_squadre_2010_finale#q13|src_kangourou_squadre_2010_finale__Q13]]
 
 
 
@@ -536,7 +523,6 @@ level: squadre
 > constraints of the problem. What is, in metres, the perimeter of each of the two rectangles?
 
 **Answer:** 0134
-[[Quesiti/src_kangourou_squadre_2010_finale#q14|src_kangourou_squadre_2010_finale__Q14]]
 
 
 
@@ -573,4 +559,3 @@ level: squadre
 > students who showed up for the exam?
 
 **Answer:** 0008
-[[Quesiti/src_kangourou_squadre_2010_finale#q15|src_kangourou_squadre_2010_finale__Q15]]

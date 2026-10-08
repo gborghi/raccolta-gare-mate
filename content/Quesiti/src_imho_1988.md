@@ -41,8 +41,6 @@ level: IMO
 > 
 > (ii) Determinare il luogo dei punti medi di $BC$.
 
-[[Quesiti/src_imho_1988#q01|src_imho_1988__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_casework,method_doppio_conteggio,method_induzione,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta"></span>
@@ -84,8 +82,6 @@ level: IMO
 > 
 > Per quali valori di $n$ si può assegnare a ogni elemento di $B$ uno dei numeri $0$ e $1$ in modo che $A_i$ abbia esattamente $n$ dei suoi elementi a cui è stato assegnato $0$?
 
-[[Quesiti/src_imho_1988#q02|src_imho_1988__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_funzionali,method_induzione,method_ricorsione,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -125,8 +121,6 @@ level: IMO
 > 
 > Determinare il numero degli interi positivi $n$, minori o uguali a $1988$, per i quali vale che $f(n) = n$.
 
-[[Quesiti/src_imho_1988#q03|src_imho_1988__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_casework,method_telescoping,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima,skill_lettura_attenta"></span>
@@ -156,8 +150,6 @@ level: IMO
 > $$\sum_{k=1}^{70} \frac{k}{x-k} \ge \frac{5}{4}$$
 > è un'unione di intervalli disgiunti la cui somma delle lunghezze è $1988$.
 
-[[Quesiti/src_imho_1988#q04|src_imho_1988__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_disuguaglianze,method_trigonometria,method_disuguaglianze,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -182,8 +174,6 @@ level: IMO
 *Triangolo rettangolo, i punti di incontro degli incentri con i lati, disuguaglianza sull'area*
 
 > Il triangolo $ABC$ è rettangolo in $A$, e $D$ è il piede dell'altezza condotta da $A$. La retta che congiunge gli incentri dei triangoli $ABD$ e $ACD$ interseca i lati $AB$ e $AC$ rispettivamente nei punti $K$ e $L$. Siano $S$ e $T$ le aree dei triangoli $ABC$ e $AKL$ rispettivamente. Si dimostri che $S \ge 2T$.
-
-[[Quesiti/src_imho_1988#q05|src_imho_1988__Q05]]
 
 
 
@@ -213,5 +203,3 @@ level: IMO
 > Siano $a$ e $b$ numeri interi positivi tali che $ab + 1$ divide $a^2 + b^2$. Si dimostri che
 > $$\frac{a^2 + b^2}{ab + 1}$$
 > è il quadrato di un numero intero.
-
-[[Quesiti/src_imho_1988#q06|src_imho_1988__Q06]]

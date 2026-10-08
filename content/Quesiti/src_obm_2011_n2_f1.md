@@ -41,8 +41,6 @@ level: OBM Nível 2
 
 ![[src_obm_2011_n2_f1__q01.png]]
 
-[[Quesiti/src_obm_2011_n2_f1#q01|src_obm_2011_n2_f1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_algebra,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -74,8 +72,6 @@ level: OBM Nível 2
 > (A) $6\,\text{m}$ \quad (B) $8\,\text{m}$ \quad (C) $10\,\text{m}$ \quad (D) $16\,\text{m}$ \quad (E) $24\,\text{m}$
 
 ![[src_obm_2011_n2_f1__q02.png]]
-
-[[Quesiti/src_obm_2011_n2_f1#q02|src_obm_2011_n2_f1__Q02]]
 
 
 
@@ -110,8 +106,6 @@ level: OBM Nível 2
 
 ![[src_obm_2011_n2_f1__q03.png]]
 
-[[Quesiti/src_obm_2011_n2_f1#q03|src_obm_2011_n2_f1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -141,8 +135,6 @@ level: OBM Nível 2
 > 
 > (A) $2 \times 20112007^2$ \quad (B) $2 \times 20112003^2$ \quad (C) $2 \times 20112007$ \quad (D) $2 \times 20112003$ \quad (E) $2 \times 20112011^2$
 
-[[Quesiti/src_obm_2011_n2_f1#q04|src_obm_2011_n2_f1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -171,8 +163,6 @@ level: OBM Nível 2
 > Quanti triangoli con perimetro $7$ hanno tutti i lati con lunghezze interi?
 > 
 > (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
-
-[[Quesiti/src_obm_2011_n2_f1#q05|src_obm_2011_n2_f1__Q05]]
 
 
 
@@ -207,8 +197,6 @@ level: OBM Nível 2
 
 ![[src_obm_2011_n2_f1__q06.png]]
 
-[[Quesiti/src_obm_2011_n2_f1#q06|src_obm_2011_n2_f1__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_logica,topic_combinatoria,method_casework,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -237,8 +225,6 @@ level: OBM Nível 2
 > Qual è il prodotto della quantità di vocali per la quantità di consonanti nell'alternativa corretta? (Non considerare le lettere A, B, C, D, E delle alternative nel conto.)
 > 
 > (A) Vinte e quattro. Quad (B) Trinta e sei. Quarenta e due. Quarenta e otto. Quad (E) Cinquanta e sei. (Piccento sei.)
-
-[[Quesiti/src_obm_2011_n2_f1#q07|src_obm_2011_n2_f1__Q07]]
 
 
 
@@ -269,8 +255,6 @@ level: OBM Nível 2
 > 
 > (A) $10$ \quad (B) $12$ \quad (C) $15$ \quad (D) $24$ \quad (E) $25$
 
-[[Quesiti/src_obm_2011_n2_f1#q08|src_obm_2011_n2_f1__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,method_conteggio,skill_conteggio_sistematico"></span>
@@ -300,8 +284,6 @@ level: OBM Nível 2
 > 
 > (A) $6$ \quad (B) $7$ \quad (C) $8$ \quad (D) $9$ \quad (E) $10$
 
-[[Quesiti/src_obm_2011_n2_f1#q09|src_obm_2011_n2_f1__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -329,8 +311,6 @@ level: OBM Nível 2
 > Nel triangolo $ABC$, $m(A\hat{B}C) - m(B\hat{A}C) = 50^\circ$, il bisettore dell'angolo $A\hat{C}B$ interseca il lato $AB$ a $D$. Il punto $E$ deve essere il punto $AC$ in modo tale che $m(C\hat{D}E) = 90^\circ$. La misura dell'angolo $A\hat{D}E$ è:
 > 
 > (A) $25^\circ$ \quad (B) $30^\circ$ \quad (C) $40^\circ$ \quad (D) $45^\circ$ \quad (E) $50^\circ$
-
-[[Quesiti/src_obm_2011_n2_f1#q10|src_obm_2011_n2_f1__Q10]]
 
 
 
@@ -361,8 +341,6 @@ level: OBM Nível 2
 > 
 > (A) $1$ \quad (B) $3$ \quad (C) $5$ \quad (D) $7$ \quad (E) $9$
 
-[[Quesiti/src_obm_2011_n2_f1#q11|src_obm_2011_n2_f1__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_congruenze,method_conteggio,skill_riconoscimento_pattern"></span>
@@ -391,8 +369,6 @@ level: OBM Nível 2
 > Se moltiplicare tutti gli enti positivi più piccoli di $2011$ che non sono moltipli di $5$, qual è la cifra unità del numero ottenuto?
 > 
 > (A) $2$ \quad (B) $4$ \quad (C) $6$ \quad (D) $8$ \quad (E) $0$
-
-[[Quesiti/src_obm_2011_n2_f1#q12|src_obm_2011_n2_f1__Q12]]
 
 
 
@@ -423,8 +399,6 @@ level: OBM Nível 2
 > 
 > (A) $24$ \quad (B) $26$ \quad (C) $28$ \quad (D) $30$ \quad (E) $32$
 
-[[Quesiti/src_obm_2011_n2_f1#q13|src_obm_2011_n2_f1__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,topic_algebra,method_ricorsione,method_fattorizzazione,skill_modellizzazione,skill_riconoscimento_pattern"></span>
@@ -453,8 +427,6 @@ level: OBM Nível 2
 > Safira strappò un foglio di carta in pezzi $n$ e poi prese uno di questi pezzi e lo strappò di nuovo in pezzi $n$. Ha continuato questo processo, cioè a ogni passo ha preso uno dei pezzi e lo ha strappato in pezzi $n$. Sapendo che la quantità finale di fogli di carta che ha ottenuto è $2011$, in quanti pezzi Safira ha strappato il foglio?
 > 
 > (A) $15$ \quad (B) $26$ \quad (C) $28$ \quad (D) $33$ \quad (E) $36$
-
-[[Quesiti/src_obm_2011_n2_f1#q14|src_obm_2011_n2_f1__Q14]]
 
 
 
@@ -485,8 +457,6 @@ level: OBM Nível 2
 > 
 > (A) $10$ \quad (B) $11$ \quad (C) $12$ \quad (D) $13$ \quad (E) $14$
 
-[[Quesiti/src_obm_2011_n2_f1#q15|src_obm_2011_n2_f1__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,topic_combinatoria,topic_geometria_piana,method_grafi,method_casework,skill_ragionamento_geometrico,skill_casework_accurato"></span>
@@ -515,8 +485,6 @@ level: OBM Nível 2
 > Topazio disegnò le figure riportate di seguito, tranne una, sollevando la matita dalla carta esattamente una volta e non superando mai la stessa linea due volte. Quale di queste figure è quella che non ha disegnato?
 
 ![[src_obm_2011_n2_f1__q16.png]]
-
-[[Quesiti/src_obm_2011_n2_f1#q16|src_obm_2011_n2_f1__Q16]]
 
 
 
@@ -550,8 +518,6 @@ level: OBM Nível 2
 
 ![[src_obm_2011_n2_f1__q17.png]]
 
-[[Quesiti/src_obm_2011_n2_f1#q17|src_obm_2011_n2_f1__Q17]]
-
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_estremalita,skill_casework_accurato,skill_modellizzazione"></span>
@@ -581,8 +547,6 @@ level: OBM Nível 2
 > 
 > (A) $14$ \quad (B) $15$ \quad (C) $16$ \quad (D) $17$ \quad (E) $18$
 
-[[Quesiti/src_obm_2011_n2_f1#q18|src_obm_2011_n2_f1__Q18]]
-
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,topic_algebra,method_casework,method_estremalita,skill_stima,skill_casework_accurato"></span>
@@ -611,8 +575,6 @@ level: OBM Nível 2
 > La calcolatrice di Esmeralda è rotta: quando si pulsa il pulsante $\sqrt{\phantom{x}}$, la calcolatrice fa, per caso, una di queste due operazioni: prende la radice quadrata (come dovrebbe) o divide il numero per $100$ (come non dovrebbe). Esmeralda ha inserito il numero $201120112011$ sulla calcolatrice e ha iniziato a premere il pulsante $\sqrt{\phantom{x}}$ ripetutamente. Quante volte, al massimo, Esmeralda avrebbe premuto il pulsante fino a far apparire, per la prima volta, un numero inferiore a $2$?
 > 
 > (A) $2$ \quad (B) $4$ \quad (C) $5$ \quad (D) $8$ \quad (E) $9$
-
-[[Quesiti/src_obm_2011_n2_f1#q19|src_obm_2011_n2_f1__Q19]]
 
 
 
@@ -646,8 +608,6 @@ level: OBM Nível 2
 > (A) $3^4$ \quad (B) $246$ \quad (C) $178$ \quad (D) $150$ \quad (E) $120$
 
 ![[src_obm_2011_n2_f1__q20.png]]
-
-[[Quesiti/src_obm_2011_n2_f1#q20|src_obm_2011_n2_f1__Q20]]
 
 
 
@@ -689,8 +649,6 @@ level: OBM Nível 2
 > 
 > (A) $0$ \quad (B) $1$ \quad (C) $2$ \quad (D) $3$ \quad (E) $4$
 
-[[Quesiti/src_obm_2011_n2_f1#q21|src_obm_2011_n2_f1__Q21]]
-
 
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_aritmetica,skill_manipolazione_algebrica,skill_stima"></span>
@@ -718,8 +676,6 @@ level: OBM Nível 2
 > Qual è la prima cifra dopo il punto decimale nella rappresentazione decimale della frazione $\dfrac{1}{5^{12}}$?
 > 
 > (A) $1$ \quad (B) $2$ \quad (C) $4$ \quad (D) $5$ \quad (E) $7$
-
-[[Quesiti/src_obm_2011_n2_f1#q22|src_obm_2011_n2_f1__Q22]]
 
 
 
@@ -750,8 +706,6 @@ level: OBM Nível 2
 > 
 > (A) $1$ \quad (B) $2$ \quad (C) $5$ \quad (D) $7$ \quad (E) $11$
 
-[[Quesiti/src_obm_2011_n2_f1#q23|src_obm_2011_n2_f1__Q23]]
-
 
 
 <span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -779,8 +733,6 @@ level: OBM Nível 2
 > Una circonferenza che attraversa i vertici $B$, $A$, $D$ del parallelo $ABCD$ incontra il segmento $CD$ a $Q$. Sapendo che $m(B\hat{A}D) = 60^\circ$ e $AD = 10$, quale è la dimensione del segmento $CQ$?
 > 
 > (A) $10$ \quad (B) $20$ \quad (C) $\dfrac{5\sqrt{3}}{2}$ \quad (D) $10\sqrt{3}$ \quad (E) $15$
-
-[[Quesiti/src_obm_2011_n2_f1#q24|src_obm_2011_n2_f1__Q24]]
 
 
 
@@ -814,5 +766,3 @@ level: OBM Nível 2
 > (A) $69$ \quad (B) $58$ \quad (C) $59$ \quad (D) $61$ \quad (E) $57$
 
 ![[src_obm_2011_n2_f1__q25.png]]
-
-[[Quesiti/src_obm_2011_n2_f1#q25|src_obm_2011_n2_f1__Q25]]

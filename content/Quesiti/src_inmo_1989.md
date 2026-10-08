@@ -35,8 +35,6 @@ level: INMO
 
 > Prove che il polinomio $$f(x) = x^4 + 26x^3 + 52x^2 + 78x + 1989$$ è irriducibile su $\mathbb{Z}[x]$.
 
-[[Quesiti/src_inmo_1989#q01|src_inmo_1989__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -62,8 +60,6 @@ level: INMO
 
 > Lasciate che $a, b, c$ siano numeri reali, non tutti zero. Prova che le radici del polinomio $x^3 + ax^2 + bx + c = 0$ non possono essere tutte razionali.
 
-[[Quesiti/src_inmo_1989#q02|src_inmo_1989__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_cassetti,method_doppio_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -88,8 +84,6 @@ level: INMO
 *Un sottoinsieme di {1,11,21,...,551} senza coppie sommate a 552 ha almeno 38 elementi*
 
 > $A$ sia un sottogruppo del set $\{1, 11, 21, 31, \ldots, 551\}$ il cui numero di elementi non si somma a $552$. Indicare che $A$ non ha più di $38$ elementi.
-
-[[Quesiti/src_inmo_1989#q03|src_inmo_1989__Q03]]
 
 
 
@@ -118,8 +112,6 @@ level: INMO
 
 > Trova tutti i numeri naturali $n$ in modo tale che (i) $n$ non sia un quadrato e (ii) $\lfloor \sqrt{n} \rfloor^2$ divida $n^2$.
 
-[[Quesiti/src_inmo_1989#q04|src_inmo_1989__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_disuguaglianze,method_disuguaglianze,method_simmetria,skill_manipolazione_algebrica,skill_stima"></span>
@@ -147,8 +139,6 @@ level: INMO
 
 > Lasciate che $a, b, c$ siano i lati di un triangolo. Indicare che la quantità $$\frac{a}{b+c} + \frac{b}{c+a} + \frac{c}{a+b}$$ deve essere tra $\frac{1}{2}$ e $2$. L'uguaglianza può essere mantenuta a entrambi i limiti?
 
-[[Quesiti/src_inmo_1989#q05|src_inmo_1989__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione"></span>
@@ -174,8 +164,6 @@ level: INMO
 
 > In un triangolo scalene $ABC$ l'angolo $A$ è obtuso. Determinare l'insieme di punti sul lato esteso $BC$ in modo tale che $AD = \sqrt{BD \cdot CD}$.
 
-[[Quesiti/src_inmo_1989#q06|src_inmo_1989__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione"></span>
@@ -200,5 +188,3 @@ level: INMO
 *Triangolo acuto: locus di P in modo che il triangolo a pedale DEF sia isoscello o equilaterale*
 
 > Un triangolo $ABC$ è angolato acuto. Per qualsiasi punto $P$ nel triangolo, $D$, $E$ e $F$ indicano rispettivamente le proiezioni di $P$ su $BC$, $CA$ e $AB$. Trovare il locus di $P$ per il quale il triangolo $DEF$ è uguale a quello di un anello. Quando $\triangle DEF$ è equilaterale?
-
-[[Quesiti/src_inmo_1989#q07|src_inmo_1989__Q07]]

@@ -45,8 +45,6 @@ level: OBM Nível 2
 > 
 > **Nota.** Due celle sono vicine se condividono un lato.
 
-[[Quesiti/src_obm_2007_n2_f3#q01|src_obm_2007_n2_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,method_colorazione,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione"></span>
@@ -71,8 +69,6 @@ level: OBM Nível 2
 *Pentagono converso equalaterale: due angoli che sommano a 180° implicano che il piano*
 
 > Che $P$ sia un pentagono convexo con tutti i lati uguali. Prova che se due degli angoli di $P$ sommano a $180^\circ$, allora è possibile tessere il piano con copie di $P$, senza sovrapposizioni.
-
-[[Quesiti/src_obm_2007_n2_f3#q02|src_obm_2007_n2_f3__Q02]]
 
 
 
@@ -101,8 +97,6 @@ level: OBM Nível 2
 
 > Prova che esistono infinitamente molti interi positivi $n$ in modo tale che $$\frac{5^{n-2}-1}{n}$$ sia un intero.
 
-[[Quesiti/src_obm_2007_n2_f3#q03|src_obm_2007_n2_f3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
@@ -127,8 +121,6 @@ level: OBM Nível 2
 *I valori p,q con (p2+q2)/(p+q) interi indicano che il valore è primo*
 
 > Mostrare che se $p, q$ sono interi primi positivi in modo che $r = \dfrac{p^2 + q^2}{p + q}$ sia un intero, allora $r$ è primo.
-
-[[Quesiti/src_obm_2007_n2_f3#q04|src_obm_2007_n2_f3__Q04]]
 
 
 
@@ -156,8 +148,6 @@ level: OBM Nível 2
 *Triangolo acuto con AB/√2 = BH = OB: trovare tutti gli angoli*
 
 > Che $ABC$ sia un triangolo acuto e che $O$, $H$ siano rispettivamente il suo circoncentro e l'ortocentro. Dato che $$\frac{AB}{\sqrt{2}} = BH = OB,$$ trova gli angoli del triangolo $ABC$.
-
-[[Quesiti/src_obm_2007_n2_f3#q05|src_obm_2007_n2_f3__Q05]]
 
 
 
@@ -187,5 +177,3 @@ level: OBM Nível 2
 > $A$ sia un insieme di numeri interi. Definire $S(A)$ come l'insieme di tutte le somme di due elementi di $A$ (non necessariamente distinti) e $D(A)$ come l'insieme di tutte le differenze di due elementi di $A$ (non necessariamente distinti). Per esempio, se $A = \{1, 2, 3, 10\}$, allora $S(A) = \{2, 3, 4, 5, 6, 11, 12, 13, 20\}$ e $D(A) = \{-9, -8, -7, -2, -1, 0, 1, 2, 7, 8, 9\}$.
 > 
 > Indicare che esiste un insieme finito $A$ tale che $S(A)$ abbia al massimo $10^{97}$ elementi e $D(A)$ abbia almeno $10^{100}$ elementi.
-
-[[Quesiti/src_obm_2007_n2_f3#q06|src_obm_2007_n2_f3__Q06]]

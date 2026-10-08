@@ -35,8 +35,6 @@ level: BMO Round 2
 
 > Un ufficio di prenotazione di una stazione ferroviaria vende biglietti per 200 destinazioni. Un giorno furono rilasciati biglietti a 3.800 passeggeri. Indicare che i) ci sono (almeno) 6 destinazioni in cui i numeri di arrivo dei passeggeri sono gli stessi; ii) la dichiarazione diventa falsa se "6" viene sostituito da "7".
 
-[[Quesiti/src_bmo_1997-98_round2#q01|src_bmo_1997-98_round2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
@@ -65,8 +63,6 @@ level: BMO Round 2
 > Un triangolo $ABC$ ha $\angle BAC > \angle BCA$. Una linea $AP$ è disegnata in modo che $\angle PAC = \angle BCA$, dove $P$ è all'interno del triangolo. Un punto $Q$ al di fuori del triangolo è costruito in modo che $PQ$ sia parallelo a $AB$ e $BQ$ sia parallelo a $AC$. $R$ è il punto su $BC$ (separato da $Q$ dalla riga $AP$) tale che $\angle PRQ = \angle BCA$.
 > 
 > Dimostrare che il circoncircolo di $ABC$ tocca il circoncircolo di $PQR$.
-
-[[Quesiti/src_bmo_1997-98_round2#q02|src_bmo_1997-98_round2__Q02]]
 
 
 
@@ -103,8 +99,6 @@ level: BMO Round 2
 > 
 > Prova anche che $h(y - x)$ è un quadrato perfetto.
 
-[[Quesiti/src_bmo_1997-98_round2#q03|src_bmo_1997-98_round2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_simmetria,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -136,5 +130,3 @@ level: BMO Round 2
 > Trova una soluzione delle equazioni simultanee $$xy + yz + zx = 12$$ $$xyz = 2 + x + y + z$$ in cui tutte le $x, y, z$ sono positive e prova che è l'unica tale soluzione.
 > 
 > Mostrare che esiste una soluzione in cui $x, y, z$ sono reali e distinte.
-
-[[Quesiti/src_bmo_1997-98_round2#q04|src_bmo_1997-98_round2__Q04]]

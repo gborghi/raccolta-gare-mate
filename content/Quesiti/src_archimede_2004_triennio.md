@@ -37,8 +37,6 @@ level: triennio
 > 
 > (a) 25 November, (b) 26 November, (c) 27 November, (d) 28 November and (e) 29 November.
 
-[[Quesiti/src_archimede_2004_triennio#q02|src_archimede_2004_triennio__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,skill_casework_accurato"></span>
@@ -67,8 +65,6 @@ level: triennio
 > 
 > (A) 1, (B) 2, (C) 3, (D) 4, (E) 5.
 
-[[Quesiti/src_archimede_2004_triennio#q03|src_archimede_2004_triennio__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
@@ -96,8 +92,6 @@ level: triennio
 > $a$, $b$ and $c$ are three natural numbers. We know that $a$ is divisible by 15, $b$ is divisible by 12 and $c$ is divisible by 21. Which of the following is certainly true?
 > 
 > (A) $a^2 + b^2 + c^2$ is divisible by 18, (B) $a + b + c$ is divisible by 9, (C) $a + b + c$ is divisible by 9, (D) $(a+b+c)^2$ is divisible by 9, (E) $a^2 + b^2 + c^2$ is divisible.
-
-[[Quesiti/src_archimede_2004_triennio#q04|src_archimede_2004_triennio__Q04]]
 
 
 
@@ -128,8 +122,6 @@ level: triennio
 > The minimum value of $a \geq 0$ for which the equation $$x^2 + ax + a + 1 = 0$$ has at least one real solution is:
 > 
 > (A) $2\sqrt{2} + 2$, (B) $2\sqrt{2} - 2$, (C) $3\sqrt{2} + 3$, (D) $3\sqrt{2} - 3$, (E) $2\sqrt{2} + 3$.
-
-[[Quesiti/src_archimede_2004_triennio#q05|src_archimede_2004_triennio__Q05]]
 
 
 
@@ -165,7 +157,6 @@ level: triennio
 > (see figure)
 
 **Answer:** Ö/65
-[[Quesiti/src_archimede_2004_triennio#q06|src_archimede_2004_triennio__Q06]]
 
 
 
@@ -195,8 +186,6 @@ level: triennio
 > 
 > (A) 180, (B) 216, (C) 360, (D) 396, (E) 1080.
 
-[[Quesiti/src_archimede_2004_triennio#q07|src_archimede_2004_triennio__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,method_congruenze"></span>
@@ -225,8 +214,6 @@ level: triennio
 > 
 > (A) less than in 2002, (B) equal to that of 2002, (C) greater than that of 2002, but less than four times the expenditure of 2002, (D) equal to four times the expenditure of 2002, (E) equal to twice the expenditure of 2002.
 
-[[Quesiti/src_archimede_2004_triennio#q08|src_archimede_2004_triennio__Q08]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra"></span>
@@ -253,8 +240,6 @@ This is the difference between the two.
 > A wooden box, without a lid, is made of two centimetres thick boards. If the outer dimensions of the base (rectangular) are 38 cm and 44 cm and the outer height is 47 cm, how many cubic centimetres is the inside volume of the box?
 > 
 > (A) $61200\ \text{cm}^3$, (B) $63920\ \text{cm}^3$, (C) $68040\ \text{cm}^3$, (D) $75240\ \text{cm}^3$, (E) $75854\ \text{cm}^3$.
-
-[[Quesiti/src_archimede_2004_triennio#q10|src_archimede_2004_triennio__Q10]]
 
 
 
@@ -284,8 +269,6 @@ This is the difference between the two.
 > 
 > (A) 1, (B) 2, (C) 3, (D) the data are inconsistent, (E) the data is missing to answer.
 
-[[Quesiti/src_archimede_2004_triennio#q11|src_archimede_2004_triennio__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,method_conteggio,skill_casework_accurato"></span>
@@ -314,8 +297,6 @@ This is the difference between the two.
 > Twenty soft square pillows are stacked on top of each other. Each pillow weighs 500 g and initially has a thickness of 80 cm. In the pile, however, the thickness is reduced by about 2 cm for every pound of weight above it (1 cm for every half pound). How high is the pillow pile?
 > 
 > (A) 220 cm, (B) 410 cm, (C) 490 cm, (D) 581 cm, (E) there are no data to answer.
-
-[[Quesiti/src_archimede_2004_triennio#q12|src_archimede_2004_triennio__Q12]]
 
 
 
@@ -350,8 +331,6 @@ This is the difference between the two.
 > 
 > (see figure)
 
-[[Quesiti/src_archimede_2004_triennio#q13|src_archimede_2004_triennio__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
@@ -380,8 +359,6 @@ This is the difference between the two.
 > 
 > (A) None, (B) 1, (C) 2, (D) 3, (E) more than 3.
 
-[[Quesiti/src_archimede_2004_triennio#q14|src_archimede_2004_triennio__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,method_congruenze"></span>
@@ -409,5 +386,3 @@ This is the difference between the two.
 > A colony of amoeba multiplies in a pond. Initially, a clear and a dark amoeba are present; then, every day for 2004 consecutive days, a random amoeba among the existing ones (all having the same probability of being chosen, regardless of their age) splits into two amoeba identical to itself. What's the likelihood that there's only one dark amoeba in the pond at the end of day 2004?
 > 
 > (A) $\dfrac{1}{2^{2004}}$, (B) $\dfrac{1}{2004}$, (C) $\dfrac{2}{2005}$, (D) $\dfrac{1}{2004 \cdot 2005}$, (E) $\dfrac{2004}{2005}$.
-
-[[Quesiti/src_archimede_2004_triennio#q15|src_archimede_2004_triennio__Q15]]

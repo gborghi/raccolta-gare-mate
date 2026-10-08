@@ -38,8 +38,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 ![[src_bocconi_finalenaz_2008__q01.png]]
 
-**Answer:** 10 biglie
-[[Quesiti/src_bocconi_finalenaz_2008#q01|src_bocconi_finalenaz_2008__Q01]]
+**Answer:** 10 marbles
 
 
 
@@ -67,8 +66,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Sergio, a music and computer enthusiast, enjoys creating musical rhythms with the computer and programs the following sounds: a "clac", which regularly starts every 2 seconds; a "spring", which regularly starts every 3 seconds; a "toc", which regularly starts every 4 seconds. Sergio, starting the program, immediately and simultaneously hears the three sounds (he has really good ears!). After how many seconds, will Sergio hear the three sounds exactly together again?
 
-**Answer:** 12 secondi
-[[Quesiti/src_bocconi_finalenaz_2008#q02|src_bocconi_finalenaz_2008__Q02]]
+**Answer:** 12 seconds
 
 
 
@@ -96,8 +94,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Jacob, on vacation at sea, devotes himself to his favorite hobby: fishing. On the first day one fish; on the second day two fish; on the third day three fish. In the following days he caught 4 fish a day (one day on his vacation, when Jacob caught only 3 fish. The penultimate day, two, the last day, only one. During the entire vacation, Jacob caught a total of 52 fish. How many days did Jacob's sea vacation last?
 
-**Answer:** 14 giorni
-[[Quesiti/src_bocconi_finalenaz_2008#q03|src_bocconi_finalenaz_2008__Q03]]
+**Answer:** 14 days
 
 
 
@@ -129,8 +126,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 ![[src_bocconi_finalenaz_2008__q04.png]]
 
-**Answer:** 24 spigoli
-[[Quesiti/src_bocconi_finalenaz_2008#q04|src_bocconi_finalenaz_2008__Q04]]
+**Answer:** 24 edges
 
 
 
@@ -158,8 +154,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Matteo and Rossella are both greedy and argue over the chocolates they have. Matteo counts his people. "If I had three times as many, I would have more than 31", he tells Rossella, "but if I had twice as many, I would have less than 31!" Then he takes a chocolate from Rossella and confesses: "Even now, if I had twice as much, I would always have less than 31!" At this point, it's Rossella getting four chocolates from Matteo - she likes them too much! - and then he says, "Don't complain! Even now, if you had three times as many chocolates as you have, you would have more than 31!" How many chocolates did Matteo have before this heated argument?
 
-**Answer:** 14 cioccolatini
-[[Quesiti/src_bocconi_finalenaz_2008#q05|src_bocconi_finalenaz_2008__Q05]]
+**Answer:** 14 chocolates
 
 
 
@@ -187,8 +182,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > For Angelo's birthday, Rosi made a huge cake that divides into 20 equal slices. Angelo came first and took a fifth of the cake plus a slice. If David repents, he takes a fifth of the cake and a slice of it. Now it's up to Carla to take a slice first and then add a fifth of what's left. Milena takes a quarter of the cake left over and a slice. Finally, Arianna takes a fifth of the cake and a slice of it. How many slices of cake do you have left for Rosi?
 
-**Answer:** 3 fette
-[[Quesiti/src_bocconi_finalenaz_2008#q06|src_bocconi_finalenaz_2008__Q06]]
+**Answer:** 3 slices
 
 
 
@@ -216,8 +210,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Piercarlo, Piergiorgio, Pierluca, Piermarco and Pierpaolo each have 60 cents of Euro in their wallet, made up of six coins. To their surprise, they realize that the cents in their wallets are all different. They take a moment to think and find that there is no other way to get 60 cents with six coins. At this point, they put all their coins together. How many five-cent coins do they have all over our pier? Note: the euro coins in use (below 1 euro) are 1, 2, 5, 10, 20 and 50 cents.
 
-**Answer:** 7 monete da 5 centesimi
-[[Quesiti/src_bocconi_finalenaz_2008#q07|src_bocconi_finalenaz_2008__Q07]]
+**Answer:** 7 coins of 5 cents
 
 
 
@@ -245,7 +238,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Renato wrote a two-digit number. He then writes a 2 to the right of the second digit, thus getting a three-digit number. The new number is 335 more than the original (2 digits) number. What was the two-digit number?
 
 **Answer:** 37
-[[Quesiti/src_bocconi_finalenaz_2008#q08|src_bocconi_finalenaz_2008__Q08]]
 
 
 
@@ -277,8 +269,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 ![[src_bocconi_finalenaz_2008__q09.png]]
 
-**Answer:** primo addendo 135
-[[Quesiti/src_bocconi_finalenaz_2008#q09|src_bocconi_finalenaz_2008__Q09]]
+**Answer:** first addend 135
 
 
 
@@ -311,7 +302,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 ![[src_bocconi_finalenaz_2008__q10.png]]
 
 **Answer:** CBACB
-[[Quesiti/src_bocconi_finalenaz_2008#q10|src_bocconi_finalenaz_2008__Q10]]
 
 
 
@@ -340,7 +330,6 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 > The "par" of a minigolf hole is the average number of shots a good player takes to get the ball into that hole. Math City's mini-golf has 18 holes: nine have a "pair" of 2 and nine a "pair" of 3. Desiderio has just finished the 18-hole course. For none, the number of shots he fired was equal to the hole pair. He still made as many shots as a good player would make: 45. Only for one hole, Desiderio managed to make a single shot. How many holes did Desiderio have to shoot three times ?
 
 **Answer:** 6, 7 o 8
-[[Quesiti/src_bocconi_finalenaz_2008#q11|src_bocconi_finalenaz_2008__Q11]]
 
 
 
@@ -368,8 +357,7 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 
 > Amerigo plays pool on a rectangular pool of 2.06 m by 3.06 m. His ball (which is 6 cm in diameter) is placed in the middle of one of the two long sides of the pool and Amerigo makes it roll, without effects, at an angle of $45^\circ$ with respect to the pool side. Assuming Amerigo has pulled hard enough, how far from the starting point will the center of the ball be at the time of the$59^\circ$ bounce? Give the answer in meters, rounding to centimeters. It's closer. In the final expression of the result, $1{,}414$ for $\sqrt{2}$; $2{,}236$ for $\sqrt{5}$; $3{,}162$ for $\sqrt{10}$; $3{,}606$ for $\sqrt{13}$ and $4{,}123$ for $\sqrt{17}$ shall be taken if necessary.
 
-**Answer:** $1{,}5\sqrt{2}$ m, circa 2,12 m
-[[Quesiti/src_bocconi_finalenaz_2008#q12|src_bocconi_finalenaz_2008__Q12]]
+**Answer:** $1{,}5\sqrt{2}$ m, about 2,12 m
 
 
 
@@ -398,7 +386,6 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 > We've reduced the width and increased the length of a rectangle by the same percentage. After this deformation, the area of the rectangle decreased by a percentage between 2% and 3%. What percentage of the original width and length have been changed ?
 
 **Answer:** 15%, 16% e 17%
-[[Quesiti/src_bocconi_finalenaz_2008#q13|src_bocconi_finalenaz_2008__Q13]]
 
 
 
@@ -427,7 +414,6 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 > Multiply an integer by 4. Then multiply the same integer by 5. So you're going to find that the results of the two multiples, collectively, use every digit from 1 to 9 once and only once. What 's the whole number you started from ?
 
 **Answer:** 2469
-[[Quesiti/src_bocconi_finalenaz_2008#q14|src_bocconi_finalenaz_2008__Q14]]
 
 
 
@@ -456,7 +442,6 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 > Trapezio is a truly original gardener, by name and deed, and he created a garden... in his own image and likeness. He planted five trees A, B, C, D and E so that: the lines (AB) and (DE) are parallel; the lines (AE) and (BD) intersect in C. The areas of the ABC and CDE triangles shall be 32 and 50 cm$^2$ respectively. What is the area of the ABED trapezoid in cm$^2$?
 
 **Answer:** 162 cm$^2$
-[[Quesiti/src_bocconi_finalenaz_2008#q15|src_bocconi_finalenaz_2008__Q15]]
 
 
 
@@ -484,7 +469,6 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 > Nando lives in a fantastic country, where mountains and valleys are named after musical notes! When driving from DO to SI, it goes down from DO to MI at 72 Km/h; goes from MI to SOL at 63 Km/h and goes up from SOL to SI at 56 Km/h. It'll take four hours. On the return, when it goes from SI to DO, Nando goes down from SI to SOL at 72 Km/h, goes from SOL to MI at 63 Km/h and goes up from MI to DO at 56 Km/h. All in all, it takes 4 hours and 40 minutes to get back. What is the road distance in kilometres between DO and SI?
 
 **Answer:** 273 km
-[[Quesiti/src_bocconi_finalenaz_2008#q16|src_bocconi_finalenaz_2008__Q16]]
 
 
 
@@ -514,8 +498,6 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 > The drawing is a floor plan composed of sixteen large squares. Each of the large squares is in turn divided into four white and gray colored squares. The large, oriented squares are all different. Five gray squares have already been inserted into the drawing. The contact squares in two large squares must be identical. In addition, the last line (below) must be identical to the first (top) and the first square column (left) must be identical to the last (right). Finish the pattern coloring.
 
 ![[src_bocconi_finalenaz_2008__q17.png]]
-
-[[Quesiti/src_bocconi_finalenaz_2008#q17|src_bocconi_finalenaz_2008__Q17]]
 
 
 
@@ -548,4 +530,3 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 ![[src_bocconi_finalenaz_2008__q18.png]]
 
 **Answer:** 47
-[[Quesiti/src_bocconi_finalenaz_2008#q18|src_bocconi_finalenaz_2008__Q18]]

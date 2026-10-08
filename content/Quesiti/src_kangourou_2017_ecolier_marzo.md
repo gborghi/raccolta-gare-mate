@@ -62,7 +62,6 @@ level: kangourou
 > E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2017_ecolier_marzo#q01|src_kangourou_2017_ecolier_marzo__Q01]]
 
 
 
@@ -101,7 +100,6 @@ How many kangaroos are in the park, Gianni sees half.
 > Gianni looks out the window (see the figure!) and sees half the kangaroos living in the park. How many kangaroos live in the park? A) 3 B) 10 C) 12 D) 15 E) 18
 
 **Answer:** C
-[[Quesiti/src_kangourou_2017_ecolier_marzo#q02|src_kangourou_2017_ecolier_marzo__Q02]]
 
 
 
@@ -157,7 +155,6 @@ How many kangaroos are in the park, Gianni sees half.
 > E) 5
 
 **Answer:** E
-[[Quesiti/src_kangourou_2017_ecolier_marzo#q03|src_kangourou_2017_ecolier_marzo__Q03]]
 
 
 
@@ -219,7 +216,6 @@ How many kangaroos are in the park, Gianni sees half.
 >
 
 **Answer:** A
-[[Quesiti/src_kangourou_2017_ecolier_marzo#q04|src_kangourou_2017_ecolier_marzo__Q04]]
 
 
 
@@ -269,7 +265,6 @@ How many kangaroos are in the park, Gianni sees half.
 > E) 36
 
 **Answer:** E
-[[Quesiti/src_kangourou_2017_ecolier_marzo#q05|src_kangourou_2017_ecolier_marzo__Q05]]
 
 
 
@@ -325,7 +320,6 @@ How many mirror pieces have exactly four sides?
 > E) 3
 
 **Answer:** B
-[[Quesiti/src_kangourou_2017_ecolier_marzo#q06|src_kangourou_2017_ecolier_marzo__Q06]]
 
 
 
@@ -384,7 +378,6 @@ The picture of the back of Anna's house
 > E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2017_ecolier_marzo#q07|src_kangourou_2017_ecolier_marzo__Q07]]
 
 
 
@@ -440,7 +433,6 @@ The picture of the back of Anna's house
 > The questions from N. 9 to N. 16 are worth 4 points each.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2017_ecolier_marzo#q08|src_kangourou_2017_ecolier_marzo__Q08]]
 
 
 
@@ -491,7 +483,6 @@ The picture of the back of Anna's house
 > E)
 
 **Answer:** A
-[[Quesiti/src_kangourou_2017_ecolier_marzo#q09|src_kangourou_2017_ecolier_marzo__Q09]]
 
 
 
@@ -538,7 +529,6 @@ The picture of the back of Anna's house
 > E) 7
 
 **Answer:** B
-[[Quesiti/src_kangourou_2017_ecolier_marzo#q10|src_kangourou_2017_ecolier_marzo__Q10]]
 
 
 
@@ -590,7 +580,6 @@ How Roby had folded the sheet given the hole.
 > E)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2017_ecolier_marzo#q11|src_kangourou_2017_ecolier_marzo__Q11]]
 
 
 
@@ -639,7 +628,6 @@ How Roby had folded the sheet given the hole.
 > E) 5
 
 **Answer:** D
-[[Quesiti/src_kangourou_2017_ecolier_marzo#q12|src_kangourou_2017_ecolier_marzo__Q12]]
 
 
 
@@ -740,7 +728,6 @@ How Roby had folded the sheet given the hole.
 > E) 15
 
 **Answer:** D
-[[Quesiti/src_kangourou_2017_ecolier_marzo#q13|src_kangourou_2017_ecolier_marzo__Q13]]
 
 
 
@@ -792,7 +779,6 @@ How Roby had folded the sheet given the hole.
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2017_ecolier_marzo#q14|src_kangourou_2017_ecolier_marzo__Q14]]
 
 
 
@@ -843,7 +829,6 @@ How Roby had folded the sheet given the hole.
 > E) 14
 
 **Answer:** D
-[[Quesiti/src_kangourou_2017_ecolier_marzo#q15|src_kangourou_2017_ecolier_marzo__Q15]]
 
 
 
@@ -899,7 +884,6 @@ How Roby had folded the sheet given the hole.
 > E) 7 Questions from N. 17 to N. 24 are worth five points each.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2017_ecolier_marzo#q16|src_kangourou_2017_ecolier_marzo__Q16]]
 
 
 
@@ -972,7 +956,6 @@ How Roby had folded the sheet given the hole.
 > E) 20
 
 **Answer:** C
-[[Quesiti/src_kangourou_2017_ecolier_marzo#q17|src_kangourou_2017_ecolier_marzo__Q17]]
 
 
 
@@ -1012,7 +995,6 @@ How Roby had folded the sheet given the hole.
 > B) 115 C) 170 D) 220 E) 230
 
 **Answer:** B
-[[Quesiti/src_kangourou_2017_ecolier_marzo#q18|src_kangourou_2017_ecolier_marzo__Q18]]
 
 
 
@@ -1077,7 +1059,6 @@ Time limit to leave home and arrive at the choir on time
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2017_ecolier_marzo#q19|src_kangourou_2017_ecolier_marzo__Q19]]
 
 
 
@@ -1125,7 +1106,6 @@ Time limit to leave home and arrive at the choir on time
 > E) 12
 
 **Answer:** D
-[[Quesiti/src_kangourou_2017_ecolier_marzo#q20|src_kangourou_2017_ecolier_marzo__Q20]]
 
 
 
@@ -1174,7 +1154,6 @@ The guy who ate the most small pizzas.
 > E) 7
 
 **Answer:** C
-[[Quesiti/src_kangourou_2017_ecolier_marzo#q21|src_kangourou_2017_ecolier_marzo__Q21]]
 
 
 
@@ -1274,7 +1253,6 @@ The guy who ate the most small pizzas.
 > E) 11
 
 **Answer:** B
-[[Quesiti/src_kangourou_2017_ecolier_marzo#q22|src_kangourou_2017_ecolier_marzo__Q22]]
 
 
 
@@ -1322,7 +1300,6 @@ The guy who ate the most small pizzas.
 > E) 19
 
 **Answer:** E
-[[Quesiti/src_kangourou_2017_ecolier_marzo#q23|src_kangourou_2017_ecolier_marzo__Q23]]
 
 
 
@@ -1374,4 +1351,3 @@ The guy who ate the most small pizzas.
 >
 
 **Answer:** D
-[[Quesiti/src_kangourou_2017_ecolier_marzo#q24|src_kangourou_2017_ecolier_marzo__Q24]]

@@ -44,7 +44,6 @@ level: nazionale
 > Mad Chess Roots teaches his Emmy kitten a new game. On an infinite chessboard (although, yes, there are infinite chessboards in their house as well!), he placed two pedals, aligned vertically on the same column, with exactly two empty boxes between the two. The two players move their pedal in turn, with Rootce starting by moving the lower one. The purpose of Root is to capture Emmy's foot, reaching her same box at the end of a move; to do so, at each turn she can choose whether to take exactly 4 steps or 5, but with these rules: moving from a box to the top or right costs 1 step, moving down or left costs 2 steps. For example, at its first turn it can move upwards by 4 boxes, thus overtaking Emmy's foot, or a box to the right, one to the left and one down (total 5 steps), but it cannot move only from a box upwards and then one downwards, because in that case it would only take 3 steps. Instead, Emmy moves her pedal from one box per shift, in one of the four directions, being careful not to end up on the same box as Root's pedal. Emmy, who is an alert kitten, quickly learned what the best strategy is to keep the game going for as long as possible, despite Root's efforts. After how many moves will the game be over?
 
 **Answer:** 0931
-[[Quesiti/src_cesenatico_2013_semifinale_b#q01|src_cesenatico_2013_semifinale_b__Q01]]
 
 
 
@@ -81,7 +80,6 @@ level: nazionale
 > Through the mirror After hours spent playing with her kitten, Root is so tired that she almost fell asleep! Beyond the mirror, he sees a regular tetrahedron-shaped 1m side table on which a chessboard is drawn. The table rests on the ground in balance on one of the vertices, which is on the ground exactly one meter away from the mirror. The plane of the table, composed of one of the sides of the tetrahedron in the shape of an equilateral triangle, is parallel to the ground. One of its vertices points exactly toward the mirror, so that the opposite side is parallel to it. Just above the centre of the table, but at twice the height of the table, there is a light bulb on. Root notes that under the table two shadows are then formed: one caused by the direct light of the lamp and the other by the light reflected in the mirror. Knowing that the mirror is perfectly vertical, would you be able to calculate the area of the intersection between the two shadows? Give the answer in cm2.
 
 **Answer:** 0000
-[[Quesiti/src_cesenatico_2013_semifinale_b#q02|src_cesenatico_2013_semifinale_b__Q02]]
 
 
 
@@ -115,7 +113,6 @@ level: nazionale
 > What's going on? Root is now located in the A corner of an ABCD square room on the side 4161cm, and rolls a very small ball onto the floor so that it reaches the point on the side BC that is 1cm from B. Every time it hits a wall, not only does the ball bounce back perfectly, but at the same time the room grows larger: the wall opposite the one hit by the ball moves away from the one hit instantly so that their distance doubles. The other two walls remain at the same distance. How many bounces will the ball make before it ends up on top of the room again?
 
 **Answer:** 0022
-[[Quesiti/src_cesenatico_2013_semifinale_b#q03|src_cesenatico_2013_semifinale_b__Q03]]
 
 
 
@@ -147,7 +144,6 @@ level: nazionale
 > The flowers in the grass Root, still surprised by what's happening, leaves the house, and finds himself walking in an infinitely flowery grassland 200cm long and wide. On the lawn, many flowers observe her, amazed to see a flower move! Each of them has the shape of a regular polygon of petal, oops, side 1cm. How many petals/late has the largest flower Root can meet in the lawn?
 
 **Answer:** 0314
-[[Quesiti/src_cesenatico_2013_semifinale_b#q04|src_cesenatico_2013_semifinale_b__Q04]]
 
 
 
@@ -178,7 +174,6 @@ level: nazionale
 > Minimum distance Root, standing still at one point, sees in the distance the White King moving in a straight line passing through three aligned points B,C,D. Knowing that B and D are 3km from the Roots, while C is only 2km, how many meters away are B and D at least?
 
 **Answer:** 0784
-[[Quesiti/src_cesenatico_2013_semifinale_b#q05|src_cesenatico_2013_semifinale_b__Q05]]
 
 
 
@@ -213,7 +208,6 @@ level: nazionale
 > A left tower From a distance, Root sees a lawn with so many hedges that divide it into squares, like the boxes of a chessboard 8. The Red Queen orders the Tower to move from a corner box to the opposite corner box. The Queen explains that it will take exactly six steps to reach her. In addition, he orders that with each move he change direction by turning to the left of 90°. If there are no other pieces on the chessboard besides the Tower, how many possible paths can it take? The Tower may pass on the same box several times; in particular, it may touch the destination box even before the sixth move. A Tower move involves moving any number of whole boxes (from 1 to 8) horizontally or vertically.
 
 **Answer:** 3464
-[[Quesiti/src_cesenatico_2013_semifinale_b#q06|src_cesenatico_2013_semifinale_b__Q06]]
 
 
 
@@ -253,7 +247,6 @@ level: nazionale
 > Two-thirds Team Competition 2013 Semifinal A Problem Text But I have to make sure you can read, write and count. I have 2013 triangles here, base b1, b2,..., b2013 and heights h1, h2,..., h2013, such that bn+1 = bn −4hn for every n between 1 and 2012 (and of course bn > 4hn for these n values). The 2013th triangle has height h2013 = 7 and area 14. In addition, the White Queen, on the other side of the chessboard, has 2012 triangles of heights h1, h2,..., h2012 and bases respectively b2, b3, b4,..., b2013. No no; I can only tell you that b1 is equal to 236. . . But that's not what I care about! Can you tell me what the sum of the areas of all 4025 triangles is?
 
 **Answer:** 6974
-[[Quesiti/src_cesenatico_2013_semifinale_b#q07|src_cesenatico_2013_semifinale_b__Q07]]
 
 
 
@@ -287,7 +280,6 @@ level: nazionale
 > Oysters' shovel The Triseco and the Cartantiere have collected many oysters; they would like to have them in a row by 2, but their number is not divisible by 2. Disappointed, they reluctantly decide to eat two. They try to line up the remaining ones by 3, but their number is not divisible by 3, so they eat 3. They go on like this, every time they eat n because the number of leftovers is not divisible by n. When Root meets them, they're in tears: they're now lined up for 71, and they're not done yet! How many oysters were there at least at the beginning of the feast?
 
 **Answer:** 0377
-[[Quesiti/src_cesenatico_2013_semifinale_b#q08|src_cesenatico_2013_semifinale_b__Q08]]
 
 
 
@@ -320,7 +312,6 @@ level: nazionale
 > The Queen's pearls After an unadorned oyster shroud, Triseco and Cartantiere arranged the pearls they found in this way. It divides, with parallel lines on the sides, an equilateral triangle on side 60 into many triangles on side 3. Then pearls are placed on each point that is a vertex of these triangles, as well as two pearls on each of their sides, so that each pearl is at a distance of 1 from its nearest neighbor. How many pearls did they use to compose the figure?
 
 **Answer:** 4095
-[[Quesiti/src_cesenatico_2013_semifinale_b#q09|src_cesenatico_2013_semifinale_b__Q09]]
 
 
 
@@ -354,7 +345,6 @@ level: nazionale
 > The cards are hitting the head CuboQuadro stole the Cubo compass! To solve the problem, as they usually do, each one of them takes two cards from the same deck of 52 and adds up their values. CuboQuadro, which has caught a 6 and an 8, will only return the bad catch if the sum of the values of the two cards of the brother is greater than or equal to the sum of his own, i.e. 14. What is the probability that this will happen? Indicate the sum of the numerator and denominator of the probability expressed as a fraction reduced to the minimum terms. The deck is composed of four sets of 13 cards each, each of a value of 1,2,...13.
 
 **Answer:** 3286
-[[Quesiti/src_cesenatico_2013_semifinale_b#q10|src_cesenatico_2013_semifinale_b__Q10]]
 
 
 
@@ -388,7 +378,6 @@ level: nazionale
 > HardyDardy's vocabulary When Root meets that old head of HardyDardy, he says spooky: The octagon has twice the sides of the square. The hexagon has more sides than the hexagon, which in turn has more than the pentagon. The number of sides of the hexagon is the average between that of the triangle and that of the ennagone. Root immediately agrees, but a moment later HardyDardy explains that he swapped the names of the polygons from 3 to 9 sides so that no polygon matches his real name. Help Roots figure out how HardyDardy changed the words. The number of sides of a triangle, pentagon, hexagon, anagon is given as a sequential answer.
 
 **Answer:** 5849
-[[Quesiti/src_cesenatico_2013_semifinale_b#q11|src_cesenatico_2013_semifinale_b__Q11]]
 
 
 
@@ -420,7 +409,6 @@ level: nazionale
 > Roots for Roots Roots arrives on a battlefield, where the Jaguar and the Ronzino are challenging each other, fortunately only with questions! As he approaches, he hears Ronzino pose this problem: Sian a,b,c the roots of the polynomial p(x) = 2x3 +11x2 −427x +414. How much is a+b+c?
 
 **Answer:** 4037
-[[Quesiti/src_cesenatico_2013_semifinale_b#q12|src_cesenatico_2013_semifinale_b__Q12]]
 
 
 
@@ -453,7 +441,6 @@ level: nazionale
 > After challenging each other on the battlefield, the Jaguar and the Ronzino relax together with Rootze for a cup of tea. Aitka, the chaplain, offers them 94 biscuits, numbered from 1 to 94. The White King orders Root to eat a number of whole a, Jaguaro b, and Ronzino c. Clearly a,b,c ≥0 and a+b+c = 94. Curiousnote Aitkathe number of different ways in which you can divide cookies by obeying the King's orders is multiplied by 3. How many ordered terns (a,b,c) have this property?
 
 **Answer:** 4479
-[[Quesiti/src_cesenatico_2013_semifinale_b#q13|src_cesenatico_2013_semifinale_b__Q13]]
 
 
 
@@ -485,7 +472,6 @@ level: nazionale
 > The Divisors of the Knight Root now stand in front of the White Knight, who, resting from battle, meditates on a leaf. Here I wrote all the positive divisors of a certain integer N, including 1 and itself. I'm just going to tell you that there are 606 perfect squares, and exactly 165 numbers that are also divisors of 1014. Ah, and multiples of 5 are odd numbers. How many numbers are on the sheet?
 
 **Answer:** 2222
-[[Quesiti/src_cesenatico_2013_semifinale_b#q14|src_cesenatico_2013_semifinale_b__Q14]]
 
 
 
@@ -518,7 +504,6 @@ level: nazionale
 > The palindrome triangle Root has reached the eighth cross, and she's about to become Queen too! However, the Red Queen asks her one last question before the coronation: If ABC is an isosceles triangle (AB = AC) of base BC length 62 and height AH. K is the middle point of AH and D is the intersection point between the segment perpendicular to BK passing through K and the line parallel to BC passing through A. How much is the area of BKD worth, knowing that the area of ABC is a 4-digit palindrome number and the height is an even integer?
 
 **Answer:** 8556
-[[Quesiti/src_cesenatico_2013_semifinale_b#q15|src_cesenatico_2013_semifinale_b__Q15]]
 
 
 
@@ -558,4 +543,3 @@ level: nazionale
 > XIV NATIONAL GAR A Semifinal Team A  Solution  10 May 2013 Nr. The problem
 
 **Answer:** 6490
-[[Quesiti/src_cesenatico_2013_semifinale_b#q16|src_cesenatico_2013_semifinale_b__Q16]]

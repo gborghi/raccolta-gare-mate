@@ -34,8 +34,6 @@ level: China Mathematical Competition (Second Round)
 
 > (Test Paper A, Problema 1) Date le cifre reali positive $k$ ($k \geq 2$) e $k$ non-zero $a_1, a_2, \ldots, a_k$, dimostrare che ci sono al massimo finitamente molte matrici di numeri interi $k$-elemento $(n_1, n_2, \ldots, n_k)$ che soddisfano che $n_1, n_2, \ldots, n_k$ sono parimenti distinte e $$a_1 \cdot n_1! + a_2 \cdot n_2! + \cdots + a_k \cdot n_k! = 0.$$
 
-[[Quesiti/src_cn_cmc-second-round_2021#q01|src_cn_cmc-second-round_2021__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -65,8 +63,6 @@ level: China Mathematical Competition (Second Round)
 
 ![[src_cn_cmc-second-round_2021__q02.png]]
 
-[[Quesiti/src_cn_cmc-second-round_2021#q02|src_cn_cmc-second-round_2021__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -91,8 +87,6 @@ level: China Mathematical Competition (Second Round)
 *Se n divide 2^n-2 e n>=4, allora (2^n-2)/n è composto*
 
 > (Test paper A, problema 3) Supponiamo un numero intero $n \geq 4$. Prova che se $n$ divide $2^n - 2$, allora $\dfrac{2^n - 2}{n}$ è composto.
-
-[[Quesiti/src_cn_cmc-second-round_2021#q03|src_cn_cmc-second-round_2021__Q03]]
 
 
 
@@ -121,7 +115,6 @@ level: China Mathematical Competition (Second Round)
 > (Test Paper A, Problema 4) Dati 100 punti diversi su un cerchio, cercate di determinare il numero intero massimo positivo $k$ soddisfacente: colorate i punti $k$ dei 100 punti in modo arbitrario rosso o blu, e i punti rimanenti possono essere colorati correttamente rosso o blu, in modo che i 100 punti possano essere utilizzati come punti finali per creare 50 segmenti, qualsiasi due segmenti non hanno un punto comune e i punti finali di ogni segmento sono dello stesso colore.
 
 **Risposta:** 50
-[[Quesiti/src_cn_cmc-second-round_2021#q04|src_cn_cmc-second-round_2021__Q04]]
 
 
 
@@ -152,8 +145,6 @@ level: China Mathematical Competition (Second Round)
 
 ![[src_cn_cmc-second-round_2021__q05.png]]
 
-[[Quesiti/src_cn_cmc-second-round_2021#q05|src_cn_cmc-second-round_2021__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_disuguaglianze,method_induzione,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
@@ -180,8 +171,6 @@ level: China Mathematical Competition (Second Round)
 *Sequenza che soddisfa RMS e condizioni medie: i termini di prova convergono entro 0,001*
 
 > (Test Paper A1, Problem 3) Lasciate che le sequenze di numeri reali positivi $\{a_n\}$, $\{b_n\}$ soddisfino: $$a_n = \sqrt{\frac{1}{100}\sum_{i=1}^{100} a_{n+i-1}^2}, \quad b_n = \frac{1}{100}\sum_{i=1}^{100} a_{n+i-1}.$$ Prove che esiste un intero positivo $k$ tale che $|a_m - b_m| < 0.001$ per tutti $m \geq k$.
-
-[[Quesiti/src_cn_cmc-second-round_2021#q06|src_cn_cmc-second-round_2021__Q06]]
 
 
 
@@ -210,7 +199,6 @@ level: China Mathematical Competition (Second Round)
 > (Test Paper A1, Problema 4) Dati 100 punti diversi su un cerchio, cercate di determinare il numero intero massimo positivo $k$ soddisfacente: colorate i punti $k$ dei 100 punti in modo arbitrario rosso o blu, e i punti rimanenti possono essere colorati correttamente rosso o blu, in modo che i 100 punti possano essere utilizzati come punti terminali per creare 50 segmenti, qualsiasi due segmenti non hanno un punto comune e i punti terminali di ogni segmento sono dello stesso colore.
 
 **Risposta:** 50
-[[Quesiti/src_cn_cmc-second-round_2021#q07|src_cn_cmc-second-round_2021__Q07]]
 
 
 
@@ -241,8 +229,6 @@ level: China Mathematical Competition (Second Round)
 
 ![[src_cn_cmc-second-round_2021__q08.png]]
 
-[[Quesiti/src_cn_cmc-second-round_2021#q08|src_cn_cmc-second-round_2021__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,topic_disuguaglianze,method_estremalita,method_induzione,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
@@ -271,8 +257,6 @@ level: China Mathematical Competition (Second Round)
 
 > (Test Paper B, Problem 2) Con un numero intero $n \geq 2$, lasciate che i numeri reali non negativi $a_1, a_2, \ldots, a_n$ soddisfino $$a_1 \geq a_2 \geq \cdots \geq a_n.$$ Trovare il minimo di $$a_1 + a_1 a_2 + a_1 a_2 a_3 + \cdots + a_1 a_2 \cdots a_n.$$
 
-[[Quesiti/src_cn_cmc-second-round_2021#q09|src_cn_cmc-second-round_2021__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,topic_combinatoria,topic_disuguaglianze,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -300,7 +284,6 @@ level: China Mathematical Competition (Second Round)
 > (Test Paper B, Problem 3) Cerca di trovare il numero positivo più grande $M > 1$ con la seguente proprietà: per qualsiasi 10 diversi numeri reali scelti dall'intervallo $[1, M]$, tre di essi possono essere selezionati, indicati dal più piccolo al più grande da $a < b < c$, in modo che l'equazione quadrata $ax^2 + bx + c = 0$ non abbia radici reali.
 
 **Risposta:** $4^{405}$
-[[Quesiti/src_cn_cmc-second-round_2021#q10|src_cn_cmc-second-round_2021__Q10]]
 
 
 
@@ -331,7 +314,6 @@ level: China Mathematical Competition (Second Round)
 > (Test Paper B1, Problema 1) Lasciate che $a$, $b$, $c$ siano numeri reali non negativi. Denote $S = a + 2b + 3c$, $T = a + b^2 + c^3$. (1) Trovare il minimo di $T - S$. (2) Se $S = 4$, trovare il massimo di $T$.
 
 **Risposta:** (1) $-3$; (2) $4$
-[[Quesiti/src_cn_cmc-second-round_2021#q11|src_cn_cmc-second-round_2021__Q11]]
 
 
 
@@ -362,8 +344,6 @@ level: China Mathematical Competition (Second Round)
 
 ![[src_cn_cmc-second-round_2021__q12.png]]
 
-[[Quesiti/src_cn_cmc-second-round_2021#q12|src_cn_cmc-second-round_2021__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_estremalita,method_fattorizzazione,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
@@ -389,8 +369,6 @@ level: China Mathematical Competition (Second Round)
 *Se m>1, n>1 non è il quadrato perfetto, m divide n^2+n+1, provare │m-n │ > sqrt(3n)-2*
 
 > (Test Paper B1, Problem 3) Lasciate che $m$, $n$ siano numeri interi superiori a $1$, e $n$ non è un quadrato perfetto. Se $n^2 + n + 1$ è divisibile per $m$, dimostrare che $$|m - n| > \sqrt{3n} - 2.$$
-
-[[Quesiti/src_cn_cmc-second-round_2021#q13|src_cn_cmc-second-round_2021__Q13]]
 
 
 
@@ -420,5 +398,4 @@ level: China Mathematical Competition (Second Round)
 
 > (Test Paper B1, Problem 4) 9 squadre di calcio giocano un singolo torneo di round-robin (ogni due squadre giocano una volta). In ogni partita, il vincitore ottiene 1 punto, il perdente ottiene 0 punti e ogni squadra ottiene 0,5 punti per un pareggio. Dopo il torneo, si scopre che le 9 squadre hanno punti diversi l'una dall'altra. Le 9 squadre sono registrate come $T_1, T_2, \ldots, T_9$, in ordine decrescente di punti. È noto che la squadra $T_1$ ha un record di 1 vittoria, 3 pareggio e 5 perdite. (1) È possibile che $T_3$ vinca contro $T_4$? (2) È possibile che $T_4$ vinca contro $T_3$?
 
-**Risposta:** (1) No; (2) Yes
-[[Quesiti/src_cn_cmc-second-round_2021#q14|src_cn_cmc-second-round_2021__Q14]]
+**Risposta:** (1) No; (2) Sì

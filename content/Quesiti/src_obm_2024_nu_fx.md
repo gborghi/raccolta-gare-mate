@@ -34,8 +34,6 @@ level: OBM Nível Universitário
 
 > Un intero positivo $n$ si chiama *perfetto* se la somma dei suoi divisori positivi $\sigma(n)$ è uguale al doppio $n$, cioè\ $\sigma(n) = 2n$. Ad esempio, $6$ è un numero perfetto, poiché la somma dei suoi divisori positivi è $1+2+3+6=12$, che è il doppio di $6$. Prova che se $n$ è un intero perfetto positivo, allora $$\sum_{\substack{p \mid n \\ p \text{ prime}}} \frac{1}{p+1} < \ln 2 < \sum_{\substack{p \mid n \\ p \text{ prime}}} \frac{1}{p-1}.$$
 
-[[Quesiti/src_obm_2024_nu_fx#q01|src_obm_2024_nu_fx__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_insiemi_funzioni,topic_algebra,method_disuguaglianze,method_induzione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -73,8 +71,6 @@ level: OBM Nível Universitário
 > 
 > c) Prove che $\lambda_{jk} = \lambda_{kj}$ per tutti gli integri $j, k \ge 2$.
 
-[[Quesiti/src_obm_2024_nu_fx#q02|src_obm_2024_nu_fx__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_invarianti,method_casework,method_congruenze,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -99,8 +95,6 @@ level: OBM Nível Universitário
 *Gioco da tavolo: si muove su n×n griglia conservando esattamente una pietra*
 
 > Considerate un gioco su una tavola $n \times n$, dove ogni cella inizia con esattamente una pietra. Un *movimento* consiste nel scegliere $5$ cellule consecutive nella stessa riga o colonna della lavagna e scambiare lo stato di tali cellule (rilevando una pietra da una cellula che ne ha una e inserendo una nella cellula che non ne ha una). Per quali integri positivi $n \ge 5$ è possibile far rimanere esattamente una pietra alla tavola dopo un numero finito di mosse?
-
-[[Quesiti/src_obm_2024_nu_fx#q03|src_obm_2024_nu_fx__Q03]]
 
 
 
@@ -135,8 +129,6 @@ level: OBM Nível Universitário
 > 
 > (b) Trova tutti i polinomi $P$ con coefficienti reali in modo tale che la funzione polinomica corrispondente $P : \mathbb{R} \to \mathbb{R}$ sia morficamente pari.
 
-[[Quesiti/src_obm_2024_nu_fx#q04|src_obm_2024_nu_fx__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,method_casework,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -163,8 +155,6 @@ level: OBM Nível Universitário
 *sequenza di matrice con A^12=I o (A^2-I)^2=O, traccia su diagonale*
 
 > La matrice $A$ deve essere una matrice di entrata interi $2 \times 2$ con $\det(A) \ne 0$. La sequenza $(A^n)$, $n = 1, 2, 3, \ldots$, soddisfa $$A^{12} = I \quad \text{or} \quad (A^2 - I)^2 = O.$$ Qui $I$ e $O$ indicano rispettivamente la matrice di identità e la matrice di zero, e $\operatorname{tr}$ indica la traccia della matrice (somma degli elementi diagonali). Indicare che $A$ è limitato (limitato).
-
-[[Quesiti/src_obm_2024_nu_fx#q05|src_obm_2024_nu_fx__Q05]]
 
 
 
@@ -200,5 +190,3 @@ level: OBM Nível Universitário
 > Per ogni intero positivo $n$, enumere in ordine crescente tutte le frazioni irriducibili nell'intervallo $[0,1]$ con denominatore inferiore o uguale a $n$: $$\frac{0}{1} = \frac{p_0}{q_0} < \frac{p_1}{q_1} < \cdots < \frac{p_n}{q_n} < \cdots < \frac{1}{1} = \frac{p_{M(n)}}{q_{M(n)}}.$$ Si tratti di un intero positivo. Determinare, per ogni $n$ tale che $M(n) \ge k-1$, $$f_k(n) = \min\left\{\sum_{j=0}^{k-1} q_{s+j}\,;\; 0 \le s \le M(n) - k + 1\right\}.$$ Determinare, per ogni $n$, $\lim_{n\to\infty} \dfrac{f_k(n)}{n}$.
 > 
 > *Per esempio *, se $n=4$, l'elenco è $$\frac{0}{1} < \frac{1}{4} < \frac{1}{3} < \frac{1}{2} < \frac{2}{3} < \frac{3}{4} < \frac{1}{1},$$ dove $p_0=0,\ p_1=1,\ p_2=1,\ p_3=1,\ p_4=2,\ p_5=3,\ p_6=1$ e $q_0=1,\ q_1=4,\ q_2=3,\ q_3=2,\ q_4=3,\ q_5=4,\ q_6=1$. In questo caso, $f_1(4)=1$, $f_2(4)=5$, $f_3(4)=8$, $f_4(4)=10$, $f_5(4)=13$, $f_6(4)=17$ e $f_7(4)=18$.
-
-[[Quesiti/src_obm_2024_nu_fx#q06|src_obm_2024_nu_fx__Q06]]

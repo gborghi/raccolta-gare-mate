@@ -41,8 +41,6 @@ level: BMO Round 2
 
 > $x_1, x_2, \ldots, x_k$ vengono dati punti dell'intervallo $[-1,1]$ in modo tale che $$x_1 = -1, \quad x_k = 1, \quad 0 < x_i - x_{i-1} \le \frac{1}{2} \quad (2 \le i \le k).$$ La funzione quadrata $f$ della forma $$f(x) = ax^2 + bx + c,$$ in cui $a, b, c$ sono costanti reali soddisfa la condizione $$|f(x_i)| \le 1 \quad (1 \le i \le k).$$ Prove che $$|f(x)| \le \frac{5}{4}$$ per tutti $x$ in $[-1,1]$. Mostra con un esempio che questa proposizione diventa falsa se $\frac{1}{2}$ viene sostituita da un numero più piccolo.
 
-[[Quesiti/src_bmo2_1977#q01|src_bmo2_1977__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_geometria_solida,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -67,8 +65,6 @@ level: BMO Round 2
 *Circoli incisi delle facce triangolari della base toccante della piramide*
 
 > Una piramide si forma unendo le vertici di un quadrilaterale piano $ABCD$, la "base", a un punto $V$ al di fuori del suo piano. Si scopre che i cerchi incisi di ciascun paio di facce triangolari adiacenti si toccano. Prove che i punti di contatto dei cerchi incisi con la base della piramide si trovano su un cerchio.
-
-[[Quesiti/src_bmo2_1977#q02|src_bmo2_1977__Q02]]
 
 
 
@@ -103,8 +99,6 @@ level: BMO Round 2
 > 
 > O (b) Prova che nella progressione aritmetica $$a, \quad a+d, \quad a+2d, \quad \ldots, \quad a+nd, \quad \ldots,$$ dove $a, d$ sono interi positivi, esiste un insieme infinito di termini con gli stessi divisori primi.
 
-[[Quesiti/src_bmo2_1977#q03|src_bmo2_1977__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,method_induzione,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_riconoscimento_pattern,skill_astrazione"></span>
@@ -129,5 +123,3 @@ level: BMO Round 2
 *Nellace con coralle adiacenti di diversi colori possibile costruzione*
 
 > Prove che per ogni numero intero $n > 1$ è possibile costruire un collare con perle $2n!$ in tutto, queste perle in $n$ di colori diversi, in modo tale che per ogni coppia di colori diversi ci sia almeno un paio di perle adiacenti di questi due colori. È possibile fare lo stesso utilizzando perle $2^{n-1}$ in tutto? Datemi una ragione per la vostra risposta. (Un "colletto" è un'impostazione circolare di perle, senza alcun attaccamento; si presume che sia disponibile un ampio approvvigionamento di perle di tutti i colori.)
-
-[[Quesiti/src_bmo2_1977#q04|src_bmo2_1977__Q04]]

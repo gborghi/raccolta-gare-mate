@@ -47,8 +47,6 @@ level: triennio
 > - **(D)** 294
 > - **(E)** 326
 
-[[Quesiti/src_archimede_2020_riserva_triennio#q01|src_archimede_2020_riserva_triennio__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_congruenze,method_conteggio,skill_conteggio_sistematico"></span>
@@ -86,8 +84,6 @@ level: triennio
 > - **(C)** 28
 > - **(D)** 14
 > - **(E)** 26
-
-[[Quesiti/src_archimede_2020_riserva_triennio#q02|src_archimede_2020_riserva_triennio__Q02]]
 
 
 
@@ -127,8 +123,6 @@ level: triennio
 > - **(D)** 14
 > - **(E)** 16
 
-[[Quesiti/src_archimede_2020_riserva_triennio#q03|src_archimede_2020_riserva_triennio__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_casi_conteggio,skill_casework_accurato"></span>
@@ -166,8 +160,6 @@ level: triennio
 > - **(D)** 23
 > - **(E)** 19
 
-[[Quesiti/src_archimede_2020_riserva_triennio#q04|src_archimede_2020_riserva_triennio__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze"></span>
@@ -203,8 +195,6 @@ level: triennio
 > - **(C)** 66
 > - **(D)** 80
 > - **(E)** 83
-
-[[Quesiti/src_archimede_2020_riserva_triennio#q05|src_archimede_2020_riserva_triennio__Q05]]
 
 
 
@@ -242,8 +232,6 @@ level: triennio
 > - **(C)** 5/36
 > - **(D)** 7/216
 > - **(E)** 7/144
-
-[[Quesiti/src_archimede_2020_riserva_triennio#q06|src_archimede_2020_riserva_triennio__Q06]]
 
 
 
@@ -284,8 +272,6 @@ level: triennio
 > - **(D)** 7/12
 > - **(E)** 9/16
 
-[[Quesiti/src_archimede_2020_riserva_triennio#q07|src_archimede_2020_riserva_triennio__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,skill_modellizzazione"></span>
@@ -323,8 +309,6 @@ level: triennio
 > - **(C)** 18
 > - **(D)** 15
 > - **(E)** 20
-
-[[Quesiti/src_archimede_2020_riserva_triennio#q08|src_archimede_2020_riserva_triennio__Q08]]
 
 
 
@@ -366,8 +350,6 @@ level: triennio
 > - **(D)** 88
 > - **(E)** 72
 
-[[Quesiti/src_archimede_2020_riserva_triennio#q09|src_archimede_2020_riserva_triennio__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -404,8 +386,6 @@ level: triennio
 > - **(C)** 1 3A
 > - **(D)** 1 4A
 > - **(E)** 5 14A
-
-[[Quesiti/src_archimede_2020_riserva_triennio#q10|src_archimede_2020_riserva_triennio__Q10]]
 
 
 
@@ -444,8 +424,6 @@ level: triennio
 > - **(D)** 104
 > - **(E)** 102
 
-[[Quesiti/src_archimede_2020_riserva_triennio#q11|src_archimede_2020_riserva_triennio__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_casework_accurato"></span>
@@ -483,5 +461,3 @@ level: triennio
 > - **(C)** 42
 > - **(D)** 19
 > - **(E)** 31 The Archimedean Games 2020/2021 Third Reserve Games   PROOF Codes: TT02
-
-[[Quesiti/src_archimede_2020_riserva_triennio#q12|src_archimede_2020_riserva_triennio__Q12]]

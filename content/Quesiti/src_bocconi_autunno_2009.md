@@ -35,7 +35,6 @@ level: Giochi d'Autunno
 > Write the largest odd number of three digits so that the sum of its digits is equal to 12.
 
 **Answer:** 921
-[[Quesiti/src_bocconi_autunno_2009#q01|src_bocconi_autunno_2009__Q01]]
 
 
 
@@ -64,7 +63,6 @@ level: Giochi d'Autunno
 > Mr. Teerema has three children: Carla, Milena and Luca. The average age of the two girls is 10 years while the sum of the ages of the three boys is 33 years. How old is Luca?
 
 **Answer:** 13
-[[Quesiti/src_bocconi_autunno_2009#q02|src_bocconi_autunno_2009__Q02]]
 
 
 
@@ -96,8 +94,7 @@ level: Giochi d'Autunno
 
 ![[src_bocconi_autunno_2009__q03.png]]
 
-**Answer:** (o simili — vedi figura soluzione)
-[[Quesiti/src_bocconi_autunno_2009#q03|src_bocconi_autunno_2009__Q03]]
+**Answer:** (or similar — see the figure in the solution)
 
 
 
@@ -126,7 +123,6 @@ level: Giochi d'Autunno
 > The day 01/01/01 (1° January 2001) was the first day of the third millennium. Then complete the following sentence: 10/10/10 (10 October 2010) will be the ______th day of the third millennium. Note: fill in the dots with the required number (written in figures) recalling that 2004 and 2008 were leap years.
 
 **Answer:** 3570
-[[Quesiti/src_bocconi_autunno_2009#q04|src_bocconi_autunno_2009__Q04]]
 
 
 
@@ -155,7 +151,6 @@ level: Giochi d'Autunno
 > Find the smallest integer (positive) equal to 16 times the sum of its digits.
 
 **Answer:** 144
-[[Quesiti/src_bocconi_autunno_2009#q05|src_bocconi_autunno_2009__Q05]]
 
 
 
@@ -191,7 +186,6 @@ level: Giochi d'Autunno
 ![[src_bocconi_autunno_2009__q06.png]]
 
 **Answer:** $432 + 1578 = 2010$
-[[Quesiti/src_bocconi_autunno_2009#q06|src_bocconi_autunno_2009__Q06]]
 
 
 
@@ -224,7 +218,6 @@ level: Giochi d'Autunno
 ![[src_bocconi_autunno_2009__q07.png]]
 
 **Answer:** 20
-[[Quesiti/src_bocconi_autunno_2009#q07|src_bocconi_autunno_2009__Q07]]
 
 
 
@@ -253,7 +246,6 @@ level: Giochi d'Autunno
 > In the Appendix: $\text{TER} + \text{TER} = \text{SEX}$ replaced by the digits instead of the letters. Please note: the same letter always has the same number and two different letters must have two different numbers. Besides, no number can start with 0. What is the largest value that can be substituted for the word sex?
 
 **Answer:** 806
-[[Quesiti/src_bocconi_autunno_2009#q08|src_bocconi_autunno_2009__Q08]]
 
 
 
@@ -283,7 +275,6 @@ level: Giochi d'Autunno
 > Write the result of the product indicated as an irreducible fraction (no longer simplifiable). $$\frac{1}{2} \times \frac{3}{7} \times \frac{5}{9} \times \cdots \times \frac{2005}{2009} \times \frac{2007}{2011}$$
 
 **Answer:** $\frac{3}{4040099}$
-[[Quesiti/src_bocconi_autunno_2009#q09|src_bocconi_autunno_2009__Q09]]
 
 
 
@@ -317,7 +308,6 @@ level: Giochi d'Autunno
 ![[src_bocconi_autunno_2009__q10.png]]
 
 **Answer:** $\frac{13}{8}$
-[[Quesiti/src_bocconi_autunno_2009#q10|src_bocconi_autunno_2009__Q10]]
 
 
 
@@ -349,8 +339,7 @@ level: Giochi d'Autunno
 
 ![[src_bocconi_autunno_2009__q11.png]]
 
-**Answer:** (vedi figura soluzione)
-[[Quesiti/src_bocconi_autunno_2009#q11|src_bocconi_autunno_2009__Q11]]
+**Answer:** (see the figure in the solution)
 
 
 
@@ -379,7 +368,6 @@ level: Giochi d'Autunno
 > Between noon and 6 p.m. (on the same day), how many times do the large and small hands of a clock form a right angle?
 
 **Answer:** 11
-[[Quesiti/src_bocconi_autunno_2009#q12|src_bocconi_autunno_2009__Q12]]
 
 
 
@@ -408,7 +396,6 @@ level: Giochi d'Autunno
 > Think of a number (full, positive). Decrease it by 8. Then divide the result by 5. Raise the number you find to the square, then add 23, divide by 12, and increase by 8. If you end up with 20, what was the number you initially thought of?
 
 **Answer:** 63
-[[Quesiti/src_bocconi_autunno_2009#q13|src_bocconi_autunno_2009__Q13]]
 
 
 
@@ -437,7 +424,6 @@ level: Giochi d'Autunno
 > Nando's age is equal to that of Deborah's increased cubic root of Jacob's age. Deborah's is equal to Jacob's age increased by the cubic root of Nando's age. Jacob's is equal to the cubic root of Nando's age increased by the square root of Deborah's age. How old is Nando?
 
 **Answer:** 27
-[[Quesiti/src_bocconi_autunno_2009#q14|src_bocconi_autunno_2009__Q14]]
 
 
 
@@ -470,7 +456,6 @@ level: Giochi d'Autunno
 ![[src_bocconi_autunno_2009__q15.png]]
 
 **Answer:** $(8;\ -22)$
-[[Quesiti/src_bocconi_autunno_2009#q15|src_bocconi_autunno_2009__Q15]]
 
 
 
@@ -500,8 +485,7 @@ level: Giochi d'Autunno
 
 > Complete the equality between two fractions, using the ten digits from 0 to 9 once and only once (in fact, 1 and 3 are already marked). You also know that each fraction is equal to 1/2. $$\frac{-\,-}{-\,-} = \frac{1}{3} \cdot \cdot = \frac{-}{3\,-\,-}$$ Note: the query may admit more than one solution; one solution is sufficient.
 
-**Answer:** $\frac{46}{92} = \frac{185}{370}$ oppure $\frac{45}{90} = \frac{186}{372}$
-[[Quesiti/src_bocconi_autunno_2009#q16|src_bocconi_autunno_2009__Q16]]
+**Answer:** $\frac{46}{92} = \frac{185}{370}$ or $\frac{45}{90} = \frac{186}{372}$
 
 
 
@@ -534,7 +518,6 @@ level: Giochi d'Autunno
 ![[src_bocconi_autunno_2009__q17.png]]
 
 **Answer:** $1 + \sqrt{2}$
-[[Quesiti/src_bocconi_autunno_2009#q17|src_bocconi_autunno_2009__Q17]]
 
 
 
@@ -562,5 +545,4 @@ level: Giochi d'Autunno
 
 > If $2^{300}$ is a 31-digit number, how many digits does $5^{300}$ consist of?
 
-**Answer:** 70 cifre
-[[Quesiti/src_bocconi_autunno_2009#q18|src_bocconi_autunno_2009__Q18]]
+**Answer:** 70 digits

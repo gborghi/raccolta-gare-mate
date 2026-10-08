@@ -39,7 +39,6 @@ level: JJMO Yosen
 ![[src_jjmo24yqa_yosen__q01.png]]
 
 **Risposta:** 24
-[[Quesiti/src_jjmo24yqa_yosen#q01|src_jjmo24yqa_yosen__Q01]]
 
 
 
@@ -68,7 +67,6 @@ level: JJMO Yosen
 > $a, b, c, d$ siano integri separati in coppia, ciascuno da $1$ a $4$. Per un numero intero positivo $n$ $P = n(a+b)(a+b+c)(a+b+c+d)$. Dato che $P$ è un quadrato perfetto, trovare il valore massimo possibile di $P$.
 
 **Risposta:** 1600
-[[Quesiti/src_jjmo24yqa_yosen#q02|src_jjmo24yqa_yosen__Q02]]
 
 
 
@@ -102,7 +100,6 @@ level: JJMO Yosen
 > - Se $i$ è pari: la cifra in posizione $i+1$ (dal basso) è una delle cifre tra $1, 2, 3$ che appare più frequentemente tra le prime cifre $i$ (dal basso). - Se $i$ è odd: la cifra in posizione $i+1$ (dal basso) è una delle cifre tra $1, 2, 3$ che appare meno frequentemente tra le prime cifre $i$ (dal basso).
 
 **Risposta:** 3 \cdot 2^{508}
-[[Quesiti/src_jjmo24yqa_yosen#q03|src_jjmo24yqa_yosen__Q03]]
 
 
 
@@ -131,7 +128,6 @@ level: JJMO Yosen
 > Un intero positivo è chiamato **semi-integer** se la sua media digitali (la somma delle sue cifre divisa per il numero di cifre) non è un intero. Ad esempio, $2026$ è un seminteger perché $\frac{2+0+2+6}{4} = \frac{10}{4}$ non è un intero. Trovare il più piccolo intero positivo $n$ in modo tale che ognuno di $n, n+1, n+2, \ldots, n+7$ sia un semi-integer.
 
 **Risposta:** 10046
-[[Quesiti/src_jjmo24yqa_yosen#q04|src_jjmo24yqa_yosen__Q04]]
 
 
 
@@ -173,7 +169,6 @@ level: JJMO Yosen
 ![[src_jjmo24yqa_yosen__q05.png]]
 
 **Risposta:** 6300
-[[Quesiti/src_jjmo24yqa_yosen#q05|src_jjmo24yqa_yosen__Q05]]
 
 
 
@@ -202,7 +197,6 @@ level: JJMO Yosen
 > Sul lato $BC$ del triangolo $ABC$ (esclusi i punti finali), ci sono due punti distinti $D$ e $E$ che soddisfano $BD = DE = EC$. I punti $P$ sul lato $AB$ e $Q$ sul lato $AC$ (entrambi esclusi i punti finali) sono scelti in modo che le linee $DP$ e $EQ$ siano entrambe parallele. Inoltre, $\angle BPD = \angle EQC$. Dato che $AP = 5$ e $PB = 14$, trovare la lunghezza di $AC$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 **Risposta:** 23
-[[Quesiti/src_jjmo24yqa_yosen#q06|src_jjmo24yqa_yosen__Q06]]
 
 
 
@@ -235,7 +229,6 @@ level: JJMO Yosen
 ![[src_jjmo24yqa_yosen__q07.png]]
 
 **Risposta:** 2928
-[[Quesiti/src_jjmo24yqa_yosen#q07|src_jjmo24yqa_yosen__Q07]]
 
 
 
@@ -266,7 +259,6 @@ level: JJMO Yosen
 > Nel triangolo $ABC$, $P$, $Q$, $R$ siano rispettivamente punti sui lati $BC$, $CA$, $AB$ (esclusi i punti finali), con $$BP : PC = 6 : 1, \quad CQ : QA = 5 : 2, \quad AR : RB = 4 : 3.$$ Supponiamo che il circoncircolo di ciascuno dei triangoli $ARQ$, $BPR$ e $CQP$ passi attraverso l'incentro del triangolo $PQR$. Trova il valore di $\dfrac{AB}{AC}$.
 
 **Risposta:** \frac{44}{31}
-[[Quesiti/src_jjmo24yqa_yosen#q08|src_jjmo24yqa_yosen__Q08]]
 
 
 
@@ -299,7 +291,6 @@ level: JJMO Yosen
 > Per ogni intero $i$ con $1 \le i \le 30$, esistono almeno $2$ interi $j$ con $1 \le j \le 30$ tali che $(i - j)(a_i - a_j) < 0$.
 
 **Risposta:** 113
-[[Quesiti/src_jjmo24yqa_yosen#q09|src_jjmo24yqa_yosen__Q09]]
 
 
 
@@ -336,7 +327,6 @@ level: JJMO Yosen
 > Quali sono i possibili valori di $\gcd$ dei due numeri rimasti sulla lavagna dopo tutte le operazioni $999$?
 
 **Risposta:** 1182
-[[Quesiti/src_jjmo24yqa_yosen#q10|src_jjmo24yqa_yosen__Q10]]
 
 
 
@@ -366,7 +356,6 @@ level: JJMO Yosen
 > Quanti array di integri $(a_1, a_2, \ldots, a_{56})$ soddisfano: per tutti gli integri $i, j$ con $1 \le i \le j \le 56$, $$-5 \le a_i + a_{i+1} + \cdots + a_j \le 6\,?$$
 
 **Risposta:** 57 \cdot 6^{56}
-[[Quesiti/src_jjmo24yqa_yosen#q11|src_jjmo24yqa_yosen__Q11]]
 
 
 
@@ -395,4 +384,3 @@ level: JJMO Yosen
 > Il quadrato $ABCD$ con lunghezza laterale $AB = 4$ è inciso in un cerchio. La linea attraverso $B$ parallela alla diagonale $AD$ incontra il segmento $AC$ al punto $E$, con $BE = 5$. La linea attraverso $C$ parallela alla diagonale $AD$ incontra le linee $AB$ e $BC$ rispettivamente nei punti $P$ e $Q$, con $BP = BQ = 6$. Trova la lunghezza del segmento $EQ$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 **Risposta:** \frac{22}{5}
-[[Quesiti/src_jjmo24yqa_yosen#q12|src_jjmo24yqa_yosen__Q12]]

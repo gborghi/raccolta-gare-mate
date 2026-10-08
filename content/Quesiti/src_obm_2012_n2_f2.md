@@ -41,8 +41,6 @@ level: OBM Nível 2
 
 ![[src_obm_2012_n2_f2__q01.png]]
 
-[[Quesiti/src_obm_2012_n2_f2#q01|src_obm_2012_n2_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -70,8 +68,6 @@ level: OBM Nível 2
 
 > Dati numeri reali non zero $a$ e $b$ in modo tale che $$\frac{1}{a} + \frac{1}{b} = \frac{a-4}{2012} = ab = 4024,$$ qual è il valore di $a - b$?
 
-[[Quesiti/src_obm_2012_n2_f2#q02|src_obm_2012_n2_f2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_invarianti,method_induzione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
@@ -97,8 +93,6 @@ level: OBM Nível 2
 
 > Zoroastro ha scritto i numeri $1, 2, \ldots, 100$ in una scatola nera. Eseguirà operazioni per ridurre la quantità di numeri finché non rimarrà solo uno. La prima operazione consiste nel scegliere da questa casella due numeri $a$ e $b$ e sostituirli con $a + b - 1$. La seconda operazione consiste nel scegliere due numeri $a$ e $b$ e sostituirli con $a + b - 2$. In generale, dopo le operazioni $k$ la nuova operazione è: scegliere due numeri $a$ e $b$ e sostituirli da $a + b - (k+1)$. Determina quale numero rimarrà alla fine.
 
-[[Quesiti/src_obm_2012_n2_f2#q03|src_obm_2012_n2_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_aritmetica,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -122,8 +116,6 @@ level: OBM Nível 2
 *La minima n per la somma dell'angolo interno del poligono superiore a 2012 gradi*
 
 > Qual è il valore più piccolo di $n$ per il quale un poligono con lati $n$ ha la somma dei suoi angoli interni più grandi di $2012^\circ$?
-
-[[Quesiti/src_obm_2012_n2_f2#q04|src_obm_2012_n2_f2__Q04]]
 
 
 
@@ -154,8 +146,6 @@ level: OBM Nível 2
 
 ![[src_obm_2012_n2_f2__q05.png]]
 
-[[Quesiti/src_obm_2012_n2_f2#q05|src_obm_2012_n2_f2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_casework,skill_casework_accurato,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -181,8 +171,6 @@ level: OBM Nível 2
 
 > Un numero è un *palindromo* quando la sequenza di cifre che si legge da sinistra a destra è la stessa che si legge da destra a sinistra. Ad esempio, $12321$ è un palindromo. Determinare tutti i numeri a due cifre $\overline{ab}$ (in base 10) in modo tale che $\overline{ab} + \overline{ba}$ e $\overline{ab} \times \overline{ba}$ siano entrambi palindromi. Ad esempio, $12 + 21 = 33$ e $12 \times 21 = 252$ mostrano che il numero $12$ soddisfa queste condizioni.
 
-[[Quesiti/src_obm_2012_n2_f2#q06|src_obm_2012_n2_f2__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -207,8 +195,6 @@ level: OBM Nível 2
 *Area del triangolo AEC dato rettangolo ABCD e triangolo equilaterale esterno CED*
 
 > Il $ABCD$ deve essere un rettangolo tale che $AD = 6$ e $DC = 8$. Costruire un triangolo equilaterale $CED$ tale che $C$, $A$ e $B$ si trovino nello stesso semiplano determinato dalla linea $CD$. Determinare l'area del triangolo $AEC$.
-
-[[Quesiti/src_obm_2012_n2_f2#q07|src_obm_2012_n2_f2__Q07]]
 
 
 
@@ -237,8 +223,6 @@ level: OBM Nível 2
 
 > Sul pianeta *Hexaterra*, la base più utilizzata è l'esadecimale (base 16) invece del decimale (base 10). Nella base 16, le lettere $A, B, C, D, E, F$ vengono usate come cifre (in ordine crescente). Per esempio, $(10)_{16} = 10 \times 16 + 1 = 176$, $(AB)_{16} = 10 \times 16 + 11 = 176$, $(F0E)_{16} = 15 \times 16^2 + 0 \times 16 + 14 = 3854$. Determinare il valore della somma $$(1)_{16} + (2)_{16} + \cdots + (D)_{16} + (E)_{16} + (F)_{16} + (10)_{16} + \cdots + (100)_{16}$$ nella base 10.
 
-[[Quesiti/src_obm_2012_n2_f2#q08|src_obm_2012_n2_f2__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,method_ricorsione,method_conteggio,method_casework,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -263,5 +247,3 @@ level: OBM Nível 2
 *Contare le rotte di Hamilton che non attraversano 20 città su un cerchio*
 
 > Ci sono 20 città segnate su un cerchio. Un mercante vuole viaggiare attraverso tutte le 20 città, visitando ciascuna città esattamente una volta, passando tra le città attraverso segmenti a linea retta. Sapendo che questi segmenti di linea (passati tra città consecutive sulla rotta) non devono mai incrociarsi tra loro, determinano il numero di modi in cui il commerciante può stabilire la sua rotta.
-
-[[Quesiti/src_obm_2012_n2_f2#q09|src_obm_2012_n2_f2__Q09]]

@@ -39,8 +39,6 @@ level: nazionale
 
 > On the sides of a triangle ABC rectangle in A three points D, E and F (on BC, AC and AB respectively) are chosen so that the quadrilateral AFDE is a square. If x is the length of one of its sides, prove that 1 x = 1 AB + 1 AC.
 
-[[Quesiti/src_cesenatico_2012#q01|src_cesenatico_2012__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_disuguaglianze,skill_manipolazione_algebrica"></span>
@@ -68,7 +66,6 @@ level: nazionale
 > Determine all positive integers equal to 300 times the sum of their digits.
 
 **Answer:** 2700
-[[Quesiti/src_cesenatico_2012#q02|src_cesenatico_2012__Q02]]
 
 
 
@@ -98,8 +95,6 @@ level: nazionale
 *to determine the type of each*
 
 > Whether n is an integer greater than or equal to 2. There are n people in the Indian queue, each of whom is either a con man (and always lies) or a knight (and always tells the truth). Each person, except the first, points to one of the people in front of her and declares This person is a con man or This person is a knight. Knowing that there are strictly more cunning than knights, prove that by watching the statements it is possible to determine for each of the people whether it is a cunning or a knight.
-
-[[Quesiti/src_cesenatico_2012#q03|src_cesenatico_2012__Q03]]
 
 
 
@@ -134,7 +129,6 @@ level: nazionale
 > Whether x1, x2, x3, . . . the sequence defined by recurrence as follows: (x1 = 4 xn+1 = x1x2x3 · · xn + 5 for n ≥1. (The first terms of the sequence are then x1 = 4, x2 = 4 + 5 = 9, x3 = 4 · 9 + 5 = 41, . . . ) Find all the pairs of positive integers {a, b} such that xaxb is a perfect square.
 
 **Answer:** {1,2}
-[[Quesiti/src_cesenatico_2012#q04|src_cesenatico_2012__Q04]]
 
 
 
@@ -165,8 +159,7 @@ level: nazionale
 
 > Let ABCD be a square. Describe the location of P points of the plane other than A, B, C, D for which \ APB + \ CPD = 180o.
 
-**Answer:** diagonali e archi della circoscritta
-[[Quesiti/src_cesenatico_2012#q05|src_cesenatico_2012__Q05]]
+**Answer:** diagonals and arcs of the circumcircle
 
 
 
@@ -196,5 +189,4 @@ level: nazionale
 
 > Determine all pairs {a, b} of positive integers with the following property: however you color the positive integers with two colors A and B, there are always two positive integers of color A with difference a or two positive integers of color B with difference b.
 
-**Answer:** coppie con max potenza di 2 diversa
-[[Quesiti/src_cesenatico_2012#q06|src_cesenatico_2012__Q06]]
+**Answer:** pairs whose largest power-of-2 divisors differ

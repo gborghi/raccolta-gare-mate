@@ -33,8 +33,6 @@ level: China Western Mathematical Olympiad
 
 > Trova tutti gli enti $n$ in modo tale che $n^4 - 6n^3 + 11n^2 + 3n + 31$ sia un quadrato perfetto.
 
-[[Quesiti/src_cn_cwmo_2004#q01|src_cn_cwmo_2004__Q01]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_disuguaglianze,method_disuguaglianze,method_fattorizzazione,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_casework_accurato"></span>
@@ -62,7 +60,6 @@ level: China Western Mathematical Olympiad
 > Trovare tutti i numeri reali $k$ in modo tale che l'ineguaglianza $a^2 + b^2 + c^2 + d^2 + 1 \ge k(a + b + c + d)$ sia valida per qualsiasi $a, b, c, d \in [-1, +\infty)$.
 
 **Risposta:** $k \le \dfrac{3}{4}$
-[[Quesiti/src_cn_cwmo_2004#q03|src_cn_cwmo_2004__Q03]]
 
 
 
@@ -89,8 +86,6 @@ level: China Western Mathematical Olympiad
 
 > Che $n \in \mathbb{N}$ (l'insieme di interi positivi) e $d(n)$ siano il numero dei divisori positivi di $n$. Successivamente, $p(n)$ indica il numero di interi nell'intervallo chiuso $[1, n]$ che sono co-prime con $n$. Trova tutti gli integri non negativi $c$ in modo tale che esista $n \in \mathbb{N}$ soddisfacente $d(n) + p(n) = n + c$.
 
-[[Quesiti/src_cn_cwmo_2004#q04|src_cn_cwmo_2004__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,method_ricorsione,method_telescoping,skill_riconoscimento_pattern,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -116,8 +111,6 @@ level: China Western Mathematical Olympiad
 
 > La sequenza $\{a_n\}$ soddisfa $a_1 = a_2 = 1$ e $a_{n+2} = \dfrac{a_n + 1}{a_{n+1}}$, $n = 1, 2, \ldots$. Trova $a_{2004}$.
 
-[[Quesiti/src_cn_cwmo_2004#q05|src_cn_cwmo_2004__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_invarianti,method_colorazione,method_casework,skill_modellizzazione,skill_astrazione,skill_ragionamento_geometrico"></span>
@@ -142,8 +135,6 @@ level: China Western Mathematical Olympiad
 *Determine la parità di buone coppie S in una scacchiera a 2 colori ×n*
 
 > Tutte le griglie di una scacchiera $m \times n$ ($m \ge 3$, $n \ge 3$) sono di colore rosso o blu. Due griglie adiacenti (con un lato comune) sono chiamate buone coppie se sono di colori diversi. Supponiamo che ci siano $S$ buone coppie, spiegate come determinare se $S$ è pari o pari. Il $S$ dipende da determinate reti di colore specifiche?
-
-[[Quesiti/src_cn_cwmo_2004#q06|src_cn_cwmo_2004__Q06]]
 
 
 
@@ -173,5 +164,3 @@ level: China Western Mathematical Olympiad
 > $l$ è il perimetro di un triangolo acuto $\triangle ABC$ non equilaterale. $P$ è un punto variabile all'interno di $\triangle ABC$, e $D$, $E$ e $F$ sono le proiezioni di $P$ su $BC$, $CA$ e $AB$ rispettivamente. Prove che $2(AF + BD + CE) = l$ se e solo se $P$ è collineare con l'incentro e il circoncentro di $\triangle ABC$.
 
 ![[src_cn_cwmo_2004__q07.png]]
-
-[[Quesiti/src_cn_cwmo_2004#q07|src_cn_cwmo_2004__Q07]]

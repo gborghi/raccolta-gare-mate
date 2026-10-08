@@ -36,8 +36,6 @@ level: RMO
 
 ![[src_rmo_2014_r3__q01.png]]
 
-[[Quesiti/src_rmo_2014_r3#q01|src_rmo_2014_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -64,8 +62,6 @@ level: RMO
 
 > Trova tutti i numeri reali $x$ e $y$ in modo tale che $$x^2 + 2y^2 + \frac{1}{2} \le x(2y + 1).$$
 
-[[Quesiti/src_rmo_2014_r3#q02|src_rmo_2014_r3__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -90,8 +86,6 @@ level: RMO
 Nessun numero intero positivo n <2310 con 2310 n 2310-n
 
 > Prova che non esiste un intero positivo $n < 2310$ tale che $n(2310 - n)$ sia un multiple di $2310$.
-
-[[Quesiti/src_rmo_2014_r3#q03|src_rmo_2014_r3__Q03]]
 
 
 
@@ -118,8 +112,6 @@ Nessun numero intero positivo n <2310 con 2310 n 2310-n
 *Ricerca tutti i reali positivi x,y,z che soddisfano tre equazioni cicliche*
 
 > Trova tutti i numeri reali positivi $x, y, z$ in modo tale che $$2x - 2y + \frac{1}{z} = \frac{1}{2014}, \quad 2y - 2z + \frac{1}{x} = \frac{1}{2014}, \quad 2z - 2x + \frac{1}{y} = \frac{1}{2014}.$$
-
-[[Quesiti/src_rmo_2014_r3#q04|src_rmo_2014_r3__Q04]]
 
 
 
@@ -149,8 +141,6 @@ Nessun numero intero positivo n <2310 con 2310 n 2310-n
 
 ![[src_rmo_2014_r3__q05.png]]
 
-[[Quesiti/src_rmo_2014_r3#q05|src_rmo_2014_r3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -175,5 +165,3 @@ Nessun numero intero positivo n <2310 con 2310 n 2310-n
 *Conta i numeri a 3 cifre n con S(S(n))=2*
 
 > Per qualsiasi numero naturale $n$, $S(n)$ indica la somma delle cifre di $n$. Trova il numero di tutti i numeri a 3 cifre $n$ in modo tale che $S(S(n)) = 2$.
-
-[[Quesiti/src_rmo_2014_r3#q06|src_rmo_2014_r3__Q06]]

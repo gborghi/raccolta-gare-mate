@@ -39,8 +39,6 @@ level: Concours Général
 > 
 > Determinare il valore minimo di $BC^6 + BD^6 - AC^6 - AD^6$.
 
-[[Quesiti/src_cgen_1998#q01|src_cgen_1998__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_insiemi_funzioni,topic_aritmetica,method_invarianti,method_ricorsione,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
@@ -72,8 +70,6 @@ level: Concours Général
 > 
 > Mostra che esiste un numero intero non zero $p$ tale che la relazione $u_n = u_{n+p}$ si applique a ogni numero naturale $n$.
 
-[[Quesiti/src_cgen_1998#q02|src_cgen_1998__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_insiemi_funzioni,topic_aritmetica,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -103,8 +99,6 @@ level: Concours Général
 > Per ogni $x$ reale, $E(x)$ indica il numero intero più grande inferiore o uguale a $x$. Il $k$ deve essere un numero intero fisso superiore o uguale a $2$. Considera la funzione $f$ da $\mathbb{N}$ a $\mathbb{N}$ definita da: $$f(n) = n + E\!\left(\sqrt[k]{n + \sqrt{n}}\right).$$
 > 
 > Determinare l'insieme dei valori presi dalla funzione $f$.
-
-[[Quesiti/src_cgen_1998#q03|src_cgen_1998__Q03]]
 
 
 
@@ -141,8 +135,6 @@ level: Concours Général
 > 
 > (2) Indicare che esiste una posizione dei punti $A$ e $B$ per il quale il perimetro del triangolo $OAB$ è minimo, e che in questo caso i perimetri dei triangoli $OAM$ e $OBM$ sono uguali, e che inoltre si mantiene la seguente relazione: $$\frac{AM}{\tan\dfrac{\widehat{OAM}}{2}} = \frac{BM}{\tan\dfrac{\widehat{OBM}}{2}}.$$ Costruire i punti $A$ e $B$ così determinati.
 
-[[Quesiti/src_cgen_1998#q04|src_cgen_1998__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_piana,method_induzione,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_astrazione,skill_conteggio_sistematico"></span>
@@ -171,5 +163,3 @@ level: Concours Général
 > $n$ deve essere un numero intero superiore o uguale a $3$. Considera un insieme $A$ di punti $n$ nel piano in modo tale che non ci siano tre punti $A$ collineari.
 > 
 > Mostrare che nel piano esiste un insieme $S$ di punti $2n - 5$ in modo tale che per ogni triangolo le cui vertici sono punti $A$, esista almeno un punto $S$ che si trova rigorosamente all'interno.
-
-[[Quesiti/src_cgen_1998#q05|src_cgen_1998__Q05]]

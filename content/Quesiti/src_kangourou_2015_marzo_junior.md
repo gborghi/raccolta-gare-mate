@@ -45,7 +45,6 @@ level: kangourou
 > C) 1.111.111.111 D) 11.111.111.111 E) 111.111.111.111
 
 **Answer:** D
-[[Quesiti/src_kangourou_2015_marzo_junior#q01|src_kangourou_2015_marzo_junior__Q01]]
 
 
 
@@ -89,7 +88,6 @@ level: kangourou
 > D) 15 E) The data are insufficient to answer
 
 **Answer:** D
-[[Quesiti/src_kangourou_2015_marzo_junior#q02|src_kangourou_2015_marzo_junior__Q02]]
 
 
 
@@ -173,7 +171,6 @@ level: kangourou
 > E) π/4
 
 **Answer:** B
-[[Quesiti/src_kangourou_2015_marzo_junior#q03|src_kangourou_2015_marzo_junior__Q03]]
 
 
 
@@ -221,7 +218,6 @@ level: kangourou
 > E) 6
 
 **Answer:** E
-[[Quesiti/src_kangourou_2015_marzo_junior#q04|src_kangourou_2015_marzo_junior__Q04]]
 
 
 
@@ -256,7 +252,6 @@ level: kangourou
 > Many years ago a pirate buried a treasure in a garden and now he wants it back. The garden remained intact, but he only remembers having buried the treasure at least five metres from the fence wall and no more than five metres from an old tree. Which of the following figures indicates the region where the pirate should look for the treasure?
 
 **Answer:** B
-[[Quesiti/src_kangourou_2015_marzo_junior#q05|src_kangourou_2015_marzo_junior__Q05]]
 
 
 
@@ -319,7 +314,6 @@ level: kangourou
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_junior#q06|src_kangourou_2015_marzo_junior__Q06]]
 
 
 
@@ -370,8 +364,6 @@ level: kangourou
 
 **Answer:** E
 
-[[Quesiti/src_kangourou_2015_marzo_junior#q07|src_kangourou_2015_marzo_junior__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,skill_manipolazione_algebrica"></span>
@@ -416,7 +408,6 @@ level: kangourou
 > E) 29
 
 **Answer:** A
-[[Quesiti/src_kangourou_2015_marzo_junior#q08|src_kangourou_2015_marzo_junior__Q08]]
 
 
 
@@ -452,7 +443,6 @@ Total days **
 > Louis bought 100 candles. He consumes one candle a day, but as soon as he has the remains of seven candles, he manages to make a new one. How many days will the candles he bought last? A) 112 B) 114 C) 115 D) 116 E) 117
 
 **Answer:** D
-[[Quesiti/src_kangourou_2015_marzo_junior#q09|src_kangourou_2015_marzo_junior__Q09]]
 
 
 
@@ -499,7 +489,6 @@ Total days **
 > Questions from No. 11 to No. 20 are worth 4 points each
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_junior#q10|src_kangourou_2015_marzo_junior__Q10]]
 
 
 
@@ -548,7 +537,6 @@ Total days **
 > E) 7
 
 **Answer:** E
-[[Quesiti/src_kangourou_2015_marzo_junior#q11|src_kangourou_2015_marzo_junior__Q11]]
 
 
 
@@ -614,7 +602,6 @@ Total days **
 > The rectangle in the figure is obtained by placing 8 squares all of side 1 side by side. In a rectangle you can only move along the sides or diagonals of the individual squares. With this constraint, how long is the shortest path connecting two opposite vertices of the rectangle (e.g. those marked)? A) 2√5 B) √10 + √2 C) 2 + 2√2 D) 4√2 E) 6
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_junior#q12|src_kangourou_2015_marzo_junior__Q12]]
 
 
 
@@ -674,7 +661,6 @@ Total days **
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_junior#q13|src_kangourou_2015_marzo_junior__Q13]]
 
 
 
@@ -711,7 +697,6 @@ Total days **
 > A container is shaped like a rectangular prism and the base is a square side 10 cm. The water is poured into the container up to a height of h cm; a 2 cm side stone cube is then immersed (which therefore does not float and lies on the bottom with one of its faces). The cube is now surrounded by water and its upper face is level with the water. What is the value of h? A) 1,92 B) 1,93 C) 1,90 D) 1,91 E) 1,94
 
 **Answer:** A
-[[Quesiti/src_kangourou_2015_marzo_junior#q14|src_kangourou_2015_marzo_junior__Q14]]
 
 
 
@@ -762,7 +747,6 @@ Total days **
 > E) 40
 
 **Answer:** B
-[[Quesiti/src_kangourou_2015_marzo_junior#q15|src_kangourou_2015_marzo_junior__Q15]]
 
 
 
@@ -806,7 +790,6 @@ This is the difference between the two.
 > D) 36 E) A number different from the previous ones.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2015_marzo_junior#q16|src_kangourou_2015_marzo_junior__Q16]]
 
 
 
@@ -854,7 +837,6 @@ This is the difference between the two.
 > E) 19
 
 **Answer:** B
-[[Quesiti/src_kangourou_2015_marzo_junior#q17|src_kangourou_2015_marzo_junior__Q17]]
 
 
 
@@ -901,7 +883,6 @@ This is the difference between the two.
 > E) 21
 
 **Answer:** B
-[[Quesiti/src_kangourou_2015_marzo_junior#q18|src_kangourou_2015_marzo_junior__Q18]]
 
 
 
@@ -948,7 +929,6 @@ This is the difference between the two.
 > E) 27
 
 **Answer:** D
-[[Quesiti/src_kangourou_2015_marzo_junior#q19|src_kangourou_2015_marzo_junior__Q19]]
 
 
 
@@ -983,7 +963,6 @@ This is the difference between the two.
 > The statement If n is a prime integer, then one and only one of the integers n − 2 and n + 2 is prime is false. Which of the following values of n provides a counterexample? A) n = 11 B) n = 19 C) n = 21 D) n = 29 E) n = 37 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2015_marzo_junior#q20|src_kangourou_2015_marzo_junior__Q20]]
 
 
 
@@ -1032,7 +1011,6 @@ This is the difference between the two.
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_junior#q21|src_kangourou_2015_marzo_junior__Q21]]
 
 
 
@@ -1083,7 +1061,6 @@ This is the difference between the two.
 > E) 120
 
 **Answer:** B
-[[Quesiti/src_kangourou_2015_marzo_junior#q22|src_kangourou_2015_marzo_junior__Q22]]
 
 
 
@@ -1182,7 +1159,6 @@ This is the difference between the two.
 > E) 6
 
 **Answer:** A
-[[Quesiti/src_kangourou_2015_marzo_junior#q23|src_kangourou_2015_marzo_junior__Q23]]
 
 
 
@@ -1293,7 +1269,6 @@ This is the difference between the two.
 > On the AB side of an ABC triangle, two points X and Y are indicated, and the parallel segment to the AC side, which ends on the BC side, is drawn from each of them. It is known that the areas of the two shaded regions thus separated (a trapezoid and a triangle) are equal and that BX: XA = 4: 1. How much is BY: Ya ? A) 1 : 1 B) 2 : 1 C) 3 : 3 D) 3 : 2 E) 4 : 3
 
 **Answer:** D
-[[Quesiti/src_kangourou_2015_marzo_junior#q24|src_kangourou_2015_marzo_junior__Q24]]
 
 
 
@@ -1401,7 +1376,6 @@ This is the difference between the two.
 > C) CF D) DE E) EF
 
 **Answer:** E
-[[Quesiti/src_kangourou_2015_marzo_junior#q25|src_kangourou_2015_marzo_junior__Q25]]
 
 
 
@@ -1486,7 +1460,6 @@ This is the difference between the two.
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2015_marzo_junior#q26|src_kangourou_2015_marzo_junior__Q26]]
 
 
 
@@ -1530,7 +1503,6 @@ This is the difference between the two.
 > D) 9 E) The data are insufficient to answer
 
 **Answer:** B
-[[Quesiti/src_kangourou_2015_marzo_junior#q27|src_kangourou_2015_marzo_junior__Q27]]
 
 
 
@@ -1581,7 +1553,6 @@ This is the difference between the two.
 > E) 20
 
 **Answer:** D
-[[Quesiti/src_kangourou_2015_marzo_junior#q28|src_kangourou_2015_marzo_junior__Q28]]
 
 
 
@@ -1629,7 +1600,6 @@ The value of all the materials used shall be the sum of all the materials used.
 > E) 10
 
 **Answer:** B
-[[Quesiti/src_kangourou_2015_marzo_junior#q29|src_kangourou_2015_marzo_junior__Q29]]
 
 
 
@@ -1686,4 +1656,3 @@ The value of all the materials used shall be the sum of all the materials used.
 > STRINGA JUNIOR 2015
 
 **Answer:** B
-[[Quesiti/src_kangourou_2015_marzo_junior#q30|src_kangourou_2015_marzo_junior__Q30]]

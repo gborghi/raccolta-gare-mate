@@ -45,8 +45,6 @@ level: OBM Nível 1
 > 
 > b) Dal giro $17$ fino alla fine della gara, i primi tre piloti riescono a mantenere la loro durata per giro: PRE fa ogni giro in $2\text{ min }01\text{ s}$, SAP fa ogni giro in $1\text{ min }59\text{ s}$ e BET fa ogni giro in $1\text{ min }58\text{ s}$. Alla fine del giro $17$, SAP era $15\text{ s}$ dietro PRE e BET era $18\text{ s}$ dietro PRE. Considerando che questi tre piloti compongono il podio e che il pilota più veloce riesce sempre a superare un pilota più lento davanti a lui, spiegate chi ha vinto la gara e quali piloti hanno preso il secondo e il terzo posto.
 
-[[Quesiti/src_obm_2017_n1_f3#q01|src_obm_2017_n1_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,topic_geometria_solida,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -83,8 +81,6 @@ level: OBM Nível 1
 > b) In quanti modi diversi può ottenere un cubo di volume $64\text{ cm}^3$?
 
 ![[src_obm_2017_n1_f3__q02.png]]
-
-[[Quesiti/src_obm_2017_n1_f3#q02|src_obm_2017_n1_f3__Q02]]
 
 
 
@@ -124,8 +120,6 @@ level: OBM Nível 1
 > 
 > c) Scrivi, nella lingua degli Impas, il numero che nella nostra normale rappresentazione decimale è scritto come $2017$.
 
-[[Quesiti/src_obm_2017_n1_f3#q03|src_obm_2017_n1_f3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_algebra,topic_aritmetica,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -162,8 +156,6 @@ level: OBM Nível 1
 > b) Indicare un rettangolo che può essere diviso secondo le esigenze della dichiarazione e indicare le misure dei suoi lati.
 > 
 > c) Se il perimetro del tuo rettangolo è $780\text{ cm}$, quali possono essere i valori del perimetro del quadrato formato dopo la nuova disposizione delle parti?
-
-[[Quesiti/src_obm_2017_n1_f3#q04|src_obm_2017_n1_f3__Q04]]
 
 
 
@@ -225,5 +217,3 @@ level: OBM Nível 1
 > c) Quante diverse password di quattro cifre hanno due segmenti collineari (segmenti che si trovano sulla stessa linea)?
 
 ![[src_obm_2017_n1_f3__q05.png]]
-
-[[Quesiti/src_obm_2017_n1_f3#q05|src_obm_2017_n1_f3__Q05]]

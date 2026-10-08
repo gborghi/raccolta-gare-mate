@@ -37,8 +37,6 @@ level: China Mathematical Competition (Complementary Test)
 
 ![[src_cn_cmc-complementary-test_b11_w69__q01.png]]
 
-[[Quesiti/src_cn_cmc-complementary-test_2010#q01|src_cn_cmc-complementary-test_2010__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_induzione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
@@ -68,8 +66,6 @@ level: China Mathematical Competition (Complementary Test)
 
 ![[src_cn_cmc-complementary-test_b11_w69__q02.png]]
 
-[[Quesiti/src_cn_cmc-complementary-test_2010#q02|src_cn_cmc-complementary-test_2010__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_telescoping,skill_manipolazione_algebrica,skill_stima"></span>
@@ -95,8 +91,6 @@ level: China Mathematical Competition (Complementary Test)
 
 > (50 marchi) Con un numero intero $n > 2$, supponiamo che i numeri reali positivi $a_1, a_2, \ldots, a_n$ soddisfino $a_k \le 1$, $k = 1, 2, \ldots, n$. Il valore di $A_k = \dfrac{a_1 + a_2 + \cdots + a_k}{k}$ è $k = 1, 2, \ldots, n$. Provare $\left| \displaystyle\sum_{k=1}^{n} a_k - \sum_{k=1}^{n} A_k \right| < \dfrac{n-1}{2}$.
 
-[[Quesiti/src_cn_cmc-complementary-test_2010#q03|src_cn_cmc-complementary-test_2010__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -121,5 +115,3 @@ level: China Mathematical Competition (Complementary Test)
 *Contare set di codici validi per il blocco di cipro su n-gon regolare*
 
 > (30 marchi) La configurazione del codice di un blocco cipher è stabilita su un poligono $n$-regolare con vertici $A_1, A_2, \ldots, A_n$, a ciascun vertice viene assegnato un numero ($1$ o $0$) e un colore (rosso o blu), in modo tale che sia i numeri che i colori su ciascuna coppia di vertici adiacenti siano uguali. Chiediamo, quante serie di codici si possono realizzare per questo blocco?
-
-[[Quesiti/src_cn_cmc-complementary-test_2010#q04|src_cn_cmc-complementary-test_2010__Q04]]

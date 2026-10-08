@@ -44,7 +44,6 @@ level: squadre
 > is the largest possible value of N?
 
 **Answer:** 0020
-[[Quesiti/src_kangourou_2020_squadre_junior_f#q01|src_kangourou_2020_squadre_junior_f__Q01]]
 
 
 
@@ -116,7 +115,6 @@ level: squadre
 > The square In the triangle in Figure D is the midpoint of the AC side, the angles and are equal and the AB side measures 12. What is the square of the size of the BD segment?
 
 **Answer:** 0072
-[[Quesiti/src_kangourou_2020_squadre_junior_f#q02|src_kangourou_2020_squadre_junior_f__Q02]]
 
 
 
@@ -153,7 +151,6 @@ level: squadre
 > Competitors A Kangourou competition consisted of 12 numbered questions. The report sent to the manager provided the following two information: - each participant answered all questions; - no participant gave the correct answer to two consecutive questions. The person responsible, without knowing the details but knowing the number of participants, concludes that at least two candidates answered the same way, that is, correctly and incorrectly to the same questions. At least, how many competitors took part in the competition?
 
 **Answer:** 0378
-[[Quesiti/src_kangourou_2020_squadre_junior_f#q03|src_kangourou_2020_squadre_junior_f__Q03]]
 
 
 
@@ -185,7 +182,6 @@ level: squadre
 > On a long street in my town, the houses were numbered, without skipping any number, from first to last. One day one of these houses was torn down. The mean of the remaining numbers then became 995.8. What was the number of the house that was torn down?
 
 **Answer:** 1394
-[[Quesiti/src_kangourou_2020_squadre_junior_f#q04|src_kangourou_2020_squadre_junior_f__Q04]]
 
 
 
@@ -261,7 +257,6 @@ level: squadre
 > In a triangle ABC the measure of AB is 123, that of BC is 27 and that of CA is 120. Consider the two points D and E that divide the AB side into three segments of equal length. What is the length of the longest of the segments CD and CE? (Answer by writing the nearest whole).
 
 **Answer:** 0081
-[[Quesiti/src_kangourou_2020_squadre_junior_f#q05|src_kangourou_2020_squadre_junior_f__Q05]]
 
 
 
@@ -296,7 +291,6 @@ level: squadre
 > the birth year of my ancestor, knowing that he was always a good Christian?
 
 **Answer:** 1522
-[[Quesiti/src_kangourou_2020_squadre_junior_f#q06|src_kangourou_2020_squadre_junior_f__Q06]]
 
 
 
@@ -334,7 +328,6 @@ level: squadre
 > Coincidences Consider the number (not whole) obtained by dividing 1990 by 19 and that (also not whole) obtained by dividing 1990 by 17, both written in decimal notation. Imagine then that you are colonising the two numbers (with the two commas in correspondence); if in the same position after the comma both numbers present the figure 5 we say that there is a coincidence. What is the position after the comma of the 90th coincidence? Write 0000 if the 90th coincidence does not occur. A B C D
 
 **Answer:** 6471
-[[Quesiti/src_kangourou_2020_squadre_junior_f#q07|src_kangourou_2020_squadre_junior_f__Q07]]
 
 
 
@@ -370,7 +363,6 @@ level: squadre
 > Three parallels is given a square ABCD. Three parallel lines a, b, c pass through the vertices A, B and C of the square respectively. The distance from a to b is 7, while the distance from b to c is 9. What is the area of the square?
 
 **Answer:** 0130
-[[Quesiti/src_kangourou_2020_squadre_junior_f#q08|src_kangourou_2020_squadre_junior_f__Q08]]
 
 
 
@@ -405,7 +397,6 @@ level: squadre
 > integers n such that d(n) × s(n) = 96.
 
 **Answer:** 0076
-[[Quesiti/src_kangourou_2020_squadre_junior_f#q09|src_kangourou_2020_squadre_junior_f__Q09]]
 
 
 
@@ -437,7 +428,6 @@ level: squadre
 > Flexible numbers Let's say a two-digit (positive) integer AB is flexible if, when added to (A + B) 2, that is, to the square of the sum of its digits, it gives the resulting number BA. How much is the sum of all the flexible numbers?
 
 **Answer:** 0027
-[[Quesiti/src_kangourou_2020_squadre_junior_f#q10|src_kangourou_2020_squadre_junior_f__Q10]]
 
 
 
@@ -476,7 +466,6 @@ level: squadre
 > vary. What value do you get?
 
 **Answer:** 0220
-[[Quesiti/src_kangourou_2020_squadre_junior_f#q11|src_kangourou_2020_squadre_junior_f__Q11]]
 
 
 
@@ -507,7 +496,6 @@ level: squadre
 > The roots Consider all solutions of the equation x6 – 16x4 + 16x2 = 1 and raise to the sixth each of them. Then add up the results obtained. How much do you get?
 
 **Answer:** 6662
-[[Quesiti/src_kangourou_2020_squadre_junior_f#q12|src_kangourou_2020_squadre_junior_f__Q12]]
 
 
 
@@ -548,7 +536,6 @@ level: squadre
 > days of play Martino has earned 22,066 €. How many times did he win in these 7 days?
 
 **Answer:** 0015
-[[Quesiti/src_kangourou_2020_squadre_junior_f#q13|src_kangourou_2020_squadre_junior_f__Q13]]
 
 
 
@@ -581,7 +568,6 @@ level: squadre
 > with a < c exist in S such that b = (a + c)/2?
 
 **Answer:** 2500
-[[Quesiti/src_kangourou_2020_squadre_junior_f#q14|src_kangourou_2020_squadre_junior_f__Q14]]
 
 
 
@@ -627,4 +613,3 @@ level: squadre
 > Questions and solutions
 
 **Answer:** 0016
-[[Quesiti/src_kangourou_2020_squadre_junior_f#q15|src_kangourou_2020_squadre_junior_f__Q15]]

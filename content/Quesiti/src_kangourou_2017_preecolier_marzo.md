@@ -54,7 +54,6 @@ level: kangourou
 > - **(E)** Enrico (see figure)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2017_preecolier_marzo#q01|src_kangourou_2017_preecolier_marzo__Q01]]
 
 
 
@@ -98,7 +97,6 @@ level: kangourou
 > - **(E)** 9 (see figure)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2017_preecolier_marzo#q02|src_kangourou_2017_preecolier_marzo__Q02]]
 
 
 
@@ -142,7 +140,6 @@ level: kangourou
 > - **(E)** 8 (see figure)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2017_preecolier_marzo#q03|src_kangourou_2017_preecolier_marzo__Q03]]
 
 
 
@@ -186,7 +183,6 @@ level: kangourou
 > - **(E)** 5 (see figure)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2017_preecolier_marzo#q04|src_kangourou_2017_preecolier_marzo__Q04]]
 
 
 
@@ -226,7 +222,6 @@ level: kangourou
 > (see figure)
 
 **Answer:** A
-[[Quesiti/src_kangourou_2017_preecolier_marzo#q05|src_kangourou_2017_preecolier_marzo__Q05]]
 
 
 
@@ -266,7 +261,6 @@ level: kangourou
 > - **(E)** 10 (see figure)
 
 **Answer:** A
-[[Quesiti/src_kangourou_2017_preecolier_marzo#q06|src_kangourou_2017_preecolier_marzo__Q06]]
 
 
 
@@ -302,7 +296,6 @@ level: kangourou
 > (see figure)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2017_preecolier_marzo#q07|src_kangourou_2017_preecolier_marzo__Q07]]
 
 
 
@@ -350,7 +343,6 @@ level: kangourou
 > - **(E)** 7
 
 **Answer:** C
-[[Quesiti/src_kangourou_2017_preecolier_marzo#q08|src_kangourou_2017_preecolier_marzo__Q08]]
 
 
 
@@ -390,7 +382,6 @@ level: kangourou
 > - **(E)** 14
 
 **Answer:** D
-[[Quesiti/src_kangourou_2017_preecolier_marzo#q09|src_kangourou_2017_preecolier_marzo__Q09]]
 
 
 
@@ -426,7 +417,6 @@ Where's Jim after the ride?
 > (see figure)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2017_preecolier_marzo#q10|src_kangourou_2017_preecolier_marzo__Q10]]
 
 
 
@@ -467,7 +457,6 @@ Where's Jim after the ride?
 > - **(E)** 12 (see figure)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2017_preecolier_marzo#q11|src_kangourou_2017_preecolier_marzo__Q11]]
 
 
 
@@ -503,7 +492,6 @@ Where's Jim after the ride?
 > (see figure)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2017_preecolier_marzo#q12|src_kangourou_2017_preecolier_marzo__Q12]]
 
 
 
@@ -539,7 +527,6 @@ Where's Jim after the ride?
 > (see figure)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2017_preecolier_marzo#q13|src_kangourou_2017_preecolier_marzo__Q13]]
 
 
 
@@ -579,7 +566,6 @@ How many children behind William in the line?
 > - **(E)** a number different from the previous ones
 
 **Answer:** B
-[[Quesiti/src_kangourou_2017_preecolier_marzo#q14|src_kangourou_2017_preecolier_marzo__Q14]]
 
 
 
@@ -615,7 +601,6 @@ What time was it two and a half hours ago?
 > (see figure)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2017_preecolier_marzo#q15|src_kangourou_2017_preecolier_marzo__Q15]]
 
 
 
@@ -655,7 +640,6 @@ What time was it two and a half hours ago?
 > - **(E)** 7 (see figure)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2017_preecolier_marzo#q16|src_kangourou_2017_preecolier_marzo__Q16]]
 
 
 
@@ -706,7 +690,6 @@ What time was it two and a half hours ago?
 > - **(E)** 15 (see figure)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2017_preecolier_marzo#q17|src_kangourou_2017_preecolier_marzo__Q17]]
 
 
 
@@ -746,7 +729,6 @@ What time was it two and a half hours ago?
 > - **(E)** 4
 
 **Answer:** C
-[[Quesiti/src_kangourou_2017_preecolier_marzo#q18|src_kangourou_2017_preecolier_marzo__Q18]]
 
 
 
@@ -782,7 +764,6 @@ What time was it two and a half hours ago?
 > (see figure)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2017_preecolier_marzo#q19|src_kangourou_2017_preecolier_marzo__Q19]]
 
 
 
@@ -822,7 +803,6 @@ What time was it two and a half hours ago?
 > - **(E)** 9
 
 **Answer:** E
-[[Quesiti/src_kangourou_2017_preecolier_marzo#q20|src_kangourou_2017_preecolier_marzo__Q20]]
 
 
 
@@ -858,7 +838,6 @@ What time was it two and a half hours ago?
 > (see figure)
 
 **Answer:** A
-[[Quesiti/src_kangourou_2017_preecolier_marzo#q21|src_kangourou_2017_preecolier_marzo__Q21]]
 
 
 
@@ -898,7 +877,6 @@ What's written on the last lock?
 > - **(E)** DAD (see figure)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2017_preecolier_marzo#q22|src_kangourou_2017_preecolier_marzo__Q22]]
 
 
 
@@ -945,7 +923,6 @@ What's written on the last lock?
 > - **(E)** the blue monster (see figure)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2017_preecolier_marzo#q23|src_kangourou_2017_preecolier_marzo__Q23]]
 
 
 
@@ -981,4 +958,3 @@ What image is seen without cutting the rope?
 > (see figure)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2017_preecolier_marzo#q24|src_kangourou_2017_preecolier_marzo__Q24]]

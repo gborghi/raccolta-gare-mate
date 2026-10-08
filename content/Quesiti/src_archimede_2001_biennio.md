@@ -48,8 +48,6 @@ level: biennio
 > - **(D)** a > c > b
 > - **(E)** c > b > a.
 
-[[Quesiti/src_archimede_2001_biennio#q01|src_archimede_2001_biennio__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,skill_conteggio_sistematico"></span>
@@ -87,8 +85,6 @@ level: biennio
 > - **(C)** 4
 > - **(D)** 5
 > - **(E)** 14.
-
-[[Quesiti/src_archimede_2001_biennio#q02|src_archimede_2001_biennio__Q02]]
 
 
 
@@ -132,8 +128,6 @@ level: biennio
 > - **(D)** 15
 > - **(E)** 20. b b b b b b
 
-[[Quesiti/src_archimede_2001_biennio#q03|src_archimede_2001_biennio__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_inclusione_esclusione,skill_conteggio_sistematico"></span>
@@ -171,8 +165,6 @@ level: biennio
 > - **(C)** 30
 > - **(D)** 55
 > - **(E)** 77.
-
-[[Quesiti/src_archimede_2001_biennio#q04|src_archimede_2001_biennio__Q04]]
 
 
 
@@ -212,8 +204,6 @@ level: biennio
 > - **(D)** 667 a.C.
 > - **(E)** 285 a.C.
 
-[[Quesiti/src_archimede_2001_biennio#q05|src_archimede_2001_biennio__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,skill_lettura_attenta"></span>
@@ -252,8 +242,6 @@ level: biennio
 > - **(C)** This appropriation is intended to cover expenditure relating to:
 > - **(D)** This appropriation is intended to cover expenditure relating to:
 > - **(E)** It's $13.90.
-
-[[Quesiti/src_archimede_2001_biennio#q06|src_archimede_2001_biennio__Q06]]
 
 
 
@@ -300,8 +288,6 @@ level: biennio
 > - **(D)**
 > - **(E)**
 
-[[Quesiti/src_archimede_2001_biennio#q07|src_archimede_2001_biennio__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
@@ -339,8 +325,6 @@ level: biennio
 > - **(C)** 424
 > - **(D)** 440
 > - **(E)** 500.
-
-[[Quesiti/src_archimede_2001_biennio#q08|src_archimede_2001_biennio__Q08]]
 
 
 
@@ -388,8 +372,6 @@ level: biennio
 > - **(D)** 1
 > - **(E)** None of the previous ones.
 
-[[Quesiti/src_archimede_2001_biennio#q09|src_archimede_2001_biennio__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_logica,method_casework,skill_casework_accurato"></span>
@@ -433,8 +415,6 @@ level: biennio
 > - **(C)** 2
 > - **(D)** 3
 > - **(E)** 4.
-
-[[Quesiti/src_archimede_2001_biennio#q10|src_archimede_2001_biennio__Q10]]
 
 
 
@@ -481,8 +461,6 @@ level: biennio
 > - **(D)** 24
 > - **(E)** 64. b A b B
 
-[[Quesiti/src_archimede_2001_biennio#q11|src_archimede_2001_biennio__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
@@ -520,8 +498,6 @@ level: biennio
 > - **(C)** 9
 > - **(D)** 11
 > - **(E)** 16.
-
-[[Quesiti/src_archimede_2001_biennio#q12|src_archimede_2001_biennio__Q12]]
 
 
 
@@ -564,8 +540,6 @@ level: biennio
 > - **(D)** 4
 > - **(E)** 5.
 
-[[Quesiti/src_archimede_2001_biennio#q13|src_archimede_2001_biennio__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
@@ -602,8 +576,6 @@ level: biennio
 > - **(C)** −1
 > - **(D)** 3
 > - **(E)** 7.
-
-[[Quesiti/src_archimede_2001_biennio#q14|src_archimede_2001_biennio__Q14]]
 
 
 
@@ -643,8 +615,6 @@ level: biennio
 > - **(D)** 1 6
 > - **(E)** 13 72.
 
-[[Quesiti/src_archimede_2001_biennio#q15|src_archimede_2001_biennio__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,skill_riconoscimento_pattern"></span>
@@ -680,8 +650,6 @@ level: biennio
 > - **(C)** 10
 > - **(D)** 11
 > - **(E)** 12.
-
-[[Quesiti/src_archimede_2001_biennio#q16|src_archimede_2001_biennio__Q16]]
 
 
 
@@ -720,8 +688,6 @@ level: biennio
 > - **(C)** 18
 > - **(D)** 24
 > - **(E)** 36.
-
-[[Quesiti/src_archimede_2001_biennio#q17|src_archimede_2001_biennio__Q17]]
 
 
 
@@ -765,8 +731,6 @@ level: biennio
 > - **(D)** 8
 > - **(E)** 9.
 
-[[Quesiti/src_archimede_2001_biennio#q18|src_archimede_2001_biennio__Q18]]
-
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -808,8 +772,6 @@ level: biennio
 > - **(D)** 952
 > - **(E)** 1428.
 
-[[Quesiti/src_archimede_2001_biennio#q19|src_archimede_2001_biennio__Q19]]
-
 
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_aritmetica,method_congruenze,skill_riconoscimento_pattern"></span>
@@ -849,5 +811,3 @@ level: biennio
 > - **(C)** 4
 > - **(D)** 6
 > - **(E)** 8.
-
-[[Quesiti/src_archimede_2001_biennio#q20|src_archimede_2001_biennio__Q20]]

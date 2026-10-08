@@ -42,7 +42,6 @@ level: kangourou
 > (Points 2) The vertices of a rectangle, named in a clockwise direction, are A, B, C, D. The AB side is 15 and the BC side is 20. The rectangle rotates, always clockwise and always 90 degrees, first around the C vertex, then around the D vertex (in the new position in which it came to be). What is the nearest integer to the length of the path traveled by vertex A in two rotations? A) 78 B) 79 C) 70 D) 71 E) A number different from the previous one
 
 **Answer:** D
-[[Quesiti/src_kangourou_2019_student_semifinale#q01|src_kangourou_2019_student_semifinale__Q01]]
 
 
 
@@ -76,7 +75,6 @@ The probability that a 4-digit palindrome is divisible by 7*
 > (Points 3) If you randomly pick a four-digit significant palindrome integer, what is the probability that it is divisible by 7? A) 1/9         	   B) 1/8 C) 1/7 D) 1/6 E) 1/5
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_student_semifinale#q02|src_kangourou_2019_student_semifinale__Q02]]
 
 
 
@@ -116,7 +114,6 @@ The probability that a 4-digit palindrome is divisible by 7*
 > E) None
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_student_semifinale#q03|src_kangourou_2019_student_semifinale__Q03]]
 
 
 
@@ -166,7 +163,6 @@ Where the ball hits the left edge of the grid 4x2019*
 > C) C D) D E) E
 
 **Answer:** C
-[[Quesiti/src_kangourou_2019_student_semifinale#q04|src_kangourou_2019_student_semifinale__Q04]]
 
 
 
@@ -208,7 +204,6 @@ Where the ball hits the left edge of the grid 4x2019*
 > C) 14 D) 13 E) 12
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_student_semifinale#q05|src_kangourou_2019_student_semifinale__Q05]]
 
 
 
@@ -256,7 +251,6 @@ Where the ball hits the left edge of the grid 4x2019*
 > E) It cannot be established
 
 **Answer:** A
-[[Quesiti/src_kangourou_2019_student_semifinale#q06|src_kangourou_2019_student_semifinale__Q06]]
 
 
 
@@ -299,7 +293,6 @@ Where the ball hits the left edge of the grid 4x2019*
 > E) 27
 
 **Answer:** A
-[[Quesiti/src_kangourou_2019_student_semifinale#q07|src_kangourou_2019_student_semifinale__Q07]]
 
 
 
@@ -339,7 +332,6 @@ Where the ball hits the left edge of the grid 4x2019*
 > (Points 5) For an integer that does not exceed 2019, what is the largest possible sum of digits if you write it in base six (i.e. using the digits from 0 to 5) and if that sum is also written in base six? A) 15 B) 20 C) 22 D) 24 E) 32 A B C D E
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_student_semifinale#q08|src_kangourou_2019_student_semifinale__Q08]]
 
 
 
@@ -376,7 +368,6 @@ Where the ball hits the left edge of the grid 4x2019*
 > (Points 6) How many different strings of length 16 of two letters are possible if each string is to begin and end with the same letter, if the initial letter does not appear twice in a row and the other does not appear three times in a row? A) 28 B) 42 C) 44 D) 46 E) 56
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_student_semifinale#q09|src_kangourou_2019_student_semifinale__Q09]]
 
 
 
@@ -407,7 +398,6 @@ Where the ball hits the left edge of the grid 4x2019*
 > (Points 4) To the (decimal) notation of a positive integer N I added a digit to the right: thus I obtained a number (with one more digit than N) which is k times N, with k an integer. What 's the maximum value of k ?
 
 **Answer:** 19
-[[Quesiti/src_kangourou_2019_student_semifinale#q10|src_kangourou_2019_student_semifinale__Q10]]
 
 
 
@@ -439,8 +429,6 @@ Where the ball hits the left edge of the grid 4x2019*
 > the measures of the edges of the parallelepiped are each expressed by an integer number of centimeters 
 > and the volume of the octahedron is 150 cm3, what can the sum of the measures of the 
 > edges of the parallelepiped be at most?
-
-[[Quesiti/src_kangourou_2019_student_semifinale#q11|src_kangourou_2019_student_semifinale__Q11]]
 
 
 
@@ -476,8 +464,6 @@ Where the ball hits the left edge of the grid 4x2019*
 > turned out that in A "YES" won with 70% of the votes while in B "NO" won also with 70% 
 > of the votes. If, consistently with the results obtained, in A the smallest possible number of 
 > voters lied and in B the largest, how many voters lied in total in the two towns?
-
-[[Quesiti/src_kangourou_2019_student_semifinale#q12|src_kangourou_2019_student_semifinale__Q12]]
 
 
 
@@ -528,8 +514,6 @@ Where the ball hits the left edge of the grid 4x2019*
 > 	
 > (except the last of the sequence) adjacent to the next one. What is the smallest number of cells that you can blacken to get the purpose?
 
-[[Quesiti/src_kangourou_2019_student_semifinale#q13|src_kangourou_2019_student_semifinale__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_algebra,method_estremalita,skill_casework_accurato"></span>
@@ -563,8 +547,6 @@ Where the ball hits the left edge of the grid 4x2019*
 > four quarters, are in geometric progression, while those of the Giraffes are in arithmetic progression.
 > What is the minimum possible value for the total score achieved at the end of the game by the Giraffes?
 
-[[Quesiti/src_kangourou_2019_student_semifinale#q14|src_kangourou_2019_student_semifinale__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -589,8 +571,6 @@ Where the ball hits the left edge of the grid 4x2019*
 *Sum of radii of circles inscribed in T, P, Q (right triangle)*
 
 > (Points 6) The legs of a right triangle T measure 30 and 40. The altitude relative to the hypotenuse divides T into two triangles P and Q. What is the sum of the radii of the circles inscribed in T, P and Q?
-
-[[Quesiti/src_kangourou_2019_student_semifinale#q15|src_kangourou_2019_student_semifinale__Q15]]
 
 
 
@@ -623,8 +603,6 @@ Where the ball hits the left edge of the grid 4x2019*
 > sum of the numbers present on the two parts is the same. What must be, at minimum, the sum of the
 > numbers that denote the two marks between which the ruler broke?
 
-[[Quesiti/src_kangourou_2019_student_semifinale#q16|src_kangourou_2019_student_semifinale__Q16]]
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
@@ -650,8 +628,6 @@ Where the ball hits the left edge of the grid 4x2019*
 *Minimum number of elements in a set for 2019 ways of choosing two disjoint subsets*
 
 > (7 points) What is the minimum number of elements that a set must have, so that there are at least 2019 different ways of choosing two non-empty disjoint subsets of it?
-
-[[Quesiti/src_kangourou_2019_student_semifinale#q17|src_kangourou_2019_student_semifinale__Q17]]
 
 
 
@@ -691,5 +667,3 @@ Where the ball hits the left edge of the grid 4x2019*
 > (8 points) In a shop there are three different types of items, and for each type, there are 20 pieces. A customer who wants to buy 30 of those pieces, regardless of the type, in how many different ways with respect to the types can he do it?
 > 
 > 0019 0902 7200 4040 0074 0024 0029 0008 0331
-
-[[Quesiti/src_kangourou_2019_student_semifinale#q18|src_kangourou_2019_student_semifinale__Q18]]

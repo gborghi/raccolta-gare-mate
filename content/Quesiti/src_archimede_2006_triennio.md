@@ -47,7 +47,6 @@ level: triennio
 > - **(E)** 9.
 
 **Answer:** A
-[[Quesiti/src_archimede_2006_triennio#q01|src_archimede_2006_triennio__Q01]]
 
 
 
@@ -89,7 +88,6 @@ level: triennio
 > - **(E)** Four of them.
 
 **Answer:** C
-[[Quesiti/src_archimede_2006_triennio#q03|src_archimede_2006_triennio__Q03]]
 
 
 
@@ -130,7 +128,6 @@ level: triennio
 > - **(E)** 90 m2.
 
 **Answer:** A
-[[Quesiti/src_archimede_2006_triennio#q05|src_archimede_2006_triennio__Q05]]
 
 
 
@@ -172,7 +169,6 @@ level: triennio
 > - **(E)** 790 Euros.
 
 **Answer:** B
-[[Quesiti/src_archimede_2006_triennio#q06|src_archimede_2006_triennio__Q06]]
 
 
 
@@ -213,7 +209,6 @@ level: triennio
 > - **(E)** 30.
 
 **Answer:** E
-[[Quesiti/src_archimede_2006_triennio#q08|src_archimede_2006_triennio__Q08]]
 
 
 
@@ -255,7 +250,6 @@ level: triennio
 > - **(E)** 108 m.
 
 **Answer:** B
-[[Quesiti/src_archimede_2006_triennio#q09|src_archimede_2006_triennio__Q09]]
 
 
 
@@ -288,7 +282,6 @@ level: triennio
 > Put the three numbers in increasing order 2 6√ 2, √ 5, 3√
 
 **Answer:** A
-[[Quesiti/src_archimede_2006_triennio#q10|src_archimede_2006_triennio__Q10]]
 
 
 
@@ -332,7 +325,6 @@ level: triennio
 > - **(E)** 20 cm.
 
 **Answer:** B
-[[Quesiti/src_archimede_2006_triennio#q14|src_archimede_2006_triennio__Q14]]
 
 
 
@@ -378,7 +370,6 @@ level: triennio
 > - **(E)** I got eight.
 
 **Answer:** B
-[[Quesiti/src_archimede_2006_triennio#q15|src_archimede_2006_triennio__Q15]]
 
 
 
@@ -421,7 +412,6 @@ level: triennio
 > - **(E)** 24.
 
 **Answer:** B
-[[Quesiti/src_archimede_2006_triennio#q16|src_archimede_2006_triennio__Q16]]
 
 
 
@@ -487,7 +477,6 @@ level: triennio
 > - **(E)** 4.
 
 **Answer:** C
-[[Quesiti/src_archimede_2006_triennio#q17|src_archimede_2006_triennio__Q17]]
 
 
 
@@ -528,7 +517,6 @@ level: triennio
 > - **(E)** 120.
 
 **Answer:** B
-[[Quesiti/src_archimede_2006_triennio#q18|src_archimede_2006_triennio__Q18]]
 
 
 
@@ -572,7 +560,6 @@ The truth and lies between Andrew, Barbara and Cyrus
 > - **(E)** Andrea is sincere and Cyrus and Barbara are liars.
 
 **Answer:** D
-[[Quesiti/src_archimede_2006_triennio#q19|src_archimede_2006_triennio__Q19]]
 
 
 
@@ -612,7 +599,6 @@ The truth and lies between Andrew, Barbara and Cyrus
 > - **(E)** 9.
 
 **Answer:** D
-[[Quesiti/src_archimede_2006_triennio#q21|src_archimede_2006_triennio__Q21]]
 
 
 
@@ -655,7 +641,6 @@ The truth and lies between Andrew, Barbara and Cyrus
 > - **(E)** more than 25.
 
 **Answer:** C
-[[Quesiti/src_archimede_2006_triennio#q22|src_archimede_2006_triennio__Q22]]
 
 
 
@@ -750,7 +735,6 @@ The truth and lies between Andrew, Barbara and Cyrus
 > - **(E)** 72 m2.
 
 **Answer:** C
-[[Quesiti/src_archimede_2006_triennio#q23|src_archimede_2006_triennio__Q23]]
 
 
 
@@ -790,4 +774,3 @@ The truth and lies between Andrew, Barbara and Cyrus
 > - **(E)** a multiple of 11.
 
 **Answer:** B
-[[Quesiti/src_archimede_2006_triennio#q24|src_archimede_2006_triennio__Q24]]

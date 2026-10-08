@@ -37,8 +37,6 @@ level: BMO Round 1
 
 ![[src_bmo_1973-74_round1__q01.png]]
 
-[[Quesiti/src_bmo_1973-74_round1#q01|src_bmo_1973-74_round1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -63,8 +61,6 @@ level: BMO Round 1
 *Sett di partizioni di 15 domino (integer 15) in tre catene chiuse di 5*
 
 > Un domino è una coppia di numeri interi non ordinati. L'insieme di tutti i 15 domino contenenti due enti da $1, 2, 3, 4, 5$ è diviso in tre sottinsiemi di cinque domino. I domino di ciascun sottoinsieme formano una catena chiusa, cioè $(a_1,b_1)(a_2,b_2)(a_3,b_3)(a_4,b_4)(a_5,b_5)$, dove $a_2 = b_1$, $a_3 = b_2$, $a_4 = b_3$, $a_5 = b_4$, $a_1 = b_5$ (e $a_i$, $b_i$ non devono essere tutti diversi). Quante partizioni di questo tipo ci sono? (L'ordine dei tre sottogruppi della partizione è irrilevante.)
-
-[[Quesiti/src_bmo_1973-74_round1#q02|src_bmo_1973-74_round1__Q02]]
 
 
 
@@ -91,8 +87,6 @@ level: BMO Round 1
 
 > Dimostra che è impossibile che tutti i volti di un poliedro converso siano esagoni.
 
-[[Quesiti/src_bmo_1973-74_round1#q03|src_bmo_1973-74_round1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -117,8 +111,6 @@ level: BMO Round 1
 *Ricerca l'inverso della matrice 16x16 con 1s sulla diagonale di punta e nella sesta riga*
 
 > $M$ è una matrice $16 \times 16$. Ogni elemento nella diagonale principale e ogni elemento nell'ultima riga (la sesta riga) è $1$. Ogni altro elemento della matrice è $0$. Trova l'inverso di $M$.
-
-[[Quesiti/src_bmo_1973-74_round1#q04|src_bmo_1973-74_round1__Q04]]
 
 
 
@@ -145,8 +137,6 @@ level: BMO Round 1
 
 > Un accordo di bridge è definito come la distribuzione di 52 carte di gioco ordinarie tra quattro giocatori in modo che ciascuno abbia 13 carte. In un accordo di bridge, qual è la probabilità che solo un giocatore abbia un completo? (Lascia la tua risposta nei fattoriali.)
 
-[[Quesiti/src_bmo_1973-74_round1#q05|src_bmo_1973-74_round1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -171,8 +161,6 @@ level: BMO Round 1
 *Piedi di perpendicolari da P ai lati del triangolo; linea attraverso P perpendicolare a AB incontra XY a Z, suddividendo AB*
 
 > $X$ e $Y$ sono i piedi delle perpendicolari da un punto $P$ a $CA$ e $CB$ rispettivamente, dove $P$ è un punto del triangolo $ABC$. La linea retta attraverso $P$, perpendicolare a $AB$, taglia $XY$ a $Z$. Provare che $CZ$ divide $AB$.
-
-[[Quesiti/src_bmo_1973-74_round1#q06|src_bmo_1973-74_round1__Q06]]
 
 
 
@@ -200,8 +188,6 @@ level: BMO Round 1
 *Rede di cubo espresse tra loro; trovare i coefficienti p, q, r e condizione di realtà*
 
 > Le radici dell'equazione $x^3 = bx + c$ ($bc \neq 0$, $b$ e $c$ reale) sono $\alpha$, $\beta$ e $\gamma$. Determinare $p$, $q$ e $r$ in termini di $b$ e $c$ in modo tale che $$\beta = p\alpha^2 + q\alpha + r, \quad \gamma = p\beta^2 + q\beta + r, \quad \alpha = p\gamma^2 + q\gamma + r$$ e indicare una condizione che garantisca che $p$, $q$ e $r$ siano reali.
-
-[[Quesiti/src_bmo_1973-74_round1#q07|src_bmo_1973-74_round1__Q07]]
 
 
 
@@ -247,8 +233,6 @@ level: BMO Round 1
 
 > $n$ sia un numero primo impar. È necessario scrivere il prodotto $$\prod_{i=1}^{n-1}(x+i)$$ come polinomio $$\sum_{j=0}^{n-1} a_j x^j.$$ Considerando il prodotto $\prod_{i=1}^{n}(x+i)$ in due modi, stabilire le relazioni $$a_{n-1} = 1,$$ $$a_{n-2} = n(n-1)/2!,$$ $$2a_{n-3} = n(n-1)(n-2)/3! + a_{n-2}(n-1)(n-2)/2!,$$ $$\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots$$ $$\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots$$ $$(n-2)a_1 = n + a_{n-2}(n-1) + a_{n-3}(n-2) + \cdots + 3a_2,$$ $$(n-1)a_0 = 1 + a_{n-2} + \cdots + a_1.$$ Prove $n \mid a_j$ ($j = 1, 2, \ldots, n-2$) e che $n \mid (a_0 + 1)$; e dimostrare anche che quando $x$ è un numero intero $$n \mid (x+1)(x+2)\cdots(x+n-1) - x^{n-1} + 1.$$ Da qui dedurre il teorema di Wilson e il teorema di Fermat, vale a dire che quando $n$ è primo e $x$ non è un multiple di $n$: \MSK{itemize} \itemii[((((((((( \end{itemize} ($p \mid q$ significa $p$ divide $q$ senza lasciare alcun rimanente.)
 
-[[Quesiti/src_bmo_1973-74_round1#q08|src_bmo_1973-74_round1__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,topic_funzionali,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -276,8 +260,6 @@ level: BMO Round 1
 > Una barra verticale uniforme di lunghezza $2a$ è inclinata alla sua estremità inferiore ad una giunta senza attrito fissata ad una tavola orizzontale. Cade dal riposo in questa posizione instabile sul tavolo. Trova il tempo impiegato per cadere. Commenta la tua risposta.
 > 
 > [Puoi citare il risultato $\displaystyle\int (\operatorname{cosec} x)\,dx = \log|\tan \tfrac{1}{2}x|$ se lo desideri.]
-
-[[Quesiti/src_bmo_1973-74_round1#q09|src_bmo_1973-74_round1__Q09]]
 
 
 
@@ -308,5 +290,3 @@ Attrazione gravitazionale di un cono troncato su una massa unitaria al vertice V
 > Un cono circolare dritto la cui vertica è $V$ e il cui angolo semivertico è $\alpha$ ha altezza $h$ e densità uniforme. Tutti i punti del cono le cui distanze da $V$ sono inferiori a $a$ o superiori a $b$, dove $0 < a < b < h$, sono rimossi. Un solido di massa $M$ resta.
 > 
 > Poiché l'attrazione gravitazionale che un punto di massa $m$ a $P$ esercita su massa unità a $O$ è $(Gm/OP^3)\overrightarrow{OP}$, dimostrare che la magnitudine dell'attrazione gravitazionale di questo solido su massa unità a $V$ è $$\tfrac{3}{2}GM(1+\cos\alpha)\,/\,(a^2 + ab + b^2).$$
-
-[[Quesiti/src_bmo_1973-74_round1#q10|src_bmo_1973-74_round1__Q10]]

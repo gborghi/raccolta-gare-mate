@@ -41,7 +41,6 @@ level: kangourou
 > What is the smallest number of consecutive integers whose sum is 201120112011? A) 2 B) 3 C) 4 D) 6 E) It is impossible to obtain that number by adding consecutive integers
 
 **Answer:** A
-[[Quesiti/src_kangourou_2011_junior#q01|src_kangourou_2011_junior__Q01]]
 
 
 
@@ -119,7 +118,6 @@ level: kangourou
 > You see a trapezoid in the figure. A and B are the midpoints of the legs and the area of the shaded rectangle is 13 cm2. How many square centimetres is the area of the trapezoid? A) 24 B) 25 C) 26 D) 27 E) 28
 
 **Answer:** C
-[[Quesiti/src_kangourou_2011_junior#q02|src_kangourou_2011_junior__Q02]]
 
 
 
@@ -153,7 +151,6 @@ level: kangourou
 > If we add up the lengths of three sides of an assigned rectangle, I can get 20 or 22. How much is the perimeter of the rectangle? A) 38 B) 28 C) 30 D) 48 E) 56
 
 **Answer:** B
-[[Quesiti/src_kangourou_2011_junior#q03|src_kangourou_2011_junior__Q03]]
 
 
 
@@ -187,7 +184,6 @@ level: kangourou
 > Let's put X is 122 x 123 + 123 x 124 + 124 x 125, Y is 1222 + 1232 + 1242, Z is 121 x 122 + 122 x 123 + 123 x 124. Which of the following reports is true? A) Y < X < Z B) X < Y = Z C) X < Y < Z D) Z < Y < X E) X = Y < Z
 
 **Answer:** D
-[[Quesiti/src_kangourou_2011_junior#q04|src_kangourou_2011_junior__Q04]]
 
 
 
@@ -222,7 +218,6 @@ level: kangourou
 > In a theater there are 100 spectators: 50 of them are Italians, 60 are men, 90 are vegetarians. How many spectators in that theater can you be sure of being Italian, male and vegetarian at the same time? A) 0 B) 1 C) 10 D) 40 E) 50
 
 **Answer:** A
-[[Quesiti/src_kangourou_2011_junior#q05|src_kangourou_2011_junior__Q05]]
 
 
 
@@ -256,7 +251,6 @@ level: kangourou
 > A rectangular mosaic of 360 cm2 area is obtained by attaching square tiles, all of the same size. One side of the mosaic measures 24 cm, the other 5 times the side of the tiles. How much is the area of each tile in square centimetres? A) 1 B) 4 C) 9 D) 16 E) 25
 
 **Answer:** C
-[[Quesiti/src_kangourou_2011_junior#q06|src_kangourou_2011_junior__Q06]]
 
 
 
@@ -313,7 +307,6 @@ level: kangourou
 > Kang 2011
 
 **Answer:** D
-[[Quesiti/src_kangourou_2011_junior#q07|src_kangourou_2011_junior__Q07]]
 
 
 
@@ -351,7 +344,6 @@ level: kangourou
 > Observe the figure: each of the two highlighted segments is obtained from the other by rotation. Which of the highlighted points are centers of these rotations? A) Only A B) A and C C) A and D D) Only D E) A, B, C and D
 
 **Answer:** C
-[[Quesiti/src_kangourou_2011_junior#q08|src_kangourou_2011_junior__Q08]]
 
 
 
@@ -391,7 +383,6 @@ level: kangourou
 > The region in the figure can be broken down, as indicated, into a regular hexagon of side 1, six triangles and six squares. What's its perimeter? A) 6(1 + ) B) 6(1 + /2) C) 6 + 3 D) 9 E) 12
 
 **Answer:** E
-[[Quesiti/src_kangourou_2011_junior#q09|src_kangourou_2011_junior__Q09]]
 
 
 
@@ -435,7 +426,6 @@ level: kangourou
 > Three regular dice (i.e. such that the sum of points on opposite faces is always 7) are stacked as shown in the figure. On the lowest die, the face with 1 point is indicated. You also know that every time two different dice faces match, the sum of the points on both faces is 5. How many dots are there on the face marked with X? A) 2 B) 3 C) 4 D) 5 E) 6 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2011_junior#q10|src_kangourou_2011_junior__Q10]]
 
 
 
@@ -469,7 +459,6 @@ level: kangourou
 > In a certain month of a certain year there are five Mondays, five Tuesdays and five Wednesdays. Last month, there were only four Sundays. So A) next month there are exactly four Fridays. B) There are exactly four Saturdays in the following month. C) There are 5 Sundays in the following month. D) There are 5 Saturdays in the following month. (e) the situation described cannot occur.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2011_junior#q11|src_kangourou_2011_junior__Q11]]
 
 
 
@@ -507,7 +496,6 @@ level: kangourou
 > Three drivers, Michael, Fernando and Sebastian, are taking part in a Formula One race. At the start, Michael leads, Fernando is second and Sebastian is third. During the race, Michael and Fernando swap positions 9 times, Fernando and Sebastian 10 times and Michael and Sebastian 11 times. In what order do they finish the race? A) Michael, Fernando, Sebastian B) Fernando, Sebastian, Michael C) Sebastian, Michael, Fernando D) Sebastian, Fernando, Michael E) Fernando, Michael, Sebastian
 
 **Answer:** B
-[[Quesiti/src_kangourou_2011_junior#q12|src_kangourou_2011_junior__Q12]]
 
 
 
@@ -575,7 +563,6 @@ level: kangourou
 > Kang 2011
 
 **Answer:** A
-[[Quesiti/src_kangourou_2011_junior#q13|src_kangourou_2011_junior__Q13]]
 
 
 
@@ -615,7 +602,6 @@ level: kangourou
 > In the 3x3 grid in the figure, 5 numbers are visible. Nicola inserted one in each cell that appears free so that the sum of the numbers in each 2x2 subgrid is 10 (subgrids can only be made by cutting out consecutive rows and columns). How much is the sum of the numbers Nicola entered? A) 9 B) 10 C) 11 D) 12 E) 13
 
 **Answer:** D
-[[Quesiti/src_kangourou_2011_junior#q14|src_kangourou_2011_junior__Q14]]
 
 
 
@@ -649,7 +635,6 @@ How many of the four girls lie?
 > Ada says Bice is lying. Bice says Carla is lying. Carla says Bice is lying. Daniela says Ada is lying. How many of these four girls are lying? A) 0 B) 1 C) 2 D) 3 E) 4
 
 **Answer:** C
-[[Quesiti/src_kangourou_2011_junior#q15|src_kangourou_2011_junior__Q15]]
 
 
 
@@ -688,7 +673,6 @@ How many of the four girls lie?
 > In the figure you see a 4x4 grid. You have to blacken some of the grid cells so that for each row, the number of blackened cells in the row coincides with the number shown to the right of the row itself and for each column, the number of blackened cells in the column coincides with the number shown to the bottom of the column itself. How many different ways can you do that? A) 0 (impossible) B) 1 C) 3 D) 5 E) 9
 
 **Answer:** D
-[[Quesiti/src_kangourou_2011_junior#q16|src_kangourou_2011_junior__Q16]]
 
 
 
@@ -723,7 +707,6 @@ How many of the four girls lie?
 > What is the greatest number of consecutive three-digit integers that have at least one odd digit? A) 121 B) 111 C) 110 D) 100 E) 99
 
 **Answer:** B
-[[Quesiti/src_kangourou_2011_junior#q17|src_kangourou_2011_junior__Q17]]
 
 
 
@@ -758,7 +741,6 @@ How many of the four girls lie?
 > I have two cube-shaped containers; the side of the larger cube is a tenth of a meter longer than the side of the other. The big one is full of water, the other one is empty. If I turn the water from the big container to the small one until it's filled, the big container has 217 liters of water left. What is the capacity of the small container in litres? A) 343 B) 125 C) 1331 D) 729 E) A value different from the previous ones
 
 **Answer:** E
-[[Quesiti/src_kangourou_2011_junior#q18|src_kangourou_2011_junior__Q18]]
 
 
 
@@ -858,7 +840,6 @@ How many of the four girls lie?
 > Kang 2011
 
 **Answer:** C
-[[Quesiti/src_kangourou_2011_junior#q19|src_kangourou_2011_junior__Q19]]
 
 
 
@@ -894,7 +875,6 @@ How many of the four girls lie?
 > The numbers x and y are both greater than 1. Which of the following fractions has the highest value? A) B) C) D) E) Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2011_junior#q20|src_kangourou_2011_junior__Q20]]
 
 
 
@@ -935,7 +915,6 @@ How many of the four girls lie?
 > Simone has a glass cube one decimetre on the side. Using gold, square-shaped adhesives, all of which are equal, he decorated the surface of the cube as shown in the figure, so that the faces of the cube all have the same decoration. What is the area in square centimetres of the portion of the surface of the cube that appears golden? A) 37,5 B) 150 C) 375 D) 300 E) 225
 
 **Answer:** E
-[[Quesiti/src_kangourou_2011_junior#q21|src_kangourou_2011_junior__Q21]]
 
 
 
@@ -970,7 +949,6 @@ How many of the four girls lie?
 > Let's say that a positive integer of five significant digits all different from each other is interesting if its first digit is the sum of the remaining four. How many interesting numbers are there? A) 72 B) 144 C) 168 D) 216 E) 288
 
 **Answer:** C
-[[Quesiti/src_kangourou_2011_junior#q22|src_kangourou_2011_junior__Q22]]
 
 
 
@@ -1012,7 +990,6 @@ How many of the four girls lie?
 > In an ABC triangle, on the side BC a point D is chosen and on the segment AD a point E is chosen. So we're going to get 9 angles marked with the numbers 1 through 9, as shown in the figure. Whatever the ABC triangle is, some of these angles are necessarily pairwise different from each other. In configurations where there are the fewest possible, how many are there? A) 2 B) 3 C) 4 D) 5 E) 6
 
 **Answer:** B
-[[Quesiti/src_kangourou_2011_junior#q23|src_kangourou_2011_junior__Q23]]
 
 
 
@@ -1048,7 +1025,6 @@ How many of the four girls lie?
 > Mark writes the integers from 1 to 9 in a random order. For each pair of integers that, in that order, are adjacent, Mark then calculates the arithmetic mean of the two integers. Finally, add up all the arithmetic averages calculated. What's the greatest value you can get? A) 40 B) 43 C) 42,5 D) 43,5 E) 44
 
 **Answer:** D
-[[Quesiti/src_kangourou_2011_junior#q24|src_kangourou_2011_junior__Q24]]
 
 
 
@@ -1198,7 +1174,6 @@ How many of the four girls lie?
 > Kang 2011
 
 **Answer:** C
-[[Quesiti/src_kangourou_2011_junior#q25|src_kangourou_2011_junior__Q25]]
 
 
 
@@ -1241,7 +1216,6 @@ How many of the four girls lie?
 > E) 8
 
 **Answer:** A
-[[Quesiti/src_kangourou_2011_junior#q26|src_kangourou_2011_junior__Q26]]
 
 
 
@@ -1284,7 +1258,6 @@ How many of the four girls lie?
 > E) More than 3.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2011_junior#q27|src_kangourou_2011_junior__Q27]]
 
 
 
@@ -1320,7 +1293,6 @@ How many of the four girls lie?
 > You have a 5x5 grid and you want to blacken some of the cells in it so that in every 3x3 subgrid there are exactly n blackened cells. For which integers, from 1 to 8 inclusive, can you achieve the goal? (Sub-grids can be made by cutting only consecutive rows and columns.) A) Only 1 B) Only 1 and 2 C) Only 1, 2 and 3 D) Only 1, 2, 7 and 8 E) For every value of n (between 1 and 8 inclusive)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2011_junior#q28|src_kangourou_2011_junior__Q28]]
 
 
 
@@ -1354,7 +1326,6 @@ How many of the four girls lie?
 > Assigned a regular tetrahedron ABCD, both Σ the plane containing the face ABC and s the straight line in Σ containing the edge BC. Therefore, let BCDE be the regular tetrahedron that has in common with ABCD only the face BCD. Where does the straight line passing through D and E intersect plane Σ ? A) At a point in the triangle ABC B) In the semiplane of Σ determined by s containing A, but outside the triangle ABC C) In the semiplane of Σ determined by s not containing A D) At no point: the straight line is parallel to the plane Σ E) The answer depends on the length of the edge of the tetrahedron
 
 **Answer:** C
-[[Quesiti/src_kangourou_2011_junior#q29|src_kangourou_2011_junior__Q29]]
 
 
 
@@ -1422,4 +1393,3 @@ How many of the four girls lie?
 > 2011 Junior category
 
 **Answer:** E
-[[Quesiti/src_kangourou_2011_junior#q30|src_kangourou_2011_junior__Q30]]

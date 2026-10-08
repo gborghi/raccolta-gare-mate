@@ -33,8 +33,6 @@ level: RMO
 
 > Due scatole contengono tra di loro 65 palle di diverse dimensioni. Ogni palla è bianca, nera, rossa o gialla. Se si prendono 5 palle dello stesso colore, almeno 2 di esse saranno sempre della stessa dimensione (radio). Prova che ci sono almeno 3 palle nella stessa scatola, dello stesso colore e della stessa dimensione (radio).
 
-[[Quesiti/src_rmo_1990#q01|src_rmo_1990__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -61,8 +59,6 @@ level: RMO
 
 > Per tutti i numeri reali positivi $a, b, c$ provare che $$\frac{a}{b+c} + \frac{b}{c+a} + \frac{c}{a+b} \ge \frac{3}{2}.$$
 
-[[Quesiti/src_rmo_1990#q02|src_rmo_1990__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -88,8 +84,6 @@ level: RMO
 
 > Un foglio quadrato di carta $ABCD$ è piegato in modo tale che $B$ ricade sul punto medio $M$ di $CD$. Prove che la piega dividerà $BC$ nel rapporto $5:3$.
 
-[[Quesiti/src_rmo_1990#q03|src_rmo_1990__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -114,8 +108,6 @@ level: RMO
 *Ricerca il rimanente quando 2^1990 è diviso per 1990*
 
 > Trova il rimanente quando $2^{1990}$ è diviso da $1990$.
-
-[[Quesiti/src_rmo_1990#q04|src_rmo_1990__Q04]]
 
 
 
@@ -143,8 +135,6 @@ level: RMO
 
 > $P$ è qualsiasi punto all'interno di un triangolo $ABC$. Il perimetro del triangolo $AB + BC + CA = 2s$. Provare che $$s < AP + BP + CP < 2s.$$
 
-[[Quesiti/src_rmo_1990#q05|src_rmo_1990__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -169,8 +159,6 @@ level: RMO
 *numero a 50 cifre divisibile per 13; trovare la 26a cifra dato che tutti gli altri sono 1*
 
 > $N$ è un numero di 50 cifre (scala decimale). Tutte le cifre tranne la 26a cifre (da sinistra) sono 1. Se $N$ è divisibile per 13, trova la 26a cifra.
-
-[[Quesiti/src_rmo_1990#q06|src_rmo_1990__Q06]]
 
 
 
@@ -197,8 +185,6 @@ level: RMO
 
 > Una censista in servizio ha visitato una casa che le donne detenute ha rifiutato di rivelare le loro singole età, ma ha detto  "non ci dispiace darvi la somma delle età di due donne che potete scegliere". La donna del censimento disse: "In tal caso, per favore, dammi la somma delle età di ogni possibile coppia". Ha dato le somme come segue: 30, 33, 41, 58, 66, 69. La donna censista prese queste cifre e se ne andò felice. Come ha calcolato le singole età delle donne a partire da queste cifre?
 
-[[Quesiti/src_rmo_1990#q07|src_rmo_1990__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -223,5 +209,3 @@ level: RMO
 *Circumcenter = centroid implica triangolo equilaterale*
 
 > Se il centro circostante e il centroide di un triangolo coincidono, dimostrare che il triangolo deve essere equilaterale.
-
-[[Quesiti/src_rmo_1990#q08|src_rmo_1990__Q08]]

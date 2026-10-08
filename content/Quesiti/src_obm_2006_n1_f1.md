@@ -47,7 +47,6 @@ level: OBM Nível 1
 > - **(E)** alle nove del giorno successivo
 
 **Risposta:** A
-[[Quesiti/src_obm_2006_n1_f1#q01|src_obm_2006_n1_f1__Q01]]
 
 
 
@@ -92,7 +91,6 @@ level: OBM Nível 1
 ![[src_obm_2006_n1_f1__q02.png]]
 
 **Risposta:** E
-[[Quesiti/src_obm_2006_n1_f1#q02|src_obm_2006_n1_f1__Q02]]
 
 
 
@@ -132,7 +130,6 @@ level: OBM Nível 1
 > - **(E)** 23
 
 **Risposta:** B
-[[Quesiti/src_obm_2006_n1_f1#q03|src_obm_2006_n1_f1__Q03]]
 
 
 
@@ -175,7 +172,6 @@ level: OBM Nível 1
 > - **(E)** 8
 
 **Risposta:** B
-[[Quesiti/src_obm_2006_n1_f1#q04|src_obm_2006_n1_f1__Q04]]
 
 
 
@@ -216,7 +212,6 @@ level: OBM Nível 1
 > - **(E)** 48
 
 **Risposta:** B
-[[Quesiti/src_obm_2006_n1_f1#q05|src_obm_2006_n1_f1__Q05]]
 
 
 
@@ -257,7 +252,6 @@ Piano di cellulare: minuti necessari per risparmiare denaro
 > - **(E)** 14
 
 **Risposta:** D
-[[Quesiti/src_obm_2006_n1_f1#q06|src_obm_2006_n1_f1__Q06]]
 
 
 
@@ -302,7 +296,6 @@ Piano di cellulare: minuti necessari per risparmiare denaro
 ![[src_obm_2006_n1_f1__q07.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2006_n1_f1#q07|src_obm_2006_n1_f1__Q07]]
 
 
 
@@ -343,7 +336,6 @@ Piano di cellulare: minuti necessari per risparmiare denaro
 > - **(E)** 1680
 
 **Risposta:** E
-[[Quesiti/src_obm_2006_n1_f1#q08|src_obm_2006_n1_f1__Q08]]
 
 
 
@@ -384,7 +376,6 @@ Piano di cellulare: minuti necessari per risparmiare denaro
 > - **(E)** 18 minuti
 
 **Risposta:** C
-[[Quesiti/src_obm_2006_n1_f1#q09|src_obm_2006_n1_f1__Q09]]
 
 
 
@@ -425,7 +416,6 @@ Piano di cellulare: minuti necessari per risparmiare denaro
 > - **(E)** 240
 
 **Risposta:** D
-[[Quesiti/src_obm_2006_n1_f1#q10|src_obm_2006_n1_f1__Q10]]
 
 
 
@@ -469,7 +459,6 @@ Piano di cellulare: minuti necessari per risparmiare denaro
 ![[src_obm_2006_n1_f1__q11.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2006_n1_f1#q11|src_obm_2006_n1_f1__Q11]]
 
 
 
@@ -510,7 +499,6 @@ Il puzzle logico: sei amici che viaggiano in coppia in diversi mezzi *
 > - **(E)** André va in treno e Alexandre in macchina.
 
 **Risposta:** D
-[[Quesiti/src_obm_2006_n1_f1#q12|src_obm_2006_n1_f1__Q12]]
 
 
 
@@ -555,7 +543,6 @@ Il puzzle logico: sei amici che viaggiano in coppia in diversi mezzi *
 ![[src_obm_2006_n1_f1__q13.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2006_n1_f1#q13|src_obm_2006_n1_f1__Q13]]
 
 
 
@@ -602,7 +589,6 @@ Il puzzle logico: sei amici che viaggiano in coppia in diversi mezzi *
 ![[src_obm_2006_n1_f1__q14.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2006_n1_f1#q14|src_obm_2006_n1_f1__Q14]]
 
 
 
@@ -646,7 +632,6 @@ Il puzzle logico: sei amici che viaggiano in coppia in diversi mezzi *
 ![[src_obm_2006_n1_f1__q15.png]]
 
 **Risposta:** E
-[[Quesiti/src_obm_2006_n1_f1#q15|src_obm_2006_n1_f1__Q15]]
 
 
 
@@ -687,7 +672,6 @@ Numero intero positivo: somma delle cifre dei divisori restante-3 e restante-5
 > - **(E)** 6
 
 **Risposta:** E
-[[Quesiti/src_obm_2006_n1_f1#q16|src_obm_2006_n1_f1__Q16]]
 
 
 
@@ -727,7 +711,6 @@ Numero intero positivo: somma delle cifre dei divisori restante-3 e restante-5
 > - **(E)** 108
 
 **Risposta:** C
-[[Quesiti/src_obm_2006_n1_f1#q17|src_obm_2006_n1_f1__Q17]]
 
 
 
@@ -771,7 +754,6 @@ Numero intero positivo: somma delle cifre dei divisori restante-3 e restante-5
 ![[src_obm_2006_n1_f1__q18.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2006_n1_f1#q18|src_obm_2006_n1_f1__Q18]]
 
 
 
@@ -812,7 +794,6 @@ Numero intero positivo: somma delle cifre dei divisori restante-3 e restante-5
 > - **(E)** LABIRS
 
 **Risposta:** D
-[[Quesiti/src_obm_2006_n1_f1#q19|src_obm_2006_n1_f1__Q19]]
 
 
 
@@ -853,4 +834,3 @@ Numero intero positivo: somma delle cifre dei divisori restante-3 e restante-5
 > - **(E)** 256
 
 **Risposta:** A
-[[Quesiti/src_obm_2006_n1_f1#q20|src_obm_2006_n1_f1__Q20]]

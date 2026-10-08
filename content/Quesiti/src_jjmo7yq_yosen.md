@@ -39,7 +39,6 @@ level: JJMO Yosen
 ![[src_jjmo7yq_yosen__q01.png]]
 
 **Risposta:** 3
-[[Quesiti/src_jjmo7yq_yosen#q01|src_jjmo7yq_yosen__Q01]]
 
 
 
@@ -70,8 +69,6 @@ level: JJMO Yosen
 
 ![[src_jjmo7yq_yosen__q02.png]]
 
-[[Quesiti/src_jjmo7yq_yosen#q02|src_jjmo7yq_yosen__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_telescoping,skill_manipolazione_algebrica,skill_lettura_attenta,skill_stima"></span>
@@ -100,7 +97,6 @@ level: JJMO Yosen
 > Trovare la parte integrale (cioè arrotondata verso il basso al numero intero più vicino) della seguente espressione: $$\frac{9 + 98 + 987 + 9876 + 98765 + 987654 + 9876543 + 98765432}{12345678 + 1234567 + 123456 + 12345 + 1234 + 123 + 12 + 1}.$$
 
 **Risposta:** 8
-[[Quesiti/src_jjmo7yq_yosen#q03|src_jjmo7yq_yosen__Q03]]
 
 
 
@@ -129,7 +125,6 @@ level: JJMO Yosen
 > Ci sono due integri positivi $3$-cifre, entrambi finiti nella cifra $9$. Trova tutti i valori possibili della cifra unità del prodotto di questi due numeri.
 
 **Risposta:** 1
-[[Quesiti/src_jjmo7yq_yosen#q04|src_jjmo7yq_yosen__Q04]]
 
 
 
@@ -156,8 +151,6 @@ level: JJMO Yosen
 
 > Un pentagono converso ha tutti i lati di lunghezza $1$, e esistono due diagonali del pentagono che sono perpendicolari l'uno all'altro (formando un angolo $90^\circ$). Trova la superficie massima possibile di un tale pentagono. (Un pentagono converso è quello in cui tutti gli angoli interni sono inferiori a $180^\circ$.)
 
-[[Quesiti/src_jjmo7yq_yosen#q05|src_jjmo7yq_yosen__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -182,8 +175,6 @@ level: JJMO Yosen
 *N più piccolo in modo che 14n, 16n, 18n, 20n abbiano tutti uguali numeri di divisori positivi*
 
 > Trova il più piccolo intero positivo $n$ in modo che $14n$, $16n$, $18n$ e $20n$ abbiano tutti lo stesso numero di divisori positivi.
-
-[[Quesiti/src_jjmo7yq_yosen#q06|src_jjmo7yq_yosen__Q06]]
 
 
 
@@ -214,8 +205,6 @@ level: JJMO Yosen
 
 ![[src_jjmo7yq_yosen__q07.png]]
 
-[[Quesiti/src_jjmo7yq_yosen#q07|src_jjmo7yq_yosen__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -241,8 +230,6 @@ level: JJMO Yosen
 
 > Trova le ultime cifre $3$ del prodotto di tutti i numeri dispari da $1$ a $100$ (inclusi), vale a dire trova $1 \times 3 \times 5 \times \cdots \times 99 \pmod{1000}$.
 
-[[Quesiti/src_jjmo7yq_yosen#q08|src_jjmo7yq_yosen__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_solida,topic_trigonometria,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -267,8 +254,6 @@ level: JJMO Yosen
 *Volume di tetraedro O-ABC con determinate distanze e angoli uguali dal punto interno X*
 
 > Nel tetraedro $O$-$ABC$, $X$ deve essere un punto nella faccia di base $ABC$ tale che $OA = 2$, $OB = 3$, $OC = 4$, $\angle AOB = \angle BOC = \angle COA$ e $\angle AOX = \angle BOX = \angle COX = 30^\circ$. Trova il volume del tetraedro $O$- $ABC$. (Qui $PQ$ indica la lunghezza del segmento $PQ$.)
-
-[[Quesiti/src_jjmo7yq_yosen#q09|src_jjmo7yq_yosen__Q09]]
 
 
 
@@ -297,8 +282,6 @@ level: JJMO Yosen
 
 > Numeri reali $a, b, c, d, e, f$ soddisfano: $$\begin{cases}(a+1999)(b-1999)(c+1999)(d-1999)(e+1999)(f-1999) = 1,\\ (a+2000)(b-2000)(c+2000)(d-2000)(e+2000)(f-2000) = 10,\\ (a+2001)(b-2001)(c+2001)(d-2001)(e+2001)(f-2001) = 100.\end{cases}$$ Trova il valore di $(a+2009)(b-2009)(c+2009)(d-2009)(e+2009)(f-2009)$.
 
-[[Quesiti/src_jjmo7yq_yosen#q10|src_jjmo7yq_yosen__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -324,8 +307,6 @@ level: JJMO Yosen
 
 > Ci sono sfere $9$, etichettate con i numeri interi $1$ fino a $9$ (un intero per sfera). Scegli un po' di queste palle. La regola è: inserire le palle scelte in una scatola rossa e le palle rimanenti in una scatola blu, in modo che per due palle nella stessa scatola la differenza assoluta delle etichette sia almeno $3$. Trova il numero di modi per scegliere le palle che soddisfano questa condizione. (La scelta di nessuna palla conta come modo $1$.)
 
-[[Quesiti/src_jjmo7yq_yosen#q11|src_jjmo7yq_yosen__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -350,5 +331,3 @@ level: JJMO Yosen
 *Contare gli integri positivi ≤2009 espressi come a^2009 + b^2009 per gli integri a, b*
 
 > Utilizzando gli integri $a$ e $b$, considera tutti gli integri positivi che possono essere espressi nella forma $a^{2009} + b^{2009}$. Tra questi, trovare il numero di tali integri positivi che sono al massimo $2009$.
-
-[[Quesiti/src_jjmo7yq_yosen#q12|src_jjmo7yq_yosen__Q12]]

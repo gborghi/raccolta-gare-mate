@@ -37,8 +37,6 @@ level: RMO
 
 ![[src_rmo_2000__q01.png]]
 
-[[Quesiti/src_rmo_2000#q01|src_rmo_2000__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -63,8 +61,6 @@ level: RMO
 *Risolvi y^3 = x^3 + 8x^2 - 6x + 8 in numeri interi positivi*
 
 > Risolvere l'equazione $y^3 = x^3 + 8x^2 - 6x + 8$, per gli integri positivi $x$ e $y$.
-
-[[Quesiti/src_rmo_2000#q02|src_rmo_2000__Q02]]
 
 
 
@@ -94,8 +90,6 @@ level: RMO
 
 > Supponiamo che $(x_1, x_2, \ldots, x_n, \ldots)$ sia una sequenza di numeri reali positivi come $x_1 \ge x_2 \ge x_3 \ge \cdots \ge x_n \cdots$, e per tutti $n$ $$\frac{x_1}{1} + \frac{x_4}{2} + \frac{x_9}{3} + \cdots + \frac{x_{n^2}}{n} < 1.$$ Mostri che per tutti $k$ è soddisfatta la seguente disuguaglianza: $$\frac{x_1}{1} + \frac{x_2}{2} + \frac{x_3}{3} + \cdots + \frac{x_k}{k} < 3.$$
 
-[[Quesiti/src_rmo_2000#q03|src_rmo_2000__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -120,8 +114,6 @@ level: RMO
 *numeri a 7 cifre con cifre da 1-7 ogni volta, non divisibili per 5, trovare 2000° nell'ordine*
 
 > Tutti i numeri a 7 cifre contenenti ciascuna delle cifre $1, 2, 3, 4, 5, 6, 7$ esattamente una volta, e non divisibili da $5$, sono disposti nell'ordine crescente. Trova il numero 2000 in questa lista.
-
-[[Quesiti/src_rmo_2000#q04|src_rmo_2000__Q04]]
 
 
 
@@ -152,8 +144,6 @@ level: RMO
 
 ![[src_rmo_2000__q05.png]]
 
-[[Quesiti/src_rmo_2000#q05|src_rmo_2000__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
@@ -183,8 +173,6 @@ level: RMO
 > 
 > (ii) Considerare due integri positivi $a$ e $b$ che sono tali che $a^n b^{n+1}$ sia divisibile da $2000$ per qualche integro positivo $n$. Qual è il valore minimo possibile del prodotto $ab$?
 
-[[Quesiti/src_rmo_2000#q06|src_rmo_2000__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,method_fattorizzazione,method_disuguaglianze,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -209,5 +197,3 @@ level: RMO
 *Trova tutte le a reali per le quali x^4 - 2ax^2 + x + a^2 - a = 0 ha tutte le radici reali*
 
 > Trova tutti i valori reali di $a$ per i quali l'equazione $x^4 - 2ax^2 + x + a^2 - a = 0$ ha tutte le sue radici reali.
-
-[[Quesiti/src_rmo_2000#q07|src_rmo_2000__Q07]]

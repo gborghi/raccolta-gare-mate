@@ -33,8 +33,6 @@ level: Olimpiade Polacca Round 1
 
 > Prova che non esistono numeri interi $a, b, c, d$, non tutti uguali a 0, come $a^2 - b = c^2$ e $b^2 - a = d^2$.
 
-[[Quesiti/src_pol_1994_r1#q01|src_pol_1994_r1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_insiemi_funzioni,method_ricorsione,method_induzione,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_casework_accurato"></span>
@@ -62,8 +60,6 @@ Le funzioni di valore assoluto <iterate f_{n+1}=li_f_n-2 khi, f_0=li_x khi; riso
 
 > La sequenza delle funzioni $f_n : \mathbb{R} \to \mathbb{R}$ è data da $f_0(x) = |x|$ e, per ogni $n$, $$f_{n+1}(x) = |f_n(x) - 2| \quad \text{for all } x.$$ Risolvi l'equazione $f_n(x) = 1$, dove $n$ è un dato intero positivo.
 
-[[Quesiti/src_pol_1994_r1#q02|src_pol_1994_r1__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -90,8 +86,6 @@ Le funzioni di valore assoluto <iterate f_{n+1}=li_f_n-2 khi, f_0=li_x khi; riso
 
 > Prova che se $a, b, c$ sono lati di un triangolo, allora $$\frac{1}{a} + \frac{1}{b} + \frac{1}{c} \le \frac{1}{a+b-c} + \frac{1}{b+c-a} + \frac{1}{c+a-b}.$$
 
-[[Quesiti/src_pol_1994_r1#q03|src_pol_1994_r1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -116,8 +110,6 @@ Le funzioni di valore assoluto <iterate f_{n+1}=li_f_n-2 khi, f_0=li_x khi; riso
 *Punto A all'interno del cerchio, accordo PQ attraverso A, tangenti e linea perpendicolare; dimostrare AK=AL*
 
 > Si deve dare un punto $A$ all'interno di un cerchio con il centro $O$ e un accordo $PQ$ attraverso $A$ che non è diametro. $p, q$ siano rispettivamente le tangenti del cerchio a $P, Q$. La linea $l$ attraverso $A$ perpendicolare a $OA$ si interseca rispettivamente a $p$ e $q$ a $K$ e $L$. Prove che $AK = AL$.
-
-[[Quesiti/src_pol_1994_r1#q04|src_pol_1994_r1__Q04]]
 
 
 
@@ -144,8 +136,6 @@ Le funzioni di valore assoluto <iterate f_{n+1}=li_f_n-2 khi, f_0=li_x khi; riso
 Se un cubo ha tre radici reali distinte, un cubo correlato lo fa anche*
 
 > Dimostra che se il polinomio $x^3 + ax^2 + bx + c$ ha tre radici reali distinte, allora lo fa anche il polinomio $$x^3 + ax^2 + \frac{1}{4}(a^2 + b)x + \frac{1}{8}(ab - c).$$
-
-[[Quesiti/src_pol_1994_r1#q05|src_pol_1994_r1__Q05]]
 
 
 
@@ -174,8 +164,6 @@ Se un cubo ha tre radici reali distinte, un cubo correlato lo fa anche*
 
 > Supponiamo che $f : \mathbb{R} \to \mathbb{R}$ sia una funzione continua tale che per ogni reale $x$ esista $n \in \mathbb{N}$ tale che $$\underbrace{f \circ f \circ \cdots \circ f}_{n}(x) = 1.$$ Mostri che $f(1) = 1$.
 
-[[Quesiti/src_pol_1994_r1#q06|src_pol_1994_r1__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione"></span>
@@ -203,8 +191,6 @@ Se un cubo ha tre radici reali distinte, un cubo correlato lo fa anche*
 
 > Al di fuori di un quadrilaterale converso $ABCD$, sono costruiti triangoli simili $APB, BQC, CRD, DSA$ in modo che $$\angle PAB = \angle QBC = \angle RCD = \angle SDA, \quad \angle PBA = \angle QCB = \angle RDC = \angle SAD.$$ dimostri che se $ABCD$ è un parallelo, allora lo è anche $PQRS$.
 
-[[Quesiti/src_pol_1994_r1#q07|src_pol_1994_r1__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -230,8 +216,6 @@ Se un cubo ha tre radici reali distinte, un cubo correlato lo fa anche*
 
 > $a, b, c$ siano integri positivi come $b \mid a^3$, $c \mid b^3$ e $a \mid c^3$. Prove che $abc \mid (a + b + c)^{13}$.
 
-[[Quesiti/src_pol_1994_r1#q08|src_pol_1994_r1__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,method_grafi,method_estremalita,skill_astrazione,skill_modellizzazione"></span>
@@ -256,8 +240,6 @@ Se un cubo ha tre radici reali distinte, un cubo correlato lo fa anche*
 *2n partecipanti, ciascuno conosciuto con >=n altri; coppia in n camere doppie per conoscenza*
 
 > Ci sono $2n$ partecipanti a una conferenza. Ciascuna delle persone conosce almeno $n$ altre persone. dimostrare che è possibile ospitare i partecipanti in $n$ camere doppie in modo che ognuno di loro condivida una stanza con il suo/la sua conoscenza.
-
-[[Quesiti/src_pol_1994_r1#q09|src_pol_1994_r1__Q09]]
 
 
 
@@ -285,8 +267,6 @@ Se un cubo ha tre radici reali distinte, un cubo correlato lo fa anche*
 
 > Lasciate che $p, q$ siano numeri reali non negativi con $p + q = 1$, e lasciate che $m, n$ siano numeri interi positivi. Provare che $$(1 - p^m)^n + (1 - q^n)^m \ge 1.$$
 
-[[Quesiti/src_pol_1994_r1#q10|src_pol_1994_r1__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze,method_trigonometria,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima"></span>
@@ -312,8 +292,6 @@ Se un cubo ha tre radici reali distinte, un cubo correlato lo fa anche*
 
 > Il $R$ e il $r$ siano rispettivamente il circondario e l'inradio di un triangolo di perimetro $2p$. Mostra che $p < 2(R + r)$.
 
-[[Quesiti/src_pol_1994_r1#q11|src_pol_1994_r1__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_solida,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -338,5 +316,3 @@ Se un cubo ha tre radici reali distinte, un cubo correlato lo fa anche*
 *Tetraedro: somma di angolo diedro opposto uguale se somma di bordo opposto uguale*
 
 > Prova che le somme degli angoli diedrali opposti di un tetraedro sono uguali se e solo se le somme dei bordi opposti del tetraedro sono uguali.
-
-[[Quesiti/src_pol_1994_r1#q12|src_pol_1994_r1__Q12]]

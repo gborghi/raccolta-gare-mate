@@ -46,7 +46,6 @@ level: Senior Mathematical Challenge
 > - **(E)** 9
 
 **Risposta:** B
-[[Quesiti/src_smc_2016#q01|src_smc_2016__Q01]]
 
 
 
@@ -86,7 +85,6 @@ Il lunedì i prezzi al negozio di Isla sono del 20% superiori al normale, il ven
 > - **(E)** £4.00
 
 **Risposta:** D
-[[Quesiti/src_smc_2016#q02|src_smc_2016__Q02]]
 
 
 
@@ -130,7 +128,6 @@ Un cerchio di raggio 1 ruota senza scivolare intorno all'interno di un quadrato 
 ![[src_smc_2016__q03.png]]
 
 **Risposta:** B
-[[Quesiti/src_smc_2016#q03|src_smc_2016__Q03]]
 
 
 
@@ -171,7 +168,6 @@ Alex disegna un triangolo di scalene con un angolo. Quale degli angoli elencati 
 > - **(E)** $120^\circ$
 
 **Risposta:** C
-[[Quesiti/src_smc_2016#q04|src_smc_2016__Q04]]
 
 
 
@@ -216,7 +212,6 @@ Alex disegna un triangolo di scalene con un angolo. Quale degli angoli elencati 
 ![[src_smc_2016__q05.png]]
 
 **Risposta:** A
-[[Quesiti/src_smc_2016#q05|src_smc_2016__Q05]]
 
 
 
@@ -260,7 +255,6 @@ Alex disegna un triangolo di scalene con un angolo. Quale degli angoli elencati 
 ![[src_smc_2016__q06.png]]
 
 **Risposta:** D
-[[Quesiti/src_smc_2016#q06|src_smc_2016__Q06]]
 
 
 
@@ -300,7 +294,6 @@ Quale di 2016^(−1), 2016^(−1/2), 2016^0, 2016^(1/2), 2016^1 ha il valore pi�
 > - **(E)** $2016^{1}$
 
 **Risposta:** A
-[[Quesiti/src_smc_2016#q07|src_smc_2016__Q07]]
 
 
 
@@ -345,7 +338,6 @@ I punti dividono ogni lato di un quadrato in n parti uguali; uniti per formare p
 ![[src_smc_2016__q08.png]]
 
 **Risposta:** B
-[[Quesiti/src_smc_2016#q08|src_smc_2016__Q08]]
 
 
 
@@ -390,7 +382,6 @@ I punti dividono ogni lato di un quadrato in n parti uguali; uniti per formare p
 ![[src_smc_2016__q09.png]]
 
 **Risposta:** C
-[[Quesiti/src_smc_2016#q09|src_smc_2016__Q09]]
 
 
 
@@ -435,7 +426,6 @@ I punti dividono ogni lato di un quadrato in n parti uguali; uniti per formare p
 ![[src_smc_2016__q10.png]]
 
 **Risposta:** A
-[[Quesiti/src_smc_2016#q10|src_smc_2016__Q10]]
 
 
 
@@ -475,7 +465,6 @@ I punti dividono ogni lato di un quadrato in n parti uguali; uniti per formare p
 > - **(E)** 19
 
 **Risposta:** B
-[[Quesiti/src_smc_2016#q11|src_smc_2016__Q11]]
 
 
 
@@ -516,7 +505,6 @@ Qual è il più piccolo quadrato perfetto che ha 2016 come fattore?
 > - **(E)** $2016^2$
 
 **Risposta:** C
-[[Quesiti/src_smc_2016#q12|src_smc_2016__Q12]]
 
 
 
@@ -560,7 +548,6 @@ Qual è il più piccolo quadrato perfetto che ha 2016 come fattore?
 ![[src_smc_2016__q13.png]]
 
 **Risposta:** A
-[[Quesiti/src_smc_2016#q13|src_smc_2016__Q13]]
 
 
 
@@ -601,7 +588,6 @@ Qual è il più piccolo quadrato perfetto che ha 2016 come fattore?
 > - **(E)** 51
 
 **Risposta:** D
-[[Quesiti/src_smc_2016#q14|src_smc_2016__Q14]]
 
 
 
@@ -645,7 +631,6 @@ Qual è il più piccolo quadrato perfetto che ha 2016 come fattore?
 ![[src_smc_2016__q15.png]]
 
 **Risposta:** B
-[[Quesiti/src_smc_2016#q15|src_smc_2016__Q15]]
 
 
 
@@ -686,7 +671,6 @@ Qual è il più piccolo quadrato perfetto che ha 2016 come fattore?
 > - **(E)** $2$
 
 **Risposta:** D
-[[Quesiti/src_smc_2016#q16|src_smc_2016__Q16]]
 
 
 
@@ -727,7 +711,6 @@ Aaron sceglie un codice a tre cifre dai numeri 19, tutti diversi, in ordine cres
 > - **(E)** 9
 
 **Risposta:** D
-[[Quesiti/src_smc_2016#q17|src_smc_2016__Q17]]
 
 
 
@@ -771,7 +754,6 @@ Aaron sceglie un codice a tre cifre dai numeri 19, tutti diversi, in ordine cres
 ![[src_smc_2016__q18.png]]
 
 **Risposta:** E
-[[Quesiti/src_smc_2016#q18|src_smc_2016__Q18]]
 
 
 
@@ -812,7 +794,6 @@ Aaron sceglie un codice a tre cifre dai numeri 19, tutti diversi, in ordine cres
 > - **(E)** 12
 
 **Risposta:** D
-[[Quesiti/src_smc_2016#q19|src_smc_2016__Q19]]
 
 
 
@@ -856,7 +837,6 @@ Una piastrella di Marrakech ha una linea di simmetria XY di lunghezza 8 cm; VZ �
 ![[src_smc_2016__q20.png]]
 
 **Risposta:** E
-[[Quesiti/src_smc_2016#q20|src_smc_2016__Q20]]
 
 
 
@@ -901,7 +881,6 @@ Una piastrella di Marrakech ha una linea di simmetria XY di lunghezza 8 cm; VZ �
 ![[src_smc_2016__q21.png]]
 
 **Risposta:** C
-[[Quesiti/src_smc_2016#q21|src_smc_2016__Q21]]
 
 
 
@@ -942,7 +921,6 @@ Ben, Cam e Dan fanno una dichiarazione su chi dice la verita'. Esattamente uno d
 > - **(E)** Ognuno di Ben e Dan
 
 **Risposta:** B
-[[Quesiti/src_smc_2016#q22|src_smc_2016__Q22]]
 
 
 
@@ -982,7 +960,6 @@ Il cuboide con lati 22, 2, 10 è contenuto all'interno di una sfera di raggio mi
 > - **(E)** 14
 
 **Risposta:** E
-[[Quesiti/src_smc_2016#q23|src_smc_2016__Q23]]
 
 
 
@@ -1026,7 +1003,6 @@ Il cuboide con lati 22, 2, 10 è contenuto all'interno di una sfera di raggio mi
 ![[src_smc_2016__q24.png]]
 
 **Risposta:** B
-[[Quesiti/src_smc_2016#q24|src_smc_2016__Q24]]
 
 
 
@@ -1066,4 +1042,3 @@ Il cuboide con lati 22, 2, 10 è contenuto all'interno di una sfera di raggio mi
 > - **(E)** 8
 
 **Risposta:** D
-[[Quesiti/src_smc_2016#q25|src_smc_2016__Q25]]

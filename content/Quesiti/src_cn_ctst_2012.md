@@ -37,8 +37,6 @@ level: China National Team Selection Test
 
 ![[src_cn_ctst_b11_w142__q01.png]]
 
-[[Quesiti/src_cn_ctst_2012#q01|src_cn_ctst_2012__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_induzione,method_estremalita,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
@@ -66,8 +64,6 @@ level: China National Team Selection Test
 *Esistenza di k integri che soddisfano la disuguaglianza dei prodotti per tutti gli interpolanti reali*
 
 > Prove che, per qualsiasi dato intero $k \ge 2$, esistono $k$ diversi interi positivi $a_1, a_2, \ldots, a_k$, in modo tale che per qualsiasi numero reale $b_1, b_2, \ldots, b_k$ soddisfa $a_i \le b_i \le 2a_i$, $1 \le i \le k$, e qualsiasi intero non negativo $c_1, c_2, \ldots, c_k$, abbiamo fornito $$k \prod_{i=1}^{k} b_i^{c_i} < \prod_{i=1}^{k} b_i,$$ $\prod_{i=1}^{k} b_i^{c_i} < \prod_{i=1}^{k} b_i$. (Possibile da Chen Yonggao)
-
-[[Quesiti/src_cn_ctst_2012#q02|src_cn_ctst_2012__Q02]]
 
 
 
@@ -97,7 +93,6 @@ level: China National Team Selection Test
 > $P(x) = x^{2012} + a_{2011}x^{2011} + a_{2010}x^{2010} + \cdots + a_1 x + a_0$ sia un polinomio di grado $2012$ di coefficienti reali con $1$ come suo coefficiente principale. Trovare il minimo del numero reale $c$ in modo tale che $|\operatorname{Im} z| \le c\,|\operatorname{Re} z|$, dove $\operatorname{Re} z$ e $\operatorname{Im} z$ sono rispettivamente le parti reali e immaginarie di qualsiasi radice di un polinomio ottenuta cambiando alcuni dei coefficienti di $P(x)$ ai loro numeri opposti. (postato da Zhu Huawei)
 
 **Risposta:** \cot\dfrac{\pi}{4022}
-[[Quesiti/src_cn_ctst_2012#q03|src_cn_ctst_2012__Q03]]
 
 
 
@@ -127,8 +122,6 @@ level: China National Team Selection Test
 > Data un numero intero $n \geq 3$. Il valore di $A$, $B \subseteq \{1, 2, \ldots, n\}$. Supponiamo che $ab + 1$ sia un numero quadrato perfetto per qualsiasi $a \in A$ e $b \in B$. Prove che $\min\{|A|, |B|\} \leq \log_2 n$.
 > 
 > (Posizionato da Xiong Bin)
-
-[[Quesiti/src_cn_ctst_2012#q04|src_cn_ctst_2012__Q04]]
 
 
 
@@ -161,4 +154,3 @@ level: China National Team Selection Test
 > (Posizionato da Qu Zhenhua)
 
 **Risposta:** $2 \times 1006^3$
-[[Quesiti/src_cn_ctst_2012#q05|src_cn_ctst_2012__Q05]]

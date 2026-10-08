@@ -57,7 +57,6 @@ level: kangourou
 > E) 32
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_junior_semifinale#q01|src_kangourou_2021_junior_semifinale__Q01]]
 
 
 
@@ -104,7 +103,6 @@ level: kangourou
 > C) Lisa has a thousand euros. (D) Claim (c) is false. E) The statement c) is true.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_junior_semifinale#q02|src_kangourou_2021_junior_semifinale__Q02]]
 
 
 
@@ -152,7 +150,6 @@ level: kangourou
 > E) 1,5
 
 **Answer:** A
-[[Quesiti/src_kangourou_2021_junior_semifinale#q03|src_kangourou_2021_junior_semifinale__Q03]]
 
 
 
@@ -198,7 +195,6 @@ level: kangourou
 > E) 4
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_junior_semifinale#q04|src_kangourou_2021_junior_semifinale__Q04]]
 
 
 
@@ -245,7 +241,6 @@ level: kangourou
 > E) 6
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_junior_semifinale#q05|src_kangourou_2021_junior_semifinale__Q05]]
 
 
 
@@ -293,7 +288,6 @@ level: kangourou
 > E) 4
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_junior_semifinale#q06|src_kangourou_2021_junior_semifinale__Q06]]
 
 
 
@@ -347,7 +341,6 @@ level: kangourou
 > E) 0
 
 **Answer:** E
-[[Quesiti/src_kangourou_2021_junior_semifinale#q07|src_kangourou_2021_junior_semifinale__Q07]]
 
 
 
@@ -398,7 +391,6 @@ level: kangourou
 > E) 1100
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_junior_semifinale#q08|src_kangourou_2021_junior_semifinale__Q08]]
 
 
 
@@ -464,7 +456,6 @@ level: kangourou
 > Open-answer questions
 
 **Answer:** E
-[[Quesiti/src_kangourou_2021_junior_semifinale#q09|src_kangourou_2021_junior_semifinale__Q09]]
 
 
 
@@ -502,7 +493,6 @@ level: kangourou
 >  of the whole pizza. How many slices did he eat?
 
 **Answer:** 0005
-[[Quesiti/src_kangourou_2021_junior_semifinale#q10|src_kangourou_2021_junior_semifinale__Q10]]
 
 
 
@@ -541,7 +531,6 @@ level: kangourou
 > (5 points) A rectangular strip of paper is folded to form the hexagonal shape in the figure, which surrounds an equilateral triangle of 8 cm side (staying attached); the short sides of the strip are welded at the point shown. The short side of the strip measures √ 3 cm. How long is the strip? Welding √3 cm
 
 **Answer:** 0033
-[[Quesiti/src_kangourou_2021_junior_semifinale#q11|src_kangourou_2021_junior_semifinale__Q11]]
 
 
 
@@ -585,7 +574,6 @@ level: kangourou
 > does point P advance, relative to the ground?
 
 **Answer:** 0040
-[[Quesiti/src_kangourou_2021_junior_semifinale#q12|src_kangourou_2021_junior_semifinale__Q12]]
 
 
 
@@ -673,7 +661,6 @@ level: kangourou
 > (6 points) An equilateral triangle of side n =100 is divided into equilateral triangles of side 1 according to the pattern suggested by the figure, in which case n = 3 is represented. Imagine that each small triangle represents a room and that in each of its walls shared with an adjacent room, there is a door. By choosing appropriately the room to start from, what is the maximum number of rooms you can visit if you can only pass once from each room you visit?
 
 **Answer:** 9901
-[[Quesiti/src_kangourou_2021_junior_semifinale#q13|src_kangourou_2021_junior_semifinale__Q13]]
 
 
 
@@ -705,7 +692,6 @@ level: kangourou
 > (6 points) We have 90 tokens, half of which are black and the other half white. We want to align them so that the consecutive blocks of white tokens are as many as possible and that no pair of these blocks have the same number of tokens. What is the number of tokens in the largest possible block of consecutive black tokens?
 
 **Answer:** 0038
-[[Quesiti/src_kangourou_2021_junior_semifinale#q14|src_kangourou_2021_junior_semifinale__Q14]]
 
 
 
@@ -744,7 +730,6 @@ level: kangourou
 > (a) there are no two identical blocks of five consecutive digits, disjoint or partially overlapping; (b) the alignment ends when neither of the two digits can be added without breaching condition (a). What are the last four digits of Thomas's alignment? Write 9999 if you believe they are not uniquely determined.
 
 **Answer:** 1001
-[[Quesiti/src_kangourou_2021_junior_semifinale#q15|src_kangourou_2021_junior_semifinale__Q15]]
 
 
 
@@ -775,7 +760,6 @@ level: kangourou
 > the result by 5, what remainder do you get?
 
 **Answer:** 0001
-[[Quesiti/src_kangourou_2021_junior_semifinale#q16|src_kangourou_2021_junior_semifinale__Q16]]
 
 
 
@@ -825,7 +809,6 @@ level: kangourou
 > P
 
 **Answer:** 9999
-[[Quesiti/src_kangourou_2021_junior_semifinale#q17|src_kangourou_2021_junior_semifinale__Q17]]
 
 
 
@@ -880,4 +863,3 @@ level: kangourou
 > M N B O A
 
 **Answer:** 0027
-[[Quesiti/src_kangourou_2021_junior_semifinale#q18|src_kangourou_2021_junior_semifinale__Q18]]

@@ -47,7 +47,6 @@ level: triennio
 > - **(E)** 3312 · 7716 · 219
 
 **Answer:** C
-[[Quesiti/src_archimede_2021_triennio_online#q01|src_archimede_2021_triennio_online__Q01]]
 
 
 
@@ -89,7 +88,6 @@ level: triennio
 > - **(E)** 80
 
 **Answer:** D
-[[Quesiti/src_archimede_2021_triennio_online#q02|src_archimede_2021_triennio_online__Q02]]
 
 
 
@@ -132,7 +130,6 @@ level: triennio
 > - **(E)** 44/5
 
 **Answer:** A
-[[Quesiti/src_archimede_2021_triennio_online#q03|src_archimede_2021_triennio_online__Q03]]
 
 
 
@@ -176,7 +173,6 @@ level: triennio
 > - **(E)** 34
 
 **Answer:** C
-[[Quesiti/src_archimede_2021_triennio_online#q04|src_archimede_2021_triennio_online__Q04]]
 
 
 
@@ -217,7 +213,6 @@ level: triennio
 > - **(E)** 148 m
 
 **Answer:** A
-[[Quesiti/src_archimede_2021_triennio_online#q05|src_archimede_2021_triennio_online__Q05]]
 
 
 
@@ -259,7 +254,6 @@ level: triennio
 > - **(E)** 7/12
 
 **Answer:** D
-[[Quesiti/src_archimede_2021_triennio_online#q06|src_archimede_2021_triennio_online__Q06]]
 
 
 
@@ -301,7 +295,6 @@ level: triennio
 > - **(E)** 74
 
 **Answer:** D
-[[Quesiti/src_archimede_2021_triennio_online#q07|src_archimede_2021_triennio_online__Q07]]
 
 
 
@@ -400,7 +393,6 @@ level: triennio
 > - **(E)** 20 mm2
 
 **Answer:** C
-[[Quesiti/src_archimede_2021_triennio_online#q08|src_archimede_2021_triennio_online__Q08]]
 
 
 
@@ -443,7 +435,6 @@ level: triennio
 > - **(E)** Endless
 
 **Answer:** A
-[[Quesiti/src_archimede_2021_triennio_online#q09|src_archimede_2021_triennio_online__Q09]]
 
 
 
@@ -487,7 +478,6 @@ level: triennio
 > - **(E)** 36°
 
 **Answer:** C
-[[Quesiti/src_archimede_2021_triennio_online#q10|src_archimede_2021_triennio_online__Q10]]
 
 
 
@@ -529,7 +519,6 @@ level: triennio
 > - **(E)** 16/3
 
 **Answer:** E
-[[Quesiti/src_archimede_2021_triennio_online#q11|src_archimede_2021_triennio_online__Q11]]
 
 
 
@@ -571,4 +560,3 @@ level: triennio
 > - **(E)** I'm not going to be able to do this.
 
 **Answer:** C
-[[Quesiti/src_archimede_2021_triennio_online#q12|src_archimede_2021_triennio_online__Q12]]

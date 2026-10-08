@@ -34,8 +34,6 @@ level: JJMO
 
 > Calcolare quanto segue: $$39 \times 37 + 41 \times 82 + 43 \times 80 + 45 \times 39$$
 
-[[Quesiti/src_jjmo4q#q01|src_jjmo4q__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -65,8 +63,6 @@ level: JJMO
 
 ![[src_jjmo4q__q02.png]]
 
-[[Quesiti/src_jjmo4q#q02|src_jjmo4q__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_estremalita,method_casework,skill_lettura_attenta,skill_manipolazione_algebrica,skill_stima"></span>
@@ -93,8 +89,6 @@ level: JJMO
 *Frazione con numeratore e denominatore interi più vicini a 1, con somma 109*
 
 > Tra le frazioni il cui numeratore e il cui denominatore sono entrambi numeri interi e la cui somma è $109$, $$\frac{108}{1},\ \frac{107}{2},\ \frac{106}{3},\ \ldots,\ \frac{3}{106},\ \frac{2}{107},\ \frac{1}{108}$$ trova quella che è più vicina a $1$. Qui, "più vicino a $1$" significa quello la cui differenza assoluta da $1$ è minore.
-
-[[Quesiti/src_jjmo4q#q03|src_jjmo4q__Q03]]
 
 
 
@@ -125,8 +119,6 @@ level: JJMO
 
 ![[src_jjmo4q__q04.png]]
 
-[[Quesiti/src_jjmo4q#q04|src_jjmo4q__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_stima"></span>
@@ -156,8 +148,6 @@ level: JJMO
 *Monete massime su 8 ×8 griglia: al massimo una faccia in su per riga, al massimo una faccia in giù per colonna*
 
 > C'è una griglia $8 \times 8$. Su alcune celle, le monete sono posizionate sia a faccia alta che a faccia bassa, soddisfacendo le seguenti condizioni: \begin{itemize} \item Se una cella contiene una moneta a faccia alta, allora nessuna altra cella nella stessa riga contiene una moneta a faccia alta. \item Se una cella contiene una moneta rivolta verso il basso, allora nessuna altra cella nella stessa colonna contiene una moneta rivolta verso il basso. Qual è il numero massimo di monete che si possono mettere sulla griglia?
-
-[[Quesiti/src_jjmo4q#q05|src_jjmo4q__Q05]]
 
 
 
@@ -192,8 +182,6 @@ level: JJMO
 
 ![[src_jjmo4q__q06.png]]
 
-[[Quesiti/src_jjmo4q#q06|src_jjmo4q__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -218,8 +206,6 @@ level: JJMO
 *Contare i modi per scegliere 3 carte da 20 carte a numeri blu (110 ciascuna in 2 copie) che si sommano a 16*
 
 > Ci sono carte $20$ numerate $1, 2, \ldots, 10$, ciascuna delle quali appare esattamente su carte $2$ (tutte le carte sono blu). Da queste carte $20$ vengono scelte le carte $3$. Trova il numero di modi per scegliere le carte $3$ in modo tale che la somma dei numeri scritti su di esse sia uguale a $16$. Nota: le carte con lo stesso numero sono considerate distinguibili (cioè le due carte con lo stesso numero sono considerate diverse).
-
-[[Quesiti/src_jjmo4q#q07|src_jjmo4q__Q07]]
 
 
 
@@ -246,8 +232,6 @@ level: JJMO
 
 > Tra i set di tre integri positivi reciprocamente coprimi in modo tale che la somma di due di essi sia un quadrato perfetto, trovare tutti tali set con la somma più piccola possibile dei tre numeri. Qui, le serie $\{1, 2, 3\}$ e $\{3, 2, 1\}$ sono considerate uguali, mentre $\{1, 2, 3\}$ e $\{3, 1, 2\}$ sono anche uguali.
 
-[[Quesiti/src_jjmo4q#q08|src_jjmo4q__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -272,8 +256,6 @@ level: JJMO
 *Contare copriemi (x,y,z) dove decine di cifre di x·z e y·z sono uguali a decine di cifre di x e y*
 
 > Se i numeri $x$, $y$, $z$ sono interamente integri positivi coprimi di due cifre ciascuno. La decima cifra di $x \cdot z$ equivale alla decima cifra di $x$, e la decima cifra di $y \cdot z$ equivale alla decima cifra di $y$, e la decima cifra di $x \cdot z$ equivale alla decima cifra di $y \cdot z$. Quanti sono tali tripli $(x, y, z)$?
-
-[[Quesiti/src_jjmo4q#q09|src_jjmo4q__Q09]]
 
 
 
@@ -306,8 +288,6 @@ level: JJMO
 > 
 > (2) Trova tutte le coppie di integri $(x, y)$ che soddisfano $(*)$.
 
-[[Quesiti/src_jjmo4q#q10|src_jjmo4q__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,method_casework,method_conteggio,method_colorazione,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -336,8 +316,6 @@ level: JJMO
 > (1) Colorare ciascuna cellula di una griglia $3 \times 3$ con uno dei tre colori: blu, giallo o rosso, in modo che le cellule adiacenti (che condividono un bordo) siano di colori diversi. Quante sono queste colorazioni? (I colori che sono uguali fino alla rotazione o alla riflessione sono comunque considerati diversi. Tuttavia, i colori che differiscono solo per rotazione o riflessione vengono contati come diversi.)
 > 
 > (2) Nella situazione di (1), se i tre colori sono blu, giallo, rosso e verde (quattro colori in totale), quanti colori ci sono?
-
-[[Quesiti/src_jjmo4q#q11|src_jjmo4q__Q11]]
 
 
 
@@ -391,5 +369,3 @@ level: JJMO
 > (2) Per le buone coppie $(m, n)$ con $m, n \le 10$, indicare il numero di tali coppie. Si noti che $(9, 6)$ e $(6, 9)$ sono conteggiate come coppie diverse.
 
 ![[src_jjmo4q__q12.png]]
-
-[[Quesiti/src_jjmo4q#q12|src_jjmo4q__Q12]]

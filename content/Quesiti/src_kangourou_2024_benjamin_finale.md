@@ -85,8 +85,6 @@ level: kangourou
 
 > Four friends live alone, each in a different house from the others. The four of them are never absent at the same time, and they want that if something happens in one's house when he is absent, at least one of the other three, finding himself at home, can step in with the key. They then decide to leave a key to at least one friend who will keep it in his home in a place known to all four of them. What is the minimum number of keys to his own home that each of them must leave to the friends, considering them as a whole? And how are the left keys to be arranged?
 
-[[Quesiti/src_kangourou_2024_benjamin_finale#qb1|src_kangourou_2024_benjamin_finale__QB1]]
-
 
 
 <span class="atom-split" id="qb2" data-atom="qb2" data-title="Quesito B2" data-tags="topic_logica,skill_lettura_attenta"></span>
@@ -110,8 +108,6 @@ level: kangourou
 *The meaning of KAB can be deduced from the answer*
 
 > In the strange language of Kangland, the words "yes" and "no" translate into "KAB" and "BAK", but not necessarily in this order. You meet a person you can trust, who knows both Italian and the Kangal language, and you ask them: Is it true that KAB means "yes"? The person answers, "KAB". Can you tell if "KAB" means "yes" or "no"?
-
-[[Quesiti/src_kangourou_2024_benjamin_finale#qb2|src_kangourou_2024_benjamin_finale__QB2]]
 
 
 
@@ -138,8 +134,6 @@ level: kangourou
 
 > Eight objects are aligned. They have to be painted four in red, three in blue, and one in yellow, but so that adjacent objects receive different colors. How many different colourings are admissible?
 
-[[Quesiti/src_kangourou_2024_benjamin_finale#qb3|src_kangourou_2024_benjamin_finale__QB3]]
-
 
 
 <span class="atom-split" id="qb4" data-atom="qb4" data-title="Quesito B4" data-tags="topic_aritmetica,method_conteggio,skill_conteggio_sistematico"></span>
@@ -165,8 +159,6 @@ level: kangourou
 
 > Consider all possible fractions of value not greater than $1$, in which both the numerator and denominator are integers between $1$ and $6$ included. Are there more reducible fractions or irreducible fractions?
 
-[[Quesiti/src_kangourou_2024_benjamin_finale#qb4|src_kangourou_2024_benjamin_finale__QB4]]
-
 
 
 <span class="atom-split" id="qb5" data-atom="qb5" data-title="Quesito B5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -190,8 +182,6 @@ level: kangourou
 *Minimum antenna distance from the most distant dwelling (triangle)*
 
 > Three dwellings are at the vertices of an isosceles triangle whose sides measure $80$, $80$ and $120$ meters. Using a single antenna, we want to make it possible to receive internet in the three houses. What is, in metres, the minimum distance that the antenna can have from the dwelling that will make it the furthest away?
-
-[[Quesiti/src_kangourou_2024_benjamin_finale#qb5|src_kangourou_2024_benjamin_finale__QB5]]
 
 
 
@@ -217,5 +207,3 @@ level: kangourou
 Because the result of Marco is always 1089
 
 > Mark tries to perform the following operations: he chooses a number of three digits all different from each other, writes the number he gets by reversing the order of the digits, and calculates the difference between the greater and the lesser of the two numbers. If this difference has only two digits, he puts a $0$ in front of this difference, otherwise it remains unchanged. Finally, he adds to the number thus obtained the number he gets by reversing the order of its digits. What is the result? Our question suggests that the outcome does not depend on the number initially chosen by Marco: explain why.
-
-[[Quesiti/src_kangourou_2024_benjamin_finale#qb6|src_kangourou_2024_benjamin_finale__QB6]]

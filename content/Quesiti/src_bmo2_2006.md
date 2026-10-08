@@ -35,8 +35,6 @@ level: BMO Round 2
 
 > Trova il valore minimo possibile di $x^2 + y^2$ dato che $x$ e $y$ sono numeri reali che soddisfano $$xy(x^2 - y^2) = x^2 + y^2$$ e $x \neq 0$.
 
-[[Quesiti/src_bmo2_2006#q01|src_bmo2_2006__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato"></span>
@@ -64,8 +62,6 @@ level: BMO Round 2
 
 > $x$ e $y$ siano integri positivi senza fattori primi superiori a $5$. Trova tutti i $x$ e $y$ che soddisfano $$x^2 - y^2 = 2^k$$ per un intero non negativo $k$.
 
-[[Quesiti/src_bmo2_2006#q02|src_bmo2_2006__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -92,8 +88,6 @@ level: BMO Round 2
 
 > $ABC$ sia un triangolo con $AC > AB$. Il punto $X$ si trova sul lato $BC$ esteso attraverso $A$, e $Y$ si trova sul lato $CA$ esteso attraverso $B$, in modo tale che $BX = CA$ e $CY = BA$. La linea $XY$ incontra il bisettore perpendicolare di $BC$ a $P$. Indicare che $$\angle BPC = \angle BAC.$$
 
-[[Quesiti/src_bmo2_2006#q03|src_bmo2_2006__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_estremalita,method_casework,method_doppio_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta"></span>
@@ -118,5 +112,3 @@ level: BMO Round 2
 *Esame con bambini 2006, qualsiasi tre domande ≥5 domande; trovare risposte minime corrette*
 
 > Un esame composto da sei domande è presentato da bambini $2006$. Ogni domanda è contrassegnata come giusta o sbagliata. Qualsiasi tre bambini abbiano risposte giuste a almeno cinque delle sei domande che si presentano tra loro. Il numero di risposte corrette ottenute da tutti i bambini (cioè il numero totale di domande risolute dal bambino $1$ $+$ il totale risolto dal bambino $2$ $+ \cdots +$ il totale risolto dal bambino $2006$). Trova il minimo valore possibile di $N$.
-
-[[Quesiti/src_bmo2_2006#q04|src_bmo2_2006__Q04]]

@@ -38,8 +38,6 @@ level: IMO
 > Se $a_1, a_2, \ldots, a_n$ sono numeri reali arbitrari, allora
 > $$(a_1 - a_2)(a_1 - a_3) \cdots (a_1 - a_n) + (a_2 - a_1)(a_2 - a_3) \cdots (a_2 - a_n) + \cdots + (a_n - a_1)(a_n - a_2) \cdots (a_n - a_{n-1}) \geq 0.$$
 
-[[Quesiti/src_imo_1971_all#q01|src_imo_1971_all__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,method_cassetti"></span>
@@ -64,8 +62,6 @@ level: IMO
 
 > Sia dato un poliedro convesso $P_1$ con nove vertici $A_1, A_2, \ldots, A_9$; sia $P_i$ il poliedro ottenuto da $P_1$ tramite una traslazione che porta il vertice $A_1$ in $A_i$ ($i = 2, 3, \ldots, 9$). Si dimostri che almeno due dei poliedri $P_1, P_2, \ldots, P_9$ hanno un punto interno in comune.
 
-[[Quesiti/src_imo_1971_all#q02|src_imo_1971_all__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze"></span>
@@ -89,8 +85,6 @@ level: IMO
 *Sottosuccessione infinita a due a due primi tra loro di numeri 2^k-3*
 
 > Si dimostri che l'insieme degli interi della forma $2^k - 3$ $(k = 2, 3, \ldots)$ contiene un sottoinsieme infinito in cui ogni due elementi sono primi tra loro.
-
-[[Quesiti/src_imo_1971_all#q03|src_imo_1971_all__Q03]]
 
 
 
@@ -123,8 +117,6 @@ level: IMO
 > 
 > (b) Se $\angle DAB + \angle BCD = \angle ABC + \angle CDA$, allora esistono infiniti percorsi poligonali minimi, la loro lunghezza comune essendo $2 AC \sin(\alpha/2)$, dove $\alpha = \angle BAC + \angle CAD + \angle ADB$.
 
-[[Quesiti/src_imo_1971_all#q04|src_imo_1971_all__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria"></span>
@@ -147,8 +139,6 @@ level: IMO
 *Insieme di punti in cui ogni punto ha m punti ad distanza unitaria*
 
 > Si dimostri che per ogni numero naturale $m$, esiste un insieme finito $S$ di punti nel piano con la seguente proprietà: per ogni punto $A$ in $S$, esattamente $m$ punti in $S$ si trovano a distanza unitaria da $A$.
-
-[[Quesiti/src_imo_1971_all#q05|src_imo_1971_all__Q05]]
 
 
 
@@ -173,5 +163,3 @@ level: IMO
 *Matrice con interi non negativi e condizione di somma nulla ha somma ≥ n²/2*
 
 > Sia $A = (a_{ij}),\ i,j = 1, 2, \ldots, n$ una matrice quadrata i cui elementi sono interi non negativi. Si supponga che ogni volta che un elemento $a_{ij} = 0$ è uguale a zero, la somma degli elementi della riga $i$-esima e della colonna $j$-esima sia uguale a $\geq n$. Si dimostri che la somma di tutti gli elementi della matrice è $\geq n^2/2$.
-
-[[Quesiti/src_imo_1971_all#q06|src_imo_1971_all__Q06]]

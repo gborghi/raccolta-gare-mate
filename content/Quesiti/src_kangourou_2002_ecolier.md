@@ -42,7 +42,6 @@ level: kangourou
 > Kangourou?
 
 **Answer:** B
-[[Quesiti/src_kangourou_2002_ecolier#q01|src_kangourou_2002_ecolier__Q01]]
 
 
 
@@ -84,7 +83,6 @@ level: kangourou
 > E. 20
 
 **Answer:** C
-[[Quesiti/src_kangourou_2002_ecolier#q02|src_kangourou_2002_ecolier__Q02]]
 
 
 
@@ -144,7 +142,6 @@ level: kangourou
 > E. the same as 6 oranges
 
 **Answer:** E
-[[Quesiti/src_kangourou_2002_ecolier#q03|src_kangourou_2002_ecolier__Q03]]
 
 
 
@@ -179,7 +176,6 @@ Heart rate in one hour
 > A. 42 000 B. 7 000 C. 4 200       D. 700         E. 420
 
 **Answer:** C
-[[Quesiti/src_kangourou_2002_ecolier#q04|src_kangourou_2002_ecolier__Q04]]
 
 
 
@@ -252,7 +248,6 @@ Heart rate in one hour
 > A. 14 cm B. 10 cm C. 7 cm D. 6 cm E. 4 cm
 
 **Answer:** A
-[[Quesiti/src_kangourou_2002_ecolier#q05|src_kangourou_2002_ecolier__Q05]]
 
 
 
@@ -296,7 +291,6 @@ Heart rate in one hour
 > E. There is no such number.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2002_ecolier#q06|src_kangourou_2002_ecolier__Q06]]
 
 
 
@@ -337,7 +331,6 @@ Members of the club when boys = girls
 > A. 22 B. 24 C. 28 D. 32 E. 36
 
 **Answer:** D
-[[Quesiti/src_kangourou_2002_ecolier#q07|src_kangourou_2002_ecolier__Q07]]
 
 
 
@@ -373,8 +366,6 @@ Members of the club when boys = girls
 > Questions from No. 9 to No. 16 are worth 4 points each
 
 **Answer:** D
-
-[[Quesiti/src_kangourou_2002_ecolier#q08|src_kangourou_2002_ecolier__Q08]]
 
 
 
@@ -412,7 +403,6 @@ Members of the club when boys = girls
 > A. 4 B. 7 C. 8 D. 10 E. 16
 
 **Answer:** C
-[[Quesiti/src_kangourou_2002_ecolier#q09|src_kangourou_2002_ecolier__Q09]]
 
 
 
@@ -449,7 +439,6 @@ Members of the club when boys = girls
 > A. 3 B. 6 C. 9 D. 11 E. 27
 
 **Answer:** A
-[[Quesiti/src_kangourou_2002_ecolier#q10|src_kangourou_2002_ecolier__Q10]]
 
 
 
@@ -485,7 +474,6 @@ Members of the club when boys = girls
 > In Mesopotamia, in 2500 B.C., numbers were written as follows: the symbol appeared many times as many as the sixties, the symbol appeared many times as many as the tens minus the sixties, the symbol appeared many times as many as the units minus the sixties and the tens. For example, the number 72 was written like this. Which of the following writings represents the number 124?
 
 **Answer:** E
-[[Quesiti/src_kangourou_2002_ecolier#q11|src_kangourou_2002_ecolier__Q11]]
 
 
 
@@ -517,7 +505,6 @@ Members of the club when boys = girls
 > The dial of a clock is broken down into four parts. Taking these parts in an appropriate order and adding the numbers in each of them, four consecutive numbers are obtained. There is only one way to break down the clock face if you want to get that result. What is it?
 
 **Answer:** C
-[[Quesiti/src_kangourou_2002_ecolier#q12|src_kangourou_2002_ecolier__Q12]]
 
 
 
@@ -555,7 +542,6 @@ Members of the club when boys = girls
 > A. Giovanna   B. Stefania C. Susanna   D. Elena E. cannot be answered
 
 **Answer:** D
-[[Quesiti/src_kangourou_2002_ecolier#q13|src_kangourou_2002_ecolier__Q13]]
 
 
 
@@ -612,8 +598,6 @@ Members of the club when boys = girls
 
 **Answer:** C
 
-[[Quesiti/src_kangourou_2002_ecolier#q14|src_kangourou_2002_ecolier__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_logica,skill_riconoscimento_pattern"></span>
@@ -649,7 +633,6 @@ Members of the club when boys = girls
 > From the window of her room, Carla looks at the wall of the house across the street. She can see that there's a rectangular flag, like the one in the picture, hanging in the wind. Carla watches the flag at different times. Assuming the flag is not torn by the force of the wind, which of the five images below will Carla never see?
 
 **Answer:** B
-[[Quesiti/src_kangourou_2002_ecolier#q15|src_kangourou_2002_ecolier__Q15]]
 
 
 
@@ -696,7 +679,6 @@ Members of the club when boys = girls
 > Questions from No. 17 to No. 24 are worth 5 points each
 
 **Answer:** B
-[[Quesiti/src_kangourou_2002_ecolier#q16|src_kangourou_2002_ecolier__Q16]]
 
 
 
@@ -756,8 +738,6 @@ Members of the club when boys = girls
 
 **Answer:** E
 
-[[Quesiti/src_kangourou_2002_ecolier#q17|src_kangourou_2002_ecolier__Q17]]
-
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_solida,method_conteggio,skill_conteggio_sistematico"></span>
@@ -802,7 +782,6 @@ Members of the club when boys = girls
 > A. 34 B. 29 C. 22 D. 18 E. 15
 
 **Answer:** D
-[[Quesiti/src_kangourou_2002_ecolier#q18|src_kangourou_2002_ecolier__Q18]]
 
 
 
@@ -849,7 +828,6 @@ Who can't get 20
 > D. Alexander and Marta E. Everyone can get 20
 
 **Answer:** B
-[[Quesiti/src_kangourou_2002_ecolier#q19|src_kangourou_2002_ecolier__Q19]]
 
 
 
@@ -889,7 +867,6 @@ Who can't get 20
 > A. 2 B. 3       C. 4     D. 5         E. 8
 
 **Answer:** C
-[[Quesiti/src_kangourou_2002_ecolier#q20|src_kangourou_2002_ecolier__Q20]]
 
 
 
@@ -925,7 +902,6 @@ Who can't get 20
 > A. 16th B. 17th C. Eighth D. Ninth E. the tenth
 
 **Answer:** E
-[[Quesiti/src_kangourou_2002_ecolier#q21|src_kangourou_2002_ecolier__Q21]]
 
 
 
@@ -961,7 +937,6 @@ Kilometers to the next digit all different *
 > A. 13776 B. 12431         C. 431           D. 21 E. 1
 
 **Answer:** D
-[[Quesiti/src_kangourou_2002_ecolier#q22|src_kangourou_2002_ecolier__Q22]]
 
 
 
@@ -1012,8 +987,6 @@ Kilometers to the next digit all different *
 > E. 22
 
 **Answer:** D
-
-[[Quesiti/src_kangourou_2002_ecolier#q23|src_kangourou_2002_ecolier__Q23]]
 
 
 
@@ -1083,5 +1056,3 @@ Kilometers to the next digit all different *
 > after the question number.
 
 **Answer:** D
-
-[[Quesiti/src_kangourou_2002_ecolier#q24|src_kangourou_2002_ecolier__Q24]]

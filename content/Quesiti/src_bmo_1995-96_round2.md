@@ -34,8 +34,6 @@ level: BMO Round 2
 
 > Determinare tutti gli insiemi di integri non negativi $x$, $y$ e $z$ che soddisfano l'equazione $$2^x + 3^y = z^2.$$
 
-[[Quesiti/src_bmo_1995-96_round2#q01|src_bmo_1995-96_round2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -65,8 +63,6 @@ level: BMO Round 2
 
 > I lati $a, b, c$ e $u, v, w$ di due triangoli $ABC$ e $UVW$ sono correlati dalle equazioni $$u(v+w-u) = a^2,$$ $$v(w+u-v) = b^2,$$ $$w(u+v-w) = c^2.$$ Prove che il triangolo $ABC$ sia angolato acuto ed esprime gli angoli $U$, $V$, $W$ in termini di $A$, $B$, $C$.
 
-[[Quesiti/src_bmo_1995-96_round2#q02|src_bmo_1995-96_round2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -90,8 +86,6 @@ level: BMO Round 2
 *Due cerchi che si toccano esternamente a A e internamente un terzo cerchio; dimostrare che B1B2 è tangente comune*
 
 > Due cerchi $S_1$ e $S_2$ si toccano all'esterno a $A$; toccano anche un cerchio $S$ all'interno rispettivamente a $B_1$ e $B_2$. $P$ è il punto in cui la tangente interna comune di $S_1$ e $S_2$ incontra l'arco $B_1B_2$ di $S$ che non contiene il punto diametralmente opposto a $A$ di $S$. La linea $PA$ incontra di nuovo $S_1$ a $Q_1$ e incontra di nuovo $S_2$ a $Q_2$. Provare che $B_1B_2$ è una tangente comune di $S_1$ e $S_2$.
-
-[[Quesiti/src_bmo_1995-96_round2#q03|src_bmo_1995-96_round2__Q03]]
 
 
 
@@ -121,5 +115,3 @@ level: BMO Round 2
 *Ricerca tutti i reali positivi a,b,c,d che soddisfano due equazioni simmetriche*
 
 > Che $a, b, c, d$ siano numeri reali positivi in modo tale che $$a + b + c + d = ab + bc + cd + da$$ e $$abcd = 27.$$ Trovino tutti i possibili valori di $a$, $b$, $c$, $d$.
-
-[[Quesiti/src_bmo_1995-96_round2#q04|src_bmo_1995-96_round2__Q04]]

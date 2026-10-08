@@ -53,7 +53,6 @@ level: kangourou
 > A) 9 B) 10 C) 11          D) 12 E) 13
 
 **Answer:** E
-[[Quesiti/src_kangourou_2021_benjamin_semifinale#q01|src_kangourou_2021_benjamin_semifinale__Q01]]
 
 
 
@@ -103,7 +102,6 @@ level: kangourou
 > E) 10
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_benjamin_semifinale#q02|src_kangourou_2021_benjamin_semifinale__Q02]]
 
 
 
@@ -140,7 +138,6 @@ How many rabbits eat carrots today?
 > A) 9 B) 13 C) 14 D) 15 E) The information is insufficient.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_benjamin_semifinale#q03|src_kangourou_2021_benjamin_semifinale__Q03]]
 
 
 
@@ -189,7 +186,6 @@ How many rabbits eat carrots today?
 > D) 10 E) 12
 
 **Answer:** A
-[[Quesiti/src_kangourou_2021_benjamin_semifinale#q04|src_kangourou_2021_benjamin_semifinale__Q04]]
 
 
 
@@ -241,7 +237,6 @@ How many rabbits eat carrots today?
 > E) 15
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_benjamin_semifinale#q05|src_kangourou_2021_benjamin_semifinale__Q05]]
 
 
 
@@ -290,7 +285,6 @@ How many rabbits eat carrots today?
 > C) 28 D) 29 E) 32
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_benjamin_semifinale#q06|src_kangourou_2021_benjamin_semifinale__Q06]]
 
 
 
@@ -340,7 +334,6 @@ How many rabbits eat carrots today?
 > (D) Claim (c) is false. E) The statement c) is true.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_benjamin_semifinale#q07|src_kangourou_2021_benjamin_semifinale__Q07]]
 
 
 
@@ -387,7 +380,6 @@ How many rabbits eat carrots today?
 > E) 8
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_benjamin_semifinale#q08|src_kangourou_2021_benjamin_semifinale__Q08]]
 
 
 
@@ -440,7 +432,6 @@ How many rabbits eat carrots today?
 > Open-ended questions
 
 **Answer:** A
-[[Quesiti/src_kangourou_2021_benjamin_semifinale#q09|src_kangourou_2021_benjamin_semifinale__Q09]]
 
 
 
@@ -472,7 +463,6 @@ How many rabbits eat carrots today?
 > Edward, Susanna and Teresa are playing cards. At the end of each match, there are no ties: the winner earns 3 points, the second-placed 1 point while the third-placed does not earn points. After four games, Susanna has 4 points and Teresa 3. How many games has Edward won?
 
 **Answer:** 13
-[[Quesiti/src_kangourou_2021_benjamin_semifinale#q10|src_kangourou_2021_benjamin_semifinale__Q10]]
 
 
 
@@ -502,7 +492,6 @@ Max tosses to make sure a number goes out 3 times
 > (5 points) How many times at most might it be necessary to roll a die to make sure that at least one number comes out 3 times?
 
 **Answer:** 13
-[[Quesiti/src_kangourou_2021_benjamin_semifinale#q11|src_kangourou_2021_benjamin_semifinale__Q11]]
 
 
 
@@ -539,7 +528,6 @@ Max tosses to make sure a number goes out 3 times
 > How many coins does each chest contain?
 
 **Answer:** 67
-[[Quesiti/src_kangourou_2021_benjamin_semifinale#q12|src_kangourou_2021_benjamin_semifinale__Q12]]
 
 
 
@@ -568,7 +556,6 @@ Max tosses to make sure a number goes out 3 times
 > (6 points) The 2021 number is formed by joining two consecutive integers in increasing order. How many years have passed since the last time this happened?
 
 **Answer:** 101
-[[Quesiti/src_kangourou_2021_benjamin_semifinale#q13|src_kangourou_2021_benjamin_semifinale__Q13]]
 
 
 
@@ -598,7 +585,6 @@ Max tosses to make sure a number goes out 3 times
 > (6 points) What is the greatest number of 4 digits divisible by 6 whose digits are in (strictly) increasing order from left to right?
 
 **Answer:** 4578
-[[Quesiti/src_kangourou_2021_benjamin_semifinale#q14|src_kangourou_2021_benjamin_semifinale__Q14]]
 
 
 
@@ -633,7 +619,6 @@ Max tosses to make sure a number goes out 3 times
 > (6 points) A new virus has spread on Kangaroo Island, which is home to a thousand kangaroos. Every infected kangaroo has a cold for exactly 5 days after the day it contracted the infection and is contagious only during those five days. Every day during this period the kangaroo infects exactly another kangaroo. The virus was carried by a single kangaroo who caught a cold (and then became contagious) exactly on the day he arrived on the island. Considering that day as the first, how many contagious kangaroos will there be on day six?
 
 **Answer:** 31
-[[Quesiti/src_kangourou_2021_benjamin_semifinale#q15|src_kangourou_2021_benjamin_semifinale__Q15]]
 
 
 
@@ -664,7 +649,6 @@ Max tosses to make sure a number goes out 3 times
 > (7 points) The sum of two three-digit numbers, all six of which are different from each other, gives a three-digit number different from the previous ones and different from each other. What's the smallest sum you can get this way? Remember, a three-digit number cannot have 0 as its first digit.
 
 **Answer:** 356
-[[Quesiti/src_kangourou_2021_benjamin_semifinale#q16|src_kangourou_2021_benjamin_semifinale__Q16]]
 
 
 
@@ -695,7 +679,6 @@ Max tosses to make sure a number goes out 3 times
 > some of them: in total more than  but less than  of the whole pizza. How many slices did he eat?
 
 **Answer:** 5
-[[Quesiti/src_kangourou_2021_benjamin_semifinale#q17|src_kangourou_2021_benjamin_semifinale__Q17]]
 
 
 
@@ -734,4 +717,3 @@ Max tosses to make sure a number goes out 3 times
 > A  0003  0013  0067  0101  4578  0031  0356  0005  2022
 
 **Answer:** 2022
-[[Quesiti/src_kangourou_2021_benjamin_semifinale#q18|src_kangourou_2021_benjamin_semifinale__Q18]]

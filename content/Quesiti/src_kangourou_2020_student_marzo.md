@@ -52,7 +52,6 @@ level: kangourou
 > E) 16
 
 **Answer:** D
-[[Quesiti/src_kangourou_2020_student_marzo#q01|src_kangourou_2020_student_marzo__Q01]]
 
 
 
@@ -100,7 +99,6 @@ level: kangourou
 > (C) 5 + 4√2 D) 9 - 2√2 E) length depends on the angle formed by the obstacles along the initial path.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2020_student_marzo#q02|src_kangourou_2020_student_marzo__Q02]]
 
 
 
@@ -146,7 +144,6 @@ level: kangourou
 > E) t
 
 **Answer:** B
-[[Quesiti/src_kangourou_2020_student_marzo#q03|src_kangourou_2020_student_marzo__Q03]]
 
 
 
@@ -206,7 +203,6 @@ level: kangourou
 >
 
 **Answer:** A
-[[Quesiti/src_kangourou_2020_student_marzo#q04|src_kangourou_2020_student_marzo__Q04]]
 
 
 
@@ -255,7 +251,6 @@ level: kangourou
 > E) 44
 
 **Answer:** C
-[[Quesiti/src_kangourou_2020_student_marzo#q05|src_kangourou_2020_student_marzo__Q05]]
 
 
 
@@ -293,7 +288,6 @@ level: kangourou
 > E) 7070
 
 **Answer:** E
-[[Quesiti/src_kangourou_2020_student_marzo#q06|src_kangourou_2020_student_marzo__Q06]]
 
 
 
@@ -328,7 +322,6 @@ level: kangourou
 > If a, b and c are integers such that 1 ≤ a ≤ b ≤ c and abc = 1,000,000, what is the maximum value that b can assume? A) 100 B) 250 C) 500 D) 1000 E) 2000
 
 **Answer:** D
-[[Quesiti/src_kangourou_2020_student_marzo#q07|src_kangourou_2020_student_marzo__Q07]]
 
 
 
@@ -371,7 +364,6 @@ level: kangourou
 > E)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2020_student_marzo#q08|src_kangourou_2020_student_marzo__Q08]]
 
 
 
@@ -409,7 +401,6 @@ level: kangourou
 > C) 1/6 D) 2/9 E) 1/3
 
 **Answer:** E
-[[Quesiti/src_kangourou_2020_student_marzo#q09|src_kangourou_2020_student_marzo__Q09]]
 
 
 
@@ -447,7 +438,6 @@ level: kangourou
 > C) n (n + 1) D) 6n  1 E) n3  2 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2020_student_marzo#q10|src_kangourou_2020_student_marzo__Q10]]
 
 
 
@@ -516,7 +506,6 @@ level: kangourou
 >
 
 **Answer:** E
-[[Quesiti/src_kangourou_2020_student_marzo#q11|src_kangourou_2020_student_marzo__Q11]]
 
 
 
@@ -561,7 +550,6 @@ level: kangourou
 > D) 5 E) You can't get all the coins with the cross side up.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2020_student_marzo#q12|src_kangourou_2020_student_marzo__Q12]]
 
 
 
@@ -612,7 +600,6 @@ level: kangourou
 > E) 4
 
 **Answer:** B
-[[Quesiti/src_kangourou_2020_student_marzo#q13|src_kangourou_2020_student_marzo__Q13]]
 
 
 
@@ -659,7 +646,6 @@ level: kangourou
 > E) 8
 
 **Answer:** B
-[[Quesiti/src_kangourou_2020_student_marzo#q14|src_kangourou_2020_student_marzo__Q14]]
 
 
 
@@ -698,7 +684,6 @@ level: kangourou
 > If the first two digits of a 100-digit integer are, in the order, 2 and 9, how many digits does it have squared? A) 101 B) 199 C) 200 D) 201 E) It is not possible to establish it.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2020_student_marzo#q15|src_kangourou_2020_student_marzo__Q15]]
 
 
 
@@ -754,7 +739,6 @@ level: kangourou
 > E) 4
 
 **Answer:** A
-[[Quesiti/src_kangourou_2020_student_marzo#q16|src_kangourou_2020_student_marzo__Q16]]
 
 
 
@@ -813,7 +797,6 @@ level: kangourou
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2020_student_marzo#q17|src_kangourou_2020_student_marzo__Q17]]
 
 
 
@@ -854,7 +837,6 @@ level: kangourou
 > E) 1347
 
 **Answer:** A
-[[Quesiti/src_kangourou_2020_student_marzo#q18|src_kangourou_2020_student_marzo__Q18]]
 
 
 
@@ -925,7 +907,6 @@ level: kangourou
 > E) None of the values indicated.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2020_student_marzo#q19|src_kangourou_2020_student_marzo__Q19]]
 
 
 
@@ -981,7 +962,6 @@ level: kangourou
 > Questions from No. 21 to No. 30 are worth 5 points each
 
 **Answer:** B
-[[Quesiti/src_kangourou_2020_student_marzo#q20|src_kangourou_2020_student_marzo__Q20]]
 
 
 
@@ -1028,7 +1008,6 @@ level: kangourou
 > E) ab
 
 **Answer:** D
-[[Quesiti/src_kangourou_2020_student_marzo#q21|src_kangourou_2020_student_marzo__Q21]]
 
 
 
@@ -1068,7 +1047,6 @@ level: kangourou
 > A young kangaroo draws on a square grid a segment that passes through the node P in the lower left corner of the grid, and then colors three triangles as shown in the figure. Which of the following terns can represent the relationships between the areas of the three triangles? (a) 1 : 2: 3 B) 1: 2: 4 C) 1: 3: 9 D) 1: 4: 8 E) None of the following:
 
 **Answer:** E
-[[Quesiti/src_kangourou_2020_student_marzo#q22|src_kangourou_2020_student_marzo__Q22]]
 
 
 
@@ -1111,7 +1089,6 @@ level: kangourou
 >
 
 **Answer:** D
-[[Quesiti/src_kangourou_2020_student_marzo#q23|src_kangourou_2020_student_marzo__Q23]]
 
 
 
@@ -1165,7 +1142,6 @@ level: kangourou
 > E) 80
 
 **Answer:** D
-[[Quesiti/src_kangourou_2020_student_marzo#q24|src_kangourou_2020_student_marzo__Q24]]
 
 
 
@@ -1214,7 +1190,6 @@ level: kangourou
 > E) 6
 
 **Answer:** E
-[[Quesiti/src_kangourou_2020_student_marzo#q25|src_kangourou_2020_student_marzo__Q25]]
 
 
 
@@ -1269,7 +1244,6 @@ level: kangourou
 > E) 11
 
 **Answer:** C
-[[Quesiti/src_kangourou_2020_student_marzo#q26|src_kangourou_2020_student_marzo__Q26]]
 
 
 
@@ -1315,7 +1289,6 @@ level: kangourou
 > E)
 
 **Answer:** A
-[[Quesiti/src_kangourou_2020_student_marzo#q27|src_kangourou_2020_student_marzo__Q27]]
 
 
 
@@ -1376,7 +1349,6 @@ level: kangourou
 >
 
 **Answer:** A
-[[Quesiti/src_kangourou_2020_student_marzo#q28|src_kangourou_2020_student_marzo__Q28]]
 
 
 
@@ -1436,7 +1408,6 @@ level: kangourou
 > E) 36
 
 **Answer:** C
-[[Quesiti/src_kangourou_2020_student_marzo#q29|src_kangourou_2020_student_marzo__Q29]]
 
 
 
@@ -1520,4 +1491,3 @@ level: kangourou
 > Answers
 
 **Answer:** C
-[[Quesiti/src_kangourou_2020_student_marzo#q30|src_kangourou_2020_student_marzo__Q30]]

@@ -36,8 +36,6 @@ level: Concours Général
 
 > Per ogni integro naturale $n$, indicare con $I_n$ il numero di integri $p$ tale che $$50^p < 7^n < 50^{p+1}.$$ 1. Mostrare che per ogni numero intero $n$, $I_n$ è uguale a 2 o 3. 2. Mostrare che esistono infinitamente molti enti $n$ per i quali $I_n = 3$, e trovare il più piccolo.
 
-[[Quesiti/src_cgen_1994#q01|src_cgen_1994__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,method_estremalita,skill_modellizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -66,8 +64,6 @@ level: Concours Général
 > Che $\sum$ sia un emisfero e $P$ il piano che ne contiene il cerchio base. Un piano variabile $Q$, parallelo a un piano fisso perpendicolare a $P$, interseca l'emisfero lungo un cerchio $C$. Indichiamo con $C'$ la proiezione ortogonale di $C$ su $P$.
 > 
 > Come si deve posizionare il piano $Q$ in modo che il cilindro con basi $C$ e $C'$ abbia un volume massimo?
-
-[[Quesiti/src_cgen_1994#q02|src_cgen_1994__Q02]]
 
 
 
@@ -102,8 +98,6 @@ level: Concours Général
 > 
 > 1. Mostrare che, per qualsiasi scelta di $p$, esiste un intero unico $v(p)$ tale che $u_{v(p)} = 0$. 2. **a.** Calcolare $v(1994)$. Qual è il numero intero più piccolo $p$ tale che $v(p) = 1994$? **b.** Dato un intero positivo $N$, determinare il numero intero più piccolo $p$ tale da $v(p) = N$.
 
-[[Quesiti/src_cgen_1994#q03|src_cgen_1994__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -135,8 +129,6 @@ level: Concours Général
 > 
 > Determinare il punto $P$ per il quale la quantità $$BL^2 + CM^2 + AN^2$$ è minima.
 
-[[Quesiti/src_cgen_1994#q04|src_cgen_1994__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_aritmetica,method_induzione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -167,5 +159,3 @@ level: Concours Général
 > Che $f$ sia un'applicazione da $\mathbb{N}$ a $\mathbb{N}$ tale che $f(1) > 0$, e per tutti gli integri naturali $m$ e $n$: $$f(m^2 + n^2) = [f(m)]^2 + [f(n)]^2.$$
 > 
 > 1. Calcolare $f(k)$ per $0 \le k \le 12$. 2. Calcolare $f(n)$, dove $n$ è un intero arbitrario.
-
-[[Quesiti/src_cgen_1994#q05|src_cgen_1994__Q05]]

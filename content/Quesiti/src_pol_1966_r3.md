@@ -33,8 +33,6 @@ La radice irrazionale comune di due polinomi cubici implica un altro *
 
 > Prova che se due polinomi cubici con coefficienti interi hanno una radice irrazionale in comune, allora hanno un'altra radice irrazionale comune.
 
-[[Quesiti/src_pol_1966_r3#q01|src_pol_1966_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ La radice irrazionale comune di due polinomi cubici implica un altro *
 *Soluzione in numeri interi $x^4 + 4y^4 = 2(z^4 + 4u^4)$*
 
 > Risolvere in numeri interi l'equazione $x^4 + 4y^4 = 2(z^4 + 4u^4)$.
-
-[[Quesiti/src_pol_1966_r3#q02|src_pol_1966_r3__Q02]]
 
 
 
@@ -88,8 +84,6 @@ La radice irrazionale comune di due polinomi cubici implica un altro *
 
 > Se i numeri reali non negativi $x_1, x_2, \ldots, x_n$ soddisfano $x_1 + \cdots + x_n \le \frac{1}{2}$, dimostrare che $$( 1 - x_1)(1 - x_2) \cdots (1 - x_n) \ge \frac{1}{2}.$$
 
-[[Quesiti/src_pol_1966_r3#q03|src_pol_1966_r3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,method_simmetria,method_disuguaglianze,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -114,8 +108,6 @@ La radice irrazionale comune di due polinomi cubici implica un altro *
 *Suma dei quadrati delle aree di proiezione facciale costante se parallelepiped è cubo*
 
 > Prova che la somma dei quadrati delle aree delle proiezioni delle facce di un parallelepiped rettangolare su un piano è la stessa per tutte le posizioni del piano se e solo se il parallelepiped è un cubo.
-
-[[Quesiti/src_pol_1966_r3#q04|src_pol_1966_r3__Q04]]
 
 
 
@@ -142,8 +134,6 @@ La radice irrazionale comune di due polinomi cubici implica un altro *
 
 > Ogni diagonale $AD$, $BE$, $CF$ di un esagono converso $ABCDEF$ divide l'area dell'esagono. Prova che queste tre diagonali passano attraverso lo stesso punto.
 
-[[Quesiti/src_pol_1966_r3#q05|src_pol_1966_r3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_combinatoria,method_estremalita,method_casework,method_colorazione,skill_ragionamento_geometrico,skill_stima,skill_casework_accurato"></span>
@@ -168,5 +158,3 @@ La radice irrazionale comune di due polinomi cubici implica un altro *
 *Tra i sei punti del piano, rapporto tra la distanza più lunga e la distanza più breve $\ge\sqrt{3}$*
 
 > Sul piano si scelgono sei punti. Prova che il rapporto tra la distanza più lunga tra due punti e la distanza più breve è almeno $\sqrt{3}$.
-
-[[Quesiti/src_pol_1966_r3#q06|src_pol_1966_r3__Q06]]

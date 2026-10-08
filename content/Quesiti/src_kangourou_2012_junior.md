@@ -38,8 +38,6 @@ level: kangourou
 
 > A number (in decimal form) has seven digits. Adding them together, we get 6. What is the product of these digits? A) 0 B) 1 C) 5 D) 6 E) A number different from the previous one
 
-[[Quesiti/src_kangourou_2012_junior#q01|src_kangourou_2012_junior__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,skill_manipolazione_algebrica"></span>
@@ -69,8 +67,6 @@ level: kangourou
 *Calculation of 11.111-1.1111*
 
 > The speed of a pedestrian and that of a cyclist are in the ratio of 2 to 7. The pedestrian covers 4 kilometers in an hour. How many miles does a cyclist travel in four hours? A) 14 B) 16 C) 28 D) 36 E) A number different from the previous one
-
-[[Quesiti/src_kangourou_2012_junior#q02|src_kangourou_2012_junior__Q02]]
 
 
 
@@ -104,8 +100,6 @@ level: kangourou
 *Minutes for the launch to go from NE to NW*
 
 > The parallel-piped rectangle you see in the figure is made by assembling four blocks of different colors, one of which is white. Each block, in turn, is made by attaching 4 cubes, all of the same size and color. What's the white block? A) B) C) D) E)
-
-[[Quesiti/src_kangourou_2012_junior#q03|src_kangourou_2012_junior__Q03]]
 
 
 
@@ -162,8 +156,6 @@ level: kangourou
 > Kang 2012
 > Kang 2012
 
-[[Quesiti/src_kangourou_2012_junior#q04|src_kangourou_2012_junior__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
@@ -196,7 +188,6 @@ level: kangourou
 > In four of the following expressions, the number 8 can be replaced by any positive number without altering the result. What is the expression for which this does not occur? A) (8 + 8 – 8) : 8 B) 8 + (8 : 8) – 8 C) 8 : (8 + 8 + 8) D) 8 – (8 : 8) + 8 E) 8 × (8 : 8) : 8
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_junior#q05|src_kangourou_2012_junior__Q05]]
 
 
 
@@ -276,7 +267,6 @@ level: kangourou
 > Note the figure: the square ABCD has a side length of 4 cm and has the same area as the triangle ECD. What's the distance from the point E to the line g? A) 8 cm B) (4+2 cm C) 12 cm D) 10 cm E) You cannot answer without knowing the position of E
 
 **Answer:** C
-[[Quesiti/src_kangourou_2012_junior#q06|src_kangourou_2012_junior__Q06]]
 
 
 
@@ -366,7 +356,6 @@ level: kangourou
 > Note the figure: M and N are the middle points of the two sides of an isosceles triangle of equal length, which is divided by the two medians into three triangles and a quadrilateral. The area of each of the three triangles is indicated. What is the area of the quadrilateral? A) 3 B) 4 C) 7 D) 8 E) A number different from the previous one
 
 **Answer:** E
-[[Quesiti/src_kangourou_2012_junior#q07|src_kangourou_2012_junior__Q07]]
 
 
 
@@ -400,7 +389,6 @@ level: kangourou
 > ABC is a right triangle whose legs are 6 and 8 cm long. The points K, L, and M are the midpoints of its sides. How many centimeters is the perimeter of the KLM triangle? A) 10 B) 12 C) 15 D) 20 E) 24
 
 **Answer:** B
-[[Quesiti/src_kangourou_2012_junior#q08|src_kangourou_2012_junior__Q08]]
 
 
 
@@ -434,7 +422,6 @@ level: kangourou
 > Two sides of a quadrilateral measure 1 and 4 cm. One of the two diagonals measures 2 cm and divides the quadrilateral into two isosceles triangles. How many centimeters does the perimeter of the quadrilateral measure? A) 8 B) 9 C) 10 D) 11 E) 12
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_junior#q09|src_kangourou_2012_junior__Q09]]
 
 
 
@@ -470,7 +457,6 @@ level: kangourou
 > If you divide the numbers 144 and 220 by the same positive integer n, in both cases you get remainder 11. What is n ? A) 7 B) 11 C) 15 D) 19 E) 38 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_junior#q10|src_kangourou_2012_junior__Q10]]
 
 
 
@@ -534,8 +520,6 @@ level: kangourou
 > Kang 2012
 > Kang 2012
 
-[[Quesiti/src_kangourou_2012_junior#q11|src_kangourou_2012_junior__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_logica,method_casework,skill_casework_accurato"></span>
@@ -577,7 +561,6 @@ level: kangourou
 > E) Bice, Ada, Carla
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_junior#q12|src_kangourou_2012_junior__Q12]]
 
 
 
@@ -613,7 +596,6 @@ level: kangourou
 > There's a table in Andrea and Michele's room. If Andrea stands on the table and Michele stands on the floor, it's as if Andrea is 80 cm taller than Michele. If you change positions, it's as if Michele is 90 cm taller than Andrea. How tall is the table? A) 10 B) 75 C) 80 D) 85 E) 90
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_junior#q13|src_kangourou_2012_junior__Q13]]
 
 
 
@@ -659,7 +641,6 @@ level: kangourou
 > E) 30
 
 **Answer:** B
-[[Quesiti/src_kangourou_2012_junior#q14|src_kangourou_2012_junior__Q14]]
 
 
 
@@ -697,7 +678,6 @@ level: kangourou
 > Six circles of equal radius are inserted into a rectangle as shown in the figure, which also indicates the size of one side of the rectangle. How many centimeters do you measure the distance between the centers of the two grey circles? A) 3 B)       + 2 C) 2 D) π/2 + 2         E) 4
 
 **Answer:** C
-[[Quesiti/src_kangourou_2012_junior#q15|src_kangourou_2012_junior__Q15]]
 
 
 
@@ -737,7 +717,6 @@ level: kangourou
 > Roberta left for the holidays and lent her house to a friend. She warned her that there were four clocks in the house and that the time indicated was wrong for a clock of 2 minutes, another of 3 minutes, another of 4 minutes and the last of 5 minutes. Roberta, however, forgot to tell her friend which clock and to which direction to attribute each single error. When the friend enters the house, the first clock she sees indicates three minus six minutes, the second three minus three minutes, the third three and two minutes, and the last three and three minutes. What's the exact time? A) 3:00 B) 2:57 C) 2:58 D) 2:59 E) 3:01
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_junior#q16|src_kangourou_2012_junior__Q16]]
 
 
 
@@ -822,7 +801,6 @@ level: kangourou
 > Pag. 25 Kang 2012
 
 **Answer:** B
-[[Quesiti/src_kangourou_2012_junior#q17|src_kangourou_2012_junior__Q17]]
 
 
 
@@ -865,7 +843,6 @@ level: kangourou
 > In each of the 12 cells of the grid shown in the figure, an integer between 1 and 9 must be inserted so that the sum of the numbers in each row is the same for all the rows and the sum of the numbers in each column is the same for all the columns. Some of the numbers have already been entered. What number should you put in the free cell on the first line? A) 1 B) 4 C) 6 D) 8 E) 9
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_junior#q18|src_kangourou_2012_junior__Q18]]
 
 
 
@@ -903,7 +880,6 @@ level: kangourou
 > The region you see in the figure is obtained by placing side by side a square of 4 cm on the side, a square of 5 cm on the side, a triangle with an area of 8 cm2 and a parallelogram. How much is the area of the parallelogram (shaded) in square centimetres? A) 15 B) 16 C) 18 D) 20 E) 21
 
 **Answer:** B
-[[Quesiti/src_kangourou_2012_junior#q19|src_kangourou_2012_junior__Q19]]
 
 
 
@@ -938,7 +914,6 @@ level: kangourou
 > What is the last digit other than 0 of the number 259 × 34 × 553 ? A) 1 B) 2 C) 4 D) 6 E) 9 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2012_junior#q20|src_kangourou_2012_junior__Q20]]
 
 
 
@@ -972,7 +947,6 @@ level: kangourou
 > Anna found that, for an appropriate choice of positive integers m and k, we have 2012 = m^m × (m^k – k). How much is k? A) 2 B) 3 C) 4 D) 9 E) 11
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_junior#q21|src_kangourou_2012_junior__Q21]]
 
 
 
@@ -1011,7 +985,6 @@ level: kangourou
 > A jeweler has 12 pairs of rings; in each pair the two rings are chained together and the only way to separate them is to open one of the two. The jeweler wants to get a necklace of 24 rings, each chained only to the two adjacent ones, as suggested by the figure. What is the minimum number of rings he needs to open (and then close) to achieve his goal? A) 8 B) 9 C) 10 D) 11 E) 12
 
 **Answer:** A
-[[Quesiti/src_kangourou_2012_junior#q22|src_kangourou_2012_junior__Q22]]
 
 
 
@@ -1121,7 +1094,6 @@ level: kangourou
 > Kang 2012
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_junior#q23|src_kangourou_2012_junior__Q23]]
 
 
 
@@ -1156,7 +1128,6 @@ What is said about the lengths of the two trains?
 > Two G and H trains travel each at a constant speed. G takes 8 seconds to pass under a footbridge; shortly thereafter it meets H and the two trains are at least partially side by side for 9 seconds; finally H takes 12 seconds to pass under the same footbridge. What can be said about the length of the two trains? A) G is twice the length of H B) G and H are the same length C) H is one and a half times the length of G D) H is twice the length of G E) Information is insufficient to answer
 
 **Answer:** A
-[[Quesiti/src_kangourou_2012_junior#q24|src_kangourou_2012_junior__Q24]]
 
 
 
@@ -1199,7 +1170,6 @@ What is said about the lengths of the two trains?
 > The figure represents the pattern of an electronic game. Kangaroo Jim is at school (S) and must return home (C); if he wants to, he can pass through the library (B) and playground (G). From every box he is in except C, Jim can jump to any of the two adjacent boxes he chooses; however, when he reaches C, the game is over. If you want to do exactly 13 jumps, how many different ways can you go home? A) 12 B) 32 C) 64 D) 144 E) 1024
 
 **Answer:** C
-[[Quesiti/src_kangourou_2012_junior#q25|src_kangourou_2012_junior__Q25]]
 
 
 
@@ -1230,7 +1200,6 @@ What is said about the lengths of the two trains?
 > For two real numbers a and b we ask that both conditions a3 < b3 and a5 > b6 be verified. So we can conclude that A) a > 1 and b > 1. B) a > 1  and  0 < b < 1. C) 0 < a < 1  and  b > 1. D) 0 < a < 1  and  0 < b < 1. E) the two requests are incompatible.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_junior#q26|src_kangourou_2012_junior__Q26]]
 
 
 
@@ -1263,7 +1232,6 @@ What is said about the lengths of the two trains?
 > Six distinct positive integers are given; for one and only one pair of these integers it happens that the smaller is not a divisor of the larger. What's the smallest possible value for the largest of these six integers? A) 18 B) 20 C) 36 D) 45 E) A number different from the previous one
 
 **Answer:** E
-[[Quesiti/src_kangourou_2012_junior#q27|src_kangourou_2012_junior__Q27]]
 
 
 
@@ -1299,7 +1267,6 @@ What is said about the lengths of the two trains?
 > For each positive three-digit integer (in decimal notation), Nicola calculated the product of the three digits; he then summed all the products thus obtained. What was the result? A) 45 B) 452 C) 453 D) 245 E) 345
 
 **Answer:** C
-[[Quesiti/src_kangourou_2012_junior#q28|src_kangourou_2012_junior__Q28]]
 
 
 
@@ -1333,7 +1300,6 @@ What is said about the lengths of the two trains?
 > What is the smallest number of addends of type 1/n, with positive integer n, such that the number 28/33 can be expressed as the sum of those addends? A) 2 B) 3 C) 4 D) 5 E) 285
 
 **Answer:** B
-[[Quesiti/src_kangourou_2012_junior#q29|src_kangourou_2012_junior__Q29]]
 
 
 
@@ -1401,4 +1367,3 @@ What is said about the lengths of the two trains?
 > JUNIOR 2012 ANSWERS
 
 **Answer:** B
-[[Quesiti/src_kangourou_2012_junior#q30|src_kangourou_2012_junior__Q30]]

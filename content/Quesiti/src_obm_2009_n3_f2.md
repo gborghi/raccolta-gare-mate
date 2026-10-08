@@ -54,8 +54,6 @@ level: OBM Nível 3
 
 ![[src_obm_2009_n3_f2__q01.png]]
 
-[[Quesiti/src_obm_2009_n3_f2#q01|src_obm_2009_n3_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -80,8 +78,6 @@ level: OBM Nível 3
 *IC di distanza al centro nel triangolo rettangolo ABC*
 
 > In triangolo $ABC$, $\angle A = 90^\circ$, $AB = 5$ cm e $BC = 9$ cm. Che $I$ sia il centro di $ABC$. Determinare la lunghezza del segmento $CI$.
-
-[[Quesiti/src_obm_2009_n3_f2#q02|src_obm_2009_n3_f2__Q02]]
 
 
 
@@ -110,8 +106,6 @@ level: OBM Nível 3
 
 > $c$ sia la costante reale più grande tale che $$x^2 + 3y^2 \ge c\,(x^2 + xy + 4y^2)$$ per tutti i numeri reali $x$ e $y$. Determinare il numero intero più vicino a $2009c$.
 
-[[Quesiti/src_obm_2009_n3_f2#q03|src_obm_2009_n3_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_probabilita,topic_combinatoria,method_estremalita,method_casework,skill_modellizzazione,skill_stima,skill_casework_accurato"></span>
@@ -137,8 +131,6 @@ level: OBM Nível 3
 
 > Nel game show *Toto Bola*, l'host Ciço Magalhães ha due scatole identiche. Un volontario del pubblico è invitato a partecipare al seguente gioco: riceve dieci palle verdi e due palle rosse e le distribuisce tra le due scatole (senza che l'ospite veda), in modo che ciascuna scatola contenga almeno una palla. Poi l'ospite sceglie una delle scatole e disegna una palla. Se la palla è RED, il volontario vince una macchina. Se è VERDE, il volontario vince una banana. La probabilità massima di vincere una vettura è pari a $\dfrac{m}{n}$, dove $m$ e $n$ sono numeri interi positivi con $\gcd(m, n) = 1$. Determinare il valore di $m + n$.
 
-[[Quesiti/src_obm_2009_n3_f2#q04|src_obm_2009_n3_f2__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,method_ricorsione,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -163,8 +155,6 @@ level: OBM Nível 3
 *La più piccola n < 10000 con 2^n + n divisibile per 5*
 
 > Determinare il numero intero più grande $n$ inferiore a $10000$ in modo tale che $2^n + n$ sia divisibile da $5$.
-
-[[Quesiti/src_obm_2009_n3_f2#q05|src_obm_2009_n3_f2__Q05]]
 
 
 
@@ -195,8 +185,6 @@ level: OBM Nível 3
 
 > Determinare il numero di enti enti a 6 cifre $n = \overline{a_1 a_2 a_3 a_4 a_5 a_6}$ che possono essere formati utilizzando sei cifre distinte da $\{1, 2, 3, 4, 5, 6, 7, 8, 9\}$ in modo tale che siano soddisfatte contemporaneamente le seguenti condizioni: \begin{enumerate} \item[(i)] $a_1 + a_2 = a_3 + a_4 = a_5 + a_6$; \item[(ii) $n$ è divisibile per $9$. \end{enumere}
 
-[[Quesiti/src_obm_2009_n3_f2#q06|src_obm_2009_n3_f2__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -222,8 +210,6 @@ level: OBM Nível 3
 *Ricerca tutte le soluzioni integrali positive a 4·3^a = 11 + 5^b*
 
 > Trova tutti gli integri $a > 0$ e $b > 0$ in modo tale che $$4 \cdot 3^a = 11 + 5^b.$$
-
-[[Quesiti/src_obm_2009_n3_f2#q07|src_obm_2009_n3_f2__Q07]]
 
 
 
@@ -257,8 +243,6 @@ level: OBM Nível 3
 > 
 > Determinare il numero di elementi del set $$A_1 \cup A_2 \cup A_3 \cup \cdots \cup A_{2009}.$$
 
-[[Quesiti/src_obm_2009_n3_f2#q08|src_obm_2009_n3_f2__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -283,5 +267,3 @@ level: OBM Nível 3
 *Distanza tra i punti di centro di BC e KL in triangolo con circolo incircolare e di diametro circolare*
 
 > Nel triangolo $ABC$, abbiamo $\angle A = 120^\circ$ e $BC = 12$ cm. Il cerchio (cerchio) inscritto del triangolo $ABC$ è tangente ai lati $AB$ e $AC$ rispettivamente nei punti $D$ e $E$. $K$ e $L$ siano i punti in cui la linea $DE$ interseca il cerchio con il diametro $BC$. Determinare la distanza tra i punti medi dei segmenti $BC$ e $KL$.
-
-[[Quesiti/src_obm_2009_n3_f2#q09|src_obm_2009_n3_f2__Q09]]

@@ -33,8 +33,6 @@ level: RMO
 
 > Il $P$ deve essere un punto interno di un triangolo $ABC$ e $BP$ e $CP$ devono incontrare $AC$ e $AB$ rispettivamente in $E$ e $F$. Se $[BPF] = 4$, $[BPC] = 8$ e $[CPE] = 13$, trovare $[AFPE]$. (Qui $[\cdot]$ indica l'area di un triangolo o di un quadrilaterale, a seconda del caso).
 
-[[Quesiti/src_rmo_1997#q01|src_rmo_1997__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -59,8 +57,6 @@ level: RMO
 *Ricerca tutti i valori presi da un termine di sequenza dato la ricorrenza gcd*
 
 > Per ogni intero positivo $n$, definire $a_n = 20 + n^2$ e $d_n = \gcd(a_n, a_{n+1})$. Trova l'insieme di tutti i valori presi da $d_n$ e mostra con esempi che ciascuno di questi valori è raggiunto.
-
-[[Quesiti/src_rmo_1997#q02|src_rmo_1997__Q02]]
 
 
 
@@ -88,8 +84,6 @@ level: RMO
 *Solvi l'equazione che coinvolge le funzioni del pavimento*
 
 > Risolvere per $x$ reale: $$\frac{1}{[x]} + \frac{1}{[2x]} = \{x\} + \frac{1}{3},$$ dove $[x]$ è il numero intero più grande inferiore o uguale a $x$ e $\{x\} = x - [x]$. [e.g. $[3.4] = 3$ e $\{3.4\} = 0.4$.]
-
-[[Quesiti/src_rmo_1997#q03|src_rmo_1997__Q03]]
 
 
 
@@ -124,8 +118,6 @@ level: RMO
 > 
 > (b) $AD + BC \ge AB + CD$.
 
-[[Quesiti/src_rmo_1997#q04|src_rmo_1997__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -152,8 +144,6 @@ level: RMO
 *Determine se tre espressioni reali possono essere lunghezze laterali del triangolo*
 
 > Lasciate che $x$, $y$ e $z$ siano tre numeri reali positivi distinti. Determinare con prova se i tre numeri reali $$\left|\frac{x}{y} - \frac{y}{x}\right|, \quad \left|\frac{y}{z} - \frac{z}{y}\right|, \quad \left|\frac{z}{x} - \frac{x}{z}\right|$$ possono essere o meno le lunghezze dei lati di un triangolo.
-
-[[Quesiti/src_rmo_1997#q05|src_rmo_1997__Q05]]
 
 
 
@@ -191,5 +181,3 @@ level: RMO
 > (b) $A \cup B = X$.
 > 
 > [ad esempio, se $X = \{a, b, c, d\}$, allora $\{\{a,b\}, \{b,c,d\}\}$, $\{\{a\}, \{a,b,c,d\}\}$, $\{\{a,b,c,d\}, \{b,c\}\}$, $\{\phi, \{a,b,c,d\}\}$ sono alcune delle coppie ammissibili.]
-
-[[Quesiti/src_rmo_1997#q06|src_rmo_1997__Q06]]

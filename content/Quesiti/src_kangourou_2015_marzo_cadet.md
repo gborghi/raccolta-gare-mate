@@ -51,7 +51,6 @@ level: kangourou
 > B) C) D) E)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2015_marzo_cadet#q01|src_kangourou_2015_marzo_cadet__Q01]]
 
 
 
@@ -90,7 +89,6 @@ level: kangourou
 > Four identical rectangles, joined together as shown in the figure, form a large rectangle. If the smaller side of the large rectangle is 10 cm long, how long is its larger side? A) 10 cm B) 20 cm C) 30 cm D) 40 cm E) 50 cm
 
 **Answer:** B
-[[Quesiti/src_kangourou_2015_marzo_cadet#q02|src_kangourou_2015_marzo_cadet__Q02]]
 
 
 
@@ -126,7 +124,6 @@ level: kangourou
 > C) 10 D) 100 E) 1000
 
 **Answer:** E
-[[Quesiti/src_kangourou_2015_marzo_cadet#q03|src_kangourou_2015_marzo_cadet__Q03]]
 
 
 
@@ -212,7 +209,6 @@ level: kangourou
 > The figure shows the net of a cube with numbered faces. For each pair of opposite faces, Paul added the two numbers that appear on the faces. What are the three sums he got? A) 6, 7, 8 B) 6, 6, 9 C) 5, 6, 10 D) 4, 7, 10 E) 4, 6, 11
 
 **Answer:** E
-[[Quesiti/src_kangourou_2015_marzo_cadet#q04|src_kangourou_2015_marzo_cadet__Q04]]
 
 
 
@@ -274,7 +270,6 @@ level: kangourou
 >
 
 **Answer:** D
-[[Quesiti/src_kangourou_2015_marzo_cadet#q05|src_kangourou_2015_marzo_cadet__Q05]]
 
 
 
@@ -317,7 +312,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) 6
 
 **Answer:** D
-[[Quesiti/src_kangourou_2015_marzo_cadet#q06|src_kangourou_2015_marzo_cadet__Q06]]
 
 
 
@@ -417,7 +411,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > D) QR E) RS
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_cadet#q07|src_kangourou_2015_marzo_cadet__Q07]]
 
 
 
@@ -454,7 +447,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > Via del Salto is made up of 9 villas lined up in a row. At least one person lives in each of them, and the number of inhabitants of two neighbouring villas does not exceed 6. Then the number of people who can live on the Via del Salto is at most A) 23. B) 25. C) 27. D) 29. E) 31.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2015_marzo_cadet#q08|src_kangourou_2015_marzo_cadet__Q08]]
 
 
 
@@ -504,7 +496,6 @@ The manufacturer shall provide the manufacturer with the following information:
 >         E)
 
 **Answer:** A
-[[Quesiti/src_kangourou_2015_marzo_cadet#q09|src_kangourou_2015_marzo_cadet__Q09]]
 
 
 
@@ -545,7 +536,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > (c) 10 D) 20 E) 25 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_cadet#q10|src_kangourou_2015_marzo_cadet__Q10]]
 
 
 
@@ -596,7 +586,6 @@ The manufacturer shall provide the manufacturer with the following information:
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2015_marzo_cadet#q11|src_kangourou_2015_marzo_cadet__Q11]]
 
 
 
@@ -647,7 +636,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > E)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_cadet#q12|src_kangourou_2015_marzo_cadet__Q12]]
 
 
 
@@ -696,7 +684,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) 5
 
 **Answer:** B
-[[Quesiti/src_kangourou_2015_marzo_cadet#q13|src_kangourou_2015_marzo_cadet__Q13]]
 
 
 
@@ -733,7 +720,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > D) 1.5 E) depends on the size of the pool
 
 **Answer:** D
-[[Quesiti/src_kangourou_2015_marzo_cadet#q14|src_kangourou_2015_marzo_cadet__Q14]]
 
 
 
@@ -774,7 +760,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > (C) 37 D) 31 E) None of the numbers in A to D
 
 **Answer:** E
-[[Quesiti/src_kangourou_2015_marzo_cadet#q15|src_kangourou_2015_marzo_cadet__Q15]]
 
 
 
@@ -821,7 +806,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) 5
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_cadet#q16|src_kangourou_2015_marzo_cadet__Q16]]
 
 
 
@@ -909,7 +893,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) 32
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_cadet#q17|src_kangourou_2015_marzo_cadet__Q17]]
 
 
 
@@ -966,7 +949,6 @@ The manufacturer shall provide the manufacturer with the following information:
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2015_marzo_cadet#q18|src_kangourou_2015_marzo_cadet__Q18]]
 
 
 
@@ -1052,7 +1034,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > The figure shows how some of the unit segments that delimit the triangles of a drawing have been colored. Luigi wants to colour the remaining unit segments in red or green or blue. Each triangle must have a side of each color. How can you color the x-marked segment? A) Only green. B) Only red. C) Only blue. D) Whether red or blue. E) It cannot carry out the project.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2015_marzo_cadet#q19|src_kangourou_2015_marzo_cadet__Q19]]
 
 
 
@@ -1103,7 +1084,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) 4 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2015_marzo_cadet#q20|src_kangourou_2015_marzo_cadet__Q20]]
 
 
 
@@ -1194,7 +1174,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > D) - 4 E) 0
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_cadet#q21|src_kangourou_2015_marzo_cadet__Q21]]
 
 
 
@@ -1234,7 +1213,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > C) 48 D) 53 E) 82
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_cadet#q22|src_kangourou_2015_marzo_cadet__Q22]]
 
 
 
@@ -1295,7 +1273,6 @@ The manufacturer shall provide the manufacturer with the following information:
 >
 
 **Answer:** D
-[[Quesiti/src_kangourou_2015_marzo_cadet#q23|src_kangourou_2015_marzo_cadet__Q23]]
 
 
 
@@ -1342,7 +1319,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) 20
 
 **Answer:** A
-[[Quesiti/src_kangourou_2015_marzo_cadet#q24|src_kangourou_2015_marzo_cadet__Q24]]
 
 
 
@@ -1377,7 +1353,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > Charles has seven pieces of iron wire each 1 cm, 2 cm, 3 cm, 4 cm, 5 cm, 6 cm and 7 cm long. He wants to use some of them to build, without cutting them or overlaying them (not even partially), a cubic lattice with edges of length
 
 **Answer:** D
-[[Quesiti/src_kangourou_2015_marzo_cadet#q25|src_kangourou_2015_marzo_cadet__Q25]]
 
 
 
@@ -1406,7 +1381,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > 26. In a trapezoid PQRS the sides PQ and SR are parallel and PQ is three times SR; moreover SR ^ and SP are equal and the angle RSP measures 120° (120 degrees). What is the measure of the angle ^ PQR? A) 15° B) 22°30’ C) 25° D) 30° E) 45°
 
 **Answer:** D
-[[Quesiti/src_kangourou_2015_marzo_cadet#q26|src_kangourou_2015_marzo_cadet__Q26]]
 
 
 
@@ -1435,7 +1409,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > 27. Alberto drew five points on a straight line and now, for each pair of points, measures the distance between them. Of the ten different numbers he gets, nine are (listed in ascending order): 2, 5, 6, 8, 9, 15, 17, 20, and 22. The missing one is under 22. What is it? A)10 B) 11 C) 12 D) 13 E) 14
 
 **Answer:** E
-[[Quesiti/src_kangourou_2015_marzo_cadet#q27|src_kangourou_2015_marzo_cadet__Q27]]
 
 
 
@@ -1464,7 +1437,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > 28. Yesterday, I wrote down the phone number of my friend Luca. The number I wrote has six digits, but I remember Luca telling me the number is seven digits. I don't know which digit I forgot to write down, or in what position it might be. If I'm going to be able to call Luca, how many attempts do I have to make? (Note: a telephone number may start with any number, including 0.) A) 55 B) 60 C) 64 D) 70 E) 80
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_cadet#q28|src_kangourou_2015_marzo_cadet__Q28]]
 
 
 
@@ -1493,7 +1465,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > 29. Maria divides 2015 subsequently by 1, 2, 3 and so on up to 1000 inclusive. She writes down the remainders of each division. What's the largest remainder she finds? A) 15 B) 215 C) 671 D) 1007 E) None of the above.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_cadet#q29|src_kangourou_2015_marzo_cadet__Q29]]
 
 
 
@@ -1522,4 +1493,3 @@ The manufacturer shall provide the manufacturer with the following information:
 > 30. I intend to color each positive integer according to the following three rules: Each number is either red or blue. The sum of two different red numbers is always a red number. The sum of two different blue numbers is always a blue number. In how many different ways can I make these colorings? A) 0 B) 2 C) 4 D) 6
 
 **Answer:** D
-[[Quesiti/src_kangourou_2015_marzo_cadet#q30|src_kangourou_2015_marzo_cadet__Q30]]

@@ -33,8 +33,6 @@ level: Olimpiade Polacca Round 1
 
 > Trova tutti gli integri positivi $n$ per i quali l'equazione $\tan x + \cot x = 2\sin nx$ ha una soluzione reale.
 
-[[Quesiti/src_pol_1996_r1#q01|src_pol_1996_r1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: Olimpiade Polacca Round 1
 *Ricerca tutti i numeri primi che dividono almeno una differenza di numeri palindromici consecutivi*
 
 > Un numero naturale è \emph{palindromic} se è uguale al numero ottenuto leggendo la sua rappresentazione decimale da destra a sinistra. Lasciate che $x_1, x_2, x_3, \ldots$ sia la sequenza crescente di tutti i numeri palindromici. Trova tutti i numeri primi che dividono almeno una delle differenze $x_{k+1} - x_k$.
-
-[[Quesiti/src_pol_1996_r1#q02|src_pol_1996_r1__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: Olimpiade Polacca Round 1
 
 > In un gruppo di persone $kn$ ($k, n \in \mathbb{N}$), tutti conoscono più di $(k-1)n$ degli altri. dimostrare che esiste un gruppo di persone $k+1$ che si conoscono tutte.
 
-[[Quesiti/src_pol_1996_r1#q03|src_pol_1996_r1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -113,8 +107,6 @@ level: Olimpiade Polacca Round 1
 *Una tangente all'incircolo di un triangolo equilaterale incontra AB, AC a D, E; prova AD/DB + AE/EC = 1*
 
 > Una linea tangente all'incircolo di un triangolo equilaterale $ABC$ si interseca rispettivamente a $AB$ e $AC$ a $D$ e $E$. Prove che $\frac{AD}{DB} + \frac{AE}{EC} = 1$.
-
-[[Quesiti/src_pol_1996_r1#q04|src_pol_1996_r1__Q04]]
 
 
 
@@ -141,8 +133,6 @@ level: Olimpiade Polacca Round 1
 
 > In un triangolo $ABC$, l'angolo $\angle CAB$ è obtuso. Il segmento $PQ$ deve essere qualsiasi segmento il cui punto medio è $A$. Mostrare che $BP + CQ \ge \tan\frac{\angle CAB}{2}\cdot BC$.
 
-[[Quesiti/src_pol_1996_r1#q05|src_pol_1996_r1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_induzione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
@@ -167,8 +157,6 @@ level: Olimpiade Polacca Round 1
 *Due sequenze in aumento (una differenza aritmetica r, un rapporto geometrico q>1) con un termine comune; se condividono un termine comune, dimostrare infinitamente molti*
 
 > Sono date due sequenze in aumento: una progressione aritmetica con differenza $r > 0$ e una progressione geometrica con rapporto $q > 1$, dove $q$ e $r$ sono coprime. Prova che se queste due sequenze hanno un termine comune, allora hanno infinitamente molti termini comuni.
-
-[[Quesiti/src_pol_1996_r1#q06|src_pol_1996_r1__Q06]]
 
 
 
@@ -195,8 +183,6 @@ level: Olimpiade Polacca Round 1
 
 > $a, b, c$ e $p, q, r$ siano numeri non negativi che soddisfino $a + b + c = p + q + r = 1$ e $p, q, r \le 1/2$. Prove che $$8abc \le pa + qb + rc$$ e trova quando si verifica l'uguaglianza.
 
-[[Quesiti/src_pol_1996_r1#q07|src_pol_1996_r1__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,topic_combinatoria,method_invarianti,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -221,8 +207,6 @@ level: Olimpiade Polacca Round 1
 *Il raggio di luce dal centro del quadrato si riflette lateralmente e torna al centro per la prima volta; dimostrare numero impar di riflessi*
 
 > Un raggio di luce parte dal centro di un quadrato e si riflette dai suoi lati (gli angoli di riflessione e di incidenza sono sempre uguali). Il raggio non raggiunge mai il vertice del quadrato e, dopo un po', ritorna al centro per la prima volta. Prove che il raggio si riflette dai lati del quadrato un numero imparato di volte.
-
-[[Quesiti/src_pol_1996_r1#q08|src_pol_1996_r1__Q08]]
 
 
 
@@ -249,8 +233,6 @@ level: Olimpiade Polacca Round 1
 
 > Un polinomio con coefficienti interi, quando diviso da $x^2 - 12x + 11$, dà il rimanente $990x - 889$. Prova che questo polinomio non ha radici interi.
 
-[[Quesiti/src_pol_1996_r1#q09|src_pol_1996_r1__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
@@ -275,8 +257,6 @@ level: Olimpiade Polacca Round 1
 *Prove x^9 = y^3 + z^3 ha infinite soluzioni in interi positivi*
 
 > Prova che l'equazione $x^9 = y^3 + z^3$ ha infinite soluzioni in numeri interi positivi $x, y, z$.
-
-[[Quesiti/src_pol_1996_r1#q10|src_pol_1996_r1__Q10]]
 
 
 
@@ -303,8 +283,6 @@ level: Olimpiade Polacca Round 1
 
 > In una competizione di salto sciistico $65$ i concorrenti saltano in un ordine predeterminato, ognuno di loro esattamente una volta. Supponiamo che i loro risultati siano tutti diversi e che tutte le possibili classifiche finali siano ugualmente probabili. In ogni momento della competizione chiamiamo leader la persona con il miglior punteggio (in quel momento). Che la probabilità di $p$ sia quella che durante l'intero concorso ci sia stato esattamente un solo cambio di leader. Prove che $p > 1/16$.
 
-[[Quesiti/src_pol_1996_r1#q11|src_pol_1996_r1__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_solida,method_simmetria,method_casework,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -329,5 +307,3 @@ level: Olimpiade Polacca Round 1
 *Determine se due cubetti congruenti con centro comune possono essere posizionati in modo che ogni faccia di uno e ogni faccia dell'altro condividano un punto comune*
 
 > Trova se esistono due cubi congruenti con un centro comune in modo tale che ogni faccia di un cubo e ogni faccia dell'altro cubo abbiano un punto comune.
-
-[[Quesiti/src_pol_1996_r1#q12|src_pol_1996_r1__Q12]]

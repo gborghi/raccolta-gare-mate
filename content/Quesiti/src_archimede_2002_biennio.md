@@ -48,7 +48,6 @@ level: biennio
 > - **(E)** 750.
 
 **Answer:** D
-[[Quesiti/src_archimede_2002_biennio#q01|src_archimede_2002_biennio__Q01]]
 
 
 
@@ -90,7 +89,6 @@ level: biennio
 > - **(E)** It depends on the numbers of the number given.
 
 **Answer:** D
-[[Quesiti/src_archimede_2002_biennio#q02|src_archimede_2002_biennio__Q02]]
 
 
 
@@ -131,8 +129,6 @@ Minimum calendar sheets for the third millennium
 > - **(C)** 28
 > - **(D)** 30
 > - **(E)** 32.
-
-[[Quesiti/src_archimede_2002_biennio#q03|src_archimede_2002_biennio__Q03]]
 
 
 
@@ -203,8 +199,6 @@ Minimum calendar sheets for the third millennium
 > - **(D)** è 1 2
 > - **(E)** cannot be determined by the information given.
 
-[[Quesiti/src_archimede_2002_biennio#q04|src_archimede_2002_biennio__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,skill_modellizzazione"></span>
@@ -243,8 +237,6 @@ Minimum calendar sheets for the third millennium
 > - **(C)** 27 cm
 > - **(D)** 50 cm
 > - **(E)** depends on the distance between the wheels.
-
-[[Quesiti/src_archimede_2002_biennio#q05|src_archimede_2002_biennio__Q05]]
 
 
 
@@ -290,8 +282,6 @@ Minimum calendar sheets for the third millennium
 > - **(D)** π 6
 > - **(E)** Depends on the side of the cube. b A
 
-[[Quesiti/src_archimede_2002_biennio#q06|src_archimede_2002_biennio__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_logica,skill_lettura_attenta"></span>
@@ -329,8 +319,6 @@ Minimum calendar sheets for the third millennium
 > - **(C)** If a person is a teacher and owns a luxury car, then he has a wealthy spouse.
 > - **(D)** If a person has a luxury car, then he is a teacher and he has a rich spouse.
 > - **(E)** If a person has a rich spouse, then he is a teacher and owns a luxury car.
-
-[[Quesiti/src_archimede_2002_biennio#q07|src_archimede_2002_biennio__Q07]]
 
 
 
@@ -372,8 +360,6 @@ After how many Sundays the three friends run together
 > - **(D)** 70
 > - **(E)** I never did.
 
-[[Quesiti/src_archimede_2002_biennio#q08|src_archimede_2002_biennio__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,skill_modellizzazione"></span>
@@ -411,8 +397,6 @@ After how many Sundays the three friends run together
 > - **(C)** 28 years
 > - **(D)** 32 years
 > - **(E)** Thirty-three years.
-
-[[Quesiti/src_archimede_2002_biennio#q09|src_archimede_2002_biennio__Q09]]
 
 
 
@@ -454,8 +438,6 @@ After how many Sundays the three friends run together
 > - **(C)** 179700
 > - **(D)** 356400
 > - **(E)** 360000.
-
-[[Quesiti/src_archimede_2002_biennio#q10|src_archimede_2002_biennio__Q10]]
 
 
 
@@ -501,8 +483,6 @@ After how many Sundays the three friends run together
 > - **(D)** depends on the angle $\widehat{AOB}$
 > - **(E)** You can't build it.
 
-[[Quesiti/src_archimede_2002_biennio#q11|src_archimede_2002_biennio__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,skill_riconoscimento_pattern"></span>
@@ -543,8 +523,6 @@ After how many Sundays the three friends run together
 > - **(D)** (ii) and (iii)
 > - **(E)** All three of them.
 
-[[Quesiti/src_archimede_2002_biennio#q12|src_archimede_2002_biennio__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_solida,skill_modellizzazione"></span>
@@ -581,8 +559,6 @@ After how many Sundays the three friends run together
 > - **(C)** 35 cm
 > - **(D)** 40 cm
 > - **(E)** 50 cm.
-
-[[Quesiti/src_archimede_2002_biennio#q13|src_archimede_2002_biennio__Q13]]
 
 
 
@@ -622,8 +598,6 @@ After how many Sundays the three friends run together
 > - **(D)** 32 cents
 > - **(E)** There are arbitrarily large figures that are not exactly payable.
 
-[[Quesiti/src_archimede_2002_biennio#q14|src_archimede_2002_biennio__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_solida,method_conteggio,skill_ragionamento_geometrico"></span>
@@ -662,8 +636,6 @@ After how many Sundays the three friends run together
 > - **(C)** 24
 > - **(D)** 27
 > - **(E)** 32.
-
-[[Quesiti/src_archimede_2002_biennio#q15|src_archimede_2002_biennio__Q15]]
 
 
 
@@ -706,8 +678,6 @@ After how many Sundays the three friends run together
 > - **(D)** The figure is impossible.
 > - **(E)** There is no conclusion to be drawn. A B
 
-[[Quesiti/src_archimede_2002_biennio#q16|src_archimede_2002_biennio__Q16]]
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,skill_conteggio_sistematico"></span>
@@ -746,8 +716,6 @@ Ways to balance 16 g with weights of 1, 3, 9*
 > - **(C)** 7
 > - **(D)** 9
 > - **(E)** 16.
-
-[[Quesiti/src_archimede_2002_biennio#q17|src_archimede_2002_biennio__Q17]]
 
 
 
@@ -790,8 +758,6 @@ Ways to balance 16 g with weights of 1, 3, 9*
 > - **(D)** il 203°
 > - **(E)** The kangaroo will fall anyway.
 
-[[Quesiti/src_archimede_2002_biennio#q18|src_archimede_2002_biennio__Q18]]
-
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
@@ -833,8 +799,6 @@ Ways to balance 16 g with weights of 1, 3, 9*
 > - **(D)** 4
 > - **(E)** 5.
 
-[[Quesiti/src_archimede_2002_biennio#q19|src_archimede_2002_biennio__Q19]]
-
 
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_logica,topic_aritmetica,method_casework,skill_casework_accurato"></span>
@@ -873,5 +837,3 @@ Ways to balance 16 g with weights of 1, 3, 9*
 > - **(C)** 5
 > - **(D)** 10
 > - **(E)** It's impossible to determine.
-
-[[Quesiti/src_archimede_2002_biennio#q20|src_archimede_2002_biennio__Q20]]

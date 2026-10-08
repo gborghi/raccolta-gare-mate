@@ -38,8 +38,6 @@ level: squadre
 
 > Today, Numeruto's team is facing a rather singular mission. The three find themselves considering the succession of natural a1 = 1000, a2 = x, a3 = a1−a2, . . . , an = an−2−an−1. The sequence ends with the first negative. What value of x should Numeruto's team trace to get the longest sequence?
 
-[[Quesiti/src_cesenatico_2007_squadre_pubblico#q01|src_cesenatico_2007_squadre_pubblico__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
@@ -100,8 +98,6 @@ level: squadre
 
 > In the open field [10] Numeruto and Sekante finally face each other, face to face, on a plateau. The plane is shaped like a rectangle 2940×3000, and two tangent circumferences must be drawn externally, and each of the two tangents on two consecutive sides of the rectangle, so that all sides are touched by a single circumference. Determine the maximum value of the sum of the rays.
 
-[[Quesiti/src_cesenatico_2007_squadre_pubblico#q02|src_cesenatico_2007_squadre_pubblico__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico"></span>
@@ -132,8 +128,6 @@ level: squadre
 
 > A reason for pride [20] The front cover is the symbol that every morning in the village of Retta wears proudly. Today Numeruto is required to build himself from his front. Numbering starts from an ABCD parallelogram of area 12600. After that, it denotes with E, F, G, H the mean points of the sides AB, BC, CD, DA respectively and finally traces the segments AG, BH, CE, DF. Calculate the area of the parallelogram at the vertices of the intersections of these four segments.
 
-[[Quesiti/src_cesenatico_2007_squadre_pubblico#q03|src_cesenatico_2007_squadre_pubblico__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato"></span>
@@ -162,8 +156,6 @@ level: squadre
 *Biggest N 4 digits with the last digit 1 in bases 4,5,6,7*
 
 > An appropriate agreement [30] As everyone knows, the morning villages of Retta, Root, Monoide and Binomio count on different bases. Find the largest number N of 4 decimal digits whose penultimate digit is 1 when N is written in base 4, 5, 6, 7.
-
-[[Quesiti/src_cesenatico_2007_squadre_pubblico#q04|src_cesenatico_2007_squadre_pubblico__Q04]]
 
 
 
@@ -198,8 +190,6 @@ level: squadre
 
 > The invasion! [20] The Moreninja of the village of the Root have invaded the village of Numeruto! Every street corner is the scene of bloody clashes. In one of these, two mateninja are committed to finding the smallest integer b > 1 such that there exist m, n natural minors of b so that the positive integer (mnmn) b (i.e. the number mnmn at the base of b) is a perfect cube. Returns the value of b+m+n as a response. Team competition 2007  Public competition  Problem texts  Pag. 1 di 4
 
-[[Quesiti/src_cesenatico_2007_squadre_pubblico#q05|src_cesenatico_2007_squadre_pubblico__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
@@ -232,8 +222,6 @@ level: squadre
 
 > A coincidence [30] The great council of the village of Retta accurately transcribes all the proceeds of the missions carried out by its moreninja. A scroll records this year's revenues and Isoshilo immediately noticed that all the numbers a1, a2, . . . , are in strictly increasing order and have a curious feature: they are all numbers that have 7 as a sum of digits (in decimal form). If N is the index of first income exceeding 2000, calculate a5N 1000
 
-[[Quesiti/src_cesenatico_2007_squadre_pubblico#q06|src_cesenatico_2007_squadre_pubblico__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_probabilita,topic_funzionali,method_ricorsione,skill_astrazione"></span>
@@ -262,8 +250,6 @@ level: squadre
 *Infinite probability of descent (branching)*
 
 > A singular technique [35] The Numeruto Matemaki has created a copy of it to confuse the pursuers of the village of Binomio. The copy, however, dissolves after a p or so, creating two more copies of Numbers with a probability of 5, 8, or disappearing without further consequences with a probability of 3.
-
-[[Quesiti/src_cesenatico_2007_squadre_pubblico#q07|src_cesenatico_2007_squadre_pubblico__Q07]]
 
 
 
@@ -298,8 +284,6 @@ level: squadre
 
 > What is the probability that the copy started a lineage that will never go extinct? Give as a solution the sum of the numerator and denominator of the fraction reduced to the minimum terms. 8. The last favorable moment for the seal closing ritual that imprisons the demon was 2007, as the mathematics is reinforced by the fact that 2007 is divisible by 9, 2008 by 8, 2009 by 7, and 2010 by 6. When a sequence, longer than this, of years with the characteristic of being orderly divisible by positive integers k, k −1, k −2, begins for the first time after 2007. . . ?
 
-[[Quesiti/src_cesenatico_2007_squadre_pubblico#q08|src_cesenatico_2007_squadre_pubblico__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico"></span>
@@ -330,8 +314,6 @@ level: squadre
 
 > Amara medicine [40] Otenusa is engaged in a difficult healing technique. Doses and measures are essential for medical morning. Otenusa considers an ABCD quadrilateral inscribed in a circumference with a radius equal to 15 mat-shaku. That said, the symmetry of B with respect to the AC segment axis, Otenusa knows that AC, BD and DE have lengths equal to 23, 24 and 25 mat-shaku respectively. What is the surface area of the ABCD quadrilateral in mat-shaku2?
 
-[[Quesiti/src_cesenatico_2007_squadre_pubblico#q09|src_cesenatico_2007_squadre_pubblico__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato"></span>
@@ -359,8 +341,6 @@ level: squadre
 *N sum of three digits with the last three digits of N^3 = 888*
 
 > A demanding client [35] A new difficult mission was commissioned at the village of Retta. The grand council must select all mateninja whose vital force is a three-digit number N for which the last three digits of N3 are 888. Find the sum of all these values.
-
-[[Quesiti/src_cesenatico_2007_squadre_pubblico#q10|src_cesenatico_2007_squadre_pubblico__Q10]]
 
 
 
@@ -394,8 +374,6 @@ level: squadre
 *Valid sequences of 12 zodiac positions starting from tiger*
 
 > Magical positions [40] The signs of the morning zodiac are 12 like ours. Each sign has exactly two friends and one enemy sign. The two friends of one sign are always enemies of the other. A sign and its enemy always have the same two friend signs. Friendship and enmity are symmetrical. Mathematical techniques of mateninja require a rapid sequence of positions to be executed by hand. The different positions in the whole are 12, each called as the corresponding sign of the morning zodiac. In a sequence of valid positions the positions are all different, if a sign appears its enemy does not appear and two friends signs are never consecutive. How many are in all the valid position sequences that start with the tiger's position?
-
-[[Quesiti/src_cesenatico_2007_squadre_pubblico#q11|src_cesenatico_2007_squadre_pubblico__Q11]]
 
 
 
@@ -432,8 +410,6 @@ level: squadre
 > 
 > Team competition 2007  Public competition  Problem texts  Pag. 3 di 4
 
-[[Quesiti/src_cesenatico_2007_squadre_pubblico#q12|src_cesenatico_2007_squadre_pubblico__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_algebra,method_disuguaglianze,method_estremalita,skill_astrazione"></span>
@@ -467,8 +443,6 @@ level: squadre
 *Summary of N values with N=sum i/a_i, at positive increases*
 
 > A curious coincidence [40] A curious coincidence has recently been noted. All of the greatest moreninjas in the history of the village of Retta have had a life force positive integer N such that there are a1, a2, . . . , a2007 positive integers for which a1 < a2 < ... < a2007 e N = 1 a1 + 2 a2 + 3 a3 +··+ 2007 a2007. Find the sum of all life force N values (indicate the last 4 digits of that sum if the result is greater than 9999).
-
-[[Quesiti/src_cesenatico_2007_squadre_pubblico#q13|src_cesenatico_2007_squadre_pubblico__Q13]]
 
 
 
@@ -504,8 +478,6 @@ level: squadre
 
 > A distracted official [30] The missions are catalogued by the village council in descending order of difficulty, in categories A, B, C, D. There are three levels of mateninja, the Piccin (the apprentices), the Mezzin and the Grandin (the most skilled). Missions A are entrusted exclusively to the Grandin, those B only to the Mezzin, those C can be assigned to the Mezzin or Piccin, those D only to the Piccin. A distracted official lost the scroll on which he had written the categories of the last eight missions inspected by the board. All you know is that one of these was entrusted to a Grandin, two to a Mezzin, five to a Piccin team. But he doesn't remember which missions were entrusted to whom. In how many ways can you assign each mission its own category in a way that is consistent with the information it has?
 
-[[Quesiti/src_cesenatico_2007_squadre_pubblico#q14|src_cesenatico_2007_squadre_pubblico__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_trigonometria,method_telescoping,method_trigonometria,skill_manipolazione_algebrica"></span>
@@ -539,8 +511,6 @@ level: squadre
 *Value of 10000 times the product of multiple breasts of pi/5*
 
 > The final test [50] The exam to become Mezzin has now come to an end. Few hardworking mornings have managed to reach this goal. But only those who can say how much is worth 10000 (less π 5) (less than 2 5 π) (less than 3 5 π) (less than 4 5 π) will be able to claim the title. What is the value to be given to complete the exam?
-
-[[Quesiti/src_cesenatico_2007_squadre_pubblico#q15|src_cesenatico_2007_squadre_pubblico__Q15]]
 
 
 
@@ -576,8 +546,6 @@ Calculation of the sum of the coefficients a_(3k+1) of ((x^4+x^2+1)/3)^2007*
 
 > A rough road [55] Numeruto and his team are chasing Sekante's kidnappers. Our mornings are moving cautiously, the pursuers have spread the traps. Suddenly, Numeruto is trapped in a trap. If p(x) = x4+x2+1 3 2007. If p(x) = a0 + a1x + a2x2 + ·· + a8028x8028, the only way to get out of the trap is to calculate a1 + a4 + a7 +... + a3k+1 +... + a8026. Give the sum of the numerator and denominator of the result reduced to the minimum terms.
 
-[[Quesiti/src_cesenatico_2007_squadre_pubblico#q16|src_cesenatico_2007_squadre_pubblico__Q16]]
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_algebra,topic_aritmetica,method_backward,method_estremalita,skill_modellizzazione"></span>
@@ -607,8 +575,6 @@ Calculation of the sum of the coefficients a_(3k+1) of ((x^4+x^2+1)/3)^2007*
 *Minimum minutes with possibility of rapid doubling*
 
 > Race against time [30] Numeruto must run to save his companion Otenusa, a prisoner at 265 mat-cho from him. Numeruto can decide, from the start, whether to continue running or spend a minute to summon a spirit that doubles his speed, but between one invocation and the other he must travel at least 1 mat-cho. If its initial speed is 1 matcho per minute, how many minutes will it take to get from Otenusa? Give as a solution the numerator of the fraction reduced to the minimum terms.
-
-[[Quesiti/src_cesenatico_2007_squadre_pubblico#q17|src_cesenatico_2007_squadre_pubblico__Q17]]
 
 
 
@@ -641,8 +607,6 @@ Calculation of the sum of the coefficients a_(3k+1) of ((x^4+x^2+1)/3)^2007*
 
 > A make-up deck [40] The classic mateninja deck consists of 16 cards, marked with a number between 1, 2, 3, 4 and a symbol between ♥, ♣, ♦, (so that for each paired number-symbol there is a card). A mateninja deck becomes magical if adjacent cards have adjacent values (the 4 is considered adjacent to  1 and vice versa, a value is not adjacent to itself). How many possible magic morning decks are there? Give the answer the number of all the positive divisors of the number of magic decks.
 
-[[Quesiti/src_cesenatico_2007_squadre_pubblico#q18|src_cesenatico_2007_squadre_pubblico__Q18]]
-
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_probabilita,topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
@@ -673,8 +637,6 @@ Calculation of the sum of the coefficients a_(3k+1) of ((x^4+x^2+1)/3)^2007*
 *Mean value of the square of the distance between two points on the edge*
 
 > The arena for mateninja skill clashes is shaped like a circle of 10 mat-ken rays. If two ninjas randomly position themselves, independently of each other, on two points placed on the edge of the arena, what is the average value of the square of the distance between the two?
-
-[[Quesiti/src_cesenatico_2007_squadre_pubblico#q19|src_cesenatico_2007_squadre_pubblico__Q19]]
 
 
 
@@ -708,8 +670,6 @@ Calculation of the sum of the coefficients a_(3k+1) of ((x^4+x^2+1)/3)^2007*
 
 > Recreation [60] Morning school is tough, but fortunately, there are times when you relax. Today, 31 young students of mateninjutsu play ball with the following rules. Each player chooses another player, different from himself, so that no person is chosen more than once. Each is then given a ball with his or her name written on it. At this point, the game begins and each student passes the ball to the partner he chooses. The game ends when every morning the ball comes back with its own name. How many shifts does the game take?
 
-[[Quesiti/src_cesenatico_2007_squadre_pubblico#q20|src_cesenatico_2007_squadre_pubblico__Q20]]
-
 
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico"></span>
@@ -742,8 +702,6 @@ Calculation of the sum of the coefficients a_(3k+1) of ((x^4+x^2+1)/3)^2007*
 
 > Trapped [65] Numeruto is surrounded by four moreninja from the village of Binomio. The four opposing moreninja are at the vertices of a non-degenerating quadrilateral ABCD inscribed in a circumference. The AC diagonal is a diameter and is 2 mat-cho long. Furthermore, if the intersection point between the diagonal is indicated by P, the PC segment is known to be 2 5 long. Knowing that AB is BD, determining the length of CD. Give as a solution the fraction numerator to the minimum terms.
 
-[[Quesiti/src_cesenatico_2007_squadre_pubblico#q21|src_cesenatico_2007_squadre_pubblico__Q21]]
-
 
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_aritmetica,topic_combinatoria,method_backward,method_estremalita,skill_riconoscimento_pattern"></span>
@@ -772,8 +730,6 @@ Calculation of the sum of the coefficients a_(3k+1) of ((x^4+x^2+1)/3)^2007*
 *Minimum L for the additive chain reaching 12509*
 
 > Of moreninja and toads [70] Numeruto is engaged in the complex evocation of the wise giant mega-toad. A string of evocations for an integer N is a sequence of integers a0, a1, . . . , aL where a0 = 1, aL = N and each element (except a0) is the sum of two elements, not necessarily distinct, that precede it. What's the minimum value of L for a string of calls to give aL = 12509?
-
-[[Quesiti/src_cesenatico_2007_squadre_pubblico#q22|src_cesenatico_2007_squadre_pubblico__Q22]]
 
 
 
@@ -808,8 +764,6 @@ Calculation of the sum of the coefficients a_(3k+1) of ((x^4+x^2+1)/3)^2007*
 
 > Question of measures [70] The amount of life force Numeruto needs for its superior multiplication technique must be carefully calibrated, so that the technique fails. Numbered must find the maximum of the function f(a,b,c,d) = 2bd −d2 −b2 +100a−100c+280, when a,b,c,d varies between the positive integers that occur (a+b)2 +2a+b = (c+d)2 +2c+d. How much is it worth?
 
-[[Quesiti/src_cesenatico_2007_squadre_pubblico#q23|src_cesenatico_2007_squadre_pubblico__Q23]]
-
 
 
 <span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
@@ -839,5 +793,3 @@ Calculation of the sum of the coefficients a_(3k+1) of ((x^4+x^2+1)/3)^2007*
 *Value of a^2 b+b^2 c+c^2 a for roots of x^3-10x^2-25x+125*
 
 > The polynomial eye [80] An innate ability of Sekante's clan allows for evaluating in an instant any combination of the roots of a polynomial. Today Sekante has discovered that he also possesses this ability. In fact, if a > b > c are the three roots of the polynomial x3 −10x2 −25x+125, he immediately calculated the exact value of a2b+b2c+c2a. What's this value?
-
-[[Quesiti/src_cesenatico_2007_squadre_pubblico#q24|src_cesenatico_2007_squadre_pubblico__Q24]]

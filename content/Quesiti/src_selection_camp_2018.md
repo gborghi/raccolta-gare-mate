@@ -33,8 +33,6 @@ level: CAMP Selection Camp
 
 > Il $ABCDE$ deve essere un pentagono convexo che soddisfa $AB = BC = CD$, $\angle EAB = \angle BCD$ e $\angle EDC = \angle CBA$. Provare che la perpendicolare è scesa da $E$ alla linea $BC$, e che le linee $AC$ e $BD$ si incontrano tutti in un unico punto.
 
-[[Quesiti/src_selection_camp_2018#q01|src_selection_camp_2018__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_insiemi_funzioni,topic_combinatoria,method_invarianti,method_backward,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
@@ -63,8 +61,6 @@ level: CAMP Selection Camp
 
 > $n$ sia un numero intero positivo. Let $S = \{1, 2, \ldots, n\}$, e let $\mathcal{A}$ essere l'insieme di tutte le funzioni da $S$ a $S$. Let $f$ essere una funzione in $\mathcal{A}$. Supponiamo che l'unica funzione $g \in \mathcal{A}$ che soddisfa $$f(g(f(m))) = g(f(g(m))), \quad m = 1, 2, \ldots, n$$ sia la stessa $g = f$. Provare che $$\{f(m) \mid m = 1, 2, \ldots, n\} = \{f(f(m)) \mid m = 1, 2, \ldots, n\}.$$
 
-[[Quesiti/src_selection_camp_2018#q02|src_selection_camp_2018__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -92,8 +88,6 @@ level: CAMP Selection Camp
 
 > Trova tutte le coppie di prime $(p, q)$ con $p > q$ in modo tale che $$\frac{(p+q)^{p+q}(p-q)^{p-q} - 1}{(p+q)^{p-q}(p-q)^{p+q} - 1}$$ sia un numero intero.
 
-[[Quesiti/src_selection_camp_2018#q03|src_selection_camp_2018__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_geometria_piana,method_estremalita,method_conteggio,method_doppio_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_modellizzazione"></span>
@@ -118,8 +112,6 @@ level: CAMP Selection Camp
 *Numero minimo di separazione totale su tutte le linee attraverso n punti in posizione generale*
 
 > $n \ge 3$ sia un numero intero. Considera un insieme $S$ di punti $n$ nel piano in modo tale che nessun punto sia collineare. $L$ è l'insieme di tutte le linee che attraversano due punti distinti di $S$. Per una linea $\ell \in L$, definire il suo numero di separazione come il prodotto del numero di punti di $S$ in ciascuno dei due semipiani aperti determinati da $\ell$. Trova il valore minimo possibile della somma dei numeri di separazione su tutte le linee in $L$.
-
-[[Quesiti/src_selection_camp_2018#q04|src_selection_camp_2018__Q04]]
 
 
 
@@ -151,8 +143,6 @@ level: CAMP Selection Camp
 
 > Prove che ci sono solo finitamente molti interi positivi $n$ per i quali esiste un sottoinsieme $S \subseteq \{1, 2, \ldots, n\}$ che soddisfa le seguenti due condizioni: \begin{itemize} \item Il numero di elementi di $S$ è almeno $[\sqrt{n}] + 1$. \item Per due elementi $x, y \in S$, il prodotto $xy$ è una potenza perfetta, cioè un intero che può essere espresso come $a^b$ per un intero positivo $a$ e un intero $b \ge 2$. \end{itemize} Qui, per un numero reale $r$, $[r]$ indica il numero intero più grande non superiore a $r$.
 
-[[Quesiti/src_selection_camp_2018#q05|src_selection_camp_2018__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_induzione,method_invarianti,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_stima"></span>
@@ -179,8 +169,6 @@ level: CAMP Selection Camp
 *Sequenza di numeri interi con parametri interi positivi: uno di a_{2017}, a_{2018} è almeno 2017*
 
 > Che $a_0, a_1, a_2, \ldots$ sia una sequenza di enti interi e $b_0, b_1, b_2, \ldots$ sia una sequenza di enti interi positivi. Supponiamo $a_0 = 0$, $a_1 = 1$, e per $n = 1, 2, \ldots$, $$a_{n+1} = \begin{cases} a_n b_n + a_{n-1} & \text{if } b_{n-1} = 1, \\ a_n b_n - a_{n-1} & \text{if } b_{n-1} > 1. \end{cases}$$ Prove che almeno uno dei $a_{2017}$ e $a_{2018}$ sia maggiore o uguale a $2017$.
-
-[[Quesiti/src_selection_camp_2018#q06|src_selection_camp_2018__Q06]]
 
 
 
@@ -215,8 +203,6 @@ level: CAMP Selection Camp
 > 
 > Il gioco termina quando tutti gli elementi di $\{0, 1, \ldots, p-1\}$ sono stati scelti. $a_i$ sia il numero intero assegnato a $i$ e imposta $M = a_0 + a_1 \cdot 10 + \cdots + a_{p-1} \cdot 10^{p-1}$. Se $M$ è divisibile per $p$, vince il primo giocatore; altrimenti vince il secondo giocatore. Prove che il primo giocatore ha una strategia vincente.
 
-[[Quesiti/src_selection_camp_2018#q07|src_selection_camp_2018__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_astrazione"></span>
@@ -241,8 +227,6 @@ level: CAMP Selection Camp
 *Quadrilatero converso con incircolo; gli incentri di due triangoli e il punto tangente esterno comune sono conciclici con I*
 
 > $ABCD$ sia un quadrilaterale convex che abbia un cerchio inciso con il centro $I$. I centri di incendio dei triangoli $I_a$ e $I_c$ siano rispettivamente $DAB$ e $BCD$. Supponiamo che la tangente esterna comune (diversi dai lati del quadrilaterale) dei circoncircoli dei triangoli $BI_aI_c$ e $DI_aI_c$ si incontrino a un punto $X$. Prova che i quattro punti $X$, $I$, $I_a$, $I_c$ sono conciclici.
-
-[[Quesiti/src_selection_camp_2018#q08|src_selection_camp_2018__Q08]]
 
 
 
@@ -271,8 +255,6 @@ level: CAMP Selection Camp
 *L'operazione ∗ su gruppi finiti di integri positivi; A∗B=B∗A implica l'associazione stellare iterata*
 
 > Per i set finiti $X$ e $Y$ di enti interi positivi, $f_X(k)$ indica il $k$-minimo intero positivo non in $X$. Definire $$X * Y = X \cup \{f_X(y) \mid y \in Y\}.$$ Lasciate che $a, b$ siano numeri interi positivi. Che $A$ sia un insieme di enti interi positivi $a$ e $B$ sia un insieme di enti interi positivi $b$. Supponiamo $A * B = B * A$. Provare che $$\underbrace{A * (A * \cdots * (A * (A * A)) \cdots)}_{A \text{ appears } b \text{ times}} = \underbrace{B * (B * \cdots * (B * (B * B)) \cdots)}_{B \text{ appears } a \text{ times}}.$$
-
-[[Quesiti/src_selection_camp_2018#q09|src_selection_camp_2018__Q09]]
 
 
 
@@ -303,8 +285,6 @@ level: CAMP Selection Camp
 
 > Lasciate che $a_1, a_2, \ldots, a_n, k, M$ siano integri positivi che soddisfino $$\frac{1}{a_1} + \frac{1}{a_2} + \cdots + \frac{1}{a_n} = k, \quad a_1 a_2 \cdots a_n = M.$$ Supponiamo $M > 1$. Prove che l'equazione $x$ $$M(x+1)^k - (x + a_1)(x + a_2) \cdots (x + a_n) = 0$$ non ha soluzioni reali positive.
 
-[[Quesiti/src_selection_camp_2018#q10|src_selection_camp_2018__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,method_casework,method_conteggio,method_doppio_conteggio,skill_conteggio_sistematico,skill_modellizzazione,skill_riconoscimento_pattern"></span>
@@ -330,8 +310,6 @@ level: CAMP Selection Camp
 
 > $n \ge 2$ sia un numero intero. Considerate un grande cubo $n \times n \times n$ composto da cubi unitari $n^3$, ognuno dipinto in un colore. Per ciascuna delle lastre $3n$ di dimensioni $n \times n \times 1$ (in uno dei tre orientamenti), si deve considerare l'insieme dei colori presenti in tale lastra (conteggiando ogni colore solo una volta). Quando questi set $3n$ sono divisi in tre gruppi in base all'orientamento, si scopre che ogni set in un gruppo appare anche in ciascuno degli altri due gruppi. Trova il massimo numero possibile di colori che possono apparire nel grande cubo.
 
-[[Quesiti/src_selection_camp_2018#q11|src_selection_camp_2018__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_astrazione"></span>
@@ -356,5 +334,3 @@ level: CAMP Selection Camp
 *Esagono converso con AB=BC; riflessi di A,B,C attraverso la linea l; circoncircoli si incontrano a E; BB1 e DE si incontrano su circoncircolo*
 
 > Che $ABCC_1B_1A_1$ sia un esagono convexo che soddisfi $AB = BC$. $A_1$, $B_1$, $C_1$ siano rispettivamente i riflessi di $A$, $B$, $C$ su una linea $\ell$. Il $D$ è l'intersezione dei segmenti $AC_1$ e $A_1C$, e il $\omega$ è il circoncircolo del triangolo $ABC$. Supponiamo che $\omega$ e il circoncircolo del triangolo $A_1BC_1$ si incontrino in un punto $E$ diverso da $B$. Provare che la riga $BB_1$ e la riga $DE$ si incontrano su $\omega$.
-
-[[Quesiti/src_selection_camp_2018#q12|src_selection_camp_2018__Q12]]

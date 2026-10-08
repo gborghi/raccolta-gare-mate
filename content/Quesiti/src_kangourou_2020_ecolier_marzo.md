@@ -56,7 +56,6 @@ level: kangourou
 > E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2020_ecolier_marzo#q01|src_kangourou_2020_ecolier_marzo__Q01]]
 
 
 
@@ -102,7 +101,6 @@ level: kangourou
 > E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2020_ecolier_marzo#q02|src_kangourou_2020_ecolier_marzo__Q02]]
 
 
 
@@ -136,7 +134,6 @@ What shape does Antonio get by shadowing the results?
 > In each grid cell you see here next to it, an operation is indicated. Antonio shades all cells containing an operation resulting in 20. Which of the following forms does it take? A)                       B)                       C) D)                         E)
 
 **Answer:** A
-[[Quesiti/src_kangourou_2020_ecolier_marzo#q03|src_kangourou_2020_ecolier_marzo__Q03]]
 
 
 
@@ -186,7 +183,6 @@ What shape does Antonio get by shadowing the results?
 > E)
 
 **Answer:** A
-[[Quesiti/src_kangourou_2020_ecolier_marzo#q04|src_kangourou_2020_ecolier_marzo__Q04]]
 
 
 
@@ -248,7 +244,6 @@ What shape does Antonio get by shadowing the results?
 >
 
 **Answer:** D
-[[Quesiti/src_kangourou_2020_ecolier_marzo#q05|src_kangourou_2020_ecolier_marzo__Q05]]
 
 
 
@@ -286,7 +281,6 @@ What shape does Antonio get by shadowing the results?
 > With the six stickers you see on the side, you can make different shapes, but only one of the ones you see below. Which one? A) B) C) D) E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2020_ecolier_marzo#q06|src_kangourou_2020_ecolier_marzo__Q06]]
 
 
 
@@ -340,7 +334,6 @@ What shape does Antonio get by shadowing the results?
 > E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2020_ecolier_marzo#q07|src_kangourou_2020_ecolier_marzo__Q07]]
 
 
 
@@ -394,7 +387,6 @@ What shape does Antonio get by shadowing the results?
 > E) 7 Questions from N. 9 to N. 16 are worth 4 points each.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2020_ecolier_marzo#q08|src_kangourou_2020_ecolier_marzo__Q08]]
 
 
 
@@ -451,7 +443,6 @@ What shape does Antonio get by shadowing the results?
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2020_ecolier_marzo#q09|src_kangourou_2020_ecolier_marzo__Q09]]
 
 
 
@@ -502,7 +493,6 @@ What image does Luke see looking at the pyramid from above
 > D) E) Which of the images here on the side do you see?
 
 **Answer:** C
-[[Quesiti/src_kangourou_2020_ecolier_marzo#q10|src_kangourou_2020_ecolier_marzo__Q10]]
 
 
 
@@ -543,7 +533,6 @@ What image does Luke see looking at the pyramid from above
 > Notice the picture: Daniel tied his dog to a meter from the corner of a rectangular newsstand with sides measuring 7 m and 5 m. The leash is 11 m long. There are 5 bone-shaped toys in the positions you see in the figure: how many of them can be reached by the dog? A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** D
-[[Quesiti/src_kangourou_2020_ecolier_marzo#q11|src_kangourou_2020_ecolier_marzo__Q11]]
 
 
 
@@ -585,7 +574,6 @@ What image does Luke see looking at the pyramid from above
 > Martino builds a fence using poles like this, each one a meter long. In the figure, you see a four-meter-long fence. How many poles will Martino use to build a 10-meter-long fence? A) 22 B) 30 C) 33 D) 40 E) 42
 
 **Answer:** E
-[[Quesiti/src_kangourou_2020_ecolier_marzo#q12|src_kangourou_2020_ecolier_marzo__Q12]]
 
 
 
@@ -633,7 +621,6 @@ What image does Luke see looking at the pyramid from above
 > E) 73
 
 **Answer:** D
-[[Quesiti/src_kangourou_2020_ecolier_marzo#q13|src_kangourou_2020_ecolier_marzo__Q13]]
 
 
 
@@ -684,7 +671,6 @@ What image does Luke see looking at the pyramid from above
 >
 
 **Answer:** A
-[[Quesiti/src_kangourou_2020_ecolier_marzo#q14|src_kangourou_2020_ecolier_marzo__Q14]]
 
 
 
@@ -729,7 +715,6 @@ What image does Luke see looking at the pyramid from above
 > D) 4 E) 5
 
 **Answer:** D
-[[Quesiti/src_kangourou_2020_ecolier_marzo#q15|src_kangourou_2020_ecolier_marzo__Q15]]
 
 
 
@@ -785,7 +770,6 @@ What image does Luke see looking at the pyramid from above
 > Questions from No. 17 to No. 24 are worth 5 points each
 
 **Answer:** B
-[[Quesiti/src_kangourou_2020_ecolier_marzo#q16|src_kangourou_2020_ecolier_marzo__Q16]]
 
 
 
@@ -839,7 +823,6 @@ What image does Luke see looking at the pyramid from above
 > E) 12
 
 **Answer:** B
-[[Quesiti/src_kangourou_2020_ecolier_marzo#q17|src_kangourou_2020_ecolier_marzo__Q17]]
 
 
 
@@ -912,7 +895,6 @@ What image does Luke see looking at the pyramid from above
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2020_ecolier_marzo#q18|src_kangourou_2020_ecolier_marzo__Q18]]
 
 
 
@@ -962,7 +944,6 @@ What image does Luke see looking at the pyramid from above
 > E) Anna, Laura, Rosa
 
 **Answer:** A
-[[Quesiti/src_kangourou_2020_ecolier_marzo#q19|src_kangourou_2020_ecolier_marzo__Q19]]
 
 
 
@@ -1016,7 +997,6 @@ What image does Luke see looking at the pyramid from above
 > E) 7
 
 **Answer:** D
-[[Quesiti/src_kangourou_2020_ecolier_marzo#q20|src_kangourou_2020_ecolier_marzo__Q20]]
 
 
 
@@ -1069,7 +1049,6 @@ What image does Luke see looking at the pyramid from above
 > E) 9
 
 **Answer:** C
-[[Quesiti/src_kangourou_2020_ecolier_marzo#q21|src_kangourou_2020_ecolier_marzo__Q21]]
 
 
 
@@ -1115,7 +1094,6 @@ What image does Luke see looking at the pyramid from above
 > E) 9
 
 **Answer:** D
-[[Quesiti/src_kangourou_2020_ecolier_marzo#q22|src_kangourou_2020_ecolier_marzo__Q22]]
 
 
 
@@ -1165,7 +1143,6 @@ What image does Luke see looking at the pyramid from above
 > E)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2020_ecolier_marzo#q23|src_kangourou_2020_ecolier_marzo__Q23]]
 
 
 
@@ -1206,4 +1183,3 @@ What image does Luke see looking at the pyramid from above
 > Number of replies
 
 **Answer:** D
-[[Quesiti/src_kangourou_2020_ecolier_marzo#q24|src_kangourou_2020_ecolier_marzo__Q24]]

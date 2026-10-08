@@ -39,7 +39,6 @@ level: China Mathematical Competition (Extra Test)
 ![[src_cn_cmc-extra-test_2004__q01.png]]
 
 **Risposta:** 8.64
-[[Quesiti/src_cn_cmc-extra-test_2004#q01|src_cn_cmc-extra-test_2004__Q01]]
 
 
 
@@ -76,8 +75,6 @@ level: China Mathematical Competition (Extra Test)
 > 
 > (2) C'è un $n_0 \in \mathbb{N}$ tale che per qualsiasi $n > n_0$, $$\frac{b_2}{b_1} + \frac{b_3}{b_2} + \cdots + \frac{b_{n+1}}{b_n} < n - 2\,004,$$ dove $b_n$ è la coordinata $y$ di $B_n$, cioè $B_n = (b_n,\, \sqrt{2b_n})$ con $b_n > 0$.
 
-[[Quesiti/src_cn_cmc-extra-test_2004#q02|src_cn_cmc-extra-test_2004__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_induzione,method_estremalita,skill_conteggio_sistematico,skill_casework_accurato,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -102,5 +99,3 @@ level: China Mathematical Competition (Extra Test)
 *Ricerca il minimo f(n) in modo che qualsiasi sottoinsieme di elementi m di n numeri interi consecutivi abbia 3 elementi reciprocamente primi*
 
 > Per il numero intero $n \ge 4$, trovare il numero intero minimo $f(n)$, in modo che per qualsiasi sottoinsieme con $f(n)$ elementi del set $\{m, m+1, \ldots, m+n-1\}$ ($m \in \mathbb{N}$), ci siano almeno 3 elementi reciprocamente primi.
-
-[[Quesiti/src_cn_cmc-extra-test_2004#q03|src_cn_cmc-extra-test_2004__Q03]]

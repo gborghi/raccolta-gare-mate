@@ -36,7 +36,6 @@ level: squadre
 > Welcome to the future! Philip J. Frege, you're in the future! Liela Turinga shouts dramatically after awakening our hero from hibernation. What year are they? Shortly before the year 9613. In fact, it's exactly the last year x before 9613 so 96132 −x2 is a perfect square. What year is the poor pony-pizza?
 
 **Answer:** 9595
-[[Quesiti/src_squadre_2018_finale#q01|src_squadre_2018_finale__Q01]]
 
 
 
@@ -71,7 +70,6 @@ level: squadre
 > Right in your box. Fredholm shows Frege a two-dimensional infinite chessboard-shaped map of the universe; each box represents a sector of the galactic plane. He points to the center of the sector corresponding to the Earth, and explains: "Our delivery ship has an engine of my invention that uses dark matter as fuel. With two balls of dark matter, produced by our Mordaglia, it can move from one sector horizontally or vertically; with three it can move from one sector diagonally. Starting from our base on Earth, we can deliver anywhere we can reach with 60 balls of fuel or less. Including the start, of course, he adds with a laugh. How many different sectors can the Planar Express deliver to?
 
 **Answer:** 2441
-[[Quesiti/src_squadre_2018_finale#q02|src_squadre_2018_finale__Q02]]
 
 
 
@@ -103,7 +101,6 @@ level: squadre
 > Beuler gives the numbers [⋆] The Beuler robot went into tilt because of a magnet, and it literally started to give the numbers! The Professor. Fredholm observes that the numbers listed by Beuler are all and only positive integers N for which there is a sequence of nonnegative integers a0,a1,...,a2019 such that Na0 = Na1 +Na2 +··+Na2019 What is the sum of all numbers listed by Beuler?
 
 **Answer:** 3034
-[[Quesiti/src_squadre_2018_finale#q03|src_squadre_2018_finale__Q03]]
 
 
 
@@ -137,7 +134,6 @@ level: squadre
 > A game of balance Halbert Conway, the bureaucrat at Planar Express, is a former limbo champion. In this game, each single match may end with the win of one of the players or a draw; however, two subsequent matches may not end with the wins of two different players. Halbert's last challenge with Barbaros Schur was memorable. The challenge ended shortly after the fourth draw, and was very balanced: the difference in absolute value between Halbert's and Barbaros's number of wins never exceeded 3. What are the possible ways (i.e. sequences of results from subsequent matches) in which the challenge may have taken place, based on this information?
 
 **Answer:** 2401
-[[Quesiti/src_squadre_2018_finale#q04|src_squadre_2018_finale__Q04]]
 
 
 
@@ -175,7 +171,6 @@ level: squadre
 > Six straight steps would reach the entrance, for example, or with two steps to the left, four straight, and then two right. How many possible routes lead to the entrance?
 
 **Answer:** 8989
-[[Quesiti/src_squadre_2018_finale#q05|src_squadre_2018_finale__Q05]]
 
 
 
@@ -207,7 +202,6 @@ level: squadre
 > General Brouwergan has decided to carpet bomb a certain area of planet Even 7, which is shaped like an ABCD quadrilateral. His deputy Kief Kroneker provides the necessary information to complete the operation: the equations BAD + CBD = BCA + 2ADB = 90° and BCD = 2BAD are valid. Also, say X the intersection point of the diagonals, you have that CX = 33, AX = 65. How big is BC?
 
 **Answer:** 0056
-[[Quesiti/src_squadre_2018_finale#q06|src_squadre_2018_finale__Q06]]
 
 
 
@@ -242,7 +236,6 @@ level: squadre
 > Opportunities for intergalactic peace [⋆⋆] The inhabitants of the Otto Persei system have a habit of writing numbers in the opposite direction to those of the solar system, that is, reading them from right to left instead of from left to right. This is the source of many misunderstandings, also because of their bellicose nature, but occasionally it happens that both we and they agree on a statement of the type  the number Y is the square of the number X (each reading the numbers in his own way), for example for X = 12,Y = 144. For how many positive integers X that do not contain the digit zero do the two civilizations agree?
 
 **Answer:** 0055
-[[Quesiti/src_squadre_2018_finale#q07|src_squadre_2018_finale__Q07]]
 
 
 
@@ -277,7 +270,6 @@ level: squadre
 > In the year 3018, it is now common knowledge that the wheat circles are messages from the aliens of the planet Otto Persei, great experts on earth's culture. In a particularly elaborate message, the alien Mrrr plotted an ABC triangle with AB = 2017 and BC = 2076. The circle inscribed in the triangle met AC and AB in B1 and C1 respectively. The tangent circle on the AB side and on the AC and CB side extensions (from the A and B sides respectively) met the AC straight in B2. The tangent circle on the AC side and the BA and BC side extensions (on the A and C sides respectively) met the straight AB in C2. Knowing that the four points B1C1B2C2 were on the same circumference, find the lowest possible value for AC.
 
 **Answer:** 2017
-[[Quesiti/src_squadre_2018_finale#q08|src_squadre_2018_finale__Q08]]
 
 
 
@@ -310,7 +302,6 @@ level: squadre
 > After a divergent fire, the inhabitants of the Otto Persei system decided to invade Earth. Their planet, for that matter, is in the position (8.6) of the Cartesian plane. Their spaceship moves by taking steps of length 1 in the plane, always down or left, and is trying to land at the point (0.0). General Brouwergan tries to hit her with his positron cannon, but it changes direction exactly seven times and disorients him, making it land. How many different routes are possible for the spacecraft?
 
 **Answer:** 0700
-[[Quesiti/src_squadre_2018_finale#q09|src_squadre_2018_finale__Q09]]
 
 
 
@@ -342,7 +333,6 @@ level: squadre
 > In the president's room of the Museum of Heads in New York City, there are 2017 heads in a row: however, some presidents always lie, others always tell the truth. To uncover the liars, Liela asks each of them (except the last one) if the next president is sincere. As answers, in order, you get a yes, then a yes and a no, then a yes and two no, then a yes and three no, and so on until 2016. How many liars are there at most?
 
 **Answer:** 1009
-[[Quesiti/src_squadre_2018_finale#q10|src_squadre_2018_finale__Q10]]
 
 
 
@@ -376,7 +366,6 @@ level: squadre
 > The Goentel monkey, who became very intelligent thanks to the hat invented by prof. Fredholm, he likes geometry problems. In the main room of the University of Mars, it weighs in front of an ABCD trapezoid, rectangle in B, with major base AB and minor base DC. He indicated the lengths of some of its sides: AB = a, BC = 1000, DC = b. Then call D′ the symmetric of D with respect to the straight AC, and E the intersection of AC and BD. Goentel knows that there is a value of a such that AD′ED can be inscribed in a circumference for one and only one positive value of b. Can you help her figure out how much a+b is worth?
 
 **Answer:** 3000
-[[Quesiti/src_squadre_2018_finale#q11|src_squadre_2018_finale__Q11]]
 
 
 
@@ -410,7 +399,6 @@ level: squadre
 > Ask me another question. When he was teaching at the University of Mars, Fredholm used to give this problem to his most promising students, or those who disliked him the most. Whether f is a real coefficient polynomial that has no multiple roots. How many multiple roots can the polynomial g(x) = f(x3 −3x have, at most)? It is said that λ is a multiple root of the polynomial p(x) if p(x) (x−λ)2 is a polynomial.
 
 **Answer:** 0002
-[[Quesiti/src_squadre_2018_finale#q12|src_squadre_2018_finale__Q12]]
 
 
 
@@ -444,7 +432,6 @@ level: squadre
 > The universe in a room. Good news, mathematicians. Fredholm this regular tetrahedron-shaped box of side 28 √ 3m contains not one, but two universes, identical, and spherical in shape. Not only that, but the spheres can change places by moving rigidly inside the box, never overlapping. How many millimeters can you measure, at most, the radius of the two spherical universes?
 
 **Answer:** 6727
-[[Quesiti/src_squadre_2018_finale#q13|src_squadre_2018_finale__Q13]]
 
 
 
@@ -483,7 +470,6 @@ level: squadre
 > The caffeine content of all the coffees?
 
 **Answer:** 7963
-[[Quesiti/src_squadre_2018_finale#q14|src_squadre_2018_finale__Q14]]
 
 
 
@@ -517,7 +503,6 @@ level: squadre
 > For reasons unknown to most, Frege has an inconvenient number tattoo. This is a table 4×4 in which the four boxes of the diagonal running from the bottom left to the top right are blacked. In the remaining boxes, the integers between 1 and 12 are written once each. In each pair of boxes adjacent horizontally, the leftmost box contains a larger number than the rightmost box. In each pair of boxes adjacent vertically, the top box contains a larger number than the bottom box. In how many ways can the table be filled in under these conditions?
 
 **Answer:** 6544
-[[Quesiti/src_squadre_2018_finale#q15|src_squadre_2018_finale__Q15]]
 
 
 
@@ -549,7 +534,6 @@ level: squadre
 > Brute force Beuler knows that the code that releases the time sphere that will allow him to travel in time is a sequence of 2018 digits, chosen between 0.1,2, but whose sum is worth the most 8. With his robotic fingers, he's trying to type one at a time all the possible codes that meet these characteristics. How many codes will he type? It is answered by indicating the remainder of the division of this issue for 2018.
 
 **Answer:** 0001
-[[Quesiti/src_squadre_2018_finale#q16|src_squadre_2018_finale__Q16]]
 
 
 
@@ -580,7 +564,6 @@ level: squadre
 > The logo of MuCorp, the most powerful corporation in the universe, is in the shape of a letter M that extends to infinity, that is, an unwoven piece composed of one half, two segments, and one half (in this order). How many sections is the plan divided into by 20 pieces of this type?
 
 **Answer:** 3061
-[[Quesiti/src_squadre_2018_finale#q17|src_squadre_2018_finale__Q17]]
 
 
 
@@ -613,7 +596,6 @@ level: squadre
 > Special birthday Frege has forgotten again what day it's Liela's birthday! It is only recalled that the number g1g2m1m2 formed by writing the date in the day/month format (with g1 and m1 equal to zero, if any) and reading the four digits in a row, is the product of two prime numbers, different and less than 100, which are written with the same digits in opposite order (ab and ba). What are the possible dates of birth that meet this requirement? The sum of the possible values of the number g1g2m1m2 is given.
 
 **Answer:** 4311
-[[Quesiti/src_squadre_2018_finale#q18|src_squadre_2018_finale__Q18]]
 
 
 
@@ -647,7 +629,6 @@ level: squadre
 > Frege, Escher and Bach's Lolomorfo is a musical instrument capable of projecting complex four-dimensional scenes. Philip J. Frege, who enjoys this instrument, drew an ABC equilateral triangle on a plane in mid-air. Named M the middle point of BC, he constructed with a swivel the outer point D at ABC such that BMD is an equilateral triangle. He then repeated the construction and melody on a sharper octave, calling N the midpoint of MD and choosing P external to BMD such that PND is an equilateral triangle. Knowing that AB is 3556, how big is PC?
 
 **Answer:** 2352
-[[Quesiti/src_squadre_2018_finale#q19|src_squadre_2018_finale__Q19]]
 
 
 
@@ -681,7 +662,6 @@ level: squadre
 > The legendary five-leafed quadruped found by Frege had the shape of this flat figure. On a circumference Γ of center O and radius 1, we take five points A,B,C,D,E that divide it into five equal and disjoint arcs. Consider the five radii of radius 1, distinct from Γ, and passing respectively through A and B, through B and C, through C and D, through D and E, through E and A. A smaller circumference of center O is tangent to these five circumferences. How much is your radius worth? It is answered by indicating the first four digits after the comma.
 
 **Answer:** 6180
-[[Quesiti/src_squadre_2018_finale#q20|src_squadre_2018_finale__Q20]]
 
 
 
@@ -729,4 +709,3 @@ level: squadre
 > The 19th National Final Team Competition  Solution  5 May 3018 olimpiadi.dm.unibo.it www.oliforum.it Nr. The problem
 
 **Answer:** 0095
-[[Quesiti/src_squadre_2018_finale#q21|src_squadre_2018_finale__Q21]]

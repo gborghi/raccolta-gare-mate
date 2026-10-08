@@ -35,7 +35,6 @@ level: kangourou
 > In a cabin in the woods, there are 15 plates in a row: the first one has 1 nut, the second one has 2 nuts, the third one has 3 nuts, and so on until the 15th plate has 15 nuts. Every now and then a squirrel comes into the cabin, chooses a few plates and eats nuts, taking the same number from each of the plates chosen. What's the smallest number of visits to the cottage that allows him to eat all the nuts?
 
 **Answer:** 4
-[[Quesiti/src_kangourou_2014_junior_finale#q01|src_kangourou_2014_junior_finale__Q01]]
 
 
 
@@ -137,7 +136,6 @@ level: kangourou
 > The figure shows a circumference of which the segments $AB$, $BC$ and $CD$ are three chords. The $M$, $N$ and $K$ points are their respective midpoints. The angle $CKN$ is 75 degrees. How many degrees does the angle $NMB$ measure? (see figure)
 
 **Answer:** 75
-[[Quesiti/src_kangourou_2014_junior_finale#q02|src_kangourou_2014_junior_finale__Q02]]
 
 
 
@@ -164,8 +162,6 @@ level: kangourou
 
 > In a plane with a $Oxy$ system of orthogonal Cartesian axes the distance of two points is usually defined using the coordinates of the points in accordance with Pythagorean theorem. We change the distance, assuming we can only move vertically or horizontally, but only horizontally if we're on the x-axis. In formulas, the distance from the point $(x_1, y_1)$ to the point $(x_2, y_2)$ shall be $|y_1 - y_2|$ if $x_1 = x_2$ and $|y_1| + |x_1 - x_2| + |y_2|$ if $x_1 \neq x_2$. Compared to this new distance, what is the location of the points not more than 3 from the $(2, 1)$ point?
 
-[[Quesiti/src_kangourou_2014_junior_finale#q03|src_kangourou_2014_junior_finale__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_logica,method_invarianti,skill_astrazione"></span>
@@ -190,8 +186,6 @@ level: kangourou
 *Winning strategies in the game of two piles*
 
 > Consider the following game for two players playing in turns, drawing the first player. One starts with two piles of coins. The player who is called to play discards one and breaks the remainder into two new piles (of at least one coin each). The one who can't play anymore loses. Discuss the existence of winning strategies.
-
-[[Quesiti/src_kangourou_2014_junior_finale#q04|src_kangourou_2014_junior_finale__Q04]]
 
 
 
@@ -220,7 +214,6 @@ level: kangourou
 > A natural number $n$ is broken down into prime factors in 2014 (not necessarily all of them distinct from each other). Each prime factor is added to 1 and the new 2014 numbers obtained are multiplied by each other, resulting in a number $m$. For how many integers $n$ does it happen that, with these premises, $m$ is divisible by $n$?
 
 **Answer:** 336
-[[Quesiti/src_kangourou_2014_junior_finale#q05|src_kangourou_2014_junior_finale__Q05]]
 
 
 
@@ -253,4 +246,3 @@ level: kangourou
 > $n$ squares of one grid $8 \times 8$ are painted black, the others are white. Each square of the grid, whether white or black, is adjacent to (i.e. has a side in common with) a black square (different from it in the case of black). What is the minimum possible value for $n$?
 
 **Answer:** 20
-[[Quesiti/src_kangourou_2014_junior_finale#q06|src_kangourou_2014_junior_finale__Q06]]

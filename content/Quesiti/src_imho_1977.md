@@ -33,8 +33,6 @@ level: IMO
 
 > Siano costruiti all'interno del quadrato $ABCD$ quattro triangoli equilateri $ABK$, $BCL$, $CDM$, $DAN$. Si dimostri che i punti medi dei quattro segmenti $KL$, $LM$, $MN$, $NK$ e i punti medi degli otto segmenti $AB$, $BK$, $BL$, $BC$, $CM$, $DM$, $DN$, $AN$ sono i dodici vertici di un dodecagono regolare.
 
-[[Quesiti/src_imho_1977#q01|src_imho_1977__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_combinatoria,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -60,8 +58,6 @@ level: IMO
 
 > In una successione finita di numeri reali, la somma di qualsiasi sette termini consecutivi è negativa, e la somma di qualsiasi undici termini consecutivi è positiva. Determinare il numero massimo di termini nella successione.
 
-[[Quesiti/src_imho_1977#q02|src_imho_1977__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
@@ -86,8 +82,6 @@ level: IMO
 *Numeri indecomponibili nell'insieme $V_k$; si dimostri che $p = m$*
 
 > Sia $n$ un intero dato $> 2$, e sia $V_k$ l'insieme degli interi $1 + kn$, dove $k = 1, 2, \ldots$ Un numero $m \in V_k$ si dice $\textit{indecomposable}$ in $V_k$ se non esistono numeri $p, q \in V_k$ tali che $pq = m$. Si dimostri che esiste un numero $r \in V_k$ che si può esprimere in più di un modo come prodotto di elementi indecomponibili in $V_k$. (Prodotti che differiscono solo per l'ordine dei fattori sono considerati uguali.)
-
-[[Quesiti/src_imho_1977#q03|src_imho_1977__Q03]]
 
 
 
@@ -118,8 +112,6 @@ level: IMO
 > $$f(\theta) = 1 - a\cos\theta - b\sin\theta - A\cos 2\theta - B\sin 2\theta.$$.
 > Si dimostri che se $f(\theta) \ge 0$ per ogni numero reale $\theta$, allora $a^2 + b^2 \le 2$ e $A^2 + B^2 \le 1$.
 
-[[Quesiti/src_imho_1977#q04|src_imho_1977__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_induzione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -144,8 +136,6 @@ level: IMO
 *Coppie $(a,b)$ con $a^2+b^2$ divisibili per $a+b$; resto $r=1977$*
 
 > Siano $a$ e $b$ due interi positivi. Quando $a^2 + b^2$ viene diviso per $a + b$, il quoziente è $q$ e il resto è $r$. Si dimostri che esistono infiniti coppie $(a, b)$ tali che $q^2 + r = 1977$.
-
-[[Quesiti/src_imho_1977#q05|src_imho_1977__Q05]]
 
 
 
@@ -179,5 +169,3 @@ level: IMO
 > per ogni intero positivo $n$, allora
 > $$f(n) = n$$
 > per ogni intero positivo $n$.
-
-[[Quesiti/src_imho_1977#q06|src_imho_1977__Q06]]

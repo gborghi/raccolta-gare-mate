@@ -35,8 +35,6 @@ level: OBM Nível 3
 
 > Ogni numero $x_1, x_2, \ldots, x_{2004}$ può essere uguale a $\sqrt{2}-1$ o $\sqrt{2}+1$. Quanti valori interi distinti può assumere la somma $$S = \sum_{k=1}^{2003} x_{2k-1}\,x_{2k} = x_1 x_2 + x_3 x_4 + x_5 x_6 + \cdots + x_{2003}\, x_{2004}$$?
 
-[[Quesiti/src_obm_2004_n3_f2#q01|src_obm_2004_n3_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -62,8 +60,6 @@ level: OBM Nível 3
 
 > Il $ABCD$ deve essere un trapezoide retto con basi $AB$ e $CD$, con angoli retto a $A$ e $D$. Poiché la diagonale più breve $BD$ è perpendicolare al lato $BC$, trovare il valore massimo possibile del rapporto $\dfrac{CD}{AD}$.
 
-[[Quesiti/src_obm_2004_n3_f2#q02|src_obm_2004_n3_f2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_conteggio,method_doppio_conteggio,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_ragionamento_geometrico"></span>
@@ -88,8 +84,6 @@ level: OBM Nível 3
 *Conta le diverse squadre di calcio formate durante l'anno scolastico*
 
 > I dodici studenti di una classe iniziarono a giocare a calcio ogni giorno dopo la scuola, formando due squadre di 6 giocatori ciascuno e giocando tra loro. Ogni giorno formavano squadre diverse da quelle dei due giorni precedenti. Alla fine dell'anno, hanno verificato che ogni 5 studenti avevano giocato insieme nella stessa squadra almeno una volta. Quante diverse squadre sono state formate nel corso dell'anno?
-
-[[Quesiti/src_obm_2004_n3_f2#q03|src_obm_2004_n3_f2__Q03]]
 
 
 
@@ -118,8 +112,6 @@ level: OBM Nível 3
 
 > Determinare tutte le soluzioni dell'equazione $$n \cdot 2^{n+1} + 1 = m^2$$ con $n$ e $m$ numeri naturali.
 
-[[Quesiti/src_obm_2004_n3_f2#q04|src_obm_2004_n3_f2__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -145,8 +137,6 @@ level: OBM Nível 3
 
 > Diciamo che un intero positivo è *sinister* se la somma dei suoi fattori primi è uguale alla somma degli esponenti nella sua fattorizzazione primaria. Trova tutti i numeri sinistri a quattro cifre.
 
-[[Quesiti/src_obm_2004_n3_f2#q05|src_obm_2004_n3_f2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -171,5 +161,3 @@ level: OBM Nível 3
 *Determine gli angoli del triangolo dato la condizione di collinearietà dell'ortocentro, dell'incentro, del circumcentro*
 
 > Che $H$, $I$ e $O$ siano rispettivamente l'ortocentro, l'incentro e il circoncentro del triangolo $ABC$. La linea $CI$ taglia il circoncircolo di $ABC$ al punto $L$, distinto da $C$. È dato che $AB = IL$ e $AH = OH$. Determinare gli angoli del triangolo $ABC$.
-
-[[Quesiti/src_obm_2004_n3_f2#q06|src_obm_2004_n3_f2__Q06]]

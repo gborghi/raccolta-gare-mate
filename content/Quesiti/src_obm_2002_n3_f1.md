@@ -53,7 +53,6 @@ level: OBM Nível 3
 ![[src_obm_2002_n3_f1__q01.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2002_n3_f1#q01|src_obm_2002_n3_f1__Q01]]
 
 
 
@@ -85,7 +84,6 @@ level: OBM Nível 3
 > Se $\dfrac{p}{q}$ è la frazione irriducibile equivalente a $\dfrac{6{,}888\ldots}{2{,}444\ldots}+2$, il valore di $p+q$ è uguale a: (A) 38 (B) 39 (C) 40 (D) 41 (E) 42
 
 **Risposta:** E
-[[Quesiti/src_obm_2002_n3_f1#q02|src_obm_2002_n3_f1__Q02]]
 
 
 
@@ -127,7 +125,6 @@ level: OBM Nível 3
 > - **(E)** R\$ 18.000,00 and R\$ 9.000,00
 
 **Risposta:** C
-[[Quesiti/src_obm_2002_n3_f1#q03|src_obm_2002_n3_f1__Q03]]
 
 
 
@@ -162,7 +159,6 @@ level: OBM Nível 3
 ![[src_obm_2002_n3_f1__q04.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2002_n3_f1#q04|src_obm_2002_n3_f1__Q04]]
 
 
 
@@ -194,7 +190,6 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > Una scuola organizzerà una gita allo zoo. Ci sono due opzioni di trasporto. La prima opzione è quella di noleggiare "van": ogni van può trasportare fino a 6 bambini e il noleggio di ogni van costa R\$ 60,00. The second option is to hire a company that provides buses with a capacity of 48 children and charges R\$ 237,00 per autobus più R\$ 120,00 per il viaggio; questa opzione è utilizzata indipendentemente dal numero di bambini. Per quale numero minimo di bambini N è più vantaggioso utilizzare gli autobus per la gita? Il valore di N è: (A) 28 (B) 31 (C) 32 (D) 33 (E) 36
 
 **Risposta:** B
-[[Quesiti/src_obm_2002_n3_f1#q05|src_obm_2002_n3_f1__Q05]]
 
 
 
@@ -236,7 +231,6 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > - **(E)** Finì per un 10% in meno
 
 **Risposta:** A
-[[Quesiti/src_obm_2002_n3_f1#q06|src_obm_2002_n3_f1__Q06]]
 
 
 
@@ -267,7 +261,6 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > Marcelo ci vuole esattamente 20 minuti per andare da casa a scuola. Un giorno, mentre camminava, si rese conto di aver dimenticato un fumetto da mostrare a un compagno di classe; tornò a casa e uscì di nuovo, arrivando a scuola 8 minuti dopo l'orario in cui sarebbe normalmente arrivato, cioè 10 minuti in ritardo. Quale frazione del sentiero aveva già camminato quando si è voltato? (A) $\dfrac{2}{5}$ (B) $\dfrac{9}{20}$ (C) $\dfrac{1}{2}$ (D) $\dfrac{2}{3}$ (E) $\dfrac{9}{10}$
 
 **Risposta:** B
-[[Quesiti/src_obm_2002_n3_f1#q07|src_obm_2002_n3_f1__Q07]]
 
 
 
@@ -303,7 +296,6 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 ![[src_obm_2002_n3_f1__q08.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2002_n3_f1#q08|src_obm_2002_n3_f1__Q08]]
 
 
 
@@ -337,7 +329,6 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 ![[src_obm_2002_n3_f1__q09.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2002_n3_f1#q09|src_obm_2002_n3_f1__Q09]]
 
 
 
@@ -368,7 +359,6 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > Se $xy=2$ e $x^2+y^2=5$, allora $\dfrac{x^2}{y^2}+\dfrac{y^2}{x^2}+2$ è uguale a: (A) $\dfrac{5}{2}$ (B) $\dfrac{25}{4}$ (C) $\dfrac{5}{4}$ (D) $\dfrac{1}{2}$ (E) 1
 
 **Risposta:** B
-[[Quesiti/src_obm_2002_n3_f1#q10|src_obm_2002_n3_f1__Q10]]
 
 
 
@@ -410,7 +400,6 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > - **(E)** Nel gruppo ci sono medesimi medici e avvocati.
 
 **Risposta:** B
-[[Quesiti/src_obm_2002_n3_f1#q11|src_obm_2002_n3_f1__Q11]]
 
 
 
@@ -441,7 +430,6 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > I valori di $x$, $y$ e $z$ che soddisfano le equazioni $x+\dfrac{1}{y}=5$, $y+\dfrac{1}{z}=1$ e $z+\dfrac{1}{x}=2$ sono tali che $x+3y+2z$ è uguale a: (A) 5 (B) 6 (C) 7 (D) 8 (E) 9
 
 **Risposta:** B
-[[Quesiti/src_obm_2002_n3_f1#q12|src_obm_2002_n3_f1__Q12]]
 
 
 
@@ -478,7 +466,6 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > Dovremo dimostrare che 4 è più grande di 4. $a$ e $b$ siano due numeri come $a>4$ e $a=b$. 1) Sottrazioniamo 4 dai due termini di questa equazione: $a=b$, quindi $a-4=b-4$. 2) Abbiamo messo $-1$ in prova nel secondo membro dell'equazione: $a-4=-1(-b+4)$, quindi $a-4=-1(4-b)$. 3) Si sollevano entrambi i termini dell'equazione al quadrato: $(a-4)^2=[-1\cdot(4-b)]^2$, quindi $(a-4)^2=(-1)^2(4-b)^2$, quindi $(a-4)^2=1\cdot(4-b)^2$, cioè $(a-4)^2=(4-b)^2$. 4) Essi estrae la radice quadrata dei due membri dell'equazione: $\sqrt{(a-4)^2}=\sqrt{(4-b)^2}$, quindi $a-4=4-b$. 5) Dato che $a=b$, sostituiremo $b$ con $a$: $a-4=4-a$. 6) Risolviamo l'equazione: $a-4=4-a$, quindi $2a=8$, quindi $a=4$. Dopo aver scelto $a$ in modo tale che $a>4$, arriviamo alla conclusione incredibile che $4>4$. Dov'è l'errore nel ragionamento di cui sopra? (A) Al secondo passo. (B) Al passo 3. (C) Nel passaggio 4. (D) Al passo 5. (E) Al passo 6.
 
 **Risposta:** C
-[[Quesiti/src_obm_2002_n3_f1#q13|src_obm_2002_n3_f1__Q13]]
 
 
 
@@ -510,7 +497,6 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > Qual è il numero totale di lettere delle risposte (alternative) che sono risposte errate di questo test? (A) Quarantotto. (B) Quaranta-neuve. (C) Cinquanta. (D) Cinquanta uno. E) Cinquanta due.
 
 **Risposta:** D
-[[Quesiti/src_obm_2002_n3_f1#q14|src_obm_2002_n3_f1__Q14]]
 
 
 
@@ -557,7 +543,6 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > - **(E)** i), ii) e iii) sono corrette.
 
 **Risposta:** D
-[[Quesiti/src_obm_2002_n3_f1#q15|src_obm_2002_n3_f1__Q15]]
 
 
 
@@ -588,7 +573,6 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > Let $f$ essere una funzione reale di una variabile reale che soddisfa la condizione $f(x)+2f\!\left(\dfrac{2002}{x}\right)=3x$ per $x>0$. Il valore di $f(2)$ è uguale a: (A) 1000 (B) 2000 (C) 3000 (D) 4000 (E) 6000
 
 **Risposta:** C
-[[Quesiti/src_obm_2002_n3_f1#q16|src_obm_2002_n3_f1__Q16]]
 
 
 
@@ -620,7 +604,6 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > Il resto della divisione di 9 per $\sqrt{1111111111-22222}$ è: (A) 0 (B) 1 (C) 3 (D) 6 (E) 8
 
 **Risposta:** D
-[[Quesiti/src_obm_2002_n3_f1#q17|src_obm_2002_n3_f1__Q17]]
 
 
 
@@ -656,7 +639,6 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 ![[src_obm_2002_n3_f1__q18.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2002_n3_f1#q18|src_obm_2002_n3_f1__Q18]]
 
 
 
@@ -687,7 +669,6 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > $\alpha$ sia la radice più grande di $x^2+x-1=0$. Il valore di $\alpha^3$ è: (A) $-1$ (B) $-2$ (C) $-3$ (D) 1 (E) 2
 
 **Risposta:** C
-[[Quesiti/src_obm_2002_n3_f1#q19|src_obm_2002_n3_f1__Q19]]
 
 
 
@@ -719,7 +700,6 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > Qual è la cifra di unità di $7^{7^{7^{\cdot^{\cdot^{\cdot^{7}}}}}}$, dove appaiono sette del 2002? (A) 7 (B) 9 (C) 3 (D) 1 (E) 5
 
 **Risposta:** C
-[[Quesiti/src_obm_2002_n3_f1#q20|src_obm_2002_n3_f1__Q20]]
 
 
 
@@ -755,7 +735,6 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 ![[src_obm_2002_n3_f1__q21.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2002_n3_f1#q21|src_obm_2002_n3_f1__Q21]]
 
 
 
@@ -787,7 +766,6 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > $N=05399840$ è un intero positivo con tutte le cifre distinte, la prima essendo 0 e l'ultima sconosciuta. Sapendo che $N$ è un multiple di 198, trovare la cifra unità di $N/198$. (A) 5 (B) 6 (C) 7 (D) 8 (E) 9
 
 **Risposta:** C
-[[Quesiti/src_obm_2002_n3_f1#q22|src_obm_2002_n3_f1__Q22]]
 
 
 
@@ -819,7 +797,6 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > Nel domino marziano, i pezzi hanno 3 numeri ciascuno (diferente dal domino terrestre, dove ogni pezzo ha solo 2 numeri). I numeri nel domino marziano variano anche da 0 a 6, e ogni pezzo ha una scelta di 3 numeri (non necessariamente distinti), esiste un e solo un pezzo che contiene quei 3 numeri. Qual è la somma dei numeri di tutti i pezzi del domino marziano? (A) 756 (B) 1512 (C) 84 (D) 315 (E) 900
 
 **Risposta:** A
-[[Quesiti/src_obm_2002_n3_f1#q23|src_obm_2002_n3_f1__Q23]]
 
 
 
@@ -855,7 +832,6 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 ![[src_obm_2002_n3_f1__q24.png]]
 
 **Risposta:** E
-[[Quesiti/src_obm_2002_n3_f1#q24|src_obm_2002_n3_f1__Q24]]
 
 
 
@@ -887,4 +863,3 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > Due persone disputano un gioco lanciando una scommessa pari (par) o impar (impar). A loro non piace lo zero e quindi ognuno ruota un dado, e la persona che ha scelto il risultato pari (par) vince. La probabilità che la persona che ha scelto anche (par) vinca è: (A) $1/2$ (B) $2/5$ (C) $3/5$ (D) $12/25$ (E) $13/25$
 
 **Risposta:** E
-[[Quesiti/src_obm_2002_n3_f1#q25|src_obm_2002_n3_f1__Q25]]

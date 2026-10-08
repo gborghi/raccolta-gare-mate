@@ -33,8 +33,6 @@ level: Olimpiade Polacca Round 3
 
 > Il punto $D$ è preso sul lato $BC$ di un triangolo $ABC$ in modo tale che $AD > BC$. Il punto $E$ deve essere un punto sul lato $AC$ tale che $\frac{AE}{EC} = \frac{BD}{AD - BC}$. Mostra che $AD > BE$.
 
-[[Quesiti/src_pol_1999_r3#q01|src_pol_1999_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_cassetti,method_congruenze,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: Olimpiade Polacca Round 3
 Tra i numeri interi 0<a_1<...<a_100<5050 trovate quattro distinti con a_k+a_l_a_m_a_n divisibile per 5050.*
 
 > $0 < a_1 < a_2 < \cdots < a_{100} < 5050$ siano numeri interi. Prova che esistono quattro numeri diversi $a_k, a_l, a_m, a_n$ in modo tale che $a_k + a_l - a_m - a_n$ sia divisibile da $5050$.
-
-[[Quesiti/src_pol_1999_r3#q02|src_pol_1999_r3__Q02]]
 
 
 
@@ -88,8 +84,6 @@ Tra i numeri interi 0<a_1<...<a_100<5050 trovate quattro distinti con a_k+a_l_a_
 
 > $S(x)$ indichi la somma delle cifre di $x$. Indicare che esistono integri positivi $n_1 < n_2 < \cdots < n_{50}$ tali che $$n_1 + S(n_1) = n_2 + S(n_2) = \cdots = n_{50} + S(n_{50}).$$
 
-[[Quesiti/src_pol_1999_r3#q03|src_pol_1999_r3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
@@ -116,8 +110,6 @@ Tra i numeri interi 0<a_1<...<a_100<5050 trovate quattro distinti con a_k+a_l_a_
 
 > Trova tutti i numeri interi $n \ge 2$ per i quali il seguente sistema ha una soluzione in numeri interi: $$\begin{aligned} x_1^2 + x_2^2 + 50 &= 16x_1 + 12x_2, \\ x_2^2 + x_3^2 + 50 &= 16x_2 + 12x_3, \\ &\cdots \\ x_n^2 + x_1^2 + 50 &= 16x_n + 12x_1. \end{aligned}$$
 
-[[Quesiti/src_pol_1999_r3#q04|src_pol_1999_r3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_disuguaglianze,topic_combinatoria,method_doppio_conteggio,method_disuguaglianze,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -143,8 +135,6 @@ Tra i numeri interi 0<a_1<...<a_100<5050 trovate quattro distinti con a_k+a_l_a_
 *numeri interi a_i,b_i provare la somma su i<j di (leswi_i_i_i_j_i+ gi_i_i_i_i_i_i) <= somma su tutti i,j di │a_i_i_i_i_i_i_i.*
 
 > Se $a_i, b_i$ ($i = 1, 2, \ldots, n$) sono numeri interi, dimostrare che $$\sum_{1 \le i < j \le n} \left( |a_i - a_j| + |b_i - b_j| \right) \le \sum_{1 \le i, j \le n} |a_i - b_j|.$$
-
-[[Quesiti/src_pol_1999_r3#q05|src_pol_1999_r3__Q05]]
 
 
 
@@ -173,5 +163,3 @@ Tra i numeri interi 0<a_1<...<a_100<5050 trovate quattro distinti con a_k+a_l_a_
 *Esagono convesso ABCDEF con angolo A+C+E=360 deg e (AB/BC)(CD/DE)(EF/FA)=1; dimostrare (AB/BF)(FD/DE)(EC/CA)=1.*
 
 > Un esagono converso $ABCDEF$ soddisfa $$\angle A + \angle C + \angle E = 360^\circ \quad \text{and} \quad \frac{AB}{BC} \cdot \frac{CD}{DE} \cdot \frac{EF}{FA} = 1.$$ Prove che $$\frac{AB}{BF} \cdot \frac{FD}{DE} \cdot \frac{EC}{CA} = 1.$$
-
-[[Quesiti/src_pol_1999_r3#q06|src_pol_1999_r3__Q06]]

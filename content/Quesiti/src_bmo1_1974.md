@@ -37,8 +37,6 @@ level: BMO Round 1
 
 ![[src_bmo1_1974__q01.png]]
 
-[[Quesiti/src_bmo1_1974#q01|src_bmo1_1974__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_casework,method_conteggio,method_grafi,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
@@ -63,8 +61,6 @@ level: BMO Round 1
 *Contare le partizioni di 15 domino in tre sottoinsiemi a catena chiusa*
 
 > Un domino può essere rappresentato da una coppia di integri non ordinati. Pertanto $\begin{bmatrix} 1 \\ 3 \end{bmatrix}$ può essere rappresentato come $(1,3)$ o $(3,1)$ e il doppio $\begin{bmatrix} 2 \\ 2 \end{bmatrix}$ come $(2,2)$. L'insieme di tutti i 15 domino contenenti due enti da $1, 2, 3, 4, 5$ è diviso in tre sottinsiemi di cinque domino. I dominosi di ciascun sottoinsieme formano una catena chiusa, cioè $(a,b)(b,c)(c,d)(d,e)(e,a)$ dove $a,b,c,d,e$ non devono essere tutti diversi. Quante partizioni distinte ci sono? (L'ordine dei tre sottogruppi della partizione è irrilevante.)
-
-[[Quesiti/src_bmo1_1974#q02|src_bmo1_1974__Q02]]
 
 
 
@@ -91,8 +87,6 @@ level: BMO Round 1
 
 > Dimostra che è impossibile che tutti i volti di un poliedro converso siano esagoni.
 
-[[Quesiti/src_bmo1_1974#q03|src_bmo1_1974__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -117,8 +111,6 @@ level: BMO Round 1
 *Ricerca l'inverso di una matrice strutturata 16x16*
 
 > $M$ è una matrice $16 \times 16$. Ogni elemento nella diagonale principale e ogni elemento nella riga inferiore (cioè la sesta riga) è $1$. Ogni altro elemento della matrice è $\frac{1}{2}$. Trova l'inverso di $M$.
-
-[[Quesiti/src_bmo1_1974#q04|src_bmo1_1974__Q04]]
 
 
 
@@ -145,8 +137,6 @@ level: BMO Round 1
 
 > Un accordo di bridge è definito come la distribuzione di 52 carte di gioco ordinarie tra quattro giocatori in modo che ciascuno abbia 13 carte. In un accordo di bridge, qual è la probabilità che solo un giocatore abbia un completo? (Lascia la tua risposta nei fattoriali.)
 
-[[Quesiti/src_bmo1_1974#q05|src_bmo1_1974__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -171,8 +161,6 @@ level: BMO Round 1
 *Prove che CZ divide AB in condizioni di perpendicularità in triangolo*
 
 > $X$ e $Y$ sono i piedi delle perpendicolari da $P$ a $CA$ e $CB$ rispettivamente, dove $P$ si trova nel piano del triangolo $ABC$. $PX = PY$. La linea retta attraverso $P$, perpendicolare a $AB$, taglia $XY$ a $Z$. Provare che $CZ$ divide $AB$.
-
-[[Quesiti/src_bmo1_1974#q06|src_bmo1_1974__Q06]]
 
 
 
@@ -200,8 +188,6 @@ level: BMO Round 1
 *Esprimere le relazioni cicliche tra le radici di un cubo in termini di coefficienti*
 
 > Le radici dell'equazione $x^3 + bx + c = 0$ ($bc \ne 0$, $b$ e $c$ reale) sono $\alpha$, $\beta$ e $\gamma$. Determinare $p$, $q$ e $r$ in termini di $b$ e $c$ in modo tale che $$\beta = p\alpha^2 + q\alpha + r, \quad \gamma = p\beta^2 + q\beta + r, \quad \alpha = p\gamma^2 + q\gamma + r$$ e indicare una condizione che garantisca che $p$, $q$ e $r$ siano reali.
-
-[[Quesiti/src_bmo1_1974#q07|src_bmo1_1974__Q07]]
 
 
 
@@ -260,8 +246,6 @@ level: BMO Round 1
 > $$(ii) \quad n \mid x^{n-1} - 1.$$.
 > ($p \mid q$ significa che $p$ divide $q$ senza resto.)
 
-[[Quesiti/src_bmo1_1974#q08|src_bmo1_1974__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -289,8 +273,6 @@ level: BMO Round 1
 > Una barra verticale uniforme di lunghezza $2a$ è inclinata alla sua estremità inferiore ad una giunta senza attrito fissata ad una tavola orizzontale. Cade dal riposo in questa posizione instabile sul tavolo. Trova il tempo impiegato per cadere. Commenta la tua risposta.
 > 
 > [Puoi citare il risultato $\int (\operatorname{cosec}\, x)\,dx = \log|\tan \tfrac{1}{2}x|$ se lo desideri.]
-
-[[Quesiti/src_bmo1_1974#q09|src_bmo1_1974__Q09]]
 
 
 
@@ -321,5 +303,3 @@ level: BMO Round 1
 > Un cono circolare retto la cui vertica è $V$ e il cui angolo semivertico è $\alpha$ ha altezza $h$ e densità uniforme. Tutti i punti del cono le cui distanze da $V$ sono inferiori a $a$ o superiori a $b$, dove $0 < a < b < h$, sono rimossi. Un solido di massa $M$ resta.
 > 
 > Poiché l'attrazione gravitazionale che un punto di massa $m$ a $P$ esercita su massa unità a $O$ è $(Gm/OP^3)\overrightarrow{OP}$, dimostrare che la magnitudine dell'attrazione gravitazionale di questo solido su massa unità a $V$ è $$\tfrac{3}{2}GM(1 + \cos\alpha) \,/\, (a^2 + ab + b^2).$$
-
-[[Quesiti/src_bmo1_1974#q10|src_bmo1_1974__Q10]]

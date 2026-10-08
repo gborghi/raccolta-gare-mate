@@ -44,7 +44,6 @@ level: kangourou
 > A. 1991 B. 2323 C. 2112 D. 2222 E. 2332
 
 **Answer:** B
-[[Quesiti/src_kangourou_2002_benjamin#q01|src_kangourou_2002_benjamin__Q01]]
 
 
 
@@ -79,7 +78,6 @@ level: kangourou
 > In the figure you can see the profile of a castle. Which of the following lines cannot be included in the profile?
 
 **Answer:** C
-[[Quesiti/src_kangourou_2002_benjamin#q02|src_kangourou_2002_benjamin__Q02]]
 
 
 
@@ -116,7 +114,6 @@ The euro that John gives to Stephen
 > A. 23 B. 32 C. 33 D. 43 E. 46
 
 **Answer:** A
-[[Quesiti/src_kangourou_2002_benjamin#q03|src_kangourou_2002_benjamin__Q03]]
 
 
 
@@ -166,7 +163,6 @@ The euro that John gives to Stephen
 > 2
 
 **Answer:** D
-[[Quesiti/src_kangourou_2002_benjamin#q04|src_kangourou_2002_benjamin__Q04]]
 
 
 
@@ -206,7 +202,6 @@ The euro that John gives to Stephen
 > A. 23 B. 22 C. 21 D. 15 E. 9
 
 **Answer:** A
-[[Quesiti/src_kangourou_2002_benjamin#q05|src_kangourou_2002_benjamin__Q05]]
 
 
 
@@ -246,7 +241,6 @@ The euro that John gives to Stephen
 > D. Thursday E. Friday
 
 **Answer:** A
-[[Quesiti/src_kangourou_2002_benjamin#q06|src_kangourou_2002_benjamin__Q06]]
 
 
 
@@ -278,7 +272,6 @@ The euro that John gives to Stephen
 > In which of the following necklaces are two-thirds of the hearts black?
 
 **Answer:** D
-[[Quesiti/src_kangourou_2002_benjamin#q07|src_kangourou_2002_benjamin__Q07]]
 
 
 
@@ -320,7 +313,6 @@ The euro that John gives to Stephen
 > B. 9 C. 6 D. 8 E. 7
 
 **Answer:** B
-[[Quesiti/src_kangourou_2002_benjamin#q08|src_kangourou_2002_benjamin__Q08]]
 
 
 
@@ -363,7 +355,6 @@ The euro that John gives to Stephen
 > A. 6 B. 7 C. 8 D. 9 E. 10
 
 **Answer:** C
-[[Quesiti/src_kangourou_2002_benjamin#q09|src_kangourou_2002_benjamin__Q09]]
 
 
 
@@ -411,7 +402,6 @@ The euro that John gives to Stephen
 > Questions from No. 11 to No. 20 are worth 4 points
 
 **Answer:** E
-[[Quesiti/src_kangourou_2002_benjamin#q10|src_kangourou_2002_benjamin__Q10]]
 
 
 
@@ -476,7 +466,6 @@ The euro that John gives to Stephen
 > A. 1 / 3 B. 1 / 4 C. 2 / 5 D. 3 / 8 E. 1 / 8
 
 **Answer:** E
-[[Quesiti/src_kangourou_2002_benjamin#q11|src_kangourou_2002_benjamin__Q11]]
 
 
 
@@ -518,7 +507,6 @@ The euro that John gives to Stephen
 > A. 56 m. B. 60 m. C. 64 m. D. 72 m. E. 80 m.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2002_benjamin#q12|src_kangourou_2002_benjamin__Q12]]
 
 
 
@@ -562,7 +550,6 @@ The euro that John gives to Stephen
 > A. A B. B C. C D. D E. E
 
 **Answer:** B
-[[Quesiti/src_kangourou_2002_benjamin#q13|src_kangourou_2002_benjamin__Q13]]
 
 
 
@@ -599,7 +586,6 @@ The euro that John gives to Stephen
 > A. 3 m. B. 4 m. C. 5 m. D. 12 m. E. 20 m.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2002_benjamin#q14|src_kangourou_2002_benjamin__Q14]]
 
 
 
@@ -675,7 +661,6 @@ The euro that John gives to Stephen
 > 4
 
 **Answer:** B
-[[Quesiti/src_kangourou_2002_benjamin#q15|src_kangourou_2002_benjamin__Q15]]
 
 
 
@@ -721,7 +706,6 @@ The euro that John gives to Stephen
 > E. Mauro has a dog
 
 **Answer:** A
-[[Quesiti/src_kangourou_2002_benjamin#q16|src_kangourou_2002_benjamin__Q16]]
 
 
 
@@ -758,7 +742,6 @@ The euro that John gives to Stephen
 > A. 17.6% B. 17% C. 16% D. 15% E. 6%
 
 **Answer:** D
-[[Quesiti/src_kangourou_2002_benjamin#q17|src_kangourou_2002_benjamin__Q17]]
 
 
 
@@ -797,7 +780,6 @@ The euro that John gives to Stephen
 > A. 14 B. 16 C. 18 D. 20 E. 22
 
 **Answer:** D
-[[Quesiti/src_kangourou_2002_benjamin#q18|src_kangourou_2002_benjamin__Q18]]
 
 
 
@@ -836,7 +818,6 @@ The euro that John gives to Stephen
 > A. Red B. Blue C. Black D. Green E. Yellow
 
 **Answer:** A
-[[Quesiti/src_kangourou_2002_benjamin#q19|src_kangourou_2002_benjamin__Q19]]
 
 
 
@@ -880,7 +861,6 @@ The euro that John gives to Stephen
 > The questions from N. 21 to N. 30 are worth 5 points.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2002_benjamin#q20|src_kangourou_2002_benjamin__Q20]]
 
 
 
@@ -930,7 +910,6 @@ The euro that John gives to Stephen
 > 5
 
 **Answer:** E
-[[Quesiti/src_kangourou_2002_benjamin#q21|src_kangourou_2002_benjamin__Q21]]
 
 
 
@@ -969,7 +948,6 @@ The euro that John gives to Stephen
 > A. 30 B. 33 C. 36 D. 39 E. 43
 
 **Answer:** D
-[[Quesiti/src_kangourou_2002_benjamin#q22|src_kangourou_2002_benjamin__Q22]]
 
 
 
@@ -1009,7 +987,6 @@ The euro that John gives to Stephen
 > A. 3(a + b) B. 3a + b C. 3a + 2b D. 2a + 3b E. impossible to answer
 
 **Answer:** A
-[[Quesiti/src_kangourou_2002_benjamin#q23|src_kangourou_2002_benjamin__Q23]]
 
 
 
@@ -1048,7 +1025,6 @@ The euro that John gives to Stephen
 > A. 8 km B. 10 km C. 12 km D. 14 km E. It 's impossible to answer .
 
 **Answer:** A
-[[Quesiti/src_kangourou_2002_benjamin#q24|src_kangourou_2002_benjamin__Q24]]
 
 
 
@@ -1089,7 +1065,6 @@ The euro that John gives to Stephen
 > (A) the last plate must be between P and Q (B) the last plate must be between Q and R (C) the last plate must be before P (D) the last plate must be after R (E) the last plate has the same weight as R.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2002_benjamin#q25|src_kangourou_2002_benjamin__Q25]]
 
 
 
@@ -1142,7 +1117,6 @@ The euro that John gives to Stephen
 > 6
 
 **Answer:** B
-[[Quesiti/src_kangourou_2002_benjamin#q26|src_kangourou_2002_benjamin__Q26]]
 
 
 
@@ -1185,7 +1159,6 @@ The euro that John gives to Stephen
 > A. 3 B. 4 C. 5 D. 6 E. 7
 
 **Answer:** A
-[[Quesiti/src_kangourou_2002_benjamin#q27|src_kangourou_2002_benjamin__Q27]]
 
 
 
@@ -1229,7 +1202,6 @@ The euro that John gives to Stephen
 > A. 24,6 kg B. 24,4 kg C. 26,4 kg D. 30,4 kg E. 28,6 kg
 
 **Answer:** A
-[[Quesiti/src_kangourou_2002_benjamin#q28|src_kangourou_2002_benjamin__Q28]]
 
 
 
@@ -1271,7 +1243,6 @@ The euro that John gives to Stephen
 > A. 49 B. 89 C. 91 D. 97 E. 181
 
 **Answer:** C
-[[Quesiti/src_kangourou_2002_benjamin#q29|src_kangourou_2002_benjamin__Q29]]
 
 
 
@@ -1376,4 +1347,3 @@ The euro that John gives to Stephen
 > after the question number.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2002_benjamin#q30|src_kangourou_2002_benjamin__Q30]]

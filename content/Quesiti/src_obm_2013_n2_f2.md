@@ -33,8 +33,6 @@ level: OBM Nível 2
 
 > Dato l'insieme $\{1, 2, 3, \ldots, 18\}$, qual è il numero minimo di interi che dobbiamo scegliere in modo che tra i numeri scelti ci siano almeno 3 numeri consecutivi?
 
-[[Quesiti/src_obm_2013_n2_f2#q01|src_obm_2013_n2_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -70,8 +68,6 @@ level: OBM Nível 2
 > 
 > Abel sa che la sua combinazione e' il numero piu' piccolo che soddisfi tutti gli indizi. Qual è la combinazione sicura di Abele?
 
-[[Quesiti/src_obm_2013_n2_f2#q02|src_obm_2013_n2_f2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
@@ -96,8 +92,6 @@ level: OBM Nível 2
 *Conteggiare i minuti "ora di potenza" tra le 00:00 e le 02:59*
 
 > Una \textit{hora potência} (ora di potenza) è un'ora il cui formato rappresenta una potenza perfetta di un intero positivo con esponente maggiore di $1$; cioè qualcosa nel formato $a^b$ dove $a$ e $b$ sono interi positivi e $b > 1$. Ad esempio, $03{:}43$ è un'ora di potenza perché $343 = 7^3$, ma $01{:}10$ non è un'ora di potenza perché $110$ non è una potenza perfetta. Inoltre, $02{:}89$ non è un'ora di potenza perché non c'è tempo $02{:}89$. Quanti minuti di orario di potenza ci sono da $00{:}00$ a $02{:}59$?
-
-[[Quesiti/src_obm_2013_n2_f2#q03|src_obm_2013_n2_f2__Q03]]
 
 
 
@@ -128,8 +122,6 @@ level: OBM Nível 2
 
 ![[src_obm_2013_n2_f2__q04.png]]
 
-[[Quesiti/src_obm_2013_n2_f2#q04|src_obm_2013_n2_f2__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_colorazione,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_modellizzazione"></span>
@@ -158,8 +150,6 @@ Massimi vescovi su una tavola 8x8 senza due che si attaccano
 > Un \textit{bispo} (vescovo) è un pezzo di scacchi che può fare solo mosse diagonali; cioè può spostare qualsiasi numero di quadrati diagonalmente. Nella figura seguente sono indicate le possibili indicazioni di movimento di un vescovo da un determinato quadrato della lavagna. Diciamo che due vescovi si attaccano quando uno di loro è in una piazza che l'altro può raggiungere. Qual è il numero massimo di vescovi che può essere posto su una scacchiera in modo tale che due vescovi non si attaccino a vicenda?
 
 ![[src_obm_2013_n2_f2__q05.png]]
-
-[[Quesiti/src_obm_2013_n2_f2#q05|src_obm_2013_n2_f2__Q05]]
 
 
 
@@ -206,8 +196,6 @@ Massimi vescovi su una tavola 8x8 senza due che si attaccano
 > 
 > b) Qual è la somma dei numeri che figurano nella riga $21$?
 
-[[Quesiti/src_obm_2013_n2_f2#q06|src_obm_2013_n2_f2__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_combinatoria,method_fattorizzazione,method_conteggio,method_cassetti,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -234,8 +222,6 @@ Massimi vescovi su una tavola 8x8 senza due che si attaccano
 
 > Determinare il numero di quadrupli ordinati di enti interi $(x, y, z, w)$ che soddisfano $$x \cdot y \cdot z \cdot w = 2013.$$
 
-[[Quesiti/src_obm_2013_n2_f2#q07|src_obm_2013_n2_f2__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,method_cassetti,method_estremalita,method_casework,skill_modellizzazione,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -261,8 +247,6 @@ Massimi vescovi su una tavola 8x8 senza due che si attaccano
 
 > Led, un famoso eroe del gioco, ha una nuova sfida: aprire il portale del drago. Il portale dispone di $10$ lucchetti distinti. Per aprire il portale, Led deve avere almeno una chiave per ogni lucchetto. Ci sono scatole $45$ nel gioco, e ciascuna scatola contiene esattamente $2$ chiavi distinte, con le chiavi nella stessa scatola che aprono lo stesso lucchetto. Inoltre, le serrature $10$ hanno tutte chiavi diverse e non esistono due scatole con la stessa coppia di chiavi. Qual è il numero minimo di scatole che Led deve portare per garantire l'apertura del portale?
 
-[[Quesiti/src_obm_2013_n2_f2#q08|src_obm_2013_n2_f2__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -287,5 +271,3 @@ Massimi vescovi su una tavola 8x8 senza due che si attaccano
 *Ricerca l'angolo più grande del triangolo dato il punto medio e le condizioni di angolo*
 
 > $M$ sia il punto medio del segmento $AC$ nel triangolo $ABC$. Se $\angle ABM = 2\,\angle BAM$ e $BC = 2 \cdot BM$, determinare la misura dell'angolo più grande del triangolo $ABC$.
-
-[[Quesiti/src_obm_2013_n2_f2#q09|src_obm_2013_n2_f2__Q09]]

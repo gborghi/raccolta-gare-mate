@@ -33,8 +33,6 @@ level: Olimpiade Polacca Round 2
 
 > $k,n>1$ siano numeri interi in modo tale che il numero $p=2k-1$ sia primo. Prova che, se il numero $\binom{n}{2}-\binom{k}{2}$ è divisibile da $p$, allora è divisibile da $p^2$.
 
-[[Quesiti/src_pol_2001_r2#q01|src_pol_2001_r2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -59,8 +57,6 @@ level: Olimpiade Polacca Round 2
 *Punti A,B,C su una linea con ABDE quadrata; cerchio su diametro AC incontra la linea DE a P,Q; linee AQ e BD incontra a R; prova DP=DR.*
 
 > I punti $A,B,C$ con $AB<BC$ si trovano in questo ordine su una linea. Il valore $ABDE$ deve essere quadrato. Il cerchio di diametro $AC$ interseca la linea $DE$ nei punti $P$ e $Q$ con $P$ tra $D$ e $E$. Le linee $AQ$ e $BD$ si incrociano a $R$. Prove che $DP=DR$.
-
-[[Quesiti/src_pol_2001_r2#q02|src_pol_2001_r2__Q02]]
 
 
 
@@ -89,8 +85,6 @@ level: Olimpiade Polacca Round 2
 
 > $n\ge 3$ sia un numero intero positivo. Prova che un polinomio della forma $$x^n+a_{n-3}x^{n-3}+a_{n-4}x^{n-4}+\cdots+a_1x+a_0,$$ in cui almeno uno dei coefficienti reali $a_0,a_1,\ldots,a_{n-3}$ non è zero, non può avere tutte le radici reali.
 
-[[Quesiti/src_pol_2001_r2#q03|src_pol_2001_r2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -117,8 +111,6 @@ level: Olimpiade Polacca Round 2
 
 > Trova tutti gli enti $n\ge 3$ per i quali è vera la seguente affermazione: Qualsiasi progressione aritmetica $a_1,\ldots,a_n$ con termini $n$ per i quali $a_1+2a_2+\cdots+na_n$ è razionale contiene almeno un termine razionale.
 
-[[Quesiti/src_pol_2001_r2#q04|src_pol_2001_r2__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -144,8 +136,6 @@ level: Olimpiade Polacca Round 2
 
 > In un triangolo $ABC$, $I$ è il centro e $D$ il punto di intersezione di $AI$ e $BC$. Indicare che $AI+CD=AC$ se e solo se $\angle B=60^\circ+\frac{1}{2}\angle C$.
 
-[[Quesiti/src_pol_2001_r2#q05|src_pol_2001_r2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -170,5 +160,3 @@ level: Olimpiade Polacca Round 2
 *Calcolazione \A_n_di_di_di_di, la differenza tra i conti di sottoinsiemi di elementi di {1,...,2n} con somme di elementi pari e odd.*
 
 > Per un intero positivo $n$, $A_n$ e $B_n$ siano le famiglie dei sottoinsiemi di $n$-elementi di $S_n=\{1,2,\ldots,2n\}$ con rispettivamente somme pari e odd di elementi. Calcolare $|A_n|-|B_n|$.
-
-[[Quesiti/src_pol_2001_r2#q06|src_pol_2001_r2__Q06]]

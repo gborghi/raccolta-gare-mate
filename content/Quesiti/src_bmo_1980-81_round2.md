@@ -37,8 +37,6 @@ level: BMO Round 2
 > 
 > Dato che tutti e quattro i triangoli sono congruenti, esprimere l'area di ciascuno come una frazione dell'area del triangolo dato.
 
-[[Quesiti/src_bmo_1980-81_round2#q01|src_bmo_1980-81_round2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,topic_combinatoria,method_casework,method_simmetria,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -74,7 +72,6 @@ level: BMO Round 2
 > (Non sono richieste prove formali. Ogni diagramma deve mostrare chiaramente l'asse, i vertici del cubo numerati da $1$ a $8$ e un simbolo come $\begin{pmatrix}1&2&3&4&5&6&7&8\\2&5&3&1&4&8&6&7\end{pmatrix}$ che indica che i punti $1,2,3,\ldots,8$ si spostano rispettivamente ai punti $2,5,3,\ldots,7$.)
 
 **Risposta:** 13
-[[Quesiti/src_bmo_1980-81_round2#q02|src_bmo_1980-81_round2__Q02]]
 
 
 
@@ -102,8 +99,6 @@ level: BMO Round 2
 Risolvere equazioni simmetriche simultanee x^2y^2+x^2z^2=axyz ecc.
 
 > Risolvi per $x$, $y$, $z$ le equazioni simultanee $$x^2y^2 + x^2z^2 = axyz, \quad y^2z^2 + y^2x^2 = bxyz, \quad z^2x^2 + z^2y^2 = cxyz,$$ dove sono dati numeri $a$, $b$, $c$.
-
-[[Quesiti/src_bmo_1980-81_round2#q03|src_bmo_1980-81_round2__Q03]]
 
 
 
@@ -134,7 +129,6 @@ Risolvere equazioni simmetriche simultanee x^2y^2+x^2z^2=axyz ecc.
 > Trova il rimanente quando il polinomio $$x^{81} + x^{49} + x^{25} + x^9 + x$$ è diviso dal polinomio $x^3 - x$.
 
 **Risposta:** $5x$
-[[Quesiti/src_bmo_1980-81_round2#q04|src_bmo_1980-81_round2__Q04]]
 
 
 
@@ -165,8 +159,6 @@ Risolvere equazioni simmetriche simultanee x^2y^2+x^2z^2=axyz ecc.
 
 > La sequenza $\{u_n\}$ dei numeri reali è definita per $n \geq 0$ da $$u_0 = 2, \quad u_1 = 5$$ e $$u_{n+1}\,u_{n-1} - u_n^2 = 6^{n-1} \quad \text{when } n \geq 1.$$ Prova che ogni $u_n$ è un intero.
 
-[[Quesiti/src_bmo_1980-81_round2#q05|src_bmo_1980-81_round2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
@@ -194,8 +186,6 @@ Risolvere equazioni simmetriche simultanee x^2y^2+x^2z^2=axyz ecc.
 
 > Prova che se $c$ è un numero razionale, l'equazione $$x^3 - 3cx^2 - 3x + c = 0$$ ha almeno una radice razionale.
 
-[[Quesiti/src_bmo_1980-81_round2#q06|src_bmo_1980-81_round2__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_combinatoria,method_induzione,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
@@ -221,5 +211,3 @@ Risolvere equazioni simmetriche simultanee x^2y^2+x^2z^2=axyz ecc.
 *8x>=7y per i numeri interi non negativi se la decomposizione x=a+2b+3c+7d, y=b+2c+5d esiste*
 
 > Prova che se $x$, $y$ sono interi non negativi, allora $8x \geq 7y$ se e solo se esistono interi non negativi $a$, $b$, $c$, $d$ in modo tale che $$x = a + 2b + 3c + 7d, \qquad y = b + 2c + 5d.$$
-
-[[Quesiti/src_bmo_1980-81_round2#q07|src_bmo_1980-81_round2__Q07]]

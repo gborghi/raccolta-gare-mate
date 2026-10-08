@@ -43,7 +43,6 @@ level: OBM Nível 3
 ![[src_obm_2015_n3_f1__q01.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2015_n3_f1#q01|src_obm_2015_n3_f1__Q01]]
 
 
 
@@ -76,7 +75,6 @@ level: OBM Nível 3
 > (A) 39 \quad (B) 51 \quad (C) 52 \quad (D) 54 \quad (E) 55
 
 **Risposta:** B
-[[Quesiti/src_obm_2015_n3_f1#q02|src_obm_2015_n3_f1__Q02]]
 
 
 
@@ -113,7 +111,6 @@ level: OBM Nível 3
 ![[src_obm_2015_n3_f1__q03.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2015_n3_f1#q03|src_obm_2015_n3_f1__Q03]]
 
 
 
@@ -146,7 +143,6 @@ level: OBM Nível 3
 > (A) Vinte e cinque \;[Venticinque] \quad (B) Setenta e tr\^{e}s \;[Venticinque] \quad (C) Oitenta e cinque \;[Venticinque] \\ (D) Noventa e sete \;[Novecento sette] \quad (E) Cento e dezoito \;[Cento diciotto]
 
 **Risposta:** A
-[[Quesiti/src_obm_2015_n3_f1#q04|src_obm_2015_n3_f1__Q04]]
 
 
 
@@ -179,7 +175,6 @@ level: OBM Nível 3
 > (A) 2021 \quad (B) 2022 \quad (C) 2023 \quad (D) 2025 \quad (E) 2026
 
 **Risposta:** E
-[[Quesiti/src_obm_2015_n3_f1#q05|src_obm_2015_n3_f1__Q05]]
 
 
 
@@ -212,7 +207,6 @@ level: OBM Nível 3
 > (A) 2 e 2014 \quad (B) 3 e 2013 \quad (C) 1006 e 1010 \quad (D) 1007 e 1009 \quad (E) 1008 e 1009
 
 **Risposta:** E
-[[Quesiti/src_obm_2015_n3_f1#q06|src_obm_2015_n3_f1__Q06]]
 
 
 
@@ -245,7 +239,6 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 > (A) 30 min (B) 35 min (C) 40 min (D) 45 min (E) 50 min
 
 **Risposta:** C
-[[Quesiti/src_obm_2015_n3_f1#q07|src_obm_2015_n3_f1__Q07]]
 
 
 
@@ -278,7 +271,6 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 > (A) $\dfrac{1+\sqrt{3}}{2}$ \quad (B) $\dfrac{1+\sqrt{5}}{2}$ \quad (C) $\dfrac{1+\sqrt{6}}{2}$ \quad (D) $\dfrac{1+\sqrt{8}}{2}$ \quad (E) $\dfrac{1+\sqrt{13}}{2}$
 
 **Risposta:** B
-[[Quesiti/src_obm_2015_n3_f1#q08|src_obm_2015_n3_f1__Q08]]
 
 
 
@@ -311,7 +303,6 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 > (A) 4 \quad (B) 5 \quad (C) 6 \quad (D) 7 \quad (E) 8
 
 **Risposta:** C
-[[Quesiti/src_obm_2015_n3_f1#q09|src_obm_2015_n3_f1__Q09]]
 
 
 
@@ -344,7 +335,6 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 > (A) 365 \quad (B) 455 \quad (C) 465 \quad (D) 629 \quad (E) 699
 
 **Risposta:** C
-[[Quesiti/src_obm_2015_n3_f1#q10|src_obm_2015_n3_f1__Q10]]
 
 
 
@@ -381,7 +371,6 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 ![[src_obm_2015_n3_f1__q11.png]]
 
 **Risposta:** A
-[[Quesiti/src_obm_2015_n3_f1#q11|src_obm_2015_n3_f1__Q11]]
 
 
 
@@ -414,7 +403,6 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 > (A) $\alpha + \beta = \gamma$ \quad (B) $\alpha + \beta = 2\gamma$ \quad (C) $\alpha + \beta + \gamma = 180^\circ$ \\ (D) $\alpha + \beta = 90^\circ$ \quad (E) $\alpha = 45^\circ$
 
 **Risposta:** D
-[[Quesiti/src_obm_2015_n3_f1#q12|src_obm_2015_n3_f1__Q12]]
 
 
 
@@ -447,7 +435,6 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 > (A) Sette secondi (B) Sette ore (C) Sette giorni (D) Sette mesi (E) Sette anni
 
 **Risposta:** A
-[[Quesiti/src_obm_2015_n3_f1#q13|src_obm_2015_n3_f1__Q13]]
 
 
 
@@ -488,7 +475,6 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 ![[src_obm_2015_n3_f1__q14.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2015_n3_f1#q14|src_obm_2015_n3_f1__Q14]]
 
 
 
@@ -521,7 +507,6 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 > (A) Solo 3 o 4 \quad (B) Qualsiasi quantità congruente a 3 o 4 modulo 4 \\ (C) Qualsiasi quantità imparata \quad (D) Qualsiasi quantità primaria \\ (E) Qualsiasi quantità superiore a 2
 
 **Risposta:** E
-[[Quesiti/src_obm_2015_n3_f1#q15|src_obm_2015_n3_f1__Q15]]
 
 
 
@@ -554,7 +539,6 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 > (A) 8064 \quad (B) 8065 \quad (C) 8070 \quad (D) 8075 \quad (E) 8080
 
 **Risposta:** C
-[[Quesiti/src_obm_2015_n3_f1#q16|src_obm_2015_n3_f1__Q16]]
 
 
 
@@ -587,7 +571,6 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 > (A) $\dfrac{\sqrt{2}}{2} - 1$ \quad (B) $1 - \dfrac{\sqrt{2}}{2}$ \quad (C) $\sqrt{2} - 1$ \quad (D) $\dfrac{1}{2}$ \quad (E) $\dfrac{\sqrt{2}}{2}$
 
 **Risposta:** C
-[[Quesiti/src_obm_2015_n3_f1#q17|src_obm_2015_n3_f1__Q17]]
 
 
 
@@ -620,7 +603,6 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 > (A) 201 \quad (B) 202 \quad (C) 222 \quad (D) 223 \quad (E) 224
 
 **Risposta:** E
-[[Quesiti/src_obm_2015_n3_f1#q18|src_obm_2015_n3_f1__Q18]]
 
 
 
@@ -653,7 +635,6 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 > (A) 790 \quad (B) 791 \quad (C) 792 \quad (D) 793 \quad (E) 794
 
 **Risposta:** C
-[[Quesiti/src_obm_2015_n3_f1#q19|src_obm_2015_n3_f1__Q19]]
 
 
 
@@ -686,7 +667,6 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 > (A) 9 \quad (B) 27 \quad (C) 45 \quad (D) 72 \quad (E) 90
 
 **Risposta:** C
-[[Quesiti/src_obm_2015_n3_f1#q20|src_obm_2015_n3_f1__Q20]]
 
 
 
@@ -719,7 +699,6 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 > (A) 3 \quad (B) 4 \quad (C) 5 \quad (D) 6 \quad (E) 8
 
 **Risposta:** D
-[[Quesiti/src_obm_2015_n3_f1#q21|src_obm_2015_n3_f1__Q21]]
 
 
 
@@ -752,7 +731,6 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 > (A) 0 \quad (B) 1 \quad (C) 2 \quad (D) 3 \quad (E) 4
 
 **Risposta:** D
-[[Quesiti/src_obm_2015_n3_f1#q22|src_obm_2015_n3_f1__Q22]]
 
 
 
@@ -785,7 +763,6 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 > (A) $\dfrac{280}{3}$ \quad (B) $58$ \quad (C) $145$ \quad (D) $\dfrac{145}{7}$ \quad (E) $\dfrac{2900}{17}$
 
 **Risposta:** A
-[[Quesiti/src_obm_2015_n3_f1#q23|src_obm_2015_n3_f1__Q23]]
 
 
 
@@ -818,7 +795,6 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 > (A) 2015 \quad (B) 2016 \quad (C) 3264 \quad (D) 4836 \quad (E) 9672
 
 **Risposta:** D
-[[Quesiti/src_obm_2015_n3_f1#q24|src_obm_2015_n3_f1__Q24]]
 
 
 
@@ -851,4 +827,3 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 > (A) $\dfrac{\pi^2}{6} - 1$ \quad (B) $\dfrac{\pi^2}{4}\!\left(\dfrac{\pi^2}{6} - 1\right)$ \quad (C) $\dfrac{\pi^2}{3} - 1$ \quad (D) $\dfrac{\pi^2}{3} + 1$ \quad (E) $\dfrac{\pi^2}{6} - 2$
 
 **Risposta:** A
-[[Quesiti/src_obm_2015_n3_f1#q25|src_obm_2015_n3_f1__Q25]]

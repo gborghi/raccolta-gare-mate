@@ -39,7 +39,6 @@ level: OBM Nível 2
 ![[src_obm_2001_n2_f2__q01.png]]
 
 **Risposta:** 1/8
-[[Quesiti/src_obm_2001_n2_f2#q01|src_obm_2001_n2_f2__Q01]]
 
 
 
@@ -70,8 +69,6 @@ level: OBM Nível 2
 
 ![[src_obm_2001_n2_f2__q02.png]]
 
-[[Quesiti/src_obm_2001_n2_f2#q02|src_obm_2001_n2_f2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -96,8 +93,6 @@ level: OBM Nível 2
 *Ricerca tutti gli anni super-olimpici per la condizione di divisibilità dell'OBM*
 
 > Se l'OBM $n$-th si svolge in un anno divisibile da $n$, diciamo che quell'anno è un anno **super-Olimpico**. Ad esempio, l'anno $2001$, in cui viene tenuta l'OBM $23^{\text{rd}}$, è super-olimpico perché $2001 = 87 \times 23$ è divisibile da $23$. Trova tutti gli anni super-Olimpici, dato che l'OBM si è tenuto ogni anno dalla sua prima edizione in $1979$, e dovrebbe continuare a essere tenuto ogni anno.
-
-[[Quesiti/src_obm_2001_n2_f2#q03|src_obm_2001_n2_f2__Q03]]
 
 
 
@@ -124,8 +119,6 @@ level: OBM Nível 2
 
 > Le misure degli angoli del triangolo $ABC$ sono tali che $\hat{A} < \hat{B} < 90^\circ < \hat{C}$. I bisettori esterni degli angoli $\hat{A}$ e $\hat{C}$ soddisfano rispettivamente le estensioni dei lati $BC$ e $AB$ nei punti $P$ e $Q$. Dato che $\overline{AP} = \overline{CQ} = \overline{AC}$, determinare gli angoli del triangolo $ABC$.
 
-[[Quesiti/src_obm_2001_n2_f2#q04|src_obm_2001_n2_f2__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -150,8 +143,6 @@ level: OBM Nível 2
 *insieme intercambiabili di 4 diversi numeri non zeri; trovare tutti*
 
 > Diciamo che un insieme $A$ formato da $4$ cifre distinte e non zeri è ** intercambiabile** se possiamo formare coppie di numeri dalle cifre di $A$, ciascuna coppia utilizzando cifre $2$ di $A$, in modo tale che in ciascuna coppia il prodotto dei due numeri formati è sempre lo stesso. Ad esempio, l'insieme $\{1,2,3,6\}$ è intercambiabile perché $21 \cdot 36 = 12 \cdot 63$. Trova tutte le serie intercambiabili.
-
-[[Quesiti/src_obm_2001_n2_f2#q05|src_obm_2001_n2_f2__Q05]]
 
 
 
@@ -184,4 +175,3 @@ level: OBM Nível 2
 ![[src_obm_2001_n2_f2__q06.png]]
 
 **Risposta:** 96
-[[Quesiti/src_obm_2001_n2_f2#q06|src_obm_2001_n2_f2__Q06]]

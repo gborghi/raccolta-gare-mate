@@ -33,8 +33,6 @@ level: IMO
 
 > Si dimostri che da un insieme di dieci numeri interi distinti a due cifre (nel sistema decimale) è sempre possibile scegliere due sottoinsiemi disgiunti i cui elementi abbiano la stessa somma.
 
-[[Quesiti/src_imho_1972#q01|src_imho_1972__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_induzione,method_casework,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: IMO
 *Un quadrilatero inscritto in una circonferenza può essere scomposto in quadrilateri anch'essi inscrivibili*
 
 > Si dimostri che se $n \ge 4$, ogni quadrilatero che può essere inscritto in una circonferenza può essere scomposto in $n$ quadrilateri ciascuno dei quali è anch'esso inscrivibile in una circonferenza.
-
-[[Quesiti/src_imho_1972#q02|src_imho_1972__Q02]]
 
 
 
@@ -90,8 +86,6 @@ level: IMO
 > Siano $m$ e $n$ due interi non negativi arbitrari. Si dimostri che
 > $$\frac{(2m)!(2n)!}{m!\,n!\,(m+n)!}$$
 > è un numero intero. ($0! = 1$.)
-
-[[Quesiti/src_imho_1972#q03|src_imho_1972__Q03]]
 
 
 
@@ -132,8 +126,6 @@ level: IMO
 > \end{aligned}$$
 > dove $x_1, x_2, x_3, x_4$ sono numeri reali positivi.
 
-[[Quesiti/src_imho_1972#q04|src_imho_1972__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_algebra,method_backward,method_disuguaglianze,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
@@ -163,8 +155,6 @@ level: IMO
 > $$f(x + y) + f(x - y) = 2f(x)g(y)$$
 > per tutti gli $x, y$. Si dimostri che se $f(x)$ non è identicamente nulla, e se $|f(x)| \le 1$ per tutti gli $x$, allora $|g(y)| \le 1$ per tutti gli $y$.
 
-[[Quesiti/src_imho_1972#q05|src_imho_1972__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,method_estremalita,method_simmetria,skill_ragionamento_geometrico,skill_astrazione,skill_modellizzazione"></span>
@@ -189,5 +179,3 @@ level: IMO
 *Quattro piani paralleli distinti implicano un tetraedro regolare con un vertice su ciascuno*
 
 > Siano dati quattro piani paralleli distinti. Si dimostri che esiste un tetraedro regolare avente un vertice su ciascun piano.
-
-[[Quesiti/src_imho_1972#q06|src_imho_1972__Q06]]

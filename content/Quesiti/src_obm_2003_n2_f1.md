@@ -43,7 +43,6 @@ level: OBM Nível 2
 ![[src_obm_2003_n2_f1__q01.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2003_n2_f1#q01|src_obm_2003_n2_f1__Q01]]
 
 
 
@@ -76,7 +75,6 @@ level: OBM Nível 2
 > (A) 29 \quad (B) 30 \quad (C) 31 \quad (D) 32 \quad (E) 33
 
 **Risposta:** A
-[[Quesiti/src_obm_2003_n2_f1#q02|src_obm_2003_n2_f1__Q02]]
 
 
 
@@ -109,7 +107,6 @@ level: OBM Nível 2
 > (A) 39 \quad (B) 43 \quad (C) 47 \quad (D) 50 \quad (E) 53
 
 **Risposta:** A
-[[Quesiti/src_obm_2003_n2_f1#q03|src_obm_2003_n2_f1__Q03]]
 
 
 
@@ -146,7 +143,6 @@ level: OBM Nível 2
 > (A) 85 \quad (B) 87 \quad (C) 92 \quad (D) 95 \quad (E) 96
 
 **Risposta:** D
-[[Quesiti/src_obm_2003_n2_f1#q04|src_obm_2003_n2_f1__Q04]]
 
 
 
@@ -186,7 +182,6 @@ level: OBM Nível 2
 ![[src_obm_2003_n2_f1__q05.png]]
 
 **Risposta:** E
-[[Quesiti/src_obm_2003_n2_f1#q05|src_obm_2003_n2_f1__Q05]]
 
 
 
@@ -219,7 +214,6 @@ level: OBM Nível 2
 > (A) 1 \quad (B) 2 \quad (C) 4 \quad (D) 6 \quad (E) 8
 
 **Risposta:** C
-[[Quesiti/src_obm_2003_n2_f1#q06|src_obm_2003_n2_f1__Q06]]
 
 
 
@@ -259,7 +253,6 @@ level: OBM Nível 2
 ![[src_obm_2003_n2_f1__q07.png]]
 
 **Risposta:** E
-[[Quesiti/src_obm_2003_n2_f1#q07|src_obm_2003_n2_f1__Q07]]
 
 
 
@@ -299,7 +292,6 @@ level: OBM Nível 2
 > - **(E)** un numero la cui somma digitali è 9.
 
 **Risposta:** A
-[[Quesiti/src_obm_2003_n2_f1#q08|src_obm_2003_n2_f1__Q08]]
 
 
 
@@ -331,7 +323,6 @@ level: OBM Nível 2
 > (A) 0 \quad (B) 1 \quad (C) $2a + b$ \quad (D) $2a + c$ \quad (E) $2b + c$
 
 **Risposta:** E
-[[Quesiti/src_obm_2003_n2_f1#q09|src_obm_2003_n2_f1__Q09]]
 
 
 
@@ -368,7 +359,6 @@ level: OBM Nível 2
 > (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 4 \quad (E) 5
 
 **Risposta:** E
-[[Quesiti/src_obm_2003_n2_f1#q10|src_obm_2003_n2_f1__Q10]]
 
 
 
@@ -406,7 +396,6 @@ level: OBM Nível 2
 > (A) 0,1 \quad (B) 0,2 \quad (C) 0,3 \quad (D) 0,4 \quad (E) 0,5
 
 **Risposta:** B
-[[Quesiti/src_obm_2003_n2_f1#q11|src_obm_2003_n2_f1__Q11]]
 
 
 
@@ -439,7 +428,6 @@ level: OBM Nível 2
 > (A) 21 32 33 16 Quad (B) 31 12 33 18 Quad (C) 31 22 33 17 Quad (D) 21 32 33 17 Quad (E) 41 32 24 15 16 18
 
 **Risposta:** D
-[[Quesiti/src_obm_2003_n2_f1#q12|src_obm_2003_n2_f1__Q12]]
 
 
 
@@ -472,7 +460,6 @@ level: OBM Nível 2
 > (A) 34 \quad (B) 36 \quad (C) 42 \quad (D) 55 \quad (E) 45
 
 **Risposta:** C
-[[Quesiti/src_obm_2003_n2_f1#q13|src_obm_2003_n2_f1__Q13]]
 
 
 
@@ -505,7 +492,6 @@ level: OBM Nível 2
 > (A) Quarto Quadrato (B) Decimo Quadrato (C) Sesto Quadrato (D) Nona Quadrato (E) Settimo
 
 **Risposta:** C
-[[Quesiti/src_obm_2003_n2_f1#q14|src_obm_2003_n2_f1__Q14]]
 
 
 
@@ -546,7 +532,6 @@ level: OBM Nível 2
 > - **(E)** È impossibile determinare senza un dizionario LucianêsPortuguese.
 
 **Risposta:** C
-[[Quesiti/src_obm_2003_n2_f1#q15|src_obm_2003_n2_f1__Q15]]
 
 
 
@@ -587,7 +572,6 @@ level: OBM Nível 2
 ![[src_obm_2003_n2_f1__q16.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2003_n2_f1#q16|src_obm_2003_n2_f1__Q16]]
 
 
 
@@ -624,7 +608,6 @@ level: OBM Nível 2
 ![[src_obm_2003_n2_f1__q17.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2003_n2_f1#q17|src_obm_2003_n2_f1__Q17]]
 
 
 
@@ -659,7 +642,6 @@ level: OBM Nível 2
 > (A) $\dfrac{1}{3}$ \quad (B) $\dfrac{2}{3}$ \quad (C) $1$ \quad (D) $\dfrac{4}{3}$ \quad (E) $2$
 
 **Risposta:** C
-[[Quesiti/src_obm_2003_n2_f1#q18|src_obm_2003_n2_f1__Q18]]
 
 
 
@@ -692,7 +674,6 @@ level: OBM Nível 2
 > (A) $X < Z < Y$ \quad (B) $Y < X < Z$ \quad (C) $X < Y < Z$ \quad (D) $Z < X < Y$ \quad (E) $Z < Y < X$
 
 **Risposta:** C
-[[Quesiti/src_obm_2003_n2_f1#q19|src_obm_2003_n2_f1__Q19]]
 
 
 
@@ -725,7 +706,6 @@ level: OBM Nível 2
 > (A) Beatriz \quad (B) Isabele \quad (C) Nicole \quad (D) Beatriz e Nicole \quad (E) Tutti e tre hanno la stessa probabilità.
 
 **Risposta:** B
-[[Quesiti/src_obm_2003_n2_f1#q20|src_obm_2003_n2_f1__Q20]]
 
 
 
@@ -766,7 +746,6 @@ level: OBM Nível 2
 > (A) 3 \quad (B) 4 \quad (C) 5 \quad (D) 6 \quad (E) 7
 
 **Risposta:** B
-[[Quesiti/src_obm_2003_n2_f1#q21|src_obm_2003_n2_f1__Q21]]
 
 
 
@@ -799,7 +778,6 @@ level: OBM Nível 2
 > (A) 10 \quad (B) 11 \quad (C) 13 \quad (D) 14 \quad (E) 15
 
 **Risposta:** C
-[[Quesiti/src_obm_2003_n2_f1#q22|src_obm_2003_n2_f1__Q22]]
 
 
 
@@ -832,7 +810,6 @@ Ricerca binaria sui numeri unici 199; richieste di domande massime
 > (A) 5 \quad (B) 7 \quad (C) 15 \quad (D) 25 \quad (E) 45
 
 **Risposta:** A
-[[Quesiti/src_obm_2003_n2_f1#q23|src_obm_2003_n2_f1__Q23]]
 
 
 
@@ -869,7 +846,6 @@ Ricerca binaria sui numeri unici 199; richieste di domande massime
 ![[src_obm_2003_n2_f1__q24.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2003_n2_f1#q24|src_obm_2003_n2_f1__Q24]]
 
 
 
@@ -906,4 +882,3 @@ Ricerca binaria sui numeri unici 199; richieste di domande massime
 ![[src_obm_2003_n2_f1__q25.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2003_n2_f1#q25|src_obm_2003_n2_f1__Q25]]

@@ -33,8 +33,6 @@ level: INMO
 
 > In un triangolo a angolo acuto $ABC$ con $\angle A = 30^\circ$, $H$ è l'ortocentro e $M$ il punto medio di $BC$. Il punto $T$ è simmetrico a $H$ rispetto a $M$. Mostra che $AT = 2BC$.
 
-[[Quesiti/src_inmo_1995#q01|src_inmo_1995__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_induzione,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -59,8 +57,6 @@ level: INMO
 *Infinitamente molte copriemi con due quadratici con radici interi*
 
 > Mostrare che ci sono infinite coppie $(a,b)$ di integri coprimi in modo tale che sia le equazioni quadratiche $x^2 + ax + b = 0$ che $x^2 + 2ax + b = 0$ abbiano radici di enti.
-
-[[Quesiti/src_inmo_1995#q02|src_inmo_1995__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: INMO
 
 > Indicare che il numero di sottogruppi di tre elementi $\{a,b,c\}$ di $\{1,2,\ldots,65\}$ con $a+b+c < 95$ è inferiore a quello di quelli con $a+b+c > 95$.
 
-[[Quesiti/src_inmo_1995#q03|src_inmo_1995__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -113,8 +107,6 @@ level: INMO
 *Ratio di radii di cerchio mistilineare a cerchio incircolo = tan^2((B-C)/4)*
 
 > Il $\Gamma$ deve essere il cerchio situato all'interno di un triangolo $ABC$ e che tocca i lati $AB$ e $AC$ e l'incircolo $\Gamma'$ del triangolo esternamente. Indicare che il rapporto tra i raggi di $\Gamma$ e $\Gamma'$ è uguale a $\tan^2\!\dfrac{B-C}{4}$.
-
-[[Quesiti/src_inmo_1995#q04|src_inmo_1995__Q04]]
 
 
 
@@ -142,8 +134,6 @@ level: INMO
 
 > I numeri reali $a_1, a_2, \ldots, a_n$ sono tutti superiori a $1$ e soddisfano $|a_k - a_{k+1}| < 1$ per $1 \le k \le n-1$. Provare che $$\frac{a_1}{a_2} + \frac{a_2}{a_3} + \cdots + \frac{a_{n-1}}{a_n} + \frac{a_n}{a_1} < 2n-1.$$
 
-[[Quesiti/src_inmo_1995#q05|src_inmo_1995__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -168,5 +158,3 @@ level: INMO
 *Trova tutte le prime p per le quali (2^p - 1)/p è un quadrato perfetto*
 
 > Trova tutti i numeri primi $p$ per i quali $\dfrac{2^p - 1}{p}$ è un quadrato perfetto.
-
-[[Quesiti/src_inmo_1995#q06|src_inmo_1995__Q06]]

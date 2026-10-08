@@ -39,7 +39,6 @@ level: JJMO Yosen
 ![[src_jjmo12yq_yosen__q01.png]]
 
 **Risposta:** $\frac{3}{2}\sqrt{2}$
-[[Quesiti/src_jjmo12yq_yosen#q01|src_jjmo12yq_yosen__Q01]]
 
 
 
@@ -73,7 +72,6 @@ level: JJMO Yosen
 > Per un intero positivo $n$ al massimo $500$, quattro persone A, B, C, D dicono quanto segue: A: "$n$ è divisibile da $2$ esattamente $3$ volte (cioè $2^3 \mid n$ ma $2^4 \nmid n$)." B: "$n$ è divisibile da $3$ esattamente $2$ volte." C: "$n$ è divisibile da $7$ esattamente $1$ tempo." D: "La somma delle cifre di $n$ è $15$". Trova $n$.
 
 **Risposta:** 168
-[[Quesiti/src_jjmo12yq_yosen#q02|src_jjmo12yq_yosen__Q02]]
 
 
 
@@ -106,7 +104,6 @@ level: JJMO Yosen
 ![[src_jjmo12yq_yosen__q03.png]]
 
 **Risposta:** 16384
-[[Quesiti/src_jjmo12yq_yosen#q03|src_jjmo12yq_yosen__Q03]]
 
 
 
@@ -135,7 +132,6 @@ level: JJMO Yosen
 > C'è un pentagono ciclico $ABCDE$ con $AB=2$, $BC=5$, $CD=2$, $DE=5$, $AD=8$. Trova la lunghezza del segmento $BE$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 **Risposta:** $\frac{19}{2}$
-[[Quesiti/src_jjmo12yq_yosen#q04|src_jjmo12yq_yosen__Q04]]
 
 
 
@@ -164,7 +160,6 @@ level: JJMO Yosen
 > $n$ sia un numero intero positivo. Su una lavagna, ciascuno dei numeri interi da $1$ a $n$ viene scritto esattamente una volta, ognuno di colore rosso o bianco. La somma di due numeri distinti scritti nello stesso colore non è un quadrato perfetto. Trovare il valore più grande possibile di $n$.
 
 **Risposta:** 14
-[[Quesiti/src_jjmo12yq_yosen#q05|src_jjmo12yq_yosen__Q05]]
 
 
 
@@ -193,7 +188,6 @@ level: JJMO Yosen
 > Trova tutti gli integri positivi $n$ in modo che sia $n+16$ che $16n+1$ siano quadrati perfetti.
 
 **Risposta:** $33,\ 105,\ 1008$
-[[Quesiti/src_jjmo12yq_yosen#q06|src_jjmo12yq_yosen__Q06]]
 
 
 
@@ -222,7 +216,6 @@ level: JJMO Yosen
 > C'è una griglia $6 \times 6$. Sono disposte sei tavole rettangolari di dimensioni $1 \times 2$, ciascuna coprendo esattamente le celle $2$, in modo che non si sovrappongano, in modo tale che in ogni riga e in ogni colonna le celle $2$ siano coperte esattamente da tavole. In quanti modi si può farlo? Qui, le sei tavole sono indistinguibili e le posizioni che coincidono sotto una rotazione o riflessione della griglia $6 \times 6$ vengono contate come diverse.
 
 **Risposta:** 540
-[[Quesiti/src_jjmo12yq_yosen#q07|src_jjmo12yq_yosen__Q07]]
 
 
 
@@ -251,7 +244,6 @@ level: JJMO Yosen
 > C'è un trapezoide $ABCD$ con $BC \parallel AD$, che soddisfa $AB=1$, $BC=1$, $CD=1$, $DA=2$. Il punto medio del lato $BC$ è $M$. Ci sono due punti $E$, $F$ sul lato $AD$ e un punto $G$ sul lato $CD$ che soddisfano $\angle EMG = \angle FGM = 90^\circ$ e $EF = \frac{3}{2}$. Trova la lunghezza del segmento $DG$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 **Risposta:** $\frac{7-\sqrt{33}}{8}$
-[[Quesiti/src_jjmo12yq_yosen#q08|src_jjmo12yq_yosen__Q08]]
 
 
 
@@ -281,7 +273,6 @@ level: JJMO Yosen
 > Su una griglia $55 \times 55$, un pezzo viene posizionato su ciascuna delle celle distinte $n$. Indipendentemente dal posizionamento iniziale dei pezzi, ripetendo l'operazione di seguito è possibile raggiungere uno stato in cui un pezzo viene posizionato sulla cella centrale. Trova il valore più piccolo di $n$ per il quale questo è possibile. Operazione: scegli un pezzo e fissa una direzione di movimento tra su, giù, sinistra, destra. Poi, finché la prossima cella in cui si deve spostare non è né fuori dalla griglia né una cella già occupata da un pezzo, spostare ripetutamente il pezzo scelto una cella alla volta in quella direzione.
 
 **Risposta:** 3
-[[Quesiti/src_jjmo12yq_yosen#q09|src_jjmo12yq_yosen__Q09]]
 
 
 
@@ -310,7 +301,6 @@ Valori di x^2/y+y^2/z+z^2/x fino a 500 con gcd(x,y,z) = 1*
 > Che $x$, $y$, $z$ siano integri positivi il cui più grande divisore comune (di tutti e tre) è $1$. Trova tutti i valori, tra i numeri interi al massimo $500$, che possono essere presi da $\dfrac{x^2}{y} + \dfrac{y^2}{z} + \dfrac{z^2}{x}$.
 
 **Risposta:** $3,\ 65,\ 386$
-[[Quesiti/src_jjmo12yq_yosen#q10|src_jjmo12yq_yosen__Q10]]
 
 
 
@@ -340,7 +330,6 @@ Valori di x^2/y+y^2/z+z^2/x fino a 500 con gcd(x,y,z) = 1*
 > Ci sono punti $14$ su un cerchio. Da ogni punto viene tracciata esattamente una freccia che punta su uno dei punti, soddisfacendo la condizione seguente. In quanti modi si possono tirare le frecce? Qui, un punto può avere la sua freccia che punta su se stesso, e le configurazioni che coincidono sotto una rotazione o un riflesso sono contate come diverse. Condizione: per ogni punto, il punto raggiunto partendo da esso e seguendo le frecce $20$ volte coincide con il punto raggiunto partendo dal punto due posti in senso orario da esso e seguendo le frecce una volta.
 
 **Risposta:** 974
-[[Quesiti/src_jjmo12yq_yosen#q11|src_jjmo12yq_yosen__Q11]]
 
 
 
@@ -369,4 +358,3 @@ Valori di x^2/y+y^2/z+z^2/x fino a 500 con gcd(x,y,z) = 1*
 > C'è un triangolo $ABC$ con $AB > AC$. Il $D$ deve essere l'intersezione del bisettore di $\angle BAC$ con il lato $BC$. Inoltre, $E$ e $F$ siano le intersezioni del bisettore perpendicolare del segmento $AD$ con i lati $AB$ e $AC$ rispettivamente, e prendere un punto $X$ sul lato $BC$ tale che $BX : XC = BE : CF$. Inoltre, $Y$ è l'intersezione del circoncircolo del triangolo $ABC$ con la linea $AX$ diversa da $A$, e imposta $BC=a$, $CA=b$, $AB=c$. Esprimere il raggio del circoncircolo del triangolo $ADY$ in termini di $a$, $b$, $c$. Qui $ZW$ indica la lunghezza del segmento $ZW$.
 
 **Risposta:** $\frac{abc}{c^2-b^2}$
-[[Quesiti/src_jjmo12yq_yosen#q12|src_jjmo12yq_yosen__Q12]]

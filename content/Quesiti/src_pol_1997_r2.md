@@ -34,8 +34,6 @@ level: Olimpiade Polacca Round 2
 
 > Per qualsiasi numero reale $a$ si trova il numero di triples ordinati $(x, y, z)$ di numeri reali che soddisfano $$x + y^2 + z^2 = a, \quad x^2 + y + z^2 = a, \quad x^2 + y^2 + z = a.$$
 
-[[Quesiti/src_pol_1997_r2#q01|src_pol_1997_r2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -62,8 +60,6 @@ level: Olimpiade Polacca Round 2
 
 > $P$ sia il punto all'interno di un triangolo $ABC$ tale che $\angle PBA = \angle PCA$. Provare che $$\frac{AC}{AB + PC} = \frac{AB}{AC + PB}.$$
 
-[[Quesiti/src_pol_1997_r2#q02|src_pol_1997_r2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_colorazione,method_estremalita,skill_modellizzazione,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
@@ -88,8 +84,6 @@ level: Olimpiade Polacca Round 2
 *Minimum di colori per i segmenti di colori tra n punti, non due punti finali dello stesso colore*
 
 > Si devono indicare i punti $n$, di cui non ci sono tre su una linea. Tutti i segmenti con punti di fine in questi punti sono colorati in modo che due segmenti con un punto di fine comune siano di colori diversi. Determinare il minor numero di colori per i quali questo è possibile.
-
-[[Quesiti/src_pol_1997_r2#q03|src_pol_1997_r2__Q03]]
 
 
 
@@ -116,8 +110,6 @@ level: Olimpiade Polacca Round 2
 
 > Trova tutti i trippi di numeri interi positivi con la proprietà che il prodotto di due di loro dà il rimanente 1 dopo la divisione del terzo numero.
 
-[[Quesiti/src_pol_1997_r2#q04|src_pol_1997_r2__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_probabilita,topic_combinatoria,method_conteggio,method_congruenze,skill_conteggio_sistematico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -143,8 +135,6 @@ level: Olimpiade Polacca Round 2
 
 > Abbiamo lanciato $n$ dadi bianchi e $m$ dadi neri. Determinare la probabilità che il resto modulo 7 della somma dei numeri sui dadi bianchi sia uguale al resto modulo 7 della somma dei numeri sui dadi neri.
 
-[[Quesiti/src_pol_1997_r2#q05|src_pol_1997_r2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,topic_combinatoria,method_cassetti,skill_modellizzazione,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -169,5 +159,3 @@ level: Olimpiade Polacca Round 2
 *Otto punti in cubo unitario, circa due a distanza massima 1*
 
 > Lasciate dare otto punti in un cubo unitario. Prove che due di questi punti sono a distanza non superiore a 1.
-
-[[Quesiti/src_pol_1997_r2#q06|src_pol_1997_r2__Q06]]

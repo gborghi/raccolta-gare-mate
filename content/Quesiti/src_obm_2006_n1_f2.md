@@ -33,8 +33,6 @@ level: OBM Nível 1
 
 > Il numero $N = 10100100100101\ldots$ contiene solo le cifre $0$ e $1$, con la proprietà che tra due cifre consecutive $1$ ci sono alternativamente uno o due zero. Il numero $N$ ha esattamente $101$ cifre. Qual è la somma di tutte le cifre di $N$?
 
-[[Quesiti/src_obm_2006_n1_f2#q01|src_obm_2006_n1_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione"></span>
@@ -63,8 +61,6 @@ level: OBM Nível 1
 > Un foglio di carta è lungo $20\,\text{cm}$ e largo $15\,\text{cm}$. Pieghiamo il foglio lungo la sua lunghezza. Quindi facciamo una doppia piega rettangolare in modo che due vertici opposti coincidano. Una volta svolto, le pieghe del secondo piego dividono il foglio in due parti, come mostrato nella figura. Qual è la superficie della parte ombrata, in $\text{cm}^2$?
 
 ![[src_obm_2006_n1_f2__q02.png]]
-
-[[Quesiti/src_obm_2006_n1_f2#q02|src_obm_2006_n1_f2__Q02]]
 
 
 
@@ -101,8 +97,6 @@ level: OBM Nível 1
 > 
 > Qual è il valore di $\dfrac{A}{223}$?
 
-[[Quesiti/src_obm_2006_n1_f2#q03|src_obm_2006_n1_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_aritmetica,method_backward,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -136,8 +130,6 @@ level: OBM Nível 1
 
 ![[src_obm_2006_n1_f2__q04.png]]
 
-[[Quesiti/src_obm_2006_n1_f2#q04|src_obm_2006_n1_f2__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -161,8 +153,6 @@ level: OBM Nível 1
 *Altazza dell'acqua nel serbatoio cubico dopo aver collocato 25 blocchi di legno*
 
 > Un serbatoio cubo ha una lunghezza laterale interna $2\,\text{m}$ e contiene acqua fino alla metà della sua altezza. Nel serbatoio sono inseriti blocchi di legno rettangolari $25$, ciascuno delle quali ha dimensioni $20 \times 50 \times 160\,\text{cm}$. Sapendo che $80\%$ del volume di ciascun blocco rimane immerso nell'acqua, calcolare, in centimetri, l'altezza raggiunta dall'acqua nel serbatoio.
-
-[[Quesiti/src_obm_2006_n1_f2#q05|src_obm_2006_n1_f2__Q05]]
 
 
 
@@ -189,8 +179,6 @@ level: OBM Nível 1
 *Ricerca a^b dopo aver corretto una cifra in un'aggiunta sbagliata*
 
 > L'aggiunta seguente non è corretta. Tuttavia, se si sostituisce solo una cifra $a$ ovunque appare con un'altra cifra $b$, l'aggiunta diventa corretta. Qual è il valore di $a^b$? $$\begin{array}{r} 742586 \\ +\;829430 \\ \hline 1212016 \end{array}$$
-
-[[Quesiti/src_obm_2006_n1_f2#q06|src_obm_2006_n1_f2__Q06]]
 
 
 
@@ -228,8 +216,6 @@ level: OBM Nível 1
 
 ![[src_obm_2006_n1_f2__q07.png]]
 
-[[Quesiti/src_obm_2006_n1_f2#q07|src_obm_2006_n1_f2__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_astrazione"></span>
@@ -256,8 +242,6 @@ level: OBM Nível 1
 *Nombre massimo di masse totali distinte da sei dischi di 16 kg*
 
 > Esmeralda ha comprato sei dischi di ferro da usare con un apparecchio di ginnastica. I dischi hanno massa $1, 2, 3, 4, 5,$ e $6$ chilogrammi, rispettivamente. Esmeralda può combinarli per ottenere altre masse; ad esempio: $$1\text{ disc of }2\,\text{kg} + 1\text{ disc of }6\,\text{kg} = 8\,\text{kg}.$$ Qual è il maggior numero di masse diverse che può ottenere?
-
-[[Quesiti/src_obm_2006_n1_f2#q08|src_obm_2006_n1_f2__Q08]]
 
 
 
@@ -295,5 +279,3 @@ level: OBM Nível 1
 > b) Qual è il rimanente quando la somma degli elementi di diagonale $2007$ è divisa da $100$?
 
 ![[src_obm_2006_n1_f2__q09.png]]
-
-[[Quesiti/src_obm_2006_n1_f2#q09|src_obm_2006_n1_f2__Q09]]

@@ -48,7 +48,6 @@ level: triennio
 > - **(E)** There's no way to tell.
 
 **Answer:** B
-[[Quesiti/src_archimede_1998_triennio#q03|src_archimede_1998_triennio__Q03]]
 
 
 
@@ -100,7 +99,6 @@ level: triennio
 > - **(E)** x and y cannot be compared.
 
 **Answer:** B
-[[Quesiti/src_archimede_1998_triennio#q04|src_archimede_1998_triennio__Q04]]
 
 
 
@@ -140,7 +138,6 @@ level: triennio
 > - **(E)** 12.
 
 **Answer:** D
-[[Quesiti/src_archimede_1998_triennio#q05|src_archimede_1998_triennio__Q05]]
 
 
 
@@ -181,7 +178,6 @@ level: triennio
 > - **(E)** x ≥5.
 
 **Answer:** B
-[[Quesiti/src_archimede_1998_triennio#q06|src_archimede_1998_triennio__Q06]]
 
 
 
@@ -224,7 +220,6 @@ level: triennio
 > - **(E)** None of the previous ones.
 
 **Answer:** E
-[[Quesiti/src_archimede_1998_triennio#q07|src_archimede_1998_triennio__Q07]]
 
 
 
@@ -266,7 +261,6 @@ level: triennio
 > - **(E)** 1 12.
 
 **Answer:** C
-[[Quesiti/src_archimede_1998_triennio#q08|src_archimede_1998_triennio__Q08]]
 
 
 
@@ -312,7 +306,6 @@ level: triennio
 > - **(E)** None of the previous ones. C A B b O D
 
 **Answer:** D
-[[Quesiti/src_archimede_1998_triennio#q10|src_archimede_1998_triennio__Q10]]
 
 
 
@@ -353,7 +346,6 @@ level: triennio
 > - **(E)** No number is perfect.
 
 **Answer:** B
-[[Quesiti/src_archimede_1998_triennio#q11|src_archimede_1998_triennio__Q11]]
 
 
 
@@ -397,7 +389,6 @@ level: triennio
 > - **(E)** about four and a half inches.
 
 **Answer:** E
-[[Quesiti/src_archimede_1998_triennio#q12|src_archimede_1998_triennio__Q12]]
 
 
 
@@ -439,7 +430,6 @@ level: triennio
 > - **(E)** more than 9%.
 
 **Answer:** B
-[[Quesiti/src_archimede_1998_triennio#q13|src_archimede_1998_triennio__Q13]]
 
 
 
@@ -481,7 +471,6 @@ level: triennio
 > - **(E)** x2 + y2 ≤4(y −1).
 
 **Answer:** E
-[[Quesiti/src_archimede_1998_triennio#q15|src_archimede_1998_triennio__Q15]]
 
 
 
@@ -533,7 +522,6 @@ How old is Barbara given the number of cuts*
 > - **(E)** 16. b b b b b b b
 
 **Answer:** C
-[[Quesiti/src_archimede_1998_triennio#q16|src_archimede_1998_triennio__Q16]]
 
 
 
@@ -574,7 +562,6 @@ How old is Barbara given the number of cuts*
 > - **(E)** depends on the lengths of the sides of the ABC.
 
 **Answer:** D
-[[Quesiti/src_archimede_1998_triennio#q17|src_archimede_1998_triennio__Q17]]
 
 
 
@@ -615,7 +602,6 @@ How old is Barbara given the number of cuts*
 > - **(E)** None of the above.
 
 **Answer:** E
-[[Quesiti/src_archimede_1998_triennio#q18|src_archimede_1998_triennio__Q18]]
 
 
 
@@ -661,7 +647,6 @@ How old is Barbara given the number of cuts*
 > - **(E)** It is not possible to establish it uniquely.
 
 **Answer:** C
-[[Quesiti/src_archimede_1998_triennio#q20|src_archimede_1998_triennio__Q20]]
 
 
 
@@ -708,7 +693,6 @@ How old is Barbara given the number of cuts*
 > - **(E)** √ 5 24 .
 
 **Answer:** B
-[[Quesiti/src_archimede_1998_triennio#q21|src_archimede_1998_triennio__Q21]]
 
 
 
@@ -748,7 +732,6 @@ How old is Barbara given the number of cuts*
 > - **(E)** 23995.
 
 **Answer:** E
-[[Quesiti/src_archimede_1998_triennio#q23|src_archimede_1998_triennio__Q23]]
 
 
 
@@ -790,4 +773,3 @@ How old is Barbara given the number of cuts*
 > - **(E)** 2048.
 
 **Answer:** D
-[[Quesiti/src_archimede_1998_triennio#q25|src_archimede_1998_triennio__Q25]]

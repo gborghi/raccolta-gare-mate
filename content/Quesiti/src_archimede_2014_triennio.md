@@ -45,7 +45,6 @@ level: triennio
 > - **(E)** The equation has two negative real roots.
 
 **Answer:** C
-[[Quesiti/src_archimede_2014_triennio#q02|src_archimede_2014_triennio__Q02]]
 
 
 
@@ -78,7 +77,6 @@ level: triennio
 > A parallelogram with a perimeter of P = 8 cm has an area of A = 4 √ 2 cm2. What's your sharp angle? (A) 30°, (B) 45°, (C) 60°, (D) such a parallelogram does not exist, (E) the angle cannot be uniquely determined from the data provided.
 
 **Answer:** D
-[[Quesiti/src_archimede_2014_triennio#q03|src_archimede_2014_triennio__Q03]]
 
 
 
@@ -111,7 +109,6 @@ level: triennio
 > Thirteen friends meet for a board game. The game provides for each participant to be allocated a sixth, so that the first player receives a sixth and each subsequent player receives a number of sixths equal to twice that assigned to the previous player. Knowing that there are a total of 10,000 sesterces, how many sesterces will remain undistributed? (A) 0, (B) 32, (C) 205, (D) 951, (E) 1809.
 
 **Answer:** E
-[[Quesiti/src_archimede_2014_triennio#q04|src_archimede_2014_triennio__Q04]]
 
 
 
@@ -149,7 +146,6 @@ level: triennio
 > Which of these numbers is an integer? (A) 0,002 · 100 + √ 11025, (B) 32 · 3 · 1,6, (C) (8, 2)2 −(1, 8)2, (D) ( √ 2 + 1)2, (E) 34 1,02 + 5 6√0,0001.
 
 **Answer:** C
-[[Quesiti/src_archimede_2014_triennio#q06|src_archimede_2014_triennio__Q06]]
 
 
 
@@ -191,7 +187,6 @@ level: triennio
 > Consider an equilateral triangle T, and it's called G its barycenter. All points inside the triangle whose distance from G is less than or equal to the distance from any of the three vertices shall be colored red. What is the ratio between the red area and the T area? (A) 1 3, (B) 1 4, (C) 2 3, (D) √ 3 9 , (E) √ 3 3 .
 
 **Answer:** C
-[[Quesiti/src_archimede_2014_triennio#q07|src_archimede_2014_triennio__Q07]]
 
 
 
@@ -231,7 +226,6 @@ level: triennio
 > Knowing that the equation 2x4 + 5x3 −21x2 + 5x + 2 = 0 has 4 real solutions a, b, c, d, how much is a + b + c + d −  1 a + 1 b + 1 c + 1 d? (A) −7, (B) 21 5 , (C) 10 21, (D) 5 2, (E) 0.
 
 **Answer:** E
-[[Quesiti/src_archimede_2014_triennio#q08|src_archimede_2014_triennio__Q08]]
 
 
 
@@ -263,7 +257,6 @@ level: triennio
 > If x plus 1 x is equal to 5, how much is x3 plus 1 x3? (A) 105, (B) 110, (C) 115, (D) 120, (E) 125.
 
 **Answer:** B
-[[Quesiti/src_archimede_2014_triennio#q12|src_archimede_2014_triennio__Q12]]
 
 
 
@@ -294,7 +287,6 @@ level: triennio
 > The positive integer n is such that the polynomial 1 −2x + 3x2 −4x3 + 5x4 −· · −2014x2013 + nx2014 has at least one integer solution. How much is n? (A) 1, (B) 2, (C) 2014, (D) 2015, (E) none of the above.
 
 **Answer:** E
-[[Quesiti/src_archimede_2014_triennio#q15|src_archimede_2014_triennio__Q15]]
 
 
 
@@ -349,7 +341,6 @@ level: triennio
 > Whether ABC is a right triangle whose cathetes measure AC =2m and BC =1m. Consider the tangent circumference of the hypotenuse and the lines containing AC and BC, outside the triangle ABC: how much is its radius r in m? (A) 1+ √ 5 2 , (B) √ 5, (C) 3+ √ 5 2 , (D) 5, (E) 2+ √ 5 2 . A r B C
 
 **Answer:** C
-[[Quesiti/src_archimede_2014_triennio#q16|src_archimede_2014_triennio__Q16]]
 
 
 
@@ -387,7 +378,6 @@ level: triennio
 > Simone has a regular tetrahedron-shaped fortune teller, whose faces have sides 6 √ 2 cm long. What is the volume of the tetrahedron in cm3? (A) 36, (B) 36 √ 2, (C) 72, (D) 72 √ 2, (E) 72 √ 3
 
 **Answer:** C
-[[Quesiti/src_archimede_2014_triennio#q17|src_archimede_2014_triennio__Q17]]
 
 
 
@@ -419,7 +409,6 @@ level: triennio
 > An artist has made a stone sculpture in the shape of a strange polyhedron. The surface of the sculpture is made up of 31 triangular faces, 18 quadrangular faces, 11 pentagonal faces and 7 hexagonal faces. How many beads does polyhedron have? (A) 65, (B) 94, (C) 100, (D) 123, (E) 131.
 
 **Answer:** E
-[[Quesiti/src_archimede_2014_triennio#q18|src_archimede_2014_triennio__Q18]]
 
 
 
@@ -463,7 +452,6 @@ level: triennio
 > It often happens this season that when Luke leaves school it rains: this happens with a probability of 2.5. For this reason Luke feels it appropriate to take an umbrella with him, but sometimes he forgets it; the probability that Luke forgets the umbrella in a single day is 12. What are the odds that for three days in a row, Luke never bathes on his way home from school? (A) less than 16, (B) between 16 and 13, (C) between 13 and 12, (D) between 12 and 2, (E) greater than 5. 6.
 
 **Answer:** D
-[[Quesiti/src_archimede_2014_triennio#q19|src_archimede_2014_triennio__Q19]]
 
 
 
@@ -568,4 +556,3 @@ level: triennio
 > An ABC equilateral triangle of 1 m side is divided into two equal area parts by the DE segment parallel to AB, as shown in Figure; likewise, it is divided into two equal area parts by the GF segment parallel to BC. How long is the DF segment? (A) ( √ 2 −1), (B) √ 2 2 , (C) (1 − √ 3 2 ), (D) √ 3 3 , (E) 1 2. F B C A E G D
 
 **Answer:** A
-[[Quesiti/src_archimede_2014_triennio#q20|src_archimede_2014_triennio__Q20]]

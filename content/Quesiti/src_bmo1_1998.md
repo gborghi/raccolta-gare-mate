@@ -41,8 +41,6 @@ level: BMO Round 1
 > 
 > Qual è il punteggio più alto possibile?
 
-[[Quesiti/src_bmo1_1998#q01|src_bmo1_1998__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_ricorsione,method_invarianti,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -70,8 +68,6 @@ level: BMO Round 1
 
 > Il valore di $a_0 = 19$, $a_1 = 98$. Per $n \ge 1$, definire $a_{n+1}$ come il rimanente di $a_n + a_{n-1}$ diviso per 100. Qual è il rimanente quando $$a_0^2 + a_1^2 + a_2^2 + \cdots + a_{1998}^2$$ è diviso per 8?
 
-[[Quesiti/src_bmo1_1998#q02|src_bmo1_1998__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -96,8 +92,6 @@ level: BMO Round 1
 *Triangolo isosceles ABP; mostrare angoli uguali e punto medio*
 
 > $ABP$ è un triangolo di uguali braccia con $AB = AP$ e $\angle PAB$ acuta. $PC$ è il piede della perpendicolare da $P$ a $AB$, e $C$ è un punto sulla linea $BP$ sul lato $AB$. (Si può supporre che $C$ non sia sulla linea $AB$.) $D$ completa il parallelo $ABCD$. Indicare che $\angle APC = \angle ABC$ e che $M$ è il punto medio di $DA$.
-
-[[Quesiti/src_bmo1_1998#q03|src_bmo1_1998__Q03]]
 
 
 
@@ -126,8 +120,6 @@ level: BMO Round 1
 
 > Indicare che esiste una sequenza unica di integri positivi $(a_n)$ che soddisfa le seguenti condizioni: $$a_1 = 1, \quad a_2 = 2, \quad a_{n+2} = a_n^2 + a_{n+1} \quad \text{for } n = 1, 2, 3, \ldots$$ e che $a_{1998}$ è divisibile da $87$.
 
-[[Quesiti/src_bmo1_1998#q04|src_bmo1_1998__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -152,5 +144,3 @@ level: BMO Round 1
 *Triangolo ABC con punto medio D su BC; trovare angolo BAC con data condizione angolare*
 
 > Nel triangolo $ABC$, $D$ è il punto medio di $BC$ e $E$ è il punto più vicino a $AB$. Dato che $\angle ADC = \angle BAC$, trovare $\angle BAC$.
-
-[[Quesiti/src_bmo1_1998#q05|src_bmo1_1998__Q05]]

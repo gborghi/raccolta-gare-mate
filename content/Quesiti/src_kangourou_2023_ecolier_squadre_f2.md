@@ -37,7 +37,6 @@ level: squadre
 > The smallest Mariella wrote the smallest four-digit integer greater than zero, such that the product of its digits is 40. What number did Mariella write?
 
 **Answer:** 1158
-[[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q01|src_kangourou_2023_ecolier_squadre_f2__Q01]]
 
 
 
@@ -77,7 +76,6 @@ level: squadre
 > (Write the four digits of the time, without the colon.)
 
 **Answer:** 1830
-[[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q02|src_kangourou_2023_ecolier_squadre_f2__Q02]]
 
 
 
@@ -110,7 +108,6 @@ level: squadre
 > that are even?
 
 **Answer:** 0010
-[[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q03|src_kangourou_2023_ecolier_squadre_f2__Q03]]
 
 
 
@@ -142,7 +139,6 @@ level: squadre
 > This year, the date of the Kangourou individual race is 16/03/2023: adding up all the digits of this date, you get 17. For how many days, from the first to the last day of this year, is the sum of the digits of the date 23?
 
 **Answer:** 0012
-[[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q04|src_kangourou_2023_ecolier_squadre_f2__Q04]]
 
 
 
@@ -178,7 +174,6 @@ level: squadre
 > have the same price. How many cents did each egg cost?
 
 **Answer:** 0980
-[[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q05|src_kangourou_2023_ecolier_squadre_f2__Q05]]
 
 
 
@@ -216,7 +211,6 @@ level: squadre
 > The pierced cube Luigi obtained a cube by placing 4 × 4 × 4 identical small cubes side by side. He then mounted on a drill a bit with a cross-section smaller than the face of each of the cubes and drilled the cube through from side to side six times, each time parallel to an edge: in the figure the black dots indicate the entry points of the drill. How many cubes haven't been touched by the tip of the drill?
 
 **Answer:** 0044
-[[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q06|src_kangourou_2023_ecolier_squadre_f2__Q06]]
 
 
 
@@ -248,7 +242,6 @@ level: squadre
 > To the right and to the left Andrea wrote a two-digit integer, Beatrice wrote the three-digit number you get from Andrea's by placing a 2 to its right, Cecilia wrote the three-digit number you get from Andrea's by placing a 2 to its left. Adding 36 to Cecilia's number, you get the number of Beatrice. What number did Andrea write?
 
 **Answer:** 0026
-[[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q07|src_kangourou_2023_ecolier_squadre_f2__Q07]]
 
 
 
@@ -282,7 +275,6 @@ level: squadre
 > A tank can hold enough fuel to power a turbine for 40 hours of uninterrupted operation, but no more; after seven hours of operation, the turbine's speed of rotation, and thus fuel consumption, is halved. The turbine started operating at 12:00 today with the tank full and has always been in operation. At 4 p.m., the tank with the remaining fuel weighed 90 kilograms; at 10 p.m., still today, it weighed 72 kilograms. How many kilograms does the empty tank weigh?
 
 **Answer:** 0012
-[[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q08|src_kangourou_2023_ecolier_squadre_f2__Q08]]
 
 
 
@@ -315,7 +307,6 @@ level: squadre
 > Three 9 digits Mary began to write sequentially one after another, without separating elements, all positive integers: 12345678910111.... She promised to stop as soon as he got the first block of three consecutive 9 digits, i.e. 999 (even without finishing writing the last number). How many digits in total will she have written at the exact moment she stops?
 
 **Answer:** 2590
-[[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q09|src_kangourou_2023_ecolier_squadre_f2__Q09]]
 
 
 
@@ -347,7 +338,6 @@ How many postcards has Enrica given envelopes
 > Enrica is collecting postcards. So far, she has 31 envelopes, each containing at least one card but no more than six. 25 of these envelopes contain at least 2, 17 contain at least 3, 15 at least 4, 9 at least 5 and envelopes containing 6 cards are 6. How many cards does Enrica have, for now?
 
 **Answer:** 0103
-[[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q10|src_kangourou_2023_ecolier_squadre_f2__Q10]]
 
 
 
@@ -381,7 +371,6 @@ How many postcards has Enrica given envelopes
 > The difference Cristina wrote a four-digit integer (i.e. not less than 1,000). Aldo also wrote an integer number of four digits: the digits of Aldo's number are the same as those used by Cristina (in a different order), Aldo's number is larger than Cristina's, the sum of the numbers written by Aldo and Cristina is 9999 and the difference between Aldo's number and Cristina's number is the smallest possible in this situation. How much is this difference worth?
 
 **Answer:** 0099
-[[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q11|src_kangourou_2023_ecolier_squadre_f2__Q11]]
 
 
 
@@ -412,7 +401,6 @@ How many postcards has Enrica given envelopes
 > Yesterday I bought six sandwiches and three slices of cake, today I bought three sandwiches and six slices of cake. All sandwiches have the same price and all cake slices have the same price: a sandwich costs twice as much as a slice of cake. Yesterday I spent 6 euros and 90 cents more than today. How much is a sandwich worth?
 
 **Answer:** 0460
-[[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q12|src_kangourou_2023_ecolier_squadre_f2__Q12]]
 
 
 
@@ -444,7 +432,6 @@ Handshakes with three brothers excluded
 > Twenty friends, including three brothers, are at a party. At the end, to greet each other, each shakes hands with each other once and only once, but the three brothers, because they live together, do not shake hands with each other. Overall, how many handshakes are there?
 
 **Answer:** 0187
-[[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q13|src_kangourou_2023_ecolier_squadre_f2__Q13]]
 
 
 
@@ -479,7 +466,6 @@ How many of the 26 seats are red
 > In Arthur's restaurant, every chair is either blue or yellow or red or green or purple. Around a large round table today there are 26 chairs and the 13 guests who have already arrived have sat down so that between them there is always an empty chair. If each occupant were to move two seats clockwise, the new seat he would occupy would be the same color as the one he previously occupied. If each occupant were to move 9 seats in an anti-clockwise direction, the new chair he would occupy would still be the same color as the one he previously occupied. Henry is one of the 13 and his chair is red. How many of the 26 chairs are red?
 
 **Answer:** 0026
-[[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q14|src_kangourou_2023_ecolier_squadre_f2__Q14]]
 
 
 
@@ -516,4 +502,3 @@ How many of the 26 seats are red
 > Questions and solutions
 
 **Answer:** 0188
-[[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q15|src_kangourou_2023_ecolier_squadre_f2__Q15]]

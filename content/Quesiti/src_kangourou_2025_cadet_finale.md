@@ -34,8 +34,7 @@ level: kangourou
 
 > On the fingers of one hand, Silvia counted in the following way: 1 thumb, 2 index, 3 middle, 4 ring, 5 little; then she went back: 6 ring, 7 middle, 8 index, 9 thumb. Then she started again: 10 index, 11 middle and so on, until she reached 999. On which finger?
 
-**Answer:** medio
-[[Quesiti/src_kangourou_2025_cadet_finale#qc1|src_kangourou_2025_cadet_finale__QC1]]
+**Answer:** middle
 
 
 
@@ -63,7 +62,6 @@ level: kangourou
 > A circular park is surrounded by a path lit by lamps. Simona and Tania counted the lamps, but separately, starting from different points and moving both in the same direction. What was the 20th lamp for Simona was the 7th for Tania, what was the 7th for Simona was the 94th for Tania. How many lamps are there in total?
 
 **Answer:** 100
-[[Quesiti/src_kangourou_2025_cadet_finale#qc2|src_kangourou_2025_cadet_finale__QC2]]
 
 
 
@@ -92,7 +90,6 @@ level: kangourou
 > Two positive integers $a$ and $b$ are such that their sum is equal to the product of the two prime numbers 283 and 353. For which pairs $(a, b)$ does $b$ divide $a$?
 
 **Answer:** three pairs
-[[Quesiti/src_kangourou_2025_cadet_finale#qc3|src_kangourou_2025_cadet_finale__QC3]]
 
 
 
@@ -120,7 +117,6 @@ level: kangourou
 > A rectangular botanical garden measuring $52 \times 24$ metres is divided into square plots all of the same size and all with sides parallel to those of the garden. Inside the garden the plots are separated by fences; the overall length of the fences is 1,172 metres. How many square plots are there?
 
 **Answer:** 312
-[[Quesiti/src_kangourou_2025_cadet_finale#qc4|src_kangourou_2025_cadet_finale__QC4]]
 
 
 
@@ -197,7 +193,6 @@ level: kangourou
 > NOTE: Two tiles are adjacent if they share a whole side. Two arrangements are different if, for at least one number, the corresponding tile is occupied in one arrangement by a Knight, in the other by a Knave.
 
 **Answer:** 6
-[[Quesiti/src_kangourou_2025_cadet_finale#qc5|src_kangourou_2025_cadet_finale__QC5]]
 
 
 
@@ -229,4 +224,3 @@ level: kangourou
 > Two points on the circumference of a circle $\Gamma$ are endpoints of an arc $\delta$ of another circle. The arc $\delta$ divides the circle $\Gamma$ into two regions of equal area. Is it necessarily true that $\delta$ is longer than the diameter of $\Gamma$?
 
 **Answer:** Yes
-[[Quesiti/src_kangourou_2025_cadet_finale#qc6|src_kangourou_2025_cadet_finale__QC6]]

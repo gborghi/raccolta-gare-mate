@@ -33,8 +33,6 @@ level: JJMO Honsen
 
 > $n$ sia un numero intero con $n \ge 3$. Trova tutti $n$ in modo tale che esista un $n$-gon in cui ogni angolo interno sia $120^\circ$ o $240^\circ$ e tutti i cui lati hanno la stessa lunghezza.
 
-[[Quesiti/src_jjmo8mq_honsen#q01|src_jjmo8mq_honsen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -64,8 +62,6 @@ level: JJMO Honsen
 > 
 > Condizione: $n$ è un quadrato perfetto con almeno $k+1$ cifre, e per ogni intero positivo $i$ con $i \le k$, il numero ottenuto da $n$ eliminando le sue ultime cifre $i$ è anche un quadrato perfetto.
 
-[[Quesiti/src_jjmo8mq_honsen#q02|src_jjmo8mq_honsen__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_combinatoria,topic_disuguaglianze,method_casework,method_estremalita,method_disuguaglianze,skill_ragionamento_geometrico,skill_casework_accurato"></span>
@@ -90,8 +86,6 @@ level: JJMO Honsen
 5 segmenti: 9 triples acuti costringono il decimo a essere un triangolo
 
 > Ci sono segmenti di linea $5$. Ci sono $10$ modi per scegliere $3$ di essi, e in $9$ di questi modi i segmenti scelti $3$ possono essere utilizzati come lati di un triangolo acuto. Mostrare che, per il rimanente modo $1$, i segmenti $3$ scelti possono essere utilizzati anche come lati di un triangolo.
-
-[[Quesiti/src_jjmo8mq_honsen#q03|src_jjmo8mq_honsen__Q03]]
 
 
 
@@ -121,8 +115,6 @@ level: JJMO Honsen
 > Considerate un triangolo $ABC$. Un cerchio $O$ che attraversa i punti $B$ e $C$ incontra i segmenti $AB$ e $AC$ (esclusi i loro punti terminali) rispettivamente ai punti $D$ e $E$, e $AD + AE = BC$ si ferma. Il punto $I$ deve essere l'incentro del triangolo $ABC$ e le linee $BI$ e $CI$ devono incontrare rispettivamente il cerchio $O$ nei punti $P$ e $Q$ (diversi da $B$ e $C$). Indicare che $A$, $I$, $P$, $Q$ si trovano su un singolo cerchio.
 > 
 > Qui $XY$ indica la lunghezza del segmento $XY$.
-
-[[Quesiti/src_jjmo8mq_honsen#q04|src_jjmo8mq_honsen__Q04]]
 
 
 
@@ -160,5 +152,3 @@ level: JJMO Honsen
 > (2) Seguendo questi segmenti in ordine, si può attraversare ogni punto esattamente una volta e fare un ciclo completo (cioè i segmenti formano un singolo ciclo chiuso attraverso tutti i punti).
 > 
 > Mostrare che, per qualsiasi disposizione dei punti, i segmenti possono essere disegnati in modo tale che il numero di intersezioni tra i segmenti sia massimo $n-1$. Qui, un punto di fine di un segmento non è considerato un incrocio.
-
-[[Quesiti/src_jjmo8mq_honsen#q05|src_jjmo8mq_honsen__Q05]]

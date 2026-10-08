@@ -44,7 +44,6 @@ level: kangourou
 > Which of the following corresponds to the one in the figure? A) B) C) D) E)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2003_cadet#q01|src_kangourou_2003_cadet__Q01]]
 
 
 
@@ -79,7 +78,6 @@ level: kangourou
 > A straight line cuts a 4x4 chessboard without passing through the vertex of any box. What is the largest number of boxes (squares 1x1) that a straight line can intersect? A) 3 B) 4 C) 6 D) 7 E) 8
 
 **Answer:** D
-[[Quesiti/src_kangourou_2003_cadet#q02|src_kangourou_2003_cadet__Q02]]
 
 
 
@@ -115,7 +113,6 @@ level: kangourou
 > There were five parrots in a cage. Their average price was 60 euros. One day, while cleaning the cage, the most handsome one flew away. The average price of the remainder is 50 euros. What was the price of the fugitive? (a) 10 euro B) 20 euro C) 55 euro D) 60 euro E) 100 euro
 
 **Answer:** E
-[[Quesiti/src_kangourou_2003_cadet#q03|src_kangourou_2003_cadet__Q03]]
 
 
 
@@ -150,7 +147,6 @@ level: kangourou
 > In a hexagon (not necessarily convex) how many right interior angles can be found at most? A) 2 B) 3 C) 4 D) 5 E) 6
 
 **Answer:** D
-[[Quesiti/src_kangourou_2003_cadet#q04|src_kangourou_2003_cadet__Q04]]
 
 
 
@@ -206,7 +202,6 @@ level: kangourou
 > Kang 2003
 
 **Answer:** B
-[[Quesiti/src_kangourou_2003_cadet#q05|src_kangourou_2003_cadet__Q05]]
 
 
 
@@ -282,7 +277,6 @@ level: kangourou
 > We cut the square figure drawn on the side and fold it to form a cube. So what's the opposite face to the one marked with x? A) a B) b C) c D) d E) e
 
 **Answer:** E
-[[Quesiti/src_kangourou_2003_cadet#q06|src_kangourou_2003_cadet__Q06]]
 
 
 
@@ -317,7 +311,6 @@ level: kangourou
 > A natural number n of at least 2 digits is such that, by eliminating the last digit, a number n times smaller is obtained. What's the maximum possible value for n? A) 9 B) 10 C) 11 D) 19 E) 20
 
 **Answer:** D
-[[Quesiti/src_kangourou_2003_cadet#q07|src_kangourou_2003_cadet__Q07]]
 
 
 
@@ -352,7 +345,6 @@ level: kangourou
 > Four segments cannot have exactly A) 2 B) 3 C) 5 D) 6 E) 7 intersection points (i.e. points where at least two of them intersect).
 
 **Answer:** E
-[[Quesiti/src_kangourou_2003_cadet#q08|src_kangourou_2003_cadet__Q08]]
 
 
 
@@ -387,7 +379,6 @@ level: kangourou
 > Which of the following numbers, multiplied by 768, gives the result with the highest number of zeros? A) 7500 B) 5000 C) 3125 D) 2500 E) 10000
 
 **Answer:** C
-[[Quesiti/src_kangourou_2003_cadet#q09|src_kangourou_2003_cadet__Q09]]
 
 
 
@@ -436,7 +427,6 @@ level: kangourou
 > Questions from No. 11 to No. 20 are worth 4 points each
 
 **Answer:** B
-[[Quesiti/src_kangourou_2003_cadet#q10|src_kangourou_2003_cadet__Q10]]
 
 
 
@@ -512,7 +502,6 @@ level: kangourou
 > Kang 2003
 
 **Answer:** A
-[[Quesiti/src_kangourou_2003_cadet#q11|src_kangourou_2003_cadet__Q11]]
 
 
 
@@ -553,7 +542,6 @@ level: kangourou
 > E) 5 cm
 
 **Answer:** C
-[[Quesiti/src_kangourou_2003_cadet#q12|src_kangourou_2003_cadet__Q12]]
 
 
 
@@ -591,7 +579,6 @@ level: kangourou
 > Eros fires three arrows at each of the three targets. He scores 29 on the first and 43 on the second. How many points does he total on the third? A) 31 B) 33 C) 36 D) 38 E) 39
 
 **Answer:** C
-[[Quesiti/src_kangourou_2003_cadet#q13|src_kangourou_2003_cadet__Q13]]
 
 
 
@@ -626,7 +613,6 @@ level: kangourou
 > The weight of a dump truck is 2000 kg. Today the load is 80% of the total weight. At the first stop, a quarter of the cargo is unloaded. After that, what percentage of the total weight is the load? A) 20% B) 25% C) 55% D) 60% E) 75%
 
 **Answer:** E
-[[Quesiti/src_kangourou_2003_cadet#q14|src_kangourou_2003_cadet__Q14]]
 
 
 
@@ -664,7 +650,6 @@ level: kangourou
 > In the figure, two squares of equal sides cover a circle with a radius of 3 cm. The area of the shaded figure is A) 8? - 1) cm2 B) 6(2 ? - 1) cm2 C) 9? - 25 cm2 D) 9(? - 2) cm2 E) 6? ?? ?cm2
 
 **Answer:** D
-[[Quesiti/src_kangourou_2003_cadet#q15|src_kangourou_2003_cadet__Q15]]
 
 
 
@@ -700,7 +685,6 @@ level: kangourou
 > You have six sticks, each 1 cm, 2 cm, 3 cm, 2001 cm, 2002 cm and 2003 cm long: you have to choose three to build a triangle (which is not reduced to a segment). How many different choices of three sticks can you make? A) 1 B) 3 C) 5           D) 6 E) 20
 
 **Answer:** D
-[[Quesiti/src_kangourou_2003_cadet#q16|src_kangourou_2003_cadet__Q16]]
 
 
 
@@ -734,7 +718,6 @@ level: kangourou
 > How many positive integers n have the following property: among the (positive) divisors of n other than 1 and n, the largest is 15 times the smallest? A) 0 B) 1 C) 2 D) infinite E) none of the above answers is correct
 
 **Answer:** C
-[[Quesiti/src_kangourou_2003_cadet#q17|src_kangourou_2003_cadet__Q17]]
 
 
 
@@ -781,7 +764,6 @@ level: kangourou
 > Kang 2003
 
 **Answer:** D
-[[Quesiti/src_kangourou_2003_cadet#q18|src_kangourou_2003_cadet__Q18]]
 
 
 
@@ -818,7 +800,6 @@ level: kangourou
 > Mary has six cards of different colors, each marked with a natural number. Choose three random cards and calculate the sum of the corresponding numbers. After doing this operation in all 20 possible ways, she finds that in 10 cases she got 16, and in the others he got 18. So the smallest of the numbers marked on the cards is A) 2 B) 3 C) 4 D) 5 E) 6
 
 **Answer:** C
-[[Quesiti/src_kangourou_2003_cadet#q19|src_kangourou_2003_cadet__Q19]]
 
 
 
@@ -867,7 +848,6 @@ level: kangourou
 > Questions from No. 21 to No. 30 are worth 5 points each
 
 **Answer:** C
-[[Quesiti/src_kangourou_2003_cadet#q20|src_kangourou_2003_cadet__Q20]]
 
 
 
@@ -907,7 +887,6 @@ level: kangourou
 > The figure represents a rectangular parallelepiped constructed by attaching 3 modules each of which is 4 cubes. Of the modules, the cross-hatched one is fully visible, the others only partially. Which of the following modules is the black-painted module? A) B) C) D) E)
 
 **Answer:** A
-[[Quesiti/src_kangourou_2003_cadet#q21|src_kangourou_2003_cadet__Q21]]
 
 
 
@@ -1020,7 +999,6 @@ level: kangourou
 > Pag. 20 Kang 2003
 
 **Answer:** B
-[[Quesiti/src_kangourou_2003_cadet#q22|src_kangourou_2003_cadet__Q22]]
 
 
 
@@ -1060,7 +1038,6 @@ level: kangourou
 > Carlo attempts to break down the figure on the left in the drawing into smaller figures (without overlapping), having the shape of those shown on the right of the drawing, composed of one of 3 and the other of 4 squares. What's the smallest number of three-square figures you can get? A) 1 B) 2 C) 3 D) 4 E) Carlo cannot do this
 
 **Answer:** B
-[[Quesiti/src_kangourou_2003_cadet#q23|src_kangourou_2003_cadet__Q23]]
 
 
 
@@ -1099,7 +1076,6 @@ level: kangourou
 > The figure shows four partially overlapping squares with sides of 11 cm, 9 cm, 7 cm and 5 cm. What is the difference between the grey area and the black area? A) 25 cm2 B) 36 cm2 C) 49 cm2 D) 64 cm2 E) 0 cm2
 
 **Answer:** D
-[[Quesiti/src_kangourou_2003_cadet#q24|src_kangourou_2003_cadet__Q24]]
 
 
 
@@ -1136,7 +1112,6 @@ level: kangourou
 > All 50 books on a bookshelf in a library are mathematics or physics. We know that there are no two physics books next to each other, and that every math book has another math book next to it. Which of these conclusions can be false? A) There are three consecutive mathematics books, that is, not interspersed with physics books. B) The number of mathematics books is at least 32. C) The number of physics books is at most 17. D) If the number of physics books is 17, then one of them is in the first or last place on the shelf. E) Given 9 books placed consecutively, at least 6 of them are mathematics books.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2003_cadet#q25|src_kangourou_2003_cadet__Q25]]
 
 
 
@@ -1217,7 +1192,6 @@ level: kangourou
 > Kang 2003
 
 **Answer:** B
-[[Quesiti/src_kangourou_2003_cadet#q26|src_kangourou_2003_cadet__Q26]]
 
 
 
@@ -1269,7 +1243,6 @@ level: kangourou
 > E) 18
 
 **Answer:** E
-[[Quesiti/src_kangourou_2003_cadet#q27|src_kangourou_2003_cadet__Q27]]
 
 
 
@@ -1310,7 +1283,6 @@ level: kangourou
 > E) 87
 
 **Answer:** A
-[[Quesiti/src_kangourou_2003_cadet#q28|src_kangourou_2003_cadet__Q28]]
 
 
 
@@ -1347,7 +1319,6 @@ level: kangourou
 > 10 distinct points are drawn on a sheet, so that no line of the plane contains more than two of them. Each pair of points is connected by a segment. Let's draw a straight line that doesn't pass through any of these points: what is the maximum number of segments that the straight line can cross? A) 20 B) 25 C) 30 D) 35 E) 45
 
 **Answer:** B
-[[Quesiti/src_kangourou_2003_cadet#q29|src_kangourou_2003_cadet__Q29]]
 
 
 
@@ -1442,4 +1413,3 @@ level: kangourou
 > Comments on Cadet level III medium and higher
 
 **Answer:** B
-[[Quesiti/src_kangourou_2003_cadet#q30|src_kangourou_2003_cadet__Q30]]

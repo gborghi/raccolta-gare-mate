@@ -33,8 +33,6 @@ level: BMO Round 2
 
 > Il $ABC$ deve essere un triangolo con un angolo ottuso $A$ e incentro $I$. I cerchi $ABI$ e $ACI$ incrociano di nuovo il cerchio $ABC$ rispettivamente a $X$ e $Y$. Le linee $AX$ e $BI$ si incontrano a $P$, e le linee $AY$ e $CI$ si incontrano a $Q$. Provare che $BCQP$ è ciclico.
 
-[[Quesiti/src_bmo_2022-23_round2#q01|src_bmo_2022-23_round2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_congruenze,method_casework,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -62,8 +60,6 @@ level: BMO Round 2
 *Permutazione sulla lavagna tramite mosse; trova tutti gli n validi*
 
 > Per un numero intero $n > 1$, i numeri $1, 2, 3, \ldots, n$ sono scritti in ordine su una lavagna. Le seguenti mosse sono possibili: (i) Prendi tre numeri adiacenti $x, y, z$ la cui somma è un multiple di 3 e sostituirli con $y, z, x$. (ii) Prendi due numeri adiacenti $x, y$ e sostituirli con $y, x$. Trova tutte le $n$ in modo tale che l'elenco iniziale possa essere trasformato in $n, 1, 2, \ldots, n-1$ dopo un numero finito di mosse.
-
-[[Quesiti/src_bmo_2022-23_round2#q02|src_bmo_2022-23_round2__Q02]]
 
 
 
@@ -96,8 +92,6 @@ level: BMO Round 2
 > 
 > Trova il numero delle liste $n$ ideali.
 
-[[Quesiti/src_bmo_2022-23_round2#q03|src_bmo_2022-23_round2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_aritmetica,topic_trigonometria,method_trigonometria,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -122,5 +116,3 @@ level: BMO Round 2
 *I lati interi del triangolo con angolo A = 3B; dimostrare che un lato è un cubo*
 
 > Le lunghezze laterali $a, b, c$ di un triangolo $ABC$ sono numeri interi positivi in modo tale che il fattore comune più alto di $a$, $b$ e $c$ è 1. Dato che $\angle A = 3\angle B$, dimostrare che almeno uno di $a$, $b$, $c$ è un cubo.
-
-[[Quesiti/src_bmo_2022-23_round2#q04|src_bmo_2022-23_round2__Q04]]

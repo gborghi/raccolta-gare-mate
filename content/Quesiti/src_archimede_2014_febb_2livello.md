@@ -49,7 +49,6 @@ The probability that two colored tetrahedra are indistinguishable
 > - **(E)** 1
 
 **Answer:** D
-[[Quesiti/src_archimede_2014_febb_2livello#q01|src_archimede_2014_febb_2livello__Q01]]
 
 
 
@@ -84,7 +83,6 @@ The probability that two colored tetrahedra are indistinguishable
 > The 60 inhabitants of a village can be of three types: peasants (who always tell the truth), werewolves (who always lie) and black people (who answer as they please). Except for these behaviours, the members of each faction are completely indistinguishable from those of the others. When a visitor arrives, they stand in a circle and each declares that the person to his right is a werewolf. Which of these sentences is necessarily true? (A) There is at least one necromancer. (B) The wolves are at most 20. (C) Farmers are at most 30. (D) Negromants are no more than 40. (E) None of the above.
 
 **Answer:** C
-[[Quesiti/src_archimede_2014_febb_2livello#q02|src_archimede_2014_febb_2livello__Q02]]
 
 
 
@@ -130,7 +128,6 @@ The probability that two colored tetrahedra are indistinguishable
 > - **(E)** 60
 
 **Answer:** D
-[[Quesiti/src_archimede_2014_febb_2livello#q03|src_archimede_2014_febb_2livello__Q03]]
 
 
 
@@ -174,7 +171,6 @@ The probability that two colored tetrahedra are indistinguishable
 > - **(E)** 100
 
 **Answer:** A
-[[Quesiti/src_archimede_2014_febb_2livello#q04|src_archimede_2014_febb_2livello__Q04]]
 
 
 
@@ -214,7 +210,6 @@ The probability that two colored tetrahedra are indistinguishable
 > Alexander, Daniel and Manuela discuss a two-digit natural number n. Each of them makes two statements, but since they're all a little short on math, each of them makes a true statement and a false one. Alexander says n is equal. Also, it's a multiple of 3.; Daniel replies: Yes, n is a multiple of 3. Furthermore, the number of units of n is 5.; Manuela says, finally: n is multiple of 5. The sum of its digits is 12. How many values can n assume? (A) There is no such number. (B) 1 (C) 2 (D) 3 (E) 4
 
 **Answer:** D
-[[Quesiti/src_archimede_2014_febb_2livello#q05|src_archimede_2014_febb_2livello__Q05]]
 
 
 
@@ -256,8 +251,6 @@ The probability that two colored tetrahedra are indistinguishable
 > - **(E)** Infiniti
 
 **Answer:** B
-
-[[Quesiti/src_archimede_2014_febb_2livello#q06|src_archimede_2014_febb_2livello__Q06]]
 
 
 
@@ -306,7 +299,6 @@ The probability that two colored tetrahedra are indistinguishable
 > - **(E)** 1 8 + √ 2 12
 
 **Answer:** C
-[[Quesiti/src_archimede_2014_febb_2livello#q07|src_archimede_2014_febb_2livello__Q07]]
 
 
 
@@ -356,7 +348,6 @@ The probability that two colored tetrahedra are indistinguishable
 > - **(E)** The endless.
 
 **Answer:** B
-[[Quesiti/src_archimede_2014_febb_2livello#q08|src_archimede_2014_febb_2livello__Q08]]
 
 
 
@@ -404,7 +395,6 @@ Probability of no collision between five friends in the wheelchair
 > - **(E)** 7 81
 
 **Answer:** E
-[[Quesiti/src_archimede_2014_febb_2livello#q09|src_archimede_2014_febb_2livello__Q09]]
 
 
 
@@ -448,7 +438,6 @@ Probability of no collision between five friends in the wheelchair
 > - **(E)** 376
 
 **Answer:** C
-[[Quesiti/src_archimede_2014_febb_2livello#q10|src_archimede_2014_febb_2livello__Q10]]
 
 
 
@@ -492,7 +481,6 @@ Probability of no collision between five friends in the wheelchair
 > - **(E)** None of the above.
 
 **Answer:** D
-[[Quesiti/src_archimede_2014_febb_2livello#q11|src_archimede_2014_febb_2livello__Q11]]
 
 
 
@@ -535,7 +523,6 @@ Probability of no collision between five friends in the wheelchair
 > - **(E)** It cannot be determined from the available data. Problems with numerical answer  5 points
 
 **Answer:** A
-[[Quesiti/src_archimede_2014_febb_2livello#q12|src_archimede_2014_febb_2livello__Q12]]
 
 
 
@@ -568,7 +555,6 @@ Probability of no collision between five friends in the wheelchair
 > What is the exponent of the first 2 in the factorization of the number (5 −1)(55 −1) . . . (55...5 −1) where in each factor an exponent appears a 5 more than in the previous and the last ones appear, as exponents, 2014?
 
 **Answer:** 4030
-[[Quesiti/src_archimede_2014_febb_2livello#q13|src_archimede_2014_febb_2livello__Q13]]
 
 
 
@@ -604,7 +590,6 @@ Probability of no collision between five friends in the wheelchair
 > A horse is placed in a corner box of a chessboard 3 × 3. A move consists of moving the horse into an accessible box by two horizontal steps followed by a vertical step, or two vertical steps followed by a horizontal step. How many ways can you move it into the opposite corner box, with exactly 12 moves?
 
 **Answer:** 992
-[[Quesiti/src_archimede_2014_febb_2livello#q14|src_archimede_2014_febb_2livello__Q14]]
 
 
 
@@ -639,8 +624,6 @@ Probability of no collision between five friends in the wheelchair
 
 > A grid with m rows and n columns has each box colored in white or black so as to meet the following two conditions: (a) each row contains as many white boxes as black; (b) if a row meets a column in a black box, then that row and that column have the same number of black boxes; similarly, if a row intersects a column in a white box, then that row and that column have the same number of white boxes. Find all possible pairs (m, n) for which such a colour may exist.
 
-[[Quesiti/src_archimede_2014_febb_2livello#q15|src_archimede_2014_febb_2livello__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
@@ -669,8 +652,6 @@ Probability of no collision between five friends in the wheelchair
 
 > Let ABC be an acute triangle. They are the medians AM, BN and CL, which intersect in the barycenter G. The mean points of AG, BG and CG are M′, N′ and L′ respectively. Show that the six points M, M′, N, N′, L, L′ lie on a circumference if and only if ABC is equilateral.
 
-[[Quesiti/src_archimede_2014_febb_2livello#q16|src_archimede_2014_febb_2livello__Q16]]
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica"></span>
@@ -697,5 +678,3 @@ Probability of no collision between five friends in the wheelchair
 *Pairs (a,b) with a+1 divided by b-1 and b divided by a^2+a+2*
 
 > Demonstrative Exercise Find all pairs (a, b) of positive integers such that a + 1 is a divisor of b −1 and b is a divisor of a2 + a + 2.
-
-[[Quesiti/src_archimede_2014_febb_2livello#q17|src_archimede_2014_febb_2livello__Q17]]

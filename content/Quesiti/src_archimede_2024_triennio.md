@@ -46,7 +46,6 @@ level: triennio
 > - **(E)** 84°
 
 **Answer:** B
-[[Quesiti/src_archimede_2024_triennio#q01|src_archimede_2024_triennio__Q01]]
 
 
 
@@ -91,7 +90,6 @@ level: triennio
 > - **(E)** 27
 
 **Answer:** C
-[[Quesiti/src_archimede_2024_triennio#q02|src_archimede_2024_triennio__Q02]]
 
 
 
@@ -133,7 +131,6 @@ level: triennio
 > - **(E)** 901
 
 **Answer:** B
-[[Quesiti/src_archimede_2024_triennio#q03|src_archimede_2024_triennio__Q03]]
 
 
 
@@ -177,7 +174,6 @@ level: triennio
 > - **(E)** 130°
 
 **Answer:** C
-[[Quesiti/src_archimede_2024_triennio#q04|src_archimede_2024_triennio__Q04]]
 
 
 
@@ -220,7 +216,6 @@ level: triennio
 > - **(E)** 8
 
 **Answer:** C
-[[Quesiti/src_archimede_2024_triennio#q05|src_archimede_2024_triennio__Q05]]
 
 
 
@@ -266,7 +261,6 @@ level: triennio
 > - **(E)** −1 2
 
 **Answer:** D
-[[Quesiti/src_archimede_2024_triennio#q06|src_archimede_2024_triennio__Q06]]
 
 
 
@@ -314,7 +308,6 @@ level: triennio
 > - **(E)** 52
 
 **Answer:** C
-[[Quesiti/src_archimede_2024_triennio#q07|src_archimede_2024_triennio__Q07]]
 
 
 
@@ -356,7 +349,6 @@ level: triennio
 > - **(E)** 19
 
 **Answer:** C
-[[Quesiti/src_archimede_2024_triennio#q08|src_archimede_2024_triennio__Q08]]
 
 
 
@@ -399,7 +391,6 @@ level: triennio
 > - **(E)** 44
 
 **Answer:** A
-[[Quesiti/src_archimede_2024_triennio#q09|src_archimede_2024_triennio__Q09]]
 
 
 
@@ -443,7 +434,6 @@ level: triennio
 > - **(E)** 720
 
 **Answer:** D
-[[Quesiti/src_archimede_2024_triennio#q10|src_archimede_2024_triennio__Q10]]
 
 
 
@@ -503,7 +493,6 @@ level: triennio
 > - **(E)** 10
 
 **Answer:** D
-[[Quesiti/src_archimede_2024_triennio#q11|src_archimede_2024_triennio__Q11]]
 
 
 
@@ -548,7 +537,6 @@ level: triennio
 > - **(E)** 5
 
 **Answer:** E
-[[Quesiti/src_archimede_2024_triennio#q12|src_archimede_2024_triennio__Q12]]
 
 
 
@@ -598,7 +586,6 @@ level: triennio
 > - **(E)** 81
 
 **Answer:** 29
-[[Quesiti/src_archimede_2024_triennio#q13|src_archimede_2024_triennio__Q13]]
 
 
 
@@ -645,7 +632,6 @@ level: triennio
 > - **(E)** 3/8
 
 **Answer:** 26880
-[[Quesiti/src_archimede_2024_triennio#q14|src_archimede_2024_triennio__Q14]]
 
 
 
@@ -687,8 +673,6 @@ level: triennio
 > - **(C)** 3130
 > - **(D)** 3003
 > - **(E)** 7117
-
-[[Quesiti/src_archimede_2024_triennio#q15|src_archimede_2024_triennio__Q15]]
 
 
 
@@ -736,8 +720,6 @@ level: triennio
 > - **(C)** 32
 > - **(D)** 36
 > - **(E)** 27 311
-
-[[Quesiti/src_archimede_2024_triennio#q16|src_archimede_2024_triennio__Q16]]
 
 
 
@@ -787,5 +769,3 @@ level: triennio
 > (a) $m, n$ integers greater than or equal to 0, with $m + n \geq 2$. Show that the string consisting of $m$ digits 0 followed by $n$ digits 1 can be divided into blocks as stated by James.
 > 
 > (b) either $l \geq 4$ as a whole. Demonstrate that the number of strings of digits 0 and 1 of length $l$ for which Giacomo **not** can perform a subdivision as above is $2^{l-3}$.
-
-[[Quesiti/src_archimede_2024_triennio#q17|src_archimede_2024_triennio__Q17]]

@@ -33,8 +33,6 @@ level: IMO
 
 > Sia $ABC$ un triangolo acutangolo con $AB \neq AC$. La circonferenza di diametro $BC$ interseca i lati $AB$ e $AC$ rispettivamente nei punti $M$ e $N$. Sia $O$ il punto medio del lato $BC$. Le bisettrici degli angoli $\angle BAC$ e $\angle MON$ si intersecano in $R$. Si dimostri che le circonferenze circoscritte ai triangoli $BMR$ e $CNR$ hanno un punto in comune che giace sul lato $BC$.
 
-[[Quesiti/src_imho_2004#q01|src_imho_2004__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_funzionali,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -61,8 +59,6 @@ level: IMO
 
 > Determinare tutti i polinomi $f$ con coefficienti reali tali che, per ogni numero reale $a, b, c$ tale che $ab + bc + ca = 0$, valgano le seguenti relazioni:
 > $$f(a - b) + f(b - c) + f(c - a) = 2f(a + b + c).$$
-
-[[Quesiti/src_imho_2004#q02|src_imho_2004__Q02]]
 
 
 
@@ -105,8 +101,6 @@ level: IMO
 
 ![[src_imho_2004__q03.png]]
 
-[[Quesiti/src_imho_2004#q03|src_imho_2004__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_disuguaglianze,topic_aritmetica,method_disuguaglianze,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
@@ -135,8 +129,6 @@ level: IMO
 > Sia $n \geq 3$ un numero intero. Siano $t_1, t_2, \ldots, t_n$ numeri reali positivi tali che
 > $$n^2 + 1 > (t_1 + t_2 + \cdots + t_n)\left(\frac{1}{t_1} + \frac{1}{t_2} + \cdots + \frac{1}{t_n}\right).$$
 > Si dimostri che $t_i, t_j, t_k$ sono lunghezze dei lati di un triangolo per ogni $i, j, k$ con $1 \leq i < j < k \leq n$.
-
-[[Quesiti/src_imho_2004#q04|src_imho_2004__Q04]]
 
 
 
@@ -167,8 +159,6 @@ level: IMO
 > $$\angle PBC = \angle DBA \quad \text{and} \quad \angle PDC = \angle BDA.$$.
 > Si dimostri che $ABCD$ è un quadrilatero ciclico se e solo se $AP = CP$.
 
-[[Quesiti/src_imho_2004#q05|src_imho_2004__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_casework,method_casework,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_modellizzazione"></span>
@@ -193,5 +183,3 @@ level: IMO
 *Determinare tutti gli n con un multiplo alternato*
 
 > Chiamiamo *alternante* un intero positivo tale che ogni due cifre consecutive nella sua rappresentazione decimale abbiano parità diversa. Determinare tutti gli interi positivi $n$ tali che $n$ abbia un multiplo alternante.
-
-[[Quesiti/src_imho_2004#q06|src_imho_2004__Q06]]

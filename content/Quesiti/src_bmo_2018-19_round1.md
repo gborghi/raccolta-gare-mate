@@ -33,8 +33,6 @@ level: BMO Round 1
 
 > Una lista di cinque interi positivi a due cifre è scritta in ordine crescente su una lavagna. Ciascuno dei cinque enti è un multiple di 3, e ogni cifra $0,1,2,3,4,5,6,7,8,9$ appare esattamente una volta sulla lavagna. In quanti modi si può farlo? Si noti che un numero a due cifre non può iniziare con la cifra $0$.
 
-[[Quesiti/src_bmo_2018-19_round1#q01|src_bmo_2018-19_round1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_invarianti,method_induzione,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -60,8 +58,6 @@ level: BMO Round 1
 
 > Per ogni intero positivo $n \ge 3$, definiamo un $n$-anello come un'arrangiamento circolare di integri positivi $n$ (non necessariamente diversi) in modo tale che il prodotto di tutti e tre integri vicini sia nell'intervallo $3 \le s \le 2018$ per gli integri nell'intervallo. Determinare il numero di integri $n$ nell'intervallo $3 \le n \le 2018$ per i quali è possibile formare un anello $n$.
 
-[[Quesiti/src_bmo_2018-19_round1#q02|src_bmo_2018-19_round1__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -86,8 +82,6 @@ level: BMO Round 1
 *Determina tutti i prodotti T ottenuti da due coppie di integri che differiscono ciascuna di 9*
 
 > Ares moltiplica due numeri interi che differiscono di 9. Grace moltiplica due numeri interi che differiscono di 9. Essi ottengono lo stesso prodotto $T$. Determinare tutti i possibili valori di $T$.
-
-[[Quesiti/src_bmo_2018-19_round1#q03|src_bmo_2018-19_round1__Q03]]
 
 
 
@@ -118,8 +112,6 @@ level: BMO Round 1
 > 
 > Prove che $\angle EFD = \angle ACD + \angle ECB$.
 
-[[Quesiti/src_bmo_2018-19_round1#q04|src_bmo_2018-19_round1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_geometria_solida,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -145,8 +137,6 @@ level: BMO Round 1
 
 > Due cilindri solidi sono matematicamente simili. La somma delle loro altezze è $1$. La somma dei loro volumi è $8\pi$. Trova tutte le possibilità per le dimensioni di ciascun cilindro.
 
-[[Quesiti/src_bmo_2018-19_round1#q05|src_bmo_2018-19_round1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_congruenze,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -171,5 +161,3 @@ level: BMO Round 1
 *Ricerca la potenza più alta di 10 dividendo il numero di viaggi chiusi delle formiche in 2018*
 
 > Ada la formica inizia a un punto $O$ su un piano. All'inizio di ogni minuto sceglie Nord, Sud, Est o Ovest, e marcia 1 metro in quella direzione. Alla fine del 2018 si ritrova a $O$. Che il numero di viaggi possibili che avrebbe potuto fare sia $n$. Qual è la potenza massima di 10 che divide $n$?
-
-[[Quesiti/src_bmo_2018-19_round1#q06|src_bmo_2018-19_round1__Q06]]

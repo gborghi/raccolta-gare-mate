@@ -40,7 +40,6 @@ level: squadre
 > th?
 
 **Answer:** 2018
-[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q01|src_kangourou_2019_squadre_semifinale_a__Q01]]
 
 
 
@@ -73,7 +72,6 @@ level: squadre
 > The boat A boat travels at a constant speed of 4 kilometers per hour. When it is two kilometers from the coast, it begins to take on water: 32 liters per minute. It can carry up to 150 litres of water without sinking. A pump shall be put into operation immediately to empty at least part of the water taken on board. If the pump is running constantly, how many litres of water at least must it be able to discharge every minute if the boat is to reach shore before sinking?
 
 **Answer:** 0027
-[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q02|src_kangourou_2019_squadre_semifinale_a__Q02]]
 
 
 
@@ -103,7 +101,6 @@ level: squadre
 > Plus 100 What is the largest positive integer n such that n2 + 100 is divisible by n - 5?
 
 **Answer:** 0130
-[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q03|src_kangourou_2019_squadre_semifinale_a__Q03]]
 
 
 
@@ -143,7 +140,6 @@ level: squadre
 > The room The figure shows you any one of the four corners of the floor of a square room all floored the same way. The tiles are right isosceles triangles or squares, all of the same size. The legs of the corner tiles measure 25 cm. Counting the sides of all tiles, including those at the floor edge, but counting the common sides of two tiles only once, you get 3028. How many centimeters does the side of the room measure?
 
 **Answer:** 1350
-[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q04|src_kangourou_2019_squadre_semifinale_a__Q04]]
 
 
 
@@ -176,7 +172,6 @@ level: squadre
 > interior to the grid?
 
 **Answer:** 1445
-[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q05|src_kangourou_2019_squadre_semifinale_a__Q05]]
 
 
 
@@ -212,7 +207,6 @@ level: squadre
 > The tiled wall A wall is tiled with square tiles of side 30 cm, which have such a decoration that, when 9 of them are approached, two similar (non-regular) octagons are seen. How many square centimeters does the region between the two octagons measure?
 
 **Answer:** 5600
-[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q06|src_kangourou_2019_squadre_semifinale_a__Q06]]
 
 
 
@@ -246,7 +240,6 @@ level: squadre
 > midpoint has lowered by 90 cm. How many centimetres did the rope originally measure?
 
 **Answer:** 0800
-[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q07|src_kangourou_2019_squadre_semifinale_a__Q07]]
 
 
 
@@ -294,7 +287,6 @@ level: squadre
 > the area of the sheet?
 
 **Answer:** 0028
-[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q08|src_kangourou_2019_squadre_semifinale_a__Q08]]
 
 
 
@@ -325,7 +317,6 @@ level: squadre
 > Convex polygon Choosing at random two vertices of a convex polygon, the probability that they are vertices of a diagonal is 0.8. How many sides does the polygon have?
 
 **Answer:** 0011
-[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q09|src_kangourou_2019_squadre_semifinale_a__Q09]]
 
 
 
@@ -356,7 +347,6 @@ level: squadre
 > Perfect squares What are the natural numbers less than 9200 that are perfect squares and have 6 as their units digit?
 
 **Answer:** 0019
-[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q10|src_kangourou_2019_squadre_semifinale_a__Q10]]
 
 
 
@@ -454,7 +444,6 @@ level: squadre
 > The four points K, L, M, N that you see in the drawing marked on the AB side of the ABC triangle are such that the AK segment is congruent to NB and the KL segment is congruent to MN. From each of the four points a parallel segment to AC with the second extreme on the BC side was drawn. What is the sum of the lengths of these four segments, if AC is 8?
 
 **Answer:** 0016
-[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q11|src_kangourou_2019_squadre_semifinale_a__Q11]]
 
 
 
@@ -487,7 +476,6 @@ level: squadre
 > Flea A square grid is obtained by placing 100×100 identical square cells side by side. A flea is located at the point in the center of the grid (vertex of four cells); it can move by jumping only along the sides of the cells, with jumps as long as one side and with each jump moving away from the starting vertex. After 30 jumps, how many different points could it be at?
 
 **Answer:** 0120
-[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q12|src_kangourou_2019_squadre_semifinale_a__Q12]]
 
 
 
@@ -518,7 +506,6 @@ level: squadre
 > In a right-angled parallelepiped the centers of the six faces are the vertices of an octahedron. If the dimensions of the parallelepiped are 15 × 10 × 18, what is the volume of the octahedron?
 
 **Answer:** 0450
-[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q13|src_kangourou_2019_squadre_semifinale_a__Q13]]
 
 
 
@@ -550,7 +537,6 @@ level: squadre
 > In the Cartesian plane, consider the segment with endpoints (0, 0) and (4200, 3000). How many of its points, excluding the endpoints, have both coordinates integers?
 
 **Answer:** 0599
-[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q14|src_kangourou_2019_squadre_semifinale_a__Q14]]
 
 
 
@@ -606,4 +592,3 @@ level: squadre
 > Questions and developments
 
 **Answer:** 8635
-[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q15|src_kangourou_2019_squadre_semifinale_a__Q15]]

@@ -43,8 +43,7 @@ level: nazionale
 
 > It's either ABCDEFGHILMN or a regular dodecagon. P is the intersection point of the AF and DH diagonals. Whether S is the circumference passing through A and H, congruent to that circumscribed to the dodecagon and distinct from it. Demonstrate that: (a) P belongs to S; (b) the center of S belongs to the HN diagonal; (c) the length of PE is equal to the side of the dodecahedron.
 
-**Answer:** dimostrato (traslazione)
-[[Quesiti/src_cesenatico_2008#q01|src_cesenatico_2008__Q01]]
+**Answer:** proved (translation)
 
 
 
@@ -76,7 +75,6 @@ level: nazionale
 > Let n ≥2 be an integer. We color all the boxes on a chessboard n × n in red or blue so that every square 2 × 2 contained in the chessboard has exactly two red and two blue boxes. How many colors are possible? NOTE: Two colours obtained from each other by rotation or symmetry of the chessboard are considered to be distinct.
 
 **Answer:** 2^(n+1)-2
-[[Quesiti/src_cesenatico_2008#q02|src_cesenatico_2008__Q02]]
 
 
 
@@ -107,8 +105,7 @@ level: nazionale
 
 > Determine all the functions f, defined on the set Z of the relative integers and values in the set R of the real numbers, which satisfy simultaneously the following properties: • for each pair of integers (m, n) with m < n we have f(m) < f(n); • for each pair of integers (m, n) there exists an integer k such that f(m) −f(n) = f(k.
 
-**Answer:** f(n)=(n-n0)a con a reale positivo
-[[Quesiti/src_cesenatico_2008#q03|src_cesenatico_2008__Q03]]
+**Answer:** f(n)=(n-n0)a with a positive real
 
 
 
@@ -137,7 +134,6 @@ level: nazionale
 > Determine all terns (a, b, c) of integers greater than zero such that a2 + 2b + 1 = 3c.
 
 **Answer:** (1,2,2) e (7,4,4)
-[[Quesiti/src_cesenatico_2008#q04|src_cesenatico_2008__Q04]]
 
 
 
@@ -179,8 +175,7 @@ level: nazionale
 
 > Whether ABC is a triangle with all the angles greater than 45° and less than 90°. (a) Demonstrate that three squares within ABC can be arranged with the following properties: • the three squares all have the same side; • the three squares have a common vertex K inside the triangle; • any two squares have no points in common beyond K; • each of the squares has two opposite vertices on the perimeter of ABC and for the rest is all within the triangle ABC. (b) Both P the center of the square with side AB and exterior to ABC. RC is the symmetry of the passing straight line for C and K with respect to the $\widehat{ACB}$ beam coming out of C. Prove that P belongs to rC.
 
-**Answer:** dimostrato
-[[Quesiti/src_cesenatico_2008#q05|src_cesenatico_2008__Q05]]
+**Answer:** proved
 
 
 
@@ -218,5 +213,4 @@ level: nazionale
 
 > Francesca and Georgia play the following game. On a table there are initially some columns of coins. Each column contains a number of coins, which may vary from column to column. In turn, each player makes one and only one of the following possible moves: • selects a column containing a non-zero number of 2k coins and replaces it with two columns containing k coins each; • draws all columns containing an odd number of coins from the table. In the event that it is not possible to make a move of the first type, the player will necessarily make a move of the second type, and vice versa. Let's start with Francesca. Whoever takes the last coin from the table wins. (a) If initially there is only one column on the table, which contains 2008-2008 coins, which player has a winning strategy? (b) For what initial configurations does Francesca have a winning strategy?
 
-**Answer:** (a) Francesca; (b) valore configurazione dispari
-[[Quesiti/src_cesenatico_2008#q06|src_cesenatico_2008__Q06]]
+**Answer:** (a) Francesca; (b) odd configuration value

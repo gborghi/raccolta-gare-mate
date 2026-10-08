@@ -60,7 +60,6 @@ level: kangourou
 > E) 80
 
 **Answer:** C
-[[Quesiti/src_kangourou_2014_marzo_student#q01|src_kangourou_2014_marzo_student__Q01]]
 
 
 
@@ -110,7 +109,6 @@ level: kangourou
 > E) 99
 
 **Answer:** C
-[[Quesiti/src_kangourou_2014_marzo_student#q02|src_kangourou_2014_marzo_student__Q02]]
 
 
 
@@ -156,7 +154,6 @@ level: kangourou
 > E) 8
 
 **Answer:** E
-[[Quesiti/src_kangourou_2014_marzo_student#q03|src_kangourou_2014_marzo_student__Q03]]
 
 
 
@@ -204,7 +201,6 @@ level: kangourou
 > E) 32
 
 **Answer:** C
-[[Quesiti/src_kangourou_2014_marzo_student#q04|src_kangourou_2014_marzo_student__Q04]]
 
 
 
@@ -244,7 +240,6 @@ level: kangourou
 > E) 2
 
 **Answer:** E
-[[Quesiti/src_kangourou_2014_marzo_student#q05|src_kangourou_2014_marzo_student__Q05]]
 
 
 
@@ -295,7 +290,6 @@ level: kangourou
 >
 
 **Answer:** E
-[[Quesiti/src_kangourou_2014_marzo_student#q06|src_kangourou_2014_marzo_student__Q06]]
 
 
 
@@ -337,7 +331,6 @@ level: kangourou
 > D) 110 E) 111
 
 **Answer:** E
-[[Quesiti/src_kangourou_2014_marzo_student#q07|src_kangourou_2014_marzo_student__Q07]]
 
 
 
@@ -387,7 +380,6 @@ level: kangourou
 > E) A single friend sent more than 2 messages.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2014_marzo_student#q08|src_kangourou_2014_marzo_student__Q08]]
 
 
 
@@ -439,7 +431,6 @@ level: kangourou
 > E) V  = 8 v
 
 **Answer:** D
-[[Quesiti/src_kangourou_2014_marzo_student#q09|src_kangourou_2014_marzo_student__Q09]]
 
 
 
@@ -478,7 +469,6 @@ level: kangourou
 > B) 215 C) 395 D) 485 E) A number different from the previous ones. Questions from n. 11 to n. 20 are worth 4 points each.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2014_marzo_student#q10|src_kangourou_2014_marzo_student__Q10]]
 
 
 
@@ -528,7 +518,6 @@ level: kangourou
 > E) 4
 
 **Answer:** B
-[[Quesiti/src_kangourou_2014_marzo_student#q11|src_kangourou_2014_marzo_student__Q11]]
 
 
 
@@ -573,7 +562,6 @@ level: kangourou
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2014_marzo_student#q12|src_kangourou_2014_marzo_student__Q12]]
 
 
 
@@ -666,7 +654,6 @@ level: kangourou
 > E) 26
 
 **Answer:** B
-[[Quesiti/src_kangourou_2014_marzo_student#q13|src_kangourou_2014_marzo_student__Q13]]
 
 
 
@@ -713,7 +700,6 @@ level: kangourou
 > E) Infinite
 
 **Answer:** C
-[[Quesiti/src_kangourou_2014_marzo_student#q14|src_kangourou_2014_marzo_student__Q14]]
 
 
 
@@ -755,7 +741,6 @@ level: kangourou
 > E) b < 0
 
 **Answer:** D
-[[Quesiti/src_kangourou_2014_marzo_student#q15|src_kangourou_2014_marzo_student__Q15]]
 
 
 
@@ -803,7 +788,6 @@ level: kangourou
 > E) 12
 
 **Answer:** D
-[[Quesiti/src_kangourou_2014_marzo_student#q16|src_kangourou_2014_marzo_student__Q16]]
 
 
 
@@ -861,7 +845,6 @@ level: kangourou
 > E) 8
 
 **Answer:** A
-[[Quesiti/src_kangourou_2014_marzo_student#q17|src_kangourou_2014_marzo_student__Q17]]
 
 
 
@@ -912,7 +895,6 @@ The water content of the product shall not exceed the water content of the produ
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2014_marzo_student#q18|src_kangourou_2014_marzo_student__Q18]]
 
 
 
@@ -965,7 +947,6 @@ The water content of the product shall not exceed the water content of the produ
 > E) 4√3
 
 **Answer:** A
-[[Quesiti/src_kangourou_2014_marzo_student#q19|src_kangourou_2014_marzo_student__Q19]]
 
 
 
@@ -1015,7 +996,6 @@ The water content of the product shall not exceed the water content of the produ
 > Questions from no. 21 to no. 30 are worth 5 points each
 
 **Answer:** C
-[[Quesiti/src_kangourou_2014_marzo_student#q20|src_kangourou_2014_marzo_student__Q20]]
 
 
 
@@ -1057,7 +1037,6 @@ The water content of the product shall not exceed the water content of the produ
 > D) 63 E) None of the values listed.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2014_marzo_student#q21|src_kangourou_2014_marzo_student__Q21]]
 
 
 
@@ -1147,7 +1126,6 @@ The following information is provided in the following table:
 > In the PQRS rectangle, we call T the middle point of the RS side. We know that QT is perpendicular to the PR diagonal. What is the ratio between the length of PQ and the length of QR ? A) 2 : 1 B) √3 : 1 C) 3 : 2 D) √2 : 1 E) 5 : 4
 
 **Answer:** D
-[[Quesiti/src_kangourou_2014_marzo_student#q22|src_kangourou_2014_marzo_student__Q22]]
 
 
 
@@ -1195,7 +1173,6 @@ The following information is provided in the following table:
 > E) 8
 
 **Answer:** E
-[[Quesiti/src_kangourou_2014_marzo_student#q23|src_kangourou_2014_marzo_student__Q23]]
 
 
 
@@ -1294,7 +1271,6 @@ The following information is provided in the following table:
 >
 
 **Answer:** A
-[[Quesiti/src_kangourou_2014_marzo_student#q24|src_kangourou_2014_marzo_student__Q24]]
 
 
 
@@ -1342,7 +1318,6 @@ The following information is provided in the following table:
 > E) 90
 
 **Answer:** D
-[[Quesiti/src_kangourou_2014_marzo_student#q25|src_kangourou_2014_marzo_student__Q25]]
 
 
 
@@ -1391,7 +1366,6 @@ The following information is provided in the following table:
 > E) 18
 
 **Answer:** A
-[[Quesiti/src_kangourou_2014_marzo_student#q26|src_kangourou_2014_marzo_student__Q26]]
 
 
 
@@ -1438,7 +1412,6 @@ The following information is provided in the following table:
 > E) Infinitely many
 
 **Answer:** C
-[[Quesiti/src_kangourou_2014_marzo_student#q27|src_kangourou_2014_marzo_student__Q27]]
 
 
 
@@ -1482,7 +1455,6 @@ The following information is provided in the following table:
 > The figure shows a polygonal chain whose vertices are all the midpoints of the edges of a cube. We define, as usual, an inner angle formed by two sides of a polygon, which meet in a vertex, as the angle of measurement not exceeding 180° formed by the two sides in the plane containing them. What is the sum of the measurements in degrees of all the interior angles of the polygonal chain in the figure? A) 720 B) 1080 C) 1200 D) 1440 E) 1800
 
 **Answer:** B
-[[Quesiti/src_kangourou_2014_marzo_student#q28|src_kangourou_2014_marzo_student__Q28]]
 
 
 
@@ -1521,7 +1493,6 @@ The following information is provided in the following table:
 > D) 2013! E) 2014!
 
 **Answer:** D
-[[Quesiti/src_kangourou_2014_marzo_student#q29|src_kangourou_2014_marzo_student__Q29]]
 
 
 
@@ -1578,4 +1549,3 @@ The following information is provided in the following table:
 > STRINGA STUDENT 2014
 
 **Answer:** D
-[[Quesiti/src_kangourou_2014_marzo_student#q30|src_kangourou_2014_marzo_student__Q30]]

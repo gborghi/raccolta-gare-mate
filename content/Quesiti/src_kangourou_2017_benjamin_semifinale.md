@@ -48,7 +48,6 @@ Price of 9 pieces 3_72,98
 > - **(E)** 7
 
 **Answer:** E
-[[Quesiti/src_kangourou_2017_benjamin_semifinale#q01|src_kangourou_2017_benjamin_semifinale__Q01]]
 
 
 
@@ -119,7 +118,6 @@ Price of 9 pieces 3_72,98
 > - **(E)** 5/7
 
 **Answer:** C
-[[Quesiti/src_kangourou_2017_benjamin_semifinale#q02|src_kangourou_2017_benjamin_semifinale__Q02]]
 
 
 
@@ -193,7 +191,6 @@ Price of 9 pieces 3_72,98
 > - **(E)** None of the above measures are correct
 
 **Answer:** E
-[[Quesiti/src_kangourou_2017_benjamin_semifinale#q03|src_kangourou_2017_benjamin_semifinale__Q03]]
 
 
 
@@ -235,7 +232,6 @@ The largest and smallest of A,B,C by implications
 > - if C is not the smallest of the three, then the largest is B. What are the largest and smallest in order? (A) B and C                    	 (B) A and C (C) C and B (D) B and A (E) A and B
 
 **Answer:** B
-[[Quesiti/src_kangourou_2017_benjamin_semifinale#q04|src_kangourou_2017_benjamin_semifinale__Q04]]
 
 
 
@@ -322,7 +318,6 @@ The largest and smallest of A,B,C by implications
 > - **(D)** All except 4 (E) All
 
 **Answer:** D
-[[Quesiti/src_kangourou_2017_benjamin_semifinale#q05|src_kangourou_2017_benjamin_semifinale__Q05]]
 
 
 
@@ -366,7 +361,6 @@ The largest and smallest of A,B,C by implications
 > - **(E)** 15
 
 **Answer:** D
-[[Quesiti/src_kangourou_2017_benjamin_semifinale#q06|src_kangourou_2017_benjamin_semifinale__Q06]]
 
 
 
@@ -409,7 +403,6 @@ How many times does Daria overtake Baldo on the track?
 > - **(E)** 5
 
 **Answer:** C
-[[Quesiti/src_kangourou_2017_benjamin_semifinale#q07|src_kangourou_2017_benjamin_semifinale__Q07]]
 
 
 
@@ -460,7 +453,6 @@ How many times does Daria overtake Baldo on the track?
 > - **(E)** None of them
 
 **Answer:** C
-[[Quesiti/src_kangourou_2017_benjamin_semifinale#q08|src_kangourou_2017_benjamin_semifinale__Q08]]
 
 
 
@@ -504,7 +496,6 @@ How many times does Daria overtake Baldo on the track?
 > - **(E)** 11 Open-ended questions
 
 **Answer:** E
-[[Quesiti/src_kangourou_2017_benjamin_semifinale#q09|src_kangourou_2017_benjamin_semifinale__Q09]]
 
 
 
@@ -535,7 +526,6 @@ Tickets sold together with number 374 (650 tickets)
 > Charles decided to sell the lottery tickets in pairs for a charity. It has 650 tickets numbered from 1 to 650 and sells the first ticket (the one with the number 1) together with the last one (the one with the number 650), the second one with the penultimate one and so on. What's the number of the ticket that Charles sells along with the number 374 ticket?
 
 **Answer:** 277
-[[Quesiti/src_kangourou_2017_benjamin_semifinale#q10|src_kangourou_2017_benjamin_semifinale__Q10]]
 
 
 
@@ -566,7 +556,6 @@ Tickets sold together with number 374 (650 tickets)
 > (Points 5) We call a two-digit number spicy if it is the sum of the sum of its digits and the product of its digits. For example, 89 is a spicy number because 89 = (8 + 9) + (8×9) = 17 + 72. What's the smallest spicy number?
 
 **Answer:** 19
-[[Quesiti/src_kangourou_2017_benjamin_semifinale#q11|src_kangourou_2017_benjamin_semifinale__Q11]]
 
 
 
@@ -595,7 +584,6 @@ Tickets sold together with number 374 (650 tickets)
 > (Points 5) What is the sum of all the natural numbers that divided by 6 give a remainder equal to the quotient?
 
 **Answer:** 105
-[[Quesiti/src_kangourou_2017_benjamin_semifinale#q12|src_kangourou_2017_benjamin_semifinale__Q12]]
 
 
 
@@ -627,8 +615,6 @@ Tickets sold together with number 374 (650 tickets)
 > fifth than the one covered in an hour of walking on the way there. In this way, returning home she takes overall 
 > one hour more than on the way there. For how many hours was she away from home?
 
-[[Quesiti/src_kangourou_2017_benjamin_semifinale#q13|src_kangourou_2017_benjamin_semifinale__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_logica,method_casework,skill_casework_accurato"></span>
@@ -655,8 +641,6 @@ Tickets sold together with number 374 (650 tickets)
 4 children, 2 fathers, 2 uncles and nephews
 
 > (Points 6) In one room there are exactly four children, each with their father, exactly two fathers and exactly two uncles each with a nephew. What's the smallest number of people in the room that this could happen to?
-
-[[Quesiti/src_kangourou_2017_benjamin_semifinale#q14|src_kangourou_2017_benjamin_semifinale__Q14]]
 
 
 
@@ -686,7 +670,6 @@ Tickets sold together with number 374 (650 tickets)
 > The March competition took place on 16-3-2017. What is the smallest positive integer that multiplied by the (non-integer) number 2017,316 gives an integer?
 
 **Answer:** 250
-[[Quesiti/src_kangourou_2017_benjamin_semifinale#q15|src_kangourou_2017_benjamin_semifinale__Q15]]
 
 
 
@@ -716,8 +699,6 @@ Tickets sold together with number 374 (650 tickets)
 
 > (Points 7) Pietro, Paola and Giovanna have a total of 2017 cubes, all of the same size. Putting together more than half of them, Pietro constructed a large cube and said to Paola and Giovanna: 'I could have built a larger cube but this way, using all and only the remaining cubes, you can construct a cube each and your two cubes will be of the same size”. How many cubes will each of the two cubes be made of?
 
-[[Quesiti/src_kangourou_2017_benjamin_semifinale#q16|src_kangourou_2017_benjamin_semifinale__Q16]]
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,topic_combinatoria,method_grafi,skill_riconoscimento_pattern"></span>
@@ -744,8 +725,6 @@ Tickets sold together with number 374 (650 tickets)
 *First four digits of the multiple sequence of 17 or 23*
 
 > (Points 7) A sequence of 2017 digits is such that any number of two digits that can be obtained by placing two consecutive digits side by side of the sequence (in the order in which they appear) is a multiple of 17 or 23. The last digit of the sequence is 1. What are the first four digits of the sequence?
-
-[[Quesiti/src_kangourou_2017_benjamin_semifinale#q17|src_kangourou_2017_benjamin_semifinale__Q17]]
 
 
 
@@ -847,5 +826,3 @@ Tickets sold together with number 374 (650 tickets)
 > 0060
 
 **Answer:** 60
-
-[[Quesiti/src_kangourou_2017_benjamin_semifinale#q18|src_kangourou_2017_benjamin_semifinale__Q18]]

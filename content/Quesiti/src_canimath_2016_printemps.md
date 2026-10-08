@@ -34,8 +34,6 @@ level: Coupe Animath Printemps
 
 > N.B. In questo esercizio, e solo in questo, è richiesta una risposta senza giustificazione. $ABCD$ sia un quadrato di lato $10\,\mathrm{cm}$. $X$ sia il punto medio di $[AB]$. Mettiamo un punto $Y$ in modo che il triangolo $ABY$ sia uguale a $Y$, e la regione che è allo stesso tempo all'interno di $ABY$ e all'interno di $ABCD$ ha un'area di $99\,\mathrm{cm}^2$. Quanto è $XY$?
 
-[[Quesiti/src_canimath_2016_printemps#q01|src_canimath_2016_printemps__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
@@ -60,8 +58,6 @@ level: Coupe Animath Printemps
 *Tutte le ore a 55 km/h; odometro passa da abc a cba con a>=1 e a+b+c<=7; trovare tutti gli abc.*
 
 > Anne ha guidato la sua macchina per un numero intero (e non zero) di ore, e ha viaggiato per un intero numero di chilometri, alla velocità di $55\,\mathrm{km/h}$. All'inizio del viaggio, il chilometro indicava $abc$ chilometri, dove $abc$ è un numero a 3 cifre come $a \geqslant 1$ e $a+b+c \leqslant 7$. Al termine del viaggio, il chilometro indicava $cba$ chilometri. Determinare tutti i valori possibili del numero $abc$.
-
-[[Quesiti/src_canimath_2016_printemps#q02|src_canimath_2016_printemps__Q02]]
 
 
 
@@ -88,8 +84,6 @@ level: Coupe Animath Printemps
 
 > Le persone $2016$ sono in un file indiano (linea singola). Ognuno di loro è o un cretino (che mente sempre) o un cavaliere (che dice sempre la verità). Ognuna delle persone $2016$ vede tutti coloro che sono davanti a loro e solo loro. Ogni persona, tranne quella che è proprio davanti, designa una delle persone davanti a loro e dice una delle due frasi: "questa persona è un cretino" o "questa persona è un cavaliere". Sapendo che ci sono rigorosamente più scagnozzi che cavalieri, come può un osservatore determinare quale è uno scagnozzo e quale un cavaliere?
 
-[[Quesiti/src_canimath_2016_printemps#q03|src_canimath_2016_printemps__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -114,8 +108,6 @@ level: Coupe Animath Printemps
 *Trapezoide ABCD con diagonali di lunghezza uguale; dimostrare che la somma delle distanze da qualsiasi M a tre vertici supera la distanza fino al quarto.*
 
 > Nel piano, considerate un trapezoide $ABCD$ le cui diagonali sono della stessa lunghezza. Prova che, per qualsiasi punto $M$ del piano, la somma delle distanze da $M$ a qualsiasi tre vertici del trapezoide è sempre strettamente superiore alla distanza da $M$ al quarto vertice.
-
-[[Quesiti/src_canimath_2016_printemps#q04|src_canimath_2016_printemps__Q04]]
 
 
 
@@ -142,8 +134,6 @@ level: Coupe Animath Printemps
 
 > Lasciate che $a < b < c < d < e$ siano numeri reali. Calcoliamo tutte le somme possibili di due numeri distinti tra questi cinque numeri. I tre più piccoli sono uguali a $32$, $36$ e $37$, mentre i due più grandi sono uguali a $48$ e $51$. Trova tutti i valori possibili di $e$.
 
-[[Quesiti/src_canimath_2016_printemps#q05|src_canimath_2016_printemps__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -169,8 +159,6 @@ level: Coupe Animath Printemps
 
 > In un poligono convexo con lati $2016$, tracciamo determinate diagonali, che non si incrociano all'interno del poligono. Questo disegno decompone il poligono in triangoli $2014$. E' possibile che esattamente la metà di questi triangoli abbia i loro tre lati tutti diagonali?
 
-[[Quesiti/src_canimath_2016_printemps#q06|src_canimath_2016_printemps__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_casework,method_cassetti,skill_casework_accurato,skill_riconoscimento_pattern"></span>
@@ -195,8 +183,6 @@ level: Coupe Animath Printemps
 *Tra 18 numeri interi consecutivi <= 2016, mostrare che almeno uno è divisibile dalla somma delle sue cifre.*
 
 > Mostrare che tra i numeri interi consecutivi $18$ inferiori o uguali a $2016$ esiste almeno uno che è divisibile dalla somma delle sue cifre.
-
-[[Quesiti/src_canimath_2016_printemps#q07|src_canimath_2016_printemps__Q07]]
 
 
 
@@ -224,5 +210,3 @@ level: Coupe Animath Printemps
 *Prova di classe: almeno 2/3 delle domande difficili e almeno 2/3 degli studenti hanno fatto bene; è possibile; ripeti con 3/4 e 7/10.*
 
 > a) Si è svolta una prova in classe. Sappiamo che almeno due terzi delle domande di questo test erano difficili: per ciascuna di queste domande difficili, almeno due terzi degli studenti non riuscirono a rispondere. Sappiamo anche che almeno i due terzi degli studenti hanno fatto bene il test: ognuno di loro è riuscito a rispondere almeno ai due terzi delle domande. E' possibile? b) La risposta alla domanda precedente sarebbe la stessa se sostituissimo ovunque "due terzi" con "tre quarti"? c) La risposta alla prima domanda sarebbe la stessa se sostituissimo ovunque "due terzi" con "sette decimi"?
-
-[[Quesiti/src_canimath_2016_printemps#q08|src_canimath_2016_printemps__Q08]]

@@ -52,7 +52,6 @@ level: kangourou
 > E) 0
 
 **Answer:** A
-[[Quesiti/src_kangourou_2019_benjamin_semif#q01|src_kangourou_2019_benjamin_semif__Q01]]
 
 
 
@@ -89,7 +88,6 @@ level: kangourou
 > (Points 3) By tracing in a plane 5 half-lines all originating in the same point O, we divided the plane itself into 5 angles α, β, γ, δ, ε, all different from each other. Other plane distributions can be obtained by placing together (with vertex at point O) 3 angles identical to α, or 4 identical to β, or 5 identical to γ, or 6 identical to δ. In how many angles identical to ε can the plane be divided? A) 12 B) 15 C) 18 D) 20 E) 24
 
 **Answer:** D
-[[Quesiti/src_kangourou_2019_benjamin_semif#q02|src_kangourou_2019_benjamin_semif__Q02]]
 
 
 
@@ -140,7 +138,6 @@ level: kangourou
 > E) The bar
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_benjamin_semif#q03|src_kangourou_2019_benjamin_semif__Q03]]
 
 
 
@@ -209,7 +206,6 @@ level: kangourou
 > E) None of the above answers is correct
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_benjamin_semif#q04|src_kangourou_2019_benjamin_semif__Q04]]
 
 
 
@@ -253,7 +249,6 @@ level: kangourou
 > D) 10 E) 12
 
 **Answer:** A
-[[Quesiti/src_kangourou_2019_benjamin_semif#q05|src_kangourou_2019_benjamin_semif__Q05]]
 
 
 
@@ -316,7 +311,6 @@ level: kangourou
 > B) 10 C) 11 D) 12 E) 16
 
 **Answer:** D
-[[Quesiti/src_kangourou_2019_benjamin_semif#q06|src_kangourou_2019_benjamin_semif__Q06]]
 
 
 
@@ -356,7 +350,6 @@ level: kangourou
 > B) 10 C) 11 D) 12 E) 20
 
 **Answer:** D
-[[Quesiti/src_kangourou_2019_benjamin_semif#q07|src_kangourou_2019_benjamin_semif__Q07]]
 
 
 
@@ -399,7 +392,6 @@ level: kangourou
 > E) 1
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_benjamin_semif#q08|src_kangourou_2019_benjamin_semif__Q08]]
 
 
 
@@ -486,7 +478,6 @@ level: kangourou
 > Open-ended questions
 
 **Answer:** B
-[[Quesiti/src_kangourou_2019_benjamin_semif#q09|src_kangourou_2019_benjamin_semif__Q09]]
 
 
 
@@ -520,7 +511,6 @@ level: kangourou
 > What is the digit that is found in the 2019th position of this sequence (if one starts with 2018)?
 
 **Answer:** 63
-[[Quesiti/src_kangourou_2019_benjamin_semif#q10|src_kangourou_2019_benjamin_semif__Q10]]
 
 
 
@@ -551,7 +541,6 @@ level: kangourou
 > plying it by another positive integer smaller than M, he obtains the number 2331. What is the value of M ?
 
 **Answer:** 63
-[[Quesiti/src_kangourou_2019_benjamin_semif#q11|src_kangourou_2019_benjamin_semif__Q11]]
 
 
 
@@ -583,7 +572,6 @@ level: kangourou
 > Luisa wrote some numbers at the vertices of a cube. If you count the sum of the numbers that are in the vertices of the face you see on the right, you get 14, if you count the numbers that are in the vertices of the face you see on the left, you get 22; if you count the numbers that are in the vertices of the top face, you get 18. What is the sum of the numbers at the vertices of the bottom face?
 
 **Answer:** 18
-[[Quesiti/src_kangourou_2019_benjamin_semif#q12|src_kangourou_2019_benjamin_semif__Q12]]
 
 
 
@@ -614,7 +602,6 @@ level: kangourou
 > (Points 6) A tank can be filled with 10 taps. One of them can fill it in 1 day; two of the remaining can fill it each in 12 hours, three of the remaining can fill it each in 8 hours and the remaining 4 can fill it each in 6 hours. If all the taps are opened simultaneously, how many minutes are necessary (and sufficient) to fill the tank?
 
 **Answer:** 48
-[[Quesiti/src_kangourou_2019_benjamin_semif#q13|src_kangourou_2019_benjamin_semif__Q13]]
 
 
 
@@ -644,7 +631,6 @@ level: kangourou
 > prime number and is not a multiple of 3?
 
 **Answer:** 35
-[[Quesiti/src_kangourou_2019_benjamin_semif#q14|src_kangourou_2019_benjamin_semif__Q14]]
 
 
 
@@ -677,7 +663,6 @@ level: kangourou
 > From the same deck of seven cards, each numbered with a different number from 1 to 7, Alice, Bianca, and Carla each take two cards. They find that both of Alice's cards give the same remainder when she divides by 3, both of Bianca's cards give the same remainder when she divides by 4, and both of Carla's cards give the same remainder when she divides by 5. What card hasn't been drawn? Give 9999 as an answer if you think it's impossible to establish for sure.
 
 **Answer:** 4
-[[Quesiti/src_kangourou_2019_benjamin_semif#q15|src_kangourou_2019_benjamin_semif__Q15]]
 
 
 
@@ -707,7 +692,6 @@ level: kangourou
 > (Points 7) A rectangle R is divided by two straight lines into 4 rectangles. It is known that three of the perimeters of these rectangles are 11 cm, 16 cm and 19 cm and that the perimeter of the fourth is neither the smallest nor the largest. How many centimeters does the perimeter of the R rectangle measure ?
 
 **Answer:** 30
-[[Quesiti/src_kangourou_2019_benjamin_semif#q16|src_kangourou_2019_benjamin_semif__Q16]]
 
 
 
@@ -788,7 +772,6 @@ level: kangourou
 > he can place?
 
 **Answer:** 5
-[[Quesiti/src_kangourou_2019_benjamin_semif#q17|src_kangourou_2019_benjamin_semif__Q17]]
 
 
 
@@ -830,4 +813,3 @@ level: kangourou
 > 0001 0063 0018 0048 0035 0004 0030 0005 0004
 
 **Answer:** 4
-[[Quesiti/src_kangourou_2019_benjamin_semif#q18|src_kangourou_2019_benjamin_semif__Q18]]

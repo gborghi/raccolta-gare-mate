@@ -33,8 +33,6 @@ Dividere sette formaggi in modo che due persone ottengano tre interi e condivida
 
 > Il signor e la signora Mathon condividono una tavola di sette formaggi. Ognuno di loro desidera prendere tre interi, e dividere il settimo in modo che ognuno riceva lo stesso peso totale del formaggio. È possibile, qualunque sia il peso dei sette formaggi, scegliere i tre formaggi di una persona, i tre formaggi dell'altra, e come tagliare il settimo formaggio in modo da soddisfare il loro desiderio?
 
-[[Quesiti/src_canimath_2012_printemps#q03|src_canimath_2012_printemps__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ Dividere sette formaggi in modo che due persone ottengano tre interi e condivida
 *Chi ha ragione sull'identità di "additività delle frazioni" a/b+c/d=(a+c)/(b+d)*
 
 > Lasciate che $b$ e $d$ siano numeri reali non zero in modo tale che $b+d$ sia anche non zero. Mathias sostiene che l'identità $\dfrac{a}{b}+\dfrac{c}{d}=\dfrac{a+c}{b+d}$ è vera per tutti i numeri reali $a$ e $c$: lo chiama "l'addizione delle frazioni". Mathilde ritiene che questa additività di frazioni sia corretta se e solo se esiste un numero reale $m$ tale che $a=mb^2$ e $c=-md^2$. Il loro professore ricorda che si possono aggiungere frazioni come propone Mathias se e solo se hanno lo stesso denominatore, cioè $b=d$. Un ispettore sostiene che questa "addizione di frazioni" è sempre falsa. Chi ha ragione: Mathias, Mathilde, il professore, l'ispettore, o nessuno dei quattro? Giustifica la tua risposta attentamente.
-
-[[Quesiti/src_canimath_2012_printemps#q04|src_canimath_2012_printemps__Q04]]
 
 
 
@@ -87,8 +83,6 @@ Dividere sette formaggi in modo che due persone ottengano tre interi e condivida
 
 > Nella regione di Parigi, i numeri telefonici di linea fissa sono composti dai numeri 01 seguiti da altre otto cifre (ad esempio 01.99.98.10.00 o 01.00.00.35.77, ecc.). Per limitare le chiamate errate, è stato deciso che se si scarica un numero di telefono facendo un errore su una singola cifra, si atterrà sempre su un numero che non è assegnato: ad esempio, se è assegnato 01.99.98.10.00, allora 01.89.98.10.00 e 01.99.98.10.30 non sono assegnati. Quanti numeri telefonici possono essere assegnati nella regione di Parigi? Giustifica la tua risposta attentamente.
 
-[[Quesiti/src_canimath_2012_printemps#q05|src_canimath_2012_printemps__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_disuguaglianze,topic_trigonometria,method_trigonometria,method_disuguaglianze,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -113,5 +107,3 @@ Dividere sette formaggi in modo che due persone ottengano tre interi e condivida
 *Ineguaglianza aa'+bb'+cc' <= 2S+R(a+b+c) per i triangoli acuti, e se vale per quelli obtusi*
 
 > Il $ABC$ deve essere un triangolo di superficie $S$. Nota con $a=BC$, $b=CA$, $c=AB$ le lunghezze dei suoi lati e $a'=AA'$, $b'=BB'$, $c'=CC'$ le lunghezze dei suoi mediani, dove $A'$, $B'$, $C'$ sono i rispettivi punti di mezzo di $BC$, $CA$, $AB$. Il $R$ deve essere il raggio del cerchio circoscritto di $ABC$. Indicare che $aa'+bb'+cc'\le 2S+R(a+b+c)$ se $ABC$ è acuta (cioè se tutti gli angoli di $ABC$ sono inferiori a $90^\circ$). Questa disuguaglianza vale anche per tutti i triangoli obtusi (quelli con un angolo maggiore di $90^\circ$)?
-
-[[Quesiti/src_canimath_2012_printemps#q06|src_canimath_2012_printemps__Q06]]

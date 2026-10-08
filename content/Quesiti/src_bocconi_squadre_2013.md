@@ -38,8 +38,7 @@ Minimum time for three friends to meet
 > 
 > What is the minimum time, expressed in minutes, for which Anna, Chiara, and Milena arrive at their friends simultaneously?
 
-**Answer:** 270 minuti
-[[Quesiti/src_bocconi_squadre_2013#q01|src_bocconi_squadre_2013__Q01]]
+**Answer:** 270 minutes
 
 
 
@@ -71,7 +70,6 @@ Minimum time for three friends to meet
 > What was the average for our plane in the remaining two-thirds of the flight time?
 
 **Answer:** 650 km/h
-[[Quesiti/src_bocconi_squadre_2013#q02|src_bocconi_squadre_2013__Q02]]
 
 
 
@@ -104,7 +102,6 @@ Minimum time for three friends to meet
 ![[src_bocconi_squadre_2013__q03.png]]
 
 **Answer:** 23 cm
-[[Quesiti/src_bocconi_squadre_2013#q03|src_bocconi_squadre_2013__Q03]]
 
 
 
@@ -135,7 +132,6 @@ Minimum time for three friends to meet
 > Find three non-zero and distinct digits A, B, C so the following fractional equality is: $$\frac{\overline{ABBBBBBB}}{\overline{BBBBBBBC}} = \frac{A}{C}$$ There are more solutions: find them all!
 
 **Answer:** 1-6-4; 1-9-5; 2-6-5; 4-9-8
-[[Quesiti/src_bocconi_squadre_2013#q04|src_bocconi_squadre_2013__Q04]]
 
 
 
@@ -167,7 +163,6 @@ The probability of a gold coin coming from the red sack
 > What is the probability that this gold coin came from the red sack?
 
 **Answer:** $\frac{5}{9}$
-[[Quesiti/src_bocconi_squadre_2013#q05|src_bocconi_squadre_2013__Q05]]
 
 
 
@@ -199,7 +194,6 @@ How much would they have to pay per bar per person
 > What expense did they encounter (in addition to what they should have paid for themselves)?
 
 **Answer:** 1,10 euro; 1,10 euro
-[[Quesiti/src_bocconi_squadre_2013#q06|src_bocconi_squadre_2013__Q06]]
 
 
 
@@ -228,7 +222,6 @@ How much would they have to pay per bar per person
 > Find the natural minimum number of three digits that is equal to the sum of its first digit (left) squared by the second and cube by the third.
 
 **Answer:** 598
-[[Quesiti/src_bocconi_squadre_2013#q07|src_bocconi_squadre_2013__Q07]]
 
 
 
@@ -260,7 +253,6 @@ The distance travelled by Angelo in the last hour
 > How far has Angelo traveled in the last hour?
 
 **Answer:** 35 km
-[[Quesiti/src_bocconi_squadre_2013#q08|src_bocconi_squadre_2013__Q08]]
 
 
 
@@ -297,7 +289,6 @@ The distance travelled by Angelo in the last hour
 ![[src_bocconi_squadre_2013__q09.png]]
 
 **Answer:** $6 + 2\pi$ m
-[[Quesiti/src_bocconi_squadre_2013#q09|src_bocconi_squadre_2013__Q09]]
 
 
 
@@ -333,7 +324,6 @@ The distance travelled by Angelo in the last hour
 ![[src_bocconi_squadre_2013__q10.png]]
 
 **Answer:** $\frac{1}{3}$
-[[Quesiti/src_bocconi_squadre_2013#q10|src_bocconi_squadre_2013__Q10]]
 
 
 
@@ -364,8 +354,7 @@ The distance travelled by Angelo in the last hour
 > 
 > How many hours did it take the chick to get down the canal?
 
-**Answer:** 96 ore
-[[Quesiti/src_bocconi_squadre_2013#q11|src_bocconi_squadre_2013__Q11]]
+**Answer:** 96 hours
 
 
 
@@ -397,7 +386,6 @@ How much is Mauro's in the pizza division?
 > If the division of these 20 euros between Mauro and Renato is fair, how much will Mauro get?
 
 **Answer:** 2,50 euro
-[[Quesiti/src_bocconi_squadre_2013#q12|src_bocconi_squadre_2013__Q12]]
 
 
 
@@ -425,7 +413,6 @@ How much is Mauro's in the pizza division?
 > Find a three-digit number, all equal to each other, which is the sum of the first natural numbers (for a certain $n$).
 
 **Answer:** 666
-[[Quesiti/src_bocconi_squadre_2013#q13|src_bocconi_squadre_2013__Q13]]
 
 
 
@@ -454,7 +441,6 @@ How much is Mauro's in the pizza division?
 > Find the largest odd natural number $n$ for which $n^4 + 4$ is a prime number.
 
 **Answer:** $n = 1$
-[[Quesiti/src_bocconi_squadre_2013#q14|src_bocconi_squadre_2013__Q14]]
 
 
 
@@ -485,8 +471,7 @@ How much is Mauro's in the pizza division?
 > 
 > How many students are in the classroom, at least?
 
-**Answer:** 125 studenti
-[[Quesiti/src_bocconi_squadre_2013#q15|src_bocconi_squadre_2013__Q15]]
+**Answer:** 125 students
 
 
 
@@ -522,8 +507,7 @@ How much is Mauro's in the pizza division?
 
 ![[src_bocconi_squadre_2013__q16.png]]
 
-**Answer:** 358 mosse
-[[Quesiti/src_bocconi_squadre_2013#q16|src_bocconi_squadre_2013__Q16]]
+**Answer:** 358 moves
 
 
 
@@ -556,7 +540,6 @@ How much is Mauro's in the pizza division?
 > So what is the minimum distance to go from A to D?
 
 **Answer:** $2 + 2\sqrt{3} + \frac{\pi}{3}$ km
-[[Quesiti/src_bocconi_squadre_2013#q17|src_bocconi_squadre_2013__Q17]]
 
 
 
@@ -585,7 +568,6 @@ Natural number n such that 2n+3 divides 6n+43*
 > Find a natural number $n$ for which $2n+3$ is a divisor of $6n+43$.
 
 **Answer:** $n = 7$
-[[Quesiti/src_bocconi_squadre_2013#q18|src_bocconi_squadre_2013__Q18]]
 
 
 
@@ -614,7 +596,6 @@ Natural number n such that 2n+3 divides 6n+43*
 > Find a three-digit natural number that has this property: it goes to the square, you divide this square into two consecutive three-digit tranches (the first three in the first tranche, the second three in the second tranche), you add the two tranches and you get 1000. (The question has more than one solution: you have to give it all!)
 
 **Answer:** 406; 593; 998
-[[Quesiti/src_bocconi_squadre_2013#q19|src_bocconi_squadre_2013__Q19]]
 
 
 
@@ -650,4 +631,3 @@ Natural number n such that 2n+3 divides 6n+43*
 ![[src_bocconi_squadre_2013__q20.png]]
 
 **Answer:** 12 dm
-[[Quesiti/src_bocconi_squadre_2013#q20|src_bocconi_squadre_2013__Q20]]

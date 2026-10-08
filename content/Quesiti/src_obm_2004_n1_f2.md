@@ -36,7 +36,6 @@ level: OBM Nível 1
 > Qual è la somma dei numeri $$\frac{2^2}{2} + \frac{2^2}{2^2} + \frac{2^3}{2^3} + \cdots + \frac{2^{2003}}{2^{2003}} + \frac{2^{2006}}{2^{2006}}?$$
 
 **Risposta:** 6
-[[Quesiti/src_obm_2004_n1_f2#q01|src_obm_2004_n1_f2__Q01]]
 
 
 
@@ -64,7 +63,6 @@ level: OBM Nível 1
 > La massa grassa di una determinata persona corrisponde al 20% della sua massa corporea totale. Questa persona, che pesava 100 kg, ha fatto una dieta e ha perso il 40% del grasso, mantenendo gli altri indicatori uguali. Quanti chili ha pesato alla fine della dieta?
 
 **Risposta:** 92
-[[Quesiti/src_obm_2004_n1_f2#q02|src_obm_2004_n1_f2__Q02]]
 
 
 
@@ -93,7 +91,6 @@ level: OBM Nível 1
 > Quanti numeri a due cifre hanno una somma di una cifra uguale a un quadrato perfetto? Si noti che, ad esempio, 09 è un numero a due cifre e $853$ è un numero a tre cifre.
 
 **Risposta:** 14
-[[Quesiti/src_obm_2004_n1_f2#q03|src_obm_2004_n1_f2__Q03]]
 
 
 
@@ -119,8 +116,6 @@ level: OBM Nível 1
 *I numeri 199 scritti fianco a fianco; cancellare 4 volte i numeri di posizione pari*
 
 > I numeri interi da 1 a 99 sono scritti fianco a fianco: $123456789101112\ldots9899$. Applicheremo quindi la seguente operazione: cancelleremo le cifre che appaiono in posizioni pari, ottenendo $135790112\ldots89$. Ripetendo questa operazione 4 volte in totale, quante cifre resteranno?
-
-[[Quesiti/src_obm_2004_n1_f2#q04|src_obm_2004_n1_f2__Q04]]
 
 
 
@@ -152,7 +147,6 @@ level: OBM Nível 1
 ![[src_obm_2004_n1_f2__q05.png]]
 
 **Risposta:** 125
-[[Quesiti/src_obm_2004_n1_f2#q05|src_obm_2004_n1_f2__Q05]]
 
 
 
@@ -182,8 +176,6 @@ level: OBM Nível 1
 > Nella tabella seguente, scrivete i numeri da 1 a 9 in ogni colonna in modo che la somma dei numeri scritti nelle nove righe sia la stessa, pari a $Y$. $X$ è la somma dei numeri di ciascuna colonna. Trova $X + Y$.
 
 ![[src_obm_2004_n1_f2__q06.png]]
-
-[[Quesiti/src_obm_2004_n1_f2#q06|src_obm_2004_n1_f2__Q06]]
 
 
 
@@ -217,8 +209,6 @@ level: OBM Nível 1
 > (a) In totale, quante carte sono state usate? Si noti che, ad esempio, 037 è un numero a 3 cifre.
 > 
 > (b) Tutte le carte sono poste faccia a faccia nella stessa pila e mescolate. Jade disegna le carte una per una, senza guardare quello che sta disegnando. Quante carte deve disegnare Jade per essere sicuro che tra quelle disegnate ci siano almeno due carte blu?
-
-[[Quesiti/src_obm_2004_n1_f2#q07|src_obm_2004_n1_f2__Q07]]
 
 
 
@@ -257,8 +247,6 @@ level: OBM Nível 1
 
 ![[src_obm_2004_n1_f2__q08.png]]
 
-[[Quesiti/src_obm_2004_n1_f2#q08|src_obm_2004_n1_f2__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_aritmetica,method_ricorsione,method_invarianti,method_casework,skill_riconoscimento_pattern,skill_lettura_attenta,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -291,5 +279,3 @@ level: OBM Nível 1
 > (a) Ha iniziato un nuovo foglio con com 1. Quindi, la sua descrizione e' scritta sulla seconda riga. Poi, ha descritto la seconda riga sulla terza riga, e così via. Qual è la cifra scritta sulla riga $10^{\text{th}}$ del primo foglio?
 > 
 > (b) A Esmeralda è piaciuto e ha deciso di ripetere il processo su diversi fogli, a partire dal 01 nella prima riga del primo foglio. Quali sono le prime due cifre a sinistra che ha digitato sulla linea $2006^{\text{th}}$?
-
-[[Quesiti/src_obm_2004_n1_f2#q09|src_obm_2004_n1_f2__Q09]]

@@ -55,7 +55,6 @@ level: kangourou
 > E) 8
 
 **Answer:** A
-[[Quesiti/src_kangourou_2022_junior_semifinale#q01|src_kangourou_2022_junior_semifinale__Q01]]
 
 
 
@@ -99,7 +98,6 @@ level: kangourou
 > E) q/2
 
 **Answer:** E
-[[Quesiti/src_kangourou_2022_junior_semifinale#q02|src_kangourou_2022_junior_semifinale__Q02]]
 
 
 
@@ -190,7 +188,6 @@ level: kangourou
 > E) 5 (all)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2022_junior_semifinale#q03|src_kangourou_2022_junior_semifinale__Q03]]
 
 
 
@@ -236,7 +233,6 @@ level: kangourou
 > E) 1.000
 
 **Answer:** D
-[[Quesiti/src_kangourou_2022_junior_semifinale#q04|src_kangourou_2022_junior_semifinale__Q04]]
 
 
 
@@ -283,7 +279,6 @@ level: kangourou
 > E) 4 (all)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2022_junior_semifinale#q05|src_kangourou_2022_junior_semifinale__Q05]]
 
 
 
@@ -319,7 +314,6 @@ level: kangourou
 > (4 points) The dimensions of four rectangles are a × b, b × c, c × d and d × a, where all numbers a, b, c and d are positive integers and express lengths in metres. Their total area is 105 square meters. Which of the following numbers is certainly not the sum of their perimeters in meters? A) 88 B) 104 C) 124 D) 152 E) None, all could be.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2022_junior_semifinale#q06|src_kangourou_2022_junior_semifinale__Q06]]
 
 
 
@@ -363,7 +357,6 @@ level: kangourou
 > D) 8π E) 2022(2022 – π)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2022_junior_semifinale#q07|src_kangourou_2022_junior_semifinale__Q07]]
 
 
 
@@ -409,7 +402,6 @@ level: kangourou
 > D) 4π E) 11π/5
 
 **Answer:** D
-[[Quesiti/src_kangourou_2022_junior_semifinale#q08|src_kangourou_2022_junior_semifinale__Q08]]
 
 
 
@@ -459,7 +451,6 @@ level: kangourou
 > Open-ended questions
 
 **Answer:** A
-[[Quesiti/src_kangourou_2022_junior_semifinale#q09|src_kangourou_2022_junior_semifinale__Q09]]
 
 
 
@@ -493,7 +484,6 @@ level: kangourou
 > K
 
 **Answer:** 25
-[[Quesiti/src_kangourou_2022_junior_semifinale#q10|src_kangourou_2022_junior_semifinale__Q10]]
 
 
 
@@ -528,7 +518,6 @@ level: kangourou
 > (5 points) The figure shows two congruent regular hexagons that have only one vertex in common. Two of the sides that converge at that vertex are perpendicular. How many degrees does the indicated angle ABC measure?
 
 **Answer:** 15
-[[Quesiti/src_kangourou_2022_junior_semifinale#q11|src_kangourou_2022_junior_semifinale__Q11]]
 
 
 
@@ -561,7 +550,6 @@ level: kangourou
 > (5 points) Five people must board a car which has five seats, two in front and three in the back. Only one of them can drive, two of the other four cannot sit next to each other, while there are no constraints on the remaining two. How many different ways can they get in the car? (Two ways are considered different if at least one of the car seats is occupied by different people.)
 
 **Answer:** 16
-[[Quesiti/src_kangourou_2022_junior_semifinale#q12|src_kangourou_2022_junior_semifinale__Q12]]
 
 
 
@@ -594,7 +582,6 @@ level: kangourou
 > (6 points) A small calculator can only perform four optional operations on a number that is assigned: subtract 1, divide by 2, multiply by 3, add 4. Starting from number 1 and running in sequence one at a time operations like these on the results obtained, what is the minimum number of operations that are sufficient to reach 2022? (For example, to reach 6 it takes exactly 3: 1 × 3 + 4 − 1.)
 
 **Answer:** 9
-[[Quesiti/src_kangourou_2022_junior_semifinale#q13|src_kangourou_2022_junior_semifinale__Q13]]
 
 
 
@@ -635,7 +622,6 @@ level: kangourou
 > 3 ?
 
 **Answer:** 3
-[[Quesiti/src_kangourou_2022_junior_semifinale#q14|src_kangourou_2022_junior_semifinale__Q14]]
 
 
 
@@ -672,7 +658,6 @@ level: kangourou
 > are infinitely many fair rectangles, answer 9999.)
 
 **Answer:** 2
-[[Quesiti/src_kangourou_2022_junior_semifinale#q15|src_kangourou_2022_junior_semifinale__Q15]]
 
 
 
@@ -705,7 +690,6 @@ level: kangourou
 > 52022 ?
 
 **Answer:** 4
-[[Quesiti/src_kangourou_2022_junior_semifinale#q16|src_kangourou_2022_junior_semifinale__Q16]]
 
 
 
@@ -737,7 +721,6 @@ level: kangourou
 > (7 points) Indicate with P the set of polynomials with integer coefficients that have 1 + √2 among their roots and whose degree is as low as possible. For a polynomial P, denote with s(P) the sum of the absolute values of the coefficients of P. What is the minimum possible value for s(P) as P varies in P?
 
 **Answer:** 4
-[[Quesiti/src_kangourou_2022_junior_semifinale#q17|src_kangourou_2022_junior_semifinale__Q17]]
 
 
 
@@ -785,4 +768,3 @@ level: kangourou
 > A B C
 
 **Answer:** 0
-[[Quesiti/src_kangourou_2022_junior_semifinale#q18|src_kangourou_2022_junior_semifinale__Q18]]

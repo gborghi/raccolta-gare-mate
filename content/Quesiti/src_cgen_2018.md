@@ -98,8 +98,6 @@ level: Concours Général
 
 ![[src_cgen_2018__q01.png]]
 
-[[Quesiti/src_cgen_2018#q01|src_cgen_2018__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_funzionali,topic_algebra,method_induzione,method_grafi,method_estremalita,method_casework,skill_astrazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -199,8 +197,6 @@ level: Concours Général
 
 ![[src_cgen_2018__q02.png]]
 
-[[Quesiti/src_cgen_2018#q02|src_cgen_2018__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,topic_insiemi_funzioni,method_induzione,method_ricorsione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
@@ -267,5 +263,3 @@ level: Concours Général
 > Parte 3.2 - Rappresentazione dorata e pura. Diciamo che una rappresentazione $x\triangleright a_p a_{p-1}\cdots a_0,a_{-1}\cdots a_{-q}$ di un numero $x$ è di puro oro ('en o pur') se per tutti $i$, $$a_i\,a_{i+1}=0$$ In altre parole, una rappresentazione di $x$ è di puro oro se e solo se non contiene mai due $1$ consecutivi. Se $x$ è un reale non-zero, se $x\triangleright a_p a_{p-1}\cdots a_0,a_{-1}\cdots a_{-q}$, si definisce il contenuto dorato ("teneur en or") della rappresentazione come uguale all' esponente della potenza più grande di $\varphi$ il cui coefficiente è uguale a $1$, nell'uguaglianza $x=a_p\varphi^p+\ldots+a_{-q}\varphi^{-q}$. Ad esempio, il contenuto dorato della rappresentazione $1101,1001$ è uguale a $3$ e quello di $0,0010$ è uguale a $-3$. 1. Indicare una rappresentazione in oro puro degli integri $2$, $3$, $4$ e $5$. 2. Il $x$ deve essere un reale che abbia una rappresentazione di oro puro del contenuto dorato pari a $n$. a. Mostra che $\varphi^n\le x<\varphi^{n+1}$. b. Mostrate che la pura rappresentazione d'oro di un reale, se esiste, è unica. 3. Lasciate che $x$ sia un reale non-zero con una rappresentazione di oro puro. a. Esprimere il contenuto dorato della rappresentazione dorata pura di $x$ con l'aiuto del logaritmo naturale e delle funzioni di parte integrale. b. Scrivi un algoritmo che permetta di determinare questa rappresentazione. c. Applicare l'algoritmo per $x=2018$. 4. Mostrate che una reale d'oro ha necessariamente una rappresentazione d'oro puro. 5. Mostrate che esistono realtà strettamente positive che non sono d'oro.
 
 ![[src_cgen_2018__q03.png]]
-
-[[Quesiti/src_cgen_2018#q03|src_cgen_2018__Q03]]

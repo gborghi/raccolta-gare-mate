@@ -41,8 +41,6 @@ level: OBM Nível 3
 > 
 > b) dimostrare che esiste un $s = 0{,}s_1 s_2 s_3 \ldots$ razionale e un $\beta = 0{,}b_1 b_2 b_3 \ldots$ irrazionale tale che per tutti $N \ge 2017$ il numero degli indici $1 \le i \le N$ per i quali $s_i \ne b_i$ è inferiore o uguale a $\frac{N}{2017}$.
 
-[[Quesiti/src_obm_2017_n3_f3#q01|src_obm_2017_n3_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_estremalita,skill_modellizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -70,8 +68,6 @@ level: OBM Nível 3
 
 > $n \ge 3$ sia un numero intero. Prova che per ogni intero $k$ con $1 \le k \le \binom{n}{2}$ esiste un insieme $A$ di $n$ diversi interi positivi in modo tale che l'insieme $$B = \{\gcd(x,y) : x, y \in A,\; x \ne y\}$$ (ottenuto dai più grandi divisori comuni di tutte le coppie di elementi distinti di $A$) contiene esattamente $k$ elementi distinti.
 
-[[Quesiti/src_obm_2017_n3_f3#q02|src_obm_2017_n3_f3__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta,skill_modellizzazione"></span>
@@ -96,8 +92,6 @@ level: OBM Nível 3
 *Quadrilatero tangenziale con un cerchio inciso; linea RT passa attraverso l'incentro del triangolo PQC*
 
 > Un quadrilaterale $ABCD$ ha un cerchio inciso $\omega$ ed è tale che i raggi $AB$ e $DC$ si incontrino in un punto $P$ e i raggi $AD$ e $BC$ si incontrino in un punto $Q$. Le linee $AC$ e $PQ$ si incontrano in un punto $R$. $T$ deve essere il punto di $\omega$ più vicino alla linea $PQ$. Prova che la linea $RT$ passa attraverso l'incentro del triangolo $PQC$.
-
-[[Quesiti/src_obm_2017_n3_f3#q03|src_obm_2017_n3_f3__Q03]]
 
 
 
@@ -152,8 +146,6 @@ level: OBM Nível 3
 
 ![[src_obm_2017_n3_f3__q04.png]]
 
-[[Quesiti/src_obm_2017_n3_f3#q04|src_obm_2017_n3_f3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione,skill_astrazione"></span>
@@ -179,8 +171,6 @@ level: OBM Nível 3
 
 > Nel triangolo $ABC$, $r_A$ sia la linea che attraversa il punto medio di $BC$ e che sia perpendicolare al bisettore interno di $\angle BAC$. Definire $r_B$ e $r_C$ nello stesso modo. Che $H$ e $I$ siano rispettivamente l'ortocentro e l'incentro di $ABC$. Supponiamo che le tre linee $r_A$, $r_B$, $r_C$ definiscano un triangolo. Prova che il centro circoncentrale di questo triangolo è il punto medio di $HI$.
 
-[[Quesiti/src_obm_2017_n3_f3#q05|src_obm_2017_n3_f3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -205,5 +195,3 @@ level: OBM Nível 3
 *Il primo divisore p di a^3-3a+1 con p non 3 ha la forma 9k+1 o 9k-1*
 
 > Che $a$ sia un intero positivo e $p$ un primo divisore di $a^3 - 3a + 1$ con $p \ne 3$. Provare che $p$ è di forma $9k + 1$ o $9k - 1$, con $k$ un numero intero.
-
-[[Quesiti/src_obm_2017_n3_f3#q06|src_obm_2017_n3_f3__Q06]]

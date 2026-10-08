@@ -41,8 +41,6 @@ level: INMO
 > 
 > (ii) $n^2 + 3n + 2$ è un multiple di 6.
 
-[[Quesiti/src_inmo_1991#q01|src_inmo_1991__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -69,8 +67,6 @@ level: INMO
 *Triangolo acuto con semicircoli su ciascun lato: prova l'identità della somma di superficie*
 
 > In un triangolo a angolo acuto $ABC$, un semicircolo è costruito verso l'esterno su ciascun lato. I punti $B'$ e $C'$ sono definiti in modo analogo. Prove che $$S_{BCA'} + S_{CAB'} + S_{ABC'} = S_{ABC},$$ dove $S_{XYZ}$ indica l'area del triangolo $XYZ$.
-
-[[Quesiti/src_inmo_1991#q02|src_inmo_1991__Q02]]
 
 
 
@@ -99,8 +95,6 @@ level: INMO
 
 > Date un triangolo $ABC$, indicare $$x = \tan\frac{B-C}{2}\tan\frac{A}{2}, \quad y = \tan\frac{C-A}{2}\tan\frac{B}{2}, \quad z = \tan\frac{A-B}{2}\tan\frac{C}{2}.$$ Prove che $x + y + z + xyz = 0$.
 
-[[Quesiti/src_inmo_1991#q03|src_inmo_1991__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima"></span>
@@ -127,8 +121,6 @@ level: INMO
 
 > $a, b, c$ siano numeri reali nell'intervallo $(0, 1)$ con $a + b + c = 2$. Provare che $$\frac{a}{1-a} + \frac{b}{1-b} + \frac{c}{1-c} \ge 8.$$
 
-[[Quesiti/src_inmo_1991#q04|src_inmo_1991__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -153,8 +145,6 @@ level: INMO
 *Triangolo con incentro I, punti X,Y su AB,AC: collinearietà e angolo*
 
 > In un triangolo $ABC$ con incentro $I$, i punti $X$, $Y$ sono presi sui segmenti $AB$, $AC$ rispettivamente in modo tale che $BX \cdot AB = IB^2$ e $CY \cdot AC = IC^2$. Dato che i punti $X$, $I$, $Y$ sono collineari, trovare i possibili valori di $\angle A$.
-
-[[Quesiti/src_inmo_1991#q05|src_inmo_1991__Q05]]
 
 
 
@@ -185,8 +175,6 @@ level: INMO
 > 
 > b) dimostrare che $3^{n+2}$ non divide $2^{n+1} + 1$ per un intero positivo $n$.
 
-[[Quesiti/src_inmo_1991#q06|src_inmo_1991__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato"></span>
@@ -213,8 +201,6 @@ level: INMO
 
 > Determinare tutte le soluzioni reali $x, y, z$ del sistema $$\begin{cases} x + y - z = 4, \\ x^2 - y^2 + z^2 = -4, \\ xyz = 6. \end{cases}$$
 
-[[Quesiti/src_inmo_1991#q07|src_inmo_1991__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_aritmetica,method_cassetti,method_estremalita,skill_modellizzazione,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -240,8 +226,6 @@ level: INMO
 
 > Ci sono stati dati 10 oggetti di pesi interi con il peso totale di 20. Prova che se nessuno dei pesi supera il 10, allora gli oggetti possono essere divisi in due gruppi di pesi uguali.
 
-[[Quesiti/src_inmo_1991#q08|src_inmo_1991__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -266,8 +250,6 @@ level: INMO
 *Construzione tangente in cerchio: triangolo AB'C' simile a ABC*
 
 > L'incircolo $l$ di un triangolo $ABC$ è centrato a $I$ e tocca il lato $BC$ a $T$. La linea attraverso $T$ parallela a $IA$ incontra di nuovo l'incircolo a $S$ e la tangente all'incircolo a $S$ incontra rispettivamente $AB$, $AC$ nei punti $C'$ e $B'$. Prove che il triangolo $AB'C'$ sia simile al triangolo $ABC$.
-
-[[Quesiti/src_inmo_1991#q09|src_inmo_1991__Q09]]
 
 
 
@@ -295,5 +277,3 @@ level: INMO
 *Ricerca tutte le n per le quali il numero di coppie ordinate (x,y) con 1/x+1/y=1/n è pari a 5*
 
 > Per qualsiasi integro positivo $n$, $s(n)$ indichi il numero di coppie ordinate $(x, y)$ di integri positivi per i quali $$\frac{1}{x} + \frac{1}{y} = \frac{1}{n}.$$ determina tutte quelle $n$ per le quali $s(n) = 5$.
-
-[[Quesiti/src_inmo_1991#q10|src_inmo_1991__Q10]]

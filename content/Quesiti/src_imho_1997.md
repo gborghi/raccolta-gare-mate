@@ -55,8 +55,6 @@ level: IMO
 > 
 > (c) Si dimostri che non esiste una costante $C$ tale che $f(m,n) < C$ per tutti gli $m$ e $n$.
 
-[[Quesiti/src_imho_1997#q01|src_imho_1997__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -83,8 +81,6 @@ level: IMO
 
 > L'angolo in $A$ è l'angolo più piccolo del triangolo $ABC$. I punti $B$ e $C$ dividono la circonferenza circoscritta al triangolo in due archi. Sia $U$ un punto interno all'arco tra $B$ e $C$ che non contiene $A$. Gli assi dei segmenti $AB$ e $AC$ si intersecano rispettivamente con la retta $AU$ nei punti $V$ e $W$. Le rette $BV$ e $CW$ si intersecano in $T$. Si dimostri che
 > $$AU = TB + TC.$$
-
-[[Quesiti/src_imho_1997#q02|src_imho_1997__Q02]]
 
 
 
@@ -121,8 +117,6 @@ level: IMO
 > Si dimostri che esiste una permutazione $y_1, y_2, \ldots, y_n$ di $x_1, x_2, \ldots, x_n$ tale che
 > $$|y_1 + 2y_2 + \cdots + ny_n| \le \frac{n+1}{2}.$$
 
-[[Quesiti/src_imho_1997#q03|src_imho_1997__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_colorazione,method_congruenze,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -156,8 +150,6 @@ level: IMO
 > 
 > (b) Esistono matrici d'argento per infiniti valori di $n$.
 
-[[Quesiti/src_imho_1997#q04|src_imho_1997__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_casework,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -184,8 +176,6 @@ level: IMO
 
 > Determinare tutte le coppie $(a, b)$ di interi $a, b \ge 1$ che soddisfano l'equazione
 > $$a^{b^2} = b^a.$$
-
-[[Quesiti/src_imho_1997#q05|src_imho_1997__Q05]]
 
 
 
@@ -217,5 +207,3 @@ level: IMO
 > $$4;\; 2+2;\; 2+1+1;\; 1+1+1+1.$$
 > Si dimostri che, per ogni intero $n \ge 3$,
 > $$2^{n^2/4} < f(2^n) < 2^{n^2/2}.$$
-
-[[Quesiti/src_imho_1997#q06|src_imho_1997__Q06]]

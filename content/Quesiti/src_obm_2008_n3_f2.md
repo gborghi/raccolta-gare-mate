@@ -33,8 +33,6 @@ level: OBM Nível 3
 
 > Un trapezoide $ABCD$ di uguali braccia, con lati paralleli $AB$ e $CD$, è tale che la diagonale $BD$ misura $100\,\text{m}$ e l'angolo $\angle BDC$ misura $30^\circ$. $S$ sia la superficie del trapezoide in $\text{m}^2$. Determinare $S/\sqrt{3}$.
 
-[[Quesiti/src_obm_2008_n3_f2#q01|src_obm_2008_n3_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,method_telescoping,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -61,8 +59,6 @@ level: OBM Nível 3
 
 > Se $x$ è un numero reale, indichiamo con $\lfloor x \rfloor$ il numero intero più grande inferiore o uguale a $x$. Per esempio, $\lfloor 2 \rfloor = 2$, $\lfloor \pi \rfloor = 3$ e $\lfloor -2.1 \rfloor = -3$. Calcolare il valore della somma $$\left\lfloor \sqrt{1} \right\rfloor + \left\lfloor \sqrt{2} \right\rfloor + \left\lfloor \sqrt{3} \right\rfloor + \cdots + \left\lfloor \sqrt{2008} \right\rfloor.$$
 
-[[Quesiti/src_obm_2008_n3_f2#q02|src_obm_2008_n3_f2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -88,8 +84,6 @@ level: OBM Nível 3
 
 > Un intero positivo $n$ è chiamato *auto-replicante * se le ultime cifre di $n^2$ formano il numero $n$ stesso. Ad esempio, $25$ si riproduce automaticamente da $25^2 = 625$. Determinare la somma di tutti i numeri di replicazione automatica $n$ con numeri $4$ esatti (cioè tutti i numeri di replicazione automatica $n$ che soddisfano $1000 \le n \le 9999$).
 
-[[Quesiti/src_obm_2008_n3_f2#q03|src_obm_2008_n3_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,method_ricorsione,method_induzione,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -114,8 +108,6 @@ level: OBM Nível 3
 *Conteggi permutazioni di 1,9, in cui tutti gli elementi tra i e i+1 sono inferiori a i*
 
 > Quante permutazioni di $1, 2, 3, \ldots, 9$ hanno la proprietà che, per ogni $1 \le i < 9$, tutti i numeri apparsi tra $i$ e $i+1$ nella permutazione (dove $i$ può apparire prima o dopo $i+1$) sono tutti inferiori a $i$? Ad esempio, $976412358$ è una permutazione con questa proprietà.
-
-[[Quesiti/src_obm_2008_n3_f2#q04|src_obm_2008_n3_f2__Q04]]
 
 
 
@@ -149,8 +141,6 @@ level: OBM Nível 3
 > 
 > Ad esempio, il polinomio minimo di $\sqrt{2}$ è $x^2 - 2$. Determinare il prodotto dei coefficienti non zero del polinomio minimo di $$\sqrt[3]{-27 + 5\sqrt{33}} - \sqrt[3]{27 + 5\sqrt{33}}.$$
 
-[[Quesiti/src_obm_2008_n3_f2#q05|src_obm_2008_n3_f2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -177,8 +167,6 @@ level: OBM Nível 3
 
 > Determinare tutti gli integri positivi $m$ e $n$ in modo tale che $$m^2 + 161 = 3^n.$$
 
-[[Quesiti/src_obm_2008_n3_f2#q06|src_obm_2008_n3_f2__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
@@ -203,8 +191,6 @@ level: OBM Nível 3
 *Conta le funzioni idempotenti f:{1,2,3,4,5}→{1,2,3,4,5}*
 
 > Determinare il numero di funzioni $f : \{1,2,3,4,5\} \to \{1,2,3,4,5\}$ in modo tale che $f(f(x)) = f(x)$ per tutte le $x \in \{1,2,3,4,5\}$.
-
-[[Quesiti/src_obm_2008_n3_f2#q07|src_obm_2008_n3_f2__Q07]]
 
 
 
@@ -232,8 +218,6 @@ level: OBM Nível 3
 
 > Un trapezoide $ABCD$, con lati paralleli $AB \parallel CD$, è inserito in un cerchio di raggio $25$. È noto che $CD$ è diametro e che l'altezza del trapezoide è $24$. Il $E$ deve essere il punto sull'arco $AB$ (sulla minor arc determinata da $A$ e $B$) con la più piccola distanza da $AB$ determinata da $A$ e $B$. $F$ e $G$ siano rispettivamente i punti di intersezione delle linee $ED$ e $EC$ con $AB$. Calcolo $$\frac{AF \cdot BG}{FG}.$$
 
-[[Quesiti/src_obm_2008_n3_f2#q08|src_obm_2008_n3_f2__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_algebra,method_estremalita,method_simmetria,skill_conteggio_sistematico,skill_stima,skill_ragionamento_geometrico"></span>
@@ -258,5 +242,3 @@ level: OBM Nível 3
 *Minimizzare il prodotto delle voci 2008 del 2008× 2008 matrice (i+j), una per riga e colonna*
 
 > In una matrice $2008 \times 2008$, l'elemento nella riga $i$ e nella colonna $j$ è il numero $i + j$ (le righe e le colonne sono numerate da $1$ a $2008$). Scegliamo gli elementi $2008$ di questa matrice in modo che non ci siano due elementi scelti nella stessa riga o nella stessa colonna. Gli elementi scelti vengono poi moltiplicati insieme. Qual è il prodotto più piccolo possibile che si possa ottenere in questo modo?
-
-[[Quesiti/src_obm_2008_n3_f2#q09|src_obm_2008_n3_f2__Q09]]

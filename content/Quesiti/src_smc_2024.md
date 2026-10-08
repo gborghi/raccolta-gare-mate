@@ -46,7 +46,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $0.\overline{10}$
 
 **Risposta:** E
-[[Quesiti/src_smc_2024#q01|src_smc_2024__Q01]]
 
 
 
@@ -86,7 +85,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $27\,000$
 
 **Risposta:** A
-[[Quesiti/src_smc_2024#q02|src_smc_2024__Q02]]
 
 
 
@@ -127,7 +125,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $6$
 
 **Risposta:** B
-[[Quesiti/src_smc_2024#q03|src_smc_2024__Q03]]
 
 
 
@@ -168,7 +165,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $121^\circ$
 
 **Risposta:** C
-[[Quesiti/src_smc_2024#q04|src_smc_2024__Q04]]
 
 
 
@@ -208,7 +204,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $20$
 
 **Risposta:** B
-[[Quesiti/src_smc_2024#q05|src_smc_2024__Q05]]
 
 
 
@@ -253,7 +248,6 @@ level: Senior Mathematical Challenge
 ![[src_smc_2024__q06.png]]
 
 **Risposta:** D
-[[Quesiti/src_smc_2024#q06|src_smc_2024__Q06]]
 
 
 
@@ -294,7 +288,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $23$
 
 **Risposta:** A
-[[Quesiti/src_smc_2024#q07|src_smc_2024__Q07]]
 
 
 
@@ -334,7 +327,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $20x$
 
 **Risposta:** D
-[[Quesiti/src_smc_2024#q08|src_smc_2024__Q08]]
 
 
 
@@ -375,7 +367,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $1$
 
 **Risposta:** E
-[[Quesiti/src_smc_2024#q09|src_smc_2024__Q09]]
 
 
 
@@ -416,7 +407,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $8$
 
 **Risposta:** D
-[[Quesiti/src_smc_2024#q10|src_smc_2024__Q10]]
 
 
 
@@ -457,7 +447,6 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(E)** $n(n+1)(2n+3(n+4)+1)$
 
 **Risposta:** D
-[[Quesiti/src_smc_2024#q11|src_smc_2024__Q11]]
 
 
 
@@ -498,7 +487,6 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(E)** ulteriori informazioni necessarie
 
 **Risposta:** A
-[[Quesiti/src_smc_2024#q12|src_smc_2024__Q12]]
 
 
 
@@ -542,7 +530,6 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 ![[src_smc_2024__q13.png]]
 
 **Risposta:** C
-[[Quesiti/src_smc_2024#q13|src_smc_2024__Q13]]
 
 
 
@@ -583,7 +570,6 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(E)** $5$
 
 **Risposta:** B
-[[Quesiti/src_smc_2024#q14|src_smc_2024__Q14]]
 
 
 
@@ -627,7 +613,6 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 ![[src_smc_2024__q15.png]]
 
 **Risposta:** C
-[[Quesiti/src_smc_2024#q15|src_smc_2024__Q15]]
 
 
 
@@ -672,7 +657,6 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 ![[src_smc_2024__q16.png]]
 
 **Risposta:** B
-[[Quesiti/src_smc_2024#q16|src_smc_2024__Q16]]
 
 
 
@@ -713,7 +697,6 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(E)** $0$
 
 **Risposta:** E
-[[Quesiti/src_smc_2024#q17|src_smc_2024__Q17]]
 
 
 
@@ -757,7 +740,6 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 ![[src_smc_2024__q18.png]]
 
 **Risposta:** C
-[[Quesiti/src_smc_2024#q18|src_smc_2024__Q18]]
 
 
 
@@ -798,7 +780,6 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(E)** Stephen ha la carta 7
 
 **Risposta:** C
-[[Quesiti/src_smc_2024#q19|src_smc_2024__Q19]]
 
 
 
@@ -839,7 +820,6 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(E)** $480$
 
 **Risposta:** D
-[[Quesiti/src_smc_2024#q20|src_smc_2024__Q20]]
 
 
 
@@ -880,7 +860,6 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(E)** $2$
 
 **Risposta:** B
-[[Quesiti/src_smc_2024#q21|src_smc_2024__Q21]]
 
 
 
@@ -924,7 +903,6 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 ![[src_smc_2024__q22.png]]
 
 **Risposta:** A
-[[Quesiti/src_smc_2024#q22|src_smc_2024__Q22]]
 
 
 
@@ -968,7 +946,6 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 ![[src_smc_2024__q23.png]]
 
 **Risposta:** E
-[[Quesiti/src_smc_2024#q23|src_smc_2024__Q23]]
 
 
 
@@ -1009,7 +986,6 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(E)** $50$
 
 **Risposta:** E
-[[Quesiti/src_smc_2024#q24|src_smc_2024__Q24]]
 
 
 
@@ -1054,4 +1030,3 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 ![[src_smc_2024__q25.png]]
 
 **Risposta:** E
-[[Quesiti/src_smc_2024#q25|src_smc_2024__Q25]]

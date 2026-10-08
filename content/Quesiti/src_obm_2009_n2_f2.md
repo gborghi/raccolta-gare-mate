@@ -33,8 +33,6 @@ level: OBM Nível 2
 
 > Esmeralda ha una bottiglia contenente 9 litri di una miscela che è di 50% alcol e 50% acqua. Vuole aggiungere acqua alla bottiglia in modo che la miscela risultante sia solo alcol del 30%. Quanti litri di acqua dovrebbe aggiungere?
 
-[[Quesiti/src_obm_2009_n2_f2#q01|src_obm_2009_n2_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -61,8 +59,6 @@ level: OBM Nível 2
 
 > Se $a$, $b$, $c$ e $d$ sono, in un certo ordine, i numeri $1$, $2$, $3$ e $4$, quale è il più grande valore possibile di $$ab + bc + cd + da?$$
 
-[[Quesiti/src_obm_2009_n2_f2#q02|src_obm_2009_n2_f2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_estremalita,method_casework,method_conteggio,skill_ragionamento_geometrico,skill_astrazione,skill_conteggio_sistematico"></span>
@@ -88,8 +84,6 @@ level: OBM Nível 2
 
 > Diciamo che due o più numeri, ognuno con lo stesso numero di cifre, appartengono alla stessa famiglia quando ogni coppia di loro condivide almeno una cifra in comune. Ad esempio, $32$, $25$ e $22$ appartengono alla stessa famiglia, perché $32$ e $25$ condividono il numero $2$, $25$ e $22$ condividono il numero $2$, e $32$ e $22$ condividono il numero $2$. D'altra parte, $123$, $245$ e $568$ non appartengono alla stessa famiglia, poiché $123$ e $568$ non condividono una cifra comune. Qual è il maggior numero di membri che una famiglia di numeri a tre cifre può avere?
 
-[[Quesiti/src_obm_2009_n2_f2#q03|src_obm_2009_n2_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -114,8 +108,6 @@ level: OBM Nível 2
 *Contare i numeri interi a due cifre divisibili da ciascuno dei loro cifre*
 
 > Determina quanti numeri interi a due cifre sono divisibili da entrambi i loro cifre.
-
-[[Quesiti/src_obm_2009_n2_f2#q04|src_obm_2009_n2_f2__Q04]]
 
 
 
@@ -145,8 +137,6 @@ level: OBM Nível 2
 > Nella figura seguente, $ABCD$ e $EFGH$ sono quadrati con lunghezza laterale $48\,\text{cm}$. Sapendo che $A$ è il punto medio di $EF$ e $G$ è il punto medio di $DC$, determinare l'area della regione ombreggiata (illustrata) in $\text{cm}^2$.
 
 ![[src_obm_2009_n2_f2__q05.png]]
-
-[[Quesiti/src_obm_2009_n2_f2#q05|src_obm_2009_n2_f2__Q05]]
 
 
 
@@ -185,8 +175,6 @@ level: OBM Nível 2
 
 ![[src_obm_2009_n2_f2__q06.png]]
 
-[[Quesiti/src_obm_2009_n2_f2#q06|src_obm_2009_n2_f2__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,method_ricorsione,skill_manipolazione_algebrica,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -222,8 +210,6 @@ level: OBM Nível 2
 
 > Si osserva che $$(x-r)(x-s) = x^2 - (r+s)x + rs.$$ Sostituendo $x$ da $r$ e poi da $s$, otteniamo: $$\begin{cases} r^2 - (r+s)r + rs = 0 \\ s^2 - (r+s)s + rs = 0. \end{cases}$$ Moltiplicando la prima equazione da $a r^{n-1}$ e la seconda da $b s^{n-1}$ e aggiungendo: $$a r^{n+1} - (r+s)\,a r^n + rs\,a r^{n-1} = 0 \quad \text{and} \quad b s^{n+1} - (r+s)\,b s^n + rs\,b s^{n-1} = 0.$$ Sommando queste due equazioni e scrivendo $S_k = a r^k + b s^k$, si verifica che $$S_{n+1} = (r+s)\,S_n - rs\,S_{n-1}.$$ Dato $$S_1 = ar + bs = 1, \quad S_2 = ar^2 + bs^2 = 2, \quad S_3 = ar^3 + bs^3 = 5, \quad S_4 = ar^4 + bs^4 = 6,$$ $S_7$ determina.
 
-[[Quesiti/src_obm_2009_n2_f2#q07|src_obm_2009_n2_f2__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -252,8 +238,6 @@ level: OBM Nível 2
 > Che $N$ sia un punto sul lato $AC$ del triangolo $ABC$ tale che $AN = 2NC$, e che $M$ sia un punto sul lato $AB$ tale che $MN \perp AB$. Dato che $AC = 12\,\text{cm}$ e $G$ è il centroide del triangolo $ABC$ (il punto di intersezione dei mediani), determinare la lunghezza del segmento $MN$.
 > 
 > \textit{Nota: il centroide (baricentro) è il punto di intersezione dei mediani del triangolo.}
-
-[[Quesiti/src_obm_2009_n2_f2#q08|src_obm_2009_n2_f2__Q08]]
 
 
 
@@ -287,5 +271,3 @@ Torneo a scacchi 8 giocatori 7 round: possibilità di punteggio e punteggio mini
 > (a) Dopo il terzo round, è possibile che tutti i giocatori abbiano punteggi distinti? Giustifica la tua risposta.
 > 
 > b) Al termine del campionato, qual è il numero minimo di punti che il giocatore di primo posto avrebbe potuto ottenere? Giustifica la tua risposta.
-
-[[Quesiti/src_obm_2009_n2_f2#q09|src_obm_2009_n2_f2__Q09]]

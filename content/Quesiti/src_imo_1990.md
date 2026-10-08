@@ -51,8 +51,6 @@ level: IMO
 > EF
 > in funzione di t.
 
-[[Quesiti/src_imo_1990#q01|src_imo_1990__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_cassetti"></span>
@@ -84,8 +82,6 @@ level: IMO
 > se esiste almeno una coppia di punti neri tale che l'interno di uno dei due
 > archi da essi determinati contenga esattamente n punti di E. Determinare il minimo valore
 > di k tale che ogni colorazione di questo tipo di k punti di E sia buona.
-
-[[Quesiti/src_imo_1990#q02|src_imo_1990__Q02]]
 
 
 
@@ -127,8 +123,6 @@ level: IMO
 > Giorno II
 > 13 luglio 1990
 
-[[Quesiti/src_imo_1990#q03|src_imo_1990__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,skill_astrazione"></span>
@@ -158,8 +152,6 @@ level: IMO
 > Sia ℚ⁺ l'insieme dei numeri razionali positivi. Si costruisca una funzione f : ℚ⁺ → ℚ⁺ tale che
 > f(xf(y)) = f(x)/y
 > per ogni x, y in ℚ⁺.
-
-[[Quesiti/src_imo_1990#q04|src_imo_1990__Q04]]
 
 
 
@@ -217,8 +209,6 @@ level: IMO
 > (c)
 > nessuno dei due giocatori ha una strategia vincente?
 
-[[Quesiti/src_imo_1990#q05|src_imo_1990__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_combinatoria,method_simmetria"></span>
@@ -252,5 +242,3 @@ level: IMO
 > (b)
 > le lunghezze dei 1990 lati sono i numeri 12, 22, 32, . . . , 19902 in un certo
 > ordine.
-
-[[Quesiti/src_imo_1990#q06|src_imo_1990__Q06]]

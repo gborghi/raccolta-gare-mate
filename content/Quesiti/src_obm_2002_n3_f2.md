@@ -43,8 +43,6 @@ level: OBM Nível 3
 > 
 > Qual e' il numero che Arnaldo ha pensato?
 
-[[Quesiti/src_obm_2002_n3_f2#q01|src_obm_2002_n3_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_simmetria,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -71,8 +69,6 @@ level: OBM Nível 3
 *Ricerca i valori a,b,c da tre equazioni di prodotto simmetrici*
 
 > $a$, $b$, $c$ siano numeri reali tali che $$ab(a+b+c) = 1001, \quad bc(a+b+c) = 2002, \quad ca(a+b+c) = 3003.$$ Trova $a$, $b$ e $c$.
-
-[[Quesiti/src_obm_2002_n3_f2#q02|src_obm_2002_n3_f2__Q02]]
 
 
 
@@ -107,8 +103,6 @@ level: OBM Nível 3
 
 ![[src_obm_2002_n3_f2__q03.png]]
 
-[[Quesiti/src_obm_2002_n3_f2#q03|src_obm_2002_n3_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -133,8 +127,6 @@ level: OBM Nível 3
 *Ricerca il terzo primo più piccolo della forma n^2+5*
 
 > I due numeri primi più piccoli del formulario $n^2 + 5$ sono $6^2 + 5 = 41$ e $12^2 + 5 = 149$. Qual è il terzo primo più piccolo di questa forma?
-
-[[Quesiti/src_obm_2002_n3_f2#q04|src_obm_2002_n3_f2__Q04]]
 
 
 
@@ -169,8 +161,6 @@ level: OBM Nível 3
 > 
 > **Nota:** Un quadrilaterale è ciclico se e solo se esiste un cerchio che attraversa le sue quattro vertici.
 
-[[Quesiti/src_obm_2002_n3_f2#q05|src_obm_2002_n3_f2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -195,8 +185,6 @@ level: OBM Nível 3
 *Quadratico con due radici; prova b<0*
 
 > Si consideri l'equazione $ax^2 + bx + c = 0$, dove $a$, $b$, $c$ sono reali e $a > 0$. Supponiamo che questa equazione abbia due radici reali $r$ e $s$ tali che $0 < r < 1$ e $0 < s < 1$. Prove che $b < 0$.
-
-[[Quesiti/src_obm_2002_n3_f2#q06|src_obm_2002_n3_f2__Q06]]
 
 
 
@@ -225,8 +213,6 @@ level: OBM Nível 3
 
 > Nel triangolo $ABC$, $AD$ deve essere l'altitudine relativa a $BC$. Quanti triangoli non congruenti soddisfano $$\frac{1}{AB^2} + \frac{1}{AC^2} = \frac{1}{AD^2}$$ con $AD = 2012$ e $BD$ e $CD$ entrambi gli integri? Si noti che $AB$ e $AC$ non devono essere numeri interi.
 
-[[Quesiti/src_obm_2002_n3_f2#q07|src_obm_2002_n3_f2__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,topic_trigonometria,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -251,8 +237,6 @@ level: OBM Nível 3
 *Angolo acuto tra BF e GH in quadrato con triangoli equilaterali*
 
 > $ABCD$ sia quadrato, $E$ il punto medio del lato $BC$, $F$ il punto medio del lato $CD$. I triangoli equilaterali $ABG$ e $BEH$ sono costruiti in modo che $G$ si trovi all'interno del quadrato e $H$ si trovi al di fuori del quadrato. Determinare l'angolo acuto tra le linee $BF$ e $GH$.
-
-[[Quesiti/src_obm_2002_n3_f2#q08|src_obm_2002_n3_f2__Q08]]
 
 
 
@@ -282,5 +266,3 @@ Esmeralda vince Destroy the Triangles sul campo
 > Esmeralda e Jade, segretari dell'OBM, giocano il gioco *Destroy the Triangles*. Il gioco si svolge come segue: si inizia con una sfera e $2012$ punti su di essa; in linea di principio ogni coppia di punti è collegata da un segmento. Esmeralda e Jade cancellavano alternativamente un segmento alla volta. Il segretario che cancella l'ultimo triangolo vince la partita. Si noti che dopo che il segmento finale di un triangolo viene cancellato, quel triangolo viene distrutto anche se rimangono gli altri due segmenti (cioè i segmenti che non sono più lati di alcun triangolo possono sopravvivere alla fine).
 > 
 > Esmeralda va prima. Quale delle due segretarie ha una strategia vincente indipendentemente dal modo in cui l'avversario gioca? Giustifica la tua risposta mostrando una strategia che funziona sempre.
-
-[[Quesiti/src_obm_2002_n3_f2#q09|src_obm_2002_n3_f2__Q09]]

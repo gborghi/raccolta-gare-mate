@@ -35,7 +35,6 @@ level: kangourou
 > In a classroom where there are at least two males and two females, each boy shakes each girl's hand once. A total of 77 handshakes were made. How many students (without discriminating between males and females) are in that class?
 
 **Answer:** 18
-[[Quesiti/src_kangourou_2007_cadet_maggio#qc1|src_kangourou_2007_cadet_maggio__QC1]]
 
 
 
@@ -67,7 +66,6 @@ level: kangourou
 > The diagonals divide the quadrilateral in the figure into four triangles, three of which have the areas indicated ($2$, $3$ and $1$ respectively). What is the area of the fourth triangle (in relation to the same unit of measurement)? (see figure)
 
 **Answer:** 1,5
-[[Quesiti/src_kangourou_2007_cadet_maggio#qc2|src_kangourou_2007_cadet_maggio__QC2]]
 
 
 
@@ -96,7 +94,6 @@ level: kangourou
 > Consider the integers from $1$ to $25$ included. You want to pick a few so that the sum of any two of those you choose is not a multiple of $3$. How many numbers can you pick?
 
 **Answer:** 10
-[[Quesiti/src_kangourou_2007_cadet_maggio#qc3|src_kangourou_2007_cadet_maggio__QC3]]
 
 
 
@@ -129,7 +126,6 @@ level: kangourou
 > Is it possible to place $21$ rectangular tiles, the sides of which measure $1$ cm and $3$ cm, on a chessboard $8 \times 8$ made up of squares of side $1$ cm so that there are no tiles protruding from the grid or partially overlapping? In the case of a yes answer, show with a drawing how you would arrange the tiles; in the case of a negative answer, explain why it is not possible.
 
 **Answer:** yes
-[[Quesiti/src_kangourou_2007_cadet_maggio#qc4|src_kangourou_2007_cadet_maggio__QC4]]
 
 
 
@@ -158,7 +154,6 @@ level: kangourou
 > A megalopolis has the shape of a rectangle of $20$ km per $13$ km; it is divided into square areas of one kilometer per side. The city is crossed diagonally (hence from a vertex to the opposite vertex) by a river that we imagine to be straight and wire-shaped; it cannot be forded, so bridges are needed. The City Council has decided to build a bridge in every area crossed by the river. How many bridges do you need to build? Would it change anything if the measurements of the city were $21$ km and $12$ km? Reason your claims.
 
 **Answer:** 32 (and 30)
-[[Quesiti/src_kangourou_2007_cadet_maggio#qc5|src_kangourou_2007_cadet_maggio__QC5]]
 
 
 
@@ -187,4 +182,3 @@ Sum of the first six decimal places of 2^2007/7*
 > What is the sum of the first six digits after the decimal point of the division by $7$ of $2^{2007}$?
 
 **Answer:** 27
-[[Quesiti/src_kangourou_2007_cadet_maggio#qc6|src_kangourou_2007_cadet_maggio__QC6]]

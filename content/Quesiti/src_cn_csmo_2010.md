@@ -33,8 +33,6 @@ level: China Southeastern Mathematical Olympiad
 
 > In questo caso, si deve indicare il valore di $a$, $b$, $c \in \{0, 1, 2, \ldots, 9\}$. L'equazione quadrata $ax^2 + bx + c = 0$ ha una radice razionale. Prova che il numero a tre cifre $\overline{abc}$ non è un numero primo.
 
-[[Quesiti/src_cn_csmo_2010#q01|src_cn_csmo_2010__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_simmetria,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -59,8 +57,6 @@ level: China Southeastern Mathematical Olympiad
 *La somma dei prodotti di tutti i sottoinsiemi di 99 elementi di {1,...,2010} è divisibile per 2011*
 
 > Per ogni sottoinsieme di 99 elementi $A = \{a_1, a_2, \ldots, a_{99}\}$ di $\{1, 2, \ldots, 2010\}$, indicare $P(A) = a_1 \cdot a_2 \cdots a_{99}$. $A_1, A_2, \ldots, A_n$ siano tutti i sottoinsiemi di 99 elementi di $\{1, 2, \ldots, 2010\}$, $n = \binom{2010}{99}$. Prove che $2011 \mid \sum_{i=1}^{n} P(A_i)$.
-
-[[Quesiti/src_cn_csmo_2010#q02|src_cn_csmo_2010__Q02]]
 
 
 
@@ -91,8 +87,6 @@ level: China Southeastern Mathematical Olympiad
 
 ![[src_cn_csmo_b11_w277__q03.png]]
 
-[[Quesiti/src_cn_csmo_2010#q03|src_cn_csmo_2010__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_congruenze,skill_casework_accurato,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -117,8 +111,6 @@ level: China Southeastern Mathematical Olympiad
 *Contare buone coppie (a, b) con 1 <=a <=b <=10 e ab , a^k - b^k per qualche k*
 
 > $a$ e $b$ siano integri positivi come $1 \le a \le b \le 10$. Se esiste un intero positivo $k$ tale che $ab \mid (a^k - b^k)$, allora diciamo che la coppia $(a, b)$ è buona. Determina il numero di buone coppie.
-
-[[Quesiti/src_cn_csmo_2010#q04|src_cn_csmo_2010__Q04]]
 
 
 
@@ -149,8 +141,6 @@ level: China Southeastern Mathematical Olympiad
 
 ![[src_cn_csmo_b11_w277__q05.png]]
 
-[[Quesiti/src_cn_csmo_2010#q05|src_cn_csmo_2010__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -178,8 +168,6 @@ level: China Southeastern Mathematical Olympiad
 
 > Che $\mathbf{N}^*$ sia l'insieme di integri positivi. Definire $a_1 = 2$ e per $n = 1, 2, \ldots,$ $$a_{n+1} = \min\left\{\lambda \,\middle|\, \frac{1}{a_1} + \frac{1}{a_2} + \cdots + \frac{1}{a_n} + \frac{1}{\lambda} < 1,\ \lambda \in \mathbf{N}^*\right\}.$$ Prove che $a_{n+1} = a_n^2 - a_n + 1$ per $n = 1, 2, \ldots.$
 
-[[Quesiti/src_cn_csmo_2010#q06|src_cn_csmo_2010__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_telescoping,method_doppio_conteggio,skill_manipolazione_algebrica,skill_astrazione,skill_ragionamento_geometrico"></span>
@@ -204,8 +192,6 @@ level: China Southeastern Mathematical Olympiad
 *Doppia somma con min delle sequenze ordinate non è negativa*
 
 > $n$ sia un numero intero positivo. I numeri reali $a_1, a_2, \ldots, a_n$ e $r_1, r_2, \ldots, r_n$ sono tali che $a_1 \le a_2 \le \cdots \le a_n$ e $0 \le r_1 \le r_2 \le \cdots \le r_n$. Provare che $$\sum_{i=1}^{n} \sum_{j=1}^{n} a_i a_j \min(r_i, r_j) \ge 0.$$
-
-[[Quesiti/src_cn_csmo_2010#q07|src_cn_csmo_2010__Q07]]
 
 
 
@@ -238,4 +224,3 @@ level: China Southeastern Mathematical Olympiad
 ![[src_cn_csmo_b11_w285__q08.png]]
 
 **Risposta:** 9
-[[Quesiti/src_cn_csmo_2010#q08|src_cn_csmo_2010__Q08]]

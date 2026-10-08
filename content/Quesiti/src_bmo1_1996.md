@@ -37,8 +37,6 @@ level: BMO Round 1
 > 
 > Si noti che $M$ e $N$ sono entrambi quadrati perfetti, con cifre uguali in due posti e cifre diverse nei due posti rimanenti. Inoltre, quando le cifre differiscono, la cifra di $M$ è esattamente una maggiore della cifra corrispondente di $N$. Trova tutte le coppie di interi positivi a quattro cifre $(M, N)$ con queste proprietà.
 
-[[Quesiti/src_bmo1_1996#q01|src_bmo1_1996__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_ricorsione,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -67,8 +65,6 @@ level: BMO Round 1
 *Calcolo f(1996) da un'equazione funzionale telescopica*
 
 > Una funzione $f$ è definita sull'insieme di integri positivi e soddisfa $$f(1) = 1996$$ e $$f(1) + f(2) + \cdots + f(n) = n^2 f(n) \quad \text{for all } n > 1.$$ Calcola il valore di $f(1996)$.
-
-[[Quesiti/src_bmo1_1996#q02|src_bmo1_1996__Q02]]
 
 
 
@@ -99,8 +95,6 @@ level: BMO Round 1
 > 
 > (Per qualsiasi triangolo $XYZ$, il suo **circumcentro** è il centro del cerchio che attraversa i vertici $X$, $Y$ e $Z$.)
 
-[[Quesiti/src_bmo1_1996#q03|src_bmo1_1996__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -129,8 +123,6 @@ level: BMO Round 1
 > Per un intero positivo $n$, $g(n)$ indica il numero di coppie di integri $(a, b)$ con $a \ge 1$, $b \ge 1$ e $\left\lfloor \dfrac{n}{a} \right\rfloor = b$.
 > 
 > Determinare tutti i $n$ per i quali $g(n) = n + 1$.
-
-[[Quesiti/src_bmo1_1996#q04|src_bmo1_1996__Q04]]
 
 
 
@@ -164,5 +156,3 @@ level: BMO Round 1
 > (i) Dimostra che $4(a^3 + b^3) \ge (a + b)^3$.
 > 
 > (ii) Dimostra che $9(a^3 + b^3 + c^3) \ge (a + b + c)^3$.
-
-[[Quesiti/src_bmo1_1996#q05|src_bmo1_1996__Q05]]

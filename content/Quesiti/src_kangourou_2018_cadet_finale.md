@@ -39,7 +39,6 @@ level: kangourou
 > A gear consists of three toothed wheels $A$, $B$ and $C$. $A$ has 16 teeth, $B$ has 20 and $C$ has 30. As the figure suggests, $B$ is in contact with both $A$ and $C$ (i.e. the teeth of $B$ mesh with both those of $A$ and those of $C$), but $A$ is not in contact with $C$. Every wheel has a mark. At this moment the gear is set in motion: how many turns does the $B$ wheel have to make before all three marks return to their current position simultaneously for the first time? (see figure)
 
 **Answer:** 12
-[[Quesiti/src_kangourou_2018_cadet_finale#qc1|src_kangourou_2018_cadet_finale__QC1]]
 
 
 
@@ -67,7 +66,6 @@ level: kangourou
 > Eugenio works as a warehouse keeper. He knows that tomorrow some growers will each bring him the same number of crates of apples and that he will have to distribute the crates among 7 vans, so that all the vans travel with the same number of crates. The number of growers equals the number of crates that each grower will bring him. Eugenio knows that if, after he has distributed as many crates as possible among the 7 vans, some crates remain, he can keep them for himself. How many crates could he at most happen to keep for himself?
 
 **Answer:** 4
-[[Quesiti/src_kangourou_2018_cadet_finale#qc2|src_kangourou_2018_cadet_finale__QC2]]
 
 
 
@@ -96,7 +94,6 @@ level: kangourou
 > There's exactly a million cars in Kanglandia. Their plates, all different from each other, have six digits: the numbers are therefore between $000000$ and $999999$. For each car the digits of the plate are added and the cars are divided into groups so that all the cars in the same group provide the same sum and different groups are related to different sums. How many cars do the six smallest groups have in total?
 
 **Answer:** 56
-[[Quesiti/src_kangourou_2018_cadet_finale#qc3|src_kangourou_2018_cadet_finale__QC3]]
 
 
 
@@ -125,7 +122,6 @@ level: kangourou
 > Antonia and Luca bet the sum of 8 euros on heads or tails, tossing a fair coin. They decide that the sum will be pocketed by the first of them who has 6 tosses in their favor. When they are on the score of 5 for Antonia and 3 for Luca, however, they are forced to stop the game and discuss how to split the 8 euros (which no one has won so far). What is the fair way to divide them (i.e. the way that takes into account the probability of victory that each of the two has at the time of the interruption)?
 
 **Answer:** 7 and 1
-[[Quesiti/src_kangourou_2018_cadet_finale#qc4|src_kangourou_2018_cadet_finale__QC4]]
 
 
 
@@ -153,7 +149,6 @@ level: kangourou
 > From a standard 52-card deck, Chiara discarded some cards, making sure all four aces remained in the remaining deck. Now extract four cards randomly from this narrow deck. If the probability of extracting exactly the four aces is $\dfrac{1}{1001}$, how many cards did you throw away?
 
 **Answer:** 38
-[[Quesiti/src_kangourou_2018_cadet_finale#qc5|src_kangourou_2018_cadet_finale__QC5]]
 
 
 
@@ -240,4 +235,3 @@ level: kangourou
 > In the figure you can see a regular pentagon of which four diagonal lines have been drawn which identify two shaded regions $A$ and $B$. Express the area of $B$ depending on the area of $A$. (see figure)
 
 **Answer:** double of A
-[[Quesiti/src_kangourou_2018_cadet_finale#qc6|src_kangourou_2018_cadet_finale__QC6]]

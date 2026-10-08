@@ -33,8 +33,6 @@ level: BMO Round 1
 
 > Un *ramp* è una sequenza di tre diversi integri positivi $a, b, c$ in modo tale che $a$ è un fattore di $b$ e $b$ è un fattore di $c$. Per ogni numero primo $p$ e per ogni numero intero positivo $n$, determinare con prova se $p^n$ può essere espresso come la somma di una rampa.
 
-[[Quesiti/src_bmo1_2026#q01|src_bmo1_2026__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_simmetria,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -60,8 +58,6 @@ level: BMO Round 1
 *Ricerca tutti i tripli reali che soddisfano tre equazioni simmetriche*
 
 > Trova tutti i triples $(x, y, z)$ dei numeri reali che soddisfano le equazioni $$x^2 + 2yz = 4, \quad y^2 + 2zx = 4, \quad z^2 + 2xy = 1.$$
-
-[[Quesiti/src_bmo1_2026#q02|src_bmo1_2026__Q02]]
 
 
 
@@ -96,8 +92,6 @@ level: BMO Round 1
 > 
 > Quanti modi si possono fare?
 
-[[Quesiti/src_bmo1_2026#q03|src_bmo1_2026__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -126,8 +120,6 @@ level: BMO Round 1
 > Il $ABC$ deve essere un triangolo acuto con $AB > AC$. $M$ sia il punto medio di $BC$. Il cerchio che attraversa $M$ che è tangente a $AB$ a $B$ e il cerchio che attraversa $M$ che è tangente a $AC$ a $C$ si incrociano di nuovo a $D$.
 > 
 > Prove che $MA \times MD = MB \times MC$.
-
-[[Quesiti/src_bmo1_2026#q04|src_bmo1_2026__Q04]]
 
 
 
@@ -163,8 +155,6 @@ level: BMO Round 1
 > George definisce una sequenza di integri positivi $t_1, t_2, t_3, \ldots$ come segue.
 > 
 > In primo luogo impone $t_1 = 1$. Quindi, per $n \ge 1$: \begin{itemize} \item Se $t_n$ è pari, allora $t_{n+1} = t_n / 2$. \item Se $t_n$ è pari e superiore a 1, allora $t_{n+1} = t_n / 3$ arrotondato al numero intero più vicino. \item Se $t_n = 1$, allora $t_{n+1} = 2025k$ dove $k$ è il numero di termini uguali a $1$ tra $t_1, t_2, \ldots, t_n$. Questa sequenza contiene ogni intero positivo?
-
-[[Quesiti/src_bmo1_2026#q05|src_bmo1_2026__Q05]]
 
 
 
@@ -206,5 +196,3 @@ level: BMO Round 1
 > (ii) Salta al lampadino $k + 3$ o $k - 3$ purché questo lampadino non sia occupato e le due lampadine saltate siano entrambe occupate. Quando questo accade, le due rane che sono state saltate si immergono nel lago e non partecipano a ulteriori mosse.
 > 
 > Per quali valori di $n$ è possibile, mediante una sequenza di mosse, concludere con esattamente una rana rimasta sui pad del lilio?
-
-[[Quesiti/src_bmo1_2026#q06|src_bmo1_2026__Q06]]

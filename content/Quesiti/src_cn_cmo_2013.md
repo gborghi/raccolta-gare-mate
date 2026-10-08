@@ -45,8 +45,6 @@ level: China Mathematical Olympiad
 
 ![[src_cn_cmo_b11_w109__q01.png]]
 
-[[Quesiti/src_cn_cmo_2013#q01|src_cn_cmo_2013__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_insiemi_funzioni,method_invarianti,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -71,8 +69,6 @@ level: China Mathematical Olympiad
 *Ricerca tutti gli insiemi di numeri interi S chiusi sotto 3m-2n*
 
 > Trovare tutti gli insiemi non vuoti $S$ di numeri interi tali da $3m - 2n \in S$ per tutti (non necessariamente distinti) $m, n \in S$.
-
-[[Quesiti/src_cn_cmo_2013#q02|src_cn_cmo_2013__Q02]]
 
 
 
@@ -103,7 +99,6 @@ level: China Mathematical Olympiad
 > Trova tutti i numeri reali positivi $t$ con la proprietà che esiste un insieme infinito $X$ di numeri reali in modo tale che l'ineguaglianza $$\max\{\,|x - (a - d)|,\ |y - a|,\ |z - (a + d)|\,\} > td$$ si applique a tutti (non necessariamente distinti) $x, y, z \in X$, tutti i numeri reali $a$ e tutti i numeri reali positivi $d$.
 
 **Risposta:** $0 < t < \frac{1}{2}$
-[[Quesiti/src_cn_cmo_2013#q03|src_cn_cmo_2013__Q03]]
 
 
 
@@ -138,8 +133,6 @@ level: China Mathematical Olympiad
 > 
 > (Qui $|X|$ indica il numero di elementi di un insieme finito $X$ e $X \Delta Y = \{a \mid a \in X,\, a \notin Y\} \cup \{a \mid a \in Y,\, a \notin X\}$ per qualsiasi insieme $X$ e $Y$.)
 
-[[Quesiti/src_cn_cmo_2013#q04|src_cn_cmo_2013__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
@@ -166,8 +159,6 @@ level: China Mathematical Olympiad
 *Prova la divisibilità dei trasferimenti di polinomi con coefficiente binario a tutte le basi*
 
 > Per ogni intero positivo $n$ e per ogni intero $i$ $(0 \leq i \leq n)$, $C_n^i \equiv c(n, i) \pmod{2}$, dove $c(n, i) \in \{0, 1\}$, e definire $$f(n, q) = \sum_{i=0}^{n} c(n, i)\,q^i.$$, $m$, $n$ e $q$ siano interi positivi con $q + 1$ non una potenza di $2$. Supponiamo che $f(m, q) \mid f(n, q)$. Prova che $f(m, r) \mid f(n, r)$ per ogni intero positivo $r$.
-
-[[Quesiti/src_cn_cmo_2013#q05|src_cn_cmo_2013__Q05]]
 
 
 
@@ -197,8 +188,7 @@ level: China Mathematical Olympiad
 
 > Per qualsiasi numero intero $n$ con $n>1$, $n=p_1^{\alpha_1}p_2^{\alpha_2}\cdots p_s^{\alpha_s}$ sia la sua fattorizzazione standard; scrivere $\omega(n)=\alpha_1+\alpha_2+\cdots+\alpha_s$. Provare o respingere la seguente affermazione: dato qualsiasi numero intero positivo $k$ e qualsiasi numero reale positivo $\alpha$ e $\beta$, esiste un numero intero positivo $n$ con $n>1$ tale che $\dfrac{\omega(n+k)}{\omega(n)}<\alpha$ e $\dfrac{\omega(n+k)}{\omega(n)}>\beta$.
 
-**Risposta:** The statement is true (YES).
-[[Quesiti/src_cn_cmo_2013#q06|src_cn_cmo_2013__Q06]]
+**Risposta:** L'affermazione è vera (SÌ).
 
 
 
@@ -232,7 +222,6 @@ level: China Mathematical Olympiad
 > Dato $X=\{1,2,\ldots,100\}$, consideri le funzioni $f:X\to X$ che soddisfano le seguenti condizioni: (1) $f(x)\ne x$ per tutti $x\in X$; (2) per qualsiasi insieme $A\subseteq X$ con $|A|=40$, abbiamo $A\cap f(A)\ne\varnothing$. Trova il più piccolo intero positivo $k$ in modo che per qualsiasi funzione $f$ esista un insieme $B\subseteq X$ che soddisfa $|B|=k$ e $B\cup f(B)=X$.
 
 **Risposta:** 69
-[[Quesiti/src_cn_cmo_2013#q07|src_cn_cmo_2013__Q07]]
 
 
 
@@ -262,5 +251,3 @@ level: China Mathematical Olympiad
 *Sottoinsiemi non vuoti A,B di {1,...,n}; un sottoinsieme D di A+B con D+D in 2(A+B) e |D| almeno |A||B|/(2n)*
 
 > Che $n$ sia un intero positivo e $A$, $B$ siano sottosette non vuote di $\{1,2,\ldots,n\}$. Prove che esiste un sottogruppo $D$ di $A+B$ tale che $$D+D\subseteq 2(A+B), \quad \text{and} \quad |D|\ge\frac{|A|\cdot|B|}{2n},$$ in cui $|X|$ indica il numero di elementi di un insieme finito $X$.
-
-[[Quesiti/src_cn_cmo_2013#q08|src_cn_cmo_2013__Q08]]

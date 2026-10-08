@@ -48,7 +48,6 @@ level: biennio
 > - **(E)** 360.
 
 **Answer:** A
-[[Quesiti/src_archimede_2011_biennio#q01|src_archimede_2011_biennio__Q01]]
 
 
 
@@ -90,7 +89,6 @@ level: biennio
 > - **(E)** None of the above statements are certainly true.
 
 **Answer:** B
-[[Quesiti/src_archimede_2011_biennio#q02|src_archimede_2011_biennio__Q02]]
 
 
 
@@ -139,7 +137,6 @@ level: biennio
 > - **(E)** 21.
 
 **Answer:** B
-[[Quesiti/src_archimede_2011_biennio#q03|src_archimede_2011_biennio__Q03]]
 
 
 
@@ -180,7 +177,6 @@ level: biennio
 > - **(E)** 2012.
 
 **Answer:** E
-[[Quesiti/src_archimede_2011_biennio#q04|src_archimede_2011_biennio__Q04]]
 
 
 
@@ -226,7 +222,6 @@ level: biennio
 > - **(E)** 15.
 
 **Answer:** C
-[[Quesiti/src_archimede_2011_biennio#q05|src_archimede_2011_biennio__Q05]]
 
 
 
@@ -269,7 +264,6 @@ level: biennio
 > - **(E)** 3 cm2.
 
 **Answer:** E
-[[Quesiti/src_archimede_2011_biennio#q06|src_archimede_2011_biennio__Q06]]
 
 
 
@@ -314,7 +308,6 @@ level: biennio
 > - **(E)** 1000.
 
 **Answer:** E
-[[Quesiti/src_archimede_2011_biennio#q07|src_archimede_2011_biennio__Q07]]
 
 
 
@@ -358,7 +351,6 @@ level: biennio
 > - **(E)** 88.
 
 **Answer:** C
-[[Quesiti/src_archimede_2011_biennio#q08|src_archimede_2011_biennio__Q08]]
 
 
 
@@ -404,7 +396,6 @@ level: biennio
 > - **(E)** 80.
 
 **Answer:** D
-[[Quesiti/src_archimede_2011_biennio#q09|src_archimede_2011_biennio__Q09]]
 
 
 
@@ -446,7 +437,6 @@ level: biennio
 > - **(E)** At least five.
 
 **Answer:** A
-[[Quesiti/src_archimede_2011_biennio#q10|src_archimede_2011_biennio__Q10]]
 
 
 
@@ -497,7 +487,6 @@ level: biennio
 > - **(E)** 4.
 
 **Answer:** C
-[[Quesiti/src_archimede_2011_biennio#q11|src_archimede_2011_biennio__Q11]]
 
 
 
@@ -544,7 +533,6 @@ level: biennio
 > - **(E)** More than eight.
 
 **Answer:** D
-[[Quesiti/src_archimede_2011_biennio#q12|src_archimede_2011_biennio__Q12]]
 
 
 
@@ -588,7 +576,6 @@ level: biennio
 > - **(E)** It can end in any number.
 
 **Answer:** A
-[[Quesiti/src_archimede_2011_biennio#q13|src_archimede_2011_biennio__Q13]]
 
 
 
@@ -633,7 +620,6 @@ level: biennio
 > - **(E)** the data are not sufficient to determine this.
 
 **Answer:** B
-[[Quesiti/src_archimede_2011_biennio#q14|src_archimede_2011_biennio__Q14]]
 
 
 
@@ -679,7 +665,6 @@ Final figures after 12 square iterations plus 5
 > - **(E)** None of the previous ones.
 
 **Answer:** C
-[[Quesiti/src_archimede_2011_biennio#q15|src_archimede_2011_biennio__Q15]]
 
 
 
@@ -722,7 +707,6 @@ Final figures after 12 square iterations plus 5
 > - **(E)** 9 4.
 
 **Answer:** B
-[[Quesiti/src_archimede_2011_biennio#q16|src_archimede_2011_biennio__Q16]]
 
 
 
@@ -764,7 +748,6 @@ Final figures after 12 square iterations plus 5
 > - **(E)** b < 2 e c < a.
 
 **Answer:** C
-[[Quesiti/src_archimede_2011_biennio#q17|src_archimede_2011_biennio__Q17]]
 
 
 
@@ -809,7 +792,6 @@ Final figures after 12 square iterations plus 5
 > - **(E)** 46.
 
 **Answer:** D
-[[Quesiti/src_archimede_2011_biennio#q18|src_archimede_2011_biennio__Q18]]
 
 
 
@@ -851,7 +833,6 @@ Final figures after 12 square iterations plus 5
 > - **(E)** 16.
 
 **Answer:** D
-[[Quesiti/src_archimede_2011_biennio#q19|src_archimede_2011_biennio__Q19]]
 
 
 
@@ -893,4 +874,3 @@ Final figures after 12 square iterations plus 5
 > - **(E)** 12 cm. 21) A tournament has 20 participants. In each round, two of the participants still in the competition are drawn, and they play one match. Each contestant who has been defeated twice is eliminated and the last remaining contestant wins. Knowing the winner never lost, how many games were played in all? (A) 19, (B) 38, (C) 40, (D) 380, (E) there are not enough data. 22) The square ABCD is drawn on a sheet. The sheet is folded (along a straight line) so that B coincides with the mean point of DC. The side BC is divided by the bend into two segments of lengths a and b, with a ≤b. How much is a b/a? (A) 2, (B) 1, (C) 5/3, (D) 25/9, (E) √ 5/2. 23) The police are investigating a robbery. The five suspects, including the culprit and perhaps some accomplices, said: A: B is guilty. D is one of the accomplices. B:E is innocent. A is one of the accomplices. C: E is the culprit. D is innocent.  D:  The culprit is actually E. A was his accomplice.  E: A was one of the accomplices. C is the culprit. Knowing that the culprit lies about everything, the possible accomplices, out of fear, make a statement that is true and false and the innocent people, finally, always tell the truth, how many accomplices? (A) 0, (B) 1, (C) 2, (D) 3, (E) is impossible to determine. 24) We have a sequence of 2011 numbers, of which we indicate with an the term n-eighth. Knowing that a1 = 1, and that for every n ≥2, an = an−1(3n + 1), find the last four digits of the term a2011. (A) 0000, (B) 3400, (C) 6000, (D) 6031, (E) 6034. 25) King Tal of Tali is located in the center of a chessboard with three rows and three columns. How many distinct paths of 3 moves can King Tal of the Tals make inside the chessboard ? [When he makes a move, the king moves into any of the boxes that have at least one vertex in common with the box in which he is.] (A) 36, (B) 54, (C) 84, (D) 121, (E) 168.
 
 **Answer:** E
-[[Quesiti/src_archimede_2011_biennio#q20|src_archimede_2011_biennio__Q20]]

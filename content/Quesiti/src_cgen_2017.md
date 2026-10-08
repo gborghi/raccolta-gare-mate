@@ -140,8 +140,6 @@ level: Concours Général
 >
 > \textbf{6.} Quali sono i possibili valori di $b(\mathscr{A})$?
 
-[[Quesiti/src_cgen_2017#q01|src_cgen_2017__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_probabilita,topic_combinatoria,method_casework,method_conteggio,skill_modellizzazione,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -216,8 +214,6 @@ level: Concours Général
 > Per qualsiasi numero intero $k$ tale da $1 \le k \le 25$, indichiamo con $P_k$ la probabilità che Franck passi l'esame rispondendo alle prime domande $26 + k$. [Nota: l'intervallo esatto dell'indice e la formulazione "26+k" sono parzialmente leggibili nella fonte.]
 > 
 > \textbf{1.} Prova che, per qualsiasi numero intero $k$ che verifica $1 \le k \le 13$, si ha $P_{2k-1} \ge P_{2k}$. \textbf{2.} Dimostra che, per qualsiasi intero $k$ verificando $0 \le k \le 12$, si ha $$P_{2k+1} = \sum_{j=k+1}^{2k+1} \binom{2k+1}{j} p^j (1-p)^{2k+1-j}.$$ \textbf{3.} Dimostra che, per qualsiasi intero $k$ verificando $0 \le k \le 11$, si ha $$P_{2k+3} - P_{2k+1} = \binom{2k+1}{k+1} p^{k+1}(1-p)^{k+1} (\,p - (1-p)\,).$$ Si può liberamente utilizzare l'identità di Pascal: per $0 < m < n$, $\binom{n}{m} = \binom{n-1}{m} + \binom{n-1}{m-1}$. [Nota: il lato destro preciso della formula di 2.2.3 è parzialmente illeggibile nella fonte.] \textbf{4.} Determinare, in base al valore di $p$, la strategia migliore per Franck.
-
-[[Quesiti/src_cgen_2017#q02|src_cgen_2017__Q02]]
 
 
 
@@ -307,5 +303,3 @@ level: Concours Général
 > Indichiamo con $k \ge 1$ un intero positivo che è libero dal quadrato, cioè $k$ è $1$ o si decompone in un prodotto di numeri primi separati in coppia.
 > 
 > \textbf{1.} Determina un triangolo equilaterale le cui vertici sono punti interi dello spazio $\mathscr{E}$. \textbf{2.} $T$ sia un triangolo le cui tre cime sono punti interi di $\mathscr{E}$. \textbf{a.} Prova che, per qualsiasi angolo non retto $\theta$ di $T$, il numero $\tan^2(\theta)$ è razionale. \textbf{b.} Prova che esiste un intero unico $k \ge 1$, libero da quadrati, in modo che per qualsiasi angolo $\theta$ di $T$, il numero $\tan(\theta)$ possa essere scritto nella forma $r\sqrt{k}$, dove $r$ è un numero razionale non zero. \textbf{c.} Usando la domanda \textbf{1.}, dimostrare che esistono integri $a_1, a_2, a_3, u_1, u_2$ e $u_3$, non tutti zero, soddisfacendo il sistema $$E(k,k) \;:\; \begin{cases} k\,(a_1^2 + a_2^2 + a_3^2) = u_1^2 + u_2^2 + u_3^2 \\ a_1 u_1 + a_2 u_2 + a_3 u_3 = 0 \end{cases}$$ (Ricorda: l'intero $k$ è quello trovato in questione \textbf{2.b.}) [Nota: la forma esatta del sistema $E(\cdot,\cdot)$ e i suoi parametri sono parzialmente ricostruiti da una fonte parzialmente illeggibile.] \textbf{3.} $k$ sia un intero a quadrato libero strettamente positivo. Supponiamo che esistano integri $a_1, a_2, a_3, u_1, u_2$ e $u_3$, non tutti zero, che soddisfano il sistema $E(3,k)$. $T$ sia un triangolo dello spazio $\mathscr{E}$. Supponiamo che, per qualsiasi angolo non retto $\theta$ di $T$, il numero $\tan(\theta)$ possa essere scritto nella forma $r\sqrt{k}$, dove $r$ è un numero razionale non zero. Mostrare che esiste un triangolo le cui tre vertici sono numeri interi e che hanno gli stessi angoli di $T$. - Sì, signore. a.} Il $T$ deve essere un triangolo a uguali dimensioni dello spazio $\mathscr{E}$ i cui lati sono di lunghezza $3$, $3$ e $2$. C'è un triangolo dello spazio $\mathscr{E}$ le cui tre vertici sono numeri interi e hanno gli stessi angoli di $T$? \textbf{b.} $T$ sia un triangolo a uguali dimensioni dello spazio $\mathscr{E}$ i cui lati sono di lunghezza $2$, $2$ e $3$. C'è un triangolo dello spazio $\mathscr{E}$ le cui tre vertici sono numeri interi e hanno gli stessi angoli di $T$? \textit{Rimarca:} Si può liberamente utilizzare la seguente identità, valida per tutti i veri $a$, $b$, $c$, $d$, $e$ e $f$: $$(a^2 + b^2 + c^2)(d^2 + e^2 + f^2) - (ad + be + cf)^2 = (ae - bd)^2 + (af - cd)^2 + (bf - ce)^2.$$
-
-[[Quesiti/src_cgen_2017#q03|src_cgen_2017__Q03]]

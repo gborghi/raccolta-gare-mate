@@ -41,8 +41,6 @@ level: OBM Nível 1
 > 
 > b) Qual è il numero quadrato più grande senza numeri ripetuti?
 
-[[Quesiti/src_obm_2021_n1_fx#q01|src_obm_2021_n1_fx__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -67,8 +65,6 @@ level: OBM Nível 1
 *Contare triples di numeri interi positivi con condizioni di divisibilità*
 
 > Quanti triples di integri positivi $(a, b, c)$ con $a < b < c$ sono tali che $a$ sia un divisore di $b$, $b$ sia un divisore di $c$ e $a + b + c \le 20$?
-
-[[Quesiti/src_obm_2021_n1_fx#q02|src_obm_2021_n1_fx__Q02]]
 
 
 
@@ -111,8 +107,6 @@ level: OBM Nível 1
 
 ![[src_obm_2021_n1_fx__q03.png]]
 
-[[Quesiti/src_obm_2021_n1_fx#q03|src_obm_2021_n1_fx__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_congruenze,method_invarianti,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -153,8 +147,6 @@ level: OBM Nível 1
 > b) Scrivere le fatturazioni prime dei numeri elencati nella voce precedente.
 > 
 > c) Dopo che tutti gli studenti del 2021 sono passati, quanti armadietti sono aperti?
-
-[[Quesiti/src_obm_2021_n1_fx#q04|src_obm_2021_n1_fx__Q04]]
 
 
 
@@ -204,5 +196,3 @@ level: OBM Nível 1
 > a) Per $n = 3$, qual è il numero minimo di volte che occorre premere i pulsanti $C$, 1, 2 e 3 per garantire l'apertura della cassaforte?
 > 
 > b) Per $n = 4$, qual è il numero minimo di volte che è necessario premere i pulsanti $C$, 1, 2, 3 e 4 per garantire l'apertura della cassaforte?
-
-[[Quesiti/src_obm_2021_n1_fx#q05|src_obm_2021_n1_fx__Q05]]

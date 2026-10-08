@@ -35,8 +35,6 @@ level: BMO Round 2
 
 > Per ogni numero intero $n > 1$, $p(n)$ indica il più grande fattore primo di $n$. Determinare tutti i triples $(x, y, z)$ di numeri interi positivi distinti che soddisfano: (i) $x, y, z$ sono in progressione aritmetica e (ii) $p(x), p(y), p(z)$ sono in progressione aritmetica.
 
-[[Quesiti/src_bmo_2002-03_round2#q01|src_bmo_2002-03_round2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_disuguaglianze,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -61,8 +59,6 @@ level: BMO Round 2
 *Bisettore angolo triangolo incontra la media, prova angolo inferiore a 90 gradi*
 
 > Lasciate che $ABC$ sia un triangolo. $D$ sia il punto medio di $BC$. Il bisettore angolare di $\angle BAC$ incontra $BC$ a $E$. Prove che $\angle AED < 90^\circ$ se $AB > AC$.
-
-[[Quesiti/src_bmo_2002-03_round2#q02|src_bmo_2002-03_round2__Q02]]
 
 
 
@@ -96,8 +92,6 @@ level: BMO Round 2
 > 
 > (i) Mostra che vi è una progressione aritmetica di integri positivi $a, a+d, a+2d$ (dove $d > 0$) tale che $$f(a) < f(a+d) < f(a+2d).$$ (ii) Deve esserci una progressione aritmetica $a, a+d, a+2d, \ldots, a+2003d$ (dove $d > 0$) tale che $$f(a) < f(a+d) < f(a+2d) < \cdots < f(a+2003d)?$$
 
-[[Quesiti/src_bmo_2002-03_round2#q03|src_bmo_2002-03_round2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_insiemi_funzioni,topic_aritmetica,method_invarianti,method_fattorizzazione,method_casework,skill_astrazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
@@ -122,5 +116,3 @@ level: BMO Round 2
 *Valutazioni di conteggio inferiori al 2003 nell'immagine di f con f(f(n))=n+2003*
 
 > Let $f$ essere una funzione da $\mathbb{N}$ a $\mathbb{N}$ (dove $\mathbb{N}$ indica l'insieme di interi positivi) tale che $f(f(n)) = n + 2003$ per tutti $n \in \mathbb{N}$. Quanti valori inferiori a $2003$ ci sono nell'immagine di $f$?
-
-[[Quesiti/src_bmo_2002-03_round2#q04|src_bmo_2002-03_round2__Q04]]

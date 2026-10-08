@@ -36,8 +36,6 @@ level: BMO Round 1
 
 > Trova il valore di $$\frac{1^4 + 2007^4 + 2008^4}{1^2 + 2007^2 + 2008^2}.$$
 
-[[Quesiti/src_bmo_2007-08_round1#q01|src_bmo_2007-08_round1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato"></span>
@@ -67,8 +65,6 @@ level: BMO Round 1
 
 > Trova tutte le soluzioni in numeri interi positivi $x$, $y$, $z$ alle equazioni simultanee $$x + y - z = 12,$$ $$x^2 + y^2 - z^2 = 12.$$
 
-[[Quesiti/src_bmo_2007-08_round1#q02|src_bmo_2007-08_round1__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -94,8 +90,6 @@ level: BMO Round 1
 *Diametro e perpendicolari in un cerchio; prova LS = LT*
 
 > $ABC$ sia un triangolo, con un angolo obtuso a $A$. Il $Q$ deve essere un punto (diversi da $A$, $B$ o $C$) sul cerchio attraverso $A$, $B$ e $C$, sullo stesso lato dell'accordo $BC$ come $A$, e il $P$ deve essere l'altra estremità del diametro attraverso $Q$. Le perpendicolari da $Q$ a $CA$ e $AB$ soddisfano rispettivamente la linea $PA$ a $S$ e $T$. Il piede della perpendicolare da $P$ alla linea $BC$ è $L$. Mostra che $LS = LT$.
-
-[[Quesiti/src_bmo_2007-08_round1#q03|src_bmo_2007-08_round1__Q03]]
 
 
 
@@ -123,8 +117,6 @@ level: BMO Round 1
 *Mostra che un'espressione di un dato numero intero è un quadrato perfetto*
 
 > $n$ sia un numero intero. Mostrare che, se $2 + 2\sqrt{1 + 12n^2}$ è un intero, allora è un quadrato perfetto.
-
-[[Quesiti/src_bmo_2007-08_round1#q04|src_bmo_2007-08_round1__Q04]]
 
 
 
@@ -157,8 +149,6 @@ level: BMO Round 1
 *Punto interno del triangolo; dimostrare un'uguaglianza sinusoide*
 
 > $P$ sia un punto interno del triangolo $ABC$ e $\alpha$, $\beta$, $\gamma$ siano definiti da $$\alpha = \angle BPC - \angle BAC,$$ $$\beta = \angle CPA - \angle CBA,$$ $$\gamma = \angle APB - \angle ACB.$$ Dimostra che $$PA \cdot \frac{\sin \angle BAC}{\sin \alpha} = PB \cdot \frac{\sin \angle CBA}{\sin \beta} = PC \cdot \frac{\sin \angle ACB}{\sin \gamma}.$$
-
-[[Quesiti/src_bmo_2007-08_round1#q05|src_bmo_2007-08_round1__Q05]]
 
 
 
@@ -193,5 +183,3 @@ level: BMO Round 1
 > La funzione $f$ è definita sull'insieme di integri positivi da $f(1) = 1$, $f(2) = 2$ e $$f(n+1) = (1 + (2n + 1)f(n))f(n-1)$$ per $n \geq 2$.
 > 
 > (i) dimostrare che $f(n)$ è sempre un numero intero. (ii) Per quanti integri positivi $2007$ è $f(n) = 2n$?
-
-[[Quesiti/src_bmo_2007-08_round1#q06|src_bmo_2007-08_round1__Q06]]

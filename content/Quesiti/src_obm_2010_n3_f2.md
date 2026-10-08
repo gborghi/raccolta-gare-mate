@@ -33,8 +33,6 @@ level: OBM Nível 3
 
 > Che $N$ sia il numero intero positivo più piccolo in modo tale che moltiplicando $N$ per $3$ si ottiene un numero il cui numero è uguale a $7$. Determinare la somma delle cifre di $N$.
 
-[[Quesiti/src_obm_2010_n3_f2#q01|src_obm_2010_n3_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -61,8 +59,6 @@ level: OBM Nível 3
 *Integro quadratico con parametri r,s; contare i possibili valori di ̊r-s>*
 
 > $r$ e $s$ siano numeri interi. Supponiamo che l'equazione del secondo grado $$x^2 - (r+s)x + rs + 2010 = 0$$ abbia due soluzioni integrali. Quanti valori possibili ha $|r - s|$?
-
-[[Quesiti/src_obm_2010_n3_f2#q02|src_obm_2010_n3_f2__Q02]]
 
 
 
@@ -93,8 +89,6 @@ level: OBM Nível 3
 
 ![[src_obm_2010_n3_f2__q03.png]]
 
-[[Quesiti/src_obm_2010_n3_f2#q03|src_obm_2010_n3_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_casework,method_conteggio,method_inclusione_esclusione,skill_conteggio_sistematico,skill_casework_accurato,skill_manipolazione_algebrica"></span>
@@ -119,8 +113,6 @@ level: OBM Nível 3
 *2×4 griglie dipinte con 3 colori; contare le pitture con esattamente una colonna tagliata*
 
 > Ciascuna delle otto celle di un rettangolo di colonna $2$ riga, $4$ è dipinta con uno dei tre colori. Una colonna si chiama \emph{cut} se le sue due celle sono dello stesso colore. In quanti modi è possibile dipingere il rettangolo in modo che ci sia esattamente un solo taglio?
-
-[[Quesiti/src_obm_2010_n3_f2#q04|src_obm_2010_n3_f2__Q04]]
 
 
 
@@ -148,8 +140,6 @@ level: OBM Nível 3
 
 > Calcolo $$\frac{(2^4+2^2+1)(4^4+4^2+1)(6^4+6^2+1)\cdots(32^4+32^2+1)}{(1^4+1^2+1)(3^4+3^2+1)(5^4+5^2+1)\cdots(31^4+31^2+1)}.$$
 
-[[Quesiti/src_obm_2010_n3_f2#q05|src_obm_2010_n3_f2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -175,8 +165,6 @@ level: OBM Nível 3
 
 > I bisettori di angolo interno $\hat{A}$ e $\hat{C}$ del triangolo $ABC$ si incontrano al punto $I$. Supponiamo che $AI = BC$ e $m(\angle ICA) = 2\,m(\angle IAC)$. Determinare la misura dell'angolo $\angle ABC$.
 
-[[Quesiti/src_obm_2010_n3_f2#q06|src_obm_2010_n3_f2__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_ricorsione,method_conteggio,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_modellizzazione"></span>
@@ -201,8 +189,6 @@ level: OBM Nível 3
 L'orario di calcio di Diamantino: quanti modi per scegliere 2 dei 10 giorni evitando due consecutivi
 
 > A Diamantino piace giocare a calcio, ma se gioca due giorni di fila, gli fanno male i muscoli. In quanti modi può Diamantino scegliere quale di dieci giorni giocherà a calcio in modo che dopo aver giocato non abbia dolore muscolare? (Un modo è non giocare a calcio in nessuno dei giorni.)
-
-[[Quesiti/src_obm_2010_n3_f2#q07|src_obm_2010_n3_f2__Q07]]
 
 
 
@@ -230,8 +216,6 @@ L'orario di calcio di Diamantino: quanti modi per scegliere 2 dei 10 giorni evit
 *Solvi sistema di numeri interi x+y+z=77, xy+yz+2x+xyz=946 con x≤y≤z non negativo*
 
 > Risolvere il sistema $$\begin{cases} x + y + z = 77 \\ xy + yz + 2x + xyz = 946 \end{cases}$$ dove $x \le y \le z$ sono integri non negativi.
-
-[[Quesiti/src_obm_2010_n3_f2#q08|src_obm_2010_n3_f2__Q08]]
 
 
 
@@ -269,5 +253,3 @@ L'orario di calcio di Diamantino: quanti modi per scegliere 2 dei 10 giorni evit
 > \emph{Osservazione}: Quando la palla colpisce i lati, subisce una perfetta riflessione, cioè l'angolo di incidenza è uguale all'angolo di riflessione. Supponiamo anche che la palla sia un punto.
 
 ![[src_obm_2010_n3_f2__q09.png]]
-
-[[Quesiti/src_obm_2010_n3_f2#q09|src_obm_2010_n3_f2__Q09]]

@@ -47,7 +47,6 @@ Qual è il numero primo di 2017-2, 2017-1, 2017, 2017+1, 2017+2?
 > - **(E)** $2017 + 2$
 
 **Risposta:** C
-[[Quesiti/src_smc_2017#q01|src_smc_2017__Q01]]
 
 
 
@@ -91,7 +90,6 @@ Vermi terrestri Dave: lunghezza 40 cm, massa 26 g. Trova la massa per unità di 
 > - **(E)** $1.75$ g/cm
 
 **Risposta:** B
-[[Quesiti/src_smc_2017#q02|src_smc_2017__Q02]]
 
 
 
@@ -136,7 +134,6 @@ Vermi terrestri Dave: lunghezza 40 cm, massa 26 g. Trova la massa per unità di 
 > - **(E)** $14$
 
 **Risposta:** E
-[[Quesiti/src_smc_2017#q03|src_smc_2017__Q03]]
 
 
 
@@ -177,7 +174,6 @@ Vermi terrestri Dave: lunghezza 40 cm, massa 26 g. Trova la massa per unità di 
 > - **(E)** $\dfrac{2018 \times 2016}{2017}$
 
 **Risposta:** E
-[[Quesiti/src_smc_2017#q04|src_smc_2017__Q04]]
 
 
 
@@ -221,7 +217,6 @@ Un anno luce è ~6×10^12 miglia; una galassia è a 13,4 miliardi di anni luce d
 > - **(E)** $8 \times 10^{24}$
 
 **Risposta:** C
-[[Quesiti/src_smc_2017#q05|src_smc_2017__Q05]]
 
 
 
@@ -270,7 +265,6 @@ Un anno luce è ~6×10^12 miglia; una galassia è a 13,4 miliardi di anni luce d
 ![[src_smc_2017__q06.png]]
 
 **Risposta:** B
-[[Quesiti/src_smc_2017#q06|src_smc_2017__Q06]]
 
 
 
@@ -315,7 +309,6 @@ Un anno luce è ~6×10^12 miglia; una galassia è a 13,4 miliardi di anni luce d
 > - **(E)** $288$
 
 **Risposta:** C
-[[Quesiti/src_smc_2017#q07|src_smc_2017__Q07]]
 
 
 
@@ -355,7 +348,6 @@ Quale di 1^{-1}, 4^{-1/2}, 6^0, 8^{2/3}, 16^{3/4} non è un numero intero?
 > - **(E)** $16^{\frac{3}{4}}$
 
 **Risposta:** B
-[[Quesiti/src_smc_2017#q08|src_smc_2017__Q08]]
 
 
 
@@ -404,7 +396,6 @@ Quale di 1^{-1}, 4^{-1/2}, 6^0, 8^{2/3}, 16^{3/4} non è un numero intero?
 ![[src_smc_2017__q09.png]]
 
 **Risposta:** A
-[[Quesiti/src_smc_2017#q09|src_smc_2017__Q09]]
 
 
 
@@ -456,7 +447,6 @@ Quale di 1^{-1}, 4^{-1/2}, 6^0, 8^{2/3}, 16^{3/4} non è un numero intero?
 ![[src_smc_2017__q10.png]]
 
 **Risposta:** D
-[[Quesiti/src_smc_2017#q10|src_smc_2017__Q10]]
 
 
 
@@ -508,7 +498,6 @@ Due adolescenti: differenza dei quadrati di età = 4 volte la somma delle età; 
 > - **(E)** $19$
 
 **Risposta:** D
-[[Quesiti/src_smc_2017#q11|src_smc_2017__Q11]]
 
 
 
@@ -556,7 +545,6 @@ Due adolescenti: differenza dei quadrati di età = 4 volte la somma delle età; 
 ![[src_smc_2017__q12.png]]
 
 **Risposta:** B
-[[Quesiti/src_smc_2017#q12|src_smc_2017__Q12]]
 
 
 
@@ -613,7 +601,6 @@ Un puzzle logico con quattro persone: Isobel, Josh, Genotan, Tegan; esattamente 
 > - **(E)** Ulteriori informazioni necessarie
 
 **Risposta:** C
-[[Quesiti/src_smc_2017#q13|src_smc_2017__Q13]]
 
 
 
@@ -661,7 +648,6 @@ Un puzzle logico con quattro persone: Isobel, Josh, Genotan, Tegan; esattamente 
 ![[src_smc_2017__q14.png]]
 
 **Risposta:** A
-[[Quesiti/src_smc_2017#q14|src_smc_2017__Q14]]
 
 
 
@@ -709,7 +695,6 @@ Un puzzle logico con quattro persone: Isobel, Josh, Genotan, Tegan; esattamente 
 ![[src_smc_2017__q15.png]]
 
 **Risposta:** B
-[[Quesiti/src_smc_2017#q15|src_smc_2017__Q15]]
 
 
 
@@ -757,7 +742,6 @@ Un puzzle logico con quattro persone: Isobel, Josh, Genotan, Tegan; esattamente 
 ![[src_smc_2017__q16.png]]
 
 **Risposta:** D
-[[Quesiti/src_smc_2017#q16|src_smc_2017__Q16]]
 
 
 
@@ -802,7 +786,6 @@ Amy, Beth e Claire condividono i dolci dando ciascuno 1/3 all'altro; finiscono t
 > - **(E)** $60$
 
 **Risposta:** D
-[[Quesiti/src_smc_2017#q17|src_smc_2017__Q17]]
 
 
 
@@ -851,7 +834,6 @@ Amy, Beth e Claire condividono i dolci dando ciascuno 1/3 all'altro; finiscono t
 > - **(E)** $4 : 1$
 
 **Risposta:** E
-[[Quesiti/src_smc_2017#q18|src_smc_2017__Q18]]
 
 
 
@@ -900,7 +882,6 @@ Amy, Beth e Claire condividono i dolci dando ciascuno 1/3 all'altro; finiscono t
 ![[src_smc_2017__q19.png]]
 
 **Risposta:** B
-[[Quesiti/src_smc_2017#q19|src_smc_2017__Q19]]
 
 
 
@@ -948,7 +929,6 @@ Amy, Beth e Claire condividono i dolci dando ciascuno 1/3 all'altro; finiscono t
 ![[src_smc_2017__q20.png]]
 
 **Risposta:** B
-[[Quesiti/src_smc_2017#q20|src_smc_2017__Q20]]
 
 
 
@@ -989,7 +969,6 @@ Quante coppie (x,y) di numeri interi positivi soddisfano 4^x = y^2 + 15?
 > - **(E)** un numero infinito
 
 **Risposta:** C
-[[Quesiti/src_smc_2017#q21|src_smc_2017__Q21]]
 
 
 
@@ -1037,7 +1016,6 @@ Quante coppie (x,y) di numeri interi positivi soddisfano 4^x = y^2 + 15?
 ![[src_smc_2017__q22.png]]
 
 **Risposta:** D
-[[Quesiti/src_smc_2017#q22|src_smc_2017__Q22]]
 
 
 
@@ -1082,7 +1060,6 @@ Quante coppie (x,y) di numeri interi positivi soddisfano 4^x = y^2 + 15?
 > - **(E)** $x = y^2 + 2$
 
 **Risposta:** C
-[[Quesiti/src_smc_2017#q23|src_smc_2017__Q23]]
 
 
 
@@ -1127,7 +1104,6 @@ Quante coppie (x,y) di numeri interi positivi soddisfano 4^x = y^2 + 15?
 > - **(E)** $20$
 
 **Risposta:** D
-[[Quesiti/src_smc_2017#q24|src_smc_2017__Q24]]
 
 
 
@@ -1176,4 +1152,3 @@ Quante coppie (x,y) di numeri interi positivi soddisfano 4^x = y^2 + 15?
 ![[src_smc_2017__q25.png]]
 
 **Risposta:** A
-[[Quesiti/src_smc_2017#q25|src_smc_2017__Q25]]

@@ -33,8 +33,6 @@ level: Olimpiade Polacca Round 3
 
 > In un triangolo a angolo acuto $ABC$, $CD$ è l'altitudine. Una linea attraverso il punto medio $M$ del lato $AB$ incontra i raggi $CA$ e $CB$ rispettivamente a $K$ e $L$ in modo tale che $CK = CL$. Il punto $S$ è il centro circundante del triangolo $CKL$. Prova che $SD = SM$.
 
-[[Quesiti/src_pol_2003_r3#q01|src_pol_2003_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima"></span>
@@ -61,8 +59,6 @@ level: Olimpiade Polacca Round 3
 
 > $0 < a < 1$ sia un numero reale. Prove che per tutte le sequenze finite, in aumento rigoroso $k_1, k_2, \ldots, k_n$ di enti interi non negativi si verifica la seguente disuguaglianza: $$\left(\sum_{i=1}^{n} a^{k_i}\right)^2 < \frac{1+a}{1-a}\sum_{i=1}^{n} a^{2k_i}.$$
 
-[[Quesiti/src_pol_2003_r3#q02|src_pol_2003_r3__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -87,8 +83,6 @@ level: Olimpiade Polacca Round 3
 *Ricerca tutti i polinomi a coefficiente intero W in modo tale che W(n) divida 2^n - 1 per ogni n naturale.*
 
 > Trova tutti i polinomi $W$ con i coefficienti interi che soddisfano la seguente condizione: per ogni numero naturale $n$, $2^n - 1$ è divisibile da $W(n)$.
-
-[[Quesiti/src_pol_2003_r3#q03|src_pol_2003_r3__Q03]]
 
 
 
@@ -115,8 +109,6 @@ level: Olimpiade Polacca Round 3
 
 > Sono indicati un numero primo $p$ e un numero intero $x, y, z$ con $0 < x < y < z < p$. Indicare che se i numeri $x^3, y^3, z^3$ danno lo stesso residuo diviso per $p$, allora $x^2 + y^2 + z^2$ è divisibile per $x + y + z$.
 
-[[Quesiti/src_pol_2003_r3#q04|src_pol_2003_r3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione"></span>
@@ -141,8 +133,6 @@ level: Olimpiade Polacca Round 3
 *L'insfera del tetraedro ABCD tocca la faccia ABC a H; un'exsfera lo tocca a O; se O è il circoncentro allora H è l'ortocentro di ABC.*
 
 > La sfera scritta in un tetraedro $ABCD$ tocca la faccia $ABC$ al punto $H$. Un'altra sfera tocca la faccia $ABC$ a $O$ e i piani che contengono le altre tre facce si trovano nei punti esterni alle facce. Dimostra che se $O$ è il circoncentro del triangolo $ABC$, allora $H$ è l'ortocentro di quel triangolo.
-
-[[Quesiti/src_pol_2003_r3#q05|src_pol_2003_r3__Q05]]
 
 
 
@@ -170,5 +160,3 @@ level: Olimpiade Polacca Round 3
 *Per n pari, mostrare che esiste una permutazione di {1,...,n} dove ogni x_{i+1} è una delle quattro espressioni in x_i.*
 
 > Lasciate che $n$ sia un numero intero positivo pari. Indicare che esiste una permutazione $(x_1, x_2, \ldots, x_n)$ del set $\{1, 2, \ldots, n\}$, tale che per ogni $i \in \{1, 2, \ldots, n\}$, $$x_{i+1} \text{ is one of the numbers } 2x_i,\ 2x_i - 1,\ 2x_i - n,\ 2x_i - n - 1,$$ dove $x_{n+1} = x_1$.
-
-[[Quesiti/src_pol_2003_r3#q06|src_pol_2003_r3__Q06]]

@@ -48,7 +48,6 @@ level: kangourou
 >         E)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2015_marzo_benjamin#q01|src_kangourou_2015_marzo_benjamin__Q01]]
 
 
 
@@ -88,7 +87,6 @@ level: kangourou
 > Looking at my umbrella from above, as shown in the accompanying figure, you read the word KANGAROO. Which of the drawings in the answers shows an umbrella that is certainly not mine? A) B) C) D) E)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_benjamin#q02|src_kangourou_2015_marzo_benjamin__Q02]]
 
 
 
@@ -166,7 +164,6 @@ level: kangourou
 > Samuel painted the nine squares into which the large square is divided by white, gray and black paint as you can see in the picture. He then decided to repaint some of them so that two squares painted the same way do not have sides in common. What's the minimum number of squares he can repaint? A) 2          B) 3            C) 4           D) 5               E) 6
 
 **Answer:** A
-[[Quesiti/src_kangourou_2015_marzo_benjamin#q03|src_kangourou_2015_marzo_benjamin__Q03]]
 
 
 
@@ -213,7 +210,6 @@ level: kangourou
 > E) 10
 
 **Answer:** A
-[[Quesiti/src_kangourou_2015_marzo_benjamin#q04|src_kangourou_2015_marzo_benjamin__Q04]]
 
 
 
@@ -256,7 +252,6 @@ level: kangourou
 >
 
 **Answer:** E
-[[Quesiti/src_kangourou_2015_marzo_benjamin#q05|src_kangourou_2015_marzo_benjamin__Q05]]
 
 
 
@@ -304,7 +299,6 @@ level: kangourou
 > E) 23 cm
 
 **Answer:** B
-[[Quesiti/src_kangourou_2015_marzo_benjamin#q06|src_kangourou_2015_marzo_benjamin__Q06]]
 
 
 
@@ -342,7 +336,6 @@ level: kangourou
 > Look at the figures: how much does Dita weigh? A) 2 kg B) 3 kg C) 4 kg D) 5 kg E) 6 kg
 
 **Answer:** D
-[[Quesiti/src_kangourou_2015_marzo_benjamin#q07|src_kangourou_2015_marzo_benjamin__Q07]]
 
 
 
@@ -381,7 +374,6 @@ level: kangourou
 > With a magnifying glass, Peter examines this drawing piece by piece. Which of the following images never appears in the lens? A) B) C) D) E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2015_marzo_benjamin#q08|src_kangourou_2015_marzo_benjamin__Q08]]
 
 
 
@@ -413,7 +405,6 @@ level: kangourou
 > In John's garden there are only two types of plants: those of one type have 5 leaves, the other 2 leaves and 1 flower. John discovered that there are 32 leaves and 6 flowers in all. How many plants are there in all? A) 10             B) 12            C) 13             D) 15                E) 16
 
 **Answer:** A
-[[Quesiti/src_kangourou_2015_marzo_benjamin#q09|src_kangourou_2015_marzo_benjamin__Q09]]
 
 
 
@@ -460,7 +451,6 @@ level: kangourou
 > The questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2015_marzo_benjamin#q10|src_kangourou_2015_marzo_benjamin__Q10]]
 
 
 
@@ -495,7 +485,6 @@ level: kangourou
 > Thomas places together six equal squares, one centimeter on each side, to form the figure you see in the drawing. How many centimeters does the perimeter of the figure built by Thomas measure? A) 9             B) 10               C) 11                D) 12              E) 13
 
 **Answer:** D
-[[Quesiti/src_kangourou_2015_marzo_benjamin#q11|src_kangourou_2015_marzo_benjamin__Q11]]
 
 
 
@@ -544,7 +533,6 @@ level: kangourou
 > E) 20
 
 **Answer:** E
-[[Quesiti/src_kangourou_2015_marzo_benjamin#q12|src_kangourou_2015_marzo_benjamin__Q12]]
 
 
 
@@ -583,7 +571,6 @@ level: kangourou
 > The ABCD rectangle in the figure is formed by placing 4 equal rectangles side by side. If the length of BC is 1 cm, how long is AB? A) 4 cm B) 3 cm C) 2 cm D) 1 cm E) 0,5 cm
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_benjamin#q13|src_kangourou_2015_marzo_benjamin__Q13]]
 
 
 
@@ -622,7 +609,6 @@ level: kangourou
 > By folding each of these paper shapes along the segments drawn within it, in one case a pyramid cannot be obtained. What kind? A) B) C) D) E)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_benjamin#q14|src_kangourou_2015_marzo_benjamin__Q14]]
 
 
 
@@ -672,7 +658,6 @@ level: kangourou
 > E) 29
 
 **Answer:** E
-[[Quesiti/src_kangourou_2015_marzo_benjamin#q15|src_kangourou_2015_marzo_benjamin__Q15]]
 
 
 
@@ -714,7 +699,6 @@ Summary of age and age of Lucia and mother
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_benjamin#q16|src_kangourou_2015_marzo_benjamin__Q16]]
 
 
 
@@ -749,7 +733,6 @@ Summary of age and age of Lucia and mother
 > The area of a rectangle is 12 cm2 and the lengths (in cm) of its sides are integers. Which of the following values can be the length of the perimeter of the rectangle? A) 20 cm B) 26 cm C) 28 cm D) 32 cm E) 48 cm
 
 **Answer:** B
-[[Quesiti/src_kangourou_2015_marzo_benjamin#q17|src_kangourou_2015_marzo_benjamin__Q17]]
 
 
 
@@ -792,7 +775,6 @@ Summary of age and age of Lucia and mother
 > Each of the nine segments in the figure must be coloured by choosing between the colours red, green and blue and making sure that, in each triangle, the three sides have different colours. As you can see, three segments have already been assigned colours in the figure. What color can the segment marked with x be ? A) Only blue. B) Only green. C) Only red. D) Any color is fine. E) No color is right.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_benjamin#q18|src_kangourou_2015_marzo_benjamin__Q18]]
 
 
 
@@ -841,7 +823,6 @@ Summary of age and age of Lucia and mother
 > E) 13
 
 **Answer:** E
-[[Quesiti/src_kangourou_2015_marzo_benjamin#q19|src_kangourou_2015_marzo_benjamin__Q19]]
 
 
 
@@ -898,7 +879,6 @@ Summary of age and age of Lucia and mother
 > E) 6 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2015_marzo_benjamin#q20|src_kangourou_2015_marzo_benjamin__Q20]]
 
 
 
@@ -932,7 +912,6 @@ Summary of age and age of Lucia and mother
 > In the sum shown here, the same letters represent the same number, and different letters represent different numbers. What number is represented by the letter X ? A) 2 B) 3 C) 4	         D) 5          E) 6
 
 **Answer:** E
-[[Quesiti/src_kangourou_2015_marzo_benjamin#q21|src_kangourou_2015_marzo_benjamin__Q21]]
 
 
 
@@ -1009,7 +988,6 @@ Summary of age and age of Lucia and mother
 >
 
 **Answer:** A
-[[Quesiti/src_kangourou_2015_marzo_benjamin#q22|src_kangourou_2015_marzo_benjamin__Q22]]
 
 
 
@@ -1055,7 +1033,6 @@ Summary of age and age of Lucia and mother
 > I want to cover a cube-shaped box with paper, no overlapping. So I drew on a piece of paper and cut out the figure you see here next to it (composed of squares all equal to each other and equal to the sides of the box), which I'll then fold along each side common to two squares. But by mistake, I drew 7 squares instead of 6. I must therefore remove one, but I want the paper not to break in two and in particular that there is no square connected only by one vertex to another. Which square can I delete? A) Only four. B) Only 7. C) Only 3 or 4. D) Only 3 or 7. E) 3, 4 or 7.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2015_marzo_benjamin#q23|src_kangourou_2015_marzo_benjamin__Q23]]
 
 
 
@@ -1100,7 +1077,6 @@ Summary of age and age of Lucia and mother
 > D) 68 E) The information is not sufficient to determine this.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_benjamin#q24|src_kangourou_2015_marzo_benjamin__Q24]]
 
 
 
@@ -1148,7 +1124,6 @@ This is the maximum BD-AC *
 > E) 16
 
 **Answer:** B
-[[Quesiti/src_kangourou_2015_marzo_benjamin#q25|src_kangourou_2015_marzo_benjamin__Q25]]
 
 
 
@@ -1204,7 +1179,6 @@ This is the maximum BD-AC *
 > E) 26
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_benjamin#q26|src_kangourou_2015_marzo_benjamin__Q26]]
 
 
 
@@ -1255,7 +1229,6 @@ This is the maximum BD-AC *
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2015_marzo_benjamin#q27|src_kangourou_2015_marzo_benjamin__Q27]]
 
 
 
@@ -1306,7 +1279,6 @@ This is the maximum BD-AC *
 > E) 11
 
 **Answer:** D
-[[Quesiti/src_kangourou_2015_marzo_benjamin#q28|src_kangourou_2015_marzo_benjamin__Q28]]
 
 
 
@@ -1351,7 +1323,6 @@ This is the maximum BD-AC *
 > D) 9 E) It could be 1 or 9.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2015_marzo_benjamin#q29|src_kangourou_2015_marzo_benjamin__Q29]]
 
 
 
@@ -1404,4 +1375,3 @@ This is the maximum BD-AC *
 > STRINGA BENJAMIN 2015
 
 **Answer:** D
-[[Quesiti/src_kangourou_2015_marzo_benjamin#q30|src_kangourou_2015_marzo_benjamin__Q30]]

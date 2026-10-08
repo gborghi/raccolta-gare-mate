@@ -33,8 +33,6 @@ Sequenza di rampa: prove p^n espressibile come somma di una rampa
 
 > Una rampa è una sequenza di tre diversi integri positivi $a, b, c$ in modo tale che $a$ è un fattore di $b$ e $b$ è un fattore di $c$. Per ogni numero primo $p$ e per ogni numero intero positivo $n$, determinare con prova se $p^n$ può essere espresso come la somma di una rampa.
 
-[[Quesiti/src_bmo_2025-26_round1#q01|src_bmo_2025-26_round1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_simmetria,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato"></span>
@@ -60,8 +58,6 @@ Sequenza di rampa: prove p^n espressibile come somma di una rampa
 *Ricerca tutti i tripli reali che soddisfano due equazioni simmetriche*
 
 > Trova tutti i triples $(x, y, z)$ dei numeri reali che soddisfano le equazioni $$x^2 + 2yz = 4, \quad y^2 + 2zx = 4, \quad z^2 + 2xy = 4.$$
-
-[[Quesiti/src_bmo_2025-26_round1#q02|src_bmo_2025-26_round1__Q02]]
 
 
 
@@ -96,8 +92,6 @@ Sequenza di rampa: prove p^n espressibile come somma di una rampa
 > 
 > Quanti modi si possono fare?
 
-[[Quesiti/src_bmo_2025-26_round1#q03|src_bmo_2025-26_round1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -126,8 +120,6 @@ Sequenza di rampa: prove p^n espressibile come somma di una rampa
 > Il $ABC$ deve essere un triangolo acuto con $AB > AC$. $M$ sia il punto medio di $BC$. Il cerchio che attraversa $M$ che è tangente a $AB$ a $B$ e il cerchio che attraversa $M$ che è tangente a $AC$ a $C$ si intersecano di nuovo a $D$.
 > 
 > Prove che $MA \times MD = MB \times MC$.
-
-[[Quesiti/src_bmo_2025-26_round1#q04|src_bmo_2025-26_round1__Q04]]
 
 
 
@@ -166,8 +158,6 @@ Sequenza di rampa: prove p^n espressibile come somma di una rampa
 > In primo luogo impone $t_1 = 1$. Quindi, per $n \ge 1$: \begin{itemize} \item Se $t_n$ è pari, allora $t_{n+1} = t_n / 2$. \item Se $t_n$ è pari e superiore a 1, allora $t_{n+1} = t_n / 3$ arrotondato al numero intero più vicino. \item Se $t_n = 1$, allora $t_{n+1} = 2025k$ dove $k$ è il numero di termini uguali a 1 tra $t_1, t_2, \ldots, t_n$. # Finire #
 > 
 > Questa sequenza contiene tutti i numeri interi positivi?
-
-[[Quesiti/src_bmo_2025-26_round1#q05|src_bmo_2025-26_round1__Q05]]
 
 
 
@@ -209,5 +199,3 @@ Sequenza di rampa: prove p^n espressibile come somma di una rampa
 > (ii) Salta al lily pad $k + 3$ o $k - 3$ purché questo lily pad non sia occupato e i due lily pad saltati siano entrambi occupati. Quando questo accade, le due rane che sono state saltate si immergono nel lago e non partecipano a ulteriori mosse.
 > 
 > Per quali valori di $n$ è possibile, mediante una sequenza di mosse, concludere con esattamente una rana rimasta sui pad del lilio?
-
-[[Quesiti/src_bmo_2025-26_round1#q06|src_bmo_2025-26_round1__Q06]]

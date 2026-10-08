@@ -37,8 +37,6 @@ level: BMO Round 1
 > 
 > b) Esiste un numero a tre cifre * diverso da * 100, 200, 300 il cui quadrato ha lo stesso numero di cifre non zero del numero originale?
 
-[[Quesiti/src_bmo_1991-92_round1#q01|src_bmo_1991-92_round1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta"></span>
@@ -63,8 +61,6 @@ level: BMO Round 1
 *ABCDE pentagono inciso in cerchio con lati paralleli: deve essere regolare?*
 
 > Che il $ABCDE$ sia un pentagono inscritto in un cerchio. Supponiamo che $AC, BD, CE, DA$ e $EB$ siano parallele rispettivamente a $DE, EA, AB, BC$ e $CD$. Ne consegue che il pentagono deve essere regolare? Giustifica la tua richiesta.
-
-[[Quesiti/src_bmo_1991-92_round1#q02|src_bmo_1991-92_round1__Q02]]
 
 
 
@@ -95,8 +91,6 @@ level: BMO Round 1
 > 
 > Puoi trovare un insieme di cinque o più numeri con la stessa proprietà?
 
-[[Quesiti/src_bmo_1991-92_round1#q03|src_bmo_1991-92_round1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
@@ -126,8 +120,6 @@ level: BMO Round 1
 > 
 > $x^2 + 5y^2 + 8z^2$ ha un valore maggiore soggetto alla stessa condizione? Giustifica la tua richiesta.
 
-[[Quesiti/src_bmo_1991-92_round1#q04|src_bmo_1991-92_round1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_insiemi_funzioni,topic_aritmetica,method_induzione,method_ricorsione,method_invarianti,skill_riconoscimento_pattern,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -152,5 +144,3 @@ level: BMO Round 1
 *f: Z+→Z+ in aumento rigido con f(n))=3n; ritrovare f(1992)*
 
 > Lasciate che $f$ sia una funzione di mappatura dei numeri interi positivi in numeri interi positivi. Supponiamo che $f(n + 1) > f(n)$ e $f(f(n)) = 3n$ per tutti gli integri positivi $n$. Determinare $f(1992)$.
-
-[[Quesiti/src_bmo_1991-92_round1#q05|src_bmo_1991-92_round1__Q05]]

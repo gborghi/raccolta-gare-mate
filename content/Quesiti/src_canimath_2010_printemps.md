@@ -34,8 +34,6 @@ level: Coupe Animath Printemps
 
 > Trova tutti gli integri $x$, $y$, $z$ che soddisfano: $$1 < x < y < z \quad \text{and} \quad x + y + z + xy + yz + zx + xyz = 2009.$$
 
-[[Quesiti/src_canimath_2010_printemps#q03|src_canimath_2010_printemps__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_estremalita,method_casework,method_conteggio,skill_modellizzazione,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -69,8 +67,6 @@ level: Coupe Animath Printemps
 > 
 > Si può affermare la stessa cosa se solo sette squadre partecipano al torneo?
 
-[[Quesiti/src_canimath_2010_printemps#q04|src_canimath_2010_printemps__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_disuguaglianze,method_disuguaglianze,method_casework,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
@@ -103,8 +99,6 @@ level: Coupe Animath Printemps
 > a) Se $v = 0$ o $v = 9$, dimostrare che $\sqrt{n} > \dfrac{10^k}{2}$.
 > 
 > b) Per tutti i valori di $v$, dimostrare che $\sqrt{n} > \dfrac{10^k}{144}$.
-
-[[Quesiti/src_canimath_2010_printemps#q05|src_canimath_2010_printemps__Q05]]
 
 
 
@@ -142,5 +136,3 @@ Tavola di biliardo triangolare equalaterale: la palla da A verso P ritorna al bu
 > Domanda complementare (che deve essere affrontata solo se hai risolto tutti gli altri problemi della prova): dimostrare che due punti della tavola di biliardo $ABC$ sono incrociati ogni tre volte dalla palla.
 
 ![[src_canimath_2010_printemps__q06.png]]
-
-[[Quesiti/src_canimath_2010_printemps#q06|src_canimath_2010_printemps__Q06]]

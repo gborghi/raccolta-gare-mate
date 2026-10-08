@@ -43,7 +43,6 @@ level: squadre
 > Do you have a decent target? As in the question "Have you a good aim?" of the semi-final, you have 11 balls: 6 red, indistinguishable from each other, and 5 green, indistinguishable from each other. Now there are two boxes open, one white and one black, in which attempts to throw the balls: some (possibly none) will go into a box, some (possibly none) into the other, some (possibly none) will end up out. How many different possible outcomes ? (For example: one outcome is 3 green balls and 2 red balls in the white box, no green and 2 red balls in the black box, the others out, a different outcome is 3 green balls and 2 red balls in the black box, no green and 2 red balls in the white box, the others out.)
 
 **Answer:** 0042
-[[Quesiti/src_kangourou_squadre_2009_semifinale#q01|src_kangourou_squadre_2009_semifinale__Q01]]
 
 
 
@@ -78,7 +77,6 @@ level: squadre
 > The circuit has some regular pentagons and some squares available; the sides of these polygons are all the same length. By placing them alternating pentagons and squares, so that one side of a pentagon matches another side of a square and vice versa, you want to make a closed circuit on a plane: the construction of the ring must proceed as shown in the figure. Assuming it is possible to build it, how many polygons will the closed circuit consist of? (Write 0000 if you can't build it.)
 
 **Answer:** 0001
-[[Quesiti/src_kangourou_squadre_2009_semifinale#q02|src_kangourou_squadre_2009_semifinale__Q02]]
 
 
 
@@ -129,7 +127,6 @@ level: squadre
 > centimeters is the radius of the disk?
 
 **Answer:** 0027
-[[Quesiti/src_kangourou_squadre_2009_semifinale#q03|src_kangourou_squadre_2009_semifinale__Q03]]
 
 
 
@@ -183,7 +180,6 @@ level: squadre
 > report only 1012)
 
 **Answer:** 2157
-[[Quesiti/src_kangourou_squadre_2009_semifinale#q04|src_kangourou_squadre_2009_semifinale__Q04]]
 
 
 
@@ -228,7 +224,6 @@ level: squadre
 > What is the maximum number of pieces that you can place on the chessboard?
 
 **Answer:** 0021
-[[Quesiti/src_kangourou_squadre_2009_semifinale#q05|src_kangourou_squadre_2009_semifinale__Q05]]
 
 
 
@@ -262,7 +257,6 @@ level: squadre
 > Martina?
 
 **Answer:** 9132
-[[Quesiti/src_kangourou_squadre_2009_semifinale#q06|src_kangourou_squadre_2009_semifinale__Q06]]
 
 
 
@@ -299,7 +293,6 @@ level: squadre
 > does each of the diagonals of this rectangle meet?
 
 **Answer:** 0071
-[[Quesiti/src_kangourou_squadre_2009_semifinale#q07|src_kangourou_squadre_2009_semifinale__Q07]]
 
 
 
@@ -335,7 +328,6 @@ level: squadre
 > segments into which that side is divided?
 
 **Answer:** 0015
-[[Quesiti/src_kangourou_squadre_2009_semifinale#q08|src_kangourou_squadre_2009_semifinale__Q08]]
 
 
 
@@ -369,7 +361,6 @@ level: squadre
 > can determine that ratio. How many people are there in that room?
 
 **Answer:** 0031
-[[Quesiti/src_kangourou_squadre_2009_semifinale#q09|src_kangourou_squadre_2009_semifinale__Q09]]
 
 
 
@@ -405,7 +396,6 @@ level: squadre
 > 100 are there that one of the faces shows an even number and the other an odd number?
 
 **Answer:** 0048
-[[Quesiti/src_kangourou_squadre_2009_semifinale#q10|src_kangourou_squadre_2009_semifinale__Q10]]
 
 
 
@@ -442,7 +432,6 @@ level: squadre
 > How many of these milestones host two and no more than two different digits among them?
 
 **Answer:** 0040
-[[Quesiti/src_kangourou_squadre_2009_semifinale#q11|src_kangourou_squadre_2009_semifinale__Q11]]
 
 
 
@@ -479,7 +468,6 @@ level: squadre
 > lowest terms. Write the denominator of the fraction.
 
 **Answer:** 4950
-[[Quesiti/src_kangourou_squadre_2009_semifinale#q12|src_kangourou_squadre_2009_semifinale__Q12]]
 
 
 
@@ -540,7 +528,6 @@ level: squadre
 > Which number must you enter in the cell indicated by the question mark?
 
 **Answer:** 0009
-[[Quesiti/src_kangourou_squadre_2009_semifinale#q13|src_kangourou_squadre_2009_semifinale__Q13]]
 
 
 
@@ -586,7 +573,6 @@ level: squadre
 > write 0611).
 
 **Answer:** 1016
-[[Quesiti/src_kangourou_squadre_2009_semifinale#q14|src_kangourou_squadre_2009_semifinale__Q14]]
 
 
 
@@ -642,4 +628,3 @@ level: squadre
 > Kangourou of Mathematics 2009 Kangourou team cup - final Mirabilandia, 10 May 2009
 
 **Answer:** 0007
-[[Quesiti/src_kangourou_squadre_2009_semifinale#q15|src_kangourou_squadre_2009_semifinale__Q15]]

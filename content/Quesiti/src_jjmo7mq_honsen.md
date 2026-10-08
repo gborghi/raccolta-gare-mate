@@ -41,8 +41,6 @@ level: JJMO Honsen
 > 
 > (2) Trova tutti gli integri positivi $n$ in modo tale che $S(n)$ sia primo. Qui, un primo è un numero intero maggiore o uguale a $2$ che non ha divisori positivi diversi da $1$ e se stesso, e non è uguale a $1$.
 
-[[Quesiti/src_jjmo7mq_honsen#q01|src_jjmo7mq_honsen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -75,8 +73,6 @@ level: JJMO Honsen
 > Trova $\angle PRQ$ in termini di $\alpha$.
 > 
 > Qui $XY$ indica la lunghezza del segmento $XY$.
-
-[[Quesiti/src_jjmo7mq_honsen#q02|src_jjmo7mq_honsen__Q02]]
 
 
 
@@ -111,8 +107,6 @@ level: JJMO Honsen
 > 
 > (2) Indicare che non esiste una assegnazione tale che la differenza assoluta dei numeri interi assegnati a due vertici adiacenti sia almeno $n$.
 
-[[Quesiti/src_jjmo7mq_honsen#q03|src_jjmo7mq_honsen__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_stima,skill_astrazione"></span>
@@ -138,8 +132,6 @@ level: JJMO Honsen
 *Doppia disuguaglianza per l'espressione ciclica nei reali positivi a,b,c*
 
 > Per i numeri reali positivi $a, b, c$, dimostrare che $$\frac{3}{2} < \frac{4a+b}{a+4b} + \frac{4b+c}{b+4c} + \frac{4c+a}{c+4a} < 9.$$
-
-[[Quesiti/src_jjmo7mq_honsen#q04|src_jjmo7mq_honsen__Q04]]
 
 
 
@@ -167,5 +159,3 @@ level: JJMO Honsen
 *Perimetro dell'esagono converso ≥ somma di tre diagonali principali a 60°*
 
 > In un esagono converso $ABCDEF$, due delle tre diagonali principali $AD$, $BE$, $CF$ formano un angolo di $60^\circ$ tra loro. Prova che un poligono $$AB + BC + CD + DE + EF + FA \geq AD + BE + CF.$$ è chiamato convex se tutti gli angoli interni sono inferiori a $180^\circ$. Qui $XY$ indica la lunghezza del segmento $XY$.
-
-[[Quesiti/src_jjmo7mq_honsen#q05|src_jjmo7mq_honsen__Q05]]

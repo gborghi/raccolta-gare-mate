@@ -36,7 +36,6 @@ level: squadre
 > What is the largest prime number less than 30 that can be expressed as the sum of two prime numbers?
 
 **Answer:** 19
-[[Quesiti/src_kangourou_2014_squadre_f#q01|src_kangourou_2014_squadre_f__Q01]]
 
 
 
@@ -72,7 +71,6 @@ level: squadre
 > The calculator Elena has a calculator with 15 keys: 10 are white and each shows one of the 10 digits (all the digits appear there), 5 are black and each shows one of the 5 symbols plus, minus, times, divided, equal (all these symbols appear there). To obtain the result of the product 2 times 3 times 15, press the seven keys (not necessarily different) 2, ×, 3, ×, 1, 5, =, after which the number 90 appears on the screen. As a result of another product, after pressing six keys Elena got the number 2014. What's the sum of the digits on the white keys hit by Elena this time?
 
 **Answer:** 19
-[[Quesiti/src_kangourou_2014_squadre_f#q02|src_kangourou_2014_squadre_f__Q02]]
 
 
 
@@ -139,7 +137,6 @@ level: squadre
 > Circle and square Look at the figure. A circle is inscribed in a square of side 8 meters. What is the area, in square meters, of the shaded region? (Write the whole number nearest to the exact result.)
 
 **Answer:** 27
-[[Quesiti/src_kangourou_2014_squadre_f#q03|src_kangourou_2014_squadre_f__Q03]]
 
 
 
@@ -169,7 +166,6 @@ level: squadre
 > Sum of squares You know that two relative integers a and b are such that a2 + b2 = 100 and that their sum is the smallest positive number compatible with this assumption. How much is their sum?
 
 **Answer:** 2
-[[Quesiti/src_kangourou_2014_squadre_f#q04|src_kangourou_2014_squadre_f__Q04]]
 
 
 
@@ -208,7 +204,6 @@ level: squadre
 > What is the maximum possible value for n?
 
 **Answer:** 9
-[[Quesiti/src_kangourou_2014_squadre_f#q05|src_kangourou_2014_squadre_f__Q05]]
 
 
 
@@ -238,7 +233,6 @@ level: squadre
 > How many integers between 1 and 10,000 (included) are not divisible by 2 or by 5?
 
 **Answer:** 4000
-[[Quesiti/src_kangourou_2014_squadre_f#q06|src_kangourou_2014_squadre_f__Q06]]
 
 
 
@@ -321,7 +315,6 @@ level: squadre
 > Two triangles In the triangle ABC shown in the figure the segments AD, DE and EC have the same length; the segments AF, FG and GB also have the same length. The DFI triangle has area 10. How much is the area of the ABC triangle? A I D F G E B C
 
 **Answer:** 180
-[[Quesiti/src_kangourou_2014_squadre_f#q07|src_kangourou_2014_squadre_f__Q07]]
 
 
 
@@ -352,7 +345,6 @@ level: squadre
 > Elena and her mother Elena and her mother were both born on January 1. In this year 2014, for each of them the number of years of age is the sum of the digits of their respective years of birth. How old was Elena's mother when Elena was born?
 
 **Answer:** 18
-[[Quesiti/src_kangourou_2014_squadre_f#q08|src_kangourou_2014_squadre_f__Q08]]
 
 
 
@@ -384,7 +376,6 @@ level: squadre
 > 2014 times 2014 The number writing = 20142014...2014 is obtained by writing 2014 consecutively 2014 times. What is the smallest integer n greater than or equal to 2 such that N is the sum of n consecutive positive integers?
 
 **Answer:** 4
-[[Quesiti/src_kangourou_2014_squadre_f#q09|src_kangourou_2014_squadre_f__Q09]]
 
 
 
@@ -415,7 +406,6 @@ level: squadre
 > Sum of powers Three positive integers a, b, c all different from each other are such that their product is 16. What is the maximum possible value for the expression ab − bc + ca?
 
 **Answer:** 263
-[[Quesiti/src_kangourou_2014_squadre_f#q10|src_kangourou_2014_squadre_f__Q10]]
 
 
 
@@ -450,7 +440,6 @@ level: squadre
 > highest possible value for the sum a + b?
 
 **Answer:** 2116
-[[Quesiti/src_kangourou_2014_squadre_f#q11|src_kangourou_2014_squadre_f__Q11]]
 
 
 
@@ -491,7 +480,6 @@ level: squadre
 > Place three dice so that the matching faces of two dice show the same points. How many different three-digit numbers can be indicated by the upper faces of the three dice when the alignments of the three dice comply with this request? (The numbers should be read as used from left to right: in the example in figure the number read is 125. Note that the faces of a regular die are numbered by points from one to six and that the sum of the points on two opposite faces of any die is 7.)
 
 **Answer:** 168
-[[Quesiti/src_kangourou_2014_squadre_f#q12|src_kangourou_2014_squadre_f__Q12]]
 
 
 
@@ -524,7 +512,6 @@ level: squadre
 > The grid In each cell of a grid 3 × 3 a positive integer must be entered (different cells can host the same number) so that, by adding the numbers entered for both rows and columns, six different results are obtained. What is the lowest possible value for the sum of all the numbers entered?
 
 **Answer:** 17
-[[Quesiti/src_kangourou_2014_squadre_f#q13|src_kangourou_2014_squadre_f__Q13]]
 
 
 
@@ -556,7 +543,6 @@ level: squadre
 > A whole number is called a palindrome if its digits, read from left to right or from right to left, give the same result (e.g. 575 is a palindrome, 576 is not). How many seven-digit palindromes are there?
 
 **Answer:** 9000
-[[Quesiti/src_kangourou_2014_squadre_f#q14|src_kangourou_2014_squadre_f__Q14]]
 
 
 
@@ -595,4 +581,3 @@ level: squadre
 > Questions and solutions
 
 **Answer:** 5050
-[[Quesiti/src_kangourou_2014_squadre_f#q15|src_kangourou_2014_squadre_f__Q15]]

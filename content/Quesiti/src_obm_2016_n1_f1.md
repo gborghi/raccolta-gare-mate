@@ -41,7 +41,6 @@ level: OBM Nível 1
 > [Fonte: la chiave di risposta ufficiale (GABARITO); la dichiarazione di scelta pluriennale originale e le opzioni non sono riprodotte. Dalla soluzione: $\dfrac{2016^2-1}{2015}=\dfrac{(2016+1)(2016-1)}{2015}=\dfrac{2017\times 2015}{2015}=2017$. In alternativa, $\dfrac{2016^2-1}{2015}=\dfrac{4064256-1}{2015}=\dfrac{4064255}{2015}=2017$.]
 
 **Risposta:** E
-[[Quesiti/src_obm_2016_n1_f1#q01|src_obm_2016_n1_f1__Q01]]
 
 
 
@@ -75,7 +74,6 @@ level: OBM Nível 1
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: la superficie del quadrato più grande $ABCD$ è $(9\times 1)\times 4 = 36\ \text{cm}^2$.]
 
 **Risposta:** D
-[[Quesiti/src_obm_2016_n1_f1#q02|src_obm_2016_n1_f1__Q02]]
 
 
 
@@ -106,7 +104,6 @@ level: OBM Nível 1
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: ci sono $5$ numeri unici: $1,3,5,7,9$. Quindi ci sono $5\cdot 5 = 25$ numeri di esattamente cinque cifre tutti strani e con una somma pari di cifre. Pertanto, al massimo le case $25-18 = 7$ non hanno ricevuto il giornale.]
 
 **Risposta:** D
-[[Quesiti/src_obm_2016_n1_f1#q03|src_obm_2016_n1_f1__Q03]]
 
 
 
@@ -145,7 +142,6 @@ level: OBM Nível 1
 ![[src_obm_2016_n1_f1__q04.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2016_n1_f1#q04|src_obm_2016_n1_f1__Q04]]
 
 
 
@@ -176,7 +172,6 @@ level: OBM Nível 1
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: con $x$ il numero di settimane, $29+3x = 12+4x \Leftrightarrow x = 17$ settimane. Contando $17\times 7 = 119$ giorni dall'inizio della seconda settimana di febbraio, e dal momento che $31+30+31$ (marzo, aprile, maggio) più i giorni di febbraio rimanenti totali $21+31+30+31 = 113$ giorni, si conclude che il ragazzo equivale alla ragazza nel numero di riviste solo alla fine della prima settimana di giugno.]
 
 **Risposta:** D
-[[Quesiti/src_obm_2016_n1_f1#q05|src_obm_2016_n1_f1__Q05]]
 
 
 
@@ -216,7 +211,6 @@ level: OBM Nível 1
 ![[src_obm_2016_n1_f1__q06.png]]
 
 **Risposta:** E
-[[Quesiti/src_obm_2016_n1_f1#q06|src_obm_2016_n1_f1__Q06]]
 
 
 
@@ -250,7 +244,6 @@ level: OBM Nível 1
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: poiché tutti i pezzi sono uguali e possono essere divisi in gruppi di $2$, $3$ o $5$, il numero di pezzi deve essere un multiple del più piccolo comune di questi numeri, ovvero un multiple di $30$. Con $30$ pezzi uguali la divisione desiderata è effettivamente possibile.]
 
 **Risposta:** D
-[[Quesiti/src_obm_2016_n1_f1#q07|src_obm_2016_n1_f1__Q07]]
 
 
 
@@ -284,7 +277,6 @@ level: OBM Nível 1
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: $x-1$ persone sono arrivate prima di Josias e $2016-x$ persone sono arrivate dopo di lui, con $\dfrac{2016-x}{4} = 4(x-1)$, cioè $2016-x = 16(x-1)$, con $x = 404$.]
 
 **Risposta:** A
-[[Quesiti/src_obm_2016_n1_f1#q08|src_obm_2016_n1_f1__Q08]]
 
 
 
@@ -319,7 +311,6 @@ level: OBM Nível 1
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: $2x+2y = 58$ quindi $x+y = 29$; le possibili coppie $(x,y)$ sono $(1,28),(2,27),(3,26),\dots,(14,15)$. Di questi, solo $(4,25)$ dà un prodotto che è un quadrato perfetto, $4\cdot 25 = 100$, quindi $n = \sqrt{4\cdot 25} = \sqrt{100} = 10$.]
 
 **Risposta:** C
-[[Quesiti/src_obm_2016_n1_f1#q09|src_obm_2016_n1_f1__Q09]]
 
 
 
@@ -358,7 +349,6 @@ level: OBM Nível 1
 ![[src_obm_2016_n1_f1__q10.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2016_n1_f1#q10|src_obm_2016_n1_f1__Q10]]
 
 
 
@@ -393,7 +383,6 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: la prima persona a rispondere non può dire la verità; la seconda ha detto la verità, la terza ha mentito, la quarta ha detto la verità, e così via, quindi i bugiardi e le persone oneste si alternano. Quindi ci sono mentitori nella fila.]
 
 **Risposta:** C
-[[Quesiti/src_obm_2016_n1_f1#q11|src_obm_2016_n1_f1__Q11]]
 
 
 
@@ -427,7 +416,6 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: ogni faccia verde degli otto blocchi più piccoli ottenuti dopo aver tagliato il cubo è opposta a quella rossa e viceversa. Pertanto il rapporto tra superficie verde totale e superficie rossa totale è $1:1$.]
 
 **Risposta:** A
-[[Quesiti/src_obm_2016_n1_f1#q12|src_obm_2016_n1_f1__Q12]]
 
 
 
@@ -462,7 +450,6 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: in un insieme di elementi $n$ il numero di sottoinsiemi di due elementi è $\dfrac{n(n-1)}{2}$. Con $x+y = 10$ e la condizione $\dfrac{x(x-1)}{2}+\dfrac{y(y-1)}{2} = 4xy$ (dal momento che la somma di due numeri con la stessa parità è pari e una coppia mista è impar). Substituendo $y = 10-x$ si ottiene $x^2-9x+10 = 0$, con soluzioni $x = 1$ o $x = 9$. Poiché $(x,y) = (9,1)$ soddisfa la condizione, il valore massimo di $x$ è $9$.]
 
 **Risposta:** E
-[[Quesiti/src_obm_2016_n1_f1#q13|src_obm_2016_n1_f1__Q13]]
 
 
 
@@ -498,7 +485,6 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione, la tabella è: $\begin{array}{|l|c|c|}\hline & \text{Class A} & \text{Class B}\\\hline \text{Mathematics} & 6\cdot 20 = 120 & 9\cdot 30 = 270\\\hline \text{Portuguese} & 8\cdot 20 = 160 & 5\cdot 30 = 150\\\hline\end{array}$ L'analisi del grafico mostra immediatamente che i punti (a) e (b) sono falsi. La media matematica delle due classi insieme è $\dfrac{120+270}{50} = 7.8$, quindi anche il punto (c) è vero. Le medie delle due prove delle classi A e B sono rispettivamente $280/40 = 7$ e $420/60 = 7$. La media complessiva di tutte le classi è $\dfrac{120+160+270+150}{20+20+30+30} = 7$, quindi la lettera d) è vera.]
 
 **Risposta:** E
-[[Quesiti/src_obm_2016_n1_f1#q14|src_obm_2016_n1_f1__Q14]]
 
 
 
@@ -537,7 +523,6 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 ![[src_obm_2016_n1_f1__q15.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2016_n1_f1#q15|src_obm_2016_n1_f1__Q15]]
 
 
 
@@ -571,7 +556,6 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: la pagina $1$ ha la pagina $2$ sul retro e le pagine $59$ e $60$ sull'altra parte. Quindi la pagina $7$ (che è $1+6$) ha sulla sua pagina posteriore $8$ (che è $2+6$) e le pagine $53$ ($=59-6$) e $54$ ($=60-6$) dall'altra parte.]
 
 **Risposta:** E
-[[Quesiti/src_obm_2016_n1_f1#q16|src_obm_2016_n1_f1__Q16]]
 
 
 
@@ -609,7 +593,6 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 ![[src_obm_2016_n1_f1__q17.png]]
 
 **Risposta:** A
-[[Quesiti/src_obm_2016_n1_f1#q17|src_obm_2016_n1_f1__Q17]]
 
 
 
@@ -648,7 +631,6 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 ![[src_obm_2016_n1_f1__q18.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2016_n1_f1#q18|src_obm_2016_n1_f1__Q18]]
 
 
 
@@ -683,7 +665,6 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: inizialmente ciascuna delle persone $x$ pagherebbe $\dfrac{6000}{x}$ reais; dopo tre uscite, ciascuna delle persone $x-3$ pagherebbe $\dfrac{6000}{x-3}$, che è $100$ reais in più, quindi $\dfrac{6000}{x}+100 = \dfrac{6000}{x-3} \Leftrightarrow 60(x-3)+x(x-3) = 60x \Leftrightarrow 60x-180+x^2-3x = 60x \Leftrightarrow x^2-3x-180 = 0$.]
 
 **Risposta:** B
-[[Quesiti/src_obm_2016_n1_f1#q19|src_obm_2016_n1_f1__Q19]]
 
 
 
@@ -718,4 +699,3 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: poiché tutte le cifre non sono zero, annullare i termini ripetuti dà $Z = S^3\times I^2$. Poiché $Z$ è una cifra, sia $Z = 1$ che $S = 2$. Nel primo caso $I^2 = 4$ o $I^2 = 9$; nel secondo caso le possibilità sono $(S,I) = (1,2),(1,3)$ o $(2,1)$. Poiché $E$ differisce da $I$ e $S$, ci sono opzioni $7$ per $E$ in ogni caso. Se si elencano i possibili prodotti $P = S\times E\times I\times S\times E\times Z$ ed escludono le combinazioni che danno un $Z$ già scelto, ci sono valori $12$ distinti per $P$: $6,10,12,14,15,16,18,20,21,24,28$ e $36$.]
 
 **Risposta:** A
-[[Quesiti/src_obm_2016_n1_f1#q20|src_obm_2016_n1_f1__Q20]]

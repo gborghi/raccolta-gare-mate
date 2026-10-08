@@ -35,7 +35,6 @@ level: China Mathematical Competition
 > Dato $A = \{2, 0, 1, 3\}$, lasciate $B = \{x \mid -x \in A,\ 2 - x^2 \notin A\}$. La somma degli elementi di $B$ è quindi $\underline{\qquad}$.
 
 **Risposta:** -5
-[[Quesiti/src_cn_cmc_2013#q01|src_cn_cmc_2013__Q01]]
 
 
 
@@ -64,7 +63,6 @@ level: China Mathematical Competition
 > In un sistema di coordinate rettangolare piatto $xOy$, i punti $A$, $B$ sono sulla parabola $y^2 = 4x$, soddisfacendo $\overrightarrow{OA} \cdot \overrightarrow{OB} = -4$, e il punto $F$ è il punto focale della parabola. Poi $S_{\triangle OFA} \cdot S_{\triangle OFB} = \underline{\qquad}$.
 
 **Risposta:** 2
-[[Quesiti/src_cn_cmc_2013#q02|src_cn_cmc_2013__Q02]]
 
 
 
@@ -93,7 +91,6 @@ level: China Mathematical Competition
 > Supponiamo che in $\triangle ABC$ abbiamo $\sin A = 10\sin B\sin C$, $\cos A = 10\cos B\cos C$. Poi $\tan A = \underline{\qquad}$.
 
 **Risposta:** 11
-[[Quesiti/src_cn_cmc_2013#q03|src_cn_cmc_2013__Q03]]
 
 
 
@@ -118,8 +115,6 @@ level: China Mathematical Competition
 *Radio di sfera di piramide triangolare regolare*
 
 > Supponiamo che il lato della base e l'altezza della piramide triangolare regolare $P\text{-}ABC$ siano $1$ e $\sqrt{2}$, rispettivamente. Il raggio di radius della sfera della piramide è $\underline{\qquad}$.
-
-[[Quesiti/src_cn_cmc_2013#q04|src_cn_cmc_2013__Q04]]
 
 
 
@@ -148,7 +143,6 @@ level: China Mathematical Competition
 > $a$, $b$ siano numeri reali e $f(x) = ax + b$ soddisfa $|f(x)| \le 1$ per qualsiasi $x \in [0, 1]$. In questo caso, il massimo di $ab$ è $\underline{\qquad}$.
 
 **Risposta:** \frac{1}{4}
-[[Quesiti/src_cn_cmc_2013#q05|src_cn_cmc_2013__Q05]]
 
 
 
@@ -177,7 +171,6 @@ level: China Mathematical Competition
 > Prendi a caso cinque numeri diversi da $1, 2, \ldots, 20$. Quindi la probabilità che ci siano almeno due numeri adiacenti tra loro è $\underline{\qquad}$.
 
 **Risposta:** \frac{232}{323}
-[[Quesiti/src_cn_cmc_2013#q06|src_cn_cmc_2013__Q06]]
 
 
 
@@ -206,7 +199,6 @@ level: China Mathematical Competition
 > Supponiamo che i numeri reali $x$, $y$ soddisfino $x - 4\sqrt{y} = 2\sqrt{x - y}$. Poi l'intervallo di $x$ è $\underline{\qquad}$.
 
 **Risposta:** \{0\} \cup [4, 20]
-[[Quesiti/src_cn_cmc_2013#q07|src_cn_cmc_2013__Q07]]
 
 
 
@@ -235,7 +227,6 @@ level: China Mathematical Competition
 > Supponiamo che la sequenza $\{a_n\}$ sia composta da nove termini che soddisfano: per qualsiasi $i$ ($1 \le i \le 8$), $b_i = \dfrac{a_{i+1}}{a_i} \in \left\{-\dfrac{1}{2},\ 1,\ 2\right\}$ e $\displaystyle\prod_{i=1}^{8} b_i = 1$. Il numero di sequenze $\{b_i\}$ ($1 \le i \le 8$) che soddisfano le condizioni indicate è $\underline{\qquad}$.
 
 **Risposta:** 491
-[[Quesiti/src_cn_cmc_2013#q08|src_cn_cmc_2013__Q08]]
 
 
 
@@ -263,8 +254,6 @@ level: China Mathematical Competition
 
 > (16 punti) Supponiamo che la sequenza dei numeri positivi $\{x_n\}$ soddisfi $S_n \ge 2S_{n-1}$, $n = 2, 3, \ldots$, dove $S_n = x_1 + \cdots + x_n$. Prova che esiste una costante $C > 0$, tale che $$x_n \ge C \cdot 2^n,\quad n = 1, 2, \ldots$$
 
-[[Quesiti/src_cn_cmc_2013#q09|src_cn_cmc_2013__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_analitica,topic_algebra,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -291,5 +280,3 @@ level: China Mathematical Competition
 *Relazione tra il segmento QR e l'asse semi minore b per la configurazione dell'ellisse*
 
 > (25 marchi) Se si considera un'ellisse $\dfrac{x^2}{a^2} + \dfrac{y^2}{b^2} = 1$ ($a > b > 0$) in un sistema di coordinate rettangolare piatto $xOy$, $A_1$, $A_2$, $F_1$, $F_2$ siano i suoi punti di fine sinistra e destra, rispettivamente i foci sinistra e destra, e $P$ sia qualsiasi punto dell'ellisse diverso da $A_1$, $A_2$. Supponiamo che ci siano punti $Q$, $R$ che soddisfano $$\overrightarrow{QA_1} \cdot \overrightarrow{PA_1} = \overrightarrow{QA_2} \cdot \overrightarrow{PA_2},\quad \overrightarrow{RF_1} \cdot \overrightarrow{PF_1} = \overrightarrow{RF_2} \cdot \overrightarrow{PF_2}.$$ Trovare e dimostrare la relazione tra la lunghezza del segmento $QR$ e $b$.
-
-[[Quesiti/src_cn_cmc_2013#q10|src_cn_cmc_2013__Q10]]

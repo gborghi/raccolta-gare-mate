@@ -39,7 +39,6 @@ level: OBM Nível 3
 > A) $5$ \quad B) $6$ \quad C) $7$ \quad D) $8$ \quad E) $5$
 
 **Risposta:** B
-[[Quesiti/src_obm_2003_n3_f1#q01|src_obm_2003_n3_f1__Q01]]
 
 
 
@@ -72,7 +71,6 @@ level: OBM Nível 3
 > A) $1$ \quad B) $2$ \quad C) $3$ \quad D) $4$ \quad E) $5$
 
 **Risposta:** E
-[[Quesiti/src_obm_2003_n3_f1#q02|src_obm_2003_n3_f1__Q02]]
 
 
 
@@ -107,7 +105,6 @@ Le cellule segnate del conte Camila su una lavagna in stile 4x4 Minesweeper
 > A) $3$ \quad B) $4$ \quad C) $5$ \quad D) $6$ \quad E) $7$
 
 **Risposta:** B
-[[Quesiti/src_obm_2003_n3_f1#q03|src_obm_2003_n3_f1__Q03]]
 
 
 
@@ -140,7 +137,6 @@ Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
 > A) $35!$ \quad B) $\dfrac{35!}{5!}$ \quad C) $\dfrac{35!}{5}$ \quad D) $\left(\dfrac{35}{5}\right)! \cdot 5!$ \quad E) $e^{\sqrt{10}}$
 
 **Risposta:** B
-[[Quesiti/src_obm_2003_n3_f1#q04|src_obm_2003_n3_f1__Q04]]
 
 
 
@@ -178,7 +174,6 @@ Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
 > A) $10^{10}$ \quad B) $10^{21}$ \quad C) $10^{26}$ \quad D) $10^{21}$ \quad E) $10^{36}$
 
 **Risposta:** B
-[[Quesiti/src_obm_2003_n3_f1#q05|src_obm_2003_n3_f1__Q05]]
 
 
 
@@ -213,7 +208,6 @@ Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
 > A) $3/2$ \quad B) $2$ \quad C) $5/2$ \quad D) $3$ \quad E) $\dfrac{1+\sqrt{5}}{2}$
 
 **Risposta:** B
-[[Quesiti/src_obm_2003_n3_f1#q06|src_obm_2003_n3_f1__Q06]]
 
 
 
@@ -246,7 +240,6 @@ Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
 > A) $y = x^2 + 5x + 9$ \quad B) $y = x^2 - 5x - 9$ \quad C) $y = -x^2 + 5x - 9$ \quad D) $y = -x^2 - 5x + 9$ \quad E) $y = -x^2 - 5x - 9$
 
 **Risposta:** E
-[[Quesiti/src_obm_2003_n3_f1#q07|src_obm_2003_n3_f1__Q07]]
 
 
 
@@ -279,7 +272,6 @@ Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
 > A) $3$ \quad B) $4$ \quad C) $5$ \quad D) $6$ \quad E) Sono necessarie ulteriori informazioni.
 
 **Risposta:** C
-[[Quesiti/src_obm_2003_n3_f1#q08|src_obm_2003_n3_f1__Q08]]
 
 
 
@@ -320,7 +312,6 @@ Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
 ![[src_obm_2003_n3_f1__q09.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2003_n3_f1#q09|src_obm_2003_n3_f1__Q09]]
 
 
 
@@ -353,7 +344,6 @@ Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
 > A) $21\;32\;23\;16$ \quad B) $31\;12\;33\;18$ \quad C) $31\;22\;33\;17\;19$ \quad D) $31\;32\;33\;24\;15\;16\;18$ \quad E) $41\;32\;33\;24\;15\;16\;18$
 
 **Risposta:** D
-[[Quesiti/src_obm_2003_n3_f1#q10|src_obm_2003_n3_f1__Q10]]
 
 
 
@@ -388,7 +378,6 @@ Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
 > A) $\dfrac{7}{4}$ \quad B) $\dfrac{7}{2}$ \quad C) $\dfrac{11}{6}$ \quad D) $\dfrac{6}{11}$ \quad E) $\dfrac{1}{2003}$
 
 **Risposta:** D
-[[Quesiti/src_obm_2003_n3_f1#q11|src_obm_2003_n3_f1__Q11]]
 
 
 
@@ -421,7 +410,6 @@ Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
 > A) quarto \quad B) quinto \quad C) sesto \quad D) nessuno \quad E) settimo
 
 **Risposta:** C
-[[Quesiti/src_obm_2003_n3_f1#q12|src_obm_2003_n3_f1__Q12]]
 
 
 
@@ -458,7 +446,6 @@ Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
 > A) KAB significa no. B) La persona ha detto di sì ma ha mentito. C) La persona che ha risposto ha mentito. D) La persona che ha risposto ha detto la verità. E) Non è possibile determinare se la persona ha detto la verità senza un dizionario LUCIANÊS - PORTUGUEZES.
 
 **Risposta:** D
-[[Quesiti/src_obm_2003_n3_f1#q13|src_obm_2003_n3_f1__Q13]]
 
 
 
@@ -491,7 +478,6 @@ Scopri quale giocatore ha meno possibilità nel gioco di lancio con Beatriz, Isa
 > A) Beatriz \quad B) Isabele \quad C) Nicole \quad D) Beatriz e Nicole \quad E) Tutti e tre hanno la stessa possibilità.
 
 **Risposta:** B
-[[Quesiti/src_obm_2003_n3_f1#q14|src_obm_2003_n3_f1__Q14]]
 
 
 
@@ -524,7 +510,6 @@ Scopri quale giocatore ha meno possibilità nel gioco di lancio con Beatriz, Isa
 > A) $10$ \quad B) $11$ \quad C) $13$ \quad D) $14$ \quad E) $15$
 
 **Risposta:** C
-[[Quesiti/src_obm_2003_n3_f1#q15|src_obm_2003_n3_f1__Q15]]
 
 
 
@@ -565,7 +550,6 @@ Scopri quale giocatore ha meno possibilità nel gioco di lancio con Beatriz, Isa
 ![[src_obm_2003_n3_f1__q16.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2003_n3_f1#q16|src_obm_2003_n3_f1__Q16]]
 
 
 
@@ -598,7 +582,6 @@ Scopri quale giocatore ha meno possibilità nel gioco di lancio con Beatriz, Isa
 > A) $20$ \quad B) $30$ \quad C) $45$ \quad D) $60$ \quad E) $75$
 
 **Risposta:** D
-[[Quesiti/src_obm_2003_n3_f1#q17|src_obm_2003_n3_f1__Q17]]
 
 
 
@@ -631,7 +614,6 @@ Scopri quale giocatore ha meno possibilità nel gioco di lancio con Beatriz, Isa
 > A) $15$ \quad B) $7$ \quad C) $15$ \quad D) $25$ \quad E) $45$
 
 **Risposta:** A
-[[Quesiti/src_obm_2003_n3_f1#q18|src_obm_2003_n3_f1__Q18]]
 
 
 
@@ -664,7 +646,6 @@ Trova la velocità del treno dato che Augusto ed Eduardo scampano a malapena dal
 > A) $30$ \quad B) $45$ \quad C) $60$ \quad D) $75$ \quad E) $90$
 
 **Risposta:** D
-[[Quesiti/src_obm_2003_n3_f1#q19|src_obm_2003_n3_f1__Q19]]
 
 
 
@@ -701,7 +682,6 @@ Trova la velocità del treno dato che Augusto ed Eduardo scampano a malapena dal
 > A) $9$ \quad B) $18$ \quad C) $22$ \quad D) $27$ \quad E) $36$
 
 **Risposta:** B
-[[Quesiti/src_obm_2003_n3_f1#q20|src_obm_2003_n3_f1__Q20]]
 
 
 
@@ -736,7 +716,6 @@ Trova la velocità del treno dato che Augusto ed Eduardo scampano a malapena dal
 > A) $4$ \quad B) $6$ \quad C) $7$ \quad D) $8$ \quad E) $9$
 
 **Risposta:** D
-[[Quesiti/src_obm_2003_n3_f1#q21|src_obm_2003_n3_f1__Q21]]
 
 
 
@@ -781,7 +760,6 @@ Trova la velocità del treno dato che Augusto ed Eduardo scampano a malapena dal
 > A) $1$ \quad B) $2$ \quad C) $3$ \quad D) $4$ \quad E) $5$
 
 **Risposta:** A
-[[Quesiti/src_obm_2003_n3_f1#q22|src_obm_2003_n3_f1__Q22]]
 
 
 
@@ -814,7 +792,6 @@ Trova la velocità del treno dato che Augusto ed Eduardo scampano a malapena dal
 > A) $2^{2003}$ \quad B) $4^{2003}$ \quad C) $2^{(2^{\cdots})}$ \quad D) $2^{(2^{2003})}$ \quad E) $2^{(2^{2004})}$
 
 **Risposta:** E
-[[Quesiti/src_obm_2003_n3_f1#q23|src_obm_2003_n3_f1__Q23]]
 
 
 
@@ -853,7 +830,6 @@ Trova la velocità del treno dato che Augusto ed Eduardo scampano a malapena dal
 > A) $f$ è la funzione zero. B) $f$ è la funzione di identità, cioè $f(x) = x$ per tutte le $x$ reali. C) $f$ è la funzione zero o la funzione identità. D) Esistono esattamente $4$ funzioni possibili $f$. E) Ci sono infinite funzioni $f$.
 
 **Risposta:** E
-[[Quesiti/src_obm_2003_n3_f1#q24|src_obm_2003_n3_f1__Q24]]
 
 
 
@@ -886,4 +862,3 @@ Trova la velocità del treno dato che Augusto ed Eduardo scampano a malapena dal
 > A) $30$ \quad B) $40$ \quad C) $45$ \quad D) $60$ \quad E) $75$
 
 **Risposta:** C
-[[Quesiti/src_obm_2003_n3_f1#q25|src_obm_2003_n3_f1__Q25]]

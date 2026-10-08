@@ -47,8 +47,6 @@ level: IMO
 >
 > (b) Si mostri che esistono numeri reali $x_1 \le x_2 \le \cdots \le x_n$ tali che valga l'uguaglianza in $(*)$.
 
-[[Quesiti/src_imho_2007#q01|src_imho_2007__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -73,8 +71,6 @@ level: IMO
 *Retta passante per vertice del parallelogramma incontra quadrilatero ciclico*
 
 > Siano dati cinque punti $A$, $B$, $C$, $D$ e $E$ tali che $ABCD$ sia un parallelogramma e $BCED$ sia un quadrilatero ciclico. Si supponga che una retta $\ell$ passante per $A$ intersechi l'interno del segmento $DC$ nel punto $F$ e intersechi la retta $BC$ nel punto $G$. Si supponga inoltre che $EF = EG = EC$. Si dimostri che $\ell$ è la bisettrice dell'angolo $DAB$.
-
-[[Quesiti/src_imho_2007#q02|src_imho_2007__Q02]]
 
 
 
@@ -105,8 +101,6 @@ level: IMO
 > 
 > Si dimostri che, dato che in questa gara la massima dimensione di una clique è pari, i concorrenti possono essere disposti in due stanze in modo tale che la massima dimensione di una clique contenuta in una stanza sia uguale alla massima dimensione di una clique contenuta nell'altra stanza.
 
-[[Quesiti/src_imho_2007#q03|src_imho_2007__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -132,8 +126,6 @@ level: IMO
 
 > Nel triangolo $ABC$ la bisettrice dell'angolo $BCA$ interseca nuovamente la circonferenza circoscritta in $R$, l'asse del segmento $BC$ in $P$ e l'asse del segmento $AC$ in $Q$. Il punto medio di $BC$ è $K$ e il punto medio di $AC$ è $L$. Si dimostri che i triangoli $RPK$ e $RQL$ hanno la stessa area.
 
-[[Quesiti/src_imho_2007#q04|src_imho_2007__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_estremalita,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -158,8 +150,6 @@ level: IMO
 *Condizione di divisibilità implica a uguale a b*
 
 > Siano $a$ e $b$ numeri interi positivi. Si dimostri che se $4ab - 1$ divide $(4a^2 - 1)^2$, allora $a = b$.
-
-[[Quesiti/src_imho_2007#q05|src_imho_2007__Q05]]
 
 
 
@@ -187,5 +177,3 @@ level: IMO
 *Piani minimi che coprono punti reticolari con somma delle coordinate positiva*
 
 > Sia $n$ un intero positivo. Si consideri $$S = \{(x,y,z) \ : \ x, y, z \in \{0, 1, \ldots, n\},\ x + y + z > 0\}$$ come insieme di $(n+1)^3 - 1$ punti nello spazio tridimensionale. Si determini il numero minimo possibile di piani la cui unione contenga $S$ ma non includa $(0, 0, 0)$.
-
-[[Quesiti/src_imho_2007#q06|src_imho_2007__Q06]]

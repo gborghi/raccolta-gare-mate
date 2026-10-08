@@ -43,7 +43,6 @@ La logica: chi ha rotto la finestra tra quattro bambini
 > Supponendo che esattamente uno dei quattro bambini abbia detto la verità, quale di loro ha rotto la finestra?
 
 **Risposta:** Cédric
-[[Quesiti/src_canimath_2016_automne#q01|src_canimath_2016_automne__Q01]]
 
 
 
@@ -76,7 +75,6 @@ La logica: chi ha rotto la finestra tra quattro bambini
 ![[src_canimath_2016_automne__q02.png]]
 
 **Risposta:** 32
-[[Quesiti/src_canimath_2016_automne#q02|src_canimath_2016_automne__Q02]]
 
 
 
@@ -105,7 +103,6 @@ La logica: chi ha rotto la finestra tra quattro bambini
 > I punti 2016 sono allineati su una linea. In quanti modi si possono colorare rosso, verde o blu, in modo che due punti adiacenti siano di colori diversi e ogni colore venga utilizzato almeno una volta?
 
 **Risposta:** 6
-[[Quesiti/src_canimath_2016_automne#q03|src_canimath_2016_automne__Q03]]
 
 
 
@@ -130,8 +127,6 @@ La logica: chi ha rotto la finestra tra quattro bambini
 *Due cerchi tangenti esternamente; tangente comune incontra cerchi; mostrare T,X,Z collineare*
 
 > Due cerchi $C_1$ e $C_2$ sono tangenti esternamente in un punto $X$. Un tangente comune a entrambi i cerchi incontra $C_1$ a $Y$ e $C_2$ a $Z$ (con $Y \neq Z$). Il $T$ deve essere un punto tale che $[YT]$ abbia un diametro di $C_2$. Indicare che $T$, $X$ e $Z$ sono collineari.
-
-[[Quesiti/src_canimath_2016_automne#q04|src_canimath_2016_automne__Q04]]
 
 
 
@@ -162,8 +157,6 @@ La logica: chi ha rotto la finestra tra quattro bambini
 > 
 > *Nota: un palindromo non può iniziare con uno zero. Ad esempio, il 0770 non è un palindromo.*
 
-[[Quesiti/src_canimath_2016_automne#q05|src_canimath_2016_automne__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_insiemi_funzioni,method_casework,method_simmetria,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
@@ -188,8 +181,6 @@ La logica: chi ha rotto la finestra tra quattro bambini
 *Ricerca tutti n≥3 integri posizionabili su un cerchio in modo che ciascuno sia uguale al prodotto di due vicini*
 
 > Determinare tutti i numeri interi $n \geq 3$ in modo tale che si possano posizionare $n$ numeri reali distinti su un cerchio in modo che ciascuno di questi numeri sia uguale al prodotto dei suoi due vicini.
-
-[[Quesiti/src_canimath_2016_automne#q06|src_canimath_2016_automne__Q06]]
 
 
 
@@ -220,8 +211,6 @@ Gioco: sostituire n a bordo; chi vince?
 > 
 > Determinare quale giocatore abbia una strategia vincente e descrivere quella strategia.
 
-[[Quesiti/src_canimath_2016_automne#q07|src_canimath_2016_automne__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_algebra,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_stima"></span>
@@ -249,4 +238,3 @@ Gioco: sostituire n a bordo; chi vince?
 > Un elenco di numeri è chiamato *jolie* se è costituito da integri rigorosamente positivi in modo tale che la somma di questi integri sia pari al loro prodotto. Determinare il numero più piccolo di numeri interi uguali a 1 che una lista di 100 numeri può contenere.
 
 **Risposta:** 95
-[[Quesiti/src_canimath_2016_automne#q08|src_canimath_2016_automne__Q08]]

@@ -43,8 +43,6 @@ Formare due numeri a 4 cifre utilizzando cifre da 1 a 8 una volta ciascuna; mass
 > 
 > b) Se la somma di questi numeri è la più piccola possibile, qual è la più piccola differenza possibile tra loro?
 
-[[Quesiti/src_obm_2012_n1_f3#q01|src_obm_2012_n1_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
@@ -80,8 +78,6 @@ Formare due numeri a 4 cifre utilizzando cifre da 1 a 8 una volta ciascuna; mass
 > 
 > b) Se $PQ = 3$, $QR = 4$, $RS = 5$ e $TU = 1$, qual è il valore di $ST + PU$?
 
-[[Quesiti/src_obm_2012_n1_f3#q02|src_obm_2012_n1_f3__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_fattorizzazione,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -116,8 +112,6 @@ D'un mucchio di 25 carte Doroti ne prende alcune e restituisce il resto a Cristi
 > a) Nella prima occasione, la differenza tra i numeri delle carte di Doroti e di Cristina era un multiple di $4$, e questi due numeri erano anche copriemi. Quali erano questi due numeri?
 > 
 > b) Nella seconda occasione, Doroti ha scelto le sue carte in modo tale che, tra i due numeri (le carte di Doroti e quelle di Cristina), uno dei numeri sia divisibile dall'altro, anche se nessuno di essi è pari. Quali sono i due numeri? E qual è il più grande di questi numeri?
-
-[[Quesiti/src_obm_2012_n1_f3#q03|src_obm_2012_n1_f3__Q03]]
 
 
 
@@ -158,8 +152,6 @@ D'un mucchio di 25 carte Doroti ne prende alcune e restituisce il resto a Cristi
 
 ![[src_obm_2012_n1_f3__q04.png]]
 
-[[Quesiti/src_obm_2012_n1_f3#q04|src_obm_2012_n1_f3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_casework,skill_conteggio_sistematico,skill_astrazione,skill_riconoscimento_pattern"></span>
@@ -194,5 +186,3 @@ D'un mucchio di 25 carte Doroti ne prende alcune e restituisce il resto a Cristi
 > a) osserva che tutti gli amoeba si uniscono in coppie, dando origine agli amoeba della generazione successiva. Quanti amoeba possono avere questa generazione?
 > 
 > b) A partire dalla situazione iniziale, se in un istante ci sono $100$ amoebas, quante saranno blu?
-
-[[Quesiti/src_obm_2012_n1_f3#q05|src_obm_2012_n1_f3__Q05]]

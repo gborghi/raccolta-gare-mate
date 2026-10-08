@@ -43,7 +43,6 @@ level: squadre
 > The false code Sergio believes to have invented a secret code to identify the integers: if a digit is odd, it represents it with a circle, if it is even with a square; if a digit is a multiple of 3, the circle or square that represents it is full, while it is empty otherwise. So Sergio represents the number 34567 with . But Sergio is mistaken: his criterion does not allow us to identify a number with certainty based on his representation. Including the number 34567, how many numbers are represented by the same figure? (Remember that 0 is an even digit and is divisible by 3.)
 
 **Answer:** 0108
-[[Quesiti/src_kangourou_2024_kangourou_squadre#q01|src_kangourou_2024_kangourou_squadre__Q01]]
 
 
 
@@ -81,7 +80,6 @@ level: squadre
 > at the beginning?
 
 **Answer:** 9956
-[[Quesiti/src_kangourou_2024_kangourou_squadre#q02|src_kangourou_2024_kangourou_squadre__Q02]]
 
 
 
@@ -112,7 +110,6 @@ level: squadre
 > Sum of the digits Imagine you've done the 10 × 10 × 10 × ... × 10 where the factor 10 appears 100 times and subtract 2024 from the result you got. What is the sum of the digits of the result you get?
 
 **Answer:** 0893
-[[Quesiti/src_kangourou_2024_kangourou_squadre#q03|src_kangourou_2024_kangourou_squadre__Q03]]
 
 
 
@@ -144,7 +141,6 @@ level: squadre
 > The dimensions of the sides of a triangle (which is not reduced to a segment or a point) are 60, k, 2k. If k is a positive integer, what are the smallest and largest possible values for k? (Write them in sequence from left to right, starting with the smallest: for example, if the values were 10 and 85, you would have to write 1085.)
 
 **Answer:** 2159
-[[Quesiti/src_kangourou_2024_kangourou_squadre#q04|src_kangourou_2024_kangourou_squadre__Q04]]
 
 
 
@@ -177,7 +173,6 @@ level: squadre
 > that such a number does not exist.)
 
 **Answer:** 0000
-[[Quesiti/src_kangourou_2024_kangourou_squadre#q05|src_kangourou_2024_kangourou_squadre__Q05]]
 
 
 
@@ -210,7 +205,6 @@ level: squadre
 > The angle On a semicircle with diameter AD and center M, points B and C are such that the angle CAD ̂ measures 50 degrees and BM is perpendicular to AC. Let K be the point where AC cuts BD. How many degrees does the angle DKC ̂ measure?
 
 **Answer:** 0070
-[[Quesiti/src_kangourou_2024_kangourou_squadre#q06|src_kangourou_2024_kangourou_squadre__Q06]]
 
 
 
@@ -240,7 +234,6 @@ Product of current ages of Gianni and Lisa*
 > Gianni and Lisa Gianni is two years older than Lisa. This year the product of their ages (in years) is the product of their ages last year, increased by 27. Write the product of the current two ages.
 
 **Answer:** 0195
-[[Quesiti/src_kangourou_2024_kangourou_squadre#q07|src_kangourou_2024_kangourou_squadre__Q07]]
 
 
 
@@ -272,7 +265,6 @@ Product of current ages of Gianni and Lisa*
 > In a 16-digit sequence, the fourth is 3 and the fifth from last is 5. In addition, the sum of three consecutive digits in the sequence, wherever they are, is 14. What is the sequence of the last four digits of the sequence?
 
 **Answer:** 3653
-[[Quesiti/src_kangourou_2024_kangourou_squadre#q08|src_kangourou_2024_kangourou_squadre__Q08]]
 
 
 
@@ -309,7 +301,6 @@ Product of current ages of Gianni and Lisa*
 > 10%: he thus saved a total of 6 euros and 65 cents. How many cents did he pay for each pin?
 
 **Answer:** 0081
-[[Quesiti/src_kangourou_2024_kangourou_squadre#q09|src_kangourou_2024_kangourou_squadre__Q09]]
 
 
 
@@ -426,7 +417,6 @@ Product of current ages of Gianni and Lisa*
 > The shaded region The figure shows three concentric circles of center O on which two diameters are drawn perpendicular to each other; RO, QO and PO are the radii of the three circles. The RQ segment is half the length of the QP segment which in turn is 2/3 of the PO segment. The area of the largest circle is 1962 m2. How many square meters is the area of the shaded region?
 
 **Answer:** 1417
-[[Quesiti/src_kangourou_2024_kangourou_squadre#q10|src_kangourou_2024_kangourou_squadre__Q10]]
 
 
 
@@ -460,7 +450,6 @@ Product of current ages of Gianni and Lisa*
 > Three cards There are three cards on the table and on each one is marked a number; the three numbers are positive integers, none greater than 30. Three friends play like this: they each take one of the three cards in sequence, noting the number shown on the card. Then the three cards are put back on the table and so a round is played. After n rounds, each of the three friends sums up the n numbers he wrote down: the three sums are 401, 444, 468. How much is n?
 
 **Answer:** 0101
-[[Quesiti/src_kangourou_2024_kangourou_squadre#q11|src_kangourou_2024_kangourou_squadre__Q11]]
 
 
 
@@ -491,7 +480,6 @@ Product of current ages of Gianni and Lisa*
 > Increasing or decreasing How many positive integers of three digits are there (which are greater than 99), all distinct from each other, in which the digits are in increasing or decreasing order?
 
 **Answer:** 0204
-[[Quesiti/src_kangourou_2024_kangourou_squadre#q12|src_kangourou_2024_kangourou_squadre__Q12]]
 
 
 
@@ -522,7 +510,6 @@ Product of current ages of Gianni and Lisa*
 > The rich man The 2024 children in a small town have an average of 4 euros per person. Each has at least one euro and half has at least two. What is the maximum amount of euros that one of those children could have?
 
 **Answer:** 5062
-[[Quesiti/src_kangourou_2024_kangourou_squadre#q13|src_kangourou_2024_kangourou_squadre__Q13]]
 
 
 
@@ -554,7 +541,6 @@ Product of current ages of Gianni and Lisa*
 > There are many lamps in a large luminaire. Yesterday, for every 20 reds there were 48 green lamps. Today, some light bulbs of one of the two colours have been replaced by as many of the other colour: now there are 26 red light bulbs for every 50 green. What is the smallest number of light bulbs that have certainly been replaced?
 
 **Answer:** 0062
-[[Quesiti/src_kangourou_2024_kangourou_squadre#q14|src_kangourou_2024_kangourou_squadre__Q14]]
 
 
 
@@ -608,4 +594,3 @@ Product of current ages of Gianni and Lisa*
 > Titles and answers
 
 **Answer:** 0072
-[[Quesiti/src_kangourou_2024_kangourou_squadre#q15|src_kangourou_2024_kangourou_squadre__Q15]]

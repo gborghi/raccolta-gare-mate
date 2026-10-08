@@ -34,8 +34,6 @@ level: nazionale
 
 > Either ABCDEF is a hexagon inscribed in a circumference and such that AB = BC, CD = DE and EF = AF. Demonstrate that segments AD, BE and CF compete (i.e. have one point in common).
 
-[[Quesiti/src_cesenatico_2019#q01|src_cesenatico_2019__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica"></span>
@@ -61,8 +59,6 @@ level: nazionale
 *if p+q^2 squared then p^2+q^n is not*
 
 > Let's say p, q are prime numbers. Prove that if p + q2 is a perfect square, then the number p2 + qn is not a perfect square for any positive integer n.
-
-[[Quesiti/src_cesenatico_2019#q02|src_cesenatico_2019__Q02]]
 
 
 
@@ -93,8 +89,7 @@ level: nazionale
 
 > Let n be an integer greater than 2. They want to color red exactly n+1 of the numbers 1, 2, · · , 2n−1, 2n so that there are no three distinct numbers x, y, z colored red that satisfy the equality x + y = z. Demonstrate that there is one and only one way to choose numbers to color red that meets the given condition.
 
-**Answer:** {n+1,...,2n} (unico)
-[[Quesiti/src_cesenatico_2019#q03|src_cesenatico_2019__Q03]]
+**Answer:** {n+1,...,2n} (unique)
 
 
 
@@ -123,8 +118,6 @@ If the floor is square then the floor is square
 
 > Let's denote with bxc the largest integer  of x. If λ ≥1 is a real number, and n is a positive integer, such as bλn+1c, bλn+2c, . . . , b4nc are all perfect squares. Prove that bλc is a perfect square.
 
-[[Quesiti/src_cesenatico_2019#q04|src_cesenatico_2019__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
@@ -151,8 +144,6 @@ If the floor is square then the floor is square
 *AX perpendicular to XC*
 
 > Let ABC be a triangle with an acute angle. Let D be the foot of the inner vertex from A and M the midpoint of AD. In addition, X is a point on the BM segment such that \MXA = \DAC. Demonstrate that AX is perpendicular to XC.
-
-[[Quesiti/src_cesenatico_2019#q05|src_cesenatico_2019__Q05]]
 
 
 
@@ -197,4 +188,3 @@ How many sequences do Barbara win?
 > XXXV Italian Games of Cesenatic Mathematics, 3 May 2019
 
 **Answer:** 8320
-[[Quesiti/src_cesenatico_2019#q06|src_cesenatico_2019__Q06]]

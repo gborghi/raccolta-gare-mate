@@ -43,8 +43,6 @@ level: Concours Général
 > 
 > 2. Il $ABC$ è un triangolo, il $\Omega$ è il centro del suo cerchio circoscritto e il $H$ è il punto tale che $\overrightarrow{\Omega H}=\overrightarrow{\Omega A}+\overrightarrow{\Omega B}+\overrightarrow{\Omega C}$. Indicare che $H$ è l'ortocentro del triangolo $ABC$.
 
-[[Quesiti/src_cgen_2003#q01|src_cgen_2003__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_insiemi_funzioni,method_casework,method_simmetria,method_estremalita,skill_ragionamento_geometrico,skill_astrazione,skill_casework_accurato"></span>
@@ -90,8 +88,6 @@ level: Concours Général
 > 
 > 4. a. Il $\Gamma$ deve essere un cerchio di raggio rigorosamente positivo; determinare $\mathcal{H}(\Gamma)$. b. Il disco $D$ deve avere un raggio rigorosamente positivo; determina il $\mathcal{H}(D)$.
 
-[[Quesiti/src_cgen_2003#q02|src_cgen_2003__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_probabilita,topic_geometria_piana,topic_combinatoria,method_conteggio,method_casi_conteggio,method_simmetria,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_modellizzazione"></span>
@@ -132,8 +128,6 @@ level: Concours Général
 > 2. Qual è la probabilità di scegliere un triangolo i cui tre angoli sono acuti?
 > 
 > 3. La variabile casuale $L$ deve associare a ogni elemento di $\mathcal{T}$ il quadrato della distanza da $O$ al suo ortocentro. Determinare, come funzione di $n$ e $R$, l'aspettativa della variabile casuale $L$.
-
-[[Quesiti/src_cgen_2003#q03|src_cgen_2003__Q03]]
 
 
 
@@ -181,8 +175,6 @@ level: Concours Général
 > 3. Il $X$ deve essere un insieme ortocentrico contenuto nell'unione degli assi $(O,\vec{u})$ e $(O,\vec{v})$ e contenente almeno tre punti di $(O,\vec{u})$ distinti da $O$. a. Indicare che $X$ contiene almeno tre punti di $(O,\vec{u})$ con abscisse non zero dello stesso segno. b. Indicare che $X$ contiene almeno tre punti di $(O,\vec{u})$ con abscisse rigorosamente positive.
 > 
 > 4. a. Determinare le serie ortocentriche finite, contenenti al massimo cinque punti e contenute nell'unione degli assi $(O,\vec{u})$ e $(O,\vec{v})$. b. Il $X$ deve essere un insieme ortocentrico contenuto nell'unione degli assi $(O,\vec{u})$ e $(O,\vec{v})$ e contenente almeno sei punti. Mostrare che esistono due sequenze $(x_n)$ e $(x'_n)$ di numeri reali non zero in modo tale che, per ogni numero intero $n$, i punti delle coordinate $(x_n,0)$ e $(x'_n,0)$ appartengano a $X$, e in modo tale che: $$\lim_{n\to+\infty} x_n=+\infty,\qquad \lim_{n\to+\infty} x'_n=0.$$ Può essere finito un insieme ortocentrico contenuto nell'unione degli assi $(O,\vec{u})$ e $(O,\vec{v})$ e contenente almeno sei punti?
-
-[[Quesiti/src_cgen_2003#q04|src_cgen_2003__Q04]]
 
 
 
@@ -245,8 +237,6 @@ level: Concours Général
 > 
 > 4. Da quanto precede si deduce che l'insieme $G$ dei punti di coordinate interi di $X$ è un insieme ortocentrico infinito.
 
-[[Quesiti/src_cgen_2003#q05|src_cgen_2003__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_analitica,topic_geometria_piana,topic_insiemi_funzioni,method_ricorsione,method_invarianti,method_coordinate,method_casework,skill_astrazione,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_casework_accurato"></span>
@@ -292,5 +282,3 @@ level: Concours Général
 > 1. Indicare che $m=1$ o $m=2$.
 > 
 > 2. Determinare le serie $X_0$ tali da $m=1$, poi quelle tali da $m=2$.
-
-[[Quesiti/src_cgen_2003#q06|src_cgen_2003__Q06]]

@@ -35,7 +35,6 @@ level: kangourou
 > Imagine a list in which all positive integers appear in increasing order whose digit sum is divisible by $5$ (the list will begin thus: $5, 14, 19, 23, \ldots$). What is the smallest possible difference between a number and the one before it in this list?
 
 **Answer:** 1
-[[Quesiti/src_kangourou_2011_junior_finale#qj1|src_kangourou_2011_junior_finale__QJ1]]
 
 
 
@@ -64,7 +63,6 @@ level: kangourou
 > A positive integer, written in decimal notation, has all its digits different from each other and is divisible by each of its digits. How many digits can it have at most?
 
 **Answer:** 7
-[[Quesiti/src_kangourou_2011_junior_finale#qj2|src_kangourou_2011_junior_finale__QJ2]]
 
 
 
@@ -92,7 +90,6 @@ Who skips a circuit with a ditch without falling and why
 > Ada, Bruna, Carla, Dora, and Enrica jump on their own jumper whose base is practically a point. Each of them performs jumps of the same length; the lengths are $70, 80, 85, 90$ and $95$ cm respectively. They all follow, starting from the same point and moving in the same direction, the same circular circuit length $400$ meters, which is traversed by a trench $73$ cm wide. It happens that only one of them can make 6 full laps of the circuit without falling into the ditch: who and why? (The lengths of the jumps and the width of the trench are to be measured on circuit arcs, not on chords.)
 
 **Answer:** Bruna
-[[Quesiti/src_kangourou_2011_junior_finale#qj3|src_kangourou_2011_junior_finale__QJ3]]
 
 
 
@@ -131,7 +128,6 @@ Who skips a circuit with a ditch without falling and why
 > Show that you can achieve the goal in different ways, but that the number of boxes with the letter $C$ is always the same. What is it? Why?
 
 **Answer:** 7
-[[Quesiti/src_kangourou_2011_junior_finale#qj4|src_kangourou_2011_junior_finale__QJ4]]
 
 
 
@@ -160,7 +156,6 @@ Who skips a circuit with a ditch without falling and why
 > There are several ways of dividing a square of side $1$ into $4$ triangles each of area $\frac{1}{4}$ (by "divide" we mean decompose without overlaps except, possibly, along sides). The sum of the perimeters of the triangles may vary as the ways vary. How many different possible values can this sum assume? Justify the answer in the most comprehensive way possible.
 
 **Answer:** 5
-[[Quesiti/src_kangourou_2011_junior_finale#qj5|src_kangourou_2011_junior_finale__QJ5]]
 
 
 
@@ -193,4 +188,3 @@ Who skips a circuit with a ditch without falling and why
 > Are there values of $m$ for which the ant will be able to get out of the box? If so, what are they?
 
 **Answer:** m=1+k(k+1)/2
-[[Quesiti/src_kangourou_2011_junior_finale#qj6|src_kangourou_2011_junior_finale__QJ6]]

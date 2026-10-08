@@ -57,7 +57,6 @@ level: kangourou
 > E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2023_cadet#q01|src_kangourou_2023_cadet__Q01]]
 
 
 
@@ -107,7 +106,6 @@ level: kangourou
 > E)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2023_cadet#q02|src_kangourou_2023_cadet__Q02]]
 
 
 
@@ -141,7 +139,6 @@ level: kangourou
 > What is the sum of the largest three-digit integer that is multiple of 4 and the smallest positive four-digit integer that is multiple of 3? A) 1996 B) 1997 C) 1998 D) 1999 E) 2000
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_cadet#q03|src_kangourou_2023_cadet__Q03]]
 
 
 
@@ -194,7 +191,6 @@ level: kangourou
 > E)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2023_cadet#q04|src_kangourou_2023_cadet__Q04]]
 
 
 
@@ -238,7 +234,6 @@ level: kangourou
 > E) m + n
 
 **Answer:** D
-[[Quesiti/src_kangourou_2023_cadet#q05|src_kangourou_2023_cadet__Q05]]
 
 
 
@@ -329,7 +324,6 @@ level: kangourou
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2023_cadet#q06|src_kangourou_2023_cadet__Q06]]
 
 
 
@@ -367,7 +361,6 @@ level: kangourou
 > C) 20 D) 25 E) 30
 
 **Answer:** E
-[[Quesiti/src_kangourou_2023_cadet#q07|src_kangourou_2023_cadet__Q07]]
 
 
 
@@ -409,7 +402,6 @@ level: kangourou
 > At the edges of a track there are four A, B, C, D bumper cars traveling on straight paths. The drawing shows for each of them the starting position, the direction of march and how much distance it covers in 5 seconds. Which cars will collide? A) A and B B) A and C C) A and D D) B and C E) C and D
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_cadet#q08|src_kangourou_2023_cadet__Q08]]
 
 
 
@@ -457,7 +449,6 @@ level: kangourou
 > E) 15
 
 **Answer:** D
-[[Quesiti/src_kangourou_2023_cadet#q09|src_kangourou_2023_cadet__Q09]]
 
 
 
@@ -511,7 +502,6 @@ level: kangourou
 > E) 7 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2023_cadet#q10|src_kangourou_2023_cadet__Q10]]
 
 
 
@@ -553,7 +543,6 @@ level: kangourou
 > E) §ò§
 
 **Answer:** E
-[[Quesiti/src_kangourou_2023_cadet#q11|src_kangourou_2023_cadet__Q11]]
 
 
 
@@ -602,7 +591,6 @@ level: kangourou
 > E) 36
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_cadet#q12|src_kangourou_2023_cadet__Q12]]
 
 
 
@@ -679,7 +667,6 @@ level: kangourou
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2023_cadet#q13|src_kangourou_2023_cadet__Q13]]
 
 
 
@@ -731,7 +718,6 @@ level: kangourou
 > E) 9
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_cadet#q14|src_kangourou_2023_cadet__Q14]]
 
 
 
@@ -777,7 +763,6 @@ level: kangourou
 > E) 12
 
 **Answer:** E
-[[Quesiti/src_kangourou_2023_cadet#q15|src_kangourou_2023_cadet__Q15]]
 
 
 
@@ -816,7 +801,6 @@ level: kangourou
 > The ABC triangle shown in the figure is isosceles and its vertex angle ABC measures 40°. The EAB and DCA angles have the same size. How many degrees does the CFE angle measure ? A) 55 B) 60 C) 65 D) 70 E) 75
 
 **Answer:** D
-[[Quesiti/src_kangourou_2023_cadet#q16|src_kangourou_2023_cadet__Q16]]
 
 
 
@@ -860,7 +844,6 @@ level: kangourou
 > C) 39 D) 40 E) 41
 
 **Answer:** D
-[[Quesiti/src_kangourou_2023_cadet#q17|src_kangourou_2023_cadet__Q17]]
 
 
 
@@ -902,7 +885,6 @@ level: kangourou
 > The figure shows a rectangle consisting of three gray squares, each 25 cm2 in area; its vertices are on the sides of a larger rectangle: in particular the vertices on the two smaller sides are the midpoints of those sides. How many square centimetres is the area of the large rectangle? A) 125 B) 136 C) 149 D) 150 E) 172
 
 **Answer:** D
-[[Quesiti/src_kangourou_2023_cadet#q18|src_kangourou_2023_cadet__Q18]]
 
 
 
@@ -953,7 +935,6 @@ level: kangourou
 > E) 6
 
 **Answer:** B
-[[Quesiti/src_kangourou_2023_cadet#q19|src_kangourou_2023_cadet__Q19]]
 
 
 
@@ -1030,8 +1011,6 @@ level: kangourou
 
 **Answer:** A
 
-[[Quesiti/src_kangourou_2023_cadet#q20|src_kangourou_2023_cadet__Q20]]
-
 
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_combinatoria,method_estremalita,skill_casework_accurato"></span>
@@ -1078,7 +1057,6 @@ level: kangourou
 > E) 8
 
 **Answer:** B
-[[Quesiti/src_kangourou_2023_cadet#q21|src_kangourou_2023_cadet__Q21]]
 
 
 
@@ -1120,7 +1098,6 @@ level: kangourou
 > An ant travels along the three sides of an equilateral triangle at different but constant speeds on each side: at 5 cm/min on one side, at 15 cm/min on the next, at 20 cm/min on the rest, as shown in the figure. Then it stops. What is the average speed of the ant along the entire route in cm/min? A) 10 B) 80/11 C)180/19 D) 15 E) 40/3
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_cadet#q22|src_kangourou_2023_cadet__Q22]]
 
 
 
@@ -1169,7 +1146,6 @@ level: kangourou
 > E) 5
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_cadet#q23|src_kangourou_2023_cadet__Q23]]
 
 
 
@@ -1216,7 +1192,6 @@ level: kangourou
 > C) 32 D) 24 E) 16
 
 **Answer:** E
-[[Quesiti/src_kangourou_2023_cadet#q24|src_kangourou_2023_cadet__Q24]]
 
 
 
@@ -1263,7 +1238,6 @@ level: kangourou
 > E) 18
 
 **Answer:** D
-[[Quesiti/src_kangourou_2023_cadet#q25|src_kangourou_2023_cadet__Q25]]
 
 
 
@@ -1326,7 +1300,6 @@ level: kangourou
 >
 
 **Answer:** A
-[[Quesiti/src_kangourou_2023_cadet#q26|src_kangourou_2023_cadet__Q26]]
 
 
 
@@ -1376,7 +1349,6 @@ level: kangourou
 > E) 6
 
 **Answer:** E
-[[Quesiti/src_kangourou_2023_cadet#q27|src_kangourou_2023_cadet__Q27]]
 
 
 
@@ -1421,7 +1393,6 @@ level: kangourou
 > C) 2/3 D) 3/4 E) 3/5
 
 **Answer:** A
-[[Quesiti/src_kangourou_2023_cadet#q28|src_kangourou_2023_cadet__Q28]]
 
 
 
@@ -1467,7 +1438,6 @@ level: kangourou
 > C) 23 D) 24 E) 30
 
 **Answer:** A
-[[Quesiti/src_kangourou_2023_cadet#q29|src_kangourou_2023_cadet__Q29]]
 
 
 
@@ -1520,4 +1490,3 @@ level: kangourou
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_cadet#q30|src_kangourou_2023_cadet__Q30]]

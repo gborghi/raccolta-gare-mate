@@ -47,7 +47,6 @@ level: biennio
 > - **(E)** 6
 
 **Answer:** A
-[[Quesiti/src_archimede_2025_biennio_rec#q01|src_archimede_2025_biennio_rec__Q01]]
 
 
 
@@ -91,7 +90,6 @@ level: biennio
 > - **(E)** 2
 
 **Answer:** D
-[[Quesiti/src_archimede_2025_biennio_rec#q02|src_archimede_2025_biennio_rec__Q02]]
 
 
 
@@ -144,7 +142,6 @@ level: biennio
 > - **(E)** 58°
 
 **Answer:** C
-[[Quesiti/src_archimede_2025_biennio_rec#q03|src_archimede_2025_biennio_rec__Q03]]
 
 
 
@@ -185,7 +182,6 @@ level: biennio
 > - **(E)** 23
 
 **Answer:** B
-[[Quesiti/src_archimede_2025_biennio_rec#q04|src_archimede_2025_biennio_rec__Q04]]
 
 
 
@@ -225,7 +221,6 @@ level: biennio
 > - **(E)** 8n3+75
 
 **Answer:** E
-[[Quesiti/src_archimede_2025_biennio_rec#q05|src_archimede_2025_biennio_rec__Q05]]
 
 
 
@@ -279,7 +274,6 @@ level: biennio
 > - **(E)** 60
 
 **Answer:** D
-[[Quesiti/src_archimede_2025_biennio_rec#q06|src_archimede_2025_biennio_rec__Q06]]
 
 
 
@@ -322,7 +316,6 @@ level: biennio
 > - **(E)** 21
 
 **Answer:** C
-[[Quesiti/src_archimede_2025_biennio_rec#q07|src_archimede_2025_biennio_rec__Q07]]
 
 
 
@@ -370,7 +363,6 @@ level: biennio
 > - **(E)** 1/3
 
 **Answer:** A
-[[Quesiti/src_archimede_2025_biennio_rec#q08|src_archimede_2025_biennio_rec__Q08]]
 
 
 
@@ -412,7 +404,6 @@ level: biennio
 > - **(E)** 576
 
 **Answer:** B
-[[Quesiti/src_archimede_2025_biennio_rec#q09|src_archimede_2025_biennio_rec__Q09]]
 
 
 
@@ -512,7 +503,6 @@ level: biennio
 > - **(E)** 1 2
 
 **Answer:** D
-[[Quesiti/src_archimede_2025_biennio_rec#q10|src_archimede_2025_biennio_rec__Q10]]
 
 
 
@@ -555,7 +545,6 @@ level: biennio
 > - **(E)** 10
 
 **Answer:** C
-[[Quesiti/src_archimede_2025_biennio_rec#q11|src_archimede_2025_biennio_rec__Q11]]
 
 
 
@@ -600,7 +589,6 @@ level: biennio
 > - **(E)** 24
 
 **Answer:** E
-[[Quesiti/src_archimede_2025_biennio_rec#q12|src_archimede_2025_biennio_rec__Q12]]
 
 
 
@@ -643,7 +631,6 @@ level: biennio
 > - **(E)** 1/10
 
 **Answer:** D
-[[Quesiti/src_archimede_2025_biennio_rec#q13|src_archimede_2025_biennio_rec__Q13]]
 
 
 
@@ -686,7 +673,6 @@ level: biennio
 > - **(E)** 6
 
 **Answer:** E
-[[Quesiti/src_archimede_2025_biennio_rec#q14|src_archimede_2025_biennio_rec__Q14]]
 
 
 
@@ -728,7 +714,6 @@ level: biennio
 > - **(E)** 42
 
 **Answer:** A
-[[Quesiti/src_archimede_2025_biennio_rec#q15|src_archimede_2025_biennio_rec__Q15]]
 
 
 
@@ -783,4 +768,3 @@ level: biennio
 > - **(E)** 5 411
 
 **Answer:** B
-[[Quesiti/src_archimede_2025_biennio_rec#q16|src_archimede_2025_biennio_rec__Q16]]

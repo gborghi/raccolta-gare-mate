@@ -48,8 +48,6 @@ level: kangourou
 > D) 9
 > E) 10
 
-[[Quesiti/src_kangourou_2012_ecolier#q01|src_kangourou_2012_ecolier__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,skill_conteggio_sistematico"></span>
@@ -79,8 +77,6 @@ level: kangourou
 *Colors used to write MATHEMATIC with equal letters*
 
 > In four of the following five figures the area of the white part is equal to the area of the grey part. In which figure are the two areas different? A) B) C) D) E)
-
-[[Quesiti/src_kangourou_2012_ecolier#q02|src_kangourou_2012_ecolier__Q02]]
 
 
 
@@ -126,8 +122,6 @@ level: kangourou
 > D) 14
 > E) 16
 
-[[Quesiti/src_kangourou_2012_ecolier#q03|src_kangourou_2012_ecolier__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_logica,topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -169,8 +163,6 @@ level: kangourou
 > C) 
 > D)
 > E)
-
-[[Quesiti/src_kangourou_2012_ecolier#q04|src_kangourou_2012_ecolier__Q04]]
 
 
 
@@ -399,8 +391,6 @@ level: kangourou
 
 > A box contains five boxes each of which, in turn, contains five boxes. How many boxes are in all of this? A) 30 B) 31 C) 25 D) 26 E) 27 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D
 
-[[Quesiti/src_kangourou_2012_ecolier#q05|src_kangourou_2012_ecolier__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,skill_conteggio_sistematico"></span>
@@ -449,7 +439,6 @@ level: kangourou
 > E) Ada, with 4 points more
 
 **Answer:** E
-[[Quesiti/src_kangourou_2012_ecolier#q06|src_kangourou_2012_ecolier__Q06]]
 
 
 
@@ -489,7 +478,6 @@ level: kangourou
 > A wall was tiled with square tiles, all of the same size, but alternating two different types: striped white and gray. Some of the tiles in the inner part of the wall have fallen and the figure shows you the ones left. How many gray tiles have fallen? A) 9 B) 8 C) 7 D) 6 E) 5
 
 **Answer:** B
-[[Quesiti/src_kangourou_2012_ecolier#q07|src_kangourou_2012_ecolier__Q07]]
 
 
 
@@ -522,8 +510,6 @@ level: kangourou
 *Age of chicks born on 24 February observed in March*
 
 > There's a candlestick on each of the 15 tables in a restaurant. On six tables there is a five-armed candlestick, on the other tables a three-armed candlestick. How many candles do you need if you want each candlestick to be complete? A) 45 B) 50 C) 57 D) 63 E) 75 Questions from N. 9 to N. 16 are worth 4 points each.
-
-[[Quesiti/src_kangourou_2012_ecolier#q08|src_kangourou_2012_ecolier__Q08]]
 
 
 
@@ -669,8 +655,6 @@ level: kangourou
 > Kang 2012
 > Kang 2012
 
-[[Quesiti/src_kangourou_2012_ecolier#q09|src_kangourou_2012_ecolier__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,topic_combinatoria,skill_ragionamento_geometrico"></span>
@@ -708,7 +692,6 @@ level: kangourou
 > Joan has L-shaped tiles, all of which are the same as the one in the figure to the right. How many of the following four figures can you get by joining two tiles at a time? A) 0 B) 1 C) 2 D) 3 E) 4
 
 **Answer:** E
-[[Quesiti/src_kangourou_2012_ecolier#q10|src_kangourou_2012_ecolier__Q10]]
 
 
 
@@ -744,7 +727,6 @@ level: kangourou
 > In a parking lot, there's only white, red and green cars. You know, white cars are 3 or 5, red cars are 4 or 6, green cars are 5 or 7. One of the following is the total number of cars in the parking lot. What kind? A) 13 B) 16 C) 17 D) 19 E) 20
 
 **Answer:** B
-[[Quesiti/src_kangourou_2012_ecolier#q11|src_kangourou_2012_ecolier__Q11]]
 
 
 
@@ -780,7 +762,6 @@ level: kangourou
 > Grandma made 20 candy for her grandchildren. He decorated some with grapes, some with nuts, and some with both grapes and nuts: first, he put grapes on 15 sweets, then he put nuts on 15 sweets. How many must be the candy decorations with both grapes and nuts? A) 4 B) 5 C) 6 D) 8 E) 10
 
 **Answer:** E
-[[Quesiti/src_kangourou_2012_ecolier#q12|src_kangourou_2012_ecolier__Q12]]
 
 
 
@@ -861,7 +842,6 @@ level: kangourou
 > Look at the grid in the figure. Gianni must first calculate the result of the operations indicated and then fill the empty cells so that each row and column contains, either as a result of the operations or because he entered it, each of the numbers 1, 2, 3, 4. What number should Gianni put in the gray cell? A) 1 B) 2 C) 3 D) 4 E) 3 or 4
 
 **Answer:** C
-[[Quesiti/src_kangourou_2012_ecolier#q13|src_kangourou_2012_ecolier__Q13]]
 
 
 
@@ -895,7 +875,6 @@ How many rabbits have 44 legs
 > In the animal school there are 3 cats, 4 chickens, 2 parrots and some rabbits. The legs are 44 in all. How many rabbits are there? A) 6 B) 5 C) 4 D) 3 E) 2
 
 **Answer:** B
-[[Quesiti/src_kangourou_2012_ecolier#q14|src_kangourou_2012_ecolier__Q14]]
 
 
 
@@ -938,7 +917,6 @@ How many rabbits have 44 legs
 > You have a digital clock in front of you (i.e., a clock that shows the time by indicating the numbers: for example, it writes 12:15 to indicate noon and a quarter). How many minutes is the longest time interval during which at least one of the four digits is 5? A) 10 B) 30 C) 60 D) 70 E) 90 1 x 1 1 x 3 2 x 2 6 −3 6 −5 4 −1 1 + 3 8 −7 9 −7 2 −1
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_ecolier#q15|src_kangourou_2012_ecolier__Q15]]
 
 
 
@@ -980,7 +958,6 @@ How many rabbits have 44 legs
 > The block you see in the figure is made by attaching a white piece, a gray piece and a black piece. Each of the three pieces is obtained by gluing 4 cubes; all cubes are of the same size. Which of the ones listed below is the white one? (A) B) C) D) E) Questions from N. 17 al N. Twenty-four is worth five points each.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2012_ecolier#q16|src_kangourou_2012_ecolier__Q16]]
 
 
 
@@ -1027,7 +1004,6 @@ How many rabbits have 44 legs
 > E) 15
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_ecolier#q17|src_kangourou_2012_ecolier__Q17]]
 
 
 
@@ -1117,7 +1093,6 @@ How many rabbits have 44 legs
 > Kang 2012
 
 **Answer:** A
-[[Quesiti/src_kangourou_2012_ecolier#q18|src_kangourou_2012_ecolier__Q18]]
 
 
 
@@ -1152,7 +1127,6 @@ How many rabbits have 44 legs
 > Using all the digits 1, 2, 3, 4, 5 and 6, Enrica wants to form two numbers of three digits each. She also wants the sum of these two numbers to be as large as possible. What's the maximum amount you can get? A) 975 B) 999 C) 1083 D) 1173 E) 1221
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_ecolier#q19|src_kangourou_2012_ecolier__Q19]]
 
 
 
@@ -1187,7 +1161,6 @@ In how many ways do Laura Maria Nadia Oreste arrange themselves
 > Laura, Maria, Nadia and Oreste want to be photographed sitting on a bench. Laura and Maria want to be close because they're very close friends; Oreste wants to be close to Laura. How many different ways can they be disposed of? A) 2 B) 4 C) 5 D) 6 E) 7
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_ecolier#q20|src_kangourou_2012_ecolier__Q20]]
 
 
 
@@ -1226,7 +1199,6 @@ In how many ways do Laura Maria Nadia Oreste arrange themselves
 > A clock has three different hands: it works properly, but we have not been told which hand indicates hours, minutes or seconds. The figure shows the clock at noon, 55 minutes and 30 seconds. What figure shows the clock at 8 and 11 minutes? A) B) C) D) E)
 
 **Answer:** A
-[[Quesiti/src_kangourou_2012_ecolier#q21|src_kangourou_2012_ecolier__Q21]]
 
 
 
@@ -1261,7 +1233,6 @@ What number did Michele start from?
 > Michele chose a number, multiplied it by itself, added 1 to the product, multiplied the sum obtained by 10, added 3 to the new product, multiplied the new sum by 4 and got as the final result 2012. What number did he start from? A) 11 B) 9 C) 8 D) 5 E) None of the above
 
 **Answer:** E
-[[Quesiti/src_kangourou_2012_ecolier#q22|src_kangourou_2012_ecolier__Q22]]
 
 
 
@@ -1300,7 +1271,6 @@ What number did Michele start from?
 > The sides of a rectangular sheet of paper measure 192 and 84 millimeters. With just one straight cut, I get two sheets, one of which is a square. With just one straight cut, from the non-square sheet I get two more sheets, one of which is a square. I keep going this way until I have to stop, because after a certain cut, both sheets are square. How many millimeters does each side of these two squares measure? A) 1 B) 4 C) 6 D) 10 E) 12
 
 **Answer:** E
-[[Quesiti/src_kangourou_2012_ecolier#q23|src_kangourou_2012_ecolier__Q23]]
 
 
 
@@ -1347,5 +1317,3 @@ What number did Michele start from?
 > ANSWERS ECOLIER 2012
 
 **Answer:** C
-
-[[Quesiti/src_kangourou_2012_ecolier#q24|src_kangourou_2012_ecolier__Q24]]

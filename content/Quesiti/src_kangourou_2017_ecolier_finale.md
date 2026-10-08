@@ -34,7 +34,6 @@ level: kangourou
 > On every page of a holiday book (including cover ones) there is a game or a drawing or a story or a problem. First come all the games, then all the drawings, then all the stories, and finally the problems: the number of games is equal to that of the drawings that is equal to that of the stories that is equal to that of the problems. On August 30, Luke read the story on page 48 and solved the problem on page 49. How many pages does the book have?
 
 **Answer:** 64
-[[Quesiti/src_kangourou_2017_ecolier_finale#qe1|src_kangourou_2017_ecolier_finale__QE1]]
 
 
 
@@ -62,8 +61,7 @@ level: kangourou
 
 > On a sheet of grid paper, Anna drew a square whose sides lie on some of the lines that form the grid; then she colored the squares that have two vertices on at least one of the two diagonals of the square. If she colored 35 squares, how many squares are enclosed in the square?
 
-**Answer:** impossibile
-[[Quesiti/src_kangourou_2017_ecolier_finale#qe2|src_kangourou_2017_ecolier_finale__QE2]]
+**Answer:** impossible
 
 
 
@@ -91,7 +89,6 @@ level: kangourou
 > A 68-year-old father has two children, ages 37 and 42. How many years ago was the sum of the ages of the two sons equal to the age of the father?
 
 **Answer:** 11 years ago
-[[Quesiti/src_kangourou_2017_ecolier_finale#qe3|src_kangourou_2017_ecolier_finale__QE3]]
 
 
 
@@ -119,7 +116,6 @@ It is better to choose 9 or 10 in the dice game.
 > A friend invites you to play dice like this. You and he repeatedly throw identical fair dice, with the faces numbered, as usual, from 1 to 6, and calculate the sum of the points. If the sum is 9, one of you wins, if the sum is 10, the other one wins; if the sum is different from 9 and the sum is different from 10, neither of you wins. He lets you choose between 9 and 10, the sum that makes you win, keeping that for himself of the two you didn't. Which one is best for you, and why?
 
 **Answer:** 9
-[[Quesiti/src_kangourou_2017_ecolier_finale#qe4|src_kangourou_2017_ecolier_finale__QE4]]
 
 
 
@@ -148,7 +144,6 @@ Best friends with different-tasting candy bars
 > Lucilla has several candies: 6 mint, 7 lemon, 8 orange, and 11 strawberry. She wants to give 3 to each of some of her friends; but each friend asks to have candies all of different tastes from each other. Considering the wishes of friends, how many friends can she please, at most? To motivate your answer, you must indicate how Lucilla can distribute the candies to the various friends she can satisfy.
 
 **Answer:** 10
-[[Quesiti/src_kangourou_2017_ecolier_finale#qe5|src_kangourou_2017_ecolier_finale__QE5]]
 
 
 
@@ -176,4 +171,3 @@ Best friends with different-tasting candy bars
 > The hands of the church clock move continuously, therefore not in ticks. I am looking at them: they show just past 9. How many whole minutes will have passed when, for the first time, the minute hand overtakes the hour hand?
 
 **Answer:** 49
-[[Quesiti/src_kangourou_2017_ecolier_finale#qe6|src_kangourou_2017_ecolier_finale__QE6]]

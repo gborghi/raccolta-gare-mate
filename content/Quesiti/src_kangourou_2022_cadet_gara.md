@@ -51,7 +51,6 @@ level: kangourou
 > D) 24 E) 25
 
 **Answer:** D
-[[Quesiti/src_kangourou_2022_cadet_gara#q01|src_kangourou_2022_cadet_gara__Q01]]
 
 
 
@@ -104,7 +103,6 @@ level: kangourou
 > E) 86
 
 **Answer:** C
-[[Quesiti/src_kangourou_2022_cadet_gara#q02|src_kangourou_2022_cadet_gara__Q02]]
 
 
 
@@ -154,7 +152,6 @@ level: kangourou
 > E)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2022_cadet_gara#q03|src_kangourou_2022_cadet_gara__Q03]]
 
 
 
@@ -190,7 +187,6 @@ level: kangourou
 > In this expression there are five empty spaces. Sonia wants to fill four with a + and one with a – so that a correct equality is achieved. Where should you put the – sign? A) Between 6 and 9. B) Between 9 and 12. C) Between 12 and 15. D) Between 15 and 18. E) Between 18 and 21.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2022_cadet_gara#q04|src_kangourou_2022_cadet_gara__Q04]]
 
 
 
@@ -239,7 +235,6 @@ level: kangourou
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2022_cadet_gara#q05|src_kangourou_2022_cadet_gara__Q05]]
 
 
 
@@ -282,7 +277,6 @@ level: kangourou
 > D) 100 E) 150
 
 **Answer:** A
-[[Quesiti/src_kangourou_2022_cadet_gara#q06|src_kangourou_2022_cadet_gara__Q06]]
 
 
 
@@ -334,7 +328,6 @@ level: kangourou
 > E) E
 
 **Answer:** B
-[[Quesiti/src_kangourou_2022_cadet_gara#q07|src_kangourou_2022_cadet_gara__Q07]]
 
 
 
@@ -386,7 +379,6 @@ level: kangourou
 > E) 7
 
 **Answer:** C
-[[Quesiti/src_kangourou_2022_cadet_gara#q08|src_kangourou_2022_cadet_gara__Q08]]
 
 
 
@@ -438,7 +430,6 @@ level: kangourou
 > E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2022_cadet_gara#q09|src_kangourou_2022_cadet_gara__Q09]]
 
 
 
@@ -484,7 +475,6 @@ level: kangourou
 > Questions from No. 11 to No. 20 are worth 4 points each
 
 **Answer:** A
-[[Quesiti/src_kangourou_2022_cadet_gara#q10|src_kangourou_2022_cadet_gara__Q10]]
 
 
 
@@ -542,7 +532,6 @@ level: kangourou
 > E) 7
 
 **Answer:** D
-[[Quesiti/src_kangourou_2022_cadet_gara#q11|src_kangourou_2022_cadet_gara__Q11]]
 
 
 
@@ -602,7 +591,6 @@ level: kangourou
 >
 
 **Answer:** D
-[[Quesiti/src_kangourou_2022_cadet_gara#q12|src_kangourou_2022_cadet_gara__Q12]]
 
 
 
@@ -650,7 +638,6 @@ level: kangourou
 > E) 6
 
 **Answer:** C
-[[Quesiti/src_kangourou_2022_cadet_gara#q13|src_kangourou_2022_cadet_gara__Q13]]
 
 
 
@@ -697,7 +684,6 @@ level: kangourou
 > E) The data are insufficient to answer.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2022_cadet_gara#q14|src_kangourou_2022_cadet_gara__Q14]]
 
 
 
@@ -751,7 +737,6 @@ level: kangourou
 > E) 36
 
 **Answer:** A
-[[Quesiti/src_kangourou_2022_cadet_gara#q15|src_kangourou_2022_cadet_gara__Q15]]
 
 
 
@@ -787,7 +772,6 @@ level: kangourou
 > There are two digital clocks in my office that show the 24 hours. One goes one minute ahead every hour, the other loses two minutes every hour. Yesterday, at the same time, Sara and I both set them to the correct time but when I looked at them today, one pointed to 11:00, the other to 12:00. At what time yesterday did we set them to the correct time? A) 16:20 B) 16:00 C) 15:40 D) 15:20 E) 14:00
 
 **Answer:** C
-[[Quesiti/src_kangourou_2022_cadet_gara#q16|src_kangourou_2022_cadet_gara__Q16]]
 
 
 
@@ -834,7 +818,6 @@ How many numbers did Alberto write (replacement with 7-x)
 > E) 11
 
 **Answer:** B
-[[Quesiti/src_kangourou_2022_cadet_gara#q17|src_kangourou_2022_cadet_gara__Q17]]
 
 
 
@@ -888,7 +871,6 @@ How many numbers did Alberto write (replacement with 7-x)
 > E) 6
 
 **Answer:** B
-[[Quesiti/src_kangourou_2022_cadet_gara#q18|src_kangourou_2022_cadet_gara__Q18]]
 
 
 
@@ -935,7 +917,6 @@ How many numbers did Alberto write (replacement with 7-x)
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2022_cadet_gara#q19|src_kangourou_2022_cadet_gara__Q19]]
 
 
 
@@ -978,7 +959,6 @@ How many numbers did Alberto write (replacement with 7-x)
 > C) 1/4 D) 1/3 E) The problem admits more than one solution. The questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2022_cadet_gara#q20|src_kangourou_2022_cadet_gara__Q20]]
 
 
 
@@ -1031,7 +1011,6 @@ How many numbers did Alberto write (replacement with 7-x)
 > E) 19
 
 **Answer:** D
-[[Quesiti/src_kangourou_2022_cadet_gara#q21|src_kangourou_2022_cadet_gara__Q21]]
 
 
 
@@ -1109,7 +1088,6 @@ How many numbers did Alberto write (replacement with 7-x)
 > C) 8/5 D) 12/7 E) 7/3
 
 **Answer:** D
-[[Quesiti/src_kangourou_2022_cadet_gara#q22|src_kangourou_2022_cadet_gara__Q22]]
 
 
 
@@ -1161,7 +1139,6 @@ How many numbers did Alberto write (replacement with 7-x)
 > E) 60
 
 **Answer:** D
-[[Quesiti/src_kangourou_2022_cadet_gara#q23|src_kangourou_2022_cadet_gara__Q23]]
 
 
 
@@ -1209,7 +1186,6 @@ How many numbers did Alberto write (replacement with 7-x)
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2022_cadet_gara#q24|src_kangourou_2022_cadet_gara__Q24]]
 
 
 
@@ -1249,7 +1225,6 @@ How many numbers did Alberto write (replacement with 7-x)
 > C) 2/3 D) 3/5 E) 5/9
 
 **Answer:** A
-[[Quesiti/src_kangourou_2022_cadet_gara#q25|src_kangourou_2022_cadet_gara__Q25]]
 
 
 
@@ -1318,7 +1293,6 @@ How many numbers did Alberto write (replacement with 7-x)
 > E) 9
 
 **Answer:** B
-[[Quesiti/src_kangourou_2022_cadet_gara#q26|src_kangourou_2022_cadet_gara__Q26]]
 
 
 
@@ -1359,7 +1333,6 @@ How many numbers did Alberto write (replacement with 7-x)
 > One square contains another, as the figure suggests. The grey region of the figure has an area of 43 cm2. If the sides of each of the two squares measure an integer number of centimeters, what is the sum in square centimeters of the areas of the two squares? A) 882 B) 925 C) 968 D) 1011 E) 2022
 
 **Answer:** B
-[[Quesiti/src_kangourou_2022_cadet_gara#q27|src_kangourou_2022_cadet_gara__Q27]]
 
 
 
@@ -1407,7 +1380,6 @@ How many numbers did Alberto write (replacement with 7-x)
 > E) 25
 
 **Answer:** C
-[[Quesiti/src_kangourou_2022_cadet_gara#q28|src_kangourou_2022_cadet_gara__Q28]]
 
 
 
@@ -1459,7 +1431,6 @@ How many numbers did Alberto write (replacement with 7-x)
 > E) 36
 
 **Answer:** E
-[[Quesiti/src_kangourou_2022_cadet_gara#q29|src_kangourou_2022_cadet_gara__Q29]]
 
 
 
@@ -1504,4 +1475,3 @@ How many koalas live in the 7 parks
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2022_cadet_gara#q30|src_kangourou_2022_cadet_gara__Q30]]

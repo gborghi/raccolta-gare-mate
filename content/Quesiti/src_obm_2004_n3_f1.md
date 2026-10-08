@@ -49,8 +49,6 @@ level: OBM Nível 3
 > 
 > (A) 1 (B) 2 (C) 3 (D) 4 (E) 5
 
-[[Quesiti/src_obm_2004_n3_f1#q01|src_obm_2004_n3_f1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -81,8 +79,6 @@ level: OBM Nível 3
 > Il segmento $AB$ deve essere di lunghezza 26, e il segmento $C$ e il segmento $D$ devono essere punti del segmento $AB$ in modo tale che il segmento $AC=1$ e il segmento $AD=8$. I punti $E$ e $F$ siano punti su un semicircolo di diametro $AB$, con $EC$ e $FD$ perpendicolari a $AB$. Quanto è $EF$?
 > 
 > (A) 5 (B) $5\sqrt{2}$ (C) 7 (D) $7\sqrt{2}$ (E) 12
-
-[[Quesiti/src_obm_2004_n3_f1#q02|src_obm_2004_n3_f1__Q02]]
 
 
 
@@ -115,8 +111,6 @@ level: OBM Nível 3
 > 
 > (A) $72^\circ$ (B) $75^\circ$ (C) $90^\circ$ (D) $108^\circ$ (E) $120^\circ$
 
-[[Quesiti/src_obm_2004_n3_f1#q03|src_obm_2004_n3_f1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
@@ -147,8 +141,6 @@ level: OBM Nível 3
 > Esmeralda, molto attento, prese tre cifre distinte (non zero) $a$, $b$ e $c$ e, con loro, è possibile formare 6 numeri a tre cifre distinte, tutte con cifre distinte. Quanti sono i divisori della somma di questi 6 numeri?
 > 
 > (A) 4 (B) 6 (C) 10 (D) 15 (E) Più di quattro
-
-[[Quesiti/src_obm_2004_n3_f1#q04|src_obm_2004_n3_f1__Q04]]
 
 
 
@@ -181,8 +173,6 @@ level: OBM Nível 3
 > 
 > (A) 4 (B) 8 (C) 18 (D) 54 (E) 192
 
-[[Quesiti/src_obm_2004_n3_f1#q05|src_obm_2004_n3_f1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_cassetti,method_estremalita,skill_conteggio_sistematico,skill_astrazione"></span>
@@ -213,8 +203,6 @@ level: OBM Nível 3
 > Quanto è il più piccolo intero positivo $n$ tale che qualsiasi sottoinsieme di $n$ elementi di $\{1, 2, 3, \dots, 20\}$ contiene due numeri la cui differenza è di 8?
 > 
 > (A) 2 (B) 8 (C) 12 (D) 13 (E) 15
-
-[[Quesiti/src_obm_2004_n3_f1#q06|src_obm_2004_n3_f1__Q06]]
 
 
 
@@ -251,8 +239,6 @@ level: OBM Nível 3
 > 
 > (A) 500 (B) 501 (C) 999 (D) 1000 (E) 1001
 
-[[Quesiti/src_obm_2004_n3_f1#q07|src_obm_2004_n3_f1__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_solida,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -284,8 +270,6 @@ level: OBM Nível 3
 > 
 > (A) 30min (B) 10h (C) 1h03min26s (D) 1h31min12s (E) 1h34min30s
 
-[[Quesiti/src_obm_2004_n3_f1#q08|src_obm_2004_n3_f1__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,topic_funzionali,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -315,8 +299,6 @@ level: OBM Nível 3
 > La funzione $f$, definita sui numeri interi, soddisfa $f(n)-(n+1)(2-n)=(n+3)^2$ per ogni numero intero $n$. Quanto è $f(0)$?
 > 
 > (A) $-17$ (B) 0 (C) 1 (D) 2 (E) 9
-
-[[Quesiti/src_obm_2004_n3_f1#q09|src_obm_2004_n3_f1__Q09]]
 
 
 
@@ -349,8 +331,6 @@ level: OBM Nível 3
 > 
 > A) Uno B) Due C) Tre D) Quattro E) Più di quattro
 
-[[Quesiti/src_obm_2004_n3_f1#q10|src_obm_2004_n3_f1__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_probabilita,topic_combinatoria,method_casework,method_conteggio,skill_modellizzazione,skill_casework_accurato"></span>
@@ -381,8 +361,6 @@ level: OBM Nível 3
 > Su ciascuno dei loro volti sono dipinti cinque cubetti di legno, con una faccia gialla e l'altra magenta. Quando questi cubetti vengono gettati, la probabilità che due di queste facce siano gialle e le altre tre magenta (non importa in quale ordine appaiano i colori) è $1/2$. Quanti di questi cubi hanno la faccia gialla su un singolo cubo?
 > 
 > (A) 1 (B) 2 (C) 3 (D) 4 (E) 5
-
-[[Quesiti/src_obm_2004_n3_f1#q11|src_obm_2004_n3_f1__Q11]]
 
 
 
@@ -416,8 +394,6 @@ level: OBM Nível 3
 > Per quanti numeri interi positivi $m$ il numero $$\frac{2004}{m^2-2}$$ è un intero positivo?
 > 
 > A) uno B) due C) tre D) quattro E) più di quattro
-
-[[Quesiti/src_obm_2004_n3_f1#q12|src_obm_2004_n3_f1__Q12]]
 
 
 
@@ -454,8 +430,6 @@ level: OBM Nível 3
 
 ![[src_obm_2004_n3_f1__q13.png]]
 
-[[Quesiti/src_obm_2004_n3_f1#q13|src_obm_2004_n3_f1__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -487,8 +461,6 @@ level: OBM Nível 3
 > 
 > (A) 13 (B) 14 (C) 15 (D) 16 (E) 17
 
-[[Quesiti/src_obm_2004_n3_f1#q14|src_obm_2004_n3_f1__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -518,8 +490,6 @@ level: OBM Nível 3
 > Sul lato $AB$ dell'eptagone regolare $ABCDEFG$ è costruito un quadrato $ABXY$, esterno all'eptagone. La misura dell'angolo $B\hat{X}C$ in radiani è
 > 
 > (A) $\frac{\pi}{7}$ (B) $\frac{3\pi}{14}$ (C) $\frac{\pi}{14}$ (D) $\frac{3\pi}{7}$ (E) $\frac{3\pi}{28}$
-
-[[Quesiti/src_obm_2004_n3_f1#q15|src_obm_2004_n3_f1__Q15]]
 
 
 
@@ -551,8 +521,6 @@ level: OBM Nível 3
 > L'insieme delle radici reali dell'equazione $\sqrt{x+2\sqrt{x-1}}+\sqrt{x-2\sqrt{x-1}}=2$ è
 > 
 > (A) $\{1\}$ (B) $[1, 2]$ (C) $[1, 2)$ (D) $]1, 2[$ (E) $\{2\}$
-
-[[Quesiti/src_obm_2004_n3_f1#q16|src_obm_2004_n3_f1__Q16]]
 
 
 
@@ -588,8 +556,6 @@ level: OBM Nível 3
 > (A) 1 (B) $\frac{6}{5}$ (C) $\frac{7}{5}$ (D) $\frac{8}{5}$ (E) $\frac{9}{5}$
 
 ![[src_obm_2004_n3_f1__q17.png]]
-
-[[Quesiti/src_obm_2004_n3_f1#q17|src_obm_2004_n3_f1__Q17]]
 
 
 
@@ -628,8 +594,6 @@ level: OBM Nível 3
 > Immaginate che la moneta non avesse cambiato e che João, che oggi guadagna 640 reais al mese, avrebbe ricevuto il suo stipendio interamente in banconote da 1 cruzado, di 1,5 cm di altezza ciascuna. Lo stipendio di João in cruzados costituirebbe una pila di altezza:
 > 
 > (A) 26,4 km (B) 264 km (C) 2640 km (D) 26400 km (E) 264000 km
-
-[[Quesiti/src_obm_2004_n3_f1#q18|src_obm_2004_n3_f1__Q18]]
 
 
 
@@ -670,8 +634,6 @@ level: OBM Nível 3
 
 ![[src_obm_2004_n3_f1__q19.png]]
 
-[[Quesiti/src_obm_2004_n3_f1#q19|src_obm_2004_n3_f1__Q19]]
-
 
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_combinatoria,method_conteggio,method_doppio_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -707,8 +669,6 @@ level: OBM Nível 3
 
 ![[src_obm_2004_n3_f1__q20.png]]
 
-[[Quesiti/src_obm_2004_n3_f1#q20|src_obm_2004_n3_f1__Q20]]
-
 
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_algebra,topic_disuguaglianze,method_estremalita,method_disuguaglianze,skill_stima,skill_manipolazione_algebrica"></span>
@@ -739,8 +699,6 @@ level: OBM Nível 3
 > In una prova per una classe di 30 studenti, la media aritmetica dei 10 voti peggiori è di 3 e la media aritmetica dei 10 voti migliori è di 9. Il valore più piccolo possibile e il valore più grande possibile per la media aritmetica dei gradi della classe sono rispettivamente:
 > 
 > A) 6 e 7 B) 5 e 7 C) 4 e 6 D) 3 e 9 E) 4 e 8
-
-[[Quesiti/src_obm_2004_n3_f1#q21|src_obm_2004_n3_f1__Q21]]
 
 
 
@@ -784,8 +742,6 @@ level: OBM Nível 3
 > 
 > (A) Nella scatola rossa. (B) Nella scatola verde. (C) Nella scatola blu. D) Le informazioni fornite sono insufficienti per dare una risposta. (E) Le informazioni fornite sono contraddittorie.
 
-[[Quesiti/src_obm_2004_n3_f1#q22|src_obm_2004_n3_f1__Q22]]
-
 
 
 <span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_casework_accurato,skill_riconoscimento_pattern"></span>
@@ -816,8 +772,6 @@ level: OBM Nível 3
 > Esmeralda, il tipografo, voleva scrivere un numero $N$ di due cifre che è un quadrato perfetto. Per una grande coincidenza, ha digitato ogni cifra due volte e il numero ottenuto è anche un quadrato perfetto! Qual è la somma delle cifre di $N$?
 > 
 > (A) 5 (B) 6 (C) 7 (D) 8 (E) 9
-
-[[Quesiti/src_obm_2004_n3_f1#q23|src_obm_2004_n3_f1__Q23]]
 
 
 
@@ -852,8 +806,6 @@ level: OBM Nível 3
 > 
 > (A) 11 (B) 21 (C) 31 (D) 41 (E) 51
 
-[[Quesiti/src_obm_2004_n3_f1#q24|src_obm_2004_n3_f1__Q24]]
-
 
 
 <span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_modellizzazione,skill_conteggio_sistematico"></span>
@@ -884,5 +836,3 @@ level: OBM Nível 3
 > Un venditore di mercato vende patate e, per pesare, utilizza un equilibrio di due pannelli, un peso di 1 kg, un peso di 3 kg e un peso di 10 kg. Considerate la seguente affermazione: "Questo venditore può pesare (in un singolo peso) $n$ chilogrammi di patate". Quanti valori positivi di $n$ rendono questa affermazione vera, supponendo che possa posizionare i pesi su entrambe le pentole?
 > 
 > (A) 7 (B) 10 (C) 12 (D) 13 (E) 14
-
-[[Quesiti/src_obm_2004_n3_f1#q25|src_obm_2004_n3_f1__Q25]]

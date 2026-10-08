@@ -33,8 +33,6 @@ level: INMO
 
 > $ABC$ sia un triangolo, $I$ il suo centro; $A_1$, $B_1$, $C_1$ siano rispettivamente i riflessi di $I$ in $BC$, $CA$ e $AB$. Supponiamo che il circoncircolo del triangolo $A_1B_1C_1$ passi attraverso $A$. Provare che $B_1$, $C_1$, $I$, $I_1$ sono conciclici, dove $I_1$ è il centro del triangolo $A_1B_1C_1$.
 
-[[Quesiti/src_inmo_2008#q01|src_inmo_2008__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato"></span>
@@ -59,8 +57,6 @@ level: INMO
 *Ricerca tutti i tripli naturali primari che soddisfano p^x = y^4 + 4*
 
 > Trova tutti i triples $(p, x, y)$ in modo tale che $p^x = y^4 + 4$, dove $p$ e $x$ sono numeri primi e $x$, $y$ sono numeri naturali.
-
-[[Quesiti/src_inmo_2008#q02|src_inmo_2008__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: INMO
 
 > $A$ sia un insieme di numeri reali tale che $A$ abbia almeno quattro elementi. Supponiamo che $A$ abbia la proprietà che $a^2 + bc$ è un numero razionale per tutti i numeri distinti $a, b, c$ in $A$. Prova che esiste un intero positivo $M$ tale che $a\sqrt{M}$ sia un numero razionale per ogni $a$ in $A$.
 
-[[Quesiti/src_inmo_2008#q03|src_inmo_2008__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_geometria_analitica,method_casework,method_colorazione,method_estremalita,skill_ragionamento_geometrico,skill_casework_accurato,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -113,8 +107,6 @@ level: INMO
 *La rete di numeri interi a tre colori contiene sempre un triangolo rettangolare con tutti e tre i colori*
 
 > Tutti i punti con coordinate interi del piano $xy$ sono colorati utilizzando tre colori, rosso, blu e verde, ogni colore utilizzato almeno una volta. È noto che il punto $(0, 0)$ è di colore rosso e il punto $(0, 1)$ di colore blu. Prova che esistono tre punti con coordinate interi di colori distinti che formano le vertici di un triangolo rettangolo.
-
-[[Quesiti/src_inmo_2008#q04|src_inmo_2008__Q04]]
 
 
 
@@ -141,8 +133,6 @@ level: INMO
 
 > Che $ABC$ sia un triangolo; $\Gamma_A$, $\Gamma_B$, $\Gamma_C$ siano tre cerchi uguali e disconnessi all'interno di $ABC$ in modo tale che $\Gamma_A$ tocchi $AB$ e $AC$; $\Gamma_B$ tocchi $AB$ e $BC$; e $\Gamma_C$ tocchi $BC$ e $CA$. Il $\Gamma$ deve essere un cerchio che tocchi i cerchi $\Gamma_A$, $\Gamma_B$, $\Gamma_C$ all'esterno. Prova che la linea che unisce il centro circostante $O$ e il centro interno $I$ del triangolo $ABC$ passa attraverso il centro di $\Gamma$.
 
-[[Quesiti/src_inmo_2008#q05|src_inmo_2008__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_astrazione,skill_riconoscimento_pattern"></span>
@@ -167,5 +157,3 @@ level: INMO
 *Pollinomio intero P(x) ammette moltipli che sono polinomi in x^2 e x^3*
 
 > Che $P(x)$ sia un dato polinomio con coefficienti interi. Prove che esistono due polinomi $Q(x)$ e $R(x)$, di nuovo con coefficienti interi, in modo tale che (i) $P(x)Q(x)$ sia un polinomio in $x^2$; e (ii) $P(x)R(x)$ sia un polinomio in $x^3$.
-
-[[Quesiti/src_inmo_2008#q06|src_inmo_2008__Q06]]

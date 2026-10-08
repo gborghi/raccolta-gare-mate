@@ -38,7 +38,6 @@ level: kangourou
 > 'If $\{A_n\} = \{R[a_n; b_n]\}$ ($n = 1, 2, \ldots$) is a sequence of closed, rational and boxed intervals (i.e. $A_{n+1} \subseteq A_n$ for each $n$), then the intersection of $A_n$ cannot be empty.'
 
 **Answer:** False
-[[Quesiti/src_kangourou_2025_student_finale#qs1|src_kangourou_2025_student_finale__QS1]]
 
 
 
@@ -67,7 +66,6 @@ level: kangourou
 > How many different ways can $270$ be obtained by adding consecutive positive integers?
 
 **Answer:** 7
-[[Quesiti/src_kangourou_2025_student_finale#qs2|src_kangourou_2025_student_finale__QS2]]
 
 
 
@@ -99,7 +97,6 @@ level: kangourou
 > Two points on the circumference of a circle $\Gamma$ are endpoints of an arc $\delta$ of another circle. The arc $\delta$ divides the circle $\Gamma$ into two regions of equal area. Is it necessarily true that $\delta$ is longer than the diameter of $\Gamma$?
 
 **Answer:** Yes
-[[Quesiti/src_kangourou_2025_student_finale#qs3|src_kangourou_2025_student_finale__QS3]]
 
 
 
@@ -135,7 +132,6 @@ level: kangourou
 > (b) If we can both choose the deck to play with (and the choice must be made before playing), should I be the first or the second to choose?
 
 **Answer:** a) third b) second
-[[Quesiti/src_kangourou_2025_student_finale#qs4|src_kangourou_2025_student_finale__QS4]]
 
 
 
@@ -168,7 +164,6 @@ level: kangourou
 > 'For each $n \geq 3$ there are $n$ integers all different from each other such that each of them divides the sum of the remaining $n - 1$.'
 
 **Answer:** true
-[[Quesiti/src_kangourou_2025_student_finale#qs5|src_kangourou_2025_student_finale__QS5]]
 
 
 
@@ -197,4 +192,3 @@ level: kangourou
 > Consider the ordered set $S = (1, 2, \ldots, n)$ of the first $n$ positive integers and be $n$ large enough to achieve the following. You want to select an ordered subset of $S$ (i.e. you inherit the order from $S$) of $10$ such elements that the second is at least $1$ away from the first, the third is at least $2$ away from the second, the fourth is at least $3$ away from the third and so on until the tenth is at least $9$ away from the ninth. Note: the distance between a number chosen and the previous number chosen is not required to increase as the number chosen increases; for example, the second could be $5$ away from the first and the third could be $2$ away from the second. If $n$ is eligible, how many different choices are possible?
 
 **Answer:** (n-36)!/((n-46)!10!)
-[[Quesiti/src_kangourou_2025_student_finale#qs6|src_kangourou_2025_student_finale__QS6]]

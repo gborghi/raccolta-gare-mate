@@ -33,8 +33,6 @@ level: RMO
 
 > Che $ABC$ sia un triangolo nel quale $AB = AC$ e che $I$ sia il suo centro. Supponiamo $BC = AB + AI$. Trova $\angle BAC$.
 
-[[Quesiti/src_rmo_2009#q01|src_rmo_2009__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -59,8 +57,6 @@ level: RMO
 *Nessun intero a rende a2−3a−19 divisibile per 289*
 
 > Indicare che non esiste un intero $a$ tale che $a^2 - 3a - 19$ sia divisibile da $289$.
-
-[[Quesiti/src_rmo_2009#q02|src_rmo_2009__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: RMO
 
 > Mostrare che $3^{2008} + 4^{2009}$ può essere scritto come il prodotto di due numeri interi positivi ognuno dei quali è più grande di $2009^{182}$.
 
-[[Quesiti/src_rmo_2009#q03|src_rmo_2009__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_inclusione_esclusione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
@@ -113,8 +107,6 @@ level: RMO
 *Summa di tutti i numeri a 3 cifre con almeno una cifra impar e una cifra pari*
 
 > Trova la somma di tutti i numeri naturali a 3 cifre che contengono almeno una cifra strana e almeno una cifra pari.
-
-[[Quesiti/src_rmo_2009#q04|src_rmo_2009__Q04]]
 
 
 
@@ -153,8 +145,6 @@ level: RMO
 
 ![[src_rmo_2009__q05.png]]
 
-[[Quesiti/src_rmo_2009#q05|src_rmo_2009__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -179,5 +169,3 @@ level: RMO
 *Pagine strappate dal libro 1100 con 4949 pagine rimanenti; trovate il conteggio strappato*
 
 > In un libro con pagine numerate da $1$ a $100$, alcune pagine vengono strappate. La somma dei numeri delle pagine restanti è $4949$. Quante pagine sono state strappate?
-
-[[Quesiti/src_rmo_2009#q06|src_rmo_2009__Q06]]

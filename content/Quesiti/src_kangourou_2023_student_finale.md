@@ -32,8 +32,6 @@ level: kangourou
 
 > Andrea and Giulio play dice as follows. Together they roll six dice (traditional, fair): if a 3 comes up on at least one die, Andrea earns one euro from Giulio; otherwise, Giulio earns two euros from Andrea. Is it a fair game or is it advantageous for one of the two? In this second possible case, for whom?
 
-[[Quesiti/src_kangourou_2023_student_finale#qs1|src_kangourou_2023_student_finale__QS1]]
-
 
 
 <span class="atom-split" id="qs2" data-atom="qs2" data-title="Quesito S2" data-tags="topic_logica,topic_combinatoria,method_grafi,skill_casework_accurato"></span>
@@ -63,8 +61,6 @@ Maximum number of liars on an island in 15 regions
 
 > One island is divided into 15 regions as shown in the figure. In every region there is one and only one inhabitant who either always tells the truth or always lies. Each resident says, "There is at least one person among my neighbours who lies all the time". What is the maximum possible number of inhabitants who always lie? (Two inhabitants are neighbours when their regions share a segment of their edge, not necessarily an entire side of either one.) (see figure)
 
-[[Quesiti/src_kangourou_2023_student_finale#qs2|src_kangourou_2023_student_finale__QS2]]
-
 
 
 <span class="atom-split" id="qs3" data-atom="qs3" data-title="Quesito S3" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
@@ -88,8 +84,6 @@ Maximum number of liars on an island in 15 regions
 *There exists a polyhedron with every plane section a triangle*
 
 > Mark claims to have managed to build a polyhedron (not degenerate) such that each of its plane sections is a triangle (possibly degenerate). Can we believe him?
-
-[[Quesiti/src_kangourou_2023_student_finale#qs3|src_kangourou_2023_student_finale__QS3]]
 
 
 
@@ -115,8 +109,6 @@ Maximum number of liars on an island in 15 regions
 Characterizing n with p^2+n divisible by 40, p prime>5*
 
 > If $n$ is an integer with $0 \leq n < 40$ and $p$ a prime number greater than $5$, such that $p^2 + n$ is divisible by $40$. What can be said about $n$?
-
-[[Quesiti/src_kangourou_2023_student_finale#qs4|src_kangourou_2023_student_finale__QS4]]
 
 
 
@@ -147,8 +139,6 @@ Characterizing n with p^2+n divisible by 40, p prime>5*
 
 > Assigned $n$ distinct points in the plane ($n \geq 2$), what can be said, when $n$ varies, about the number of pairs of such points that reach the maximum possible distance?
 
-[[Quesiti/src_kangourou_2023_student_finale#qs5|src_kangourou_2023_student_finale__QS5]]
-
 
 
 <span class="atom-split" id="qs6" data-atom="qs6" data-title="Quesito S6" data-tags="topic_disuguaglianze,method_disuguaglianze,skill_astrazione"></span>
@@ -175,5 +165,3 @@ Characterizing n with p^2+n divisible by 40, p prime>5*
 *Inequality between sums of squares with non-increasing sequences*
 
 > Let $n$ be a fixed positive integer and $\{a_1, a_2, \ldots, a_n\}$, $\{b_1, b_2, \ldots, b_n\}$ two sequences of non-negative numbers such that $a_1 + a_2 + \cdots + a_k \geq b_1 + b_2 + \cdots + b_k$ for each $k$ between $1$ and $n$ inclusive. Show that it is not necessarily true that $$a_1^2 + a_2^2 + \cdots + a_n^2 \geq b_1^2 + b_2^2 + \cdots + b_n^2,$$ but that this second inequality certainly holds if both sequences are non-increasing.
-
-[[Quesiti/src_kangourou_2023_student_finale#qs6|src_kangourou_2023_student_finale__QS6]]

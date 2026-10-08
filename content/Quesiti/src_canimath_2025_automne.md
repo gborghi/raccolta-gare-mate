@@ -37,8 +37,7 @@ level: Coupe Animath Automne
 > 
 > *Solo una risposta numerica è prevista qui.*
 
-**Risposta:** 140 degrees
-[[Quesiti/src_canimath_2025_automne#q01|src_canimath_2025_automne__Q01]]
+**Risposta:** 140 gradi
 
 
 
@@ -69,8 +68,6 @@ level: Coupe Animath Automne
 
 ![[src_canimath_2025_automne__q02.png]]
 
-[[Quesiti/src_canimath_2025_automne#q02|src_canimath_2025_automne__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
@@ -95,8 +92,6 @@ level: Coupe Animath Automne
 *Mostra che D, E, F, X sono conciclici in un triangolo con punti riflessi*
 
 > Che $ABC$ sia un triangolo il cui lato più piccolo è $[BC]$, e che $D$ sia un punto sul segmento $[BC]$. Il segmento $E$ deve essere $[AC]$ in modo tale che $CD = CE$ e $F$ nel segmento $[AB]$ in modo tale che $BD = BF$. Infine $P$ è il punto simmetrico di $D$ rispetto a $B$ e $Q$ il punto simmetrico di $D$ rispetto a $C$. Il punto di intersezione delle linee $(QE)$ e $(PF)$ è $X$. Indicare che i punti $D$, $E$, $F$ e $X$ si trovano sullo stesso cerchio.
-
-[[Quesiti/src_canimath_2025_automne#q03|src_canimath_2025_automne__Q03]]
 
 
 
@@ -123,8 +118,6 @@ level: Coupe Animath Automne
 
 > Hadriel ha scelto due enti rigorosamente positivi $a$ e $b$. Quando fa la divisione euclidica di $a$ per $b$, il rimanente è $2$. Quando fa la divisione euclidica di $b$ per $a$, il rimanente è $4$. Determinare tutti i valori possibili che $b$ può assumere.
 
-[[Quesiti/src_canimath_2025_automne#q04|src_canimath_2025_automne__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_disuguaglianze,topic_algebra,method_estremalita,method_casework,skill_stima,skill_casework_accurato,skill_manipolazione_algebrica"></span>
@@ -150,8 +143,6 @@ level: Coupe Animath Automne
 
 > Mostrate che tra quattro numeri reali rigorosamente positivi, esistono sempre due di essi la cui differenza (cioè la più grande delle due meno la più piccola) è rigorosamente inferiore a un terzo della somma delle altre due.
 
-[[Quesiti/src_canimath_2025_automne#q05|src_canimath_2025_automne__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -175,8 +166,6 @@ level: Coupe Animath Automne
 *Equivalenti superfici del parallelogramma ABCD e del parallelogramma costruito AEFG*
 
 > $ABCD$ sia un parallelo. Il punto $E$ deve essere un punto del segmento $[BC]$. Tracciamo il parallelo alla linea $(AE)$ che attraversa $D$, su cui posizionamo due punti, $F$ e $G$, in modo tale che $D$ si trova sul segmento $[FG]$ e in modo tale che il quadrilaterale $AEFG$ sia un parallelo. Indicare che le superfici dei due parallelogrammi $ABCD$ e $AEFG$ sono uguali.
-
-[[Quesiti/src_canimath_2025_automne#q06|src_canimath_2025_automne__Q06]]
 
 
 
@@ -202,8 +191,6 @@ level: Coupe Animath Automne
 *Grid con somme di righe/colonne uguali nelle celle non zero implica m=n*
 
 > Aurélien riempie una griglia con righe $m$ e colonne $n$ con numeri reali non negativi, in modo tale che ogni riga e ogni colonna contengano almeno un elemento non zero. Vuole anche che per ogni cella che contiene un elemento non zero, la somma degli elementi della sua riga e la somma degli elementi della sua colonna siano identiche. Mostrare che se è riuscito a riempire la griglia rispettando questi vincoli, $m = n$.
-
-[[Quesiti/src_canimath_2025_automne#q07|src_canimath_2025_automne__Q07]]
 
 
 
@@ -233,8 +220,6 @@ level: Coupe Animath Automne
 > 
 > *Solo una risposta numerica è prevista qui.*
 
-[[Quesiti/src_canimath_2025_automne#q08|src_canimath_2025_automne__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -258,8 +243,6 @@ level: Coupe Animath Automne
 *L'area del triangolo rettangolo è uguale alla somma di due regioni simili alla luna tra semicircoli*
 
 > $B$, $C$ siano due punti del piano, $K_1$ un semicircolo di diametro $[BC]$ e $A$ un punto su $K_1$. Il $K_2$ deve essere il semicircolo di diametro $[CA]$ e $K_3$ il semicircolo di diametro $[AB]$, situato al di fuori del triangolo $ABC$. Indichiamo con $S$ la superficie del triangolo $ABC$, con $S_1$ la superficie compresa tra l'arco $\widehat{AB}$ di $K_1$ e l'arco $\widehat{AB}$ di $K_3$, e con $S_2$ la superficie compresa tra l'arco $\widehat{AC}$ di $K_1$ e l'arco $\widehat{AC}$ di $K_2$. Mostra che $S = S_1 + S_2$.
-
-[[Quesiti/src_canimath_2025_automne#q09|src_canimath_2025_automne__Q09]]
 
 
 
@@ -290,8 +273,6 @@ level: Coupe Animath Automne
 > 
 > Diciamo che i numeri reali $a$, $b$, $c$ sono in progressione geometrica se esiste un numero reale non zero $k$ tale che $c = kb = k^2 a$.*
 
-[[Quesiti/src_canimath_2025_automne#q10|src_canimath_2025_automne__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_combinatoria,method_grafi,method_doppio_conteggio,method_estremalita,skill_conteggio_sistematico,skill_stima,skill_modellizzazione"></span>
@@ -316,8 +297,6 @@ level: Coupe Animath Automne
 *Mostra un grafico di 20 isole con 172 bordi di traghetto con diametro massimo 2*
 
 > Ci sono isole $20$ in Animatland; alcune sono collegate tra loro da rotte di traghetto che vanno in entrambe le direzioni. Ogni coppia di isole è collegata da un percorso massimo e ci sono in totale percorsi $172$. Mostrare che è possibile viaggiare da un'isola a un'altra cambiando il traghetto una volta al massimo (cioè passando per un'altra isola al massimo).
-
-[[Quesiti/src_canimath_2025_automne#q11|src_canimath_2025_automne__Q11]]
 
 
 
@@ -344,8 +323,6 @@ level: Coupe Animath Automne
 
 > Marie scrive il numero $2$ su una lavagna. Poi, ogni minuto, calcola il prodotto di tutti i numeri scritti sulla lavagna e aggiunge $1$. Se $n$ è il risultato di questa operazione, Marie scrive sulla lavagna il più grande divisore primo di $n$. Marie non cancella mai i numeri dalla lavagna. Mostrare che Marie non scriverà mai il numero $5$ sulla lavagna.
 
-[[Quesiti/src_canimath_2025_automne#q12|src_canimath_2025_automne__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,topic_algebra,method_doppio_conteggio,skill_modellizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -370,8 +347,6 @@ level: Coupe Animath Automne
 *Grid con somma di righe/colonne uguale nelle celle non a zero implica m=n (versione liceale)*
 
 > Aurélien riempie una griglia con righe $m$ e colonne $n$ con numeri reali non negativi, in modo tale che ogni riga e ogni colonna contengano almeno un elemento non zero. Vuole anche che per ogni cella che contiene un elemento non zero, la somma degli elementi della sua riga e la somma degli elementi della sua colonna siano identiche. Mostrare che se è riuscito a riempire la griglia rispettando questi vincoli, $m = n$.
-
-[[Quesiti/src_canimath_2025_automne#q13|src_canimath_2025_automne__Q13]]
 
 
 
@@ -398,8 +373,6 @@ level: Coupe Animath Automne
 
 > Che $ABC$ sia un triangolo che non è uguale a $A$. $D$, $E$ e $F$ siano i punti di mezzo dei lati $[BC]$, $[AC]$ e $[AB]$ rispettivamente. Il cerchio di diametro $[BC]$ taglia rispettivamente le metà linee $[DE)$ e $[DF)$ a $P$ e $Q$. Le linee $(BP)$ e $(CQ)$ si tagliano a $X$. La riga $(AX)$ taglia rispettivamente le righe $(DE)$ e $(DF)$ a $Y$ e $Z$. Indicare che il triangolo $DYZ$ è uguale.
 
-[[Quesiti/src_canimath_2025_automne#q14|src_canimath_2025_automne__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_algebra,topic_disuguaglianze,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_stima"></span>
@@ -424,5 +397,3 @@ level: Coupe Animath Automne
 *A-b più grande e più piccola per i reali positivi con medie correnti comprese tra 0 e 1*
 
 > $n \ge 2$ sia un numero intero fisso. Gaëtan sceglie i numeri reali $x_1, x_2, \ldots, x_n$ in modo tale che tra i numeri $n$ $$\frac{x_1}{1},\ \frac{x_1 + x_2}{2},\ \frac{x_1 + x_2 + x_3}{3},\ \ldots,\ \frac{x_1 + \cdots + x_n}{n},$$ il valore più grande preso sia $1$ e il valore più piccolo preso sia $0$. Tra i numeri $x_1, x_2, \ldots, x_n$, indichiamo con $a$ il più grande e con $b$ il più piccolo. Gaëtan calcola $a - b$ e scrive questa differenza sulla lavagna. Qual è il numero più grande che Gaëtan può scrivere sulla lavagna? Qual è il più piccolo?
-
-[[Quesiti/src_canimath_2025_automne#q15|src_canimath_2025_automne__Q15]]

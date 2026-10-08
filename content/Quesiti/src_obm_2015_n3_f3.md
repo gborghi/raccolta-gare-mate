@@ -33,8 +33,6 @@ level: OBM Nível 3
 
 > Che $ABC$ sia un triangolo acuto scaleno e $N$ il centro del cerchio che attraversa i piedi delle tre altitudini del triangolo. $D$ è l'intersezione delle linee tangenti al circoncircolo di $ABC$ a $B$ e $C$. Provare che $A$, $D$ e $N$ sono collineari se e solo se $\angle BAC = 45^\circ$.
 
-[[Quesiti/src_obm_2015_n3_f3#q01|src_obm_2015_n3_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,method_doppio_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_modellizzazione,skill_stima"></span>
@@ -59,8 +57,6 @@ level: OBM Nível 3
 *La k più piccola, quindi ogni sottoinsieme di elementi 4n contiene k coppie {a,b} con b multiple di a*
 
 > Per esempio, $S = \{1, 2, 3, \ldots, 6n\}$, $n > 1$. Trovare il valore più grande di $k$ per il quale è corretto la seguente affermazione: ogni sottoinsieme $A$ di $S$ con $4n$ elementi ha almeno $k$ sottoinsiemi di due elementi $\{a, b\}$ con $a < b$ e $b$ un multiple di $a$.
-
-[[Quesiti/src_obm_2015_n3_f3#q02|src_obm_2015_n3_f3__Q02]]
 
 
 
@@ -88,8 +84,6 @@ level: OBM Nível 3
 *Infinitamente molti n con f(n) = f(n-1) +1 per la derivazione falsa*
 
 > Dato un numero naturale $n > 1$ con fattorizzazione primaria $n = p_1^{\alpha_1} p_2^{\alpha_2} \cdots p_k^{\alpha_k}$, la sua \emph{false derivative} è definita da $$f(n) = \alpha_1 p_1^{\alpha_1 - 1} \alpha_2 p_2^{\alpha_2 - 1} \cdots \alpha_k p_k^{\alpha_k - 1}.$$ Prove che ci sono infinitamente molti numeri naturali $n$ tali che $f(n) = f(n-1) + 1$.
-
-[[Quesiti/src_obm_2015_n3_f3#q03|src_obm_2015_n3_f3__Q03]]
 
 
 
@@ -127,8 +121,6 @@ level: OBM Nível 3
 > 
 > b) Determinare i tre integri positivi $n$ per i quali $$d_1 - d_2 + d_3 - \cdots + (-1)^{k-1} d_k = n - 4.$$
 
-[[Quesiti/src_obm_2015_n3_f3#q04|src_obm_2015_n3_f3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_insiemi_funzioni,method_conteggio,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta,skill_modellizzazione"></span>
@@ -154,8 +146,6 @@ level: OBM Nível 3
 
 > È vero che per ogni polinomio $f(x)$ con coefficienti razionali, non tutti i coefficienti interi, di grado $n > 0$, e per ogni polinomio $g(x)$ con tutti i coefficienti interi, esiste un insieme $S$ con $n + 1$ interi tali che $g(t) = f(t)$ per tutti $t \in S$?
 
-[[Quesiti/src_obm_2015_n3_f3#q05|src_obm_2015_n3_f3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -180,5 +170,3 @@ level: OBM Nível 3
 *I cerchi di BXZ e CXY si incontrano a P su un cerchio di diametro attraverso H e G*
 
 > Il $ABC$ deve essere un triangolo di scalene e $X$, $Y$, $Z$ punti sulle linee $BC$, $CA$, $AB$, rispettivamente, in modo tale che $\angle AXB = \angle BYC = \angle CZA$. I circoncircoli di $BXZ$ e $CXY$ si intersecano in un punto $P \neq X$. Prova che $P$ si trova sul cerchio il cui diametro ha punti terminali all'ortocentro $H$ e al centroide $G$ di $ABC$.
-
-[[Quesiti/src_obm_2015_n3_f3#q06|src_obm_2015_n3_f3__Q06]]

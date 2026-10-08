@@ -35,7 +35,6 @@ level: Coupe Animath Automne
 > Quindici studenti partecipano a un campo di matematica. Ogni sera, tre di loro vanno a mangiare un gelato. Alla fine del campo, si scopre che due studenti sono sempre andati a mangiare un gelato nello stesso momento esattamente una volta. Quanti giorni ha durato il campo? Giustifica la tua risposta.
 
 **Risposta:** 35
-[[Quesiti/src_canimath_2015_automne#q01|src_canimath_2015_automne__Q01]]
 
 
 
@@ -61,8 +60,6 @@ level: Coupe Animath Automne
 *Tre cifre x>y>z>0; somma delle sei permutazioni a tre cifre equivale a 4884; trovare i numeri possibili xyz.*
 
 > Prendiamo tre cifre $x, y, z$ in modo che $x > y > z > 0$. Prendendo la somma dei sei numeri a tre cifre ottenuti permutando questi cifre $3$, si trova $4884$ (ad esempio, se $x = 3$, $y = 2$ e $z = 1$ si trova $321 + 312 + 213 + 231 + 123 + 132 = 1332$). Quali sono i valori possibili del numero formato dalle tre cifre $x, y, z$ (preso in questo ordine)? Giustifica la tua risposta.
-
-[[Quesiti/src_canimath_2015_automne#q02|src_canimath_2015_automne__Q02]]
 
 
 
@@ -101,8 +98,6 @@ level: Coupe Animath Automne
 
 ![[src_canimath_2015_automne__q03.png]]
 
-[[Quesiti/src_canimath_2015_automne#q03|src_canimath_2015_automne__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_estremalita,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
@@ -131,8 +126,6 @@ level: Coupe Animath Automne
 > Per ogni numero intero rigorosamente positivo $k$, se sulla lavagna è scritto $k$, si può cancellare e sostituirlo con il numero $a + b$, a condizione che $a$ e $b$ siano integri rigorosamente positivi come $ab = k$ (ad esempio, è possibile sostituire $20$ con $12$, poiché $12 = 2 + 10$ e $20 = 2 \times 10$).
 > 
 > Inizialmente, il numero intero $n > 0$ è scritto sulla lavagna. Determinare, secondo i valori di $n$, il numero più piccolo che sia possibile scrivere sulla lavagna dopo un numero finito di sostituzioni (possibilmente nessuna).
-
-[[Quesiti/src_canimath_2015_automne#q04|src_canimath_2015_automne__Q04]]
 
 
 
@@ -167,8 +160,6 @@ level: Coupe Animath Automne
 > 
 > (2) Se $n$ è strano, si ha sempre $a_1 = a_2 = \cdots = a_n$?
 
-[[Quesiti/src_canimath_2015_automne#q05|src_canimath_2015_automne__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_fattorizzazione,skill_modellizzazione,skill_riconoscimento_pattern"></span>
@@ -193,8 +184,6 @@ level: Coupe Animath Automne
 *Gli studenti si siedono in modo che una disposizione quadrata lascia 5 sopra, mentre un rettangolo di 7 righe in più delle colonne si siedono tutti esattamente; trovare il maggior numero possibile di studenti.*
 
 > Un certo numero di studenti fa un test di matematica. Se si organizzano le tavole per formare un quadrato, ci saranno $5$ studenti che non hanno posti a sedere. D'altra parte, se si forma un rettangolo con $7$ più righe di colonne, tutti gli studenti avranno un posto (e non ci sarà nessun posto vuoto). Qual è il maggior numero possibile di studenti? Giustifica la tua risposta.
-
-[[Quesiti/src_canimath_2015_automne#q06|src_canimath_2015_automne__Q06]]
 
 
 
@@ -225,8 +214,6 @@ level: Coupe Animath Automne
 
 ![[src_canimath_2015_automne__q07.png]]
 
-[[Quesiti/src_canimath_2015_automne#q07|src_canimath_2015_automne__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_aritmetica,method_induzione,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -253,5 +240,3 @@ level: Coupe Animath Automne
 *Sequenza a_1=1, a_2=7, a_{n+2}=(a_{n+1}^2-1)/a_n; prova 9 a_n a_{n+1}+1 è un quadrato perfetto per tutti n>=1.*
 
 > Consideriamo una sequenza di numeri reali $a_1, a_2, a_3, \ldots$ come $a_1 = 1$, $a_2 = 7$ e $$a_{n+2} = \frac{a_{n+1}^2 - 1}{a_n} \quad \text{for all } n \ge 1.$$ Ad esempio, $a_3 = \frac{7^2 - 1}{1} = 48$. Mostra che $9 a_n a_{n+1} + 1$ è il quadrato di un intero per ogni intero $n \ge 1$.
-
-[[Quesiti/src_canimath_2015_automne#q08|src_canimath_2015_automne__Q08]]

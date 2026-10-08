@@ -37,8 +37,6 @@ level: OBM Nível 1
 
 ![[src_obm_2009_n1_f2__q01.png]]
 
-[[Quesiti/src_obm_2009_n1_f2#q01|src_obm_2009_n1_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -62,8 +60,6 @@ level: OBM Nível 1
 *6° grado: di ogni 11 studenti 4 sono ragazze e ci sono 15 maschi in più di ragazze; studenti totali*
 
 > In una classe di seconda elementare, di tutti gli studenti di seconda elementare, $4$ sono ragazze. Ci sono più ragazzi che ragazze. Quanti studenti ci sono in questa classe?
-
-[[Quesiti/src_obm_2009_n1_f2#q02|src_obm_2009_n1_f2__Q02]]
 
 
 
@@ -102,8 +98,6 @@ level: OBM Nível 1
 > 
 > Ogni studente era assente esattamente due giorni. Nel giorno con meno presenti, quale percentuale del totale delle assenze [si è verificata quel giorno]?
 
-[[Quesiti/src_obm_2009_n1_f2#q03|src_obm_2009_n1_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -133,8 +127,6 @@ level: OBM Nível 1
 
 ![[src_obm_2009_n1_f2__q04.png]]
 
-[[Quesiti/src_obm_2009_n1_f2#q04|src_obm_2009_n1_f2__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_estremalita,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_stima"></span>
@@ -160,8 +152,6 @@ level: OBM Nível 1
 
 > Il numero $200920092009\ldots 2009$ ha i numeri $2008$. Qual è la quantità più piccola di cifre da cancellare, in modo che la somma delle cifre rimanenti sia $2008$?
 
-[[Quesiti/src_obm_2009_n1_f2#q05|src_obm_2009_n1_f2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_estremalita,method_casework,skill_conteggio_sistematico,skill_casework_accurato,skill_riconoscimento_pattern"></span>
@@ -186,8 +176,6 @@ level: OBM Nível 1
 *Famiglia di numeri che condividono tutti almeno una cifra comune; trovare il maggior numero possibile di membri*
 
 > Diciamo che due o più numeri appartengono alla stessa famiglia quando tutti hanno almeno una cifra in comune. Ad esempio, i numeri $72$, $32$, $25$ e $22$ appartengono alla stessa famiglia, poiché tutti possiedono la cifra $2$, mentre i numeri $123$, $245$ e $568$ non appartengono alla stessa famiglia, poiché non esiste una cifra che compare in tutti e tre questi numeri. Determinare il maggior numero di membri di una famiglia i cui elementi hanno almeno una cifra in comune.
-
-[[Quesiti/src_obm_2009_n1_f2#q06|src_obm_2009_n1_f2__Q06]]
 
 
 
@@ -226,8 +214,6 @@ level: OBM Nível 1
 
 ![[src_obm_2009_n1_f2__q07.png]]
 
-[[Quesiti/src_obm_2009_n1_f2#q07|src_obm_2009_n1_f2__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -261,8 +247,6 @@ level: OBM Nível 1
 > 
 > b) Qual sarebbe il numero $A$ se i numeri di $B$ non fossero consecutivi?
 
-[[Quesiti/src_obm_2009_n1_f2#q08|src_obm_2009_n1_f2__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_logica,method_casework,method_conteggio,skill_casework_accurato,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -295,5 +279,3 @@ level: OBM Nível 1
 > a) Al termine del terzo round, è possibile che un gruppo di giocatori si trovi al primo posto e i giocatori rimanenti al secondo? Spiegate con un esempio.
 > 
 > b) Al termine del terzo round, è possibile che tutti i giocatori abbiano punteggi diversi? Spiegami.
-
-[[Quesiti/src_obm_2009_n1_f2#q09|src_obm_2009_n1_f2__Q09]]

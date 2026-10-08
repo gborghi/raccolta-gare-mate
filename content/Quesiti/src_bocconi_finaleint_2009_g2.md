@@ -41,7 +41,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > The number of days. Every day from $1^\circ$ January, Mathilde calculates the sum of all the digits of the date of the day. For example, on $1^\circ$ January 2009 (1-1-2009), Mathilde performed the $1+2+0+0+9=13$ calculation. Between $1^\circ$ January 2009 and 31 December 2009, what is the largest total that Mathilde can achieve?
 
 **Answer:** 31
-[[Quesiti/src_bocconi_finaleint_2009_g2#q01|src_bocconi_finaleint_2009_g2__Q01]]
 
 
 
@@ -76,7 +75,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 ![[src_bocconi_finaleint_2009_g2__q02.png]]
 
 **Answer:** 24
-[[Quesiti/src_bocconi_finaleint_2009_g2#q02|src_bocconi_finaleint_2009_g2__Q02]]
 
 
 
@@ -111,8 +109,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 ![[src_bocconi_finaleint_2009_g2__q03.png]]
 
-[[Quesiti/src_bocconi_finaleint_2009_g2#q03|src_bocconi_finaleint_2009_g2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -146,7 +142,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 ![[src_bocconi_finaleint_2009_g2__q04.png]]
 
 **Answer:** 48
-[[Quesiti/src_bocconi_finaleint_2009_g2#q04|src_bocconi_finaleint_2009_g2__Q04]]
 
 
 
@@ -177,7 +172,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > The MATHIAS list. Mathias writes the page numbers from $2009$ to $2009\,2010\,2011\,2012\,2013\ldots$ How many pages he wrote contain at least one digit $4$?
 
 **Answer:** 2511
-[[Quesiti/src_bocconi_finaleint_2009_g2#q05|src_bocconi_finaleint_2009_g2__Q05]]
 
 
 
@@ -212,7 +206,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 ![[src_bocconi_finaleint_2009_g2__q06.png]]
 
 **Answer:** 70
-[[Quesiti/src_bocconi_finaleint_2009_g2#q06|src_bocconi_finaleint_2009_g2__Q06]]
 
 
 
@@ -248,7 +241,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 ![[src_bocconi_finaleint_2009_g2__q07.png]]
 
 **Answer:** $1963 \times 4 = 7852$
-[[Quesiti/src_bocconi_finaleint_2009_g2#q07|src_bocconi_finaleint_2009_g2__Q07]]
 
 
 
@@ -281,8 +273,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 ![[src_bocconi_finaleint_2009_g2__q08.png]]
 
-[[Quesiti/src_bocconi_finaleint_2009_g2#q08|src_bocconi_finaleint_2009_g2__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_algebra,method_casework,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -312,7 +302,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > Get in the bus. On departure, on a bus, the passengers are female. At the next stop two females descend and no one climbs; then the females constitute the $30\%$ of the passengers. How many seats does the bus have?
 
 **Answer:** 6
-[[Quesiti/src_bocconi_finaleint_2009_g2#q09|src_bocconi_finaleint_2009_g2__Q09]]
 
 
 
@@ -343,7 +332,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > Playing three. Before playing, Alain, Bernard and Camille have $99$, $100$ and $101$ tokens respectively. In each turn, the player with the most points gives one to each of the other two players, which brings him to the last place. How many shifts will there be?
 
 **Answer:** 295
-[[Quesiti/src_bocconi_finaleint_2009_g2#q10|src_bocconi_finaleint_2009_g2__Q10]]
 
 
 
@@ -374,7 +362,6 @@ Number of friends since Caterina drinks 1/4 milk and 1/6 coffee
 > Coffee with milk. Catherine and her friends each drink the same amount of milk coffee, but in different proportions of coffee and milk. Catherine drank a quarter of the total milk and a sixth of the total coffee. How many friends are at the table?
 
 **Answer:** 4
-[[Quesiti/src_bocconi_finaleint_2009_g2#q11|src_bocconi_finaleint_2009_g2__Q11]]
 
 
 
@@ -405,7 +392,6 @@ Number of friends since Caterina drinks 1/4 milk and 1/6 coffee
 > The perimeter of the triangle. The sides of a triangle measure an integer number of centimeters. One side is twice as long as the other, and the third measures $15$ cm. What is the perimeter of the triangle in cm at most?
 
 **Answer:** 43 cm
-[[Quesiti/src_bocconi_finaleint_2009_g2#q12|src_bocconi_finaleint_2009_g2__Q12]]
 
 
 
@@ -436,7 +422,6 @@ Number of friends since Caterina drinks 1/4 milk and 1/6 coffee
 > Two or three. Michel and Laurent start at the same time from two diametrically opposite points on a circular track. Michel walks in the opposite direction and Laurent in the opposite direction. They intersect for the first time when Michel traveled $100$ meters from the start. They intersect a second time when Laurent walked a mile after their first intersection. How big is the entire runway? The speed of each remains constant.
 
 **Answer:** 350 m
-[[Quesiti/src_bocconi_finaleint_2009_g2#q13|src_bocconi_finaleint_2009_g2__Q13]]
 
 
 
@@ -467,7 +452,6 @@ Number of friends since Caterina drinks 1/4 milk and 1/6 coffee
 > The verse of the book. A book has pages numbered from $1$ to $999$ included. For each page, a number is formed by joining the page number to the front page number. For example: $20$ before $2$, $350$ before $35$, $450$ before $45$, $607$ before $67$, etc. What is the sum of all the numbers thus obtained (including those of the first change)?
 
 **Answer:** 418095
-[[Quesiti/src_bocconi_finaleint_2009_g2#q14|src_bocconi_finaleint_2009_g2__Q14]]
 
 
 
@@ -502,7 +486,6 @@ Number of friends since Caterina drinks 1/4 milk and 1/6 coffee
 ![[src_bocconi_finaleint_2009_g2__q15.png]]
 
 **Answer:** $(28;\ 24)$
-[[Quesiti/src_bocconi_finaleint_2009_g2#q15|src_bocconi_finaleint_2009_g2__Q15]]
 
 
 
@@ -536,8 +519,7 @@ Magic 3x3 square with the initials of nine children
 
 ![[src_bocconi_finaleint_2009_g2__q16.png]]
 
-**Answer:** 2 soluzioni
-[[Quesiti/src_bocconi_finaleint_2009_g2#q16|src_bocconi_finaleint_2009_g2__Q16]]
+**Answer:** 2 solutions
 
 
 
@@ -568,7 +550,6 @@ Magic 3x3 square with the initials of nine children
 > The bricks of Brian. Brian's bricks are all parallel-piped rectangles whose dimensions are integers less than or equal to $7$. Brian considers each brick different in size and has all the possible ones. Brian calculates the volume of each brick and divides it by the square of its larger size. Then add up all the results. What irreducible fraction does he get? Observation: a cube is a particular parallelepiped.
 
 **Answer:** $\frac{2009}{12}$
-[[Quesiti/src_bocconi_finaleint_2009_g2#q17|src_bocconi_finaleint_2009_g2__Q17]]
 
 
 
@@ -607,5 +588,4 @@ Magic 3x3 square with the initials of nine children
 
 ![[src_bocconi_finaleint_2009_g2__q18.png]]
 
-**Answer:** 4 soluzioni: $(18;25)\,(11;13;19)\,(4;9;14;16)\,(2;5;7;12;17)$; $(18;25)\,(7;17;99)\,(4;10;13;16)\,(2;5;9;12;15)$; $(20;23)\,(11;13;19)\,(4;9;14;16)\,(2;5;7;12;17)$; $(20;23)\,(7;17;99)\,(4;10;13;16)\,(2;5;9;12;15)$
-[[Quesiti/src_bocconi_finaleint_2009_g2#q18|src_bocconi_finaleint_2009_g2__Q18]]
+**Answer:** 4 solutions: $(18;25)\,(11;13;19)\,(4;9;14;16)\,(2;5;7;12;17)$; $(18;25)\,(7;17;99)\,(4;10;13;16)\,(2;5;9;12;15)$; $(20;23)\,(11;13;19)\,(4;9;14;16)\,(2;5;7;12;17)$; $(20;23)\,(7;17;99)\,(4;10;13;16)\,(2;5;9;12;15)$

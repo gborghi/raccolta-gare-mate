@@ -50,7 +50,6 @@ level: biennio
 > - **(E)** It's not determinable.
 
 **Answer:** D
-[[Quesiti/src_archimede_1999_biennio#q01|src_archimede_1999_biennio__Q01]]
 
 
 
@@ -91,7 +90,6 @@ level: biennio
 > - **(E)** 1000108.
 
 **Answer:** A
-[[Quesiti/src_archimede_1999_biennio#q02|src_archimede_1999_biennio__Q02]]
 
 
 
@@ -139,7 +137,6 @@ level: biennio
 > - **(E)** It cannot be determined uniquely.
 
 **Answer:** B
-[[Quesiti/src_archimede_1999_biennio#q03|src_archimede_1999_biennio__Q03]]
 
 
 
@@ -180,7 +177,6 @@ level: biennio
 > - **(E)** 10.
 
 **Answer:** A
-[[Quesiti/src_archimede_1999_biennio#q04|src_archimede_1999_biennio__Q04]]
 
 
 
@@ -222,7 +218,6 @@ level: biennio
 > - **(E)** More than an hour and a half.
 
 **Answer:** E
-[[Quesiti/src_archimede_1999_biennio#q05|src_archimede_1999_biennio__Q05]]
 
 
 
@@ -264,7 +259,6 @@ level: biennio
 > - **(E)** 50 cm.
 
 **Answer:** C
-[[Quesiti/src_archimede_1999_biennio#q06|src_archimede_1999_biennio__Q06]]
 
 
 
@@ -306,7 +300,6 @@ level: biennio
 > - **(E)** None of the previous ones.
 
 **Answer:** D
-[[Quesiti/src_archimede_1999_biennio#q07|src_archimede_1999_biennio__Q07]]
 
 
 
@@ -347,7 +340,6 @@ level: biennio
 > - **(E)** There is at least one school where there is a class that has at least one failure.
 
 **Answer:** C
-[[Quesiti/src_archimede_1999_biennio#q08|src_archimede_1999_biennio__Q08]]
 
 
 
@@ -389,7 +381,6 @@ level: biennio
 > - **(E)** You can't determine why you need to calculate the probability of the fifth.
 
 **Answer:** B
-[[Quesiti/src_archimede_1999_biennio#q09|src_archimede_1999_biennio__Q09]]
 
 
 
@@ -431,7 +422,6 @@ level: biennio
 > - **(E)** more than 5 hectares. (remember that 1 hectare is equivalent to 10 000 m2)
 
 **Answer:** D
-[[Quesiti/src_archimede_1999_biennio#q10|src_archimede_1999_biennio__Q10]]
 
 
 
@@ -475,7 +465,6 @@ level: biennio
 > - **(E)** 40.
 
 **Answer:** E
-[[Quesiti/src_archimede_1999_biennio#q11|src_archimede_1999_biennio__Q11]]
 
 
 
@@ -516,7 +505,6 @@ level: biennio
 > - **(E)** 4 9.
 
 **Answer:** A
-[[Quesiti/src_archimede_1999_biennio#q12|src_archimede_1999_biennio__Q12]]
 
 
 
@@ -560,7 +548,6 @@ level: biennio
 > - **(E)** 990 e 1000.
 
 **Answer:** B
-[[Quesiti/src_archimede_1999_biennio#q13|src_archimede_1999_biennio__Q13]]
 
 
 
@@ -601,7 +588,6 @@ level: biennio
 > - **(E)** 121.
 
 **Answer:** E
-[[Quesiti/src_archimede_1999_biennio#q14|src_archimede_1999_biennio__Q14]]
 
 
 
@@ -648,7 +634,6 @@ level: biennio
 > - **(E)** 48. 16 2 a c 10 d b e 4
 
 **Answer:** C
-[[Quesiti/src_archimede_1999_biennio#q15|src_archimede_1999_biennio__Q15]]
 
 
 
@@ -691,7 +676,6 @@ level: biennio
 > - **(E)** None of the previous ones.
 
 **Answer:** B
-[[Quesiti/src_archimede_1999_biennio#q16|src_archimede_1999_biennio__Q16]]
 
 
 
@@ -732,7 +716,6 @@ level: biennio
 > - **(E)** 24.
 
 **Answer:** D
-[[Quesiti/src_archimede_1999_biennio#q17|src_archimede_1999_biennio__Q17]]
 
 
 
@@ -777,7 +760,6 @@ level: biennio
 > - **(E)** 94.
 
 **Answer:** C
-[[Quesiti/src_archimede_1999_biennio#q18|src_archimede_1999_biennio__Q18]]
 
 
 
@@ -824,7 +806,6 @@ level: biennio
 > - **(E)** 1 12. b B bA b C
 
 **Answer:** C
-[[Quesiti/src_archimede_1999_biennio#q19|src_archimede_1999_biennio__Q19]]
 
 
 
@@ -867,4 +848,3 @@ level: biennio
 > - **(E)** more than 224.
 
 **Answer:** D
-[[Quesiti/src_archimede_1999_biennio#q20|src_archimede_1999_biennio__Q20]]

@@ -49,8 +49,6 @@ level: OBM Nível 1
 
 ![[src_obm_2022_n1_fx__q01.png]]
 
-[[Quesiti/src_obm_2022_n1_fx#q01|src_obm_2022_n1_fx__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -83,8 +81,6 @@ level: OBM Nível 1
 > (a) Esiste un numero a tre cifre tale che la somma dei quadrati delle sue cifre sia uguale a $4^4$? Non dimenticare che devi giustificare la tua risposta.
 > 
 > b) Quali sono i due numeri più grandi di 3 cifre?
-
-[[Quesiti/src_obm_2022_n1_fx#q02|src_obm_2022_n1_fx__Q02]]
 
 
 
@@ -135,8 +131,6 @@ level: OBM Nível 1
 
 ![[src_obm_2022_n1_fx__q03.png]]
 
-[[Quesiti/src_obm_2022_n1_fx#q03|src_obm_2022_n1_fx__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_doppio_conteggio,method_estremalita,skill_modellizzazione,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -173,8 +167,6 @@ level: OBM Nível 1
 > b) dimostrare che è possibile che, alla fine del torneo, la squadra con più punti abbia vinto meno di ciascuna delle altre squadre.
 > 
 > (c) Supponiamo che una delle squadre abbia ottenuto più punti di tutte le altre combinate e meno vincite di tutte le altre. Qual è il numero minimo di vittorie che la squadra può avere?
-
-[[Quesiti/src_obm_2022_n1_fx#q04|src_obm_2022_n1_fx__Q04]]
 
 
 
@@ -221,5 +213,3 @@ level: OBM Nível 1
 > b) Determinare tutti i numeri di partido del 2022 a 4 cifre.
 > 
 > c) Determinare tutti i numeri del partito 2022 di 6 cifre o più.
-
-[[Quesiti/src_obm_2022_n1_fx#q05|src_obm_2022_n1_fx__Q05]]

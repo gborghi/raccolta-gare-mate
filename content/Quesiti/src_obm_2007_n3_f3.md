@@ -33,8 +33,6 @@ level: OBM Nível 3
 
 > Let $f(x) = x^2 + 2007x + 1$. Prova che per ogni intero positivo $n$, l'equazione $\underbrace{f(f(\ldots(f(x))\ldots))}_{n \text{ times}} = 0$ ha almeno una soluzione reale.
 
-[[Quesiti/src_obm_2007_n3_f3#q01|src_obm_2007_n3_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_casework,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: OBM Nível 3
 *Conta i numeri interi c nel [-2007,2007] per i quali x^2+c è un multiple di 2^2007 per alcuni numeri interi x*
 
 > Per quanti integri $c$, con $-2007 \le c \le 2007$, esiste un intero $x$ tale che $x^2 + c$ sia un multiple di $2^{2007}$?
-
-[[Quesiti/src_obm_2007_n3_f3#q02|src_obm_2007_n3_f3__Q02]]
 
 
 
@@ -91,8 +87,6 @@ level: OBM Nível 3
 > 
 > *Rimarca: * $\lfloor x \rfloor$ indica il numero intero più grande che non supera $x$. Per esempio, $\lfloor 2.5 \rfloor = 2$, $\lfloor 3 \rfloor = 3$ e $\lfloor -1.2 \rfloor = -2$.
 
-[[Quesiti/src_obm_2007_n3_f3#q03|src_obm_2007_n3_f3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_colorazione,method_casework,skill_astrazione,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -118,8 +112,6 @@ Gioco su una tavola 2007x2007: Arnaldo rimuove 2x2 blocchi, Bernaldo rimuove sin
 
 > $2007^2$ piccoli quadrati uguali sono disposti formando una tavola $2007 \times 2007$. Arnaldo e Bernaldo giocano il seguente gioco: ciascuna delle mosse di Arnaldo consiste nel rimuovere 4 piccoli quadrati che formano un quadrato $2 \times 2$. Ogni mossa di Bernaldo consiste nel rimuovere solo un piccolo quadrato. I giocatori giocano alternativamente, con Arnaldo come primo a giocare. Quando Arnaldo non riesce più a fare la sua mossa, Bernaldo prende per sé tutti i piccoli quadrati rimasti sulla lavagna alla fine. Colui che ha più piccoli quadrati vince. E' possibile che Bernaldo vinca, non importa come giochi?
 
-[[Quesiti/src_obm_2007_n3_f3#q04|src_obm_2007_n3_f3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -144,8 +136,6 @@ Gioco su una tavola 2007x2007: Arnaldo rimuove 2x2 blocchi, Bernaldo rimuove sin
 *Quadrilaterale convex; se l'angolo POQ è giusto allora il PO divide l'angolo AOD e il QO divide l'angolo AOB*
 
 > Il $ABCD$ deve essere un quadrilaterale convex, $P$ l'intersezione delle linee $AB$ e $CD$, $Q$ l'intersezione delle linee $AD$ e $BC$, e $O$ l'intersezione delle diagonali $AC$ e $BD$. Prove che se $\angle POQ$ è un angolo retto, allora $PO$ è il bisector di $\angle AOD$ e $QO$ è il bisector di $\angle AOB$.
-
-[[Quesiti/src_obm_2007_n3_f3#q05|src_obm_2007_n3_f3__Q05]]
 
 
 
@@ -175,5 +165,3 @@ Gioco su una tavola 2007x2007: Arnaldo rimuove 2x2 blocchi, Bernaldo rimuove sin
 > Dati i numeri reali $x_1 \le x_2 \le \ldots \le x_n$, supponiamo che ogni numero si verifichi al massimo due volte tra le differenze $x_j - x_i$, $1 \le i < j \le n$. Prove che ci sono almeno $\lfloor n/2 \rfloor$ numeri reali che si verificano esattamente una volta tra tali differenze.
 > 
 > *Ricordo: * nel caso non vi ricordate, nell'esame di ieri $\lfloor x \rfloor$ indica il numero intero più grande che non supera $x$. Per esempio, $\lfloor 2.5 \rfloor = 2$, $\lfloor 3 \rfloor = 3$ e $\lfloor -1.2 \rfloor = -2$.
-
-[[Quesiti/src_obm_2007_n3_f3#q06|src_obm_2007_n3_f3__Q06]]

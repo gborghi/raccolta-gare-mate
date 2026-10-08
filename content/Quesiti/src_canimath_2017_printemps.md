@@ -43,7 +43,6 @@ level: Coupe Animath Printemps
 > (Un numero primo è un numero intero rigorosamente positivo superiore a $1$ i cui unici divisori sono $1$ e se stesso.)
 
 **Risposta:** m=59, n=10, p=5
-[[Quesiti/src_canimath_2017_printemps#q01|src_canimath_2017_printemps__Q01]]
 
 
 
@@ -70,8 +69,6 @@ level: Coupe Animath Printemps
 
 > Indicare che se $n$ è un numero intero a cinque cifre e $m$ è il numero intero ottenuto invertendo l'ordine dei numeri di $n$ (ad esempio, se $n = 34170$, allora $m = 07143$), la rappresentazione decimale di $n + m$ contiene almeno una cifra pari.
 
-[[Quesiti/src_canimath_2017_printemps#q02|src_canimath_2017_printemps__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -96,8 +93,6 @@ level: Coupe Animath Printemps
 *I bisettori perpendicolari in un triangolo di 60 gradi danno segmento uguale*
 
 > Che $ABC$ sia un triangolo tale che $\widehat{BAC} = 60^\circ$. Il bisettore perpendicolare di $[AC]$ incontra la linea $(AB)$ a $P$, e il bisettore perpendicolare di $[AB]$ incontra la linea $(AC)$ a $Q$. Mostra che $PQ = BC$.
-
-[[Quesiti/src_canimath_2017_printemps#q03|src_canimath_2017_printemps__Q03]]
 
 
 
@@ -126,7 +121,6 @@ level: Coupe Animath Printemps
 > Cinque numeri sono dati in ordine crescente; sono le lunghezze dei quattro lati di un quadrilaterale (non auto-intersezionato, ma non necessariamente convex, il che significa che una diagonale non è necessariamente all'interno del poligono) e di uno dei suoi diagonali $D$. Questi cinque numeri sono $3$, $5$, $7$, $13$ e $19$. Quale di questi numeri può essere la lunghezza della diagonale $D$?
 
 **Risposta:** 13
-[[Quesiti/src_canimath_2017_printemps#q04|src_canimath_2017_printemps__Q04]]
 
 
 
@@ -153,8 +147,6 @@ level: Coupe Animath Printemps
 
 > Un numero è scritto su una lavagna. Ad ogni passaggio viene aggiunta la cifra più grande del numero corrente (ad esempio, se è scritto $142$, il numero successivo sarà $146$). Qual è il maggior numero di numeri dispari che possono apparire consecutivamente quando si procede in questo modo?
 
-[[Quesiti/src_canimath_2017_printemps#q05|src_canimath_2017_printemps__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -179,8 +171,6 @@ level: Coupe Animath Printemps
 *Ricerca tutti gli integri n≥2 dove d'innuncia (d-1) di n- 1) per tutti d≥2*
 
 > Determinare tutti gli enti $n \ge 2$ in modo tale che per ogni intero $d \ge 2$, se $d$ è un divisore di $n$, allora $d - 1$ è un divisore di $n - 1$.
-
-[[Quesiti/src_canimath_2017_printemps#q06|src_canimath_2017_printemps__Q06]]
 
 
 
@@ -214,5 +204,3 @@ level: Coupe Animath Printemps
 > a) Supponiamo che ogni studente abbia al massimo due amici. Mostrare che è possibile allineare tutti gli studenti in una fila in modo che tra due amici ci siano al massimo $2017$ altri studenti tra di loro.
 > 
 > b) Supponiamo ora che ogni studente abbia al massimo tre amici. Mostrate che questo non è necessariamente possibile.
-
-[[Quesiti/src_canimath_2017_printemps#q07|src_canimath_2017_printemps__Q07]]

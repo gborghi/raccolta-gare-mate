@@ -80,7 +80,6 @@ level: kangourou
 > D) 4√2 - π E) A number different from the previous one.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2018_student_semif#q01|src_kangourou_2018_student_semif__Q01]]
 
 
 
@@ -117,7 +116,6 @@ level: kangourou
 > E) None of the above.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_student_semif#q02|src_kangourou_2018_student_semif__Q02]]
 
 
 
@@ -158,7 +156,6 @@ level: kangourou
 > C) 4/3 D) 3/2 E) 5/3
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_student_semif#q03|src_kangourou_2018_student_semif__Q03]]
 
 
 
@@ -191,7 +188,6 @@ level: kangourou
 > (Points 4) A prime r is the sum of two prime p and q. It also happens that the sum of the digits of r coincides with the sum of the digits of p plus the sum of the digits of q. How many possible prime numbers r are in this situation? A) Only 1 B) Exactly 2 C) Exactly 3 D) Exactly 4 E) More than 4
 
 **Answer:** E
-[[Quesiti/src_kangourou_2018_student_semif#q04|src_kangourou_2018_student_semif__Q04]]
 
 
 
@@ -221,7 +217,6 @@ level: kangourou
 > (Points 4) m and n are two positive integers such that 2^m - 2^n = 240. How much is m + n ? A) 10 B) 11 C) 15 D) 16 E) None of the above numbers are correct.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2018_student_semif#q05|src_kangourou_2018_student_semif__Q05]]
 
 
 
@@ -251,7 +246,6 @@ level: kangourou
 > (Points 4) For how many integers n is the number n/(n - 10) an integer? (A) 4 (B) 5 (C) 7 (D) 8 (E) Infinite
 
 **Answer:** D
-[[Quesiti/src_kangourou_2018_student_semif#q06|src_kangourou_2018_student_semif__Q06]]
 
 
 
@@ -282,7 +276,6 @@ level: kangourou
 > A) 99            B) 101          C) 121           D) 1001           10001
 
 **Answer:** D
-[[Quesiti/src_kangourou_2018_student_semif#q07|src_kangourou_2018_student_semif__Q07]]
 
 
 
@@ -317,7 +310,6 @@ level: kangourou
 > A) p < 35%    B) 35% ≤ p < 40%      C) 40% ≤ p < 45%      D) 45% ≤ p < 50%     E) p ≥ 50%
 
 **Answer:** E
-[[Quesiti/src_kangourou_2018_student_semif#q08|src_kangourou_2018_student_semif__Q08]]
 
 
 
@@ -353,7 +345,6 @@ level: kangourou
 > Open-ended questions
 
 **Answer:** D
-[[Quesiti/src_kangourou_2018_student_semif#q09|src_kangourou_2018_student_semif__Q09]]
 
 
 
@@ -384,7 +375,6 @@ level: kangourou
 > (Dots 4) A circular section rope is cut into two pieces. Both are spirally rolled onto a table to produce approximately two discs. The radius of one of the two is twice the radius of the other. What is the ratio between the length of the whole rope and the length of the shortest piece? (If necessary, approximate the answer to the nearest integer.)
 
 **Answer:** 5
-[[Quesiti/src_kangourou_2018_student_semif#q10|src_kangourou_2018_student_semif__Q10]]
 
 
 
@@ -418,7 +408,6 @@ level: kangourou
 > example, if the probability were 0.81 write the answer as 8100.)
 
 **Answer:** 9000
-[[Quesiti/src_kangourou_2018_student_semif#q11|src_kangourou_2018_student_semif__Q11]]
 
 
 
@@ -448,7 +437,6 @@ level: kangourou
 > (Points 5) Let p (x) = x3 + bx2 + cx + 4, with b and c integers between - 2018 and 2018, extremes included. For how many different polynomials p (x) do we have p (2) = 0 ?
 
 **Answer:** 2019
-[[Quesiti/src_kangourou_2018_student_semif#q12|src_kangourou_2018_student_semif__Q12]]
 
 
 
@@ -478,7 +466,6 @@ level: kangourou
 > (Points 6) How many integers between 0001 and 9999 inclusive are such that the sum of the first two digits coincides with the sum of the other two?
 
 **Answer:** 669
-[[Quesiti/src_kangourou_2018_student_semif#q13|src_kangourou_2018_student_semif__Q13]]
 
 
 
@@ -511,7 +498,6 @@ level: kangourou
 > (Points 6) A railway company operates a line with m stations. It then has n more built, with n > 1. For each new route a new type of ticket is printed (note: the route from station A to station B is different from that from B to A). If a total of 46 new types of tickets are printed, what are the values of m and n, in order? (For example, if m = 25 and n = 4, write 2504.)
 
 **Answer:** 1102
-[[Quesiti/src_kangourou_2018_student_semif#q14|src_kangourou_2018_student_semif__Q14]]
 
 
 
@@ -544,7 +530,6 @@ level: kangourou
 > starting from P are perpendicular to each other. What is the area of triangle ABP?
 
 **Answer:** 100
-[[Quesiti/src_kangourou_2018_student_semif#q15|src_kangourou_2018_student_semif__Q15]]
 
 
 
@@ -574,7 +559,6 @@ level: kangourou
 > (Points 7) For how many ordered triples (a, b, c) of relative integers does a × b × c = 45,000?
 
 **Answer:** 3600
-[[Quesiti/src_kangourou_2018_student_semif#q16|src_kangourou_2018_student_semif__Q16]]
 
 
 
@@ -606,7 +590,6 @@ level: kangourou
 > (Points 7) An ortho-polygon in the plane is a non-self-intersecting polygon such that every pair of consecutive sides consists of sides perpendicular to each other. About an ortho-polygon with n sides it is known that, numbering its sides starting from 1 in one of the two possible directions, the length of each side corresponds to the number assigned to the side itself; it is also known that n is the integer as close as possible to 2019. What is the value of n?
 
 **Answer:** 2016
-[[Quesiti/src_kangourou_2018_student_semif#q17|src_kangourou_2018_student_semif__Q17]]
 
 
 
@@ -659,4 +642,3 @@ level: kangourou
 > 0052
 
 **Answer:** 52
-[[Quesiti/src_kangourou_2018_student_semif#q18|src_kangourou_2018_student_semif__Q18]]

@@ -33,8 +33,6 @@ level: RMO
 
 > Supponiamo che $x$ sia un numero reale non zero tale che sia $x^5$ che $20x + \frac{19}{x}$ siano numeri razionali. Prova che $x$ è un numero razionale.
 
-[[Quesiti/src_rmo_2019#q01|src_rmo_2019__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -58,8 +56,6 @@ level: RMO
 *Le linee del centroide incontrano il circoncircolo; condizioni di angolo uguale forzano i triangoli equilaterali.*
 
 > Let $ABC$ essere un triangolo con circoncircolo $\Omega$ e let $G$ essere il centroide del triangolo $ABC$. Estendere $AG$, $BG$ e $CG$ per raggiungere di nuovo il cerchio $\Omega$ rispettivamente in $A_1$, $B_1$ e $C_1$. Supponiamo $\angle BAC = \angle A_1B_1C_1$, $\angle ABC = \angle A_1C_1B_1$ e $\angle ACB = \angle B_1A_1C_1$. Prove che $ABC$ e $A_1B_1C_1$ sono triangoli equilaterali.
-
-[[Quesiti/src_rmo_2019#q02|src_rmo_2019__Q02]]
 
 
 
@@ -86,8 +82,6 @@ level: RMO
 *Rimostra una disuguaglianza per i reali positivi con a+b+c=1.*
 
 > $a, b, c$ siano numeri reali positivi come $a + b + c = 1$. Provare che $$\frac{a}{a^2 + b^3 + c^3} + \frac{b}{b^2 + c^3 + a^3} + \frac{c}{c^2 + a^3 + b^3} \le \frac{1}{5abc}.$$
-
-[[Quesiti/src_rmo_2019#q03|src_rmo_2019__Q03]]
 
 
 
@@ -117,8 +111,6 @@ level: RMO
 
 > Considera la seguente matrice $3 \times 2$ formata utilizzando i numeri $1, 2, 3, 4, 5, 6$: $$\begin{pmatrix} a_{11} & a_{12} \\ a_{21} & a_{22} \\ a_{31} & a_{32} \end{pmatrix} = \begin{pmatrix} 1 & 6 \\ 2 & 5 \\ 3 & 4 \end{pmatrix}.$$ Si noti che tutte le somme delle righe sono uguali, ma la somma dei quadrati non è la stessa per ogni riga. Estendere l'archivio di cui sopra ad un'archivio $3 \times k$ $(a_{ij})_{3 \times k}$ per un appropriato $k$, aggiungendo altre colonne, utilizzando i numeri $7, 8, 9, \ldots, 3k$ in modo tale che $$\sum_{j=1}^{k} a_{1j} = \sum_{j=1}^{k} a_{2j} = \sum_{j=1}^{k} a_{3j} \quad \text{and} \quad \sum_{j=1}^{k} (a_{1j})^2 = \sum_{j=1}^{k} (a_{2j})^2 = \sum_{j=1}^{k} (a_{3j})^2.$$
 
-[[Quesiti/src_rmo_2019#q04|src_rmo_2019__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -142,8 +134,6 @@ level: RMO
 *Il segmento di visualizzazione che unisce i punti medi di EF, i piedi correlati sul DF dà XM perpendicolare a MY.*
 
 > In un triangolo angolato acuto $ABC$, $H$ deve essere il centro ortografico, e $D$, $E$, $F$ devono essere i piedi delle altitudini da $A$, $B$, $C$ ai lati opposti, rispettivamente. I segmenti $L$, $M$, $N$ siano rispettivamente i punti di mezzo $AH$, $EF$ e $BC$. Le altitudini $X$, $Y$ devono essere piedi di altitudine da $L$, $N$ alla linea $DF$. Prove che $XM$ è perpendicolare a $MY$.
-
-[[Quesiti/src_rmo_2019#q05|src_rmo_2019__Q05]]
 
 
 
@@ -169,5 +159,3 @@ level: RMO
 *Tra 91 numeri interi distinti >1 con >=456 copriemi copriemi, trovate quattro con gcd ciclico in coppia 1.*
 
 > Supponiamo che $91$ siano dati integri positivi distinti superiori a $1$ in modo tale che ci siano almeno $456$ coppie tra di esse che sono relativamente prime. Mostrare che si possono trovare quattro numeri interi $a, b, c, d$ tra di loro tali che $\gcd(a, b) = \gcd(b, c) = \gcd(c, d) = \gcd(d, a) = 1$.
-
-[[Quesiti/src_rmo_2019#q06|src_rmo_2019__Q06]]

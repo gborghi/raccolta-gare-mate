@@ -33,8 +33,6 @@ level: BMO Round 1
 
 > I numeri interi $1, 2, 3, \ldots, 2016$ sono scritti su una lavagna, ognuna apparendo esattamente una volta. Ciascuna delle cifre da $0$ a $9$ appare molte volte nell'elenco. Quante cifre della lista sono strane?
 
-[[Quesiti/src_bmo_2016-17_round1#q01|src_bmo_2016-17_round1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -65,8 +63,6 @@ level: BMO Round 1
 > 
 > Determinare tutte le coppie $(m, n)$ di integri positivi che soddisfano l'equazione $$n \cdot f(m) = m \cdot f(n).$$
 
-[[Quesiti/src_bmo_2016-17_round1#q02|src_bmo_2016-17_round1__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_casework_accurato,skill_riconoscimento_pattern"></span>
@@ -91,8 +87,6 @@ level: BMO Round 1
 *I coppie di integri positivi in cui m2-n e n2-m sono quadrati perfetti*
 
 > Determinare tutte le coppie $(m, n)$ di integri positivi in modo tale che $m^2 - n$ e $n^2 - m$ siano entrambi quadrati perfetti.
-
-[[Quesiti/src_bmo_2016-17_round1#q03|src_bmo_2016-17_round1__Q03]]
 
 
 
@@ -123,8 +117,6 @@ level: BMO Round 1
 > 
 > Prove che $\angle BDM = 90^\circ$.
 
-[[Quesiti/src_bmo_2016-17_round1#q04|src_bmo_2016-17_round1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_casework,method_backward,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta"></span>
@@ -154,8 +146,6 @@ Naomi e Tom scelgono i numeri interi; determinano se Naomi vince sempre
 > 
 > Naomi sostiene di poter sempre vincere la partita qualunque sia la strategia che utilizza Tom. - Ha ragione? Giustifica la tua risposta.
 
-[[Quesiti/src_bmo_2016-17_round1#q05|src_bmo_2016-17_round1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_algebra,method_estremalita,method_simmetria,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_modellizzazione"></span>
@@ -180,5 +170,3 @@ Naomi e Tom scelgono i numeri interi; determinano se Naomi vince sempre
 *Interi consecutivi su (n+1)-gon; trovare la somma minima di tutte le differenze in coppia*
 
 > I numeri interi positivi consecutivi $m, m+1, m+2, \ldots, m+n$ sono assegnati ai vertici di ungon regolare $(n+1)$, un intero per vertice. Per ogni lato e diagonale del poligono, calcoliamo la differenza assoluta dei numeri interi ai due punti finali. Che $S$ sia la somma di tutte queste differenze assolute. Determinare il minimo valore possibile di $S$ in termini di $n$.
-
-[[Quesiti/src_bmo_2016-17_round1#q06|src_bmo_2016-17_round1__Q06]]

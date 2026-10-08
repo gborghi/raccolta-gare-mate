@@ -40,8 +40,6 @@ level: OBM Nível 3
 
 ![[src_obm_2008_n3_f1__q01.png]]
 
-[[Quesiti/src_obm_2008_n3_f1#q01|src_obm_2008_n3_f1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,skill_manipolazione_algebrica,skill_stima"></span>
@@ -72,7 +70,6 @@ level: OBM Nível 3
 > (A) $\dfrac{1}{x}$ (B) $\dfrac{1}{x(x+1)}$ (C) $\dfrac{1}{1+\dfrac{1}{1+\dfrac{1}{x}}}$ (D) $x$ (E) $\dfrac{x}{x+\dfrac{1}{x}}$
 
 **Risposta:** A
-[[Quesiti/src_obm_2008_n3_f1#q02|src_obm_2008_n3_f1__Q02]]
 
 
 
@@ -112,7 +109,6 @@ level: OBM Nível 3
 ![[src_obm_2008_n3_f1__q03.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2008_n3_f1#q03|src_obm_2008_n3_f1__Q03]]
 
 
 
@@ -145,7 +141,6 @@ level: OBM Nível 3
 > (A) $12$ (B) $14$ (C) $15$ (D) $16$ (E) $18$
 
 **Risposta:** A
-[[Quesiti/src_obm_2008_n3_f1#q04|src_obm_2008_n3_f1__Q04]]
 
 
 
@@ -178,7 +173,6 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 > (A) $2$ (B) $3$ (C) $4$ (D) $5$ (E) Non è possibile ottenere $100$ con queste carte.
 
 **Risposta:** C
-[[Quesiti/src_obm_2008_n3_f1#q05|src_obm_2008_n3_f1__Q05]]
 
 
 
@@ -208,8 +202,6 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 > Su una pista di corsa, la cui forma è un poligono regolare con vertici $n$, numerati da $1$ a $n$ nella direzione contraria al senso orario, ci sono tre persone: Nelly, Sônia e Penha, tutte inizialmente allo stesso vertice. A un certo punto iniziano a camminare lungo i lati del poligono. Nelly cammina nella direzione contraria al senso dell'orologio, mentre Sônia e Penha camminano nella direzione opposta. Nelly incontra Sônia per la prima volta ad un vertice, e incontra Penha due vertici avanti. La velocità di Nelly è il doppio della velocità di Sônia, e la velocità di Sônia è il doppio della velocità di Penha. Quanti vertici ha il poligono?
 > 
 > (A) $30$ (B) $60$ (C) $15$ (D) $10$ (E) $6$
-
-[[Quesiti/src_obm_2008_n3_f1#q06|src_obm_2008_n3_f1__Q06]]
 
 
 
@@ -241,7 +233,6 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 > (A) $500$ (B) $504$ (C) $112$ (D) $56$ (E) $70$
 
 **Risposta:** B
-[[Quesiti/src_obm_2008_n3_f1#q07|src_obm_2008_n3_f1__Q07]]
 
 
 
@@ -272,8 +263,6 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 > 
 > (A) $4$ (B) $5$ (C) $6$ (D) $7$ (E) $8$
 
-[[Quesiti/src_obm_2008_n3_f1#q08|src_obm_2008_n3_f1__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico"></span>
@@ -302,8 +291,6 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 > In quanti modi possiamo dare cambio per R\$ $10{,}00$ using coins of $10$ cents and $25$ centesimi, se deve essere utilizzata almeno una moneta di ogni tipo?
 > 
 > (A) $15$ (B) $16$ (C) $17$ (D) $18$ (E) $19$
-
-[[Quesiti/src_obm_2008_n3_f1#q09|src_obm_2008_n3_f1__Q09]]
 
 
 
@@ -334,8 +321,6 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 > 
 > (A) $5$ (B) $7$ (C) $9$ (D) $11$ (E) $12$
 
-[[Quesiti/src_obm_2008_n3_f1#q10|src_obm_2008_n3_f1__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -365,8 +350,6 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 > 
 > A) uno B) due C) tre D) quattro E) cinque
 
-[[Quesiti/src_obm_2008_n3_f1#q11|src_obm_2008_n3_f1__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_solida,topic_combinatoria,method_casework,method_conteggio,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
@@ -395,8 +378,6 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 > Ho un cubo di legno, con tre facce rosse e tre facce blu, in modo che facce opposte abbiano colori diversi. Il cubo viene tagliato in $3 \times 3 \times 3 = 27$ cubetti più piccoli. Quanti di questi cubetti più piccoli hanno, allo stesso tempo, una faccia rossa e un'altra blu?
 > 
 > (A) $6$ (B) $12$ (C) $13$ (D) $14$ (E) $16$
-
-[[Quesiti/src_obm_2008_n3_f1#q12|src_obm_2008_n3_f1__Q12]]
 
 
 
@@ -429,8 +410,6 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 > 
 > (A) $0$ (B) $1$ (C) $2$ (D) $4$ (E) $8$
 
-[[Quesiti/src_obm_2008_n3_f1#q13|src_obm_2008_n3_f1__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_probabilita,topic_combinatoria,method_conteggio,skill_modellizzazione,skill_conteggio_sistematico"></span>
@@ -459,8 +438,6 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 > Arnaldo, Bernaldo, Cernaldo e Dernaldo mescolano le carte $52$ di un mazzo e distribuiscono le carte $13$ a ciascuna. Arnaldo, sorpreso, dice: "Cos'è strano, non ho una carta di spade". Qual è la probabilità che anche Bernaldo non abbia una carta di spade?
 > 
 > (A) $\dfrac{39!}{26!\,52!}$ (B) $\dfrac{26!}{13!\,39!}$ (C) $\dfrac{39!\,39!}{26!\,52!}$ (D) $\dfrac{26!\,26!}{13!\,39!}$ (E) $\dfrac{39!\,13!}{52!}$
-
-[[Quesiti/src_obm_2008_n3_f1#q14|src_obm_2008_n3_f1__Q14]]
 
 
 
@@ -495,8 +472,6 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 
 ![[src_obm_2008_n3_f1__q15.png]]
 
-[[Quesiti/src_obm_2008_n3_f1#q15|src_obm_2008_n3_f1__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -524,8 +499,6 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 > Dato il quadrilaterale $ABCD$ tale che $\angle CAD = 25^\circ$, $\angle ACD = 45^\circ$ e $\angle BAC = \angle BCA = 20^\circ$, qual è il valore dell'angolo $\angle DBC$?
 > 
 > (A) $40^\circ$ (B) $45^\circ$ (C) $50^\circ$ (D) $55^\circ$ (E) $60^\circ$
-
-[[Quesiti/src_obm_2008_n3_f1#q16|src_obm_2008_n3_f1__Q16]]
 
 
 
@@ -555,8 +528,6 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 > 
 > (A) $\dfrac{16}{5}$ (B) $\dfrac{12}{5}$ (C) $\dfrac{8}{3}$ (D) $\dfrac{9}{2}$ (E) $\dfrac{9}{4}$
 
-[[Quesiti/src_obm_2008_n3_f1#q17|src_obm_2008_n3_f1__Q17]]
-
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -584,8 +555,6 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 > Date un triangolo $ABC$ con lati $AB = 3$, $BC = 4$ e $AC = 5$. $R_1$ e $R_2$ siano, rispettivamente, i radii del cerchio inciso e del cerchio con il centro sul lato $BC$ che passa attraverso $B$ ed è tangente al lato $AC$. Il rapporto $\dfrac{R_1}{R_2}$ è uguale a:
 > 
 > (A) $\dfrac{3}{4}$ (B) $\dfrac{2}{3}$ (C) $\dfrac{3}{2}$ (D) $\dfrac{8}{9}$ (E) $\dfrac{4}{5}$
-
-[[Quesiti/src_obm_2008_n3_f1#q18|src_obm_2008_n3_f1__Q18]]
 
 
 
@@ -618,8 +587,6 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 > 
 > (A) $0$ (B) $1$ (C) $2$ (D) $4$
 
-[[Quesiti/src_obm_2008_n3_f1#q19|src_obm_2008_n3_f1__Q19]]
-
 
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -649,8 +616,6 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 > 
 > (A) $1284$ (B) $1024$ (C) $849$ (D) $1109$ (E) $729$
 
-[[Quesiti/src_obm_2008_n3_f1#q20|src_obm_2008_n3_f1__Q20]]
-
 
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_algebra,topic_funzionali,topic_insiemi_funzioni,method_casework,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -679,8 +644,6 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 > Considera la funzione $f$, definita sull'insieme dei numeri reali e soddisfacente $f(x) = \dfrac{cx}{2x+3}$, per tutti $x \neq -\dfrac{3}{2}$. Determinare il numero di tali funzioni $f$ per le quali $f(f(x)) = x$, per tutte le $x$ per le quali $f(f(x))$ è ben definito.
 > 
 > (A) $0$ (B) $1$ (C) $2$ (D) $4$
-
-[[Quesiti/src_obm_2008_n3_f1#q21|src_obm_2008_n3_f1__Q21]]
 
 
 
@@ -713,8 +676,6 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 > (A) $1$ (B) $2$ (C) $5 - \sqrt[3]{98}$ (D) $\sqrt[3]{98}$ (E) $1 - \dfrac{\sqrt[3]{98}}{5}$
 
 ![[src_obm_2008_n3_f1__q22.png]]
-
-[[Quesiti/src_obm_2008_n3_f1#q22|src_obm_2008_n3_f1__Q22]]
 
 
 
@@ -749,8 +710,6 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 
 ![[src_obm_2008_n3_f1__q23.png]]
 
-[[Quesiti/src_obm_2008_n3_f1#q23|src_obm_2008_n3_f1__Q23]]
-
 
 
 <span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_combinatoria,method_conteggio,method_bigezione,skill_conteggio_sistematico,skill_astrazione"></span>
@@ -779,8 +738,6 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 > Considerate le persone $10$, di altezza diversa, che devono stare in fila in modo tale che, partendo dalla persona più alta, le altezze devono diminuire verso entrambi i lati della linea (se la persona più alta è la prima o l'ultima della linea, tutte le persone da lei in avanti devono essere in ordine decrescente di altezza). Obbedendo a queste condizioni, in quanti modi queste persone possono stare in fila?
 > 
 > (A) $256$ (B) $768$ (C) $1260$ (D) $512$ (E) $2560$
-
-[[Quesiti/src_obm_2008_n3_f1#q24|src_obm_2008_n3_f1__Q24]]
 
 
 
@@ -816,5 +773,3 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 > Cinque integri positivi $a, b, c, d, e$, tutti più grandi di uno, soddisfano le seguenti condizioni: $$a(b + c + d + e) = 128$$ $$b(a + c + d + e) = 155$$ $$c(a + b + d + e) = 203$$ $$d(a + b + c + e) = 243$$ $$e(a + b + c + d) = 275$$ Qual è il valore di $a + b + c + d + e$?
 > 
 > (A) $9$ (B) $16$ (C) $25$ (D) $36$ (E) $49$
-
-[[Quesiti/src_obm_2008_n3_f1#q25|src_obm_2008_n3_f1__Q25]]

@@ -45,8 +45,6 @@ level: OBM Nível 3
 > 
 > La partita finisce quando non si può fare nessuna mossa. Mostrare che il numero di pile con esattamente una pietra alla fine del gioco è sempre lo stesso, indipendentemente dal modo in cui le mosse sono fatte.
 
-[[Quesiti/src_obm_2022_n3_fx#q01|src_obm_2022_n3_fx__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -71,8 +69,6 @@ level: OBM Nível 3
 *Il riflesso del centro del circolo si trova sul circolo ABC*
 
 > $ABC$ sia un triangolo acuto con $AB < AC$. Il punto $K$ deve essere il punto medio dell'arco $BC$ del cerchio circoscritto di $ABC$ che non contiene $A$ e il punto medio del lato $BC$ deve essere $P$. I punti $I_B$ e $I_C$ sono gli eccentri relativi ai vertici $B$ e $C$, rispettivamente. Il $Q$ deve essere il riflesso di $K$ attraverso il punto $A$. Indicare che $P$, $Q$, $I_B$ e $I_C$ si trovano sullo stesso cerchio.
-
-[[Quesiti/src_obm_2022_n3_fx#q02|src_obm_2022_n3_fx__Q02]]
 
 
 
@@ -103,8 +99,6 @@ level: OBM Nível 3
 > 
 > Una sequenza è chiamata $M$-auto-referenziale se esistono interi positivi $k$ e $\ell$ in modo tale che $a_{n+k} = \Delta^M a_n$ per ogni intero non negativo $n$. Determinare, con la prova, se esiste una sequenza tale che il valore più piccolo di $M$ per la quale la sequenza è $M$-auto-referenziale è $2022$.
 
-[[Quesiti/src_obm_2022_n3_fx#q03|src_obm_2022_n3_fx__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_invarianti,method_casework,skill_riconoscimento_pattern,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -129,8 +123,6 @@ level: OBM Nível 3
 *Esmeralda cancella e scrive a bordo; trova il composto più grande non riesce a scrivere*
 
 > Inizialmente sulla lavagna viene scritto un numero. Quindi, ogni minuto, Esmeralda sceglie un divisore $d > 1$ del numero $n$ scritto sulla lavagna, cancella $n$ e scrive $n + d$. Se il numero iniziale è $2022$, qual è il numero composto più grande che Esmeralda non può mai scrivere sulla lavagna?
-
-[[Quesiti/src_obm_2022_n3_fx#q04|src_obm_2022_n3_fx__Q04]]
 
 
 
@@ -157,8 +149,6 @@ level: OBM Nível 3
 
 > $n$ sia un numero intero positivo. Definire $S(n)$ come il numero intero positivo più piccolo in modo che $S(n)$ e $n$ abbiano la stessa parità e non esistano **** interi positivi $k, x_1, x_2, \ldots, x_k$ in modo che $x_1 + x_2 + \cdots + x_k = n$ e $x_1^2 + x_2^2 + \cdots + x_k^2 = S(n)$. Prova che esiste una costante reale $c > 0$ e un intero positivo $n_0$ tale che $S(n) \ge cn^{3/2}$ per ogni $n \ge n_0$.
 
-[[Quesiti/src_obm_2022_n3_fx#q05|src_obm_2022_n3_fx__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_estremalita,method_doppio_conteggio,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
@@ -183,5 +173,3 @@ level: OBM Nível 3
 *10x10 tabella dipinta in rosso: massimo n cellule in nessun gruppo speciale di 6 cellule*
 
 > Alcune celle di una tabella $10 \times 10$ sono dipinte in rosso. Un insieme di sei celle è chiamato **special** se le sei celle sono l'intersezione di tre righe e due colonne, o due righe e tre colonne, e tutte e sei sono dipinte di rosso. Trova il valore più grande di $n$ per il quale è possibile dipingere le celle $n$ della tabella rossa in modo che non venga visualizzato alcun insieme speciale.
-
-[[Quesiti/src_obm_2022_n3_fx#q06|src_obm_2022_n3_fx__Q06]]

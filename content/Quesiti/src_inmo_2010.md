@@ -37,8 +37,6 @@ level: INMO
 
 ![[src_inmo_2010__q01.png]]
 
-[[Quesiti/src_inmo_2010#q01|src_inmo_2010__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_congruenze,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_casework_accurato"></span>
@@ -63,8 +61,6 @@ level: INMO
 *Trova tutte le n>1 in modo che n2 non divida (n-2)!*
 
 > Trova tutti i numeri naturali $n > 1$ in modo tale che $n^2$ divida ** non ** $(n-2)!$.
-
-[[Quesiti/src_inmo_2010#q02|src_inmo_2010__Q02]]
 
 
 
@@ -93,8 +89,6 @@ level: INMO
 
 > Trova tutti i numeri reali non zero $x, y, z$ che soddisfano il sistema di equazioni: $$\left(x^2 + xy + y^2\right)\left(y^2 + yz + z^2\right)\left(z^2 + zx + x^2\right) = xyz,$$ $$\left(x^4 + x^2y^2 + y^4\right)\left(y^4 + y^2z^2 + z^4\right)\left(z^4 + z^2x^2 + x^4\right) = x^3y^3z^3.$$
 
-[[Quesiti/src_inmo_2010#q03|src_inmo_2010__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_algebra,method_casework,method_conteggio,skill_casework_accurato,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -121,8 +115,6 @@ level: INMO
 *Contare 6 tupli dove ogni elemento è uguale ad un'espressione in termini adiacenti*
 
 > Quante sei tupli $(a_1, a_2, a_3, a_4, a_5, a_6)$ ci sono tali che ognuna delle $a_1, a_2, a_3, a_4, a_5, a_6$ sia del set $\{1, 2, 3, 4\}$ e le sei espressioni $$a_j^2 - a_j a_{j+1} + a_{j+1}^2$$ per $j = 1, 2, 3, 4, 5, 6$ (dove $a_7$ deve essere presa come $a_1$) siano tutte uguali l'una all'altra?
-
-[[Quesiti/src_inmo_2010#q04|src_inmo_2010__Q04]]
 
 
 
@@ -152,8 +144,6 @@ level: INMO
 > Il $ABC$ deve essere un triangolo acuto con altitudine $AK$. Che il $H$ sia il suo centro ortografico e il $O$ il suo centro circostanti. Supponiamo che $KOH$ sia un triangolo a angolo acuto e $P$ il suo centro circostante. Il $Q$ è il riflesso di $P$ nella riga $HO$. Indicare che $Q$ si trova sulla linea che unisce i punti medi di $AB$ e $AC$.
 
 ![[src_inmo_2010__q05.png]]
-
-[[Quesiti/src_inmo_2010#q05|src_inmo_2010__Q05]]
 
 
 
@@ -185,5 +175,3 @@ level: INMO
 Sequenza definita da recidiva; prova 2^k divide a_n se 2^k divide a_{2^n}*
 
 > Definire una sequenza $\langle a_n \rangle_{n \ge 0}$ per $a_0 = 0$, $a_1 = 1$ e $$a_n = 2a_{n-1} + a_{n-2}$$ per $n \ge 2$. \begin{itemize} \item[(a)] Per ogni $m > 0$ e $0 \le j \le m$, dimostrare che $2a_m$ divide $a_{m+j} + (-1)^j a_{m-j}$. \item[(b) Supponiamo che $2^k$ divida $n$ per alcuni numeri naturali $n$ e $k$. Provare che $2^k$ divide $a_n$. # Finire #
-
-[[Quesiti/src_inmo_2010#q06|src_inmo_2010__Q06]]

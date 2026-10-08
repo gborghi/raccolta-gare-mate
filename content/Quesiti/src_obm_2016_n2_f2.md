@@ -36,8 +36,6 @@ level: OBM Nível 2
 
 ![[src_obm_2016_n2_f2__q01.png]]
 
-[[Quesiti/src_obm_2016_n2_f2#q01|src_obm_2016_n2_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
@@ -63,8 +61,6 @@ level: OBM Nível 2
 
 > In una classe, l'insegnante ha tenuto un voto per decidere se l'esame di matematica sarebbe stato rinviato o meno. Tutti gli studenti hanno votato e, di conseguenza, un terzo degli studenti ha votato a favore del rinvio e il resto ha votato contro. Diversi studenti hanno discusso e poi hanno votato di nuovo; 8 studenti hanno cambiato idea, così che $\frac{5}{9}$ degli studenti hanno finito per essere contro il rinvio. Quanti studenti hanno partecipato al voto?
 
-[[Quesiti/src_obm_2016_n2_f2#q02|src_obm_2016_n2_f2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_congruenze,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -89,8 +85,6 @@ level: OBM Nível 2
 *Maxime somme in coppia di 5 numeri interi distinti divisibili per 3*
 
 > Si calcola la somma degli elementi di ciascun sottoinsieme $2$ di elementi di un insieme $S$ di $5$ di integri distinti. Qual è il numero massimo di queste somme che possono essere divisibili per $3$?
-
-[[Quesiti/src_obm_2016_n2_f2#q03|src_obm_2016_n2_f2__Q03]]
 
 
 
@@ -118,8 +112,6 @@ level: OBM Nível 2
 
 > Determinare il numero di soluzioni con $x$ e $y$ integri positivi dell'equazione $$x^2 - y^4 = 36.$$
 
-[[Quesiti/src_obm_2016_n2_f2#q04|src_obm_2016_n2_f2__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -145,8 +137,6 @@ Come guadagnare esattamente 15 punti in 7 partite di calcio
 
 > Nel Super Bola, una nuova partita di calcio, il giocatore compete in stagioni. Ogni stagione è composta da sette partite, e in ogni partita un giocatore può guadagnare $3$ punti per una vittoria, $1$ punti per un pareggio, o $0$ punti per una perdita. In quanti modi diversi un giocatore può guadagnare esattamente $15$ punti in una stagione?
 
-[[Quesiti/src_obm_2016_n2_f2#q05|src_obm_2016_n2_f2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_combinatoria,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_stima"></span>
@@ -171,8 +161,6 @@ Come guadagnare esattamente 15 punti in 7 partite di calcio
 *Min punti interiori di 4x4 quadrati colpiti da ogni disco unitario inserito*
 
 > $ABCD$ sia un quadrato di lato $4$. L'insieme $S$ di punti all'interno di $ABCD$ ha la seguente proprietà: ogni cerchio di raggio $1$ interamente contenuto in $ABCD$ (anche sul suo confine) contiene almeno un punto $S$. Qual è il numero minimo di punti di $S$?
-
-[[Quesiti/src_obm_2016_n2_f2#q06|src_obm_2016_n2_f2__Q06]]
 
 
 
@@ -213,8 +201,6 @@ Come guadagnare esattamente 15 punti in 7 partite di calcio
 > 
 > b) Sapendo che il prodotto dei numeri $a$, $b$, $c$ è $144$, determinare il valore di $ab + bc + ac$.
 
-[[Quesiti/src_obm_2016_n2_f2#q07|src_obm_2016_n2_f2__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -243,8 +229,6 @@ Come guadagnare esattamente 15 punti in 7 partite di calcio
 > Nella figura seguente, il triangolo $ABC$ è equilaterale e $BD = CE = AF = \frac{AB}{3}$. Determinare il rapporto $\dfrac{EG}{GD}$.
 
 ![[src_obm_2016_n2_f2__q08.png]]
-
-[[Quesiti/src_obm_2016_n2_f2#q08|src_obm_2016_n2_f2__Q08]]
 
 
 
@@ -280,5 +264,3 @@ Come guadagnare esattamente 15 punti in 7 partite di calcio
 > a) Determinare il numero di soluzioni reali distinte dell'equazione $p(p(x)) = x^2$, cioè $$(x^2 - x + 1)^2 - (x^2 - x + 1) + 1 = x^2.$$
 > 
 > b) Determinare il numero di soluzioni reali distinte dell'equazione $$p(p(x)) = p(x).$$
-
-[[Quesiti/src_obm_2016_n2_f2#q09|src_obm_2016_n2_f2__Q09]]

@@ -37,8 +37,6 @@ level: IMO
 > 
 > Questo processo (mescolamento, distribuzione, consegna dei gettoni) si svolge per almeno due turni. Dopo l'ultimo turno, $A$ ha in totale 20 gettoni, $B$ ne ha 10 e $C$ ne ha 9. Nell'ultimo turno, $B$ ha ricevuto $r$ gettoni. Chi ha ricevuto $r$ gettoni nel primo turno?
 
-[[Quesiti/src_imho_1974#q01|src_imho_1974__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_disuguaglianze,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -66,8 +64,6 @@ level: IMO
 > Nel triangolo $ABC$, si dimostri che esiste un punto $D$ sul lato $AB$ tale che $CD$ sia la media geometrica di $AD$ e $DB$ se e solo se
 > $$\sin A \sin B \le \sin^2\frac{C}{2}.$$
 
-[[Quesiti/src_imho_1974#q02|src_imho_1974__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_induzione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -92,8 +88,6 @@ level: IMO
 *Somma con coefficienti binomiali non divisibili per 5*
 
 > Si dimostri che il numero $\sum_{k=0}^{n} \binom{2n+1}{2k+1} 2^{3k}$ non è divisibile per 5 per nessun intero $n \ge 0$.
-
-[[Quesiti/src_imho_1974#q03|src_imho_1974__Q03]]
 
 
 
@@ -126,8 +120,6 @@ level: IMO
 > (ii) Se $a_i$ è il numero di caselle bianche nel rettangolo $i$-esimo, allora $a_1 < a_2 < \cdots < a_p$.
 > Determinare il massimo valore di $p$ per cui tale decomposizione è possibile. Per questo valore di $p$, determinare tutte le possibili successioni $a_1, a_2, \ldots, a_p$.
 
-[[Quesiti/src_imho_1974#q04|src_imho_1974__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_riconoscimento_pattern"></span>
@@ -157,8 +149,6 @@ level: IMO
 > $$S = \frac{a}{a+b+d} + \frac{b}{a+b+c} + \frac{c}{b+c+d} + \frac{d}{a+c+d}$$
 > dove $a, b, c, d$ sono numeri positivi arbitrari.
 
-[[Quesiti/src_imho_1974#q05|src_imho_1974__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -183,5 +173,3 @@ level: IMO
 *Limite sugli interi per cui il quadrato del polinomio vale 1*
 
 > Sia $P$ un polinomio non costante a coefficienti interi. Se $n(P)$ è il numero di interi distinti $k$ tali che $(P(k))^2 = 1$, si dimostri che $n(P) - \deg(P) \le 2$, dove $\deg(P)$ indica il grado del polinomio $P$.
-
-[[Quesiti/src_imho_1974#q06|src_imho_1974__Q06]]

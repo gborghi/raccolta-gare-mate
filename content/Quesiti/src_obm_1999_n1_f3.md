@@ -37,8 +37,6 @@ Dividere un cubo in piccoli cubetti del 1999
 
 ![[src_obm_1999_n1_f3__q01.png]]
 
-[[Quesiti/src_obm_1999_n1_f3#q01|src_obm_1999_n1_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_disuguaglianze,skill_lettura_attenta,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -71,8 +69,6 @@ Dividere un cubo in piccoli cubetti del 1999
 > (a) Quanti colpi furono contestati?
 > 
 > b) Determinare il numero totale di punti per il primo, il secondo e il terzo posto.
-
-[[Quesiti/src_obm_1999_n1_f3#q02|src_obm_1999_n1_f3__Q02]]
 
 
 
@@ -107,8 +103,6 @@ Dividere un cubo in piccoli cubetti del 1999
 > 
 > Se continua a essere esiliato in questo modo, è possibile che ritorni in città?
 
-[[Quesiti/src_obm_1999_n1_f3#q03|src_obm_1999_n1_f3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_lettura_attenta,skill_conteggio_sistematico,skill_modellizzazione,skill_ragionamento_geometrico"></span>
@@ -133,5 +127,3 @@ Dividere un cubo in piccoli cubetti del 1999
 *Serie di tennis da tavolo; conteggio di partite tra Adriano e Bruno*
 
 > Adriano, Bruno e Carlos hanno giocato una serie di partite di tennis da tavolo. Ogni volta che un giocatore perdeva, veniva sostituito dal giocatore che aspettava. La prima partita fu disputata da Adriano e Bruno. È noto che Adriano ha vinto $12$ e Bruno ha vinto $21$. Quante volte Adriano e Bruno si sono affrontati?
-
-[[Quesiti/src_obm_1999_n1_f3#q04|src_obm_1999_n1_f3__Q04]]

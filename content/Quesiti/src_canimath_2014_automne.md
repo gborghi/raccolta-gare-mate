@@ -37,7 +37,6 @@ level: Coupe Animath Automne
 > Un ristorante offre tre dessert, e esattamente il doppio dei piatti iniziali rispetto ai piatti principali. Una cena consiste in un piatto iniziale, un piatto principale e un dessert. Qual è il numero minimo di piatti principali che il ristorante deve offrire affinché un cliente possa mangiare una cena diversa ogni sera del 2014?
 
 **Risposta:** 10
-[[Quesiti/src_canimath_2014_automne#q01|src_canimath_2014_automne__Q01]]
 
 
 
@@ -65,8 +64,6 @@ level: Coupe Animath Automne
 *Quadrato ABCD, E su AD e F su BC con BE=EF=FD=1; trovare l'area*
 
 > Lasciate che $ABCD$ sia quadrato. Supponiamo che esista un punto $E$ sul segmento $[AD]$ e un punto $F$ sul segmento $[BC]$ tale che $BE = EF = FD = 1$. Quanto è l'area della piazza?
-
-[[Quesiti/src_canimath_2014_automne#q02|src_canimath_2014_automne__Q02]]
 
 
 
@@ -99,8 +96,6 @@ level: Coupe Animath Automne
 > 
 > b) Indicare che il numero intero $N = 2016\cdots 2016$ ("$2016$" scritto $2016$ volte) è divisibile da $81$.
 
-[[Quesiti/src_canimath_2014_automne#q03|src_canimath_2014_automne__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
@@ -130,7 +125,6 @@ level: Coupe Animath Automne
 > Che $a_1, a_2, a_3, \ldots$ sia una sequenza di numeri reali come $a_1 = 2$, $a_2 = 3$ e $a_n = \dfrac{a_{n-1}}{a_{n-2}}$ per ogni intero $n \ge 3$. Per esempio, $a_3 = a_2/a_1 = 3/2$. Determinare il valore di $a_{2014}$.
 
 **Risposta:** 3/2
-[[Quesiti/src_canimath_2014_automne#q04|src_canimath_2014_automne__Q04]]
 
 
 
@@ -171,8 +165,6 @@ level: Coupe Animath Automne
 > 
 > c) Concludere: sarebbe sufficiente, come minimo, cambiare l'orientamento delle strade in modo da poter andare da qualsiasi luogo a qualsiasi altro luogo (possibilmente in diverse fasi)? Non dare le tue conclusioni senza prove: non passerebbero la prova.
 
-[[Quesiti/src_canimath_2014_automne#q05|src_canimath_2014_automne__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -199,8 +191,6 @@ level: Coupe Animath Automne
 *Triangolo equilaterale dello stesso perimetro di un quadrato; confronta le aree*
 
 > Lasciate che $C$ sia quadrato. Costruciamo un triangolo equilaterale dello stesso perimetro del quadrato. Quanto differiscono l'area del triangolo equilaterale e l'area del quadrato?
-
-[[Quesiti/src_canimath_2014_automne#q06|src_canimath_2014_automne__Q06]]
 
 
 
@@ -242,8 +232,6 @@ level: Coupe Animath Automne
 > 
 > Si può scegliere $a_0$ in modo che la sequenza così costruita sia infinita?
 
-[[Quesiti/src_canimath_2014_automne#q07|src_canimath_2014_automne__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -270,8 +258,6 @@ level: Coupe Animath Automne
 *Triangolo, M, N su BC con angolo BAM = angolo NAC; O1, O2, A sono collineari*
 
 > Lasciate che $ABC$ sia un triangolo. Le dimensioni $M$ e $N$ siano due punti su $[BC]$ in modo tale che gli angoli $\widehat{BAM}$ e $\widehat{NAC}$ siano uguali. $O_1$ sia il centro del cerchio circondato dal triangolo $ABC$ e $O_2$ il centro del cerchio circondato dal triangolo $AMN$. Indicare che i punti $O_1$, $O_2$ e $A$ sono collineari.
-
-[[Quesiti/src_canimath_2014_automne#q08|src_canimath_2014_automne__Q08]]
 
 
 
@@ -300,8 +286,6 @@ level: Coupe Animath Automne
 
 > Dati $25$ numeri distinti strettamente positivi, mostrare che si può scegliere due di loro in modo che nessuno degli altri numeri $23$ è uguale alla somma o alla differenza dei due numeri scelti.
 
-[[Quesiti/src_canimath_2014_automne#q09|src_canimath_2014_automne__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_logica,topic_aritmetica,method_casework,method_simmetria,skill_casework_accurato,skill_ragionamento_geometrico,skill_modellizzazione"></span>
@@ -328,5 +312,3 @@ level: Coupe Animath Automne
 *22 carte numerate; i giocatori si alternano, unità di cifra della somma delle carte vinte*
 
 > Le schede $22$ con i numeri $1, 2, \ldots, 22$ sono presenti sul tavolo. Alcindor e Benoît togliono le carte a turno, ognuno prendendo una carta di loro scelta dal tavolo, finché non rimane nessuna. E' Alcindor che inizia. Poi ciascuno calcola la cifra di unità della somma delle sue carte. Il vincitore è colui il cui risultato è più alto. Uno dei due giocatori ha un modo per vincere con certezza? In tal caso, decidete quale.
-
-[[Quesiti/src_canimath_2014_automne#q10|src_canimath_2014_automne__Q10]]

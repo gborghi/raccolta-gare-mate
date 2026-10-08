@@ -33,8 +33,6 @@ level: JMO Honsen
 
 > È data una griglia $m \times n$ di quadrati unitari. Ogni cellula è colorata in bianco o nero soddisfacendo la seguente condizione: per ogni cellula nera, il numero di cellule nere che condividono un bordo con essa è strano. Indicare che sia $m$ che $n$ devono essere pari.
 
-[[Quesiti/src_jmo11mq_honsen#q01|src_jmo11mq_honsen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: JMO Honsen
 *Mapa di prodotto digito f(n); trovare tutti gli integri positivi n con f(n)=n*
 
 > Per un intero positivo $n$ scritto in decimale come $n = \overline{a_m a_{m-1} \cdots a_1}$ con $a_m \ne 0$ e $0 \le a_i \le 9$, definire $$f(n) = (a_m + 1)(a_{m-1} + 1) \cdots (a_1 + 1).$$ Trovare tutti gli integri positivi $n$ soddisfacenti $f(n) = n$.
-
-[[Quesiti/src_jmo11mq_honsen#q02|src_jmo11mq_honsen__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: JMO Honsen
 
 > $a, b, c$ siano numeri reali non negativi con $a \ge b \ge c \ge 0$. Prove che $$(a + b + c)(a^3 + b^3 + c^3) \le 4(a^6 + b^6 + c^6),$$ e trova tutte le condizioni in cui l'uguaglianza esiste.
 
-[[Quesiti/src_jmo11mq_honsen#q03|src_jmo11mq_honsen__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_induzione,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -114,8 +108,6 @@ level: JMO Honsen
 
 > Lasciate che $p$ sia un primo e $m$ un intero positivo. Indicare che esiste un intero positivo $n$ tale che la rappresentazione decimale di $p \times n$ contenga almeno $m$ zeri consecutivi.
 
-[[Quesiti/src_jmo11mq_honsen#q04|src_jmo11mq_honsen__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -140,5 +132,3 @@ level: JMO Honsen
 *Triangoli ABC, PQR: condizioni di punto medio e angolo-bisettore; dimostrare AB+AC=PQ+PR*
 
 > In un piano, i triangoli $ABC$ e $PQR$ soddisfano entrambe le seguenti condizioni:\n(1) Il punto $A$ è il punto medio di $QR$, e il punto $P$ è il punto medio di $BC$.\n(2) Il segmento di linea $QR$ è il bisettore angolare di $\angle BAC$, e il segmento di linea $BC$ è il bisettore angolare di $\angle QPR$.\nProva che $AB + AC = PQ + PR$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
-
-[[Quesiti/src_jmo11mq_honsen#q05|src_jmo11mq_honsen__Q05]]

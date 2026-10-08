@@ -47,7 +47,6 @@ level: kangourou
 > - **(E)** 81
 
 **Answer:** B
-[[Quesiti/src_kangourou_2017_cadet_semifinale#q01|src_kangourou_2017_cadet_semifinale__Q01]]
 
 
 
@@ -90,7 +89,6 @@ The largest and smallest of A,B,C by implications
 > - **(E)** C and A
 
 **Answer:** E
-[[Quesiti/src_kangourou_2017_cadet_semifinale#q02|src_kangourou_2017_cadet_semifinale__Q02]]
 
 
 
@@ -116,8 +114,7 @@ The largest and smallest of A,B,C by implications
 
 > (3 points)  EXERCISE CANCELLED
 
-**Answer:** annullato
-[[Quesiti/src_kangourou_2017_cadet_semifinale#q03|src_kangourou_2017_cadet_semifinale__Q03]]
+**Answer:** voided
 
 
 
@@ -160,7 +157,6 @@ How many times does Daria overtake Baldo in 12 km?
 > - **(E)** 5
 
 **Answer:** D
-[[Quesiti/src_kangourou_2017_cadet_semifinale#q04|src_kangourou_2017_cadet_semifinale__Q04]]
 
 
 
@@ -212,7 +208,6 @@ How many times does Daria overtake Baldo in 12 km?
 > - **(E)** None of them
 
 **Answer:** E
-[[Quesiti/src_kangourou_2017_cadet_semifinale#q05|src_kangourou_2017_cadet_semifinale__Q05]]
 
 
 
@@ -314,7 +309,6 @@ How many times does Daria overtake Baldo in 12 km?
 > - **(E)** 100 (√2 + √3)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2017_cadet_semifinale#q06|src_kangourou_2017_cadet_semifinale__Q06]]
 
 
 
@@ -355,7 +349,6 @@ How many times does Daria overtake Baldo in 12 km?
 > - **(E)** 14 1 2 3 4 10 m
 
 **Answer:** A
-[[Quesiti/src_kangourou_2017_cadet_semifinale#q07|src_kangourou_2017_cadet_semifinale__Q07]]
 
 
 
@@ -396,7 +389,6 @@ How many times does Daria overtake Baldo in 12 km?
 > - **(E)** 1,90
 
 **Answer:** B
-[[Quesiti/src_kangourou_2017_cadet_semifinale#q08|src_kangourou_2017_cadet_semifinale__Q08]]
 
 
 
@@ -440,8 +432,6 @@ How many times does Daria overtake Baldo in 12 km?
 > - **(D)** 12
 > - **(E)** the return is impossible Open-answer questions
 
-[[Quesiti/src_kangourou_2017_cadet_semifinale#q09|src_kangourou_2017_cadet_semifinale__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,skill_manipolazione_algebrica"></span>
@@ -470,7 +460,6 @@ How many times does Daria overtake Baldo in 12 km?
 > We call a two-digit number spicy if it is the sum of the sum of its digits and the product of its digits. For example, 89 is a spicy number because 89 = (8 + 9) + (8 × 9). What's the biggest spicy number?
 
 **Answer:** 99
-[[Quesiti/src_kangourou_2017_cadet_semifinale#q10|src_kangourou_2017_cadet_semifinale__Q10]]
 
 
 
@@ -501,7 +490,6 @@ How many times does Daria overtake Baldo in 12 km?
 > (Points 5) 30 students took a test of 10 questions. To be sufficient, at least eight questions were required to be answered correctly. In all, the correct answers are 240. What is the minimum number of tests that are sufficient?
 
 **Answer:** 10
-[[Quesiti/src_kangourou_2017_cadet_semifinale#q11|src_kangourou_2017_cadet_semifinale__Q11]]
 
 
 
@@ -535,7 +523,6 @@ How many times does Daria overtake Baldo in 12 km?
 > To celebrate their birthday, the twins Lina and Nina want to bring sweets to school to give to classmates and classmates: so Mom bought chocolates and split them in two equal parts, half for Lina and half for Nina. On the day of the party in Lina's class, there are 21 in attendance, in Nina's class there are 25. Lina gives each of her classmates the same number of chocolates and has none left over. The same thing happens to Nina. What is the smallest number of chocolates that Mom could have bought?
 
 **Answer:** 240
-[[Quesiti/src_kangourou_2017_cadet_semifinale#q12|src_kangourou_2017_cadet_semifinale__Q12]]
 
 
 
@@ -565,7 +552,6 @@ How many times does Daria overtake Baldo in 12 km?
 > (Points 6) A regular polygon of n sides is transformed into itself by a rotation of 55° around its center: what is the minimum value of n that makes this statement true?
 
 **Answer:** 72
-[[Quesiti/src_kangourou_2017_cadet_semifinale#q13|src_kangourou_2017_cadet_semifinale__Q13]]
 
 
 
@@ -597,7 +583,6 @@ How many times does Daria overtake Baldo in 12 km?
 > (Points 6) Two athletes train by running, each at a constant speed different from the other, on a straight path between two ends A and B. They start simultaneously from A and B and, as soon as they reach the opposite end from where they started, they turn around and return to their starting point. At their first meeting they're 720 meters from A, at their second meeting they're 100 meters from B. Neither one overtakes the other. How many meters is the path?
 
 **Answer:** 2060
-[[Quesiti/src_kangourou_2017_cadet_semifinale#q14|src_kangourou_2017_cadet_semifinale__Q14]]
 
 
 
@@ -628,7 +613,6 @@ How many times does Daria overtake Baldo in 12 km?
 > (Points 6) I have listed all the divisors of a natural number N, including 1 and N, in ascending order. The product of the third and seventh divisors is N. Is it possible to determine how many divisors are listed? Write 9999 if the answer is no, the number of divisors otherwise.
 
 **Answer:** 9
-[[Quesiti/src_kangourou_2017_cadet_semifinale#q15|src_kangourou_2017_cadet_semifinale__Q15]]
 
 
 
@@ -659,7 +643,6 @@ How many times does Daria overtake Baldo in 12 km?
 > (Points 7) Fifty kilometres from the port, Luigi discovers that his fishing boat has a fault, which takes on water at a rate of 2 tonnes every 5 minutes. Luigi knows that the boat will sink when it has taken on 90 tonnes of water and he operates a pump that allows him to discharge 9 tonnes of water per hour. What is the minimum speed, in an integer number of km/h, that Luigi must keep in order to reach the harbor without sinking the boat?
 
 **Answer:** 9
-[[Quesiti/src_kangourou_2017_cadet_semifinale#q16|src_kangourou_2017_cadet_semifinale__Q16]]
 
 
 
@@ -690,7 +673,6 @@ How many times does Daria overtake Baldo in 12 km?
 > (Points 7) Two containers A and B have the same capacity. A is filled with alcohol; then a portion of the alcohol is poured into B and B is filled with water. Now you mix the contents of B and pour enough of it into A to fill A again. After these operations, what percentage of alcohol can still be guaranteed to be present in A? (Do not enter the % symbol in the answer.)
 
 **Answer:** 75
-[[Quesiti/src_kangourou_2017_cadet_semifinale#q17|src_kangourou_2017_cadet_semifinale__Q17]]
 
 
 
@@ -806,5 +788,3 @@ How many times does Daria overtake Baldo in 12 km?
 > Problem N. 3 canceled
 
 **Answer:** 8
-
-[[Quesiti/src_kangourou_2017_cadet_semifinale#q18|src_kangourou_2017_cadet_semifinale__Q18]]

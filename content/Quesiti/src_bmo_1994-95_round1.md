@@ -37,8 +37,6 @@ level: BMO Round 1
 > 
 > Trova tutti gli integri positivi i cui quadrati finiscono in quattro $4$s.
 
-[[Quesiti/src_bmo_1994-95_round1#q01|src_bmo_1994-95_round1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -67,8 +65,6 @@ level: BMO Round 1
 > $ABCDEFGH$ è un ottagono regolare con lato $2$. $M$ è il punto medio di $BC$ e $N$ è il punto medio di $EF$. Le linee $AM$, $CH$, $EF$ e $GN$ sono disegnate. La $X$ è l'intersezione di $AM$ e $CH$, e la $Y$ è l'intersezione di $GN$ e $EF$ [linee ausiliarie esatte parzialmente non chiare nella fonte]. Trova la lunghezza di $XY$.
 
 ![[src_bmo_1994-95_round1__q02.png]]
-
-[[Quesiti/src_bmo_1994-95_round1#q02|src_bmo_1994-95_round1__Q02]]
 
 
 
@@ -99,8 +95,6 @@ level: BMO Round 1
 > 
 > b) Trova il valore minimo dell'espressione $x^2 y + y^2 z + z^2 x$ quando $0 \le x \le 1$, $0 \le y \le 1$, $0 \le z \le 1$.
 
-[[Quesiti/src_bmo_1994-95_round1#q03|src_bmo_1994-95_round1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -125,8 +119,6 @@ level: BMO Round 1
 *Triangolo rettangolo; bisetti d'angolo; piedi perpendicolari all'ipotenusa; trovare MN*
 
 > $ABC$ è un triangolo, angolato a destra a $C$. I bisettori interni degli angoli $BAC$ e $ABC$ incontrano $BC$ e $CA$ rispettivamente a $P$ e $Q$. I punti $M$ e $N$ sono i piedi delle perpendicolari da $P$ e $Q$ a $AB$. Trova $MN$ in termini di lunghezze dei lati del triangolo.
-
-[[Quesiti/src_bmo_1994-95_round1#q04|src_bmo_1994-95_round1__Q04]]
 
 
 
@@ -156,5 +148,3 @@ level: BMO Round 1
 > Le sette nane decidono di fare la fila. Insistono sulla coda in modo che, in ogni gruppo di nane consecutive nella coda, la nana più alta di quel gruppo sia in prima linea. Quante coda' sono possibili?
 > 
 > E se anche Biancaneve viene sempre?
-
-[[Quesiti/src_bmo_1994-95_round1#q05|src_bmo_1994-95_round1__Q05]]

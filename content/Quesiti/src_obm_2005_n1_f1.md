@@ -40,7 +40,6 @@ level: OBM Nível 1
 > A) $119{,}268{,}903$ \quad B) $119{,}268{,}907$ \quad C) $119{,}268{,}911$ D) $119{,}268{,}913$ \quad E) $119{,}268{,}923$
 
 **Risposta:** D
-[[Quesiti/src_obm_2005_n1_f1#q01|src_obm_2005_n1_f1__Q01]]
 
 
 
@@ -77,7 +76,6 @@ level: OBM Nível 1
 > A) sono tutti dello stesso colore. B) sono tutti rossi. C) uno è rosso e due bianchi. D) uno è bianco e due rosso. E) almeno uno è rosso.
 
 **Risposta:** E
-[[Quesiti/src_obm_2005_n1_f1#q02|src_obm_2005_n1_f1__Q02]]
 
 
 
@@ -109,7 +107,6 @@ level: OBM Nível 1
 > A) $5\%$ \quad B) $7\%$ \quad C) $8\%$ \quad D) $20\%$ \quad E) $60\%$
 
 **Risposta:** A
-[[Quesiti/src_obm_2005_n1_f1#q03|src_obm_2005_n1_f1__Q03]]
 
 
 
@@ -141,7 +138,6 @@ Differenza tra un miliardo e un milione di milioni
 > A) $1{,}000$ \quad B) $999{,}000$ \quad C) $1{,}000{,}000$ \quad D) $999{,}000{,}000$ \quad E) $999{,}000{,}000{,}000$
 
 **Risposta:** E
-[[Quesiti/src_obm_2005_n1_f1#q04|src_obm_2005_n1_f1__Q04]]
 
 
 
@@ -174,7 +170,6 @@ Differenza tra un miliardo e un milione di milioni
 > A) $3{,}002$ \quad B) $3{,}008$ \quad C) $3{,}010$ \quad D) $4{,}002$ \quad E) $5{,}004$
 
 **Risposta:** B
-[[Quesiti/src_obm_2005_n1_f1#q05|src_obm_2005_n1_f1__Q05]]
 
 
 
@@ -206,7 +201,6 @@ Differenza tra un miliardo e un milione di milioni
 > A) $7{,}000$ \quad B) $70{,}000$ \quad C) $700{,}000$ \quad D) $7{,}000{,}000$ \quad E) $70{,}000{,}000$
 
 **Risposta:** E
-[[Quesiti/src_obm_2005_n1_f1#q06|src_obm_2005_n1_f1__Q06]]
 
 
 
@@ -238,7 +232,6 @@ Differenza tra un miliardo e un milione di milioni
 > A) $3{,}600$ \quad B) $4{,}500$ \quad C) $5{,}000$ \quad D) $6{,}000$ \quad E) $7{,}500$
 
 **Risposta:** D
-[[Quesiti/src_obm_2005_n1_f1#q07|src_obm_2005_n1_f1__Q07]]
 
 
 
@@ -271,7 +264,6 @@ Differenza tra un miliardo e un milione di milioni
 > A) R\$\,21{,}987.53 \quad B) R\$\,34{,}000.00 \quad C) R\$\,44{,}999.99 D) R\$\,21{,}987.53 \quad E) R\$\,60{,}000.00
 
 **Risposta:** A
-[[Quesiti/src_obm_2005_n1_f1#q08|src_obm_2005_n1_f1__Q08]]
 
 
 
@@ -304,7 +296,6 @@ Differenza tra un miliardo e un milione di milioni
 > A) $100$ \quad B) $150$ \quad C) $250$ \quad D) $300$ \quad E) $430$
 
 **Risposta:** C
-[[Quesiti/src_obm_2005_n1_f1#q09|src_obm_2005_n1_f1__Q09]]
 
 
 
@@ -340,7 +331,6 @@ Differenza tra un miliardo e un milione di milioni
 ![[src_obm_2005_n1_f1__q10.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2005_n1_f1#q10|src_obm_2005_n1_f1__Q10]]
 
 
 
@@ -377,7 +367,6 @@ Differenza tra un miliardo e un milione di milioni
 ![[src_obm_2005_n1_f1__q11.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2005_n1_f1#q11|src_obm_2005_n1_f1__Q11]]
 
 
 
@@ -413,7 +402,6 @@ Differenza tra un miliardo e un milione di milioni
 ![[src_obm_2005_n1_f1__q12.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2005_n1_f1#q12|src_obm_2005_n1_f1__Q12]]
 
 
 
@@ -445,7 +433,6 @@ Differenza tra un miliardo e un milione di milioni
 > A) $3\%$ \quad B) $37\%$ \quad C) $40\%$ \quad D) $63\%$ \quad E) $160\%$
 
 **Risposta:** D
-[[Quesiti/src_obm_2005_n1_f1#q13|src_obm_2005_n1_f1__Q13]]
 
 
 
@@ -481,7 +468,6 @@ Differenza tra un miliardo e un milione di milioni
 ![[src_obm_2005_n1_f1__q14.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2005_n1_f1#q14|src_obm_2005_n1_f1__Q14]]
 
 
 
@@ -518,7 +504,6 @@ Differenza tra un miliardo e un milione di milioni
 ![[src_obm_2005_n1_f1__q15.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2005_n1_f1#q15|src_obm_2005_n1_f1__Q15]]
 
 
 
@@ -559,7 +544,6 @@ Differenza tra un miliardo e un milione di milioni
 ![[src_obm_2005_n1_f1__q16.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2005_n1_f1#q16|src_obm_2005_n1_f1__Q16]]
 
 
 
@@ -595,7 +579,6 @@ Differenza tra un miliardo e un milione di milioni
 ![[src_obm_2005_n1_f1__q17.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2005_n1_f1#q17|src_obm_2005_n1_f1__Q17]]
 
 
 
@@ -628,7 +611,6 @@ Differenza tra un miliardo e un milione di milioni
 > A) $29$ \quad B) $36$ \quad C) $37$ \quad D) $41$ \quad E) $64$
 
 **Risposta:** D
-[[Quesiti/src_obm_2005_n1_f1#q18|src_obm_2005_n1_f1__Q18]]
 
 
 
@@ -661,7 +643,6 @@ Differenza tra un miliardo e un milione di milioni
 > A) $3$ \quad B) $4$ \quad C) $5$ \quad D) $6$ \quad E) $7$
 
 **Risposta:** C
-[[Quesiti/src_obm_2005_n1_f1#q19|src_obm_2005_n1_f1__Q19]]
 
 
 
@@ -694,4 +675,3 @@ Differenza tra un miliardo e un milione di milioni
 > A) $3$ \quad B) $4$ \quad C) $5$ \quad D) $6$ \quad E) $7$
 
 **Risposta:** B
-[[Quesiti/src_obm_2005_n1_f1#q20|src_obm_2005_n1_f1__Q20]]

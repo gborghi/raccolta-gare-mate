@@ -53,7 +53,6 @@ level: kangourou
 > E)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2018_benjamin_marzo#q01|src_kangourou_2018_benjamin_marzo__Q01]]
 
 
 
@@ -115,7 +114,6 @@ level: kangourou
 > The star in the figure consists of four equilateral triangles and a square. The perimeter of the square is 36 cm. What is the perimeter of the star? A) 144 cm B) 120 cm C) 104 cm D) 90 cm E) 72 cm
 
 **Answer:** E
-[[Quesiti/src_kangourou_2018_benjamin_marzo#q02|src_kangourou_2018_benjamin_marzo__Q02]]
 
 
 
@@ -168,7 +166,6 @@ level: kangourou
 > E) E
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_benjamin_marzo#q03|src_kangourou_2018_benjamin_marzo__Q03]]
 
 
 
@@ -219,7 +216,6 @@ level: kangourou
 > E) 15
 
 **Answer:** D
-[[Quesiti/src_kangourou_2018_benjamin_marzo#q04|src_kangourou_2018_benjamin_marzo__Q04]]
 
 
 
@@ -285,7 +281,6 @@ level: kangourou
 >
 
 **Answer:** D
-[[Quesiti/src_kangourou_2018_benjamin_marzo#q05|src_kangourou_2018_benjamin_marzo__Q05]]
 
 
 
@@ -335,7 +330,6 @@ level: kangourou
 > E) 16
 
 **Answer:** C
-[[Quesiti/src_kangourou_2018_benjamin_marzo#q06|src_kangourou_2018_benjamin_marzo__Q06]]
 
 
 
@@ -385,7 +379,6 @@ level: kangourou
 > E) The four areas are equal.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2018_benjamin_marzo#q07|src_kangourou_2018_benjamin_marzo__Q07]]
 
 
 
@@ -440,7 +433,6 @@ level: kangourou
 > E) 6
 
 **Answer:** A
-[[Quesiti/src_kangourou_2018_benjamin_marzo#q08|src_kangourou_2018_benjamin_marzo__Q08]]
 
 
 
@@ -488,7 +480,6 @@ level: kangourou
 > D) 20 E) The information is insufficient to answer.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_benjamin_marzo#q09|src_kangourou_2018_benjamin_marzo__Q09]]
 
 
 
@@ -549,7 +540,6 @@ level: kangourou
 > The questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2018_benjamin_marzo#q10|src_kangourou_2018_benjamin_marzo__Q10]]
 
 
 
@@ -598,7 +588,6 @@ level: kangourou
 > E)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_benjamin_marzo#q11|src_kangourou_2018_benjamin_marzo__Q11]]
 
 
 
@@ -652,7 +641,6 @@ level: kangourou
 > E) 5
 
 **Answer:** E
-[[Quesiti/src_kangourou_2018_benjamin_marzo#q12|src_kangourou_2018_benjamin_marzo__Q12]]
 
 
 
@@ -688,7 +676,6 @@ level: kangourou
 > Suppose that A, B and C are three digits all different from 0 and distinct from each other. Call N the largest six digit number you can write using 3 times the A digit, 2 times the B digit and 1 time the C digit. So N cannot be A) AAABBC B) CAAABB C) BBAAAC D) AAABCB E) AAACBB
 
 **Answer:** D
-[[Quesiti/src_kangourou_2018_benjamin_marzo#q13|src_kangourou_2018_benjamin_marzo__Q13]]
 
 
 
@@ -740,7 +727,6 @@ level: kangourou
 > E) 232
 
 **Answer:** D
-[[Quesiti/src_kangourou_2018_benjamin_marzo#q14|src_kangourou_2018_benjamin_marzo__Q14]]
 
 
 
@@ -789,7 +775,6 @@ Which ball weighs 30 g
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2018_benjamin_marzo#q15|src_kangourou_2018_benjamin_marzo__Q15]]
 
 
 
@@ -825,7 +810,6 @@ Who gets the fifth shot in the ball game
 > Two boys  Enrico and Paolo  and three girls  Alda, Luisa and Valeria  play ball with a strange rule. When a guy gets the ball, he can throw it to another guy or a girl. When a girl gets the ball, she throws it to another girl, but not to whoever threw it. Henry starts and throws to Alda. Who makes the fifth shot? A) Alda B) Enrico C) Luisa D) Paolo E) Valeria
 
 **Answer:** A
-[[Quesiti/src_kangourou_2018_benjamin_marzo#q16|src_kangourou_2018_benjamin_marzo__Q16]]
 
 
 
@@ -862,7 +846,6 @@ Who gets the fifth shot in the ball game
 > On Monday, Alexandra sent a photo to five friends. The next day each of the five sent the photo to two friends, each of whom, the next day, sent it to two other friends and so on, for a few days. If each person sent the photo only to people who hadn't seen it before and only in one day, on what day of the week did the number of people who received the photo exceed 100? A) Wednesday B) Thursday C) Friday D) Saturday E) Sunday
 
 **Answer:** C
-[[Quesiti/src_kangourou_2018_benjamin_marzo#q17|src_kangourou_2018_benjamin_marzo__Q17]]
 
 
 
@@ -912,7 +895,6 @@ Who gets the fifth shot in the ball game
 > D) 22 E) It is impossible to determine.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2018_benjamin_marzo#q18|src_kangourou_2018_benjamin_marzo__Q18]]
 
 
 
@@ -958,7 +940,6 @@ Who gets the fifth shot in the ball game
 > D) E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2018_benjamin_marzo#q19|src_kangourou_2018_benjamin_marzo__Q19]]
 
 
 
@@ -1004,7 +985,6 @@ Who gets the fifth shot in the ball game
 > D) 3 E) There is not enough information to decide. The questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2018_benjamin_marzo#q20|src_kangourou_2018_benjamin_marzo__Q20]]
 
 
 
@@ -1062,7 +1042,6 @@ Who gets the fifth shot in the ball game
 >
 
 **Answer:** A
-[[Quesiti/src_kangourou_2018_benjamin_marzo#q21|src_kangourou_2018_benjamin_marzo__Q21]]
 
 
 
@@ -1110,7 +1089,6 @@ Who gets the fifth shot in the ball game
 > E) 9
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_benjamin_marzo#q22|src_kangourou_2018_benjamin_marzo__Q22]]
 
 
 
@@ -1157,7 +1135,6 @@ Who gets the fifth shot in the ball game
 > Four indistinguishable ladybugs are each in a different cell of a 4 x 4 grid. One of them sleeps and doesn't move. Each time a whistle is made, the other three move into an adjacent cell already free at the time of the whistle, without ending in two in the same cell: they can move up, down, to the right or to the left, but they cannot return to the cell from which they came to the previous whistle. The first figure shows the result of the first three whistles. Which of the following images represents a possible situation after the fourth whistle? A) B) C) D) E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2018_benjamin_marzo#q23|src_kangourou_2018_benjamin_marzo__Q23]]
 
 
 
@@ -1202,7 +1179,6 @@ Who gets the fifth shot in the ball game
 > D) 6 E) None of the above answers is correct.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_benjamin_marzo#q24|src_kangourou_2018_benjamin_marzo__Q24]]
 
 
 
@@ -1249,7 +1225,6 @@ Who gets the fifth shot in the ball game
 > E) 56
 
 **Answer:** C
-[[Quesiti/src_kangourou_2018_benjamin_marzo#q25|src_kangourou_2018_benjamin_marzo__Q25]]
 
 
 
@@ -1315,7 +1290,6 @@ Who gets the fifth shot in the ball game
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2018_benjamin_marzo#q26|src_kangourou_2018_benjamin_marzo__Q26]]
 
 
 
@@ -1366,7 +1340,6 @@ Who gets the fifth shot in the ball game
 > D) 19. E) 18.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_benjamin_marzo#q27|src_kangourou_2018_benjamin_marzo__Q27]]
 
 
 
@@ -1420,7 +1393,6 @@ Who gets the fifth shot in the ball game
 > E) 18
 
 **Answer:** E
-[[Quesiti/src_kangourou_2018_benjamin_marzo#q28|src_kangourou_2018_benjamin_marzo__Q28]]
 
 
 
@@ -1476,7 +1448,6 @@ Who gets the fifth shot in the ball game
 > E) 5
 
 **Answer:** C
-[[Quesiti/src_kangourou_2018_benjamin_marzo#q29|src_kangourou_2018_benjamin_marzo__Q29]]
 
 
 
@@ -1540,4 +1511,3 @@ Maximum lie around the round table
 > C E B D D C E A B
 
 **Answer:** C
-[[Quesiti/src_kangourou_2018_benjamin_marzo#q30|src_kangourou_2018_benjamin_marzo__Q30]]

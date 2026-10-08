@@ -38,7 +38,6 @@ level: kangourou
 > Yesterday was Matthew's birthday. Tomorrow is Thursday. On what day of the week did Matthew's birthday fall? (a) Tuesdays (b) Wednesdays (c) Thursdays (d) Saturdays (e) Mondays
 
 **Answer:** A
-[[Quesiti/src_kangourou_2006_ecolier_marzo#q01|src_kangourou_2006_ecolier_marzo__Q01]]
 
 
 
@@ -74,7 +73,6 @@ level: kangourou
 > We have a number of equal square tables available. For the school party, we've brought seven of them together, forming a long rectangular table. If each square table can seat four people, one on each side, how many people can sit around the rectangular table? A) 14 B) 16 C) 18 D) 21 E) 28
 
 **Answer:** B
-[[Quesiti/src_kangourou_2006_ecolier_marzo#q02|src_kangourou_2006_ecolier_marzo__Q02]]
 
 
 
@@ -114,7 +112,6 @@ level: kangourou
 > You can see the coins in your purse beside you. A lollipop costs 10 cents. How many different ways can you make up the amount to pay for it? (Consider two coins of equal value indistinguishable.) A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** D
-[[Quesiti/src_kangourou_2006_ecolier_marzo#q03|src_kangourou_2006_ecolier_marzo__Q03]]
 
 
 
@@ -151,7 +148,6 @@ level: kangourou
 > In the drawing next to it are represented nine tokens arranged in a triangle. You want to make a square, what's the minimum number of tokens you can move? A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** B
-[[Quesiti/src_kangourou_2006_ecolier_marzo#q04|src_kangourou_2006_ecolier_marzo__Q04]]
 
 
 
@@ -220,7 +216,6 @@ level: kangourou
 > Kang 2006
 
 **Answer:** C
-[[Quesiti/src_kangourou_2006_ecolier_marzo#q05|src_kangourou_2006_ecolier_marzo__Q05]]
 
 
 
@@ -272,7 +267,6 @@ level: kangourou
 > E) The four roads have the same length.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2006_ecolier_marzo#q06|src_kangourou_2006_ecolier_marzo__Q06]]
 
 
 
@@ -316,7 +310,6 @@ level: kangourou
 > D) d           E) e
 
 **Answer:** E
-[[Quesiti/src_kangourou_2006_ecolier_marzo#q07|src_kangourou_2006_ecolier_marzo__Q07]]
 
 
 
@@ -358,7 +351,6 @@ level: kangourou
 > Look at the figure: six numbers are written on as many sheets. By holding all six sheets together, you can form ten-digit numbers. Which is the smallest? (a) 3094157682 (b) 2309541687 (c) 3097568241 (d) 2309415687 (e) 2309415678 (i) Questions from N. 9 al N. 16 is worth 4 points each.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2006_ecolier_marzo#q08|src_kangourou_2006_ecolier_marzo__Q08]]
 
 
 
@@ -398,7 +390,6 @@ level: kangourou
 > In the figure on the side you can see a "numbered flower". Mary separates all the petals with numbers that, divided by 6, give remainder 2. How much is the sum of the numbers on the petals that Mary pulled off? A) 46 B) 66 C) 84 D) 86 E) 114
 
 **Answer:** A
-[[Quesiti/src_kangourou_2006_ecolier_marzo#q09|src_kangourou_2006_ecolier_marzo__Q09]]
 
 
 
@@ -474,7 +465,6 @@ level: kangourou
 > Kang 2006
 
 **Answer:** D
-[[Quesiti/src_kangourou_2006_ecolier_marzo#q10|src_kangourou_2006_ecolier_marzo__Q10]]
 
 
 
@@ -511,7 +501,6 @@ level: kangourou
 > Stefania is building card castles. In the figure you can observe the castles of one, two and three levels that she has built so far. How many cards will Stefania have to use to build an entire four-tiered castle? A) 11          B) 24          C) 25          D) 26          E) 27
 
 **Answer:** D
-[[Quesiti/src_kangourou_2006_ecolier_marzo#q11|src_kangourou_2006_ecolier_marzo__Q11]]
 
 
 
@@ -542,7 +531,6 @@ Minutes to eat 78 nuts (sum of 1..n)
 > A squirrel starts eating nuts. He eats one, and for every minute that follows, he eats one more peanut than he ate in the previous minute. How many minutes will it take to eat 78 nuts? A) 9             B) 10             C) 12            D) 13             E) 20
 
 **Answer:** C
-[[Quesiti/src_kangourou_2006_ecolier_marzo#q12|src_kangourou_2006_ecolier_marzo__Q12]]
 
 
 
@@ -579,7 +567,6 @@ Minutes to eat 78 nuts (sum of 1..n)
 > The figure shows a puzzle obtained by joining various tiles; some of them have the shape of four of the five figures shown below. Compared to the figures represented, the tiles may be rotated or translated, but not overturned. Which figure wasn't used to compose the puzzle?
 
 **Answer:** C
-[[Quesiti/src_kangourou_2006_ecolier_marzo#q13|src_kangourou_2006_ecolier_marzo__Q13]]
 
 
 
@@ -622,7 +609,6 @@ Minutes to eat 78 nuts (sum of 1..n)
 > Six weights of 1, 2, 3, 4, 5 and 6 grams were locked in three empty boxes, two weights for each box. The contents of the first box weigh nine grams, the contents of the second eight grams. What weights were placed in the third box? A) 4g and 3g B) 5g and 2g C) 6g and 1g D) 4g and 2g E) 3g and 1g one level 2 cards two levels 7 cards three levels 15 cards A) B) C) D) E) Ecolier_06.qxp 21/02/2006 0.07 Page 7
 
 **Answer:** E
-[[Quesiti/src_kangourou_2006_ecolier_marzo#q14|src_kangourou_2006_ecolier_marzo__Q14]]
 
 
 
@@ -656,7 +642,6 @@ Minutes to eat 78 nuts (sum of 1..n)
 > What is the plane development of the cubic surface with two holes shown in the figure to the right? E) None of the above.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2006_ecolier_marzo#q15|src_kangourou_2006_ecolier_marzo__Q15]]
 
 
 
@@ -703,7 +688,6 @@ Minutes to eat 78 nuts (sum of 1..n)
 > Questions from No. 17 to No. 24 are worth 5 points each
 
 **Answer:** B
-[[Quesiti/src_kangourou_2006_ecolier_marzo#q16|src_kangourou_2006_ecolier_marzo__Q16]]
 
 
 
@@ -738,7 +722,6 @@ Minutes to eat 78 nuts (sum of 1..n)
 > The expression 81x7 = 623 describes an incorrect operation. However, one can correct the error by changing only one digit: which one? A) 1 B) 2 C) 3 D) 6 E) 7
 
 **Answer:** A
-[[Quesiti/src_kangourou_2006_ecolier_marzo#q17|src_kangourou_2006_ecolier_marzo__Q17]]
 
 
 
@@ -778,7 +761,6 @@ Minutes to eat 78 nuts (sum of 1..n)
 > The small circles in the figure represent as many cities. Each segment connecting two circles represents a railway line connecting the corresponding cities and the number closest to it indicates the euro cost of the ticket for that route. Paolo arranged the trip to get from A to B spending as little as possible. How much did he spend? A) 80 B) 90 C)100 D) 110 E) 180
 
 **Answer:** B
-[[Quesiti/src_kangourou_2006_ecolier_marzo#q18|src_kangourou_2006_ecolier_marzo__Q18]]
 
 
 
@@ -841,7 +823,6 @@ Minutes to eat 78 nuts (sum of 1..n)
 > The structure shown in the figure consists of 10 cubes glued together. Roman paints the entire structure, including the bottom. How many faces of cubes have been painted? (A) 18 (B) 24 (C) 30 (D) 36 (E) 42 pages. A B 80 20 60 30 20 10 10 60 70 A) B) C) D) Ecolier_06.qxp 21/02/2006 0.07 Page 8
 
 **Answer:** D
-[[Quesiti/src_kangourou_2006_ecolier_marzo#q19|src_kangourou_2006_ecolier_marzo__Q19]]
 
 
 
@@ -878,7 +859,6 @@ Minutes to eat 78 nuts (sum of 1..n)
 > Irene, Anna, Clara, Olga, and Elena live in the same building. Two of them live on the first floor, the others on the second. Olga lives on a different floor than Clara and Elena. Anna lives on a different floor than Irene and Clara. Who lives on the first floor? A) Clara and Elena B) Irene and Elena C) Irene and Olga D) Irene and Clara E) Anna and Olga
 
 **Answer:** E
-[[Quesiti/src_kangourou_2006_ecolier_marzo#q20|src_kangourou_2006_ecolier_marzo__Q20]]
 
 
 
@@ -913,7 +893,6 @@ Minutes to eat 78 nuts (sum of 1..n)
 > In writing 2002 * 2003 * 2004 * 2005 * 2006 picture replacing each * symbol with a + or a - (not necessarily always the same sign): depending on the choices operated are possible many different results. Only one of the following results is impossible: which? A) 1998 B) 2001 C) 2002 D) 2004          E) 2006
 
 **Answer:** B
-[[Quesiti/src_kangourou_2006_ecolier_marzo#q21|src_kangourou_2006_ecolier_marzo__Q21]]
 
 
 
@@ -948,7 +927,6 @@ Minutes to eat 78 nuts (sum of 1..n)
 > I wrote all the four-digit integers on as many green sheets (one number for each sheet). And then I wrote all the single-digit integers on as many yellow sheets (a number for each sheet). How many ways can I choose two sheets of different colors if I want the difference between the two numbers written on them to be a 3-digit number? A) 9                B) 17                 C) 24                 D) 36             E) 45
 
 **Answer:** E
-[[Quesiti/src_kangourou_2006_ecolier_marzo#q22|src_kangourou_2006_ecolier_marzo__Q22]]
 
 
 
@@ -1004,7 +982,6 @@ Minutes to eat 78 nuts (sum of 1..n)
 > In each of the nine cells of the square grid in the figure, we want to insert one of the digits 1, 2, or 3. The only condition is that each digit appears in every row and column. In the upper left cell, we've already entered the number 1. How many different ways can we complete the grid? A) 2            B) 3            C) 4            D) 5            E) 8
 
 **Answer:** C
-[[Quesiti/src_kangourou_2006_ecolier_marzo#q23|src_kangourou_2006_ecolier_marzo__Q23]]
 
 
 
@@ -1067,5 +1044,3 @@ Minutes to eat 78 nuts (sum of 1..n)
 > For students in fourth or fifth grade
 
 **Answer:** B
-
-[[Quesiti/src_kangourou_2006_ecolier_marzo#q24|src_kangourou_2006_ecolier_marzo__Q24]]

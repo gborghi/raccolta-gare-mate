@@ -32,8 +32,6 @@ level: China Western Mathematical Olympiad
 
 > $M$ sia un sottoinsieme di $\mathbb{R}$ ottenuto eliminando finitamente molti numeri reali da $\mathbb{R}$. Prova che per un dato numero positivo $n$ esiste un polinomio $f(x)$ di grado $n$ tale che tutti i suoi coefficienti e le sue radici reali $n$ siano in $M$.
 
-[[Quesiti/src_cn_cwmo_2009#q01|src_cn_cwmo_2009__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_algebra,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -61,7 +59,6 @@ level: China Western Mathematical Olympiad
 > $n \geq 3$ sia un dato numero intero. Determinare il numero intero positivo $k$ più piccolo per il quale esiste un insieme $A$ di numeri reali $k$ e $n$ di numeri reali $x_1, x_2, \ldots, x_n$ che sono distinti l'uno dall'altro in modo tale che $x_1 + x_2,\ x_2 + x_3,\ \ldots,\ x_{n-1} + x_n,\ x_n + x_1$ siano tutti nel insieme $A$.
 
 **Risposta:** 3
-[[Quesiti/src_cn_cwmo_2009#q02|src_cn_cwmo_2009__Q02]]
 
 
 
@@ -92,8 +89,6 @@ level: China Western Mathematical Olympiad
 
 ![[src_cn_cwmo_2009__q03.png]]
 
-[[Quesiti/src_cn_cwmo_2009#q03|src_cn_cwmo_2009__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_modellizzazione"></span>
@@ -118,8 +113,6 @@ level: China Western Mathematical Olympiad
 *Infinitamente molti n che rendono 2^n+3^n-1 fino a 2^n+3^n-k tutti composti*
 
 > Prova che per un dato intero positivo $k$, esistono infinitamente molti interi positivi $n$ in modo che i numeri $$2^n + 3^n - 1,\ 2^n + 3^n - 2,\ \ldots,\ 2^n + 3^n - k$$ siano tutti composti.
-
-[[Quesiti/src_cn_cwmo_2009#q04|src_cn_cwmo_2009__Q04]]
 
 
 
@@ -148,7 +141,6 @@ level: China Western Mathematical Olympiad
 > Se $x_n$ è una sequenza tale da $x_0 \in \{5, 7\}$ e $x_{n+1} \in \left\{\frac{1}{2}x_n,\ 7x_n\right\}$ per $n = 1, 2, \ldots$. Determinare tutti i possibili casi delle ultime due cifre di $x_{2009}$.
 
 **Risposta:** 07, 25, 43
-[[Quesiti/src_cn_cwmo_2009#q05|src_cn_cwmo_2009__Q05]]
 
 
 
@@ -179,8 +171,6 @@ level: China Western Mathematical Olympiad
 
 ![[src_cn_cwmo_2009__q06.png]]
 
-[[Quesiti/src_cn_cwmo_2009#q06|src_cn_cwmo_2009__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_cassetti,method_estremalita,method_doppio_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_modellizzazione,skill_ragionamento_geometrico"></span>
@@ -208,7 +198,6 @@ level: China Western Mathematical Olympiad
 > Ci sono studenti $s$ ($s > 12$) che partecipano a un concorso di matematica. Il documento di esame è composto da 15 domande complete. Per ogni domanda, il punteggio di una risposta corretta è di 1 punto e nessun punto verrà assegnato se la risposta è errata o lasciata in bianco. Dopo aver analizzato tutti i possibili casi di distribuzione dei punteggi di questi studenti $s$, si scopre che se la somma dei punteggi totali di qualsiasi 12 studenti non è inferiore a 16 punti, allora ci sono almeno 3 studenti tra questi studenti $s$ che rispondono correttamente ad almeno 4 domande identiche. Determinare il minimo valore possibile di $s$.
 
 **Risposta:** 911
-[[Quesiti/src_cn_cwmo_2009#q07|src_cn_cwmo_2009__Q07]]
 
 
 
@@ -237,4 +226,3 @@ level: China Western Mathematical Olympiad
 > $a_1, a_2, \ldots, a_n$ ($n \geq 3$) siano numeri reali che soddisfino $a_1 + a_2 + \cdots + a_n = 0$ e $2a_k \leq a_{k-1} + a_{k+1}$ per $k = 2, 3, \ldots, n-1$. Determinare il più piccolo $\lambda(n)$, in modo che per qualsiasi $k \in \{1, 2, \ldots, n\}$ si abbia $$|a_k| \leq \lambda(n) \cdot \max\{|a_1|,\ |a_n|\}.$$
 
 **Risposta:** \frac{n+1}{n-1}
-[[Quesiti/src_cn_cwmo_2009#q08|src_cn_cwmo_2009__Q08]]

@@ -35,7 +35,6 @@ level: OBM Nível 1
 > Quante volte appare la cifra $9$ nel risultato dell'operazione $10^{100} - 2003$?
 
 **Risposta:** 98
-[[Quesiti/src_obm_2003_n1_f2#q01|src_obm_2003_n1_f2__Q01]]
 
 
 
@@ -64,7 +63,6 @@ level: OBM Nível 1
 > Quanti integri positivi superiori a $2003^2$ e inferiori a $2004^2$ sono multipli di $100$?
 
 **Risposta:** 40
-[[Quesiti/src_obm_2003_n1_f2#q02|src_obm_2003_n1_f2__Q02]]
 
 
 
@@ -97,7 +95,6 @@ level: OBM Nível 1
 ![[src_obm_2003_n1_f2__q03.png]]
 
 **Risposta:** 17
-[[Quesiti/src_obm_2003_n1_f2#q03|src_obm_2003_n1_f2__Q03]]
 
 
 
@@ -130,7 +127,6 @@ level: OBM Nível 1
 ![[src_obm_2003_n1_f2__q04.png]]
 
 **Risposta:** 66
-[[Quesiti/src_obm_2003_n1_f2#q04|src_obm_2003_n1_f2__Q04]]
 
 
 
@@ -163,7 +159,6 @@ level: OBM Nível 1
 ![[src_obm_2003_n1_f2__q05.png]]
 
 **Risposta:** 34
-[[Quesiti/src_obm_2003_n1_f2#q05|src_obm_2003_n1_f2__Q05]]
 
 
 
@@ -192,7 +187,6 @@ level: OBM Nível 1
 > Gli anni bisesti sono multipli di $4$, ad eccezione di quelli che sono multipli di $100$ ma non di $400$. Quanti anni a salto sono passati dalla Proclamazione della Repubblica del Brasile in $1889$ fino ad oggi (2003)?
 
 **Risposta:** 27
-[[Quesiti/src_obm_2003_n1_f2#q06|src_obm_2003_n1_f2__Q06]]
 
 
 
@@ -225,7 +219,6 @@ level: OBM Nível 1
 ![[src_obm_2003_n1_f2__q07.png]]
 
 **Risposta:** 58
-[[Quesiti/src_obm_2003_n1_f2#q07|src_obm_2003_n1_f2__Q07]]
 
 
 
@@ -256,7 +249,6 @@ level: OBM Nível 1
 > Nella seguente moltiplicazione, $a$, $b$, $c$ e $d$ sono cifre: $$\begin{array}{r} 45 \\ \times\; a3 \\ \hline 3bcd \end{array}$$ Calcolare $b + c + d$.
 
 **Risposta:** 15
-[[Quesiti/src_obm_2003_n1_f2#q08|src_obm_2003_n1_f2__Q08]]
 
 
 
@@ -285,7 +277,6 @@ level: OBM Nível 1
 > La media di cinque diversi interi positivi è $11$. Determinare il valore massimo possibile del più grande dei cinque integri.
 
 **Risposta:** 45
-[[Quesiti/src_obm_2003_n1_f2#q09|src_obm_2003_n1_f2__Q09]]
 
 
 
@@ -318,7 +309,6 @@ level: OBM Nível 1
 ![[src_obm_2003_n1_f2__q10.png]]
 
 **Risposta:** 22
-[[Quesiti/src_obm_2003_n1_f2#q10|src_obm_2003_n1_f2__Q10]]
 
 
 
@@ -344,8 +334,6 @@ level: OBM Nível 1
 *Interi positivi inferiori a 120 espressi come somma di due o più potenze distinte di 3*
 
 > Quali integri positivi inferiori a $120$ possono essere scritti come somma di due o più potenze distinte di $3$ con esponenti non negativi? Ad esempio, $12 = 3^1 + 3^2$ è uno di tali numeri, ma $18 = 3^1 + 3^2 + 3^1$ non lo è (l'esponente $1$ viene ripetuto). Trova tutti questi numeri.
-
-[[Quesiti/src_obm_2003_n1_f2#q11|src_obm_2003_n1_f2__Q11]]
 
 
 
@@ -378,7 +366,6 @@ level: OBM Nível 1
 ![[src_obm_2003_n1_f2__q12.png]]
 
 **Risposta:** 100
-[[Quesiti/src_obm_2003_n1_f2#q12|src_obm_2003_n1_f2__Q12]]
 
 
 
@@ -404,5 +391,3 @@ level: OBM Nível 1
 *Ricerca tutti i numeri potenti inferiori a 100*
 
 > Considera il prodotto di tutti i divisori positivi di un intero positivo $N$, diverso da $N$ stesso. Diciamo $N$ è \emph{potente} se il prodotto di questi divisori è uguale al quadrato di $N$. Ad esempio, $12$ è potente, poiché i suoi divisori positivi diversi da $12$ sono $1, 2, 3, 4, 6$ e $1 \cdot 2 \cdot 3 \cdot 4 \cdot 6 = 144 = 12^2$. Trova tutti i numeri potenti inferiori a $100$.
-
-[[Quesiti/src_obm_2003_n1_f2#q13|src_obm_2003_n1_f2__Q13]]

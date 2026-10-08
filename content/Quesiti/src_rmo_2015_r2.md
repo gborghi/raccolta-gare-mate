@@ -37,8 +37,6 @@ level: RMO
 
 ![[src_rmo_2015_r2__q01.png]]
 
-[[Quesiti/src_rmo_2015_r2#q01|src_rmo_2015_r2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -63,8 +61,6 @@ level: RMO
 *Polinomio quadratico, P(s) = t, P(t) = s; prova b-st è una radice*
 
 > Che $P(x) = x^2 + ax + b$ sia un polinomio quadratico con coefficienti reali. Supponiamo che ci siano numeri reali $s \neq t$ come $P(s) = t$ e $P(t) = s$. Provare che $b - st$ è una radice dell'equazione $x^2 + ax - b - at = 0$.
-
-[[Quesiti/src_rmo_2015_r2#q02|src_rmo_2015_r2__Q02]]
 
 
 
@@ -91,8 +87,6 @@ level: RMO
 
 > Trova tutti gli integri $a, b, c$ in modo tale che $a^2 = bc + 1$, $b^2 = ca + 1$.
 
-[[Quesiti/src_rmo_2015_r2#q03|src_rmo_2015_r2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,method_inclusione_esclusione,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -117,8 +111,6 @@ level: RMO
 *Contare i modi per scegliere 3 di 32 oggetti su un cerchio, non due adiacenti o diametralmente opposti*
 
 > Supponiamo che 32 oggetti siano posizionati lungo un cerchio a distanze uguali. In quanti modi si possono scegliere tre oggetti tra loro in modo che nessuno dei tre oggetti scelti sia adiacente o diametralmente opposto?
-
-[[Quesiti/src_rmo_2015_r2#q04|src_rmo_2015_r2__Q04]]
 
 
 
@@ -149,8 +141,6 @@ level: RMO
 
 ![[src_rmo_2015_r2__q05.png]]
 
-[[Quesiti/src_rmo_2015_r2#q05|src_rmo_2015_r2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -175,5 +165,3 @@ level: RMO
 *Ricerca una reale con 4<a<5 tale che a(a-3{a}) sia un intero*
 
 > Trova tutti i numeri reali $a$ in modo tale che $4 < a < 5$ e $a(a - 3\{a\})$ siano un intero. (Qui $\{a\}$ indica la parte frazionaria di $a$. Per esempio $\{1.5\} = 0.5$; $\{-3.4\} = 0.6$.)
-
-[[Quesiti/src_rmo_2015_r2#q06|src_rmo_2015_r2__Q06]]

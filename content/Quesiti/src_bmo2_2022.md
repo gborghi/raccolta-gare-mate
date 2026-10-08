@@ -45,8 +45,6 @@ level: BMO Round 2
 > 
 > Trova tutti $k$ in modo che ci siano infinitamente molti $k$-numeri.
 
-[[Quesiti/src_bmo2_2022#q01|src_bmo2_2022__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_funzionali,topic_algebra,method_backward,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -73,8 +71,6 @@ level: BMO Round 2
 
 > Trova tutte le funzioni $f$ dai numeri interi positivi ai numeri interi positivi in modo che per tutti $x, y$ abbiamo: $$2y f(f(x^2) + x) = f(x+1) f(2xy).$$
 
-[[Quesiti/src_bmo2_2022#q02|src_bmo2_2022__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_cassetti,method_induzione,method_doppio_conteggio,skill_modellizzazione,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_astrazione"></span>
@@ -99,8 +95,6 @@ level: BMO Round 2
 *Carte nelle scatole; mostra N esiste per dividere la pila regolare in due pile regolare non vuote*
 
 > Le carte provenienti da mazzi di carte identiche $n$ vengono messe in scatole. Ogni mazzo contiene 50 carte, etichettate da 1 a 50. Ogni scatola può contenere al massimo 2022 carte. Si dice che una pila di scatole sia regolare se contiene uguali numeri di carte con ciascuna etichetta. Mostrare che esiste un certo $N$ in modo che se $n \ge N$, le scatole possano essere suddivise in due pile regolari non vuote.
-
-[[Quesiti/src_bmo2_2022#q03|src_bmo2_2022__Q03]]
 
 
 
@@ -134,5 +128,3 @@ level: BMO Round 2
 > Dato che $Q$ si trova su $BC$, dimostrare che la linea $AT$ passa attraverso $Q$.
 > 
 > Un arco minore di un cerchio è il più corto dei due archi con determinati punti di fine.)
-
-[[Quesiti/src_bmo2_2022#q04|src_bmo2_2022__Q04]]

@@ -35,7 +35,6 @@ level: JMO Yosen
 > Ci sono diverse scatole che contengono ciascuna 10 mele e diverse scatole che contengono ciascuna 6 mele. Se il numero totale di mele è di 38, in quanti modi possono essere combinate le scatole?
 
 **Risposta:** 2
-[[Quesiti/src_jmo14yq_yosen#q01|src_jmo14yq_yosen__Q01]]
 
 
 
@@ -64,7 +63,6 @@ level: JMO Yosen
 > Nel triangolo $ABC$, $D$ deve essere un punto sul segmento $BC$ tale che $AB = AD = 2$, $BD = 1$ e $\angle BAD = \angle CAD$. Trova la lunghezza $CD$.
 
 **Risposta:** 3
-[[Quesiti/src_jmo14yq_yosen#q02|src_jmo14yq_yosen__Q02]]
 
 
 
@@ -91,8 +89,6 @@ Monete casuali gettate sulla scrivania; probabilità tutte rimosse entro 4 opera
 
 > Alcune monete vengono gettate contemporaneamente su una scrivania. Considerate la seguente operazione: vista dall'alto, rimuovete tutte le monete che sono visibili dall'alto (quele che non sono coperte da altre monete). Pensando a una situazione in cui le monete sono impilate, ripeti questa operazione partendo da un qualche accordo iniziale, fino a quando tutte le monete sono state rimosse. L'operazione viene eseguita ripetutamente. Trova la probabilità che tutte le monete vengano rimosse in un massimo di 4 operazioni.
 
-[[Quesiti/src_jmo14yq_yosen#q03|src_jmo14yq_yosen__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -117,8 +113,6 @@ Monete casuali gettate sulla scrivania; probabilità tutte rimosse entro 4 opera
 *Contare le coppie di numeri interi positivi (m,n) con 7m+3n=10^2004 e m divide n.*
 
 > Trova il numero di coppie $(m, n)$ di integri positivi che soddisfano $7m + 3n = 10^{2004}$, in modo che $\dfrac{n}{m}$ sia un numero intero.
-
-[[Quesiti/src_jmo14yq_yosen#q04|src_jmo14yq_yosen__Q04]]
 
 
 
@@ -150,8 +144,6 @@ Monete casuali gettate sulla scrivania; probabilità tutte rimosse entro 4 opera
 
 > $a_1, a_2, \ldots, a_{2004}$ siano numeri interi positivi che soddisfano le seguenti condizioni: \begin{itemize} \item $a_1 < a_2 < \cdots < a_{2004}$. \item Per tutti gli integri positivi separati in coppia $i, j, k$ ciascuno al massimo $2004$, abbiamo sempre $a_i \times a_j \neq a_k$. \end{itemize} Trova il valore minimo possibile di $a_{2004}$.
 
-[[Quesiti/src_jmo14yq_yosen#q05|src_jmo14yq_yosen__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_funzionali,topic_algebra,method_backward,method_simmetria,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -179,8 +171,6 @@ Monete casuali gettate sulla scrivania; probabilità tutte rimosse entro 4 opera
 
 > $f(x)$ sia una funzione a valore reale definita per tutti i numeri reali $x$ diversi da $0$ e $1$, soddisfacendo $$f(x) + f\!\left(\frac{1}{1-x}\right) = \frac{1}{x}$$ per tutti i numeri reali $x \neq 0, 1$. Trova $f(x)$.
 
-[[Quesiti/src_jmo14yq_yosen#q06|src_jmo14yq_yosen__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -205,8 +195,6 @@ Monete casuali gettate sulla scrivania; probabilità tutte rimosse entro 4 opera
 *Area al di fuori del triangolo ABC (laterali 16, 5√5, 9) all'interno della distanza 6 sia da B che da C.*
 
 > Nel piano, il triangolo $ABC$ soddisfa $AB = 16$, $BC = 5\sqrt{5}$, $CA = 9$. Trova l'area della regione che si trova al di fuori del triangolo $ABC$ e la cui distanza da $B$ e distanza da $C$ sono entrambi al massimo $6$.
-
-[[Quesiti/src_jmo14yq_yosen#q07|src_jmo14yq_yosen__Q07]]
 
 
 
@@ -235,8 +223,6 @@ Monete casuali gettate sulla scrivania; probabilità tutte rimosse entro 4 opera
 
 > $n$ sia un numero intero positivo. Per i valori positivi $a_1, a_2, \ldots, a_n$ con $a_1 + a_2 + \cdots + a_n = 1$, definire $$A = \frac{a_1}{1 + a_1} + \frac{a_2}{1 + a_1 + a_2} + \cdots + \frac{a_n}{1 + a_1 + a_2 + \cdots + a_n}.$$ Lasciate che $A$ dipenda dalla scelta di $a_1, \ldots, a_n$. Trovare il valore massimo del minimo di $A$ su tutte queste scelte.
 
-[[Quesiti/src_jmo14yq_yosen#q08|src_jmo14yq_yosen__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_logica,method_casework,method_estremalita,skill_astrazione,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -261,8 +247,6 @@ Monete casuali gettate sulla scrivania; probabilità tutte rimosse entro 4 opera
 *7 politici, fazioni con condizione di coesistenza; trovare la dimensione massima delle fazioni.*
 
 > Ci sono 7 politici, ognuno appartenente a una o più fazioni. Una fazione è un gruppo di uno o più politici. È dato che per due fazioni esiste sempre un politico che appartiene a entrambe le fazioni o un politico che non appartiene a nessuna di esse. (Si dice che un tale politico sia mediatore tra le due fazioni.)
-
-[[Quesiti/src_jmo14yq_yosen#q09|src_jmo14yq_yosen__Q09]]
 
 
 
@@ -289,8 +273,6 @@ Monete casuali gettate sulla scrivania; probabilità tutte rimosse entro 4 opera
 
 > Per un polinomio $f(x)$, definire l'operazione $A$ come: $f(x) \mapsto a(x-1)^2 + b(x-1) + c$ dove $f(x) = ax^2 + bx + c$, e l'operazione $B$ come: $f(x) \mapsto f(x+1) + (x-1)^3 + (x^2 + x + 2)$. A partire da un polinomio di qualche grado-2, dopo aver applicato le operazioni $A$ e $B$ un certo numero di volte (in qualche ordine), il risultato è $11x^2 - 9x + k$. Trova la costante $k$.
 
-[[Quesiti/src_jmo14yq_yosen#q10|src_jmo14yq_yosen__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -315,8 +297,6 @@ Monete casuali gettate sulla scrivania; probabilità tutte rimosse entro 4 opera
 *ABCD quadrilaterale convexa con AD=CD, BD=BC e angoli dati; trovare angolo BAD.*
 
 > Nel quadrilaterale convex $ABCD$, abbiamo $AD = CD$, $BD = BC$, $\angle ADC = 168^\circ$ e $\angle ABC = 66^\circ$. Trova $\angle BAD$.
-
-[[Quesiti/src_jmo14yq_yosen#q11|src_jmo14yq_yosen__Q11]]
 
 
 
@@ -346,5 +326,3 @@ Monete casuali gettate sulla scrivania; probabilità tutte rimosse entro 4 opera
 *Minimum di N punti in piano che garantiscono una subsequenza monotone-inclinazione di 2004 punti.*
 
 > Trova il numero intero positivo minimo $N$ in modo tale che la seguente affermazione sia valida: per qualsiasi posizionamento di punti $N$ nel piano $xy$ senza 3 collineari e senza 2 che condividono la stessa coordinata $x$, si può sempre scegliere 2004 di questi punti $(x_1, y_1), (x_2, y_2), \ldots, (x_{2004}, y_{2004})$ con $x_1 < x_2 < \cdots < x_{2004}$ in modo tale che sia $$\frac{y_2 - y_1}{x_2 - x_1} < \frac{y_3 - y_2}{x_3 - x_2} < \cdots < \frac{y_{2004} - y_{2003}}{x_{2004} - x_{2003}}$$ o $$\frac{y_2 - y_1}{x_2 - x_1} > \frac{y_3 - y_2}{x_3 - x_2} > \cdots > \frac{y_{2004} - y_{2003}}{x_{2004} - x_{2003}}$$ sia valida.
-
-[[Quesiti/src_jmo14yq_yosen#q12|src_jmo14yq_yosen__Q12]]

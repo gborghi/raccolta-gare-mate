@@ -41,8 +41,6 @@ level: JJMO Honsen
 
 ![[src_jjmo18hq_honsen__q01.png]]
 
-[[Quesiti/src_jjmo18hq_honsen#q01|src_jjmo18hq_honsen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -72,8 +70,6 @@ level: JJMO Honsen
 > 
 > Qui $XY$ indica la lunghezza del segmento $XY$.
 
-[[Quesiti/src_jjmo18hq_honsen#q02|src_jjmo18hq_honsen__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
@@ -98,8 +94,6 @@ level: JJMO Honsen
 *Tripli con lcm uguale a (ab+bc+ca)/4*
 
 > Trovare tutti i triples $(a,b,c)$ di numeri interi positivi in modo tale che il più piccolo multiplo comune di $a$, $b$, $c$ sia uguale a $\dfrac{ab+bc+ca}{4}$.
-
-[[Quesiti/src_jjmo18hq_honsen#q03|src_jjmo18hq_honsen__Q03]]
 
 
 
@@ -134,8 +128,6 @@ level: JJMO Honsen
 > 
 > Qui, si dice che un pezzo della cella nella riga $a$-a dall'alto e nella colonna $b$-a da sinistra si trovi su una linea diagonale della cella nella riga $c$-a dall'alto e nella colonna $d$-a da sinistra quando $|a-c| = |b-d|$ si tiene.
 
-[[Quesiti/src_jjmo18hq_honsen#q04|src_jjmo18hq_honsen__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_algebra,method_estremalita,method_casework,skill_astrazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -168,5 +160,3 @@ level: JJMO Honsen
 > Se i numeri interi assegnati ai vertici $n$, $n+1$, $n+2$ sono rispettivamente $a$, $b$ e $c$, allora $a^2 + b^2 \ge c^2 + n^2 + 3$ è valido.
 > 
 > Qui, vertice $2021$ e vertice $2022$ si riferiscono rispettivamente al vertice $1$ e al vertice $2$.
-
-[[Quesiti/src_jjmo18hq_honsen#q05|src_jjmo18hq_honsen__Q05]]

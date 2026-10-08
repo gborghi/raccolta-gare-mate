@@ -33,8 +33,6 @@ level: Olimpiade Polacca Round 3
 
 > Sul piano sono indicati un convex $n$-gon $P_1P_2\ldots P_n$ e un punto $Q$ all'interno, non situato su nessuna delle sue diagonali. Prova che se $n$ è pari, il numero di triangoli $P_iP_jP_k$ contenenti il punto $Q$ è pari.
 
-[[Quesiti/src_pol_1983_r3#q01|src_pol_1983_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_cassetti,method_estremalita,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
@@ -61,8 +59,6 @@ level: Olimpiade Polacca Round 3
 
 > Si deve dare un numero irrazionale $a$ nell'intervallo $(0,1)$ e un intero positivo $N$. Prova che esistono integri positivi $p,q,r,s$ in modo tale che $$\frac{p}{q} < a < \frac{r}{s}, \quad \frac{r}{s} - \frac{p}{q} < \frac{1}{N}, \quad \text{and} \quad rq - ps = 1.$$
 
-[[Quesiti/src_pol_1983_r3#q02|src_pol_1983_r3__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_invarianti,method_colorazione,skill_modellizzazione,skill_riconoscimento_pattern,skill_astrazione"></span>
@@ -87,8 +83,6 @@ level: Olimpiade Polacca Round 3
 *Gioco di pedoni da un giocatore su una scacchiera infinita: vengono rimossi due pedoni adiacenti e uno viene posto su un terzo quadrato vuoto adiacente; se i pedoni iniziali riempiono un rettangolo il cui numero di quadrati è divisibile per 3, dimostrare che il gioco non può finire con un pedone rimasto.*
 
 > Considerate il seguente gioco da giocatore su una scacchiera infinita. Se due quadrati orizzontalmente o verticalmente adiacenti sono occupati da un pedone ciascuno, e un quadrato sulla stessa linea adiacente a uno di essi è vuoto, allora è consentito rimuovere i due pedoni e posizionare un pedone sul terzo quadrato (vuoto). Prova che se nella posizione iniziale tutti i pedoni formavano un rettangolo con il numero di quadrati divisibili per 3, allora non è possibile terminare la partita con solo un pedone rimasto sulla tavola.
-
-[[Quesiti/src_pol_1983_r3#q03|src_pol_1983_r3__Q03]]
 
 
 
@@ -116,8 +110,6 @@ level: Olimpiade Polacca Round 3
 
 > Prova che se i numeri naturali $a,b,c,d$ soddisfano l'uguaglianza $ab = cd$, allora $$\frac{\gcd(a,c)\,\gcd(a,d)}{\gcd(a,b,c,d)} = a.$$
 
-[[Quesiti/src_pol_1983_r3#q04|src_pol_1983_r3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_disuguaglianze,topic_geometria_analitica,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima"></span>
@@ -143,8 +135,6 @@ level: Olimpiade Polacca Round 3
 
 > Sul piano sono dati i vettori unitari $\vec{a}_1, \vec{a}_2, \vec{a}_3$. Mostra che si possono scegliere numeri $c_1, c_2, c_3 \in \{-1, 1\}$ in modo che la lunghezza del vettore $c_1\vec{a}_1 + c_2\vec{a}_2 + c_3\vec{a}_3$ sia almeno $2$.
 
-[[Quesiti/src_pol_1983_r3#q05|src_pol_1983_r3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,method_casework,skill_ragionamento_geometrico,skill_lettura_attenta,skill_astrazione"></span>
@@ -169,5 +159,3 @@ level: Olimpiade Polacca Round 3
 Prove che se tutti gli angoli diedrali di un tetraedro sono acuti, allora tutte le sue facce sono triangoli ad angolo acuto.
 
 > Prova che se tutti gli angoli diedrali di un tetraedro sono acuti, allora tutte le sue facce sono triangoli a angolo acuto.
-
-[[Quesiti/src_pol_1983_r3#q06|src_pol_1983_r3__Q06]]

@@ -33,8 +33,6 @@ level: OBM Nível Universitário
 
 > Date $0 < a < 1$, trovare tutte le funzioni continue $f : \mathbb{R} \to \mathbb{R}$ tali da $f(x) + f(ax) = x$ per tutte $x \in \mathbb{R}$.
 
-[[Quesiti/src_obm_2022_nu_fx#q01|src_obm_2022_nu_fx__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_induzione,method_invarianti,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -63,8 +61,6 @@ level: OBM Nível Universitário
 *Mostra che il gruppo G di matrici interi è generato da A e B*
 
 > Considera la serie $G$ delle matrici $2 \times 2$ data da $$G = \left\{ \begin{pmatrix} a & b \\ c & d \end{pmatrix} \,\middle|\, a,b,c,d \in \mathbb{Z},\; ad - bc = 1,\; c \text{ is a multiple of } 3 \right\}$$ e le matrici $$A = \begin{pmatrix} 1 & 1 \\ 0 & 1 \end{pmatrix}, \qquad B = \begin{pmatrix} -1 & 1 \\ -3 & 2 \end{pmatrix}.$$ Mostra che qualsiasi matricia in $G$ può essere scritta come prodotto $M_1 M_2 \cdots M_r$, con $M_i \in \{A, A^{-1}, B, B^{-1}\}$, per tutte le $i \le r$.
-
-[[Quesiti/src_obm_2022_nu_fx#q02|src_obm_2022_nu_fx__Q02]]
 
 
 
@@ -96,8 +92,6 @@ level: OBM Nível Universitário
 
 > Let $(a_n)_{n \in \mathbb{N}}$ essere una sequenza di numeri interi. Definire $a_n^{(0)} = a_n$ per ogni numero naturale $n$. Per ogni numero intero $M \ge 0$, definire $$a_n^{(M+1)} = a_{n+1}^{(M)} - a_n^{(M)}, \quad \forall n \in \mathbb{N}.$$ Diciamo $(a_n)_{n \in \mathbb{N}}$ è $(M+1)$-auto-referenziale se esistono numeri naturali fissi $k_1$ e $k_2$ in modo tale che $$a_{n+k_1}^{(M)} = a_{a_n^{(M+1)}+k_2}^{(M)}, \quad \forall n \in \mathbb{N}.$$ (a) Esiste una sequenza di numeri interi in modo tale che il più piccolo $M$ per il quale è $M$-auto-referenziale è $M = 2022$? b) Esiste una sequenza di numeri interi positivi in stretta crescita che è $M$-auto-referenziale con il più piccolo di tali $M = 2022$?
 
-[[Quesiti/src_obm_2022_nu_fx#q03|src_obm_2022_nu_fx__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_insiemi_funzioni,method_telescoping,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
@@ -125,8 +119,6 @@ level: OBM Nível Universitário
 
 > Considerando $c, a > 0$, si deve considerare la sequenza $(x_n)_{n \ge 1}$ definita da $x_1 = c$ e $$x_{n+1} = x_n e^{-x_n^a}, \quad n \ge 1.$$ per i quali valori reali di $\beta$ è convergente la serie $\displaystyle\sum_{n=1}^{\infty} x_n^{\beta}$?
 
-[[Quesiti/src_obm_2022_nu_fx#q04|src_obm_2022_nu_fx__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_doppio_conteggio,method_inclusione_esclusione,method_cassetti,skill_astrazione,skill_modellizzazione,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -152,8 +144,6 @@ level: OBM Nível Universitário
 
 > Dato $X \subseteq \mathbb{N}$, definire $d(X)$ come il più grande $c \in [0,1]$ in modo tale che per tutti $a < c$ e $n_0 \in \mathbb{N}$ esista $m, r \in \mathbb{N}$ con $r \ge n_0$ e $|X \cap [m, m+r]| / r \ge a$. Let $E, F \subseteq \mathbb{N}$ con $d(E) \cdot d(F) > 1/4$. Prove che per ogni primo $p$ e $k \in \mathbb{N}$ esistono $m \in E$ e $n \in F$ con $m \equiv n \pmod{p^k}$.
 
-[[Quesiti/src_obm_2022_nu_fx#q05|src_obm_2022_nu_fx__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_trigonometria,topic_algebra,method_induzione,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
@@ -178,5 +168,3 @@ level: OBM Nível Universitário
 *Angolo tangente razionale, primo p3 mod 4, numeratore divisibile da p*
 
 > Che $p \equiv 3 \pmod{4}$ sia un primo e che $\theta$ sia un angolo tale che $\tan(\theta)$ sia razionale. Prova che $\tan((p+1)\theta)$ è un numero razionale il cui numeratore è un multiple di $p$; cioè $\tan((p+1)\theta) = \dfrac{u}{v}$ con $u, v \in \mathbb{Z}$, $v > 0$, $\gcd(u,v) = 1$ e $u \equiv 0 \pmod{p}$.
-
-[[Quesiti/src_obm_2022_nu_fx#q06|src_obm_2022_nu_fx__Q06]]

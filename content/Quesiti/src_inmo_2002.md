@@ -44,8 +44,6 @@ level: INMO
 > 
 > (b) Prove che, in effetti, qualsiasi cinque di queste sei affermazioni implicano anche che l'esagono è ciclico.
 
-[[Quesiti/src_inmo_2002#q01|src_inmo_2002__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_estremalita,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -70,8 +68,6 @@ level: INMO
 *Meno valore positivo di $a^3+b^3+c^3-3abc$ su integri positivi*
 
 > Determinare il valore minimo positivo assunto dall'espressione $a^3 + b^3 + c^3 - 3abc$ in quanto $a, b, c$ varia su tutti gli integri positivi. Trova anche tutti i triples $(a, b, c)$ per i quali si ottiene questo valore minimo.
-
-[[Quesiti/src_inmo_2002#q02|src_inmo_2002__Q02]]
 
 
 
@@ -99,8 +95,6 @@ level: INMO
 
 > Che $x, y$ siano valori reali positivi tali che $x + y = 2$. Provare che $$x^2 y^2 (x^2 + y^2) \le 2.$$
 
-[[Quesiti/src_inmo_2002#q03|src_inmo_2002__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_casework,skill_modellizzazione,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -125,8 +119,6 @@ level: INMO
 *Esistenza di 100 linee con punti di intersezione esatti 2002*
 
 > Esistono 100 linee nel piano, nessuna delle tre contemporaneamente, in modo che si incrociano esattamente nei punti del 2002?
-
-[[Quesiti/src_inmo_2002#q04|src_inmo_2002__Q04]]
 
 
 
@@ -153,8 +145,6 @@ level: INMO
 
 > Esistono tre numeri reali positivi distinti $a, b, c$ in modo tale che $a, b, c, b+c-a, c+a-b, a+b-c$ e $a+b+c$ formino una progressione aritmetica a 7 termini in qualche ordine?
 
-[[Quesiti/src_inmo_2002#q05|src_inmo_2002__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_algebra,method_induzione,method_doppio_conteggio,method_estremalita,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_astrazione,skill_ragionamento_geometrico"></span>
@@ -180,5 +170,3 @@ level: INMO
 *Ribbito su voci diagonali di array in aumento $n\times n$*
 
 > Supponiamo che i numeri $n^2$ $1, 2, 3, \ldots, n^2$ siano disposti per formare un array $n$ da $n$ composto da righe $n$ e colonne $n$ in modo tale che i numeri di ogni riga (da sinistra a destra) e di ogni colonna (da cima a sotto) siano in ordine crescente. Indicare con $a_{jk}$ il numero nella riga $j$-th e nella colonna $k$-th. Supponiamo che $b_j$ sia il numero massimo possibile di voci che possono verificarsi come $a_{jj}$, $1 \le j \le n$. Provare che $$b_1 + b_2 + \cdots + b_n \le \frac{n}{3}(n^2 - 3n + 5).$$
-
-[[Quesiti/src_inmo_2002#q06|src_inmo_2002__Q06]]

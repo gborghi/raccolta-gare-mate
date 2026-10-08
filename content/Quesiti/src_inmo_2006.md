@@ -45,8 +45,6 @@ level: INMO
 
 ![[src_inmo_2006__q01.png]]
 
-[[Quesiti/src_inmo_2006#q01|src_inmo_2006__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_bigezione,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -72,8 +70,6 @@ level: INMO
 *Un'unica coppia ordinata (a,b) che dà ogni numero intero positivo n*
 
 > Prove che per ogni intero positivo $n$ esiste una coppia unica **** ordinata $(a, b)$ di interi positivi in modo tale che $$n = \frac{1}{2}(a + b - 1)(a + b - 2) + a.$$
-
-[[Quesiti/src_inmo_2006#q02|src_inmo_2006__Q02]]
 
 
 
@@ -101,8 +97,6 @@ level: INMO
 *Ricerca tutti i tripli interi (a,b,c) con l'equazione funzionale f((a,b,c))=(a,b,c)*
 
 > $X$ indichi l'insieme di tutti i triples $(a, b, c)$ di numeri interi. Definire una funzione $f : X \to X$ da $$f(a, b, c) = (a + b + c,\; ab + bc + ca,\; abc).$$ Trovare tutti i triples $(a, b, c)$ in $X$ in modo tale che $f(f(a, b, c)) = (a, b, c)$.
-
-[[Quesiti/src_inmo_2006#q03|src_inmo_2006__Q03]]
 
 
 
@@ -132,8 +126,6 @@ level: INMO
 > Circa 46 quadrati di una lavagna $9 \times 9$ sono di colore rosso. Indicare che esiste un blocco $2 \times 2$ di 4 quadrati di cui almeno 3 di colore rosso.
 
 ![[src_inmo_2006__q04.png]]
-
-[[Quesiti/src_inmo_2006#q04|src_inmo_2006__Q04]]
 
 
 
@@ -172,8 +164,6 @@ level: INMO
 
 ![[src_inmo_2006__q05.png]]
 
-[[Quesiti/src_inmo_2006#q05|src_inmo_2006__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
@@ -204,5 +194,3 @@ level: INMO
 > (a) Prova che se $n$ è un intero positivo tale che $n \ge 4011^2$, allora esiste un intero $l$ tale che $$n < l^2 < \left(1 + \frac{1}{2005}\right)n.$$
 > 
 > (b) Trovare il numero intero positivo $M$ più piccolo per il quale ogni volta che un numero intero $n$ è tale che $n \ge M$, esiste un numero intero $l$ tale che $$n < l^2 < \left(1 + \frac{1}{2005}\right)n.$$
-
-[[Quesiti/src_inmo_2006#q06|src_inmo_2006__Q06]]

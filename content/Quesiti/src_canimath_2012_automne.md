@@ -33,8 +33,6 @@ level: Coupe Animath Automne
 
 > Fred e Sarah sono i figli maggiori della stessa famiglia numerosa. Fred ha la metà dei fratelli rispetto alle sorelle, mentre Sarah ha le sorelle uguali ai fratelli. Quanti bambini ci sono in questa famiglia?
 
-[[Quesiti/src_canimath_2012_automne#q01|src_canimath_2012_automne__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_logica,method_casework,skill_casework_accurato,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -72,8 +70,6 @@ level: Coupe Animath Automne
 > 
 > (Ovviamente non abbiamo bisogno di contare il tempo perso durante le manipolazioni.)
 
-[[Quesiti/src_canimath_2012_automne#q02|src_canimath_2012_automne__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -103,8 +99,6 @@ level: Coupe Animath Automne
 
 ![[src_canimath_2012_automne__q03.png]]
 
-[[Quesiti/src_canimath_2012_automne#q03|src_canimath_2012_automne__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_doppio_conteggio,method_bigezione,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_astrazione"></span>
@@ -130,8 +124,6 @@ level: Coupe Animath Automne
 
 > Circa lo stesso tavolo si siedono persone di altezza diversa. Diciamo che una persona è *grande* (alta) se è più alta dei suoi due vicini, e *petite* (quota) se è più bassa dei suoi due vicini. Prova che il numero di persone alte intorno al tavolo è uguale al numero di persone basse.
 
-[[Quesiti/src_canimath_2012_automne#q04|src_canimath_2012_automne__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -156,8 +148,6 @@ level: Coupe Animath Automne
 *Prove 10^2011 + 10^2012 + 10^2013 divisibile per 37*
 
 > Provare che il numero $10^{2011} + 10^{2012} + 10^{2013}$ è divisibile da $37$.
-
-[[Quesiti/src_canimath_2012_automne#q05|src_canimath_2012_automne__Q05]]
 
 
 
@@ -189,7 +179,6 @@ level: Coupe Animath Automne
 ![[src_canimath_2012_automne__q06.png]]
 
 **Risposta:** 36^\circ
-[[Quesiti/src_canimath_2012_automne#q06|src_canimath_2012_automne__Q06]]
 
 
 
@@ -215,8 +204,6 @@ level: Coupe Animath Automne
 *Prove 10^2011 + 10^2012 + 10^2013 divisibile per 37*
 
 > Provare che il numero $10^{2011} + 10^{2012} + 10^{2013}$ è divisibile da $37$.
-
-[[Quesiti/src_canimath_2012_automne#q07|src_canimath_2012_automne__Q07]]
 
 
 
@@ -248,7 +235,6 @@ level: Coupe Animath Automne
 ![[src_canimath_2012_automne__q08.png]]
 
 **Risposta:** 36^\circ
-[[Quesiti/src_canimath_2012_automne#q08|src_canimath_2012_automne__Q08]]
 
 
 
@@ -279,8 +265,6 @@ level: Coupe Animath Automne
 > 
 > (*Ricordiamo che un numero primo è un numero intero maggiore o uguale a $2$ che è divisibile solo da $1$ e da sé stesso.*)
 
-[[Quesiti/src_canimath_2012_automne#q09|src_canimath_2012_automne__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -305,8 +289,6 @@ level: Coupe Animath Automne
 *Ricerca angolo ABC dato centro incircolo I, AI=BC e angolo ICA=2 angolo IAC*
 
 > Che $ABC$ sia un triangolo e $I$ il centro del suo cerchio inciso. Supponiamo che $AI = BC$ e che $\widehat{ICA} = 2\,\widehat{IAC}$. Qual è il valore di $\widehat{ABC}$?
-
-[[Quesiti/src_canimath_2012_automne#q10|src_canimath_2012_automne__Q10]]
 
 
 
@@ -341,8 +323,6 @@ level: Coupe Animath Automne
 > 
 > b) Quali sono i numeri interi $n$ per i quali si può trovare una disposizione delle persone contenente esattamente $n$ persone alte?
 
-[[Quesiti/src_canimath_2012_automne#q11|src_canimath_2012_automne__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -369,5 +349,3 @@ level: Coupe Animath Automne
 *Prove la disuguaglianza 5x^2+y^2+4 >= 4x+4xy per tutti i reali, trova casi di uguaglianza*
 
 > Prova che, per tutti i valori reali $x$ e $y$, $$5x^2 + y^2 + 4 \ge 4x + 4xy.$$ Per quali valori di $x$ e $y$ vale l'uguaglianza?
-
-[[Quesiti/src_canimath_2012_automne#q12|src_canimath_2012_automne__Q12]]

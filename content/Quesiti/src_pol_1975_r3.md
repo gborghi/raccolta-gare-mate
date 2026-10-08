@@ -34,8 +34,6 @@ level: Olimpiade Polacca Round 3
 
 > Una sequenza $(a_k)_{k=1}^{\infty}$ ha la proprietà che esiste un numero naturale $n$ tale che $a_1 + a_2 + \cdots + a_n = 0$ e $a_{n+k} = a_k$ per tutti $k$. Prova che esiste un numero naturale $N$ tale che $$\sum_{i=N}^{N+k} a_i \ge 0 \quad \text{for } k = 0, 1, 2, \ldots.$$
 
-[[Quesiti/src_pol_1975_r3#q01|src_pol_1975_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,topic_combinatoria,method_grafi,method_estremalita,skill_ragionamento_geometrico,skill_modellizzazione"></span>
@@ -60,8 +58,6 @@ level: Olimpiade Polacca Round 3
 *Fine molti segmenti su un tetraedro regolare di bordo 1 che uniscono ogni coppia di vertici da un percorso poligonale; la lunghezza totale può essere inferiore a 1+sqrt(3)?*
 
 > Sulla superficie di un tetraedro regolare di lunghezza di bordo $1$ sono dati finitamente molti segmenti in modo tale che ogni due vertici del tetraedro possono essere uniti da una linea poligonale costituita da segmenti dati. La somma delle lunghezze dei segmenti dati può essere inferiore a $1 + \sqrt{3}$?
-
-[[Quesiti/src_pol_1975_r3#q02|src_pol_1975_r3__Q02]]
 
 
 
@@ -90,8 +86,6 @@ level: Olimpiade Polacca Round 3
 
 > Trova il numero positivo $\alpha$ più piccolo per il quale esiste un numero positivo $\beta$ tale che per tutti $0 \le x \le 1$, $$\sqrt{1+x} + \sqrt{1-x} \le 2 - \frac{x^{\alpha}}{\beta}.$$ per ciascuna di tali $\alpha$ si determina il numero $\beta > 0$ più piccolo per il quale si applica questa condizione.
 
-[[Quesiti/src_pol_1975_r3#q03|src_pol_1975_r3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_conteggio,skill_riconoscimento_pattern,skill_casework_accurato"></span>
@@ -116,8 +110,6 @@ level: Olimpiade Polacca Round 3
 *Un numero naturale ha tutti i numeri decimali tra 1,3,7,9; dimostra che i suoi numeri possono essere riorganizzati per formare un multiple di 7*
 
 > Tutte le cifre decimali di qualche numero naturale sono $1, 3, 7$ e $9$. Prova che si possono riordinare i suoi numeri in modo da ottenere un numero divisibile per $7$.
-
-[[Quesiti/src_pol_1975_r3#q04|src_pol_1975_r3__Q04]]
 
 
 
@@ -145,8 +137,6 @@ level: Olimpiade Polacca Round 3
 
 > Mostrare che è possibile circonscrivere un cerchio di raggio $R$ circa e iscrivere un cerchio di raggio $r$ in un triangolo con un angolo uguale a $\alpha$, se e solo se $$\frac{2R}{r} \ge \frac{1}{\sin \frac{\alpha}{2} \left(1 - \sin \frac{\alpha}{2}\right)}.$$
 
-[[Quesiti/src_pol_1975_r3#q05|src_pol_1975_r3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_funzionali,topic_aritmetica,method_backward,method_casework,skill_astrazione,skill_riconoscimento_pattern"></span>
@@ -172,5 +162,3 @@ level: Olimpiade Polacca Round 3
 *Dato che S(x)=1-x e T(x)=x/2 su [0,1], una composizione f=g1 o ... O gn di questi soddisfa f  1/2)=1975/2^1975?*
 
 > All'intervallo $[0,1]$ vengono indicate le funzioni $S(x) = 1 - x$ e $T(x) = x/2$. Esiste una funzione del modulo $f = g_1 \circ g_2 \circ \cdots \circ g_n$, in cui $n \in \mathbb{N}$ e ciascuna $g_k$ è $S(x)$ o $T(x)$, in modo tale che $$f\left(\frac{1}{2}\right) = \frac{1975}{2^{1975}}?$$
-
-[[Quesiti/src_pol_1975_r3#q06|src_pol_1975_r3__Q06]]

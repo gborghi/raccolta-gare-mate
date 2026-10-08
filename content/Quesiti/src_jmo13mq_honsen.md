@@ -39,8 +39,6 @@ level: JMO Honsen
 > 
 > (Qui, per due punti $X$ e $Y$, la lunghezza del segmento $XY$ è indicata da $XY$.)
 
-[[Quesiti/src_jmo13mq_honsen#q01|src_jmo13mq_honsen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -86,8 +84,6 @@ level: JMO Honsen
 > 
 > Per esempio, quando $a = 1234$ e $b = 3412$, le condizioni (1) e (2) si appoggiano ma (3) non lo fanno.
 
-[[Quesiti/src_jmo13mq_honsen#q02|src_jmo13mq_honsen__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_disuguaglianze,method_disuguaglianze,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
@@ -114,8 +110,6 @@ level: JMO Honsen
 *Ricerca la k reale più grande in modo tale che una disuguaglianza si verifichi per tutti i reali positivi*
 
 > Trova il numero reale più grande $k$ in modo tale che per ogni triplo dei numeri reali positivi $a, b, c$ soddisfa $a^2 > bc$, la disuguaglianza $$(a^2 - bc)^2 > k(b^2 - ca)(c^2 - ab)$$ sia valida.
-
-[[Quesiti/src_jmo13mq_honsen#q03|src_jmo13mq_honsen__Q03]]
 
 
 
@@ -156,8 +150,6 @@ level: JMO Honsen
 > 
 > Prova che la somma dei pesi di tutte le espansioni continuate delle frazioni di $\dfrac{p}{q}$ è uguale a $q$.
 
-[[Quesiti/src_jmo13mq_honsen#q04|src_jmo13mq_honsen__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_piana,method_estremalita,method_casework,method_colorazione,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_casework_accurato,skill_stima"></span>
@@ -192,5 +184,3 @@ level: JMO Honsen
 > - Per ogni tre punti rossi distinti, l'interno del triangolo con quei tre punti come vertici contiene almeno un punto blu. - Per ogni tre punti blu distinti, l'interno del triangolo con quei tre punti come vertici contiene almeno un punto giallo. - Per i tre punti gialli distinti, l'interno del triangolo con questi tre punti come vertici contiene almeno un punto rosso.
 > 
 > Trova il massimo valore possibile di $N$.
-
-[[Quesiti/src_jmo13mq_honsen#q05|src_jmo13mq_honsen__Q05]]

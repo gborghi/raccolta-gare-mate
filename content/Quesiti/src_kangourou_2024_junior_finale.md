@@ -33,8 +33,6 @@ level: kangourou
 
 > Consider all possible fractions of less than 1 in which both the numerator and denominator are integers between 1 and 12 inclusive. Are there more reducible fractions or irreducible fractions?
 
-[[Quesiti/src_kangourou_2024_junior_finale#qj1|src_kangourou_2024_junior_finale__QJ1]]
-
 
 
 <span class="atom-split" id="qj2" data-atom="qj2" data-title="Quesito J2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -99,8 +97,6 @@ level: kangourou
 
 > Two triangles are given. The lengths of two of the sides of one shall coincide with the lengths of two of the sides of the other and the height relative to the third side of one shall coincide with that relative to the third side of the other. Are the two triangles necessarily congruent?
 
-[[Quesiti/src_kangourou_2024_junior_finale#qj2|src_kangourou_2024_junior_finale__QJ2]]
-
 
 
 <span class="atom-split" id="qj3" data-atom="qj3" data-title="Quesito J3" data-tags="topic_logica,topic_aritmetica,method_casework,skill_casework_accurato"></span>
@@ -125,8 +121,6 @@ level: kangourou
 *Establish which city the aircraft operates in (calendar, cafe)*
 
 > I don't drink coffee only on Mondays and Saturdays. An aircraft is used on alternate days on the Milan  Cagliari and Milan  Palermo routes with daily round-trip flights operated weekly from Tuesday to Sunday included; every Monday it is stationary for maintenance. During a year there were two consecutive months during which it operated for a total of 53 days, the first of which was in Cagliari. On the first day of the first of these two months, I didn't drink coffee. Is it possible to determine which city the aircraft operated in on the first day of operation in the second month? Is it possible to determine whether that day coincides with the first day of the month?
-
-[[Quesiti/src_kangourou_2024_junior_finale#qj3|src_kangourou_2024_junior_finale__QJ3]]
 
 
 
@@ -157,8 +151,6 @@ level: kangourou
 
 > For a polygon (plane) $P$, not necessarily convex, we indicate with $N(P)$ the number of points that are diagonal intersections and not vertices. If $P$ is a quadrilateral, $N(P)$ may be only $1$ or $0$. If $P$ is a pentagon, the maximum possible value for $N(P)$ is $5$ (e.g. if $P$ is regular); but what is the minimum possible value? (In any polygon, by diagonal means a segment that joins two non-adjacent vertices.)
 
-[[Quesiti/src_kangourou_2024_junior_finale#qj4|src_kangourou_2024_junior_finale__QJ4]]
-
 
 
 <span class="atom-split" id="qj5" data-atom="qj5" data-title="Quesito J5" data-tags="topic_combinatoria,topic_geometria_analitica,method_estremalita,skill_astrazione"></span>
@@ -184,8 +176,6 @@ level: kangourou
 
 > On a huge square sheet of square paper you want to draw lines, none parallel to the ones that delimit the squares, so that all the vertices of the squares that appear on the sheet are covered by at least one line. What is the smallest number of lines that is sufficient to trace?
 
-[[Quesiti/src_kangourou_2024_junior_finale#qj5|src_kangourou_2024_junior_finale__QJ5]]
-
 
 
 <span class="atom-split" id="qj6" data-atom="qj6" data-title="Quesito J6" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica"></span>
@@ -210,5 +200,3 @@ level: kangourou
 Do there exist 4-digit perfect square ABBA palindromes?
 
 > Are there 4-digit palindromes (i.e. $\overline{ABBA}$ with $A \neq 0$) in decimal notation, which are perfect squares?
-
-[[Quesiti/src_kangourou_2024_junior_finale#qj6|src_kangourou_2024_junior_finale__QJ6]]

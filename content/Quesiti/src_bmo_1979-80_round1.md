@@ -33,8 +33,6 @@ level: BMO Round 1
 
 > Prova che l'equazione $x^n + y^n = z^n$, dove $n$ è un numero intero $> 1$, non ha soluzione nei numeri interi $x$, $y$, $z$, con $0 < x \le n$, $0 < y \le n$.
 
-[[Quesiti/src_bmo_1979-80_round1#q01|src_bmo_1979-80_round1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -62,8 +60,6 @@ level: BMO Round 1
 *Ricerca 7 numeri interi consecutivi con un polinomio a coefficiente interi di grado-5 che scompare su 5 di essi*
 
 > Trovare un insieme $S = \{n\}$ di 7 integri positivi consecutivi per i quali esiste un polinomio $P(x)$ del quinto grado con le seguenti proprietà: (a) tutti i coefficienti di $P(x)$ sono integri; (b) $P(n) = n$ per 5 membri di $S$, compresi i più piccoli e i più grandi; (c) $P(n) = 0$ per un membro di $S$.
-
-[[Quesiti/src_bmo_1979-80_round1#q02|src_bmo_1979-80_round1__Q02]]
 
 
 
@@ -94,8 +90,6 @@ level: BMO Round 1
 > 
 > Prova che una linea retta che attraversa uno dei punti $R$ e $S$ e uno dei punti $A$ e $B$ taglia un lato del quadrato al centro del triangolo.
 
-[[Quesiti/src_bmo_1979-80_round1#q03|src_bmo_1979-80_round1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_ricorsione,method_induzione,method_disuguaglianze,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -124,8 +118,6 @@ level: BMO Round 1
 
 > Trova l'insieme dei numeri reali $a_0$ per i quali la sequenza infinita $\{a_n\}$ dei numeri reali definiti da $$a_{n+1} = 2^n - 3a_n \qquad (n \ge 0)$$ è strettamente in aumento, cioè $$a_n < a_{n+1} \qquad (n \ge 0).$$
 
-[[Quesiti/src_bmo_1979-80_round1#q04|src_bmo_1979-80_round1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_grafi,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_astrazione,skill_casework_accurato"></span>
@@ -150,5 +142,3 @@ level: BMO Round 1
 *Partito di 10: ogni 3 contiene 2 estranei; dimostra l'esistenza di 4 reciproci estranei*
 
 > In un gruppo di dieci persone, tra tutte e tre persone ci sono almeno due che non si conoscono. Prove che alla festa ci sono quattro persone, nessuna delle quali conosce un'altra delle quattro.
-
-[[Quesiti/src_bmo_1979-80_round1#q05|src_bmo_1979-80_round1__Q05]]

@@ -34,8 +34,6 @@ level: Olimpiade Polacca Round 3
 
 > Trova tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ che soddisfano $$(x - y)f(x + y) - (x + y)f(x - y) = 4xy(x^2 - y^2).$$
 
-[[Quesiti/src_pol_1990_r3#q01|src_pol_1990_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima"></span>
@@ -61,8 +59,6 @@ level: Olimpiade Polacca Round 3
 *Prove che la somma ciclica delle frazioni in numeri positivi è al massimo n-1.*
 
 > Lasciate che $x_1, x_2, \ldots, x_n$ siano numeri positivi. Provare che $$\frac{x_1^2}{x_1^2 + x_2 x_3} + \frac{x_2^2}{x_2^2 + x_3 x_4} + \cdots + \frac{x_{n-1}^2}{x_{n-1}^2 + x_n x_1} + \frac{x_n^2}{x_n^2 + x_1 x_2} \le n - 1.$$
-
-[[Quesiti/src_pol_1990_r3#q02|src_pol_1990_r3__Q02]]
 
 
 
@@ -97,8 +93,6 @@ In un torneo di round-robin di n giocatori, provare una delle due conclusioni st
 > 
 > (ii) organizzare tutti i giocatori in una catena $x_1, x_2, \ldots, x_n, x_1$ in modo tale che ciascuno dei giocatori sconfigga il suo successore.
 
-[[Quesiti/src_pol_1990_r3#q03|src_pol_1990_r3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_casework,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione"></span>
@@ -123,8 +117,6 @@ In un torneo di round-robin di n giocatori, provare una delle due conclusioni st
 *Un triangolo con tutti i lati almeno 1 è inscritto in un quadrato unitario; dimostrare che il centro del quadrato si trova all'interno o sul triangolo.*
 
 > Un triangolo il cui lunghezza non è inferiore a 1 è inciso in un quadrato di lunghezza laterale 1. Prova che il centro del quadrato si trova all'interno del triangolo o al suo confine.
-
-[[Quesiti/src_pol_1990_r3#q04|src_pol_1990_r3__Q04]]
 
 
 
@@ -151,8 +143,6 @@ In un torneo di round-robin di n giocatori, provare una delle due conclusioni st
 
 > Supponiamo che $(a_n)$ sia una sequenza di integri positivi come $\lim_{n \to \infty} \frac{n}{a_n} = 0$. Dimostrare l'esistenza di $k$ in modo tale che ci siano almeno 1990 quadrati perfetti tra $a_1 + a_2 + \cdots + a_k$ e $a_1 + a_2 + \cdots + a_{k+1}$.
 
-[[Quesiti/src_pol_1990_r3#q05|src_pol_1990_r3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -177,5 +167,3 @@ In un torneo di round-robin di n giocatori, provare una delle due conclusioni st
 *Prove la divisibilità per 3 di una somma alternata di coefficienti binomiali per numeri interi n>2.*
 
 > Prova che per tutti gli integri $n > 2$, $\sum_{k=0}^{\lfloor n/3 \rfloor} (-1)^k \binom{n}{3k}$ è divisibile per 3.
-
-[[Quesiti/src_pol_1990_r3#q06|src_pol_1990_r3__Q06]]

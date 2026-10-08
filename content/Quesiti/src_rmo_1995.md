@@ -32,8 +32,6 @@ level: RMO
 
 > Nel triangolo $ABC$, $K$ e $L$ sono punti sul lato $BC$ ($K$ sono più vicini a $B$ che a $L$) in modo tale che $BC \cdot KL = BK \cdot CL$ e $AL$ bisecciano $\angle KAC$. Indicare che $AL$ è perpendicolare a $AB$.
 
-[[Quesiti/src_rmo_1995#q01|src_rmo_1995__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_induzione,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -59,8 +57,6 @@ level: RMO
 
 > Indicare un intero positivo $n$ **buono** se ci sono $n$ integri positivi o negativi, e non necessariamente distinti, in modo tale che il loro prodotto e la loro somma siano entrambi uguali a $n$ (ad esempio, $8$ è **buono** dal momento che $8 = 4 \cdot 2 \cdot 1 \cdot 1 \cdot 1 \cdot (-1)(-1) = 4 + 2 + 1 + 1 + 1 + (-1) + (-1)$). Indicare che gli integri del modulo $4k+1$ ($k \ge 0$) e $4l$ ($l \ge 2$) sono **good**.
 
-[[Quesiti/src_rmo_1995#q02|src_rmo_1995__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_casework_accurato,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -85,8 +81,6 @@ level: RMO
 *Tra tutti i 18 numeri a 3 cifre consecutivi, uno è divisibile per la somma delle sue cifre*
 
 > Prove che tra tutti i numeri $18$ di $3$ ci sono almeno un numero divisibile dalla somma delle sue cifre.
-
-[[Quesiti/src_rmo_1995#q03|src_rmo_1995__Q03]]
 
 
 
@@ -115,8 +109,6 @@ level: RMO
 
 > Mostra che l'espressione quadrata $$x^2 + 7x - 14(q^2 + 1) = 0,$$ dove $q$ è un intero, non ha radice di numero intero.
 
-[[Quesiti/src_rmo_1995#q04|src_rmo_1995__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_disuguaglianze,topic_geometria_piana,method_casework,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima"></span>
@@ -144,8 +136,6 @@ level: RMO
 
 > Mostrare che per qualsiasi triangolo $ABC$, la seguente disuguaglianza è vera: $$a^2 + b^2 + c^2 > \sqrt{3} \max\{|a^2 - b^2|,\, |b^2 - c^2|,\, |c^2 - a^2|\},$$ dove $a$, $b$, $c$ sono, come al solito, i lati del triangolo.
 
-[[Quesiti/src_rmo_1995#q05|src_rmo_1995__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_simmetria,method_doppio_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
@@ -170,8 +160,6 @@ level: RMO
 Poligono regolare a 21 lati inciso in cerchio; triangoli di conteggio contenenti il centro*
 
 > Il $A_1 A_2 A_3 \ldots A_{21}$ deve essere un poligono regolare laterale $21$ inciso in un cerchio con il centro $O$. Quanti triangoli $A_i A_j A_k$, $1 \le i < j < k \le 21$ contengono il punto $O$ all'interno?
-
-[[Quesiti/src_rmo_1995#q06|src_rmo_1995__Q06]]
 
 
 
@@ -198,5 +186,3 @@ Poligono regolare a 21 lati inciso in cerchio; triangoli di conteggio contenenti
 *Prove x^2 sin x + x cos x + x^2 + 1/2 > 0 per tutte le vere x*
 
 > Indicare che per qualsiasi numero reale $x$, $$x^2 \sin x + x \cos x + x^2 + \frac{1}{2} > 0.$$
-
-[[Quesiti/src_rmo_1995#q07|src_rmo_1995__Q07]]

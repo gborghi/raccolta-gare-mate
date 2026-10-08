@@ -35,8 +35,6 @@ level: China Western Mathematical Olympiad
 
 > $P$ sia un punto interno di un triangolo angolato acuto $ABC$. Le linee $AP$, $BP$, $CP$ incontrano rispettivamente $BC$, $CA$, $AB$ a $D$, $E$ e $F$. Dato che $\triangle DEF \sim \triangle ABC$. Provare che $P$ è il centroide di $\triangle ABC$.
 
-[[Quesiti/src_cn_cwmo_2007#q01|src_cn_cwmo_2007__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -66,8 +64,6 @@ level: China Western Mathematical Olympiad
 
 ![[src_cn_b07_w158__q02.png]]
 
-[[Quesiti/src_cn_cwmo_2007#q02|src_cn_cwmo_2007__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_casework,skill_manipolazione_algebrica,skill_stima"></span>
@@ -94,8 +90,6 @@ level: China Western Mathematical Olympiad
 
 > Supponiamo che $a$, $b$, $c$ siano numeri reali, con $a + b + c = 3$. Provare che $$\frac{1}{5a^2 - 4a + 11} + \frac{1}{5b^2 - 4b + 11} + \frac{1}{5c^2 - 4c + 11} \le \frac{1}{4}.$$
 
-[[Quesiti/src_cn_cwmo_2007#q03|src_cn_cwmo_2007__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_algebra,method_estremalita,method_induzione,skill_modellizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -121,8 +115,6 @@ level: China Western Mathematical Olympiad
 *Punto interno del triangolo, numero intero p,q,r rendendo piccola la somma dei vettori ponderati*
 
 > $O$ sia un punto interno del triangolo $ABC$. Prova che esistono integri positivi $p$, $q$ e $r$, in modo tale che $$\left| p \cdot \overrightarrow{OA} + q \cdot \overrightarrow{OB} + r \cdot \overrightarrow{OC} \right| < \frac{1}{2007}.$$
-
-[[Quesiti/src_cn_cwmo_2007#q04|src_cn_cwmo_2007__Q04]]
 
 
 
@@ -151,7 +143,6 @@ level: China Western Mathematical Olympiad
 > C'è un triangolo con lati di lunghezza integrale, in modo che la lunghezza del lato più corto sia $2007$ e l'angolo più grande sia il doppio più piccolo?
 
 **Risposta:** No
-[[Quesiti/src_cn_cwmo_2007#q05|src_cn_cwmo_2007__Q05]]
 
 
 
@@ -179,8 +170,6 @@ level: China Western Mathematical Olympiad
 
 > Trovare tutti i numeri interi positivi $x_1, x_2, \ldots, x_s, y$ che soddisfano le seguenti condizioni $$\begin{cases} \lfloor x_i + x_j \rfloor = 0, & 1 \le i < j \le s, \\ \lfloor x \rfloor + 1 = x_k y^s. \end{cases}$$
 
-[[Quesiti/src_cn_cwmo_2007#q06|src_cn_cwmo_2007__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -205,5 +194,3 @@ level: China Western Mathematical Olympiad
 *Punto interno P con DEF congruente ad ABC implica P è centroid*
 
 > $P$ sia un punto interno del triangolo a angolo acuto $ABC$. Le linee $AP$, $BP$, $CP$ incontrano rispettivamente $BC$, $CA$, $AB$ a $D$, $E$ e $F$. Con $\triangle DEF \cong \triangle ABC$. Provare che $P$ è il centroide di $\triangle ABC$.
-
-[[Quesiti/src_cn_cwmo_2007#q07|src_cn_cwmo_2007__Q07]]

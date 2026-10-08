@@ -37,7 +37,6 @@ level: squadre
 > Today, in a group of 24 students, boys are twice as many as girls. Two more boys will join the group tomorrow. After they get in, how many girls will have to join the group if you want girls to become twice as many as boys?
 
 **Answer:** 0028
-[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q01|src_kangourou_2018_squadre_ecolier_f__Q01]]
 
 
 
@@ -70,7 +69,6 @@ level: squadre
 > The Ghost Castle One of the attractions of an amusement park is the Ghost Castle: to get around it you have to take a two-seater carriage; one passes every 2 minutes and the complete tour lasts 26 minutes. A group of 12 friends shows up at 11:40 a.m. and the first couple leaves immediately. If everyone gets on the wagons in pairs and doesn't lose a single wagon, what time does the last couple leave the castle? To give the answer, type in a row the hours and minutes; e.g. 11:40 is 1140.
 
 **Answer:** 1216
-[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q02|src_kangourou_2018_squadre_ecolier_f__Q02]]
 
 
 
@@ -151,7 +149,6 @@ level: squadre
 > MATE I marked on a circle 13 points, each denoted by a letter. Starting from the top point denoted by the letter M and reading the point labels one point yes and one point no I do several complete turns, clockwise, around the circle until I read the word MATE for 2018 times: here I stop. How many times have I done a complete turn?
 
 **Answer:** 1345
-[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q03|src_kangourou_2018_squadre_ecolier_f__Q03]]
 
 
 
@@ -188,7 +185,6 @@ level: squadre
 > What number is C D B A ?
 
 **Answer:** 1798
-[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q04|src_kangourou_2018_squadre_ecolier_f__Q04]]
 
 
 
@@ -219,7 +215,6 @@ level: squadre
 > From the bakery Three friends are from the bakery: Alda spends 18 euros for 10 small pizzas, 4 small cakes and an orange, Bianca spends 13.50 euros for 7 small pizzas, 3 small cakes and an orange. How many cents does Carla spend on a small pizza, a small cake and an orange?
 
 **Answer:** 0450
-[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q05|src_kangourou_2018_squadre_ecolier_f__Q05]]
 
 
 
@@ -290,7 +285,6 @@ level: squadre
 > 2
 
 **Answer:** 1408
-[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q06|src_kangourou_2018_squadre_ecolier_f__Q06]]
 
 
 
@@ -321,7 +315,6 @@ level: squadre
 > Basketball Three basketball teams have played some training matches. Team A played 11 games, team B played 9 games and team C played 12 games. How many times have teams A and C played together?
 
 **Answer:** 0007
-[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q07|src_kangourou_2018_squadre_ecolier_f__Q07]]
 
 
 
@@ -357,7 +350,6 @@ level: squadre
 > in this game of rewards and taxes he has neither lost nor gained. How many times did he guess correctly?
 
 **Answer:** 0015
-[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q08|src_kangourou_2018_squadre_ecolier_f__Q08]]
 
 
 
@@ -390,7 +382,6 @@ level: squadre
 > number does she get?
 
 **Answer:** 2310
-[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q09|src_kangourou_2018_squadre_ecolier_f__Q09]]
 
 
 
@@ -427,7 +418,6 @@ level: squadre
 > The garden A square garden contains five square flowerbeds (of which four are equal to each other) arranged as shown by the gray squares in the figure (the vertices of each flowerbed are exactly on the horizontal and vertical lines). If the total area of the flowerbeds is 25 square meters, how many meters does the perimeter of the garden measure?
 
 **Answer:** 0040
-[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q10|src_kangourou_2018_squadre_ecolier_f__Q10]]
 
 
 
@@ -459,7 +449,6 @@ level: squadre
 > The Clara Alice sequence has written the ABCAABBCCAAABBBCCC letter sequence. Biagio rewrote Alice's sequence by replacing each letter A with a pair of letters BB. Finally Clara rewrote Biagio's sequence replacing each letter B with the letter CCC. How many letters are in Clara's sequence?
 
 **Answer:** 0060
-[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q11|src_kangourou_2018_squadre_ecolier_f__Q11]]
 
 
 
@@ -490,7 +479,6 @@ level: squadre
 > Cube Let's say a natural number A other than zero is a cube if there's another natural number B such that A = B×B×B: for example 8 is a cube. What is the smallest number that is a cube and is the sum of three cubes?
 
 **Answer:** 0216
-[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q12|src_kangourou_2018_squadre_ecolier_f__Q12]]
 
 
 
@@ -527,7 +515,6 @@ level: squadre
 > How many 4-digit numbers does Bice love?
 
 **Answer:** 0024
-[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q13|src_kangourou_2018_squadre_ecolier_f__Q13]]
 
 
 
@@ -563,7 +550,6 @@ level: squadre
 > The rectangles Elena wants to draw three rectangles on a square sheet, each of which has sides on the lines that delimit the squares and none of which touches the edge of the sheet. What is the maximum number of parts that rectangles can divide the page into?
 
 **Answer:** 0014
-[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q14|src_kangourou_2018_squadre_ecolier_f__Q14]]
 
 
 
@@ -614,4 +600,3 @@ level: squadre
 > Questions and developments
 
 **Answer:** 0001
-[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q15|src_kangourou_2018_squadre_ecolier_f__Q15]]

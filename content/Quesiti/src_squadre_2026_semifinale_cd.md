@@ -38,7 +38,6 @@ level: squadre
 > Gaia Fuselli Hermita is engaged in the translation of a manuscript for the course of Ancient Runes. In it the calculations are made on a base B (B > 4) in which the number 41 is divisible by 14. How much is B?
 
 **Answer:** 0011
-[[Quesiti/src_squadre_2026_semifinale_cd#q01|src_squadre_2026_semifinale_cd__Q01]]
 
 
 
@@ -74,7 +73,6 @@ level: squadre
 > Divination Gaia Fuselli The Divination teacher of the Higher Mathematical School, Sibilla Riemann, takes 3 magic cards: 1,2,3, she mixes them and asks Hermita to extract a random card, and write down the value at which she extracted, she remixes the cards and asks to extract again, marking herself the extracted number b, then repeats the procedure also to find the numbers c and d. As Hermita extracts, she asks the other students to predict the number ab + bcd + d2. What is the probability that the number to be predicted is odd? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
 
 **Answer:** 0131
-[[Quesiti/src_squadre_2026_semifinale_cd#q02|src_squadre_2026_semifinale_cd__Q02]]
 
 
 
@@ -153,7 +151,6 @@ level: squadre
 > 12 11 − 12 11 2! . What did Hermit replied? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
 
 **Answer:** 0133
-[[Quesiti/src_squadre_2026_semifinale_cd#q03|src_squadre_2026_semifinale_cd__Q03]]
 
 
 
@@ -280,7 +277,6 @@ level: squadre
 > By performing the task of Geomancy, Hardy draws an ABCD square of side 10 millibacets; Ron constructs two equilateral triangles ABE and BCF outside the square. Hermite completes the configuration by adding the equilateral triangle EFG with G on the opposite side of B to EF. The spell will be triggered by declaring the value of BG2 (in square millibaches). What are the three friends supposed to say? 150° A B C D E F G O
 
 **Answer:** 0373
-[[Quesiti/src_squadre_2026_semifinale_cd#q04|src_squadre_2026_semifinale_cd__Q04]]
 
 
 
@@ -318,7 +314,6 @@ level: squadre
 > Gaia Fuselli of the Higher Mathematical School, identified by the number 1, takes 110 secret passages (only one way) to as many destinations, numbered 0 and 2 to 110. The Perelman twins know them all and know that destinations 2 to 9 are close enough to the school to allow you to always go back; destination 0 is the dreaded Arctan prison, from which no one has ever left. The other targets follow different rules: if the number x of the destination is prime or ends with zero, there are no secret steps from it to other destinations; otherwise, given the number of units of x, from destination x c is a step to destination x −2u −2. How many destinations (including school) is it possible to return to school from, possibly using more than one secret passage?
 
 **Answer:** 0040
-[[Quesiti/src_squadre_2026_semifinale_cd#q05|src_squadre_2026_semifinale_cd__Q05]]
 
 
 
@@ -361,7 +356,6 @@ level: squadre
 > Johnson wants to test a pattern: A,B,C,D,E five consecutive vertices of the dodecahedron, puts Henri Perelman at point P, intersection of AC and BD lines, and his twin Smale at point S, intersection of BD and CE lines. He tells Hardy, the team's Demonstrator, that P and C are 200 yards apart, and asks him to calculate the distance (in yards) between Perelman and Smale. Hardy's not wrong. What does Hardy say?
 
 **Answer:** 0346
-[[Quesiti/src_squadre_2026_semifinale_cd#q06|src_squadre_2026_semifinale_cd__Q06]]
 
 
 
@@ -394,7 +388,6 @@ level: squadre
 > Hardy, to communicate in secret with his godfather Sirius Schwarz, agreed to put a password on the twin mirrors. Taking $p_0(x) = x$ and $p_{n+1}(x) = 1 - p_n(x)^2$ for each natural $n$, the password is the number of real roots, multiplied, of the $p_{22}(x)$ polynomial. What's the password?
 
 **Answer:** 6142
-[[Quesiti/src_squadre_2026_semifinale_cd#q07|src_squadre_2026_semifinale_cd__Q07]]
 
 
 
@@ -430,7 +423,6 @@ level: squadre
 > One square after the other Giuseppe Mascellani Again this time Ron must serve the punishment inflicted by Professor Dolores Unboundrige. Ron patiently takes his book of square scrolls and begins to draw a different square on each scroll. The square Q1 has side 1 of the square, the square Q2 has side 2, and so on until Q10, which has side 10. Then he starts from the first scroll and in the square Q1 Ron writes 10; in the four squares of Q2 he writes 9; in each square 1×1 contained in Q3 he writes the number 8; and so on until he writes 1 in all the squares of Q10. The treacherous Professor Unboundrige will only be satisfied when Ron tells her the sum of all the numbers in the squares. What number allows Ron to serve his sentence?
 
 **Answer:** 1210
-[[Quesiti/src_squadre_2026_semifinale_cd#q08|src_squadre_2026_semifinale_cd__Q08]]
 
 
 
@@ -558,7 +550,6 @@ level: squadre
 > Question of points of view [⋆] Leonardo Franchi 19° 19° 70° 70° 78° 32° A B C D E The pub hall Three topological arms has the triangle shape of the plant ABC with angles ˆA = 110°, ˆB = 38°, ˆC = 32°. The counter shall be placed at point E above BC such that \ AEB = 102°. Since D is the AC point that is the foot of the receiver from B, the bartender knows that she can monitor the entrance from the AED angle. What is the width of the latter (in degrees)?
 
 **Answer:** 0039
-[[Quesiti/src_squadre_2026_semifinale_cd#q09|src_squadre_2026_semifinale_cd__Q09]]
 
 
 
@@ -599,7 +590,6 @@ level: squadre
 > Lonely doubts Angelo Giustiniani Ron is waiting for his friend Hardy to challenge him in a magic-force-4 game, a game that is played with chips to be inserted into a vertical grid made of 8 columns, in each column you can insert up to 7 chips one on top of the other. In the waiting, Ron drops the first token in the first column to the left and this one takes the lower left place. When you put a new token, if there's already a token on the left side of the token you just put in, then the move is valid. Another valid move is to insert a new token in the first column to the left. Ron can stop whenever he wants. How many configurations can Ron get by just making valid moves (remembering that he's already put a token in)?
 
 **Answer:** 6434
-[[Quesiti/src_squadre_2026_semifinale_cd#q10|src_squadre_2026_semifinale_cd__Q10]]
 
 
 
@@ -638,7 +628,6 @@ level: squadre
 > Modeling Luca Lamanna Ron is so excited about the awarding of the House Cup that he wants to build a cardboard replica of it. It begins by carving out the flat development of the cup: a square of side 6 cm on each side of which a regular hexagon is built, outside the square. Ron then assembles it, matching the sides of hexagons that have a vertex in common and then bending the hexagons inwards, along the major diagonal parallel to the sides of the square. This way the cup, which has a square hole at the top, is ready. What is its volume (in cm3)?
 
 **Answer:** 0712
-[[Quesiti/src_squadre_2026_semifinale_cd#q11|src_squadre_2026_semifinale_cd__Q11]]
 
 
 
@@ -672,7 +661,6 @@ level: squadre
 > Among the bad Giuseppe Mascellani The worst mathematician of all time, The One-who-can-not-be-proven, heads the loyalty of his followers by proposing the following question. Given a positive integer a, it defines K0 = 1 and, for each n ≥0, Kn+1 = Kn +aKn−1 +...+anK0. He then asks to determine the sum of all positive integers n so it's possible that Kn = 4096. What must followers say to save lives?
 
 **Answer:** 0034
-[[Quesiti/src_squadre_2026_semifinale_cd#q12|src_squadre_2026_semifinale_cd__Q12]]
 
 
 
@@ -709,7 +697,6 @@ level: squadre
 > Many days for a wonderful order Alessandro Lombardo Pomona Springer, lecturer in Herbology, cures in a secret greenhouse his precious 2026 mandrake, initially all high 109 nanobucettes (nb), that is, a stick. Every day, it waters exactly 101 distinct mandrels. At the end of the day, the mandrels that were watered that day grow by 1 nb, while the others decrease by 1 nb. One day, just before the mandrels were to be watered, Springer decides to arrange the almond pots by arranging them from lowest to highest. When performing this action, it is noticed that all plants have different heights and that the height difference between two consecutive plants remains constant. How many days have passed, at least, since the day she started taking care of the almonds?
 
 **Answer:** 1273
-[[Quesiti/src_squadre_2026_semifinale_cd#q13|src_squadre_2026_semifinale_cd__Q13]]
 
 
 
@@ -748,7 +735,6 @@ level: squadre
 > Rapportaureo vs Perognesiste Eugenio Trovarelli It is the day of the long-awaited Quamditch challenge between the team of Rapportaureo and that of Perognesiste, captained by Cedric Villany. Hardy notes that at the end of the racecourse there are 20 shields in a row, each painted with the color of one of the two houses (red or yellow), and that the number of yellow shields is strictly greater than the number of red shields. Before climbing on his broom, Hardy, a little nervous, observes by accident that, of all the adjacent shield pairs, exactly 15 are made of shields of the same color. How many possible shield colors are there?
 
 **Answer:** 3552
-[[Quesiti/src_squadre_2026_semifinale_cd#q14|src_squadre_2026_semifinale_cd__Q14]]
 
 
 
@@ -796,7 +782,6 @@ level: squadre
 > In the Quamditch field two baskets are placed in C and D and then two arbiters in A and B, so that ACD and BCD are equilateral but not coincident. The Rapporteur's team (composed of Hardy, Hermita, Ron and Norris) must score in C. However, to score a regular point the shooter must have a pivot player such that they are aligned with B, form an equilateral triangle with A and the shooter is closer to the basket C of the pivot. Hardy and Hermita (placed in E and G) are ready to score as shooters, with Ron and Norris (placed in F and H) as their pivot respectively. We also know that \ ABE = 45° and that \ ABH = 75°, and E and G are on the same side of C as with straight AB. Knowing that EF measures 100 rods, determine GC +FC (in rods).
 
 **Answer:** 0141
-[[Quesiti/src_squadre_2026_semifinale_cd#q15|src_squadre_2026_semifinale_cd__Q15]]
 
 
 
@@ -830,4 +815,3 @@ level: squadre
 > Interi of difference Gaia Fuselli In the Room of Necessary Conditions there is everything a mathematician needs. Luna Lovegödel was looking for the integers n between −400 and 400, extremes included, which can be written as the difference between the sum of two squares and the sum of two other squares (squares of appropriate integers, also equal). How many different n numbers did Luna find?
 
 **Answer:** 0801
-[[Quesiti/src_squadre_2026_semifinale_cd#q16|src_squadre_2026_semifinale_cd__Q16]]

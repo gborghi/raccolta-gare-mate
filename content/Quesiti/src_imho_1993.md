@@ -33,8 +33,6 @@ level: IMO
 
 > Sia $f(x) = x^n + 5x^{n-1} + 3$, dove $n > 1$ è un intero. Si dimostri che $f(x)$ non può essere espresso come prodotto di due polinomi non costanti a coefficienti interi.
 
-[[Quesiti/src_imho_1993#q01|src_imho_1993__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -68,8 +66,6 @@ level: IMO
 > 
 > (b) Si dimostri che le tangenti nei punti $C$ alle circonferenze circoscritte ai triangoli $\triangle ACD$ e $\triangle BCD$ sono perpendicolari.
 
-[[Quesiti/src_imho_1993#q02|src_imho_1993__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_invarianti,method_colorazione,method_casework,skill_riconoscimento_pattern,skill_modellizzazione,skill_conteggio_sistematico"></span>
@@ -98,8 +94,6 @@ level: IMO
 > Su una scacchiera infinita si gioca un gioco secondo le seguenti regole. All'inizio, $n^2$ pezzi sono disposti su un blocco di $n \times n$ quadrati adiacenti, uno per ogni quadrato. Un movimento nel gioco consiste in un salto orizzontale o verticale sopra un quadrato adiacente occupato, verso un quadrato non occupato immediatamente oltre. Il pezzo che è stato superato viene rimosso.
 > 
 > Determinare i valori di $n$ per cui il gioco può terminare con un solo pezzo rimasto sul tabellone.
-
-[[Quesiti/src_imho_1993#q03|src_imho_1993__Q03]]
 
 
 
@@ -132,8 +126,6 @@ level: IMO
 > Si dimostri che per punti $A$, $B$, $C$, $X$ nel piano,
 > $$m(ABC) \le m(ABX) + m(AXC) + m(XBC).$$
 
-[[Quesiti/src_imho_1993#q04|src_imho_1993__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_insiemi_funzioni,topic_aritmetica,method_ricorsione,method_induzione,method_invarianti,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
@@ -158,8 +150,6 @@ level: IMO
 *Determinare tutte le funzioni f: N→N con due condizioni date*
 
 > Esiste una funzione $f : \mathbf{N} \to \mathbf{N}$ tale che $f(1) = 2$, $f(f(n)) = f(n) + n$ per ogni $n \in \mathbf{N}$, e $f(n) < f(n+1)$ per ogni $n \in \mathbf{N}$?
-
-[[Quesiti/src_imho_1993#q05|src_imho_1993__Q05]]
 
 
 
@@ -197,5 +187,3 @@ level: IMO
 > (b) Se $n = 2^k$, possiamo prendere $M(n) = n^2 - 1$;
 > 
 > (c) Se $n = 2^k + 1$, possiamo prendere $M(n) = n^2 - n + 1$.
-
-[[Quesiti/src_imho_1993#q06|src_imho_1993__Q06]]

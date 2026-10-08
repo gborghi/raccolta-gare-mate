@@ -91,8 +91,6 @@ level: TFJM²
 
 ![[src_tfjm_2025__q01.png]]
 
-[[Quesiti/src_tfjm_2025#q01|src_tfjm_2025__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_algebra,method_conteggio,method_invarianti,method_ricorsione,skill_modellizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -169,8 +167,6 @@ level: TFJM²
 > 7. Proporre e studiare altre linee di ricerca.
 
 ![[src_tfjm_2025__q02.png]]
-
-[[Quesiti/src_tfjm_2025#q02|src_tfjm_2025__Q02]]
 
 
 
@@ -255,8 +251,6 @@ level: TFJM²
 
 ![[src_tfjm_2025__q03.png]]
 
-[[Quesiti/src_tfjm_2025#q03|src_tfjm_2025__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_probabilita,topic_disuguaglianze,method_ricorsione,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_modellizzazione"></span>
@@ -323,8 +317,6 @@ level: TFJM²
 > 7. Proporre e studiare altre linee di ricerca.
 
 ![[src_tfjm_2025__q04.png]]
-
-[[Quesiti/src_tfjm_2025#q04|src_tfjm_2025__Q04]]
 
 
 
@@ -401,8 +393,6 @@ level: TFJM²
 
 ![[src_tfjm_2025__q05.png]]
 
-[[Quesiti/src_tfjm_2025#q05|src_tfjm_2025__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_combinatoria,topic_probabilita,method_ricorsione,method_disuguaglianze,method_casework,skill_modellizzazione,skill_stima,skill_manipolazione_algebrica"></span>
@@ -473,8 +463,6 @@ level: TFJM²
 > 6. Proporre e studiare altre linee di ricerca.
 
 ![[src_tfjm_2025__q06.png]]
-
-[[Quesiti/src_tfjm_2025#q06|src_tfjm_2025__Q06]]
 
 
 
@@ -550,8 +538,6 @@ level: TFJM²
 > 7. Proporre e studiare altre linee di ricerca.
 
 ![[src_tfjm_2025__q07.png]]
-
-[[Quesiti/src_tfjm_2025#q07|src_tfjm_2025__Q07]]
 
 
 
@@ -651,5 +637,3 @@ level: TFJM²
 > 8. Proporre e studiare altre linee di ricerca.
 
 ![[src_tfjm_2025__q08.png]]
-
-[[Quesiti/src_tfjm_2025#q08|src_tfjm_2025__Q08]]

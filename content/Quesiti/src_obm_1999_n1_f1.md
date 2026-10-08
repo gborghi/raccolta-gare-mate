@@ -38,7 +38,6 @@ level: OBM Nível 1
 > (A) 132 \quad B) 144 \quad C) 146 \quad D) 148 \quad E) 152
 
 **Risposta:** B
-[[Quesiti/src_obm_1999_n1_f1#q01|src_obm_1999_n1_f1__Q01]]
 
 
 
@@ -71,7 +70,6 @@ level: OBM Nível 1
 > (A) 96 Quad (B) 98 Quad (C) 123 Quad (D) 79 Quad (E) 99
 
 **Risposta:** D
-[[Quesiti/src_obm_1999_n1_f1#q02|src_obm_1999_n1_f1__Q02]]
 
 
 
@@ -111,7 +109,6 @@ level: OBM Nível 1
 ![[src_obm_1999_n1_f1__q03.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_1999_n1_f1#q03|src_obm_1999_n1_f1__Q03]]
 
 
 
@@ -143,7 +140,6 @@ level: OBM Nível 1
 > (A) 8,4 km quadrati (B) 12,1 km quadrati (C) 9,9 km quadrati (D) 13,2 km quadrati (E) 9,075 km
 
 **Risposta:** B
-[[Quesiti/src_obm_1999_n1_f1#q04|src_obm_1999_n1_f1__Q04]]
 
 
 
@@ -176,7 +172,6 @@ level: OBM Nível 1
 > (A) $2^9 + 4^4$ \quad (B) $2^9 + 2^5$ \quad (C) $1^{10} + 2^5$ \quad (D) $2^{10} + 4^4$ \quad (E) $2^9 + 4^5$
 
 **Risposta:** D
-[[Quesiti/src_obm_1999_n1_f1#q05|src_obm_1999_n1_f1__Q05]]
 
 
 
@@ -209,7 +204,6 @@ level: OBM Nível 1
 > (A) 2 \quad (B) none \quad (C) 1 \quad (D) 3 \quad (E) 6
 
 **Risposta:** A
-[[Quesiti/src_obm_1999_n1_f1#q06|src_obm_1999_n1_f1__Q06]]
 
 
 
@@ -242,7 +236,6 @@ Quante volte al giorno le mani dell'orologio formano un angolo retto?
 > (A) 48 \quad (B) 44 \quad (C) 24 \quad (D) 22 \quad (E) 23
 
 **Risposta:** B
-[[Quesiti/src_obm_1999_n1_f1#q07|src_obm_1999_n1_f1__Q07]]
 
 
 
@@ -275,7 +268,6 @@ Quante volte al giorno le mani dell'orologio formano un angolo retto?
 > (A) 20\% sono ragazzi \quad (B) 30\% sono ragazzi \quad (C) 50\% sono ragazzi \quad (D) 50\% sono ragazze \quad (E) 66,6\ldots\% sono ragazzi
 
 **Risposta:** C
-[[Quesiti/src_obm_1999_n1_f1#q08|src_obm_1999_n1_f1__Q08]]
 
 
 
@@ -312,7 +304,6 @@ Quante volte al giorno le mani dell'orologio formano un angolo retto?
 ![[src_obm_1999_n1_f1__q09.png]]
 
 **Risposta:** A
-[[Quesiti/src_obm_1999_n1_f1#q09|src_obm_1999_n1_f1__Q09]]
 
 
 
@@ -344,7 +335,6 @@ Quante volte al giorno le mani dell'orologio formano un angolo retto?
 > (A) 48 \quad (B) 4 \quad (C) 8 \quad (D) 52 \quad (E) 96
 
 **Risposta:** B
-[[Quesiti/src_obm_1999_n1_f1#q10|src_obm_1999_n1_f1__Q10]]
 
 
 
@@ -381,7 +371,6 @@ Quante volte al giorno le mani dell'orologio formano un angolo retto?
 ![[src_obm_1999_n1_f1__q11.png]]
 
 **Risposta:** E
-[[Quesiti/src_obm_1999_n1_f1#q11|src_obm_1999_n1_f1__Q11]]
 
 
 
@@ -414,7 +403,6 @@ Quante volte al giorno le mani dell'orologio formano un angolo retto?
 > (A) 18 \quad (B) 20 \quad (C) 22 \quad (D) 30 \quad (E) 28
 
 **Risposta:** E
-[[Quesiti/src_obm_1999_n1_f1#q12|src_obm_1999_n1_f1__Q12]]
 
 
 
@@ -446,7 +434,6 @@ Letícia vende tutti i CD allo stesso prezzo a tre amici; trova il numero minimo
 > (A) 20 \quad (B) 37 \quad (C) 21 \quad (D) 41 \quad (E) 25
 
 **Risposta:** B
-[[Quesiti/src_obm_1999_n1_f1#q13|src_obm_1999_n1_f1__Q13]]
 
 
 
@@ -480,7 +467,6 @@ Letícia vende tutti i CD allo stesso prezzo a tre amici; trova il numero minimo
 > (A) $-4$ \quad (B) 12 \quad (C) 0 \quad (D) 15 \quad (E) 10
 
 **Risposta:** A
-[[Quesiti/src_obm_1999_n1_f1#q14|src_obm_1999_n1_f1__Q14]]
 
 
 
@@ -512,7 +498,6 @@ Letícia vende tutti i CD allo stesso prezzo a tre amici; trova il numero minimo
 > (A) 48 \quad (B) 72 \quad (C) 58 \quad (D) 60 \quad (E) 34
 
 **Risposta:** C
-[[Quesiti/src_obm_1999_n1_f1#q15|src_obm_1999_n1_f1__Q15]]
 
 
 
@@ -548,7 +533,6 @@ Letícia vende tutti i CD allo stesso prezzo a tre amici; trova il numero minimo
 ![[src_obm_1999_n1_f1__q16.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_1999_n1_f1#q16|src_obm_1999_n1_f1__Q16]]
 
 
 
@@ -584,7 +568,6 @@ Letícia vende tutti i CD allo stesso prezzo a tre amici; trova il numero minimo
 ![[src_obm_1999_n1_f1__q17.png]]
 
 **Risposta:** E
-[[Quesiti/src_obm_1999_n1_f1#q17|src_obm_1999_n1_f1__Q17]]
 
 
 
@@ -616,7 +599,6 @@ Letícia vende tutti i CD allo stesso prezzo a tre amici; trova il numero minimo
 > (A) 4 \quad (B) 1 \quad (C) 3 \quad (D) 2 \quad (E) indefinito
 
 **Risposta:** A
-[[Quesiti/src_obm_1999_n1_f1#q18|src_obm_1999_n1_f1__Q18]]
 
 
 
@@ -648,7 +630,6 @@ Letícia vende tutti i CD allo stesso prezzo a tre amici; trova il numero minimo
 > (A) 60 \quad (B) 30 \quad (C) 15 \quad (D) 45 \quad (E) 105
 
 **Risposta:** D
-[[Quesiti/src_obm_1999_n1_f1#q19|src_obm_1999_n1_f1__Q19]]
 
 
 
@@ -681,4 +662,3 @@ Letícia vende tutti i CD allo stesso prezzo a tre amici; trova il numero minimo
 > (A) 99\,999\,999 \quad (B) 99\,999\,992 \quad (C) 100\,000\,000 \quad (D) 10\,000\,000 \quad (E) 1\,000\,000\,000
 
 **Risposta:** C
-[[Quesiti/src_obm_1999_n1_f1#q20|src_obm_1999_n1_f1__Q20]]

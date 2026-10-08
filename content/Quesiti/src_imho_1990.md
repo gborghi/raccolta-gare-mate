@@ -41,8 +41,6 @@ level: IMO
 > $$\frac{EG}{EF}$$
 > in funzione di $t$.
 
-[[Quesiti/src_imho_1990#q01|src_imho_1990__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_estremalita,method_casework,method_cassetti,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -67,8 +65,6 @@ level: IMO
 *Minimo k punti neri che garantiscono un coloramento buono*
 
 > Sia $n \ge 3$ e si consideri un insieme $E$ di $2n - 1$ punti distinti su una circonferenza. Si supponga che esattamente $k$ di questi punti debbano essere colorati di nero. Un tale coloramento si dice «buono» se esiste almeno una coppia di punti neri tale che l'interno di uno degli archi tra essi contenga esattamente $n$ punti dell'insieme $E$. Determinare il più piccolo valore di $k$ tale che ogni coloramento di $k$ punti dell'insieme $E$ sia buono.
-
-[[Quesiti/src_imho_1990#q02|src_imho_1990__Q02]]
 
 
 
@@ -99,8 +95,6 @@ level: IMO
 > $$\frac{2^n + 1}{n^2}$$
 > sia un numero intero.
 
-[[Quesiti/src_imho_1990#q03|src_imho_1990__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,topic_insiemi_funzioni,method_backward,method_ricorsione,skill_manipolazione_algebrica,skill_astrazione,skill_modellizzazione"></span>
@@ -129,8 +123,6 @@ level: IMO
 > Sia $\mathbb{Q}^+$ l'insieme dei numeri razionali positivi. Si costruisca una funzione $f : \mathbb{Q}^+ \to \mathbb{Q}^+$ tale che
 > $$f(x f(y)) = \frac{f(x)}{y}$$
 > per ogni $x$, $y$ in $\mathbb{Q}^+$.
-
-[[Quesiti/src_imho_1990#q04|src_imho_1990__Q04]]
 
 
 
@@ -176,8 +168,6 @@ level: IMO
 > (b) il giocatore $\mathcal{B}$ ha una strategia vincente?
 > (c) nessun giocatore ha una strategia vincente?
 
-[[Quesiti/src_imho_1990#q05|src_imho_1990__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_combinatoria,method_casework,method_simmetria,skill_modellizzazione,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -206,5 +196,3 @@ level: IMO
 > Si dimostri che esiste un 1990-agono convesso con le seguenti due proprietà:
 > (a) Tutti gli angoli sono uguali.
 > (b) Le lunghezze dei 1990 lati sono i numeri $1^2$, $2^2$, $3^2$, $\ldots$, $1990^2$ in qualche ordine.
-
-[[Quesiti/src_imho_1990#q06|src_imho_1990__Q06]]

@@ -33,8 +33,6 @@ level: JJMO Honsen
 
 > Il triangolo $ABC$ soddisfa $AB = AC \neq BC$. Il punto $D$ deve essere un punto all'interno del triangolo $ABC$ tale che $\angle ABD = \angle ACD = 30^\circ$. Indicare che i bisettori angolari di $\angle ACB$ e $\angle ADB$ si intersecano in un punto laterale $AB$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
-[[Quesiti/src_jjmo17mq_honsen#q01|src_jjmo17mq_honsen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_estremalita,skill_modellizzazione,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: JJMO Honsen
 *Minimum n scatole con palle di 10 colori e quantità di colori uguali*
 
 > Ci sono scatole $n$, ciascuna contenente una palla dipinta in un colore. Le palle usano esattamente $10$ colori in totale, e le palle adiacenti (nelle scatole vicine) hanno colori diversi. Ogni palla ha un numero intero scritto su di essa. È noto che per ogni coppia di colori, la somma dei numeri interi su tutte le palle di quei due colori è uguale (cioè, la somma dei numeri interi su palle di ogni colore è la stessa per tutti i colori $10$). Trova il valore minimo possibile di $n$.
-
-[[Quesiti/src_jjmo17mq_honsen#q02|src_jjmo17mq_honsen__Q02]]
 
 
 
@@ -89,15 +85,13 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*GCD-min casi di disuguaglianza e di uguaglianza per i numeri interi positivi*
+*Disuguaglianza tra MCD e minimo e casi di uguaglianza per interi positivi*
 
-> Lasciate che $a, b$ siano numeri interi positivi. Qui $\gcd(x, y)$ indica il più grande divisore comune di $x$ e $y$, e $\min(x, y)$ indica il più piccolo di $x$ e $y$.
+> Siano $a, b$ interi positivi. Qui $\gcd(x, y)$ indica il massimo comun divisore di $x$ e $y$, e $\min(x, y)$ indica il minore tra $x$ e $y$.
 > 
-> (1) Indicare che la disuguaglianza $$\min\bigl(\gcd(a,\, b+1),\; \gcd(a+1,\, b)\bigr) \le \frac{\sqrt{4a+5}-1}{2}$$ è valida.
+> (1) Dimostrare che vale la disuguaglianza $$\min\bigl(\gcd(a,\, b+1),\; \gcd(a+1,\, b)\bigr) \le \frac{\sqrt{4a+5}-1}{2}$$
 > 
-> (2) Trovare tutte le coppie di integri positivi $(a, b)$ per le quali l'uguaglianza vale nell'ineguaglianza di cui sopra.
-
-[[Quesiti/src_jjmo17mq_honsen#q03|src_jjmo17mq_honsen__Q03]]
+> (2) Trovare tutte le coppie di interi positivi $(a, b)$ per le quali nella disuguaglianza precedente vale l'uguaglianza.
 
 
 
@@ -135,8 +129,6 @@ level: JJMO Honsen
 > 
 > Quando tutti i quadrati $n^2$ sono stati visitati, trovare il numero minimo possibile di volte che il pezzo si è spostato orizzontalmente o verticalmente (cioè non diagonalmente) durante la partita.
 
-[[Quesiti/src_jjmo17mq_honsen#q04|src_jjmo17mq_honsen__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -161,5 +153,3 @@ level: JJMO Honsen
 *Equità di angolo in configurazione con circoncircoli e punti di mezzo*
 
 > Che $ABC$ sia un triangolo con $AB \neq AC$. $M$ sia il punto medio del lato $BC$ e $N$ sia il punto medio dell'arco $BC$ (l'arco contenente $A$) del circoncircolo del triangolo $ABC$. Il $H$ deve essere il piede della perpendicolare da $N$ alla linea $AC$. Il $K$ deve essere il punto di intersezione, diverso da $C$, del circoncircolo del triangolo $AMC$ e della linea $CN$. Prove che $\angle AKH = \angle CAM$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
-
-[[Quesiti/src_jjmo17mq_honsen#q05|src_jjmo17mq_honsen__Q05]]

@@ -38,8 +38,6 @@ level: kangourou
 
 > Aldo has five cards: for each of them on one face there is a letter of the alphabet, on the opposite face an integer. The cards are placed on the table and show the following faces: E, G, 4, 7, 8. Aldo declares that, for each card, if on one face there is a vowel, on the opposite face there is an even number. Marta wants to check if Aldo's telling the truth, but she wants to turn over as few cards as possible. How many cards will she have to turn over at most? A) 1           B) 2             C) 3            D) 4            E) 5
 
-[[Quesiti/src_kangourou_2023_cadet_semifinale#q01|src_kangourou_2023_cadet_semifinale__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,skill_modellizzazione"></span>
@@ -71,8 +69,6 @@ level: kangourou
 
 > There are two guards in a power station. There are also two safety sound signals: one rings every two minutes, the other rings every three minutes. When they ring at the same time, you hear a single ring. At 12:00 they rang at the same time and there was only one guard in the station; when the second guard entered the station, they rang again at the same time and, from 12:00 to that instant included, the first guard, always present, heard 13 bells. What time did the second guard enter the station? A) 12:12         B) 12:15          C) 12:18            D) 12:24           E) 12:30
 
-[[Quesiti/src_kangourou_2023_cadet_semifinale#q02|src_kangourou_2023_cadet_semifinale__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica"></span>
@@ -102,8 +98,6 @@ level: kangourou
 
 > (Points 3) Clara wrote an integer number of three digits, Dalia wrote the number that has the same digits as Clara's, but written in opposite order (i.e., in the two numbers, the hundreds digit and the units digit are exchanged, while the tens digit is the same). Which of the answers listed could be the difference between Clara's number and Dalia's? A) 378             B) 295            C) 196                D) 495             E) 504
 
-[[Quesiti/src_kangourou_2023_cadet_semifinale#q03|src_kangourou_2023_cadet_semifinale__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -129,8 +123,6 @@ level: kangourou
 *which now gives the minor acute angle*
 
 > (Points 4) In which of the following hours and minutes do the two hands of a clock (with a 12-hour dial) form the minor acute angle? A) 02:11             B) 04:22               C) 06:33            D) 08:44              E) 10:55
-
-[[Quesiti/src_kangourou_2023_cadet_semifinale#q04|src_kangourou_2023_cadet_semifinale__Q04]]
 
 
 
@@ -165,8 +157,6 @@ level: kangourou
 
 > (Points 4) In the figure you see a decorated window. Half-circles and quarter-circles that you see are all colorless and all have the same radius. From the surface of the entire window, what fraction has been coloured? (Consider the dividing lines and edges as having no area.) A) π/4 B) (π – 3)/4 C) 1 – π/4 D) (3π/4) – 1 E) (4 – π)/2
 
-[[Quesiti/src_kangourou_2023_cadet_semifinale#q05|src_kangourou_2023_cadet_semifinale__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_casi_conteggio,skill_casework_accurato"></span>
@@ -194,8 +184,6 @@ level: kangourou
 *Numbers <40 with sum of squares perfect square digits*
 
 > (Points 4) How many positive integers less than 40 have the property that the sum of the squares of their two digits is itself a perfect square? (Numbers must be thought of as two digits anyway, for example 4 must be thought of as 04.) A) 1 B) 9 C) 12 D) 13 E) 14
-
-[[Quesiti/src_kangourou_2023_cadet_semifinale#q06|src_kangourou_2023_cadet_semifinale__Q06]]
 
 
 
@@ -228,8 +216,6 @@ level: kangourou
 > this information, how many attempts will be needed, at most, to open the safe?
 > A) 4           B) 8            C) 12           D) 16           E) 20
 
-[[Quesiti/src_kangourou_2023_cadet_semifinale#q07|src_kangourou_2023_cadet_semifinale__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,skill_casework_accurato"></span>
@@ -256,8 +242,6 @@ level: kangourou
 *minimum sum*
 
 > (Points 5) Three whole numbers are given each of three digits (i.e. the first digit of each cannot be 0) which we denote with TAP, BAT and CAD where each letter represents a digit, different letters different digits. What's the smallest possible value for the sum of these three numbers? A) 600           B) 610           C) 615          D) 730           E) 732
-
-[[Quesiti/src_kangourou_2023_cadet_semifinale#q08|src_kangourou_2023_cadet_semifinale__Q08]]
 
 
 
@@ -290,8 +274,6 @@ level: kangourou
 > (Points 6) Three spheres of radius 1 are arranged in space so that their centers form an equilateral triangle of side 3. What is the largest number of parts in which the three spheres can be divided by cutting the spheres with two planes? A) 8            B) 9             C) 10             D) 11            E) 12
 > 
 > Open-ended questions
-
-[[Quesiti/src_kangourou_2023_cadet_semifinale#q09|src_kangourou_2023_cadet_semifinale__Q09]]
 
 
 
@@ -367,8 +349,6 @@ level: kangourou
 
 > (Points 4) In the triangle ABC shown in the figure, the altitude EC drawn from C meets the bisector AD of angle BAC at the point O. The ABC angle is 60 degrees, the AOE angle is 70. How many degrees does the ACB angle measure?
 
-[[Quesiti/src_kangourou_2023_cadet_semifinale#q10|src_kangourou_2023_cadet_semifinale__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
@@ -398,8 +378,6 @@ level: kangourou
 
 > Maurizio and Carlo each have a box of balls. Each ball weighs a whole number of grams; in each of the boxes, the balls all have the same weight, but those in Maurizio's box are lighter than those in Carlo's box. Multiplying the weight of one of Maurizio's balls by that of one of Carlo's balls gives 81; adding up the weights of all the balls gives 1001. How many grams does each of Maurizio's balls weigh?
 
-[[Quesiti/src_kangourou_2023_cadet_semifinale#q11|src_kangourou_2023_cadet_semifinale__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato"></span>
@@ -424,8 +402,6 @@ level: kangourou
 *n is 23*
 
 > (Points 5) How many positive integers are n such that the rest of division 2023: n is 23?
-
-[[Quesiti/src_kangourou_2023_cadet_semifinale#q12|src_kangourou_2023_cadet_semifinale__Q12]]
 
 
 
@@ -453,8 +429,6 @@ level: kangourou
 *how many*
 
 > (6 points) Some numbers, all different from each other, are written next to distinct points of a circle so that each is the product of the two numbers written adjacent to it. How many numbers are written?
-
-[[Quesiti/src_kangourou_2023_cadet_semifinale#q13|src_kangourou_2023_cadet_semifinale__Q13]]
 
 
 
@@ -520,8 +494,6 @@ level: kangourou
 
 > (Points 6) In each of the five numbered sectors into which the circle is divided, one of the letters A, B, C, D, E (different letters for different sectors) should be inserted so that the letters A and B are not in adjacent sectors. In how many different ways can the insertion be made?
 
-[[Quesiti/src_kangourou_2023_cadet_semifinale#q14|src_kangourou_2023_cadet_semifinale__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,method_backward,skill_manipolazione_algebrica"></span>
@@ -547,8 +519,6 @@ level: kangourou
 Find n *
 
 > Gaia plays like that. He writes an integer n, then he multiplies it randomly or by 5 or by 6. To the product he randomly adds either 5 or 6. From the sum he randomly subtracts either 5 or 6. If the end result is 78, what number is n?
-
-[[Quesiti/src_kangourou_2023_cadet_semifinale#q15|src_kangourou_2023_cadet_semifinale__Q15]]
 
 
 
@@ -578,8 +548,6 @@ Find n *
 
 > (Points 7) The number 7 2 3 1 1 2 3 7 7 2 1 3 7 3 2 1 is given: from it you want to eliminate exactly one digit and get from the alignment of the remaining digits (one less than the previous one) a new number that is divisible by 9. There's a lot of different ways to do that. What is the sum of the digits that can be eliminated in varying ways?
 
-[[Quesiti/src_kangourou_2023_cadet_semifinale#q16|src_kangourou_2023_cadet_semifinale__Q16]]
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
@@ -604,8 +572,6 @@ Find n *
 *Min prime p>2 such that p3+7p2 is a perfect square*
 
 > (Points 7) What is the smallest prime integer p > 2 such that the number p3 + 7p2 is a perfect square?
-
-[[Quesiti/src_kangourou_2023_cadet_semifinale#q17|src_kangourou_2023_cadet_semifinale__Q17]]
 
 
 
@@ -638,5 +604,3 @@ Find n *
 *value of A-B*
 
 > (Points 8) Let A be the sum of the squares of all positive integers from 1 to 2,023 included and let B = (1 × 3) + (2 × 4) + (3 × 5) + ... + (2.022 × 2.024). How much is A - B? 1 5 2 3 4
-
-[[Quesiti/src_kangourou_2023_cadet_semifinale#q18|src_kangourou_2023_cadet_semifinale__Q18]]

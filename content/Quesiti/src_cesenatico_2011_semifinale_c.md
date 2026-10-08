@@ -37,7 +37,6 @@ level: nazionale
 > Borelix is so greedy with the potion made by Parabolix that he tries his best to get a taste of it even though he fell into it as a child. The druid turns to Borelix: I'll give you a sip of the potion only if you can find the first 4 significant digits of the only positive root of x2011 −x−1. What will Borelix have to answer?
 
 **Answer:** 1000
-[[Quesiti/src_cesenatico_2011_semifinale_c#q01|src_cesenatico_2011_semifinale_c__Q01]]
 
 
 
@@ -69,7 +68,6 @@ level: nazionale
 > The Gauls have been besieged! The Roman archers set themselves at the top of a battlefield shaped like a regular octagon and the areas covered by the radius of action of their infallible arches are identical circles between their tangents. The archers are sure to strike any enemy entering the area covered by their arrows. If 208 Gauls are all in random spots on the battlefield, how many will be hit on average?
 
 **Answer:** 0101
-[[Quesiti/src_cesenatico_2011_semifinale_c#q02|src_cesenatico_2011_semifinale_c__Q02]]
 
 
 
@@ -103,7 +101,6 @@ level: nazionale
 > An unremembered emperor Julius Caesar has closed the fortress where he hides his war strategies with a lock whose combination is a number between 0000 and 9999. The Emperor knows that the combination he has chosen is the product of the two-digit numbers whose square has the units and decimal digits equal to the respective digits of the starting number (which is between 10 and 99). But, as you know, too much glory is given to the head and Julius Caesar has forgotten the combination. Then he orders him to call Abacus, who as soon as he arrives opens the lock. What combination did Julius Caesar choose?
 
 **Answer:** 1900
-[[Quesiti/src_cesenatico_2011_semifinale_c#q03|src_cesenatico_2011_semifinale_c__Q03]]
 
 
 
@@ -135,7 +132,6 @@ level: nazionale
 > Potion first Parabolix while preparing the magic potion reveals to Borelix that this time to defeat the Romans will suffice a quantity (in milliliters) equal to the sum of the first three numeric numbers of four digits with the property that the number formed by the first digit is first, that formed by the first two digits is first, and so on (e.g. 3797 being 3, 37, 379 and 3797 prime). How many milliliters of potion does Parabolix prepare?
 
 **Answer:** 7065
-[[Quesiti/src_cesenatico_2011_semifinale_c#q04|src_cesenatico_2011_semifinale_c__Q04]]
 
 
 
@@ -168,7 +164,6 @@ level: nazionale
 > Left alone by Borelix, engaged as usual in an incursion against the Romans, the dog Idealix decides to spend time jumping over points of a length of circumference 6. At each jump it has a 1/2 chance of moving clockwise or counterclockwise and the jump width (measured along the circumference) increases gradually: the first jump has a width of n+1. What are the chances that after 2011 jumps will return to the starting point? Write the first four digits after the comma.
 
 **Answer:** 0000
-[[Quesiti/src_cesenatico_2011_semifinale_c#q05|src_cesenatico_2011_semifinale_c__Q05]]
 
 
 
@@ -202,7 +197,6 @@ level: nazionale
 > Abelix and the magic plant Parabolix must prepare a new magic potion and to do so he needs a plant that grows beyond the forest of Sternbrocaud. So send Abelix to pick this plant. Abelix knows that the plant is 20km away from him, while halfway there is the centre of the Sternbrocaud forest, which is shaped like a circle with a radius of 5km. Abelix also knows that inside the forest it travels at 5km/h while outside it travels at 10km/h. What is the minimum time in minutes that Abelix takes to reach the plant?
 
 **Answer:** 0135
-[[Quesiti/src_cesenatico_2011_semifinale_c#q06|src_cesenatico_2011_semifinale_c__Q06]]
 
 
 
@@ -245,7 +239,6 @@ Maximum number of women on the short sides of tables (links)
 > 2/2 Team competition 2011  Semifinal C  Problem tests
 
 **Answer:** 0013
-[[Quesiti/src_cesenatico_2011_semifinale_c#q07|src_cesenatico_2011_semifinale_c__Q07]]
 
 
 
@@ -279,7 +272,6 @@ Maximum number of women on the short sides of tables (links)
 > A particularly valuable object belonging to the Gauls is a curious clessandra, located within a triangle. This triangle, called ABC, was constructed as follows: two points D and E were taken, respectively on AC and BC, such that DE was parallel to AB, and two points F and G on AB such that DG was parallel to BC, EF parallel to AC, and DE = FG. Calling P the intersection between DG and EF, and knowing that AB = 91, that the area of the triangle is 4173 and that the BCA angle measures 45°, would you be able to calculate the area of the AFPD polygon?
 
 **Answer:** 1391
-[[Quesiti/src_cesenatico_2011_semifinale_c#q08|src_cesenatico_2011_semifinale_c__Q08]]
 
 
 
@@ -312,7 +304,6 @@ Other travel *
 > The three Borelix towers must overcome one of the twelve tasks imposed by Julius Caesar, for this purpose it transports a pile of 7 heavy stone discs from a pedana in the temple of Julius Caesar to an identical one in that of Cleopatra. The discs are of 7 different sizes, must be carried one at a time and can only be placed on a larger disc or on a free pedal. Initially, the discs are stacked in order from the largest (located on the pedal) to the smallest (top). Borelix has the impression that there is no
 
 **Answer:** 0088
-[[Quesiti/src_cesenatico_2011_semifinale_c#q09|src_cesenatico_2011_semifinale_c__Q09]]
 
 
 
@@ -343,7 +334,6 @@ Other travel *
 > Little Unosuix, one of Parabolix's most promising students, takes time to write down all the positive integers minus 2011. How many times will he use the number 8?
 
 **Answer:** 0601
-[[Quesiti/src_cesenatico_2011_semifinale_c#q10|src_cesenatico_2011_semifinale_c__Q10]]
 
 
 
@@ -377,7 +367,6 @@ Other travel *
 > Parabolix suspects that, once again, some Romans disguised themselves as Gauls and infiltrated the village. Knowing the superiority of the Gauls over the Romans in mathematics (not at all was he to teach it to the village), to identify them tried to submit to all the following question. If f is a function such that f(x) + f(1 1−x) = x, x =0.1. Determine the f ((10). Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
 
 **Answer:** 1171
-[[Quesiti/src_cesenatico_2011_semifinale_c#q11|src_cesenatico_2011_semifinale_c__Q11]]
 
 
 
@@ -409,7 +398,6 @@ This is the total value of the securities issued by the issuer.
 > Numeroprimus and the boredom mediating a truce The Romans decided to take turns in attacking the village, so that every legionary could recover from bruises and bruises. However, the long waiting days must also be fought. The legionnaire Numeroprimus, for example, has given himself to mathematics and is writing a sequence of integers a1, a2,... so that the mean of the first n numbers is exactly n, for each n. How much is 2011?
 
 **Answer:** 4021
-[[Quesiti/src_cesenatico_2011_semifinale_c#q12|src_cesenatico_2011_semifinale_c__Q12]]
 
 
 
@@ -444,7 +432,6 @@ This is the total value of the securities issued by the issuer.
 > The Romans besieged the village of the Gauls and intended to build arrows to bring down the walls. The Welsh have a catapult that can destroy their fins, but it can't hit them if they're closer than 30 steps or more than 150 steps away from the walls. In addition, a kite travels 40 steps per minute, a catapult launches a stroke per minute and hits the kite with a probability of 10 d where d is the distance (in steps) of the kite from the walls. The Romans send the kite one at a time, they want more than a 50% chance of getting at least one kite to the walls and they build the minimum number of kite that allows it. What's the probability in this case? Provide the first four digits after the comma as the answer.
 
 **Answer:** 7346
-[[Quesiti/src_cesenatico_2011_semifinale_c#q13|src_cesenatico_2011_semifinale_c__Q13]]
 
 
 
@@ -480,7 +467,6 @@ This is the total value of the securities issued by the issuer.
 > A drunken transport The Romans look for a bottle of magic potion scattered among an entire cellar of identical bottles of wine. To bring the sticks to the camp, where the centurion will taste them one by one, a circular caravan of 1,196 steps is arranged, with the cellar and the camp diametrically opposite. Numerous carriages, all identical, form the caravan at 26 steps away from each other, going with the barrels and returning empty. To allow the centurion to dispense the wine, between two wagons carrying barrels, an increasing number of wagons are left empty: first 1, then 2, 3, 4, .... When the first carriage leaves empty again, the number of cans still to load is 4/5 of the total. How many empty wagons arrive at the camp between the first and last batch? (Non-empty wagons each carry the same number of barrels.)
 
 **Answer:** 0990
-[[Quesiti/src_cesenatico_2011_semifinale_c#q14|src_cesenatico_2011_semifinale_c__Q14]]
 
 
 
@@ -518,7 +504,6 @@ This is the total value of the securities issued by the issuer.
 > Invincible Cohorts The centurion Gruppus Abelianus was commissioned to prepare a legionary cohort for the next attack on the village of the Gauls. Its task is to arrange all the legionaries in a tight rectangle, composed of rows all equal and of the minimum possible length (but greater than 1). After a few hours of unsuccessful work, Abelianus goes to Julius Caesar and complains: "We are Julius Caesar, I tried to arrange the soldiers in line for 2, for 3, for 4, for 5 and so on until I arranged them in line for 10, but in all cases a legionary always advanced. How can I do? Julius Caesar answers without delay:Centurion Abelianus, the number of legionaries to be deployed in each row must certainly be greater than 10, and Julius Caesar is sure  Julius Caesar always speaks of himself in the third person  that it is possible to deploy legionaries so that he does not add any. Knowing that the legionaries in total are more than 10000 but less than 11000, in how many rows will they be deployed?
 
 **Answer:** 0593
-[[Quesiti/src_cesenatico_2011_semifinale_c#q15|src_cesenatico_2011_semifinale_c__Q15]]
 
 
 
@@ -559,4 +544,3 @@ This is the total value of the securities issued by the issuer.
 > This year's event is the 12th national semi-final. The problem
 
 **Answer:** 0010
-[[Quesiti/src_cesenatico_2011_semifinale_c#q16|src_cesenatico_2011_semifinale_c__Q16]]

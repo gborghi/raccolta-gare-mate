@@ -40,7 +40,6 @@ level: kangourou
 > On the train journey to Mirabilandia, Lisa sits in the seventh carriage from the train's head, while Marco sits in the sixth carriage from the tail; Marco is closer than Lisa to the train's head and among their carriages there is another carriage. How many carriages is the train made of? (a) 15 (b) 14 (c) 13 (d) 10 (e) indefinite reply
 
 **Answer:** D
-[[Quesiti/src_kangourou_2003_student#q01|src_kangourou_2003_student__Q01]]
 
 
 
@@ -77,7 +76,6 @@ level: kangourou
 > The area of the square in Figure 1 is a; we call b the area of each of the circles in Figures 1 and 2. In Figure 2, the three aligned circles are enclosed by a rubber band. If the elastic is shortened so that it is in tension, without changing the position of the three circles, what is the area of the figure bounded by the elastic? A) 3b B) 2a+b C) a+2b D) 3a E) a+b
 
 **Answer:** B
-[[Quesiti/src_kangourou_2003_student#q02|src_kangourou_2003_student__Q02]]
 
 
 
@@ -112,7 +110,6 @@ level: kangourou
 > Andrea calculated the volume of a sphere, but, in applying the known formula, he mistakenly used the diameter instead of the radius. What should he do with the result to get the right answer? A) Divide it by two B) Divide it by four. C) Divide it by six. D) Divide it by eight. E) Divide it by 16. n+2003        n+2003
 
 **Answer:** D
-[[Quesiti/src_kangourou_2003_student#q03|src_kangourou_2003_student__Q03]]
 
 
 
@@ -148,7 +145,6 @@ level: kangourou
 > C) 4                D)  4                 E) 4
 
 **Answer:** B
-[[Quesiti/src_kangourou_2003_student#q04|src_kangourou_2003_student__Q04]]
 
 
 
@@ -203,7 +199,6 @@ level: kangourou
 > Kang 2003
 
 **Answer:** E
-[[Quesiti/src_kangourou_2003_student#q05|src_kangourou_2003_student__Q05]]
 
 
 
@@ -239,7 +234,6 @@ level: kangourou
 > The average number of students promoted by a particular school in the four years 1999 to 2002 was 325 students per year, while in the five years 1999 to 2003 the average was 20% higher. How many students were promoted from the school in 2003? A)  650 B)  600 C)  455 D)  390 E)  345
 
 **Answer:** A
-[[Quesiti/src_kangourou_2003_student#q06|src_kangourou_2003_student__Q06]]
 
 
 
@@ -271,7 +265,6 @@ level: kangourou
 > Let's draw two dice (with the faces numbered 1 to 6, as usual), look at the scores on the upper faces and calculate the difference. What is the most likely value for the absolute value of that difference? A) All numbers between 0 and 5 are equally likely B) 0 C) 1 D) 2 E) 3
 
 **Answer:** C
-[[Quesiti/src_kangourou_2003_student#q07|src_kangourou_2003_student__Q07]]
 
 
 
@@ -306,7 +299,6 @@ level: kangourou
 > The set of all the values of the parameter m for which the curves of equations x2+y2 = 1 and y = x2+m have exactly one point in common is A) {-5/4, -1, 1} B) {-5/4, 1} C) {-1, 1} D) {-5/4} E) {1}
 
 **Answer:** E
-[[Quesiti/src_kangourou_2003_student#q08|src_kangourou_2003_student__Q08]]
 
 
 
@@ -344,7 +336,6 @@ How to cover a chessboard with dominoes
 > How many distinct ways are there to cover all the white squares on the chessboard in the figure, using the usual 1 x 2 dominoes? A) 8 B) 16 C) 32 D) 64 E) 128
 
 **Answer:** B
-[[Quesiti/src_kangourou_2003_student#q09|src_kangourou_2003_student__Q09]]
 
 
 
@@ -385,7 +376,6 @@ How to cover a chessboard with dominoes
 > We build a numerical triangle by putting a whole number greater than 1 in each box, following the instructions below. Which of the following numbers cannot appear in the shadow box? Instructions A) 60 B) 88 C) 90 D) 100 E) 154 Questions from N. 11 to N. 20 are worth four points.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2003_student#q10|src_kangourou_2003_student__Q10]]
 
 
 
@@ -454,7 +444,6 @@ How to cover a chessboard with dominoes
 > Kang 2003
 
 **Answer:** C
-[[Quesiti/src_kangourou_2003_student#q11|src_kangourou_2003_student__Q11]]
 
 
 
@@ -497,7 +486,6 @@ How to cover a chessboard with dominoes
 > E) 1/9
 
 **Answer:** A
-[[Quesiti/src_kangourou_2003_student#q12|src_kangourou_2003_student__Q12]]
 
 
 
@@ -529,7 +517,6 @@ How to cover a chessboard with dominoes
 > A) 2000 B) 2001 C) 2002 D) 2003 E) 2004
 
 **Answer:** B
-[[Quesiti/src_kangourou_2003_student#q13|src_kangourou_2003_student__Q13]]
 
 
 
@@ -565,7 +552,6 @@ How to cover a chessboard with dominoes
 > 12, 13 and 15 are the lengths (not necessarily in this order) of two sides of an acute triangle and the height relative to the third side. Determine the area of the triangle. (a) 168 (b) 80 (c) 84 (d) 6 (e) the area is not uniquely determined
 
 **Answer:** C
-[[Quesiti/src_kangourou_2003_student#q14|src_kangourou_2003_student__Q14]]
 
 
 
@@ -600,7 +586,6 @@ How to cover a chessboard with dominoes
 > A computer prints the list of the seventh powers of the natural numbers, namely the sequence 17, 27, 37, ... and so on. How many terms in this sequence are strictly understood between the numbers 521 and 249? A)  13 B)  8 C)  5 D)  3 E)  2
 
 **Answer:** E
-[[Quesiti/src_kangourou_2003_student#q15|src_kangourou_2003_student__Q15]]
 
 
 
@@ -635,7 +620,6 @@ How to cover a chessboard with dominoes
 > Now, since 10^n+1 is a multiple of 101 and n is a two-digit number, what's the maximum possible value for n? A) 92 B) 94 C)  96 D)  98 E) 99
 
 **Answer:** D
-[[Quesiti/src_kangourou_2003_student#q16|src_kangourou_2003_student__Q16]]
 
 
 
@@ -673,7 +657,6 @@ How to cover a chessboard with dominoes
 > The figure shows two squares, with sides of 2 m and 1 m respectively. What's the area of the shaded region? A) 1 m2 B) 2 m2 C) 2√2 m2 D) 4 m2 E) Depends on the position of the two squares
 
 **Answer:** A
-[[Quesiti/src_kangourou_2003_student#q17|src_kangourou_2003_student__Q17]]
 
 
 
@@ -704,7 +687,6 @@ How to cover a chessboard with dominoes
 > A) 2002;         B) 2020;           C) 4040;            D) 5050;            E) 8008
 
 **Answer:** D
-[[Quesiti/src_kangourou_2003_student#q18|src_kangourou_2003_student__Q18]]
 
 
 
@@ -797,7 +779,6 @@ How to cover a chessboard with dominoes
 > Kang 2003
 
 **Answer:** B
-[[Quesiti/src_kangourou_2003_student#q19|src_kangourou_2003_student__Q19]]
 
 
 
@@ -839,7 +820,6 @@ How to cover a chessboard with dominoes
 > So let's first draw an equilateral triangle, then let's draw the circle circumscribed about it; now let's circumscribe a square about this circle, and circumscribe another circle about the square; about this new circle let's circumscribe a regular pentagon, and so on. We repeat this construction, with new circumferences and new regular polygons (each having one side more than the previous one) until we trace the regular polygon of 16 sides. How many segregated regions are contained within the last polygon? A) 232 B) 240 C) 248 D) 264 E) 272 Questions from N. 21 al N. 30 is worth 5 points.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2003_student#q20|src_kangourou_2003_student__Q20]]
 
 
 
@@ -878,7 +858,6 @@ How to cover a chessboard with dominoes
 > The graph of the function f, illustrated by the figure, consists of a segment and two semirettes. What is the set of all solutions of the equation f (f (f (x)))=0? A) {-4, 0} B) {-8, -4, 0} C) {-12, -8, -4, 0} D) Empty set E) {-16, -12, -8, -4, 0}
 
 **Answer:** C
-[[Quesiti/src_kangourou_2003_student#q21|src_kangourou_2003_student__Q21]]
 
 
 
@@ -914,7 +893,6 @@ How to cover a chessboard with dominoes
 > A point P(x, r) belongs to the circle with center (2,2) and radius r. Now, knowing that r > 2 and both x and r are positive integers, what's the smallest possible value for x? A) 1 B) 2 C) 4 D) 6 E) 8
 
 **Answer:** D
-[[Quesiti/src_kangourou_2003_student#q22|src_kangourou_2003_student__Q22]]
 
 
 
@@ -955,7 +933,6 @@ How to cover a chessboard with dominoes
 > E) is a prime number
 
 **Answer:** E
-[[Quesiti/src_kangourou_2003_student#q23|src_kangourou_2003_student__Q23]]
 
 
 
@@ -1006,7 +983,6 @@ Price that maximizes profit
 > The sales manager of a department store must determine the price of a sweater. A market survey revealed the following: if the price is 75 euros, 100 people will buy the sweater; every time the price increases by 5 euros, the number of buyers decreases by 20 units, and every time the price decreases by 5 euros, 20 more sweaters are sold. The cost of the sweaters for the department store is 30 euros each. What is the selling price (in euro) that maximizes profit? A) 80 B) 50 C) 75 D) 70 E) 65 -7 -4 -3 4 4 2
 
 **Answer:** E
-[[Quesiti/src_kangourou_2003_student#q24|src_kangourou_2003_student__Q24]]
 
 
 
@@ -1117,7 +1093,6 @@ Price that maximizes profit
 > In an ABCD rectangle, P, Q and R are the midpoints of the sides BC, CD and AD, respectively, and M is the midpoint of the QR segment. What fraction of the area of ABCD is covered by the APM triangle? A) 1/4 B) 1/6 C) 3/8 D) 1/3 E) 5/16
 
 **Answer:** E
-[[Quesiti/src_kangourou_2003_student#q25|src_kangourou_2003_student__Q25]]
 
 
 
@@ -1164,7 +1139,6 @@ Price that maximizes profit
 > E) 1/6
 
 **Answer:** B
-[[Quesiti/src_kangourou_2003_student#q26|src_kangourou_2003_student__Q26]]
 
 
 
@@ -1205,7 +1179,6 @@ Price that maximizes profit
 > ABCD is a rectangle, where AB = 16, BC = 12. ACE is a right triangle with a right angle in C and CE = 15. If F is the intersection point of AE and CD, then the area of the ACF triangle is A) 75 B) 80 C) 96 D) 72 E) 48
 
 **Answer:** A
-[[Quesiti/src_kangourou_2003_student#q27|src_kangourou_2003_student__Q27]]
 
 
 
@@ -1241,7 +1214,6 @@ Price that maximizes profit
 > By associating a direction with it, Peter transforms each edge of a cube into a vector of equal length; thus adding up all 12 vectors thus obtained. How many different results can Peter achieve in this way (using all possible choices on the directions)? A) 25 B) 27 C) 64 D) 100 E) 125
 
 **Answer:** E
-[[Quesiti/src_kangourou_2003_student#q28|src_kangourou_2003_student__Q28]]
 
 
 
@@ -1275,7 +1247,6 @@ Price that maximizes profit
 > Let's consider the six vertices of a regular hexagon, and all the segments that connect any two of these points. We call two of these segments "disjoint" if they have nothing in common (including the extremes). How many pairs of "disjoint" segments are there? A) 26 B) 28 C) 30 D) 34 E) 36
 
 **Answer:** C
-[[Quesiti/src_kangourou_2003_student#q29|src_kangourou_2003_student__Q29]]
 
 
 
@@ -1323,4 +1294,3 @@ Price that maximizes profit
 > If f is a polynomial such that f (x2 + 1) = x4 + 4x2 . So f (x2 - 1) is the polynomial A) x4 - 4x2 B) x4 C) x4 + 4x2 - 4 D) x4 - 4 E) None of the previous answers is correct A B C D P Q R M A D E B C F
 
 **Answer:** D
-[[Quesiti/src_kangourou_2003_student#q30|src_kangourou_2003_student__Q30]]

@@ -34,7 +34,6 @@ level: kangourou
 > The $25 \times 2 = 211$ equation is false, but you can turn it into a correct equation by adding $1$ to some of its digits and subtracting $1$ from the others. Write this new correct equation, motivating.
 
 **Answer:** 34x3=102
-[[Quesiti/src_kangourou_2021_cadet_finale#q01|src_kangourou_2021_cadet_finale__Q01]]
 
 
 
@@ -68,7 +67,6 @@ level: kangourou
 > Based on this experiment, what is a reliable number for the confetti in the bag?
 
 **Answer:** 1750
-[[Quesiti/src_kangourou_2021_cadet_finale#q02|src_kangourou_2021_cadet_finale__Q02]]
 
 
 
@@ -100,7 +98,6 @@ level: kangourou
 > When you observe two spheres of different radii from a distance, they appear to you of the same size (as, for example, might happen to the sun and the moon). However, the distance of the largest from you is $100$ times the distance of the smallest (assume that the distances are estimated between you and the centers of the spheres). What is the ratio of the volume of the largest to the volume of the smallest?
 
 **Answer:** 1000000
-[[Quesiti/src_kangourou_2021_cadet_finale#q03|src_kangourou_2021_cadet_finale__Q03]]
 
 
 
@@ -129,7 +126,6 @@ level: kangourou
 > Consider the set of integers from $2$ to $2021$ included. You want to take some of them away so none of the remaining ones can be expressed as a product of two of the remaining ones. What is the minimum number you need to take away?
 
 **Answer:** 43
-[[Quesiti/src_kangourou_2021_cadet_finale#q04|src_kangourou_2021_cadet_finale__Q04]]
 
 
 
@@ -187,7 +183,6 @@ level: kangourou
 > In the figure you see a net of a cube, that is, a possible arrangement in the plane of the faces of the cube so that you can reconstruct the cube by folding the figure along the sides common to two faces. How many different nets does a cube have, considering two nets obtainable one from the other by rotations and/or reflections as identical? (see figure)
 
 **Answer:** 11
-[[Quesiti/src_kangourou_2021_cadet_finale#q05|src_kangourou_2021_cadet_finale__Q05]]
 
 
 
@@ -224,4 +219,3 @@ level: kangourou
 > b) $m = 2020$ and $n = 2021$?
 
 **Answer:** a)No b)Yes
-[[Quesiti/src_kangourou_2021_cadet_finale#q06|src_kangourou_2021_cadet_finale__Q06]]

@@ -37,8 +37,6 @@ level: Coupe Animath Printemps
 > 
 > a) Trovare tutte le posizioni iniziali possibili.
 
-[[Quesiti/src_canimath_2018_printemps#q01|src_canimath_2018_printemps__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -68,8 +66,6 @@ level: Coupe Animath Printemps
 > 
 > b) Let $A = (1 + 1/2 + 1/3 + \cdots + 1/2017)/2017$ e $B = (1 + 1/2 + 1/3 + \cdots + 1/2018)/2018$. Mostra che $A > B$.
 
-[[Quesiti/src_canimath_2018_printemps#q02|src_canimath_2018_printemps__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_lettura_attenta,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -94,8 +90,6 @@ level: Coupe Animath Printemps
 *Ricerca tutte le n uguali alla somma dei quadrati dei suoi due più piccoli divisori*
 
 > $n$ sia un numero intero positivo. Scrivere $1 = d_1 < d_2 < \cdots < d_k = n$ per i suoi divisori. Ci viene data quella $n = d_1^2 + d_2^2$. Determinare tutti i possibili valori di $n$.
-
-[[Quesiti/src_canimath_2018_printemps#q03|src_canimath_2018_printemps__Q03]]
 
 
 
@@ -122,8 +116,6 @@ level: Coupe Animath Printemps
 
 > Trova tutti i numeri reali $a$ in modo tale che $a + \frac{1}{2}$ e $\frac{1}{a} - \frac{1}{2}$ siano entrambe enti.
 
-[[Quesiti/src_canimath_2018_printemps#q04|src_canimath_2018_printemps__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -148,8 +140,6 @@ level: Coupe Animath Printemps
 *Due punti su un semicircolo di diametro AD con AB=BC=1, trovi CD*
 
 > Su un semicircolo di diametro $[AD]$, collocare due punti $B$ e $C$ in modo tale che $AB = BC = 1$. Supponiamo $AD = 3$. Calcolare la lunghezza $CD$.
-
-[[Quesiti/src_canimath_2018_printemps#q05|src_canimath_2018_printemps__Q05]]
 
 
 
@@ -182,8 +172,6 @@ level: Coupe Animath Printemps
 > 
 > N.B. La media aritmetica di $a$ e $b$ è il numero $\dfrac{a+b}{2}$.
 
-[[Quesiti/src_canimath_2018_printemps#q06|src_canimath_2018_printemps__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -209,8 +197,6 @@ level: Coupe Animath Printemps
 
 > $ABCD$ sia un trapezoide con $AB + CD = AD$. Le diagonali $(AC)$ e $(BD)$ si incontrano in un punto $E$. La linea attraverso $E$ parallela a $(AB)$ incontra $(AD)$ al punto $F$. Mostra che $\widehat{BFC} = 90^\circ$.
 
-[[Quesiti/src_canimath_2018_printemps#q07|src_canimath_2018_printemps__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_estremalita,method_invarianti,skill_ragionamento_geometrico,skill_lettura_attenta,skill_modellizzazione,skill_casework_accurato"></span>
@@ -235,5 +221,3 @@ level: Coupe Animath Printemps
 Tre barre tagliate in pezzi; Daphne può garantire un triangolo di ogni colore?
 
 > Daphné e Loïs hanno tre barre di 1 metro di lunghezza ciascuna: una bianca, una blu e una rossa. Daphné taglia ciascuno dei primi due bastoni in tre pezzi, e Loïs taglia il terzo bastone in tre pezzi. È possibile che Daphné organizzi le cose in modo che, indipendentemente da ciò che Loïs fa, sia sicura di poter formare tre triangoli (non degenerati) con i nove pezzi ottenuti, in modo che ogni triangolo abbia un lato di ogni colore?
-
-[[Quesiti/src_canimath_2018_printemps#q08|src_canimath_2018_printemps__Q08]]

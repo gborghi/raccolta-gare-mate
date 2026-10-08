@@ -38,7 +38,6 @@ level: squadre
 > In the garden of Professor Abacus' villa there is a circular pool surrounded by four rectangular alleys forming a quadrilateral. The pool touches each of the four alleys and also two opposite alleys are parallel, while the other two are the same length. Knowing that the two parallels measure $3132$ and $783$ centimeters respectively, how many centimeters does the pool radius measure?
 
 **Answer:** 0783
-[[Quesiti/src_archimede_2002_squadre#q01|src_archimede_2002_squadre__Q01]]
 
 
 
@@ -2671,7 +2670,6 @@ The following points shall be added:
 >  1
 
 **Answer:** 0061
-[[Quesiti/src_archimede_2002_squadre#q02|src_archimede_2002_squadre__Q02]]
 
 
 
@@ -2704,7 +2702,6 @@ The following points shall be added:
 > During a boring class hour, Anna plays the following game. Write an integer $a_0$ on a sheet, then write a sequence of integers $a_i$ each time taking as $a_{i+1}$ or the sum of the digits from the previous number or their product. After a while, you realize that all the numbers you wrote are odd. How many $a_0$ numbers with less than twelve digits for which at any time Anna stops she is still determined to calculate $a_{i+1}$ according to the rules above will always find only odd numbers?
 
 **Answer:** 0048
-[[Quesiti/src_archimede_2002_squadre#q03|src_archimede_2002_squadre__Q03]]
 
 
 
@@ -2743,7 +2740,6 @@ The following points shall be added:
 > Bernardo can't do it, but his grandfather can't help him because he's in Beijing at the Congress of Mathematicians... Can you give him a hand?
 
 **Answer:** 1002
-[[Quesiti/src_archimede_2002_squadre#q04|src_archimede_2002_squadre__Q04]]
 
 
 
@@ -2788,7 +2784,6 @@ The following points shall be added:
 > Members of the Society hold a meeting in all accommodating and rebellious years. Knowing that Professor Abacus is 75 years old today, he joined the association when he was 15 and calculated the sum of the years of the conferences he attended.
 
 **Answer:** 3960
-[[Quesiti/src_archimede_2002_squadre#q05|src_archimede_2002_squadre__Q05]]
 
 
 
@@ -2820,7 +2815,6 @@ The following points shall be added:
 > Professor Abacus' son is an aerospace engineer. These days he's designing a piece of an orbiting station: the interlacing of the piece is a parallel piped formed by two cubes that have a face in common. On the three-dimensional representation that your computer gives of the parallel piped in a Cartesian reference three vertices of it have coordinates $(3, 6, 2)$, $(5, 2, 6)$, $(7, 7, 1)$. How much does the volume of the piece measure in $\mathrm{m}^3$ knowing that on the axes each unit represents one metre?
 
 **Answer:** 0054
-[[Quesiti/src_archimede_2002_squadre#q06|src_archimede_2002_squadre__Q06]]
 
 
 
@@ -2852,7 +2846,6 @@ The following points shall be added:
 > Professor Abacus and a colleague board a tram with 10 people on board. Professor Abacus notes that, among the passengers already present, there are exactly 3 people with blond hair and his colleague notes that, among the passengers already present, there are exactly 3 people wearing a blue jacket. What are the odds that there's at least one person wearing a blue jacket? (Calculate the probability as a percentage assuming that the two events "having blonde hair" or "wearing a blue jacket" are independent, and report the entire part of the result)
 
 **Answer:** 0070
-[[Quesiti/src_archimede_2002_squadre#q07|src_archimede_2002_squadre__Q07]]
 
 
 
@@ -2884,7 +2877,6 @@ The following points shall be added:
 > There are two frogs in Professor Abacus' house. Right now they're in one of the alleys around the pool and they're trying to reach a water well. The frog $A$ is 20 centimetres from the well, while the $B$ is behind the $A$ one metre from the well. The $B$ at each jump covers half the distance, the second covers a third, the third covers a quarter and so on. After how many jumps does$B$exceed$A$, knowing that frogs always jump at the same time?
 
 **Answer:** 0005
-[[Quesiti/src_archimede_2002_squadre#q08|src_archimede_2002_squadre__Q08]]
 
 
 
@@ -2917,7 +2909,6 @@ The following points shall be added:
 > There's a weird roulette game at Professor Abacus' house. In this roulette, there are 108 boxes in a circle, each of which has a number written on it. However, if you take 20 consecutive boxes, the sum of the numbers written in them is always equal to 1000. There is also a box in which the number 1 appears and if the others are numbered in a clockwise direction starting from it, the 19th box shows the number 19 and the 50th the number 50. What number is written in the hundredth box?
 
 **Answer:** 0130
-[[Quesiti/src_archimede_2002_squadre#q09|src_archimede_2002_squadre__Q09]]
 
 
 
@@ -2950,7 +2941,6 @@ The following points shall be added:
 > Anna was discovered by the professor while she was playing her weird game during class instead of following. Therefore, as a punishment, they are assigned to calculate how much they have in the middle of 2002 plus the $2/4$ of 2002, plus $3/8$ of 2002, plus $4/16$ of 2002 and so on going on until they stop at $20/2^{20}$-exems of 2002. But the professor realizes after a few minutes that the calculations seem too much and the punishment is too heavy. So he says to Anna, "I'll save you all these calculations if you can tell me what the maximum integer you can get by continuing to add up to $n/2^n$-hexams of 2002". Can you give me a good suggestion?
 
 **Answer:** 4003
-[[Quesiti/src_archimede_2002_squadre#q10|src_archimede_2002_squadre__Q10]]
 
 
 
@@ -2983,7 +2973,6 @@ The following points shall be added:
 > In the garden of Professor Abacus' villa, Carla is playing with rocks. Right now it's got a bunch of 1 rock, then 2 rock. Carla then moves that she has then grouped the pebbles from one side and a little from the other so that the number of pebbles found on one side is equal to the number of pebbles found on the other side; moreover, if she moves a certain pebble from one side to the other, the one with more pebbles has exactly $4/3$ of the other. Carla, who already lives in these things and is already very good at math, wants the two observations to move: if you did it with $m > n$ the thing could not have happened. How much is$n$?
 
 **Answer:** 0027
-[[Quesiti/src_archimede_2002_squadre#q11|src_archimede_2002_squadre__Q11]]
 
 
 
@@ -3016,7 +3005,6 @@ The following points shall be added:
 > On his square notebook Bernardo is about to draw a triangle of vertices $(0, 0)$, $(1, n)$ and $(n, 1)$. What is the smallest $n$ to choose for at least 2002 whole-coordinate * inner * points in the triangle?
 
 **Answer:** 0064
-[[Quesiti/src_archimede_2002_squadre#q12|src_archimede_2002_squadre__Q12]]
 
 
 
@@ -3049,7 +3037,6 @@ The following points shall be added:
 > The square in front of Professor Abacus' house is a regular octagon. Knowing that the distance between the centre of the square and any of the vertices is 10 metres, the first four digits of the product of the measurements (in metres) of the segments connecting $A$ with all the other vertices are calculated.
 
 **Answer:** 1024
-[[Quesiti/src_archimede_2002_squadre#q13|src_archimede_2002_squadre__Q13]]
 
 
 
@@ -3081,7 +3068,6 @@ The following points shall be added:
 > This time Carla's playing with some colorful cards. He just divided them into a number of heaps, which we'll call$A_i$, all containing at least two balls. By observing it bearingly as he reads the newspaper, he fixes the $A_i$ stack and distractively calculates the $c_i$ number of all the pairs of balls belonging to both $A_i$. You then notice that the sum of all the $c_i$ is 100 and that the same thing happens when you look at the ternes and the quaternes. Can you tell me how many balls Carla has?
 
 **Answer:** 0092
-[[Quesiti/src_archimede_2002_squadre#q14|src_archimede_2002_squadre__Q14]]
 
 
 
@@ -3114,7 +3100,6 @@ This is the total amount of the loan.
 > Professor Abacus organizes the Matelandia team competition every year. This year there are 25 questions and a single team can score either 0 or 1 point in each question. What is the minimum number of teams that must participate in order for there to be two teams of equal merit?
 
 **Answer:** 0099
-[[Quesiti/src_archimede_2002_squadre#q15|src_archimede_2002_squadre__Q15]]
 
 
 
@@ -3146,7 +3131,6 @@ This is the total amount of the loan.
 > As you already know, Professor Abacus organizes the Matelandia team competition every year. As usual, this year too, he is in a delay: he has yet to enter three problems to complete the race. Therefore, desperate, he begins to search the web for problems that he can modify for the race. Professor Abacus himself has estimated that for every problem he finds only $1/4$ of probability that it is suitable for the team competition. He still has an hour: assuming that it takes ten minutes to examine a problem, what are the chances that he will be able to complete the race text in time? (Calculate the probability as a percentage assuming that the probability of a particular problem going well is independent of the goodness of the previous problems, and give the whole part of the result in the answer)
 
 **Answer:** 0016
-[[Quesiti/src_archimede_2002_squadre#q16|src_archimede_2002_squadre__Q16]]
 
 
 
@@ -3178,7 +3162,6 @@ This is the total amount of the loan.
 > The window of Professor Abacus's study shows a garden in the shape of an isosceles triangle $ABC$ whose angle at the apex $A$ measures 20 degrees. The garden is crossed by three avenues: one joins a point $D$ of $AB$ with the summit $C$, the other joins a point $E$ of $AC$ with the third joining $D$ with $E$. Knowing that $\angle EBA$ and $\angle DCA$ measure 20 and 30 degrees respectively, the width of $\angle BED$ is determined.
 
 **Answer:** 0030
-[[Quesiti/src_archimede_2002_squadre#q17|src_archimede_2002_squadre__Q17]]
 
 
 
@@ -3211,7 +3194,6 @@ This is the total amount of the loan.
 > Professor Abacus usually takes the tram 32 to go to work at the university. However, this morning he's late and has to take the 54 tram. "Buffo"  thinks Abacus  "the smallest perfect square that is multiple of 54 gives the civic number of my house". What is the civic number of the building where the professor lives?
 
 **Answer:** 0324
-[[Quesiti/src_archimede_2002_squadre#q18|src_archimede_2002_squadre__Q18]]
 
 
 
@@ -3243,7 +3225,6 @@ This is the total amount of the loan.
 > The coat of arms of the University of Matelandia consists of two inner tangent circles in a point $P$. One member enjoyed drawing a string $AB$ from the larger circle tangent to the smaller circle on the rectory door badge and drawing the two lines joining $A$ and $B$ with $P$. We call $D$ and $E$ the intersections of $AP$ and $BP$ with the smallest circle, respectively. Knowing that $AB = 196$, $PD = 17$ and $PE = 11$ calculate $AC$.
 
 **Answer:** 0119
-[[Quesiti/src_archimede_2002_squadre#q19|src_archimede_2002_squadre__Q19]]
 
 
 
@@ -3275,7 +3256,6 @@ This is the total amount of the loan.
 > In his spare time, Professor Abacus enjoys abstract sculpture. From a 20-centimeter-long wooden cube he draws a sculpture that is given by the union of two tetrahedra. The first has as vertices two vertices of the cube that are on the same face and two vertices that are on the diagonal of the cube; the second is obtained by rotating the first 90 degrees around the center of the cube. What is the volume of the sculpture in$\mathrm{cm}^3$?
 
 **Answer:** 4000
-[[Quesiti/src_archimede_2002_squadre#q20|src_archimede_2002_squadre__Q20]]
 
 
 
@@ -3308,7 +3288,6 @@ This is the total amount of the loan.
 > Professor Abacus is a candidate for president of the Society of Mathematicians. The committee electing the President shall be composed of nine members and shall select from among the three candidates as follows: each elector shall write the names of the three candidates in the order of preference by awarding 3 points to the first, 2 to the second and 1 to the third. The points earned by each candidate are then added and the final ranking is drawn up. At the end of the election, each candidate received a different score and unfortunately Professor Abacus came third. As if it were not enough to observe that if the election had taken place in the usual way (i.e. if each voter had only awarded one point to the preferred candidate) the ranking would have been exactly the opposite! Write down the product of the scores received by the three candidates.
 
 **Answer:** 5814
-[[Quesiti/src_archimede_2002_squadre#q21|src_archimede_2002_squadre__Q21]]
 
 
 
@@ -3351,7 +3330,6 @@ This is the total amount of the loan.
 > How many combinations do you have left to try on the professor?
 
 **Answer:** 0284
-[[Quesiti/src_archimede_2002_squadre#q22|src_archimede_2002_squadre__Q22]]
 
 
 
@@ -3383,7 +3361,6 @@ This is the total amount of the loan.
 > Anna just drew a triangle using her reel and made each side an odd number of centimeters. How many triangles of this kind can he draw, considering that his rectangle does not allow for measurements of more than six inches [35 cm]? (NB: Two triangles are considered different only if they are not congruent)
 
 **Answer:** 0615
-[[Quesiti/src_archimede_2002_squadre#q23|src_archimede_2002_squadre__Q23]]
 
 
 
@@ -3416,7 +3393,6 @@ This is the total amount of the loan.
 > Bernardo's playing with his mechanic. It can construct two side cubes $a$ and $b$ with $a < b$. Then it disassembles the two cubes and by putting together the various sides of the previous one it builds a larger cube, side $c = a + b$. The volume of the new cube exceeds by $450 \ \mathrm{cm}^3$ the sum of the volumes of the other 2. Finally, Bernardo dismantles again what he has built and assembles a rectangular parallel piped whose sides measure $a$, $b$ and $c$. How much does the volume of the parallel piped measure (in $\mathrm{cm}^3$)?
 
 **Answer:** 1500
-[[Quesiti/src_archimede_2002_squadre#q24|src_archimede_2002_squadre__Q24]]
 
 
 
@@ -3449,4 +3425,3 @@ This is the total amount of the loan.
 > Carla's playing with electric trains. He's currently handling five tracks of different lengths. Taking all possible pairs of tracks and adding the lengths of the elements of each pair gives the numbers 183, 186, 187, 190, 191, 192, 193, 194, 196 and 200. What's the length of the shortest track?
 
 **Answer:** 0091
-[[Quesiti/src_archimede_2002_squadre#q25|src_archimede_2002_squadre__Q25]]

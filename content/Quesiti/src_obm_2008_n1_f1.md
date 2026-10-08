@@ -39,7 +39,6 @@ level: OBM Nível 1
 > A) 4 $\quad$ B) 5 $\quad$ C) 6 $\quad$ D) 7 $\quad$ E) 8
 
 **Risposta:** A
-[[Quesiti/src_obm_2008_n1_f1#q01|src_obm_2008_n1_f1__Q01]]
 
 
 
@@ -87,7 +86,6 @@ level: OBM Nível 1
 > E) $50 - \left[5 \times (4{,}70 + 3{,}12) + 6{,}80\right]$
 
 **Risposta:** D
-[[Quesiti/src_obm_2008_n1_f1#q02|src_obm_2008_n1_f1__Q02]]
 
 
 
@@ -128,7 +126,6 @@ level: OBM Nível 1
 > A) I, II, III $\quad$ B) I, III, II $\quad$ C) II, I, III $\quad$ D) II, III, I $\quad$ E) III, II, I
 
 **Risposta:** B
-[[Quesiti/src_obm_2008_n1_f1#q03|src_obm_2008_n1_f1__Q03]]
 
 
 
@@ -160,7 +157,6 @@ level: OBM Nível 1
 > A) $1043$ e $22$ $\quad$ B) $1044$ e $22$ $\quad$ C) $143$ e $22$ $\quad$ D) $1044$ e $3$ $\quad$
 
 **Risposta:** A
-[[Quesiti/src_obm_2008_n1_f1#q04|src_obm_2008_n1_f1__Q04]]
 
 
 
@@ -193,7 +189,6 @@ level: OBM Nível 1
 > A) 2 $\quad$ B) 6 $\quad$ C) 20 $\quad$ D) 41 $\quad$ E) 62
 
 **Risposta:** B
-[[Quesiti/src_obm_2008_n1_f1#q05|src_obm_2008_n1_f1__Q05]]
 
 
 
@@ -229,7 +224,6 @@ level: OBM Nível 1
 ![[src_obm_2008_n1_f1__q06.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2008_n1_f1#q06|src_obm_2008_n1_f1__Q06]]
 
 
 
@@ -262,7 +256,6 @@ level: OBM Nível 1
 > A) 1 $\quad$ B) 4 $\quad$ C) 6 $\quad$ D) 6 $\quad$ E) 8
 
 **Risposta:** B
-[[Quesiti/src_obm_2008_n1_f1#q07|src_obm_2008_n1_f1__Q07]]
 
 
 
@@ -295,7 +288,6 @@ level: OBM Nível 1
 > A) 1004 $\quad$ B) 1005 $\quad$ C) 2007 $\quad$ D) 2008 $\quad$ E) 4016
 
 **Risposta:** C
-[[Quesiti/src_obm_2008_n1_f1#q08|src_obm_2008_n1_f1__Q08]]
 
 
 
@@ -331,7 +323,6 @@ level: OBM Nível 1
 ![[src_obm_2008_n1_f1__q09.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2008_n1_f1#q09|src_obm_2008_n1_f1__Q09]]
 
 
 
@@ -364,7 +355,6 @@ level: OBM Nível 1
 > A) 20 $\quad$ B) 48 $\quad$ C) 100 $\quad$ D) 125 $\quad$ E) 225
 
 **Risposta:** E
-[[Quesiti/src_obm_2008_n1_f1#q10|src_obm_2008_n1_f1__Q10]]
 
 
 
@@ -396,7 +386,6 @@ level: OBM Nível 1
 > A) 2 $\quad$ B) 3 $\quad$ C) 4 $\quad$ D) 5 $\quad$ E) 6
 
 **Risposta:** E
-[[Quesiti/src_obm_2008_n1_f1#q11|src_obm_2008_n1_f1__Q11]]
 
 
 
@@ -433,7 +422,6 @@ level: OBM Nível 1
 ![[src_obm_2008_n1_f1__q12.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2008_n1_f1#q12|src_obm_2008_n1_f1__Q12]]
 
 
 
@@ -466,7 +454,6 @@ level: OBM Nível 1
 > A) 4 $\quad$ B) 5 $\quad$ C) 6 $\quad$ D) 7 $\quad$ E) 8
 
 **Risposta:** C
-[[Quesiti/src_obm_2008_n1_f1#q13|src_obm_2008_n1_f1__Q13]]
 
 
 
@@ -502,7 +489,6 @@ level: OBM Nível 1
 ![[src_obm_2008_n1_f1__q14.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2008_n1_f1#q14|src_obm_2008_n1_f1__Q14]]
 
 
 
@@ -539,7 +525,6 @@ level: OBM Nível 1
 > A) 17 $\quad$ B) 27 $\quad$ C) 37 $\quad$ D) 47 $\quad$ E) 57
 
 **Risposta:** D
-[[Quesiti/src_obm_2008_n1_f1#q15|src_obm_2008_n1_f1__Q15]]
 
 
 
@@ -572,7 +557,6 @@ Il puzzle logico: identificare un medico, un ingegnere, un professore tra tre am
 > A) A, B, C $\quad$ B) C, A, B $\quad$ C) B, A, C $\quad$ D) B, C, A $\quad$ E) A, C, B
 
 **Risposta:** C
-[[Quesiti/src_obm_2008_n1_f1#q16|src_obm_2008_n1_f1__Q16]]
 
 
 
@@ -608,7 +592,6 @@ Il puzzle logico: identificare un medico, un ingegnere, un professore tra tre am
 ![[src_obm_2008_n1_f1__q17.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2008_n1_f1#q17|src_obm_2008_n1_f1__Q17]]
 
 
 
@@ -641,7 +624,6 @@ Il puzzle logico: identificare un medico, un ingegnere, un professore tra tre am
 > A) 130 $\quad$ B) 260 $\quad$ C) 510 $\quad$ D) 746 $\quad$ E) 1020
 
 **Risposta:** B
-[[Quesiti/src_obm_2008_n1_f1#q18|src_obm_2008_n1_f1__Q18]]
 
 
 
@@ -678,7 +660,6 @@ Il puzzle logico: identificare un medico, un ingegnere, un professore tra tre am
 ![[src_obm_2008_n1_f1__q19.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2008_n1_f1#q19|src_obm_2008_n1_f1__Q19]]
 
 
 
@@ -710,4 +691,3 @@ Il puzzle logico: identificare un medico, un ingegnere, un professore tra tre am
 > A) 20 $\quad$ B) 25{,}5 $\quad$ C) 30 $\quad$ D) 35 $\quad$ E) 37{,}5
 
 **Risposta:** E
-[[Quesiti/src_obm_2008_n1_f1#q20|src_obm_2008_n1_f1__Q20]]

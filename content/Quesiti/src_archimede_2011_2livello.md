@@ -52,7 +52,6 @@ level: 2 livello
 > - **(E)** 650<S ≤750.
 
 **Answer:** D
-[[Quesiti/src_archimede_2011_2livello#q01|src_archimede_2011_2livello__Q01]]
 
 
 
@@ -101,7 +100,6 @@ Maximum number of turtles among foxes/ snakes/turtles
 > - **(E)** There's no way to tell.
 
 **Answer:** B
-[[Quesiti/src_archimede_2011_2livello#q02|src_archimede_2011_2livello__Q02]]
 
 
 
@@ -145,7 +143,6 @@ Maximum number of turtles among foxes/ snakes/turtles
 > - **(E)** If P1(a) is 0, then Q(a) is 0.
 
 **Answer:** C
-[[Quesiti/src_archimede_2011_2livello#q03|src_archimede_2011_2livello__Q03]]
 
 
 
@@ -186,7 +183,6 @@ Maximum number of turtles among foxes/ snakes/turtles
 > - **(E)** infinite.
 
 **Answer:** B
-[[Quesiti/src_archimede_2011_2livello#q04|src_archimede_2011_2livello__Q04]]
 
 
 
@@ -231,7 +227,6 @@ Chances that Nicola will win at least 4 coins in 5 games
 > - **(E)** 2 3 5 .
 
 **Answer:** A
-[[Quesiti/src_archimede_2011_2livello#q05|src_archimede_2011_2livello__Q05]]
 
 
 
@@ -286,7 +281,6 @@ Chances that Nicola will win at least 4 coins in 5 games
 > - **(E)** 8π √ 3 cm.
 
 **Answer:** D
-[[Quesiti/src_archimede_2011_2livello#q06|src_archimede_2011_2livello__Q06]]
 
 
 
@@ -327,7 +321,6 @@ Chances that Nicola will win at least 4 coins in 5 games
 > - **(E)** 6.
 
 **Answer:** B
-[[Quesiti/src_archimede_2011_2livello#q07|src_archimede_2011_2livello__Q07]]
 
 
 
@@ -370,7 +363,6 @@ Chances that Nicola will win at least 4 coins in 5 games
 > - **(E)** 5040.
 
 **Answer:** A
-[[Quesiti/src_archimede_2011_2livello#q08|src_archimede_2011_2livello__Q08]]
 
 
 
@@ -414,7 +406,6 @@ Chances that Nicola will win at least 4 coins in 5 games
 > - **(E)** the distance depends on α.
 
 **Answer:** B
-[[Quesiti/src_archimede_2011_2livello#q09|src_archimede_2011_2livello__Q09]]
 
 
 
@@ -455,7 +446,6 @@ Chances that Nicola will win at least 4 coins in 5 games
 > - **(E)** 6662.
 
 **Answer:** E
-[[Quesiti/src_archimede_2011_2livello#q10|src_archimede_2011_2livello__Q10]]
 
 
 
@@ -498,7 +488,6 @@ Chances that Nicola will win at least 4 coins in 5 games
 > - **(E)** There are infinitely many of them.
 
 **Answer:** C
-[[Quesiti/src_archimede_2011_2livello#q11|src_archimede_2011_2livello__Q11]]
 
 
 
@@ -542,7 +531,6 @@ Chances that Nicola will win at least 4 coins in 5 games
 > - **(E)** Arbitrary length sequences that satisfy (i) and (ii) exist . Problems with numerical answer  5 points
 
 **Answer:** A
-[[Quesiti/src_archimede_2011_2livello#q12|src_archimede_2011_2livello__Q12]]
 
 
 
@@ -573,7 +561,6 @@ Chances that Nicola will win at least 4 coins in 5 games
 > Whether ABC is an equilateral triangle, let's use D, E, F to indicate the midpoints of the sides. How many non-degenerate and non-conforming triangles can be obtained by choosing 3 of the points A, B, C, D, E, F?
 
 **Answer:** 4
-[[Quesiti/src_archimede_2011_2livello#q13|src_archimede_2011_2livello__Q13]]
 
 
 
@@ -603,7 +590,6 @@ Chances that Nicola will win at least 4 coins in 5 games
 > How many pairs (x, y) of relative integers do you find that y4 −8y2 + 7 = 8x2 −2x2y2 −x4 ?
 
 **Answer:** 4
-[[Quesiti/src_archimede_2011_2livello#q14|src_archimede_2011_2livello__Q14]]
 
 
 
@@ -632,8 +618,7 @@ Chances that Nicola will win at least 4 coins in 5 games
 
 > Demonstrative Exercise To prove that all powers of 3 have the number of decimal places.
 
-**Answer:** dimostrazione
-[[Quesiti/src_archimede_2011_2livello#q15|src_archimede_2011_2livello__Q15]]
+**Answer:** proof
 
 
 
@@ -668,8 +653,7 @@ Chances that Nicola will win at least 4 coins in 5 games
 
 > Exercise to show whether ABC is an acute triangle, and whether D, and feet of heights emanating from A, B. A′ the mean point of AD, B′ the mean point of BE. CA′ intersects BE in X, CB′ intersects AD in Y. Demonstrate that there is a passing circumference for points A′, B′, X, Y.
 
-**Answer:** dimostrazione
-[[Quesiti/src_archimede_2011_2livello#q16|src_archimede_2011_2livello__Q16]]
+**Answer:** proof
 
 
 
@@ -704,4 +688,3 @@ Chances that Nicola will win at least 4 coins in 5 games
 > Demonstrative Exercise Be a positive whole. A stop train at 2 stations, including the initial and final stations, numbered in order from 1st to 2nd. It is known that in a certain carriage, for each pair of integers i, j such that 1 ≤i < j ≤2n, exactly one place has been reserved for the route between the i-e-m and that j-e-m stations. Of course, different reservations cannot overlap. Determine, in relation to n, the minimum number of seats that must be available in that carriage in order for the situation described to be possible.
 
 **Answer:** n^2
-[[Quesiti/src_archimede_2011_2livello#q17|src_archimede_2011_2livello__Q17]]

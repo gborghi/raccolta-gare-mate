@@ -37,8 +37,6 @@ level: BMO Round 2
 > 
 > Presentare una presentazione senza prova per almeno tre punti $A$, $B$, $C$ e $FA^2 + FB^2 + FC^2$.
 
-[[Quesiti/src_bmo2_1983#q01|src_bmo2_1983__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -68,8 +66,6 @@ level: BMO Round 2
 > 
 > $O$ è il circoncentro del triangolo $ABC$. Prova che $OA$ è perpendicolare a un lato di $T$.
 
-[[Quesiti/src_bmo2_1983#q02|src_bmo2_1983__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -94,8 +90,6 @@ level: BMO Round 2
 *Tre linee nello spazio; segmento di lunghezza costante RS*
 
 > $\ell$, $m$, $n$ sono tre linee nello spazio. Né $\ell$ né $m$ sono perpendicolari a $n$. I punti $P$ su $\ell$ e $Q$ su $m$ sono tali che $PQ$ sia perpendicolare a $n$. Il piano attraverso $P$ perpendicolare a $\ell$ incontra $m$ a $R$, e il piano attraverso $Q$ perpendicolare a $m$ incontra $\ell$ a $S$. Provare che $RS$ è di lunghezza costante.
-
-[[Quesiti/src_bmo2_1983#q03|src_bmo2_1983__Q03]]
 
 
 
@@ -122,8 +116,6 @@ level: BMO Round 2
 *Ineguaglianza per sei valori reali positivi: somma del tipo ab/(a+b)*
 
 > Prova che se $a$, $b$, $c$, $d$, $e$, $f$ sono numeri reali positivi allora $$\frac{ab}{a+b} + \frac{cd}{c+d} + \frac{ef}{e+f} \le \frac{(a+c+e)(b+d+f)}{a+b+c+d+e+f}.$$
-
-[[Quesiti/src_bmo2_1983#q04|src_bmo2_1983__Q04]]
 
 
 
@@ -153,8 +145,6 @@ level: BMO Round 2
 
 > Trova il numero di accordi $$a,\ b,\ c,\ d,\ e,\ f,\ g,\ h$$ dei numeri $1,2,3,4,5,6,7,8$ che soddisfano tutte le sette condizioni $$a < b,\ c < d,\ e < f,\ g < h \quad \text{and} \quad b > c,\ d > e,\ f > g.$$
 
-[[Quesiti/src_bmo2_1983#q05|src_bmo2_1983__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_casework_accurato,skill_riconoscimento_pattern"></span>
@@ -181,8 +171,6 @@ level: BMO Round 2
 *Ricerca tutte le coppie di integri positivi (n,k) con (n+1)^k = n!+1*
 
 > $n$ e $k$ sono integri positivi. Trova tutte le coppie $(n,k)$ soddisfacenti $$(n+1)^k = n! + 1,$$ che dimostrano di avere l'insieme completo delle soluzioni.
-
-[[Quesiti/src_bmo2_1983#q06|src_bmo2_1983__Q06]]
 
 
 
@@ -216,5 +204,3 @@ level: BMO Round 2
 > (a) C'è un insieme $A$ di topi $(m+1)$ nessuno dei quali è genitore di nessun altro nel gruppo.
 > 
 > b) Esiste un insieme ordinato $B$ di topi $(n+1)$ $a_1, a_2, \ldots, a_n, a_{n+1}$ in modo tale che $a_{i+1}$ sia il genitore di $a_i$ per ciascun $i = 1, 2, \ldots, n$.
-
-[[Quesiti/src_bmo2_1983#q07|src_bmo2_1983__Q07]]

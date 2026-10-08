@@ -40,7 +40,6 @@ level: OBM Nível 3
 > A) 55 \quad (B) 56 \quad (C) 60 \quad (D) 62 \quad (E) 108
 
 **Risposta:** D
-[[Quesiti/src_obm_2006_n3_f1#q01|src_obm_2006_n3_f1__Q01]]
 
 
 
@@ -75,7 +74,6 @@ level: OBM Nível 3
 > (A) 2006 \quad (B) 2007 \quad (C) 4009 \quad (D) 4011 \quad (E) 4012
 
 **Risposta:** D
-[[Quesiti/src_obm_2006_n3_f1#q02|src_obm_2006_n3_f1__Q02]]
 
 
 
@@ -107,8 +105,6 @@ level: OBM Nível 3
 > Una colonia di amebe ha inizialmente una ameba gialla e una ameba rossa. Ogni giorno ogni ameba si divide in due amebe identiche. Ogni ameba ha lo stesso colore del suo genitore con probabilità $\frac{1}{2}$ e il rosso con probabilità $\frac{1}{2}$. Dopo i giorni del 2006, qual è la probabilità che la colonia abbia esattamente un'ameba gialla?
 > 
 > (A) $\dfrac{1}{2^{2006}}$ \quad (B) $\dfrac{1}{2006}$ \quad (C) $\dfrac{1}{2007}$ \quad (D) $\dfrac{1}{2006 \cdot 2007}$ \quad (E) $\dfrac{2006}{2007}$
-
-[[Quesiti/src_obm_2006_n3_f1#q03|src_obm_2006_n3_f1__Q03]]
 
 
 
@@ -144,8 +140,6 @@ level: OBM Nível 3
 
 ![[src_obm_2006_n3_f1__q04.png]]
 
-[[Quesiti/src_obm_2006_n3_f1#q04|src_obm_2006_n3_f1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
@@ -176,8 +170,6 @@ level: OBM Nível 3
 > I due numeri reali distinti $a$ e $b$ non sono zero e soddisfano $a - b = \dfrac{a}{b}$. Indicare l'alternativa che mostra uno dei possibili valori di $\dfrac{a}{b} + \dfrac{1}{b} - ab$.
 > 
 > (A) $-2$ \quad (B) $-\dfrac{1}{2}$ \quad (C) $\dfrac{1}{3}$ \quad (D) $\dfrac{1}{2}$ \quad (E) $2$
-
-[[Quesiti/src_obm_2006_n3_f1#q05|src_obm_2006_n3_f1__Q05]]
 
 
 
@@ -214,8 +206,6 @@ level: OBM Nível 3
 > 
 > (A) 100 \quad (B) 120 \quad (C) 240 \quad (D) 480 \quad (E) 720
 
-[[Quesiti/src_obm_2006_n3_f1#q06|src_obm_2006_n3_f1__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_casework,skill_casework_accurato,skill_riconoscimento_pattern"></span>
@@ -247,8 +237,6 @@ level: OBM Nível 3
 > 
 > (A) $ab^3$ \quad (B) $a^2b^3$ \quad (C) $a^cb^c$ \quad (D) $ab^2c^3$ \quad (E) $a^4b^c$
 
-[[Quesiti/src_obm_2006_n3_f1#q07|src_obm_2006_n3_f1__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -279,8 +267,6 @@ level: OBM Nível 3
 > Per quanti valori di $a$ $2a^2 + 2a + 19$ non è un numero primo?
 > 
 > (A) 50 \quad (B) 37 \quad (C) 9 \quad (D) 5 \quad (E) 1
-
-[[Quesiti/src_obm_2006_n3_f1#q08|src_obm_2006_n3_f1__Q08]]
 
 
 
@@ -323,7 +309,6 @@ level: OBM Nível 3
 > - **(E)** $a \ge \dfrac{1}{3}$ e $b \ge \dfrac{1}{3}$ e $c \ge \dfrac{1}{3}$
 
 **Risposta:** B
-[[Quesiti/src_obm_2006_n3_f1#q09|src_obm_2006_n3_f1__Q09]]
 
 
 
@@ -355,8 +340,6 @@ level: OBM Nível 3
 > Una sequenza ha 9 numeri reali, il primo 20 e l'ultimo 4. Ogni termine della sequenza, a partire dal terzo, è la media aritmetica di tutti i precedenti. Qual è il secondo termine della sequenza?
 > 
 > (A) $-8$ \quad (B) 0 \quad (C) 4 \quad (D) 14 \quad (E) 200
-
-[[Quesiti/src_obm_2006_n3_f1#q10|src_obm_2006_n3_f1__Q10]]
 
 
 
@@ -392,7 +375,6 @@ level: OBM Nível 3
 > (A) Nessuna (B) 1 (C) 2 (D) 3 (E) 2006
 
 **Risposta:** C
-[[Quesiti/src_obm_2006_n3_f1#q11|src_obm_2006_n3_f1__Q11]]
 
 
 
@@ -424,8 +406,6 @@ level: OBM Nível 3
 > Arnaldo ha diversi quadrati di vari colori: quadrati blu $2 \times 2$, quadrati gialli $2 \times 2$ e quadrati verdi $3 \times 3$. Vuole assemblare un quadrato più grande in modo che appaiano almeno tre di ciascuna specie. Qual è il numero minimo di quadrati che potrà usare?
 > 
 > (A) 3 \quad (B) 6 \quad (C) 7 \quad (D) 8 \quad (E) 9
-
-[[Quesiti/src_obm_2006_n3_f1#q12|src_obm_2006_n3_f1__Q12]]
 
 
 
@@ -465,8 +445,6 @@ level: OBM Nível 3
 > - **(D)** 6
 > - **(E)** Non si può determinare.
 
-[[Quesiti/src_obm_2006_n3_f1#q13|src_obm_2006_n3_f1__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,topic_logica,method_congruenze,method_casework,skill_casework_accurato,skill_riconoscimento_pattern"></span>
@@ -497,8 +475,6 @@ level: OBM Nível 3
 > Il professore Piraldo ha applicato un test ai suoi cinque studenti e, dopo averli corretti, ha inserito i voti in una scheda elettronica che calcola automaticamente la media mentre i voti vengono inseriti ogni volta. Ha notato che, entrando nei voti, la media calcolata dalla scheda di calcolo era sempre un numero intero. I voti, nell'ordine in cui sono stati inseriti, sono stati 71, 76, 80, 82 e 91, ma non necessariamente in questo ordine. Qual era l'ultimo anno di classe in cui Piraldo era entrato?
 > 
 > (A) 71 \quad (B) 76 \quad (C) 80 \quad (D) 82 \quad (E) 91
-
-[[Quesiti/src_obm_2006_n3_f1#q14|src_obm_2006_n3_f1__Q14]]
 
 
 
@@ -537,7 +513,6 @@ level: OBM Nível 3
 ![[src_obm_2006_n3_f1__q15.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2006_n3_f1#q15|src_obm_2006_n3_f1__Q15]]
 
 
 
@@ -569,8 +544,6 @@ level: OBM Nível 3
 > Il numero intero positivo $x$ è un multiple del 2006 e $\sqrt{x}$ è tra il 2005 e il 2007. Qual è il numero dei valori possibili di $x$?
 > 
 > (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 4 \quad (E) 5
-
-[[Quesiti/src_obm_2006_n3_f1#q16|src_obm_2006_n3_f1__Q16]]
 
 
 
@@ -605,8 +578,6 @@ level: OBM Nível 3
 > (A) $2\pi - 2$ \quad (B) $3\pi$ \quad (C) $\pi$ \quad (D) $4$ \quad (E) $2\pi - 4$
 
 ![[src_obm_2006_n3_f1__q17.png]]
-
-[[Quesiti/src_obm_2006_n3_f1#q17|src_obm_2006_n3_f1__Q17]]
 
 
 
@@ -655,8 +626,6 @@ level: OBM Nível 3
 > - **(D)** Si possono ottenere solo le coppie 4 e 5.
 > - **(E)** Esistono più di due coppie che non si possono ottenere.
 
-[[Quesiti/src_obm_2006_n3_f1#q18|src_obm_2006_n3_f1__Q18]]
-
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_conteggio,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -687,8 +656,6 @@ level: OBM Nível 3
 > In una griglia rettangolare di 13 righe e 17 colonne posizionamo i numeri in ogni cella nel seguente modo: prima, numeriamo le celle della prima riga in ordine crescente, da sinistra a destra, con i numeri 1, 2, ..., 17; poi numeriamo le celle della seconda riga, anche da sinistra a destra, in ordine crescente, con i numeri 18, 19, ..., 34, e procediamo in modo analogo con le altre righe, in modo che i numeri della prima colonna sono, da cima a fondo, 1, 18, 35, ecc. Dopo aver numerato tutte le celle, ripetiamo la numerazione, ora per colonne: numeriamo le celle della prima colonna, dall'alto verso il basso, in ordine crescente, con i numeri 1, 2, ..., 13; poi numeriamo le celle della seconda colonna, anche dall'alto verso il basso, in ordine crescente, con i numeri 14, 15, ..., 26, e procediamo in modo analogo con le altre colonne. In questo modo, ogni cella finisce con due numeri. In quante cellule coincidono i due numeri?
 > 
 > (A) 2 \quad (B) 3 \quad (C) 4 \quad (D) 5 \quad (E) 6
-
-[[Quesiti/src_obm_2006_n3_f1#q19|src_obm_2006_n3_f1__Q19]]
 
 
 
@@ -724,8 +691,6 @@ level: OBM Nível 3
 > (A), (B), (C), (D), (E)  vedere figura.
 
 ![[src_obm_2006_n3_f1__q20.png]]
-
-[[Quesiti/src_obm_2006_n3_f1#q20|src_obm_2006_n3_f1__Q20]]
 
 
 
@@ -764,7 +729,6 @@ level: OBM Nível 3
 ![[src_obm_2006_n3_f1__q21.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2006_n3_f1#q21|src_obm_2006_n3_f1__Q21]]
 
 
 
@@ -799,7 +763,6 @@ level: OBM Nível 3
 > (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 4 \quad (E) 5
 
 **Risposta:** D
-[[Quesiti/src_obm_2006_n3_f1#q22|src_obm_2006_n3_f1__Q22]]
 
 
 
@@ -831,8 +794,6 @@ Tra i prodotti 2161 0·2160, 1·2159, ..., 2160·0, contare quanti sono i multip
 > Considerate i prodotti 2161 $0 \cdot 2160$, $1 \cdot 2159$, $2 \cdot 2158$, $\ldots$, $2160 \cdot 0$. Quanti di loro sono moltiplicati di 2160?
 > 
 > (A) 2 \quad (B) 3 \quad (C) 12 \quad (D) 13 \quad (E) 2161
-
-[[Quesiti/src_obm_2006_n3_f1#q23|src_obm_2006_n3_f1__Q23]]
 
 
 
@@ -867,7 +828,6 @@ Tra i prodotti 2161 0·2160, 1·2159, ..., 2160·0, contare quanti sono i multip
 > (A) 7 \quad (B) 13 \quad (C) $4 + \sqrt{109}$ \quad (D) $3 + \sqrt{2} + \sqrt{90}$ \quad (E) $\sqrt{149}$
 
 **Risposta:** E
-[[Quesiti/src_obm_2006_n3_f1#q24|src_obm_2006_n3_f1__Q24]]
 
 
 
@@ -902,5 +862,3 @@ Tra i prodotti 2161 0·2160, 1·2159, ..., 2160·0, contare quanti sono i multip
 > (A) $\dfrac{1}{4}$ \quad (B) $\dfrac{1}{3}$ \quad (C) $\dfrac{\sqrt{2}}{4}$ \quad (D) $\dfrac{3}{8}$ \quad (E) $\dfrac{1}{2}$
 
 ![[src_obm_2006_n3_f1__q25.png]]
-
-[[Quesiti/src_obm_2006_n3_f1#q25|src_obm_2006_n3_f1__Q25]]

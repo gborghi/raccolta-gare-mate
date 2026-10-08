@@ -47,7 +47,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $2015$
 
 **Risposta:** D
-[[Quesiti/src_smc_2015#q01|src_smc_2015__Q01]]
 
 
 
@@ -88,7 +87,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $156$
 
 **Risposta:** A
-[[Quesiti/src_smc_2015#q02|src_smc_2015__Q02]]
 
 
 
@@ -128,7 +126,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $80\%$
 
 **Risposta:** B
-[[Quesiti/src_smc_2015#q03|src_smc_2015__Q03]]
 
 
 
@@ -172,7 +169,6 @@ level: Senior Mathematical Challenge
 ![[src_smc_2015__q04.png]]
 
 **Risposta:** B
-[[Quesiti/src_smc_2015#q04|src_smc_2015__Q04]]
 
 
 
@@ -212,7 +208,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $8$
 
 **Risposta:** A
-[[Quesiti/src_smc_2015#q05|src_smc_2015__Q05]]
 
 
 
@@ -257,7 +252,6 @@ level: Senior Mathematical Challenge
 ![[src_smc_2015__q06.png]]
 
 **Risposta:** E
-[[Quesiti/src_smc_2015#q06|src_smc_2015__Q06]]
 
 
 
@@ -297,7 +291,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $\dfrac{\tfrac{1}{\tfrac{1}{3}}}{4}$
 
 **Risposta:** B
-[[Quesiti/src_smc_2015#q07|src_smc_2015__Q07]]
 
 
 
@@ -342,7 +335,6 @@ level: Senior Mathematical Challenge
 ![[src_smc_2015__q08.png]]
 
 **Risposta:** D
-[[Quesiti/src_smc_2015#q08|src_smc_2015__Q08]]
 
 
 
@@ -383,7 +375,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $5$
 
 **Risposta:** B
-[[Quesiti/src_smc_2015#q09|src_smc_2015__Q09]]
 
 
 
@@ -423,7 +414,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $15$
 
 **Risposta:** D
-[[Quesiti/src_smc_2015#q10|src_smc_2015__Q10]]
 
 
 
@@ -464,7 +454,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $27$
 
 **Risposta:** C
-[[Quesiti/src_smc_2015#q11|src_smc_2015__Q11]]
 
 
 
@@ -508,7 +497,6 @@ level: Senior Mathematical Challenge
 ![[src_smc_2015__q12.png]]
 
 **Risposta:** A
-[[Quesiti/src_smc_2015#q12|src_smc_2015__Q12]]
 
 
 
@@ -549,7 +537,6 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(E)** Venerdì
 
 **Risposta:** E
-[[Quesiti/src_smc_2015#q13|src_smc_2015__Q13]]
 
 
 
@@ -593,7 +580,6 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 ![[src_smc_2015__q14.png]]
 
 **Risposta:** E
-[[Quesiti/src_smc_2015#q14|src_smc_2015__Q14]]
 
 
 
@@ -633,7 +619,6 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(E)** $18$ cm
 
 **Risposta:** C
-[[Quesiti/src_smc_2015#q15|src_smc_2015__Q15]]
 
 
 
@@ -674,7 +659,6 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(E)** $720$
 
 **Risposta:** A
-[[Quesiti/src_smc_2015#q16|src_smc_2015__Q16]]
 
 
 
@@ -718,7 +702,6 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 ![[src_smc_2015__q17.png]]
 
 **Risposta:** C
-[[Quesiti/src_smc_2015#q17|src_smc_2015__Q17]]
 
 
 
@@ -759,7 +742,6 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(E)** $5040$
 
 **Risposta:** D
-[[Quesiti/src_smc_2015#q18|src_smc_2015__Q18]]
 
 
 
@@ -803,7 +785,6 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 ![[src_smc_2015__q19.png]]
 
 **Risposta:** A
-[[Quesiti/src_smc_2015#q19|src_smc_2015__Q19]]
 
 
 
@@ -843,7 +824,6 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(E)** $\pi + 1$
 
 **Risposta:** E
-[[Quesiti/src_smc_2015#q20|src_smc_2015__Q20]]
 
 
 
@@ -887,7 +867,6 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 ![[src_smc_2015__q21.png]]
 
 **Risposta:** C
-[[Quesiti/src_smc_2015#q21|src_smc_2015__Q21]]
 
 
 
@@ -928,7 +907,6 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(E)** $2015$
 
 **Risposta:** B
-[[Quesiti/src_smc_2015#q22|src_smc_2015__Q22]]
 
 
 
@@ -969,7 +947,6 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(E)** $113$
 
 **Risposta:** D
-[[Quesiti/src_smc_2015#q23|src_smc_2015__Q23]]
 
 
 
@@ -1010,7 +987,6 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(E)** $24$
 
 **Risposta:** C
-[[Quesiti/src_smc_2015#q24|src_smc_2015__Q24]]
 
 
 
@@ -1051,4 +1027,3 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(E)** $50$
 
 **Risposta:** C
-[[Quesiti/src_smc_2015#q25|src_smc_2015__Q25]]

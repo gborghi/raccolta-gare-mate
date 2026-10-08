@@ -35,7 +35,6 @@ level: kangourou
 > *(5 points) * A set of $n$ objects ($n \geq 1$) is given. How many of its subsets are made up of an odd number of elements?
 
 **Answer:** 2^(n-1)
-[[Quesiti/src_kangourou_2008_student_maggio#qs1|src_kangourou_2008_student_maggio__QS1]]
 
 
 
@@ -70,8 +69,7 @@ level: kangourou
 > 
 > Do IMPERFECT sets exist? Justify the answer.
 
-**Answer:** si
-[[Quesiti/src_kangourou_2008_student_maggio#qs2|src_kangourou_2008_student_maggio__QS2]]
+**Answer:** yes
 
 
 
@@ -99,7 +97,6 @@ level: kangourou
 > *(11 points) * Can we find, for each $n > 1$, $n$ non-zero natural integers for which the sum is equal to the product?
 
 **Answer:** yes
-[[Quesiti/src_kangourou_2008_student_maggio#qs3|src_kangourou_2008_student_maggio__QS3]]
 
 
 
@@ -127,7 +124,6 @@ level: kangourou
 > *(14 points) * In a plane some non-collinear points (i.e. not all lying on the same line) are assigned in finite numbers greater than or equal to three. Is it true that there are necessarily three such points among them that the circle bounded by the circumference passing through these three does not contain any of the remaining points?
 
 **Answer:** yes
-[[Quesiti/src_kangourou_2008_student_maggio#qs4|src_kangourou_2008_student_maggio__QS4]]
 
 
 
@@ -163,7 +159,6 @@ There is a line that intersects all polygons
 > Does the statement remain true if instead of polygons, they are considered generic sets of points?
 
 **Answer:** proof
-[[Quesiti/src_kangourou_2008_student_maggio#qs5|src_kangourou_2008_student_maggio__QS5]]
 
 
 
@@ -196,4 +191,3 @@ There is a line that intersects all polygons
 > Prove that there must be a person in that country who holds at least 85% of the total wealth of the country.
 
 **Answer:** proof
-[[Quesiti/src_kangourou_2008_student_maggio#qs6|src_kangourou_2008_student_maggio__QS6]]

@@ -37,8 +37,6 @@ level: IMO
 > $$\angle PAD : \angle PBA : \angle DPA = 1 : 2 : 3 = \angle CBP : \angle BAP : \angle BPC.$$
 > Si dimostri che le seguenti tre rette si incontrano in un punto: la bisettrice interna dell'angolo $\angle ADP$, la bisettrice interna dell'angolo $\angle PCB$ e l'asse del segmento $AB$.
 
-[[Quesiti/src_imho_2020#q01|src_imho_2020__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
@@ -65,8 +63,6 @@ level: IMO
 
 > I numeri reali $a, b, c, d$ sono tali che $a \ge b \ge c \ge d > 0$ e $a + b + c + d = 1$. Si dimostri che
 > $$(a + 2b + 3c + 4d) a^a b^b c^c d^d < 1.$$
-
-[[Quesiti/src_imho_2020#q02|src_imho_2020__Q02]]
 
 
 
@@ -101,8 +97,6 @@ level: IMO
 > \item Ogni mucchio contenga esattamente due sassolini di ciascun colore.
 > \end{itemize}
 
-[[Quesiti/src_imho_2020#q03|src_imho_2020__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_estremalita,method_casework,method_grafi,skill_modellizzazione,skill_ragionamento_geometrico,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -132,8 +126,6 @@ level: IMO
 > 
 > Determinare il più piccolo intero positivo $k$ per cui si può garantire che esistano due stazioni collegate da entrambe le compagnie.
 
-[[Quesiti/src_imho_2020#q04|src_imho_2020__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -162,8 +154,6 @@ level: IMO
 > Si ha un mazzo di $n > 1$ carte. Su ciascuna carta è scritto un numero intero positivo. Il mazzo ha la proprietà che la media aritmetica dei numeri su ciascuna coppia di carte è anche la media geometrica dei numeri su qualche insieme di una o più carte.
 > 
 > Per quali $n$ si deduce che i numeri sulle carte sono tutti uguali?
-
-[[Quesiti/src_imho_2020#q05|src_imho_2020__Q05]]
 
 
 
@@ -201,5 +191,3 @@ level: IMO
 > (Una retta $\ell$ separa un insieme di punti $S$ se qualche segmento che congiunge due punti in $S$ interseca $\ell$.)
 > 
 > \textit{Nota.} Risultati più deboli con $cn^{-1/3}$ sostituito da $cn^{-\alpha}$ potranno essere valutati con punteggio in base al valore della costante $\alpha > 1/3$.
-
-[[Quesiti/src_imho_2020#q06|src_imho_2020__Q06]]

@@ -37,7 +37,6 @@ level: OBM Nível 3
 > Considera il numero $123456$, la cui fattorizzazione è $123456 = 2^7 \cdot 3 \cdot 643$. $d$ sia un divisore di $123456$ inferiore a $2007$ (prendi il più grande di tale divisore). Determinare il numero totale di divisori di $d$ inferiori a $2007$.
 
 **Risposta:** 17
-[[Quesiti/src_obm_2007_n3_f2#q01|src_obm_2007_n3_f2__Q01]]
 
 
 
@@ -68,7 +67,6 @@ level: OBM Nível 3
 > Un punto $B = (x; y)$ viene scelto a caso sui punti del segmento $A$ che si trova sulla linea $x + y = 2$ con $0 \le x \le 2$ (così $A$ va da $(0,2)$ a $(2,0)$). La fonte è $P$. Determinare la probabilità $p$ che il punto scelto $B$ sia alla distanza massima $\frac{5}{3}$ dall'origine, cioè che $\sqrt{x^2 + y^2} \le \frac{5}{3}$. La probabilità è pari alla lunghezza del sottosegmento $\overline{P_1 P_2}$ di $A$ che soddisfa la condizione, divisa per la lunghezza di $A$, che è $\sqrt{(0-2)^2 + (2-0)^2} = 2\sqrt{2}$.
 
 **Risposta:** 3024
-[[Quesiti/src_obm_2007_n3_f2#q02|src_obm_2007_n3_f2__Q02]]
 
 
 
@@ -99,7 +97,6 @@ level: OBM Nível 3
 > Considerate il numero $\underbrace{11\ldots1}_{1000\ \text{ones}} = \dfrac{10^{1000} - 1}{9}$ costituito da mille cifre tutte uguali a $1$. Determinare la somma delle cifre del numero intero più vicino a $\sqrt{\underbrace{11\ldots1}_{1000\ \text{ones}}}$.
 
 **Risposta:** 1500
-[[Quesiti/src_obm_2007_n3_f2#q03|src_obm_2007_n3_f2__Q03]]
 
 
 
@@ -133,7 +130,6 @@ level: OBM Nível 3
 ![[src_obm_2007_n3_f2__q04.png]]
 
 **Risposta:** 30
-[[Quesiti/src_obm_2007_n3_f2#q04|src_obm_2007_n3_f2__Q04]]
 
 
 
@@ -168,7 +164,6 @@ level: OBM Nível 3
 ![[src_obm_2007_n3_f2__q05.png]]
 
 **Risposta:** 62
-[[Quesiti/src_obm_2007_n3_f2#q05|src_obm_2007_n3_f2__Q05]]
 
 
 
@@ -199,7 +194,6 @@ level: OBM Nível 3
 > Determinare tutte le coppie $(x, y)$ di integri positivi che soddisfano $x^2 + y^2 - xy - 2x - 2y = 0$, equivalentemente $x^2 - xy + y^2 = 2x + 2y$.
 
 **Risposta:** $(x,y) \in \{(2,4),(4,2),(4,4)\}$
-[[Quesiti/src_obm_2007_n3_f2#q06|src_obm_2007_n3_f2__Q06]]
 
 
 
@@ -229,8 +223,7 @@ level: OBM Nível 3
 
 > Determinare tutti i numeri a sei cifre $n$ della forma $\overline{AABBB}$ (le prime due cifre sono entrambe uguali a $A$ e le ultime tre cifre sono entrambe uguali a $B$, con $A \neq B$) in modo tale che $n + 1$ sia un quadrato perfetto; vale a dire, trovare tutti $n = \overline{AABBB}$ per i quali esiste un intero positivo $k$ con $k^2 = n + 1$.
 
-**Risposta:** $111555$ and $444888$
-[[Quesiti/src_obm_2007_n3_f2#q07|src_obm_2007_n3_f2__Q07]]
+**Risposta:** $111555$ e $444888$
 
 
 
@@ -265,7 +258,6 @@ level: OBM Nível 3
 ![[src_obm_2007_n3_f2__q08.png]]
 
 **Risposta:** $16\sqrt{3}\ \text{cm}^2$
-[[Quesiti/src_obm_2007_n3_f2#q08|src_obm_2007_n3_f2__Q08]]
 
 
 
@@ -296,4 +288,3 @@ level: OBM Nível 3
 > Selezionare $20$ città di un paese. Se si collegassero tutte e due con una strada si utilizzerebbero strade $\binom{20}{2} = 190$. Trovare il minor numero di strade che devono essere costruite in modo che, partendo da una città, si possa raggiungere un'altra città in auto (cioè la rete stradale sia collegata). Mostrare che le strade $190$ non devono essere sufficienti e dimostrare che con le strade $191$ è sempre possibile viaggiare in auto tra due città. (Insigno: se le città potessero essere suddivise in due gruppi $A$ e $B$ con rispettivamente $a$ e $b$ città, $a + b = 21$, senza strada che unisca i due gruppi, allora il numero di strade sarebbe al massimo $\binom{a}{2} + \binom{b}{2}$; derivere una contraddizione.)
 
 **Risposta:** $191$
-[[Quesiti/src_obm_2007_n3_f2#q09|src_obm_2007_n3_f2__Q09]]

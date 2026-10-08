@@ -49,7 +49,6 @@ level: 2 livello
 > - **(E)** 363
 
 **Answer:** E
-[[Quesiti/src_archimede_2017_febb_2livello#q01|src_archimede_2017_febb_2livello__Q01]]
 
 
 
@@ -100,8 +99,6 @@ level: 2 livello
 
 **Answer:** D
 
-[[Quesiti/src_archimede_2017_febb_2livello#q02|src_archimede_2017_febb_2livello__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato"></span>
@@ -142,7 +139,6 @@ level: 2 livello
 > - **(E)** The only perfect square that divides abcde is 1. I'll take it from here. Remember that an integer n is called a perfect square if there exists an integer such that n = a2.
 
 **Answer:** C
-[[Quesiti/src_archimede_2017_febb_2livello#q03|src_archimede_2017_febb_2livello__Q03]]
 
 
 
@@ -184,7 +180,6 @@ level: 2 livello
 > - **(E)** 125 2
 
 **Answer:** D
-[[Quesiti/src_archimede_2017_febb_2livello#q04|src_archimede_2017_febb_2livello__Q04]]
 
 
 
@@ -227,7 +222,6 @@ level: 2 livello
 > - **(E)** 421
 
 **Answer:** E
-[[Quesiti/src_archimede_2017_febb_2livello#q05|src_archimede_2017_febb_2livello__Q05]]
 
 
 
@@ -271,7 +265,6 @@ level: 2 livello
 > - **(E)** 504
 
 **Answer:** C
-[[Quesiti/src_archimede_2017_febb_2livello#q06|src_archimede_2017_febb_2livello__Q06]]
 
 
 
@@ -312,7 +305,6 @@ level: 2 livello
 > - **(E)** 23
 
 **Answer:** D
-[[Quesiti/src_archimede_2017_febb_2livello#q07|src_archimede_2017_febb_2livello__Q07]]
 
 
 
@@ -356,7 +348,6 @@ level: 2 livello
 > - **(E)** 2016 · 2018
 
 **Answer:** B
-[[Quesiti/src_archimede_2017_febb_2livello#q08|src_archimede_2017_febb_2livello__Q08]]
 
 
 
@@ -398,7 +389,6 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 > - **(E)** Infinite
 
 **Answer:** B
-[[Quesiti/src_archimede_2017_febb_2livello#q09|src_archimede_2017_febb_2livello__Q09]]
 
 
 
@@ -440,7 +430,6 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 > - **(E)** The data are not sufficient to determine this.
 
 **Answer:** B
-[[Quesiti/src_archimede_2017_febb_2livello#q10|src_archimede_2017_febb_2livello__Q10]]
 
 
 
@@ -485,7 +474,6 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 > - **(E)** 1 6
 
 **Answer:** A
-[[Quesiti/src_archimede_2017_febb_2livello#q11|src_archimede_2017_febb_2livello__Q11]]
 
 
 
@@ -528,7 +516,6 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 > - **(E)** Dipende da n Problemi a risposta numerica – 5 punti
 
 **Answer:** A
-[[Quesiti/src_archimede_2017_febb_2livello#q12|src_archimede_2017_febb_2livello__Q12]]
 
 
 
@@ -560,7 +547,6 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 > The rich Creso buys 88 identical vessels. The price of each of them, expressed in drachmas, is an integer (the same for all 88 vessels). We know that Creso pays a total of a1211b drachmas, where a, b are figures to be determined (and which may or may not be distinct). How many drachmas does a single vessel cost?
 
 **Answer:** 1274
-[[Quesiti/src_archimede_2017_febb_2livello#q13|src_archimede_2017_febb_2livello__Q13]]
 
 
 
@@ -596,7 +582,6 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 > Whether ABCD is a convex quadrilateral, F a point on the CD segment, and AC's intersection point with BF. It is known that AB = FC, AE = 14, BE = 10 √ 2, \ BAC = \ BFD, \ BEA = 45°. How large is the EF segment?
 
 **Answer:** 6
-[[Quesiti/src_archimede_2017_febb_2livello#q14|src_archimede_2017_febb_2livello__Q14]]
 
 
 
@@ -629,8 +614,6 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 
 > DEMOSTRATIVE EXERCISE (a) Demonstrate that there are infinite numbers (x,y,z) of positive integers such that x2 + y2 + z2 is a perfect square. (b) Demonstrate that there are infinite numbers (x,y,z) of positive integers such that x2 + y2 + z2 is a perfect square and with the property that the maximum common divisor of the three numbers (x,y,z) is 1. I'll take it from here. Remember that an integer n is called a perfect square if there exists an integer such that n = a2.
 
-[[Quesiti/src_archimede_2017_febb_2livello#q15|src_archimede_2017_febb_2livello__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -661,8 +644,6 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 *isosceles triangle and parallelogram*
 
 > DEMOSTRATIVE EXERCISE Given a circumference ω of diameter AB and P an inner point of the AB segment, both M and the middle point of PB. If r, s two parallel lines passing through M, P respectively, do not coincide with the straight AB and are orthogonal to it. Then either H is the orthogonal projection of A over s and K is the point of intersection (different from A) between ω and the straight AH. Finally X, Y are the intersections of r with ω, where X is on the opposite side of H to AB. (a) Demonstrate that the triangle HY K is isosceles. (b) Demonstrate that BXHY is a parallelogram.
-
-[[Quesiti/src_archimede_2017_febb_2livello#q16|src_archimede_2017_febb_2livello__Q16]]
 
 
 
@@ -764,5 +745,3 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 > DEMONSTRATIVE PROBLEM
 > An equilateral triangle is divided into 9 small triangles as shown in the figure, and initially, the number 0 is written on each small triangle. Marco, to pass the time, plays the following game: at each move, he selects two small triangles sharing a common side and either adds 1 or subtracts 1 from both numbers written on these two triangles (the same operation is applied to both). After some time, he notices that the numbers written on the 9 small triangles are, in some order, n, n+1, ..., n+8, where n is a non-negative integer. Prove that n can only be 0 or 2.
 > Note. The cases n = 0 and n = 2 are indeed achievable, but it is not required to prove this statement.
-
-[[Quesiti/src_archimede_2017_febb_2livello#q17|src_archimede_2017_febb_2livello__Q17]]

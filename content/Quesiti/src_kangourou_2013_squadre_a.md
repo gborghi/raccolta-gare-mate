@@ -40,7 +40,6 @@ level: squadre
 > Increasing the hours of work of workers (and wages!), the owner of a television factory increased production by 25%. Subsequently, in the face of declining demand for the product, 39 workers were able to be transferred to a refrigerator factory and, after their transfer, while the working hours for the remaining workers remained increased, the production of the television factory returned to what it was before the increase in hours. How many workers worked in the television factory before the increase in working hours?
 
 **Answer:** 195
-[[Quesiti/src_kangourou_2013_squadre_a#q01|src_kangourou_2013_squadre_a__Q01]]
 
 
 
@@ -77,7 +76,6 @@ level: squadre
 > rectangle drawn by Elena?
 
 **Answer:** 175
-[[Quesiti/src_kangourou_2013_squadre_a#q02|src_kangourou_2013_squadre_a__Q02]]
 
 
 
@@ -119,7 +117,6 @@ level: squadre
 > You are free to insert all the parentheses you want (even more types, one internally to the other) in the positions you want, as long as you do not get multiplication between the contents of two pairs of parentheses: for example you can write [1 – (2 + 3 – 4)] + ..., but not (1 – 2 + 3)( – 4 + 5 – 6) +... . In accordance with this rule, what is the highest number you can get as a result of the expression?
 
 **Answer:** 45
-[[Quesiti/src_kangourou_2013_squadre_a#q03|src_kangourou_2013_squadre_a__Q03]]
 
 
 
@@ -157,7 +154,6 @@ level: squadre
 > in cubic centimeters, the volume of the water in the hourglass?
 
 **Answer:** 6912
-[[Quesiti/src_kangourou_2013_squadre_a#q04|src_kangourou_2013_squadre_a__Q04]]
 
 
 
@@ -190,7 +186,6 @@ level: squadre
 > Truncated pyramid You have a straight pyramid with a square base 66 centimeters high; you want to cut the pyramid with a plane parallel to its base by breaking it into a smaller pyramid and a truncated pyramid so that the volume of the truncated pyramid is 26 times that of the small pyramid. How far from the base, in centimeters, should the plane used for cutting be?
 
 **Answer:** 44
-[[Quesiti/src_kangourou_2013_squadre_a#q05|src_kangourou_2013_squadre_a__Q05]]
 
 
 
@@ -229,7 +224,6 @@ level: squadre
 > Write [0000] if you believe that Marco cannot finish the game.
 
 **Answer:** 41
-[[Quesiti/src_kangourou_2013_squadre_a#q06|src_kangourou_2013_squadre_a__Q06]]
 
 
 
@@ -261,7 +255,6 @@ level: squadre
 > The numbered cube A positive integer is written on each face of a cube; each vertex of the cube is assigned the number that is the product of the numbers written on the faces that have that vertex in common. The sum of all the numbers assigned to the vertices is 1001. What is the sum of all the numbers that are written on the faces?
 
 **Answer:** 31
-[[Quesiti/src_kangourou_2013_squadre_a#q07|src_kangourou_2013_squadre_a__Q07]]
 
 
 
@@ -293,7 +286,6 @@ level: squadre
 > The sum In each cell of an 8 × 8 chessboard an integer is written; the numbers written in two cells that have a common side always differ by 1. On the chessboard, both number 3 and number 17 appear. What is the sum of all the numbers that appear on the chessboard?
 
 **Answer:** 640
-[[Quesiti/src_kangourou_2013_squadre_a#q08|src_kangourou_2013_squadre_a__Q08]]
 
 
 
@@ -323,7 +315,6 @@ level: squadre
 > How many three-digit (with nonzero leading digit) ABC numbers are such that A + B is different from C?
 
 **Answer:** 855
-[[Quesiti/src_kangourou_2013_squadre_a#q09|src_kangourou_2013_squadre_a__Q09]]
 
 
 
@@ -364,7 +355,6 @@ level: squadre
 > The figure suggests the pattern of a square park. On its sides are planted trees equidistant, the same number of trees on all sides, and at each vertex there is a tree. The park is crossed by two avenues; the edges of each avenue are parallel: one ends at a vertex of the square, the other against a tree adjacent to the opposite vertex. The two avenues intersect in a small square (plaza), indicated in gray, whose area is 1/365 of the area of the square. How many trees are along the entire perimeter of the park? (The number of trees in the figure does not correspond to the actual number.)
 
 **Answer:** 56
-[[Quesiti/src_kangourou_2013_squadre_a#q10|src_kangourou_2013_squadre_a__Q10]]
 
 
 
@@ -404,7 +394,6 @@ level: squadre
 > Now she wants to erase exactly 20 of the digits written and get a new number by placing the remaining ones (without changing the order). What are the first four digits of the greatest number you can get?
 
 **Answer:** 9561
-[[Quesiti/src_kangourou_2013_squadre_a#q11|src_kangourou_2013_squadre_a__Q11]]
 
 
 
@@ -435,7 +424,6 @@ level: squadre
 > The segmented triangle Marco is able to segment an isosceles triangle ABC (AB=AC) along the segment connecting the vertex A to a point D on the opposite side, so that the angle of the sides AC and AD is 33° and the triangle ABD is isosceles with AB = BD. What is the measure, in degrees, of the BAD angle?
 
 **Answer:** 71
-[[Quesiti/src_kangourou_2013_squadre_a#q12|src_kangourou_2013_squadre_a__Q12]]
 
 
 
@@ -475,7 +463,6 @@ level: squadre
 > The magic discs. Look at the figure. Gianna wants to insert, one in each box, all the digits from 1 to 9 in the available boxes so that the sum of the digits inserted inside each of the disks is always the same and is the smallest possible, and that also the number obtained by juxtaposing the 9 digits written is the smallest possible. What are the first four digits inserted from the left?
 
 **Answer:** 8371
-[[Quesiti/src_kangourou_2013_squadre_a#q13|src_kangourou_2013_squadre_a__Q13]]
 
 
 
@@ -510,7 +497,6 @@ level: squadre
 > number occupies the 126th position in this new sequence?
 
 **Answer:** 2002
-[[Quesiti/src_kangourou_2013_squadre_a#q14|src_kangourou_2013_squadre_a__Q14]]
 
 
 
@@ -556,4 +542,3 @@ level: squadre
 > Questions and solutions
 
 **Answer:** 396
-[[Quesiti/src_kangourou_2013_squadre_a#q15|src_kangourou_2013_squadre_a__Q15]]

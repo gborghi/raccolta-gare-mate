@@ -37,8 +37,6 @@ level: BMO Round 1
 > 
 > (ii) Esprimere un vero teorema sulle ellisse o se vi piace su conico in generale di cui (i) è un caso particolare.
 
-[[Quesiti/src_bmo1_1973#q01|src_bmo1_1973__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_combinatoria,method_cassetti,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
@@ -63,8 +61,6 @@ level: BMO Round 1
 *Nove punti interni in unità quadrata contengono un triangolo di superficie 1/8*
 
 > 9 punti sono dati all'interno del quadrato unitario. Prove che esiste un triangolo di superficie $\frac{1}{8}$ la cui verticale sono tre dei punti.
-
-[[Quesiti/src_bmo1_1973#q02|src_bmo1_1973__Q02]]
 
 
 
@@ -94,8 +90,6 @@ level: BMO Round 1
 > Una curva costituita dal quartiere $x^2 + y^2 = r^2$, $x, y \ge 0$, insieme al segmento di linea $x = r$, $-h \le y \le 0$, si ruota intorno a $x = 0$ per formare una superficie di rivoluzione che è un emisfero su un cilindro. Una stringa è stretta strettamente sulla superficie dal punto della curva $(r\sin\phi, -r\cos\phi)$ al punto $(r, h)$ nel piano della curva. Indicare che la stringa non si trova in un piano se $\tan\phi > \dfrac{h}{r}$.
 > 
 > [Si possono assumere formule triangolari sferiche come $\cos a = \cos b\cos c + \sin b\sin c\cos A$ o $\sin c\cot B = \sin b\cot A - \cos b\cos C$. In un triangolo sferico i lati $a$, $b$, $c$ sono archi di grandi cerchi e sono misurati dagli angoli che essi sottendono al centro della sfera.]
-
-[[Quesiti/src_bmo1_1973#q03|src_bmo1_1973__Q03]]
 
 
 
@@ -130,8 +124,6 @@ level: BMO Round 1
 
 ![[src_bmo1_1973__q04.png]]
 
-[[Quesiti/src_bmo1_1973#q04|src_bmo1_1973__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_induzione,method_congruenze,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -165,8 +157,6 @@ Prove l'insieme infinito di integri 2^n - 3 con coprime in coppia*
 > 
 > Date una prova adeguatamente ampliata e motivata che vi sia un insieme infinito di interi positivi della forma $2^n - 3$ con proprietà $Q$.
 
-[[Quesiti/src_bmo1_1973#q05|src_bmo1_1973__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_probabilita,topic_aritmetica,skill_manipolazione_algebrica,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -198,8 +188,6 @@ Prove l'insieme infinito di integri 2^n - 3 con coprime in coppia*
 > La probabilità che un allievo scelto in modo casuale sia d'accordo con la risposta dell'insegnante è $\frac{1}{2}$.
 > 
 > Trova il rapporto tra il numero di ragazzi e ragazze in classe.
-
-[[Quesiti/src_bmo1_1973#q06|src_bmo1_1973__Q06]]
 
 
 
@@ -235,8 +223,6 @@ Prove l'insieme infinito di integri 2^n - 3 con coprime in coppia*
 > 
 > N.B. A 100 anni tutti i draconiani vengono giustiziati.
 
-[[Quesiti/src_bmo1_1973#q07|src_bmo1_1973__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_insiemi_funzioni,skill_manipolazione_algebrica,skill_astrazione,skill_ragionamento_geometrico"></span>
@@ -269,8 +255,6 @@ Prove l'insieme infinito di integri 2^n - 3 con coprime in coppia*
 > 
 > (ii) Trovare condizioni su $a$, $b$, $c$, $d$ in modo che $T^n = I$ ma $T^2 \ne I$.
 
-[[Quesiti/src_bmo1_1973#q08|src_bmo1_1973__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_analitica,topic_algebra,method_coordinate,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -300,8 +284,6 @@ Prove l'insieme infinito di integri 2^n - 3 con coprime in coppia*
 > 
 > Indicare che le linee $L_r = 0$, $r = 1, 2, 3$ sono simultanee e trovare le coordinate della loro concordanza.
 
-[[Quesiti/src_bmo1_1973#q09|src_bmo1_1973__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione,skill_casework_accurato"></span>
@@ -330,8 +312,6 @@ Scheda di flusso per la stampa di numeri interi fino a 100 della forma a^2 - b^2
 > Costruire un grafico di flusso dettagliato per un programma informatico per stampare tutti gli integri positivi fino a 100 della forma $a^2 - b^2 - c^2$, dove $a$, $b$, $c$ sono integri positivi e $a \ge b + c$.
 > 
 > Non c'è bisogno di stampare in ordine ascendente o di evitare ripetizioni.
-
-[[Quesiti/src_bmo1_1973#q10|src_bmo1_1973__Q10]]
 
 
 
@@ -366,5 +346,3 @@ Scheda di flusso per la stampa di numeri interi fino a 100 della forma a^2 - b^2
 > (ii) Tale equazione differenziale è, con $k = M_b/m$: $$\ddot{\theta}\left(4 + 2\cos\theta - 2\cos^2\theta + \frac{k}{2}\right) + \dot{\theta}^2 \sin\theta(2\cos\theta - 1) = \frac{3g(1 + k)\sin\theta}{a + b}$$ Ottenere $\dot{\theta}$ in termini di $\theta$.
 > 
 > [Il momento di inerzia di un cilindro uniforme attorno al suo asse è $\frac{1}{2}(\text{mass})(\text{radius})^2$.]
-
-[[Quesiti/src_bmo1_1973#q11|src_bmo1_1973__Q11]]

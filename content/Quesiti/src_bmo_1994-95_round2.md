@@ -34,8 +34,6 @@ level: BMO Round 2
 
 > Trovare tutti i triples di numeri interi positivi $(a, b, c)$ in modo tale che $$\left(1 + \frac{1}{a}\right)\left(1 + \frac{1}{b}\right)\left(1 + \frac{1}{c}\right) = 2.$$
 
-[[Quesiti/src_bmo_1994-95_round2#q01|src_bmo_1994-95_round2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -61,8 +59,6 @@ level: BMO Round 2
 
 > $ABC$ sia un triangolo, e $D$, $E$, $F$ siano i punti medi di $BC$, $CA$ e $AB$ rispettivamente. Prova che $\angle DAC = \angle ABE$ se e solo se $\angle AFC = \angle ADB$.
 
-[[Quesiti/src_bmo_1994-95_round2#q02|src_bmo_1994-95_round2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima"></span>
@@ -87,8 +83,6 @@ level: BMO Round 2
 *Prove la disuguaglianza dei numeri reali in (0,4)*
 
 > $a$, $b$, $c$ siano numeri reali con $0 < a < b < c < 4$. Prove che $0 < a + b + c - abc < 4$.
-
-[[Quesiti/src_bmo_1994-95_round2#q03|src_bmo_1994-95_round2__Q03]]
 
 
 
@@ -118,5 +112,3 @@ level: BMO Round 2
 > (a) Determinare, con una spiegazione attenta, in quanti modi le persone $2n$ possono essere accoppiate per formare squadre $n$ di $2$.
 > 
 > b) dimostrare che $(2mn)!$ è divisibile per $((m!)^n (n!)^m)^2$ per tutti gli integri positivi $m$, $n$.
-
-[[Quesiti/src_bmo_1994-95_round2#q04|src_bmo_1994-95_round2__Q04]]

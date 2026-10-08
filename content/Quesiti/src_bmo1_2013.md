@@ -33,8 +33,6 @@ level: BMO Round 1
 
 > Isaac colloca alcuni contatori sui quadrati di un $8$ da una scacchiera $8$ in modo che ci sia al massimo un contatore in ciascuno dei quadrati $64$. Determinare, con giustificazione, il numero massimo che può inserire senza avere cinque o più contatori nella stessa riga, nella stessa colonna o su uno dei due lunghi diagonali.
 
-[[Quesiti/src_bmo1_2013#q01|src_bmo1_2013__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
@@ -59,8 +57,6 @@ level: BMO Round 1
 *Due cerchi tangenti con una tangente comune; dimostrare che tre punti sono collineari.*
 
 > Due cerchi $S$ e $T$ si toccano a $X$. Hanno una tangente comune che incontra $S$ a $A$ e $T$ a $B$. I punti $A$ e $B$ sono diversi. Il diametro di $AP$ deve essere di $S$. Provare che $B$, $X$ e $P$ si trovano su una linea retta.
-
-[[Quesiti/src_bmo1_2013#q02|src_bmo1_2013__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: BMO Round 1
 
 > Trova tutti i numeri reali $x, y$ e $z$ che soddisfano le equazioni simultanee $x^2 - 4y + 7 = 0$, $y^2 - 6z + 14 = 0$ e $z^2 - 2x - 7 = 0$.
 
-[[Quesiti/src_bmo1_2013#q03|src_bmo1_2013__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
@@ -113,8 +107,6 @@ level: BMO Round 1
 *Trova tutti gli integri positivi n facendo 12n-119 e 75n-539 entrambi quadrati perfetti.*
 
 > Trova tutti gli integri positivi $n$ in modo che $12n - 119$ e $75n - 539$ siano entrambi quadrati perfetti.
-
-[[Quesiti/src_bmo1_2013#q04|src_bmo1_2013__Q04]]
 
 
 
@@ -141,8 +133,6 @@ level: BMO Round 1
 
 > Un triangolo ha lati di lunghezza massima $2$, $3$ e $4$ rispettivamente. Determinare, con prova, l'area massima possibile del triangolo.
 
-[[Quesiti/src_bmo1_2013#q05|src_bmo1_2013__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
@@ -167,5 +157,3 @@ level: BMO Round 1
 *Due cerchi tangenti ai lati del triangolo si incontrano a A e D; dimostrare che D è il punto medio di AE.*
 
 > Lasciate che $ABC$ sia un triangolo. Il circolo attraverso $S$ sia tangente a $B$ a $CA$ a $A$ e il circolo attraverso $C$ sia tangente a $AB$ a $A$. I cerchi $S$ e $T$ si intersecano a $A$ e $D$. $E$ è il punto in cui la linea $AD$ incontra il cerchio $ABC$. Provare che $D$ è il punto medio di $AE$.
-
-[[Quesiti/src_bmo1_2013#q06|src_bmo1_2013__Q06]]

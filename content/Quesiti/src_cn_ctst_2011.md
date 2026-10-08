@@ -35,8 +35,6 @@ level: China National Team Selection Test
 
 > Date un numero intero $n \ge 3$, trovare il numero reale massimo $M$, in modo tale che per tutti i numeri positivi $x_1, x_2, \ldots, x_n$, esista una permutazione $y_1, y_2, \ldots, y_n$ di $x_1, x_2, \ldots, x_n$ che soddisfa $$\sum_{i=1}^{n} \frac{y_i^2}{y_{i+1}^2 - y_{i+1} y_{i+2} + y_{i+2}^2} \ge M,$$ dove $y_{n+1} = y_1$, $y_{n+2} = y_2$. (Posizionato da Qu Zhenhua)
 
-[[Quesiti/src_cn_ctst_2011#q01|src_cn_ctst_2011__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_cassetti,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -61,8 +59,6 @@ level: China National Team Selection Test
 *Prove l'esistenza di a in [1, n/k+1] con n ̊ a ̊ a-1)*
 
 > Che $n > 1$ sia un numero intero, $k$ sia il numero di fattori primi distinti di $n$. Prova che esiste un numero intero $a$, $1 \le a \le \dfrac{n}{k} + 1$, tale che $n \mid a(a-1)$. (Possibile da Yu Hongbing)
-
-[[Quesiti/src_cn_ctst_2011#q02|src_cn_ctst_2011__Q02]]
 
 
 
@@ -93,8 +89,6 @@ level: China National Team Selection Test
 > 
 > **Remark.** Un percorso tra due vertici distinti $a$ e $b$ con lunghezza $k$ è una sequenza di vertici $a = v_0, v_1, \ldots, v_k = b$ in cui $v_i$ e $v_{i+1}$ ($i = 0, 1, \ldots, k-1$) sono adiacenti. (Possibile da Leng Gangsong)
 
-[[Quesiti/src_cn_ctst_2011#q03|src_cn_ctst_2011__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
@@ -124,8 +118,6 @@ level: China National Team Selection Test
 
 ![[src_cn_ctst_b11_w134__q04.png]]
 
-[[Quesiti/src_cn_ctst_2011#q04|src_cn_ctst_2011__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_induzione,method_cassetti,method_estremalita,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -150,8 +142,6 @@ level: China National Team Selection Test
 *Permutazione dei numeri interi positivi: infinito i con lcm(a_i, a_{i+1}) <= 3i/4*
 
 > Lasciate che $a_1, a_2, \ldots$ sia una permutazione di tutti gli integri positivi. Prove che esistono infinitamente molti interi positivi $i$, come $(a_i, a_{i+1}) \le \dfrac{3}{4}i$. (Possibile da Chen Yonggao)
-
-[[Quesiti/src_cn_ctst_2011#q05|src_cn_ctst_2011__Q05]]
 
 
 
@@ -181,5 +171,3 @@ level: China National Team Selection Test
 > Chiamiamo una sequenza di punti $(A_1, A_2, \ldots, A_n)$ interessante se l'abcissa e l'ordinato di ciascun punto sono interi, le pendenti dei segmenti $OA_1, OA_2, \ldots, OA_n$ sono rigorosamente in aumento ($O$ è l'origine), e l'area di ciascuna $\triangle OA_i A_{i+1}$ ($1 \le i \le n-1$) è uguale a $\dfrac{1}{2}$.
 > 
 > Per una sequenza di punti $(A_1, \ldots, A_n)$, inserendo un punto $A$ adiacente a due punti $A_i, A_{i+1}$ soddisfacendo $\overrightarrow{OA} = \overrightarrow{OA_i} + \overrightarrow{OA_{i+1}}$, possiamo ottenere una nuova sequenza di punti $(A_1, \ldots, A_i, A, A_{i+1}, \ldots, A_n)$. Lasciate che $(A_1, \ldots, A_n)$ e $(B_1, \ldots, B_m)$ siano due sequenze di punti interessanti. Prova che se $A_1 = B_1$ e $A_n = B_m$, si possono espandere entrambe le sequenze di punti a una sequenza di punti comune $(C_1, C_2, \ldots, C_s)$. (Posizionato da Qu Zhenhua)
-
-[[Quesiti/src_cn_ctst_2011#q06|src_cn_ctst_2011__Q06]]

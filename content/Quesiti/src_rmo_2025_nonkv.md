@@ -45,8 +45,6 @@ level: RMO
 > 
 > b) Indicare le configurazioni delle linee $n$ che hanno esattamente $n+1$ punti di intersezione distinti per (i) $n = 8$ e (ii) $n = 9$.
 
-[[Quesiti/src_rmo_2025_nonkv#q01|src_rmo_2025_nonkv__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_simmetria,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -74,8 +72,6 @@ level: RMO
 
 > Che $a, b, c$ siano numeri reali non zero distinti che soddisfano $$a + \frac{2}{b} = b + \frac{2}{c} = c + \frac{2}{a}.$$ Determina il valore di $|a^2 b + b^2 c + c^2 a|$.
 
-[[Quesiti/src_rmo_2025_nonkv#q02|src_rmo_2025_nonkv__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_backward,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -100,8 +96,6 @@ level: RMO
 *Due cerchi, linea trasversale, conciclicità e lunghezze uguali*
 
 > Si deve che $\Omega$ e $\Gamma$ siano rispettivamente cerchi incentrati su $O_1, O_2$. Supponiamo che si incrociano nei punti $A, B$. Supponiamo che $O_1$ sia fuori di $\Gamma$ e $O_2$ sia fuori di $\Omega$. La linea $\ell$ deve essere una linea che non attraversa $A$ e $B$ e che incrocia $\Omega$ a $P, R$ e $\Gamma$ a $Q, S$ in modo tale che $P, Q, R, S$ si trovi sulla linea in questo ordine. Inoltre, i punti $O_1, B$ si trovano su un lato di $\ell$ e i punti $O_2, A$ si trovano sull'altro lato di $\ell$. Considerato che i punti $A, P, Q, O_1$ sono conciclici e $B, R, S, O_2$ sono conciclici, dimostrare anche che $AQ = BR$.
-
-[[Quesiti/src_rmo_2025_nonkv#q03|src_rmo_2025_nonkv__Q03]]
 
 
 
@@ -129,8 +123,6 @@ level: RMO
 
 > Prova che non esistono numeri reali positivi $x$ e $y$ in modo tale che $$x + y + \frac{1}{x} + \frac{1}{y} = 2025.$$
 
-[[Quesiti/src_rmo_2025_nonkv#q04|src_rmo_2025_nonkv__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -155,8 +147,6 @@ level: RMO
 *Triangolo acuto, circoncircolo, punto medio; dimostrare che il MH è uguale al circondario*
 
 > Il $ABC$ deve essere un triangolo acuto con $AB < AC$, orthocentro $H$ e circoncircolo $\Omega$. Il $M$ deve essere il punto medio dell'arco minore $BC$ di $\Omega$. Supponiamo che $\angle BAC = 60^\circ$. Provare che $MH$ è uguale al raggio di $\Omega$.
-
-[[Quesiti/src_rmo_2025_nonkv#q05|src_rmo_2025_nonkv__Q05]]
 
 
 
@@ -184,5 +174,3 @@ level: RMO
 *Polinomio con coefficienti interi; divisibilità per n di p(b)-p(a)*
 
 > Che $p(x)$ sia un polinomio non costante con coefficienti interi e che $n \ge 2$ sia un intero tale che la sequenza $$p(0),\ p(p(0)),\ p(p(p(0))),\ldots$$ sia divisibile da $n$. Mostra che esistono integri $a, b$ in modo che $0 \le a < b \le n-1$ e $n$ dividano $p(b) - p(a)$.
-
-[[Quesiti/src_rmo_2025_nonkv#q06|src_rmo_2025_nonkv__Q06]]

@@ -41,8 +41,6 @@ level: OBM Nível 1
 > 
 > b) Tra i numeri rimanenti, quanti sono stati scritti utilizzando solo i numeri $0$ e $1$?
 
-[[Quesiti/src_obm_2011_n1_f3#q01|src_obm_2011_n1_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,topic_aritmetica,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -66,8 +64,6 @@ level: OBM Nível 1
 *Minimum di piccoli cubetti uguali da aggiungere a un cubo rosso di 2 cm per ottenere un cubo di volume (12/5)^3.*
 
 > Abbiamo un cubo rosso con bordo $2$ cm. Qual è il numero minimo di piccoli cubetti uguali che dobbiamo unire a quello rosso per ottenere un cubo di volume $\left(\frac{12}{5}\right)^3$ cm$^3$?
-
-[[Quesiti/src_obm_2011_n1_f3#q02|src_obm_2011_n1_f3__Q02]]
 
 
 
@@ -104,8 +100,6 @@ Numeri * "Chapa": tutte le cifre non zeri e la somma dei quadrati di cifre è un
 > a) Qual è il più grande intero positivo a due cifre che è un chapa?
 > 
 > b) Esiste un numero intero positivo con cifre $2011$ che è un chapa? Giustifica la tua risposta.
-
-[[Quesiti/src_obm_2011_n1_f3#q03|src_obm_2011_n1_f3__Q03]]
 
 
 
@@ -144,8 +138,6 @@ Numeri * "Chapa": tutte le cifre non zeri e la somma dei quadrati di cifre è un
 
 ![[src_obm_2011_n1_f3__q04.png]]
 
-[[Quesiti/src_obm_2011_n1_f3#q04|src_obm_2011_n1_f3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_casework,skill_conteggio_sistematico,skill_casework_accurato,skill_modellizzazione"></span>
@@ -178,5 +170,3 @@ Numeri * "Chapa": tutte le cifre non zeri e la somma dei quadrati di cifre è un
 > a) Completare una tabella in modo che esattamente $3$ delle somme $8$ siano moltipli di $3$.
 > 
 > b) È possibile che nessuna delle somme $8$ sia un multiple di $3$? Ricorda che devi giustificare la tua risposta.
-
-[[Quesiti/src_obm_2011_n1_f3#q05|src_obm_2011_n1_f3__Q05]]

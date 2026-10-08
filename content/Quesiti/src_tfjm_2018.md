@@ -73,8 +73,6 @@ level: TFJM²
 
 ![[src_tfjm_2018__q01.png]]
 
-[[Quesiti/src_tfjm_2018#q01|src_tfjm_2018__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_ricorsione,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -167,8 +165,6 @@ level: TFJM²
 
 ![[src_tfjm_2018__q02.png]]
 
-[[Quesiti/src_tfjm_2018#q02|src_tfjm_2018__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_logica,method_casework,method_estremalita,method_backward,skill_modellizzazione,skill_casework_accurato,skill_ragionamento_geometrico"></span>
@@ -231,8 +227,6 @@ level: TFJM²
 > 5. Proporre e studiare altre direzioni di ricerca.
 
 ![[src_tfjm_2018__q03.png]]
-
-[[Quesiti/src_tfjm_2018#q03|src_tfjm_2018__Q03]]
 
 
 
@@ -301,8 +295,6 @@ level: TFJM²
 
 ![[src_tfjm_2018__q04.png]]
 
-[[Quesiti/src_tfjm_2018#q04|src_tfjm_2018__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_trigonometria,topic_geometria_analitica,method_trigonometria,method_coordinate,method_casework,method_simmetria,skill_ragionamento_geometrico,skill_astrazione,skill_casework_accurato"></span>
@@ -367,8 +359,6 @@ level: TFJM²
 
 ![[src_tfjm_2018__q05.png]]
 
-[[Quesiti/src_tfjm_2018#q05|src_tfjm_2018__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_logica,method_casework,method_estremalita,method_backward,method_simmetria,skill_modellizzazione,skill_casework_accurato,skill_conteggio_sistematico"></span>
@@ -417,8 +407,6 @@ level: TFJM²
 > 3. Igor propone una nuova distribuzione delle carte. Si gioca di nuovo con le carte numerate da $1$ a $2n$, ma ogni giocatore cambia la distribuzione iniziale. Igor quindi vuole fare strettamente meglio di Sophia (cioè avere strettamente più punti di lei alla fine della partita), ma vuole il minor numero di giri di gioco possibile. Con le diverse regole della domanda 1, stima questo numero di giri.
 > 
 > 4. Proporre e studiare altre direzioni di ricerca.
-
-[[Quesiti/src_tfjm_2018#q06|src_tfjm_2018__Q06]]
 
 
 
@@ -476,8 +464,6 @@ level: TFJM²
 > 5. Per un intero $n\in\mathbb{N}^*$, Ada scrive $B_n$ per l'insieme di quadrati della forma $(x,y)$ con $x,y\in\mathbb{Z}$ e $|x|,|y|\le n$. Il tempo di intervento di un cavaliere in $B_n$ è il numero più grande scritto sui quadrati di $B_n$. Per quali valori di $(a,b)$ il tempo di intervento in $B_n$ è minimo? Ada scrive $T_n$ per questo valore. Valutare $T_n$ in funzione di $n$.
 > 
 > 6. Proporre e studiare altre direzioni di ricerca.
-
-[[Quesiti/src_tfjm_2018#q07|src_tfjm_2018__Q07]]
 
 
 
@@ -542,8 +528,6 @@ level: TFJM²
 > 
 > 7. Proporre e studiare altre direzioni di ricerca, ad esempio considerando la possibilità di disegnare corrispondenze che guadagnino $a$ punti con $0\le a\le 1$.
 
-[[Quesiti/src_tfjm_2018#q08|src_tfjm_2018__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_logica,method_casework,method_invarianti,method_backward,method_simmetria,skill_modellizzazione,skill_casework_accurato,skill_astrazione"></span>
@@ -594,5 +578,3 @@ level: TFJM²
 > 5. La stessa domanda, ma Gabrielle deve ora attivare le torce $a$ per turno, e le torce Marie $b$ per turno, per due integri fissi $a$ e $b$.
 > 
 > 6. Proporre e studiare altre direzioni di ricerca.
-
-[[Quesiti/src_tfjm_2018#q09|src_tfjm_2018__Q09]]

@@ -31,13 +31,11 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I termini di sequenza hanno tre o più fattori primi*
+*Termini della successione con tre o più fattori primi*
 
-> Nella sequenza $7, 76, 769, 7692, 76923, 769230, \ldots$, il termine $n$ è dato dai primi numeri $n$ dopo il punto decimale nell'espansione di $10/13 = 0.7692307692\ldots$
+> Nella successione $7, 76, 769, 7692, 76923, 769230, \ldots$, l'$n$-esimo termine è formato dalle prime $n$ cifre dopo la virgola dello sviluppo decimale di $10/13 = 0.7692307692\ldots$
 > 
-> Prove che nei primi 60 termini della sequenza, almeno 49 hanno tre o più fattori primi (sono ammessi fattori primi ripetuti; ad esempio, $76 = 2 \times 2 \times 19$ ha tre fattori primi).
-
-[[Quesiti/src_bmo2_2024#q01|src_bmo2_2024__Q01]]
+> Si dimostri che, tra i primi 60 termini della successione, almeno 49 hanno tre o più fattori primi (i fattori primi ripetuti contano; ad esempio, $76 = 2 \times 2 \times 19$ ha tre fattori primi).
 
 
 
@@ -61,11 +59,10 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale su numeri interi con 2f(f(n))=5f(n)-2n*
+*Equazione funzionale sugli interi con 2f(f(n))=5f(n)-2n*
 
-> Trova tutte le funzioni $f$ dai numeri interi ai numeri interi in modo che per tutti i numeri interi $n$: $$2f(f(n)) = 5f(n) - 2n.$$
-
-[[Quesiti/src_bmo2_2024#q02|src_bmo2_2024__Q02]]
+> Si trovino tutte le funzioni $f$ dagli interi agli interi tali che, per ogni intero $n$:
+> $$2f(f(n)) = 5f(n) - 2n.$$
 
 
 
@@ -76,9 +73,9 @@ level: BMO Round 2
 
 *Cyclic quadrilateral from tangent intersections in acute triangle*
 
-> Let $ABC$ be an acute-angled triangle with $AB > AC$. Let $P$ be the intersection of the tangents to the circumcircle of $ABC$ at $B$ and $C$. The line $PB$ and $PC$ meets lines $AB$ and $AC$ at $X$ and $Y$ respectively.
+> Let $ABC$ be an acute-angled triangle with $AB > AC$. Let $P$ be the intersection of the tangents to the circumcircle of $ABC$ at $B$ and $C$. The line through the midpoints of line segments $PB$ and $PC$ meets lines $AB$ and $AC$ at $X$ and $Y$ respectively.
 > 
-> Prove that the quadrilateral $AXYP$ is cyclic.
+> Prove that the quadrilateral $AXPY$ is cyclic.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -90,36 +87,37 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilatero ciclico da intersezioni tangenti in triangolo acuto*
+*Quadrilatero ciclico dalle tangenti in un triangolo acutangolo*
 
-> Il $ABC$ deve essere un triangolo acuto con $AB > AC$. $P$ è l'intersezione delle tangenti al circoncircolo di $ABC$ a $B$ e $C$. Le linee $PB$ e $PC$ incontrano rispettivamente le linee $AB$ e $AC$ a $X$ e $Y$.
+> Sia $ABC$ un triangolo acutangolo con $AB > AC$. Sia $P$ il punto di intersezione delle tangenti alla circonferenza circoscritta ad $ABC$ in $B$ e in $C$. La retta passante per i punti medi dei segmenti $PB$ e $PC$ interseca le rette $AB$ e $AC$ rispettivamente in $X$ e $Y$.
 > 
-> Provare che il quadrilaterale $AXYP$ è ciclico.
-
-[[Quesiti/src_bmo2_2024#q03|src_bmo2_2024__Q03]]
+> Si dimostri che il quadrilatero $AXPY$ è ciclico.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags=""></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_casework,method_congruenze,skill_astrazione,skill_modellizzazione,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
-*method* — **115** quesiti (italiani).
+<div class="qlang-switch" data-default="en"></div>
 
-## Quesiti
-
-<div class="qtable" data-field="methods" data-values="method_inclusione_esclusione"></div>
-
-*method* — **424** quesiti (italiani).
-
-## Quesiti
-
-<div class="qtable" data-field="methods" data-values="method_estremalita"></div>
 
 *Empty piles by removing n objects from two chosen piles*
 
-> Let $m < n$ be positive integers. Start with $n$ piles, each of $m$ objects. Repeatedly carry out the following operation: choose two piles and remove $n$ objects in total from the two piles. For which $(m, n)$ is it possible to empty all the piles?
+> Let $m < n$ be positive integers. Start with $n$ piles, each of $m$ objects. Repeatedly carry out the following operation: choose two piles and remove $n$ objects in total from the two piles.
+> 
+> For which $(m, n)$ is it possible to empty all the piles?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qirmXk6tq7Hx6xI5cofs-qU6mUOTNEF2/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+
+*Svuotare le pile togliendo n oggetti da due pile scelte*
+
+> Siano $m < n$ interi positivi. Si parte da $n$ pile, ciascuna di $m$ oggetti. Si ripete la seguente operazione: si scelgono due pile e si tolgono in tutto $n$ oggetti da queste due pile.
+> 
+> Per quali $(m, n)$ è possibile svuotare tutte le pile?

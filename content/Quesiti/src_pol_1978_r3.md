@@ -33,8 +33,6 @@ level: Olimpiade Polacca Round 3
 
 > Un raggio di luce si riflette dai raggi di un determinato angolo. Un raggio che entra nel vertice dell'angolo viene assorbito. Prova che esiste un numero naturale $n$ tale che qualsiasi raggio possa riflettere al massimo $n$ volte.
 
-[[Quesiti/src_pol_1978_r3#q01|src_pol_1978_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_geometria_analitica,method_colorazione,method_bigezione,skill_conteggio_sistematico,skill_modellizzazione"></span>
@@ -64,8 +62,6 @@ level: Olimpiade Polacca Round 3
 > 
 > In altre parole, una scacchiera infinita, le cui cellule con entrambe le coordinate divisibili per 4 sono tagliate fuori, non può essere piastrellato da dominò.
 
-[[Quesiti/src_pol_1978_r3#q02|src_pol_1978_r3__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -93,8 +89,6 @@ Se i polinomi P,Q,R di grado inferiore a m soddisfano l'identità data, dimostra
 
 > Prova che se $m$ è un numero naturale e $P,Q,R$ polinomi di gradi inferiori a $m$ soddisfa $$x^{2m}P(x,y)+y^{2m}Q(x,y)=(x+y)^{2m}R(x,y),$$ allora ciascuno dei polinomi è zero.
 
-[[Quesiti/src_pol_1978_r3#q03|src_pol_1978_r3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_doppio_conteggio,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -119,8 +113,6 @@ Se i polinomi P,Q,R di grado inferiore a m soddisfano l'identità data, dimostra
 *Per un insieme X di n elementi, provare la somma di A ∩B di tutti i coppie di sottoinsiemi è uguale a n·4^{n-1}.*
 
 > Si deve $X$ essere un insieme di elementi $n$. Prove che la somma dei numeri di elementi di set $A\cap B$, dove $A$ e $B$ si corrono su tutti i sottoinsiemi di $X$, è uguale a $n\cdot 4^{n-1}$.
-
-[[Quesiti/src_pol_1978_r3#q04|src_pol_1978_r3__Q04]]
 
 
 
@@ -149,8 +141,6 @@ Se i polinomi P,Q,R di grado inferiore a m soddisfano l'identità data, dimostra
 
 > Per un dato numero reale $a$, definire la sequenza $(a_n)$ da $a_1=a$ e $$a_{n+1}=\begin{cases} \frac{1}{2}\left(a_n-\frac{1}{a_n}\right) & \text{if } a_n\ne 0, \\ 0 & \text{if } a_n=0. \end{cases}$$ Prove che la sequenza $(a_n)$ contiene infiniti termini non positivi.
 
-[[Quesiti/src_pol_1978_r3#q05|src_pol_1978_r3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -176,5 +166,3 @@ Se i polinomi P,Q,R di grado inferiore a m soddisfano l'identità data, dimostra
 *Per un tetraedro con altitudini h_i e distanze d_i tra coppie di bordi opposte, dimostrare che le somme squadrate reciproche sono uguali.*
 
 > Prova che se $h_1,h_2,h_3,h_4$ sono le altitudini di un tetraedro e $d_1,d_2,d_3$ sono le distanze tra le coppie di bordi opposti del tetraedro, allora $$\frac{1}{h_1^2}+\frac{1}{h_2^2}+\frac{1}{h_3^2}+\frac{1}{h_4^2}=\frac{1}{d_1^2}+\frac{1}{d_2^2}+\frac{1}{d_3^2}.$$
-
-[[Quesiti/src_pol_1978_r3#q06|src_pol_1978_r3__Q06]]

@@ -37,8 +37,6 @@ level: BMO Round 1
 
 > Risolvere le equazioni simultanee $$a + b = c + d,$$ $$b + c = 2a + b,$$ $$a + c = b + d,$$ $$a + b + c = 6$$ dove $a, b, c, d$ sono numeri reali.
 
-[[Quesiti/src_bmo_2003-04_round1#q01|src_bmo_2003-04_round1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -65,8 +63,6 @@ level: BMO Round 1
 
 > $ABCD$ è un rettangolo, $P$ è il punto medio di $AB$, e $Q$ è il punto su $PD$ in modo tale che $CQ$ sia perpendicolare a $PD$. Prove che il triangolo $BQC$ è uguale.
 
-[[Quesiti/src_bmo_2003-04_round1#q02|src_bmo_2003-04_round1__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_invarianti,method_simmetria,skill_modellizzazione,skill_astrazione,skill_ragionamento_geometrico"></span>
@@ -91,8 +87,6 @@ level: BMO Round 1
 Gioco di carte: Alice punta sempre almeno quanto Barbara
 
 > Alice e Barbara giocano a un gioco con un pacchetto di carte $26$, su ciascuna delle quali è scritto un intero positivo. Il pacchetto è mescolato e le carte disposte in fila, con i numeri rivolti verso l'alto. Alice inizia, e le ragazze si alternano per togliere una carta da entrambe le estremità della fila, fino a quando Barbara prende l'ultima carta. Il punteggio di ogni ragazza è la somma dei numeri sulle carte scelte. Dimostra che Alice può sempre ottenere un punteggio almeno grande come Barbara.
-
-[[Quesiti/src_bmo_2003-04_round1#q03|src_bmo_2003-04_round1__Q03]]
 
 
 
@@ -119,8 +113,6 @@ Gioco di carte: Alice punta sempre almeno quanto Barbara
 
 > Un insieme di numeri interi positivi è definito come cattivo se non contiene tre numeri interi consecutivi come elementi; l'insieme vuoto è un insieme cattivo. Trovare il numero di sottosette malvagi di $\{1, 2, 3, 4, 5, 6, 7, 8, 9, 10\}$.
 
-[[Quesiti/src_bmo_2003-04_round1#q04|src_bmo_2003-04_round1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
@@ -145,5 +137,3 @@ Gioco di carte: Alice punta sempre almeno quanto Barbara
 *Primi p,q,r con q di p-1, rp-1; trovare tutti i valori di pq*
 
 > Lasciate che $p$, $q$ e $r$ siano numeri primi. È dato che $q$ divide $p - 1$ e $r$ divide $p - 1$. Determinare tutti i possibili valori di $pq$.
-
-[[Quesiti/src_bmo_2003-04_round1#q05|src_bmo_2003-04_round1__Q05]]

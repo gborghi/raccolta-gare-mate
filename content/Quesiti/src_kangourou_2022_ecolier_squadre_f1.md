@@ -38,7 +38,6 @@ level: squadre
 > that is written with the same digits, but each in a different place. How many pages are missing from the book?
 
 **Answer:** 0082
-[[Quesiti/src_kangourou_2022_ecolier_squadre_f1#q01|src_kangourou_2022_ecolier_squadre_f1__Q01]]
 
 
 
@@ -71,7 +70,6 @@ level: squadre
 > How many values, all different from each other, do you get by making these sums?
 
 **Answer:** 4041
-[[Quesiti/src_kangourou_2022_ecolier_squadre_f1#q02|src_kangourou_2022_ecolier_squadre_f1__Q02]]
 
 
 
@@ -107,7 +105,6 @@ level: squadre
 > 1152 digits were needed. How many millimeters thick is the entire book?
 
 **Answer:** 0030
-[[Quesiti/src_kangourou_2022_ecolier_squadre_f1#q03|src_kangourou_2022_ecolier_squadre_f1__Q03]]
 
 
 
@@ -140,7 +137,6 @@ level: squadre
 > two digits (the hundreds digit and the tens digit) is equal to the third digit (the units digit)?
 
 **Answer:** 0045
-[[Quesiti/src_kangourou_2022_ecolier_squadre_f1#q04|src_kangourou_2022_ecolier_squadre_f1__Q04]]
 
 
 
@@ -178,7 +174,6 @@ level: squadre
 > the ribbon long, in total?
 
 **Answer:** 0157
-[[Quesiti/src_kangourou_2022_ecolier_squadre_f1#q05|src_kangourou_2022_ecolier_squadre_f1__Q05]]
 
 
 
@@ -215,7 +210,6 @@ level: squadre
 > three numbers he obtains is as low as possible. What will this sum be?
 
 **Answer:** 3444
-[[Quesiti/src_kangourou_2022_ecolier_squadre_f1#q06|src_kangourou_2022_ecolier_squadre_f1__Q06]]
 
 
 
@@ -246,7 +240,6 @@ level: squadre
 > How many different squares can you see in this figure?
 
 **Answer:** 0018
-[[Quesiti/src_kangourou_2022_ecolier_squadre_f1#q07|src_kangourou_2022_ecolier_squadre_f1__Q07]]
 
 
 
@@ -282,7 +275,6 @@ level: squadre
 > add the digit 0 at the end?
 
 **Answer:** 0015
-[[Quesiti/src_kangourou_2022_ecolier_squadre_f1#q08|src_kangourou_2022_ecolier_squadre_f1__Q08]]
 
 
 
@@ -318,7 +310,6 @@ level: squadre
 > there are 300 litres of water in the cistern. How many were there before the first tap was opened?
 
 **Answer:** 1650
-[[Quesiti/src_kangourou_2022_ecolier_squadre_f1#q09|src_kangourou_2022_ecolier_squadre_f1__Q09]]
 
 
 
@@ -351,7 +342,6 @@ level: squadre
 > the product of its two digits and finally added up all these products. What sum did he get?
 
 **Answer:** 2025
-[[Quesiti/src_kangourou_2022_ecolier_squadre_f1#q10|src_kangourou_2022_ecolier_squadre_f1__Q10]]
 
 
 
@@ -386,7 +376,6 @@ level: squadre
 > as only one way.)
 
 **Answer:** 0506
-[[Quesiti/src_kangourou_2022_ecolier_squadre_f1#q11|src_kangourou_2022_ecolier_squadre_f1__Q11]]
 
 
 
@@ -428,7 +417,6 @@ level: squadre
 > to B once?
 
 **Answer:** 0090
-[[Quesiti/src_kangourou_2022_ecolier_squadre_f1#q12|src_kangourou_2022_ecolier_squadre_f1__Q12]]
 
 
 
@@ -461,7 +449,6 @@ level: squadre
 > 0. How many numbers did she write?
 
 **Answer:** 0019
-[[Quesiti/src_kangourou_2022_ecolier_squadre_f1#q13|src_kangourou_2022_ecolier_squadre_f1__Q13]]
 
 
 
@@ -494,7 +481,6 @@ level: squadre
 > the sum of all those that precede it. Which number is found in the fourteenth position?
 
 **Answer:** 6144
-[[Quesiti/src_kangourou_2022_ecolier_squadre_f1#q14|src_kangourou_2022_ecolier_squadre_f1__Q14]]
 
 
 
@@ -531,4 +517,3 @@ level: squadre
 > ways are to be considered different.
 
 **Answer:** 0024
-[[Quesiti/src_kangourou_2022_ecolier_squadre_f1#q15|src_kangourou_2022_ecolier_squadre_f1__Q15]]

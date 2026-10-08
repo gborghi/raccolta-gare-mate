@@ -32,8 +32,6 @@ level: kangourou
 
 > In the strange Kanglandic language, the words "yes" and "no" translate to "KAB" and "BAK", but not necessarily in this order. You meet a person you can trust, who knows both the Italian and the Kanglandic language, and you ask them: "Is it true that KAB means 'yes'?" The person answers, "KAB". Can you tell if "KAB" means "yes" or "no"?
 
-[[Quesiti/src_kangourou_2024_cadet_finale#qc1|src_kangourou_2024_cadet_finale__QC1]]
-
 
 
 <span class="atom-split" id="qc2" data-atom="qc2" data-title="Quesito C2" data-tags="topic_aritmetica,method_conteggio,skill_conteggio_sistematico"></span>
@@ -58,8 +56,6 @@ level: kangourou
 *Are there more reducible or irreducible fractions (1..12)*
 
 > Consider all possible fractions less than $1$ in which both the numerator and denominator are integers between $1$ and $12$ included. Are there more reducible fractions or irreducible fractions?
-
-[[Quesiti/src_kangourou_2024_cadet_finale#qc2|src_kangourou_2024_cadet_finale__QC2]]
 
 
 
@@ -126,8 +122,6 @@ level: kangourou
 
 > Two triangles are given. The lengths of two of the sides of one shall coincide with the lengths of two of the sides of the other and the height relative to the third side of one shall coincide with that relative to the third side of the other. Are the two triangles necessarily congruent? (see figure)
 
-[[Quesiti/src_kangourou_2024_cadet_finale#qc3|src_kangourou_2024_cadet_finale__QC3]]
-
 
 
 <span class="atom-split" id="qc4" data-atom="qc4" data-title="Quesito C4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -151,8 +145,6 @@ level: kangourou
 *Minimum antenna distance from the most distant dwelling*
 
 > Three dwellings are at the vertices of an isosceles triangle whose sides measure $80$, $80$ and $120$ meters. Using a single antenna, we want to make it possible to receive internet in the three houses. In metres, what is the minimum distance the antenna can have from the dwelling that turns out to be the furthest away?
-
-[[Quesiti/src_kangourou_2024_cadet_finale#qc4|src_kangourou_2024_cadet_finale__QC4]]
 
 
 
@@ -179,8 +171,6 @@ Because the result of Marco is always 1089
 
 > Mark tries to perform the following operations: he chooses a number of three digits all different from each other, writes the number he gets by reversing the order of the digits, and calculates the difference between the greater and the lesser of the two numbers. If this difference has only two digits, prefix $0$ to this difference, otherwise it remains unchanged. Finally, it adds to the number thus obtained the number it gets by reversing the order of its digits. What is the result? Our question suggests that the outcome does not depend on the number initially chosen by Marco: explain why.
 
-[[Quesiti/src_kangourou_2024_cadet_finale#qc5|src_kangourou_2024_cadet_finale__QC5]]
-
 
 
 <span class="atom-split" id="qc6" data-atom="qc6" data-title="Quesito C6" data-tags="topic_combinatoria,topic_geometria_analitica,method_estremalita,skill_astrazione"></span>
@@ -205,5 +195,3 @@ Because the result of Marco is always 1089
 *Minimum number of lines to cover the vertices of the squares*
 
 > On a huge square sheet of square paper you want to draw lines, none parallel to the ones that delimit the squares, so that all the vertices of the squares that appear on the sheet are covered by at least one line. What is the smallest number of lines that is sufficient to trace?
-
-[[Quesiti/src_kangourou_2024_cadet_finale#qc6|src_kangourou_2024_cadet_finale__QC6]]

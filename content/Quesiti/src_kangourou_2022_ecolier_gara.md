@@ -44,7 +44,6 @@ level: kangourou
 > D) 7 and 2 E) 9 and 7
 
 **Answer:** E
-[[Quesiti/src_kangourou_2022_ecolier_gara#q01|src_kangourou_2022_ecolier_gara__Q01]]
 
 
 
@@ -93,7 +92,6 @@ level: kangourou
 > E) 7
 
 **Answer:** C
-[[Quesiti/src_kangourou_2022_ecolier_gara#q02|src_kangourou_2022_ecolier_gara__Q02]]
 
 
 
@@ -134,7 +132,6 @@ level: kangourou
 > Look at the picture: the bee wants to reach the flower. In the answers, each arrow represents the passage from one square to another, in the direction and sense indicated by the arrow. What set of arrows allows the bee to reach the flower? A) → → ↓ ↓ ↓       B) ↓ ↓ → ↓ ↓ C) → ↓ → ↓ → D) → ↓ → ↓ ↓ → E) ↓ → → ↓ ↓ ↓
 
 **Answer:** D
-[[Quesiti/src_kangourou_2022_ecolier_gara#q03|src_kangourou_2022_ecolier_gara__Q03]]
 
 
 
@@ -207,7 +204,6 @@ level: kangourou
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2022_ecolier_gara#q04|src_kangourou_2022_ecolier_gara__Q04]]
 
 
 
@@ -259,7 +255,6 @@ level: kangourou
 > E) 12
 
 **Answer:** E
-[[Quesiti/src_kangourou_2022_ecolier_gara#q05|src_kangourou_2022_ecolier_gara__Q05]]
 
 
 
@@ -318,7 +313,6 @@ From which point does the laser beam come out between the mirrors
 > E) E
 
 **Answer:** B
-[[Quesiti/src_kangourou_2022_ecolier_gara#q06|src_kangourou_2022_ecolier_gara__Q06]]
 
 
 
@@ -410,7 +404,6 @@ From which point does the laser beam come out between the mirrors
 > E)
 
 **Answer:** A
-[[Quesiti/src_kangourou_2022_ecolier_gara#q07|src_kangourou_2022_ecolier_gara__Q07]]
 
 
 
@@ -460,7 +453,6 @@ From which point does the laser beam come out between the mirrors
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2022_ecolier_gara#q08|src_kangourou_2022_ecolier_gara__Q08]]
 
 
 
@@ -492,7 +484,6 @@ From which point does the laser beam come out between the mirrors
 > 9. Ivan entered numbers into a grid of 3×3 with the intention that the six sums obtained by adding the numbers of each row and each column would be equal. But Ivan made a mistake: What number should be corrected? A) 1 B) 3 C) One of the two 4. D) 5
 
 **Answer:** B
-[[Quesiti/src_kangourou_2022_ecolier_gara#q09|src_kangourou_2022_ecolier_gara__Q09]]
 
 
 
@@ -529,7 +520,6 @@ From which point does the laser beam come out between the mirrors
 > Every cell in the grid here on the side contains one of the numbers 1, 2, 3, 4, 5. The numbers entered so far comply with the following rule: if two cells have a side in common, they do not contain the same number. Which of the following pieces, inserted into the grid, allows you to continue to comply with the rule? A)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2022_ecolier_gara#q10|src_kangourou_2022_ecolier_gara__Q10]]
 
 
 
@@ -568,7 +558,6 @@ From which point does the laser beam come out between the mirrors
 > Kangaroo mother's children are 2, 4, 5, 6, 8, 10 years old. Four of them are girls and their combined ages are 22. How old are the two boys? A) 2 and 8 B) 4 and 5 C) 5 and 8 D) 6 and 8 E) 6 and 10
 
 **Answer:** C
-[[Quesiti/src_kangourou_2022_ecolier_gara#q11|src_kangourou_2022_ecolier_gara__Q11]]
 
 
 
@@ -611,7 +600,6 @@ From which point does the laser beam come out between the mirrors
 > C) 32 D) 35 E) 36
 
 **Answer:** E
-[[Quesiti/src_kangourou_2022_ecolier_gara#q12|src_kangourou_2022_ecolier_gara__Q12]]
 
 
 
@@ -656,7 +644,6 @@ From which point does the laser beam come out between the mirrors
 > C) 28 D) 32 E) 36
 
 **Answer:** D
-[[Quesiti/src_kangourou_2022_ecolier_gara#q13|src_kangourou_2022_ecolier_gara__Q13]]
 
 
 
@@ -804,7 +791,6 @@ From which point does the laser beam come out between the mirrors
 > A) 8, 11, 26, 29 B) 14, 17, 20, 23 C) 15, 16, 21, 22 D) 14, 16, 21, 23 E) 15, 17, 20, 22
 
 **Answer:** B
-[[Quesiti/src_kangourou_2022_ecolier_gara#q14|src_kangourou_2022_ecolier_gara__Q14]]
 
 
 
@@ -851,7 +837,6 @@ From which point does the laser beam come out between the mirrors
 > D) 13 E) 14
 
 **Answer:** E
-[[Quesiti/src_kangourou_2022_ecolier_gara#q15|src_kangourou_2022_ecolier_gara__Q15]]
 
 
 
@@ -906,7 +891,6 @@ From which point does the laser beam come out between the mirrors
 > E) 6 Questions from N. 17 to N. 24 are worth five points each.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2022_ecolier_gara#q16|src_kangourou_2022_ecolier_gara__Q16]]
 
 
 
@@ -955,7 +939,6 @@ From which point does the laser beam come out between the mirrors
 > E) 19
 
 **Answer:** B
-[[Quesiti/src_kangourou_2022_ecolier_gara#q17|src_kangourou_2022_ecolier_gara__Q17]]
 
 
 
@@ -1005,7 +988,6 @@ From which point does the laser beam come out between the mirrors
 > E) 6
 
 **Answer:** D
-[[Quesiti/src_kangourou_2022_ecolier_gara#q18|src_kangourou_2022_ecolier_gara__Q18]]
 
 
 
@@ -1055,7 +1037,6 @@ From which point does the laser beam come out between the mirrors
 >
 
 **Answer:** E
-[[Quesiti/src_kangourou_2022_ecolier_gara#q19|src_kangourou_2022_ecolier_gara__Q19]]
 
 
 
@@ -1121,7 +1102,6 @@ From which point does the laser beam come out between the mirrors
 > E) Both 1 and 5.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2022_ecolier_gara#q20|src_kangourou_2022_ecolier_gara__Q20]]
 
 
 
@@ -1179,7 +1159,6 @@ Minimum laps for George to meet Thea again in A.
 > E) 5
 
 **Answer:** C
-[[Quesiti/src_kangourou_2022_ecolier_gara#q21|src_kangourou_2022_ecolier_gara__Q21]]
 
 
 
@@ -1226,7 +1205,6 @@ Minimum laps for George to meet Thea again in A.
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2022_ecolier_gara#q22|src_kangourou_2022_ecolier_gara__Q22]]
 
 
 
@@ -1268,7 +1246,6 @@ Minimum laps for George to meet Thea again in A.
 > C)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2022_ecolier_gara#q23|src_kangourou_2022_ecolier_gara__Q23]]
 
 
 
@@ -1361,4 +1338,3 @@ Minimum laps for George to meet Thea again in A.
 > E)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2022_ecolier_gara#q24|src_kangourou_2022_ecolier_gara__Q24]]

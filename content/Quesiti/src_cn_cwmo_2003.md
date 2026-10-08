@@ -39,7 +39,6 @@ level: China Western Mathematical Olympiad
 ![[src_cn_cwmo_2003__q01.png]]
 
 **Risposta:** 16
-[[Quesiti/src_cn_cwmo_2003#q01|src_cn_cwmo_2003__Q01]]
 
 
 
@@ -66,8 +65,6 @@ level: China Western Mathematical Olympiad
 
 > $a_1, a_2, \ldots, a_{2n}$ siano numeri reali con $\sum_{k=1}^{2n-1}(a_{k+1} - a_k)^2 = 1$. Trova il valore massimo di $(a_{n+1} + a_{n+2} + \cdots + a_{2n}) - (a_1 + a_2 + \cdots + a_n)$.
 
-[[Quesiti/src_cn_cwmo_2003#q02|src_cn_cwmo_2003__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_estremalita,skill_conteggio_sistematico,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
@@ -92,8 +89,6 @@ level: China Western Mathematical Olympiad
 *Minimum integro positivo d diviso sufficienti numeri dispari consecutivi*
 
 > $n$ sia un dato numero intero positivo. Trova il numero intero meno positivo $d$ in modo tale che in ogni numero pari positivo successivo $n$ il numero di numeri interi non divisibili da $d$ non sia inferiore al numero di numeri interi divisibili da $d$ in $1, 3, 5, \ldots, 2n-1$.
-
-[[Quesiti/src_cn_cwmo_2003#q03|src_cn_cwmo_2003__Q03]]
 
 
 
@@ -124,8 +119,6 @@ level: China Western Mathematical Olympiad
 
 ![[src_cn_cwmo_2003__q04.png]]
 
-[[Quesiti/src_cn_cwmo_2003#q04|src_cn_cwmo_2003__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_induzione,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -150,8 +143,6 @@ level: China Western Mathematical Olympiad
 *Sequenza con a_0=0 e ricorrenza radicale; prove che i termini sono interi*
 
 > Se $\{a_n\}$ è una sequenza di numeri con $a_0 = 0$ e $a_{n+1} = \delta a_n - \sqrt{(\delta^2 - 1) \cdot 3 a_n^2 + 1}$, $n = 0, 1, 2, \ldots$ dimostri che la sequenza $\{a_n\}$ è composta da integri e che $a_{n+1} \ge 2a_n - 1$ per tutti $n \ge 0$.
-
-[[Quesiti/src_cn_cwmo_2003#q05|src_cn_cwmo_2003__Q05]]
 
 
 
@@ -182,8 +173,6 @@ level: China Western Mathematical Olympiad
 
 ![[src_cn_cwmo_2003__q06.png]]
 
-[[Quesiti/src_cn_cwmo_2003#q06|src_cn_cwmo_2003__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_telescoping,skill_manipolazione_algebrica,skill_stima"></span>
@@ -209,8 +198,6 @@ level: China Western Mathematical Olympiad
 
 > $r_1, r_2, \ldots, r_n$ siano numeri reali non negativi con $\sum_{i=1}^{n} \frac{r_i}{i + r_i} = 1$. Prove che $\sum_{i=1}^{n} \frac{r_i}{4i - 1} \le 1$.
 
-[[Quesiti/src_cn_cwmo_2003#q07|src_cn_cwmo_2003__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,method_doppio_conteggio,method_disuguaglianze,skill_conteggio_sistematico,skill_modellizzazione,skill_stima"></span>
@@ -235,5 +222,3 @@ level: China Western Mathematical Olympiad
 *Rimedio sul numero di ragazzi in seduta*
 
 > Organizzare gli studenti $1650$ nelle righe $22$ per colonne $75$. È noto che per due colonne il numero di volte in cui due studenti della stessa riga sono dello stesso sesso non supera $11$. Dimostrare che il numero di ragazzi non supera $928$.
-
-[[Quesiti/src_cn_cwmo_2003#q08|src_cn_cwmo_2003__Q08]]

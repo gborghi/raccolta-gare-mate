@@ -33,8 +33,6 @@ level: Olimpiade Polacca Round 3
 
 > Un numero pari di persone partecipa a una conferenza a tavola rotonda. Dopo la pausa pranzo i partecipanti cambiano posto. Mostrate che alcune due persone sono separate dallo stesso numero di persone che erano prima della pausa.
 
-[[Quesiti/src_pol_1989_r3#q01|src_pol_1989_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: Olimpiade Polacca Round 3
 *Tre cerchi tangenti in coppia; attraverso una catena di costruzioni secanti dimostrano che tre punti sono collineari.*
 
 > I cerchi $K_1$, $K_2$, $K_3$ sono indicati nel piano in modo tale che $K_2$ e $K_3$ siano tangenti a $P$, $K_3$ e $K_1$ a $Q$, e $K_1$ e $K_2$ a $R$. Le linee $PQ$ e $PR$ si riducono rispettivamente a $S$ e $T$. Le linee $SR$ e $TQ$ sono tagliate $K_2$ e $K_3$ di nuovo a $U$ e $V$. Provare che i punti $P$, $U$, $V$ sono collineari.
-
-[[Quesiti/src_pol_1989_r3#q02|src_pol_1989_r3__Q02]]
 
 
 
@@ -95,8 +91,6 @@ level: Olimpiade Polacca Round 3
 > 
 > (b) Fornisci un esempio di una numerazione per la quale ci sono esattamente otto tripli.
 
-[[Quesiti/src_pol_1989_r3#q03|src_pol_1989_r3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_probabilita,topic_combinatoria,method_ricorsione,method_induzione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -121,8 +115,6 @@ level: Olimpiade Polacca Round 3
 *Catena casuale di sottoinsiemi a partire da un n-set, ciascuno un sottoinsieme uniformemente casuale del precedente; mostrare la cardinalità attesa di A_k è n/2^k.*
 
 > Si devono dare integri positivi $n$ e $k$. Si consideri una catena di set $A_0, A_1, \ldots, A_k$ in cui $A_0 = \{1, \ldots, n\}$, e per ciascuna $i$, $A_i$ è un sottoinsieme scelto a caso di $A_{i-1}$ (tutte le scelte sono equiprobabili). Indicare che la cardinalità attesa di $A_k$ è $n/2^k$.
-
-[[Quesiti/src_pol_1989_r3#q04|src_pol_1989_r3__Q04]]
 
 
 
@@ -149,8 +141,6 @@ level: Olimpiade Polacca Round 3
 
 > I cerchi pari di raggio $a$ si trovano su un emisfero di raggio $r$. Calcolare il raggio di un quarto cerchio sulla stessa sfera che è tangente ai tre cerchi dati.
 
-[[Quesiti/src_pol_1989_r3#q05|src_pol_1989_r3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica"></span>
@@ -176,5 +166,3 @@ level: Olimpiade Polacca Round 3
 *Per i reali positivi a,b,c,d dimostrare che la radice quadrata della media dei prodotti in coppia è almeno la radice cubica della media dei prodotti tripla.*
 
 > Che $a$, $b$, $c$, $d$ siano numeri positivi. Provare la disuguaglianza $$\sqrt{\frac{ab + ac + ad + bc + bd + cd}{6}} \ge \sqrt[3]{\frac{abc + abd + acd + bcd}{4}}.$$
-
-[[Quesiti/src_pol_1989_r3#q06|src_pol_1989_r3__Q06]]

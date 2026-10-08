@@ -35,7 +35,6 @@ level: OBM Nível 1
 > Un vaso contiene $\frac{1}{4}$ della sua capacità in acqua. Versa una tazza piena di acqua nel vaso, il volume raggiunge $\frac{1}{3}$ della sua capacità. Quanti altri bicchieri pieni sono ancora necessari per riempire completamente il vaso?
 
 **Risposta:** 8
-[[Quesiti/src_obm_2010_n1_f2#q01|src_obm_2010_n1_f2__Q01]]
 
 
 
@@ -66,7 +65,6 @@ level: OBM Nível 1
 > Joãozinho vuole fare una moltiplicazione per i compiti, ma ha cancellato alcune cifre dal suo quaderno, che sono rappresentate da $\square$ (ogni cifra cancellata può essere diversa dalle altre). I prodotti parziali e il risultato finale sono come mostrato: $$\begin{array}{r} \square \; 1 \\ \times \; 2 \; 3 \\ \hline 4 \; \square \\ \square \; \square \; 4 \\ \hline 1 \; \square \; \square \; 0 \; 2 \end{array}$$ Qual è la somma dei numeri cancellati?
 
 **Risposta:** 14
-[[Quesiti/src_obm_2010_n1_f2#q02|src_obm_2010_n1_f2__Q02]]
 
 
 
@@ -99,7 +97,6 @@ level: OBM Nível 1
 ![[src_obm_2010_n1_f2__q03.png]]
 
 **Risposta:** 4
-[[Quesiti/src_obm_2010_n1_f2#q03|src_obm_2010_n1_f2__Q03]]
 
 
 
@@ -128,7 +125,6 @@ level: OBM Nível 1
 > Esmeralda scrisse i numeri interi positivi uno dopo l'altro formando una sequenza: $1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, \ldots$ e si fermò quando raggiunse la $149{,}162{,}536$th cifra. Qual e' stata l'ultima cifra che ha scritto?
 
 **Risposta:** 6
-[[Quesiti/src_obm_2010_n1_f2#q04|src_obm_2010_n1_f2__Q04]]
 
 
 
@@ -157,7 +153,6 @@ level: OBM Nível 1
 > Carlinhos scrive diversi numeri interi positivi inferiori a $1000$ su diverse palle e li colloca in una scatola, in modo che Mariazinha possa disegnare palle successive casuali dalla scatola. Quante palle Carlinhos deve mettere nella scatola come minimo in modo che Mariazinha sia garantita, quando traccia al massimo $\frac{1}{7}$ delle palle totali nella scatola, di tracciare due palle il cui numero ha un divisore comune maggiore di $1$?
 
 **Risposta:** 162
-[[Quesiti/src_obm_2010_n1_f2#q05|src_obm_2010_n1_f2__Q05]]
 
 
 
@@ -186,7 +181,6 @@ level: OBM Nível 1
 > Un concorso ha domande $10$; ogni risposta corretta punta $3$ punti, ogni risposta sbagliata punta $-1$ punti e ogni domanda senza risposta punta $0$ punti. Nessun candidato ha dato le stesse risposte, e le correzioni sono state fatte con lo stesso foglio di punteggio. Quanti candidati al massimo avrebbero potuto ottenere il punteggio più alto in questo concorso?
 
 **Risposta:** 14
-[[Quesiti/src_obm_2010_n1_f2#q06|src_obm_2010_n1_f2__Q06]]
 
 
 
@@ -229,8 +223,6 @@ level: OBM Nível 1
 
 ![[src_obm_2010_n1_f2__q07.png]]
 
-[[Quesiti/src_obm_2010_n1_f2#q07|src_obm_2010_n1_f2__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_casework_accurato,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
@@ -255,8 +247,6 @@ level: OBM Nível 1
 *Faci di carta: somma di cifre sul retro; trovare carte dove una faccia è doppia dell'altra*
 
 > Maria ha carte $90$ numerate da $10$ a $99$ su una faccia; sull'altra faccia di ogni carta ha scritto la somma dei numeri del numero sul fronte. Ad esempio, la scheda con $43$ sul fronte ha $7$ scritto sul retro. In quante carte il numero su una faccia è esattamente il doppio del numero sull'altra faccia?
-
-[[Quesiti/src_obm_2010_n1_f2#q08|src_obm_2010_n1_f2__Q08]]
 
 
 
@@ -294,5 +284,3 @@ level: OBM Nível 1
 > b) Qual è il numero minimo di tagli per trasformare tre quadrati di aree $4\,\text{cm}^2$, $9\,\text{cm}^2$ e $36\,\text{cm}^2$ rispettivamente in un unico quadrato?
 
 ![[src_obm_2010_n1_f2__q09.png]]
-
-[[Quesiti/src_obm_2010_n1_f2#q09|src_obm_2010_n1_f2__Q09]]

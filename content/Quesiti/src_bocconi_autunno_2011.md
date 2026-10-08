@@ -39,7 +39,6 @@ level: Giochi d'Autunno
 ![[src_bocconi_autunno_2011__q01.png]]
 
 **Answer:** 4
-[[Quesiti/src_bocconi_autunno_2011#q01|src_bocconi_autunno_2011__Q01]]
 
 
 
@@ -71,8 +70,7 @@ level: Giochi d'Autunno
 
 ![[src_bocconi_autunno_2011__q02.png]]
 
-**Answer:** Orologio
-[[Quesiti/src_bocconi_autunno_2011#q02|src_bocconi_autunno_2011__Q02]]
+**Answer:** Watch
 
 
 
@@ -105,7 +103,6 @@ Maximum number of pieces by cutting a horse iron with two straight lines
 ![[src_bocconi_autunno_2011__q03.png]]
 
 **Answer:** 5
-[[Quesiti/src_bocconi_autunno_2011#q03|src_bocconi_autunno_2011__Q03]]
 
 
 
@@ -138,7 +135,6 @@ Maximum number of pieces by cutting a horse iron with two straight lines
 ![[src_bocconi_autunno_2011__q04.png]]
 
 **Answer:** 12
-[[Quesiti/src_bocconi_autunno_2011#q04|src_bocconi_autunno_2011__Q04]]
 
 
 
@@ -171,7 +167,6 @@ Maximum number of grey squares rounded with 20 whites
 ![[src_bocconi_autunno_2011__q05.png]]
 
 **Answer:** 16
-[[Quesiti/src_bocconi_autunno_2011#q05|src_bocconi_autunno_2011__Q05]]
 
 
 
@@ -199,8 +194,7 @@ The age of Angelo by the speeches of partially correct friends
 
 > Carla and Milena have three friends: Angelo, Nando, and Pietro, who are three different ages (9, 10, and 11). Carla says, "I think Nando is 11 and Angelo is 10". For Milena, Peter is 11 and Nando is 10. Each of them guessed the age of one friend, while the other three friends got it wrong. How old is Angelo?
 
-**Answer:** 10 anni
-[[Quesiti/src_bocconi_autunno_2011#q06|src_bocconi_autunno_2011__Q06]]
+**Answer:** 10 years
 
 
 
@@ -229,7 +223,6 @@ The age of Angelo by the speeches of partially correct friends
 > The date 29/09/2011 (29 September 2011) is written using four digits, each of which is used twice. What will be the next date (written like the previous one, as day/month/year) that has the same property of being written with four digits, each used twice?
 
 **Answer:** 13-03-2012
-[[Quesiti/src_bocconi_autunno_2011#q07|src_bocconi_autunno_2011__Q07]]
 
 
 
@@ -262,7 +255,6 @@ The age of Angelo by the speeches of partially correct friends
 ![[src_bocconi_autunno_2011__q08.png]]
 
 **Answer:** 74444
-[[Quesiti/src_bocconi_autunno_2011#q08|src_bocconi_autunno_2011__Q08]]
 
 
 
@@ -294,8 +286,7 @@ The age of Angelo by the speeches of partially correct friends
 
 ![[src_bocconi_autunno_2011__q09.png]]
 
-**Answer:** Vedere la suddivisione in figura
-[[Quesiti/src_bocconi_autunno_2011#q09|src_bocconi_autunno_2011__Q09]]
+**Answer:** See the division in the figure
 
 
 
@@ -327,8 +318,7 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 
 ![[src_bocconi_autunno_2011__q10.png]]
 
-**Answer:** Riga 1: 10, 21, 9, 16, 5, 14, 2; Riga 2: 3, 4, 7, 11, 15, 18, 19; Riga 3: 20, 8, 17, 6, 13, 1, 12
-[[Quesiti/src_bocconi_autunno_2011#q10|src_bocconi_autunno_2011__Q10]]
+**Answer:** Row 1: 10, 21, 9, 16, 5, 14, 2; Row 2: 3, 4, 7, 11, 15, 18, 19; Row 3: 20, 8, 17, 6, 13, 1, 12
 
 
 
@@ -357,7 +347,6 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 > They're linear numbers where the sum of the digits is equal to 5. An example of a quintal number is 5, 32, 11, 111, 20. How many quintals are there between 1 and 1000?
 
 **Answer:** 21
-[[Quesiti/src_bocconi_autunno_2011#q11|src_bocconi_autunno_2011__Q11]]
 
 
 
@@ -390,7 +379,6 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 ![[src_bocconi_autunno_2011__q12.png]]
 
 **Answer:** $384 \text{ cm}^2$
-[[Quesiti/src_bocconi_autunno_2011#q12|src_bocconi_autunno_2011__Q12]]
 
 
 
@@ -423,7 +411,6 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 ![[src_bocconi_autunno_2011__q13.png]]
 
 **Answer:** 25
-[[Quesiti/src_bocconi_autunno_2011#q13|src_bocconi_autunno_2011__Q13]]
 
 
 
@@ -451,8 +438,7 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 
 > Subtracting the digit 0 from the number 405, you get 45 which is its ninth (which is still divisible by 9). Find another four-digit number (only the number is enough) so that, by subtracting a 0, you get a ninth.
 
-**Answer:** 2025 oppure 4050 oppure 6075
-[[Quesiti/src_bocconi_autunno_2011#q14|src_bocconi_autunno_2011__Q14]]
+**Answer:** 2025 or 4050 or 6075
 
 
 
@@ -480,8 +466,7 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 
 > Give an example of a positive integer whose square has four digits, all equal.
 
-**Answer:** 68 oppure 78 oppure 80 oppure 92
-[[Quesiti/src_bocconi_autunno_2011#q15|src_bocconi_autunno_2011__Q15]]
+**Answer:** 68 or 78 or 80 or 92
 
 
 
@@ -514,7 +499,6 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 ![[src_bocconi_autunno_2011__q16.png]]
 
 **Answer:** $608630 \text{ m}^2$
-[[Quesiti/src_bocconi_autunno_2011#q16|src_bocconi_autunno_2011__Q16]]
 
 
 
@@ -543,7 +527,6 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 > In a large clock, the hour hand measures 20 cm while the minute hand measures 30 cm. At four o'clock, what is the square of the distance between the ends of the two hands?
 
 **Answer:** 1900
-[[Quesiti/src_bocconi_autunno_2011#q17|src_bocconi_autunno_2011__Q17]]
 
 
 
@@ -575,5 +558,4 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 
 ![[src_bocconi_autunno_2011__q18.png]]
 
-**Answer:** Vedere la suddivisione in figura
-[[Quesiti/src_bocconi_autunno_2011#q18|src_bocconi_autunno_2011__Q18]]
+**Answer:** See the division in the figure

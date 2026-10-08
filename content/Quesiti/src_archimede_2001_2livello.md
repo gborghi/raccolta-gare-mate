@@ -49,7 +49,6 @@ level: 2 livello
 > - **(E)** The data is insufficient.
 
 **Answer:** C
-[[Quesiti/src_archimede_2001_2livello#q01|src_archimede_2001_2livello__Q01]]
 
 
 
@@ -91,7 +90,6 @@ level: 2 livello
 > - **(E)** 40 < n ≤50.
 
 **Answer:** B
-[[Quesiti/src_archimede_2001_2livello#q02|src_archimede_2001_2livello__Q02]]
 
 
 
@@ -137,7 +135,6 @@ level: 2 livello
 > - **(E)** None of the previous ones.
 
 **Answer:** C
-[[Quesiti/src_archimede_2001_2livello#q03|src_archimede_2001_2livello__Q03]]
 
 
 
@@ -178,7 +175,6 @@ level: 2 livello
 > - **(E)** None of the previous ones.
 
 **Answer:** C
-[[Quesiti/src_archimede_2001_2livello#q04|src_archimede_2001_2livello__Q04]]
 
 
 
@@ -220,7 +216,6 @@ level: 2 livello
 > - **(E)** The data is insufficient to answer.
 
 **Answer:** E
-[[Quesiti/src_archimede_2001_2livello#q05|src_archimede_2001_2livello__Q05]]
 
 
 
@@ -261,7 +256,6 @@ This is the sum of A+B+C+D with AC×BC=DDD*
 > - **(E)** 21.
 
 **Answer:** E
-[[Quesiti/src_archimede_2001_2livello#q06|src_archimede_2001_2livello__Q06]]
 
 
 
@@ -302,7 +296,6 @@ This is the sum of A+B+C+D with AC×BC=DDD*
 > - **(E)** the lateral surface of a cylinder.
 
 **Answer:** C
-[[Quesiti/src_archimede_2001_2livello#q07|src_archimede_2001_2livello__Q07]]
 
 
 
@@ -344,7 +337,6 @@ Probability that Lorenzo is healthy given the positive test*
 > - **(E)** 99 100.
 
 **Answer:** D
-[[Quesiti/src_archimede_2001_2livello#q08|src_archimede_2001_2livello__Q08]]
 
 
 
@@ -386,7 +378,6 @@ Probability that Lorenzo is healthy given the positive test*
 > - **(E)** y < x < 1.
 
 **Answer:** E
-[[Quesiti/src_archimede_2001_2livello#q09|src_archimede_2001_2livello__Q09]]
 
 
 
@@ -429,7 +420,6 @@ Probability that Lorenzo is healthy given the positive test*
 > - **(E)** None of the previous ones. Problems with a numerical answer  8 points
 
 **Answer:** C
-[[Quesiti/src_archimede_2001_2livello#q10|src_archimede_2001_2livello__Q10]]
 
 
 
@@ -460,7 +450,6 @@ Probability that Lorenzo is healthy given the positive test*
 > In a regular tetrahedron of vertices A, B, C, D, we use P and Q to indicate the centers of the two faces that have the AB joint. What is the ratio of the volume of the initial tetrahedron to that of the tetrahedron whose vertices are points A, B, P and Q?
 
 **Answer:** 9
-[[Quesiti/src_archimede_2001_2livello#q11|src_archimede_2001_2livello__Q11]]
 
 
 
@@ -489,7 +478,6 @@ Probability that Lorenzo is healthy given the positive test*
 > Both the smallest positive integer > 200 that can be written as either the sum of 5 consecutive integers or as the sum of 6 consecutive integers and 7 consecutive integers. How much is n?
 
 **Answer:** 315
-[[Quesiti/src_archimede_2001_2livello#q12|src_archimede_2001_2livello__Q12]]
 
 
 
@@ -520,7 +508,6 @@ Probability that Lorenzo is healthy given the positive test*
 > Consider an ABCD square of 16 meters side. On two consecutive sides AB and BC, the two equilateral triangles ABE and BCF are constructed externally relative to the square. What is the area of the BEF triangle expressed in square metres?
 
 **Answer:** 64
-[[Quesiti/src_archimede_2001_2livello#q13|src_archimede_2001_2livello__Q13]]
 
 
 
@@ -548,7 +535,6 @@ Probability that Lorenzo is healthy given the positive test*
 > What is the minimum number of throws of a 6-sided dice to be made to have a probability greater than 50% that the sum of all scores obtained is greater than or equal to 48?
 
 **Answer:** 14
-[[Quesiti/src_archimede_2001_2livello#q14|src_archimede_2001_2livello__Q14]]
 
 
 
@@ -577,7 +563,6 @@ Probability that Lorenzo is healthy given the positive test*
 > What is the algebraic sum of the coefficients of the polynomial (x21 + 4x2 −3)2001 −(x21 + 4x2 + 3)667 + x21 + 4x2?
 
 **Answer:** 5
-[[Quesiti/src_archimede_2001_2livello#q15|src_archimede_2001_2livello__Q15]]
 
 
 
@@ -609,8 +594,6 @@ Probability that Lorenzo is healthy given the positive test*
 
 > Whether ABC is a triangle such that the angle of ACB = 60°. Both M the midpoint of the side AB and H and K are the feet of heights starting from B and A respectively. Prove that the HMK triangle is equilateral.
 
-[[Quesiti/src_archimede_2001_2livello#q16|src_archimede_2001_2livello__Q16]]
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,method_fattorizzazione,skill_casework_accurato"></span>
@@ -640,4 +623,3 @@ Probability that Lorenzo is healthy given the positive test*
 > Demonstratory Exercise Determine all solutions (a, b) with a, b integers relative to the equation a3 + b3 = 91.
 
 **Answer:** (6,-5),(-5,6),(3,4),(4,3)
-[[Quesiti/src_archimede_2001_2livello#q17|src_archimede_2001_2livello__Q17]]

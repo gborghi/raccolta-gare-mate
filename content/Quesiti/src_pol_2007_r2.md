@@ -33,8 +33,6 @@ level: Olimpiade Polacca Round 2
 
 > Un polinomio $P(x)$ ha coefficienti interi. Prova che se i polinomi $P(x)$ e $P(P(x))$ hanno uno zero comune, allora hanno anche uno zero intero comune.
 
-[[Quesiti/src_pol_2007_r2#q01|src_pol_2007_r2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,skill_ragionamento_geometrico"></span>
@@ -59,8 +57,6 @@ level: Olimpiade Polacca Round 2
 *In un pentagono convexo con le due uguali e gli angoli rettangolari dati, dimostrare che tre segmenti formano un triangolo e trovare i suoi angoli dati due angoli.*
 
 > Considera un pentagono convex $ABCDE$ con $BC=CD$, $DE=EA$ e $\angle BCD=\angle DEA=90^\circ$. Prova che $AC,CE$ e $EB$ sono lati di un triangolo e trova gli angoli di questo triangolo, sapendo che $\angle ACE=\alpha$ e $\angle BEC=\beta$.
-
-[[Quesiti/src_pol_2007_r2#q02|src_pol_2007_r2__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: Olimpiade Polacca Round 2
 
 > Un triangolo equilaterale di lato $n$ è composto da piastrelle triangolari equilaterali di lato $n^2$. Ogni piastrella ha un lato bianco e l'altro nero. Una mossa consentita è la seguente: scegliere una piastrella $P$ che abbia un lato comune con almeno altre due piastrelle la cui faccia superiore è di colore diverso da quello di $P$; poi girare $P$. Per ciascuna $n\ge 2$ determinare se esiste una posizione iniziale che consente infinite mosse di questo tipo.
 
-[[Quesiti/src_pol_2007_r2#q03|src_pol_2007_r2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -113,8 +107,6 @@ level: Olimpiade Polacca Round 2
 *Se i numeri interi positivi a,b,c,d soddisfano ad=b^2+bc+c^2, allora a^2+b^2+c^2+d^2 è composto.*
 
 > Prova che se $a,b,c,d$ sono numeri interi positivi che soddisfano $ad=b^2+bc+c^2$, il numero $a^2+b^2+c^2+d^2$ è composto.
-
-[[Quesiti/src_pol_2007_r2#q04|src_pol_2007_r2__Q04]]
 
 
 
@@ -141,8 +133,6 @@ level: Olimpiade Polacca Round 2
 
 > Un quadrilaterale convex $ABCD$ con $AB\ne CD$ è inserito in un cerchio. Le $AKDL$ e $CMBN$ siano rombole con lunghezza laterale $a$. Prova che i punti $K,L,M,N$ si trovano su un cerchio.
 
-[[Quesiti/src_pol_2007_r2#q05|src_pol_2007_r2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima"></span>
@@ -167,5 +157,3 @@ level: Olimpiade Polacca Round 2
 *Per i valori positivi a,b,c,d con ripercussioni sommate a 4, provare che la somma dei termini di radice cubica è al massimo 2(a+b+c+d)-4.*
 
 > I numeri positivi $a,b,c,d$ soddisfano $\frac{1}{a}+\frac{1}{b}+\frac{1}{c}+\frac{1}{d}=4$. Provare che $$\sqrt[3]{\frac{a^3+b^3}{2}}+\sqrt[3]{\frac{b^3+c^3}{2}}+\sqrt[3]{\frac{c^3+d^3}{2}}+\sqrt[3]{\frac{d^3+a^3}{2}}\le 2(a+b+c+d)-4.$$
-
-[[Quesiti/src_pol_2007_r2#q06|src_pol_2007_r2__Q06]]

@@ -48,7 +48,6 @@ level: biennio
 > - **(E)** None of the previous ones.
 
 **Answer:** C
-[[Quesiti/src_archimede_2000_biennio#q01|src_archimede_2000_biennio__Q01]]
 
 
 
@@ -118,7 +117,6 @@ level: biennio
 > - **(E)** None of the previous ones.
 
 **Answer:** B
-[[Quesiti/src_archimede_2000_biennio#q02|src_archimede_2000_biennio__Q02]]
 
 
 
@@ -158,7 +156,6 @@ level: biennio
 > - **(E)** 1001.
 
 **Answer:** D
-[[Quesiti/src_archimede_2000_biennio#q03|src_archimede_2000_biennio__Q03]]
 
 
 
@@ -198,7 +195,6 @@ level: biennio
 > - **(E)** None of the previous ones.
 
 **Answer:** B
-[[Quesiti/src_archimede_2000_biennio#q04|src_archimede_2000_biennio__Q04]]
 
 
 
@@ -238,7 +234,6 @@ level: biennio
 > - **(E)** 80%.
 
 **Answer:** D
-[[Quesiti/src_archimede_2000_biennio#q05|src_archimede_2000_biennio__Q05]]
 
 
 
@@ -283,7 +278,6 @@ level: biennio
 > - **(E)** None of the previous ones.
 
 **Answer:** E
-[[Quesiti/src_archimede_2000_biennio#q06|src_archimede_2000_biennio__Q06]]
 
 
 
@@ -326,7 +320,6 @@ level: biennio
 > - **(E)** The data is insufficient.
 
 **Answer:** C
-[[Quesiti/src_archimede_2000_biennio#q07|src_archimede_2000_biennio__Q07]]
 
 
 
@@ -372,7 +365,6 @@ level: biennio
 > - **(E)** 25π cm2.
 
 **Answer:** A
-[[Quesiti/src_archimede_2000_biennio#q08|src_archimede_2000_biennio__Q08]]
 
 
 
@@ -413,7 +405,6 @@ level: biennio
 > - **(E)** 6:18.
 
 **Answer:** B
-[[Quesiti/src_archimede_2000_biennio#q09|src_archimede_2000_biennio__Q09]]
 
 
 
@@ -458,7 +449,6 @@ level: biennio
 > - **(E)** None of the previous ones.
 
 **Answer:** C
-[[Quesiti/src_archimede_2000_biennio#q10|src_archimede_2000_biennio__Q10]]
 
 
 
@@ -502,7 +492,6 @@ level: biennio
 > - **(E)** 5 km.
 
 **Answer:** B
-[[Quesiti/src_archimede_2000_biennio#q11|src_archimede_2000_biennio__Q11]]
 
 
 
@@ -545,7 +534,6 @@ level: biennio
 > - **(E)** 5 m.
 
 **Answer:** B
-[[Quesiti/src_archimede_2000_biennio#q12|src_archimede_2000_biennio__Q12]]
 
 
 
@@ -588,7 +576,6 @@ level: biennio
 > - **(E)** more than EUR 4.
 
 **Answer:** D
-[[Quesiti/src_archimede_2000_biennio#q13|src_archimede_2000_biennio__Q13]]
 
 
 
@@ -632,7 +619,6 @@ level: biennio
 > - **(E)** 220.
 
 **Answer:** A
-[[Quesiti/src_archimede_2000_biennio#q14|src_archimede_2000_biennio__Q14]]
 
 
 
@@ -675,7 +661,6 @@ level: biennio
 > - **(E)** 5.
 
 **Answer:** D
-[[Quesiti/src_archimede_2000_biennio#q15|src_archimede_2000_biennio__Q15]]
 
 
 
@@ -718,7 +703,6 @@ level: biennio
 > - **(E)** 80 9 .
 
 **Answer:** A
-[[Quesiti/src_archimede_2000_biennio#q16|src_archimede_2000_biennio__Q16]]
 
 
 
@@ -760,7 +744,6 @@ level: biennio
 > - **(E)** 1 20.
 
 **Answer:** D
-[[Quesiti/src_archimede_2000_biennio#q17|src_archimede_2000_biennio__Q17]]
 
 
 
@@ -807,7 +790,6 @@ level: biennio
 > - **(E)** the classification position of none can be established.
 
 **Answer:** C
-[[Quesiti/src_archimede_2000_biennio#q18|src_archimede_2000_biennio__Q18]]
 
 
 
@@ -851,7 +833,6 @@ level: biennio
 > - **(E)** It's impossible to determine.
 
 **Answer:** D
-[[Quesiti/src_archimede_2000_biennio#q19|src_archimede_2000_biennio__Q19]]
 
 
 
@@ -895,4 +876,3 @@ level: biennio
 > - **(E)** There's at least one blond guy.
 
 **Answer:** C
-[[Quesiti/src_archimede_2000_biennio#q20|src_archimede_2000_biennio__Q20]]

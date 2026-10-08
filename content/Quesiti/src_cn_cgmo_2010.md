@@ -35,7 +35,6 @@ level: China Girls' Mathematical Olympiad
 > Che $n$ sia un numero intero superiore a due, e che $A_1, A_2, \ldots, A_{2n}$ sia in coppia un sottoinsieme non vuoto di $\{1, 2, \ldots, n\}$. Determinare il valore massimo di $\sum_{i=1}^{2n} \dfrac{|A_i \cap A_{i+1}|}{|A_i| \cdot |A_{i+1}|}$. (Qui, abbiamo impostato $A_{2n+1} = A_1$. Per un insieme $X$, $|X|$ indica il numero di elementi in $X$.)
 
 **Risposta:** n
-[[Quesiti/src_cn_cgmo_2010#q01|src_cn_cgmo_2010__Q01]]
 
 
 
@@ -66,8 +65,6 @@ level: China Girls' Mathematical Olympiad
 
 ![[src_cn_cgmo_b11_w185__q02.png]]
 
-[[Quesiti/src_cn_cgmo_2010#q02|src_cn_cgmo_2010__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_induzione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -96,8 +93,6 @@ level: China Girls' Mathematical Olympiad
 
 > Prove che per ogni dato numero intero positivo $n$ esiste un primo $p$ e un intero $m$ tale che (a) $p \equiv 5 \pmod{6}$; (b) $p \nmid n$; (c) $n \equiv m^2 \pmod{p}$.
 
-[[Quesiti/src_cn_cgmo_2010#q03|src_cn_cgmo_2010__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_disuguaglianze,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
@@ -124,8 +119,6 @@ level: China Girls' Mathematical Olympiad
 *Prove la disuguaglianza ponderata dei numeri reali su sfera unità*
 
 > $x_1, x_2, \ldots, x_n$ (dove $n \ge 2$) siano numeri reali con $x_1^2 + x_2^2 + \cdots + x_n^2 = 1$. Provare che $$\sum_{k=1}^{n} \left(1 - \frac{k}{\sum_{i=1}^{n} i x_i^2}\right)^2 \cdot \frac{x_k^2}{k} \le \left(\frac{n-1}{n+1}\right)^2 \sum_{k=1}^{n} \frac{x_k^2}{k}.$$ determina quando la parità è valida.
-
-[[Quesiti/src_cn_cgmo_2010#q04|src_cn_cgmo_2010__Q04]]
 
 
 
@@ -156,8 +149,6 @@ level: China Girls' Mathematical Olympiad
 
 ![[src_cn_cgmo_b11_w193__q05.png]]
 
-[[Quesiti/src_cn_cgmo_2010#q05|src_cn_cgmo_2010__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_estremalita,method_induzione,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_astrazione"></span>
@@ -185,7 +176,6 @@ level: China Girls' Mathematical Olympiad
 > $n$ sia un numero intero superiore o uguale a 1. Per una permutazione $p = (p_1, p_2, \ldots, p_n)$ di $(1, 2, \ldots, n)$, diciamo che $j$ si trova tra $i$ e $k$ se $i < j < k$ o $k < j < i$. (Per esempio, nella permutation $(1, 3, 2, 4)$, $3$ si trova tra $1$ e $4$, e $3$ non si trova tra $1$ e $2$.) Sia $S = \{p^{(1)}, p^{(2)}, \ldots, p^{(m)}\}$ un insieme di $m$ permutations distinte di $(1, 2, \ldots, n)$ in modo tale che tra ogni tre numeri distinti in $\{1, 2, \ldots, n\}$, uno di questi numeri non si trovi tra gli altri due in ogni permutation $p \in S$. Determinare il valore massimo di $m$.
 
 **Risposta:** $2^{n-1}$
-[[Quesiti/src_cn_cgmo_2010#q06|src_cn_cgmo_2010__Q06]]
 
 
 
@@ -214,4 +204,3 @@ level: China Girls' Mathematical Olympiad
 > Determinare il numero minimo odd $n > 5$ che soddisfa le seguenti condizioni: ci sono interi positivi $m_1, n_1, m_2, n_2$ in modo che $n = m_1^2 + n_1^2 + (n_1 + 1)^2 = m_2^2 + n_2^2 + (n_2 + 1)^2$ e $m_1, n_1, m_2, n_2$ siano tutti diversi tra loro.
 
 **Risposta:** 261
-[[Quesiti/src_cn_cgmo_2010#q07|src_cn_cgmo_2010__Q07]]

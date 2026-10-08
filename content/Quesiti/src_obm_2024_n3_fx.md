@@ -42,8 +42,6 @@ level: OBM Nível 3
 > 
 > Per ottenere punteggi completi, devi giustificare il motivo per cui la tua sequenza ha entrambe le proprietà sopra.
 
-[[Quesiti/src_obm_2024_n3_fx#q01|src_obm_2024_n3_fx__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -69,8 +67,6 @@ level: OBM Nível 3
 *Triangoli equilaterali sull'ipotenusa; intersezione dei ceviani è uguale al prodotto dei segmenti*
 
 > Che $ABC$ sia un triangolo rettangolo a $B$, con altitudine $BT$ sull'ipotenusa $AC$. Costruire i triangoli equilaterali $BTX$ e $BTY$ in modo tale che $X$ sia situato sullo stesso lato di $BT$ rispetto a $A$ e $Y$ sia situato sullo stesso lato di $BT$ rispetto a $C$. Il $P$ deve essere l'intersezione di $AY$ e $CX$. Provare che $$PA \cdot BC = PB \cdot CA = PC \cdot AB.$$
-
-[[Quesiti/src_obm_2024_n3_fx#q02|src_obm_2024_n3_fx__Q02]]
 
 
 
@@ -109,8 +105,6 @@ level: OBM Nível 3
 > 
 > Per mantenere l'organizzazione della missione, una missione non può comportare due colonie con la stessa popolazione e il numero totale delle colonie deve essere massimo $n$. La prima agenzia che non riesca a svolgere una missione fallirà. Determinare, in funzione di $n$, quale agenzia può garantire che non fallisca prima.
 
-[[Quesiti/src_obm_2024_n3_fx#q03|src_obm_2024_n3_fx__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_disuguaglianze,method_simmetria,method_disuguaglianze,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
@@ -138,8 +132,6 @@ level: OBM Nível 3
 
 > Che $x, y, z$ siano tre numeri reali distinti in modo tale che $$\begin{cases} x^2 - x = yz \\ y^2 - y = zx \\ z^2 - z = xy \end{cases}$$ dimostri che $-1 < x, y, z < 1$.
 
-[[Quesiti/src_obm_2024_n3_fx#q04|src_obm_2024_n3_fx__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_invarianti,method_casework,method_estremalita,skill_modellizzazione,skill_conteggio_sistematico,skill_casework_accurato,skill_stima"></span>
@@ -164,8 +156,6 @@ level: OBM Nível 3
 *1 ×2024 gioco da tavolo: Ana e Banana quadrati di colore; trovare min k per Ana per garantire tutto verde*
 
 > $m$ sia un intero positivo con $m \leq 2024$. Ana e Banana giocano un gioco alternativamente su una tavola $1 \times 2024$, con quadrati inizialmente dipinti in bianco. Ana e' la prima. Ogni mossa di Ana consiste nel scegliere quadrati bianchi sulla lavagna e dipingere tutti in verde. Ogni mossa di Banana consiste nel scegliere una sequenza di quadrati verdi consecutivi e dipingere tutti bianchi. Qual è il minimo valore di $m$ per il quale Ana può garantire che, dopo alcune sue mosse, la lavagna sarà completamente dipinta di verde?
-
-[[Quesiti/src_obm_2024_n3_fx#q05|src_obm_2024_n3_fx__Q05]]
 
 
 
@@ -200,5 +190,3 @@ level: OBM Nível 3
 > - $a_n$ non è apparso nella sequenza precedente, o equivalentemente $a_n \neq a_i$ per $0 \leq i < n$; - $(a_{n-1})^{a_n} - 1$ è un multiple di $p(a_{n-1})$.
 > 
 > Prova che ogni intero positivo appare come termine della sequenza; cioè, per ogni intero positivo $m$ esiste $i$ tale che $a_i = m$.
-
-[[Quesiti/src_obm_2024_n3_fx#q06|src_obm_2024_n3_fx__Q06]]

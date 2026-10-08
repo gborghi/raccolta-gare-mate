@@ -39,7 +39,6 @@ level: JJMO Yosen
 ![[src_jjmo16yq_yosen__q01.png]]
 
 **Risposta:** 121
-[[Quesiti/src_jjmo16yq_yosen#q01|src_jjmo16yq_yosen__Q01]]
 
 
 
@@ -68,7 +67,6 @@ level: JJMO Yosen
 > Quanti integri positivi $n$ esistono tali che il rimanente quando $109$ è diviso da $n$ sia almeno $0$ e al massimo $30$?
 
 **Risposta:** 80
-[[Quesiti/src_jjmo16yq_yosen#q02|src_jjmo16yq_yosen__Q02]]
 
 
 
@@ -97,7 +95,6 @@ level: JJMO Yosen
 > Taro ha riunioni di club. Egli assisterà esattamente $6$ di loro. Tuttavia, se è assente per $3$ riunioni consecutive, non è autorizzato ad assistere alla riunione immediatamente dopo tali $3$ assenze consecutive (deve anche mancare quella). In quanti modi può scegliere quali incontri frequentare?
 
 **Risposta:** 161
-[[Quesiti/src_jjmo16yq_yosen#q03|src_jjmo16yq_yosen__Q03]]
 
 
 
@@ -126,7 +123,6 @@ level: JJMO Yosen
 > Quanti divisori positivi di $5040$ hanno esattamente $6$ divisori?
 
 **Risposta:** 10
-[[Quesiti/src_jjmo16yq_yosen#q04|src_jjmo16yq_yosen__Q04]]
 
 
 
@@ -155,7 +151,6 @@ level: JJMO Yosen
 > Nei lati $AB$, $BC$, $CD$, $DA$ del rettangolo $ABCD$ ci sono i punti $P$, $Q$, $R$ e $S$ rispettivamente in modo tale che il quadrilaterale $PQRS$ sia rettangolo. È dato che $AB = 22$, $BC = 23$ e $BQ : QC = 2 : 3$ (dove $XY$ indica la lunghezza del segmento $XY$). Trova l'area del rettangolo $PQRS$.
 
 **Risposta:** 246
-[[Quesiti/src_jjmo16yq_yosen#q05|src_jjmo16yq_yosen__Q05]]
 
 
 
@@ -188,7 +183,6 @@ level: JJMO Yosen
 ![[src_jjmo16yq_yosen__q06.png]]
 
 **Risposta:** 19
-[[Quesiti/src_jjmo16yq_yosen#q06|src_jjmo16yq_yosen__Q06]]
 
 
 
@@ -217,7 +211,6 @@ level: JJMO Yosen
 > Per un intero positivo di $3$-cifre $n$, definire il suo \emph{lucky degree} come il numero di $3$-cifre multipli di $7$ che può essere ottenuto da $n$ modificando esattamente una delle sue cifre (la cifra di centinaia non può essere cambiata a $0$). Per esempio, per $n = 777$, i multipli di $7$ raggiungibili con una modifica a singola cifra sono $770$ e $707$, quindi il grado fortunato di $777$ è $2$. Trova la somma dei gradi fortunati di tutti gli enti da $100$ a $999$.
 
 **Risposta:** 3328
-[[Quesiti/src_jjmo16yq_yosen#q07|src_jjmo16yq_yosen__Q07]]
 
 
 
@@ -246,7 +239,6 @@ level: JJMO Yosen
 > Se il numero $a$, $b$, $c$ sono numeri interi. Supponiamo che il polinomio $P(x) = ax^2 - bx + c$ soddisfi $P(16) = 59$, $P(30) = 59$ e $P(n) = 2018$ per un numero intero $n \ge 17$. Trova tutti i valori possibili di $a$.
 
 **Risposta:** -70, 341
-[[Quesiti/src_jjmo16yq_yosen#q08|src_jjmo16yq_yosen__Q08]]
 
 
 
@@ -275,7 +267,6 @@ level: JJMO Yosen
 > Ci sono $8$ cubetti unitari. Ogni volto di ogni cubo è dipinto rosso o giallo. Contare il numero di modi per dipingere tutte le facce (cioè assegnare un colore a ciascuna faccia di ciascuno dei cubi $8$) in modo che sia possibile soddisfare simultaneamente entrambe le seguenti condizioni:\n\n(i) I cubi $8$ possono essere assemblati in un cubo $2 \times 2 \times 2$ in modo tale che il grande cubo risultante abbia esattamente $5$ facce rosse e $1$ facce gialla sulla sua superficie.\n\nii) I cubi $8$ possono essere assemblati (possibilmente in un'arrangiamento diverso) in un cubo $2 \times 2 \times 2$ in modo tale che il grande cubo risultante abbia esattamente $1$ facce rosse e $5$ facce gialle sulla sua superficie.\n\nDue dipinti sono considerati uguali se uno può essere ottenuto da un'altra unità di rotazione dei cubi. Due arrangiamenti di montaggio che differiscono solo per rotazione o riflessione dell'intero cubo $2 \times 2 \times 2$ sono considerati uguali.
 
 **Risposta:** 55
-[[Quesiti/src_jjmo16yq_yosen#q09|src_jjmo16yq_yosen__Q09]]
 
 
 
@@ -304,7 +295,6 @@ Somma di ab su tutte le coppie di numeri interi positivi (a,b) con a, b e b 360
 > Calcolare la somma di $ab$ su tutte le coppie di integri positivi $(a, b)$ che soddisfano la seguente condizione:\n\nCondizione: $a$ è divisore di $b$, e $b$ è divisore di $360$.
 
 **Risposta:** 624650
-[[Quesiti/src_jjmo16yq_yosen#q10|src_jjmo16yq_yosen__Q10]]
 
 
 
@@ -333,7 +323,6 @@ Somma di ab su tutte le coppie di numeri interi positivi (a,b) con a, b e b 360
 > All'interno del quadrato $ABCD$, ci sono due punti $P$ e $Q$ quali $\angle PAQ = 45^\circ$, $BP \parallel QD$, $AB = 7$, $BP = 3$ e $PQ = 5$. Trova l'area del quadrilaterale $APCQ$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 **Risposta:** 37/2
-[[Quesiti/src_jjmo16yq_yosen#q11|src_jjmo16yq_yosen__Q11]]
 
 
 
@@ -362,4 +351,3 @@ Somma di ab su tutte le coppie di numeri interi positivi (a,b) con a, b e b 360
 > La ferrovia JJMO ha una linea circolare con stazioni $2018$ disposte in cerchio. Attualmente, i treni locali (sosta a ogni stazione) corrono in entrambe le direzioni intorno al cerchio, e ogni treno viaggia esattamente $1$ minuto tra le stazioni consecutive. Il presidente prevede di introdurre treni espressi che si fermano solo in un sottogruppo designato di stazioni (eleto dal presidente), viaggiando anche $1$ minuto tra fermate espresse consecutive. Trovare il numero intero positivo minimo $m$ in modo che il presidente possa scegliere le fermate espresse in modo che la seguente condizione sia valida:\n\nCondizione: Per due stazioni distinte $A$ e $B$, è possibile viaggiare da $A$ a $B$ in un massimo di $m$ minuti (i trasferimenti sono consentiti un numero qualsiasi di volte; i tempi di attesa e i tempi di trasferimento sono ignorati).
 
 **Risposta:** 124
-[[Quesiti/src_jjmo16yq_yosen#q12|src_jjmo16yq_yosen__Q12]]

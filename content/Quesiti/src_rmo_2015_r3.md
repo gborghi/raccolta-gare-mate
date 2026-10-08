@@ -36,8 +36,6 @@ level: RMO
 
 ![[src_rmo_2015_r3__q01.png]]
 
-[[Quesiti/src_rmo_2015_r3#q01|src_rmo_2015_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -62,8 +60,6 @@ level: RMO
 *Quadrati di polinomi quadratici in AP implicano a,b interi*
 
 > Che $P(x) = x^2 + ax + b$ sia un polinomio quadratico dove $a$ e $b$ sono numeri reali. Supponiamo che $P(-1)^2$, $P(0)^2$, $P(1)^2$ sia una progressione aritmetica degli enti. Provare che $a$ e $b$ sono numeri interi.
-
-[[Quesiti/src_rmo_2015_r3#q02|src_rmo_2015_r3__Q02]]
 
 
 
@@ -90,8 +86,6 @@ level: RMO
 
 > Mostrare che ci sono infinitamente molti triples $(x, y, z)$ di numeri interi come $x^2 + y^2 = z^{2^l}$ per tutti $l$.
 
-[[Quesiti/src_rmo_2015_r3#q03|src_rmo_2015_r3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_casework,method_conteggio,method_inclusione_esclusione,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -116,8 +110,6 @@ level: RMO
 *Contare sottoinsiemi di 3 elementi di 36 punti di cerchio con spazi uguali, senza due adiacenti o antipodi*
 
 > Supponiamo che 36 oggetti siano posizionati lungo un cerchio a distanze uguali. In quanti modi si possono scegliere tre oggetti tra di loro in modo che nessuno dei tre oggetti scelti sia adiacente o diametralmente opposto?
-
-[[Quesiti/src_rmo_2015_r3#q04|src_rmo_2015_r3__Q04]]
 
 
 
@@ -148,8 +140,6 @@ level: RMO
 
 ![[src_rmo_2015_r3__q05.png]]
 
-[[Quesiti/src_rmo_2015_r3#q05|src_rmo_2015_r3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_stima"></span>
@@ -174,5 +164,3 @@ level: RMO
 *Infinitamente molti reali positivi non integrali con $a(a-3\{a\})$ intero*
 
 > Mostrare che ci sono infinitamente molti numeri reali positivi $a$ che non sono interi tali che $a(a - 3\{a\})$ è un intero. (Qui $\{a\}$ indica la parte frazionaria di $a$. Ad esempio $\{1.5\} = 0.5$; $\{-3.4\} = 0.6$.)
-
-[[Quesiti/src_rmo_2015_r3#q06|src_rmo_2015_r3__Q06]]

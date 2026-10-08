@@ -33,8 +33,6 @@ level: JJMO
 
 > Calcolare quanto segue: $$\frac{7}{12}+\frac{5}{12}\times\frac{7}{15}\times\frac{4}{11}\times\frac{7}{10}\times\frac{4}{12}\times\frac{5}{11}\times\frac{4}{10}\times\frac{3}{9}\times\frac{7}{9}$$
 
-[[Quesiti/src_jjmo5q#q01|src_jjmo5q__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -60,8 +58,6 @@ level: JJMO
 
 > Nel quadrilaterale $ABCD$, abbiamo $AB = 5$, $BC = 7$, $CD = 6$, e le diagonali $AC$ e $BD$ si incrociano perpendicolare all'interno del quadrilaterale. Trova $DA$.
 
-[[Quesiti/src_jjmo5q#q02|src_jjmo5q__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_casework,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -86,8 +82,6 @@ level: JJMO
 *Ricerca tutte le frazioni m/n con m,n ≤ 20 in un determinato intervallo*
 
 > Trova tutti i numeri razionali che possono essere scritti come $\frac{m}{n}$, dove $m$ e $n$ sono interi positivi che non superano ognuno $20$, e che sono superiori a $\frac{5}{4}$ e inferiori a $\frac{4}{3}$.
-
-[[Quesiti/src_jjmo5q#q03|src_jjmo5q__Q03]]
 
 
 
@@ -119,8 +113,6 @@ level: JJMO
 *Polinomio di grado 3 a tre variabili con tre condizioni di divisibilità*
 
 > Trova tutti i polinomi $f(x, y, z)$ con coefficienti reali, di grado $3$ in tre variabili $x$, $y$, $z$, soddisfacendo tutte le seguenti condizioni: \begin{itemize} \item $f(x, y, z) + z$ è divisibile da $x + y + z$, \item $f(x, y, z) + y$ è divisibile da $x + y + z$, \item $f(x, y, z) + z$ è divisibile da $x + y + z$. \end{itemize} Qui, si dice che un polinomio $P(x,y,z)$ sia divisibile da $Q(x,y,z)$ se esiste un polinomio $R(x,y,z)$ tale che $P(x,y,z) = Q(x,y,z)\,R(x,y,z)$.
-
-[[Quesiti/src_jjmo5q#q04|src_jjmo5q__Q04]]
 
 
 
@@ -155,8 +147,6 @@ level: JJMO
 > 
 > Trova il numero intero più piccolo $m$ che soddisfa questa condizione.
 
-[[Quesiti/src_jjmo5q#q05|src_jjmo5q__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -181,8 +171,6 @@ level: JJMO
 *Mediani triangolari dati; area di ricerca*
 
 > Nel triangolo $ABC$, $D$, $E$, $F$ siano rispettivamente i punti medi di $BC$, $CA$ e $AB$. Dato che $AD = 3$, $BE = 3$, $CF = 5$, si trova l'area del triangolo $ABC$.
-
-[[Quesiti/src_jjmo5q#q06|src_jjmo5q__Q06]]
 
 
 
@@ -209,8 +197,6 @@ level: JJMO
 
 > In quadrilaterale $ABCD$, le diagonali $AC$ e $BD$ si intersecano in un punto interno $P$. Date $AC = 2$, $BD = 3$ e $\angle APB = 60^\circ$, si trova il valore minimo di $AB + BC + CD + DA$.
 
-[[Quesiti/src_jjmo5q#q07|src_jjmo5q__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -235,8 +221,6 @@ level: JJMO
 *numero a 4 cifre: prodotto delle parti a 2 cifre superiori e inferiori divide n*
 
 > Che $n$ sia un intero positivo a 4 cifre la cui cifra decimale non è $0$. Scrivi $n$ in decimale; lasciamo che $a$ sia il numero intero a 2 cifre formato dalla cifra di centinaia e migliaia di cifre di $n$ (le due cifre superiori), e lasciamo che $b$ sia il numero intero a 2 cifre formato dalla cifra di decina e dalla cifra di unità di $n$ (le due cifre inferiori). Se il prodotto $a \times b$ è un divisore di $n$, trovare tutti tali $n$.
-
-[[Quesiti/src_jjmo5q#q08|src_jjmo5q__Q08]]
 
 
 
@@ -266,5 +250,3 @@ level: JJMO
 > C'è una griglia $19 \times 19$ di quadrati unitari. Chiamare un rettangolo i cui quattro lati si trovano lungo le linee della griglia un "buono rettangolo". Trova il numero intero positivo più piccolo $n$ che soddisfa la seguente condizione:
 > 
 > \textbf{Condition:} Non importa quali $9$ unità quadrati vengono rimossi dalla griglia, la regione rimanente può sempre essere suddivisa in almeno $n$ buoni rettangoli.
-
-[[Quesiti/src_jjmo5q#q09|src_jjmo5q__Q09]]

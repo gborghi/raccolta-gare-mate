@@ -37,7 +37,6 @@ level: JJMO Yosen
 > Trova quante triples $(a,b,c)$ di numeri interi con $1 \le a,b,c \le 5$ sono tali che sia $a \times b$ che $b \times c$ siano pari.
 
 **Risposta:** 62
-[[Quesiti/src_jjmo14yq_yosen#q01|src_jjmo14yq_yosen__Q01]]
 
 
 
@@ -68,7 +67,6 @@ level: JJMO Yosen
 > Nel piano c'è un segmento $AB$ di lunghezza $10$. Due punti $P,Q$ si muovono nel piano soggetto a $\angle APB = 60^\circ$ e $\angle AQB = 120^\circ$. Trova il valore massimo possibile della lunghezza del segmento $PQ$.
 
 **Risposta:** \dfrac{20\sqrt{3}}{3}
-[[Quesiti/src_jjmo14yq_yosen#q02|src_jjmo14yq_yosen__Q02]]
 
 
 
@@ -103,7 +101,6 @@ level: JJMO Yosen
 ![[src_jjmo14yq_yosen__q03.png]]
 
 **Risposta:** 32768
-[[Quesiti/src_jjmo14yq_yosen#q03|src_jjmo14yq_yosen__Q03]]
 
 
 
@@ -140,7 +137,6 @@ level: JJMO Yosen
 > Ci sono mele $2016$ e arance $2016$ e queste sono distribuite tra le persone $2016$ alle seguenti condizioni: \begin{itemize} \item Ogni frutto deve essere distribuito. Nessuna persona riceve $0$ frutta. Nessuna persona può ricevere in totale più di $4$ pezzi di frutta (comprendendo entrambe le specie). In queste condizioni, qual è il numero massimo possibile di persone che ricevono almeno $1$ più mele che arancione?
 
 **Risposta:** 1612
-[[Quesiti/src_jjmo14yq_yosen#q04|src_jjmo14yq_yosen__Q04]]
 
 
 
@@ -171,7 +167,6 @@ level: JJMO Yosen
 > Sul lato $BC$ del triangolo $ABC$ ci sono punti $D,E$, con $B,D,E,C$ in questo ordine, in modo che $\angle BAD = \angle DAE = \angle EAC = 45^\circ$. $F$ sia il punto di intersezione del circoncircolo del triangolo $ABE$ con la linea $AC$, diverso da $A$. Date $AC = 3$ e $AD = 1$, si trova la lunghezza del segmento $DF$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 **Risposta:** \dfrac{5}{4}
-[[Quesiti/src_jjmo14yq_yosen#q05|src_jjmo14yq_yosen__Q05]]
 
 
 
@@ -204,7 +199,6 @@ level: JJMO Yosen
 > I numeri interi positivi $m,n$ soddisfano $$m(m+57) = n(n+57).$$ Tra tali coppie, trovare il valore massimo possibile di $m$.
 
 **Risposta:** 783
-[[Quesiti/src_jjmo14yq_yosen#q06|src_jjmo14yq_yosen__Q06]]
 
 
 
@@ -235,7 +229,6 @@ level: JJMO Yosen
 > Nel triangolo $ABC$ con $AC = 28$, $M$ sia il punto medio del segmento $BD$, dove $D$ è un punto tale che la figura sia determinata come disegnata. È dato che $\angle AMB = \angle CMB$, $AM = 20$ e $CM = 16$. Trova il rapporto $BA : BC$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 **Risposta:** \sqrt{5} : 2
-[[Quesiti/src_jjmo14yq_yosen#q07|src_jjmo14yq_yosen__Q07]]
 
 
 
@@ -266,7 +259,6 @@ level: JJMO Yosen
 > Tra i multipli di $37$ le cui cifre sono tutte distinte, trova il più grande.
 
 **Risposta:** 9876435012
-[[Quesiti/src_jjmo14yq_yosen#q08|src_jjmo14yq_yosen__Q08]]
 
 
 
@@ -301,7 +293,6 @@ level: JJMO Yosen
 ![[src_jjmo14yq_yosen__q09.png]]
 
 **Risposta:** 365
-[[Quesiti/src_jjmo14yq_yosen#q09|src_jjmo14yq_yosen__Q09]]
 
 
 
@@ -336,7 +327,6 @@ level: JJMO Yosen
 ![[src_jjmo14yq_yosen__q10.png]]
 
 **Risposta:** \dfrac{3-\sqrt{2}}{2}
-[[Quesiti/src_jjmo14yq_yosen#q10|src_jjmo14yq_yosen__Q10]]
 
 
 
@@ -371,7 +361,6 @@ level: JJMO Yosen
 ![[src_jjmo14yq_yosen__q11.png]]
 
 **Risposta:** 7559
-[[Quesiti/src_jjmo14yq_yosen#q11|src_jjmo14yq_yosen__Q11]]
 
 
 
@@ -402,4 +391,3 @@ level: JJMO Yosen
 > Sul piano delle coordinate $xy$, da ogni punto della griglia $(x,y)$ viene tracciata una freccia che punta verso $(x+1,y)$ o $(x,y+1)$. Ora si consideri di posizionare $2016$ persone, una a ciascuno, su $2016$ punti di reticola distinte che soddisfano $x \ge 0$, $y \ge 0$, $x+y \le 62$. Per un modo fisso di disegnare le frecce, supponiamo che siano state provate diverse posizioni $N$, e che sia stata soddisfatta la seguente condizione: per ogni persona, il punto della griglia che la freccia porta dal punto di quella persona è, attraverso tutte le posizioni $N$, o occupata dalla stessa persona in tutte le $N$ di esse, o non occupata da nessuno in tutte le $N$ di esse. Trova il valore massimo possibile di $N$. Qui un punto reticolo è un punto il cui coordinato $x$ e $y$ sono entrambi numeri interi.
 
 **Risposta:** 32!\,16!\,8!\,4!\,2!\,1!
-[[Quesiti/src_jjmo14yq_yosen#q12|src_jjmo14yq_yosen__Q12]]

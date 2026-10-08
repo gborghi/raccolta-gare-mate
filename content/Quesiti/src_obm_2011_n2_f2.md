@@ -33,8 +33,6 @@ level: OBM Nível 2
 
 > Lasciate che $a$ e $b$ siano numeri reali non zero in modo tale che l'equazione $x^2 + ax + b = 0$ abbia $a$ e $b$ come soluzioni. Determinare $a - b$.
 
-[[Quesiti/src_obm_2011_n2_f2#q01|src_obm_2011_n2_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -59,8 +57,6 @@ level: OBM Nível 2
 *Contare composti a due cifre formati da cifre distinte tra 2,3,4,5,6*
 
 > Quanti numeri compositi a due cifre possono essere formati utilizzando cifre distinte scelte da $\{2, 3, 4, 5, 6\}$?
-
-[[Quesiti/src_obm_2011_n2_f2#q02|src_obm_2011_n2_f2__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: OBM Nível 2
 
 > Il triangolo $ABC$ è angolato a destra a $B$. I bisettori interni ed esterni dell'angolo $\hat{BAC}$ incontrano la linea $BC$ rispettivamente nei punti $D$ e $E$. Dato che $AD = 360$ e $AE = 480$, determinare la lunghezza del lato $AB$.
 
-[[Quesiti/src_obm_2011_n2_f2#q03|src_obm_2011_n2_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -113,8 +107,6 @@ level: OBM Nível 2
 *Contare i numeri a due cifre la cui quarta potenza termina in 01*
 
 > Il numero $7$, sollevato alla quarta potenza, termina in $01$: $7^4 = 2401$. Quanti numeri a due cifre, sollevati alla quarta potenza, finiscono in $01$?
-
-[[Quesiti/src_obm_2011_n2_f2#q04|src_obm_2011_n2_f2__Q04]]
 
 
 
@@ -144,8 +136,6 @@ level: OBM Nível 2
 > Nella figura seguente, il triangolo $ABC$ è equilaterale, l'angolo $\widehat{BDC} = 30^\circ$ e l'angolo $\widehat{ACD} = 70^\circ$. Determinare, in gradi, la misura dell'angolo $\widehat{BAD}$.
 
 ![[src_obm_2011_n2_f2__q05.png]]
-
-[[Quesiti/src_obm_2011_n2_f2#q05|src_obm_2011_n2_f2__Q05]]
 
 
 
@@ -180,8 +170,6 @@ level: OBM Nível 2
 > 
 > b) È possibile ottenere il numero $2011$? Non dimenticate di giustificare la vostra risposta.
 
-[[Quesiti/src_obm_2011_n2_f2#q06|src_obm_2011_n2_f2__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -209,8 +197,6 @@ level: OBM Nível 2
 
 > $a$, $b$, $c$ siano numeri reali positivi tali che $$a(b + c) = 152, \quad b(c + a) = 162, \quad c(a + b) = 170.$$ determinino il valore di $abc$.
 
-[[Quesiti/src_obm_2011_n2_f2#q07|src_obm_2011_n2_f2__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_congruenze,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_manipolazione_algebrica"></span>
@@ -236,8 +222,6 @@ level: OBM Nível 2
 *Contare le coppie ordinate (a,b) di integri positivi con a+b+gcd(a,b)=33*
 
 > Quante coppie ordinate $(a, b)$, con $a$ e $b$ integri positivi, soddisfano $$a + b + \gcd(a, b) = 33?$$
-
-[[Quesiti/src_obm_2011_n2_f2#q08|src_obm_2011_n2_f2__Q08]]
 
 
 
@@ -267,5 +251,3 @@ level: OBM Nível 2
 > In un quadrilaterale convex $ABCD$, i punti $X$ e $Y$ dividono il lato $AB$ in tre segmenti uguali, mentre i punti $Z$ e $T$ dividono il lato $DC$ in tre segmenti uguali (vedi figura seguente). Se l'area del quadrilaterale $ABCD$ è $60$, indicare che l'area del quadrilaterale $XYZT$ non dipende dalla forma del quadrilaterale $ABCD$ e calcolare tale area.
 
 ![[src_obm_2011_n2_f2__q09.png]]
-
-[[Quesiti/src_obm_2011_n2_f2#q09|src_obm_2011_n2_f2__Q09]]

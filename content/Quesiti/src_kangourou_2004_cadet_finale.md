@@ -38,7 +38,6 @@ level: kangourou
 > In a wooden cube of 4 decimetres by side, a cube of 2 decimetres by side is cut to make the solid depicted on the right in the figure. Compared to the total surface area of the initial cube, how many square decimeters is the total outer surface area of the solid? (see figure)
 
 **Answer:** 16
-[[Quesiti/src_kangourou_2004_cadet_finale#qc1|src_kangourou_2004_cadet_finale__QC1]]
 
 
 
@@ -66,7 +65,6 @@ level: kangourou
 > The number $a$ is a positive integer such that the sum $a + 2a + 3a + 4a + \ldots + 9a$ is a number in which all the digits are equal. What is the minimum value of $a$?
 
 **Answer:** 12345679
-[[Quesiti/src_kangourou_2004_cadet_finale#qc2|src_kangourou_2004_cadet_finale__QC2]]
 
 
 
@@ -95,7 +93,6 @@ There's always a dominant team in the ring.
 > At the end of a volleyball tournament with a single round-robin (where each team meets only once all the others), is there always at least one team $A$ that in the matches with each other $B$ or has won or defeated a team that has defeated $B$? Justify your answer. (N.B. In volleyball, no match ends in a draw.
 
 **Answer:** yes (maximum score)
-[[Quesiti/src_kangourou_2004_cadet_finale#qc3|src_kangourou_2004_cadet_finale__QC3]]
 
 
 
@@ -124,7 +121,6 @@ There's always a dominant team in the ring.
 > I wrote as many positive integers on five sheets. Adding them two by two in every possible way, I get the following ten results: $17, 20, 28, 14, 36, 28, 25, 31, 39$ and $42$. What numbers did I write?
 
 **Answer:** 3,11,14,17,25
-[[Quesiti/src_kangourou_2004_cadet_finale#qc4|src_kangourou_2004_cadet_finale__QC4]]
 
 
 
@@ -200,7 +196,6 @@ There's always a dominant team in the ring.
 > The side of the square $ABCD$ in the figure measures $6$ cm and the segments $AN$ and $CM$ measure $2$ cm and $3$ cm respectively. How many degrees does the angle $NBM$ measure? (see figure)
 
 **Answer:** 45
-[[Quesiti/src_kangourou_2004_cadet_finale#qc5|src_kangourou_2004_cadet_finale__QC5]]
 
 
 
@@ -239,4 +234,3 @@ There's always a dominant team in the ring.
 > How many tiles can the chessboard hold at most? (see figure)
 
 **Answer:** 8
-[[Quesiti/src_kangourou_2004_cadet_finale#qc6|src_kangourou_2004_cadet_finale__QC6]]

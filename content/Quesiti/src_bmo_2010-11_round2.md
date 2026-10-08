@@ -33,8 +33,6 @@ level: BMO Round 2
 
 > Che $ABC$ sia un triangolo e $X$ un punto all'interno del triangolo. Le linee $AX$, $BX$ e $CX$ incontrano i lati opposti rispettivamente a $P$, $Q$ e $R$. Selezionare un punto $U$ su $XP$ che sia tra $X$ e $P$. La linea attraverso $B$ e $U$ incontra $XC$ a $V$ e la linea attraverso $C$ e $U$ incontra $XB$ a $W$. Mostra che $\angle WXP = \angle VXP$.
 
-[[Quesiti/src_bmo_2010-11_round2#q01|src_bmo_2010-11_round2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_funzionali,method_ricorsione,method_casework,method_conteggio,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
@@ -65,8 +63,6 @@ level: BMO Round 2
 
 > La funzione $f$ è definita sui numeri interi positivi come segue: $$f(2n) = n \quad \text{if } n \text{ is even,}$$ $$f(2n) = 2n \quad \text{if } n \text{ is odd,}$$ $$f(2n+1) = f(n) \quad \text{if } n \text{ is even,}$$ $$f(2n+1) = f(n)+1 \quad \text{if } n \text{ is odd.}$$ Trova il numero di numeri interi positivi $n$ che sono inferiori al 2011 e hanno la proprietà di $f(n) = f(2011)$.
 
-[[Quesiti/src_bmo_2010-11_round2#q02|src_bmo_2010-11_round2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -93,8 +89,6 @@ level: BMO Round 2
 
 > Trova tutti gli integri $x$ e $y$ in modo tale che $$x + y \mid 2(x^2 + y^2) - xy.$$
 
-[[Quesiti/src_bmo_2010-11_round2#q03|src_bmo_2010-11_round2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_geometria_analitica,method_estremalita,method_doppio_conteggio,method_conteggio,skill_astrazione,skill_conteggio_sistematico,skill_modellizzazione,skill_stima"></span>
@@ -119,5 +113,3 @@ level: BMO Round 2
 *Ricerca il più grande sottogruppo senza parallelogrammi del 2011×2011 griglia integrale*
 
 > Il $G$ deve essere l'insieme dei punti $(x, y)$ nel piano in modo tale che $x$ e $y$ siano integri nell'intervallo $1 \le x, y \le 2011$. Un sottogruppo $S$ di $G$ è considerato privo di parallelogrammi se non esiste un parallelo corretto con tutti i suoi vertici in $S$. Determinare il più grande sottoinsieme senza parallelogrammi di $G$. Nota: un parallelo corretto è quello in cui non tutti i vertici si trovano sulla stessa linea.
-
-[[Quesiti/src_bmo_2010-11_round2#q04|src_bmo_2010-11_round2__Q04]]

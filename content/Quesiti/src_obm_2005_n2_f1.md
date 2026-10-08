@@ -39,7 +39,6 @@ level: OBM Nível 2
 > Un negozio di saponi fa una promozione con lo slogan "Coscrivi uno e prendi un altro a metà prezzo". Un'altra promozione che il negozio potrebbe fare offrendo lo stesso sconto percentuale è: A) "Prenditi due e paga uno" B) "Prenditi tre e paga uno" C) "Prenditi tre e paga due" D) "Prenditi quattro e paga tre" E) "Prenditi cinque e paga quattro"
 
 **Risposta:** D
-[[Quesiti/src_obm_2005_n2_f1#q01|src_obm_2005_n2_f1__Q01]]
 
 
 
@@ -68,7 +67,6 @@ level: OBM Nível 2
 > I film $Insulfilm$ sono utilizzati sulle finestre edili e sul vetro dei veicoli per ridurre la radiazione solare. I film sono classificati in base al grado di trasparenza, cioè alla percentuale di radiazioni solari che trasmettono. Mettendo un film di trasparenza $70\%$ su un vetro con trasparenza $90\%$, si ottiene un $\textbf{reduction}$ di radiazioni solari uguale a: A) $3\%$ \quad B) $37\%$ \quad C) $40\%$ \quad D) $63\%$ \quad E) $160\%$
 
 **Risposta:** B
-[[Quesiti/src_obm_2005_n2_f1#q02|src_obm_2005_n2_f1__Q02]]
 
 
 
@@ -101,7 +99,6 @@ level: OBM Nível 2
 ![[src_obm_2005_n2_f1__q03.png]]
 
 **Risposta:** E
-[[Quesiti/src_obm_2005_n2_f1#q03|src_obm_2005_n2_f1__Q03]]
 
 
 
@@ -130,7 +127,6 @@ La differenza tra un miliardo di milioni e mille di milioni
 > Alla domanda, Arnaldo dice che $1$ miliardi è uguale a un milione di milioni. Il professor Piraldo lo ha corretto e ha detto che $1$ miliardo è lo stesso di mille milioni. Qual è la differenza tra queste due risposte? A) $1\,000$ \quad B) $999\,000$ \quad C) $1\,000\,000$ \quad D) $999\,000\,000$ \quad E) $999\,000\,000\,000$
 
 **Risposta:** E
-[[Quesiti/src_obm_2005_n2_f1#q04|src_obm_2005_n2_f1__Q04]]
 
 
 
@@ -160,7 +156,6 @@ La differenza tra un miliardo di milioni e mille di milioni
 > A causa di un difetto di stampa, un libro di $600$ pagine ha in bianco tutte le pagine i cui numeri sono multipli di $3$ o di $4$. Quante pagine sono stampate? A) $100$ \quad B) $150$ \quad C) $250$ \quad D) $300$ \quad E) $430$
 
 **Risposta:** D
-[[Quesiti/src_obm_2005_n2_f1#q05|src_obm_2005_n2_f1__Q05]]
 
 
 
@@ -193,7 +188,6 @@ La differenza tra un miliardo di milioni e mille di milioni
 > Il platino è un metallo molto raro, anche più raro dell'oro. La densità è $21.45\,\text{g/cm}^3$. Supponiamo che la produzione mondiale di platino fosse di circa $110$ tonnellate in ciascuno degli ultimi $50$ anni, e trascurabile prima di allora. Indicare l'alternativa con l'oggetto il cui volume è più vicino al volume di platino prodotto nel mondo in tutta la storia. A) una scatola di scarpe B) una piscina C) un edificio di dieci piani D) il Monte Pascoal E) la Luna
 
 **Risposta:** B
-[[Quesiti/src_obm_2005_n2_f1#q06|src_obm_2005_n2_f1__Q06]]
 
 
 
@@ -223,7 +217,6 @@ La differenza tra un miliardo di milioni e mille di milioni
 > In una sequenza, ogni termine, a partire dal terzo, è la somma dei due termini precedenti più vicini. Il secondo termine è $1$ e il quinto termine è $2005$. Qual è il sesto mandato? A) $3\,002$ \quad B) $3\,008$ \quad C) $3\,010$ \quad D) $4\,002$ \quad E) $5\,004$
 
 **Risposta:** B
-[[Quesiti/src_obm_2005_n2_f1#q07|src_obm_2005_n2_f1__Q07]]
 
 
 
@@ -255,8 +248,6 @@ La differenza tra un miliardo di milioni e mille di milioni
 
 ![[src_obm_2005_n2_f1__q08.png]]
 
-[[Quesiti/src_obm_2005_n2_f1#q08|src_obm_2005_n2_f1__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
@@ -285,7 +276,6 @@ La differenza tra un miliardo di milioni e mille di milioni
 > Tra i tredici reali non-zero ci sono più numeri positivi di quelli negativi. Tra i prodotti $\dfrac{13\times 12}{2}=78$ di due dei tredici numeri, $22$ sono negativi. Quanti dei tredici numeri dati sono negativi? A) $2$ \quad B) $7$ \quad C) $8$ \quad D) $9$ \quad E) $10$
 
 **Risposta:** A
-[[Quesiti/src_obm_2005_n2_f1#q09|src_obm_2005_n2_f1__Q09]]
 
 
 
@@ -318,7 +308,6 @@ La differenza tra un miliardo di milioni e mille di milioni
 ![[src_obm_2005_n2_f1__q10.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2005_n2_f1#q10|src_obm_2005_n2_f1__Q10]]
 
 
 
@@ -351,7 +340,6 @@ La differenza tra un miliardo di milioni e mille di milioni
 > $a$, $b$ e $c$ siano numeri reali. Per la proprietà distributiva della moltiplicazione rispetto all'addizione, è vero che $a\times(b+c)=(a\times b)+(a\times c)$. La distributività dell'addizione rispetto alla moltiplicazione, cioè $a+(b\times c)=(a+b)\times(a+c)$, non è sempre vera, ma vale solo se: A) $a=b=c=\dfrac{1}{3}$ o $a=0$ B) $a=b=c$ C) L'uguaglianza non si verifica mai D) $a+b+c=1$ o $a=0$ E) $a+b+c=0$
 
 **Risposta:** D
-[[Quesiti/src_obm_2005_n2_f1#q11|src_obm_2005_n2_f1__Q11]]
 
 
 
@@ -381,7 +369,6 @@ La differenza tra un miliardo di milioni e mille di milioni
 > In una certa città accade un fatto interessante. Il 10% dei Baianos dice di essere Paulista e il 10% dei Paulista dice di essere Baiano. Tutti gli altri Paulistas e Baianos assumono la loro vera origine. Tra i Paulistas e i Baianos, $20\%$ dicono di essere Paulistas. Che percentuale rappresentano i veri Paulistas tra i Paulistas e i Baianos? A) $12.5\%$ \quad B) $18\%$ \quad C) $20\%$ \quad D) $22\%$ \quad E) $22.5\%$
 
 **Risposta:** A
-[[Quesiti/src_obm_2005_n2_f1#q12|src_obm_2005_n2_f1__Q12]]
 
 
 
@@ -414,7 +401,6 @@ La differenza tra un miliardo di milioni e mille di milioni
 ![[src_obm_2005_n2_f1__q13.png]]
 
 **Risposta:** E
-[[Quesiti/src_obm_2005_n2_f1#q13|src_obm_2005_n2_f1__Q13]]
 
 
 
@@ -444,7 +430,6 @@ La differenza tra un miliardo di milioni e mille di milioni
 > Le lettere $O$, $B$ e $M$ rappresentano numeri interi. Se $O\times B\times M=240$, $O\times B+M=46$ e $O+B\times M=64$, qual è il valore di $O+B+M$? A) $19$ \quad B) $20$ \quad C) $21$ \quad D) $24$ \quad E) $36$
 
 **Risposta:** B
-[[Quesiti/src_obm_2005_n2_f1#q14|src_obm_2005_n2_f1__Q14]]
 
 
 
@@ -476,8 +461,6 @@ La differenza tra un miliardo di milioni e mille di milioni
 
 ![[src_obm_2005_n2_f1__q15.png]]
 
-[[Quesiti/src_obm_2005_n2_f1#q15|src_obm_2005_n2_f1__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -506,7 +489,6 @@ La differenza tra un miliardo di milioni e mille di milioni
 > In un anno, quante mesi hanno cinque domeniche al massimo? A) $3$ \quad B) $4$ \quad C) $5$ \quad D) $6$ \quad E) $7$
 
 **Risposta:** C
-[[Quesiti/src_obm_2005_n2_f1#q16|src_obm_2005_n2_f1__Q16]]
 
 
 
@@ -533,8 +515,6 @@ La differenza tra un miliardo di milioni e mille di milioni
 *Numeri di conteggio compresi tra 10 e 13000 di cifre consecutive in ordine crescente*
 
 > Quanti numeri tra $10$ e $13000$, quando si leggono da sinistra a destra, sono formati da cifre consecutive in ordine crescente? Ad esempio, $456$ è uno di tali numeri, ma $7890$ non lo è. A) $10$ \quad B) $13$ \quad C) $18$ \quad D) $22$ \quad E) $25$
-
-[[Quesiti/src_obm_2005_n2_f1#q17|src_obm_2005_n2_f1__Q17]]
 
 
 
@@ -568,7 +548,6 @@ La differenza tra un miliardo di milioni e mille di milioni
 > Un conducente ha percorso tre gambe di rally, rispettivamente $240\,\text{km}$, $300\,\text{km}$ e $400\,\text{km}$. Le velocità medie sulle tre gambe erano $40\,\text{km/h}$, $75\,\text{km/h}$ e $80\,\text{km/h}$, ma non necessariamente in questo ordine. Possiamo garantire che il tempo totale, in ore, trascorso dal conducente sulle tre gambe sia: A) inferiore o uguale a $13$ ore B) superiore o uguale a $13$ ore e inferiore o uguale a $16$ ore C) superiore o uguale a $14$ ore e inferiore o uguale a $17$ ore D) superiore o uguale a $15$ ore e inferiore o uguale a $18$ ore E) superiore o uguale a $18$ ore
 
 **Risposta:** C
-[[Quesiti/src_obm_2005_n2_f1#q18|src_obm_2005_n2_f1__Q18]]
 
 
 
@@ -601,7 +580,6 @@ La differenza tra un miliardo di milioni e mille di milioni
 ![[src_obm_2005_n2_f1__q19.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2005_n2_f1#q19|src_obm_2005_n2_f1__Q19]]
 
 
 
@@ -631,7 +609,6 @@ La differenza tra un miliardo di milioni e mille di milioni
 > Un insegnante di inglese dà lezioni private a una classe di studenti $9$, almeno uno dei quali è brasiliano. Se l'insegnante sceglie gli studenti $4$ per fare una presentazione, il gruppo avrà almeno due studenti della stessa nazionalità; se sceglie gli studenti $5$, avrà al massimo tre studenti della stessa nazionalità. Quanti brasiliani ci sono in classe? A) $1$ \quad B) $2$ \quad C) $3$ \quad D) $4$ \quad E) $5$
 
 **Risposta:** C
-[[Quesiti/src_obm_2005_n2_f1#q20|src_obm_2005_n2_f1__Q20]]
 
 
 
@@ -661,7 +638,6 @@ La differenza tra un miliardo di milioni e mille di milioni
 > Un orologio, con ore, minuti e seconde mani, fa un $plim$ ogni volta che una mano supera un'altra sul quadrante. Il numero di $plins$ registrati in un determinato giorno, nel periodo compreso tra $12$ ore e $1$ seconde e $23$ ore, $59$ minuti e $59$ secondi, è: A) $732$ \quad B) $1438$ \quad C) $1440$ \quad D) $1446$ \quad E) $1452$
 
 **Risposta:** B
-[[Quesiti/src_obm_2005_n2_f1#q21|src_obm_2005_n2_f1__Q21]]
 
 
 
@@ -694,7 +670,6 @@ La differenza tra un miliardo di milioni e mille di milioni
 ![[src_obm_2005_n2_f1__q22.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2005_n2_f1#q22|src_obm_2005_n2_f1__Q22]]
 
 
 
@@ -726,7 +701,6 @@ La differenza tra un miliardo di milioni e mille di milioni
 > I numeri interi positivi $x$ e $y$ soddisfano l'equazione $$\sqrt{x+\tfrac{1}{2}\sqrt{y}}-\sqrt{x-\tfrac{1}{2}\sqrt{y}}=1.$$ Quale delle alternative presenta un possibile valore di $y$? A) $5$ \quad B) $6$ \quad C) $7$ \quad D) $8$ \quad E) $9$
 
 **Risposta:** D
-[[Quesiti/src_obm_2005_n2_f1#q23|src_obm_2005_n2_f1__Q23]]
 
 
 
@@ -758,8 +732,6 @@ La differenza tra un miliardo di milioni e mille di milioni
 
 ![[src_obm_2005_n2_f1__q24.png]]
 
-[[Quesiti/src_obm_2005_n2_f1#q24|src_obm_2005_n2_f1__Q24]]
-
 
 
 <span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_combinatoria,topic_geometria_solida,method_casework,method_invarianti,skill_casework_accurato,skill_ragionamento_geometrico"></span>
@@ -789,5 +761,3 @@ La differenza tra un miliardo di milioni e mille di milioni
 > Un blocco di dimensioni $1\times 2\times 3$ è posizionato su una tavola $8\times 8$, come mostra la figura, con una faccia $X$ di dimensioni $1\times 2$ rivolta verso il basso. Rotoliamo il blocco attorno a uno dei suoi bordi in modo che la faccia $Y$ sia girata verso il basso. Poi lo rotoliamo di nuovo, questa volta in modo che la faccia $Z$ sia girata verso il basso. Rotoliamo il blocco più volte, in varie direzioni sulla lavagna, in modo che le facce $X$, $Y$ e $Z$ siano girate verso il basso, sempre in questo ordine. Quanti piccoli quadrati della lavagna possono essere in contatto con il blocco? A) $18$ \quad B) $19$ \quad C) $20$ \quad D) $21$ \quad E) $22$
 
 ![[src_obm_2005_n2_f1__q25.png]]
-
-[[Quesiti/src_obm_2005_n2_f1#q25|src_obm_2005_n2_f1__Q25]]

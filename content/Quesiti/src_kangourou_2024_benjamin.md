@@ -57,7 +57,6 @@ level: kangourou
 > E) 7
 
 **Answer:** B
-[[Quesiti/src_kangourou_2024_benjamin#q01|src_kangourou_2024_benjamin__Q01]]
 
 
 
@@ -90,7 +89,6 @@ In which square Mia lands only on the right foot
 > 2. A long strip of equal squares is drawn on the courtyard floor. Mia plays jumping from one to the other, landing alternately on two feet or on one foot. In the figure (from the bottom to the top) you can see the prints of her first jumps. Every four squares repeat the jump sequence. In which of the following squares will Mia land only on her right foot? A) The tenth. B) The 15th. C) The 20th. D) The twenty-second. E) The 23rd.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2024_benjamin#q02|src_kangourou_2024_benjamin__Q02]]
 
 
 
@@ -119,7 +117,6 @@ In which square Mia lands only on the right foot
 > 3. Let's say that a word (i.e. a sequence of letters) contains another if to get the second one you just delete some letters from the first: e.g. the word GABADEDDEG contains the word AADDG, but does not contain the word AGA. Mattia wants to write a word that contains the three words ABCD, BCDA and BADC. What's the smallest possible number of letters for the word Mattia wants to write? A) 4 B) 6 C) 7 D) 8 E) 12
 
 **Answer:** C
-[[Quesiti/src_kangourou_2024_benjamin#q03|src_kangourou_2024_benjamin__Q03]]
 
 
 
@@ -177,7 +174,6 @@ In which square Mia lands only on the right foot
 > 4. The figure shows how Nora overlaps two identical rectangles, each 18 cm2 in area, to obtain a new rectangle. The new rectangle can be broken down into three identical squares. How many square centimetres is the area of the new rectangle? A) 24 B) 27 C) 30 D) 32 E) 36
 
 **Answer:** B
-[[Quesiti/src_kangourou_2024_benjamin#q04|src_kangourou_2024_benjamin__Q04]]
 
 
 
@@ -209,7 +205,6 @@ In which square Mia lands only on the right foot
 > 5. Dinah laid three boxes on the floor, partially hidden by a wall. When you look at them standing in front of the wall, the boxes look as shown on the right. Kangourou 2024 page 11 Benjamin What do they look like when you look at them from the other side of the wall ? A) B) C) D) E)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2024_benjamin#q05|src_kangourou_2024_benjamin__Q05]]
 
 
 
@@ -242,7 +237,6 @@ In which square Mia lands only on the right foot
 > 6. On the bed of a truck there are six boxes arranged as shown in the figure. A porter carries them to the ground. He moves one box at a time and only if there are no other boxes on top of it. He places each box on the ground or on top of another box, without moving it again. Which of the following piles can he not make? B D B D A B A A C C A A C F F E D B E D B E F D E E F C F C A) B) C) D) E)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2024_benjamin#q06|src_kangourou_2024_benjamin__Q06]]
 
 
 
@@ -275,7 +269,6 @@ In which square Mia lands only on the right foot
 > 7. Look at the figure: Two wheels rotate around the same axle. Each of these is marked (with numbers or letters) by 7 points, the vertices of a regular heptagon. Each minute they make a step, but in opposite directions as indicated by the arrows: each vertex takes the position of the next vertex according to the direction of rotation. In the figure you can see the initial position (the letter A is in front of the number
 
 **Answer:** C
-[[Quesiti/src_kangourou_2024_benjamin#q07|src_kangourou_2024_benjamin__Q07]]
 
 
 
@@ -324,7 +317,6 @@ In which square Mia lands only on the right foot
 > E) 6
 
 **Answer:** B
-[[Quesiti/src_kangourou_2024_benjamin#q08|src_kangourou_2024_benjamin__Q08]]
 
 
 
@@ -420,7 +412,6 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2024_benjamin#q09|src_kangourou_2024_benjamin__Q09]]
 
 
 
@@ -472,7 +463,6 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 > Questions from No. 11 to No. 20 are worth 4 points each
 
 **Answer:** D
-[[Quesiti/src_kangourou_2024_benjamin#q10|src_kangourou_2024_benjamin__Q10]]
 
 
 
@@ -527,7 +517,6 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 > E) 5
 
 **Answer:** B
-[[Quesiti/src_kangourou_2024_benjamin#q11|src_kangourou_2024_benjamin__Q11]]
 
 
 
@@ -579,7 +568,6 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 > E) 36
 
 **Answer:** E
-[[Quesiti/src_kangourou_2024_benjamin#q12|src_kangourou_2024_benjamin__Q12]]
 
 
 
@@ -629,7 +617,6 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 > E) 52
 
 **Answer:** B
-[[Quesiti/src_kangourou_2024_benjamin#q13|src_kangourou_2024_benjamin__Q13]]
 
 
 
@@ -726,7 +713,6 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 >
 
 **Answer:** E
-[[Quesiti/src_kangourou_2024_benjamin#q14|src_kangourou_2024_benjamin__Q14]]
 
 
 
@@ -779,7 +765,6 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 > E) 16
 
 **Answer:** A
-[[Quesiti/src_kangourou_2024_benjamin#q15|src_kangourou_2024_benjamin__Q15]]
 
 
 
@@ -884,7 +869,6 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 > E) 12
 
 **Answer:** B
-[[Quesiti/src_kangourou_2024_benjamin#q16|src_kangourou_2024_benjamin__Q16]]
 
 
 
@@ -937,7 +921,6 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 > E) 34
 
 **Answer:** C
-[[Quesiti/src_kangourou_2024_benjamin#q17|src_kangourou_2024_benjamin__Q17]]
 
 
 
@@ -991,7 +974,6 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 > E) 11
 
 **Answer:** C
-[[Quesiti/src_kangourou_2024_benjamin#q18|src_kangourou_2024_benjamin__Q18]]
 
 
 
@@ -1055,7 +1037,6 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 >
 
 **Answer:** D
-[[Quesiti/src_kangourou_2024_benjamin#q19|src_kangourou_2024_benjamin__Q19]]
 
 
 
@@ -1109,7 +1090,6 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 > Questions from No. 21 to No. 30 are worth 5 points each
 
 **Answer:** C
-[[Quesiti/src_kangourou_2024_benjamin#q20|src_kangourou_2024_benjamin__Q20]]
 
 
 
@@ -1160,7 +1140,6 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 > E) 56
 
 **Answer:** C
-[[Quesiti/src_kangourou_2024_benjamin#q21|src_kangourou_2024_benjamin__Q21]]
 
 
 
@@ -1212,7 +1191,6 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 > E) 20
 
 **Answer:** E
-[[Quesiti/src_kangourou_2024_benjamin#q22|src_kangourou_2024_benjamin__Q22]]
 
 
 
@@ -1267,7 +1245,6 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 > E) 7
 
 **Answer:** A
-[[Quesiti/src_kangourou_2024_benjamin#q23|src_kangourou_2024_benjamin__Q23]]
 
 
 
@@ -1322,7 +1299,6 @@ How to colour the white face of the cube development
 > E)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2024_benjamin#q24|src_kangourou_2024_benjamin__Q24]]
 
 
 
@@ -1393,7 +1369,6 @@ How to colour the white face of the cube development
 >
 
 **Answer:** D
-[[Quesiti/src_kangourou_2024_benjamin#q25|src_kangourou_2024_benjamin__Q25]]
 
 
 
@@ -1448,7 +1423,6 @@ How to colour the white face of the cube development
 > E) 5
 
 **Answer:** C
-[[Quesiti/src_kangourou_2024_benjamin#q26|src_kangourou_2024_benjamin__Q26]]
 
 
 
@@ -1497,7 +1471,6 @@ How to colour the white face of the cube development
 > E) 432
 
 **Answer:** C
-[[Quesiti/src_kangourou_2024_benjamin#q27|src_kangourou_2024_benjamin__Q27]]
 
 
 
@@ -1544,7 +1517,6 @@ How many pieces of rope does Maya get (12 and 16 cuts)
 > E) 29
 
 **Answer:** A
-[[Quesiti/src_kangourou_2024_benjamin#q28|src_kangourou_2024_benjamin__Q28]]
 
 
 
@@ -1597,7 +1569,6 @@ How many pieces of rope does Maya get (12 and 16 cuts)
 > E) 20
 
 **Answer:** E
-[[Quesiti/src_kangourou_2024_benjamin#q29|src_kangourou_2024_benjamin__Q29]]
 
 
 
@@ -1654,4 +1625,3 @@ How many pieces of rope does Maya get (12 and 16 cuts)
 > 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
 
 **Answer:** D
-[[Quesiti/src_kangourou_2024_benjamin#q30|src_kangourou_2024_benjamin__Q30]]

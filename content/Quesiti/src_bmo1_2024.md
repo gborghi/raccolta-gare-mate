@@ -37,8 +37,6 @@ level: BMO Round 1
 > 
 > Determinare, con la prova, il numero di possibili ortografie di OLYMPIADS che potrebbero essere digitate.
 
-[[Quesiti/src_bmo1_2024#q01|src_bmo1_2024__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_invarianti,method_induzione,method_backward,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione,skill_lettura_attenta"></span>
@@ -72,8 +70,6 @@ level: BMO Round 1
 > 
 > *(Nota che 6 e 7 sono numeri interi consecutivi, così come 7 e 6.) *
 
-[[Quesiti/src_bmo1_2024#q02|src_bmo1_2024__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -103,8 +99,6 @@ level: BMO Round 1
 > 
 > Prova che $BZ$ è perpendicolare a $AC$.
 
-[[Quesiti/src_bmo1_2024#q03|src_bmo1_2024__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -129,8 +123,6 @@ level: BMO Round 1
 *Trova tutti gli integri positivi n in modo tale che n volte 2^n più 1 sia un quadrato perfetto*
 
 > Trova tutti gli integri positivi $n$ in modo tale che $n \times 2^n + 1$ sia un quadrato.
-
-[[Quesiti/src_bmo1_2024#q04|src_bmo1_2024__Q04]]
 
 
 
@@ -161,8 +153,6 @@ level: BMO Round 1
 > 
 > Qual è il minor numero di difetti che il critico potrebbe trovare?
 
-[[Quesiti/src_bmo1_2024#q05|src_bmo1_2024__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_combinatoria,method_casework,method_simmetria,method_estremalita,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta,skill_modellizzazione"></span>
@@ -191,5 +181,3 @@ level: BMO Round 1
 > Per alcuni numeri interi $n > 4$ un poligono converso ha vertici $v_1, v_2, \ldots, v_n$ in quell'ordine ciclico. Tutti i lati sono della stessa lunghezza. Ha anche la proprietà che le lunghezze dei diagonali $v_1v_5, v_2v_5, \ldots, v_{n-3}v_n, v_{n-2}v_1, v_2$ e $v_nv_3$ sono tutte uguali.
 > 
 > Per quale $n$ è necessariamente il caso che il poligono abbia angoli uguali?
-
-[[Quesiti/src_bmo1_2024#q06|src_bmo1_2024__Q06]]

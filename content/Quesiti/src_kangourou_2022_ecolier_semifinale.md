@@ -43,7 +43,6 @@ level: kangourou
 > B) 20 C) 24 D) 28 E) 32
 
 **Answer:** C
-[[Quesiti/src_kangourou_2022_ecolier_semifinale#q01|src_kangourou_2022_ecolier_semifinale__Q01]]
 
 
 
@@ -88,7 +87,6 @@ level: kangourou
 > E) 19:50
 
 **Answer:** D
-[[Quesiti/src_kangourou_2022_ecolier_semifinale#q02|src_kangourou_2022_ecolier_semifinale__Q02]]
 
 
 
@@ -129,7 +127,6 @@ level: kangourou
 > B) 6 C) 7 D) 8 E) 9
 
 **Answer:** D
-[[Quesiti/src_kangourou_2022_ecolier_semifinale#q03|src_kangourou_2022_ecolier_semifinale__Q03]]
 
 
 
@@ -177,7 +174,6 @@ level: kangourou
 > E) 82
 
 **Answer:** D
-[[Quesiti/src_kangourou_2022_ecolier_semifinale#q04|src_kangourou_2022_ecolier_semifinale__Q04]]
 
 
 
@@ -216,7 +212,6 @@ level: kangourou
 > (4 points) The company Palloni Gonfiati has ordered a stamp bearing its name. The figure shows five stamps that were delivered to it, but, by mistake, not all of them in contact with the paper provide the desired writing, which is precisely Palloni Gonfiati. Which of the five do? A) Only 5. B) Only 1. C) Only 2 and 5. D) Only 3 and 4. E) Only 4 and 5.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2022_ecolier_semifinale#q05|src_kangourou_2022_ecolier_semifinale__Q05]]
 
 
 
@@ -265,7 +260,6 @@ level: kangourou
 > E) The one with 13 marbles.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2022_ecolier_semifinale#q06|src_kangourou_2022_ecolier_semifinale__Q06]]
 
 
 
@@ -310,7 +304,6 @@ level: kangourou
 > E) 5
 
 **Answer:** B
-[[Quesiti/src_kangourou_2022_ecolier_semifinale#q07|src_kangourou_2022_ecolier_semifinale__Q07]]
 
 
 
@@ -354,7 +347,6 @@ level: kangourou
 >  E) 72
 
 **Answer:** C
-[[Quesiti/src_kangourou_2022_ecolier_semifinale#q08|src_kangourou_2022_ecolier_semifinale__Q08]]
 
 
 
@@ -412,7 +404,6 @@ level: kangourou
 > Open-ended questions
 
 **Answer:** A
-[[Quesiti/src_kangourou_2022_ecolier_semifinale#q09|src_kangourou_2022_ecolier_semifinale__Q09]]
 
 
 
@@ -487,7 +478,6 @@ level: kangourou
 > (4 points) The figure shows the sign displayed by a beekeeper outside his shop. The sign is in the shape of a regular hexagon in which six equal cells in the shape of a regular hexagon are drawn, each of which shares 4 of its sides or with other cells or with the edges of the hexagon. If the area of each cell is 36 square centimetres, how many square centimetres is the area of the sign?
 
 **Answer:** 324
-[[Quesiti/src_kangourou_2022_ecolier_semifinale#q10|src_kangourou_2022_ecolier_semifinale__Q10]]
 
 
 
@@ -517,7 +507,6 @@ level: kangourou
 > (4 points) If an integer divided by 6 gives a remainder of 2, what remainder is obtained by multiplying that number by 10 and dividing the result always by 6?
 
 **Answer:** 2
-[[Quesiti/src_kangourou_2022_ecolier_semifinale#q11|src_kangourou_2022_ecolier_semifinale__Q11]]
 
 
 
@@ -549,7 +538,6 @@ level: kangourou
 > (6 points) In the desert, two oases A and B are at the ends of a long straight track. A camel starts from A to B at the same time as another camel starts from B to A; the two camels travel along the track at a constant speed: one travels 4 km per hour, the other travels 2 km per hour. After an hour of meeting, the fastest camel reaches its destination. How many kilometers apart are the two oases?
 
 **Answer:** 12
-[[Quesiti/src_kangourou_2022_ecolier_semifinale#q12|src_kangourou_2022_ecolier_semifinale__Q12]]
 
 
 
@@ -585,7 +573,6 @@ level: kangourou
 > (6 points) In the figure, see the indicator of the amount of gasoline in the tank of a car. When full, the tank contains 60 litres of gasoline and the car consumes 8 litres of gasoline every 100 kilometers. With the gas now in the tank, how many kilometers can the car go?
 
 **Answer:** 250
-[[Quesiti/src_kangourou_2022_ecolier_semifinale#q13|src_kangourou_2022_ecolier_semifinale__Q13]]
 
 
 
@@ -616,7 +603,6 @@ level: kangourou
 > (8 points) Luigi used the four digits 1, 2, 3, 4 (each once) to write two two-digit numbers so that the product of those numbers is as high as possible. What number did he get as a product?
 
 **Answer:** 1312
-[[Quesiti/src_kangourou_2022_ecolier_semifinale#q14|src_kangourou_2022_ecolier_semifinale__Q14]]
 
 
 
@@ -668,4 +654,3 @@ level: kangourou
 > V P
 
 **Answer:** 13
-[[Quesiti/src_kangourou_2022_ecolier_semifinale#q15|src_kangourou_2022_ecolier_semifinale__Q15]]

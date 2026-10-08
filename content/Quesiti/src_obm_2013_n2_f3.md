@@ -45,8 +45,6 @@ level: OBM Nível 2
 
 ![[src_obm_2013_n2_f3__q01.png]]
 
-[[Quesiti/src_obm_2013_n2_f3#q01|src_obm_2013_n2_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_casework,method_disuguaglianze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_stima"></span>
@@ -80,8 +78,6 @@ level: OBM Nível 2
 > 
 > (Per qualsiasi numero reale $x$, il numero $\lfloor x \rfloor$ è definito come il numero intero più grande inferiore o uguale a $x$.)
 
-[[Quesiti/src_obm_2013_n2_f3#q02|src_obm_2013_n2_f3__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -111,8 +107,6 @@ level: OBM Nível 2
 > 
 > (Nota: supponiamo che il punto $N$ sia distinto dal punto $M$.)
 
-[[Quesiti/src_obm_2013_n2_f3#q03|src_obm_2013_n2_f3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -137,8 +131,6 @@ level: OBM Nível 2
 *Trova i numeri a due cifre i cui quadrodi li dividono*
 
 > Dato un numero a due cifre, lo chiamiamo *quadroid* il numero formato dalla concatenatura dei quadrati delle sue cifre nello stesso ordine. Ad esempio, i quadriidi di $19$, $72$, $65$ e $23$ sono $181$, $494$, $3625$ e $49$, rispettivamente. Trova tutti i numeri a due cifre i cui quadroid li divide.
-
-[[Quesiti/src_obm_2013_n2_f3#q04|src_obm_2013_n2_f3__Q04]]
 
 
 
@@ -165,8 +157,6 @@ level: OBM Nível 2
 
 > Si deve $ABC$ essere un triangolo di scalene e $AM$ la media relativa al lato $BC$. Il cerchio di diametro $AM$ incrocia di nuovo i lati $AB$ e $AC$ rispettivamente nei punti $P$ e $Q$, entrambi diversi da $A$. Supponiamo che $PQ$ sia parallelo a $BC$. Determinare la misura dell'angolo $\angle BAC$.
 
-[[Quesiti/src_obm_2013_n2_f3#q05|src_obm_2013_n2_f3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_combinatoria,method_casework,method_conteggio,method_simmetria,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_astrazione,skill_modellizzazione"></span>
@@ -191,5 +181,3 @@ level: OBM Nível 2
 *n semiraie da ciascuna di A e B; cerchi distinti minimi attraverso i punti di intersezione*
 
 > Considera un intero positivo $n$ e due punti $A$ e $B$ in un piano. A partire dal punto $A$ vengono disegnati semiray $n$ e a partire dal punto $B$ vengono disegnati semiray $n$, in modo tale che tutti si trovino nel semiplano definito dalla linea $AB$ e che tutti gli angoli formati dai semiray $2n$ con segmento $AB$ siano acuti. Definire i cerchi che attraversano $A$, $B$ e attraverso ogni punto di intersezione tra un semiray da $A$ e un semiray da $B$. Qual è il numero minimo di **cerchi ** distinti che possono essere definiti con questa costruzione?
-
-[[Quesiti/src_obm_2013_n2_f3#q06|src_obm_2013_n2_f3__Q06]]

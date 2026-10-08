@@ -36,8 +36,6 @@ level: BMO Round 1
 
 > (a) Trova, con prova, tutte le soluzioni integrali di $$a^3 + b^3 = 9.$$ (b) Trova, con prova, tutte le soluzioni integrali di $$35x^2 + 60x^2 + 42xy + 9y^2 = 9.$$
 
-[[Quesiti/src_bmo1_1987#q01|src_bmo1_1987__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -62,8 +60,6 @@ level: BMO Round 1
 *Triangolo con bisettore angolare e punto laterale; dimostrare AD = DB + BC*
 
 > In un triangolo $ABC$, $\angle BAC = 100^\circ$ e $AB = AC$. Un punto $D$ è scelto sul lato $AC$ in modo che $\angle ABD = \angle CBD$. Prove che $AD = DB + BC$.
-
-[[Quesiti/src_bmo1_1987#q02|src_bmo1_1987__Q02]]
 
 
 
@@ -92,8 +88,6 @@ level: BMO Round 1
 
 > Trovare, con prova, il valore del limite come $n \to \infty$ di $$\frac{\displaystyle\sum_{r=0}^{n} \binom{2n}{r}^{-1} \cdot 2^r}{\displaystyle\sum_{r=0}^{n} \binom{2n}{r+1}^{-1} \cdot 2^r}.$$ Qui $\binom{2n}{r}$ indica un coefficiente binomio.
 
-[[Quesiti/src_bmo1_1987#q03|src_bmo1_1987__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
@@ -121,8 +115,6 @@ level: BMO Round 1
 
 > Che $P(x)$ sia qualsiasi polinomio con coefficienti interi tali che $$P(21) = 17, \quad P(32) = -247, \quad P(37) = 33.$$ dimostri che se $P(N) = N + 51$ per un certo numero intero $N$, allora $N = 26$.
 
-[[Quesiti/src_bmo1_1987#q04|src_bmo1_1987__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -147,8 +139,6 @@ level: BMO Round 1
 *Linea parallela in triangolo acuto; i cerchi su BE e CF si intersecano in altitudine*
 
 > Una linea parallela al lato $BC$ di un triangolo acuto $ABC$ taglia il lato $AB$ a $F$ e il lato $AC$ a $E$. Prova che i cerchi di $BE$ e $CF$ come diametri si intersecano sull'altitudine del triangolo tracciato da $A$ perpendicolare a $BC$.
-
-[[Quesiti/src_bmo1_1987#q05|src_bmo1_1987__Q05]]
 
 
 
@@ -177,8 +167,6 @@ level: BMO Round 1
 
 > Trova, con prova, il valore massimo di $$\frac{xyz}{(1+x)(x+y)(y+z)(z+16)}$$ per i numeri reali positivi $x$, $y$, $z$.
 
-[[Quesiti/src_bmo1_1987#q06|src_bmo1_1987__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_congruenze,method_invarianti,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -203,5 +191,3 @@ level: BMO Round 1
 *Prove l'esistenza di x in modo tale che x(x+1)/2 - k sia divisibile per 2^n*
 
 > Prova che se $n$ e $k$ sono interi positivi allora esiste un intero positivo $x$ tale che $\frac{1}{2}x(x+1) - k$ sia divisibile da $2^n$.
-
-[[Quesiti/src_bmo1_1987#q07|src_bmo1_1987__Q07]]

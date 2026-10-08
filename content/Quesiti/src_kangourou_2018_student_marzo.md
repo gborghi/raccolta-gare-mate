@@ -39,7 +39,6 @@ level: kangourou
 > Which of the following numerical expressions has the maximum value? A) 2 - 0 × 1 + 8 B) 2 + 0 × 1 × 8 C) 2 × 0 + 1 × 8 D) 2 × (0 + 1 + 8) E) 2 × 0 + 1 + 8
 
 **Answer:** D
-[[Quesiti/src_kangourou_2018_student_marzo#q01|src_kangourou_2018_student_marzo__Q01]]
 
 
 
@@ -90,7 +89,6 @@ In which room is Renata coming through the doors?
 > E) 5
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_student_marzo#q02|src_kangourou_2018_student_marzo__Q02]]
 
 
 
@@ -138,7 +136,6 @@ In which room is Renata coming through the doors?
 > E) 25
 
 **Answer:** D
-[[Quesiti/src_kangourou_2018_student_marzo#q03|src_kangourou_2018_student_marzo__Q03]]
 
 
 
@@ -185,7 +182,6 @@ In which room is Renata coming through the doors?
 > E) 6
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_student_marzo#q04|src_kangourou_2018_student_marzo__Q04]]
 
 
 
@@ -227,7 +223,6 @@ In which room is Renata coming through the doors?
 > D) 2018 E) 1009
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_student_marzo#q05|src_kangourou_2018_student_marzo__Q05]]
 
 
 
@@ -285,7 +280,6 @@ In which room is Renata coming through the doors?
 >
 
 **Answer:** A
-[[Quesiti/src_kangourou_2018_student_marzo#q06|src_kangourou_2018_student_marzo__Q06]]
 
 
 
@@ -337,7 +331,6 @@ In which room is Renata coming through the doors?
 > E) There are no green extraterrestrials living on Venus.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2018_student_marzo#q07|src_kangourou_2018_student_marzo__Q07]]
 
 
 
@@ -386,7 +379,6 @@ In which room is Renata coming through the doors?
 > E) 15
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_student_marzo#q08|src_kangourou_2018_student_marzo__Q08]]
 
 
 
@@ -433,7 +425,6 @@ In which room is Renata coming through the doors?
 > E) 2 (A + B + C)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_student_marzo#q09|src_kangourou_2018_student_marzo__Q09]]
 
 
 
@@ -472,7 +463,6 @@ In which room is Renata coming through the doors?
 > The figure shows two rectangles inclined relative to the vertical of 40 degrees and 30 degrees. How many degrees does the angle a measure? A) 105 B) 120 C) 130 D) 135 E) A value different from the previous ones. The questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2018_student_marzo#q10|src_kangourou_2018_student_marzo__Q10]]
 
 
 
@@ -530,7 +520,6 @@ In which room is Renata coming through the doors?
 >
 
 **Answer:** A
-[[Quesiti/src_kangourou_2018_student_marzo#q11|src_kangourou_2018_student_marzo__Q11]]
 
 
 
@@ -577,7 +566,6 @@ In which room is Renata coming through the doors?
 > D) V =      W E) V = W
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_student_marzo#q12|src_kangourou_2018_student_marzo__Q12]]
 
 
 
@@ -617,7 +605,6 @@ In which room is Renata coming through the doors?
 > We pour water into a jar in constant quantities over time until it is filled. The graph below shows, as a function of time t, the water level h in the vessel. Of the following, what can the shape of the vessel be? A) B) C) D) E)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2018_student_marzo#q13|src_kangourou_2018_student_marzo__Q13]]
 
 
 
@@ -670,7 +657,6 @@ In which room is Renata coming through the doors?
 > E) 20
 
 **Answer:** C
-[[Quesiti/src_kangourou_2018_student_marzo#q14|src_kangourou_2018_student_marzo__Q14]]
 
 
 
@@ -716,7 +702,6 @@ In which room is Renata coming through the doors?
 > E) 48
 
 **Answer:** C
-[[Quesiti/src_kangourou_2018_student_marzo#q15|src_kangourou_2018_student_marzo__Q15]]
 
 
 
@@ -777,7 +762,6 @@ In which room is Renata coming through the doors?
 >
 
 **Answer:** D
-[[Quesiti/src_kangourou_2018_student_marzo#q16|src_kangourou_2018_student_marzo__Q16]]
 
 
 
@@ -820,7 +804,6 @@ In which room is Renata coming through the doors?
 > C) 1/5 D) 1/6 E) 1/8
 
 **Answer:** D
-[[Quesiti/src_kangourou_2018_student_marzo#q17|src_kangourou_2018_student_marzo__Q17]]
 
 
 
@@ -849,7 +832,6 @@ In which room is Renata coming through the doors?
 > Before the match between Real Madrid and Manchester United the following five forecasts were made:
 
 **Answer:** D
-[[Quesiti/src_kangourou_2018_student_marzo#q18|src_kangourou_2018_student_marzo__Q18]]
 
 
 
@@ -882,7 +864,6 @@ In which room is Renata coming through the doors?
 > 19. From a strip of paper, we cut a regular pentagon. We rotate it 21 degrees counterclockwise, with the center as a pivot: the figure shows the position of the pentagon after the first rotation. What image will we see when, for the first time, the pentagon overlaps exactly with the hole left behind? A) B) C) D) E)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_student_marzo#q19|src_kangourou_2018_student_marzo__Q19]]
 
 
 
@@ -911,7 +892,6 @@ In which room is Renata coming through the doors?
 > 20. Let f be a function such that f (x + y) = f (x) f (y) for all integers x and y. If f (1) = 1/2, what is the value of f (0) + f (1) + f (2) + f (3)? A) 1/8 B) 3/2 C) 5/2 D) 15/8 E) 6 Kangourou 2018 page 29
 
 **Answer:** D
-[[Quesiti/src_kangourou_2018_student_marzo#q20|src_kangourou_2018_student_marzo__Q20]]
 
 
 
@@ -944,7 +924,6 @@ Sum of Nadia cards if sum of products and before*
 > 21. Of the five cards shown in the figure, Nadia takes three and Roberto two. Each of them makes the product of the numerical values of their cards. Adding up the two numbers, they find that the sum is a prime number. What's the sum of Nadia's card numbers? A) 12 B) 13 C) 15 D) 17 E) 18
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_student_marzo#q21|src_kangourou_2018_student_marzo__Q21]]
 
 
 
@@ -973,7 +952,6 @@ Sum of Nadia cards if sum of products and before*
 > 22. A 0xy orthogonal Cartesian system is fixed in the plane. If the parabola of equation y = $x^{2}$+px + q is such that a) it intersects the axes x and y at three distinct points; b) the circle passing through the three points above intersects the parabola at a fourth point A distinct from the previous three points, what are the coordinates of point A? $q^{2}$ q A) (0,- q) B) (p, q) C) (- p, q) D) (- , ) ---- --- $p^{2}$ p E) (1, p + q + 1)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2018_student_marzo#q22|src_kangourou_2018_student_marzo__Q22]]
 
 
 
@@ -1006,7 +984,6 @@ Sum of Nadia cards if sum of products and before*
 > 23. The prism in the figure is made up of two triangles and three squares. Its vertices are numbered from 1 to 6 so that the sum of the four vertices on each square is the same for all squares. Vertices 1 and 5 have already been numbered. What number distinguishes the vertex marked with x ? A) 2 B) 3 C) 4 D) 6 E) Numbering cannot be carried out.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2018_student_marzo#q23|src_kangourou_2018_student_marzo__Q23]]
 
 
 
@@ -1035,7 +1012,6 @@ Sum of Nadia cards if sum of products and before*
 > 24. m and n are the roots of the equation $x^{2}$- x - 2018 = 0. How much is $n^{2}$ + m ? A) 2016 B) 2017 C) 2018 D) 2019 E) 2020
 
 **Answer:** D
-[[Quesiti/src_kangourou_2018_student_marzo#q24|src_kangourou_2018_student_marzo__Q24]]
 
 
 
@@ -1065,8 +1041,6 @@ Sum of Nadia cards if sum of products and before*
 
 **Answer:** B
 
-[[Quesiti/src_kangourou_2018_student_marzo#q25|src_kangourou_2018_student_marzo__Q25]]
-
 
 
 <span class="atom-split" id="q26" data-atom="q26" data-title="Quesito 26" data-tags="topic_logica,method_casework,skill_casework_accurato"></span>
@@ -1094,7 +1068,6 @@ Sum of Nadia cards if sum of products and before*
 > 26. Four brothers, denoted by A, B, C and D, all have different heights. They make the following statements: - A: I am neither the tallest nor the shortest; - B: I am not the shortest; - C: I am the tallest; - D: I am the shortest. If one and only one of them is lying, who is the tallest? A) A B) B C) C D) D E) The information is not sufficient to answer.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_student_marzo#q26|src_kangourou_2018_student_marzo__Q26]]
 
 
 
@@ -1123,7 +1096,6 @@ The probability that the sum of the three maximum values is 18*
 > 27. Alberta throws three six-sided dice (numbered 1 to 6) and writes on a sheet the highest number she gets. She throws the three dice two more times, always writing down the highest of the numbers she gets, and then she adds up the three numbers he wrote. What is the probability that the sum is 18? A) 1 --- 69 B) C) D) E)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2018_student_marzo#q27|src_kangourou_2018_student_marzo__Q27]]
 
 
 
@@ -1218,7 +1190,6 @@ The probability that the sum of the three maximum values is 18*
 > 28. ABCDEF is a regular hexagon. G is the middle point of AB. H and I are the intersection points of the GD and GE segments with FC respectively. What is the ratio between the area of the GIF triangle and that of the IHDE trapezoid? A) 1/2 B) 1/3 C) 1/4 D) 1/√3 E) √3/4
 
 **Answer:** A
-[[Quesiti/src_kangourou_2018_student_marzo#q28|src_kangourou_2018_student_marzo__Q28]]
 
 
 
@@ -1247,7 +1218,6 @@ The probability that the sum of the three maximum values is 18*
 > 29. Francis has calculated 1×2× ...×15 which is 15! 1 0 7 6 7 4 3 6 0 0 0 and write the result on the board. The second and tenth digits cannot be read (see figure). What are they, in order? A) 2 and 0 B) 7 and 4 C) 4 and 8 D) 9 and 2 E) 3 and 8
 
 **Answer:** E
-[[Quesiti/src_kangourou_2018_student_marzo#q29|src_kangourou_2018_student_marzo__Q29]]
 
 
 
@@ -1276,4 +1246,3 @@ The probability that the sum of the three maximum values is 18*
 > 30. Among the participants in a summer camp, the number of girls exceeds the number of boys by 40 percent. The probability that a delegation of two participants chosen at random consists of a girl and a boy is exactly 1/2. How many people are in the camp? A) 20 B) 24 C) 36 D) 38
 
 **Answer:** C
-[[Quesiti/src_kangourou_2018_student_marzo#q30|src_kangourou_2018_student_marzo__Q30]]

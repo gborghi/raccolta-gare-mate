@@ -37,8 +37,6 @@ Tre dadi toccanti sul tavolo: trovare la somma di tre volti nascoste
 
 ![[src_obm_2000_n1_f3__q01.png]]
 
-[[Quesiti/src_obm_2000_n1_f3#q01|src_obm_2000_n1_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_combinatoria,method_casework,method_invarianti,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_astrazione"></span>
@@ -68,8 +66,6 @@ Tre dadi toccanti sul tavolo: trovare la somma di tre volti nascoste
 
 ![[src_obm_2000_n1_f3__q02.png]]
 
-[[Quesiti/src_obm_2000_n1_f3#q02|src_obm_2000_n1_f3__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_logica,method_bigezione,method_casework,skill_modellizzazione,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -94,8 +90,6 @@ Tre dadi toccanti sul tavolo: trovare la somma di tre volti nascoste
 *Due mazze di carte: organizzare 100 carte a faccia in giù con tutti i numeri 1100*
 
 > Isabel ha due mazzi, ognuno con carte $50$. In ciascuno dei due mazzi sono scritti i numeri da $1$ a $100$, un numero su ciascuna faccia delle carte (cioè due numeri per carta). A causa di un difetto di stampa, la distribuzione dei numeri delle schede non è uguale in entrambi i mazzi (ad esempio, in un mazzo il numero $1$ appare sulla stessa scheda come $2$; nell'altro, $1$ appare con $0$). Mostrare come Isabel può organizzare le carte $100$ a faccia in giù su un tavolo in modo che, quando le carte sono rivolte a faccia in su, vengono mostrati tutti i numeri da $1$ a $100$.
-
-[[Quesiti/src_obm_2000_n1_f3#q03|src_obm_2000_n1_f3__Q03]]
 
 
 
@@ -126,4 +120,3 @@ Tre dadi toccanti sul tavolo: trovare la somma di tre volti nascoste
 > Considera la seguente tabella $5 \times 5$ con i numeri da $1$ a $25$: $$\begin{array}{|c|c|c|c|c|}\hline 1 & 2 & 3 & 4 & 5 \\ \hline 6 & 7 & 8 & 9 & 10 \\ \hline 11 & 12 & 13 & 14 & 15 \\ \hline 16 & 17 & 18 & 19 & 20 \\ \hline 21 & 22 & 23 & 24 & 25 \\ \hline \end{array}$$ In ogni riga orizzontale e in ogni colonna verticale, cambiamo il segno dei numeri $2$, in modo che successivamente ogni riga e ogni colonna contengano esattamente $3$ numeri positivi e $2$ numeri negativi. Calcolare tutti i valori possibili della somma risultante di tutte le voci della tabella.
 
 **Risposta:** 65
-[[Quesiti/src_obm_2000_n1_f3#q04|src_obm_2000_n1_f3__Q04]]

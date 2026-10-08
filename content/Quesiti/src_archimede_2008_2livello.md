@@ -54,7 +54,6 @@ level: 2 livello
 > - **(E)** 9000.
 
 **Answer:** B
-[[Quesiti/src_archimede_2008_2livello#q01|src_archimede_2008_2livello__Q01]]
 
 
 
@@ -102,7 +101,6 @@ Difference between black and white boxes in the So-poko on side 203
 > - **(E)** 407.
 
 **Answer:** E
-[[Quesiti/src_archimede_2008_2livello#q02|src_archimede_2008_2livello__Q02]]
 
 
 
@@ -191,7 +189,6 @@ Difference between black and white boxes in the So-poko on side 203
 > - **(E)** 105.
 
 **Answer:** C
-[[Quesiti/src_archimede_2008_2livello#q03|src_archimede_2008_2livello__Q03]]
 
 
 
@@ -240,7 +237,6 @@ Difference between black and white boxes in the So-poko on side 203
 > - **(E)** Francesco and Andrea were born in different seasons.
 
 **Answer:** D
-[[Quesiti/src_archimede_2008_2livello#q04|src_archimede_2008_2livello__Q04]]
 
 
 
@@ -282,7 +278,6 @@ Difference between black and white boxes in the So-poko on side 203
 > - **(E)** 50.
 
 **Answer:** A
-[[Quesiti/src_archimede_2008_2livello#q05|src_archimede_2008_2livello__Q05]]
 
 
 
@@ -330,7 +325,6 @@ Difference between black and white boxes in the So-poko on side 203
 > - **(E)** It is not possible to determine this with the problem data.
 
 **Answer:** B
-[[Quesiti/src_archimede_2008_2livello#q06|src_archimede_2008_2livello__Q06]]
 
 
 
@@ -372,7 +366,6 @@ Difference between black and white boxes in the So-poko on side 203
 > - **(E)** 24.
 
 **Answer:** D
-[[Quesiti/src_archimede_2008_2livello#q07|src_archimede_2008_2livello__Q07]]
 
 
 
@@ -419,7 +412,6 @@ Difference between black and white boxes in the So-poko on side 203
 > - **(E)** 6 −π.
 
 **Answer:** D
-[[Quesiti/src_archimede_2008_2livello#q08|src_archimede_2008_2livello__Q08]]
 
 
 
@@ -462,7 +454,6 @@ Difference between black and white boxes in the So-poko on side 203
 > - **(E)** 1 6.
 
 **Answer:** E
-[[Quesiti/src_archimede_2008_2livello#q09|src_archimede_2008_2livello__Q09]]
 
 
 
@@ -512,7 +503,6 @@ Difference between black and white boxes in the So-poko on side 203
 > - **(E)** 7.
 
 **Answer:** C
-[[Quesiti/src_archimede_2008_2livello#q10|src_archimede_2008_2livello__Q10]]
 
 
 
@@ -559,7 +549,6 @@ Difference between black and white boxes in the So-poko on side 203
 > - **(E)** The number is 9409.
 
 **Answer:** E
-[[Quesiti/src_archimede_2008_2livello#q11|src_archimede_2008_2livello__Q11]]
 
 
 
@@ -603,7 +592,6 @@ Difference between black and white boxes in the So-poko on side 203
 > - **(E)** 6 − √ 15. Problems with numerical answer  5 points
 
 **Answer:** C
-[[Quesiti/src_archimede_2008_2livello#q12|src_archimede_2008_2livello__Q12]]
 
 
 
@@ -634,7 +622,6 @@ Difference between black and white boxes in the So-poko on side 203
 > Determine the greatest number of two digits such that: (a) it is a prime number; (b) the two digits are replaced by a prime number; (c) the product of the two digits is a prime number.
 
 **Answer:** 71
-[[Quesiti/src_archimede_2008_2livello#q13|src_archimede_2008_2livello__Q13]]
 
 
 
@@ -665,7 +652,6 @@ Difference between black and white boxes in the So-poko on side 203
 > Whether ABC is a right triangle in A, with $\widehat{ABC}$ = 15°. If H is the height from A and if J, K are the projections of H on AB and AC. Knowing that the area of AJHK is 45 cm2, how many cm2 is the product BJ · CK worth?
 
 **Answer:** 45
-[[Quesiti/src_archimede_2008_2livello#q14|src_archimede_2008_2livello__Q14]]
 
 
 
@@ -698,8 +684,7 @@ Difference between black and white boxes in the So-poko on side 203
 
 > Demonstrative Exercise Determine all pairs (x, y) of real numbers that prove the equation 4 x + y = 1 x + 1 y.
 
-**Answer:** y=x con (0,0) escluso
-[[Quesiti/src_archimede_2008_2livello#q15|src_archimede_2008_2livello__Q15]]
+**Answer:** y=x with (0,0) excluded
 
 
 
@@ -730,8 +715,7 @@ Difference between black and white boxes in the So-poko on side 203
 
 > Whether AB is a rope of one circumference and P is an inner point of AB such that AP = 2PB. Either DE the string passing through P and perpendicular to AB. Demonstrate that the mean point Q of AP is the orthocenter of ADE.
 
-**Answer:** dimostrazione
-[[Quesiti/src_archimede_2008_2livello#q16|src_archimede_2008_2livello__Q16]]
+**Answer:** proof
 
 
 
@@ -764,5 +748,4 @@ Are they cubic?
 
 > A) There are seven positive integers a, b, c, d, e, f, g such that the products ab, bc, cd, de, ef, fg, ga are all perfect cubes. Prove that a, b, c, d, e, f, g are perfect cubes too. (b) You have six positive integers a, b, c, d, e, f such that the products ab, bc, cd, de, ef, fa are all perfect cubes. Is it always true that a, b, c, d, e, f are all perfect cubes? Note: we say perfect cube an integer m such that m = n3 for some integer n.
 
-**Answer:** dimostrazione (sì per 7, no per 6)
-[[Quesiti/src_archimede_2008_2livello#q17|src_archimede_2008_2livello__Q17]]
+**Answer:** proof (yes for 7, no for 6)

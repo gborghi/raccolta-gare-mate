@@ -33,8 +33,6 @@ level: BMO Round 1
 
 > Si consideri una scacchiera standard $8 \times 8$ costituita da 64 piccoli quadrati colorati nel solito modello, quindi 32 in nero e 32 in bianco. Un percorso in zigzag attraverso il bordo è una raccolta di otto quadrati bianchi, uno in ogni riga, che si incontrano negli angoli. Quanti percorsi zigzag ci sono?
 
-[[Quesiti/src_bmo1_2009#q01|src_bmo1_2009__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -61,8 +59,6 @@ level: BMO Round 1
 
 > Trova tutti i valori di $x$, $y$ e $z$ in modo tale che $$(x+1)z = 12, \quad (y+1)z = 4 \quad \text{and} \quad (z+1)x = 4.$$
 
-[[Quesiti/src_bmo1_2009#q02|src_bmo1_2009__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -88,8 +84,6 @@ level: BMO Round 1
 
 > Il $ABPC$ deve essere un parallelo tale che $\angle ABC$ sia un angolo acuto. Il circoncircolo del triangolo $ABC$ incontra di nuovo la linea $CP$ a $Q$. Prova che $PQ = AC$ se e solo se $\angle BAC = 60^\circ$.
 
-[[Quesiti/src_bmo1_2009#q03|src_bmo1_2009__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -114,8 +108,6 @@ level: BMO Round 1
 *Ricerca i numeri interi positivi n dove 2008 divide n^2+2008 e 2009 divide n^2+2009*
 
 > Trova tutti gli integri positivi $n$ in modo tale che $2008$ divida $n^2 + 2008$ e $2009$ divida $n^2 + 2009$.
-
-[[Quesiti/src_bmo1_2009#q04|src_bmo1_2009__Q04]]
 
 
 
@@ -145,8 +137,6 @@ level: BMO Round 1
 
 > Determinare le sequenze $a_1, a_2, a_3, \ldots$ che soddisfano tutte le seguenti condizioni: a) $a_{n+1} = 2a_n^2 - 1$ per ogni numero intero $n \geq 0$; b) $a_0$ è un numero razionale; c) $a_i = a_j$ per alcuni $i \neq j$.
 
-[[Quesiti/src_bmo1_2009#q05|src_bmo1_2009__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_disuguaglianze,topic_geometria_piana,topic_trigonometria,method_disuguaglianze,method_trigonometria,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima"></span>
@@ -172,5 +162,3 @@ level: BMO Round 1
 *Prove che la somma cosina ponderata dei lati a cubo è inferiore a abc in triangolo obtuso*
 
 > Il triangolo angolato ottuso $ABC$ ha lati di lunghezza $a$, $b$ e $c$ opposti rispettivamente agli angoli $\angle A$, $\angle B$ e $\angle C$. Provare che $$a^3 \cos A + b^3 \cos B + c^3 \cos C < abc.$$
-
-[[Quesiti/src_bmo1_2009#q06|src_bmo1_2009__Q06]]

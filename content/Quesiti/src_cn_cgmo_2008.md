@@ -40,8 +40,7 @@ level: China Girls' Mathematical Olympiad
 > 
 > (2) Si può suddividere l'insieme $\{1, 2, \ldots, 99\}$ in 33 sottoinsiemi, ognuno contenente tre elementi, e le somme dei tre elementi di ciascun sottoinsieme sono tutte uguali? (Posato da Liu Shixiong)
 
-**Risposta:** (1) No; (2) Yes
-[[Quesiti/src_cn_cgmo_2008#q01|src_cn_cgmo_2008__Q01]]
+**Risposta:** (1) No; (2) Sì
 
 
 
@@ -71,8 +70,6 @@ level: China Girls' Mathematical Olympiad
 *Cubico con tre radici positive: prova la disuguaglianza dei coefficienti*
 
 > Il polinomio reale $\varphi(x) = ax^3 + bx^2 + cx + d$ ha tre radici positive e $\varphi(0) < 0$. Prove che $$2b^3 + 9a^2 d - 7abc \le 0.$$ (Posato da Zhu Huawei)
-
-[[Quesiti/src_cn_cgmo_2008#q02|src_cn_cgmo_2008__Q02]]
 
 
 
@@ -107,7 +104,6 @@ level: China Girls' Mathematical Olympiad
 ![[src_cn_cgmo_2008__q03.png]]
 
 **Risposta:** $\dfrac{1+\sqrt{5}}{2}$
-[[Quesiti/src_cn_cgmo_2008#q03|src_cn_cgmo_2008__Q03]]
 
 
 
@@ -142,7 +138,6 @@ level: China Girls' Mathematical Olympiad
 ![[src_cn_cgmo_2008__q04.png]]
 
 **Risposta:** $\dfrac{1+\sqrt{3}}{2}$
-[[Quesiti/src_cn_cgmo_2008#q04|src_cn_cgmo_2008__Q04]]
 
 
 
@@ -175,8 +170,6 @@ level: China Girls' Mathematical Olympiad
 
 ![[src_cn_cgmo_2008__q05.png]]
 
-[[Quesiti/src_cn_cgmo_2008#q05|src_cn_cgmo_2008__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_insiemi_funzioni,method_induzione,method_ricorsione,method_estremalita,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -208,7 +201,6 @@ level: China Girls' Mathematical Olympiad
 > Supponiamo che la sequenza dei numeri positivi $x_1, x_2, \ldots, x_n, \ldots$ soddisfi $(8x_2 - 7x_1)x_1^7 = 8$ e $$x_{k+1}x_{k-1} - x_k^2 = \frac{x_{k-1}^8 - x_k^8}{x_k^7 x_{k-1}^7}, \quad k \ge 2.$$ Trova un numero reale positivo $a$ in modo tale che quando $x_1 > a$ si ha $x_1 > x_2 > \cdots > x_n > \cdots$, e quando $0 < x_1 < a$ non si ha tale monotonia. (Posato da Li Shenghong)
 
 **Risposta:** $a = 8^{1/8}$
-[[Quesiti/src_cn_cgmo_2008#q06|src_cn_cgmo_2008__Q06]]
 
 
 
@@ -239,7 +231,6 @@ level: China Girls' Mathematical Olympiad
 > Per una scacchiera delle dimensioni $2008 \times 2008$, in ogni caso (tutti hanno colori diversi) scrivere una delle lettere $C$, $G$, $M$, $O$. Se ogni quadrato $2 \times 2$ contiene tutte queste quattro lettere, lo chiamiamo una scacchiera armonica. (Posato da Zuming Feng)
 
 **Risposta:** $12 \times 2^{2008} - 24$
-[[Quesiti/src_cn_cgmo_2008#q07|src_cn_cgmo_2008__Q07]]
 
 
 
@@ -267,5 +258,3 @@ level: China Girls' Mathematical Olympiad
 *Prove the sequence floor(2^n×sqrt(2008))+floor(2^n×sqrt(2009)) ha infiniti termini odd e even*
 
 > Per un intero positivo $n$, $f_n = \lfloor 2^n \sqrt{2008} \rfloor + \lfloor 2^n \sqrt{2009} \rfloor$. Prove che ci sono infiniti numeri odd e numeri pari nella sequenza $f_1, f_2, \ldots$ ($\lfloor x \rfloor$ rappresenta il più grande numero intero che non supera $x$.) (Posato da Zuming Feng)
-
-[[Quesiti/src_cn_cgmo_2008#q08|src_cn_cgmo_2008__Q08]]

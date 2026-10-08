@@ -39,7 +39,6 @@ level: China Mathematical Competition (Extra Test)
 ![[src_cn_cmc-extra-test_2002__q01.png]]
 
 **Risposta:** 1
-[[Quesiti/src_cn_cmc-extra-test_2002#q01|src_cn_cmc-extra-test_2002__Q01]]
 
 
 
@@ -74,7 +73,6 @@ level: China Mathematical Competition (Extra Test)
 > Trova il valore massimo di $\dfrac{2a^3 + 27c - 9ab}{\lambda^3}$.
 
 **Risposta:** \frac{3}{2}\sqrt{3}
-[[Quesiti/src_cn_cmc-extra-test_2002#q02|src_cn_cmc-extra-test_2002__Q02]]
 
 
 
@@ -100,5 +98,3 @@ level: China Mathematical Competition (Extra Test)
 *Programmazione della Coppa del Mondo: piani di sostituzione del conteggio*
 
 > Prima del torneo della Coppa del Mondo, l'allenatore di calcio del paese $F$ permetterà a sette giocatori $A_1$, $A_2$, $\ldots$, $A_7$ di partecipare a tre lezioni di allenamento (90 minuti ciascuno) per valutarli. Supponiamo che, in qualsiasi momento durante una partita, uno e solo uno di loro entri sul campo; e il tempo totale (misurato in minuti) sul campo per ciascuno di $A_1$, $A_2$, $A_3$ e $A_4$ sia divisibile per 7 e il tempo totale per ciascuno di $A_5$, $A_6$ e $A_7$ sia divisibile per 13. Se non vi è alcuna restrizione sul numero di volte di sostituzione di giocatori durante ogni partita, allora quanti possibili casi ci sono all'interno del tempo totale per ogni giocatore sul campo?
-
-[[Quesiti/src_cn_cmc-extra-test_2002#q03|src_cn_cmc-extra-test_2002__Q03]]

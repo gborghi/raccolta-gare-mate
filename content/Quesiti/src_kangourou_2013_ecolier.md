@@ -49,8 +49,6 @@ How many more bricks in the right pyramid
 >       	
 > E) 2
 
-[[Quesiti/src_kangourou_2013_ecolier#q01|src_kangourou_2013_ecolier__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,skill_conteggio_sistematico"></span>
@@ -83,8 +81,6 @@ In which image there are more black than white kangaroos
 
 > Look at the figure. 43+53=104. The addition written by Gianna is correct, but her brother Luke, in spite, covered two of the digits written by Gianna with two opaque sheets. The two numbers covered are the same. What's the number? A) 2 B) 4 C) 5 D) 7 E) 8
 
-[[Quesiti/src_kangourou_2013_ecolier#q02|src_kangourou_2013_ecolier__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_logica,skill_lettura_attenta"></span>
@@ -111,8 +107,6 @@ In which image there are more black than white kangaroos
 *Who and Barbara given the objects owned*
 
 > Samuel invited some friends to his home at 3:45 p.m. Julia arrived 25 minutes late, Gino arrived a quarter of an hour ahead of Julia. What time did Gino arrive? A) 15:05                B) 15:30              C) 15:55               D) 16:05             E) 16:20
-
-[[Quesiti/src_kangourou_2013_ecolier#q03|src_kangourou_2013_ecolier__Q03]]
 
 
 
@@ -156,8 +150,6 @@ In which image there are more black than white kangaroos
 > D) 13
 >          	
 > E) 12
-
-[[Quesiti/src_kangourou_2013_ecolier#q04|src_kangourou_2013_ecolier__Q04]]
 
 
 
@@ -205,8 +197,6 @@ Who made the wrong statement on the number 325?
 > E) 26
 >
 
-[[Quesiti/src_kangourou_2013_ecolier#q05|src_kangourou_2013_ecolier__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,skill_conteggio_sistematico"></span>
@@ -252,7 +242,6 @@ Who made the wrong statement on the number 325?
 > E) 6
 
 **Answer:** D
-[[Quesiti/src_kangourou_2013_ecolier#q06|src_kangourou_2013_ecolier__Q06]]
 
 
 
@@ -296,7 +285,6 @@ Who made the wrong statement on the number 325?
 > E)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2013_ecolier#q07|src_kangourou_2013_ecolier__Q07]]
 
 
 
@@ -327,8 +315,6 @@ Who made the wrong statement on the number 325?
 *What part of the broken mirror is missing*
 
 > Each of my five friends wanted to say something about the number 325. Aldo said, "It's a three-digit number". Bruno said: All its digits are distinct from each other. Carlo said, "The sum of its digits is 10". Darius said: The units digit is 5. Ennio said, "All his figures are odd". Only one of our friends got it wrong. Who's that? A) Aldo B) Bruno C) Carlo D) Darius E) Ennio Questions from N. 9 to N. 16 are worth 4 points each.
-
-[[Quesiti/src_kangourou_2013_ecolier#q08|src_kangourou_2013_ecolier__Q08]]
 
 
 
@@ -371,8 +357,6 @@ Who made the wrong statement on the number 325?
 >       	
 > E) 9
 
-[[Quesiti/src_kangourou_2013_ecolier#q09|src_kangourou_2013_ecolier__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,skill_modellizzazione"></span>
@@ -404,8 +388,6 @@ Who made the wrong statement on the number 325?
 *How many sandwiches with two and a half slices of bread*
 
 > When Pinocchio answers a question with a lie, his nose lengthens by 6 cm; when he answers telling the truth, his nose shortens by 2 cm. At 8 this morning, his nose was 9 cm long; from that moment on Pinocchio has told three lies and twice the truth: how long is his nose now? A) 14 cm B) 15 cm C) 19 cm D) 23 cm E) 31 cm
-
-[[Quesiti/src_kangourou_2013_ecolier#q10|src_kangourou_2013_ecolier__Q10]]
 
 
 
@@ -452,8 +434,6 @@ How many siblings can you have by dividing 36 candy
 > E) 4
 >
 
-[[Quesiti/src_kangourou_2013_ecolier#q11|src_kangourou_2013_ecolier__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_logica,skill_ragionamento_geometrico"></span>
@@ -494,7 +474,6 @@ How many siblings can you have by dividing 36 candy
 >    E)
 
 **Answer:** A
-[[Quesiti/src_kangourou_2013_ecolier#q12|src_kangourou_2013_ecolier__Q12]]
 
 
 
@@ -527,7 +506,6 @@ How many siblings can you have by dividing 36 candy
 > Ada, Bruna, Cecilia and Dora were born in the same year. Their birthdays are, by date but not by name, on 20 February, 12 April, 12 May and 25 May. Bruna and Ada were born in the same month. Ada and Cecilia were born on the same day in different months. Who's the oldest? A) Ada B) Bruna C) Cecilia D) Dora E) It is not possible to establish it.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2013_ecolier#q13|src_kangourou_2013_ecolier__Q13]]
 
 
 
@@ -573,7 +551,6 @@ How many siblings can you have by dividing 36 candy
 > E) OMKLN
 
 **Answer:** E
-[[Quesiti/src_kangourou_2013_ecolier#q14|src_kangourou_2013_ecolier__Q14]]
 
 
 
@@ -621,7 +598,6 @@ How many siblings can you have by dividing 36 candy
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2013_ecolier#q15|src_kangourou_2013_ecolier__Q15]]
 
 
 
@@ -655,7 +631,6 @@ Nadia's best friends (girls and boys)
 > At her birthday party, Nadia invited some friends, boys and girls. She doesn't know how many will accept the invitation, but she does know that the boys invited are more than the girls, that the invited boys named Franco are three and that they make up more than a third of the boys invited. How many of Nadia's friends, boys and girls, are going to be at the party? (a) 12 (b) 13 (c) 14 (d) 15 (e) 16 Questions from N. 17 al N. Twenty-four is worth five points each.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2013_ecolier#q16|src_kangourou_2013_ecolier__Q16]]
 
 
 
@@ -699,8 +674,6 @@ Nadia's best friends (girls and boys)
 >     	
 > E) 32
 
-[[Quesiti/src_kangourou_2013_ecolier#q17|src_kangourou_2013_ecolier__Q17]]
-
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,skill_riconoscimento_pattern"></span>
@@ -736,7 +709,6 @@ Nadia's best friends (girls and boys)
 > E) 103
 
 **Answer:** B
-[[Quesiti/src_kangourou_2013_ecolier#q18|src_kangourou_2013_ecolier__Q18]]
 
 
 
@@ -768,7 +740,6 @@ Nadia's best friends (girls and boys)
 > Last January, Trippa slept for exactly three weeks. How many minutes was it awake in January? A) 24 × 3 × 24 × 60 B) 10 × 24 × 60	               	        C) 9 × 24 × 60 D) 24 × 24 × 60 E) 10 × 24 × 60 × 60
 
 **Answer:** B
-[[Quesiti/src_kangourou_2013_ecolier#q19|src_kangourou_2013_ecolier__Q19]]
 
 
 
@@ -813,7 +784,6 @@ Nadia's best friends (girls and boys)
 > E) 7
 
 **Answer:** C
-[[Quesiti/src_kangourou_2013_ecolier#q20|src_kangourou_2013_ecolier__Q20]]
 
 
 
@@ -856,7 +826,6 @@ Nadia's best friends (girls and boys)
 >
 
 **Answer:** E
-[[Quesiti/src_kangourou_2013_ecolier#q21|src_kangourou_2013_ecolier__Q21]]
 
 
 
@@ -900,7 +869,6 @@ Nadia's best friends (girls and boys)
 > E) 60
 
 **Answer:** B
-[[Quesiti/src_kangourou_2013_ecolier#q22|src_kangourou_2013_ecolier__Q22]]
 
 
 
@@ -947,7 +915,6 @@ Nadia's best friends (girls and boys)
 > E) 204
 
 **Answer:** B
-[[Quesiti/src_kangourou_2013_ecolier#q23|src_kangourou_2013_ecolier__Q23]]
 
 
 
@@ -990,4 +957,3 @@ Nadia's best friends (girls and boys)
 > STRINGA ECOLIER 2013 Question 17 écolier has been annulled because of incomplete wording of the text.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2013_ecolier#q24|src_kangourou_2013_ecolier__Q24]]

@@ -36,7 +36,6 @@ level: China Mathematical Competition
 > L'intervallo di $f(x) = \sqrt{x-5} - \sqrt{24-3x}$ è ________.
 
 **Risposta:** $[-3,\sqrt{3}]$
-[[Quesiti/src_cn_cmc_2010#q01|src_cn_cmc_2010__Q01]]
 
 
 
@@ -67,7 +66,6 @@ level: China Mathematical Competition
 > Il minimo di $y = (a\cos^2 x - 3)\sin x$ è $-3$. Quindi l'intervallo del numero reale $a$ è ________.
 
 **Risposta:** $-\frac{3}{2} \le a \le 12$
-[[Quesiti/src_cn_cmc_2010#q02|src_cn_cmc_2010__Q02]]
 
 
 
@@ -98,7 +96,6 @@ level: China Mathematical Competition
 > Il numero di punti integrali (cioè i punti le cui coordinate $x$- e $y$ sono entrambe interi) all'interno dell'area (escluso il confine) chiusa dal ramo destro dell'iperbola $x^2 - y^2 = 1$ e della linea $x = 100$ è ________.
 
 **Risposta:** $9801$
-[[Quesiti/src_cn_cmc_2010#q03|src_cn_cmc_2010__Q03]]
 
 
 
@@ -128,7 +125,6 @@ level: China Mathematical Competition
 > È noto che $\{a_n\}$ è una sequenza aritmetica con differenza comune non zero e $\{b_n\}$ una sequenza geometrica, soddisfacente $a_1 = 3$, $b_1 = 1$, $a_2 = b_2$, $3a_5 = b_3$; inoltre, ci sono costanti $\alpha$ e $\beta$ tali che per ogni intero positivo $n$, abbiamo $a_n = \log_{\alpha} b_n + \beta$. Poi $\alpha + \beta = $ ________.
 
 **Risposta:** $3+\sqrt[3]{3}$
-[[Quesiti/src_cn_cmc_2010#q04|src_cn_cmc_2010__Q04]]
 
 
 
@@ -159,7 +155,6 @@ level: China Mathematical Competition
 > La funzione $f(x) = a^{2x} + 3a^x - 2$ ($a > 0$, $a \ne 1$) raggiunge il valore massimo $8$ con intervallo $[-1, 1]$. Quindi il suo valore minimo su questo intervallo è ________.
 
 **Risposta:** $-\frac{1}{4}$
-[[Quesiti/src_cn_cmc_2010#q05|src_cn_cmc_2010__Q05]]
 
 
 
@@ -190,7 +185,6 @@ La probabilità che il primo giocatore vinca un gioco di lancio dei dadi
 > Due persone fanno due dadi a turno. Chiunque ottenga il numero di somma superiore a $6$ prima vincerà la partita. La probabilità che la persona che ruota per primo vinca è di ________.
 
 **Risposta:** $\frac{12}{17}$
-[[Quesiti/src_cn_cmc_2010#q06|src_cn_cmc_2010__Q06]]
 
 
 
@@ -225,7 +219,6 @@ La probabilità che il primo giocatore vinca un gioco di lancio dei dadi
 ![[src_cn_cmc_b11_w26__q07.png]]
 
 **Risposta:** $\frac{\sqrt{10}}{4}$
-[[Quesiti/src_cn_cmc_2010#q07|src_cn_cmc_2010__Q07]]
 
 
 
@@ -256,7 +249,6 @@ La probabilità che il primo giocatore vinca un gioco di lancio dei dadi
 > Il numero di soluzioni integrali positive dell'equazione $x + y + z = 2010$ con $x \le y \le z$ è ________.
 
 **Risposta:** $336675$
-[[Quesiti/src_cn_cmc_2010#q08|src_cn_cmc_2010__Q08]]
 
 
 
@@ -287,7 +279,6 @@ La probabilità che il primo giocatore vinca un gioco di lancio dei dadi
 > È noto che $f(x) = ax^3 + bx^2 + cx + d$ ($a \ne 0$) e $|f'(x)| \le 1$ per $0 \le x \le 1$. Si prega di trovare il valore massimo di $a$.
 
 **Risposta:** $\frac{8}{3}$
-[[Quesiti/src_cn_cmc_2010#q09|src_cn_cmc_2010__Q09]]
 
 
 
@@ -315,5 +306,3 @@ La probabilità che il primo giocatore vinca un gioco di lancio dei dadi
 *L'area massima di un triangolo formato da una corda di parabola e da un punto fisso*
 
 > Date due punti in movimento $A(x_1, y_1)$ e $B(x_2, y_2)$ sulla curva di parabola $y^2 = 6x$ con $x_1 + x_2 = 4$ e $x_1 \ne x_2$, e il bisettore perpendicolare del segmento $AB$ interseca l'asse $x$ al punto $C$. Trova la superficie massima di $\triangle ABC$.
-
-[[Quesiti/src_cn_cmc_2010#q10|src_cn_cmc_2010__Q10]]

@@ -44,8 +44,6 @@ level: INMO
 
 ![[src_inmo_2004__q01.png]]
 
-[[Quesiti/src_inmo_2004#q01|src_inmo_2004__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_casework_accurato"></span>
@@ -72,8 +70,6 @@ level: INMO
 
 > Supponiamo che $p$ sia un primo maggiore di $3$. Trova tutte le coppie di integri $(a, b)$ che soddisfano l'equazione $$a^2 + 3ab + 2(a + b) + p^2 = 0.$$
 
-[[Quesiti/src_inmo_2004#q02|src_inmo_2004__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima"></span>
@@ -98,8 +94,6 @@ level: INMO
 *Rota reale di cubo; prova il piano di a^3 = 3*
 
 > Se $a$ è una radice reale dell'equazione $x^3 - x^2 + x - 2 = 0$, dimostrare che $\lfloor a^3 \rfloor = 3$. (Per qualsiasi numero reale $a$, indichiamo con $\lfloor a \rfloor$ il numero intero più grande non superiore a $a$.)
-
-[[Quesiti/src_inmo_2004#q03|src_inmo_2004__Q03]]
 
 
 
@@ -128,8 +122,6 @@ level: INMO
 
 > $R$ indichi il circondario di un triangolo $ABC$; $a$, $b$, $c$, i suoi lati $BC$, $CA$, $AB$; e $r_a$, $r_b$, $r_c$, rispettivamente, i suoi esradi opposti a $A$, $B$ e $C$. Se $2R \le r_a$, dimostrare che (i) $a > b$ e $a > c$; (ii) $2R > r_b$ e $2R > r_c$.
 
-[[Quesiti/src_inmo_2004#q04|src_inmo_2004__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
@@ -157,8 +149,6 @@ level: INMO
 
 > $S$ indichi l'insieme di tutti i 6 tupli $(a, b, c, d, e, f)$ di enti interi positivi come $a^2 + b^2 + c^2 + d^2 + e^2 = f^2$. Considera l'insieme $$T = \{ abcdef : (a, b, c, d, e, f) \in S \}.$$ Trova il più grande divisore comune di tutti i membri di $T$.
 
-[[Quesiti/src_inmo_2004#q05|src_inmo_2004__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_simmetria,method_fattorizzazione,method_doppio_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -185,5 +175,3 @@ level: INMO
 *Contare 5 volte che soddisfano l'equazione di somma reciproca; dimostrare che il conteggio è impar*
 
 > Prove che il numero di $5$-tupli di integri positivi $(a, b, c, d, e)$ che soddisfano l'equazione $$abcde = 5(bcde + acde + abde + abce + abcd)$$ è un intero **odd**.
-
-[[Quesiti/src_inmo_2004#q06|src_inmo_2004__Q06]]

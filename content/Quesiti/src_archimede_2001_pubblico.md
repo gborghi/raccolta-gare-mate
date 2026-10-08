@@ -35,7 +35,6 @@ level: gara del pubblico
 > The IMO Confederation is a peaceful alien civilization located in the Asip Galaxy. The galaxy is made up of $n$ groups of stars, each of which forms a circle. The smallest circle (called $I_1$) has a radius $1$ Imoparsec. If a square is circled to it and a circle is circled to it, the second star belt ($I_2$) is found. Similarly starting from $I_2$ you get $I_3$, and then $I_4$, $I_5$, $\ldots$. The last belt is the only one with a greater radius than $200$ Imoparsec. How many are in all the belts?
 
 **Answer:** 0017
-[[Quesiti/src_archimede_2001_pubblico#q01|src_archimede_2001_pubblico__Q01]]
 
 
 
@@ -67,7 +66,6 @@ The position of the planet (15.30) in the pair numbering
 > (NB: More formally $(a, b)$ comes before $(c, d)$ if and only if: $a + b < c + d$ or $a + b = c + d$ and $a > c$.)
 
 **Answer:** 1065
-[[Quesiti/src_archimede_2001_pubblico#q02|src_archimede_2001_pubblico__Q02]]
 
 
 
@@ -96,7 +94,6 @@ The position of the planet (15.30) in the pair numbering
 > The confederation's parliament is based on a triangle whose angle is twice that of the other. All sides of the triangle have full length and a measurement of $35$ imometres. How long can the perimeter of the building be, at most?
 
 **Answer:** 0630
-[[Quesiti/src_archimede_2001_pubblico#q03|src_archimede_2001_pubblico__Q03]]
 
 
 
@@ -162,7 +159,6 @@ The measurement shall be carried out in accordance with the following conditions
 > In the park in front of Parliament there is a rectangular triangle-shaped awning cut in two by the road leading to the entrance to the Senate (see figure). The sides of the windscreen, the road section $AD$ and the sides $BD$ and $DC$ have a full length and $BC$ measure $20$ imometers. How many imometers measure $DC$ (write $0$ if the data are insufficient to solve the problem)? (see figure)
 
 **Answer:** 0010
-[[Quesiti/src_archimede_2001_pubblico#q04|src_archimede_2001_pubblico__Q04]]
 
 
 
@@ -229,7 +225,6 @@ The measurement shall be carried out in accordance with the following conditions
 > (NB: The answer to any of the definitions can also be less than $1000$. If one of the answers should be, for example, $13$ in the table, enter $0013$.)
 
 **Answer:** 2100
-[[Quesiti/src_archimede_2001_pubblico#q05|src_archimede_2001_pubblico__Q05]]
 
 
 
@@ -258,7 +253,6 @@ The measurement shall be carried out in accordance with the following conditions
 > In order to subscribe to the contest you must pay $40$ Shields to the Free Students' Association Imesi. In the Confederation, you can find banknotes of any value from $1$ to $100$ Shields. How many ways can an Imese pay for a contest subscription using three different bills?
 
 **Answer:** 0114
-[[Quesiti/src_archimede_2001_pubblico#q06|src_archimede_2001_pubblico__Q06]]
 
 
 
@@ -287,7 +281,6 @@ The measurement shall be carried out in accordance with the following conditions
 > The newspapers are full of articles on loneliness and hobbies. Here's one of them. Starting with three points on a circumference; one move consists of tracing the vertices of the triangle identified by the three points and considering the points that these vertices intercept on the circumference. Xam starts playing with points on the circumference that identify length arcs $1$, $2$ and $3$. Xam stops after $1000$ moves. How many digits after the comma does the product of the lengths of the $3$ arcs identified by the last points drawn have?
 
 **Answer:** 1999
-[[Quesiti/src_archimede_2001_pubblico#q07|src_archimede_2001_pubblico__Q07]]
 
 
 
@@ -316,7 +309,6 @@ The measurement shall be carried out in accordance with the following conditions
 > Here's another one. The following operations are permitted: two can be joined and one can be divided into two equal piles (if the number of its stones is equal). Assuming Obob leaves with $3$ heaps made of $88$, $215$, and $72$ stones respectively, what is the maximum number of heaps he can reach?
 
 **Answer:** 0375
-[[Quesiti/src_archimede_2001_pubblico#q08|src_archimede_2001_pubblico__Q08]]
 
 
 
@@ -355,7 +347,6 @@ The measurement shall be carried out in accordance with the following conditions
 > The Greek letters represent two different unknown Qwghlmian figures. Calculate the maximum value that the known term can assume.
 
 **Answer:** 0600
-[[Quesiti/src_archimede_2001_pubblico#q09|src_archimede_2001_pubblico__Q09]]
 
 
 
@@ -383,7 +374,6 @@ The measurement shall be carried out in accordance with the following conditions
 > The typical imese house consists of three square chambers of length $30$ imometres connected by a triangular-shaped compartment, so that each side of this compartment coincides with one side of one of the chambers. The roof is a straight circular cone. What is the minimum radius that the base of the roof must have to cover the entire house? (Only the full part of the number found is indicated in the answer)
 
 **Answer:** 0041
-[[Quesiti/src_archimede_2001_pubblico#q10|src_archimede_2001_pubblico__Q10]]
 
 
 
@@ -411,7 +401,6 @@ The measurement shall be carried out in accordance with the following conditions
 > The wall clocks in use in the Confederation are all in the shape of a rectangle with the angle between the $45°$ diagonals. The upper side is parallel to the ground, while the lower side measures $1336$ unpolished. There is only a long handful of hours that moves like ours and after half a day he has made an exact turn. In the capital, a day lasts $20$ hours; at this time it is 1:15 and the bid identifies a point that divides the main side of the rectangle into two segments. What is the length of the lesser of the two segments?
 
 **Answer:** 0944
-[[Quesiti/src_archimede_2001_pubblico#q11|src_archimede_2001_pubblico__Q11]]
 
 
 
@@ -440,7 +429,6 @@ The measurement shall be carried out in accordance with the following conditions
 > Another ancient people that existed before the birth of the confederation represented each number by a sequence of two symbols: $|$ and $\uparrow$. The $|$ symbol at the end of a sequence meant adding a unit, while the $\uparrow$ symbol meant multiplying by $7$. For example, the $|||\uparrow|$ sequence represented the $29$ number. What is the minimum number of symbols required to represent the number $1000$?
 
 **Answer:** 0019
-[[Quesiti/src_archimede_2001_pubblico#q12|src_archimede_2001_pubblico__Q12]]
 
 
 
@@ -469,7 +457,6 @@ The measurement shall be carried out in accordance with the following conditions
 > In the IMES calendar, even years are those corresponding to numbers whose sum of digits is $6$ (e.g. year $1060$ is even). How many leap years have there been between year zero and year$7000$?
 
 **Answer:** 0084
-[[Quesiti/src_archimede_2001_pubblico#q13|src_archimede_2001_pubblico__Q13]]
 
 
 
@@ -498,7 +485,6 @@ The measurement shall be carried out in accordance with the following conditions
 > Confederation president Ocram Itrof wants to make a pool in his villa garden. Because he doesn't like too complicated geometric figures, he decides that his pool will be rectangular, just like his garden is rectangular. In addition, he would like to put a three-lane road around the basin to form a triangle. Considering the width of the alley is negligible, what will be the base area of the pool (in $\text{im}^2$) at most if the garden extends for $5200 \text{ im}^2$?
 
 **Answer:** 1300
-[[Quesiti/src_archimede_2001_pubblico#q14|src_archimede_2001_pubblico__Q14]]
 
 
 
@@ -531,7 +517,6 @@ The measurement shall be carried out in accordance with the following conditions
 > NB: A team scores even when they get the ball.
 
 **Answer:** 0028
-[[Quesiti/src_archimede_2001_pubblico#q15|src_archimede_2001_pubblico__Q15]]
 
 
 
@@ -559,7 +544,6 @@ The measurement shall be carried out in accordance with the following conditions
 > Returning from their journey, Aerdna and Oloap inherited a square-shaped field whose side is $200$ unchanging. The will says that the division of the field must be done by drawing a line that cuts two opposite sides so that the difference in the perimeter of the two sides is $300$ unchanging. What is the relationship between the area of the largest part and the area of the smallest?
 
 **Answer:** 0007
-[[Quesiti/src_archimede_2001_pubblico#q16|src_archimede_2001_pubblico__Q16]]
 
 
 
@@ -593,7 +577,6 @@ The measurement shall be carried out in accordance with the following conditions
 > 'What are the last four digits of the greatest (in absolute value) coefficient of the $$(x-1)(x-2)(x-4)(x-8)(x-16)(x-32)?"$$ polynomial?
 
 **Answer:** 4512
-[[Quesiti/src_archimede_2001_pubblico#q17|src_archimede_2001_pubblico__Q17]]
 
 
 
@@ -622,7 +605,6 @@ The measurement shall be carried out in accordance with the following conditions
 > The Imese economy is subject to a strong devaluation and therefore interest rates are very high. In particular, at current rates of the BCI after $20$ years, the amount of a current account is quadrupled. Assuming that Ocnarf deposits a shield today and the rates remain the same, what will be the last $4$ figures in the statement that Ocnarf's heirs will be able to read in $20000$ years?
 
 **Answer:** 0076
-[[Quesiti/src_archimede_2001_pubblico#q18|src_archimede_2001_pubblico__Q18]]
 
 
 
@@ -655,7 +637,6 @@ The measurement shall be carried out in accordance with the following conditions
 > (NB: Non-zero constant polynomials have degree $0$ and the convention polynomial $0$ has degree $-1$; therefore the latter is not an honest polynomial)
 
 **Answer:** 0182
-[[Quesiti/src_archimede_2001_pubblico#q19|src_archimede_2001_pubblico__Q19]]
 
 
 
@@ -683,4 +664,3 @@ The measurement shall be carried out in accordance with the following conditions
 > There is a square next to the parliament building with three circular fountains. Two of them have a radius of $64$ imometres, are tangent externally and tangent to a tree-lined avenue. The third is tangent externally to the first two and the avenue. How many imometers is its radius?
 
 **Answer:** 0016
-[[Quesiti/src_archimede_2001_pubblico#q20|src_archimede_2001_pubblico__Q20]]

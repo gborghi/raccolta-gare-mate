@@ -33,8 +33,6 @@ level: IMO
 
 > Si dimostri che esistono infiniti numeri naturali $a$ con la seguente proprietà: il numero $z = n^4 + a$ non è primo per alcun numero naturale $n$.
 
-[[Quesiti/src_imho_1969#q01|src_imho_1969__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_trigonometria,topic_algebra,method_trigonometria,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
@@ -64,8 +62,6 @@ level: IMO
 > $$f(x) = \cos(a_1 + x) + \frac{1}{2}\cos(a_2 + x) + \frac{1}{4}\cos(a_3 + x) + \cdots + \frac{1}{2^{n-1}}\cos(a_n + x).$$
 > Notato che $f(x_1) = f(x_2) = 0$, si dimostri che $x_2 - x_1 = m\pi$ per qualche intero $m$.
 
-[[Quesiti/src_imho_1969#q02|src_imho_1969__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,method_casework,method_casi_conteggio,skill_casework_accurato,skill_ragionamento_geometrico,skill_modellizzazione"></span>
@@ -90,8 +86,6 @@ level: IMO
 *Condizioni necessarie e sufficienti perché un tetraedro abbia k spigoli uguali*
 
 > Per ciascun valore di $k = 1, 2, 3, 4, 5$, determinare condizioni necessarie e sufficienti sul numero $a > 0$ affinché esista un tetraedro con $k$ spigoli di lunghezza $a$ e gli altri $6 - k$ spigoli di lunghezza 1.
-
-[[Quesiti/src_imho_1969#q03|src_imho_1969__Q03]]
 
 
 
@@ -118,8 +112,6 @@ level: IMO
 
 > Sia dato un arco semicircolare $\gamma$ costruito sul segmento $AB$ come diametro. Sia $C$ un punto su $\gamma$ diverso da $A$ e da $B$, e sia $D$ il piede della perpendicolare da $C$ alla retta $AB$. Consideriamo tre circonferenze $\gamma_1, \gamma_2, \gamma_3$, tutte tangenti alla retta $AB$. Tra queste, $\gamma_1$ è inscritta nel triangolo $\triangle ABC$, mentre $\gamma_2$ e $\gamma_3$ sono entrambe tangenti alla circonferenza $CD$ e alla retta $\gamma$, una da ciascun lato della retta $CD$. Si dimostri che $\gamma_1, \gamma_2$ e $\gamma_3$ hanno una seconda tangente in comune.
 
-[[Quesiti/src_imho_1969#q04|src_imho_1969__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_doppio_conteggio,method_estremalita,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -144,8 +136,6 @@ level: IMO
 *n>4 punti, nessuno tre allineati, almeno C(n,2) quadrilateri convessi*
 
 > Siano dati $n > 4$ punti nel piano tali che nessuni tre siano allineati. Si dimostri che esistono almeno $\binom{n}{2}$ quadrilateri convessi i cui vertici sono quattro dei punti dati.
-
-[[Quesiti/src_imho_1969#q05|src_imho_1969__Q05]]
 
 
 
@@ -175,5 +165,3 @@ level: IMO
 > Si dimostri che per tutti i numeri reali $x_1, x_2, y_1, y_2, z_1, z_2$ con $x_1 > 0$, $x_2 > 0$, $x_1 y_1 - z_1^2 > 0$, $x_2 y_2 - z_2^2 > 0$, vale la disuguaglianza
 > $$\frac{8}{(x_1 + x_2)(y_1 + y_2) - (z_1 + z_2)^2} \le \frac{1}{x_1 y_1 - z_1^2} + \frac{1}{x_2 y_2 - z_2^2}$$.
 > Fornire le condizioni necessarie e sufficienti perché valga l'uguaglianza.
-
-[[Quesiti/src_imho_1969#q06|src_imho_1969__Q06]]

@@ -34,8 +34,6 @@ level: Coupe Animath Printemps
 
 > Calcolare $$\frac{13}{6} + \frac{7}{10} + \frac{2}{15}.$$ Qui si prevede una risposta numerica semplificata.
 
-[[Quesiti/src_canimath_2025_printemps#q01|src_canimath_2025_printemps__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -64,8 +62,6 @@ level: Coupe Animath Printemps
 > 
 > Determinare la misura dell'angolo $\widehat{PXQ}$.
 
-[[Quesiti/src_canimath_2025_printemps#q02|src_canimath_2025_printemps__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -91,8 +87,6 @@ level: Coupe Animath Printemps
 *Ricerca tutte le coppie reali (a,b) che soddisfano due equazioni razionali*
 
 > Trovare tutti i numeri reali $a$ e $b$ in modo tale che $a + b \neq 0$, $3a - b \neq 0$, e entrambe le seguenti equazioni siano valide: $$a = \frac{2}{a+b} \qquad \text{and} \qquad b = \frac{2}{3a-b}.$$
-
-[[Quesiti/src_canimath_2025_printemps#q03|src_canimath_2025_printemps__Q03]]
 
 
 
@@ -125,8 +119,6 @@ level: Coupe Animath Printemps
 > 
 > Indicare che il prodotto $$(a_1 - b_1)(a_2 - b_2)(a_3 - b_3)(a_4 - b_4)(a_5 - b_5)$$ è pari.
 
-[[Quesiti/src_canimath_2025_printemps#q04|src_canimath_2025_printemps__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione"></span>
@@ -155,8 +147,6 @@ level: Coupe Animath Printemps
 > Che $ABC$ sia un triangolo e $I$ il centro del suo cerchio inciso. La linea parallela a $(BI)$ che passa attraverso $C$ incontra la linea $(CI)$ a $Q$. La linea parallela a $(CI)$ che passa attraverso $B$ incontra la linea $(BI)$ a $P$. Il segmento $[PQ]$ incontra il cerchio con il centro $P$ che attraversa $B$ a $X$, e il cerchio con il centro $Q$ che attraversa $C$ a $Y$.
 > 
 > Mostra che $PY = QX$.
-
-[[Quesiti/src_canimath_2025_printemps#q05|src_canimath_2025_printemps__Q05]]
 
 
 
@@ -187,8 +177,6 @@ level: Coupe Animath Printemps
 > 
 > Mostrare che tutte le distanze in coppia tra questi punti $2n+1$ sono numeri interi.
 
-[[Quesiti/src_canimath_2025_printemps#q06|src_canimath_2025_printemps__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,method_congruenze,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -218,8 +206,6 @@ level: Coupe Animath Printemps
 > 
 > Qual è il numero massimo di valori distinti che possono apparire sulla tabella?
 
-[[Quesiti/src_canimath_2025_printemps#q07|src_canimath_2025_printemps__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -245,8 +231,6 @@ level: Coupe Animath Printemps
 *Espressione radicale incastonata di calcolo che coinvolge radici quadrate*
 
 > Calcolare $$\sqrt{\sqrt{27} \cdot \sqrt{75} + \sqrt{3} \cdot \sqrt{8} \cdot \sqrt{54}}.$$ Qui si prevede una risposta numerica semplificata.
-
-[[Quesiti/src_canimath_2025_printemps#q08|src_canimath_2025_printemps__Q08]]
 
 
 
@@ -275,8 +259,6 @@ level: Coupe Animath Printemps
 > Il $ABCD$ deve essere un rettangolo con $AB > AD$. Che $P$ sia il punto della semilinea $(DA)$ in modo tale che $\widehat{DCP} = 30^\circ$, e che $Q$ sia il punto del segmento $[CD]$ in modo tale che $\widehat{DAQ} = 45^\circ$. Il $X$ deve essere l'intersezione del bisettore angolare di $\angle AQC$ con la linea $(CP)$.
 > 
 > Determinare la misura dell'angolo $\widehat{PXQ}$.
-
-[[Quesiti/src_canimath_2025_printemps#q09|src_canimath_2025_printemps__Q09]]
 
 
 
@@ -307,8 +289,6 @@ level: Coupe Animath Printemps
 > 
 > Quante persone possono esserci nella stanza al massimo?
 
-[[Quesiti/src_canimath_2025_printemps#q10|src_canimath_2025_printemps__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione"></span>
@@ -338,8 +318,6 @@ level: Coupe Animath Printemps
 > 
 > Indicare che $[PM]$ è il bisettore angolare di $\angle NPB$.
 
-[[Quesiti/src_canimath_2025_printemps#q11|src_canimath_2025_printemps__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_invarianti,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -366,8 +344,6 @@ level: Coupe Animath Printemps
 *Ricerca tutte le n>=2 per le quali due set di somma ciclica coprono ciascuno n numeri interi consecutivi*
 
 > Determinare tutti gli enti rigorosamente positivi $n \geq 2$ per i quali esistono enti rigorosamente positivi $a_1, a_2, \ldots, a_n$ in modo tale che entrambe le serie $$\{a_1, a_2, \ldots, a_n\} \quad \text{and} \quad \{a_1+a_2,\, a_2+a_3,\, \ldots,\, a_{n-1}+a_n,\, a_n+a_1\}$$ siano ciascuna costituita da $n$ integri consecutivi.
-
-[[Quesiti/src_canimath_2025_printemps#q12|src_canimath_2025_printemps__Q12]]
 
 
 
@@ -397,8 +373,6 @@ level: Coupe Animath Printemps
 > Su una lavagna sono scritti 2025 numeri interi rigorosamente positivi, non necessariamente distinti. Qualunque numero 2023 si scelga tra questi numeri 2025, ciascuno dei due numeri rimanenti divide la somma dei numeri scelti 2023.
 > 
 > Qual è il numero massimo di valori distinti che possono apparire sulla tabella?
-
-[[Quesiti/src_canimath_2025_printemps#q13|src_canimath_2025_printemps__Q13]]
 
 
 
@@ -435,8 +409,6 @@ level: Coupe Animath Printemps
 > 
 > (Qui $\lfloor x \rfloor$ indica il più grande numero intero inferiore o uguale a $x$.)
 
-[[Quesiti/src_canimath_2025_printemps#q14|src_canimath_2025_printemps__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -465,5 +437,3 @@ level: Coupe Animath Printemps
 > Martin colloca gli spioni in alcune cellule di una griglia $2025 \times 2025$ (che ha cellule $2025^2$). Aurélien sceglie un quadrato $1025 \times 1025$ all'interno della griglia (composto da cellule $1025^2$) e dice a Martin esattamente quali spie sono nella quadrata che ha scelto.
 > 
 > Qual è il numero minimo di spie che Martin deve mettere per poter sempre determinare quale quadrato Aurélien ha scelto?
-
-[[Quesiti/src_canimath_2025_printemps#q15|src_canimath_2025_printemps__Q15]]

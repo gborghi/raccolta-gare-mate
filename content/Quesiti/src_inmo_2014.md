@@ -33,8 +33,6 @@ level: INMO
 
 > In un triangolo $ABC$, $D$ deve essere un punto sul segmento $BC$ tale da $AB \cdot BD = AC \cdot CD$. Supponiamo che i punti $B$, $C$ e i centriodi dei triangoli $ABD$ e $ACD$ si trovino su un cerchio. Prove che $AB = AC$.
 
-[[Quesiti/src_inmo_2014#q01|src_inmo_2014__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_induzione,method_doppio_conteggio,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -62,8 +60,6 @@ level: INMO
 
 > $n$ sia un numero naturale. Provare che $$\left\lfloor \frac{n}{1} \right\rfloor + \left\lfloor \frac{n}{2} \right\rfloor + \left\lfloor \frac{n}{3} \right\rfloor + \cdots + \left\lfloor \frac{n}{n} \right\rfloor + \lfloor \sqrt{n} \rfloor$$ è pari. (Qui $\lfloor x \rfloor$ indica il numero intero più grande inferiore o uguale a $x$.)
 
-[[Quesiti/src_inmo_2014#q02|src_inmo_2014__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -88,8 +84,6 @@ level: INMO
 *A,b naturali con ab>2: quotiente gcd/lcm al massimo (a+b)/4; trovare casi di uguaglianza*
 
 > $a$, $b$ siano numeri naturali con $ab > 2$. Supponiamo che il quotiente del loro più grande divisore comune e del loro più piccolo multiple comune sia al massimo $(a + b)/4$. Quando questo coefficiente è esattamente uguale a $(a + b)/4$?
-
-[[Quesiti/src_inmo_2014#q03|src_inmo_2014__Q03]]
 
 
 
@@ -116,8 +110,6 @@ Calvin e Hobbes su x^2+x+2014; dimostra che Calvin ha una strategia vincente
 
 > In una lavagna è scritto il polinomio $x^2 + x + 2014$. Calvin e Hobbes si alternano (a partire da Calvin) nel gioco seguente. Durante il suo turno, Calvin dovrebbe aumentare o diminuire il coefficiente di $x$ di $1$. E durante il suo turno, Hobbes dovrebbe aumentare o diminuire il coefficiente costante di $1$. Calvin vince se in qualsiasi momento il polinomio sulla lavagna in quel momento ha radici interi. Dimostra che Calvin ha una strategia vincente.
 
-[[Quesiti/src_inmo_2014#q04|src_inmo_2014__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -143,8 +135,6 @@ Calvin e Hobbes su x^2+x+2014; dimostra che Calvin ha una strategia vincente
 
 > In un triangolo a angolo acuto $ABC$, un punto $D$ si trova sul segmento $BC$. $O_1$, $O_2$ indicano rispettivamente i circoncenti dei triangoli $ABD$ e $ACD$. Prove che la linea che unisce il circoncentro del triangolo $ABC$ e l'ortocentro del triangolo $O_1 O_2 D$ è parallela a $BC$.
 
-[[Quesiti/src_inmo_2014#q05|src_inmo_2014__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_induzione,method_doppio_conteggio,method_bigezione,skill_astrazione,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
@@ -169,5 +159,3 @@ Calvin e Hobbes su x^2+x+2014; dimostra che Calvin ha una strategia vincente
 *Ricerca tutte le collezioni F dei sottogruppi 2^{n-1} di {1,...,n} chiusi sotto il limite di differenza simmetrica*
 
 > $n$ sia un numero naturale e $X = \{1, 2, \ldots, n\}$. Per ogni sottoinsieme $A$ di $X$ definiamo $\Delta A$ come l'insieme di tutti gli elementi di $X$ che appartengono esattamente a uno di $A$ e $B$. Il $\mathcal{F}$ deve essere una raccolta di sottoinsiemi di $X$ in modo tale che per due elementi distinti $A$ e $B$ di $\mathcal{F}$, il set $A \triangle B$ abbia almeno $2^{n-1}$ elementi. Trova tutte queste collezioni $\mathcal{F}$ con elementi $2^{n-1}$.
-
-[[Quesiti/src_inmo_2014#q06|src_inmo_2014__Q06]]

@@ -41,7 +41,6 @@ level: Giochi d'Autunno
 ![[src_bocconi_autunno_2010__q01.png]]
 
 **Answer:** 18
-[[Quesiti/src_bocconi_autunno_2010#q01|src_bocconi_autunno_2010__Q01]]
 
 
 
@@ -72,7 +71,6 @@ level: Giochi d'Autunno
 > Chiara has two younger brothers. The product of the ages of the three children is 35, their sum is 13. What is Chiara's age?
 
 **Answer:** 7
-[[Quesiti/src_bocconi_autunno_2010#q02|src_bocconi_autunno_2010__Q02]]
 
 
 
@@ -106,7 +104,6 @@ Time of Luke's first awakening with a switch off on the alarm clock
 > The LIGHT SIGHT works perfectly, except for the fact that a figure never lights up. That night, Luke woke up one first time and on the alarm clock read the following time: $\boxed{0}$ h $\boxed{4}$ $\boxed{5}$ min Then he woke up a second time - more than 1 hour but less than 2 hours after the first time - and saw the time $\boxed{0}$ h $\boxed{5}$ $\boxed{8}$ min What time was it when Luke woke up the first time?
 
 **Answer:** 4 h 45 min
-[[Quesiti/src_bocconi_autunno_2010#q03|src_bocconi_autunno_2010__Q03]]
 
 
 
@@ -141,7 +138,6 @@ Time of Luke's first awakening with a switch off on the alarm clock
 ![[src_bocconi_autunno_2010__q04.png]]
 
 **Answer:** 23
-[[Quesiti/src_bocconi_autunno_2010#q04|src_bocconi_autunno_2010__Q04]]
 
 
 
@@ -177,8 +173,7 @@ Time of Luke's first awakening with a switch off on the alarm clock
 
 ![[src_bocconi_autunno_2010__q05.png]]
 
-**Answer:** riga superiore 1 4 6 7; riga inferiore 8 5 3 2
-[[Quesiti/src_bocconi_autunno_2010#q05|src_bocconi_autunno_2010__Q05]]
+**Answer:** top row 1 4 6 7; bottom row 8 5 3 2
 
 
 
@@ -210,7 +205,6 @@ Time of Luke's first awakening with a switch off on the alarm clock
 > DUE EQUAL SUMMARY $103 + \_\ \_ = \_\ 2 + \_\ \_ + 4$ Place all digits 5 to 9 in the two members of the equality instead of the strings so that equality is satisfied. What's the number you add to 103? (The question admits more than one solution; only one must be indicated.)
 
 **Answer:** 59 o 68
-[[Quesiti/src_bocconi_autunno_2010#q06|src_bocconi_autunno_2010__Q06]]
 
 
 
@@ -246,7 +240,6 @@ Selecting the youngest of four friends with only one mind
 > THE FOUR FRIENDS Here are the statements made by four friends: Anna: "I am the oldest". Carla: "I am neither the oldest nor the youngest". Liliana: "I am not the youngest". Milena: "I am the youngest". Who, of the four friends, is actually the youngest?
 
 **Answer:** Milena
-[[Quesiti/src_bocconi_autunno_2010#q07|src_bocconi_autunno_2010__Q07]]
 
 
 
@@ -276,7 +269,6 @@ Selecting the youngest of four friends with only one mind
 > Today, Angelo is a quarter of his mother's age. When he turns 18, his mother will be three times his age. How old is Angelo now?
 
 **Answer:** 12
-[[Quesiti/src_bocconi_autunno_2010#q08|src_bocconi_autunno_2010__Q08]]
 
 
 
@@ -308,8 +300,6 @@ Selecting the youngest of four friends with only one mind
 
 ![[src_bocconi_autunno_2010__q09.png]]
 
-[[Quesiti/src_bocconi_autunno_2010#q09|src_bocconi_autunno_2010__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_riconoscimento_pattern,skill_casework_accurato"></span>
@@ -338,7 +328,6 @@ Selecting the youngest of four friends with only one mind
 > 2011 is NOT divisible by 7 Find the smallest positive integer whose writing ends with 2011 and is divisible by 7.
 
 **Answer:** 32011
-[[Quesiti/src_bocconi_autunno_2010#q10|src_bocconi_autunno_2010__Q10]]
 
 
 
@@ -368,7 +357,6 @@ Selecting the youngest of four friends with only one mind
 > Two clocks were charged and started at the same time today. But the first goes on for eight minutes every hour, the second for six. What time is it exactly when, still today, the first clock indicates 7:09 p.m. and the second 6:53 p.m.?
 
 **Answer:** 18 h 05 min
-[[Quesiti/src_bocconi_autunno_2010#q11|src_bocconi_autunno_2010__Q11]]
 
 
 
@@ -399,7 +387,6 @@ Selecting the youngest of four friends with only one mind
 > IN A parallel-piped room (6 m wide, 8 m long, and 4 m high) a spider has placed itself comfortably on one of the vertices. The other seven peaks have as many flies, trying to stay still (one for each summit). The spider then decides to eat them, one by one, before returning to the starting point, so as to cover the shortest possible distance. What is the minimum distance?
 
 **Answer:** 44 m
-[[Quesiti/src_bocconi_autunno_2010#q12|src_bocconi_autunno_2010__Q12]]
 
 
 
@@ -434,7 +421,6 @@ Selecting the youngest of four friends with only one mind
 ![[src_bocconi_autunno_2010__q13.png]]
 
 **Answer:** 179
-[[Quesiti/src_bocconi_autunno_2010#q13|src_bocconi_autunno_2010__Q13]]
 
 
 
@@ -463,7 +449,6 @@ Selecting the youngest of four friends with only one mind
 > What is the angle, less than a flat angle, formed by the hands of the clock at 2:45 p.m.? (The two handles are assimilated to semirettes and are assumed to move continuously).
 
 **Answer:** 172^\circ 30'
-[[Quesiti/src_bocconi_autunno_2010#q14|src_bocconi_autunno_2010__Q14]]
 
 
 
@@ -494,7 +479,6 @@ Selecting the youngest of four friends with only one mind
 > RENATO has 1,000 tokens at his disposal on which he can read all the numbers from 1 to 1,000. How many tokens must you minimize to make sure that none of the remaining tokens have the same number as the product of the numbers of the other two (remaining) tokens?
 
 **Answer:** 30
-[[Quesiti/src_bocconi_autunno_2010#q15|src_bocconi_autunno_2010__Q15]]
 
 
 
@@ -530,8 +514,7 @@ Selecting the youngest of four friends with only one mind
 
 ![[src_bocconi_autunno_2010__q16.png]]
 
-**Answer:** riga sup. 5 14 4 7 10; riga centr. 13 1 8 15 3; riga inf. 6 9 12 2 11
-[[Quesiti/src_bocconi_autunno_2010#q16|src_bocconi_autunno_2010__Q16]]
+**Answer:** top row 5 14 4 7 10; middle row 13 1 8 15 3; bottom row 6 9 12 2 11
 
 
 
@@ -562,7 +545,6 @@ Selecting the youngest of four friends with only one mind
 > The Desiderio Triangle is intersected by a triangle whose sides measure 8 cm; 25.6 cm; 30.4 cm respectively . What is the size (in degrees) of the largest of the angles of the triangle?
 
 **Answer:** 120^\circ
-[[Quesiti/src_bocconi_autunno_2010#q17|src_bocconi_autunno_2010__Q17]]
 
 
 
@@ -593,4 +575,3 @@ Selecting the youngest of four friends with only one mind
 > But Amerigo is struggling with a calculation. Help him calculate the value of this expression: $1 \times 3 - 5 \times 7 + 9 \times 11 - 13 \times 15 + \ldots - 2005 \times 2007 + 2009 \times 2011$
 
 **Answer:** 2 024 067
-[[Quesiti/src_bocconi_autunno_2010#q18|src_bocconi_autunno_2010__Q18]]

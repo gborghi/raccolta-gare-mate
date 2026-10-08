@@ -39,7 +39,6 @@ level: OBM Nível 1
 ![[src_obm_2001_n1_f2__q01.png]]
 
 **Risposta:** 168
-[[Quesiti/src_obm_2001_n1_f2#q01|src_obm_2001_n1_f2__Q01]]
 
 
 
@@ -71,7 +70,6 @@ level: OBM Nível 1
 ![[src_obm_2001_n1_f2__q02.png]]
 
 **Risposta:** 1/8
-[[Quesiti/src_obm_2001_n1_f2#q02|src_obm_2001_n1_f2__Q02]]
 
 
 
@@ -100,7 +98,6 @@ level: OBM Nível 1
 > Carlitos fa un buco in un foglio di carta rettangolare. Si piega il foglio a metà e fa un buco; poi si piega di nuovo il foglio già piegato a metà e fa un buco. Può ripetere questa procedura tutte le volte che vuole, evitando sempre di colpire dove ci sono già buchi. Quando si apre il foglio, viene contato il numero totale di buchi. Quante pieghe deve fare almeno per ottenere più di 100 buchi nel foglio?
 
 **Risposta:** 6
-[[Quesiti/src_obm_2001_n1_f2#q03|src_obm_2001_n1_f2__Q03]]
 
 
 
@@ -132,8 +129,7 @@ level: OBM Nível 1
 
 ![[src_obm_2001_n1_f2__q04.png]]
 
-**Risposta:** 1850 (below) and 1874 (left)
-[[Quesiti/src_obm_2001_n1_f2#q04|src_obm_2001_n1_f2__Q04]]
+**Risposta:** 1850 (sotto) e 1874 (a sinistra)
 
 
 
@@ -162,7 +158,6 @@ level: OBM Nível 1
 > Elenca tutti gli enti positivi inferiori a 1000 che hanno esattamente tre divisori positivi. Ad esempio, il numero 4 ha esattamente tre divisori positivi: 1, 2 e 4.
 
 **Risposta:** 4, 9, 25, 49, 121, 169, 289, 361, 529, 841, 961
-[[Quesiti/src_obm_2001_n1_f2#q05|src_obm_2001_n1_f2__Q05]]
 
 
 
@@ -191,4 +186,3 @@ level: OBM Nível 1
 > $N$ sia il numero intero positivo dato da $N = 1^2 + 2^2 + 3^2 + 4^2 + \ldots + (196883)^2$. Qual è la cifra di unità di $N$?
 
 **Risposta:** 4
-[[Quesiti/src_obm_2001_n1_f2#q06|src_obm_2001_n1_f2__Q06]]

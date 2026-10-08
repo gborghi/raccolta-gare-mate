@@ -33,8 +33,6 @@ level: China National Team Selection Test
 
 > Nel triangolo $ABC$, abbiamo $AB > AC$. L'incircolo $\omega$ tocca $BC$ a $E$ e $AE$ si interseca con $\omega$ a $D$. Selezionare un punto $F$ su $AE$ ($F$ è diverso da $E$), in modo tale che $CE = CF$. Il punto di intersezione di $CF$ e $BD$ è $G$. Prova che $CF = FG$.
 
-[[Quesiti/src_cn_ctst_2008#q01|src_cn_ctst_2008__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: China National Team Selection Test
 *Sequenza divisibilità: la divisione primaria x_p è almeno 2p-1*
 
 > La sequenza $\{x_n\}$ è definita da $x_1 = 2$, $x_2 = 12$, $x_{n+2} = 6x_{n+1} - x_n$, $n = 1, 2, \cdots$. Che $p$ sia un numero primo odd, e $q$ sia un primo tale che $q \mid x_p$. Prove che $q \ge 2p - 1$.
-
-[[Quesiti/src_cn_ctst_2008#q02|src_cn_ctst_2008__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: China National Team Selection Test
 
 > Ogni numero intero positivo è colorato blu o rosso. Prova che esiste una sequenza $\{a_n\}$ che ha termini infiniti, e $a_1 < a_2 < \cdots$ sono interi positivi, in modo tale che $a_1, \frac{a_1+a_2}{2}, a_2, \frac{a_2+a_3}{2}, a_3, \cdots$ è una sequenza di interi positivi con tutti i termini dello stesso colore.
 
-[[Quesiti/src_cn_ctst_2008#q03|src_cn_ctst_2008__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_induzione,method_grafi,skill_astrazione,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -113,8 +107,6 @@ level: China National Team Selection Test
 *Permutazione di sottoinsiemi non vuoti con dimensioni di intersezione consecutive 1*
 
 > Let $n \in \mathbb{N}^*$, $n \geq 3$ e $G_n = \{1, 2, \cdots, n\}$. Prove che esiste una permutazione $Q_1, Q_2, \cdots, Q_{2^n - 1}$ di tutti i sottogruppi non vuoti di $G_n$, tale che $|Q_i \cap Q_{i+1}| = 1$ per $i = 1, 2, \cdots, 2^n - 2$.
-
-[[Quesiti/src_cn_ctst_2008#q04|src_cn_ctst_2008__Q04]]
 
 
 
@@ -143,8 +135,7 @@ level: China National Team Selection Test
 
 > $m, n \in \mathbb{N}^*$, $m, n > 1$, $a_{ij}$ ($i = 1, 2, \cdots, n$, $j = 1, 2, \cdots, m$) siano numeri reali non negativi (non tutti zero). Trovare i valori massimi e minimi di $$f = \frac{n\sum_{i=1}^{n}\left(\sum_{j=1}^{m} a_{ij}\right)^2 + m\sum_{j=1}^{m}\left(\sum_{i=1}^{n} a_{ij}\right)^2}{\left(\sum_{i=1}^{n}\sum_{j=1}^{m} a_{ij}\right)^2 + mn\sum_{i=1}^{n}\sum_{j=1}^{m} a_{ij}^2}.$$
 
-**Risposta:** maximum 1, minimum $\frac{m+n}{mn+\min(m,n)}$
-[[Quesiti/src_cn_ctst_2008#q05|src_cn_ctst_2008__Q05]]
+**Risposta:** massimo 1, minimo $\frac{m+n}{mn+\min(m,n)}$
 
 
 
@@ -173,5 +164,3 @@ level: China National Team Selection Test
 *Ricerca il massimo M che soddisfi tre condizioni di sequenza per tutte le n*
 
 > Trova il numero massimo positivo $M$ in modo tale che per ogni $n \in \mathbb{N}^*$ ci siano numeri positivi $a_1, a_2, \cdots, a_n$ e $b_1, b_2, \cdots, b_n$ che soddisfino (a) $\sum_{k=1}^{n} b_k = 1$, $2b_k \geq b_{k-1} + b_{k+1}$, $k = 2, 3, \cdots, n-1$, (b) $a_k^2 \leq 1 + \sum_{i=1}^{k} a_i b_i$, $k = 1, 2, \cdots, n$, (c) $a_n = M$.
-
-[[Quesiti/src_cn_ctst_2008#q06|src_cn_ctst_2008__Q06]]

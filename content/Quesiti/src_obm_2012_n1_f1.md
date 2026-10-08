@@ -39,7 +39,6 @@ level: OBM Nível 1
 > (A) 3 \quad (B) 6 \quad (C) 10 \quad (D) 23 \quad (E) 30
 
 **Risposta:** E
-[[Quesiti/src_obm_2012_n1_f1#q01|src_obm_2012_n1_f1__Q01]]
 
 
 
@@ -71,7 +70,6 @@ level: OBM Nível 1
 > (A) $\dfrac{1}{20}$ \quad (B) $\dfrac{1}{10}$ \quad (C) $\dfrac{1}{5}$ \quad (D) $\dfrac{1}{4}$ \quad (E) $\dfrac{1}{2}$
 
 **Risposta:** A
-[[Quesiti/src_obm_2012_n1_f1#q02|src_obm_2012_n1_f1__Q02]]
 
 
 
@@ -104,7 +102,6 @@ level: OBM Nível 1
 > (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 9 \quad (E) infinitamente molti
 
 **Risposta:** B
-[[Quesiti/src_obm_2012_n1_f1#q03|src_obm_2012_n1_f1__Q03]]
 
 
 
@@ -140,7 +137,6 @@ level: OBM Nível 1
 ![[src_obm_2012_n1_f1__q04.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2012_n1_f1#q04|src_obm_2012_n1_f1__Q04]]
 
 
 
@@ -172,7 +168,6 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 > (A) 6 \quad (B) 8 \quad (C) 9 \quad (D) 15 \quad (E) 18
 
 **Risposta:** A
-[[Quesiti/src_obm_2012_n1_f1#q05|src_obm_2012_n1_f1__Q05]]
 
 
 
@@ -205,7 +200,6 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 > (A) 5 \quad (B) 6 \quad (C) 7 \quad (D) 8 \quad (E) 9
 
 **Risposta:** D
-[[Quesiti/src_obm_2012_n1_f1#q06|src_obm_2012_n1_f1__Q06]]
 
 
 
@@ -241,7 +235,6 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 ![[src_obm_2012_n1_f1__q07.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2012_n1_f1#q07|src_obm_2012_n1_f1__Q07]]
 
 
 
@@ -273,7 +266,6 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 > (A) 3 \quad (B) 4 \quad (C) 6 \quad (D) 8 \quad (E) 8
 
 **Risposta:** C
-[[Quesiti/src_obm_2012_n1_f1#q08|src_obm_2012_n1_f1__Q08]]
 
 
 
@@ -314,7 +306,6 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 ![[src_obm_2012_n1_f1__q09.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2012_n1_f1#q09|src_obm_2012_n1_f1__Q09]]
 
 
 
@@ -350,7 +341,6 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 ![[src_obm_2012_n1_f1__q10.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2012_n1_f1#q10|src_obm_2012_n1_f1__Q10]]
 
 
 
@@ -382,7 +372,6 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 > (A) 200 g \quad (B) 208 g \quad (C) 256 g \quad (D) 272 g \quad (E) 280 g
 
 **Risposta:** D
-[[Quesiti/src_obm_2012_n1_f1#q11|src_obm_2012_n1_f1__Q11]]
 
 
 
@@ -415,7 +404,6 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 > (A) 9 \quad (B) 11 \quad (C) 13 \quad (D) 17 \quad (E) 19
 
 **Risposta:** D
-[[Quesiti/src_obm_2012_n1_f1#q12|src_obm_2012_n1_f1__Q12]]
 
 
 
@@ -461,7 +449,6 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 > (A) $32\%+20\%$ \quad (B) $32\%-20\%$ \quad (C) $32\%\times 20\%$ \quad (D) $32\%\div 20\%$ \quad (E) $\dfrac{32\%+20\%}{2}$
 
 **Risposta:** C
-[[Quesiti/src_obm_2012_n1_f1#q13|src_obm_2012_n1_f1__Q13]]
 
 
 
@@ -494,7 +481,6 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 > (A) 38 \quad (B) 96 \quad (C) 108 \quad (D) 576 \quad (E) 648
 
 **Risposta:** E
-[[Quesiti/src_obm_2012_n1_f1#q14|src_obm_2012_n1_f1__Q14]]
 
 
 
@@ -527,7 +513,6 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 > (A) 68 \quad (B) 70 \quad (C) 72 \quad (D) 100 \quad (E) 2012
 
 **Risposta:** B
-[[Quesiti/src_obm_2012_n1_f1#q15|src_obm_2012_n1_f1__Q15]]
 
 
 
@@ -560,7 +545,6 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 > (A) 5 \quad (B) 10 \quad (C) 20 \quad (D) 25 \quad (E) 50
 
 **Risposta:** A
-[[Quesiti/src_obm_2012_n1_f1#q16|src_obm_2012_n1_f1__Q16]]
 
 
 
@@ -593,7 +577,6 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 > (A) 13 \quad (B) 14 \quad (C) 15 \quad (D) 16 \quad (E) 20
 
 **Risposta:** D
-[[Quesiti/src_obm_2012_n1_f1#q17|src_obm_2012_n1_f1__Q17]]
 
 
 
@@ -630,7 +613,6 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 ![[src_obm_2012_n1_f1__q18.png]]
 
 **Risposta:** E
-[[Quesiti/src_obm_2012_n1_f1#q18|src_obm_2012_n1_f1__Q18]]
 
 
 
@@ -667,7 +649,6 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 ![[src_obm_2012_n1_f1__q19.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2012_n1_f1#q19|src_obm_2012_n1_f1__Q19]]
 
 
 
@@ -704,4 +685,3 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 ![[src_obm_2012_n1_f1__q20.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2012_n1_f1#q20|src_obm_2012_n1_f1__Q20]]

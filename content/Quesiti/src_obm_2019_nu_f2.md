@@ -41,8 +41,6 @@ level: OBM Nível Universitário
 > 
 > (b) $A^4 + 6A^3 - 2I = 0$?
 
-[[Quesiti/src_obm_2019_nu_f2#q01|src_obm_2019_nu_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_insiemi_funzioni,topic_funzionali,method_estremalita,skill_astrazione,skill_stima,skill_manipolazione_algebrica"></span>
@@ -78,8 +76,6 @@ level: OBM Nível Universitário
 > 
 > Prove che esiste una funzione continua e crescente $f : (0, +\infty) \to \mathbb{R}$ tale che per ogni $n \in \mathbb{N}$ abbiamo: $$\lim_{x \to +\infty} \frac{f(x)}{\exp^{[n]}(\log^{[n]}(x) + 1)} = +\infty$$ $$\lim_{x \to +\infty} \frac{f(x)}{\exp^{[n+1]}(\log^{[n+1]}(x) - 1)} = 0.$$
 
-[[Quesiti/src_obm_2019_nu_f2#q02|src_obm_2019_nu_f2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -107,8 +103,6 @@ Un sistema di tre equazioni ognuna con la somma di due radici quadrate ha esatta
 
 > Si devono dare i numeri reali $a$, $b$, $c$. Prova che il sistema di equazioni $$\begin{cases} 2x + y + z = \sqrt{c^2 + x^2} + \sqrt{c^2 + y^2} \\ x + 2y + z = \sqrt{b^2 + x^2} + \sqrt{b^2 + z^2} \\ x + y + 2z = \sqrt{a^2 + x^2} + \sqrt{a^2 + y^2} \end{cases}$$ ha esattamente una soluzione $(x, y, z)$ con $x, y, z \geq 0$.
 
-[[Quesiti/src_obm_2019_nu_f2#q03|src_obm_2019_nu_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,method_casework,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
@@ -134,8 +128,6 @@ Un sistema di tre equazioni ognuna con la somma di due radici quadrate ha esatta
 *Trova tutte le funzioni f:R->R con f(xf(y) + f(x)) + f(y^2) = f(x) +yf(x+y)*
 
 > Determinare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ in modo tale che per tutte le $x, y \in \mathbb{R}$: $$f(x f(y) + f(x)) + f(y^2) = f(x) + y f(x + y).$$
-
-[[Quesiti/src_obm_2019_nu_f2#q04|src_obm_2019_nu_f2__Q04]]
 
 
 
@@ -163,8 +155,6 @@ Un sistema di tre equazioni ognuna con la somma di due radici quadrate ha esatta
 *Determine l'esponente beta(M,k) nel conteggio asimptotico di moltipli di potenze k-prime con esponenti >= k*
 
 > Lasciate che $M$, $k$ siano numeri interi positivi. $X_{M,k}$ sia l'insieme dei multipli di numeri della forma $p_1^{a_1} p_2^{a_2} \cdots p_k^{a_k}$ in cui $p_1, p_2, \ldots, p_k$ sono numeri primi in modo tale che $M \leq p_1 < p_2 < \cdots < p_k$ e $a_1, a_2, \ldots, a_k$ siano integri superiori o uguali a $k$. Prove che esistono numeri reali positivi $c(M, k)$ e $\beta(M, k)$ tali da $$\lim_{n \to \infty} \frac{|X_{M,k} \cap \{0, 1, \ldots, n\}|}{n^{\beta(M,k)}} = c(M, k),$$ e determina il valore di $\beta(M, k)$.
-
-[[Quesiti/src_obm_2019_nu_f2#q05|src_obm_2019_nu_f2__Q05]]
 
 
 
@@ -203,5 +193,3 @@ Un sistema di tre equazioni ognuna con la somma di due radici quadrate ha esatta
 > $\circ$ non esistono $1 \leq i < j \leq n$ tali da $\sigma(i) = j$ e $\sigma(j) = i$.
 > 
 > Determinare il limite $$\lim_{n \to +\infty} \frac{f(n)}{n!}.$$
-
-[[Quesiti/src_obm_2019_nu_f2#q06|src_obm_2019_nu_f2__Q06]]

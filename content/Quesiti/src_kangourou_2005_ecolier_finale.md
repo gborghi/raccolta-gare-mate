@@ -34,7 +34,6 @@ level: kangourou
 > On the street where I live, the houses are numbered on one side with consecutive odd numbers, starting with 1, and on the other side with even numbers (each number denotes only one house). My house is number 137. If the numbering had started at the other end of the street, my house would have the number 85. How many houses are there in total on the same side as mine?
 
 **Answer:** 111
-[[Quesiti/src_kangourou_2005_ecolier_finale#qe1|src_kangourou_2005_ecolier_finale__QE1]]
 
 
 
@@ -70,7 +69,6 @@ level: kangourou
 > (b) what weight can I no longer be above?
 
 **Answer:** 86 kg, 92 kg
-[[Quesiti/src_kangourou_2005_ecolier_finale#qe2|src_kangourou_2005_ecolier_finale__QE2]]
 
 
 
@@ -98,7 +96,6 @@ level: kangourou
 > What is the smallest positive integer of 4 digits, all different from each other (and different from zero), that is divisible (without remainder!) by each of its 4 digits?
 
 **Answer:** 1236
-[[Quesiti/src_kangourou_2005_ecolier_finale#qe3|src_kangourou_2005_ecolier_finale__QE3]]
 
 
 
@@ -130,7 +127,6 @@ level: kangourou
 > The teacher asked you to draw on a page of your notebook 10 balls so that you represent an arrow from left to right, as in Figure A. You, by mistake, arranged them so that you get an arrow from right to left, as in Figure B. Of course, you can't reverse the notebook, but you can erase balls and redesign them. What's the minimum number of balls you can erase, and where do you have to place as many new balls to get what your teacher asked you to? (If you want, you can draw a cross on the balls to be erased and mark the position where to place the new ones using directly Figure B, explaining as best you can the reason why you can't erase fewer.) (see Figure)
 
 **Answer:** 3
-[[Quesiti/src_kangourou_2005_ecolier_finale#qe4|src_kangourou_2005_ecolier_finale__QE4]]
 
 
 
@@ -159,7 +155,6 @@ level: kangourou
 > You and a friend play the next game. You have an initial stack of 5 coins: take one, two, or three coins from the stack, in turn, as you choose, respecting the rule that each player, when it's his turn, must take at least one coin and, if there is more than one coin in the stack, he cannot take the same number of coins that the opponent took on the previous move. Whoever collects the last or last available coins loses. If you want to win and both of you play without making mistakes, is it best to be first or second hand? Answer, giving reasons.
 
 **Answer:** second
-[[Quesiti/src_kangourou_2005_ecolier_finale#qe5|src_kangourou_2005_ecolier_finale__QE5]]
 
 
 
@@ -192,4 +187,3 @@ Maximum friends with different rectangles of 10 cards
 > Harry Potter complains to all his friends, "I lost my magic rectangle. How will I participate in Kangourou?" Friends ask him how the magic rectangle was made: "Parchment, obtained by placing side by side (but not overlapping!) 10 smaller rectangles, each with sides measuring one 2 inches and the other 3 inches". After a brief search, the friends return each with a different-shaped rectangle of parchment, but with the specified requirements: Harry, however, claims that none is his. How many friends can Harry have at most?
 
 **Answer:** 4
-[[Quesiti/src_kangourou_2005_ecolier_finale#qe6|src_kangourou_2005_ecolier_finale__QE6]]

@@ -35,7 +35,6 @@ level: Giochi d'Autunno
 > Consider the date of 31.12.2014: the sum of its figures is $14$ ($3+1+1+2+2+0+1+4=14$). What is the first subsequent date for which the sum of the digits is $20$?
 
 **Answer:** 29/1/2015
-[[Quesiti/src_bocconi_autunno_2014#q01|src_bocconi_autunno_2014__Q01]]
 
 
 
@@ -64,7 +63,6 @@ level: Giochi d'Autunno
 > Clear has bought a notebook that costs $2{,}70$ Euros. In his purse, he has $6$ pieces of $0{,}50$ Euro and $12$ pieces of $20$ cents. You have to be careful how you pay because the wallet has no money left to give you. How many different ways can you pay the exact amount of $2{,}70$ Euro?
 
 **Answer:** 3
-[[Quesiti/src_bocconi_autunno_2014#q02|src_bocconi_autunno_2014__Q02]]
 
 
 
@@ -96,8 +94,7 @@ level: Giochi d'Autunno
 
 ![[src_bocconi_autunno_2014__q03.png]]
 
-**Answer:** (vedi figura nella soluzione)
-[[Quesiti/src_bocconi_autunno_2014#q03|src_bocconi_autunno_2014__Q03]]
+**Answer:** (see the figure in the solution)
 
 
 
@@ -129,8 +126,7 @@ level: Giochi d'Autunno
 
 ![[src_bocconi_autunno_2014__q04.png]]
 
-**Answer:** (vedi figura nella soluzione)
-[[Quesiti/src_bocconi_autunno_2014#q04|src_bocconi_autunno_2014__Q04]]
+**Answer:** (see the figure in the solution)
 
 
 
@@ -162,8 +158,7 @@ level: Giochi d'Autunno
 
 ![[src_bocconi_autunno_2014__q05.png]]
 
-**Answer:** (vedi figura: 18 in cima, 20 e 16 al secondo livello, 23, 17, 15 alla base)
-[[Quesiti/src_bocconi_autunno_2014#q05|src_bocconi_autunno_2014__Q05]]
+**Answer:** (see figure: 18 at the top, 20 and 16 on the second level, 23, 17, 15 at the base)
 
 
 
@@ -192,7 +187,6 @@ level: Giochi d'Autunno
 > To arrange for oranges to be displayed and sold, the fruit vendor Renato has available trays containing $12$ oranges or other larger trays containing $21$. Whether you always use the small containers, or you always use the big ones, filling them completely, you end up with an orange. The oranges Renato wants to sell are less than$100$, but how many are they exactly?
 
 **Answer:** 85
-[[Quesiti/src_bocconi_autunno_2014#q06|src_bocconi_autunno_2014__Q06]]
 
 
 
@@ -225,7 +219,6 @@ level: Giochi d'Autunno
 ![[src_bocconi_autunno_2014__q07.png]]
 
 **Answer:** 10
-[[Quesiti/src_bocconi_autunno_2014#q07|src_bocconi_autunno_2014__Q07]]
 
 
 
@@ -257,7 +250,6 @@ Area of Jacob's puzzle with radius of 8 cm
 ![[src_bocconi_autunno_2014__q08.png]]
 
 **Answer:** $32 \text{ cm}^2$
-[[Quesiti/src_bocconi_autunno_2014#q08|src_bocconi_autunno_2014__Q08]]
 
 
 
@@ -292,8 +284,7 @@ Area of Jacob's puzzle with radius of 8 cm
 
 ![[src_bocconi_autunno_2014__q09.png]]
 
-**Answer:** L'affermazione vera è la 3
-[[Quesiti/src_bocconi_autunno_2014#q09|src_bocconi_autunno_2014__Q09]]
+**Answer:** The true statement is number 3
 
 
 
@@ -325,7 +316,6 @@ Area of Jacob's puzzle with radius of 8 cm
 > Replace the letters of the digits so that the operation: $$\frac{\text{CINQUE} +}{\text{UE} =}$$ $$2015$$ is correct and the word CINQUE corresponds to the largest possible numerical value. (No number can begin with $0$ and, instead of different letters, different digits must be inserted.)
 
 **Answer:** CINQUE $= 198530$
-[[Quesiti/src_bocconi_autunno_2014#q10|src_bocconi_autunno_2014__Q10]]
 
 
 
@@ -358,7 +348,6 @@ Next year's multiplier: sequence of five tokens
 ![[src_bocconi_autunno_2014__q11.png]]
 
 **Answer:** 44330
-[[Quesiti/src_bocconi_autunno_2014#q11|src_bocconi_autunno_2014__Q11]]
 
 
 
@@ -391,7 +380,6 @@ How many floors does the 385-ball tennis pyramid have?
 ![[src_bocconi_autunno_2014__q12.png]]
 
 **Answer:** 10
-[[Quesiti/src_bocconi_autunno_2014#q12|src_bocconi_autunno_2014__Q12]]
 
 
 
@@ -423,7 +411,6 @@ How many floors does the 385-ball tennis pyramid have?
 ![[src_bocconi_autunno_2014__q13.png]]
 
 **Answer:** $2030 \text{ cm}^2$
-[[Quesiti/src_bocconi_autunno_2014#q13|src_bocconi_autunno_2014__Q13]]
 
 
 
@@ -452,7 +439,6 @@ How many floors does the 385-ball tennis pyramid have?
 > How many integers, including $1$ and $100.000$ (included), are written without using either the $5$ digit or the $7$ digit?
 
 **Answer:** 32768
-[[Quesiti/src_bocconi_autunno_2014#q14|src_bocconi_autunno_2014__Q14]]
 
 
 
@@ -480,8 +466,7 @@ How many floors does the 385-ball tennis pyramid have?
 
 > The first three terms of the geometric progression written by Jacopo are: $a$, $a+6$, $a+30$. What will be the fourth term of Jacob's progression? (Remember that the terms $a_1, a_2, \ldots, a_n$ constitute a geometric progression when the ratio between each term and the previous one is always equal (constant).
 
-**Answer:** $a_4 = 128$, con $a = 126$
-[[Quesiti/src_bocconi_autunno_2014#q15|src_bocconi_autunno_2014__Q15]]
+**Answer:** $a_4 = 128$, with $a = 126$
 
 
 
@@ -509,8 +494,7 @@ How many floors does the 385-ball tennis pyramid have?
 
 > In the $\sqrt{a} + \sqrt{b} = \sqrt{2} + \sqrt{2}$ equation, the unknowns $a$ and $b$ are nonnegative integers. How many pairs of solutions does the equation have?
 
-**Answer:** 9 coppie
-[[Quesiti/src_bocconi_autunno_2014#q16|src_bocconi_autunno_2014__Q16]]
+**Answer:** 9 pairs
 
 
 
@@ -539,7 +523,6 @@ How many floors does the 385-ball tennis pyramid have?
 > What is the smallest non-zero multiple of $2015$, whose digits are written in descending order (not necessarily in the strict sense) from left to right?
 
 **Answer:** 44330
-[[Quesiti/src_bocconi_autunno_2014#q17|src_bocconi_autunno_2014__Q17]]
 
 
 
@@ -568,4 +551,3 @@ How many fingers does Carla have to show to win for sure?
 > In turn, Carla and Milena show some fingers of one hand (one or two or three or four or five fingers). The number of fingers indicated shall be added to the previous total but the new sum thus obtained shall be a prime number. For example, if Carla has pointed two fingers, Milena can answer with one finger or three fingers or even five fingers because $2+1=3$, $2+3=5$ and $2+5=7$ are prime numbers. The first (between Carla and Milena) who, with the number of her fingers added to the previous total, fails to get a first number loses. It is Milena who starts the game (at this time the total is $0$). How many fingers does she have to show to be sure of winning, if she plays her best, whatever Carla's next answers are?
 
 **Answer:** 5
-[[Quesiti/src_bocconi_autunno_2014#q18|src_bocconi_autunno_2014__Q18]]

@@ -34,7 +34,6 @@ level: kangourou
 > We call a "Matteo number" a four-digit number such that the product of the first two digits is equal to the sum of the last two. For example $1990$ is a Matteo number ($1 \times 9 = 9+0$), as are $2351$ or $5387$. What are the three greatest Matteo numbers?
 
 **Answer:** 9299, 9190, 9181
-[[Quesiti/src_kangourou_2005_benjamin_finale#qb1|src_kangourou_2005_benjamin_finale__QB1]]
 
 
 
@@ -66,7 +65,6 @@ level: kangourou
 > A geometer had to delimit a portion of land so as to obtain a square with side $2005$ m. The first bounded side is perpendicular to the second and the second to the third, but, by mistake, they measure in the order $2005$ m, $2006$ m, $2007$ m (i.e. the side measuring $2005$ m is the opposite of the side measuring $2007$ m). If the fourth side of the polygon is plotted by joining the two remaining free vertices, how many square meters is the delimited portion larger than expected?
 
 **Answer:** 4011 m2
-[[Quesiti/src_kangourou_2005_benjamin_finale#qb2|src_kangourou_2005_benjamin_finale__QB2]]
 
 
 
@@ -94,7 +92,6 @@ level: kangourou
 > Before the optical reader was used, Kangourou's response cards were examined by hand. A human proofreader examined an average of $2$ cards per minute. At eleven o'clock in the morning of a certain day he had examined half the cards assigned to him for that day. At noon he had examined two thirds of them. If he had never stopped and continued at the same pace, how many sheets would he have left to examine at one o'clock that afternoon?
 
 **Answer:** 120
-[[Quesiti/src_kangourou_2005_benjamin_finale#qb3|src_kangourou_2005_benjamin_finale__QB3]]
 
 
 
@@ -129,7 +126,6 @@ level: kangourou
 > What is the minimum number of laces that Silvia could have bought? Justify your answer.
 
 **Answer:** 5
-[[Quesiti/src_kangourou_2005_benjamin_finale#qb4|src_kangourou_2005_benjamin_finale__QB4]]
 
 
 
@@ -166,7 +162,6 @@ level: kangourou
 > What is the minimum number of draws sufficient for the urn to remain empty? Motivate your answer.
 
 **Answer:** 9
-[[Quesiti/src_kangourou_2005_benjamin_finale#qb5|src_kangourou_2005_benjamin_finale__QB5]]
 
 
 
@@ -213,5 +208,4 @@ level: kangourou
 
 > In the figure you see a regular hexagon. Can you divide it into $8$ parts of the same shape and size? If the answer is no, you must justify it; if the answer is yes, illustrate the division you propose directly on the figure. (see figure)
 
-**Answer:** Si
-[[Quesiti/src_kangourou_2005_benjamin_finale#qb6|src_kangourou_2005_benjamin_finale__QB6]]
+**Answer:** Yes

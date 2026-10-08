@@ -33,8 +33,6 @@ level: RMO
 
 > Il $\Gamma$ deve essere un cerchio con il centro $O$. Il $A$ deve essere un altro cerchio che attraversa $O$ e che si interseca $\Gamma$ ai punti $A$ e $B$. Un diametro $CD$ di $\Gamma$ interseca $A$ in un punto $P$ diverso da $O$. Provare che $$\angle APC = \angle BPD.$$
 
-[[Quesiti/src_rmo_2013_r4#q01|src_rmo_2013_r4__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: RMO
 *Numero a cinque cifre minore con cifre in ordine rigorosamente in aumento non divisibili per 11*
 
 > Determinare il primo più piccolo che non divide un numero a cinque cifre il cui numero è in ordine rigorosamente crescente.
-
-[[Quesiti/src_rmo_2013_r4#q02|src_rmo_2013_r4__Q02]]
 
 
 
@@ -88,8 +84,6 @@ level: RMO
 
 > Date le cifre reali $a, b, c, d, e > 1$ dimostrano che $$\frac{a^2}{c-1} + \frac{b^2}{d-1} + \frac{c^2}{e-1} + \frac{d^2}{a-1} + \frac{e^2}{b-1} \ge 20.$$
 
-[[Quesiti/src_rmo_2013_r4#q03|src_rmo_2013_r4__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -115,8 +109,6 @@ level: RMO
 
 > Che $x$ sia un numero reale non-zero tale che $x^3 + \frac{1}{x^3}$ e $x^5 + \frac{1}{x^5}$ siano entrambi numeri razionali. Prova che $x + \frac{1}{x}$ è un numero razionale.
 
-[[Quesiti/src_rmo_2013_r4#q04|src_rmo_2013_r4__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -140,8 +132,6 @@ level: RMO
 *Triangolo ABC con ortrocentro H; circoncircoli di ACP e ABP incontrano la linea CH a R; H è centro di PQR*
 
 > In un triangolo $ABC$, $H$ indichi il suo centro ortodosso. $P$ sia il riflesso di $A$ rispetto a $BC$. Il circoncircolo del triangolo $ABP$ incrocia di nuovo la linea $BH$ a $Q$, e il circoncircolo del triangolo $ACP$ incrocia di nuovo la linea $CH$ a $R$. Prova che $H$ è l'incentro del triangolo $PQR$.
-
-[[Quesiti/src_rmo_2013_r4#q05|src_rmo_2013_r4__Q05]]
 
 
 
@@ -167,5 +157,3 @@ level: RMO
 *Regularmente i vertici di 20 goni sono di 3 colori; tre vertici dello stesso colore formano un triangolo di uguali osceli*
 
 > Supponiamo che i vertici di un poligono regolare di 20 lati siano colorati con tre colori  rosso, blu e verde  in modo tale che ci siano esattamente tre vertici rossi. Prove che ci sono tre vertici $A, B, C$ del poligono dello stesso colore in modo tale che il triangolo $ABC$ sia isosceles.
-
-[[Quesiti/src_rmo_2013_r4#q06|src_rmo_2013_r4__Q06]]

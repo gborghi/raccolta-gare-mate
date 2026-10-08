@@ -39,8 +39,6 @@ level: China National Team Selection Test
 
 > Lasciate che $m$, $n$ siano numeri interi positivi, e che $a_{i,j}$ ($1 \le i \le m$, $1 \le j \le n$) siano numeri reali non negativi tali che per qualsiasi $i$, $j$, $$a_{i,1} \ge a_{i,2} \ge \cdots \ge a_{i,n}, \quad a_{1,j} \ge a_{2,j} \ge \cdots \ge a_{m,j}$$ sia tenuto. Per $i = 1, 2, \ldots, m$ e $j = 1, 2, \ldots, n$, definire $$X_{i,j} = a_{1,j} + \cdots + a_{i-1,j} + a_{i,j} + a_{i,j-1} + \cdots + a_{i,1},$$ $$Y_{i,j} = a_{m,j} + \cdots + a_{i+1,j} + a_{i,j} + a_{i,j+1} + \cdots + a_{i,n}.$$ Prova: $$\prod_{i=1}^{m} \prod_{j=1}^{n} X_{i,j} \ge \prod_{i=1}^{m} \prod_{j=1}^{n} Y_{i,j}.$$
 
-[[Quesiti/src_cn_ctst_2021#q01|src_cn_ctst_2021__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_casework,method_conteggio,method_estremalita,skill_conteggio_sistematico,skill_modellizzazione,skill_ragionamento_geometrico"></span>
@@ -65,8 +63,6 @@ level: China National Team Selection Test
 *Colorazione a griglia con restrizioni di colore k-set, trovare la più grande N*
 
 > Date le cifre integri positive $n$ e $k$, $n > k^2 \ge 4$. In una griglia $n \times n$, qualsiasi quadrato $k$ in diverse righe e colonne distinte è chiamato $k$-set. Trovare il più grande intero positivo $N$ che soddisfi questo: si possono scegliere $N$ quadrati della griglia $n \times n$ e colorarli in un certo modo, in modo che per qualsiasi insieme di $k$ di colore, alcuni due quadrati abbiano lo stesso colore e altri due quadrati abbiano colori diversi.
-
-[[Quesiti/src_cn_ctst_2021#q02|src_cn_ctst_2021__Q02]]
 
 
 
@@ -93,8 +89,6 @@ level: China National Team Selection Test
 
 > Risparmiare $n \ge 2$. Prova: per tutti gli integri $n$ distinti $a_1, a_2, \ldots, a_n$, l'insieme $\left\{1, 2, \ldots, \left\lfloor \dfrac{n(n-1)}{2} \right\rfloor\right\}$ contiene almeno $\left\lfloor \dfrac{n(n-6)}{48} \right\rfloor$ elementi che non possono essere espressi come la differenza di alcuni $a_i$ e $a_j$. Qui, $\lfloor x \rfloor$ è il più grande numero intero non superiore o uguale a $x$.
 
-[[Quesiti/src_cn_ctst_2021#q03|src_cn_ctst_2021__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,method_congruenze,method_induzione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
@@ -119,8 +113,6 @@ level: China National Team Selection Test
 *Polinomi integrali congruenti per infinite prime implicano spostamento*
 
 > $f(x)$ e $g(x)$ siano polinomi integrali. Supponiamo che per infiniti numeri primi $p$, esista un intero $m_p$ tale che $f(a) \equiv g(a + m_p) \pmod{p}$ per ogni intero $a$. Prove che $f(x) = g(x + r)$ per un numero razionale $r$.
-
-[[Quesiti/src_cn_ctst_2021#q04|src_cn_ctst_2021__Q04]]
 
 
 
@@ -150,8 +142,6 @@ level: China National Team Selection Test
 > Come illustrato in Fig. 5.1, il cerchio $\Gamma$ è tangente a $AB$ e $AC$ rispettivamente a $B$ e $C$; $D$ è il punto medio di $AC$; $O$ è il centro circonscente di $\triangle ABC$. Un cerchio $\Omega$ tocca $BC$ e l'arco minore $\widehat{BC}$ di $\Gamma$ a $P$, e incontra $AB$ a $Q$ diverso da $A$. È noto che il punto medio $R$ dell'arco minore $\widehat{PQ}$ (su $\Omega$) soddisfa $CR \perp AB$. $L$ sia l'intersezione dei raggi $PQ$ e $CA$; $M$ sia il punto medio di $AL$; $N$ sia il punto medio di $BR$; $X$ sia il piede della perpendicolare da $M$ a $ON$. Indicare che il circoncircolo di $\triangle DNX$ passa attraverso il centro del circolo $\Omega$.
 
 ![[src_cn_ctst_2021__q05.png]]
-
-[[Quesiti/src_cn_ctst_2021#q05|src_cn_ctst_2021__Q05]]
 
 
 
@@ -185,7 +175,6 @@ Gioco Alice-Bob su tavolo nero; trova il minimo che Alice possa garantire
 > Date le cifre integri positive $n$, $r$ e numeri primi distinti $p_1, p_2, \ldots, p_r$. Inizialmente, i numeri $n+1$ $(p_1 p_2 \cdots p_r)^0, (p_1 p_2 \cdots p_r)^1, \ldots, (p_1 p_2 \cdots p_r)^n$ sono scritti sulla lavagna. Alice e Bob si alternano (Alice va prima) per fare le seguenti mosse, fino a quando non rimane solo un numero sulla lavagna: \begin{itemize} \item Ogni volta, Alice cancella due numeri (può essere identico) e scrive il loro più grande divisore comune sulla lavagna; \item Ogni volta, Bob cancella due numeri (può essere identico) e scrive il loro più piccolo multiplo comune sulla lavagna. \end{itemize} Trova il numero intero minimo $M$, in modo che Alice possa garantire che il numero rimanente non superi $M$.
 
 **Risposta:** (p_1 p_2 \cdots p_r)^{\lfloor n/2 \rfloor}
-[[Quesiti/src_cn_ctst_2021#q06|src_cn_ctst_2021__Q06]]
 
 
 
@@ -216,8 +205,6 @@ Gioco Alice-Bob su tavolo nero; trova il minimo che Alice possa garantire
 
 ![[src_cn_ctst_2021__q07.png]]
 
-[[Quesiti/src_cn_ctst_2021#q07|src_cn_ctst_2021__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,method_grafi,method_estremalita,method_doppio_conteggio,skill_modellizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
@@ -245,7 +232,6 @@ Gioco Alice-Bob su tavolo nero; trova il minimo che Alice possa garantire
 > Dato il numero intero positivo $k$ e $n$ ($n \ge 2$), si trova la costante minima $c$ che soddisfa questa affermazione: se $G$ è un semplice grafico $kn$ regolare (il grado di ogni vertice è $kn$) con vertici $m$, allora ogni vertice può essere colorato uno dei colori $n$, in modo tale che il numero di monoreggi (oreggi con entrambi i punti di fine dello stesso colore) sia al massimo $cm$. Qui, un monoreggio è un incidente di bordo a due vertici dello stesso colore.
 
 **Risposta:** \dfrac{k(kn - n + 2)}{2(kn + 1)}
-[[Quesiti/src_cn_ctst_2021#q08|src_cn_ctst_2021__Q08]]
 
 
 
@@ -273,8 +259,6 @@ Gioco Alice-Bob su tavolo nero; trova il minimo che Alice possa garantire
 
 > Date le cifre integri positive $a$, $b$, $c$ che sono coprime in coprime. $f(n)$ rappresenta il numero di soluzioni di numeri interi non negativi $(x, y, z)$ dell'equazione $ax + by + cz = n$. Prova: esistono costanti reali $\alpha$, $\beta$, $\gamma$, in modo tale che per ogni numero reale non negativo $n$, $$|f(n) - (\alpha n^2 + \beta n + \gamma)| < \frac{a + b + c}{12}.$$
 
-[[Quesiti/src_cn_ctst_2021#q09|src_cn_ctst_2021__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_funzionali,topic_aritmetica,method_induzione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato"></span>
@@ -300,8 +284,6 @@ Gioco Alice-Bob su tavolo nero; trova il minimo che Alice possa garantire
 *Ricerca tutte le funzioni di tipo moltiplicativo che coinvolgono il totiente di Euler*
 
 > Per un intero positivo $n$, $\varphi(n)$ indica il numero di interi positivi non superiore a $n$ e relativamente primo a $n$ (funzione totiente di Euler, scritta $\omega(n)$ nella fonte). Trovare tutte le funzioni $f:\mathbb{N}_+ \to \mathbb{N}_+$ che soddisfano che per tutti i numeri interi positivi $m$, $n$ con $m \le n$, $$f(m^2 \varphi(n)) = f(m)\varphi(m).$$
-
-[[Quesiti/src_cn_ctst_2021#q10|src_cn_ctst_2021__Q10]]
 
 
 
@@ -330,8 +312,6 @@ Gioco Alice-Bob su tavolo nero; trova il minimo che Alice possa garantire
 
 > Che $n$ sia un intero positivo e $a_1, a_2, \ldots, a_{2n+1}$ un numero reale non negativo (con indici presi modulo $2n+1$). Per $1 \le k \le 2n+1$, definire $$b_k = \max_{0 \le m \le n} \frac{1}{2m+1} \sum_{i=k-m}^{k+m} a_i$$ (indici mod $2n+1$). Prova: il numero di indici $k$ che soddisfano $b_k \ge 1$ non supera $2\sum_{i=1}^{2n+1} a_i$.
 
-[[Quesiti/src_cn_ctst_2021#q11|src_cn_ctst_2021__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,topic_disuguaglianze,method_estremalita,method_casework,method_trigonometria,skill_ragionamento_geometrico,skill_stima,skill_casework_accurato"></span>
@@ -359,7 +339,6 @@ Gioco Alice-Bob su tavolo nero; trova il minimo che Alice possa garantire
 > Trovare il numero reale meno positivo $a$ che soddisfa questa condizione: per tutti e tre i punti $A$, $B$, $C$ sul cerchio unitario, esiste un triangolo equilaterale $PQR$ con lunghezza laterale $a$, in modo tale che $A$, $B$, $C$ siano tutti all'interno o sul confine di $\triangle PQR$.
 
 **Risposta:** \sqrt{3}
-[[Quesiti/src_cn_ctst_2021#q12|src_cn_ctst_2021__Q12]]
 
 
 
@@ -386,8 +365,6 @@ Gioco Alice-Bob su tavolo nero; trova il minimo che Alice possa garantire
 
 > Data una polygone convexa $D$ con vertici $n \ge 4$, di cui non ci sono tre diagonali che siano simultanei all'interno di $D$. Provare che si può scegliere un punto all'interno di ogni quadrilaterale $P_i P_j P_k P_l$ ($1 \le i < j < k < l \le n$) e non su alcuna diagonale di $D$, in modo tale che i punti assegnati $\binom{n}{4}$ siano distinti, e che il segmento che ne collega due incroci almeno una diagonale di $D$.
 
-[[Quesiti/src_cn_ctst_2021#q13|src_cn_ctst_2021__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,topic_aritmetica,method_induzione,method_estremalita,method_invarianti,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -412,8 +389,6 @@ Gioco Alice-Bob su tavolo nero; trova il minimo che Alice possa garantire
 *Estendere i numeri interi distinti 2021 aggiungendo il più piccolo non divisore; tutti i numeri interi grandi appaiono*
 
 > Dato il 2021 diversi integri positivi $a_1, a_2, \ldots, a_{2021}$. Definire la sequenza $\{a_n\}$ in modo induttivo come segue: per ogni numero intero $n \ge 2022$, $a_n$ è il numero intero positivo più piccolo diverso da $a_1, a_2, \ldots, a_{n-1}$ e non divide il prodotto $a_1 a_2 \cdots a_{n-1}$. Prova: esiste un intero positivo $M$, in modo che tutti gli enti superiori o uguali a $M$ appaiano in $\{a_n\}$.
-
-[[Quesiti/src_cn_ctst_2021#q14|src_cn_ctst_2021__Q14]]
 
 
 
@@ -443,7 +418,6 @@ Gioco Alice-Bob su tavolo nero; trova il minimo che Alice possa garantire
 > Trova la costante più grande $C > 0$, in modo che per qualsiasi numero intero $n \ge 2$, si possano trovare numeri reali $x_1, x_2, \ldots, x_n \in [-1, 1]$ soddisfacenti $$\prod_{1 \le i < j \le n} (x_i - x_j) \ge C^{\frac{n(n-1)}{2}}.$$
 
 **Risposta:** \dfrac{1}{2}
-[[Quesiti/src_cn_ctst_2021#q15|src_cn_ctst_2021__Q15]]
 
 
 
@@ -472,8 +446,6 @@ Doppia disuguaglianza che collega la somma di 5 omegrati a quella di tau k^2 pia
 
 > Per ogni intero positivo $N$, $\tau(N)$ è il numero di divisori positivi di $N$; $\omega(N)$ è il numero di fattori primi distinti di $N$; $\Omega(N)$ è il numero di fattori primi di $N$ contato con moltiplicità. Prova: per ogni intero positivo $n$, $$\sum_{m=1}^{n} 5^{\omega(m)} \le \sum_{k=1}^{n} \left\lfloor \frac{n}{k} \right\rfloor \tau(k)^2 \le \sum_{m=1}^{n} 5^{\Omega(m)}.$$ Qui, $\lfloor x \rfloor$ è il più grande intero non superiore a $x$.
 
-[[Quesiti/src_cn_ctst_2021#q16|src_cn_ctst_2021__Q16]]
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_funzionali,method_backward,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato"></span>
@@ -501,8 +473,7 @@ Doppia disuguaglianza che collega la somma di 5 omegrati a quella di tau k^2 pia
 
 > Trova tutte le funzioni $f:\mathbb{R} \to \mathbb{R}$ e $g:\mathbb{R} \to \mathbb{R}$ in modo tale che per tutte le $x, y \in \mathbb{R}$, $$f(g(x) + y) = (f(x))^{2021} + f(y).$$
 
-**Risposta:** f \equiv 0 \text{ (with any } g\text{) or } f(x)=x,\, g(x)=x^{2021}
-[[Quesiti/src_cn_ctst_2021#q17|src_cn_ctst_2021__Q17]]
+**Risposta:** f \equiv 0 \text{ (con } g\text{ qualsiasi) oppure } f(x)=x,\, g(x)=x^{2021}
 
 
 
@@ -528,8 +499,6 @@ Doppia disuguaglianza che collega la somma di 5 omegrati a quella di tau k^2 pia
 *Un triangolo con vertici interi e un punto interno m-integrale ha una superficie delimitata*
 
 > $m$ sia un numero intero positivo. Un punto $(x, y)$ nel piano è chiamato punto integrale $m$ se $m \mid x$ e $m \mid y$. Prova che per qualsiasi triangolo $ABC$ con coordinate di vertici interi che abbia esattamente un punto integrale interno $m$, la sua superficie $S_{\triangle ABC}$ soddisfa $S_{\triangle ABC} \le 2m^2(m+2)$.
-
-[[Quesiti/src_cn_ctst_2021#q18|src_cn_ctst_2021__Q18]]
 
 
 
@@ -564,7 +533,6 @@ Doppia disuguaglianza che collega la somma di 5 omegrati a quella di tau k^2 pia
 > Numero intero $n \ge 2$. Trova il numero intero meno positivo $m$, in modo che ci siano $n^2$ numeri reali positivi distinti $x_{i,j}$ ($1 \le i, j \le n$) che soddisfano le seguenti condizioni: \begin{enumerate} \item[(1)] Per ogni $i$, $j$: $$x_{i,j} = \max\{x_{i,1}, x_{i,2}, \ldots, x_{i,j}\} \quad \text{or} \quad x_{i,j} = \max\{x_{1,j}, x_{2,j}, \ldots, x_{i,j}\};$$ \item[(2)] Per ogni $i$, ci sono al massimo $m$ indici $k$ con $x_{i,k} = \max\{x_{i,1}, x_{i,2}, \ldots, x_{i,k}\}$; \item[(3)] Per ogni $j$, ci sono al massimo $m$ indici $k$ con $x_{k,j} = \max\{x_{1,j}, x_{2,j}, \ldots, x_{k,j}\}$. \end{enumere}
 
 **Risposta:** 2n - 1
-[[Quesiti/src_cn_ctst_2021#q19|src_cn_ctst_2021__Q19]]
 
 
 
@@ -595,8 +563,6 @@ Doppia disuguaglianza che collega la somma di 5 omegrati a quella di tau k^2 pia
 
 ![[src_cn_ctst_2021__q20.png]]
 
-[[Quesiti/src_cn_ctst_2021#q20|src_cn_ctst_2021__Q20]]
-
 
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_lettura_attenta,skill_modellizzazione,skill_casework_accurato"></span>
@@ -622,8 +588,6 @@ Doppia disuguaglianza che collega la somma di 5 omegrati a quella di tau k^2 pia
 *Ristrito di somma digitali per le somme del sottoinsieme; trovare n validi e beta razionale*
 
 > $S(k)$ indichi la somma di tutti i numeri di $k$ nella base 10. Trovare tutti gli integri $n \ge 2$ e i numeri razionali $\beta \in (0, 1)$, in modo che esistano $n$ diversi integri positivi $a_1, a_2, \ldots, a_n$ che soddisfano: per qualsiasi sottoinsieme $I \subseteq \{1, 2, \ldots, n\}$ con $|I| \ge 2$, $$S\!\left(\sum_{i \in I} a_i\right) = \beta \sum_{i \in I} S(a_i).$$
-
-[[Quesiti/src_cn_ctst_2021#q21|src_cn_ctst_2021__Q21]]
 
 
 
@@ -654,7 +618,6 @@ Doppia disuguaglianza che collega la somma di 5 omegrati a quella di tau k^2 pia
 > Per i numeri reali $x_1, x_2, \ldots, x_{60} \in [-1, 1]$, trovare il massimo di $$\sum_{i=1}^{60} x_i^2 (x_{i+1} - x_{i-1}),$$ dove $x_0 = x_{60}$ e $x_{61} = x_1$.
 
 **Risposta:** 40
-[[Quesiti/src_cn_ctst_2021#q22|src_cn_ctst_2021__Q22]]
 
 
 
@@ -683,7 +646,6 @@ Doppia disuguaglianza che collega la somma di 5 omegrati a quella di tau k^2 pia
 > Trovare il numero reale $\alpha$ meno positivo che soddisfi questa condizione: per qualsiasi poligono convex $P$ dell'area 1, esiste un punto $M$ nel piano tale che l'area dello scafo convex di $P \cup Q$ sia al massimo $\alpha$, dove $Q$ è la figura simmetrica centrale di $P$ circa $M$.
 
 **Risposta:** 2
-[[Quesiti/src_cn_ctst_2021#q23|src_cn_ctst_2021__Q23]]
 
 
 
@@ -714,5 +676,3 @@ Doppia disuguaglianza che collega la somma di 5 omegrati a quella di tau k^2 pia
 *Rond-robin con transibilità e pochi disegni; trovare n^2 giocatori in ordine totale*
 
 > Ci sono giocatori $2n^2$ ($n \ge 2$) in un singolo torneo di scacchi a rotonda. È noto che: \begin{enumerate} \item[(1)] Per tutti e tre i giocatori $A$, $B$, $C$: se $A$ batte $B$ e $B$ batte $C$, allora $A$ batte $C$; \item[(2)] Ci sono al massimo $\dfrac{n}{16}$ sorte. \end{enumerate} Prova: è possibile scegliere i giocatori $n^2$ e etichettarli $P_{ij}$ ($1 \le i, j \le n$), in modo tale che per qualsiasi $i, j, i', j' \in \{1, 2, \ldots, n\}$ con $i < i'$, il giocatore $P_{ij}$ batta il giocatore $P_{i'j'}$.
-
-[[Quesiti/src_cn_ctst_2021#q24|src_cn_ctst_2021__Q24]]

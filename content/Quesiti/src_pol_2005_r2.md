@@ -33,8 +33,6 @@ level: Olimpiade Polacca Round 2
 
 > Trova tutti gli integri positivi $n$ per i quali $n^n + 1$ e $(2n)^{2n} + 1$ sono numeri primi.
 
-[[Quesiti/src_pol_2005_r2#q01|src_pol_2005_r2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -59,8 +57,6 @@ level: Olimpiade Polacca Round 2
 *In ABCD convex quadrilaterale, M è il punto medio di AC diagonale; dimostrare che se angolo BAD = angolo BMC = angolo CMD allora un cerchio può essere inscritto in ABCD.*
 
 > In un quadrilaterale converso $ABCD$, il punto $M$ è il punto medio della diagonale $AC$. Prova che se $\angle BAD = \angle BMC = \angle CMD$, allora un cerchio può essere inserito in quadrilaterale $ABCD$.
-
-[[Quesiti/src_pol_2005_r2#q02|src_pol_2005_r2__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: Olimpiade Polacca Round 2
 
 > In spazio sono dati $n \ge 2$ punti, di cui non quattro sono coplanari. Alcuni di questi punti sono collegati da segmenti. $K$ è il numero di segmenti ($K > 1$) e $T$ è il numero di triangoli formati. Prove che $9T^2 < 2K^3$.
 
-[[Quesiti/src_pol_2005_r2#q03|src_pol_2005_r2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
@@ -113,8 +107,6 @@ level: Olimpiade Polacca Round 2
 *Per W(x)=x^2+ax+b con coefficienti interi, per ogni primo p c'è k con entrambi W(k) e W(k+1) divisibile da p; mostrare c'è m con W(m)=W(m+1)=0.*
 
 > Il polinomio $W(x) = x^2 + ax + b$ con coefficienti interi ha la seguente proprietà: per ogni numero primo $p$ c'è un intero $k$ tale che sia $W(k)$ che $W(k+1)$ siano divisibili da $p$. Indicare che esiste un numero intero $m$ tale che $W(m) = W(m+1) = 0$.
-
-[[Quesiti/src_pol_2005_r2#q04|src_pol_2005_r2__Q04]]
 
 
 
@@ -141,8 +133,6 @@ level: Olimpiade Polacca Round 2
 
 > Si indica un rombo $ABCD$ con $\angle BAD = 60^\circ$. I punti $E$ sul lato $AB$ e $F$ sul lato $AD$ sono tali da $\angle ECF = \angle ABD$. Le linee $CE$ e $CF$ riscontrano rispettivamente le linee $BD$ a $P$ e $Q$. Prove che $\frac{PQ}{EF} = \frac{AB}{BD}$.
 
-[[Quesiti/src_pol_2005_r2#q05|src_pol_2005_r2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_disuguaglianze,method_disuguaglianze,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_stima"></span>
@@ -168,5 +158,3 @@ level: Olimpiade Polacca Round 2
 *Per la vera a,b,c in [0,1], provare a/(bc+1)+b/(ca+1)+c/(ab+1) <= 2.*
 
 > Prova che se i numeri reali $a, b, c$ si trovano nell'intervallo $[0,1]$, allora $$\frac{a}{bc+1} + \frac{b}{ca+1} + \frac{c}{ab+1} \le 2.$$
-
-[[Quesiti/src_pol_2005_r2#q06|src_pol_2005_r2__Q06]]

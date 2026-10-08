@@ -57,8 +57,6 @@ level: OBM Nível 2
 > 
 > (c) Mostrare che il numero di pile con esattamente una pietra alla fine della partita è sempre lo stesso, indipendentemente dal modo in cui le mosse sono fatte.
 
-[[Quesiti/src_obm_2022_n2_fx#q01|src_obm_2022_n2_fx__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_simmetria,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -86,8 +84,6 @@ level: OBM Nível 2
 
 > I numeri reali $a$, $b$, $c$ sono tutti diversi da zero e soddisfano il seguente sistema di equazioni: $$\begin{cases} a + ab = c \\ b + bc = a \\ c + ca = b \end{cases}$$ Determinare tutti i valori possibili di $abc$.
 
-[[Quesiti/src_obm_2022_n2_fx#q02|src_obm_2022_n2_fx__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_lettura_attenta,skill_modellizzazione"></span>
@@ -111,8 +107,6 @@ level: OBM Nível 2
 *Triangolo con incentro e circoncircolo; quattro punti conciclici*
 
 > Il $ABC$ sia un triangolo con incentro $I$ e il $\Gamma$ sia il suo cerchio circonscritto. Il $M$ deve essere il punto medio dell'arco $BC$ non contenente $A$, $K$ il punto medio dell'arco $BC$ contenente $A$ e $L$ il punto medio dell'arco $AC$ non contenente $B$ (o il punto analogo dell'arco definito nell'originale). Il $J$ deve essere il riflesso di $I$ attraverso la linea $KL$. La linea $LJ$ incrocia di nuovo $\Gamma$ in un punto $T \neq L$. La linea $TM$ incrocia di nuovo $\Gamma$ in un punto $S \neq T$. Provare che $S$, $I$, $M$ e $K$ si trovano tutti su un cerchio comune.
-
-[[Quesiti/src_obm_2022_n2_fx#q03|src_obm_2022_n2_fx__Q03]]
 
 
 
@@ -142,8 +136,6 @@ level: OBM Nível 2
 
 ![[src_obm_2022_n2_fx__q04.png]]
 
-[[Quesiti/src_obm_2022_n2_fx#q04|src_obm_2022_n2_fx__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_invarianti,method_congruenze,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -169,8 +161,6 @@ level: OBM Nível 2
 
 > Inizialmente, un numero è scritto sulla lavagna. Quindi, ogni minuto, Esmeralda sceglie un divisore $d > 1$ del numero $n$ attualmente sulla scheda, cancella $n$ e scrive $n + d$. Se il numero iniziale è $2022$, quale è il numero più grande che Esmeralda non può mai scrivere sulla lavagna?
 
-[[Quesiti/src_obm_2022_n2_fx#q05|src_obm_2022_n2_fx__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_estremalita,method_colorazione,method_cassetti,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_modellizzazione,skill_ragionamento_geometrico"></span>
@@ -195,5 +185,3 @@ level: OBM Nível 2
 *I più grandi sottoinsiemi di k di dimensioni 1011 di {1,...,2023} possono essere di 2 colori con coppie incrociate*
 
 > Determinare il più grande intero positivo $k$ per il quale è vera la seguente affermazione: data $k$ sottogruppi distinti dell'insieme $\{1, 2, 3, \ldots, 2023\}$, ciascuno con elementi $1011$, è possibile dividere i sottogruppi $k$ in due collezioni in modo tale che due sottogruppi appartenenti alla stessa collezione abbiano almeno un elemento in comune.
-
-[[Quesiti/src_obm_2022_n2_fx#q06|src_obm_2022_n2_fx__Q06]]

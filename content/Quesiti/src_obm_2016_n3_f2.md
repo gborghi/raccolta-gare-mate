@@ -33,8 +33,6 @@ level: OBM Nível 3
 
 > Considerate la sequenza di numeri $1, 1, 2, 1, 2, 3, 4, 5, 6, 1, 2, \ldots$ in cui scriviamo i numeri da $1$ a $2^1$, poi da $1$ a $2^2$, poi da $1$ a $2^3$, e così via. Si noti che ogni posizione in questa sequenza è occupata da esattamente un numero. Ad esempio, il numero $5$ appare per la prima volta nella posizione $8$. Determinare quale numero occupa la posizione $10000$.
 
-[[Quesiti/src_obm_2016_n3_f2#q01|src_obm_2016_n3_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: OBM Nível 3
 *Trova a+b data una radice condivisa di due polinomi*
 
 > $r$ sia la radice dell'equazione $x^2 - 12x - 12 = 0$. Sappiamo che $r$ è anche una radice dell'equazione $x^4 - ax^2 - b = 0$, dove $a$ e $b$ sono numeri reali. Trova $a + b$.
-
-[[Quesiti/src_obm_2016_n3_f2#q02|src_obm_2016_n3_f2__Q02]]
 
 
 
@@ -91,8 +87,6 @@ level: OBM Nível 3
 
 ![[src_obm_2016_n3_f2__q03.png]]
 
-[[Quesiti/src_obm_2016_n3_f2#q03|src_obm_2016_n3_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -118,8 +112,6 @@ level: OBM Nível 3
 
 > Determinare il numero intero positivo più piccolo $n$ in modo tale che esistano due triangoli rettangolari non congruenti con lunghezze laterali interi e perimetro $n$.
 
-[[Quesiti/src_obm_2016_n3_f2#q04|src_obm_2016_n3_f2__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_conteggio,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -144,8 +136,6 @@ level: OBM Nível 3
 *Minimum numero di divisori positivi di P(n) per il polinomio di radice integrale di grado-10*
 
 > Le radici di un polinomio $P$ di grado $10$, con coefficienti interi, sono tutti interi e distinti. Determinare il numero minimo di divisori positivi che ogni valore non zero $P(n)$, per $n$ un numero intero, deve avere.
-
-[[Quesiti/src_obm_2016_n3_f2#q05|src_obm_2016_n3_f2__Q05]]
 
 
 
@@ -176,8 +166,6 @@ level: OBM Nível 3
 
 ![[src_obm_2016_n3_f2__q06.png]]
 
-[[Quesiti/src_obm_2016_n3_f2#q06|src_obm_2016_n3_f2__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_logica,method_casework,method_doppio_conteggio,skill_casework_accurato,skill_modellizzazione,skill_conteggio_sistematico"></span>
@@ -202,8 +190,6 @@ level: OBM Nível 3
 *Conta le celle marroni in colorazione 7x7 con restrizioni di maggioranza a fila rossa e a colonna blu*
 
 > Janaína vuole dipingere le cellule di un pannello $7 \times 7$ in rosso, blu o marrone nel modo seguente: in ogni riga, il numero di cellule rosse non può essere inferiore al numero di cellule di ciascuno degli altri colori; in ogni colonna, il numero di cellule blu non può essere inferiore al numero di cellule di ciascuno degli altri colori. Quante cellule saranno dipinte di marrone?
-
-[[Quesiti/src_obm_2016_n3_f2#q07|src_obm_2016_n3_f2__Q07]]
 
 
 
@@ -230,8 +216,6 @@ level: OBM Nível 3
 
 > Due cerchi $\Gamma$ e $\Omega$ si incrociano ai punti $A$ e $G$. Una linea $t$ è tangente a $\Gamma$ a $B$ e a $\Omega$ a $C$. La linea $AG$ estesa incontra $t$ a $E$, con $C$ tra $B$ e $E$. $G$ è il centroide del triangolo $ABC$. Qual è il valore massimo possibile dell'angolo $\widehat{BAC}$?
 
-[[Quesiti/src_obm_2016_n3_f2#q08|src_obm_2016_n3_f2__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,topic_combinatoria,topic_aritmetica,method_fattorizzazione,method_congruenze,method_conteggio,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -256,5 +240,3 @@ level: OBM Nível 3
 *Zero di seguito del coefficiente binomial q C(2016,38)_q come polinomio in q*
 
 > In combinatorica, esistono $q$-analoghi di conti combinatori; fondamentalmente, sostituisco $n$ con $[n]_q$, dove $[n]_q = 1 + q + q^2 + \cdots + q^{n-1}$. Il $q$-fattoriale è $$[n]_q! = [1]_q \cdot [2]_q \cdots [n]_q = 1\cdot(1+q)\cdot(1+q+q^2)\cdots(1+q+q^2+\cdots+q^{n-1}).$$ Dato che $\dbinom{n}{k}_q = \dfrac{[n]_q!}{[k]_q!\,[n-k]_q!}$, con quanti zeri termina il $q$-binomio $\dbinom{2016}{38}_q$ (come polinomio in $q$)?
-
-[[Quesiti/src_obm_2016_n3_f2#q09|src_obm_2016_n3_f2__Q09]]

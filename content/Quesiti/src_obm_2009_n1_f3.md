@@ -49,8 +49,6 @@ level: OBM Nível 1
 
 ![[src_obm_2009_n1_f3__q01.png]]
 
-[[Quesiti/src_obm_2009_n1_f3#q01|src_obm_2009_n1_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_logica,method_casework,method_estremalita,skill_casework_accurato,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -87,8 +85,6 @@ level: OBM Nível 1
 > b) Indicare un modo per riempire la griglia in modo che $A - B = -3$.
 > 
 > c) È possibile ottenere $A = 4$ e $B = 3$? Non dimenticate di giustificare la vostra risposta.
-
-[[Quesiti/src_obm_2009_n1_f3#q02|src_obm_2009_n1_f3__Q02]]
 
 
 
@@ -131,8 +127,6 @@ level: OBM Nível 1
 
 ![[src_obm_2009_n1_f3__q03.png]]
 
-[[Quesiti/src_obm_2009_n1_f3#q03|src_obm_2009_n1_f3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
@@ -162,8 +156,6 @@ level: OBM Nível 1
 > 
 > Quanti numeri interi positivi con quattro cifre sono abuttati?
 
-[[Quesiti/src_obm_2009_n1_f3#q04|src_obm_2009_n1_f3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_fattorizzazione,method_estremalita,skill_modellizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_stima"></span>
@@ -192,5 +184,3 @@ level: OBM Nível 1
 > a) Indicare che esiste un numero intero positivo inferiore o uguale a $1000$ con almeno $20$ divisori positivi.
 > 
 > b) Esiste un numero intero positivo inferiore o uguale a $11000$ con almeno $200$ divisori positivi? Non dimenticate di giustificare la vostra risposta.
-
-[[Quesiti/src_obm_2009_n1_f3#q05|src_obm_2009_n1_f3__Q05]]

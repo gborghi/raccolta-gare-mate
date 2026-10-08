@@ -33,8 +33,6 @@ level: IMO
 
 > The $BCF$ triangle has a right angle in $B$. Whether $A$ the point on the $CF$ line such that $FA = FB$ and $F$ lie between $A$ and $C$. The point $D$ is chosen so that $DA = DC$ and $AC$ are the angles of the angle $\angle DAB$. The point $E$ is chosen so that $EA = ED$ and $AD$ are the angles of the angle $\angle EAC$. The mean point of $M$ shall be $CF$. If $X$ is the point such that $AMXE$ is a parallelogram (with $AM \parallel EX$ and $AE \parallel MX$). Demonstrate that $BD$, $FX$ and $ME$ are competitors.
 
-[[Quesiti/src_imo_2016#q01|src_imo_2016__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_colorazione,method_doppio_conteggio,skill_conteggio_sistematico"></span>
@@ -69,8 +67,6 @@ Table n×n filled with I,M,O balanced*
 > 
 > **Note:** The rows and columns of a table $n \times n$ are each labelled from $1$ to $n$ in natural order. Each cell corresponds to a pair of positive integers $(i, j)$ with $1 \leq i, j \leq n$. For $n > 1$, the table has $4n - 2$ diagonal of two types. A diagonal of the first type consists of all cells $(i, j)$ for which $i + j$ is constant, and a diagonal of the second type consists of all cells $(i, j)$ for which $i - j$ is constant.
 
-[[Quesiti/src_imo_2016#q02|src_imo_2016__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_aritmetica,method_congruenze,skill_ragionamento_geometrico"></span>
@@ -95,8 +91,6 @@ Table n×n filled with I,M,O balanced*
 *2S divisible by n in whole cyclic polygon*
 
 > Whether $P = A_1 A_2 \ldots A_k$ is a polygon convex in the plane. The vertices $A_1, A_2, \ldots, A_k$ have full coordinates and lie on a circle. Whether $S$ the area of $P$. A odd positive integer $n$ is given such that the squares of the side lengths of $P$ are integers divisible by $n$. Show that $2S$ is an integer divisible by $n$.
-
-[[Quesiti/src_imo_2016#q03|src_imo_2016__Q03]]
 
 
 
@@ -125,8 +119,6 @@ Table n×n filled with I,M,O balanced*
 
 > A set of positive integers is called **fragrance** if it contains at least two elements and each of its elements has a prime factor in common with at least one of the other elements. It is either $P(n) = n^2 + n + 1$. What is the minimum possible value of the positive integer $b$ such that there is a non-negative integer $a$ for which the whole $$\{P(a+1),\, P(a+2),\, \ldots,\, P(a+b)\}$$ is fragrant?
 
-[[Quesiti/src_imo_2016#q04|src_imo_2016__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_combinatoria,method_estremalita,skill_manipolazione_algebrica"></span>
@@ -153,8 +145,6 @@ Table n×n filled with I,M,O balanced*
 *Minimum k factors to be deleted without actual solutions*
 
 > The equation $$(x-1)(x-2)\cdots(x-2016) = (x-1)(x-2)\cdots(x-2016)$$ is written on the board, with $2016$ linear factors on each side. What is the minimum possible value of $k$ for which exactly $k$ of these $4032$ linear factors can be deleted so that at least one factor per side remains and the resulting equation has no real solutions?
-
-[[Quesiti/src_imo_2016#q05|src_imo_2016__Q05]]
 
 
 
@@ -188,5 +178,3 @@ Table n×n filled with I,M,O balanced*
 > (a) Demonstrate that Geoff can always grant his wish if he is odd.
 > 
 > (b) Demonstrate that Geoff can never fulfill his wish if $n$ is equal.
-
-[[Quesiti/src_imo_2016#q06|src_imo_2016__Q06]]

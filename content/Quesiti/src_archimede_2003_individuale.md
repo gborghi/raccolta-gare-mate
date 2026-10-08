@@ -33,8 +33,6 @@ level: nazionale
 
 > Find all three-digit natural numbers $n$ ($100 \le n \le 999$) that are equal to the number formed by the last three digits of $n^2$.
 
-[[Quesiti/src_archimede_2003_individuale#q01|src_archimede_2003_individuale__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_logica,method_estremalita,skill_modellizzazione"></span>
@@ -72,8 +70,6 @@ level: nazionale
 > 
 > Determine for which positive integers $n$ and $k$ the path can be arranged in accordance with these rules.
 
-[[Quesiti/src_archimede_2003_individuale#q02|src_archimede_2003_individuale__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -101,8 +97,6 @@ level: nazionale
 ![[src_archimede_2003_individuale__prob3.png]]
 
 > In the figure, the point $C$ is within the radius $OB$ of a centre semiconductor $O$ and the segment $CD$ is perpendicular to the diameter $AB$. A center circumference $P$ is inscribed in the semiconductor, tangent to the arc $BD$ in $F$, to the segment $CD$ in $E$ and to the diameter $AB$ in $G$. Demonstrate that the $ADG$ triangle is isosceles. (see figure)
-
-[[Quesiti/src_archimede_2003_individuale#q03|src_archimede_2003_individuale__Q03]]
 
 
 
@@ -132,8 +126,6 @@ level: nazionale
 > On an island there are two categories of people: knights, who always tell the truth, and crooks, who always lie. One day the great council, consisting of $2003$ members, meets. They sit at a random round table, and during the meeting each declares, "Both my neighbors are thieves!" The next day the council meets again, but one of the members is ill, so only $2002$ members are present. They randomly reposition themselves again around the round table and each of them says, "Both my neighbors belong to the opposite category to mine".
 > 
 > Was the patient a con man or a knight?
-
-[[Quesiti/src_archimede_2003_individuale#q04|src_archimede_2003_individuale__Q04]]
 
 
 
@@ -172,8 +164,6 @@ level: nazionale
 > 
 > (b) Demonstrate that there are infinite positive integers $k$ such that there are no grids with exactly $k$ footings.
 
-[[Quesiti/src_archimede_2003_individuale#q05|src_archimede_2003_individuale__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
@@ -206,5 +196,3 @@ level: nazionale
 > The ceremony master decided to serve the ports following an original procedure: he chooses an invitation, serves it, then moves in the anti-hour direction of a number of places equal to the signpost number of the newly served guest, serves the corresponding guest to whom he is now, and so on, always moving in the anti-hour direction according to the signpost number of the last served guest.
 > 
 > Determine for which $n$ the Master Ceremonial Officer may arrange the signs so that the Master Ceremonial Officer may, starting from a suitable guest and following the procedure described, serve all the diners.
-
-[[Quesiti/src_archimede_2003_individuale#q06|src_archimede_2003_individuale__Q06]]

@@ -36,7 +36,6 @@ level: squadre
 > This is BERK (Carlo Càssola) The island of Berk can be approached by a regular polygon where the inner corners have width equal to 719 times that of the outer corners. How many sides of the polygon are there?
 
 **Answer:** 1440
-[[Quesiti/src_archimede_2026_squadre_finale_femminile#q01|src_archimede_2026_squadre_finale_femminile__Q01]]
 
 
 
@@ -70,7 +69,6 @@ level: squadre
 > Hiccup is the son of Stoick, the village chief. While his father is a legend in the dragon hunt, Hiccup has proven to be very unruly... in fact, almost a danger to the entire community. During a dragon raid, his task is to assist Skaracchio, the blacksmith. To keep him from getting out of the hole, during the last attack, Skaracchio committed Hiccup to write four-digit numbers on the shields. If Hiccup wrote random numbers, how many must he have written, at least, to be sure he used at least 2026 numbers equal?
 
 **Answer:** 5063
-[[Quesiti/src_archimede_2026_squadre_finale_femminile#q02|src_archimede_2026_squadre_finale_femminile__Q02]]
 
 
 
@@ -119,7 +117,6 @@ level: squadre
 > Tonight the alarm went off and many dragons attacked the village. A swarm of Gronki, Bizippi and Orrendi nightmares targeted the village's people. Stoick is already on the defense tower, while Hiccup is in the corner to calculate all the values of x that make 20 14 2 2 2 2x   a binomial square of the type   2 2 2 a b  . Scarlet doesn't notice that Hiccup did it early and so, armed with his new invention, comes out from behind to take part in the hunt. What values did Hiccup calculate? (As a result, the product of all the values found.)
 
 **Answer:** 2592
-[[Quesiti/src_archimede_2026_squadre_finale_femminile#q03|src_archimede_2026_squadre_finale_femminile__Q03]]
 
 
 
@@ -155,7 +152,6 @@ level: squadre
 > A thunderstorm and the watch tower are destroyed. From the village you can hear the roar of fear DARK FURY announcing the presence in the herd of a legendary dragon that no one has ever been able to either see or hunt. Hiccup's already laid out on the back of the blacksmith's shop with his automatic shotgun. He just calculated how many 3-digit numbers are where the number of tens is greater than both the units and the hundreds when he sees a shadow between the stars. Close your eyes and activate the weapon. Immediately afterwards he sees the shadow fall behind the hill. He's the first Viking to strike a Dark Fury. Too bad no one saw him. What number was hiccup counting?
 
 **Answer:** 240
-[[Quesiti/src_archimede_2026_squadre_finale_femminile#q04|src_archimede_2026_squadre_finale_femminile__Q04]]
 
 
 
@@ -194,7 +190,6 @@ level: squadre
 > Hiccup is sure of what he saw. The dragon, shot, has fallen. On his notebook he traces the battle zone representing the whole through an ABCD isosceles trapezoid of base 3.6 km AB  and 7.2 km DC  . Berk 's in A . In C, the dragon was hit, which fell to a point E following the straight EC trajectory, perpendicular to AE, and as long as BC. Hiccup knows he has to travel the AE distance to find evidence of his enterprise. What is the distance AE in meters?
 
 **Answer:** 5091
-[[Quesiti/src_archimede_2026_squadre_finale_femminile#q05|src_archimede_2026_squadre_finale_femminile__Q05]]
 
 
 
@@ -229,7 +224,6 @@ level: squadre
 > After walking through the woods, in a depression, Hiccup finds the Dark Fury trapped in his bolas. Raise your knife ready to strike the decisive blow under the dragon's helpless gaze. Something's stopping him. To find strength and determination, imagine writing the numbers from 1 to 10 in random order and calculate the probability that, at no time during writing, the sum of the numbers already written is divisible by 3. But Hiccup still fails to finish the dragon and decides to restore his freedom by cutting the ropes that are trapping him. What's the probability calculated by Hiccup? (Give the sum of the numerator and the denominator of the probability written in irreducible fraction as an answer.)
 
 **Answer:** 51
-[[Quesiti/src_archimede_2026_squadre_finale_femminile#q06|src_archimede_2026_squadre_finale_femminile__Q06]]
 
 
 
@@ -271,7 +265,6 @@ level: squadre
 > Returning to Berk, Hiccup discovers that he and the other youths from the village have been enrolled in Flame Cement, a Viking training where the best will be named Sterminator and can kill a dragon in the arena in front of everyone. Hiccup wouldn't want to participate, but his father doesn't feel any reason. Astrid, Moccosus, Gambedipesce, Testadituff and Testabruta are all in the Arena when Scaraffius releases a Gronkio. Astrid shows all her worth right away. Hiccup hides and for fear starts to calculate the smallest possible degree for a polynomial ( ) p x whose coefficients can only be 2 , 0 or 6 such that (1) 2026 p   . Needless to say, if it wasn't for Scarface, Hiccup would be dead. What is the degree of the polynomial?
 
 **Answer:** 674
-[[Quesiti/src_archimede_2026_squadre_finale_femminile#q07|src_archimede_2026_squadre_finale_femminile__Q07]]
 
 
 
@@ -314,7 +307,6 @@ level: squadre
 > Hiccup, meanwhile, studies his Dark Fury which he sympathetically called Dentato after discovering that the dragon has retractable teeth by observing how he ate a fish he had offered him as lunch. Looking closely at Sdentato's tail, he noticed that one of the bolas must have cut off part of his steering wheel, so he decided to try and build him a prosthesis. On his notebook he sketches an ABC triangle-shaped design . Set a D-point on AB and an E-point on BC so that the AE and CD segments intersect at O . If the areas of the COE , AOC and ADO triangles are 150 , 300 and 450 2 cm respectively , Hiccup shall calculate the value of the ODBE quadrilateral area in 2 cm . Nothing is easier for an accustomed accountant. What value did you find?
 
 **Answer:** 3600
-[[Quesiti/src_archimede_2026_squadre_finale_femminile#q08|src_archimede_2026_squadre_finale_femminile__Q08]]
 
 
 
@@ -363,7 +355,6 @@ level: squadre
 > In Hunting for the Nest (Simone Bertone), Stoick sets off with numerous warriors in search of the dragon's nest to end the invasions. For seven generations, the village has regularly organized an expedition to find the nest. With three ships he ventures beyond the great fog barrier but immediately a swarm of dragons attacks them. A ship sinks immediately. Stoick's ship is severely damaged, so much so that the rudder is forced to calculate the route without the compass, damaged by the attack. It is necessary to calculate ( 11) p  knowing only that ( ) p x is a polynomial with third degree integers and that   2 3 2 3 p   . What value will allow Stoick to return home?
 
 **Answer:** 1210
-[[Quesiti/src_archimede_2026_squadre_finale_femminile#q09|src_archimede_2026_squadre_finale_femminile__Q09]]
 
 
 
@@ -409,7 +400,6 @@ level: squadre
 > Today in the arena: lesson against the Horrible Horrible! This one has a unique method of blowing fire in the dragon world: it has two completely independent heads, each with its own mind and personality, one produces a harmful and highly flammable gas, the second generates sparks, creating deadly explosions together. While Skaracchio is trying to unsuccessfully calculate the greatest value of n so 1 2 3 ... n    is divisible by 5 n  , young Vikings risk their lives fighting the two-headed dragon. Hiccup has an ace in his sleeve, or rather, he's hiding an eel under his jacket. He discovered that dragons can't stand the smell... and so he succeeds, to everyone's surprise, in winning over the Beetle. What's the value of n that solves Skaracchio's problem?
 
 **Answer:** 15
-[[Quesiti/src_archimede_2026_squadre_finale_femminile#q10|src_archimede_2026_squadre_finale_femminile__Q10]]
 
 
 
@@ -476,7 +466,6 @@ Total numbers of thousands, hundreds, tens less units 1000-2026
 > After attaching the new rudder to the tail of Sdentato, Hiccup builds a saddle where he connects the prosthesis to a pedal. If it solves the last calculation, it's done. What is the value (1 0 0 0) (1 0 0 1) (2 0 2 5) (2 0 2 6)                                  (the sum of the digits of the thousand hundreds and tens decreased from the number of units of all numbers between 1000 and 2026)? Needless to say, in a moment, the two of them are in flight, and even with some initial difficulties, they learn to fly together.
 
 **Answer:** 5467
-[[Quesiti/src_archimede_2026_squadre_finale_femminile#q11|src_archimede_2026_squadre_finale_femminile__Q11]]
 
 
 
@@ -512,7 +501,6 @@ Total numbers of thousands, hundreds, tens less units 1000-2026
 > KNOW THE DRAGONS (Claudia Manotti) Hiccup becomes skilled at domesticating the dragons guarded for the training of young Vikings, though in his unorthodox ways. Gronkio, for example, is stopped due to the allergy of dragons to a particular plant, while the Mortal Claw is particularly sensitive to the scratches under the chin. The Terrible Terror, one of the smallest dragons in existence, enjoys following the rays of light. The Arena is a perfect circle coated with reflective metal. Hiccup is positioned just above the hole of the Terrible Terror that's on the edge and by exploiting the shield, it sends a beam of light that forms an angle of exactly 5° with the diameter of the arena. The dragon follows the beam after hitting the rim of the arena many times until it enters the pit. How many times did you beat the poor dragon by following the light beam before you went back into the pit?
 
 **Answer:** 35
-[[Quesiti/src_archimede_2026_squadre_finale_femminile#q12|src_archimede_2026_squadre_finale_femminile__Q12]]
 
 
 
@@ -548,7 +536,6 @@ Total numbers of thousands, hundreds, tens less units 1000-2026
 > A GIRO SUR THE DRAGON (Michelangelo Sabatini) Hiccup's ability with dragons positively amazes all the Vikings in the village who previously marginalized him for his grace and goofiness. Astrid, jealous and unsuspecting of Hiccup's sudden improvement, decides to follow him in secret. And she surprises him as he trains with Dentato. Hiccup, to convince Astrid, takes her on a saddle and takes her around Berk Island. Sdentato makes the first lap travelling halfway at 20 km/h and the rest at 26 km/h, while in the second lap he proceeds at 20 km/h in the first half of the route and at 26 km/h in the second part. What is the ratio of the time spent on the first lap to the time spent on the second? (Give the sum of the numerator and denominator of the simplified fraction as an answer.)
 
 **Answer:** 1049
-[[Quesiti/src_archimede_2026_squadre_finale_femminile#q13|src_archimede_2026_squadre_finale_femminile__Q13]]
 
 
 
@@ -590,7 +577,6 @@ Total numbers of thousands, hundreds, tens less units 1000-2026
 > ROSS DEATH (Michelangelo Sabatini) Making peace with Astrid, as they fly into a cloud they are surrounded by other dragons carrying food. Dentato is forced to follow them and so the two arrive by chance at the Dragon's Nest, where they discover that all the food stolen from the village is used to feed a giant dragon called the Red Death. If you manage to escape, Astrid will memorize the nest's location. By imagining the sea area as an ABCD square , both E and the midpoint of the CD side . The circumference of centre E passing through D and centre B passing through C shall be 1 and 2  respectively . Whether N is the intersection, different from C, between 1 and 2. Astrid estimates that the distance of N from AD is 48 km What is the distance in km between Berk (B) and Nido (N) in the airline?
 
 **Answer:** 240
-[[Quesiti/src_archimede_2026_squadre_finale_femminile#q14|src_archimede_2026_squadre_finale_femminile__Q14]]
 
 
 
@@ -635,7 +621,6 @@ Total numbers of thousands, hundreds, tens less units 1000-2026
 > After a welcome speech, Stoick invites his son Hiccup, the village's new Sterminator, into the area. Now you'll have to kill a dragon. Hiccup is facing a Horrible Nightmare that is immediately covered in flames. Hiccup abandons his shield and weapon and begins to calm the dragon by listing all the irreducible fractions of the form 100n with 1 99n   . The dragon calms down and lets himself get closer. They're not what we think. We don't have to kill them, he shouts to the crowd, moving forward to touch the dragon's nose. Angry Stoick throws his axe at the balustrade screaming, "Stop the fight!" The dragon frightens and attacks. How much is the sum of all the fractions listed by Hiccup?
 
 **Answer:** 20
-[[Quesiti/src_archimede_2026_squadre_finale_femminile#q15|src_archimede_2026_squadre_finale_femminile__Q15]]
 
 
 
@@ -685,7 +670,6 @@ Total numbers of thousands, hundreds, tens less units 1000-2026
 > Having warned that his friend is in danger, Sdentato runs into the arena, protects Hiccup from the dragon and saves him. Unfortunately, in the most total chaos, he is imprisoned by the Vikings. It is useless for Hiccup to find all pairs ( , ) a b of positive integers such as 2 2 2 4 2026 a b a b     , a problem that Stoick had failed to solve. (Give the sum of the values a b  of all the pairs found.)
 
 **Answer:** 761
-[[Quesiti/src_archimede_2026_squadre_finale_femminile#q16|src_archimede_2026_squadre_finale_femminile__Q16]]
 
 
 
@@ -723,7 +707,6 @@ Total numbers of thousands, hundreds, tens less units 1000-2026
 > With Dentato locked in a cage on the bow of Stoick's ship, watching the dragon's reactions in the fog, the Vikings arrive at the dragon's nest island. The top of the hill in front of them is a straight pyramid which has as its base a regular hexagon of side 14 m and side shaft equal to 25 m . Stoick orders us to hit her with our catapults. The pyramid breaks along a plane parallel to one of the side faces of the pyramid and passes through the center of the base, leaving a quadrilateral-shaped opening from which thousands of dragons escape without fighting. Suddenly, from the opening, the Red Death appears, leaving no escape for the warriors. How many feet is the area of the quadrilateral that allowed the dragons to escape? (the thickness of the rocks is neglected)
 
 **Answer:** 210
-[[Quesiti/src_archimede_2026_squadre_finale_femminile#q17|src_archimede_2026_squadre_finale_femminile__Q17]]
 
 
 
@@ -792,7 +775,6 @@ Total numbers of thousands, hundreds, tens less units 1000-2026
 > Hiccup is gone and convinces Astrid and the other boys to run to help Sdentato. Explain to them that riding a dragon is as easy as calculating the maximum value of b when 3 2 ( ) 1 f x ax bx   , 3 2 ( ) g x mx nx p      (both real coefficients), the roots of ( ) g x are the squares of the roots of ( ) f x and    1 5 g  . The boys don't understand the comparison, but they believe in Hiccup's heart. They immediately learn about the dragons who had fought in the arena until recently and, riding on them, run to the aid of Dentatus. What value of b was Hiccup referring to? (Give the solution multiplied by 1000 .)
 
 **Answer:** 3236
-[[Quesiti/src_archimede_2026_squadre_finale_femminile#q18|src_archimede_2026_squadre_finale_femminile__Q18]]
 
 
 
@@ -846,7 +828,6 @@ Total numbers of thousands, hundreds, tens less units 1000-2026
 > Upon reaching the nest, they discover that the raging battle and Red Death are invincible. The ship where Toothless is held captive sinks and Hiccup jumps to save him risking his life. It's her father Stoick who first saves Hiccup and then ritualises to free Dentato. Even in the heat of battle, Stoick apologizes for everything he said and did. Hiccup and Toothless get into battle drawing the Red Death on them. After an aerial battle, Sdentato is located at point B and Red Death at point C of a convex quadrilateral ABCD where ˆ ˆ 45 ABC CDA   , AC CD , 100 m AB , 260 m BD . At that moment the artificial prosthesis of Sdentato is on fire because of the shots fired by the giant dragon. Before they can precipitate, Dentato, with his plasma shots under the guidance of Hiccup, hits the mouth of the Red Death, setting fire to the gas contained within and making it explode. How much is BC's distance from the shot to the plasma that killed the Red Death?
 
 **Answer:** 169
-[[Quesiti/src_archimede_2026_squadre_finale_femminile#q19|src_archimede_2026_squadre_finale_femminile__Q19]]
 
 
 
@@ -886,7 +867,6 @@ The rest of the 18! divided by 1+2+...+18 (Wilson)*
 > A FINE BED (Simona Pieri) Falling Hiccup ends up in the flames of the explosion. He's in the flames, too. When the fire goes out, Stoick is convinced he lost his son, but he doesn't. The dragon saved Hiccup by wrapping him in his wings. Stoick, thanking the dragon, pledges to calculate for the gods the remainder of the 18th Division! 3! For one , two , three ... 18     . What will be the outcome when he completes his vote?
 
 **Answer:** 117
-[[Quesiti/src_archimede_2026_squadre_finale_femminile#q20|src_archimede_2026_squadre_finale_femminile__Q20]]
 
 
 
@@ -929,4 +909,3 @@ The rest of the 18! divided by 1+2+...+18 (Wilson)*
 > This is Berk. You have to be crazy to come here, and even more crazy to stay. It's not for the faint of heart. The food that grows here is hard and tasteless; the people that grow here are even harder. The only positive note is pets. A lot of places have ponies or puppies, we have... The dragons ! Hiccup, Dragon Trainer
 
 **Answer:** 3402
-[[Quesiti/src_archimede_2026_squadre_finale_femminile#q21|src_archimede_2026_squadre_finale_femminile__Q21]]

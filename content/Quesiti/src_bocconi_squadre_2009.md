@@ -35,7 +35,6 @@ level: Gara a Squadre
 > What is the smallest integer greater than 20 that is not prime but is not even divisible by prime numbers (greater than 1 and) less than 20?
 
 **Answer:** 529
-[[Quesiti/src_bocconi_squadre_2009#q01|src_bocconi_squadre_2009__Q01]]
 
 
 
@@ -64,7 +63,6 @@ level: Gara a Squadre
 > How many are the natural numbers of 4 digits (all different from each other and all different from 0) so the sum of their digits is 12?
 
 **Answer:** 48
-[[Quesiti/src_bocconi_squadre_2009#q02|src_bocconi_squadre_2009__Q02]]
 
 
 
@@ -98,7 +96,6 @@ level: Gara a Squadre
 > Find a nine-digit number (all different from each other and different from 0) that is divisible by 9 and such that: - the number formed by its first two digits is divisible by 2; - the number formed by its first three digits is divisible by 3; - \ldots - the number formed by its first seven digits is divisible by 7; - the number formed by its first eight digits is divisible by 8.
 
 **Answer:** 381654729
-[[Quesiti/src_bocconi_squadre_2009#q03|src_bocconi_squadre_2009__Q03]]
 
 
 
@@ -127,7 +124,6 @@ Age of the mother deduced from figure play with the child
 > A young mother (\ldots is under 70!) says to her son: Our age is expressed in the same two digits and your age today is given by the product of the two digits of age I had when you were born. How old is Mom?
 
 **Answer:** 41
-[[Quesiti/src_bocconi_squadre_2009#q04|src_bocconi_squadre_2009__Q04]]
 
 
 
@@ -156,7 +152,6 @@ Age of the mother deduced from figure play with the child
 > If you divide a three-digit number by the sum of its digits, the result is 10 \ldots with some remainder. What number are you talking about? (At least one of them is easy to find. The problem is finding all of them.)
 
 **Answer:** 109, 119, 129, 139, 149, 159, 169, 179, 189, 199
-[[Quesiti/src_bocconi_squadre_2009#q05|src_bocconi_squadre_2009__Q05]]
 
 
 
@@ -185,7 +180,6 @@ Age of the mother deduced from figure play with the child
 > Consider the three medians of an equilateral triangle $ABC$. If you build a new triangle, the length of the sides of which is equal to the length of the three previous medians, what is the ratio between the area of the new triangle and that of $ABC$?
 
 **Answer:** $\frac{3}{4}$
-[[Quesiti/src_bocconi_squadre_2009#q06|src_bocconi_squadre_2009__Q06]]
 
 
 
@@ -214,7 +208,6 @@ Age of the mother deduced from figure play with the child
 > These are called symmetric numbers composed of numbers which are all different from each other and which are multiples of the sum of their numbers. What's the biggest three-digit number?
 
 **Answer:** 972
-[[Quesiti/src_bocconi_squadre_2009#q07|src_bocconi_squadre_2009__Q07]]
 
 
 
@@ -242,7 +235,6 @@ Age of the mother deduced from figure play with the child
 > The average age of a group of people (which includes both men and women) is 40 years. If the average age of men is 35 and that of women is 50, what is the ratio of the number of men and women in the group?
 
 **Answer:** 2
-[[Quesiti/src_bocconi_squadre_2009#q08|src_bocconi_squadre_2009__Q08]]
 
 
 
@@ -274,7 +266,6 @@ Age of the mother deduced from figure play with the child
 ![[src_bocconi_squadre_2009__q09.png]]
 
 **Answer:** $AE = 60\text{ m}$
-[[Quesiti/src_bocconi_squadre_2009#q09|src_bocconi_squadre_2009__Q09]]
 
 
 
@@ -303,7 +294,6 @@ Age of the mother deduced from figure play with the child
 > Henry has five children. The big four are only one year apart. If you multiply their age and their age, they get product 1. How old is the youngest of Henry's children?
 
 **Answer:** 1
-[[Quesiti/src_bocconi_squadre_2009#q10|src_bocconi_squadre_2009__Q10]]
 
 
 
@@ -332,7 +322,6 @@ Age of the mother deduced from figure play with the child
 > During the last world war, a convoy of weapons, supplies, and ammunition had to be made ready for Europe at an American port. The convoy's organization envisaged a escort ship leading the convoy, then three cargoes, then another aircraft carrier. At the port, there were 4 escort ships; 7 cargoes and 3 aircraft carriers were also available. How many different ways could the ships that would be part of the European conveyance be chosen?
 
 **Answer:** 420
-[[Quesiti/src_bocconi_squadre_2009#q11|src_bocconi_squadre_2009__Q11]]
 
 
 
@@ -361,7 +350,6 @@ Age of the mother deduced from figure play with the child
 > A nine-digit number (the last six are all zeroes, however), divided by 787, gives the remainder 313. What's this number?
 
 **Answer:** 712000000
-[[Quesiti/src_bocconi_squadre_2009#q12|src_bocconi_squadre_2009__Q12]]
 
 
 
@@ -393,7 +381,6 @@ Age of the mother deduced from figure play with the child
 > The new regional transport line is under construction. Its construction is quite simple because the route is straight, but local politicians have asked for the following rules: - the length of three consecutive sections must not exceed 16 km; - the length of five consecutive sections must never be less than 27 km. How many sections will the regional line consist of at most?
 
 **Answer:** 6
-[[Quesiti/src_bocconi_squadre_2009#q13|src_bocconi_squadre_2009__Q13]]
 
 
 
@@ -421,8 +408,7 @@ Age of the mother deduced from figure play with the child
 
 > Each of these cards bears a letter written on one side and a number on the other. Sergio tells his sister Sara that if a card has a 1 on one side, it necessarily has a A on the other and vice versa. Sara doesn't believe it and decides to check it out for herself. What cards does Sara have to play to make sure Sergio's statement is true?
 
-**Answer:** Sara deve girare le carte 1-A-2-Z
-[[Quesiti/src_bocconi_squadre_2009#q14|src_bocconi_squadre_2009__Q14]]
+**Answer:** Sara must turn over the cards 1-A-2-Z
 
 
 
@@ -455,7 +441,6 @@ Age of the mother deduced from figure play with the child
 ![[src_bocconi_squadre_2009__q15.png]]
 
 **Answer:** 40
-[[Quesiti/src_bocconi_squadre_2009#q15|src_bocconi_squadre_2009__Q15]]
 
 
 
@@ -484,7 +469,6 @@ Age of the mother deduced from figure play with the child
 > Consider a three-digit number, all different from each other and different from 0. This number  has the mean when it coincides with the arithmetic mean of the 6 numbers obtained with its digits (permutated in all possible ways). What are all the three-digit numbers (different from each other and different from 0) that have the mean?
 
 **Answer:** 481, 518, 592, 629
-[[Quesiti/src_bocconi_squadre_2009#q16|src_bocconi_squadre_2009__Q16]]
 
 
 
@@ -516,7 +500,6 @@ Age of the mother deduced from figure play with the child
 ![[src_bocconi_squadre_2009__q17.png]]
 
 **Answer:** 96 cm
-[[Quesiti/src_bocconi_squadre_2009#q17|src_bocconi_squadre_2009__Q17]]
 
 
 
@@ -545,7 +528,6 @@ Age of the mother deduced from figure play with the child
 > In a remote Italian final of the International Mathematical Games Championships fewer than 5,000 competitors from 5 regions participated. The parity had not been achieved and among the finalists of Lombardy the boys were twice the girls; the triple among the Sicilians; the boys were four times the girls in the Venetian delegation; five times among the Piedmontese and six times among the Tuscans. Knowing that the competitors (boys and girls) Lombards, Sicilians, Venetians, Piedmontese and Tuscans were present in the same number, how many were the finalists overall? (There may be more than one solution in this case, but all of them must be indicated!)
 
 **Answer:** 459 o 918
-[[Quesiti/src_bocconi_squadre_2009#q18|src_bocconi_squadre_2009__Q18]]
 
 
 
@@ -574,7 +556,6 @@ Age of the mother deduced from figure play with the child
 > If you don't know, remember that Fermat died in the early 17th century and that the year he died was an odd number, divisible by 37. When did the mathematician Fermat die?
 
 **Answer:** 1665
-[[Quesiti/src_bocconi_squadre_2009#q19|src_bocconi_squadre_2009__Q19]]
 
 
 
@@ -602,4 +583,3 @@ Age of the mother deduced from figure play with the child
 > A lap of the new Formula 1 circuit is divided into three parts: a fast part, which represents half the length of the entire lap, where the average speed of the cars is 280 Km/h; a slow part  one third of a lap  where the average speed is 140 Km/h and the last, where the cars reach an average speed of 210 Km/h. What's the average speed on a full lap? (Only one decimal digit is sufficient to indicate the number of Km/h).
 
 **Answer:** 201,6 Km/h
-[[Quesiti/src_bocconi_squadre_2009#q20|src_bocconi_squadre_2009__Q20]]

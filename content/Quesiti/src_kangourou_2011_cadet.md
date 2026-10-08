@@ -39,7 +39,6 @@ level: kangourou
 > Out of the next five, which is the largest number? A) 20111 B) 12011 C) 1 x 2011 D) 1 + 2011 E) 1 : 2011
 
 **Answer:** D
-[[Quesiti/src_kangourou_2011_cadet#q01|src_kangourou_2011_cadet__Q01]]
 
 
 
@@ -77,7 +76,6 @@ level: kangourou
 > E) 30
 
 **Answer:** A
-[[Quesiti/src_kangourou_2011_cadet#q02|src_kangourou_2011_cadet__Q02]]
 
 
 
@@ -112,7 +110,6 @@ level: kangourou
 > My digital clock just went off from 8:10 to 8:11. In how many minutes will it again show an hour of the digits 0, 1, 1, 2 arranged in some order? A) 40 B) 45 C) 50 D) 55 E) 60
 
 **Answer:** C
-[[Quesiti/src_kangourou_2011_cadet#q03|src_kangourou_2011_cadet__Q03]]
 
 
 
@@ -174,7 +171,6 @@ level: kangourou
 > The figure shows three squares: the intermediate square is obtained by joining the middle points of the sides of the larger square and the smaller square by joining the middle points of the sides of the intermediate square. The area of the smallest square is 6 cm2. What is the difference between the area, in square centimetres, of the large square and that of the middle square? A) 6 B) 9 C) 12 D) 15 E) 18
 
 **Answer:** C
-[[Quesiti/src_kangourou_2011_cadet#q04|src_kangourou_2011_cadet__Q04]]
 
 
 
@@ -210,7 +206,6 @@ Score of the game won by the Kang team
 > In a football tournament, the Kang team collectively scored three goals and conceded one. In doing so, he won one game, drew one and lost one. What was the score of the game it won? A) 3 - 0 B) 2 - 0 C) 1 - 0 D) 3 - 1 E) 2 - 1
 
 **Answer:** A
-[[Quesiti/src_kangourou_2011_cadet#q05|src_kangourou_2011_cadet__Q05]]
 
 
 
@@ -265,8 +260,6 @@ Score of the game won by the Kang team
 
 **Answer:** B
 
-[[Quesiti/src_kangourou_2011_cadet#q06|src_kangourou_2011_cadet__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_insiemi_funzioni,skill_modellizzazione"></span>
@@ -299,7 +292,6 @@ Score of the game won by the Kang team
 > In a theatre there are 100 spectators: 50 of them are Italians, 60 are men, 90 are vegetarians. How many spectators in that theater can you be sure of being Italian, male and vegetarian at the same time? A) 0 B) 1 C) 10 D) 40 E) 50
 
 **Answer:** A
-[[Quesiti/src_kangourou_2011_cadet#q07|src_kangourou_2011_cadet__Q07]]
 
 
 
@@ -333,7 +325,6 @@ Score of the game won by the Kang team
 > Which of the following numbers cannot be the area, in square metres, of a triangle whose two sides are 6 and 8 metres long? A) 20 B) 24 C) 19,1 D) 25 E) 5
 
 **Answer:** D
-[[Quesiti/src_kangourou_2011_cadet#q08|src_kangourou_2011_cadet__Q08]]
 
 
 
@@ -374,8 +365,6 @@ Score of the game won by the Kang team
 > (E) 781
 
 **Answer:** D
-
-[[Quesiti/src_kangourou_2011_cadet#q09|src_kangourou_2011_cadet__Q09]]
 
 
 
@@ -439,7 +428,6 @@ Score of the game won by the Kang team
 > The drawing shows an L formed by four equal squares. You want to add a square so you get a shape that's symmetrical to some straight line. How many ways can the goal be achieved? A) 1 B) 2 C) 3 D) 4 E) 0 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2011_cadet#q10|src_kangourou_2011_cadet__Q10]]
 
 
 
@@ -477,7 +465,6 @@ Score of the game won by the Kang team
 > E) 100
 
 **Answer:** C
-[[Quesiti/src_kangourou_2011_cadet#q11|src_kangourou_2011_cadet__Q11]]
 
 
 
@@ -513,7 +500,6 @@ Score of the game won by the Kang team
 > On the board, I want to draw four circles so that, no matter how you choose two, they have one and only one point in common. What is the largest number of points in the plane that can belong to more than one circumference? A) 1 B) 4 C) 5 D) 6 E) 8
 
 **Answer:** D
-[[Quesiti/src_kangourou_2011_cadet#q12|src_kangourou_2011_cadet__Q12]]
 
 
 
@@ -549,7 +535,6 @@ Score of the game won by the Kang team
 > On the board, Nadia has mapped a DE segment of length 2. How many different F points can you mark on the board if you want the DEF triangle to be rectangular and have area 1? A) 2 B) 4 C) 6 D) 8 E) 10
 
 **Answer:** C
-[[Quesiti/src_kangourou_2011_cadet#q13|src_kangourou_2011_cadet__Q13]]
 
 
 
@@ -588,7 +573,6 @@ Score of the game won by the Kang team
 > Consider the numbers 17, 13, 5, 10, 14, 9, 12, 16. Which of the following number pairs can you remove from this list without changing the mean (arithmetic)? A) 12 and 17 B) 5 and 17 C) 9 and 16 D) 10 and 12 E) 14 and 10 2011 x 2,011 201,1 x 20,11 Text_11Mat.qxp 19-05-2011 21:24 Page 17
 
 **Answer:** E
-[[Quesiti/src_kangourou_2011_cadet#q14|src_kangourou_2011_cadet__Q14]]
 
 
 
@@ -631,7 +615,6 @@ Score of the game won by the Kang team
 > Each region of the map you see in the figure should be colored with one of the following four colors: red (R), green (V), blue (B), yellow (G). Each pair of adjacent regions must be given different colors. Three regions have already been assigned colour. What colour shall be assigned to the region marked with X? A) Only red B) Only blue C) Only green D) Only yellow E) Either blue or red
 
 **Answer:** A
-[[Quesiti/src_kangourou_2011_cadet#q15|src_kangourou_2011_cadet__Q15]]
 
 
 
@@ -695,7 +678,6 @@ Score of the game won by the Kang team
 > A square has been divided into six rectangles as suggested by the figure. The sum of the lengths of the perimeter of the six rectangles is 120 cm. What is the original square's area in square centimeters? A) 48 B) 64 C) 110, 25 D) 144 E) 256
 
 **Answer:** D
-[[Quesiti/src_kangourou_2011_cadet#q16|src_kangourou_2011_cadet__Q16]]
 
 
 
@@ -730,7 +712,6 @@ Score of the game won by the Kang team
 > Four positive numbers a, b, c, d are such that a < b < c < d. You have to add 1 to one of them so that, multiplying between them the three remaining unchanged numbers and the one increased by 1, the result is as small as possible. Which of the four numbers do you have to add 1 to? (a) (b) (c) (d) (e) (b) or (c)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2011_cadet#q17|src_kangourou_2011_cadet__Q17]]
 
 
 
@@ -769,7 +750,6 @@ Score of the game won by the Kang team
 > We built a cube from its net on a cardboard cut into a cross like the one drawn next to it. Then we drew a black line on the surface of the cube that divides it into two identical parts (see figure). If we go back to the net of the cube, which of the figures shown below will we see on the cardboard?
 
 **Answer:** A
-[[Quesiti/src_kangourou_2011_cadet#q18|src_kangourou_2011_cadet__Q18]]
 
 
 
@@ -864,8 +844,6 @@ Score of the game won by the Kang team
 
 **Answer:** B
 
-[[Quesiti/src_kangourou_2011_cadet#q19|src_kangourou_2011_cadet__Q19]]
-
 
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_combinatoria,topic_logica,skill_casework_accurato"></span>
@@ -910,7 +888,6 @@ Score of the game won by the Kang team
 > The figures show a 5x5 square chessboard and (in gray) seven cardboard shapes obtained by placing five equal squares side by side, having the same side as the chessboard cells. Two of the shapes have already been placed on the chessboard: you want to place a third on the empty cells so that you can't insert any of the other shapes without overlapping. Which of the five forms below should you use? (Warning: shapes can be turned and/or rotated, but they must always be inserted so that their sides match the sides of the cells). The questions from N. 21 to N. 30 is worth 5 points each 21. The five-digit number 24X8Y is divisible by 4, 5 and 9. How much is X + Y? A) 13 B) 10 C) 9 D) 5 E) 4
 
 **Answer:** D
-[[Quesiti/src_kangourou_2011_cadet#q20|src_kangourou_2011_cadet__Q20]]
 
 
 
@@ -951,7 +928,6 @@ Score of the game won by the Kang team
 > - **(E)** 4
 
 **Answer:** E
-[[Quesiti/src_kangourou_2011_cadet#q21|src_kangourou_2011_cadet__Q21]]
 
 
 
@@ -993,7 +969,6 @@ Score of the game won by the Kang team
 > You can cut a cube with a plane so that the section is a regular hexagon. This can be done in 4 different ways and in any case the cutting plane intersects 6 different cube edges. Each edge of the cube in the figure is marked by a letter: of the following six sets of edges, which one cannot be affected by a cut giving rise to a regular hexagon? A) k, j, d, a, f, h B) k, l, a, b, e, g C) c, b, h, f, i, l D) g, j, i, c, d, e E) i, k, e, g, a, c
 
 **Answer:** E
-[[Quesiti/src_kangourou_2011_cadet#q22|src_kangourou_2011_cadet__Q22]]
 
 
 
@@ -1088,7 +1063,6 @@ Score of the game won by the Kang team
 > Kang 2011
 
 **Answer:** B
-[[Quesiti/src_kangourou_2011_cadet#q23|src_kangourou_2011_cadet__Q23]]
 
 
 
@@ -1132,7 +1106,6 @@ Score of the game won by the Kang team
 > E) 24
 
 **Answer:** D
-[[Quesiti/src_kangourou_2011_cadet#q24|src_kangourou_2011_cadet__Q24]]
 
 
 
@@ -1188,7 +1161,6 @@ Score of the game won by the Kang team
 > E) It cannot be deduced from the sketch available
 
 **Answer:** C
-[[Quesiti/src_kangourou_2011_cadet#q25|src_kangourou_2011_cadet__Q25]]
 
 
 
@@ -1223,7 +1195,6 @@ Score of the game won by the Kang team
 > In an ABCD convex quadrilateral the AB side and the AC diagonal have the same length. In addition, the BAD angle measures 80°, the ABC angle measures 75°, and the ADC angle measures 65°. How many degrees does the BDC angle measure? A) 10 B) 15 C) 20 D) 30 E) 45
 
 **Answer:** B
-[[Quesiti/src_kangourou_2011_cadet#q26|src_kangourou_2011_cadet__Q26]]
 
 
 
@@ -1259,7 +1230,6 @@ True statement about the ages of Eva and Rita
 > Eva and Rita are two working teachers. Seven years ago, Eva's age was a multiple of eight, and eight years from now, it will be a multiple of seven. Eight years ago Rita's age was a multiple of 7 and in seven years it will be a multiple of 8. Which of the following statements can be true? A) Rita is two years older than Eva B) Rita is one year older than Eva C) Rita and Eva are the same age D) Rita is one year younger than Eva E) Rita is two years younger than Eva
 
 **Answer:** A
-[[Quesiti/src_kangourou_2011_cadet#q27|src_kangourou_2011_cadet__Q27]]
 
 
 
@@ -1328,7 +1298,6 @@ True statement about the ages of Eva and Rita
 > Kang 2011
 
 **Answer:** B
-[[Quesiti/src_kangourou_2011_cadet#q28|src_kangourou_2011_cadet__Q28]]
 
 
 
@@ -1365,7 +1334,6 @@ True statement about the ages of Eva and Rita
 > An electronic game features a 4x4 chessboard, which, when touched on a cell, lights up by showing its color. The blue cells need to be lit. In each game, there are only two blue cells and they have one side in common. What is the minimum number of cells that you can touch to be sure to illuminate both blue cells? A) 9 B) 10 C) 11 D) 12 E) 13
 
 **Answer:** B
-[[Quesiti/src_kangourou_2011_cadet#q29|src_kangourou_2011_cadet__Q29]]
 
 
 
@@ -1426,5 +1394,3 @@ True statement about the ages of Eva and Rita
 > Cadet Category
 
 **Answer:** B
-
-[[Quesiti/src_kangourou_2011_cadet#q30|src_kangourou_2011_cadet__Q30]]

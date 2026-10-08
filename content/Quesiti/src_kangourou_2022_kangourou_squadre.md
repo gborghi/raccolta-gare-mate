@@ -40,7 +40,6 @@ level: squadre
 > The difference Choose four non-equal digits, form the largest and smallest number (both positive integers) and calculate the difference between the two (for example, if you chose the digits 0, 7, 2 and 1, you should calculate 7.210 - 127 = 7.083). Repeat the operation with the four digits of the number you have obtained (if it is less than four digits, put the necessary zeros in front) and proceed as follows. From a certain point onwards, you'll always get the same number. What kind?
 
 **Answer:** 6174
-[[Quesiti/src_kangourou_2022_kangourou_squadre#q01|src_kangourou_2022_kangourou_squadre__Q01]]
 
 
 
@@ -112,7 +111,6 @@ level: squadre
 > strips is the square divided?
 
 **Answer:** 0025
-[[Quesiti/src_kangourou_2022_kangourou_squadre#q02|src_kangourou_2022_kangourou_squadre__Q02]]
 
 
 
@@ -145,7 +143,6 @@ level: squadre
 > The triple C is a single positive five-digit integer that enjoys this property: by placing the digit 1 after its five digits, you get a number that is triple what you get by placing the digit 1 before its five digits. Find this five-digit number and subtract the tens of thousands. What number do you get?
 
 **Answer:** 2857
-[[Quesiti/src_kangourou_2022_kangourou_squadre#q03|src_kangourou_2022_kangourou_squadre__Q03]]
 
 
 
@@ -183,7 +180,6 @@ level: squadre
 > The gift in the picture shows a gift package tied with a ribbon. The box is in the shape of a rectangular parallelepiped: the length and width of the base differ by 5.5 cm, the height is shorter by 5 cm than the smaller of the two dimensions of the base. The part of the tape used for the knot and the bow is a total length of 47 cm and the total length of the tape is 162 cm. What is the height of the box in millimetres?
 
 **Answer:** 0105
-[[Quesiti/src_kangourou_2022_kangourou_squadre#q04|src_kangourou_2022_kangourou_squadre__Q04]]
 
 
 
@@ -216,7 +212,6 @@ level: squadre
 > Divide 7 Anna divides a positive integer n by four digits by 7 and gets the remainder 1. Then divide the coefficient by 7 and you get the remainder of 1. Divide this new quotient by 7 and the rest is still 1. Now divide this last quotient by 7 and you get the remaining 0. What is the largest whole n that Anna could have started from?
 
 **Answer:** 9661
-[[Quesiti/src_kangourou_2022_kangourou_squadre#q05|src_kangourou_2022_kangourou_squadre__Q05]]
 
 
 
@@ -255,7 +250,6 @@ level: squadre
 > 2
 
 **Answer:** 4043
-[[Quesiti/src_kangourou_2022_kangourou_squadre#q06|src_kangourou_2022_kangourou_squadre__Q06]]
 
 
 
@@ -291,7 +285,6 @@ level: squadre
 > truncated pyramid with 2022 faces: how many edges must it have?
 
 **Answer:** 6060
-[[Quesiti/src_kangourou_2022_kangourou_squadre#q07|src_kangourou_2022_kangourou_squadre__Q07]]
 
 
 
@@ -324,7 +317,6 @@ level: squadre
 > A positive integer is written at each of the vertices and at the center of a regular polygon of 2022 sides. The 2023 numbers written are all different from each other and, when the pairs of opposite vertices (i.e. aligned with the center) vary, the sum of the three aligned numbers (in the two vertices and in the center) is always the same and is the least possible with these presuppositions. What is the value of this sum?
 
 **Answer:** 2026
-[[Quesiti/src_kangourou_2022_kangourou_squadre#q08|src_kangourou_2022_kangourou_squadre__Q08]]
 
 
 
@@ -363,7 +355,6 @@ level: squadre
 > As suggested by the figure, a rectangular strip of paper ABCD is folded so that point A overlaps point C. We call E the point on the AB side from which the fold starts. If the angle measures 30° and the area of the triangle ECB is 15 cm2, how many square centimetres is the area of the rectangle ABCD?
 
 **Answer:** 0090
-[[Quesiti/src_kangourou_2022_kangourou_squadre#q09|src_kangourou_2022_kangourou_squadre__Q09]]
 
 
 
@@ -394,7 +385,6 @@ level: squadre
 > Three friends, Ada is riding her bike, Bruno is running, Carla is walking. Ada's speed is twice that of Bruno who, in turn, is twice that of Carla. If they leave together to make the same journey and Carla arrives an hour after Ada, how many minutes does it take Bruno to cover the entire journey?
 
 **Answer:** 0040
-[[Quesiti/src_kangourou_2022_kangourou_squadre#q10|src_kangourou_2022_kangourou_squadre__Q10]]
 
 
 
@@ -478,7 +468,6 @@ level: squadre
 > The angle In the ABC triangle in the figure the side AB is longer than either of the other two. M and N are two points on the AB side such that AN is as long as AC and BM is as long as BC. The angle MCN is 40 degrees. How many degrees is the angle ACB?
 
 **Answer:** 0100
-[[Quesiti/src_kangourou_2022_kangourou_squadre#q11|src_kangourou_2022_kangourou_squadre__Q11]]
 
 
 
@@ -510,7 +499,6 @@ level: squadre
 > How many integers are there between 10 and 9999 whose digits are arranged in a strictly increasing order? (Two-digit numbers are NOT to be thought of as 4-digit numbers whose first two digits are 0, e.g. 23 is acceptable)
 
 **Answer:** 0246
-[[Quesiti/src_kangourou_2022_kangourou_squadre#q12|src_kangourou_2022_kangourou_squadre__Q12]]
 
 
 
@@ -586,7 +574,6 @@ level: squadre
 > Triangles In the figure you see a right triangle ABC divided into three right triangles EDC, EDA and ABD. If AB measures 75 and AC measures 100, how much does ED measure?
 
 **Answer:** 0048
-[[Quesiti/src_kangourou_2022_kangourou_squadre#q13|src_kangourou_2022_kangourou_squadre__Q13]]
 
 
 
@@ -618,7 +605,6 @@ How to distribute 16 tokens in 6 bags
 > Tokens Marta must distribute 16 identical tokens in 6 different bags so that at least two tokens end up in each bag. How many different ways can you do that? (Two ways are different if the contents of at least one bag are different.)
 
 **Answer:** 0126
-[[Quesiti/src_kangourou_2022_kangourou_squadre#q14|src_kangourou_2022_kangourou_squadre__Q14]]
 
 
 
@@ -704,4 +690,3 @@ How to distribute 16 tokens in 6 bags
 > Questions and solutions
 
 **Answer:** 1050
-[[Quesiti/src_kangourou_2022_kangourou_squadre#q15|src_kangourou_2022_kangourou_squadre__Q15]]

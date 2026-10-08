@@ -35,8 +35,6 @@ level: BMO Round 1
 
 > Dato che $$3^{47} = 295\,232\,799\,cd9\,614\,810\,847\,618\,609\,643\,5ab\,000\,000,$$ determina le cifre $a$, $b$, $c$.
 
-[[Quesiti/src_bmo1_2003#q01|src_bmo1_2003__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -61,8 +59,6 @@ level: BMO Round 1
 *Circolo, piede di altitudine, punto medio e condizione di diametro*
 
 > Il triangolo $ABC$, dove $AB < AC$, ha un circoncircolo $S$. La perpendicolare da $A$ a $BC$ incontra di nuovo $S$ a $P$. Il punto $X$ si trova nel segmento di linea $AC$ e $BX$ incontra di nuovo $S$ al $Q$. Indicare che $BX = CX$ se e solo se $PQ$ ha un diametro di $S$.
-
-[[Quesiti/src_bmo1_2003#q02|src_bmo1_2003__Q02]]
 
 
 
@@ -90,8 +86,6 @@ level: BMO Round 1
 
 > $x$, $y$, $z$ siano numeri reali positivi tali da $x^2 + y^2 + z^2 = 1$. Provare che $$x^2 y^2 + y^2 z^2 + z^2 x^2 \le \frac{1}{3}.$$
 
-[[Quesiti/src_bmo1_2003#q03|src_bmo1_2003__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_geometria_piana,method_estremalita,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_ragionamento_geometrico"></span>
@@ -116,8 +110,6 @@ level: BMO Round 1
 *Punti rossi massimi in griglia senza triangolo rettangolo*
 
 > $n$ sia un numero intero superiore a 1. Considera una griglia rettangolare $n \times n$ di punti nel piano. Alcuni $k$ di questi punti sono colorati in rosso in modo tale che non ci siano tre punti rossi che siano le vertici di un triangolo rettangolare i cui lati sono paralleli ai lati della griglia. Determinare il massimo valore possibile di $k$.
-
-[[Quesiti/src_bmo1_2003#q04|src_bmo1_2003__Q04]]
 
 
 
@@ -144,5 +136,3 @@ level: BMO Round 1
 *Ricerca tutte le soluzioni a^b = b^a + b^c*
 
 > Trova tutte le soluzioni in numeri interi positivi $a$, $b$, $c$ all'equazione $$a^b = b^a + b^c.$$
-
-[[Quesiti/src_bmo1_2003#q05|src_bmo1_2003__Q05]]

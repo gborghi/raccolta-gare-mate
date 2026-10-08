@@ -38,7 +38,6 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A)** $0$ $\quad$ **B)** $2$ $\quad$ **C)** $4$ $\quad$ **D)** $4^2$ $\quad$ **E)** $4^4$
 
 **Risposta:** A
-[[Quesiti/src_obm_2004_n2_f1#q01|src_obm_2004_n2_f1__Q01]]
 
 
 
@@ -74,7 +73,6 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A)** $4$ $\quad$ **B)** $6$ $\quad$ **C)** $8$ $\quad$ **D)** $10$ $\quad$ **E)** $12$
 
 **Risposta:** C
-[[Quesiti/src_obm_2004_n2_f1#q02|src_obm_2004_n2_f1__Q02]]
 
 
 
@@ -108,7 +106,6 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A)** $26.4$ km $\quad$ **B)** $264$ km $\quad$ **C)** $26400$ km $\quad$ **D)** $264000$ km $\quad$ **E)** $2640000$ km
 
 **Risposta:** C
-[[Quesiti/src_obm_2004_n2_f1#q03|src_obm_2004_n2_f1__Q03]]
 
 
 
@@ -145,7 +142,6 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 ![[src_obm_2004_n2_f1__q04.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2004_n2_f1#q04|src_obm_2004_n2_f1__Q04]]
 
 
 
@@ -178,7 +174,6 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A)** $1$ $\quad$ **B)** $3$ $\quad$ **C)** $5$ $\quad$ **D)** $7$ $\quad$ **E)** $9$
 
 **Risposta:** C
-[[Quesiti/src_obm_2004_n2_f1#q05|src_obm_2004_n2_f1__Q05]]
 
 
 
@@ -213,8 +208,6 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 
 ![[src_obm_2004_n2_f1__q06.png]]
 
-[[Quesiti/src_obm_2004_n2_f1#q06|src_obm_2004_n2_f1__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_probabilita,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -245,7 +238,6 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A)** $0$ $\quad$ **B)** $\dfrac{1}{2004}$ $\quad$ **C)** $\dfrac{1}{2003}$ $\quad$ **D)** $\dfrac{2}{2003}$ $\quad$ **E)** $\dfrac{1}{1001}$
 
 **Risposta:** C
-[[Quesiti/src_obm_2004_n2_f1#q07|src_obm_2004_n2_f1__Q07]]
 
 
 
@@ -278,7 +270,6 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A)** $625 - x^2$ $\quad$ **B)** $625 - \dfrac{x^2}{2}$ $\quad$ **C)** $1250 - \dfrac{x^2}{2}$ $\quad$ **D)** $250 - \dfrac{x^2}{2}$ $\quad$ **E)** $2500 - \dfrac{x^2}{2}$
 
 **Risposta:** B
-[[Quesiti/src_obm_2004_n2_f1#q08|src_obm_2004_n2_f1__Q08]]
 
 
 
@@ -311,7 +302,6 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A)** $5$ $\quad$ **B)** $4$ $\quad$ **C)** $3$ $\quad$ **D)** $2$ $\quad$ **E)** $9$
 
 **Risposta:** A
-[[Quesiti/src_obm_2004_n2_f1#q09|src_obm_2004_n2_f1__Q09]]
 
 
 
@@ -344,7 +334,6 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A) ** uno $\quad$ **B) ** due $\quad$ **C) ** tre $\quad$ **D) ** quattro $\quad$ **E) ** più di quattro
 
 **Risposta:** B
-[[Quesiti/src_obm_2004_n2_f1#q10|src_obm_2004_n2_f1__Q10]]
 
 
 
@@ -377,7 +366,6 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A)** $64$ $\quad$ **B)** $109$ $\quad$ **C)** $120$ $\quad$ **D)** $124$ $\quad$ **E)** $154$
 
 **Risposta:** D
-[[Quesiti/src_obm_2004_n2_f1#q11|src_obm_2004_n2_f1__Q11]]
 
 
 
@@ -412,8 +400,6 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 
 ![[src_obm_2004_n2_f1__q12.png]]
 
-[[Quesiti/src_obm_2004_n2_f1#q12|src_obm_2004_n2_f1__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,method_casework,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -447,8 +433,6 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 
 ![[src_obm_2004_n2_f1__q13.png]]
 
-[[Quesiti/src_obm_2004_n2_f1#q13|src_obm_2004_n2_f1__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -480,7 +464,6 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A)** $-2$ $\quad$ **B)** $-1$ $\quad$ **C)** $1$ $\quad$ **D)** $2$ $\quad$ **E)** $3$
 
 **Risposta:** E
-[[Quesiti/src_obm_2004_n2_f1#q14|src_obm_2004_n2_f1__Q14]]
 
 
 
@@ -513,7 +496,6 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A)** $7$ $\quad$ **B)** $8$ $\quad$ **C)** $9$ $\quad$ **D)** $10$ $\quad$ **E)** $11$
 
 **Risposta:** B
-[[Quesiti/src_obm_2004_n2_f1#q15|src_obm_2004_n2_f1__Q15]]
 
 
 
@@ -548,8 +530,6 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 
 ![[src_obm_2004_n2_f1__q16.png]]
 
-[[Quesiti/src_obm_2004_n2_f1#q16|src_obm_2004_n2_f1__Q16]]
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana,method_casework,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -581,7 +561,6 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A)** $1$ $\quad$ **B)** $2$ $\quad$ **C)** $4$ $\quad$ **D)** $6$ $\quad$ **E)** $8$
 
 **Risposta:** E
-[[Quesiti/src_obm_2004_n2_f1#q17|src_obm_2004_n2_f1__Q17]]
 
 
 
@@ -616,8 +595,6 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 
 ![[src_obm_2004_n2_f1__q18.png]]
 
-[[Quesiti/src_obm_2004_n2_f1#q18|src_obm_2004_n2_f1__Q18]]
-
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -648,7 +625,6 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A)** $5$ $\quad$ **B)** $10$ $\quad$ **C)** $15$ $\quad$ **D)** $20$ $\quad$ **E)** $25$
 
 **Risposta:** C
-[[Quesiti/src_obm_2004_n2_f1#q19|src_obm_2004_n2_f1__Q19]]
 
 
 
@@ -689,7 +665,6 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A) ** Nella scatola rossa. $\quad$ **B) ** Nella scatola verde. $\quad$ **C) ** Nella casella blu. $\quad$ **D) ** Le informazioni fornite non sono sufficienti per dare una risposta. $\quad$ **E) ** Le informazioni fornite sono contraddittorie.
 
 **Risposta:** B
-[[Quesiti/src_obm_2004_n2_f1#q20|src_obm_2004_n2_f1__Q20]]
 
 
 
@@ -726,7 +701,6 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 ![[src_obm_2004_n2_f1__q21.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2004_n2_f1#q21|src_obm_2004_n2_f1__Q21]]
 
 
 
@@ -759,7 +733,6 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A)** $6$ cm $\quad$ **B)** $12$ cm $\quad$ **C)** $21$ cm $\quad$ **D)** $19$ cm $\quad$ **E)** $20$ cm
 
 **Risposta:** C
-[[Quesiti/src_obm_2004_n2_f1#q22|src_obm_2004_n2_f1__Q22]]
 
 
 
@@ -791,7 +764,6 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A) ** $5\%$ meno $\quad$ ** B) ** $10\%$ meno $\quad$ **C) ** $19\%$ meno $\quad$ **D) ** $20\%$ meno $\quad$ **E) ** $25\%$ meno
 
 **Risposta:** C
-[[Quesiti/src_obm_2004_n2_f1#q23|src_obm_2004_n2_f1__Q23]]
 
 
 
@@ -824,7 +796,6 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A) ** 12h $\quad$ **B) ** 12h30min $\quad$ **C) ** 13h $\quad$ **D) ** 13h30min $\quad$ **E) ** 14h30min
 
 **Risposta:** D
-[[Quesiti/src_obm_2004_n2_f1#q24|src_obm_2004_n2_f1__Q24]]
 
 
 
@@ -857,4 +828,3 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A)** $4$ $\quad$ **B)** $8$ $\quad$ **C)** $10$ $\quad$ **D)** $15$ $\quad$ **E)** $20$
 
 **Risposta:** D
-[[Quesiti/src_obm_2004_n2_f1#q25|src_obm_2004_n2_f1__Q25]]

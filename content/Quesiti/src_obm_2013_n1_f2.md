@@ -43,7 +43,6 @@ level: OBM Nível 1
 ![[src_obm_2013_n1_f2__q01.png]]
 
 **Risposta:** 35
-[[Quesiti/src_obm_2013_n1_f2#q01|src_obm_2013_n1_f2__Q01]]
 
 
 
@@ -70,8 +69,6 @@ level: OBM Nível 1
 
 > Un numero naturale è chiamato quadrato perfetto quando è il quadrato di un altro numero naturale. Ad esempio, $1$ e $25$ sono quadrati perfetti, dal momento che $1 = 1^2$ e $25 = 5^2$. Qual è il valore minimo di $a + b$, con $a$ e $b$ numeri naturali non zero, in modo che i numeri $28a^3b$ e $7a^4b^3$ siano entrambi quadrati perfetti?
 
-[[Quesiti/src_obm_2013_n1_f2#q02|src_obm_2013_n1_f2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_combinatoria,method_casework,method_estremalita,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -96,8 +93,6 @@ level: OBM Nível 1
 *Unire dodici 3 ×4 rettangoli di plastica fianco a fianco per massimizzare il perimetro*
 
 > Jurema ha 12 pezzi rettangolari di plastica, ognuno di cui $3\,\text{cm} \times 4\,\text{cm}$. Unisce questi pezzi con lati che coincidono per formare rettangoli più grandi, uno alla volta. Tra tutti i rettangoli che può formare utilizzando tutti i 12 pezzi, si sceglie quello con il più grande perimetro. Qual è questo perimetro, in centimetri?
-
-[[Quesiti/src_obm_2013_n1_f2#q03|src_obm_2013_n1_f2__Q03]]
 
 
 
@@ -132,8 +127,6 @@ level: OBM Nível 1
 
 ![[src_obm_2013_n1_f2__q04.png]]
 
-[[Quesiti/src_obm_2013_n1_f2#q04|src_obm_2013_n1_f2__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_cassetti,method_estremalita,skill_ragionamento_geometrico,skill_stima,skill_conteggio_sistematico"></span>
@@ -159,8 +152,6 @@ level: OBM Nível 1
 
 > In una prova a scelta multipla, Julia ha risposto correttamente alle domande $100$ di $128$. Ha verificato che il maggior numero di domande consecutive a cui ha risposto correttamente è $N$. Qual è il valore minimo possibile di $N$?
 
-[[Quesiti/src_obm_2013_n1_f2#q05|src_obm_2013_n1_f2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_ricorsione,method_induzione,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -185,8 +176,6 @@ level: OBM Nível 1
 *Sbarazzare i numeri interi 11000 due a due a partire dal secondo; contare gli studenti*
 
 > L'insegnante Maria scrisse sulla lavagna tutti gli enti da $1$ a $1000$. Ha chiamato uno studente e gli ha chiesto di cancellare i numeri a partire dal secondo, cancellare ogni altro numero (cioè, cancellare il 2 °, 4 °, 6 °, $\ldots$). Poi chiese al prossimo studente di fare lo stesso con i numeri rimanenti (a partire dal secondo numero rimanente, cancellare tutti gli altri), e così via. Quanti studenti sono andati alla lavagna?
-
-[[Quesiti/src_obm_2013_n1_f2#q06|src_obm_2013_n1_f2__Q06]]
 
 
 
@@ -230,8 +219,6 @@ level: OBM Nível 1
 
 ![[src_obm_2013_n1_f2__q07.png]]
 
-[[Quesiti/src_obm_2013_n1_f2#q07|src_obm_2013_n1_f2__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_solida,topic_aritmetica,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -260,8 +247,6 @@ level: OBM Nível 1
 > Il fabbro d'oro Carlos ha un cubo di legno con bordi di $10\,\text{cm}$. Taglia cubetti di bordo $2\,\text{cm}$ da ogni vertice del grande cubo e incolla una sottile follia d'oro su tutta la superficie del solido risultante, a un prezzo di $8$ reais per centimetro quadrato. Senza sprechi, qual è il costo in reais di questa copertura?
 
 ![[src_obm_2013_n1_f2__q08.png]]
-
-[[Quesiti/src_obm_2013_n1_f2#q08|src_obm_2013_n1_f2__Q08]]
 
 
 
@@ -299,5 +284,3 @@ level: OBM Nível 1
 > b) Nella figura seguente, $BCFE$ è un rettangolo, il triangolo $ABC$ ha superficie $5\,\text{cm}^2$ e il triangolo $DEF$ ha superficie $4\,\text{cm}^2$. Calcolare l'area del quadrilaterale $AGDH$.
 
 ![[src_obm_2013_n1_f2__q09.png]]
-
-[[Quesiti/src_obm_2013_n1_f2#q09|src_obm_2013_n1_f2__Q09]]

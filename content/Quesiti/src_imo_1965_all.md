@@ -34,8 +34,6 @@ level: IMO
 
 > Determine all values of $x$ in the $0 \leq x \leq 2\pi$ range that satisfy the inequality $$2\cos x \leq \left|\sqrt{1+\sin 2x} - \sqrt{1-\sin 2x}\right| \leq \sqrt{2}.$$
 
-[[Quesiti/src_imo_1965_all#q01|src_imo_1965_all__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica"></span>
@@ -118,8 +116,6 @@ level: IMO
 > 1965/6.
 > In un piano è dato un insieme di n punti (n ≥ 3). Ogni coppia di punti è congiunta da un segmento. Sia d la lunghezza del più lungo di questi segmenti. Chiamiamo diametro dell'insieme ogni segmento che congiunge due punti e ha lunghezza d. Si dimostri che il numero di diametri dell'insieme dato è al più n.
 
-[[Quesiti/src_imo_1965_all#q02|src_imo_1965_all__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
@@ -144,8 +140,6 @@ level: IMO
 
 > Given the tetrahedron $ABCD$ whose beams $AB$ and $CD$ have lengths $a$ and $b$ respectively. The distance between the straight lines $AB$ and $CD$ is $d$, and the angle between them is $\omega$. The $ABCD$ tetrahedron is divided into two solids by the $\varepsilon$ plane, parallel to the $AB$ and $CD$ lines. The ratio of $\varepsilon$ to $AB$ and $CD$ is equal to $k$. Calculate the ratio of the volumes of the two solids obtained.
 
-[[Quesiti/src_imo_1965_all#q03|src_imo_1965_all__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_simmetria"></span>
@@ -169,8 +163,6 @@ level: IMO
 *Find four real where each plus product of other three is 2*
 
 > Find all sets of four real numbers $x_1, x_2, x_3, x_4$ such that the sum of each of them and the product of the other three is $2$.
-
-[[Quesiti/src_imo_1965_all#q04|src_imo_1965_all__Q04]]
 
 
 
@@ -197,8 +189,6 @@ level: IMO
 
 > Consider the $OAB$ triangle with a sharp angle $AOB$. For a point $M \neq O$ the perpendiculars to $OA$ and to $OB$ shall be drawn, the feet of which are $P$ and $Q$ respectively. The height intersection point of the $OPQ$ triangle is $H$. What is the geometric location of $H$ if $M$ varies on: (a) the side $AB$; (b) the inside of the $OAB$ triangle?
 
-[[Quesiti/src_imo_1965_all#q05|src_imo_1965_all__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_geometria_piana,method_estremalita"></span>
@@ -222,5 +212,3 @@ level: IMO
 *Prove number of diameters of n-point set is at most n*
 
 > A set of $n$ points ($n \geq 3$) is given in a plane. Each pair of points is connected by a segment. Whether $d$ the length of the longest of these segments. The diameter of the assembly of any length $d$ link segment is defined. Demonstrate that the number of diameters of the given set is at most $n$.
-
-[[Quesiti/src_imo_1965_all#q06|src_imo_1965_all__Q06]]

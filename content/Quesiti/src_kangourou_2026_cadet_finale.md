@@ -35,8 +35,6 @@ level: kangourou
 
 **Answer:** 1
 
-[[Quesiti/src_kangourou_2026_cadet_finale#qc1|src_kangourou_2026_cadet_finale__QC1]]
-
 
 
 <span class="atom-split" id="qc2" data-atom="qc2" data-title="Quesito C2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -63,8 +61,6 @@ level: kangourou
 > In a square, four segments have been drawn from an internal point to the midpoints of the sides. The areas of three regions are indicated as $200$, $320$, $160$. What is the area of the fourth region?
 
 **Answer:** 280
-
-[[Quesiti/src_kangourou_2026_cadet_finale#qc2|src_kangourou_2026_cadet_finale__QC2]]
 
 
 
@@ -93,8 +89,6 @@ level: kangourou
 
 **Answer:** 729
 
-[[Quesiti/src_kangourou_2026_cadet_finale#qc3|src_kangourou_2026_cadet_finale__QC3]]
-
 
 
 <span class="atom-split" id="qc4" data-atom="qc4" data-title="Quesito C4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -121,8 +115,6 @@ level: kangourou
 > A rectangle $R$ is given. Externally to $R$, on each side a square is constructed. What can be said about the polygon whose vertices are the centers of the four squares?
 
 **Answer:** it is a square
-
-[[Quesiti/src_kangourou_2026_cadet_finale#qc4|src_kangourou_2026_cadet_finale__QC4]]
 
 
 
@@ -151,8 +143,6 @@ level: kangourou
 
 **Answer:** 1 or 2026
 
-[[Quesiti/src_kangourou_2026_cadet_finale#qc5|src_kangourou_2026_cadet_finale__QC5]]
-
 
 
 <span class="atom-split" id="qc6" data-atom="qc6" data-title="Quesito C6" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
@@ -180,5 +170,3 @@ level: kangourou
 > How many unordered pairs of positive integer palindromes with 4 digits are there such that the sum of the two numbers is a 5-digit palindrome?
 
 **Answer:** 36
-
-[[Quesiti/src_kangourou_2026_cadet_finale#qc6|src_kangourou_2026_cadet_finale__QC6]]

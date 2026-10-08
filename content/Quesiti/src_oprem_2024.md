@@ -95,8 +95,6 @@ level: Olympiades Première
 
 ![[src_oprem_2024__q01.png]]
 
-[[Quesiti/src_oprem_2024#q01|src_oprem_2024__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,topic_probabilita,topic_insiemi_funzioni,topic_algebra,topic_disuguaglianze,method_induzione,method_ricorsione,method_conteggio,method_disuguaglianze,method_casework,skill_astrazione,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta,skill_modellizzazione"></span>
@@ -260,8 +258,6 @@ level: Olympiades Première
 
 ![[src_oprem_2024__q02.png]]
 
-[[Quesiti/src_oprem_2024#q02|src_oprem_2024__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,topic_geometria_piana,method_estremalita,method_casework,method_conteggio,method_induzione,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_astrazione,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -356,5 +352,3 @@ level: Olympiades Première
 > **c.** Concludi considerando il triangolo equilaterale la cui base inferiore è composta dai numeri $n-2$ più a sinistra dell'ultima linea.
 
 ![[src_oprem_2024__q03.png]]
-
-[[Quesiti/src_oprem_2024#q03|src_oprem_2024__Q03]]

@@ -49,8 +49,6 @@ level: biennio
 > - **(D)** 600
 > - **(E)** 1001
 
-[[Quesiti/src_archimede_2015_biennio#q01|src_archimede_2015_biennio__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_conteggio"></span>
@@ -93,8 +91,6 @@ level: biennio
 > - **(D)** 9
 > - **(E)** 6
 
-[[Quesiti/src_archimede_2015_biennio#q02|src_archimede_2015_biennio__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,skill_modellizzazione"></span>
@@ -134,8 +130,6 @@ Average age of three friends of Enea
 > - **(D)** 17
 > - **(E)** 18
 
-[[Quesiti/src_archimede_2015_biennio#q03|src_archimede_2015_biennio__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze"></span>
@@ -172,8 +166,6 @@ Average age of three friends of Enea
 > - **(C)** 3
 > - **(D)** 9
 > - **(E)** 5
-
-[[Quesiti/src_archimede_2015_biennio#q04|src_archimede_2015_biennio__Q04]]
 
 
 
@@ -218,8 +210,6 @@ Average age of three friends of Enea
 > - **(D)** 48
 > - **(E)** 24
 
-[[Quesiti/src_archimede_2015_biennio#q05|src_archimede_2015_biennio__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_doppio_conteggio"></span>
@@ -257,8 +247,6 @@ Number of girls at a cross-dance party
 > - **(C)** 12
 > - **(D)** 8
 > - **(E)** 16
-
-[[Quesiti/src_archimede_2015_biennio#q06|src_archimede_2015_biennio__Q06]]
 
 
 
@@ -298,8 +286,6 @@ Number of girls at a cross-dance party
 > - **(D)** 124
 > - **(E)** There's not enough data to determine that.
 
-[[Quesiti/src_archimede_2015_biennio#q07|src_archimede_2015_biennio__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_congruenze,skill_riconoscimento_pattern"></span>
@@ -337,8 +323,6 @@ Number of girls at a cross-dance party
 > - **(C)** 5
 > - **(D)** 2
 > - **(E)** 4
-
-[[Quesiti/src_archimede_2015_biennio#q08|src_archimede_2015_biennio__Q08]]
 
 
 
@@ -379,8 +363,6 @@ Number of girls at a cross-dance party
 > - **(D)** 60
 > - **(E)** 24
 
-[[Quesiti/src_archimede_2015_biennio#q09|src_archimede_2015_biennio__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,method_fattorizzazione"></span>
@@ -419,8 +401,6 @@ Sum of the five smallest divisors of 40! of a width of not more than 50 mm
 > - **(C)** 219
 > - **(D)** 217
 > - **(E)** 223
-
-[[Quesiti/src_archimede_2015_biennio#q10|src_archimede_2015_biennio__Q10]]
 
 
 
@@ -467,8 +447,6 @@ Maximum percentage of palm oil from the order of ingredients
 > - **(D)** 40%
 > - **(E)** 37%
 
-[[Quesiti/src_archimede_2015_biennio#q11|src_archimede_2015_biennio__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_logica,method_invarianti"></span>
@@ -509,8 +487,6 @@ Maximum percentage of palm oil from the order of ingredients
 > - **(C)** 153
 > - **(D)** 168
 > - **(E)** 205
-
-[[Quesiti/src_archimede_2015_biennio#q12|src_archimede_2015_biennio__Q12]]
 
 
 
@@ -557,8 +533,6 @@ Maximum percentage of palm oil from the order of ingredients
 > - **(D)**
 > - **(E)**
 
-[[Quesiti/src_archimede_2015_biennio#q13|src_archimede_2015_biennio__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -597,8 +571,6 @@ Maximum percentage of palm oil from the order of ingredients
 > - **(C)** 240
 > - **(D)** 200
 > - **(E)** 270
-
-[[Quesiti/src_archimede_2015_biennio#q14|src_archimede_2015_biennio__Q14]]
 
 
 
@@ -684,8 +656,6 @@ Maximum percentage of palm oil from the order of ingredients
 > - **(D)** 20
 > - **(E)** 15
 
-[[Quesiti/src_archimede_2015_biennio#q15|src_archimede_2015_biennio__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,method_grafi"></span>
@@ -726,5 +696,3 @@ Maximum percentage of palm oil from the order of ingredients
 > - **(C)** 8
 > - **(D)** 17
 > - **(E)** 12 T2 Italian Mathematical Union PROJECT OLIMPIADI OF MATHEMATICS Ministry of Education, University and Research Higher Normal School The Games of Archimedes - Gara Biennio 25 November 2015 • The test consists of 16 questions; each question is followed by five answers indicated by the letters (A), (B), (C), (D) and (E). • Only one of these answers is correct, the other four are wrong. Every correct answer is worth 5 points, every wrong answer is worth 0 points, every problem left unanswered is worth 1 point. • For each problem, you must transcribe the letter corresponding to the answer you think is correct in the grid below. Cancellations or corrections on the grid are not permitted. The use of any kind of calculator or communication tool shall not be permitted. The time you have to do the test is two hours. Good work and good fun! Name of the class: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
-
-[[Quesiti/src_archimede_2015_biennio#q16|src_archimede_2015_biennio__Q16]]

@@ -33,8 +33,6 @@ level: Olimpiade Polacca Round 2
 
 > Trovare tutti i polinomi reali $P(x)$ di grado 5 come $(x-1)^3 \mid P(x)+1$ e $(x+1)^3 \mid P(x)-1$.
 
-[[Quesiti/src_pol_1994_r2#q01|src_pol_1994_r2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima"></span>
@@ -59,8 +57,6 @@ level: Olimpiade Polacca Round 2
 *Dati i numeri positivi reali la cui somma è pari al loro prodotto, e i positivi b_i con a_i <= b_i, dimostrare che la somma di b_i è al massimo il loro prodotto.*
 
 > Lasciate che $a_1, \ldots, a_n$ siano numeri reali positivi come $\sum_{i=1}^{n} a_i = \prod_{i=1}^{n} a_i$, e lasciate che $b_1, \ldots, b_n$ siano numeri reali positivi come $a_i \le b_i$ per tutti $i$. Prove che $\sum_{i=1}^{n} b_i \le \prod_{i=1}^{n} b_i$.
-
-[[Quesiti/src_pol_1994_r2#q02|src_pol_1994_r2__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: Olimpiade Polacca Round 2
 
 > Un piano che attraversa il centro di un cubo incrocia il cubo in un esagono ciclico. Mostrate che questo esagono è regolare.
 
-[[Quesiti/src_pol_1994_r2#q03|src_pol_1994_r2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_algebra,method_casework,method_invarianti,skill_casework_accurato,skill_conteggio_sistematico"></span>
@@ -113,8 +107,6 @@ level: Olimpiade Polacca Round 2
 *Ogni vertice di un cubo è assegnato 1 o -1, ognuno rivolto al prodotto dei suoi quattro vertici; trovare tutti i valori possibili della somma di tutti i 14 numeri.*
 
 > Ogni vertice di un cubo è assegnato $1$ o $-1$. A ciascuna faccia viene assegnato il prodotto dei quattro numeri al suo vertice. Determinare tutti i valori possibili che possono essere ottenuti come somma di tutti i numeri assegnati $14$.
-
-[[Quesiti/src_pol_1994_r2#q04|src_pol_1994_r2__Q04]]
 
 
 
@@ -141,8 +133,6 @@ level: Olimpiade Polacca Round 2
 
 > L'incircolo $o$ di un triangolo $ABC$ è tangente ai lati $AB$ e $BC$ rispettivamente a $P$ e $Q$. Il bisettore angolare a $A$ incontra $PQ$ al punto $S$. Provare $\angle ASC = 90^\circ$.
 
-[[Quesiti/src_pol_1994_r2#q05|src_pol_1994_r2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -167,5 +157,3 @@ level: Olimpiade Polacca Round 2
 Per un primo p, provare p divide alcuni n^2-n+3 se p divide alcuni m^2-m+25.
 
 > $p$ sia un numero primo. Dimostrare l'esistenza di $n \in \mathbb{Z}$ tale da $p \mid n^2 - n + 3$ se e solo se esiste $m \in \mathbb{Z}$ tale da $p \mid m^2 - m + 25$.
-
-[[Quesiti/src_pol_1994_r2#q06|src_pol_1994_r2__Q06]]

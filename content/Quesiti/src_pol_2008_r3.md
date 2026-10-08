@@ -34,8 +34,6 @@ level: Olimpiade Polacca Round 3
 
 > I numeri $1, 2, \ldots, n^2$ sono disposti nelle celle di una tabella $n \times n$ in modo tale che i numeri $1, \ldots, n$ siano nella prima riga (in questo ordine), $n+1, \ldots, 2n$ nella seconda, ecc. Scegliamo le celle $n$ della scheda, nessuna delle quali è nella stessa riga o colonna. Il numero $a_i$ deve essere il numero scelto nella riga $i$. Provare che $$\frac{1^2}{a_1} + \frac{2^2}{a_2} + \cdots + \frac{n^2}{a_n} \ge \frac{n+2}{2} - \frac{1}{n^2+1}.$$
 
-[[Quesiti/src_pol_2008_r3#q01|src_pol_2008_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_funzionali,topic_algebra,method_simmetria,method_telescoping,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
@@ -64,8 +62,6 @@ level: Olimpiade Polacca Round 3
 
 > Una funzione $f$ in tre variabili reali soddisfa per qualsiasi $a, b, c, d, e$ l'uguaglianza $$f(a,b,c) + f(b,c,d) + f(c,d,e) + f(d,e,a) + f(e,a,b) = a + b + c + d + e.$$ Prove che per qualsiasi numero reale $x_1, \ldots, x_n$ ($n \ge 5$) si ritiene che $$f(x_1,x_2,x_3) + f(x_2,x_3,x_4) + \cdots + f(x_n,x_1,x_2) = x_1 + x_2 + \cdots + x_n.$$
 
-[[Quesiti/src_pol_2008_r3#q02|src_pol_2008_r3__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -90,8 +86,6 @@ level: Olimpiade Polacca Round 3
 *In un ABCDE pentagonale convexo con condizioni di lato e angolo uguali, dimostrare che BCDE è un parallelo.*
 
 > Un pentagono convexo $ABCDE$ è tale che $BC = DE$, $\angle ABE = \angle CAB = \angle AED - 90^\circ$ e $\angle ACB = \angle ADE$. Provare che $BCDE$ è un parallelo.
-
-[[Quesiti/src_pol_2008_r3#q03|src_pol_2008_r3__Q03]]
 
 
 
@@ -118,8 +112,6 @@ level: Olimpiade Polacca Round 3
 
 > Ogni punto di un piano con coordinate interi è dipinto in bianco o nero. Mostrare che esiste un sottogruppo infinito e centralmente simmetrico di punti colorati i cui punti sono dello stesso colore.
 
-[[Quesiti/src_pol_2008_r3#q04|src_pol_2008_r3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -145,8 +137,6 @@ level: Olimpiade Polacca Round 3
 
 > Le superfici di tutte le sezioni di un parallelepiped $\mathscr{R}$ per piano, che attraversano i punti medi di tre bordi disgiunti e non paralleli in coppia, sono uguali. Indicare che $\mathscr{R}$ è un cuboide.
 
-[[Quesiti/src_pol_2008_r3#q05|src_pol_2008_r3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -171,5 +161,3 @@ level: Olimpiade Polacca Round 3
 *Per S = integri della forma a^2+5b^2 con coprimo a,b, e un primo p3 mod 4: se qualche multiplo di p è in S, dimostra che 2p è in S.*
 
 > $S$ sia l'insieme di integri positivi che possono essere scritti nella forma $a^2 + 5b^2$ per alcuni integri co-prime $a$ e $b$. Il modulo $p$ deve essere un primo congruente a $3$ modulo $4$. Prove che se qualche multiple integrale di $p$ appartiene a $S$, allora $2p$ appartiene anche a $S$.
-
-[[Quesiti/src_pol_2008_r3#q06|src_pol_2008_r3__Q06]]

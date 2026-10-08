@@ -36,7 +36,6 @@ level: China Mathematical Competition (First Round)
 > [Test paper A, problema 1] Supponiamo che la sequenza aritmetica $\{a_n\}$ soddisfi $a_{2021}=a_{20}+a_{21}=1$. Quindi il primo termine $a_1$ è ______.
 
 **Risposta:** a_1=\dfrac{1981}{4001}
-[[Quesiti/src_cn_cmc-first-round_2021#q01|src_cn_cmc-first-round_2021__Q01]]
 
 
 
@@ -67,7 +66,6 @@ level: China Mathematical Competition (First Round)
 > [Test paper A, problema 2] Data l'insieme $A=\{1,2,m\}$, $m$ è reale. Il modulo di calcolo deve essere il seguente: Se la somma di tutti gli elementi di $C$ è $6$, il prodotto di tutti gli elementi di $C$ è ______.
 
 **Risposta:** -8
-[[Quesiti/src_cn_cmc-first-round_2021#q02|src_cn_cmc-first-round_2021__Q02]]
 
 
 
@@ -98,7 +96,6 @@ level: China Mathematical Competition (First Round)
 > [Test Paper A, Problem 3] Supponiamo che la funzione $f(x)$ soddisfi: per qualsiasi numero reale non zero $x$, c'è $$f(x)=f(1)\cdot x+\frac{f(2)}{x}-1.$$ Quindi il minimo di $f(x)$ su $(0,+\infty)$ è ______.
 
 **Risposta:** \sqrt{3}-1
-[[Quesiti/src_cn_cmc-first-round_2021#q03|src_cn_cmc-first-round_2021__Q03]]
 
 
 
@@ -128,8 +125,7 @@ level: China Mathematical Competition (First Round)
 
 > [Test paper A, problema 4] Supponiamo $f(x)=\cos x+\log_2 x\ (x>0)$. Se un numero reale positivo $a$ soddisfa $f(a)=f(2a)$, il valore di $f(2a)-f(4a)$ è ______.
 
-**Risposta:** -3 \text{ or } -1
-[[Quesiti/src_cn_cmc-first-round_2021#q04|src_cn_cmc-first-round_2021__Q04]]
+**Risposta:** -3 \text{ oppure } -1
 
 
 
@@ -160,7 +156,6 @@ level: China Mathematical Competition (First Round)
 > [Test paper A, problema 5] In $\triangle ABC$, $AB=1$, $AC=2$, $B-C=\dfrac{2\pi}{3}$. Quindi la superficie di $\triangle ABC$ è ______.
 
 **Risposta:** \dfrac{5\sqrt{3}}{14}
-[[Quesiti/src_cn_cmc-first-round_2021#q05|src_cn_cmc-first-round_2021__Q05]]
 
 
 
@@ -188,8 +183,6 @@ level: China Mathematical Competition (First Round)
 *Parabola y^2=2px, la tangente passante per P incontra l'asse y in Q; dati |FP|=2,|FQ|=1 trova OP·OQ.*
 
 > [Paper di prova A, problema 6] In un sistema di coordinate rettangolare piatto $xOy$, il focus della parabola $\Gamma:y^2=2px\ (p>0)$ è $F$. Fare una linea tangente a $\Gamma$ che attraversa il punto $P$ (diverso da $O$) su $\Gamma$ e che incroci l'asse $y$ al punto $Q$. Se $|FP|=2$, $|FQ|=1$, allora il prodotto di punti dei vettori $\overrightarrow{OP}$ e $\overrightarrow{OQ}$ è ______.
-
-[[Quesiti/src_cn_cmc-first-round_2021#q06|src_cn_cmc-first-round_2021__Q06]]
 
 
 
@@ -220,7 +213,6 @@ level: China Mathematical Competition (First Round)
 > [Test Paper A, Problem 7] Un dado cubo pari viene lanciato tre volte, e i numeri rivolti verso l'alto sono $a_1,a_2,a_3$ in ordine. Quindi la probabilità di evento $|a_1-a_2|+|a_2-a_3|+|a_3-a_1|=6$ è ______.
 
 **Risposta:** \dfrac{1}{4}
-[[Quesiti/src_cn_cmc-first-round_2021#q07|src_cn_cmc-first-round_2021__Q07]]
 
 
 
@@ -248,8 +240,6 @@ level: China Mathematical Competition (First Round)
 *Contare le frazioni ridotte r=p/q in (0,1) con pq diviso 3600.*
 
 > [Test paper A, problema 8] Dato il numero razionale $r=\dfrac{p}{q}\in(0,1)$, $p,q$ sono integri positivi copriemi e $pq$ divide $3600$. Il numero di tali numeri razionali $r$ è ______.
-
-[[Quesiti/src_cn_cmc-first-round_2021#q08|src_cn_cmc-first-round_2021__Q08]]
 
 
 
@@ -280,7 +270,6 @@ level: China Mathematical Competition (First Round)
 > [Test Paper A, Problem 9] (16 punti) Lasciate che la sequenza complessa $\{z_n\}$ soddisfi $$z_1=\frac{\sqrt{3}}{2},\quad z_{n+1}=\overline{z_n}(1+z_n\mathrm{i})\quad(n=1,2,\ldots),$$ dove $\mathrm{i}$ è l'unità immaginaria. Trova il valore di $z_{2021}$.
 
 **Risposta:** z_{2021}=\dfrac{\sqrt{3}}{2}+\left(\dfrac{1}{2}+\dfrac{1}{2^{2^{2020}}}\right)\mathrm{i}
-[[Quesiti/src_cn_cmc-first-round_2021#q09|src_cn_cmc-first-round_2021__Q09]]
 
 
 
@@ -308,8 +297,6 @@ level: China Mathematical Competition (First Round)
 *Grafica y=(x+1)/(DagaxDagax+1) ha tre punti collineari con abcissa sum 0; intervallo di pendenza.*
 
 > [Test Paper A, Problem 10] (20 punti) Nel sistema di coordinate rettangolari a piano, il grafico della funzione $y=\dfrac{x+1}{|x|+1}$ ha tre punti diversi sulla linea $l$, e la somma delle abscisse di questi tre punti è $0$. Trova l'intervallo dei valori della pendenza di $l$.
-
-[[Quesiti/src_cn_cmc-first-round_2021#q10|src_cn_cmc-first-round_2021__Q10]]
 
 
 
@@ -344,7 +331,6 @@ level: China Mathematical Competition (First Round)
 ![[src_cn_cmc-first-round_2021__q11.png]]
 
 **Risposta:** \text{min } 3\sqrt{2}-3,\ \text{max } 3\sqrt{6}
-[[Quesiti/src_cn_cmc-first-round_2021#q11|src_cn_cmc-first-round_2021__Q11]]
 
 
 
@@ -375,7 +361,6 @@ level: China Mathematical Competition (First Round)
 > [Test Paper A1, Problema 1] Supponiamo che $A=\{1,2,3\}$, $B=\{2x+y\mid x,y\in A,\ x<y\}$, $C=\{2x+y\mid x,y\in A,\ x>y\}$. Quindi la somma di tutti gli elementi di $B\cap C$ è ______.
 
 **Risposta:** 12
-[[Quesiti/src_cn_cmc-first-round_2021#q12|src_cn_cmc-first-round_2021__Q12]]
 
 
 
@@ -406,7 +391,6 @@ level: China Mathematical Competition (First Round)
 > [Test Paper A1, Problema 2] Dato che i vettori $\vec{a}=(1+2^m,1-2^m)$, $\vec{b}=(4^m-3,4^m+5)$, supponiamo che $m$ sia reale. In questo caso il minimo del prodotto dotto $\vec{a}\cdot\vec{b}$ è ______.
 
 **Risposta:** -6
-[[Quesiti/src_cn_cmc-first-round_2021#q13|src_cn_cmc-first-round_2021__Q13]]
 
 
 
@@ -437,7 +421,6 @@ level: China Mathematical Competition (First Round)
 > [Test Paper A1, Problem 3] In $\triangle ABC$, $\tan A$ e $\tan B$ sono le due radici dell'equazione $x^2-10x+6=0$. Il valore di $\cos C$ è quindi ______.
 
 **Risposta:** \dfrac{\sqrt{5}}{5}
-[[Quesiti/src_cn_cmc-first-round_2021#q14|src_cn_cmc-first-round_2021__Q14]]
 
 
 
@@ -468,7 +451,6 @@ level: China Mathematical Competition (First Round)
 > [Test Paper A1, Problem 4] Nel sistema di coordinate rettangolari a piano, data l'iperbola $\Gamma:\dfrac{x^2}{a^2}-\dfrac{y^2}{b^2}=1\ (a,b>0)$, una linea con angolo di inclinazione $\dfrac{\pi}{4}$ passa attraverso un vertice di $\Gamma$ e un altro punto $(2,3)$ su di essa. Quindi l'escentricità di $\Gamma$ è ______.
 
 **Risposta:** 2
-[[Quesiti/src_cn_cmc-first-round_2021#q15|src_cn_cmc-first-round_2021__Q15]]
 
 
 
@@ -499,7 +481,6 @@ level: China Mathematical Competition (First Round)
 > [Paper di prova A1, problema 5] Lasciate che la sequenza $\{a_n\}$ soddisfi $a_1=1$, $a_n=\dfrac{1}{4a_{n-1}}+\dfrac{1}{n}\ (n\ge 2)$. Quindi il valore di $a_{100}$ è ______.
 
 **Risposta:** \dfrac{101}{200}
-[[Quesiti/src_cn_cmc-first-round_2021#q16|src_cn_cmc-first-round_2021__Q16]]
 
 
 
@@ -530,7 +511,6 @@ level: China Mathematical Competition (First Round)
 > [Paper di prova A1, problema 6] La lunghezza laterale della base e l'altezza della piramide regolare $P-ABCD$ siano uguali. Il punto $G$ è il centroide del viso $\triangle PBC$. Quindi il seno dell'angolo tra la linea $AG$ e la base $ABCD$ è ______.
 
 **Risposta:** \dfrac{\sqrt{38}}{19}
-[[Quesiti/src_cn_cmc-first-round_2021#q17|src_cn_cmc-first-round_2021__Q17]]
 
 
 
@@ -561,7 +541,6 @@ level: China Mathematical Competition (First Round)
 > [Test Paper A1, Problem 7] Si può dire che $a_1,a_2,\ldots,a_{21}$ sia una permutazione di $1,2,\ldots,21$, soddisfacendo $$|a_{20}-a_{21}|\ge|a_{19}-a_{21}|\ge|a_{18}-a_{21}|\ge\cdots\ge|a_1-a_{21}|.$$ Il numero di tali permutazioni è ______.
 
 **Risposta:** 3070
-[[Quesiti/src_cn_cmc-first-round_2021#q18|src_cn_cmc-first-round_2021__Q18]]
 
 
 
@@ -592,7 +571,6 @@ level: China Mathematical Competition (First Round)
 > [Paper di prova A1, problema 8] I numeri reali positivi $x,y$ soddisfano la seguente condizione: esistono $a\in[0,x]$, $b\in[0,y]$ in modo tale che $$a^2+y^2=2,\quad b^2+x^2=1,\quad ax+by=1.$$ Quindi il massimo di $x+y$ è ______.
 
 **Risposta:** \sqrt{5}
-[[Quesiti/src_cn_cmc-first-round_2021#q19|src_cn_cmc-first-round_2021__Q19]]
 
 
 
@@ -623,7 +601,6 @@ level: China Mathematical Competition (First Round)
 > [Paper di prova A1, problema 9] (16 punti) Data la funzione $f(x)=|2-\log_3 x|$, i numeri reali positivi $a,b,c$ soddisfano $a<b<c$ e $f(a)=2f(b)=2f(c)$. Trova il valore di $\dfrac{ac}{b}$.
 
 **Risposta:** 9
-[[Quesiti/src_cn_cmc-first-round_2021#q20|src_cn_cmc-first-round_2021__Q20]]
 
 
 
@@ -654,7 +631,6 @@ level: China Mathematical Competition (First Round)
 > [Test paper A1, problema 10] (20 punti) Supponiamo $a,b\in\mathbb{R}$. Se l'equazione $$(z^2+az+b)(z^2+az+2b)=0$$ circa $z$ ha quattro radici complesse reciprocamente diverse $z_1,z_2,z_3,z_4$ e i loro punti corrispondenti nel piano complesso sono esattamente quattro vertici di un quadrato con lunghezza laterale $1$, allora trovare il valore di $|z_1|+|z_2|+|z_3|+|z_4|$.
 
 **Risposta:** \sqrt{6}+2\sqrt{2}
-[[Quesiti/src_cn_cmc-first-round_2021#q21|src_cn_cmc-first-round_2021__Q21]]
 
 
 
@@ -685,7 +661,6 @@ level: China Mathematical Competition (First Round)
 > [Paper di prova A1, problema 11] (20 punti) In un sistema di coordinate rettangolare piano $xOy$, i foci sinistro e destro dell'ellisse $\Gamma:\dfrac{x^2}{2}+y^2=1$ sono rispettivamente $F_1,F_2$. Il $P$ deve essere un punto del $\Gamma$ nel primo quadrante e le estensioni di $PF_1$ e $PF_2$ si intersecano rispettivamente con $\Gamma$ nei punti $Q_1,Q_2$. Il $r_1,r_2$ deve essere il raggio di radii degli incircoli di $\triangle PF_1Q_2$ e $\triangle PF_2Q_1$, rispettivamente. Trova il massimo di $r_1-r_2$.
 
 **Risposta:** \dfrac{1}{3}
-[[Quesiti/src_cn_cmc-first-round_2021#q22|src_cn_cmc-first-round_2021__Q22]]
 
 
 
@@ -712,8 +687,6 @@ level: China Mathematical Competition (First Round)
 *A2-1: sequenza geometrica con a1-a2=3, a1-a3=2; rapporto comune.*
 
 > [Test Paper A2, Problema 1] Supponiamo che la sequenza geometrica $\{a_n\}$ soddisfi $a_1-a_2=3$, $a_1-a_3=2$. Quindi il rapporto comune di $\{a_n\}$ è ______.
-
-[[Quesiti/src_cn_cmc-first-round_2021#q23|src_cn_cmc-first-round_2021__Q23]]
 
 
 
@@ -744,7 +717,6 @@ level: China Mathematical Competition (First Round)
 > [Papero di prova A2, problema 2] Il massimo di $f(x)=2\sin^2 x-\tan^2 x$ è ______.
 
 **Risposta:** 3-2\sqrt{2}
-[[Quesiti/src_cn_cmc-first-round_2021#q24|src_cn_cmc-first-round_2021__Q24]]
 
 
 
@@ -775,7 +747,6 @@ level: China Mathematical Competition (First Round)
 > [Paper di prova A2, problema 3] I numeri complessi $z_1,z_2,\ldots,z_{100}$ soddisfano $z_1=3+2\mathrm{i}$, $z_{n+1}=\overline{z_n}\cdot\mathrm{i}^n\ (n=1,2,\ldots,99)$, con $\mathrm{i}$ come unità immaginaria. Il valore di $z_{99}+z_{100}$ è quindi ______.
 
 **Risposta:** -5+5\mathrm{i}
-[[Quesiti/src_cn_cmc-first-round_2021#q25|src_cn_cmc-first-round_2021__Q25]]
 
 
 
@@ -806,7 +777,6 @@ level: China Mathematical Competition (First Round)
 > [Paper di prova A2, problema 4] Selezionare a caso tre vertici tra i sei vertici di un esagono regolare con lunghezza laterale $1$. Quindi la probabilità che due dei tre vertici siano a una distanza di $\sqrt{3}$ è ______.
 
 **Risposta:** 1
-[[Quesiti/src_cn_cmc-first-round_2021#q26|src_cn_cmc-first-round_2021__Q26]]
 
 
 
@@ -837,7 +807,6 @@ level: China Mathematical Competition (First Round)
 > [Paper di prova A2, problema 5] I numeri complessi $z_1,z_2,\ldots,z_{100}$ soddisfano $z_1=3+2\mathrm{i}$, $z_{n+1}=\overline{z_n}\cdot\mathrm{i}^n\ (n=1,2,\ldots,99)$, con $\mathrm{i}$ come unità immaginaria. Il valore di $z_{99}+z_{100}$ è quindi ______.
 
 **Risposta:** -5+5\mathrm{i}
-[[Quesiti/src_cn_cmc-first-round_2021#q27|src_cn_cmc-first-round_2021__Q27]]
 
 
 
@@ -868,7 +837,6 @@ level: China Mathematical Competition (First Round)
 > La funzione $f(x)$ con dominio $\mathbb{R}$ soddisfa: quando $x\in[0,1)$, $f(x)=2^x-x$, e per qualsiasi numero reale $x$, c'è $f(x)+f(x+1)=1$. Denotare $a=\log_2 3$, e quindi il valore dell'espressione $f(a)+f(2a)+f(3a)$ è ______.
 
 **Risposta:** \dfrac{17}{16}
-[[Quesiti/src_cn_cmc-first-round_2021#q28|src_cn_cmc-first-round_2021__Q28]]
 
 
 
@@ -899,7 +867,6 @@ level: China Mathematical Competition (First Round)
 > [Test Paper A2, Problema 7] Supponiamo che l'insieme $S=\{1,2,3,\ldots,10\}$ e il sottogruppo $A$ di $S$ soddisfi $$A\cap\{1,2,3\}\ne\varnothing,\quad A\cup\{4,5,6\}\ne S.$$ Il numero di tali sottogruppi è di ______.
 
 **Risposta:** 888
-[[Quesiti/src_cn_cmc-first-round_2021#q29|src_cn_cmc-first-round_2021__Q29]]
 
 
 
@@ -928,8 +895,6 @@ level: China Mathematical Competition (First Round)
 
 > [Paper di prova A2, problema 8] In un sistema di coordinate rettangolare piano $xOy$, $\Gamma_1$ è un cerchio unitario centrato a $(2,1)$ e $\Gamma_2$ è un cerchio unitario centrato a $(10,11)$. Fare una linea $l$ attraverso l'origine $O$ in modo che $l$ abbia due intersezioni con ciascuna delle $\Gamma_1$ e $\Gamma_2$, dividendo $\Gamma_1$ e $\Gamma_2$ in quattro archi, e due di questi quattro archi sono di uguale lunghezza. La somma delle pendenti di tutte le linee $l$ che soddisfano le condizioni è di ______.
 
-[[Quesiti/src_cn_cmc-first-round_2021#q30|src_cn_cmc-first-round_2021__Q30]]
-
 
 
 <span class="atom-split" id="q31" data-atom="q31" data-title="Quesito 31" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -956,8 +921,6 @@ level: China Mathematical Competition (First Round)
 *A2-9: triangolo ABC con AB=1, AC=2, cos B + sin C = 1; trovare lunghezza di BC.*
 
 > [Paper di prova A2, problema 9] (16 punti) È noto che $\triangle ABC$ soddisfa $AB=1$, $AC=2$ e $\cos B+\sin C=1$. Trova la lunghezza del lato $BC$.
-
-[[Quesiti/src_cn_cmc-first-round_2021#q31|src_cn_cmc-first-round_2021__Q31]]
 
 
 
@@ -988,7 +951,6 @@ level: China Mathematical Competition (First Round)
 > [Test Paper A2, Problem 10] (20 marks) In un sistema di coordinate retangolare piano $xOy$, data l'ellisse $$\Gamma:\dfrac{x^2}{a^2}+\dfrac{y^2}{b^2}=1\quad(a>b>0),$$, $A$ sia uno dei vertici del suo asse maggiore, $B$ sia uno dei vertici del suo asse minore e $F$ sia uno dei suoi foci. È noto che esistono due punti $P$ e $Q$ su $\Gamma$ che sono simmetrici circa $O$ in modo tale che $$\overrightarrow{FP}\cdot\overrightarrow{FQ}+\overrightarrow{FA}\cdot\overrightarrow{FB}=|AB|^2.$$ (1) Prove che il punto focale $F$ si trova sull'estensione di $AO$; (2) trova l'intervallo di eccentricità di $\Gamma$.
 
 **Risposta:** e\in\left[\dfrac{3}{4},\dfrac{-1+\sqrt{37}}{6}\right]
-[[Quesiti/src_cn_cmc-first-round_2021#q32|src_cn_cmc-first-round_2021__Q32]]
 
 
 
@@ -1019,7 +981,6 @@ level: China Mathematical Competition (First Round)
 > [Test Paper A2, Problem 11] (20 marks) Let $a,b$ be real numbers and function $f(x)=x^3+ax^2+bx$. If there exist three real numbers $x_1,x_2,x_3$ satisfying $x_1+1\le x_2\le x_3-1$ and $f(x_1)=f(x_2)=f(x_3)$. Find the minimum of $|a|+2|b|$.
 
 **Risposta:** \sqrt{3}
-[[Quesiti/src_cn_cmc-first-round_2021#q33|src_cn_cmc-first-round_2021__Q33]]
 
 
 
@@ -1049,7 +1010,6 @@ level: China Mathematical Competition (First Round)
 > [Paper di prova B, problema 1] Data la sequenza aritmetica $\{a_n\}$ con differenza comune $d\ne 0$ e $a_{2021}=a_{20}+a_{21}$, il valore di $\dfrac{a_1}{d}$ è ______.
 
 **Risposta:** 1981
-[[Quesiti/src_cn_cmc-first-round_2021#q34|src_cn_cmc-first-round_2021__Q34]]
 
 
 
@@ -1079,7 +1039,6 @@ level: China Mathematical Competition (First Round)
 > [Test Paper B, Problem 2] Supponiamo che $m$ sia un numero reale, e numeri complessi $z_1=1+2\mathrm{i}$, $z_2=m+3\mathrm{i}$, dove $\mathrm{i}$ è l'unità immaginaria. Se $z_1\cdot\overline{z_2}$ è puramente immaginario, il valore di $|z_1+z_2|$ è ______.
 
 **Risposta:** 5\sqrt{2}
-[[Quesiti/src_cn_cmc-first-round_2021#q35|src_cn_cmc-first-round_2021__Q35]]
 
 
 
@@ -1110,7 +1069,6 @@ level: China Mathematical Competition (First Round)
 > [Test paper B, problema 3] L'intervallo di $y=\sin^2 x+\sqrt{3}\sin x\cos x$ quando $\dfrac{\pi}{4}\le x\le\dfrac{\pi}{2}$ è ______.
 
 **Risposta:** \left[1,\dfrac{3}{2}\right]
-[[Quesiti/src_cn_cmc-first-round_2021#q36|src_cn_cmc-first-round_2021__Q36]]
 
 
 
@@ -1140,7 +1098,6 @@ level: China Mathematical Competition (First Round)
 > [Test Paper B, Problema 4] Supponiamo che il dominio della funzione $f(x)$ sia $D=(-\infty,0)\cup(0,+\infty)$ e che ci sia $f(x)=\dfrac{f(1)\cdot x^2+f(2)\cdot x-1}{x}$ per qualsiasi $x\in D$. Quindi la somma di tutti gli zero di $f(x)$ è ______.
 
 **Risposta:** -4
-[[Quesiti/src_cn_cmc-first-round_2021#q37|src_cn_cmc-first-round_2021__Q37]]
 
 
 
@@ -1170,7 +1127,6 @@ level: China Mathematical Competition (First Round)
 > [Test paper B, problema 5] Supponiamo che $a,b,c>1$ e $(a^2 b)^{\log_a c}=a\cdot(ac)^{\log_a b}$ siano soddisfatti. Il valore di $\log_c(ab)$ è quindi ______.
 
 **Risposta:** 2
-[[Quesiti/src_cn_cmc-first-round_2021#q38|src_cn_cmc-first-round_2021__Q38]]
 
 
 
@@ -1201,7 +1157,6 @@ level: China Mathematical Competition (First Round)
 > [Test paper B, problema 6] In $\triangle ABC$, $AB=1$, $AC=2$ e $\cos B=2\sin C$. Quindi la lunghezza del lato $BC$ è ______.
 
 **Risposta:** \dfrac{\sqrt{2}+\sqrt{14}}{2}
-[[Quesiti/src_cn_cmc-first-round_2021#q39|src_cn_cmc-first-round_2021__Q39]]
 
 
 
@@ -1232,7 +1187,6 @@ level: China Mathematical Competition (First Round)
 > [Test Paper B, Problem 7] In un sistema di coordinate rettangolare piano $xOy$, il grafico della parabola $y=ax^2-3x+3\ (a\ne 0)$ e quello della parabola $y^2=2px\ (p>0)$ sono simmetrici rispetto alla linea $y=x+m$. Quindi il prodotto dei numeri reali $a,p,m$ è ______.
 
 **Risposta:** -3
-[[Quesiti/src_cn_cmc-first-round_2021#q40|src_cn_cmc-first-round_2021__Q40]]
 
 
 
@@ -1260,8 +1214,6 @@ level: China Mathematical Competition (First Round)
 *B-8: permutazione casuale di 1,10; probabilità che sia 9 che 12 appariscano tra i prodotti a_i a_{i+1}.*
 
 > [Test Paper B, Problema 8] $a_1,a_2,\ldots,a_{10}$ sia una permutazione casuale di $1,2,\ldots,10$. Quindi la probabilità che sia $9$ che $12$ appaiano nei numeri $9$ $a_1a_2,a_2a_3,\ldots,a_9a_{10}$ è ______.
-
-[[Quesiti/src_cn_cmc-first-round_2021#q41|src_cn_cmc-first-round_2021__Q41]]
 
 
 
@@ -1292,7 +1244,6 @@ level: China Mathematical Competition (First Round)
 > [Test paper B, problema 9] (16 punti) La sequenza $\{a_n\}$ soddisfa $a_1=a_2=a_3$. Se $\{b_n\}$ è una sequenza geometrica con rapporto comune $3$, trovare il valore di $a_{100}$.
 
 **Risposta:** a_{100}=\dfrac{3^{100}+10}{13}
-[[Quesiti/src_cn_cmc-first-round_2021#q42|src_cn_cmc-first-round_2021__Q42]]
 
 
 
@@ -1323,7 +1274,6 @@ level: China Mathematical Competition (First Round)
 > [Test Paper B, Problem 10] (20 marks) In un sistema di coordinate rettangolare piano $xOy$, il grafico della funzione $y=\dfrac{1}{|x|}$ è $\Gamma$. I punti $P,Q$ su $\Gamma$ devono soddisfare: $P$ è nel primo quadrante, $Q$ è nel secondo quadrante e la linea $PQ$ è tangente alla parte di $\Gamma$ nel secondo quadrante al punto $Q$. Trova il minimo di $|PQ|$.
 
 **Risposta:** 2
-[[Quesiti/src_cn_cmc-first-round_2021#q43|src_cn_cmc-first-round_2021__Q43]]
 
 
 
@@ -1351,8 +1301,6 @@ level: China Mathematical Competition (First Round)
 *B-11: piramide regolare P-A1A2...An, centro di base O, punto medio di A1An B; dimostrare una relazione e confrontare (1/n)ΣcosAiPB con sinα sinβ.*
 
 > [Test Paper B, Problem 11] (20 marks) Nella piramide regolare $P-A_1A_2\cdots A_n\ (n\ge 3)$, $O$ è il centro della base del poligono laterale $n$ e $B$ è il punto medio del bordo $A_1A_n$. (1) Prove che $PO^2\sin\dfrac{\pi}{n}+PA_1^2\cos^2\dfrac{\pi}{n}=PB^2$; (2) Per la piramide regolare $P-A_1A_2\cdots A_n$, l'angolo formato dal bordo laterale e dalla base sia $\alpha$ e l'angolo formato dalla faccia laterale e dalla base sia $\beta$. Provare a determinare la relazione di magnitudine tra $\dfrac{1}{n}\sum_{i=1}^{n}\cos\angle A_iPB$ e $\sin\alpha\sin\beta$, e poi provarlo.
-
-[[Quesiti/src_cn_cmc-first-round_2021#q44|src_cn_cmc-first-round_2021__Q44]]
 
 
 
@@ -1382,7 +1330,6 @@ level: China Mathematical Competition (First Round)
 > [Test Paper B1, Problema 1] Supponiamo che $f(x)$ sia una funzione strana con dominio $\mathbb{R}$. Se $f(1)=2$, $f(2)=3$, allora il valore di $f(f(-1))$ è ______.
 
 **Risposta:** -3
-[[Quesiti/src_cn_cmc-first-round_2021#q45|src_cn_cmc-first-round_2021__Q45]]
 
 
 
@@ -1412,7 +1359,6 @@ level: China Mathematical Competition (First Round)
 > [Test Paper B1, Problema 2] $m$ sia un numero reale. Se le parti reali e immaginarie del complesso $z=1+\mathrm{i}+\dfrac{m}{1+\mathrm{i}}$, con $\mathrm{i}$ l'unità immaginaria, sono superiori a zero, allora l'intervallo di $m$ è ______.
 
 **Risposta:** -2<m<2
-[[Quesiti/src_cn_cmc-first-round_2021#q46|src_cn_cmc-first-round_2021__Q46]]
 
 
 
@@ -1443,7 +1389,6 @@ level: China Mathematical Competition (First Round)
 > [Paper di prova B1, problema 3] Supponiamo $A=\{1,2,3\}$, $B=\{4x-y\mid x,y\in A\}$, $C=\{4x+y\mid x,y\in A\}$. Quindi la somma di tutti gli elementi di $B\cap C$ è ______.
 
 **Risposta:** 18
-[[Quesiti/src_cn_cmc-first-round_2021#q47|src_cn_cmc-first-round_2021__Q47]]
 
 
 
@@ -1474,7 +1419,6 @@ level: China Mathematical Competition (First Round)
 > [Paper di prova B1, problema 4] In un sistema di coordinate rettangolare piano $xOy$, data la parabola $\Gamma:y^2=2px\ (p>0)$, una linea con angolo di inclinazione $\dfrac{\pi}{4}$ si interseca con $\Gamma$ al punto $P(3,2)$ e con un altro punto $Q$. Quindi la superficie di $\triangle OPQ$ è ______.
 
 **Risposta:** \dfrac{4}{3}
-[[Quesiti/src_cn_cmc-first-round_2021#q48|src_cn_cmc-first-round_2021__Q48]]
 
 
 
@@ -1505,7 +1449,6 @@ level: China Mathematical Competition (First Round)
 > La sequenza $\{a_n\}$ soddisfa $a_1=2$ e $a_{n+1}=(n+1)a_n-n$, $n=1,2,\ldots$. Quindi la formula del termine generale di $\{a_n\}$ è ______.
 
 **Risposta:** a_n=n!+1
-[[Quesiti/src_cn_cmc-first-round_2021#q49|src_cn_cmc-first-round_2021__Q49]]
 
 
 
@@ -1536,7 +1479,6 @@ level: China Mathematical Competition (First Round)
 > [Paper di prova B1, problema 6] Nella piramide quadrata destra $P-ABCD$, il punto $G$ è il centroide della faccia laterale $\triangle PBC$. $V_1,V_2$ siano rispettivamente i volumi dei tetraedri $PABG$ e $PADG$. In questo caso il valore di $\dfrac{V_1}{V_2}$ è ______.
 
 **Risposta:** \dfrac{1}{2}
-[[Quesiti/src_cn_cmc-first-round_2021#q50|src_cn_cmc-first-round_2021__Q50]]
 
 
 
@@ -1567,7 +1509,6 @@ level: China Mathematical Competition (First Round)
 > [Test Paper B1, problema 7] Supponiamo $\alpha,\beta\ge 0$, $\alpha+\beta\le 2\pi$. Il minimo di $\sin\alpha+2\cos\beta$ è quindi ______.
 
 **Risposta:** \sqrt{5}
-[[Quesiti/src_cn_cmc-first-round_2021#q51|src_cn_cmc-first-round_2021__Q51]]
 
 
 
@@ -1598,7 +1539,6 @@ level: China Mathematical Competition (First Round)
 > [Test Paper B1, Problema 8] Che $a_1,a_2,\ldots,a_{21}$ sia una permutazione di $1,2,\ldots,21$, soddisfacendo $$|a_{20}-a_{21}|\ge|a_{19}-a_{21}|\ge|a_{18}-a_{21}|\ge\cdots\ge|a_1-a_{21}|.$$ Il numero di tali permutazioni è ______.
 
 **Risposta:** 3070
-[[Quesiti/src_cn_cmc-first-round_2021#q52|src_cn_cmc-first-round_2021__Q52]]
 
 
 
@@ -1629,7 +1569,6 @@ level: China Mathematical Competition (First Round)
 > [Test Paper B1, Problem 9] (16 marks) Supponiamo che l'angolo incluso tra i vettori non zero $\vec{a}$ e $\vec{b}$ nel piano sia $\dfrac{\pi}{3}$. Se $|\vec{a}|,|\vec{b}|,|\vec{a}+\vec{b}|$ forma una sequenza aritmetica in ordine, trova il valore di $|\vec{a}|:|\vec{b}|:|\vec{a}+\vec{b}|$.
 
 **Risposta:** 3:5:7
-[[Quesiti/src_cn_cmc-first-round_2021#q53|src_cn_cmc-first-round_2021__Q53]]
 
 
 
@@ -1660,7 +1599,6 @@ level: China Mathematical Competition (First Round)
 > [Paper di prova B1, problema 10] (20 punti) Data la funzione $f(x)=|2-\log_3 x|$, i numeri reali positivi $a,b,c$ soddisfano $a<b<c$ e $f(a)=2f(b)=2f(c)$. Trova il minimo di $\dfrac{ac}{b}$.
 
 **Risposta:** 9
-[[Quesiti/src_cn_cmc-first-round_2021#q54|src_cn_cmc-first-round_2021__Q54]]
 
 
 
@@ -1691,4 +1629,3 @@ level: China Mathematical Competition (First Round)
 > [Paper di prova B1, problema 11] (20 punti) In un sistema di coordinate rettangolare piano $xOy$, i foci sinistro e destro dell'ellisse $\Gamma:\dfrac{x^2}{2}+y^2=1$ sono rispettivamente $F_1,F_2$. Il $P$ deve essere un punto sul $\Gamma$ nel primo quadrante e le estensioni di $PF_1$, $PF_2$ si intersecano $\Gamma$ rispettivamente nei punti $Q_1(x_1,y_1)$ e $Q_2(x_2,y_2)$. Trova il massimo di $y_1-y_2$.
 
 **Risposta:** \dfrac{2\sqrt{2}}{3}
-[[Quesiti/src_cn_cmc-first-round_2021#q55|src_cn_cmc-first-round_2021__Q55]]

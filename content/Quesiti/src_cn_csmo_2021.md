@@ -36,8 +36,6 @@ level: China Southeastern Mathematical Olympiad
 
 > Let $\{a_n\}$ essere una sequenza di numeri reali positivi come $a_1 = \frac{1}{2}$, e per $n \ge 2$, $$a_n^2(a_{n-1}+1) + a_{n-1}^2(a_n+1) - 2a_{n-1}a_n(a_{n-1}+a_n+1) = 0.$$ (1) Trovare $a_n$ per $n \ge 1$. (2) Let $S_n = \sum_{i=1}^n a_i$. Mostra che $\ln\!\left(\frac{n}{2}+1\right) < S_n < \ln(n+1)$.
 
-[[Quesiti/src_cn_csmo_2021#q01|src_cn_csmo_2021__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -62,8 +60,6 @@ level: China Southeastern Mathematical Olympiad
 *Triangolo con AB=BC; dimostrare che l'ortocentro è incentro del triangolo correlato*
 
 > In $\triangle ABC$, $AB = BC$. $O$ e $H$ siano rispettivamente il circondario e l'ortocentro di $\triangle ABC$. $G$ sia il punto medio di $AH$ e $BE$ sia l'altitudine da $B$ a $AC$. Prove che se $OE \parallel BC$, allora $H$ è l'incentro di $\triangle GBC$.
-
-[[Quesiti/src_cn_csmo_2021#q02|src_cn_csmo_2021__Q02]]
 
 
 
@@ -92,8 +88,6 @@ level: China Southeastern Mathematical Olympiad
 
 > Se si dà un primo pari $p$ e una sequenza di numeri interi $\{a_n\}$, $n \ge 0$. Definire la sequenza $$v_n = \sum_{i=0}^n \binom{n}{i} p^i a_i, \quad n \ge 1.$$ Prova: se ci sono infiniti valori di $n$ come $v_n = 0$, allora $v_n = 0$ per tutti $n \ge 0$.
 
-[[Quesiti/src_cn_csmo_2021#q03|src_cn_csmo_2021__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,method_induzione,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_modellizzazione"></span>
@@ -121,8 +115,6 @@ level: China Southeastern Mathematical Olympiad
 
 > Ci sono punti $n \ge 5$, etichettati $1, 2, \ldots, n$, disposti arbitrariamente su un cerchio. Chiamiamo tale disposizione una permutazione $S$. Per una permutazione $S$, una "catena discendente" è una sequenza in senso orario di punti consecutivi (almeno due) con etichette discendenti che non è una sottocatena di una sequenza più lunga; il "pivot" di una catena discendente è il punto con la più grande etichetta e tutti gli altri punti sono "non pivot". Ad esempio, la permutazione nel senso orario $5, 2, 4, 1, 3$ contiene due catene discendenti $5, 2$ e $4, 1$, dove $5, 4$ sono pivot e $2, 1$ non pivot. Applicare le seguenti operazioni su $S$: prima, trovare tutte le catene discendenti di $S$ e cancellare tutte le catene non pivotanti; poi, se rimane più di un punto, ripetere la ricerca delle catene discendenti e la cancellazione delle catene non pivotanti, e così via, finché non rimane nessuna catena discendente. $G(S)$ sia il numero totale di catene discendenti apparse durante l'intero processo e $A(n)$ sia la media di $G(S)$ su tutte le permutazioni $S$ di $1, 2, \ldots, n$. (1) Trova $A(5)$. (2) Per $n \ge 6$, dimostrare che $\frac{83}{120} + \frac{n-1}{2} \le A(n) \le \frac{101}{120} + \frac{n-1}{2}$.
 
-[[Quesiti/src_cn_csmo_2021#q04|src_cn_csmo_2021__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -149,8 +141,6 @@ level: China Southeastern Mathematical Olympiad
 *Arrangere i numeri interi 2021 su una linea/circolo con divisibilità consecutiva-43; contare le sequenze valide*
 
 > Per celebrare il 43° anniversario del ripristino delle competizioni matematiche, un amante della matematica organizza i primi interi $2021$ positivi $1, 2, \ldots, 2021$ in una sequenza $\{a_n\}$, in modo tale che qualsiasi numero consecutivo $43$ si somma a un multiple di $43$. (1) Prova che se le due estremità di $\{a_n\}$ sono unite per formare un cerchio, allora tutti i numeri consecutivi $43$ sul cerchio si sommano anche a un multiple di $43$. (2) Determinare il numero di tutte queste sequenze $\{a_n\}$.
-
-[[Quesiti/src_cn_csmo_2021#q05|src_cn_csmo_2021__Q05]]
 
 
 
@@ -181,8 +171,6 @@ level: China Southeastern Mathematical Olympiad
 
 ![[src_cn_csmo_2021__q06.png]]
 
-[[Quesiti/src_cn_csmo_2021#q06|src_cn_csmo_2021__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_disuguaglianze,method_disuguaglianze,method_casework,skill_manipolazione_algebrica,skill_stima"></span>
@@ -208,8 +196,6 @@ level: China Southeastern Mathematical Olympiad
 *Prove le disuguaglianze relative all'espressione razionale simmetrica alle reciprocità delle differenze*
 
 > Che i valori $a, b, c$ siano positivi reali distinti. Provare che $$\frac{ab+bc+ca}{(a+b)(b+c)(c+a)} < \frac{1}{7}\left(\frac{1}{|a-b|}+\frac{1}{|b-c|}+\frac{1}{|c-a|}\right).$$
-
-[[Quesiti/src_cn_csmo_2021#q07|src_cn_csmo_2021__Q07]]
 
 
 
@@ -240,7 +226,6 @@ level: China Southeastern Mathematical Olympiad
 > Trova tutte le coppie di integri positivi $(a, b)$ con $a, b > 1$, in modo che $$14\varphi^2(a) - \varphi(ab) + 22\varphi^2(b) = a^2 + b^2,$$, dove $\varphi(n)$ rappresenta il numero di integri positivi inferiori a $n$ e relativamente prime a $n$.
 
 **Risposta:** $(a,b)=(30,6)$
-[[Quesiti/src_cn_csmo_2021#q08|src_cn_csmo_2021__Q08]]
 
 
 
@@ -271,7 +256,6 @@ level: China Southeastern Mathematical Olympiad
 > $p \ge 5$ sia un numero primo, $M = \{1, 2, \ldots, p-1\}$. Definire $$T = \{(n, x_n) : p \mid (nx_n - 1) \text{ with } n, x_n \in M\}.$$ Trovare il residuo minimo non negativo del modulo $\displaystyle\sum_{(n,x_n)\in T} n\left[\frac{nx_n}{p}\right]$ $p$, dove $[x]$ indica il numero intero più grande inferiore o uguale a $x$.
 
 **Risposta:** $\frac{p-1}{2}$
-[[Quesiti/src_cn_csmo_2021#q09|src_cn_csmo_2021__Q09]]
 
 
 
@@ -299,8 +283,6 @@ level: China Southeastern Mathematical Olympiad
 
 > Date $a, b, c \ge 0$ con $a^2 + b^2 + c^2 \le 1$. Prova: $$\frac{a}{a^2+bc+1}+\frac{b}{b^2+ca+1}+\frac{c}{c^2+ab+1}+3abc < \sqrt{3}.$$
 
-[[Quesiti/src_cn_csmo_2021#q10|src_cn_csmo_2021__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_congruenze,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -327,8 +309,6 @@ level: China Southeastern Mathematical Olympiad
 *Nomeri del Toro: determinare se il 2021 è qualificato; trovare il conteggio f(n) tra 1..n*
 
 > Per un intero positivo $k$, se è possibile rimuovere un numero da $M_k = \{1, 2, \ldots, k\}$ in modo tale che la somma dei numeri $k-1$ rimanenti sia un quadrato perfetto, allora $k$ viene chiamato un "numero Tauro". Ad esempio, $7$ è un numero di Toro, poiché rimuovere $3$ da $\{1,2,3,4,5,6,7\}$ dà la somma $1+2+4+5+6+7 = 5^2$. (1) Determinare con ragionamento se $2021$ sia un numero di Toro. (2) Trova $f(n)$ (in termini di $n$), il numero di numeri di Toro tra $1, 2, \ldots, n$.
-
-[[Quesiti/src_cn_csmo_2021#q11|src_cn_csmo_2021__Q11]]
 
 
 
@@ -359,7 +339,6 @@ level: China Southeastern Mathematical Olympiad
 > $A = \{a_1, a_2, \ldots, a_n, b_1, b_2, \ldots, b_n\}$ deve essere impostato come $2n$ e $B_1, B_2, \ldots, B_m \subseteq A$. Se $\bigcup_{i=1}^m B_i = A$, il doppio ordinato $m$-$(B_1, B_2, \ldots, B_m)$ si chiama copertura ordinata $m$ di $A$. Per un $m$ ordinato che copre $(B_1, B_2, \ldots, B_m)$, se nessun set $B_i$ contiene sia $a_i$ che $b_i$ (per lo stesso indice $i = 1, 2, \ldots, n$), allora è chiamato un "non corrispondente ordinato $m$ di $A$. $k(n,m)$ indichi il numero di coperture ordinate $m$ di $A$ e $a(n,m)$ il numero di coperture ordinate $m$ che non corrispondono. (1) Trova $a(n,m)$ e $k(n,m)$. (2) Per gli integri $m \ge 2$ e $n \ge 1$, supponiamo $\frac{a(n,m)}{k(n,m)} \le \frac{1}{2021}$. Trova il più grande valore possibile di $m$.
 
 **Risposta:** $m=26$
-[[Quesiti/src_cn_csmo_2021#q12|src_cn_csmo_2021__Q12]]
 
 
 
@@ -390,8 +369,6 @@ level: China Southeastern Mathematical Olympiad
 
 ![[src_cn_csmo_2021__q13.png]]
 
-[[Quesiti/src_cn_csmo_2021#q13|src_cn_csmo_2021__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -421,7 +398,6 @@ level: China Southeastern Mathematical Olympiad
 > Trova tutte le coppie di integri unici $(a, b)$ con $a, b > 1$, in modo tale che $$7\varphi^2(a) - \varphi(ab) + 11\varphi^2(b) = b^2,$$ dove $\varphi(n)$ rappresenta il numero di integri positivi inferiori a $n$ e relativamente primi a $n$.
 
 **Risposta:** $(a,b)=(15,3)$
-[[Quesiti/src_cn_csmo_2021#q14|src_cn_csmo_2021__Q14]]
 
 
 
@@ -452,4 +428,3 @@ level: China Southeastern Mathematical Olympiad
 > La sequenza di numeri interi $\{z_i\}$ soddisfa: per ogni $i = 1, 2, \ldots$, $z_i \in \{0, 1, \ldots, 9\}$ e $z_i + z_{i+1} \equiv 0 \pmod{10}$. Supponiamo che ci siano $2021$ numeri reali non negativi $x_1, x_2, \ldots, x_{2021}$ che soddisfano $x_i \ge \frac{10-i}{50}$ per tutti $i$, in modo tale che per $k = 1, 2, \ldots, 2021$, $$\sum_{i=1}^k x_i \ge \sum_{i=1}^k \frac{10-i}{50} - z_k.$$ Trovare il minimo valore possibile di $G = \sum_{i=1}^{2021} x_i^2$.
 
 **Risposta:** $46399.4$
-[[Quesiti/src_cn_csmo_2021#q15|src_cn_csmo_2021__Q15]]

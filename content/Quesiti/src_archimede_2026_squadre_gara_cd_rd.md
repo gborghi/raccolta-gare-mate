@@ -31,8 +31,6 @@ level: squadre
 
 > Ludovico is a good shooter and, with every attempt, has a certain chance of hitting the target. Determine the value of $1000p$, knowing that, in three attempts, the probability that Ludovico hits the target at least once is $0{,}992$.
 
-[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q01|src_archimede_2026_squadre_gara_cd_rd__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
@@ -58,8 +56,6 @@ level: squadre
 
 > Given the positive integer $n$, we call $P_n(x) = (3 - 2x - 3x^2)^n$ the polynomial and with $G_n$ the sum of all the coefficients of the degree terms equal to $P_n(x)$, including the known term. For example, $P_2(x) = (3 - 2x - 3x^2)^2 = 9 - 12x - 14x^2 + 12x^3 + 9x^4$ and $G_2 = 9 - 14 + 9 = 4$. Determine the value of $G_{21}$.
 
-[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q02|src_archimede_2026_squadre_gara_cd_rd__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -83,8 +79,6 @@ level: squadre
 *Around area excluding four inner tangent circles*
 
 > A $C$ circle of centre $O$ and diameter $AB = 6\text{ cm}$ shall be considered, and the two circles of diameter $AO$ and $OB$ shall be $C_1$ and $C_2$. In addition, $C_3$ and $C_4$ are the two tangent circles to all three of the circles $C$, $C_1$ and $C_2$. Calculate the area of the part of $C$, in $\text{mm}^2$, which does not belong to any of the circles $C_1$, $C_2$, $C_3$, $C_4$.
-
-[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q03|src_archimede_2026_squadre_gara_cd_rd__Q03]]
 
 
 
@@ -110,8 +104,6 @@ level: squadre
 
 > They are $x$ and $y$ positive real numbers with $xy = 5$. What is the minimum value that $(x + y)^2$ can take?
 
-[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q04|src_archimede_2026_squadre_gara_cd_rd__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -135,8 +127,6 @@ level: squadre
 *PCQ angle magnification with inscribed circle projection*
 
 > Consider a rectangular triangle $ABC$ and be $PQ$ the projection, on the hypotenuse $AB$, of the circle inscribed in the triangle. Determine the angle width $P\hat{C}Q$.
-
-[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q05|src_archimede_2026_squadre_gara_cd_rd__Q05]]
 
 
 
@@ -163,8 +153,6 @@ level: squadre
 
 > How many sequences can all eight digits $1, 1, 2, 2, 3, 3, 4, 4$ be arranged so that, in the middle of each pair of equal digits, no lower value figure appears than those two digits? For example, two of the allowed sequences are $3\;3\;4\;4\;1\;2\;2\;1$ and $1\;2\;4\;4\;2\;1\;3\;3$.
 
-[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q06|src_archimede_2026_squadre_gara_cd_rd__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_congruenze"></span>
@@ -188,8 +176,6 @@ level: squadre
 *sum n in 1400-1500 with n+2 div 6 and n-5 div 7*
 
 > Determine the sum of all $n$ numbers between $1400$ and $1500$ such that $n + 2$ is divisible by $6$ and $n - 5$ is divisible by $7$.
-
-[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q07|src_archimede_2026_squadre_gara_cd_rd__Q07]]
 
 
 
@@ -215,8 +201,6 @@ level: squadre
 
 > If $5$ points are chosen (not necessarily distinct) over a segment of length $3$, what is the maximum value of the sum of the distances between all possible pairs of points taken between these $5$?
 
-[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q08|src_archimede_2026_squadre_gara_cd_rd__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
@@ -241,5 +225,3 @@ level: squadre
 *Minimum x^2 equilateral triangle containing square by rotating*
 
 > The bearing centre of an equilateral triangle on the side $x$ is impregnated in the centre of a square on the side $1$. Determine the minimum value of $x^2$ so that, by rotating the triangle of $360°$ around the centre, the square always remains entirely contained in the triangle.
-
-[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q09|src_archimede_2026_squadre_gara_cd_rd__Q09]]

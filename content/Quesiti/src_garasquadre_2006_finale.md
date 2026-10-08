@@ -37,7 +37,6 @@ level: squadre
 > How many different ways do our heroes have to color the prism?
 
 **Answer:** 0793
-[[Quesiti/src_garasquadre_2006_finale#q01|src_garasquadre_2006_finale__Q01]]
 
 
 
@@ -68,7 +67,6 @@ level: squadre
 > Before she begins to color, the conscientious Hermit realizes that the yellow is almost gone, and the three are then forced to use it for one of the square faces. How many different ways are there left to color the prism? Write the answer (1) in the first two digits and the answer (2) in the last two.
 
 **Answer:** 0052
-[[Quesiti/src_garasquadre_2006_finale#q02|src_garasquadre_2006_finale__Q02]]
 
 
 
@@ -99,7 +97,6 @@ level: squadre
 > 3. A number whose sum of digits is 9. Verticals: 3
 
 **Answer:** 0015
-[[Quesiti/src_garasquadre_2006_finale#q03|src_garasquadre_2006_finale__Q03]]
 
 
 
@@ -127,7 +124,6 @@ level: squadre
 > 4. Sneaky seducer Ron has discovered the other half of the sky, the girls! His passion is the most beautiful of the school of mathematicians. The number of Chiara's chamber `e is equal to the coefficient of the term x2006 of the polynomial (1 + x) 2(1 + x2) 1 + x4) 1 + x8) 3(1 + x16) 1 + x32) 4(1 + x64) 1 + x128) 1 + x256) 1 + x512) 1 + x1024. Which room in Righecompasso's house is Ron supposed to go into? Team competition 2006  National final  Problem texts  Pag. 1 of 4 Pag. 2 out of 4  Team competition 2006  National final  Problem texts
 
 **Answer:** 0064
-[[Quesiti/src_garasquadre_2006_finale#q04|src_garasquadre_2006_finale__Q04]]
 
 
 
@@ -155,7 +151,6 @@ level: squadre
 > 5. During the potion lesson, Hardy and his friend Ron Perelman have to choose two of the 36 ingredients available and mix them in hopes of getting a potion with some properties. Their friend Hermita told him that if the first two ingredients don't work, he should try two more (changing them both): it can happen that even then he gets nothing, but then  assures him  by mixing an ingredient from each pair (in any way) you will necessarily get a useful potion. How many combinations of at least two ingredients make a potion useful?
 
 **Answer:** 0594
-[[Quesiti/src_garasquadre_2006_finale#q05|src_garasquadre_2006_finale__Q05]]
 
 
 
@@ -183,7 +178,6 @@ level: squadre
 > 6. Fracto Malpoysto is a fraudulent expeditionary who hates to lose! He then decides to make up a common dice with a spell, which is based on the eight magic numbers of the dice. These are obtained, starting from each of the vertices, by adding up the numbers written on the three faces that compete. Witchcraft consists of placing the numbers 1 to 6 on the sides of the dice so that the difference between the maximum and minimum magic number is as small as possible. Find the layout, and you're going to put in each of the four digits, orderly from left to right, the number that's opposite to 1, the number that's opposite to 2, then 3 and finally 4.
 
 **Answer:** 2143
-[[Quesiti/src_garasquadre_2006_finale#q06|src_garasquadre_2006_finale__Q06]]
 
 
 
@@ -211,7 +205,6 @@ level: squadre
 > 7. Magical power As even learned mathematicians know, the power of a spell is reinforced by repeating its formula. Calculating power, however, is not easy. Either f (n) the square of the sum of the digits of n. It is then $f^{(2)}$(n) = f(f(n)), $f^{(3)}$(n) = f(f(n))) and so on. Find $f^{(2006)}$(11).
 
 **Answer:** 0169
-[[Quesiti/src_garasquadre_2006_finale#q07|src_garasquadre_2006_finale__Q07]]
 
 
 
@@ -239,7 +232,6 @@ level: squadre
 > 8. The ghost guarding the entrance to the house of Rapporteur, to which Hardy, Hermita and Ron belong, allows entry only to those who can solve easy mathematical questions. The ghost asks which is the smallest integer multiple of 73 such that its square has at least 63 divisors. What's the keyword?
 
 **Answer:** 1752
-[[Quesiti/src_garasquadre_2006_finale#q08|src_garasquadre_2006_finale__Q08]]
 
 
 
@@ -267,7 +259,6 @@ level: squadre
 > 9. In the lesson of geomatics, Hardy, Hermita and Ron have a group task: they have 6 different colours available and want to paint a prism on a square base (which has a height greater than the base frame) so that each colour is used for one and only one face.
 
 **Answer:** 9030
-[[Quesiti/src_garasquadre_2006_finale#q09|src_garasquadre_2006_finale__Q09]]
 
 
 
@@ -298,7 +289,6 @@ level: squadre
 > The plant of the castle The plant of the castle of Hortona, seat of the Higher Mathematical School, consists of the union of 6 circles of radius equal to 100, the centers of which are arranged on the vertices of a regular hexagon of side 100. What is the perimeter of the castle? The result is less than π (in other words, if for example the result is 10π, then the answer is 0010).
 
 **Answer:** 0400
-[[Quesiti/src_garasquadre_2006_finale#q10|src_garasquadre_2006_finale__Q10]]
 
 
 
@@ -336,7 +326,6 @@ level: squadre
 > Team competition 2006  National final  Problem texts  Pag. 3 di 4
 
 **Answer:** 9998
-[[Quesiti/src_garasquadre_2006_finale#q11|src_garasquadre_2006_finale__Q11]]
 
 
 
@@ -368,7 +357,6 @@ level: squadre
 > A pattern by Quamditch Hardy, the captain of the Quamditch team at the Reporter's House, instructs his teammates on a new game pattern he's worked out. If we consider in space the sum Q of points that have whole coordinates and are between 0 and 10 (included), how many cubes are there with the axes parallel to the Cartesian axis and with the vertices belonging to Q?
 
 **Answer:** 3025
-[[Quesiti/src_garasquadre_2006_finale#q12|src_garasquadre_2006_finale__Q12]]
 
 
 
@@ -399,7 +387,6 @@ level: squadre
 > At the divination lesson poor Ron was blindfolded and the divination teacher wrote a formula on the board. Knowing that in the expression only 2 digits and multiplication marks appear, and that the result has four digits and is the maximum possible, what should Ron answer?
 
 **Answer:** 9768
-[[Quesiti/src_garasquadre_2006_finale#q13|src_garasquadre_2006_finale__Q13]]
 
 
 
@@ -431,7 +418,6 @@ level: squadre
 > Defence against dark mathematics group lesson in the course of defence against dark mathematics! Twelve students, numbered S1, S2, respectively. . . , S12, are located at the vertices of a regular dodecagon. If the segments S1S6, S5S10 and S9S2 are plotted, four triangles are formed. Both A the area of the central triangle and B the sum of the areas of the other three. Calculate 1000A/B.
 
 **Answer:** 1000
-[[Quesiti/src_garasquadre_2006_finale#q14|src_garasquadre_2006_finale__Q14]]
 
 
 
@@ -470,7 +456,6 @@ This is the maximum value of the data set.
 > The brilliant Hermit is grappling with an extremely difficult spell, which aims to create a magic square (a square in which the sum of the numbers on each line, column and diagonal is the same value, called the mystical constant of the square). As you can see from the picture, sorcery is unfortunately still incomplete. What's the constant of the magic square? 33 31 28
 
 **Answer:** 0096
-[[Quesiti/src_garasquadre_2006_finale#q15|src_garasquadre_2006_finale__Q15]]
 
 
 
@@ -503,7 +488,6 @@ This is the maximum value of the data set.
 > Ambitious matriculation Higher Mathematical School students are assigned to their home country according to their mathematical attitudes. This year, in order to enter the House of Rapporteur, it was necessary to find the sum of all the positive rations which, reduced to the minimum terms, have the form of 30, and which are less than 10. What was the response of the student body?
 
 **Answer:** 0400
-[[Quesiti/src_garasquadre_2006_finale#q16|src_garasquadre_2006_finale__Q16]]
 
 
 
@@ -536,7 +520,6 @@ This is the maximum value of the data set.
 > A condemnation to be avoided The followers of the One-who-can-not-be-proved, fierce proponents of dark and contradictory mathematics, are on the verge! Even simple questions can reveal their distorted mathematical knowledge. For example, the judge asked how many positive integers strictly greater than 9 whose digits on base 10 are strictly increasing from left to right. What is the answer to avoid condemnation?
 
 **Answer:** 0502
-[[Quesiti/src_garasquadre_2006_finale#q17|src_garasquadre_2006_finale__Q17]]
 
 
 
@@ -567,7 +550,6 @@ This is the maximum value of the data set.
 > Graduates of the Higher Mathematical School are assigned to their home country according to their mathematical attitudes. This year, for example, in order to enter the house of Inclusion, it was necessary to know how many integers are equal, including between 4000 and 7000, all of which have different digits. What's the right answer?
 
 **Answer:** 0728
-[[Quesiti/src_garasquadre_2006_finale#q18|src_garasquadre_2006_finale__Q18]]
 
 
 
@@ -601,7 +583,6 @@ This is the maximum value of the data set.
 > Hardy, Hermita and Ron are going to class with Fracto Malpoysto. The four are randomly arranged in two rows of five seats each. Calculate the probability that everyone sees well, that is, that nobody has anyone else in front of them. Express the result as the sum of the numerator and denominator of the fraction reduced to minimum terms.
 
 **Answer:** 0029
-[[Quesiti/src_garasquadre_2006_finale#q19|src_garasquadre_2006_finale__Q19]]
 
 
 
@@ -646,4 +627,3 @@ This is the sum of the sum of the sums of the sums of the sums of the sums of th
 > Cesenatico Competition in teams 2 6 VII GARA NATIONAL A SQUADER National Final  SOLUTIONS  6 May 2006 No. The problem
 
 **Answer:** 0011
-[[Quesiti/src_garasquadre_2006_finale#q20|src_garasquadre_2006_finale__Q20]]

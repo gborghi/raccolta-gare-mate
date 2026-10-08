@@ -44,7 +44,6 @@ level: kangourou
 > E) 22055
 
 **Answer:** D
-[[Quesiti/src_kangourou_2005_benjamin#q01|src_kangourou_2005_benjamin__Q01]]
 
 
 
@@ -79,7 +78,6 @@ level: kangourou
 > Chiara picks an integer and multiplies it by 3: which of the following numbers can't be the result? A) 103 B) 105 C) 204 D) 444 E) 987
 
 **Answer:** A
-[[Quesiti/src_kangourou_2005_benjamin#q02|src_kangourou_2005_benjamin__Q02]]
 
 
 
@@ -119,7 +117,6 @@ level: kangourou
 > There are eight kangaroos in the boxes on the right. Find the minimum number of kangaroos you need to move to another box if you want every row and column of the table to contain exactly 2 kangaroos. A) 0 B) 1 C) 2 D) 3 E) 4
 
 **Answer:** C
-[[Quesiti/src_kangourou_2005_benjamin#q03|src_kangourou_2005_benjamin__Q03]]
 
 
 
@@ -154,7 +151,6 @@ level: kangourou
 > In a family there are three children: two boys and one girl. Their names start with the letters A, B and C. Between the letters A and B, exactly one is the initial of a boy's name and so is between the letters B and C. What letter does the girl's name begin with? A) A B) B C) C D) the data are insufficient E) the data contradict each other
 
 **Answer:** B
-[[Quesiti/src_kangourou_2005_benjamin#q04|src_kangourou_2005_benjamin__Q04]]
 
 
 
@@ -193,7 +189,6 @@ level: kangourou
 > The figure shows a cube with an edge of 12 cm. An ant moves on the surface of the cube from vertex A to vertex B along the trajectory shown in the figure. The length of the path taken by the ant is A) 40 cm B) 48 cm C) 50 cm D) 60 cm E) impossible to determine
 
 **Answer:** D
-[[Quesiti/src_kangourou_2005_benjamin#q05|src_kangourou_2005_benjamin__Q05]]
 
 
 
@@ -243,7 +238,6 @@ level: kangourou
 > E) You cannot calculate 2005% of a number, you can calculate at most 100%.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2005_benjamin#q06|src_kangourou_2005_benjamin__Q06]]
 
 
 
@@ -278,7 +272,6 @@ level: kangourou
 > At my birthday party, we were less than 10. We split up the chocolates: each of us had 12 and 8 were left over. How many were the chocolates? A) 116 B) 108 C) 188 D) 98 E) It is not possible to establish it without further information.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2005_benjamin#q07|src_kangourou_2005_benjamin__Q07]]
 
 
 
@@ -315,7 +308,6 @@ level: kangourou
 > A carpenter built a 250-centimeter-tall bookcase, but he placed the supports for the shelves on one side 20 cm apart from each other and on the other side 25 cm apart, always starting from the base. How many perfectly horizontal shelves can the library house, including the base? A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** C
-[[Quesiti/src_kangourou_2005_benjamin#q08|src_kangourou_2005_benjamin__Q08]]
 
 
 
@@ -352,7 +344,6 @@ level: kangourou
 > A certain beverage is prepared correctly if it is obtained by mixing 1 part syrup with 5 parts water. Alfonso mistakenly mixed 5 parts of syrup with 1 part of water, resulting in 3 liters of the mixture. By adding an appropriate amount of water, Alfonso can obtain a drink in which the established proportions are respected. How many liters of water does he need to add? A) 12 B) 12,5 C) 6,5 D) 30 E) 5
 
 **Answer:** A
-[[Quesiti/src_kangourou_2005_benjamin#q09|src_kangourou_2005_benjamin__Q09]]
 
 
 
@@ -390,7 +381,6 @@ Who's definitely involved in the theft?
 > There was a robbery in a warehouse and the thieves had to use a car to take away the loot. After investigating, the police concluded that the perpetrators should be found among Andrea, Bruno and Carlo. It is known that Andrea cannot drive and that Carlo only acts in the company of Bruno. Who's definitely involved in the theft? A) both Bruno and Carlo B) each of the three C) only Andrea D) only Bruno E) only Carlo Questions 11 to 20 are worth 4 points each.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2005_benjamin#q10|src_kangourou_2005_benjamin__Q10]]
 
 
 
@@ -498,7 +488,6 @@ Who's definitely involved in the theft?
 > Kang 2005
 
 **Answer:** C
-[[Quesiti/src_kangourou_2005_benjamin#q11|src_kangourou_2005_benjamin__Q11]]
 
 
 
@@ -534,7 +523,6 @@ Minimum locks to be opened for 50 coins
 > There are five suitcases in a trunk, each containing three drawers, each containing 10 gold coins. The trunk, suitcases and small boxes are all locked. What's the minimum number of locks you need to open to get 50 gold coins? A) 5 B) 6 C) 7 D) 8 E) 9
 
 **Answer:** D
-[[Quesiti/src_kangourou_2005_benjamin#q12|src_kangourou_2005_benjamin__Q12]]
 
 
 
@@ -576,7 +564,6 @@ Minimum locks to be opened for 50 coins
 > The figure shows 5 rectangles of equal size, each side of which is labelled with an integer. You have to arrange these rectangles, translating them parallel to themselves (i.e. without turning them or turning them over), in the positions from I to V indicated, so that the labels on the matching sides are the same. Which of the rectangles must you put in position I? A) A B) B C) C D) D E) E
 
 **Answer:** C
-[[Quesiti/src_kangourou_2005_benjamin#q13|src_kangourou_2005_benjamin__Q13]]
 
 
 
@@ -610,7 +597,6 @@ Minimum locks to be opened for 50 coins
 > If the sum of five consecutive integers greater than zero is 2005, the largest number is A) 401 B) 403 C) 404 D) 405 E) 2001
 
 **Answer:** B
-[[Quesiti/src_kangourou_2005_benjamin#q14|src_kangourou_2005_benjamin__Q14]]
 
 
 
@@ -645,7 +631,6 @@ Minimum locks to be opened for 50 coins
 > Only one of the following cubes admits the net shown on the right. Which one? A)                  B)                   C) D)                              E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2005_benjamin#q15|src_kangourou_2005_benjamin__Q15]]
 
 
 
@@ -718,7 +703,6 @@ Minimum locks to be opened for 50 coins
 > indicates which banknotes will be supplied to me by Bancomat if I request 585 euros? A) [10, 4, 0, 1] B) [10, 2, 4, 1] C) [11, 1, 1, 1] D) [11, 1, 0, 1] E) [11, 2, 0, 1]
 
 **Answer:** C
-[[Quesiti/src_kangourou_2005_benjamin#q16|src_kangourou_2005_benjamin__Q16]]
 
 
 
@@ -759,7 +743,6 @@ Minimum locks to be opened for 50 coins
 > The five circles in the figure have the same radius and the four outer circles are tangent to the inner circle as shown. The square connects the centers of the four outer circles. Then the ratio of the area of the shaded region of the five circles to the area of the unshaded region of the four outer circles is A) 1 : 3 B) 1 : 4 C) 2 : 5 D) 2 : 3 E) 5 : 4
 
 **Answer:** D
-[[Quesiti/src_kangourou_2005_benjamin#q17|src_kangourou_2005_benjamin__Q17]]
 
 
 
@@ -800,7 +783,6 @@ Minimum locks to be opened for 50 coins
 > How many different divisors (including 1 and 100) does the number 100 have? A) 3 B) 6 C) 7 D) 8 E) 9 19.All around a rectangular flowerbed there is an alleyway which is always the same width along the sides (see figure). The outer perimeter of the driveway is 16 m longer than the inner one. How wide is the driveway? A) 1 m B) 2 m C) 4 m D) 8 m E) depends on the dimensions of the flowerbed
 
 **Answer:** E
-[[Quesiti/src_kangourou_2005_benjamin#q18|src_kangourou_2005_benjamin__Q18]]
 
 
 
@@ -854,7 +836,6 @@ Minimum locks to be opened for 50 coins
 > 19. (B) The difference in length between each outer side and the corresponding inner side is 4 m, so the outer side at each of its ends protrudes by 2 m relative to the inner side; this is the width of the path.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2005_benjamin#q19|src_kangourou_2005_benjamin__Q19]]
 
 
 
@@ -923,7 +904,6 @@ Minimum locks to be opened for 50 coins
 > It counts how many triangles and how many squares you can find in the figure. How much larger is the number of triangles than the number of squares? A) 0 B) 1 C) 2 D) 3 E) 4 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2005_benjamin#q20|src_kangourou_2005_benjamin__Q20]]
 
 
 
@@ -978,7 +958,6 @@ Minimum locks to be opened for 50 coins
 > Kang 2005
 
 **Answer:** D
-[[Quesiti/src_kangourou_2005_benjamin#q21|src_kangourou_2005_benjamin__Q21]]
 
 
 
@@ -1014,7 +993,6 @@ Minimum locks to be opened for 50 coins
 > From noon to midnight, Snoopy sleeps in her crib and from midnight to noon she tells fairy tales. There's a sign on the doghouse that says, "Two hours ago, Snoopy was doing the same thing she'll do in an hour". How many hours a day does what's written on the sign match the real thing? A) 3 B) 6 C) 12 D) 18 E) 21
 
 **Answer:** D
-[[Quesiti/src_kangourou_2005_benjamin#q22|src_kangourou_2005_benjamin__Q22]]
 
 
 
@@ -1050,7 +1028,6 @@ Minimum locks to be opened for 50 coins
 > In a classroom there are 12 students sitting in 3 rows of 4 benches each. Students shake hands according to the following criterion: if two students are sitting on adjacent benches (diagonal included), they shake hands once and only once. How many handshakes are there in total? A) 12 B) 23 C) 24 D) 29 E) 36
 
 **Answer:** D
-[[Quesiti/src_kangourou_2005_benjamin#q23|src_kangourou_2005_benjamin__Q23]]
 
 
 
@@ -1088,7 +1065,6 @@ Minimum locks to be opened for 50 coins
 > The area of each of the small equilateral triangles in the figure is 1 cm2. What is the area in cm2 of the shaded region? A) 20 B) 22,5 C) 23,5 D) 25 E) 32
 
 **Answer:** B
-[[Quesiti/src_kangourou_2005_benjamin#q24|src_kangourou_2005_benjamin__Q24]]
 
 
 
@@ -1123,7 +1099,6 @@ How many of the seven dwarfs lie
 > Snow White asks each of the seven dwarfs, "How many of you lie?" The first dwarf answers "One", the second "Two" and so on until the seventh says "Seven". How many of the seven dwarfs really lie? (a) 7 (b) 6 (c) 5 (d) 1 (e) cannot be established
 
 **Answer:** B
-[[Quesiti/src_kangourou_2005_benjamin#q25|src_kangourou_2005_benjamin__Q25]]
 
 
 
@@ -1157,7 +1132,6 @@ How many of the seven dwarfs lie
 > From the beginning of 2005 through the end of 2025, how many months start and end on the same day of the week? A) 5 B) 20 C) 21 D) 147 E) 16
 
 **Answer:** A
-[[Quesiti/src_kangourou_2005_benjamin#q26|src_kangourou_2005_benjamin__Q26]]
 
 
 
@@ -1218,8 +1192,6 @@ How many of the seven dwarfs lie
 
 **Answer:** D
 
-[[Quesiti/src_kangourou_2005_benjamin#q27|src_kangourou_2005_benjamin__Q27]]
-
 
 
 <span class="atom-split" id="q28" data-atom="q28" data-title="Quesito 28" data-tags="topic_logica,topic_geometria_solida,skill_ragionamento_geometrico"></span>
@@ -1259,7 +1231,6 @@ How many of the seven dwarfs lie
 > There are strange mountains in Kangaland. You can see the pictures below on the first line. On the second line these mountains are represented in a plan that highlights the contours of the sections of these mountains with horizontal planes imagined to be drawn at the following four levels (equally spaced): 0, 250, 500, 750 meters above sea level. Due to a cartographer's error, the plans are not in the same order as the photos. Do you know how to rearrange them properly? A) 3412 B) 3214 C) 3421 D) 1324         E) 3241
 
 **Answer:** C
-[[Quesiti/src_kangourou_2005_benjamin#q28|src_kangourou_2005_benjamin__Q28]]
 
 
 
@@ -1295,7 +1266,6 @@ How many of the seven dwarfs lie
 > Dora, Lara, Mara, Sara and Vera are sitting on a bench. Mara doesn't sit at the right end and Dora doesn't sit at the left end. Sara doesn't sit on either end. Vera is not sitting next to Sara and Sara is not sitting next to Dora. Lara is sitting to Dora's right, but not necessarily beside her. Which of the five girls is sitting on the right end of the bench? (A) cannot be established (B) Vera (C) Sara (D) Lara (E) Dora
 
 **Answer:** D
-[[Quesiti/src_kangourou_2005_benjamin#q29|src_kangourou_2005_benjamin__Q29]]
 
 
 
@@ -1349,5 +1319,3 @@ How many of the seven dwarfs lie
 > 4
 
 **Answer:** B
-
-[[Quesiti/src_kangourou_2005_benjamin#q30|src_kangourou_2005_benjamin__Q30]]

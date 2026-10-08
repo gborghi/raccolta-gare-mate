@@ -33,8 +33,6 @@ level: Olimpiade Polacca Round 1
 
 > Trova tutte le coppie $(x, y)$ di numeri naturali in modo tale che i numeri $\frac{x+1}{y}$ e $\frac{y+1}{x}$ siano naturali.
 
-[[Quesiti/src_pol_1995_r1#q01|src_pol_1995_r1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_simmetria,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
@@ -64,8 +62,6 @@ level: Olimpiade Polacca Round 1
 
 > Per un intero positivo $n \ge 2$, risolvere il seguente sistema di equazioni: $$x_1(n) = x_2(n) + |x_3(n) - 1| \cdot |x_n(n) - 1|,$$ $$x_2(n) = x_3(n) + |x_4(n) - 1| \cdot |x_1(n) - 1|,$$ $$\vdots$$ $$x_n(n) = x_1(n) + |x_2(n) - 1| \cdot |x_{n-1}(n) - 1|.$$
 
-[[Quesiti/src_pol_1995_r1#q02|src_pol_1995_r1__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_trigonometria,method_disuguaglianze,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -91,8 +87,6 @@ level: Olimpiade Polacca Round 1
 
 > Un quadrilaterale con lati $a, b, c, d$ è inserito in un cerchio di raggio $R$. Prova che se $a^2 + b^2 + c^2 + d^2 = 8R^2$, allora o nessuno degli angoli del quadrilaterale è giusto, o le sue diagonali sono perpendicolari.
 
-[[Quesiti/src_pol_1995_r1#q03|src_pol_1995_r1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_cassetti,method_doppio_conteggio,skill_conteggio_sistematico,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -117,8 +111,6 @@ level: Olimpiade Polacca Round 1
 *19 studenti, 5 olimpiadi, tre in coppia comuni; due olimpiadi in comune ≥7*
 
 > In ciascuna scuola 19 studenti partecipano a cinque diverse Olimpiadi. In ciascuna olimpiada partecipano almeno 19 studenti, ma nessuno degli studenti partecipa a più di tre olimpiadi. Prova che se ogni tre Olimpiadi hanno un partecipante comune, allora ci sono almeno due Olimpiadi con almeno 7 partecipanti comuni.
-
-[[Quesiti/src_pol_1995_r1#q04|src_pol_1995_r1__Q04]]
 
 
 
@@ -147,8 +139,6 @@ level: Olimpiade Polacca Round 1
 
 > Prove che le seguenti due condizioni per i numeri positivi $a, b$ sono equivalenti: (i) $\sqrt{a} + 1 > \sqrt{b}$, (ii) per ogni $x > \frac{1}{x-1}$, abbiamo $ax > b$.
 
-[[Quesiti/src_pol_1995_r1#q05|src_pol_1995_r1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -173,8 +163,6 @@ level: Olimpiade Polacca Round 1
 *Ceviani dal punto interno; somma espressa a+b+c come prodotto*
 
 > $P$ sia un punto all'interno di un triangolo $ABC$. I raggi $AP$, $BP$, $CP$ si intersecano rispettivamente a $BC$, $CA$, $AB$, $B'$ e $C'$. Set $a = AP/PA'$, $b = BP/PB'$, $c = CP/PC'$. Esprimere il prodotto della somma $a + b + c$.
-
-[[Quesiti/src_pol_1995_r1#q06|src_pol_1995_r1__Q06]]
 
 
 
@@ -204,8 +192,6 @@ level: Olimpiade Polacca Round 1
 >
 > (b) Esiste una funzione differenziabile $f : \mathbb{R} \to \mathbb{R}$, non identicamente uguale a $0$, tale che $-1 \le 2f(x) \cdot f'(x) \le 1$ per ogni numero reale $x$?
 
-[[Quesiti/src_pol_1995_r1#q07|src_pol_1995_r1__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_solida,topic_trigonometria,method_trigonometria,method_disuguaglianze,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -232,8 +218,6 @@ level: Olimpiade Polacca Round 1
 
 > In una piramide regolare con un normale $n$-gon come base, una faccia laterale e la base formano un angolo $\alpha$, mentre un bordo laterale e il bordo base formano un angolo $\beta$. Provare che $$\sin^2 \alpha - \sin^2 \beta \ge \tan^2 \frac{\pi}{n}.$$
 
-[[Quesiti/src_pol_1995_r1#q08|src_pol_1995_r1__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
@@ -258,8 +242,6 @@ level: Olimpiade Polacca Round 1
 *a+b=1, a^b e b^a razionale implica a e b razionale*
 
 > $a$ e $b$ siano numeri reali positivi con la somma $1$. Se $a^b$ e $b^a$ sono razionali, dimostrare che lo sono anche $a$ e $b$.
-
-[[Quesiti/src_pol_1995_r1#q09|src_pol_1995_r1__Q09]]
 
 
 
@@ -286,8 +268,6 @@ level: Olimpiade Polacca Round 1
 
 > Tre punti distinti sono indicati su una linea $k$. Da ciascuno di questi punti disegniamo una coppia di raggi in modo che tutti i raggi siano sullo stesso lato di $k$. Ogni due di queste tre coppie di raggi formano un quadrilaterale. Prova che se due di questi quadrilaterali sono tangenti, allora anche il terzo.
 
-[[Quesiti/src_pol_1995_r1#q10|src_pol_1995_r1__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_probabilita,topic_combinatoria,method_conteggio,method_doppio_conteggio,skill_conteggio_sistematico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -312,8 +292,6 @@ level: Olimpiade Polacca Round 1
 *Differenza attesa tra i più grandi e i più piccoli tra m tratti da {1,...,n}*
 
 > $n > m > 1$ siano numeri razionali. Tracciamo a caso $m$ numeri distinti dal set $\{1, 2, \ldots, n\}$. Trova il valore atteso della differenza tra il più grande e il più piccolo dei numeri tratti.
-
-[[Quesiti/src_pol_1995_r1#q11|src_pol_1995_r1__Q11]]
 
 
 
@@ -341,5 +319,3 @@ level: Olimpiade Polacca Round 1
 *Sequenza ricorrente; dimostrare che tutte le somme parziali sono inferiori a 1*
 
 > La sequenza $(x_n)$ viene data da $$x_1 = \frac{1}{2}, \qquad x_n = \frac{2n-3}{2n}\, x_{n-1} \text{ for all } n \ge 2.$$ Prove che per tutti $n \in \mathbb{N}$ contiene $x_1 + x_2 + \cdots + x_n < 1$.
-
-[[Quesiti/src_pol_1995_r1#q12|src_pol_1995_r1__Q12]]

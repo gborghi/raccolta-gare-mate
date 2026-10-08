@@ -33,8 +33,6 @@ level: BMO Round 2
 
 > I punti $P$, $Q$ e una linea $\ell$ sono indicati in un piano. Indicare, con prova, il punto $F$ del piano per il quale $PF^2 + QF^2 + RF^2$ è minimo, dove $R$ è il piede della perpendicolare da $F$ a $\ell$.
 
-[[Quesiti/src_bmo_1982-83_round2#q01|src_bmo_1982-83_round2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -59,8 +57,6 @@ level: BMO Round 2
 *Circoli di triangolo scritti; tangenti formano un triangolo T; provare il risultato ortocentrico*
 
 > Considerate i tre cerchi scritti del triangolo $ABC$, cioè i tre cerchi distinti ognuno dei quali tocca un lato del triangolo $ABC$ internamente ma gli altri due esternamente. Ogni coppia di cerchi scritti ha solo una tangente interna comune da un lato del triangolo, e le tre tangenti comuni formano un triangolo $T$. Provare che l'IS è perpendicolare a un lato di $T$.
-
-[[Quesiti/src_bmo_1982-83_round2#q02|src_bmo_1982-83_round2__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: BMO Round 2
 
 > $l$, $m$, $n$ sono tre linee nello spazio. Né $l$ né $m$ sono perpendicolari a $n$. I punti $P$ e $Q$ variano rispettivamente su $l$ e $m$ in modo tale che $PQ$ sia perpendicolare a $n$, e il piano attraverso $PQ$ perpendicolare a $n$ incontra $n$ in un punto. Provare che $PQ$ è di lunghezza costante.
 
-[[Quesiti/src_bmo_1982-83_round2#q03|src_bmo_1982-83_round2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -114,8 +108,6 @@ level: BMO Round 2
 *Prove la disuguaglianza per sei reali positivi con struttura di media armonica*
 
 > Dimostra che se $a, b, c, d, e, f$ sono numeri reali positivi allora $$\frac{ab}{a+b} + \frac{cd}{c+d} + \frac{ef}{e+f} \le \frac{(a+c+e)(b+d+f)}{a+b+c+d+e+f}.$$
-
-[[Quesiti/src_bmo_1982-83_round2#q04|src_bmo_1982-83_round2__Q04]]
 
 
 
@@ -145,8 +137,6 @@ level: BMO Round 2
 
 > Trova il numero di accordi $$a,\ b,\ c,\ d,\ e,\ f,\ g,\ h$$ dei numeri $1, 2, 3, 4, 5, 6, 7, 8$ che soddisfano tutte le sette condizioni $$a < b,\ c < d,\ e < f,\ g < h \quad \text{and} \quad b > c,\ d > e,\ f > g.$$
 
-[[Quesiti/src_bmo_1982-83_round2#q05|src_bmo_1982-83_round2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_casework,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -173,8 +163,6 @@ level: BMO Round 2
 *Ricerca tutte le coppie di integri positivi (n,k) con (n+1)^k = n! + 1*
 
 > $n$ e $k$ sono integri positivi. Trova tutte le coppie $(n, k)$ soddisfacenti $$(n+1)^k = n! + 1,$$ che dimostrano di avere l'insieme completo delle soluzioni.
-
-[[Quesiti/src_bmo_1982-83_round2#q06|src_bmo_1982-83_round2__Q06]]
 
 
 
@@ -208,5 +196,3 @@ level: BMO Round 2
 > (a) C'è un insieme $A$ di topi $(m + 1)$ nessuno dei quali è genitore di nessun altro nel gruppo.
 > 
 > b) Esiste un insieme ordinato $B$ di topi $(n + 1)$ $a_1, a_2, \ldots, a_n, a_{n+1}$ in modo tale che $a_{i+1}$ sia il genitore di $a_i$ per ciascun $i = 1, 2, \ldots, n$.
-
-[[Quesiti/src_bmo_1982-83_round2#q07|src_bmo_1982-83_round2__Q07]]

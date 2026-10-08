@@ -33,8 +33,6 @@ level: IMO
 
 > Determine all three digit numbers $N$ such that $N$ is divisible by 11 and $N/11$ is equal to the sum of the squares of the digits $N$.
 
-[[Quesiti/src_imho_1960#q01|src_imho_1960__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica"></span>
@@ -60,8 +58,6 @@ level: IMO
 *Values of x for which the inequality is rooted*
 
 > For which values of the variable $x$ is the following inequality: $$\frac{4x^2}{\left(1 - \sqrt{1 + 2x}\right)^2} < 2x + 9\,?$$
-
-[[Quesiti/src_imho_1960#q02|src_imho_1960__Q02]]
 
 
 
@@ -89,8 +85,6 @@ level: IMO
 
 > In a given $ABC$ rectangle, the hypotenuse $BC$, of length $a$, is divided into $n$ equal parts ($n$ odd integer). Either $\alpha$ the acute angle below $A$ to the segment containing the midpoint of the hypotenuse. Either $h$ the length of the height relative to the hypotenuse of the triangle. Provide proof that: $$\tan \alpha = \frac{4nh}{(n^2 - 1)a}.$$
 
-[[Quesiti/src_imho_1960#q03|src_imho_1960__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -114,8 +108,6 @@ level: IMO
 *Building triangle data has, hb and median but*
 
 > Construct the triangle $ABC$, data $h_a$, $h_b$ (heights from $A$ and from $B$) and $m_a$, the median from the vertex $A$.
-
-[[Quesiti/src_imho_1960#q04|src_imho_1960__Q04]]
 
 
 
@@ -150,8 +142,6 @@ level: IMO
 > 
 > (b) Find the geometric location of the $Z$ points lying on the $XY$ segments of part (a) with $ZY = 2XZ$.
 
-[[Quesiti/src_imho_1960#q05|src_imho_1960__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,method_disuguaglianze,skill_ragionamento_geometrico"></span>
@@ -184,8 +174,6 @@ level: IMO
 > (a) Demonstrate that $V_1 \neq V_2$.
 > 
 > (b) Find the smallest number $k$ for which $V_1 = k V_2$; in this case, construct the angle below a diameter of the base of the cone to the top of the cone.
-
-[[Quesiti/src_imho_1960#q06|src_imho_1960__Q06]]
 
 
 
@@ -223,5 +211,3 @@ level: IMO
 > (b) Calculate the distance $P$ from each base.
 > 
 > (c) Determine under what conditions such$P$points actually exist (discuss the various cases that may arise).
-
-[[Quesiti/src_imho_1960#q07|src_imho_1960__Q07]]

@@ -33,8 +33,6 @@ level: BMO Round 1
 
 > Indicare che ci sono almeno tre numeri primi $p$ inferiori a 200 per i quali $p+2$, $p+6$, $p+8$ e $p+12$ sono tutti primi. Indicare inoltre che esiste un solo numero primo $q$ per il quale $q+2$, $q+6$, $q+8$, $q+12$ e $q+14$ sono tutti numeri primi.
 
-[[Quesiti/src_bmo1_2020#q01|src_bmo1_2020__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_ricorsione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -61,8 +59,6 @@ level: BMO Round 1
 *Ricerca tutti i possibili valori di a1 in sequenza di numeri interi soddisfacendo la ricorrenza*
 
 > Una sequenza di integri $a_1, a_2, a_3, \ldots$ soddisfa la relazione: $$4a_{n+1}^2 - 4a_n a_{n+1} + a_n^2 - 1 = 0$$ per tutti gli integri positivi $n$. Quali sono i valori possibili di $a_1$?
-
-[[Quesiti/src_bmo1_2020#q02|src_bmo1_2020__Q02]]
 
 
 
@@ -92,8 +88,6 @@ level: BMO Round 1
 > Due cerchi $S_1$ e $S_2$ sono tangenti a $P$. Un tangente comune, non attraverso $P$, tocca $S_1$ a $A$ e $S_2$ a $B$. I punti $C$ e $D$, rispettivamente su $S_1$ e $S_2$, sono al di fuori del triangolo $APB$ e sono tali che $P$ sia sulla linea $CD$.
 > 
 > Prova che $AC$ è perpendicolare a $BD$.
-
-[[Quesiti/src_bmo1_2020#q03|src_bmo1_2020__Q03]]
 
 
 
@@ -128,8 +122,6 @@ level: BMO Round 1
 > 
 > (b) Quali sono i numeri sui biglietti che i pinguini tengono proprio davanti e proprio dietro al pinguino che detiene il biglietto 33?
 
-[[Quesiti/src_bmo1_2020#q04|src_bmo1_2020__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_casework,method_congruenze,skill_modellizzazione,skill_riconoscimento_pattern,skill_lettura_attenta,skill_astrazione"></span>
@@ -154,8 +146,6 @@ level: BMO Round 1
 *I bambini intorno al cerchio con dolci; trovare n per il quale l'arrangimento iniziale è perfetto*
 
 > Sei bambini sono spaziati uniformemente attorno a un tavolo circolare. Inizialmente, uno ha un mucchio di dolci davanti a sé, mentre gli altri non hanno nulla. Se un bambino ha davanti a sé almeno quattro dolci, può fare la seguente mossa: mangiare un dolce e dare un dolce a ciascuno dei suoi vicini immediati e al bambino direttamente di fronte a loro. Un sistema si chiama $\textit{perfect}$ se vi è una sequenza di movimenti che comporta che ogni bambino abbia davanti a sé lo stesso numero di dolci. Per quali valori di $n$ è perfetta la disposizione iniziale?
-
-[[Quesiti/src_bmo1_2020#q05|src_bmo1_2020__Q05]]
 
 
 
@@ -186,5 +176,3 @@ level: BMO Round 1
 > Una funzione $f$ viene chiamata $\textit{good}$ se assegna un valore intero $f(m,n)$ a ogni coppia ordinata di numeri interi $(m,n)$ in modo tale che per ogni coppia di numeri interi $(m,n)$ abbiamo: $$2f(m,n) = f(m-n, n-m) + m + n = f(m+1,n) + f(m,n+1) - 1.$$
 > 
 > Trova tutte le buone funzioni.
-
-[[Quesiti/src_bmo1_2020#q06|src_bmo1_2020__Q06]]

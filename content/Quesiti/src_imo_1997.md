@@ -62,8 +62,6 @@ level: IMO
 > (c)
 > Si dimostri che non esiste alcuna costante C tale che f(m, n) < C per ogni m e n.
 
-[[Quesiti/src_imo_1997#q01|src_imo_1997__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
@@ -98,8 +96,6 @@ level: IMO
 > di AB e AC incontrano la retta AU in V e W rispettivamente. Le rette
 > BV e CW si incontrano in T. Si dimostri che
 > AU = TB + TC.
-
-[[Quesiti/src_imo_1997#q02|src_imo_1997__Q02]]
 
 
 
@@ -153,8 +149,6 @@ level: IMO
 > Giorno II
 > 25 luglio 1997
 
-[[Quesiti/src_imo_1997#q03|src_imo_1997__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_casework,method_colorazione"></span>
@@ -191,8 +185,6 @@ level: IMO
 > (b)
 > esistono matrici d'argento per infiniti valori di n.
 
-[[Quesiti/src_imo_1997#q04|src_imo_1997__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_casework,method_congruenze"></span>
@@ -218,8 +210,6 @@ level: IMO
 
 > Determinare tutte le coppie (a, b) di interi a, b ≥1 che soddisfano l'equazione
 > ab2 = ba.
-
-[[Quesiti/src_imo_1997#q05|src_imo_1997__Q05]]
 
 
 
@@ -258,5 +248,3 @@ level: IMO
 > 4; 2 + 2; 2 + 1 + 1; 1 + 1 + 1 + 1.
 > Si dimostri che, per ogni intero n ≥3,
 > 2n2/4 < f(2n) < 2n2/2.
-
-[[Quesiti/src_imo_1997#q06|src_imo_1997__Q06]]

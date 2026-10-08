@@ -65,8 +65,6 @@ level: Concours Général
 > 
 > **3.** Indicare che in entrambi i casi 2.b. e 2.c., i confini di $\Delta$ e $\delta_A(\Delta)$ hanno la stessa lunghezza.
 
-[[Quesiti/src_cgen_1992#q01|src_cgen_1992__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,topic_disuguaglianze,method_estremalita,method_trigonometria,method_simmetria,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_modellizzazione"></span>
@@ -103,8 +101,6 @@ level: Concours Général
 > **1.** Determinare i triangoli $ABC$ inseriti nel cerchio $(C)$ per i quali la somma $$AB^2 + BC^2 + CA^2$$ è massima.
 > 
 > **2.** Determinare i quadrilaterali $ABCD$ inseriti nel cerchio $(C)$ per i quali la somma $$AB^2 + AC^2 + AD^2 + BC^2 + BD^2 + CD^2$$ è massima. Rappresenta un quadrilaterale.
-
-[[Quesiti/src_cgen_1992#q02|src_cgen_1992__Q02]]
 
 
 
@@ -143,8 +139,6 @@ level: Concours Général
 > 
 > **3.** I due punti $O$ e $I$ coincidono.
 
-[[Quesiti/src_cgen_1992#q03|src_cgen_1992__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_insiemi_funzioni,topic_algebra,method_induzione,method_ricorsione,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
@@ -179,8 +173,6 @@ level: Concours Général
 > 
 > **2.** Mostra che da alcuni indici $n_0$ in poi, la sequenza $(u_n)$ è monotona (non è richiesto di determinare $n_0$, che dipende dai valori iniziali $u_0$ e $u_1$).
 
-[[Quesiti/src_cgen_1992#q04|src_cgen_1992__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_stima"></span>
@@ -205,5 +197,3 @@ level: Concours Général
 *Unità di polvere di 10^1992 / (10^83 + 7)*
 
 > Qual è la cifra di unità del più grande intero inferiore o uguale a $\dfrac{10^{1992}}{10^{83}+7}$?
-
-[[Quesiti/src_cgen_1992#q05|src_cgen_1992__Q05]]

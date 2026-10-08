@@ -39,7 +39,6 @@ level: China Mathematical Competition
 > (A) solo 1 \quad (B) due \quad (C) quattro \quad (D) infinitamente molti
 
 **Risposta:** A
-[[Quesiti/src_cn_cmc_2005#q02|src_cn_cmc_2005__Q02]]
 
 
 
@@ -73,7 +72,6 @@ level: China Mathematical Competition
 > (A) $2$ \quad (B) $4$ \quad (C) $6$ \quad (D) $8$
 
 **Risposta:** A
-[[Quesiti/src_cn_cmc_2005#q03|src_cn_cmc_2005__Q03]]
 
 
 
@@ -116,7 +114,6 @@ level: China Mathematical Competition
 ![[src_cn_cmc_2005__q04.png]]
 
 **Risposta:** B
-[[Quesiti/src_cn_cmc_2005#q04|src_cn_cmc_2005__Q04]]
 
 
 
@@ -156,7 +153,6 @@ level: China Mathematical Competition
 > - **(D)** Una iperbola con i foci sull'asse $y$
 
 **Risposta:** C
-[[Quesiti/src_cn_cmc_2005#q05|src_cn_cmc_2005__Q05]]
 
 
 
@@ -195,7 +191,6 @@ level: China Mathematical Competition
 > (C) $\dfrac{2}{7}+\dfrac{4}{7^2}+\dfrac{0}{7^3}+\dfrac{0}{7^4}$ \quad (D) $\dfrac{1}{7}+\dfrac{1}{7^2}+\dfrac{0}{7^3}+\dfrac{4}{7^4}$
 
 **Risposta:** C
-[[Quesiti/src_cn_cmc_2005#q06|src_cn_cmc_2005__Q06]]
 
 
 
@@ -226,7 +221,6 @@ level: China Mathematical Competition
 > Esprimere il polinomio $f(x) = 1 - x + x^2 - x^3 + \cdots - x^{19} + x^{20}$ come polinomio in $y = x - 4$: $$g(y) = a_0 + a_1 y + a_2 y^2 + \cdots + a_{20} y^{20}.$$ Poi $a_0 + a_1 + \cdots + a_{20} = $ \underline{\hspace{2cm}}.
 
 **Risposta:** \frac{5^{21}+1}{6}
-[[Quesiti/src_cn_cmc_2005#q07|src_cn_cmc_2005__Q07]]
 
 
 
@@ -254,8 +248,7 @@ level: China Mathematical Competition
 
 > La funzione $f(x)$ deve essere una funzione decrescente definita su $(0, +\infty)$. Se $f(2a^2 + a + 1) < f(3a^2 - 4a + 1)$, allora l'intervallo di $a$ è \underline{\hspace{2cm}}.
 
-**Risposta:** 0 < a < \frac{1}{3} \text{ or } 1 < a < 5
-[[Quesiti/src_cn_cmc_2005#q08|src_cn_cmc_2005__Q08]]
+**Risposta:** 0 < a < \frac{1}{3} \text{ oppure } 1 < a < 5
 
 
 
@@ -286,7 +279,6 @@ level: China Mathematical Competition
 > Supponiamo che $\alpha$, $\beta$, $\gamma$ soddisfino $0 < \alpha < \beta < \gamma < 2\pi$. Se $$\cos(x+\alpha)+\cos(x+\beta)+\cos(x+\gamma)=0$$ per arbitrario $x \in \mathbf{R}$, allora $\gamma - \alpha = $ \underline{\hspace{2cm}}.
 
 **Risposta:** \frac{2\pi}{3}
-[[Quesiti/src_cn_cmc_2005#q09|src_cn_cmc_2005__Q09]]
 
 
 
@@ -319,7 +311,6 @@ level: China Mathematical Competition
 ![[src_cn_cmc_2005__q10.png]]
 
 **Risposta:** \sqrt{3}
-[[Quesiti/src_cn_cmc_2005#q10|src_cn_cmc_2005__Q10]]
 
 
 
@@ -348,7 +339,6 @@ level: China Mathematical Competition
 > Se un lato $AB$ del quadrato $ABCD$ si trova sulla linea $y = 2x - 17$, e le altre due vertici $C$ e $D$ si trovano sulla parabola $y = x^2$, allora la superficie minima del quadrato è \underline{\hspace{2cm}}.
 
 **Risposta:** 80
-[[Quesiti/src_cn_cmc_2005#q11|src_cn_cmc_2005__Q11]]
 
 
 
@@ -377,7 +367,6 @@ level: China Mathematical Competition
 > Un numero naturale $n$ è chiamato "numero fortunato" se la somma delle sue cifre è $7$. Organizzare tutti i numeri fortunati in ordine ascendente per ottenere la sequenza $a_1, a_2, \ldots$. Se $a_m = 2005$, allora $a_{5m} = $ \underline{\hspace{2cm}}.
 
 **Risposta:** 52000
-[[Quesiti/src_cn_cmc_2005#q12|src_cn_cmc_2005__Q12]]
 
 
 
@@ -414,8 +403,6 @@ level: China Mathematical Competition
 > 
 > (2) Per ogni $n \in \mathbb{N}$, $a_n a_{n+1} - 1$ è un quadrato perfetto.
 
-[[Quesiti/src_cn_cmc_2005#q13|src_cn_cmc_2005__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,topic_probabilita,method_conteggio,method_estremalita,method_simmetria,skill_conteggio_sistematico,skill_modellizzazione,skill_casework_accurato"></span>
@@ -443,4 +430,3 @@ level: China Mathematical Competition
 > Nove palle, numerate $1, 2, \ldots, 9$, sono posizionate a caso in $9$ punti spaziati ugualmente su un cerchio, una palla per punto. $S$ sia la somma dei valori assoluti delle differenze dei numeri su tutte le coppie di palle vicine. Trova la probabilità che $S$ raggiunga il suo valore minimo. (Nota: se una disposizione può essere ottenuta da un'altra mediante rotazione o riflessione, le due disposizioni sono considerate uguali.)
 
 **Risposta:** \frac{1}{315}
-[[Quesiti/src_cn_cmc_2005#q14|src_cn_cmc_2005__Q14]]

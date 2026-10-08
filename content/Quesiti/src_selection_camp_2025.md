@@ -35,8 +35,6 @@ level: CAMP Selection Camp
 
 > Trovare tutti gli integri positivi $c$ con la seguente proprietà: per ogni insieme finito non vuoto $\mathcal{S}$ di integri positivi, esistono (non necessariamente distinti) elementi $a, b$ di $\mathcal{S}$ e un elemento $e$ di $\mathcal{S}$ tale che $a + b + 2c$ sia divisibile da $e$.
 
-[[Quesiti/src_selection_camp_2025#q01|src_selection_camp_2025__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -63,8 +61,6 @@ level: CAMP Selection Camp
 *Triangolo, costruzione di tangenza incircolare; dimostrare due linee parallele*
 
 > $ABC$ sia un triangolo con incircolo $\omega$. I punti $D$ e $E$ si trovano rispettivamente sui lati $AB$ e $AC$ (non nei punti finali), e $\omega$ è anche tangente alla linea $DE$, toccandola in un punto $P$. Il $M$ deve essere il punto medio dell'arco $BC$ del circoncircolo e il $Q$ deve essere il secondo incrocio della linea $MP$ con $\omega$. Se $B'$ è la seconda intersezione della linea $DM$ con $\omega$ e $C'$ è la seconda intersezione della linea $EM$ con $\omega$, con $B' \ne C'$, e supponiamo che $A$ e $Q$ si trovino sullo stesso lato della linea $BC$. Let $O$ essere il centro del triangolo $DEM$, e let $Q'$ essere il punto su $\omega$ con $B'Q' : C'Q' = BQ : CQ$. Prova che la riga $MO$ è parallela alla riga $QQ'$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
-
-[[Quesiti/src_selection_camp_2025#q02|src_selection_camp_2025__Q02]]
 
 
 
@@ -93,8 +89,6 @@ level: CAMP Selection Camp
 
 > Lasciamo $n$ essere un intero con $n \ge 2$, e consideriamo una griglia di celle $n \times n$. Inizialmente esattamente una cellula nella riga superiore è di colore nero, e tutte le altre cellule sono bianche. Si può ripetere la seguente operazione: scegliere un blocco di celle $2 \times 2$ in cui esattamente una cellula è attualmente colorata in nero e colorare le cellule $3$ rimanenti di quel blocco in nero. Determinare tutte le $n$ per le quali è possibile, ripetendo questa operazione, raggiungere uno stato in cui ogni cella della griglia è nera.
 
-[[Quesiti/src_selection_camp_2025#q03|src_selection_camp_2025__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_estremalita,method_doppio_conteggio,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_stima"></span>
@@ -122,8 +116,6 @@ level: CAMP Selection Camp
 
 > $n$ sia un numero intero positivo. Ciascuno degli studenti $n$ corre in gare $n$. In ciascuna gara a tutti gli studenti $n$ vengono assegnati ranghi distinti (non due studenti condividono un rank). Per una coppia di integri positivi $(a, b)$, si dice che uno studente abbia il titolo $(a, b)$ se lo studente finisce tra i migliori $b$ in esattamente $a$ delle gare $n$. Il punteggio di uno studente è definito come il valore massimo di $a - b$ su tutti i titoli $(a, b)$ che lo studente detiene. Determinare il valore massimo possibile della somma dei punteggi di tutti gli studenti $n$.
 
-[[Quesiti/src_selection_camp_2025#q04|src_selection_camp_2025__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_aritmetica,method_fattorizzazione,method_casework,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
@@ -150,8 +142,6 @@ level: CAMP Selection Camp
 *Ricerca sottoinsiemi S di potenze di 2 realizzabili come immagine di f(a+b)-f(a)-f(b)*
 
 > Determinare tutti i sottogruppi $\mathcal{S}$ di $\{2^0, 2^1, 2^2, \ldots\}$ con la seguente proprietà: esiste una funzione $f$ dai numeri interi positivi ai numeri interi positivi in modo tale che l'insieme di numeri interi della forma $f(a+b) - f(a) - f(b)$, come $a$ e $b$ si estende su tutti gli enti interi positivi, è uguale a $\mathcal{S}$.
-
-[[Quesiti/src_selection_camp_2025#q05|src_selection_camp_2025__Q05]]
 
 
 
@@ -184,8 +174,6 @@ level: CAMP Selection Camp
 
 ![[src_selection_camp_2025__q06.png]]
 
-[[Quesiti/src_selection_camp_2025#q06|src_selection_camp_2025__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_invarianti,method_estremalita,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -212,8 +200,6 @@ level: CAMP Selection Camp
 *Sequenza: ogni nuovo termine è la media di termini superiori alla media; dimostrare la costanza finale*
 
 > Una sequenza di integri positivi $a_1, a_2, \ldots$ soddisfa la seguente condizione per ogni numero intero $n$ con $n \ge 2024$: $a_{n+1}$ è uguale alla media di quegli termini tra $a_1, a_2, \ldots, a_n$ che sono superiori o uguali alla media $\dfrac{a_1 + a_2 + \cdots + a_n}{n}$. Prova che per ogni intero $n$ con $n > 2024$, abbiamo $a_n = a_{2025}$.
-
-[[Quesiti/src_selection_camp_2025#q07|src_selection_camp_2025__Q07]]
 
 
 
@@ -242,8 +228,6 @@ level: CAMP Selection Camp
 
 > Nel piano ci sono punti $1000$, non tre collineari, chiamati punti buoni. Un insieme si chiama bello se è costituito da un triangolo le cui tre vertici sono punti buoni insieme con esattamente un punto buono che si trova rigorosamente all'interno di quel triangolo. Supponiamo che si possa assegnare un numero reale a ciascun punto buono in modo che si applichino entrambe le seguenti due condizioni: (1) esistono due punti buoni i cui numeri assegnati differiscono (cioè l'assegnazione non è costante); (2) per ogni insieme bello, il numero assegnato al suo punto buono interno è uguale alla media dei numeri assegnati ai tre vertici del triangolo. Determina il massimo numero possibile di set belli.
 
-[[Quesiti/src_selection_camp_2025#q08|src_selection_camp_2025__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_funzionali,topic_aritmetica,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
@@ -270,8 +254,6 @@ level: CAMP Selection Camp
 *f sui numeri interi positivi: coprimità equivalente a un'identità moltiplicativa; trovare f(n)*
 
 > Considerare le funzioni $f$ dai numeri interi positivi ai numeri interi positivi in modo tale che per tutti i numeri interi positivi $m, n$, le seguenti due affermazioni siano equivalenti: $m$ e $n$ sono coprime, e $f(mn)^2 = f(m^2)\, f(n)\, f(n)$ (cioè, $f(mn)^2 = f(m^2)\, f(n)^2$). Per ogni intero positivo $n$, determinare tutti i valori possibili di $f(n)$.
-
-[[Quesiti/src_selection_camp_2025#q09|src_selection_camp_2025__Q09]]
 
 
 
@@ -300,8 +282,6 @@ level: CAMP Selection Camp
 
 > Un pentagono $A_1A_2A_3A_4A_5$ è inserito in un cerchio. Per ogni numero intero $i$ con $1 \le i \le 5$, $B_i$ deve essere il punto di intersezione della riga $A_{i+1}A_{i-1}$ e della riga $A_{i-1}A_{i-2}$, dove gli indici sono presi modulo $5$ in modo che $A_n = A_{n+5}$. Dal pentagono $B_1B_2B_3B_4B_5$ si ottengono altri cinque punti di intersezione $I_1, I_2, I_3, I_4, I_5$ dei suoi lati/diagonali. Provare che $I_1, I_2, I_3, I_4, I_5$ si trova su un cerchio comune. (L'indice soddisfa $A_n = A_{n+5}$.)
 
-[[Quesiti/src_selection_camp_2025#q10|src_selection_camp_2025__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -329,8 +309,6 @@ level: CAMP Selection Camp
 
 > Determinare tutti i numeri interi positivi $n$ con la seguente proprietà: per ogni polinomio di grado-$3$ $P$ con coeficienti interi, esiste un polinomio di grado-$2$ $Q$ con coeficienti interi in modo che per ogni intero $k$, il valore $Q(k)\bigl(P(k) + Q(k)\bigr)$ non sia divisibile da $n$.
 
-[[Quesiti/src_selection_camp_2025#q11|src_selection_camp_2025__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_algebra,method_invarianti,method_casework,method_congruenze,skill_riconoscimento_pattern,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -357,5 +335,3 @@ level: CAMP Selection Camp
 *Sequenza con uno spread massimo di 1 su qualsiasi p+1 e qualsiasi termine consecutivo q+1*
 
 > $p$ e $q$ siano numeri interi positivi reciprocamente coprimi. Determinare tutte le sequenze di interi positivi $a_1, a_2, \ldots$ che soddisfano entrambe le seguenti condizioni: (i) per ogni intero positivo $n$, la differenza tra il più grande e il più piccolo di $a_n, a_{n+1}, \ldots, a_{n+p}$ è uguale a $1$; (ii) per ogni intero positivo $n$, la differenza tra il più grande e il più piccolo di $a_n, a_{n+1}, \ldots, a_{n+q}$ è uguale a $1$.
-
-[[Quesiti/src_selection_camp_2025#q12|src_selection_camp_2025__Q12]]

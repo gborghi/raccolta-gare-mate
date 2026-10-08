@@ -33,8 +33,6 @@ level: BMO Round 2
 
 > Due cerchi incrociati $C_1$ e $C_2$ hanno una tangente comune che tocca $C_1$ a $P$ e $C_2$ a $Q$. I due cerchi si incrociano a $M$ e $N$, dove $N$ è più vicino a $PQ$ rispetto a $M$. Provare che i triangoli $MNP$ e $MNQ$ hanno aree uguali.
 
-[[Quesiti/src_bmo_1999-00_round2#q01|src_bmo_1999-00_round2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_stima"></span>
@@ -63,7 +61,6 @@ level: BMO Round 2
 > Poiché $x, y, z$ sono numeri reali positivi che soddisfano $xyz = 32$, trovare il valore minimo di $$x^2 + 4xy + 4y^2 + 2z^2.$$
 
 **Risposta:** 96
-[[Quesiti/src_bmo_1999-00_round2#q02|src_bmo_1999-00_round2__Q02]]
 
 
 
@@ -91,8 +88,6 @@ level: BMO Round 2
 
 > Trovare integri positivi $p$ e $q$ tali da $$p + q = \lfloor \sqrt{p} \rfloor + \lfloor \sqrt{q} \rfloor + \lfloor \sqrt{p+q} \rfloor.$$
 
-[[Quesiti/src_bmo_1999-00_round2#q03|src_bmo_1999-00_round2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_congruenze,method_colorazione,skill_astrazione,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -118,5 +113,3 @@ level: BMO Round 2
 *Trova un insieme di 10 elementi in cui non ci sono 6 elementi sommati divisibili per 6; che dire di 11?*
 
 > (a) Trovare un insieme $A$ di dieci integri positivi in modo tale che non ci siano sei membri di $A$ che abbiano una somma divisibile da $6$. (b) È possibile trovare tale insieme se "dieci" vengono sostituiti da "onze"?
-
-[[Quesiti/src_bmo_1999-00_round2#q04|src_bmo_1999-00_round2__Q04]]

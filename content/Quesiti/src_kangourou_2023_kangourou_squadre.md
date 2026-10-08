@@ -39,7 +39,6 @@ level: squadre
 > Candies In a certain group of people, each person has three candies that can be exclusively lemon or orange. 90 people have at least two lemon candies, 45 have at least two orange candies, 34 have two candies of different taste. How many people have three candies of the same taste?
 
 **Answer:** 0101
-[[Quesiti/src_kangourou_2023_kangourou_squadre#q01|src_kangourou_2023_kangourou_squadre__Q01]]
 
 
 
@@ -121,7 +120,6 @@ level: squadre
 > The ABCD trapezoid in the figure is isosceles; the shaded DEF triangle is also isosceles and its area is one quarter of the trapezoid area. The major base and the minor base of the ABCD trapezoid measure 220 and 180 cm respectively. How many centimeters is the AE segment?
 
 **Answer:** 0070
-[[Quesiti/src_kangourou_2023_kangourou_squadre#q02|src_kangourou_2023_kangourou_squadre__Q02]]
 
 
 
@@ -155,7 +153,6 @@ level: squadre
 > Marco and his brother enrolled in a summer camp. The weekly cost of enrolling a child in this camp is €60, but if a family enrolls more than one child, they are entitled to the reduced fee of €54 per child from the second. The first week's enrollment has raised €3,000 and more than half of those enrolled are single children. What is the minimum number of applicants?
 
 **Answer:** 0051
-[[Quesiti/src_kangourou_2023_kangourou_squadre#q03|src_kangourou_2023_kangourou_squadre__Q03]]
 
 
 
@@ -187,7 +184,6 @@ level: squadre
 > Circular track Paul and Gino train to run along a circular track. They start at the same point, but run in opposite directions, each at its own constant speed. When they meet for the first time, Paul has traveled 100 meters from the start; when they meet for the second time, Gino has traveled 150 meters from the first meeting point. How long is the track?
 
 **Answer:** 0250
-[[Quesiti/src_kangourou_2023_kangourou_squadre#q04|src_kangourou_2023_kangourou_squadre__Q04]]
 
 
 
@@ -218,7 +214,6 @@ level: squadre
 > SUDOKU The six letters of the word SUDOKU must be inserted into the six cells of a grid 2 × 3 so that no row and no column host both letters U. How many different insertions are possible?
 
 **Answer:** 0144
-[[Quesiti/src_kangourou_2023_kangourou_squadre#q05|src_kangourou_2023_kangourou_squadre__Q05]]
 
 
 
@@ -260,7 +255,6 @@ level: squadre
 > A B D C F E
 
 **Answer:** 0600
-[[Quesiti/src_kangourou_2023_kangourou_squadre#q06|src_kangourou_2023_kangourou_squadre__Q06]]
 
 
 
@@ -299,7 +293,6 @@ level: squadre
 > The area of the square A square is divided into six flat figures as shown in the figure. Those in white are two isosceles right triangles, a square and a parallelogram; one of the two in black is an isosceles right triangle, the other (which has only one point in common with the previous one) is divisible into two isosceles right triangles. The area of the portion of the square remaining white is 99 cm2. How many square centimetres is the area of the original square?
 
 **Answer:** 0176
-[[Quesiti/src_kangourou_2023_kangourou_squadre#q07|src_kangourou_2023_kangourou_squadre__Q07]]
 
 
 
@@ -333,7 +326,6 @@ level: squadre
 > The three questions A number of students were asked the same three questions. 1260 of them answered the first question correctly, representing exactly 70% of the total. The percentage of students who answered correctly to the second is 79%, the percentage of students who answered correctly to the third is 53%. The students who answered all three questions correctly are the minimum compatible with these percentages. How many are there?
 
 **Answer:** 0036
-[[Quesiti/src_kangourou_2023_kangourou_squadre#q08|src_kangourou_2023_kangourou_squadre__Q08]]
 
 
 
@@ -367,7 +359,6 @@ level: squadre
 > The sum of the angles What is a + b + c + d, where a, b, c, d are the degree measurements of the angles shown in the figure?
 
 **Answer:** 0540
-[[Quesiti/src_kangourou_2023_kangourou_squadre#q09|src_kangourou_2023_kangourou_squadre__Q09]]
 
 
 
@@ -400,7 +391,6 @@ level: squadre
 > The fraction Be AB0 the generic positive three-digit integer (A ≠ 0), the unit number of which is zero. What is the sum of the smallest and largest of the values that AB0 A+B can assume?
 
 **Answer:** 0119
-[[Quesiti/src_kangourou_2023_kangourou_squadre#q10|src_kangourou_2023_kangourou_squadre__Q10]]
 
 
 
@@ -435,7 +425,6 @@ level: squadre
 > Two equilateral triangles Within the equilateral triangle ABC in the figure the KLM triangle has each side perpendicular to one of the sides of ABC. The area of ABC is 150. How much is the KLM area worth?
 
 **Answer:** 0050
-[[Quesiti/src_kangourou_2023_kangourou_squadre#q11|src_kangourou_2023_kangourou_squadre__Q11]]
 
 
 
@@ -466,7 +455,6 @@ level: squadre
 > One hundred numbers in a circle On a circle are written 100 numbers, each of which is the arithmetic mean of the two adjacent to it. One of them is 2,023, and there are no greater ones. How much is the smallest?
 
 **Answer:** 2023
-[[Quesiti/src_kangourou_2023_kangourou_squadre#q12|src_kangourou_2023_kangourou_squadre__Q12]]
 
 
 
@@ -497,7 +485,6 @@ level: squadre
 > The 500th term Think of ordering in increasing succession all positive integers that are neither perfect squares nor perfect cubes. What is the 500th term of the sequence?
 
 **Answer:** 0528
-[[Quesiti/src_kangourou_2023_kangourou_squadre#q13|src_kangourou_2023_kangourou_squadre__Q13]]
 
 
 
@@ -528,7 +515,6 @@ level: squadre
 > The triple of n. Let n be a six digit integer 1ABCDE. If the number 3 × n is ABCDE1, what is the product of the digits of n?
 
 **Answer:** 2240
-[[Quesiti/src_kangourou_2023_kangourou_squadre#q14|src_kangourou_2023_kangourou_squadre__Q14]]
 
 
 
@@ -568,4 +554,3 @@ level: squadre
 > Questions and solutions
 
 **Answer:** 0153
-[[Quesiti/src_kangourou_2023_kangourou_squadre#q15|src_kangourou_2023_kangourou_squadre__Q15]]

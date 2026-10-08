@@ -48,8 +48,6 @@ level: Concours Général
 > 
 > Indicare che esiste un numero naturale $N$ tale che la funzione $f$ sia di tipo $T_N$.
 
-[[Quesiti/src_cgen_2007#q01|src_cgen_2007__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -91,8 +89,6 @@ level: Concours Général
 > **b.** Indicare un array di questo tipo le cui tre righe hanno tutti un prodotto dei loro elementi inferiore o uguale a $72$.
 > 
 > **2.** In considerazione di un array di questo tipo, indicare che ha almeno una riga o una colonna il cui prodotto degli elementi è maggiore o uguale a $90$.
-
-[[Quesiti/src_cgen_2007#q02|src_cgen_2007__Q02]]
 
 
 
@@ -282,5 +278,3 @@ level: Concours Général
 > **a.** Mostra che tutti i fattori primi odd di $a$ sono congruenti a $1$ o a $9$ modulo $10$.
 > 
 > **b.** Cosa si può dire dei fattori primi di $b$?
-
-[[Quesiti/src_cgen_2007#q03|src_cgen_2007__Q03]]

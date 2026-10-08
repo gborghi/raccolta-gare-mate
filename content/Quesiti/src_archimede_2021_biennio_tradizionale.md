@@ -46,8 +46,6 @@ level: biennio
 > - **(D)** 30
 > - **(E)** 31
 
-[[Quesiti/src_archimede_2021_biennio_tradizionale#q01|src_archimede_2021_biennio_tradizionale__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
@@ -83,8 +81,6 @@ level: biennio
 > - **(C)** 5/7
 > - **(D)** 3/4
 > - **(E)** 4/7
-
-[[Quesiti/src_archimede_2021_biennio_tradizionale#q02|src_archimede_2021_biennio_tradizionale__Q02]]
 
 
 
@@ -124,8 +120,6 @@ level: biennio
 > - **(D)** 8
 > - **(E)** 10
 
-[[Quesiti/src_archimede_2021_biennio_tradizionale#q03|src_archimede_2021_biennio_tradizionale__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -163,8 +157,6 @@ level: biennio
 > - **(D)** 16°
 > - **(E)** 22°
 
-[[Quesiti/src_archimede_2021_biennio_tradizionale#q04|src_archimede_2021_biennio_tradizionale__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
@@ -201,8 +193,6 @@ level: biennio
 > - **(C)** 7717 · 149 · 2211
 > - **(D)** 779 · 1416 · 2213
 > - **(E)** 779 · 1412 · 2216
-
-[[Quesiti/src_archimede_2021_biennio_tradizionale#q05|src_archimede_2021_biennio_tradizionale__Q05]]
 
 
 
@@ -244,8 +234,6 @@ level: biennio
 > - **(D)** It is not possible to establish
 > - **(E)** 40
 
-[[Quesiti/src_archimede_2021_biennio_tradizionale#q06|src_archimede_2021_biennio_tradizionale__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -282,8 +270,6 @@ level: biennio
 > - **(C)** 25 12ℓ
 > - **(D)** 15 7 ℓ
 > - **(E)** 32 15ℓ
-
-[[Quesiti/src_archimede_2021_biennio_tradizionale#q07|src_archimede_2021_biennio_tradizionale__Q07]]
 
 
 
@@ -323,8 +309,6 @@ level: biennio
 > - **(D)** 415 ml
 > - **(E)** 448 ml
 
-[[Quesiti/src_archimede_2021_biennio_tradizionale#q08|src_archimede_2021_biennio_tradizionale__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -361,8 +345,6 @@ level: biennio
 > - **(C)** 64 m2
 > - **(D)** 80 m2
 > - **(E)** 84 m2
-
-[[Quesiti/src_archimede_2021_biennio_tradizionale#q09|src_archimede_2021_biennio_tradizionale__Q09]]
 
 
 
@@ -404,8 +386,6 @@ level: biennio
 > - **(D)** 9
 > - **(E)** 13
 
-[[Quesiti/src_archimede_2021_biennio_tradizionale#q10|src_archimede_2021_biennio_tradizionale__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
@@ -443,8 +423,6 @@ level: biennio
 > - **(C)** 5/4
 > - **(D)** 9/8
 > - **(E)** 8/5
-
-[[Quesiti/src_archimede_2021_biennio_tradizionale#q11|src_archimede_2021_biennio_tradizionale__Q11]]
 
 
 
@@ -491,5 +469,3 @@ level: biennio
 > - **(C)** 100
 > - **(D)** 112
 > - **(E)** 104 2042 Italian Mathematical Union Mathematics Olympic Project Ministry of Education The Archimedes Games - Competition biennium 2 December 2021  The test consists of 12 problems. Each question shall be followed by 5 answers indicated by the letters (A), (B), (C), (D) and (E). One of these answers is correct, the other four are wrong.  Each correct answer is worth 5 points, each wrong answer is worth 0 points. For each answer left blank or unreadable one point will be awarded.  For each of the problems, the corresponding letter to the correct answer must be transcribed in the grid below. Cancellations or corrections on the grid are not permitted. No calculator or communication device shall be used during the test. The time you have is 60 minutes. Good work and good fun! COGNOME Class name date of birth: email address: PROBLEMS: 1 2 3 4 5 6 7 8 9 10 11 12 The Games of Archimedes 2021 GARA BENNIO   CODE PROVA: 2042
-
-[[Quesiti/src_archimede_2021_biennio_tradizionale#q12|src_archimede_2021_biennio_tradizionale__Q12]]

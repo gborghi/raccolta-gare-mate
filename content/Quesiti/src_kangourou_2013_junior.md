@@ -50,8 +50,6 @@ level: kangourou
 > 	
 > E) 11.
 
-[[Quesiti/src_kangourou_2013_junior#q01|src_kangourou_2013_junior__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -82,8 +80,6 @@ level: kangourou
 *How many figures have the same perimeter as the square sheet*
 
 > A chocolate bar costs 40 cents, but for every five chocolates purchased, another one is given as a gift. Marta gave four chocolates to each of her four friends. How much did she spend? A) 5.60 B) 2.40 C) 1.60 D) 6.40 E) A figure different from each of the preceding figures.
-
-[[Quesiti/src_kangourou_2013_junior#q02|src_kangourou_2013_junior__Q02]]
 
 
 
@@ -120,8 +116,6 @@ level: kangourou
 > B) 77
 > 	
 > C) 145 D) 143 E) 131
-
-[[Quesiti/src_kangourou_2013_junior#q03|src_kangourou_2013_junior__Q03]]
 
 
 
@@ -169,8 +163,6 @@ level: kangourou
 > 	
 > E) 8
 
-[[Quesiti/src_kangourou_2013_junior#q04|src_kangourou_2013_junior__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_combinatoria,method_estremalita,skill_ragionamento_geometrico"></span>
@@ -206,8 +198,6 @@ level: kangourou
 ![[src_kangourou_2013_junior__prob5.png]]
 
 > In the square grid shown in Figure 1, six points are marked. You want to pick three so that the area of the triangle that has them as vertices is as small as possible. How much is this area worth? A) B) C) 1 D)                E) 2
-
-[[Quesiti/src_kangourou_2013_junior#q05|src_kangourou_2013_junior__Q05]]
 
 
 
@@ -264,8 +254,6 @@ level: kangourou
 >  3
 >
 
-[[Quesiti/src_kangourou_2013_junior#q06|src_kangourou_2013_junior__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
@@ -315,7 +303,6 @@ level: kangourou
 > E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2013_junior#q07|src_kangourou_2013_junior__Q07]]
 
 
 
@@ -350,7 +337,6 @@ level: kangourou
 > The number n is the largest positive integer such that 4n is a three-digit number, the number m is the smallest positive integer such that 4m is a three-digit number. How much is 4n  4m ? A) 892 B) 224 C) 225 D) 896 E) 199
 
 **Answer:** D
-[[Quesiti/src_kangourou_2013_junior#q08|src_kangourou_2013_junior__Q08]]
 
 
 
@@ -391,7 +377,6 @@ level: kangourou
 > The arc in the figure consists of three quarters of a circumference centred on the M origin of an orthogonal Cartesian axis system and is equipped with an orientation arrow. The arc is first rotated 90 degrees in an anti-clockwise direction, then reflected along the x-axis of the axes. Which of the following figures shows the result of these operations? A) B) C) D) E)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2013_junior#q09|src_kangourou_2013_junior__Q09]]
 
 
 
@@ -431,8 +416,6 @@ level: kangourou
 > • 3	
 > E)  
 > Questions from No. 11 to No. 20 are worth 4 points each
-
-[[Quesiti/src_kangourou_2013_junior#q10|src_kangourou_2013_junior__Q10]]
 
 
 
@@ -510,8 +493,6 @@ level: kangourou
 > B) x + y = 90° C) x = 2y D) x + 2y = 180° E) x = y y x M y x M y x M y x M y x M y x M 13 √ 20 √ 20 √ 13 √ 201 √ 2013 √ A B O C x y
 >
 
-[[Quesiti/src_kangourou_2013_junior#q11|src_kangourou_2013_junior__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,method_ricorsione,skill_riconoscimento_pattern"></span>
@@ -576,7 +557,6 @@ level: kangourou
 > The figure shows the first six square tiles, each one one centimeter wide, that I used to make a horizontal decoration on the walls of my bathroom. If the decoration continues to follow the same pattern and I've laid 2013 tiles, how many centimeters is the perimeter of the decoration? A) 4024 B)4028 C) 4030 D) 4026 E) 4027
 
 **Answer:** B
-[[Quesiti/src_kangourou_2013_junior#q12|src_kangourou_2013_junior__Q12]]
 
 
 
@@ -615,7 +595,6 @@ level: kangourou
 > Look at the figure. The points P and Q are opposite vertices of a regular hexagon, while the points R and S are the midpoints of the two opposite sides parallel to the PQ segment. The area of the hexagon is 60 square metres. What is the product of the length (in meters) of PQ for the length (in meters) of RS? A) 40 B) 50 C) 60 D) 100 E) None of the above.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2013_junior#q13|src_kangourou_2013_junior__Q13]]
 
 
 
@@ -651,7 +630,6 @@ level: kangourou
 > In a classroom, where there are both boys and girls, a test was carried out. If each of the boys had scored three more points in their test, the average class score would have increased by 1.2 points. What percentage of the students in that class are girls? A) 75% B) 60% C) 50% D) 40% E) 25%
 
 **Answer:** B
-[[Quesiti/src_kangourou_2013_junior#q14|src_kangourou_2013_junior__Q14]]
 
 
 
@@ -734,7 +712,6 @@ level: kangourou
 > E) Depends on the rectangle.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2013_junior#q15|src_kangourou_2013_junior__Q15]]
 
 
 
@@ -769,7 +746,6 @@ level: kangourou
 > It's Mother Enrica's birthday today. Multiplying her age by that of her only son gets 2013. What year was Mother Enrica born? A) 1981 B) 1982 C) 1953 D) 1952 E) None of the above.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2013_junior#q16|src_kangourou_2013_junior__Q16]]
 
 
 
@@ -858,7 +834,6 @@ level: kangourou
 > B) RS C) QS D) QR E) PQ
 
 **Answer:** A
-[[Quesiti/src_kangourou_2013_junior#q17|src_kangourou_2013_junior__Q17]]
 
 
 
@@ -916,7 +891,6 @@ level: kangourou
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2013_junior#q18|src_kangourou_2013_junior__Q18]]
 
 
 
@@ -955,7 +929,6 @@ level: kangourou
 > Look at the figure. How many different paths allow you to go from A to B by moving along the arrows and respecting their direction? A) 6 B) 8 C) 9 D) 10 E) 12
 
 **Answer:** E
-[[Quesiti/src_kangourou_2013_junior#q19|src_kangourou_2013_junior__Q19]]
 
 
 
@@ -1006,7 +979,6 @@ level: kangourou
 > E) None of the above claims are correct.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2013_junior#q20|src_kangourou_2013_junior__Q20]]
 
 
 
@@ -1057,7 +1029,6 @@ level: kangourou
 > E) 4
 
 **Answer:** E
-[[Quesiti/src_kangourou_2013_junior#q21|src_kangourou_2013_junior__Q21]]
 
 
 
@@ -1097,7 +1068,6 @@ level: kangourou
 > A floor covered with square tiles is partially covered by a round carpet. In the following figures, the shaded tiles represent all and only the tiles that have more than one point covered by the carpet. What figure cannot be obtained? A) B) C) D) E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2013_junior#q22|src_kangourou_2013_junior__Q22]]
 
 
 
@@ -1155,7 +1125,6 @@ Minimum m with angles m, 2m, 3m... around O*
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2013_junior#q23|src_kangourou_2013_junior__Q23]]
 
 
 
@@ -1192,7 +1161,6 @@ Minimum m with angles m, 2m, 3m... around O*
 > B) 1024000 C)13 D) 14 E) 1024
 
 **Answer:** C
-[[Quesiti/src_kangourou_2013_junior#q24|src_kangourou_2013_junior__Q24]]
 
 
 
@@ -1244,7 +1212,6 @@ Minimum m with angles m, 2m, 3m... around O*
 > E) 100 km/h
 
 **Answer:** C
-[[Quesiti/src_kangourou_2013_junior#q25|src_kangourou_2013_junior__Q25]]
 
 
 
@@ -1292,7 +1259,6 @@ Minimum m with angles m, 2m, 3m... around O*
 > E) 11
 
 **Answer:** D
-[[Quesiti/src_kangourou_2013_junior#q26|src_kangourou_2013_junior__Q26]]
 
 
 
@@ -1341,7 +1307,6 @@ Minimum m with angles m, 2m, 3m... around O*
 > E) 18
 
 **Answer:** B
-[[Quesiti/src_kangourou_2013_junior#q27|src_kangourou_2013_junior__Q27]]
 
 
 
@@ -1382,7 +1347,6 @@ Minimum m with angles m, 2m, 3m... around O*
 > E) 1
 
 **Answer:** B
-[[Quesiti/src_kangourou_2013_junior#q28|src_kangourou_2013_junior__Q28]]
 
 
 
@@ -1429,7 +1393,6 @@ Minimum m with angles m, 2m, 3m... around O*
 >
 
 **Answer:** A
-[[Quesiti/src_kangourou_2013_junior#q29|src_kangourou_2013_junior__Q29]]
 
 
 
@@ -1478,4 +1441,3 @@ Minimum m with angles m, 2m, 3m... around O*
 > I'm going to take a look.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2013_junior#q30|src_kangourou_2013_junior__Q30]]

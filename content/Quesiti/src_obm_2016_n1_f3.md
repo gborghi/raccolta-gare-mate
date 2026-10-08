@@ -33,8 +33,6 @@ level: OBM Nível 1
 
 > Lasciate che $ABC$ sia un triangolo. Le linee $r$ e $s$ sono rispettivamente i bisettori interni di $\angle ABC$ e $\angle BCA$. I punti $E$ su $r$ e $D$ su $s$ sono tali da $AD \parallel BE$ e $AE \parallel CD$. Le linee $BD$ e $CE$ si incontrano a $F$. Indicare che se i punti $A$, $F$, $E$ sono collineari, allora $AB = AC$.
 
-[[Quesiti/src_obm_2016_n1_f3#q01|src_obm_2016_n1_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_cassetti,method_congruenze,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -59,8 +57,6 @@ level: OBM Nível 1
 *Nello più piccolo: ogni n punto di coordinate interi ha due con distanza quadrata divisibile entro il 2016*
 
 > Trova il più piccolo $n$ in modo che qualsiasi insieme di punti $n$ nel piano cartesiano, tutti con coordinate interi, contenga due punti la cui distanza quadrata è un multiple di $2016$.
-
-[[Quesiti/src_obm_2016_n1_f3#q02|src_obm_2016_n1_f3__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: OBM Nível 1
 
 > $N_0$ sia un intero positivo fisso. Alberto e Beraldo giocano il seguente gioco a partire da $N_0$: eseguono alternativamente la seguente operazione  data un numero $n$, sostituendolo con un numero $m$ in modo tale che $m < n$ e, nelle loro rappresentazioni di base-$2$, $m$ e $n$ differiscono esattamente in $\ell$ cifre per alcuni $\ell$ con $1 \le \ell \le k$. Il giocatore che non può muoversi perde. Diciamo che un giocatore che riceve $n$ ha una strategia vincente se può sempre scegliere una mossa che porta alla vittoria indipendentemente dal gioco dell'avversario; altrimenti diciamo che perde. Prove che per ogni intero positivo $N$, il numero di interi non negativi perdenti inferiori a $2^N$ è massimo $2^N - \lfloor \log_2(\lfloor N/1 \rfloor) \rfloor$. (Osservazione: $\lfloor x \rfloor$ indica il numero intero più grande inferiore o uguale a $x$. Ad esempio, $\lfloor 3.14 \rfloor = 3$, $\lfloor 2 \rfloor = 2$, $\lfloor -4.6 \rfloor = -5$.)
 
-[[Quesiti/src_obm_2016_n1_f3#q03|src_obm_2016_n1_f3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,method_invarianti,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -113,8 +107,6 @@ level: OBM Nível 1
 *Sottoinsieme massimo di {1,...2016} senza due elementi diversi di 1, 2 o 6*
 
 > Qual è il maggior numero di interi positivi inferiori o uguali a $2016$ che possiamo scegliere in modo che nessuno dei due numeri scelti differisca da $1$, $2$ o $6$?
-
-[[Quesiti/src_obm_2016_n1_f3#q04|src_obm_2016_n1_f3__Q04]]
 
 
 
@@ -149,8 +141,6 @@ level: OBM Nível 1
 > 
 > b) Determinare il numero di integri $m$ tale che $P_n(m) < 0$ per infiniti integri positivi $n$.
 
-[[Quesiti/src_obm_2016_n1_f3#q05|src_obm_2016_n1_f3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_astrazione,skill_manipolazione_algebrica"></span>
@@ -175,5 +165,3 @@ level: OBM Nível 1
 *Quadrilaterali convexi non ciclici; i circoncenti dei quadrilaterali bisettori e il punto dell'asse radicale sono collineari*
 
 > Il $ABCD$ deve essere un quadrilaterale convex, non ciclico, senza lati paralleli. Le linee $AB$ e $CD$ si incontrano a $L$. $M \ne L$ sia il secondo punto di intersezione dei circoncircoli dei triangoli $ADL$ e $BCL$. I bisettori interni di $ABCD$ determinano un quadrilatero ciclico convex con circumcenter $I$, e i bisettori esterni di $ABCD$ determinano un quadrilatero ciclico con convex con circumcenter $J$. Provare che $I$, $J$ e $M$ sono collineari.
-
-[[Quesiti/src_obm_2016_n1_f3#q06|src_obm_2016_n1_f3__Q06]]

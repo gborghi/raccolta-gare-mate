@@ -40,8 +40,6 @@ level: Concours Général
 > 
 > 1. Calcolare $u_{100}$. 2. Determinare il numero di indici $n$, inferiori o uguali a $1990$, in modo tale che $u_n = 0$. 3. $p$ sia un intero naturale parziale e $N = (2p-1)^2$. Calcolare $u_N$.
 
-[[Quesiti/src_cgen_1990#q01|src_cgen_1990__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -75,8 +73,6 @@ level: Concours Général
 > 
 > Determinare il numero massimo di pezzi nel gioco, sapendo che non ci sono due pezzi identici.
 
-[[Quesiti/src_cgen_1990#q02|src_cgen_1990__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -108,8 +104,6 @@ level: Concours Général
 > 
 > 2. Determinare tutti i numeri naturali $n$ $x_1, x_2, \ldots, x_n$, distinti o meno, verificando: $$1 = \frac{1}{x_1^2} + \frac{1}{x_2^2} + \cdots + \frac{1}{x_n^2}.$$
 
-[[Quesiti/src_cgen_1990#q03|src_cgen_1990__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,topic_geometria_piana,method_estremalita,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_stima"></span>
@@ -138,8 +132,6 @@ level: Concours Général
 > 1. Qual è la superficie massima di un triangolo le cui vertici si trovano tutti in un determinato quadrato?
 > 
 > 2. Qual è il volume massimo di un tetraedro il cui vertice si trovano tutti in un determinato cubo?
-
-[[Quesiti/src_cgen_1990#q04|src_cgen_1990__Q04]]
 
 
 
@@ -184,5 +176,3 @@ level: Concours Général
 > Per tale triangolo, indicare un valore approssimativo, al grado più vicino, della misura dell'angolo $A$ del triangolo $ABC$.
 
 ![[src_cgen_1990__q05.png]]
-
-[[Quesiti/src_cgen_1990#q05|src_cgen_1990__Q05]]

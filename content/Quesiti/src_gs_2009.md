@@ -40,8 +40,6 @@ level: squadre
 
 > The light at the top (points 20) The paranoid robot Marvin is on the edge of the tower A cornice of Megadodo Publications, the publishing house of the 78-meter-high Galactic Guide for Auto Stoppers (G2AS), has just finished the existential discussion with the Frogstar Robot Tank and looks toward the top of the only hill of Ursa Minor B. In fact, you're looking at the light at the top of the antenna on the top of the hill, and to do that, you're raising your head 30 degrees. Knowing that the hill is 856 meters high, the antenna is 6 meters high and Marvin's eyes are 2 meters from the cornice, what is the distance in meters between Marvin's eyes and the top of the antenna?
 
-[[Quesiti/src_gs_2009#q01|src_gs_2009__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
@@ -71,8 +69,6 @@ level: squadre
 *Max attempts for 4 consecutive buttons in a grid*
 
 > The command board (points 20) To activate the Heart of Gold space shuttle command board, made up of 8 rows of 20 buttons each, Zaphod Beeblebrox, the former president of the Galaxy, must press 4 consecutive buttons, in any order, but he doesn't know which ones are, or whether they are arranged horizontally, vertically or diagonally. How many attempts does he have to make to activate the control panel?
-
-[[Quesiti/src_gs_2009#q02|src_gs_2009__Q02]]
 
 
 
@@ -104,8 +100,6 @@ level: squadre
 *Minimum time for nine three-way passengers*
 
 > At the hypergalactic station (points 20) At a hypergalactic station near Arcturus, travellers form a single queue to access the ticket office gates and it is always the one in front of the queue that turns to one of the available gates. Nine travelers are in line, with three gateways in operation; they spend different times, once in front of the gate, to buy their tickets: 4, 6, 9, 11, 15, 36, 38, 40 and 45 minutes. The time taken to complete the purchases was as short as possible under the conditions described. What was the time it took?
-
-[[Quesiti/src_gs_2009#q03|src_gs_2009__Q03]]
 
 
 
@@ -139,8 +133,6 @@ level: squadre
 
 > Deep Thought Time (points 20) To take into account the processing time required by Deep Thought, to produce the Answer to the Definitive Question about Life, the Universe and the Whole, the Unified Syndicate of Other Thinking Philosophies (SUFAP) has prepared a water clessor consisting of two cones, connected at the vertices. Water fills the bottom cone. The clessandra is turned and the water begins to fall; after 2009 years, the water is exactly half the height of the lower cone. The water keeps falling regularly. After how many years since the SUFAP's clex hydrometer was turned, will the water be all in the bottom cone?
 
-[[Quesiti/src_gs_2009#q04|src_gs_2009__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_casework,method_fattorizzazione"></span>
@@ -173,8 +165,6 @@ level: squadre
 *Maximum product leaving the sum parity indeterminate*
 
 > Trillian and Arthur's game (points 30) Waiting for Zaphod's return, Trillian and Arthur play this game. Trillian chooses five different numbers between 1, 2, 3, 4, 5, 6 and 7, makes the product of the five and communicates the result to Arthur who must tell her if the sum of the five numbers is even or odd. What's the biggest number Trillian can say so that Arthur can't determine the answer with certainty? (For example, if Trillian said 1680, from the breakdown into prime factors 1680 = 24 × 3 × 5 × 7, Arthur would even understand that the numbers chosen must be 2, 4, 6, 5 and 7; he would therefore know how to answer with certainty that the sum is equal.) Team competition  Problem texts  Pages. 1 di 5
-
-[[Quesiti/src_gs_2009#q05|src_gs_2009__Q05]]
 
 
 
@@ -210,8 +200,6 @@ level: squadre
 
 > The three clocks (points 30) According to G2AS, in the headquarters of the Galactic Geo-temporal Control, on huge walls, there are clocks that indicate the exact time of many planets. In one corner, there are analog clock ticks, which indicate the time of the only three planets in the universe where the day is divided into 12 hours and 60 minutes: Fallia, Ciceronicus, and Bethselamin. When Trillian looks at the clocks, Fallia's clock is at 7, Bethselamin's is at 11, and Ciceronicus's is at 2. But, as he moves an hour on the Fallia clock, Ciceronicus moves an hour and 20 minutes and, while the Bethsalami clock counts 12 hours, Fallia's clock counts 36. What time will Fallia's clock mark the first time that those of Bethselamin and Ciceronicus will mark the same hour? The answer is given using the first two digits for the hour, the last two digits for the minutes.
 
-[[Quesiti/src_gs_2009#q06|src_gs_2009__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
@@ -240,8 +228,6 @@ level: squadre
 *Area of polygon obtained by folding a sheet on a diagonal*
 
 > A problem of aesthetics, I (points 30) While discussing aesthetics with the Blagulon Kappa Computer, the paranoid robot Marvin takes a 16 cm and 25 cm rectangular sheet of paper, folds it along a diagonal, then glues the overlapping parts. What is the value in cm2 of the polygon area obtained?
-
-[[Quesiti/src_gs_2009#q07|src_gs_2009__Q07]]
 
 
 
@@ -275,8 +261,6 @@ level: squadre
 
 > The humanoid shirts (points 30) Ford Prefect runs to get shirts for the 4 humanoids traveling on the Heart of Gold: Trillian wanted a blue one. There's seven red shirts and eight blue shirts in a drawer, but Ford takes four without looking. What's the probability that at least one is blue? The answer is given by writing the first four digits of the result other than 0.1 and 9, in the order in which they appear. (For example, if the result was 5 7 = 0.714285714 . . . , you should write 7428.)
 
-[[Quesiti/src_gs_2009#q08|src_gs_2009__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico"></span>
@@ -306,8 +290,6 @@ level: squadre
 
 > Slartibartfast overhang (points 40) In Slartibartfast's study, there is a overhang consisting of four 1.2 dm diameter marble balls, locked in a transparent box, with a 2.4 dm square side base without a lid; in the centre, above the four marble balls, a 1.37 dm diameter steel ball is supported. What is the height in mm of the overmobile?
 
-[[Quesiti/src_gs_2009#q09|src_gs_2009__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_conteggio"></span>
@@ -336,8 +318,6 @@ level: squadre
 *Number of trapezoids from 4 vertices of a regular 33-agon*
 
 > The SCS polygon (points 40) In the hall of Sirius Cybernetics Corporation, a decorative panel consists of a regular polygon of 33 sides inscribed in a circumference. As an exercise, the Marvin robot controls all trapezoids (including parallelograms) that can be generated with 4 of the 33 vertices of the polygon. How many traps have you checked?
-
-[[Quesiti/src_gs_2009#q10|src_gs_2009__Q10]]
 
 
 
@@ -369,8 +349,6 @@ level: squadre
 
 > Aesthetics problem, II (points 40) The Blagulon Kappa Computer, which does not approve of the aesthetic meaning of the Marvin robot, takes a rectangular sheet of paper the same size as the one used in problem 7, to fold it in a completely different way from that of Marvin. In fact, it folds it over two opposite vertices, then glues the overlapping parts. What is the value in cm2 of the polygon area obtained?
 
-[[Quesiti/src_gs_2009#q11|src_gs_2009__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,method_fattorizzazione"></span>
@@ -400,8 +378,6 @@ level: squadre
 *Number of farmers given the number of couples' disputes*
 
 > The disputes over Damogran (point 40) On one island of Damogran, there are very contentious farmers. Each of these is in dispute with the others on territorial grounds; for this reason they have turned to a justice of the peace who has opened a practice for each dispute. Knowing that the judge has 438,516 practitioners in his office, how many farmers are there on the island? Team competition  Problem texts  Pag. 2 di 5
-
-[[Quesiti/src_gs_2009#q12|src_gs_2009__Q12]]
 
 
 
@@ -437,8 +413,6 @@ level: squadre
 *Dollars donated to charity by tripling and dividing*
 
 > One hundred neo-mathematicians from the laboratories of Sirius Cybernetics Corporation have devised a system to win at the Santraginus 5 casino. Hooloovoo, the boss, puts in the three dollar altars with which the group of neo-mathematicians starts playing; every night they play, the group triples the fortune. To avoid suspicion, they play once every two weeks, every Thursday. They started on Thursday 20 March 2008; they stopped yesterday. After returning to Hooloovoo the three dollars he had invested initially, the neo-mathematicians divided the total assets won into equal parts, rounding off to an entire number of dollars, and donated the rest to charity. How much have the Altaris donated to charity?
-
-[[Quesiti/src_gs_2009#q13|src_gs_2009__Q13]]
 
 
 
@@ -483,8 +457,6 @@ level: squadre
 
 > The awakening on Eadrax (50 points) On the planet Eadrax a day lasts 100 hours, an hour lasts 100 minutes, a minute lasts 100 seconds. In the main square of the capital, on top of a very high tower, there is a large digital clock, clearly visible, divided into 3 frames hh mm ss. With the ability to always see the great digital clock, workers have become very methodical: they wake up, eat and go to bed all at the same time. • They all wake up at the same time between 7 and 8 a.m.; at that precise time, the clock on the big clock displays three distinct numbers. • They all start eating lunch at the same time, when the large digital clock indicates a time which, as a 6-digit number, is exactly three times that of the alarm clock; the three numbers in the clock frames are the same as the alarm clock, but clearly in a different arrangement. • They all go to sleep at the same time when the large digital clock indicates a time which, as a 6-digit number, is exactly three times the time of the start of lunch; again the three numbers in the clock frames are the same as the time of waking up (and lunch), but in a different arrangement. What's the wake-up time? Write down the minutes and seconds.
 
-[[Quesiti/src_gs_2009#q14|src_gs_2009__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,method_coordinate,skill_casework_accurato"></span>
@@ -526,8 +498,6 @@ level: squadre
 
 > The Temples of Magrathea, I (points 50) On Magrathea it is known that in the distant past many temples were built, rectangular in honour of the Sun Soulianis, and circular in honour of the other Sun Rahm. Excavating in an archaeological area, remains of nine columns are unearthed. Archaeologists determine precisely the positions of their centres: 7 are on the perimeter of a large rectangle (100 m by 11.44 m), occupying the 4 vertices plus 3 other points; 6 are on the perimeter of a smaller rectangle (14.3 m by 6 m), occupying the 4 vertices plus 2 other pointsnecessarily 4 of these points belong to both perimeter. The two rectangles have no parallel sides. In addition, it is observed that a long side of the small rectangle has both ends on the perimeter of the large rectangle, one overlapping to a vertex, and the other not. The long side, on the other hand, has both vertices outside the large rectangle. Archaeologists are trying to determine if they have found traces of a circular temple dedicated to the sun Rahm. To find traces of them with a better chance of success, they decide to dig out all those circular grooves that pass through at least four of the nine columns they have already found. Once you have identified the circles that the archaeologists intend to dig, you count for each of the 9 columns how many of these circles it belongs to; you give the sum of the product of those 9 numbers with the sum of those 9 numbers as the answer. Team competition  Problem texts  Pag. 3 di 5
 
-[[Quesiti/src_gs_2009#q15|src_gs_2009__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,method_invarianti"></span>
@@ -558,8 +528,6 @@ level: squadre
 *Maximum sum of products divided by 50 coins repeatedly*
 
 > The variable cost of a cocktail (50 points) To pay a Pan Galactic Gargle Blaster to the Illegal Bistro, you take 50 Altarian dollars, divide the 50 coins into two heaps, count the coins of each of the two heaps and write the product of the two counts. Then you take one of the heaps with more than one coin and you divide it into two heaps, you count the coins of each heap and you write down the product of the two counts. It goes on until all the heaps are of one coin. All the products are added. You pay the final amount you get (not 50 Altarian dollars). What is the maximum amount that you can pay?
-
-[[Quesiti/src_gs_2009#q16|src_gs_2009__Q16]]
 
 
 
@@ -599,8 +567,6 @@ level: squadre
 
 > On the planet Ursa Minor Beta, there is a very long railway straight with two single tracks where, thanks to a sophisticated computerised system, trains can travel in both directions on each single track. In all the straight lines, no two trains ever travel on the same track. The distance between the two monorails is 1.9 m. Trains travel at constant and predetermined speeds: the most commonly used for fast and normal travel are 295.4 km/h and 147.7 km/h, respectively, when converted into the decimal metric system. Each train has a small antenna at its tip (negligible size) that, when necessary, emits a radio signal. When the antennas of two trains are less than or equal to 749.25 m away they emit a continuous radio signal to signal each other's position. Railway engineers have found that the signal is transmitted for a longer time when two trains are moving in the same direction than when two trains are moving in opposite directions. What is the relationship between the signal transmission time between two trains travelling in the same direction, one travelling at high speed and the other travelling at normal speed, and the signal transmission time between two trains travelling in opposite directions, one travelling at high speed and the other travelling at normal speed? In the answer, you write the ratio multiplied by 100.
 
-[[Quesiti/src_gs_2009#q17|src_gs_2009__Q17]]
-
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_logica,method_colorazione"></span>
@@ -639,8 +605,6 @@ level: squadre
 
 > The Army of Apparent Contradiction (paragraphs 60) The Army of Apparent Contradiction (ECA) of Altair only enlists persons who are willing to tell the truth or the lie. They have very powerful, almost paradoxical weapons that can annihilate exterminated territories in a single, absurd blow. A regiment of 2009 soldiers is made up of honest and lying men. A colonel (you don't become an ECAC colonel if you don't always tell the truth) orders the 2009 regimental soldiers to take a stand, rectangular in 41 rows. At that point, each soldier exclaims: Among those around me, there is exactly one liar. The colonel checks that the soldiers are perfectly aligned, that around each soldier there are 8 soldiers, excluding those on the sides of the rectangle of survey. As a final check, he asks the soldiers in the front line to declare how many liars they have in line. Each of the soldiers in the front row declares: Next to me, in the front row, there is exactly one liar.Among the 2009 soldiers of the ECA regiment, how many are honest?
 
-[[Quesiti/src_gs_2009#q18|src_gs_2009__Q18]]
-
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
@@ -669,8 +633,6 @@ level: squadre
 *Diameter of the smallest circumference between the columns*
 
 > The temples of Magrathea, II (points 60) Of all the circular grooves that are planned to be excavated in issue 15, the first to be excavated is that of the smallest circumference. How many centimetres is the diameter of this circumference?
-
-[[Quesiti/src_gs_2009#q19|src_gs_2009__Q19]]
 
 
 
@@ -704,8 +666,6 @@ level: squadre
 *Maximum 2009 operation with functional property*
 
 > Marvin's boredom (points 70) Analyzing himself, the paranoid robot Marvin finds, in the recesses of his digital circuits, an operation between natural numbers with the following properties: a (a + b) = a b a b = b a a 0 = a for natural numbers a, b any. To pass the time, Marvin calculates the value of n 2009 for all n from 1 to 2008. What's the maximum value Marvin calculated? Team competition  Problem texts  Pag. 4 di 5
-
-[[Quesiti/src_gs_2009#q20|src_gs_2009__Q20]]
 
 
 
@@ -742,8 +702,6 @@ level: squadre
 
 > The game of double head-and-cross (points 70) In Traal's beetles, the game of double head-and-cross, with a coin, is played between two teams of two players. A player from the first team throws the coin: if a cross comes out, he is eliminated from the game; if a head comes out, nothing happens. Now, a player from the other team throws a coin: if he gets a cross, he's eliminated; if he gets a head, he's eliminating one of the players from the first team. The game moves back to the first team and continues as from the beginning. He loses the team that finishes first. What are the odds of the first team winning? The answer is given by writing the first four digits of the result other than 0.1 and 9, in the order in which they appear. (For example, if the result was 5 7 = 0.714285714 . . . , you should write 7428.)
 
-[[Quesiti/src_gs_2009#q21|src_gs_2009__Q21]]
-
 
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_combinatoria,method_cassetti"></span>
@@ -776,8 +734,6 @@ level: squadre
 
 > The paranormal psychiatrist (points 70) To demonstrate to clients his ultra-psychiatric abilities, Dr. Gag Halfrunt has the patient perform an easy experiment: he tells him to extract a certain number of balls from a box containing 2009 balls, numbered from 1 to 2009. He, speaking to the patient, will make sure that, among the balls extracted, there are at least two that give three times the number of the other. The thing is, Gag always pulls out the least number of balls that assures him he gets the result. What is the minimum number n such that, taken in any case n balls numbered from 1 to 2009, there are two of these with numbers that are one triple the other?
 
-[[Quesiti/src_gs_2009#q22|src_gs_2009__Q22]]
-
 
 
 <span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_logica,method_backward,method_invarianti"></span>
@@ -809,8 +765,6 @@ level: squadre
 *Winning move in the board breaking game*
 
 > After drinking three Pan Galactic Gargle Blasters, Ford and Zaphod had the Nutrimatic Food Synthesizer generate a huge rectangular square chocolate table: 9002 columns, each composed of 2009 square chocolate. They decide to play a game: they may splash the box on a top; then, in turn, each of them will break the table (or what is left of it) into two rectangular pieces, along one of the drains between the boxes, eating one of the two parts. Whoever eats the box with the mayonnaise loses. Ford plays first. Which rectangle must eat on the first move to be sure of winning? The answer indicates the number of different pictures from 2009 and 9002 of one of the sides of the piece of chocolate you have to eat.
-
-[[Quesiti/src_gs_2009#q23|src_gs_2009__Q23]]
 
 
 
@@ -851,5 +805,3 @@ level: squadre
 *Most teams in the tournament with MCD rule on scores*
 
 > The MCD Championship (points 80) Planets participating in the MCD Galactic Championship tournament must register two teams to the tournament; each team plays once and only once against all teams from the other participating planets, but does not play against the other team from its own planet. MCD is a very special game: this year, it predicts that a match will end when the sum of the points scored by the two teams is 2009, but with one important exception. When the sum reaches 2009, if the scores of the two teams have a maximum common divisor other than 1, the lead team's score is zero and the game continues. Knowing that all matches ended with different scores (2008-1 and 1-2008 are considered equal scores), how many teams could be at most? For more information, you can consult the Galactic Guide for Auto Stoppers, as transcribed by Douglas Adams, to whose heirs belong the rights to the characters and places mentioned and to whose minds go ∞ thanks for the excellent transcription. Team competition  Problem texts  Pag. 5 di 5
-
-[[Quesiti/src_gs_2009#q24|src_gs_2009__Q24]]

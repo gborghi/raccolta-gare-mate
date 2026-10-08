@@ -40,7 +40,6 @@ level: squadre
 > A relaxing cruise Vennma, Dafnne, Fredmath, S-Higgs and their trusted friend Scoobe-Zout are on their way to meet Fredmath's parents and set off on a relaxing cruise to celebrate his birthday. During the trip, between one chatter and the other, Vennma draws on his notebook an ABCD rectangle with AB = 60mm and BC = 80mm. On the diagonal AC constructs a rectangle such that AC is one side and the side opposite it passes through B. Similarly on BD it builds a rectangle passing through A. Dafnne takes the lipstick and colours the whole figure and finally exclaims: "Now it's much better!" Calculate the colored area or the area of the union of the three rectangles.
 
 **Answer:** 8925
-[[Quesiti/src_squadre_2024_finale#q01|src_squadre_2024_finale__Q01]]
 
 
 
@@ -72,7 +71,6 @@ level: squadre
 > Welcome Cocktail Finally set off for the cruise, and it all starts in the best way possible: with an inaugural aperitif. S-Higgs and Scoobe-Zout already have water in their mouths, but they discover that in order to participate in the buffet you have to find a two-digit number n equal to the sum between the square of the number of tens and the cube of the number of units. Determine the sum of all numbers with these properties.
 
 **Answer:** 0106
-[[Quesiti/src_squadre_2024_finale#q02|src_squadre_2024_finale__Q02]]
 
 
 
@@ -105,7 +103,6 @@ level: squadre
 > Visiting the ship Summy Suy Deevysori, the cruise director, leads the group of visitors to discover the wonders of the ship: the octagonal swimming pools, the puzzle room, the mind's gym and stops in front of a narrow corridor of 2m that still has to be tiled. Summy recommends that it be completely towed using only 1m×2m or 1m×3m mattresses, without overlapping. How many different ways can they achieve the objective?
 
 **Answer:** 0030
-[[Quesiti/src_squadre_2024_finale#q03|src_squadre_2024_finale__Q03]]
 
 
 
@@ -139,7 +136,6 @@ level: squadre
 > Summy greets them by giving them Captain Kronecker's business card. The note has a literal expression. Fredmath notes that the expression is a polynomial and the sum of the coefficients is 2. Vennma points out that the polynomial calculated in the double is NOT the same as the double of the polynomial. The difference is twice the square of the diminished variable of 1. So Dafn notes that p ((2R) = 2p ((R) + 2R2 −1. Summy recalls that in order to meet Captain Kronecker they'll have to find the value of the polynomial calculated in 2024. Which number will allow them to meet the captain?
 
 **Answer:** 6577
-[[Quesiti/src_squadre_2024_finale#q04|src_squadre_2024_finale__Q04]]
 
 
 
@@ -170,7 +166,6 @@ Maximum odd coefficient in the development of (x+y)^13*
 > Captain Kronecker's arrivals, he begins by saying, "As you may have guessed from my business card, I am a polynomial enthusiast. One of my favorite questions is: What is the greatest odd coefficient in the development of (x+y)13? What is the answer?
 
 **Answer:** 1287
-[[Quesiti/src_squadre_2024_finale#q05|src_squadre_2024_finale__Q05]]
 
 
 
@@ -205,7 +200,6 @@ Maximum odd coefficient in the development of (x+y)^13*
 > Scoobe-Zout met a guy on the ship with a somewhat disturbing airtight. Immediately he escapes and jumps into the arms of S-Higgs who, seeing him so frightened, decides to build him an amulet to protect him. At the beginning S-Higgs takes a wooden cube of 10000mm3. However, as Scoobe-Zout prefers octahedra, S-Higgs uses his precision saw and cuts the cube to obtain an octahedra that has the centers of the cube's faces to top. When the operation is over, Scoobe-Zout reminds him that in the Inca tradition octahedra are cursed. Then, quickly, S-Higgs re-shapes the octahedron to get a cube that has the centers of the octahedron's faces to top. What is the value in cubic millimetres of the volume of the amulet? 2024 Team Competition  National Final  Problem Tests  1/4
 
 **Answer:** 0370
-[[Quesiti/src_squadre_2024_finale#q06|src_squadre_2024_finale__Q06]]
 
 
 
@@ -238,7 +232,6 @@ Maximum odd coefficient in the development of (x+y)^13*
 > For a swim in the pool! Fredmath doesn't see the time to unpack and put on his suitcase, but when he gets to the room he discovers that to enter he has to type a combination: a number n of exactly 4 digits, all different from zero, such that n = aa +bb +cc +dd where a,b,c,d are the digits of the thousands, the hundreds, the tens and the units of n respectively. What's the right combination?
 
 **Answer:** 3435
-[[Quesiti/src_squadre_2024_finale#q07|src_squadre_2024_finale__Q07]]
 
 
 
@@ -271,7 +264,6 @@ Maximum odd coefficient in the development of (x+y)^13*
 > Looking for trouble, Vennma arrives near the pool to meet Fredmath, but is distracted by noticing that there are a few people chatting about the drain. He can peek at a sheet where he reads: Given ABC a triangle with AB = 1 and AC = 2, both Γ its circumscribed circumference, of center O. The intersections of height from A and AO extension with Γ are D and S respectively. In addition, AO intersects the BC straight into E. Knowing that the circumference passing through D,E,S is the straight line BC, determine 1000 BC". Vennma approaches the group and exclaims "Beh, but it's easy, the
 
 **Answer:** 2236
-[[Quesiti/src_squadre_2024_finale#q08|src_squadre_2024_finale__Q08]]
 
 
 
@@ -305,7 +297,6 @@ Maximum odd coefficient in the development of (x+y)^13*
 > Fredmath's parents are playing with a deck of nine cards numbered 1 to 9. Summy approaches, takes 4 cards and asks: How many different ways are there to order these cards?, Scoobe-Zout answers: By changing the position of the 4 cards you can get 24 numbers of 4 digits, all different. Then S-Higgs asks:  And if I added them all and 24 what number would I get? Vennma observes promptly: It depends on the cards, but by multiplying this sum by a number of exactly three digits you can get a perfect square n2. When you vary the choice of the initial 4 cards, what is the maximum value of n?
 
 **Answer:** 6666
-[[Quesiti/src_squadre_2024_finale#q09|src_squadre_2024_finale__Q09]]
 
 
 
@@ -341,7 +332,6 @@ Maximum odd coefficient in the development of (x+y)^13*
 > Mandala extra-large On the deck of the ship there is a gigantic panel made up of 2024 boxes, initially white, with the title Keep calm and color on. To relax, Vennma and Dafnne begin to color them in turn: Vennma with blue and Dafnne with red. Vennma randomly selects any grid and colour box. Then Dafnne chooses a square 2 × 2 containing the newly coloured box and colours the 3 remaining white boxes. Vennma then chooses a square 3×3 containing all 4 of the boxes already selected and colours the remaining 5. They continue to do so, alternating, until the 2024th stage, when Dafnne stains the last 4047 white boxes. How many possible final grille colors are there? Provide the sum of the exponents of factorization in prime factors as a response.
 
 **Answer:** 4046
-[[Quesiti/src_squadre_2024_finale#q10|src_squadre_2024_finale__Q10]]
 
 
 
@@ -377,7 +367,6 @@ Maximum odd coefficient in the development of (x+y)^13*
 > The Ring of Riddles On the open terrace there is a ring path made up of 20 boxes numbered in the order of 1 to 20. Fredmath wants to play and places himself on box 1, throws a classic giant 6-sided dice and advances the indicated; he is given a riddle, if he answers correctly he starts a new turn by throwing the dice, if he makes a mistake, instead, he returns back 2 boxes and then starts a new turn by throwing the dice. He can do whatever shifts he wants. It's just a challenge to himself. Knowing that all the riddles are easy for him and he answers all correctly except box 6, how many sequences of four dice rolls are possible for Fredmath to return to box 1 exactly?
 
 **Answer:** 0028
-[[Quesiti/src_squadre_2024_finale#q11|src_squadre_2024_finale__Q11]]
 
 
 
@@ -415,7 +404,6 @@ Maximum odd coefficient in the development of (x+y)^13*
 > Enjoy the dinner! There's a table full of delicious salads. The waiter has to distribute the salads to the 6 guests: first to S-Higgs who is the most hungry, then to Fredmath, to his mother, to his father, to Vennma and finally to Dafnne. He prepares the portions with a ceremonial elaboration: he gives a salad to Scoobe-Zout and half the remaining salad to the first guest; then he gives two salad to Scoobe-Zout and 2 3 of the remaining salad to the second guest and continues thus giving k salad to Scoobe-Zout and k k+1 of the remaining salad to the k-eighth guest. S-Higgs is about to make his first salad, but the waiter stops him and says, "I've managed to do all the subdividing without any residue, without dividing the salads, and everyone has at least one. Guess how many salads I've distributed? What was the minimum number of salads on the table at first?
 
 **Answer:** 0079
-[[Quesiti/src_squadre_2024_finale#q12|src_squadre_2024_finale__Q12]]
 
 
 
@@ -457,7 +445,6 @@ Maximum odd coefficient in the development of (x+y)^13*
 > Second part: the cruise mystery As soon as everyone wakes up from the trance, the cruise ship is attacked by ghost pirates, led by Captain BarbaAlberta: they kidnap all the passengers and sink the ship, leaving behind only S-Higgs, Fredmath, Vennma, Dafnne and the trusted Scoobe-Zout.
 
 **Answer:** 6080
-[[Quesiti/src_squadre_2024_finale#q13|src_squadre_2024_finale__Q13]]
 
 
 
@@ -491,7 +478,6 @@ Maximum odd coefficient in the development of (x+y)^13*
 > Towards the BarbaAlberta hiding place [⋆⋆⋆] To go from the wreck point to the BarbaAlberta secret hiding place you follow the sides of the boxes of a 2024×2024 square grid. The pirate ship follows one path, Scoobe-Zout's group another. Knowing that the two companions started together from a top of the grid and will arrive at the opposite top following a minimum path, if they had chosen the two paths at random, what would be the probability that their paths would have only the beginning and the end points in common? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
 
 **Answer:** 8095
-[[Quesiti/src_squadre_2024_finale#q14|src_squadre_2024_finale__Q14]]
 
 
 
@@ -527,7 +513,6 @@ Maximum odd coefficient in the development of (x+y)^13*
 > Shut up, we're going down! You've arrived at BarbaAlberta's hideout, not even time to look around, which is also the pirate ship arriving. On it is Captain BarbaAlberta and other 2024 pirates, who for convenience are numbered from 1 to 2024; to the pirate m BarbaAlberta assigns a positive rational number am such that, for m = 31,32,...,2024, one has am = m2 max1≤l≤30{l +am−l}. The pirates are sent by the captain on a mission to capture the intruders. How many pirates are on the mission? Provide the sum of all possible answers.
 
 **Answer:** 2820
-[[Quesiti/src_squadre_2024_finale#q15|src_squadre_2024_finale__Q15]]
 
 
 
@@ -563,7 +548,6 @@ Maximum odd coefficient in the development of (x+y)^13*
 > Vennma thinks: BarbaAlberta is hiding something: I can't have seen World War I planes fly over us. Then check with Dafnne undercover until you find the combination lock in BarbaAlberta's cabin, bearing the inscription the spectrum of (x−2)(x+2)(x2 +x+1)(x2 −x+1). Heat, the spectrum of a polynomial with integer coefficients for a ghost pirate! exclaims Dafnne. Vennma reflects: I am sure that the spectrum is an integer number and, adding up the spectra of all polynomials of a polynomial p, you get exactly the value of the polynomial p calculated in its degree! Then Dafnne points out: Certainly! And the polynomials that are children of p(x) are those that have whole coefficients that divide the polynomial and whose degree divides the degree of p(x). Surprisingly, each monic polynomial is a child of its own. What is the combination of the BarbaAlberta cabin lock?
 
 **Answer:** 2530
-[[Quesiti/src_squadre_2024_finale#q16|src_squadre_2024_finale__Q16]]
 
 
 
@@ -599,7 +583,6 @@ Maximum odd coefficient in the development of (x+y)^13*
 > To find the center of the Permuda Peninsula, you must find in the sky the stars depicted in an ancient painting. The stars A, B, C and D form a quadrilateral in which AB = 6, BC = 12, the diagonal AC = 16, such that the diagonal BD bisects the angle \ ABC, and said E the intersection of the diagonals, we have BE ·ED = 21. The circumferences C1 and C2 are traced, bounded by the triangles ABD and BCD respectively. They intersect AC in G and F respectively. Finally , the DF and DG lines intersect the sides AB and BC respectively in X and Y . Determine the length of XY multiplied by 100.
 
 **Answer:** 0802
-[[Quesiti/src_squadre_2024_finale#q17|src_squadre_2024_finale__Q17]]
 
 
 
@@ -633,7 +616,6 @@ Maximum odd coefficient in the development of (x+y)^13*
 > As the tide descends, five rocky spots emerge from the water at the summits of an ABCDE pentagon inscribed in a radius of 43 √ 3. AB = BC, DE = EA and all its sides have lengths expressed as integers. In addition \ BAE = 120°. How much is the perimeter of ABCDE?
 
 **Answer:** 0417
-[[Quesiti/src_squadre_2024_finale#q18|src_squadre_2024_finale__Q18]]
 
 
 
@@ -667,7 +649,6 @@ Maximum odd coefficient in the development of (x+y)^13*
 > Captain Barba Alberta explains to his crew that to dominate the seven unchallenged seas they must open a portal to the past. The passage from the present to the past is a cone with a base radius of 10 m that descends into the abyss; the passage from the past to the present is an identical but reversed cone such that its axis is parallel to that of the first, whose top is at the base of the first cone at a distance of 6 m from the center of the base. Given the intersection of the two cones and its projection on the plane containing the base of the first, the portal is activated only by finding the area of the plane region contained in the curve obtained by the projection. Which number will activate the portal?
 
 **Answer:** 0062
-[[Quesiti/src_squadre_2024_finale#q19|src_squadre_2024_finale__Q19]]
 
 
 
@@ -703,7 +684,6 @@ Maximum odd coefficient in the development of (x+y)^13*
 > The pirate skeletons are still grappling with solid geometry when an alien ship appears in the sky: they're Dafnne and Fredmath masked. Dafnne and BarbaAlberta begin the final duel consisting of this game: it starts with a pair of positive integers (x,y). The move to be made at each turn is to change the present pair (x,y) with a pair (z,y −z), where 1 ≤z ≤x; the second number, however, can never become negative. The winner is the first one who can change the pair so that the second number is 0. For how many initial pairs with 1 ≤x,y ≤100 does Daφne have a winning strategy, knowing that it starts first? 1a polynomial is said to be monic if the coefficient of the maximum degree term is equal to 1. 2024 Team Competition  National Finals  Problem Tests  3/4
 
 **Answer:** 9724
-[[Quesiti/src_squadre_2024_finale#q20|src_squadre_2024_finale__Q20]]
 
 
 
@@ -748,4 +728,3 @@ Maximum odd coefficient in the development of (x+y)^13*
 > XXV National Final Team Competition  Saturday 4 May 2024 Ministry of Education and Merit Solutions Nr. The problem
 
 **Answer:** 0028
-[[Quesiti/src_squadre_2024_finale#q21|src_squadre_2024_finale__Q21]]

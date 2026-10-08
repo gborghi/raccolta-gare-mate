@@ -38,8 +38,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > Julien divided his deck of $32$ cards into two unequal packs of $19$ cards (left) and $13$ cards (right). The left packet contains $13$ black cards. How many red cards does the right pack contain? Note: a deck of $32$ cards contains as many red cards as black cards.
 
-**Answer:** 10 carte rosse
-[[Quesiti/src_bocconi_finaleint_2008_g1#q01|src_bocconi_finaleint_2008_g1__Q01]]
+**Answer:** 10 red cards
 
 
 
@@ -67,8 +66,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 
 > On the planet Sram there are three types of people: the truthful, who always tell the truth; the liars, who always lie; and the alternatives, who alternately tell the truth, lie, tell the truth, lie, ... You meet a man from the planet Sram and ask him two questions: ?». It's you. ?». The answers to these two questions help you to know what kind of inhabitants you are dealing with. What word is missing in each of the two questions?
 
-**Answer:** Alternativo, Alternativo
-[[Quesiti/src_bocconi_finaleint_2008_g1#q02|src_bocconi_finaleint_2008_g1__Q02]]
+**Answer:** Alternative, Alternative
 
 
 
@@ -96,8 +94,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 
 > A cube of $3$ cm on the side was manufactured by gluing together $27$ cubes of $1$ cm on the side. What is the largest number of cubes visible from a single point of view?
 
-**Answer:** 19 cubetti
-[[Quesiti/src_bocconi_finaleint_2008_g1#q03|src_bocconi_finaleint_2008_g1__Q03]]
+**Answer:** 19 small cubes
 
 
 
@@ -125,7 +122,6 @@ On the planet Sram, identify the type of inhabitant with two questions.
 > Four buses run a circular route. The interval between them is $24$ minutes. If you want to reduce this interval to $16$ minutes, how many buses do you need to add on the route?
 
 **Answer:** 2 bus
-[[Quesiti/src_bocconi_finaleint_2008_g1#q04|src_bocconi_finaleint_2008_g1__Q04]]
 
 
 
@@ -153,8 +149,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 
 > In a digital display, each digit is represented by two to seven bright segments (see drawing here). How many light segments must be switched off, at a minimum, to make the equation on the right $00+00=100$ true?
 
-**Answer:** 2 segmenti
-[[Quesiti/src_bocconi_finaleint_2008_g1#q05|src_bocconi_finaleint_2008_g1__Q05]]
+**Answer:** 2 segments
 
 
 
@@ -181,8 +176,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 
 > William has twice as many brothers as he has sisters. Her sister Florence has three times as many brothers as sisters. How many children is this family made up of?
 
-**Answer:** 13 figli
-[[Quesiti/src_bocconi_finaleint_2008_g1#q06|src_bocconi_finaleint_2008_g1__Q06]]
+**Answer:** 13 children
 
 
 
@@ -214,8 +208,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 
 ![[src_bocconi_finaleint_2008_g1__q07.png]]
 
-**Answer:** 24 triangolini
-[[Quesiti/src_bocconi_finaleint_2008_g1#q07|src_bocconi_finaleint_2008_g1__Q07]]
+**Answer:** 24 small triangles
 
 
 
@@ -244,7 +237,6 @@ On the planet Sram, identify the type of inhabitant with two questions.
 > An urn contains nine cards. Each of the numbers from $1$ to $9$ is written on a piece of paper (one number per piece of paper). Quentin randomly picks up four cards in the oven. Then Typhaine takes three, leaving one in the oven. Quentin looks at his cards and, confidently, says to Tiphaine: "I'm sure the sum of the numbers written on your cards is a odd number". What's the sum of the numbers written on the cards Quentin took?
 
 **Answer:** 20
-[[Quesiti/src_bocconi_finaleint_2008_g1#q08|src_bocconi_finaleint_2008_g1__Q08]]
 
 
 
@@ -272,8 +264,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 
 > Six points $A$, $B$, $C$, $D$, $E$ and $F$ are marked on a straight line, not necessarily in this order. It is known that $AB = 2$ cm, $BC = 3$ cm, $CD = 5$ cm, $DE = 7$ cm, $EF = 8$ cm and $FA = 9$ cm. What is the distance in cm between the two most distant points?
 
-**Answer:** 2 soluzioni: 17 cm; 15 cm
-[[Quesiti/src_bocconi_finaleint_2008_g1#q09|src_bocconi_finaleint_2008_g1__Q09]]
+**Answer:** 2 solutions: 17 cm; 15 cm
 
 
 
@@ -305,8 +296,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 
 ![[src_bocconi_finaleint_2008_g1__q10.png]]
 
-**Answer:** 11 regioni chiuse
-[[Quesiti/src_bocconi_finaleint_2008_g1#q10|src_bocconi_finaleint_2008_g1__Q10]]
+**Answer:** 11 closed regions
 
 
 
@@ -338,8 +328,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 
 ![[src_bocconi_finaleint_2008_g1__q11.png]]
 
-**Answer:** 1 soluzione
-[[Quesiti/src_bocconi_finaleint_2008_g1#q11|src_bocconi_finaleint_2008_g1__Q11]]
+**Answer:** 1 solution
 
 
 
@@ -371,8 +360,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 
 ![[src_bocconi_finaleint_2008_g1__q12.png]]
 
-**Answer:** 1 soluzione
-[[Quesiti/src_bocconi_finaleint_2008_g1#q12|src_bocconi_finaleint_2008_g1__Q12]]
+**Answer:** 1 solution
 
 
 
@@ -400,8 +388,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 
 > A camel shed is located at the entrance of the desert and must supply water to a field located $16$ km from there. It has a water reserve of $100$ L and two camels moving at $4$ km/h. When moving, a camel can carry up to $50$ L of water and consume $4$ L of water per hour while, when standing, it consumes only $1$ L per hour. The camel rider, for his part, consumes $2$ L of water per hour walking and $1$ L of water per hour standing. A camel that is not led by its camel keeper can no longer navigate the desert. The camel keeper can tie a camel to a picket and leave it alone. How much water can the camelman deliver to the camp, knowing that he must be able to get out of the wilderness (at the same point of entry) with his two camels?
 
-**Answer:** 30 litri
-[[Quesiti/src_bocconi_finaleint_2008_g1#q13|src_bocconi_finaleint_2008_g1__Q13]]
+**Answer:** 30 liters
 
 
 
@@ -433,8 +420,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 
 ![[src_bocconi_finaleint_2008_g1__q14.png]]
 
-**Answer:** 2 soluzioni
-[[Quesiti/src_bocconi_finaleint_2008_g1#q14|src_bocconi_finaleint_2008_g1__Q14]]
+**Answer:** 2 solutions
 
 
 
@@ -462,8 +448,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 
 > Aline has $2010$ breasts: two numbered $0$ and the others numbered $1$ to $2008$. $2009$ people are in a room and Aline puts one of her breasts on each one without her seeing it. The last chest is hidden. Each person knows the number of breasts of all the others. These people then line up randomly in an order unknown to all. The first of the line tells the second (in such a way that no one else understands) whether or not she has guessed her number (she will tell anyone). Similarly, the second person tells the third person's ear whether or not she guessed her number and so on until the end... (These people all reason perfectly). For the record, I learned that the fifth person in the line had guessed his number. How many people could guess their number?
 
-**Answer:** 6 soluzioni: 1; 2005; 2006; 2007; 2008; 2009
-[[Quesiti/src_bocconi_finaleint_2008_g1#q15|src_bocconi_finaleint_2008_g1__Q15]]
+**Answer:** 6 solutions: 1; 2005; 2006; 2007; 2008; 2009
 
 
 
@@ -491,8 +476,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 
 > Chloé has regular paper tetrahedra (triangular-based pyramids whose faces are all equilateral triangles). Each face of these tetrahedra is divided into four equilateral triangles, and Chloé colors each triangle of his tetrahedra in orange, green, blue, or yellow. Chloé finds a beautiful coloration if for each triangle, he and his three neighbors use exactly once each of the four colors (a triangle can have a neighbor on one face). How many different beautiful colors can you get, at most? (Two colors are different if you can't switch from one to the other by spinning the tetrahedron in space.)
 
-**Answer:** 20 colorazioni
-[[Quesiti/src_bocconi_finaleint_2008_g1#q16|src_bocconi_finaleint_2008_g1__Q16]]
+**Answer:** 20 colorings
 
 
 
@@ -524,8 +508,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 
 ![[src_bocconi_finaleint_2008_g1__q17.png]]
 
-**Answer:** 1 soluzione
-[[Quesiti/src_bocconi_finaleint_2008_g1#q17|src_bocconi_finaleint_2008_g1__Q17]]
+**Answer:** 1 solution
 
 
 
@@ -554,4 +537,3 @@ On the planet Sram, identify the type of inhabitant with two questions.
 > Picsou owns four types of gold bullion, each available in infinite quantities. They are rectangular bricks $A$, $B$, $C$ and $D$ of the same density, the dimensions in centimetres being: $\bullet$ $3$, $4$ and $7$ respectively for $A$; $\bullet$ $3$, $4$ and $11$ for $B$; $\bullet$ $3$, $7$ and $11$ for $C$; $\bullet$ $4$, $7$ and $11$ for $D$. With four $A$ bars, one $B$ bar, four $C$ bars and two $D$ bars, Picsou obtains an exact amount of gold equal to $2008$ cm$^3$. What is the maximum amount of gold in cm$^3$ that you cannot get exactly?
 
 **Answer:** 2017
-[[Quesiti/src_bocconi_finaleint_2008_g1#q18|src_bocconi_finaleint_2008_g1__Q18]]

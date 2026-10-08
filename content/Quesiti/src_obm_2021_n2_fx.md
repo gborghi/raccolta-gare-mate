@@ -45,8 +45,6 @@ level: OBM Nível 2
 > 
 > b) Qual è la maggiore lonjura possibile tra i numeri da $3$ a $1000$?
 
-[[Quesiti/src_obm_2021_n2_fx#q01|src_obm_2021_n2_fx__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -80,8 +78,6 @@ level: OBM Nível 2
 > 
 > b) Indicare che le righe $A_2A_3$, $B_2B_3$ e $C_2C_3$ sono simultanee.
 
-[[Quesiti/src_obm_2021_n2_fx#q02|src_obm_2021_n2_fx__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,skill_modellizzazione,skill_casework_accurato,skill_stima"></span>
@@ -106,8 +102,6 @@ level: OBM Nível 2
 *Round-robin con le squadre del 2021, 3/1/0 segnando; i primi due giocano la finale, l'OBM ha il vantaggio del tiebreak e ha vinto la sua prima partita. Trova il punteggio finale minimo che dà una possibilità alla finale*
 
 > In un campionato di calcio con squadre $2021$, le squadre giocano l'una contro l'altra, tutte giocando esattamente una volta contro ciascuna delle altre. Alla fine di ogni partita, in caso di pareggio, ogni squadra guadagna $1$ punti; altrimenti, il vincitore della partita guadagna $3$ punti e il perdente $0$ punti. Alla fine del campionato, le due squadre con i punteggi più alti disputano la finale. In caso di parità di punti, il risultato della prima partita giocata tra loro decide chi ha il vantaggio; cioè, in qualsiasi parità di punti finali il vincitore testa a testa ha il vantaggio. Il club di calcio OBM ha vinto la sua prima partita, ed è noto che, essendo il campione della precedente edizione, si avvale di qualsiasi pareggio nei punti finali. Qual è il punteggio finale minimo per far sì che l'OBM Football Club abbia qualche possibilità di raggiungere la finale?
-
-[[Quesiti/src_obm_2021_n2_fx#q03|src_obm_2021_n2_fx__Q03]]
 
 
 
@@ -141,8 +135,6 @@ level: OBM Nível 2
 > Determinare il rapporto $\dfrac{a}{c}$.
 
 ![[src_obm_2021_n2_fx__q04.png]]
-
-[[Quesiti/src_obm_2021_n2_fx#q04|src_obm_2021_n2_fx__Q04]]
 
 
 
@@ -185,8 +177,6 @@ level: OBM Nível 2
 > 
 > Determina tutti i triplici miranaha.
 
-[[Quesiti/src_obm_2021_n2_fx#q05|src_obm_2021_n2_fx__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_insiemi_funzioni,method_congruenze,method_casework,skill_astrazione,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
@@ -220,5 +210,3 @@ level: OBM Nível 2
 > Supponiamo che tutti i numeri interi positivi che non appartengono all'insieme $A(\alpha)$ lasciano esattamente lo stesso rimanente $r$ quando viene diviso da $2021$, con $0 \leq r < 2021$. Determinare tutti i possibili valori di $\alpha$.
 > 
 > *Osservazione: * il simbolo $\lfloor x \rfloor$ indica il numero intero più grande inferiore o uguale a $x$. Per esempio, se $\alpha=\sqrt{3}$, da $\sqrt{3}=1{,}73\ldots$ abbiamo $\lfloor \sqrt{3} \rfloor=1$, $\lfloor 2\sqrt{3} \rfloor=3$, $\lfloor 3\sqrt{3} \rfloor=5$, $\lfloor 4\sqrt{3} \rfloor=6$ e così via. In questo caso $A(\alpha)=\{1,3,5,6,\ldots\}$.
-
-[[Quesiti/src_obm_2021_n2_fx#q06|src_obm_2021_n2_fx__Q06]]

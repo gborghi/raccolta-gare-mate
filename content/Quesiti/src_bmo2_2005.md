@@ -35,8 +35,6 @@ level: BMO Round 2
 
 > Il numero intero $N$ è positivo. Esistono esattamente coppie ordinate 2005 $(x, y)$ di integri positivi che soddisfano $$\frac{1}{x} + \frac{1}{y} = \frac{1}{N}.$$ Prove che $N$ è un quadrato perfetto.
 
-[[Quesiti/src_bmo2_2005#q01|src_bmo2_2005__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -61,8 +59,6 @@ level: BMO Round 2
 *Bissettori angolari e lati opposti in triangolo con cerchio circoscritto*
 
 > In triangolo $ABC$, $\angle BAC = 120^\circ$. Lasciate che i bisettori angolari degli angoli $A$, $B$ e $C$ incontrino rispettivamente i lati opposti a $D$, $E$ e $F$. Provare che il cerchio di diametro $EF$ passa attraverso $D$.
-
-[[Quesiti/src_bmo2_2005#q02|src_bmo2_2005__Q02]]
 
 
 
@@ -89,8 +85,6 @@ level: BMO Round 2
 *Prove la disuguaglianza dei valori reali positivi a, b, c*
 
 > Lasciate che $a, b, c$ siano numeri reali positivi. Provare che $$\left(\frac{a}{b} + \frac{b}{c} + \frac{c}{a}\right)^2 \ge (a + b + c)\left(\frac{1}{a} + \frac{1}{b} + \frac{1}{c}\right).$$
-
-[[Quesiti/src_bmo2_2005#q03|src_bmo2_2005__Q03]]
 
 
 
@@ -119,5 +113,3 @@ level: BMO Round 2
 *Contare i sottogruppi di 3 elementi di {1,...,n} con condizioni di intersezione e vuoto*
 
 > Il $X = \{A_1, A_2, \ldots, A_k\}$ deve essere un insieme di sottoinsiemi di 3 elementi di $\{1, 2, \ldots, n\}$ in modo tale che: (i) $A_i$ e $A_j$ abbiano un intersezione non vuota per ogni $i, j$, (ii) l'intersezione di tutti gli elementi di $X$ sia il set vuoto. Mostra che $n \le 100$. Quanti sono tali $X$ quando $n = 100$?
-
-[[Quesiti/src_bmo2_2005#q04|src_bmo2_2005__Q04]]

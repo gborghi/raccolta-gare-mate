@@ -33,8 +33,6 @@ level: OBM Nível 3
 
 > Sono dati quindici numeri naturali superiori a $1$ e inferiori a $1998$ in modo tale che due di essi siano relativamente primi. Mostrare che almeno uno di questi quindici numeri è primo.
 
-[[Quesiti/src_obm_1998_n3_f3#q01|src_obm_1998_n3_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -59,8 +57,6 @@ level: OBM Nível 3
 *Triangolo con D punto medio di AB, E su BC con BE=2EC, angoli uguali; trovare angolo BAC*
 
 > Nel triangolo $ABC$, $D$ è il punto medio di $AB$ e $E$ è il punto laterale $BC$ in modo tale che $BE = 2 \cdot EC$. Dato che gli angoli $\widehat{ADC}$ e $\widehat{BAE}$ sono uguali, trovare l'angolo $\widehat{BAC}$.
-
-[[Quesiti/src_obm_1998_n3_f3#q02|src_obm_1998_n3_f3__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: OBM Nível 3
 
 > Due persone giocano a un gioco descritto come segue. Inizialmente scelgono due numeri naturali $n \ge 2$ (numero di round) e $t \ge 1$ (incremento massimo). Nel primo round, il giocatore $A$ sceglie un numero naturale $m_1 > 0$ e, successivamente, il giocatore $B$ sceglie un numero naturale $n_1$ con $0 < n_1 < m_1$. Nel round $k$, per $2 \le k \le n$, il giocatore $A$ sceglie un numero naturale $m_k$ con $n_{k-1} < m_k \le n_{k-1} + t$ e, successivamente, il giocatore $B$ sceglie un numero naturale $n_k$ con $m_k < n_k \le m_k + t$. Dopo queste scelte, nel round $k$, il giocatore $A$ guadagna $\mathrm{mdc}(m_k, n_{k-1})$ punti e il giocatore $B$ guadagna $\mathrm{mdc}(m_k, n_k)$ punti. Il giocatore che guadagna il maggior numero totale di punti alla fine dei round $n$ è considerato vincitore. In caso di punteggi totali uguali, il giocatore $A$ è considerato vincitore. Per ciascuna scelta di $n$ e $t$, determinare quale dei due giocatori ha una strategia vincente.
 
-[[Quesiti/src_obm_1998_n3_f3#q03|src_obm_1998_n3_f3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -113,8 +107,6 @@ level: OBM Nível 3
 *Gioco quadratico-coefficiente per due giocatori utilizzando due enti e 1998; il primo giocatore forza due radici razionali distinte*
 
 > Due ragazzi giocano il seguente gioco. Il primo sceglie due diversi enti non zeri e il secondo scrive un'equazione di secondo grado utilizzando come coefficienti i due numeri scelti dal primo giocatore insieme a $1998$, in qualsiasi ordine desideri (ad esempio, con $a$ e $b$ può scrivere l'equazione $1998x^2 + ax + b = 0$, o $bx^2 + 1998x + a = 0$, ecc.). Il primo giocatore è considerato vincitore se l'equazione ha due radici razionali distinte. Dimostra che il primo giocatore può sempre vincere.
-
-[[Quesiti/src_obm_1998_n3_f3#q04|src_obm_1998_n3_f3__Q04]]
 
 
 
@@ -141,8 +133,6 @@ level: OBM Nível 3
 
 > Determinare tutte le funzioni $f : \mathbb{N} \to \mathbb{N}$ che soddisfano $f(2f(x)) = x + 1998$ per ogni $x \in \mathbb{N} = \{0, 1, 2, \ldots\}$.
 
-[[Quesiti/src_obm_1998_n3_f3#q05|src_obm_1998_n3_f3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_casework,method_estremalita,skill_modellizzazione,skill_stima,skill_casework_accurato"></span>
@@ -167,5 +157,3 @@ level: OBM Nível 3
 *La lunghezza di percorso peggiore per raggiungere un angolo di Berlino con lato sconosciuto e distanza sconosciuta*
 
 > Due matematici, persi a Berlino, arrivano all'angolo di Barbarossa Street e Martin Luther Street, e devono raggiungere l'angolo di Meininger Street e Martin Luther Street. Purtroppo non sanno su quale lato di Martin Luther Street si trova l'angolo con Meininger Street, né a quale distanza si trova; cioè non sanno se sono obbligati a girare a destra o a sinistra e quanto a piedi lungo Martin Luther Street finché non raggiungono l'angolo desiderato. Qual è il minimo valore positivo $X$ tale da poter essere certo di raggiungere l'angolo di Barbarossa Street e Meininger Street percorrendo al massimo $X$ blocchi (quarti)?
-
-[[Quesiti/src_obm_1998_n3_f3#q06|src_obm_1998_n3_f3__Q06]]

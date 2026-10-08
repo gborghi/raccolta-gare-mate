@@ -43,8 +43,6 @@ level: OBM Nível 3
 
 ![[src_obm_2011_n3_f1__q01.png]]
 
-[[Quesiti/src_obm_2011_n3_f1#q01|src_obm_2011_n3_f1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,topic_aritmetica,method_conteggio,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
@@ -79,8 +77,6 @@ level: OBM Nível 3
 > (A) 1:2 (B) 1:1 (C) 2:1 (D) 1:3 (E) 2:3
 
 ![[src_obm_2011_n3_f1__q02.png]]
-
-[[Quesiti/src_obm_2011_n3_f1#q02|src_obm_2011_n3_f1__Q02]]
 
 
 
@@ -121,8 +117,6 @@ level: OBM Nível 3
 > - **(D)** 2 lattine di 200 g e 1 lattina di 800 g
 > - **(E)** 2 lattine di 200 g e 2 lattine di 400 g
 
-[[Quesiti/src_obm_2011_n3_f1#q03|src_obm_2011_n3_f1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -153,8 +147,6 @@ level: OBM Nível 3
 > I numeri interi positivi $30$, $72$ e $N$ hanno la proprietà che il prodotto di due di essi sia divisibile per il terzo. Qual è il valore più grande possibile di $N$?
 > 
 > (A) 60 (B) 30 (C) $30 \cdot 72$ (D) 360 (E) 6
-
-[[Quesiti/src_obm_2011_n3_f1#q04|src_obm_2011_n3_f1__Q04]]
 
 
 
@@ -187,8 +179,6 @@ level: OBM Nível 3
 > 
 > (A) 12 (B) 14 (C) 16 (D) 18 (E) 20
 
-[[Quesiti/src_obm_2011_n3_f1#q05|src_obm_2011_n3_f1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_logica,method_casework,skill_lettura_attenta,skill_casework_accurato"></span>
@@ -219,8 +209,6 @@ level: OBM Nível 3
 > Qual è il prodotto della quantità di vocali per la quantità di consonanti nell'alternativa corretta? (Non considerare le lettere A, B, C, D, E delle alternative nel conto.)
 > 
 > (A) Ventiquattro. (B) Trenta e sei. (C) Quarantasei. (D) Cinquanta e uno. (E) Cinquanta e sei.
-
-[[Quesiti/src_obm_2011_n3_f1#q06|src_obm_2011_n3_f1__Q06]]
 
 
 
@@ -253,8 +241,6 @@ level: OBM Nível 3
 > 
 > (A) 0 (B) $\dfrac{1}{4}$ (C) $\dfrac{1}{3}$ (D) $\dfrac{1}{2}$ (E) 1
 
-[[Quesiti/src_obm_2011_n3_f1#q07|src_obm_2011_n3_f1__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_conteggio,skill_manipolazione_algebrica,skill_stima"></span>
@@ -285,8 +271,6 @@ level: OBM Nível 3
 > A causa di un'eruzione vulcanica, $10\%$ di tutti i voli di un aeroporto sono stati cancellati. Dei voli rimanenti, $20\%$ sono stati cancellati a causa della pioggia. Qual è la percentuale dei voli totali di questo aeroporto che sono stati cancellati?
 > 
 > (A) 28% (B) 30% (C) 35% (D) 38% (E) 70%
-
-[[Quesiti/src_obm_2011_n3_f1#q08|src_obm_2011_n3_f1__Q08]]
 
 
 
@@ -319,8 +303,6 @@ Valore del 2011*2011^2 + 2011*2003^2 - 16*2011*2007^2*
 > 
 > (A) $2 \times 2011^{2}$ (B) $2 \times 2011 \cdot 2003^{2}$ (C) $2 \times 2011 \cdot 2007$ (D) $2 \times 2011 \cdot 2003$ (E) $2 \times 2011 \cdot 2011^{2}$
 
-[[Quesiti/src_obm_2011_n3_f1#q09|src_obm_2011_n3_f1__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_casework,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -351,8 +333,6 @@ Numero di modi distinti per dare R\$59.63... variazione delle monete di 1,5,10,2
 > Luca ha comprato una cosa che costava 100 dollari per pagare. Il cassiere vuole dare il cambio utilizzando il minor numero possibile di monete $25$ centesimi, con monete di 1, 5, 10 o 25 centesimi. In quanti modi distinti il cassiere può dare il cambio utilizzando solo monete di 1, 5, 10 o 25 centesimi?
 > 
 > (A) 10 (B) 12 (C) 15 (D) 24 (E) 30
-
-[[Quesiti/src_obm_2011_n3_f1#q10|src_obm_2011_n3_f1__Q10]]
 
 
 
@@ -385,8 +365,6 @@ Numero di modi distinti per dare R\$59.63... variazione delle monete di 1,5,10,2
 > 
 > (A) 6 (B) 7 (C) 8 (D) 9 (E) 10
 
-[[Quesiti/src_obm_2011_n3_f1#q11|src_obm_2011_n3_f1__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -417,8 +395,6 @@ Numero di modi distinti per dare R\$59.63... variazione delle monete di 1,5,10,2
 > In un triangolo $ABC$, $m(\widehat{ABC}) - m(\widehat{ACB}) = 50^\circ$, e il bisettore di $A$ incrocia il lato $BC$ al punto $D$. Se $E$ è il punto laterale $AC$ tale che $m(\widehat{CDE}) = 90^\circ$, la misura dell'angolo $\widehat{ADE}$ è:
 > 
 > (A) 25° (B) 30° (C) 40° (D) 45° (E) 50°
-
-[[Quesiti/src_obm_2011_n3_f1#q12|src_obm_2011_n3_f1__Q12]]
 
 
 
@@ -451,8 +427,6 @@ Numero di modi distinti per dare R\$59.63... variazione delle monete di 1,5,10,2
 > 
 > (A) 5 (B) 6 (C) 7 (D) 8 (E) 9
 
-[[Quesiti/src_obm_2011_n3_f1#q13|src_obm_2011_n3_f1__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_stima"></span>
@@ -483,8 +457,6 @@ Numero di modi distinti per dare R\$59.63... variazione delle monete di 1,5,10,2
 > Qual è la prima cifra diversa da zero dopo la virgola nella rappresentazione decimale della frazione $\dfrac{1}{5^{10}}$?
 > 
 > (A) 1 (B) 2 (C) 4 (D) 5 (E) 7
-
-[[Quesiti/src_obm_2011_n3_f1#q14|src_obm_2011_n3_f1__Q14]]
 
 
 
@@ -528,8 +500,6 @@ Il puzzle logico: il numero massimo di ET-nerds con cui Bruberson ha parlato tra
 > 
 > (A) 0 (B) 1 (C) 2 (D) 3 (E) 4
 
-[[Quesiti/src_obm_2011_n3_f1#q15|src_obm_2011_n3_f1__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -565,8 +535,6 @@ Il puzzle logico: il numero massimo di ET-nerds con cui Bruberson ha parlato tra
 
 ![[src_obm_2011_n3_f1__q16.png]]
 
-[[Quesiti/src_obm_2011_n3_f1#q16|src_obm_2011_n3_f1__Q16]]
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,topic_combinatoria,method_fattorizzazione,method_estremalita,skill_manipolazione_algebrica,skill_stima"></span>
@@ -598,8 +566,6 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 > 
 > (A) 3 (B) 4 (C) 5 (D) 6 (E) 7
 
-[[Quesiti/src_obm_2011_n3_f1#q17|src_obm_2011_n3_f1__Q17]]
-
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_algebra,topic_aritmetica,method_ricorsione,method_casework,skill_stima,skill_manipolazione_algebrica"></span>
@@ -630,8 +596,6 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 > La calcolatrice di Esmeralda è rotta: quando si premono il pulsante $\sqrt{\ }$, la calcolatrice fa, invece della radice quadrata, la seguente operazione: prende la radice quadrata (come dovrebbe) e poi divide per il numero di cifre prima della virgola. Esmeralda inserisce nel calcolatore un numero con $100$ e inizia a premere il pulsante $\sqrt{\ }$ ripetutamente. Quante volte, al massimo, Esmeralda premere il pulsante fino a raggiungere, per la prima volta, un numero inferiore a 2?
 > 
 > (A) 2 (B) 4 (C) 5 (D) 8 (E) 9
-
-[[Quesiti/src_obm_2011_n3_f1#q18|src_obm_2011_n3_f1__Q18]]
 
 
 
@@ -674,8 +638,6 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 > 
 > (A) 59 (B) 60 (C) 61 (D) 62 (E) 63
 
-[[Quesiti/src_obm_2011_n3_f1#q19|src_obm_2011_n3_f1__Q19]]
-
 
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_estremalita,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -706,8 +668,6 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 > Qual è la quantità più grande di numeri dell'insieme $\{1, 2, 3, \dots, 20\}$ che possiamo scegliere in modo che nessuno di loro, $a$ e $b$, soddisfi $a = 2b$ (nessuno è il doppio di un altro)?
 > 
 > (A) 10 (B) 11 (C) 12 (D) 13 (E) 14
-
-[[Quesiti/src_obm_2011_n3_f1#q20|src_obm_2011_n3_f1__Q20]]
 
 
 
@@ -744,8 +704,6 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 
 ![[src_obm_2011_n3_f1__q21.png]]
 
-[[Quesiti/src_obm_2011_n3_f1#q21|src_obm_2011_n3_f1__Q21]]
-
 
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_algebra,topic_aritmetica,method_simmetria,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -776,8 +734,6 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 > Essendo $a$ e $b$ integri tali che $\left(1 + \sqrt{2}\right)^{2011} = a + b\sqrt{2}$, $\left(1 - \sqrt{2}\right)^{2011}$ è uguale a
 > 
 > (A) $a + 2b + (a-b)\sqrt{2}$ (B) $a - 2b + (a-b)\sqrt{2}$ (C) $a + 2b + (b-a)\sqrt{2}$ (D) $2b - a + (b-a)\sqrt{2}$ (E) $a + (b-a)\sqrt{2}$
-
-[[Quesiti/src_obm_2011_n3_f1#q22|src_obm_2011_n3_f1__Q22]]
 
 
 
@@ -810,8 +766,6 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 > 
 > (A) 2011 (B) 2012 (C) 2013 (D) 2014 (E) 2011-2012
 
-[[Quesiti/src_obm_2011_n3_f1#q23|src_obm_2011_n3_f1__Q23]]
-
 
 
 <span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_combinatoria,topic_geometria_piana,method_inclusione_esclusione,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -843,8 +797,6 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 > 
 > (A) 20 (B) 24 (C) 26 (D) 28 (E) 30
 
-[[Quesiti/src_obm_2011_n3_f1#q24|src_obm_2011_n3_f1__Q24]]
-
 
 
 <span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -875,5 +827,3 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 > Il $ABCD$ deve essere un quadrilaterale inciso (le cui vertici appartengono a una circonferenza) con $AB = 4$, $BC = 8\sqrt{3}$, $AC = 4\sqrt{13}$ e $AD = 2\sqrt{13}$. Essendo $E$ l'intersezione delle diagonali $AC$ e $BD$, la lunghezza del segmento $BE$ è:
 > 
 > (A) $\dfrac{12\sqrt{3}}{7}$ (B) $\dfrac{13\sqrt{3}}{7}$ (C) $2\sqrt{3}$ (D) $\dfrac{15\sqrt{3}}{7}$ (E) $\dfrac{16\sqrt{3}}{7}$
-
-[[Quesiti/src_obm_2011_n3_f1#q25|src_obm_2011_n3_f1__Q25]]

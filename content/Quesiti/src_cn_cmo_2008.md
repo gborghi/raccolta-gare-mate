@@ -35,8 +35,6 @@ level: China Mathematical Olympiad
 
 > Che $\triangle ABC$ sia un triangolo acuto non isosceles, e il punto $O$ è il circondario. Il $A'$ deve essere un punto della riga $AO$ tale che $\angle BAA' = \angle CA'A$. Costruire $A'A_1 \perp AC$, $A'A_2 \perp AB$ con $A_1$ su $AC$, $A_2$ su $AB$ rispettivamente. $AH_1$ è perpendicolare a $BC$ a $H_1$. Scrivere $R_A$ come il circondario di $\triangle H_1 A_1 A_2$. Indicare allo stesso modo $R_B$ e $R_C$. Prove che $$\frac{1}{R_A} + \frac{1}{R_B} + \frac{1}{R_C} = \frac{2}{R},$$ dove $R$ è il circondario di $\triangle ABC$.
 
-[[Quesiti/src_cn_cmo_2008#q01|src_cn_cmo_2008__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_casework,method_induzione,method_cassetti,skill_modellizzazione,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
@@ -61,8 +59,6 @@ level: China Mathematical Olympiad
 *Partzione impostata in due sottoinsiemi evitando la condizione aritmetica-media di n termine*
 
 > Date un numero intero $n \ge 3$, dimostrare che l'insieme $X = \{1, 2, 3, \ldots, n^2 - n\}$ può essere diviso in due sottoinsiemi non intersezionati in modo tale che nessuno di essi contenga elementi $n$ $a_1, a_2, \ldots, a_n$ con $a_1 < a_2 < \cdots < a_n$ e $a_k \le \dfrac{a_{k-1} + a_{k+1}}{2}$ per tutti $k = 2, \ldots, n-1$.
-
-[[Quesiti/src_cn_cmo_2008#q02|src_cn_cmo_2008__Q02]]
 
 
 
@@ -91,8 +87,6 @@ level: China Mathematical Olympiad
 
 > Date un numero intero $n > 0$ e numeri reali $x_1 \le x_2 \le \cdots \le x_n$, $y_1 \ge y_2 \ge \cdots \ge y_n$, soddisfacendo $\displaystyle\sum_{i=1}^n x_i = \sum_{i=1}^n y_i$. Prova che per qualsiasi numero reale $a$, $$\sum_{i=1}^n x_i \left[ia\right] \ge \sum_{i=1}^n y_i \left[ia\right],$$ dove $[p]$ è definito come il numero intero più grande inferiore o uguale a $p$.
 
-[[Quesiti/src_cn_cmo_2008#q03|src_cn_cmo_2008__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -119,5 +113,4 @@ level: China Mathematical Olympiad
 
 > Trova tutti i triples $(p, q, n)$ in modo tale che $p^{n+1}q^{n+1} \mid p^{2n+1} + q^{2n+1} - 3^{2n+1}$, dove $p$, $q$ sono prime e $n$ è un intero positivo.
 
-**Risposta:** $(3, 3, n)$ for $n = 2, 3, \ldots$
-[[Quesiti/src_cn_cmo_2008#q04|src_cn_cmo_2008__Q04]]
+**Risposta:** $(3, 3, n)$ per $n = 2, 3, \ldots$

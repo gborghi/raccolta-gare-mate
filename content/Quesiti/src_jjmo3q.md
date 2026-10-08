@@ -33,8 +33,6 @@ level: JJMO
 
 > effettuare il seguente calcolo: $$6789 + 7896 + 8967 + 9678.$$
 
-[[Quesiti/src_jjmo3q#q01|src_jjmo3q__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -59,8 +57,6 @@ level: JJMO
 *Divisioni che lasciano il rimanente 11 sia per 197 che per 290*
 
 > Trova tutti i numeri interi positivi che lasciano un residuo di $11$ quando dividono $197$, e lasciano anche un residuo di $11$ quando dividono $290$.
-
-[[Quesiti/src_jjmo3q#q02|src_jjmo3q__Q02]]
 
 
 
@@ -128,8 +124,6 @@ level: JJMO
 \end{tikzpicture}
 ```
 
-[[Quesiti/src_jjmo3q#q03|src_jjmo3q__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
@@ -153,8 +147,6 @@ level: JJMO
 *Combinazione lineare di due equazioni in tre reales*
 
 > Lasciate che i numeri reali $x, y, z$ soddisfino $2x + 3y - z = 9$ e $5x + 4y - 3z = 20$. Trova il valore di $9x - 4y - 7z$.
-
-[[Quesiti/src_jjmo3q#q04|src_jjmo3q__Q04]]
 
 
 
@@ -180,8 +172,6 @@ level: JJMO
 *Gli stessi numeri di cifre nella base dieci e nella base cinque*
 
 > Nella base dieci, $110$ è scritto come $420$ nella base cinque, che è anche un numero a cifre $3$. In questo modo, quanti numeri interi positivi in totale hanno lo stesso numero di cifre quando sono scritti in base dieci come quando sono scritti in base cinque?
-
-[[Quesiti/src_jjmo3q#q05|src_jjmo3q__Q05]]
 
 
 
@@ -212,8 +202,6 @@ level: JJMO
 
 ![[src_jjmo3q__q06.png]]
 
-[[Quesiti/src_jjmo3q#q06|src_jjmo3q__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_fattorizzazione,method_casework,skill_conteggio_sistematico"></span>
@@ -238,8 +226,6 @@ level: JJMO
 *Completare la griglia 3x3 così ogni prodotto di riga e colonna è 2005*
 
 > Riempire ogni cella di una griglia $3 \times 3$ con un intero positivo in modo da soddisfare la seguente condizione: il prodotto dei tre numeri di ogni colonna è $2005$, e il prodotto dei tre numeri di ogni riga è anche $2005$. In quanti modi si può compiere un tale riempimento con integri positivi? Si noti che i riempimenti che coincidono sotto rotazione o riflessione sono ancora contati come distinti.
-
-[[Quesiti/src_jjmo3q#q07|src_jjmo3q__Q07]]
 
 
 
@@ -266,8 +252,6 @@ level: JJMO
 
 > In triangolo $ABC$, $\angle ABC = 70^\circ$ e $\angle ACB = 50^\circ$. I bisettori di $\angle ABC$ e $\angle ACB$ devono incontrare i lati $AC$ e $AB$ rispettivamente nei punti $D$ e $E$. Trova la misura di $\angle AED$.
 
-[[Quesiti/src_jjmo3q#q08|src_jjmo3q__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_conteggio,skill_conteggio_sistematico"></span>
@@ -293,8 +277,6 @@ level: JJMO
 
 > Tra i numeri naturali $4$ di cifre ognuno dei cui numeri è uno di $1, 2, 3, 4, 5, 6$, quanti sono i multipli di $7$?
 
-[[Quesiti/src_jjmo3q#q09|src_jjmo3q__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
@@ -319,8 +301,6 @@ level: JJMO
 *Ratio AR:RC per il punto interno con angoli e rapporti dati*
 
 > Il $P$ deve essere un punto all'interno del triangolo $ABC$ tale che $\angle APB = \angle APC = 130^\circ$ e $PB : PC = 2 : 3$. sui lati $AB$ e $AC$, rispettivamente, prendere i punti $Q$ e $R$ in modo tale che $\angle APQ = \angle APR = 80^\circ$. Dato che $AQ : QB = 4 : 3$, trovare $AR : RC$.
-
-[[Quesiti/src_jjmo3q#q10|src_jjmo3q__Q10]]
 
 
 
@@ -379,8 +359,6 @@ level: JJMO
 > 
 > Ad esempio, $439$ è dominato da $\boxed{\text{(d)}}$, e $143$ è dominato da $\boxed{\text{(e)}}$, $\boxed{\text{(f)}}$, $\boxed{\text{(g)}}$. Ragionando allo stesso modo, si scopre che ogni numero $3$ è dominato da un certo numero $3$ di cui la somma digitale è $13$. D'altra parte, quando vengono sottratte due numeri distinti con la stessa somma $13$, si verifica necessariamente un prestito. Pertanto il valore minimo richiesto è $\boxed{\text{(h)}}$.
 
-[[Quesiti/src_jjmo3q#q11|src_jjmo3q__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -405,5 +383,3 @@ level: JJMO
 *Tripli di punti positivi distinti con prodotto pari a 12 volte la somma*
 
 > Quante serie di tre diversi integri positivi hanno il prodotto pari a $12$ volte la loro somma? Qui, gli insiemi che differiscono solo nell'ordine dei numeri, come $\{3, 6, 18\}$ e $\{6, 3, 18\}$, sono considerati uguali e contati come uno.
-
-[[Quesiti/src_jjmo3q#q12|src_jjmo3q__Q12]]

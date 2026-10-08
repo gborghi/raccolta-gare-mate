@@ -38,8 +38,7 @@ It's Milena's birthday with delays.
 > 
 > What is Milena's birthday?
 
-**Answer:** Il 5 aprile
-[[Quesiti/src_bocconi_rosi_2010#q01|src_bocconi_rosi_2010__Q01]]
+**Answer:** On 5 April
 
 
 
@@ -70,9 +69,7 @@ It's Milena's birthday with delays.
 > 
 > **After how many seconds will we hear them simultaneously for the first time**, given that the first musician strikes his drum every $2$ seconds, the second every $3$ seconds, and the third every $4$ seconds?
 
-**Answer:** Tra 12 secondi
-
-[[Quesiti/src_bocconi_rosi_2010#q02|src_bocconi_rosi_2010__Q02]]
+**Answer:** In 12 seconds
 
 
 
@@ -99,8 +96,7 @@ It's Milena's birthday with delays.
 
 > Jacob, Luca and Francesco are together $28$ years. How many years from now will they have$37$together?
 
-**Answer:** Tra 3 anni
-[[Quesiti/src_bocconi_rosi_2010#q03|src_bocconi_rosi_2010__Q03]]
+**Answer:** In 3 years
 
 
 
@@ -132,7 +128,6 @@ It's Milena's birthday with delays.
 > Set the digits $1$ (twice), $2$, $5$ in the figure so that the addition is accurate: $$3\square +$$ $$\square\ 9 =$$ $$\overline{\square\quad\square}$$
 
 **Answer:** $32 + 19 = 51$
-[[Quesiti/src_bocconi_rosi_2010#q04|src_bocconi_rosi_2010__Q04]]
 
 
 
@@ -163,8 +158,7 @@ It's Milena's birthday with delays.
 > 
 > How many seconds will it take to play 9?
 
-**Answer:** 8 secondi
-[[Quesiti/src_bocconi_rosi_2010#q05|src_bocconi_rosi_2010__Q05]]
+**Answer:** 8 seconds
 
 
 
@@ -196,8 +190,7 @@ It's Milena's birthday with delays.
 > 
 > Can you do that with another number, always used three times and using addition, subtraction, multiplication, division and power? (There are several solutions; just point out one)
 
-**Answer:** Ad esempio: $30 = 6 \times 6 - 6 = 33 - 3 = 3^3 + 3$
-[[Quesiti/src_bocconi_rosi_2010#q06|src_bocconi_rosi_2010__Q06]]
+**Answer:** For example: $30 = 6 \times 6 - 6 = 33 - 3 = 3^3 + 3$
 
 
 
@@ -225,8 +218,7 @@ It's Milena's birthday with delays.
 
 > **Find a prime number that becomes divisible by $5$ when its two digits are reversed.** (One solution is enough)
 
-**Answer:** 53 oppure 59
-[[Quesiti/src_bocconi_rosi_2010#q07|src_bocconi_rosi_2010__Q07]]
+**Answer:** 53 or 59
 
 
 
@@ -258,8 +250,7 @@ It's Milena's birthday with delays.
 
 ![[src_bocconi_rosi_2010__q08.png]]
 
-**Answer:** 8 triangoli
-[[Quesiti/src_bocconi_rosi_2010#q08|src_bocconi_rosi_2010__Q08]]
+**Answer:** 8 triangles
 
 
 
@@ -290,8 +281,7 @@ Middle-aged party with girls double boys
 > 
 > **What is the average age of all party participants?**
 
-**Answer:** 16 anni
-[[Quesiti/src_bocconi_rosi_2010#q09|src_bocconi_rosi_2010__Q09]]
+**Answer:** 16 years
 
 
 
@@ -319,8 +309,7 @@ Middle-aged party with girls double boys
 
 > **What are the possible triangles whose perimeter is $12$ cm and whose sides are expressed as an integer of cm?**
 
-**Answer:** 3 (lati $4,4,4$ cm; $5,5,2$ cm; $5,4,3$ cm)
-[[Quesiti/src_bocconi_rosi_2010#q10|src_bocconi_rosi_2010__Q10]]
+**Answer:** 3 (sides $4,4,4$ cm; $5,5,2$ cm; $5,4,3$ cm)
 
 
 
@@ -352,8 +341,7 @@ Middle-aged party with girls double boys
 > 
 > How many children did Mr. Piano and Mrs. Sfera have from their marriage knowing that at the table, for their birthday, they were in$10$and that Mr. Piano was the father of the children present and Mrs. Sfera their mother?
 
-**Answer:** 5 figli
-[[Quesiti/src_bocconi_rosi_2010#q11|src_bocconi_rosi_2010__Q11]]
+**Answer:** 5 children
 
 
 
@@ -384,8 +372,7 @@ Middle-aged party with girls double boys
 > 
 > What is Luke's age now, if I'm$40$?
 
-**Answer:** Luca ha 25 anni
-[[Quesiti/src_bocconi_rosi_2010#q12|src_bocconi_rosi_2010__Q12]]
+**Answer:** Luca is 25 years old
 
 
 
@@ -417,7 +404,6 @@ Middle-aged party with girls double boys
 > How much do I have in my pocket?
 
 **Answer:** 48 Euro
-[[Quesiti/src_bocconi_rosi_2010#q13|src_bocconi_rosi_2010__Q13]]
 
 
 
@@ -448,8 +434,7 @@ Middle-aged party with girls double boys
 > 
 > If you put them together to drink, how long does it take you to finish the dinner?
 
-**Answer:** 40 minuti
-[[Quesiti/src_bocconi_rosi_2010#q14|src_bocconi_rosi_2010__Q14]]
+**Answer:** 40 minutes
 
 
 
@@ -480,8 +465,7 @@ Middle-aged party with girls double boys
 > 
 > What time is it?
 
-**Answer:** Sono le 7 e mezza
-[[Quesiti/src_bocconi_rosi_2010#q15|src_bocconi_rosi_2010__Q15]]
+**Answer:** It is half past 7
 
 
 
@@ -512,8 +496,7 @@ Middle-aged party with girls double boys
 > 
 > After how many minutes will the fastest car reach the other for the first time?
 
-**Answer:** 224 minuti (3 ore e 44 minuti)
-[[Quesiti/src_bocconi_rosi_2010#q16|src_bocconi_rosi_2010__Q16]]
+**Answer:** 224 minutes (3 hours and 44 minutes)
 
 
 
@@ -545,8 +528,7 @@ Middle-aged party with girls double boys
 > 
 > **How many participants were there? **
 
-**Answer:** I partecipanti erano 16
-[[Quesiti/src_bocconi_rosi_2010#q17|src_bocconi_rosi_2010__Q17]]
+**Answer:** There were 16 participants
 
 
 
@@ -578,8 +560,7 @@ Middle-aged party with girls double boys
 > 
 > **What year will it be with full weekends? **
 
-**Answer:** Il 2028
-[[Quesiti/src_bocconi_rosi_2010#q18|src_bocconi_rosi_2010__Q18]]
+**Answer:** In 2028
 
 
 
@@ -615,8 +596,7 @@ Middle-aged party with girls double boys
 
 ![[src_bocconi_rosi_2010__q19.png]]
 
-**Answer:** 18 rettangoli
-[[Quesiti/src_bocconi_rosi_2010#q19|src_bocconi_rosi_2010__Q19]]
+**Answer:** 18 rectangles
 
 
 
@@ -652,5 +632,4 @@ Middle-aged party with girls double boys
 
 ![[src_bocconi_rosi_2010__q20.png]]
 
-**Answer:** L'angolo $ACD$ misura $30^\circ$
-[[Quesiti/src_bocconi_rosi_2010#q20|src_bocconi_rosi_2010__Q20]]
+**Answer:** The angle $ACD$ measures $30^\circ$

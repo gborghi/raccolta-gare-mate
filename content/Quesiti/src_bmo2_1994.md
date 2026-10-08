@@ -33,8 +33,6 @@ level: BMO Round 2
 
 > Trova il primo intero $n > 1$ in modo tale che la media di $1^2, 2^2, 3^2, \ldots, n^2$ sia un quadrato perfetto.
 
-[[Quesiti/src_bmo2_1994#q01|src_bmo2_1994__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: BMO Round 2
 *Contare i triangoli a lato intero non congruenti con un determinato perimetro*
 
 > Quanti diversi (cioè: se ci sono triangoli non congruenti in coppia con lati interi e perimetro interi $p$? (Esprimi la tua risposta in termini di $p$, considerando i casi in base al residuo di $p$ modulo 12.)
-
-[[Quesiti/src_bmo2_1994#q02|src_bmo2_1994__Q02]]
 
 
 
@@ -92,8 +88,6 @@ level: BMO Round 2
 > 
 > Provare che $$AR(AP + AR) = AQ(AQ + AS).$$
 
-[[Quesiti/src_bmo2_1994#q03|src_bmo2_1994__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_induzione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -118,5 +112,3 @@ level: BMO Round 2
 *Contare i quadrati perfetti mod 2^n*
 
 > Quanti quadrati perfetti ci sono (mod $2^n$)?
-
-[[Quesiti/src_bmo2_1994#q04|src_bmo2_1994__Q04]]

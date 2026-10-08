@@ -45,8 +45,6 @@ level: biennio
 > - **(D)** More than 100,000, but less than 1 million
 > - **(E)** more than 1 million
 
-[[Quesiti/src_archimede_2004_biennio#q01|src_archimede_2004_biennio__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_logica,method_casework,skill_lettura_attenta"></span>
@@ -84,8 +82,6 @@ level: biennio
 > - **(D)** 18
 > - **(E)** 20
 
-[[Quesiti/src_archimede_2004_biennio#q02|src_archimede_2004_biennio__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -122,8 +118,6 @@ level: biennio
 > - **(D)** 4
 > - **(E)** 5
 
-[[Quesiti/src_archimede_2004_biennio#q03|src_archimede_2004_biennio__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica"></span>
@@ -158,8 +152,6 @@ level: biennio
 > - **(C)** $c$
 > - **(D)** $d$
 > - **(E)** It cannot be established from the data of the problem
-
-[[Quesiti/src_archimede_2004_biennio#q04|src_archimede_2004_biennio__Q04]]
 
 
 
@@ -198,8 +190,6 @@ level: biennio
 > - **(D)** 180
 > - **(E)** None of the preceding
 
-[[Quesiti/src_archimede_2004_biennio#q05|src_archimede_2004_biennio__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica"></span>
@@ -234,8 +224,6 @@ level: biennio
 > - **(C)** 3
 > - **(D)** the data are insufficient to uniquely determine
 > - **(E)** It is not possible to establish
-
-[[Quesiti/src_archimede_2004_biennio#q06|src_archimede_2004_biennio__Q06]]
 
 
 
@@ -273,8 +261,6 @@ level: biennio
 > - **(D)** $(a + b + c)^2$ is divisible by 9
 > - **(E)** $a^2 + b^2 + c^2$ is divisible by 9
 
-[[Quesiti/src_archimede_2004_biennio#q07|src_archimede_2004_biennio__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,skill_manipolazione_algebrica"></span>
@@ -310,8 +296,6 @@ The value of the input data shall be the sum of the values of the input data.
 > - **(C)** $2^{11} - 1$
 > - **(D)** $3^{10}$
 > - **(E)** $2^{10}$
-
-[[Quesiti/src_archimede_2004_biennio#q08|src_archimede_2004_biennio__Q08]]
 
 
 
@@ -349,8 +333,6 @@ The value of the input data shall be the sum of the values of the input data.
 > - **(C)** higher than that of 2002, but less than twice that
 > - **(D)** equal to twice the expenditure of 2002
 > - **(E)** More than double the expenditure of 2002
-
-[[Quesiti/src_archimede_2004_biennio#q09|src_archimede_2004_biennio__Q09]]
 
 
 
@@ -432,8 +414,6 @@ The value of the input data shall be the sum of the values of the input data.
 > - **(D)** $4\sqrt{3}$ m
 > - **(E)** depends on the slope of the rope
 
-[[Quesiti/src_archimede_2004_biennio#q10|src_archimede_2004_biennio__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_conteggio,skill_conteggio_sistematico"></span>
@@ -473,7 +453,6 @@ The value of the input data shall be the sum of the values of the input data.
 > - **(E)** None of the preceding
 
 **Answer:** 2005
-[[Quesiti/src_archimede_2004_biennio#q11|src_archimede_2004_biennio__Q11]]
 
 
 
@@ -511,8 +490,6 @@ The value of the input data shall be the sum of the values of the input data.
 > - **(D)** 5
 > - **(E)** The data is not sufficient to give the answer
 
-[[Quesiti/src_archimede_2004_biennio#q12|src_archimede_2004_biennio__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,method_congruenze"></span>
@@ -549,8 +526,6 @@ The value of the input data shall be the sum of the values of the input data.
 > - **(D)** 11 square meters
 > - **(E)** You can't get it from the problem data.
 
-[[Quesiti/src_archimede_2004_biennio#q13|src_archimede_2004_biennio__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_algebra,method_casework"></span>
@@ -586,5 +561,3 @@ The value of the input data shall be the sum of the values of the input data.
 > - **(C)** 490 cm
 > - **(D)** 551 cm
 > - **(E)** There is no data to answer.
-
-[[Quesiti/src_archimede_2004_biennio#q14|src_archimede_2004_biennio__Q14]]

@@ -41,8 +41,6 @@ level: OBM Nível 2
 
 > Esmeralda ha organizzato tutti i numeri naturali dal 1 al 2006 nella seguente disposizione piramidale: $$\begin{array}{ccccccccc} & & & & 21 & & & & \\ & & & 20 & & 13 & & 22 & \\ & & 19 & & 12 & & 7 & & 14 & & 23 \\ & 18 & & 11 & & 6 & & 3 & & 8 & & 15 & & 24 \\ 17 & & 10 & & 5 & & 2 & & 1 & & 4 & & 9 & & 16 & & 25 \end{array}$$ In quale piano si trova il numero 2006? (Per esempio: il numero 1 è al primo piano, il 6 al secondo piano e il 23 al terzo piano.)
 
-[[Quesiti/src_obm_2006_n2_f2#q01|src_obm_2006_n2_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -67,8 +65,6 @@ level: OBM Nível 2
 *La somma dei quadrati di tre numeri interi consecutivi è uguale a 302*
 
 > La somma dei quadrati di tre numeri interi consecutivi è uguale a 302. Qual è la somma di questi numeri interi?
-
-[[Quesiti/src_obm_2006_n2_f2#q02|src_obm_2006_n2_f2__Q02]]
 
 
 
@@ -99,8 +95,6 @@ level: OBM Nível 2
 
 ![[src_obm_2006_n2_f2__q03.png]]
 
-[[Quesiti/src_obm_2006_n2_f2#q03|src_obm_2006_n2_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_casework,method_estremalita,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
@@ -129,8 +123,6 @@ level: OBM Nível 2
 *Numero massimo di rettangoli in una decomposizione di scacchi da 8×8*
 
 > Una scacchiera $8 \times 8$ si decompone in rettangoli che soddisfano tutte le seguenti proprietà contemporaneamente: (i) ogni rettangolo contiene un numero intero di quadrati; (ii) i vari rettangoli contengono numeri di quadrati separati in coppia; (iii) ogni rettangolo contiene lo stesso numero di quadrati bianchi e quadrati neri. Qual è il numero massimo di rettangoli in cui la tavola può essere decomposta?
-
-[[Quesiti/src_obm_2006_n2_f2#q04|src_obm_2006_n2_f2__Q04]]
 
 
 
@@ -161,8 +153,6 @@ level: OBM Nível 2
 
 > Partendo da un triplo ordinato $(a, b, c)$, si ottiene una sequenza di triplice mediante successive trasformazioni del tipo: $$(a, b, c) \to (a^2 - b,\; a + b + c,\; b - c).$$ Ad esempio, partendo dal triplo $(1, 2, 3)$: $(1, 2, 3) \to (1-2,\; 1+2+3,\; 2-3) = (-1, 6, -1) \to (-64, 12, 7) \to \cdots$ Se iniziamo con $(1, 1, 1)$ come il primo triplo ordinato di una sequenza, quale sarà la somma dei tre termini del triplo che occupa la posizione 2006 in questa sequenza?
 
-[[Quesiti/src_obm_2006_n2_f2#q05|src_obm_2006_n2_f2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_estremalita,skill_conteggio_sistematico,skill_casework_accurato,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -190,8 +180,6 @@ level: OBM Nível 2
 Il sindaco deve demolire le case minime per le stesse somme di cifre sul lato della strada.
 
 > Sulla strada Gengibre ci sono $n$ case numerate da 1 a $n$ ($n \in \mathbb{N}$). Le case a numero pari sono da un lato della strada, e le case a numero odd sono dall'altro lato. Il sindaco Ludmilson Amottarim decide di demolire alcune case in modo che la somma dei numeri delle case su ciascun lato diventi uguale alla somma dei numeri sull'altro lato. Per raggiungere il suo obiettivo, qual è il numero minimo di case che il sindaco deve demolire se: a) la strada ha $n = 15$ case? b) la strada ha case $n = 16$? c) la strada ha case $n = 2006$?
-
-[[Quesiti/src_obm_2006_n2_f2#q06|src_obm_2006_n2_f2__Q06]]
 
 
 
@@ -222,8 +210,6 @@ Il sindaco deve demolire le case minime per le stesse somme di cifre sul lato de
 
 ![[src_obm_2006_n2_f2__q07.png]]
 
-[[Quesiti/src_obm_2006_n2_f2#q07|src_obm_2006_n2_f2__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,method_simmetria,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -251,8 +237,6 @@ Il sindaco deve demolire le case minime per le stesse somme di cifre sul lato de
 
 > $a$ e $b$ siano numeri reali distinti come $a^2 = 6b + 5ab$ e $b^2 = 6a + 5ab$. a) Determinare il valore di $a + b$. b) Determinare il valore di $ab$.
 
-[[Quesiti/src_obm_2006_n2_f2#q08|src_obm_2006_n2_f2__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
@@ -277,5 +261,3 @@ Il sindaco deve demolire le case minime per le stesse somme di cifre sul lato de
 *Il numero più frequente dopo la sostituzione dei numeri interi 12006 con il numero*
 
 > Tutti i numeri interi dal 1 al 2006 sono scritti in una griglia. Quindi, ciascuno di questi numeri viene sostituito dalla somma delle sue cifre. Queste sostituzioni si ripetono fino a quando non abbiamo i numeri a singolo cifra del 2006. Dei numeri rimasti nella griglia, che appare più spesso: 1 o 2?
-
-[[Quesiti/src_obm_2006_n2_f2#q09|src_obm_2006_n2_f2__Q09]]

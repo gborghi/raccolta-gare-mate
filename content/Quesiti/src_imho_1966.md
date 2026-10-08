@@ -33,8 +33,6 @@ level: IMO
 
 > In un concorso matematico sono stati proposti tre problemi, $A$, $B$, $C$. Tra i partecipanti vi erano 25 studenti che avevano risolto almeno un problema ciascuno. Tra tutti i concorrenti che non avevano risolto il problema $A$, il numero di quelli che avevano risolto $B$ era il doppio del numero di quelli che avevano risolto $C$. Il numero degli studenti che avevano risolto soltanto il problema $A$ era di uno in più del numero di quelli che avevano risolto $A$ e almeno un altro problema. Tra tutti gli studenti che avevano risolto esattamente un problema, la metà non aveva risolto il problema $A$. Quanti studenti hanno risolto soltanto il problema $B$?
 
-[[Quesiti/src_imho_1966#q01|src_imho_1966__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_trigonometria,topic_geometria_piana,method_trigonometria,skill_manipolazione_algebrica,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -64,8 +62,6 @@ level: IMO
 > $$a + b = \tan\frac{\gamma}{2}(a\tan\alpha + b\tan\beta),$$,
 > allora il triangolo è isoscele.
 
-[[Quesiti/src_imho_1966#q02|src_imho_1966__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_disuguaglianze,method_disuguaglianze,method_estremalita,skill_ragionamento_geometrico,skill_modellizzazione,skill_stima"></span>
@@ -90,8 +86,6 @@ level: IMO
 *Disuguaglianza sulle distanze dai vertici di un tetraedro al centro della sua sfera circoscritta*
 
 > Si dimostri che la somma delle distanze dei vertici di un tetraedro regolare dal centro della sua sfera circoscritta è minore della somma delle distanze di tali vertici da qualsiasi altro punto nello spazio.
-
-[[Quesiti/src_imho_1966#q03|src_imho_1966__Q03]]
 
 
 
@@ -119,8 +113,6 @@ level: IMO
 
 > Si dimostri che per ogni numero naturale $n$, e per ogni numero reale $x \neq \frac{k\pi}{2^t}$ ($t = 0, 1, \ldots, n$; $k$ qualunque intero)
 > $$\frac{1}{\sin 2x} + \frac{1}{\sin 4x} + \cdots + \frac{1}{\sin 2^n x} = \cot x - \cot 2^n x.$$
-
-[[Quesiti/src_imho_1966#q04|src_imho_1966__Q04]]
 
 
 
@@ -157,8 +149,6 @@ level: IMO
 > $$|a_1 - a_4|\, x_1 + |a_2 - a_4|\, x_2 + |a_3 - a_4|\, x_3 = 1$$
 > dove $a_1, a_2, a_3, a_4$ sono quattro numeri reali diversi.
 
-[[Quesiti/src_imho_1966#q05|src_imho_1966__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_disuguaglianze,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_stima,skill_modellizzazione"></span>
@@ -183,5 +173,3 @@ level: IMO
 *Punti interni sui lati del triangolo: un sottotriangolo ha area ≤ 1/4*
 
 > Nel piano interno ai lati $BC$, $CA$, $AB$ del triangolo $ABC$, si scelgano rispettivamente punti interni $K$, $L$, $M$. Si dimostri che l'area di almeno uno dei triangoli $AML$, $BKM$, $CLK$ è minore o uguale a un quarto dell'area del triangolo $ABC$.
-
-[[Quesiti/src_imho_1966#q06|src_imho_1966__Q06]]

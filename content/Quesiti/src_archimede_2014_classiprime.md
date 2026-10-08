@@ -46,7 +46,6 @@ level: Classi Prime
 > Calculation: 2 · 22 · 23 · 24 · 259 (16 · 162 · 163 · 164 · 165) 2 A 215 B 1 C 2 D 1 215 E 224 F 1 224
 
 **Answer:** A
-[[Quesiti/src_archimede_2014_classiprime#q01|src_archimede_2014_classiprime__Q01]]
 
 
 
@@ -85,7 +84,6 @@ level: Classi Prime
 > What is the sum of the interior angles of a convex quadrilateral? A 360° B 300° C 390° D 420° E 480° F is not a fixed value but varies as the quadrilateral changes
 
 **Answer:** A
-[[Quesiti/src_archimede_2014_classiprime#q02|src_archimede_2014_classiprime__Q02]]
 
 
 
@@ -125,7 +123,6 @@ level: Classi Prime
 > A thief must break into a safe and find, a week before the theft, that the combination is 06108. Unfortunately, the day before the theft he learns that one of the numbers in the combination (we don't know which) has been changed. What's the minimum number of attempts you have to make to make sure you open the safe? A 45 B 5 C 10 D 9 E 25 F 55
 
 **Answer:** A
-[[Quesiti/src_archimede_2014_classiprime#q03|src_archimede_2014_classiprime__Q03]]
 
 
 
@@ -167,7 +164,6 @@ level: Classi Prime
 > The Island of the Sirens has defeated the Island of the Pirates and, as war booty, is entitled to a certain number of bananas. The Law of Piracy stipulates that bananas are distributed among mermaids so that each one receives the same number of bananas. It also stipulates that pirates put the loot together by each delivering the same amount of bananas. Knowing that the pirates are 432 and the mermaids are 600, what is the minimum number of bananas that every pirate must deliver so that the mermaids can distribute them in equal parts. A 25 B 50 C 10 D 600 E 75 F None of the other answers are correct
 
 **Answer:** A
-[[Quesiti/src_archimede_2014_classiprime#q04|src_archimede_2014_classiprime__Q04]]
 
 
 
@@ -210,7 +206,6 @@ level: Classi Prime
 > On the display of a calculator, the zero value is initially written. The calculator has four special keys: Red, Green, White and Blue. If I push the Red button, the value on the display doubles, if I push the Green is squared, if I push the White is added to 1, if I push the Blue is removed 10. What's the biggest value I can get on the display by pushing each of the four keys once and only once, in the order I prefer? A 401 B 261 C 324 D 441 E 162 F None of the other answers are correct
 
 **Answer:** A
-[[Quesiti/src_archimede_2014_classiprime#q05|src_archimede_2014_classiprime__Q05]]
 
 
 
@@ -315,7 +310,6 @@ level: Classi Prime
 > In the regular ABCDEFGH octagon the AC and BE diagonals intersect at the point P. How much is the APE angle? A 112, 5° B 120° C 117, 5° D 144° E 108° F 115, 5°
 
 **Answer:** A
-[[Quesiti/src_archimede_2014_classiprime#q06|src_archimede_2014_classiprime__Q06]]
 
 
 
@@ -355,7 +349,6 @@ level: Classi Prime
 > In a bag there are the 90 numbers of the tomb: 90 wooden scissors numbered from 1 to 90. I need two of these so that their sum is a multiple of 10. So I take a handful of them blindly, and I hope to find two of them that will suit me. What is the minimum amount of numbers my hand must contain to make sure this happens? A 39 B 11 C 46 D 10 E 54 F 19
 
 **Answer:** A
-[[Quesiti/src_archimede_2014_classiprime#q07|src_archimede_2014_classiprime__Q07]]
 
 
 
@@ -393,7 +386,6 @@ Final product zeros n * m data MCD and mcm *
 > Of two integers n and m we know that the maximum common divisor is 2 · 34 · 5 while the minimum common multiple is 23 · 37 · 52 · 7. How many zeros does the product end with? A 3 B 4 C 1 D 2 E more than 4 F not uniquely determinable from the data provided
 
 **Answer:** A
-[[Quesiti/src_archimede_2014_classiprime#q08|src_archimede_2014_classiprime__Q08]]
 
 
 
@@ -434,7 +426,6 @@ Final product zeros n * m data MCD and mcm *
 > In the ABC triangle you have AB = 60cm and AC = 50cm. Let's take P on the AB side and Q on the AC side so that AP = AQ = 10cm. If the area of ABC is 720cm2, what is the area of the APQ triangle in cm2? A 24 B 32 C 20 D 18 E 36 F cannot be determined by the data provided alone
 
 **Answer:** A
-[[Quesiti/src_archimede_2014_classiprime#q09|src_archimede_2014_classiprime__Q09]]
 
 
 
@@ -484,7 +475,6 @@ Final product zeros n * m data MCD and mcm *
 > We arrange all possible monoms (with coefficient 1) in the variables x and y and degree not greater than 20, as follows: x20, x19y, x19, x18y2, x18y, x18, x17y3, x17y2, . . . where, in order to establish the order of the mononyms in the list, the following rules have been used: (a) the one with the highest exponent of x has precedence; (b) at par of exponents of x, the one with the highest exponent of y has precedence. What is the position of x7y10 in the list? A 95a B 214a C 89a D 147a E 144a F 72a
 
 **Answer:** A
-[[Quesiti/src_archimede_2014_classiprime#q10|src_archimede_2014_classiprime__Q10]]
 
 
 
@@ -578,7 +568,6 @@ Final product zeros n * m data MCD and mcm *
 > In the trapezoid ABCD the major base AB is twice the minor base CD. By joining the midpoints of the oblique sides, the trapezoid remains divided into two parts of area α and β (α is the smallest and β the largest). What's the relationship between α and β? A 5 7 B 1 2 C 2 3 D 3 4 E 7 9 F cannot be determined by the data provided alone
 
 **Answer:** A
-[[Quesiti/src_archimede_2014_classiprime#q11|src_archimede_2014_classiprime__Q11]]
 
 
 
@@ -618,7 +607,6 @@ Final product zeros n * m data MCD and mcm *
 > Consider the following polynomials: p(x) = x2 + x + 1, q(x) = x4 + x2 + 1, h(x) = x4 + 64 Which of them are NOT further decomposable as the product of two polynomials with strictly lower degree integer coefficients? A only p(x) B no C all D only p(x) and q(x) And only h(x) F only p(x) and h(x)
 
 **Answer:** A
-[[Quesiti/src_archimede_2014_classiprime#q12|src_archimede_2014_classiprime__Q12]]
 
 
 
@@ -653,7 +641,6 @@ Final product zeros n * m data MCD and mcm *
 > To say how many positive divisors of n = 11222 −121 (also counting 1 and n). A 12 B 121 C 30 D 9 E 36 F 6
 
 **Answer:** A
-[[Quesiti/src_archimede_2014_classiprime#q13|src_archimede_2014_classiprime__Q13]]
 
 
 
@@ -689,7 +676,6 @@ Final product zeros n * m data MCD and mcm *
 > Substituting 2014 for x in the polynomial x5 −5x3 +4x gives an integer value n. Which of the following numbers is NOT divisible by n? A 25 B 65 C 30 D 35 E 45 F 55
 
 **Answer:** A
-[[Quesiti/src_archimede_2014_classiprime#q14|src_archimede_2014_classiprime__Q14]]
 
 
 
@@ -727,7 +713,6 @@ Final product zeros n * m data MCD and mcm *
 > A rectangular land with sides of 20 and 50 meters is divided into 10 equal squares, each of which is sown with a crop of choice between carrots, potatoes and rapeseed, but making sure that two squares with a common side are always cultivated differently. How many different ways can you do this? A 486 B 512 C 1024 D 472 E 720 F 392
 
 **Answer:** A
-[[Quesiti/src_archimede_2014_classiprime#q15|src_archimede_2014_classiprime__Q15]]
 
 
 
@@ -763,7 +748,6 @@ Final product zeros n * m data MCD and mcm *
 > Consider the numbers a = 190125, b = 119025, c = 129015, d = 110925 and e = 112095. How many of these are perfect squares? A 1 B 0 C 2 D 3 E 4 F 5
 
 **Answer:** A
-[[Quesiti/src_archimede_2014_classiprime#q16|src_archimede_2014_classiprime__Q16]]
 
 
 
@@ -808,7 +792,6 @@ Final product zeros n * m data MCD and mcm *
 > Each box in a square table on the n-side is colored white or black so that it has the following property: however you take a square sub-table, this one has the four top boxes which are 2 white and 2 black. What is the maximum value that the n-side of the chessboard can have? A 4 B 3 C 5 D 6 And the maximum is an integer greater than 6 F. There is no maximum because, no matter how big the chessboard is, it is always possible to find a colour that satisfies the required properties.
 
 **Answer:** A
-[[Quesiti/src_archimede_2014_classiprime#q17|src_archimede_2014_classiprime__Q17]]
 
 
 
@@ -851,4 +834,3 @@ Final product zeros n * m data MCD and mcm *
 > Solutions
 
 **Answer:** A
-[[Quesiti/src_archimede_2014_classiprime#q18|src_archimede_2014_classiprime__Q18]]

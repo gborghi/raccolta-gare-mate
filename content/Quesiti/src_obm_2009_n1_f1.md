@@ -37,8 +37,6 @@ level: OBM Nível 1
 > 
 > b) Quale di questi numeri è più grande: $e^\pi$ o $\pi^e$?
 
-[[Quesiti/src_obm_2009_n1_f1#q01|src_obm_2009_n1_f1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -63,8 +61,6 @@ level: OBM Nível 1
 *Polinomio monico di grado 2 le cui radici sono periodi di Gauss di una radice primitiva di unità VII; calcolare p(3)*
 
 > Si deve $\zeta\in\mathbb{C}$ essere una radice di $x^7-1$ con $\zeta\neq 1$. Esiste un polinomio monico $p$ di grado $2$ con coefficienti interi le cui radici sono i numeri $z_1=\zeta+\zeta^2+\zeta^4$ e $z_2=\zeta^3+\zeta^5+\zeta^6$. Calcolare $p(3)$.
-
-[[Quesiti/src_obm_2009_n1_f1#q02|src_obm_2009_n1_f1__Q02]]
 
 
 
@@ -99,8 +95,6 @@ level: OBM Nível 1
 > 
 > b) dimostrare l'esistenza di $p\in(0,1/100)$ tale che, per alcuni $n\in\mathbb{N}$, $P_n=1/\pi$.
 
-[[Quesiti/src_obm_2009_n1_f1#q03|src_obm_2009_n1_f1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
@@ -125,8 +119,6 @@ level: OBM Nível 1
 *Contate i numeri interi positivi n <= 31! con 3^n + n divisibile per 31*
 
 > Determinare il numero di integri positivi $n$ inferiori o uguali a $31!$ in modo tale che $3^n+n$ sia divisibile da $31$.
-
-[[Quesiti/src_obm_2009_n1_f1#q04|src_obm_2009_n1_f1__Q04]]
 
 
 
@@ -157,8 +149,6 @@ level: OBM Nível 1
 
 > Dati i numeri reali $a,b,c,d$, considera la matrice $$A=\begin{pmatrix}a&b&c&d\\d&a&b&c\\c&d&a&b\\b&c&d&a\end{pmatrix}.$$ Se $f(x)=a+bx+cx^2+dx^3$, prova che $$\det A=f(1)\,f(i)\,f(-1)\,f(-i).$$ (Qui $i$ indica l'unità immaginaria.)
 
-[[Quesiti/src_obm_2009_n1_f1#q05|src_obm_2009_n1_f1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_funzionali,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
@@ -186,5 +176,3 @@ level: OBM Nível 1
 *Ricorrenza di convoluzione con a_0=0, a_1=pi/3; calcolare la somma di a_k/2^k*
 
 > Considera la sequenza $a_0,a_1,a_2,\ldots$ definita da $a_0=0$, $a_1=\pi/3$ e, per $n\geq 1$, $$a_{n+1}=\frac{\pi\,(a_0 a_n+a_1 a_{n-1}+a_2 a_{n-2}+\cdots+a_n a_0)}{3(n+1)}.$$ Calcolo $$\sum_{k=0}^{\infty}\frac{a_k}{2^k}=a_0+\frac{a_1}{2}+\frac{a_2}{4}+\frac{a_3}{8}+\cdots.$$
-
-[[Quesiti/src_obm_2009_n1_f1#q06|src_obm_2009_n1_f1__Q06]]

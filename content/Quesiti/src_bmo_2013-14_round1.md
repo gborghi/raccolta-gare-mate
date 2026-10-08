@@ -36,7 +36,6 @@ level: BMO Round 1
 > Calcolare il valore di $$\frac{2014^2 + 4 \times 2013^2 + 2012^2}{2013^2 + 4 \times 2012^2 + 2011^2} \div \frac{2013^2 + 4 \times 2012^2 + 2011^2}{2012^2 + 4 \times 2011^2 + 2010^2}.$$
 
 **Risposta:** 1
-[[Quesiti/src_bmo_2013-14_round1#q01|src_bmo_2013-14_round1__Q01]]
 
 
 
@@ -65,7 +64,6 @@ level: BMO Round 1
 > Nel triangolo $ABC$, $D$ è il piede della perpendicolare da $A$ a $BC$, e $E$ è il piede della perpendicolare da $B$ a $AC$. L'angolo $\angle ABC = 40^\circ$. Qual è l'angolo $\angle CDE$?
 
 **Risposta:** 40
-[[Quesiti/src_bmo_2013-14_round1#q02|src_bmo_2013-14_round1__Q02]]
 
 
 
@@ -92,8 +90,6 @@ level: BMO Round 1
 
 > Un numero è scritto in base $3^{2013}$ utilizzando solo la cifra $3^{2013}$. Nessun altro numero appare. Trova la potenza più alta di $3$ che divide questo numero.
 
-[[Quesiti/src_bmo_2013-14_round1#q03|src_bmo_2013-14_round1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_casework,method_conteggio,method_ricorsione,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -118,8 +114,6 @@ level: BMO Round 1
 *Contare i piani di vacanza di 5 giorni con limitazioni di attività*
 
 > Isaac sta pianificando una vacanza di cinque giorni. In ciascuno dei cinque giorni ha intenzione di fare solo una delle seguenti cose: andare a fare surf, andare a vela o andare in bicicletta. Vuole andare a fare surf almeno un giorno. Vuole andare a vela almeno un giorno. Inoltre, non vuole andare in bicicletta per due giorni consecutivi. In quanti modi può pianificare le sue vacanze?
-
-[[Quesiti/src_bmo_2013-14_round1#q04|src_bmo_2013-14_round1__Q04]]
 
 
 
@@ -148,8 +142,6 @@ level: BMO Round 1
 
 > Che $ABC$ sia un triangolo equilaterale, e che $P$ sia un punto all'interno di questo triangolo. I piedi delle perpendicolari da $P$ ai lati $BC$, $CA$ e $AB$ siano rispettivamente $D$, $E$ e $F$. Provare che a) $AP + BP + CP = AD + BE + CF$, b) $AP + BD + CE \geq BP + CD + AE$.
 
-[[Quesiti/src_bmo_2013-14_round1#q05|src_bmo_2013-14_round1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_stima"></span>
@@ -176,5 +168,3 @@ level: BMO Round 1
 *La media ponderata dell'angolo di prova si trova tra 60 e l'angolo più grande*
 
 > Gli angoli $A$, $B$ e $C$ di un triangolo sono misurati in gradi, e $A$, $B$ e $C$ sono interi positivi con $A + B + C = 180$. Le lunghezze dei lati opposti sono rispettivamente $a$, $b$ e $c$. Prova che $$60 \leq \frac{aA + bB + cC}{a + b + c} \leq C$$ dove $C$ è l'angolo più grande e $c$ è il lato più lungo corrispondente.
-
-[[Quesiti/src_bmo_2013-14_round1#q06|src_bmo_2013-14_round1__Q06]]

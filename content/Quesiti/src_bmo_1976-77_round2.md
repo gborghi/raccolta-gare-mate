@@ -41,8 +41,6 @@ level: BMO Round 2
 
 > $x_1, x_2, \ldots, x_n$ vengono dati punti dell'intervallo $\left[-\tfrac{1}{2}, 1\right]$ in modo tale che $$0 < x_1 < x_2 < \cdots < x_{k-1} \leq \tfrac{1}{2} \leq x_k \quad (1 < k < n).$$ La funzione quadrata $f$, della forma $$f(x) = x^2 + bx + c$$ in cui $a$, $b$, $c$ sono costanti reali, soddisfi la condizione $$|f(x_i)| \leq 1 \quad (0 \leq i \leq k).$$ Prove che $$|f(x)| \leq \tfrac{3}{2}$$ per tutti $x$ in $\left[-\tfrac{1}{2}, 1\right]$. Mostra con un esempio che questa proposizione diventa falsa se $\dfrac{3}{2}$ viene sostituita da un numero più piccolo.
 
-[[Quesiti/src_bmo_1976-77_round2#q01|src_bmo_1976-77_round2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_geometria_solida,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -67,8 +65,6 @@ level: BMO Round 2
 *Piramida con cerchi incisi di facce adiacenti che si toccano; prova i punti di contatto sul cerchio*
 
 > Una piramide si forma unendo le vertici di un quadrilaterale piano $ABCD$, la "base", al punto $T$ al di fuori del suo piano. Si scopre che i cerchi incisi di ciascun paio di facce triangolari adiacenti si toccano. Prove che i punti di contatto dei cerchi incisi con la base della piramide si trovano su un cerchio.
-
-[[Quesiti/src_bmo_1976-77_round2#q02|src_bmo_1976-77_round2__Q02]]
 
 
 
@@ -103,8 +99,6 @@ O risolvi l'equazione diofantina lineare o prova che AP ha un sottoinsieme infin
 > 
 > O (b) Prova che nella progressione aritmetica $$a, \; a+d, \; a+2d, \; \ldots, \; a+nd, \; \ldots$$ dove $a$, $d$ sono interi positivi, esiste un insieme infinito di termini con gli stessi divisori primi.
 
-[[Quesiti/src_bmo_1976-77_round2#q03|src_bmo_1976-77_round2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,method_induzione,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_modellizzazione"></span>
@@ -129,5 +123,3 @@ O risolvi l'equazione diofantina lineare o prova che AP ha un sottoinsieme infin
 *Construire un colletto di 2 perle in 2 colori che coprono tutte le coppie di colori*
 
 > Prove che per ogni numero intero $n \geq 1$ è possibile costruire un collare con perle $2n$ in tutto, essendo di $2n$ diversi colori, in modo tale che per ogni coppia di colori diversi vi sia almeno un paio di perle adiacenti di questi due colori. È possibile fare lo stesso utilizzando perle $2n^2 - 1$ in tutto? Datemi una ragione per la vostra risposta. (Un "colletto" è un'impostazione circolare di perle, senza alcun attaccamento; si presume che sia disponibile un ampio approvvigionamento di perle di tutti i colori.)
-
-[[Quesiti/src_bmo_1976-77_round2#q04|src_bmo_1976-77_round2__Q04]]

@@ -43,8 +43,6 @@ level: OBM Nível 1
 > 
 > c) In un caso in cui $O$ è doppio di $M$, qual è il valore di $B$?
 
-[[Quesiti/src_obm_2019_n1_fx#q01|src_obm_2019_n1_fx__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_casework,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -93,8 +91,6 @@ level: OBM Nível 1
 > d) tutte le dieci piastrelle sono posizionate in modo tale che in due piccoli quadrati che condividono un lato non ci siano due piastrelle nere?
 
 ![[src_obm_2019_n1_fx__q02.png]]
-
-[[Quesiti/src_obm_2019_n1_fx#q02|src_obm_2019_n1_fx__Q02]]
 
 
 
@@ -145,8 +141,6 @@ level: OBM Nível 1
 
 ![[src_obm_2019_n1_fx__q03.png]]
 
-[[Quesiti/src_obm_2019_n1_fx#q03|src_obm_2019_n1_fx__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_casework,method_simmetria,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato,skill_conteggio_sistematico"></span>
@@ -189,8 +183,6 @@ level: OBM Nível 1
 > Trovare tutti i valori possibili di $x + y$ e, per ogni valore, fornire un esempio di come compilare tutti i numeri.
 
 ![[src_obm_2019_n1_fx__q04.png]]
-
-[[Quesiti/src_obm_2019_n1_fx#q04|src_obm_2019_n1_fx__Q04]]
 
 
 
@@ -236,5 +228,3 @@ level: OBM Nível 1
 > c) Indicare che esiste un quadrato con vertici sulla griglia che ha esattamente $84$ punti reticolari all'interno.
 
 ![[src_obm_2019_n1_fx__q05.png]]
-
-[[Quesiti/src_obm_2019_n1_fx#q05|src_obm_2019_n1_fx__Q05]]

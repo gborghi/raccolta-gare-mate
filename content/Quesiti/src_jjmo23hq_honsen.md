@@ -37,8 +37,6 @@ level: JJMO Honsen
 > 
 > Iniziamo con due punti positivi scelti e applichiamo una sequenza di operazioni. Tra tutti i buoni punti trovati (compresi i primi due), considerate quelli che si trovano su una singola linea verticale $x = c$ per un numero intero fisso $c$. Trovare il valore minimo possibile di questo conteggio, su tutte le scelte dei due punti buoni iniziali e su tutte le sequenze finite di operazioni valide, dato che almeno una operazione è stata applicata con successo.
 
-[[Quesiti/src_jjmo23hq_honsen#q01|src_jjmo23hq_honsen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_combinatoria,method_invarianti,method_casework,skill_lettura_attenta,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -71,8 +69,6 @@ level: JJMO Honsen
 > 
 > \begin{itemize} \item C'è almeno un vertice in cui è scritto un numero reale positivo. \item Per due vertici adiacenti, il prodotto dei numeri scritti a quei due vertici è al massimo $1$. # Finire #
 
-[[Quesiti/src_jjmo23hq_honsen#q02|src_jjmo23hq_honsen__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -97,8 +93,6 @@ level: JJMO Honsen
 *Quattro punti tangenti incircolo/escircolo su AB e CD sono conciclici*
 
 > Che $ABCD$ sia un quadrilaterale convexo e che $E$ sia l'intersezione delle sue diagonali $AC$ e $BD$. Per il triangolo $ABE$, $P$ deve essere il punto in cui l'incircolo tocca il lato $AB$, e $P'$ deve essere il punto in cui l'escircolo opposto al vertice $A$ (l'escircolo $A$) tocca il lato $AB$. Per il triangolo $CDE$, $Q$ deve essere il punto in cui l'incircolo tocca il lato $CD$, e $Q'$ deve essere il punto in cui l'escircolo opposto al vertice $C$ (il $C$-escircolo) tocca il lato $CD$. Provare che $P$, $Q$, $P'$, $Q'$ sono conciclici. Qui $XY$ indica la lunghezza del segmento $XY$.
-
-[[Quesiti/src_jjmo23hq_honsen#q03|src_jjmo23hq_honsen__Q03]]
 
 
 
@@ -130,8 +124,6 @@ level: JJMO Honsen
 > Che $p$ sia un primo, $n$ sia un intero con $n \ge 4$, e $a_1, a_2, \ldots, a_n$ sia un intero positivo. Supponiamo che ciascuna delle somme parziali $n - 1$ $$a_1 + a_2, \quad a_1 + a_2 + a_3, \quad \ldots, \quad a_1 + a_2 + \cdots + a_n$$ sia divisibile da $p$. Prova che tra $a_1, a_2, \ldots, a_n$, al massimo $n - 3$ di essi sono \emph{$p$-th potenze}.
 > 
 > Qui, un \emph{$p$-th potenza} è un intero positivo che può essere espresso come $m^p$ per qualche intero positivo $m$. Inoltre, $p^0 = 1$ è considerato una potenza $p$-th (cioè $1 = 1^p$).
-
-[[Quesiti/src_jjmo23hq_honsen#q04|src_jjmo23hq_honsen__Q04]]
 
 
 
@@ -169,5 +161,3 @@ level: JJMO Honsen
 > \inbegin{itemize} \item $1 \le i \le n$. L'articolo $s$ è scritto sulla scheda $i$ e $t$ è scritto sulla scheda $i + 1$. Il punto $s \le t$. # Finire #
 > 
 > Qui, la scheda $n + 1$ si riferisce alla scheda $1$.
-
-[[Quesiti/src_jjmo23hq_honsen#q05|src_jjmo23hq_honsen__Q05]]

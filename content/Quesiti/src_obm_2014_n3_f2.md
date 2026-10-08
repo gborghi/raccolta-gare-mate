@@ -37,8 +37,6 @@ level: OBM Nível 3
 
 ![[src_obm_2014_n3_f2__q01.png]]
 
-[[Quesiti/src_obm_2014_n3_f2#q01|src_obm_2014_n3_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -63,8 +61,6 @@ level: OBM Nível 3
 *Le ultime due cifre della parte impar del 2014*
 
 > La parte impar di $n$ è definita come il prodotto di tutti i numeri naturali impar meno o uguali a $n$. Quali sono le ultime due cifre della parte impar di $2014$?
-
-[[Quesiti/src_obm_2014_n3_f2#q02|src_obm_2014_n3_f2__Q02]]
 
 
 
@@ -91,8 +87,6 @@ level: OBM Nível 3
 
 > La sequenza $a_1, a_2, a_3, \ldots$ soddisfa $a_1 = 1$ e $a_n = \left\lceil \sqrt{a_{n-1}^2 + n} \right\rceil$. Qual è il numero intero più vicino a $a_{2014}$?
 
-[[Quesiti/src_obm_2014_n3_f2#q03|src_obm_2014_n3_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -117,8 +111,6 @@ level: OBM Nível 3
 *Contate i sottosette di {1,...2014} con media 2012, trovate il rimanente mod 2014*
 
 > La media di un insieme $\{a_1, a_2, \ldots, a_n\}$ con $a_1 < a_2 < \cdots < a_n$ è definita come la media dei due termini centrali $\dfrac{a_{n/2} + a_{n/2+1}}{2}$ quando $n$ è pari, e come $a_{(n+1)/2}$ quando $n$ è pari. $M$ è il numero di sottoinsiemi di $\{1, 2, \ldots, 2014\}$ con media pari a $2012$. Trova il resto della divisione di $M$ per $2014$.
-
-[[Quesiti/src_obm_2014_n3_f2#q04|src_obm_2014_n3_f2__Q04]]
 
 
 
@@ -145,8 +137,6 @@ level: OBM Nível 3
 
 > Una scatola di legno in forma di parallelepipedone rettangolare con dimensioni $3 \times 4 \times 6$ si posa sul pavimento e una delle sue facce è completamente piatta sul pavimento. Una fonte luminosa emette raggi paralleli al pavimento a $45^\circ$. Considerando solo la luce proveniente da questa fonte, qual è la superficie massima possibile dell'ombra gettata sul pavimento (esclusa la superficie direttamente sotto la scatola)?
 
-[[Quesiti/src_obm_2014_n3_f2#q05|src_obm_2014_n3_f2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_fattorizzazione,method_estremalita,skill_ragionamento_geometrico,skill_modellizzazione,skill_riconoscimento_pattern"></span>
@@ -171,8 +161,6 @@ level: OBM Nível 3
 *Massima dimensione di insieme completamente divisibile contenente elementi inferiori a 2 milioni*
 
 > Un insieme è chiamato \emph{completamente divisibile} se per due elementi $a < b$ nel insieme, $a$ divide $b$. Un insieme di integri positivi $A$ è completamente divisibile, contiene $2016$ come uno dei suoi elementi e tutti gli elementi di $A$ sono inferiori a $2{,}000{,}000$. Qual è il numero massimo di elementi che $A$ può contenere?
-
-[[Quesiti/src_obm_2014_n3_f2#q06|src_obm_2014_n3_f2__Q06]]
 
 
 
@@ -199,8 +187,6 @@ level: OBM Nível 3
 
 > In una classe, un insegnante ha votato se rinviare l'esame di matematica. Un terzo degli studenti ha votato a favore del rinvio e il resto ha votato contro. Diversi studenti hanno discusso e l'insegnante ha tenuto un nuovo voto, in cui esattamente $8$ gli studenti hanno cambiato idea, in modo che $\dfrac{3}{4}$ degli studenti hanno votato contro il rinvio. Qual è il numero massimo di studenti che avrebbero potuto partecipare al voto?
 
-[[Quesiti/src_obm_2014_n3_f2#q07|src_obm_2014_n3_f2__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_modellizzazione"></span>
@@ -226,8 +212,6 @@ level: OBM Nível 3
 
 > Il $ABCD$ deve essere quadrato con lunghezza laterale $4$. Un insieme $S$ di punti all'interno di $ABCD$ ha la seguente proprietà: ogni cerchio di raggio $1$ contenuto interamente all'interno di $ABCD$ (cioè contenuto all'interno o al suo confine) contiene almeno un punto di $S$. Qual è il numero minimo di punti in $S$?
 
-[[Quesiti/src_obm_2014_n3_f2#q08|src_obm_2014_n3_f2__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -252,5 +236,3 @@ level: OBM Nível 3
 *Lunghezza SU in quadrilatore con un cerchio inciso, date le lunghezze tangenti*
 
 > Un cerchio è tangente ai quattro lati del quadrilaterale $ABCD$. I punti di tangenza sono $R$ su $AB$, $S$ su $BC$, $T$ su $CD$ e $U$ su $DA$. Dato che $AU = 1$, $DU = 2$, $BS = 2$ e $CS = 4$, si trova la lunghezza $SU$.
-
-[[Quesiti/src_obm_2014_n3_f2#q09|src_obm_2014_n3_f2__Q09]]

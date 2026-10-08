@@ -35,8 +35,6 @@ level: China Southeastern Mathematical Olympiad
 
 > Lasciate che $a$, $b$ siano numeri reali in modo tale che l'equazione $x^3 - ax^2 + bx - a = 0$ abbia solo radici reali. Trova il minimo di $\dfrac{2a^3 - 3ab + 3a}{b + 1}$.
 
-[[Quesiti/src_cn_csmo_2013#q01|src_cn_csmo_2013__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -68,8 +66,6 @@ level: China Southeastern Mathematical Olympiad
 
 ![[src_cn_csmo_b11_w309__q02.png]]
 
-[[Quesiti/src_cn_csmo_2013#q02|src_cn_csmo_2013__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_ricorsione,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -96,8 +92,6 @@ level: China Southeastern Mathematical Olympiad
 *Sequenza ricursiva; prova che la somma dei quadrati di termini adiacenti è nella sequenza.*
 
 > La sequenza $\{a_n\}$ deve essere definita da $a_1 = 1$, $a_2 = 2$, $a_{n+1} = \dfrac{a_n^2 + (-1)^n}{a_{n-1}}$ $(n = 2, 3, \ldots)$. Prova che la somma dei quadrati di due termini adiacenti della sequenza è anche nella sequenza.
-
-[[Quesiti/src_cn_csmo_2013#q03|src_cn_csmo_2013__Q03]]
 
 
 
@@ -132,7 +126,6 @@ level: China Southeastern Mathematical Olympiad
 ![[src_cn_csmo_b11_w309__q04.png]]
 
 **Risposta:** 6
-[[Quesiti/src_cn_csmo_2013#q04|src_cn_csmo_2013__Q04]]
 
 
 
@@ -161,7 +154,6 @@ level: China Southeastern Mathematical Olympiad
 > Let $f(x) = \left[\frac{x}{1!}\right] + \left[\frac{x}{2!}\right] + \cdots + \left[\frac{x}{2013!}\right]$, dove $[x]$ è il numero intero più grande non superiore a $x$. Chiamare un numero intero $n$ un *buono numero* se l'equazione $f(x) = n$ ha una soluzione reale $x$. Trova il numero dei numeri buoni nell'insieme $\{1, 3, 5, \ldots, 2013\}$.
 
 **Risposta:** 587
-[[Quesiti/src_cn_csmo_2013#q05|src_cn_csmo_2013__Q05]]
 
 
 
@@ -194,7 +186,6 @@ level: China Southeastern Mathematical Olympiad
 ![[src_cn_csmo_b11_w317__q07.png]]
 
 **Risposta:** 7
-[[Quesiti/src_cn_csmo_2013#q07|src_cn_csmo_2013__Q07]]
 
 
 
@@ -225,4 +216,3 @@ level: China Southeastern Mathematical Olympiad
 > Che $m$ sia un intero positivo, $n = 2^m - 1$, e $P_n = \{1, 2, \ldots, n\}$ sia l'insieme dei punti $n$ su un asse numerico. Un agaro salta tra i punti adiacenti su $P_n$. Trovare il numero massimo di $m$ in modo tale che per qualsiasi $x, y \in P_n$, il numero di modi in cui un salto da $x$ a $y$ da $2012$ passi è pari (passando $x$ o $y$ in viaggio è consentito).
 
 **Risposta:** m = 10
-[[Quesiti/src_cn_csmo_2013#q08|src_cn_csmo_2013__Q08]]

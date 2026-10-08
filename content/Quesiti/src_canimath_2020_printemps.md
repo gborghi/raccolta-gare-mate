@@ -39,7 +39,6 @@ level: Coupe Animath Printemps
 > *Solo una risposta numerica è prevista qui.*
 
 **Risposta:** 25
-[[Quesiti/src_canimath_2020_printemps#q01|src_canimath_2020_printemps__Q01]]
 
 
 
@@ -70,8 +69,6 @@ level: Coupe Animath Printemps
 > 
 > *Solo una risposta numerica è prevista qui.*
 
-[[Quesiti/src_canimath_2020_printemps#q02|src_canimath_2020_printemps__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -95,8 +92,6 @@ level: Coupe Animath Printemps
 *Triangolo isosceles, bisetto dell'angolo B incontra l'AC a D con BD=DA; trova gli angoli*
 
 > $ABC$ sia un triangolo a uguale scala a $A$. Il bisettore dell'angolo $\widehat{ABC}$ incontra il lato $[AC]$ a $D$. Supponiamo che $BD = DA$. Determinare gli angoli del triangolo.
-
-[[Quesiti/src_canimath_2020_printemps#q03|src_canimath_2020_printemps__Q03]]
 
 
 
@@ -123,8 +118,6 @@ level: Coupe Animath Printemps
 
 > Un numero appare su uno schermo del computer. Sappiamo che se $x$ appare sullo schermo, allora il numero $x^2 - 2x + 1$ appare subito dopo. Se il primo numero che appare è $2$, quale è il numero $2020$ che appare?
 
-[[Quesiti/src_canimath_2020_printemps#q04|src_canimath_2020_printemps__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -149,8 +142,6 @@ level: Coupe Animath Printemps
 *Triangolo acuto: D piede di altitudine da A, E riflessione di D attraverso la linea AC; dimostrare gli isosceli di FBC a B*
 
 > Lasciate che $ABC$ sia un triangolo i cui angoli sono tutti acuti. $D$ sia il piede dell'altitudine dal vertice $A$. Il punto $E$ deve essere il riflesso del punto $D$ rispetto alla riga $(AC)$. La perpendicolare alla linea $(AE)$ che attraversa $B$ incontra la linea $(AC)$ in un punto indicato $F$. Indicare che il triangolo $FBC$ è uguale a $B$.
-
-[[Quesiti/src_canimath_2020_printemps#q05|src_canimath_2020_printemps__Q05]]
 
 
 
@@ -177,8 +168,6 @@ level: Coupe Animath Printemps
 *Il numero minimo di colori per colore 2,8 e poi 2,31 in modo che i multipli differiscano*
 
 > 1) Alice desidera colorare i numeri interi tra $2$ e $8$ (inclusivo) usando i colori $k$. Desidera che, se $m$ e $n$ sono due numeri interi tra $2$ e $8$ in modo tale che $m$ sia un multiple di $n$ e $m \ne n$, allora $m$ e $n$ siano di colori diversi. Determinare il numero intero $k$ più piccolo per il quale Alice può colorare i numeri interi $2, 3, \ldots, 8$ utilizzando i colori $k$. 2) Alice desidera colorare i numeri interi tra $2$ e $31$ (inclusi) utilizzando i colori $k$. Desidera che, se $m$ e $n$ sono due numeri interi tra $2$ e $31$ in modo tale che $m$ sia un multiple di $n$ e $m \ne n$, allora $m$ e $n$ siano di colori diversi. Determinare il numero intero $k$ più piccolo per il quale Alice può colorare i numeri interi $2, 3, \ldots, 31$ utilizzando i colori $k$.
-
-[[Quesiti/src_canimath_2020_printemps#q06|src_canimath_2020_printemps__Q06]]
 
 
 
@@ -211,8 +200,6 @@ level: Coupe Animath Printemps
 > 
 > Successivamente, i giocatori ridistribuiscono le carte rosse come segue: il giocatore che detiene la carta verde del numero più piccolo riceve la carta rossa del numero più grande; poi il giocatore che detiene la carta verde del secondo numero più piccolo riceve la carta rossa del secondo numero più grande; e così via. Ogni giocatore calcola di nuovo la somma dei numeri delle sue due carte, e indichiamo con $M'$ la somma più grande tra le somme dei giocatori $n$. 1) È possibile avere $M' < M$? 2) È possibile avere $M' > M$?
 
-[[Quesiti/src_canimath_2020_printemps#q07|src_canimath_2020_printemps__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_casework_accurato,skill_manipolazione_algebrica"></span>
@@ -237,8 +224,6 @@ level: Coupe Animath Printemps
 *Ricerca m,n,k dove i divisori intermedi di n sono uno in più di quelli di m*
 
 > Determinare i numeri interi $m \ge 2$, $n \ge 2$ e $k \ge 3$ che hanno la seguente proprietà: $m$ e $n$ hanno ognuno dei divisori positivi $k$, e se $d_1 < \ldots < d_k$ sono i divisori positivi di $m$ (con $d_1 = 1$ e $d_k = m$) e $d_1' < \ldots < d_k'$ sono i divisori positivi di $n$ (con $d_1' = 1$ e $d_k' = n$), allora $d_i' = d_i + 1$ per ogni numero intero $i$ tale che $2 \le i \le k - 1$.
-
-[[Quesiti/src_canimath_2020_printemps#q08|src_canimath_2020_printemps__Q08]]
 
 
 
@@ -269,8 +254,6 @@ level: Coupe Animath Printemps
 > 
 > *Solo una risposta numerica è prevista qui.*
 
-[[Quesiti/src_canimath_2020_printemps#q09|src_canimath_2020_printemps__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -294,8 +277,6 @@ level: Coupe Animath Printemps
 *Triangolo isosceles, bisector di angolo B incontra AC a D con BD=DA; trovare gli angoli (lycee)*
 
 > $ABC$ sia un triangolo a uguale scala a $A$. Il bisettore dell'angolo $\widehat{ABC}$ incontra il lato $[AC]$ a $D$. Supponiamo che $BD = DA$. Determinare gli angoli del triangolo $ABC$.
-
-[[Quesiti/src_canimath_2020_printemps#q10|src_canimath_2020_printemps__Q10]]
 
 
 
@@ -322,8 +303,6 @@ level: Coupe Animath Printemps
 *Il numero minimo di colori per il colore 2,8 e poi 2,31 in modo che i moltipli differiscano (licee)*
 
 > 1) Alice desidera colorare i numeri interi tra $2$ e $8$ (inclusivo) usando i colori $k$. Desidera che, se $m$ e $n$ sono due numeri interi tra $2$ e $8$ in modo tale che $m$ sia un multiple di $n$ e $m \ne n$, allora $m$ e $n$ siano di colori diversi. Determinare il numero intero $k$ più piccolo per il quale Alice può colorare i numeri interi $2, 3, \ldots, 8$ utilizzando i colori $k$. 2) Alice desidera colorare i numeri interi tra $2$ e $31$ (inclusi) utilizzando i colori $k$. Desidera che, se $m$ e $n$ sono due numeri interi tra $2$ e $31$ in modo tale che $m$ sia un multiple di $n$ e $m \ne n$, allora $m$ e $n$ siano di colori diversi. Determinare il numero intero $k$ più piccolo per il quale Alice può colorare i numeri interi $2, 3, \ldots, 31$ utilizzando i colori $k$.
-
-[[Quesiti/src_canimath_2020_printemps#q11|src_canimath_2020_printemps__Q11]]
 
 
 
@@ -354,8 +333,6 @@ level: Coupe Animath Printemps
 > 
 > *Dati i numeri reali $a_1, a_2, \ldots, a_n$, il numero $\min_{1 \le i \le n} a_i$ indica il numero reale più piccolo tra i numeri $a_1, a_2, \ldots, a_n$. Il numero $\max_{1 \le i \le n} a_i$ indica il più grande reale tra i numeri $a_1, a_2, \ldots, a_n$.*
 
-[[Quesiti/src_canimath_2020_printemps#q12|src_canimath_2020_printemps__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,method_casework,method_estremalita,skill_casework_accurato,skill_stima"></span>
@@ -381,8 +358,6 @@ level: Coupe Animath Printemps
 
 > Per ogni numero intero $n \ge 0$, $s(n)$ indica la somma delle cifre di $n$. Determinare tutti gli integri $n$ in modo tale che $n = 2s(n)$.
 
-[[Quesiti/src_canimath_2020_printemps#q13|src_canimath_2020_printemps__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_casework_accurato,skill_manipolazione_algebrica"></span>
@@ -407,8 +382,6 @@ level: Coupe Animath Printemps
 *Ricerca m,n,k dove i divisori intermedi di n sono uno in più di quelli di m (lycee)*
 
 > Determinare i numeri interi $m \ge 2$, $n \ge 2$ e $k \ge 3$ che hanno la seguente proprietà: $m$ e $n$ hanno ognuno dei divisori positivi $k$, e se $d_1 < \ldots < d_k$ sono i divisori positivi di $m$ (con $d_1 = 1$ e $d_k = m$) e $d_1' < \ldots < d_k'$ sono i divisori positivi di $n$ (con $d_1' = 1$ e $d_k' = n$), allora $d_i' = d_i + 1$ per ogni numero intero $i$ tale che $2 \le i \le k - 1$.
-
-[[Quesiti/src_canimath_2020_printemps#q14|src_canimath_2020_printemps__Q14]]
 
 
 
@@ -437,8 +410,6 @@ level: Coupe Animath Printemps
 
 > Che $ABCD$ sia un quadrato e che $S$ sia un punto all'esterno del quadrato $ABCD$ in modo tale che il triangolo $BCS$ sia equilaterale. Il $N$ deve essere il punto medio del segmento $[AS]$ e il $H$ il punto medio del segmento $[CD]$. Il segmento $[BS]$ deve essere il punto medio del segmento $P$. 1) Calcolare l'angolo $\widehat{BPN}$. 2) Calcolare l'angolo $\widehat{NHC}$.
 
-[[Quesiti/src_canimath_2020_printemps#q15|src_canimath_2020_printemps__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,skill_modellizzazione,skill_casework_accurato,skill_stima"></span>
@@ -464,8 +435,6 @@ level: Coupe Animath Printemps
 
 > La somma di alcuni integri positivi (non necessariamente distinti), ognuno inferiore o uguale a $10$, è uguale a $S$. Trova tutti i valori di $S$ in modo tale che, qualunque siano questi enti, essi possano **sempre** essere suddivisi in due gruppi, ognuno di somma inferiore o uguale a $70$.
 
-[[Quesiti/src_canimath_2020_printemps#q16|src_canimath_2020_printemps__Q16]]
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_ragionamento_geometrico"></span>
@@ -490,5 +459,3 @@ level: Coupe Animath Printemps
 *Meno n per posizionare le celle nere in una griglia n x n, k per riga e colonna, non due che condividono un lato o un angolo*
 
 > $k > 1$ sia un numero intero positivo. Determinare il numero intero $n$ più piccolo per il quale si possono colorare alcune celle di una tavola $n \times n$ in nero in modo tale che non esistano due celle nere che condividano un lato o un angolo, e che ogni riga e ogni colonna contengano esattamente $k$ celle nere.
-
-[[Quesiti/src_canimath_2020_printemps#q17|src_canimath_2020_printemps__Q17]]

@@ -40,7 +40,6 @@ level: squadre
 > Secret agent James Bound has just brilliantly completed his last assignment. In it he had to count the number of positive integers of exactly three digits such that, exchanging between them the second and third digits counted from the left, the difference (in absolute value) between the starting number and the number obtained by the exchange is 18. How many did you count? For example, 331 and 313 are good because ∙331−313 is equal to 18 and should be counted as distinct.
 
 **Answer:** 0162
-[[Quesiti/src_archimede_2025_squadre_semifinale2#q01|src_archimede_2025_squadre_semifinale2__Q01]]
 
 
 
@@ -72,7 +71,6 @@ level: squadre
 > License of... Bound has the identification number 007, where double zero means license to solve. He obtained this identifier by adding the squares of the first 30 positive integers equal and subtracting from them four times the sum of the squares of the first 29 positive integers. How much did you get?
 
 **Answer:** 3600
-[[Quesiti/src_archimede_2025_squadre_semifinale2#q02|src_archimede_2025_squadre_semifinale2__Q02]]
 
 
 
@@ -106,7 +104,6 @@ level: squadre
 > Dividing The Director of MI6), better known as N, waits for Agent Bound to come back and report. While drawing a square, he chooses a point inside and traces the perpendiculars to the sides of the square passing through that point. It then chooses a second point, which is not on the perpendiculars already drawn, and draws the perpendiculars to the passing sides for the second point. Repeat this operation, always choosing points not on already mapped segments, until you have mapped the perpendiculars from the 40th point. How many regions have formed in the square?
 
 **Answer:** 0199
-[[Quesiti/src_archimede_2025_squadre_semifinale2#q03|src_archimede_2025_squadre_semifinale2__Q03]]
 
 
 
@@ -138,7 +135,6 @@ Probability of exactly two agents telling the truth with dice
 > The last enemy of James Bound, and of humanity, is an organization known as SPECTRAL THEOREM. Its logo is a convex pentagon ABCDE, such that ABCD is a square of side 10 and ADE is an isosceles triangle (based on AD). Knowing that the area of the triangle BDE is equal to 17 32 of the area of ABCDE, how much is AE?
 
 **Answer:** 8677
-[[Quesiti/src_archimede_2025_squadre_semifinale2#q04|src_archimede_2025_squadre_semifinale2__Q04]]
 
 
 
@@ -170,7 +166,6 @@ Probability of exactly two agents telling the truth with dice
 > James Bound sometimes makes use of the collaboration of French secret agent René Mathieu. The first time was when together they solved the following question: How many ways can two numbers between 1 and 100 be chosen that, divided by each number between 2 and 100, always give distinct remains?
 
 **Answer:** 0013
-[[Quesiti/src_archimede_2025_squadre_semifinale2#q05|src_archimede_2025_squadre_semifinale2__Q05]]
 
 
 
@@ -201,7 +196,6 @@ Probability of exactly two agents telling the truth with dice
 > Secret agent Bound, you know, has a crush on the Aston Martin Gardners. Now he drives the latest model, whose power is exaggerated! Writing in increasing order all positive integers whose sum of digits is divisible by 10, the number of horses in the car would be equal to the 2025th written number. How many horses does the car have?
 
 **Answer:** 0016
-[[Quesiti/src_archimede_2025_squadre_semifinale2#q06|src_archimede_2025_squadre_semifinale2__Q06]]
 
 
 
@@ -233,7 +227,6 @@ Probability of exactly two agents telling the truth with dice
 > For business reasons, James Bound often goes to the math casino. The game you're watching right now starts with k2 dollars on the bench, with k positive. At each turn, k dollars are added to the bank (for example, after the first round there are k2 + k dollars). What's the minimum number of shifts after which there's exactly $6,384 on the bench?
 
 **Answer:** 0961
-[[Quesiti/src_archimede_2025_squadre_semifinale2#q07|src_archimede_2025_squadre_semifinale2__Q07]]
 
 
 
@@ -268,7 +261,6 @@ Probability of exactly two agents telling the truth with dice
 > Access to the mathematical casino is exclusive and reserved for mathematical secret agents. At the entrance a circumference of 15 radii, its diameter BC and an outer point A to the circumference are drawn. The circumference intersects segments AB and AC in D and E respectively. BD = 1 3AB and CE = 1 4AC are known. To enter the casino, you have to say how much the ABC area is worth. What's the answer? Team competition 2025  Semifinal 1  Problem tests  1/2
 
 **Answer:** 1664
-[[Quesiti/src_archimede_2025_squadre_semifinale2#q08|src_archimede_2025_squadre_semifinale2__Q08]]
 
 
 
@@ -304,7 +296,6 @@ Probability of exactly two agents telling the truth with dice
 > The leader of the SPECTRAL THEOREM plays a loner with his white cat on his legs. He must insert in each box of a grid 2×3, initially empty, a figure representing him at the head of the world (the figures are all the same). The first figure is placed randomly; from the second the leader randomly chooses a box that has at least one vertex in common with the box in which he placed the previous figure. After inserting a few figures, but not all, the leader realizes that there are no boxes adjacent to that choice right away. He's upset, the cat's leaving. What was the probability that the cat would leave? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
 
 **Answer:** 0251
-[[Quesiti/src_archimede_2025_squadre_semifinale2#q09|src_archimede_2025_squadre_semifinale2__Q09]]
 
 
 
@@ -336,7 +327,6 @@ Probability of exactly two agents telling the truth with dice
 > Spies in love. Even James Bound has been in love! As a young man, he met Vesper Lynear, a mathematician who conquered him by solving almost instantly the following question: how many non-conforming rectangular triangles are there, with lengths of positive whole catheters and having areas numerically equal to 5 times their perimeter?
 
 **Answer:** 0012
-[[Quesiti/src_archimede_2025_squadre_semifinale2#q10|src_archimede_2025_squadre_semifinale2__Q10]]
 
 
 
@@ -369,7 +359,6 @@ Probability of exactly two agents telling the truth with dice
 > Whistleblowers and trackers James needs to distinguish between the clues of the real whistleblowers and those of the trackers. The clues given to him are all different and are all possible pairs of natural numbers (n,d) where n is a two-digit number and d =1 is its divisor. James was able to understand that the true indices can be obtained by calculating the product of n and d divided by the product of the prime divisors of n and the product of the prime divisors of d: (n,d) is a true indication only if this operation gives the result n. How much is the sum of all the n+d of the true indices?
 
 **Answer:** 0071
-[[Quesiti/src_archimede_2025_squadre_semifinale2#q11|src_archimede_2025_squadre_semifinale2__Q11]]
 
 
 
@@ -402,7 +391,6 @@ Probability of exactly two agents telling the truth with dice
 > In the world of secret agents, you can never trust anyone. In a room there are 6 secret agents and a six-sided dice, numbered with integers from 0 to 5 (included). Each agent, in order, throws the dice and exclaims: Before me, exactly k agents told the truth!, where k is the result of throwing the dice. What is the probability that exactly two of them are telling the truth? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
 
 **Answer:** 0006
-[[Quesiti/src_archimede_2025_squadre_semifinale2#q12|src_archimede_2025_squadre_semifinale2__Q12]]
 
 
 
@@ -440,7 +428,6 @@ Probability of exactly two agents telling the truth with dice
 > Bound and Mathieu want to devise a trap to capture a spectral theorist. To mimic the situation, two circumferences are drawn on the floor: Γ of centre O and radius 4m, and ∆ of centre O′ and radius R > 4m. The two circumferences intersect in A and B, the segment OO′ intersects Γ in C, while the straight OB intersects ∆in B and D. Bound notices that the segments CO′ and AD intersect, and puts himself right at their intersection point X, while Mathieu puts himself at a Y point on the segment DX. If the intersection of Y C with Γ is distinct from C, then \ Y FO = \ DOX and XO′ = 3m. For the trap to be infallible, Bound and Mathieu must determine the value (in square metres) of the product AX ·Y D. How much is that product worth?
 
 **Answer:** 0540
-[[Quesiti/src_archimede_2025_squadre_semifinale2#q13|src_archimede_2025_squadre_semifinale2__Q13]]
 
 
 
@@ -476,7 +463,6 @@ Probability of exactly two agents telling the truth with dice
 > The spy who loved me Unexpectedly, Vesper Lynear broke James Bound's heart. He had defined the operation ⋆his rational numbers this way: for every positive rational x,y, x⋆y = x+y 1+xy). He had then set the result of (...(((2 ⋆3) ⋆4)...) ⋆99 as the code of his safe, but once he opened it he discovered that Vesper had stolen the contents and had gone. What result did Vesper put in? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
 
 **Answer:** 9900
-[[Quesiti/src_archimede_2025_squadre_semifinale2#q14|src_archimede_2025_squadre_semifinale2__Q14]]
 
 
 
@@ -508,7 +494,6 @@ Probability of exactly two agents telling the truth with dice
 > Access to the headquarters The headquarters of the MI6), like all intelligence services, has an entrance whose door is opened by entering a code. It is equal to the result of p+2q, where p and q are prime numbers, with p < q such that pq = 83333. What code do you need to enter to open the door?
 
 **Answer:** 0616
-[[Quesiti/src_archimede_2025_squadre_semifinale2#q15|src_archimede_2025_squadre_semifinale2__Q15]]
 
 
 
@@ -556,4 +541,3 @@ Probability of exactly two agents telling the truth with dice
 > XXVI National Semifinal Team Competition 1  Friday 9 May 2025 Ministry of Education and Merit Solutions Nr. The problem
 
 **Answer:** 3414
-[[Quesiti/src_archimede_2025_squadre_semifinale2#q16|src_archimede_2025_squadre_semifinale2__Q16]]

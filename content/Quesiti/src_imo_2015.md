@@ -41,8 +41,6 @@ level: IMO
 > 
 > (b) Determinare tutti gli interi $n \geq 3$ per i quali esiste un insieme bilanciato senza centro formato da $n$ punti.
 
-[[Quesiti/src_imo_2015#q01|src_imo_2015__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_riconoscimento_pattern"></span>
@@ -71,8 +69,6 @@ level: IMO
 > Determinare tutte le triple $(a, b, c)$ di interi positivi tali che ciascuno dei numeri $ab - c$, $bc - a$, $ca - b$ sia una potenza di $2$.
 > 
 > (Un **potenza di 2** è un intero della forma $2^n$, dove $n$ è un numero intero non negativo.)
-
-[[Quesiti/src_imo_2015#q02|src_imo_2015__Q02]]
 
 
 
@@ -103,8 +99,6 @@ level: IMO
 > 
 > Si dimostri che le circonferenze circoscritte ai triangoli $KQH$ e $FKM$ sono tangenti tra loro.
 
-[[Quesiti/src_imo_2015#q03|src_imo_2015__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
@@ -134,8 +128,6 @@ level: IMO
 > 
 > Siano le rette $FK$ e $GL$ diverse tra loro e che si intersechino nel punto $X$. Si dimostri che il punto $X$ appartiene alla retta $AO$.
 
-[[Quesiti/src_imo_2015#q04|src_imo_2015__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,method_casework,skill_manipolazione_algebrica"></span>
@@ -164,8 +156,6 @@ level: IMO
 > Sia $\mathbb{R}$ l'insieme dei numeri reali. Determinare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ che soddisfano l'equazione
 > $$f(x + f(x + y)) + f(xy) = x + f(x + y) + y f(x)$$
 > per tutti i numeri reali $x$ e $y$.
-
-[[Quesiti/src_imo_2015#q05|src_imo_2015__Q05]]
 
 
 
@@ -207,5 +197,3 @@ level: IMO
 > Si dimostri che esistono due numeri interi positivi $b$ e $N$ tali che
 > $$\left|\sum_{j=m+1}^{n}(a_j - b)\right| \leq 1007^2$$
 > per tutti gli interi $m$ e $n$ che soddisfano $n > m \geq N$.
-
-[[Quesiti/src_imo_2015#q06|src_imo_2015__Q06]]
