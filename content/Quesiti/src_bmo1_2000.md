@@ -33,8 +33,6 @@ level: BMO Round 1
 
 > Due cerchi incrociati $C_1$ e $C_2$ hanno una tangente comune che tocca $C_1$ a $P$ e $C_2$ a $Q$. I due cerchi si incrociano a $M$ e $N$, dove $N$ è più vicino a $PQ$ rispetto a $M$. La linea $PN$ incontra nuovamente il cerchio $C_2$ a $R$. Provare che $MQ$ divide l'angolo $PMR$.
 
-[[Quesiti/src_bmo1_2000#q01|src_bmo1_2000__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -61,8 +59,6 @@ level: BMO Round 1
 *Mostra che un'espressione in n è divisibile per 2000*
 
 > Mostra che per ogni intero positivo $n$, $$121^n - 25^n + 1900^n - (-4)^n$$ è divisibile per 2000.
-
-[[Quesiti/src_bmo1_2000#q02|src_bmo1_2000__Q02]]
 
 
 
@@ -91,8 +87,6 @@ level: BMO Round 1
 
 > Il triangolo $ABC$ ha un angolo retto a $A$. Tra tutti i punti $P$ sul perimetro del triangolo, trovare la posizione di $P$ tale da ridurre al minimo $$AP + BP + CP$$.
 
-[[Quesiti/src_bmo1_2000#q03|src_bmo1_2000__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,method_ricorsione,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato"></span>
@@ -119,8 +113,6 @@ level: BMO Round 1
 *Sequenza di ricorrenze; trovare tutti i k per i quali 2000 è un termine*
 
 > Per ogni intero positivo $k > 1$, definire la sequenza $\{a_n\}$ da $$a_0 = 1 \quad \text{and} \quad a_n = kn + (-1)^n a_{n-1} \quad \text{for each } n \geq 1.$$ Determinare tutti i valori di $k$ per i quali 2000 è un termine della sequenza.
-
-[[Quesiti/src_bmo1_2000#q04|src_bmo1_2000__Q04]]
 
 
 
@@ -150,5 +142,3 @@ level: BMO Round 1
 > Le sette nane decidono di formare quattro squadre per competere nel Millennium Quiz. Naturalmente, le dimensioni delle squadre non saranno tutte uguali. Ad esempio, una squadra potrebbe essere composta da Doc solo, una da Dopey solo, una da Sleepy, Happy $\&$ Grumpy, e una da Bashful $\&$ Sneezy. In quanti modi possono essere costituite le quattro squadre? (L'ordine delle squadre o dei nani all'interno delle squadre non importa, ma ogni nano deve essere esattamente in una delle squadre.)
 > 
 > Supponiamo che anche Bianco Neve abbia accettato di partecipare. In quanti modi potevano allora essere formate le quattro squadre?
-
-[[Quesiti/src_bmo1_2000#q05|src_bmo1_2000__Q05]]

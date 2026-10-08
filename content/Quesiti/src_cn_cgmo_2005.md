@@ -37,8 +37,6 @@ level: China Girls' Mathematical Olympiad
 
 ![[src_cn_cgmo_2005__q01.png]]
 
-[[Quesiti/src_cn_cgmo_2005#q01|src_cn_cgmo_2005__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_casework,method_fattorizzazione,method_trigonometria,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
@@ -65,8 +63,7 @@ level: China Girls' Mathematical Olympiad
 
 > Trovare tutti i triples $(x, y, z)$ dei numeri reali in modo tale che $$\left\{\begin{array}{l} \left(x + \tfrac{1}{2}\right)^2 = 12\left(y + \tfrac{1}{2}\right),\\[4pt] \left(y + \tfrac{1}{2}\right)^2 = 13\left(z + \tfrac{1}{2}\right),\\[4pt] xy + yz + zx = 1. \end{array}\right.$$
 
-**Risposta:** $\left(\tfrac{1}{5}, \tfrac{2}{3}, 1\right)$ and $\left(-\tfrac{1}{5}, \tfrac{2}{3}, 1\right)$
-[[Quesiti/src_cn_cgmo_2005#q02|src_cn_cgmo_2005__Q02]]
+**Risposta:** $\left(\tfrac{1}{5}, \tfrac{2}{3}, 1\right)$ e $\left(-\tfrac{1}{5}, \tfrac{2}{3}, 1\right)$
 
 
 
@@ -100,8 +97,7 @@ level: China Girls' Mathematical Olympiad
 
 ![[src_cn_cgmo_2005__q03.png]]
 
-**Risposta:** Yes
-[[Quesiti/src_cn_cgmo_2005#q03|src_cn_cgmo_2005__Q03]]
+**Risposta:** Sì
 
 
 
@@ -134,7 +130,6 @@ level: China Girls' Mathematical Olympiad
 > Determinare tutti i numeri reali positivi $a$ in modo tale che esista un intero positivo $n$ e set $A_1, A_2, \cdots, A_n$ che soddisfino le seguenti condizioni: (1) ogni set $A_i$ ha finitamente molti elementi; (2) ogni coppia di set $A_i$ e $A_j$ distinte non condivide alcun elemento comune; (3) l'unione di set $A_1, A_2, \cdots, A_n$ è l'insieme di tutti gli enti; (4) per ogni set $A_i$, la differenza positiva di qualsiasi coppia di elementi in $A_i$ è almeno $a^i$.
 
 **Risposta:** $0 < a < 2$
-[[Quesiti/src_cn_cgmo_2005#q04|src_cn_cgmo_2005__Q04]]
 
 
 
@@ -160,8 +155,6 @@ level: China Girls' Mathematical Olympiad
 *Prove il limite superiore x^2+4y^2 ≤ 2/9 dato i risultati positivi che soddisfano la limitazione*
 
 > $x, y$ siano numeri reali positivi con $x^2 + 4y^2 = x - y$. Prove che $x^2 + 4y^2 \le \dfrac{2}{9}$.
-
-[[Quesiti/src_cn_cgmo_2005#q05|src_cn_cgmo_2005__Q05]]
 
 
 
@@ -191,8 +184,7 @@ level: China Girls' Mathematical Olympiad
 
 > Un numero intero $n$ è chiamato un numero buono se $n \ge 3$ e ci sono $n$ punti reticolari $P_1, P_2, \cdots, P_n$ nel piano delle coordinate che soddisfano le seguenti condizioni. Se il segmento di linea $P_iP_j$ ha una lunghezza razionale (irrazionale), allora $P_i$ è tale che entrambi i segmenti di linea $P_iP_k$ e $P_iP_l$ abbiano lunghezze irrazionali; e se il segmento di linea $P_iP_j$ ha una lunghezza irrazionale, allora c'è $P_k$ tale che entrambi i segmenti di linea $P_kP_i$ e $P_kP_j$ abbiano lunghezze razionali. (Un punto del piano delle coordinate è un punto reticolare se entrambe le sue coordinate sono numeri interi.) (1) Determina il numero buono minimo. (2) Determinare se il 2005 è un buon numero.
 
-**Risposta:** Minimum good number is 5; 2005 is a good number.
-[[Quesiti/src_cn_cgmo_2005#q06|src_cn_cgmo_2005__Q06]]
+**Risposta:** Il minimo numero buono è 5; 2005 è un numero buono.
 
 
 
@@ -218,8 +210,6 @@ level: China Girls' Mathematical Olympiad
 *Summa provata di reciprocità ≤ (m+n)/m per un sottogruppo di anticetene di {1,...,m}*
 
 > $m$ e $n$ siano integri positivi con $m \ge 2$. L'insieme $S = \{1, 2, \cdots, m\}$ e $T = \{a_1, a_2, \cdots, a_k\}$ è un sottoinsieme di $S$ in modo tale che ogni numero di $S$ non sia divisibile da due numeri distinti di $T$. Provare che $$\frac{1}{a_1} + \frac{1}{a_2} + \cdots + \frac{1}{a_k} \le \frac{m+n}{m}.$$
-
-[[Quesiti/src_cn_cgmo_2005#q07|src_cn_cgmo_2005__Q07]]
 
 
 
@@ -248,4 +238,3 @@ level: China Girls' Mathematical Olympiad
 > Se si considera un rettangolo $a \times b$ con $a > b > 0$, determinare la lunghezza minima di un quadrato che copre il rettangolo. (Un quadrato copre il rettangolo se ogni punto del rettangolo si trova all'interno del quadrato.)
 
 **Risposta:** $\min\!\left\{a,\, \dfrac{\sqrt{2}}{2}(a+b)\right\}$
-[[Quesiti/src_cn_cgmo_2005#q08|src_cn_cgmo_2005__Q08]]

@@ -46,7 +46,6 @@ level: Senior Mathematical Challenge
 > - **(E)** 92
 
 **Risposta:** C
-[[Quesiti/src_smc_2025#q01|src_smc_2025__Q01]]
 
 
 
@@ -90,7 +89,6 @@ level: Senior Mathematical Challenge
 ![[src_smc_2025__q02.png]]
 
 **Risposta:** E
-[[Quesiti/src_smc_2025#q02|src_smc_2025__Q02]]
 
 
 
@@ -131,7 +129,6 @@ level: Senior Mathematical Challenge
 > - **(E)** 4
 
 **Risposta:** E
-[[Quesiti/src_smc_2025#q03|src_smc_2025__Q03]]
 
 
 
@@ -172,7 +169,6 @@ level: Senior Mathematical Challenge
 > - **(E)** 18
 
 **Risposta:** A
-[[Quesiti/src_smc_2025#q04|src_smc_2025__Q04]]
 
 
 
@@ -216,7 +212,6 @@ level: Senior Mathematical Challenge
 ![[src_smc_2025__q05.png]]
 
 **Risposta:** A
-[[Quesiti/src_smc_2025#q05|src_smc_2025__Q05]]
 
 
 
@@ -257,7 +252,6 @@ level: Senior Mathematical Challenge
 > - **(E)** 0
 
 **Risposta:** B
-[[Quesiti/src_smc_2025#q06|src_smc_2025__Q06]]
 
 
 
@@ -298,7 +292,6 @@ level: Senior Mathematical Challenge
 > - **(E)** 301
 
 **Risposta:** D
-[[Quesiti/src_smc_2025#q07|src_smc_2025__Q07]]
 
 
 
@@ -342,7 +335,6 @@ level: Senior Mathematical Challenge
 ![[src_smc_2025__q08.png]]
 
 **Risposta:** B
-[[Quesiti/src_smc_2025#q08|src_smc_2025__Q08]]
 
 
 
@@ -383,7 +375,6 @@ level: Senior Mathematical Challenge
 > - **(E)** 15
 
 **Risposta:** C
-[[Quesiti/src_smc_2025#q09|src_smc_2025__Q09]]
 
 
 
@@ -424,7 +415,6 @@ level: Senior Mathematical Challenge
 > - **(E)** 6
 
 **Risposta:** E
-[[Quesiti/src_smc_2025#q10|src_smc_2025__Q10]]
 
 
 
@@ -468,7 +458,6 @@ level: Senior Mathematical Challenge
 ![[src_smc_2025__q11.png]]
 
 **Risposta:** B
-[[Quesiti/src_smc_2025#q11|src_smc_2025__Q11]]
 
 
 
@@ -509,7 +498,6 @@ level: Senior Mathematical Challenge
 > - **(E)** 18
 
 **Risposta:** D
-[[Quesiti/src_smc_2025#q12|src_smc_2025__Q12]]
 
 
 
@@ -553,7 +541,6 @@ level: Senior Mathematical Challenge
 ![[src_smc_2025__q13.png]]
 
 **Risposta:** D
-[[Quesiti/src_smc_2025#q13|src_smc_2025__Q13]]
 
 
 
@@ -594,7 +581,6 @@ level: Senior Mathematical Challenge
 > - **(E)** - Sì, certo.
 
 **Risposta:** B
-[[Quesiti/src_smc_2025#q14|src_smc_2025__Q14]]
 
 
 
@@ -635,7 +621,6 @@ level: Senior Mathematical Challenge
 > - **(E)** 99
 
 **Risposta:** B
-[[Quesiti/src_smc_2025#q15|src_smc_2025__Q15]]
 
 
 
@@ -679,7 +664,6 @@ level: Senior Mathematical Challenge
 ![[src_smc_2025__q16.png]]
 
 **Risposta:** A
-[[Quesiti/src_smc_2025#q16|src_smc_2025__Q16]]
 
 
 
@@ -724,7 +708,6 @@ level: Senior Mathematical Challenge
 ![[src_smc_2025__q17.png]]
 
 **Risposta:** D
-[[Quesiti/src_smc_2025#q17|src_smc_2025__Q17]]
 
 
 
@@ -765,7 +748,6 @@ level: Senior Mathematical Challenge
 > - **(E)** 10
 
 **Risposta:** C
-[[Quesiti/src_smc_2025#q18|src_smc_2025__Q18]]
 
 
 
@@ -805,7 +787,6 @@ level: Senior Mathematical Challenge
 > - **(E)** 7
 
 **Risposta:** C
-[[Quesiti/src_smc_2025#q19|src_smc_2025__Q19]]
 
 
 
@@ -846,7 +827,6 @@ level: Senior Mathematical Challenge
 > - **(E)** - Sì, certo.
 
 **Risposta:** E
-[[Quesiti/src_smc_2025#q20|src_smc_2025__Q20]]
 
 
 
@@ -891,7 +871,6 @@ level: Senior Mathematical Challenge
 ![[src_smc_2025__q21.png]]
 
 **Risposta:** D
-[[Quesiti/src_smc_2025#q21|src_smc_2025__Q21]]
 
 
 
@@ -932,7 +911,6 @@ level: Senior Mathematical Challenge
 > - **(E)** 79
 
 **Risposta:** B
-[[Quesiti/src_smc_2025#q22|src_smc_2025__Q22]]
 
 
 
@@ -972,7 +950,6 @@ level: Senior Mathematical Challenge
 > - **(E)** 10
 
 **Risposta:** C
-[[Quesiti/src_smc_2025#q23|src_smc_2025__Q23]]
 
 
 
@@ -1017,7 +994,6 @@ level: Senior Mathematical Challenge
 ![[src_smc_2025__q24.png]]
 
 **Risposta:** A
-[[Quesiti/src_smc_2025#q24|src_smc_2025__Q24]]
 
 
 
@@ -1062,4 +1038,3 @@ level: Senior Mathematical Challenge
 ![[src_smc_2025__q25.png]]
 
 **Risposta:** C
-[[Quesiti/src_smc_2025#q25|src_smc_2025__Q25]]

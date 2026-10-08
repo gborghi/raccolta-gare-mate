@@ -37,7 +37,6 @@ level: squadre
 > Divisible by 11 Find the smallest three-digit odd positive integer, divisible by 11 and such that the hundreds digit is greater than the units digit.
 
 **Answer:** 231
-[[Quesiti/src_kangourou_2017_squadre_junior_f#q01|src_kangourou_2017_squadre_junior_f__Q01]]
 
 
 
@@ -69,7 +68,6 @@ How many grandchildren does Grandma Anna have (cousins)
 > Grandma Anna's grandchildren Anna have four children and she is the grandmother of Mario, Silvia, Nadia and Pietro, each of whom is a cousin of each of the other three. If Mario, Silvia, Nadia, and Pietro have 9, 5, 8, and 8 cousins who are also grandchildren of Anna, how many grandchildren (children of children) does Grandma Anna have?
 
 **Answer:** 10
-[[Quesiti/src_kangourou_2017_squadre_junior_f#q02|src_kangourou_2017_squadre_junior_f__Q02]]
 
 
 
@@ -100,7 +98,6 @@ How many grandchildren does Grandma Anna have (cousins)
 > Whole division What is the sum of 100 and the sum of the integers z (signed) such that z^2 + 12 is divisible by z + 4?
 
 **Answer:** 52
-[[Quesiti/src_kangourou_2017_squadre_junior_f#q03|src_kangourou_2017_squadre_junior_f__Q03]]
 
 
 
@@ -140,7 +137,6 @@ How many grandchildren does Grandma Anna have (cousins)
 > Unlock your cell phone! Paul has an old cell phone with a keyboard: next to it you can see the layout of the keyboard. Paul had forgotten the pattern of pressing the keys to unlock it. He only remembers that the keys were the vertices of a parallelogram and were pressed clockwise or counterclockwise. What is the maximum number of attempts Paul will have to make to unlock his cell phone? (Note that for each parallelogram that can be detected on the keyboard, the code changes depending on the starting point.)
 
 **Answer:** 176
-[[Quesiti/src_kangourou_2017_squadre_junior_f#q04|src_kangourou_2017_squadre_junior_f__Q04]]
 
 
 
@@ -170,7 +166,6 @@ How many grandchildren does Grandma Anna have (cousins)
 > Blue caps In a box, in addition to blue caps, there are 20 red and 30 white. You know the probability of blindly catching a blue cap is 9/11. How many blue caps are in the box?
 
 **Answer:** 225
-[[Quesiti/src_kangourou_2017_squadre_junior_f#q05|src_kangourou_2017_squadre_junior_f__Q05]]
 
 
 
@@ -203,7 +198,6 @@ How many grandchildren does Grandma Anna have (cousins)
 > My jacket has four pockets, each containing a different number of one-euro coins. Pocket A contains less than B, B less than C and C less than D. In addition, the content of D is less than that of A and B together and that of B and C together is less than that of A and D together. How much do I have in my jacket at least?
 
 **Answer:** 23
-[[Quesiti/src_kangourou_2017_squadre_junior_f#q06|src_kangourou_2017_squadre_junior_f__Q06]]
 
 
 
@@ -240,7 +234,6 @@ How many grandchildren does Grandma Anna have (cousins)
 > of this form exist?
 
 **Answer:** 784
-[[Quesiti/src_kangourou_2017_squadre_junior_f#q07|src_kangourou_2017_squadre_junior_f__Q07]]
 
 
 
@@ -334,7 +327,6 @@ How many grandchildren does Grandma Anna have (cousins)
 > Hexagons The figure shows two regular hexagons contained in each other, which have parallel sides and the two edges without points in common. The smallest has a side of 1 cm, the largest 3 cm. What is the square of the sum of the areas of trapezoids S1 and S4 ?
 
 **Answer:** 48
-[[Quesiti/src_kangourou_2017_squadre_junior_f#q08|src_kangourou_2017_squadre_junior_f__Q08]]
 
 
 
@@ -365,7 +357,6 @@ How many grandchildren does Grandma Anna have (cousins)
 > What is the units digit of the number 13 + 23 + 33 + … + 20163 + 20173 ?
 
 **Answer:** 9
-[[Quesiti/src_kangourou_2017_squadre_junior_f#q09|src_kangourou_2017_squadre_junior_f__Q09]]
 
 
 
@@ -399,7 +390,6 @@ How many grandchildren does Grandma Anna have (cousins)
 > The same perimeter An equilateral triangle is divided into two parts, a T triangle and a P trapezoid, by a straight line parallel to one of its sides. If the triangle and the trapezoid thus obtained have the same perimeter, what is the ratio between the area of T and that of P? To formulate the answer, think of the ratio as a fraction reduced to the minimum terms and the numerator and denominator as 2-digit numbers, no matter if they are significant, and write them one after the other; for example, to indicate the fraction 1/2 write 0102.
 
 **Answer:** 907
-[[Quesiti/src_kangourou_2017_squadre_junior_f#q10|src_kangourou_2017_squadre_junior_f__Q10]]
 
 
 
@@ -430,7 +420,6 @@ How many grandchildren does Grandma Anna have (cousins)
 > For 123 Find the smallest positive integer that multiplied by 123 gives a product that ends in 2017.
 
 **Answer:** 179
-[[Quesiti/src_kangourou_2017_squadre_junior_f#q11|src_kangourou_2017_squadre_junior_f__Q11]]
 
 
 
@@ -462,7 +451,6 @@ How many grandchildren does Grandma Anna have (cousins)
 > Three cubes I have glued three cubes of volume 1 cm³, 8 cm³ and 27 cm³ along their faces so that the total surface of the resulting solid is as small as possible. How many square centimeters does that area measure?
 
 **Answer:** 72
-[[Quesiti/src_kangourou_2017_squadre_junior_f#q12|src_kangourou_2017_squadre_junior_f__Q12]]
 
 
 
@@ -496,7 +484,6 @@ How many grandchildren does Grandma Anna have (cousins)
 > The tokens I want to put tokens on the boxes of a grid 8×2 (one token per box) subject to the condition that there are no tokens in two boxes that have one side or one vertex in common. What's the maximum number of tokens I can put in and how many different ways? (First write the number of tokens and then the number of ways: for example, to indicate 1 token and 8 ways write 0108.)
 
 **Answer:** 480
-[[Quesiti/src_kangourou_2017_squadre_junior_f#q13|src_kangourou_2017_squadre_junior_f__Q13]]
 
 
 
@@ -526,7 +513,6 @@ How many grandchildren does Grandma Anna have (cousins)
 > Prohibited Divisors How many of the first 1000 positive integers have neither 3, nor 5, nor 7 in their divisors?
 
 **Answer:** 457
-[[Quesiti/src_kangourou_2017_squadre_junior_f#q14|src_kangourou_2017_squadre_junior_f__Q14]]
 
 
 
@@ -602,4 +588,3 @@ How many grandchildren does Grandma Anna have (cousins)
 > Questions and developments
 
 **Answer:** 280
-[[Quesiti/src_kangourou_2017_squadre_junior_f#q15|src_kangourou_2017_squadre_junior_f__Q15]]

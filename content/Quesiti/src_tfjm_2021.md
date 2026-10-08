@@ -87,8 +87,6 @@ level: TFJM²
 
 ![[src_tfjm_2021__q01.png]]
 
-[[Quesiti/src_tfjm_2021#q01|src_tfjm_2021__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_logica,method_casework,method_invarianti,method_simmetria,method_ricorsione,skill_modellizzazione,skill_casework_accurato,skill_riconoscimento_pattern,skill_astrazione"></span>
@@ -163,8 +161,6 @@ level: TFJM²
 > **(6) ** Proporre e studiare altre direzioni di ricerca.
 
 ![[src_tfjm_2021__q02.png]]
-
-[[Quesiti/src_tfjm_2021#q02|src_tfjm_2021__Q02]]
 
 
 
@@ -247,8 +243,6 @@ level: TFJM²
 
 ![[src_tfjm_2021__q03.png]]
 
-[[Quesiti/src_tfjm_2021#q03|src_tfjm_2021__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_logica,method_casework,method_estremalita,method_conteggio,method_disuguaglianze,skill_casework_accurato,skill_conteggio_sistematico,skill_stima,skill_lettura_attenta"></span>
@@ -323,8 +317,6 @@ level: TFJM²
 > **(7) ** Rivedi il problema in altri casi. Ad esempio, si può supporre che esistano due modelli di pezzi difettosi, rispettivamente $1+\varepsilon$ e $1-\varepsilon$ (dove $\varepsilon>0$ è abbastanza piccolo da rispettare la limitazione della domanda (1)). Si può anche interessare al caso in cui i pezzi possano avere qualsiasi massa (sempre rispettando la domanda (1)), o posizionarsi nel caso in cui Marie non conosca $k$.
 
 ![[src_tfjm_2021__q04.png]]
-
-[[Quesiti/src_tfjm_2021#q04|src_tfjm_2021__Q04]]
 
 
 
@@ -420,8 +412,6 @@ level: TFJM²
 > **(8) ** Proporre e esplorare altre direzioni di ricerca; può essere utile, ad esempio, continuare a studiare questi tre regni, o determinare se esistono altri regni con proprietà interessanti rispetto alle domande precedenti.
 
 ![[src_tfjm_2021__q05.png]]
-
-[[Quesiti/src_tfjm_2021#q05|src_tfjm_2021__Q05]]
 
 
 
@@ -526,8 +516,6 @@ Distribuire N sacchetti regalo tra due comitati TFJM uniti in un albero di relaz
 
 ![[src_tfjm_2021__q06.png]]
 
-[[Quesiti/src_tfjm_2021#q06|src_tfjm_2021__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_logica,method_grafi,method_casework,method_estremalita,method_induzione,skill_astrazione,skill_casework_accurato,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
@@ -616,8 +604,6 @@ Distribuire N sacchetti regalo tra due comitati TFJM uniti in un albero di relaz
 > **(7) ** Studiare altri stagni e trovare criteri e risultati generali per determinare la persona che ha la strategia vincente.
 
 ![[src_tfjm_2021__q07.png]]
-
-[[Quesiti/src_tfjm_2021#q07|src_tfjm_2021__Q07]]
 
 
 
@@ -713,5 +699,3 @@ Distribuire N sacchetti regalo tra due comitati TFJM uniti in un albero di relaz
 > **(8) ** Proporre e studiare altre direzioni di ricerca.
 
 ![[src_tfjm_2021__q08.png]]
-
-[[Quesiti/src_tfjm_2021#q08|src_tfjm_2021__Q08]]

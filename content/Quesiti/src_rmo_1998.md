@@ -32,8 +32,6 @@ level: RMO
 
 > Il $ABCD$ deve essere un quadrilaterale convexo in cui $\angle BAC = 50^\circ$, $\angle CAD = 60^\circ$, $\angle CBD = 30^\circ$ e $\angle BDC = 25^\circ$. Se $E$ è il punto di intersezione di $AC$ e $BD$, trovare $\angle AEB$.
 
-[[Quesiti/src_rmo_1998#q01|src_rmo_1998__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -58,8 +56,6 @@ level: RMO
 *6 divide la somma dei quadrati di numeri primi superiori a 5 implica 6 divisi n*
 
 > Che $n$ sia un intero positivo e $p_1, p_2, \ldots, p_n$ $n$ siano numeri primi tutti più grandi di $5$ in modo tale che $6$ divida $p_1^2 + p_2^2 + \cdots + p_n^2$. Provare che $6$ divide $n$.
-
-[[Quesiti/src_rmo_1998#q02|src_rmo_1998__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: RMO
 
 > Provare la seguente disuguaglianza per ogni numero naturale $n$: $$\frac{1}{n+1}\left(1 + \frac{1}{3} + \frac{1}{5} + \cdots + \frac{1}{2n-1}\right) > \frac{1}{n}\left(\frac{1}{2} + \frac{1}{4} + \frac{1}{6} + \cdots + \frac{1}{2n}\right).$$
 
-[[Quesiti/src_rmo_1998#q03|src_rmo_1998__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -113,8 +107,6 @@ level: RMO
 *I riflessi delle vertici del triangolo di uguali pollici formano un triangolo equilaterale*
 
 > Il $ABC$ deve essere un triangolo con $AB = BC$ e $\angle BAC = 30^\circ$. Il $A'$ deve essere il riflesso di $A$ nella riga $BC$; $B'$ deve essere il riflesso di $B$ nella riga $CA$; $C'$ deve essere il riflesso di $C$ nella riga $AB$. Indicare che $A'$, $B'$, $C'$ formano le vertici di un triangolo equilaterale.
-
-[[Quesiti/src_rmo_1998#q04|src_rmo_1998__Q04]]
 
 
 
@@ -141,8 +133,6 @@ level: RMO
 
 > Trovare il minimo possibile più piccolo comune multiplo (lcm) di venti (non necessariamente distinti) numeri naturali la cui somma è $801$.
 
-[[Quesiti/src_rmo_1998#q05|src_rmo_1998__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_conteggio,method_doppio_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
@@ -167,5 +157,3 @@ level: RMO
 *Trova una raccolta di sottoinsiemi di 3 elementi di set di 7 elementi che coprono ogni coppia esattamente una volta*
 
 > Data la serie $7$ di elementi $A = \{a, b, c, d, e, f, g\}$, trovare una raccolta $T$ di $3$ di sottoinsiemi di $A$ in modo tale che ogni coppia di elementi di $A$ si trovi esattamente in uno dei sottoinsiemi di $T$.
-
-[[Quesiti/src_rmo_1998#q06|src_rmo_1998__Q06]]

@@ -32,8 +32,6 @@ level: RMO
 
 > $ABC$ sia un triangolo rettangolare con $\angle B = 90^\circ$. Il $I$ deve essere il centro di $ABC$. Tracciare una linea perpendicolare a $AI$ a $I$. Lascia che intersechi la linea $CB$ a $D$. Prove che $ID = \sqrt{b(b-a)}$ dove $BC = a$ e $CA = b$.
 
-[[Quesiti/src_rmo_2016_r1#q01|src_rmo_2016_r1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -61,8 +59,6 @@ level: RMO
 
 > $a, b, c$ siano numeri reali positivi in modo tale che $$\frac{a}{1+a} + \frac{b}{1+b} + \frac{c}{1+c} = 1.$$ dimostri che $abc \le \frac{1}{8}$.
 
-[[Quesiti/src_rmo_2016_r1#q02|src_rmo_2016_r1__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_casework_accurato,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -87,8 +83,6 @@ level: RMO
 *Numeri naturali n con n = 2S(n) ^2, cifre nella base 10*
 
 > Per qualsiasi numero naturale $n$ espresso nella base 10, $S(n)$ indichi la somma di tutti i numeri di $n$. Trova tutti i numeri naturali $n$ in modo tale che $n = 2S(n)^2$.
-
-[[Quesiti/src_rmo_2016_r1#q03|src_rmo_2016_r1__Q03]]
 
 
 
@@ -115,8 +109,6 @@ level: RMO
 
 > Trova il numero di tutti i numeri naturali a 6 cifre che hanno esattamente tre cifre odd e tre cifre pari.
 
-[[Quesiti/src_rmo_2016_r1#q04|src_rmo_2016_r1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -140,8 +132,6 @@ level: RMO
 *Centroide triangolare, circoncircoli che intersecano le linee, dimostrare che G è centroide di AXY*
 
 > Che $ABC$ sia un triangolo con centroid $G$. Il circoncircolo del triangolo $AGB$ interseca la linea $BC$ in $X$ diversa da $B$, e il circoncircolo del triangolo $AGC$ interseca la linea $BC$ in $Y$ diversa da $C$. Prova che $G$ è il centroide del triangolo $AXY$.
-
-[[Quesiti/src_rmo_2016_r1#q05|src_rmo_2016_r1__Q05]]
 
 
 
@@ -167,5 +157,3 @@ level: RMO
 *Progressione aritmetica con sottossequenza geometrica infinita*
 
 > Che $(a_1, a_2, a_3, \ldots)$ sia una sequenza di numeri interi positivi in rigorosa crescita in una progressione aritmetica. Prove che c'è una sottossequenza infinita della sequenza data i cui termini sono in una progressione geometrica.
-
-[[Quesiti/src_rmo_2016_r1#q06|src_rmo_2016_r1__Q06]]

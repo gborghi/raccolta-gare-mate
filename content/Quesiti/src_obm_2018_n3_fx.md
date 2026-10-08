@@ -53,8 +53,6 @@ level: OBM Nível 3
 
 ![[src_obm_2018_n3_fx__q01.png]]
 
-[[Quesiti/src_obm_2018_n3_fx#q01|src_obm_2018_n3_fx__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -100,8 +98,6 @@ level: OBM Nível 3
 > 
 > \textbf{Nota:} Utilizziamo una barra per indicare il numero formato dalla concatenatura dei numeri. Ad esempio, $\overline{ABC} = 126$ significa $A = 1$, $B = 2$, $C = 6$.
 
-[[Quesiti/src_obm_2018_n3_fx#q02|src_obm_2018_n3_fx__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta"></span>
@@ -126,8 +122,6 @@ level: OBM Nível 3
 *Triangolo acuto, cerchi attraverso A e H tangenti a circolo, riflessi di O sui lati; dimostrare tre linee simultanee*
 
 > Il $ABC$ deve essere un triangolo acuto con il circoncentro $O$ e l'ortocentro $H$. Il cerchio con centro $X_A$ passa attraverso i punti $A$ e $H$ ed è tangente al circoncircolo del triangolo $ABC$. Definire analogamente i punti $X_B$ e $X_C$. I riflessi $O_A$, $O_B$ e $O_C$ siano rispettivamente $O$ sui lati $BC$, $CA$ e $AB$. Prove che le linee $O_A X_A$, $O_B X_B$ e $O_C X_C$ sono simultanee.
-
-[[Quesiti/src_obm_2018_n3_fx#q03|src_obm_2018_n3_fx__Q03]]
 
 
 
@@ -167,8 +161,6 @@ level: OBM Nível 3
 > 
 > c) Indicare che il quadrilaterale $IDJK$ è ciclico.
 
-[[Quesiti/src_obm_2018_n3_fx#q04|src_obm_2018_n3_fx__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_combinatoria,method_invarianti,method_estremalita,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_modellizzazione"></span>
@@ -204,8 +196,6 @@ level: OBM Nível 3
 > 
 > b) Determinare il valore massimo possibile di $x$.
 
-[[Quesiti/src_obm_2018_n3_fx#q05|src_obm_2018_n3_fx__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_induzione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
@@ -232,5 +222,3 @@ level: OBM Nível 3
 *Summa digitali s(n): trovare tutte le coppie di numeri interi positivi (a,b) che rendono s(an+b)−s(n) finitamente valutate*
 
 > Per ogni numero intero positivo $n$, definire $s(n)$ come la somma delle cifre di $n$. Determinare tutte le coppie $(a, b)$ di integri positivi per le quali $$s(an + b) - s(n)$$ assume solo valori finiti in quanto $n$ si estende su tutti gli integri positivi.
-
-[[Quesiti/src_obm_2018_n3_fx#q06|src_obm_2018_n3_fx__Q06]]

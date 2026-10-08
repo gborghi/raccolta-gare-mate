@@ -35,7 +35,6 @@ level: JMO Yosen
 > Considerate i numeri naturali a 3 cifre da $100$ a $999$. Tra questi, quanti numeri, come $202$ o $999$, hanno la cifra centinaia uguale alla cifra di unità?
 
 **Risposta:** 90
-[[Quesiti/src_jmo12yq_yosen#q01|src_jmo12yq_yosen__Q01]]
 
 
 
@@ -64,7 +63,6 @@ level: JMO Yosen
 > Tra i numeri interi tra $1$ e $14$ inclusi, scegliere due numeri distinti. Quante coppie di due numeri esistono tali che il valore assoluto della loro differenza sia al massimo $3$? Qui, scegliere i due numeri in entrambi gli ordini è considerato come la stessa coppia.
 
 **Risposta:** 36
-[[Quesiti/src_jmo12yq_yosen#q02|src_jmo12yq_yosen__Q02]]
 
 
 
@@ -93,7 +91,6 @@ level: JMO Yosen
 > Considerate i numeri naturali a 5 cifre in cui ogni cifra è uno di $1, 2, 3$. Tra questi numeri naturali, quanti in totale sono divisibili per $3$?
 
 **Risposta:** 81
-[[Quesiti/src_jmo12yq_yosen#q03|src_jmo12yq_yosen__Q03]]
 
 
 
@@ -121,7 +118,6 @@ level: JMO Yosen
 > Quante volte il volume di un tetraedro regolare con lunghezza di bordo $1$ è il volume di un ottaedro regolare con lunghezza di bordo $1$?
 
 **Risposta:** 4
-[[Quesiti/src_jmo12yq_yosen#q04|src_jmo12yq_yosen__Q04]]
 
 
 
@@ -148,8 +144,6 @@ level: JMO Yosen
 
 > $m$ sia un numero naturale. Sia $(m-2)^2$ che $m^2-1$ sono numeri naturali a 3 cifre, e scambiando la cifra di centinaia e la cifra di unità di uno di essi si ottiene l'altro. Trova tutti i valori possibili di $m$.
 
-[[Quesiti/src_jmo12yq_yosen#q05|src_jmo12yq_yosen__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica"></span>
@@ -175,8 +169,6 @@ level: JMO Yosen
 *Minimizzare un'espressione in due reali positivi*
 
 > Per i numeri reali positivi $x, y$, trovare il valore minimo della seguente espressione: $$x+y+\frac{2}{x+y}+\frac{1}{2xy}.$$
-
-[[Quesiti/src_jmo12yq_yosen#q06|src_jmo12yq_yosen__Q06]]
 
 
 
@@ -205,8 +197,6 @@ level: JMO Yosen
 
 > Esprimere la seguente espressione come una singola frazione irriducibile (una frazione che non può essere ridotta ulteriormente). Quando il suo numeratore è diviso per $2002$, trova il rimanente. Qui, per un numero naturale $n$, $n!$ indica $1\times 2\times\cdots\times(n-1)\times n$.
 
-[[Quesiti/src_jmo12yq_yosen#q07|src_jmo12yq_yosen__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
@@ -231,8 +221,6 @@ level: JMO Yosen
 *Find angolo BAC dato bisector e AB+CD=AC*
 
 > C'è un triangolo $ABC$. Il $D$ deve essere l'intersezione del bisettore di $\angle BAC$ con il lato $BC$. Abbiamo $\angle BAC : \angle BCA = 2 : 3$, e inoltre $AB + CD = AC$. Trova la misura di $\angle BAC$ in gradi. Qui, per due punti $X, Y$, la lunghezza del segmento $XY$ è indicata da $XY$.
-
-[[Quesiti/src_jmo12yq_yosen#q08|src_jmo12yq_yosen__Q08]]
 
 
 
@@ -260,8 +248,6 @@ level: JMO Yosen
 
 > Quante coppie di integri $x, y$ soddisfano l'equazione $$xy^2 + xy + x^2 - 2y - 1 = 0?$$
 
-[[Quesiti/src_jmo12yq_yosen#q09|src_jmo12yq_yosen__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_logica,method_doppio_conteggio,method_estremalita,skill_conteggio_sistematico,skill_modellizzazione"></span>
@@ -286,8 +272,6 @@ level: JMO Yosen
 *Nombre massimo di 3 cicli in un round robin da 14 giocatori*
 
 > Quando le persone $14$ giocano a un torneo rotondo di shogi (ogni persona gioca esattamente una partita contro ciascuna delle altre persone $13$), quante "cicli a tre vie" (sansukumi) possono esserci al massimo? Qui, un "ciclo a tre vie" significa un insieme di persone $3$ che soddisfano la seguente condizione: tra queste persone $3$, i risultati sono tali che ciascuna delle $3$ ha esattamente una vittoria e una sconfitta. Supponiamo che nessuna partita finisca in pareggio.
-
-[[Quesiti/src_jmo12yq_yosen#q10|src_jmo12yq_yosen__Q10]]
 
 
 
@@ -332,8 +316,6 @@ level: JMO Yosen
 \end{tikzpicture}
 ```
 
-[[Quesiti/src_jmo12yq_yosen#q11|src_jmo12yq_yosen__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_funzionali,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -375,5 +357,3 @@ level: JMO Yosen
 > $(3)$ Per qualsiasi numero razionale non zero $x$, il valore seguente è: $$f(x) = f\left(\frac{1}{x}\right).$$
 > 
 > In queste condizioni, trovare tutti i numeri razionali $x$ che soddisfano $f(x) = 2002$.
-
-[[Quesiti/src_jmo12yq_yosen#q12|src_jmo12yq_yosen__Q12]]

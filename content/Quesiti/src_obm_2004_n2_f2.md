@@ -35,8 +35,6 @@ level: OBM Nível 2
 
 > Nella seguente moltiplicazione, $a$, $b$ e $c$ sono numeri: $$\begin{array}{r} 1\;a\;b \\ \times\quad b\;3 \\ \hline * * * \\ * * * \\ \hline 1\;c\;c\;0\;1 \end{array}$$ Trova $a + b + c$.
 
-[[Quesiti/src_obm_2004_n2_f2#q01|src_obm_2004_n2_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -62,8 +60,6 @@ level: OBM Nível 2
 
 > In quanti modi possiamo ombrare quattro celle di una griglia $4 \times 4$ in modo che ogni riga e ogni colonna contengano esattamente una cellula ombrata?
 
-[[Quesiti/src_obm_2004_n2_f2#q02|src_obm_2004_n2_f2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -88,8 +84,6 @@ level: OBM Nível 2
 *Ricerca la somma digitali di un'espressione radicale incastonata*
 
 > Qual è la somma delle cifre del numero $\sqrt{2004 \times 2002 \times 1998 \times 1996 + 36}$?
-
-[[Quesiti/src_obm_2004_n2_f2#q03|src_obm_2004_n2_f2__Q03]]
 
 
 
@@ -124,8 +118,6 @@ level: OBM Nível 2
 
 ![[src_obm_2004_n2_f2__q04.png]]
 
-[[Quesiti/src_obm_2004_n2_f2#q04|src_obm_2004_n2_f2__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
@@ -150,8 +142,6 @@ level: OBM Nível 2
 *Contare i triangoli rettangolari formati da vertici di un normale 20-gon*
 
 > Un poligono con 20 lati si chiama icosagono. Collegando tre vertici di un icosagono regolare otteniamo triangoli. Quanti di questi triangoli sono triangoli rettangolari?
-
-[[Quesiti/src_obm_2004_n2_f2#q05|src_obm_2004_n2_f2__Q05]]
 
 
 
@@ -185,8 +175,6 @@ level: OBM Nível 2
 > (a) È possibile dividere l'insieme $\{1^2, 2^2, 3^2, \ldots, 7^2\}$ in due gruppi $A$ e $B$ in modo tale che la somma degli elementi di $A$ sia uguale alla somma degli elementi di $B$? Giustifica la tua risposta.
 > 
 > b) È possibile dividere l'insieme $\{1^2, 2^2, 3^2, \ldots, 9^2\}$ in due gruppi $C$ e $D$ in modo tale che la somma degli elementi di $C$ sia uguale alla somma degli elementi di $D$? Giustifica la tua risposta.
-
-[[Quesiti/src_obm_2004_n2_f2#q06|src_obm_2004_n2_f2__Q06]]
 
 
 
@@ -226,8 +214,6 @@ level: OBM Nível 2
 > 
 > Pedro preme i tasti a turno nell'ordine $A, B, A, B, \ldots$ per un totale di 1000 tastiere. Dopo queste 1000 operazioni, il display ha mostrato il numero $2004$. Quale numero aveva Pedro all'inizio?
 
-[[Quesiti/src_obm_2004_n2_f2#q07|src_obm_2004_n2_f2__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -266,8 +252,6 @@ level: OBM Nível 2
 > 
 > (a) Trovare la lunghezza del segmento $AB'$. b) Trova la lunghezza del lato $AD$.
 
-[[Quesiti/src_obm_2004_n2_f2#q08|src_obm_2004_n2_f2__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_lettura_attenta,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -301,5 +285,3 @@ level: OBM Nível 2
 > Un numero a 4 cifre $\overline{abcd}$ è chiamato *legal* se la somma del numero formato dalle sue prime due cifre e il numero formato dalle sue ultime due cifre è uguale al numero formato dalle sue due cifre medie. In altre parole, $\overline{ab} + \overline{cd} = \overline{bc}$ (equivalentemente, $(10a + b) + (10c + d) = 10b + c$). Ad esempio, $2307$ è legale perché $23 + 07 = 30$.
 > 
 > (a) Qual è il numero legale più piccolo di $2307$? (b) Quanti numeri legali di 4 cifre ci sono?
-
-[[Quesiti/src_obm_2004_n2_f2#q09|src_obm_2004_n2_f2__Q09]]

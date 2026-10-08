@@ -33,8 +33,6 @@ level: PRMO
 
 > Da un quadrato con lati di lunghezza 5, vengono rimossi pezzi triangolari dai quattro angoli per formare un ottagono regolare. Trovare l'area rimossa al numero intero più vicino?
 
-[[Quesiti/src_prmo_2019#q01|src_prmo_2019__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -64,7 +62,6 @@ level: PRMO
 > Let $f(x) = x^2 + ax + b$. Se per tutti i $x$ $$f\!\left(x + \frac{1}{x}\right) = f(x) + f\!\left(\frac{1}{x}\right)$$ reali non zero e le radici di $f(x) = 0$ sono numeri interi, qual è il valore di $a^2 + b^2$?
 
 **Risposta:** 13
-[[Quesiti/src_prmo_2019#q02|src_prmo_2019__Q02]]
 
 
 
@@ -93,7 +90,6 @@ level: PRMO
 > Che $x_1$ sia un numero reale positivo e per ogni intero $n \ge 1$ che $x_{n+1} = 1 + x_1 x_2 \cdots x_n$. Se $x_5 = 13$, qual è la somma delle cifre del più grande fattore primo di $x_5$?
 
 **Risposta:** 4
-[[Quesiti/src_prmo_2019#q03|src_prmo_2019__Q03]]
 
 
 
@@ -122,7 +118,6 @@ level: PRMO
 > Una formica lascia la formica per l'esercizio mattutino. Cammina a 4 piedi ad est e poi fa una curva a destra e cammina altri 4 piedi. Poi fa un'altra volta a destra e cammina altri 4 piedi. Se la formica continua questo modello fino a raggiungere di nuovo la formica, quale distanza in piedi avrebbe camminato?
 
 **Risposta:** 40
-[[Quesiti/src_prmo_2019#q04|src_prmo_2019__Q04]]
 
 
 
@@ -149,8 +144,6 @@ level: PRMO
 
 > 5 persone con distintivi con i numeri 1, 2, 3, 4, 5 si siedono su 5 sedie attorno a un tavolo circolare. In quanti modi possono essere sedute in modo che non siano sedute a fianco di due persone i cui distintivi abbiano numeri consecutivi? (Due disposizioni ottenute per rotazione intorno alla tavola sono considerate diverse.)
 
-[[Quesiti/src_prmo_2019#q05|src_prmo_2019__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
@@ -175,8 +168,6 @@ level: PRMO
 *Numero a tre cifre con la somma dei quadrati di cifre uguali a quadrato*
 
 > $\overline{abc}$ sia un numero a tre cifre con cifre non zero come $a^2 + b^2 = c^2$. Qual è il più grande fattore primo possibile di $\overline{abc}$?
-
-[[Quesiti/src_prmo_2019#q06|src_prmo_2019__Q06]]
 
 
 
@@ -204,7 +195,6 @@ level: PRMO
 > Su un orologio, ci sono due istanti tra le 12 di mezzogiorno e le 13 di sera, quando la mano dell'ora e la mano del minuto sono ad angolo retto. La differenza di minuti tra questi due istanti è scritta come $a + \frac{b}{c}$, dove $a, b, c$ sono integri positivi, con $b < c$ e $b/c$ nella forma ridotta. Qual è il valore di $a + b + c$?
 
 **Risposta:** 51
-[[Quesiti/src_prmo_2019#q07|src_prmo_2019__Q07]]
 
 
 
@@ -231,8 +221,6 @@ level: PRMO
 
 > Quanti integri positivi $n$ esistono tali che $3 \le n \le 100$ e $x^2 + x + 1$ siano divisibili da $n$ per un certo numero intero $x$?
 
-[[Quesiti/src_prmo_2019#q08|src_prmo_2019__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,skill_lettura_attenta,skill_stima"></span>
@@ -256,8 +244,6 @@ level: PRMO
 *Razionale più vicino a 22/7 con denominatore inferiore a 100*
 
 > Il numero razionale $p/q$ deve essere il più vicino ma non uguale a $22/7$ tra tutti i numeri razionali con denominatore $< 100$. Qual è il valore di $p - 3q$?
-
-[[Quesiti/src_prmo_2019#q09|src_prmo_2019__Q09]]
 
 
 
@@ -283,8 +269,6 @@ level: PRMO
 *Bissettori d'angolo su circoncircolo iterato; angolo più piccolo del nuovo triangolo*
 
 > Che $ABC$ sia un triangolo e che $\Omega$ sia il suo circoncircolo. I bisettori interni degli angoli $A$, $B$ e $C$ si intersecano $\Omega$ rispettivamente a $A_1$, $B_1$ e $C_1$, e i bisettori interni degli angoli $A_1$, $B_1$ e $C_1$ del triangolo $A_1B_1C_1$ si intersecano $\Omega$ rispettivamente a $A_2$, $B_2$ e $C_2$. Se l'angolo più piccolo del triangolo $ABC$ è $40^\circ$, qual è la grandezza dell'angolo più piccolo del triangolo $A_2B_2C_2$ in gradi?
-
-[[Quesiti/src_prmo_2019#q10|src_prmo_2019__Q10]]
 
 
 
@@ -313,8 +297,6 @@ level: PRMO
 
 > Quanti triangoli distinti $ABC$ esistono, fino alla somiglianza, in modo tale che le magnitudini degli angoli $A$, $B$ e $C$ in gradi siano integri positivi e $$\cos A \cos B + \sin A \sin B \sin kC = 1$$ per qualche integro positivo $k$, dove $kC$ non supera $360^\circ$?
 
-[[Quesiti/src_prmo_2019#q11|src_prmo_2019__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra,topic_aritmetica,method_ricorsione,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
@@ -342,8 +324,6 @@ level: PRMO
 
 > Un numero naturale $k > 1$ è chiamato buono se esistono numeri naturali $a_1 < a_2 < \cdots < a_k$ in modo tale che $$\frac{1}{\sqrt{a_1}} + \frac{1}{\sqrt{a_2}} + \ldots + \frac{1}{\sqrt{a_k}} = 1.$$ $f(n)$ sia la somma dei primi numeri buoni $n$, $n \ge 1$. Trova la somma di tutti i valori di $n$ per i quali $f(n+5)/f(n)$ è un numero intero.
 
-[[Quesiti/src_prmo_2019#q12|src_prmo_2019__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,topic_combinatoria,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_stima"></span>
@@ -368,8 +348,6 @@ level: PRMO
 *Minimum somma positiva di prodotti di coppie provenienti da ±1 sequenza*
 
 > Ogni numero $x_1, x_2, \ldots, x_{101}$ è $\pm 1$. Qual è il valore positivo più piccolo di $\displaystyle\sum_{1 \le i < j \le 101} x_i x_j$?
-
-[[Quesiti/src_prmo_2019#q13|src_prmo_2019__Q13]]
 
 
 
@@ -396,8 +374,6 @@ level: PRMO
 
 > Trova il più piccolo intero positivo $n \ge 10$ in modo che $n + 6$ sia un primo e $9n + 7$ sia un quadrato perfetto.
 
-[[Quesiti/src_prmo_2019#q14|src_prmo_2019__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -422,8 +398,6 @@ level: PRMO
 *I coppie di diagonali paralleli in 10 goni regolari*
 
 > In quanti modi si possono selezionare una coppia di diagonali paralleli di un poligono regolare di 10 lati?
-
-[[Quesiti/src_prmo_2019#q15|src_prmo_2019__Q15]]
 
 
 
@@ -450,8 +424,6 @@ level: PRMO
 
 > Una penna costa Rs. 13 e un quaderno costa Rs. 17. Una scuola spende esattamente Rs. 10000 nel 2017-18 per acquistare penne $x$ e libri di appunti $y$ in modo che $x$ e $y$ siano il più vicini possibile (cioè $|x - y|$ è minimo). L'anno prossimo, nel 2018-19, la scuola spenderà poco più di Rs. 10000 e acquista penne $y$ e libri di appunti $x$. Quanto ha pagato la scuola?
 
-[[Quesiti/src_prmo_2019#q16|src_prmo_2019__Q16]]
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -476,8 +448,6 @@ level: PRMO
 *Triplici ordinati (a,b,c) con 30a+50b+70c <= 343*
 
 > Trova il numero di triples ordinati $(a, b, c)$ di enti interi positivi come $30a + 50b + 70c \le 343$.
-
-[[Quesiti/src_prmo_2019#q17|src_prmo_2019__Q17]]
 
 
 
@@ -504,8 +474,6 @@ level: PRMO
 
 > Quante coppie ordinate $(a, b)$ di integri positivi con $a < b$ e $100 \le a, b \le 1000$ soddisfano $\gcd(a, b) : \text{lcm}(a, b) = 1 : 495$?
 
-[[Quesiti/src_prmo_2019#q18|src_prmo_2019__Q18]]
-
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -530,8 +498,6 @@ level: PRMO
 *Area quadrilaterale con DC perpendicolare in cerchio*
 
 > Il $AB$ deve essere un diametro di un cerchio e il $C$ deve essere un punto del cerchio tale che $AC : CB = 6 : 7$. Il $D$ deve essere un punto del cerchio tale che $DC$ sia perpendicolare a $AB$. Il diametro di $DE$ deve essere $D$. Se $[XYZ]$ indica l'area del triangolo $XYZ$, trovare $[ABD]/[CDE]$ al numero intero più vicino.
-
-[[Quesiti/src_prmo_2019#q19|src_prmo_2019__Q19]]
 
 
 
@@ -558,8 +524,6 @@ level: PRMO
 
 > Considera l'insieme $E$ di tutti i numeri naturali $n$ in modo tale che quando diviso rispettivamente per 11, 12, 13, i rimanenti, in tale ordine, sono numeri primi distinti in una progressione aritmetica. Se $N$ è il numero più grande di $E$, si trova la somma delle cifre di $N$.
 
-[[Quesiti/src_prmo_2019#q20|src_prmo_2019__Q20]]
-
 
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_aritmetica,topic_combinatoria,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -585,8 +549,6 @@ level: PRMO
 
 > Considera l'insieme $E = \{5, 6, 7, 8, 9\}$. Per qualsiasi partizione $\{A, B\}$ di $E$, con sia $A$ che $B$ non vuoti, si deve considerare il numero ottenuto aggiungendo il prodotto degli elementi di $A$ al prodotto degli elementi di $B$. Che $N$ sia il numero primo più grande tra questi numeri. Trova la somma delle cifre di $N$.
 
-[[Quesiti/src_prmo_2019#q21|src_prmo_2019__Q21]]
-
 
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_aritmetica,topic_algebra,method_telescoping,method_estremalita,skill_stima,skill_manipolazione_algebrica"></span>
@@ -611,8 +573,6 @@ level: PRMO
 Numero intero più grande non superiore alla somma di 1/sqrt ((k) fino a 1500*
 
 > Qual è il numero intero più grande non superiore alla somma $\displaystyle\sum_{k=1}^{1500} \frac{1}{\sqrt{k}}$?
-
-[[Quesiti/src_prmo_2019#q22|src_prmo_2019__Q22]]
 
 
 
@@ -641,8 +601,6 @@ Numero intero più grande non superiore alla somma di 1/sqrt ((k) fino a 1500*
 
 > Che $ABCD$ sia un quadrilaterale convex ciclico. Supponiamo che $P$ sia un punto nel piano del quadrilaterale in modo tale che la somma delle sue distanze dalle vertici di $ABCD$ sia la minore. Se $$\{PA, PB, PC, PD\} = \{3, 4, 6, 8\},$$ qual è la superficie massima possibile di $ABCD$?
 
-[[Quesiti/src_prmo_2019#q23|src_prmo_2019__Q23]]
-
 
 
 <span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_combinatoria,method_ricorsione,method_induzione,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -667,8 +625,6 @@ Numero intero più grande non superiore alla somma di 1/sqrt ((k) fino a 1500*
 *Il più grande fattore primo del numero di colori per la griglia rettangolare*
 
 > Un rettangolo $1 \times n$ ($n \ge 1$) è diviso in quadrati unitari $n$ ($1 \times 1$). Ogni quadrato di questo rettangolo è di colore rosso, blu o verde. $f(n)$ è il numero di colori del rettangolo in cui ci sono un numero pari di quadrati rossi. Qual è il più grande fattore primo di $f(9)/f(3)$? (Il numero dei quadrati rossi può essere zero.)
-
-[[Quesiti/src_prmo_2019#q24|src_prmo_2019__Q24]]
 
 
 
@@ -695,8 +651,6 @@ Numero intero più grande non superiore alla somma di 1/sqrt ((k) fino a 1500*
 
 > Un villaggio ha un muro circolare attorno a esso, e il muro ha quattro porte che puntano a nord, sud, est e ovest. Al di fuori del villaggio, a 16 m a nord del cancello settentrionale, si trova un albero che appare all'orizzonte da un punto a 48 m a est del cancello sud. Qual è il diametro, in metri, del muro che circonda il villaggio?
 
-[[Quesiti/src_prmo_2019#q25|src_prmo_2019__Q25]]
-
 
 
 <span class="atom-split" id="q26" data-atom="q26" data-title="Quesito 26" data-tags="topic_algebra,topic_aritmetica,method_estremalita,skill_manipolazione_algebrica,skill_stima"></span>
@@ -721,8 +675,6 @@ Numero intero più grande non superiore alla somma di 1/sqrt ((k) fino a 1500*
 *La minore x+y+z data xy+z=160*
 
 > I numeri interi positivi $x, y, z$ soddisfano $xy + z = 160$. Calcolare il minimo valore possibile di $x + y + z$.
-
-[[Quesiti/src_prmo_2019#q26|src_prmo_2019__Q26]]
 
 
 
@@ -749,8 +701,6 @@ Numero intero più grande non superiore alla somma di 1/sqrt ((k) fino a 1500*
 
 > Diciamo che una riorganizzazione delle lettere di una parola non ha lettere fisse se, quando la riorganizzazione è posta direttamente sotto la parola, nessuna colonna ha la stessa lettera ripetuta. Ad esempio, $HBRATA$ è un riordinamento senza lettere fisse di $BHARAT$. Quante riorganizzazioni distinguibili senza lettere fisse ha $BHARAT$? (I due $A$ sono considerati identici.)
 
-[[Quesiti/src_prmo_2019#q27|src_prmo_2019__Q27]]
-
 
 
 <span class="atom-split" id="q28" data-atom="q28" data-title="Quesito 28" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -775,8 +725,6 @@ Numero intero più grande non superiore alla somma di 1/sqrt ((k) fino a 1500*
 *Nel numero intero più grande non superiore a r1+r2+r3 per i triangoli angolari incircoli*
 
 > $ABC$ sia un triangolo con lati 51, 52, 53. $\Omega$ indichi l'incircolo di $\triangle ABC$. Tracciare tangenti a $\Omega$ paralleli ai lati di $ABC$. Il $r_1, r_2, r_3$ deve essere l'inradii dei tre triangoli angolari così formati. Trova il più grande numero intero non superiore a $r_1 + r_2 + r_3$.
-
-[[Quesiti/src_prmo_2019#q28|src_prmo_2019__Q28]]
 
 
 
@@ -803,8 +751,6 @@ Numero intero più grande non superiore alla somma di 1/sqrt ((k) fino a 1500*
 
 > In un triangolo $ABC$, la media $AD$ (con $D$ su $BC$) e il bisettore angolare $BE$ (con $E$ su $AC$) sono perpendicolari l'una all'altra. Se $AD = 7$ e $BE = 9$, trovare il numero intero più vicino all'area del triangolo $ABC$.
 
-[[Quesiti/src_prmo_2019#q29|src_prmo_2019__Q29]]
-
 
 
 <span class="atom-split" id="q30" data-atom="q30" data-title="Quesito 30" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -829,5 +775,3 @@ Numero intero più grande non superiore alla somma di 1/sqrt ((k) fino a 1500*
 *Numero di elementi di E suddivisi in 3 sottogruppi con somme uguali*
 
 > $E$ indichi l'insieme di tutti i numeri naturali $n$ in modo tale che $3 < n < 100$ e l'insieme $\{1, 2, 3, \ldots, n\}$ possano essere suddivisi in 3 sottoinsiemi con somme uguali. Trova il numero di elementi di $E$.
-
-[[Quesiti/src_prmo_2019#q30|src_prmo_2019__Q30]]

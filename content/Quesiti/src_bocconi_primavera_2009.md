@@ -33,8 +33,7 @@ level: Semifinale di Primavera
 
 > If it takes one and a half minutes to cut a tree (a trunk of constant diameter) into two parts, how many minutes does it take to cut the same tree into five parts?
 
-**Answer:** 6 minuti
-[[Quesiti/src_bocconi_primavera_2009#q01|src_bocconi_primavera_2009__Q01]]
+**Answer:** 6 minutes
 
 
 
@@ -73,7 +72,6 @@ level: Semifinale di Primavera
 ![[src_bocconi_primavera_2009__q02.png]]
 
 **Answer:** Even with 'help', the problem admits several solutions; one of these has a 'V' in the intermediate level and (in the lower level, from left to right): B – V – R – V – B.
-[[Quesiti/src_bocconi_primavera_2009#q02|src_bocconi_primavera_2009__Q02]]
 
 
 
@@ -105,8 +103,7 @@ Minimum minutes in Chiara for pre-dinner chores
 > 
 > **How many minutes do you need at least? **
 
-**Answer:** A Chiara, come minimo, servono 100 minuti.
-[[Quesiti/src_bocconi_primavera_2009#q03|src_bocconi_primavera_2009__Q03]]
+**Answer:** Chiara needs at least 100 minutes.
 
 
 
@@ -137,8 +134,7 @@ Minimum minutes in Chiara for pre-dinner chores
 > 
 > **How many cubes will you use to build it? **
 
-**Answer:** Luca utilizzerà 216 cubetti.
-[[Quesiti/src_bocconi_primavera_2009#q04|src_bocconi_primavera_2009__Q04]]
+**Answer:** Luca will use 216 small cubes.
 
 
 
@@ -174,8 +170,7 @@ Minimum minutes in Chiara for pre-dinner chores
 
 ![[src_bocconi_primavera_2009__q05.png]]
 
-**Answer:** Il numero richiesto è 2.
-[[Quesiti/src_bocconi_primavera_2009#q05|src_bocconi_primavera_2009__Q05]]
+**Answer:** The required number is 2.
 
 
 
@@ -202,8 +197,7 @@ Minimum minutes in Chiara for pre-dinner chores
 
 > An athlete runs 70 meters in 8.4 seconds. In what time will it run 100 meters if it keeps the same average speed over this length?
 
-**Answer:** Il tempo è di 12 secondi.
-[[Quesiti/src_bocconi_primavera_2009#q06|src_bocconi_primavera_2009__Q06]]
+**Answer:** The time is 12 seconds.
 
 
 
@@ -235,8 +229,7 @@ Chocolates purchased yesterday by Desiderio
 > 
 > How many chocolates did you buy yesterday?
 
-**Answer:** Desiderio aveva comprato 6 cioccolatini.
-[[Quesiti/src_bocconi_primavera_2009#q07|src_bocconi_primavera_2009__Q07]]
+**Answer:** Desiderio had bought 6 chocolates.
 
 
 
@@ -268,8 +261,7 @@ Chocolates purchased yesterday by Desiderio
 > 
 > Knowing that Jacob had only 1 euro coins in his pocket since this morning, how many euros did he receive at the end of the day?
 
-**Answer:** Alla fine della giornata, a Jacob è avanzato 1 solo euro.
-[[Quesiti/src_bocconi_primavera_2009#q08|src_bocconi_primavera_2009__Q08]]
+**Answer:** At the end of the day, Jacob had only 1 euro left.
 
 
 
@@ -301,8 +293,7 @@ Games won by Milena in the card tournament
 > 
 > How many games has Milena won?
 
-**Answer:** Milena ha vinto 3 partite.
-[[Quesiti/src_bocconi_primavera_2009#q09|src_bocconi_primavera_2009__Q09]]
+**Answer:** Milena won 3 games.
 
 
 
@@ -334,8 +325,7 @@ Games won by Milena in the card tournament
 
 ![[src_bocconi_primavera_2009__q10.png]]
 
-**Answer:** In figura si vedono 40 triangoli.
-[[Quesiti/src_bocconi_primavera_2009#q10|src_bocconi_primavera_2009__Q10]]
+**Answer:** There are 40 triangles in the figure.
 
 
 
@@ -364,7 +354,6 @@ Games won by Milena in the card tournament
 > Using the addition, subtraction, multiplication, division and power operations (all or only some), ** write the number 2000 with the digits 1, 2, 3, 4, 5** (which must appear only once).
 
 **Answer:** The number 2000 can be written as $1 \times 4^2 \times 5^3$ or also as $1 \times 2^4 \times 5^3$. The order of the factors is obviously unimportant.
-[[Quesiti/src_bocconi_primavera_2009#q11|src_bocconi_primavera_2009__Q11]]
 
 
 
@@ -395,8 +384,7 @@ What time is it now (clock problem)
 > 
 > What time is it now?
 
-**Answer:** Adesso sono le 21.
-[[Quesiti/src_bocconi_primavera_2009#q12|src_bocconi_primavera_2009__Q12]]
+**Answer:** It is now 21:00.
 
 
 
@@ -428,8 +416,7 @@ What time is it now (clock problem)
 > 
 > Can you do the same with the numbers 987654321?
 
-**Answer:** Il quesito ammette diverse risposte. Ad esempio: $98 - 76 + 54 + 3 + 21$ ma anche (sempre ad esempio) $9 + 8 + 76 + 5 - 4 + 3 + 2 + 1$.
-[[Quesiti/src_bocconi_primavera_2009#q13|src_bocconi_primavera_2009__Q13]]
+**Answer:** The problem admits several answers. For example: $98 - 76 + 54 + 3 + 21$ but also (again for example) $9 + 8 + 76 + 5 - 4 + 3 + 2 + 1$.
 
 
 
@@ -461,8 +448,7 @@ What time is it now (clock problem)
 > 
 > $$\begin{array}{c} 1\ .\ 0\ .\ 7\ 3\ + \\ 1\ 6\ .\ 5\ .\ 4\ = \\ \hline 2\ .\ 3\ .\ 7\ 7 \end{array}$$
 
-**Answer:** L'addizione è: $120473 + 163504 = 283977$.
-[[Quesiti/src_bocconi_primavera_2009#q14|src_bocconi_primavera_2009__Q14]]
+**Answer:** The addition is: $120473 + 163504 = 283977$.
 
 
 
@@ -494,8 +480,7 @@ What time is it now (clock problem)
 > 
 > $$\begin{array}{c} a\ b\ d\ e\ + \\ a\ c\ c\ 5\ = \\ \hline b\ 5\ b\ 5 \end{array}$$
 
-**Answer:** L'addizione è: $2430 + 2115 = 4545$.
-[[Quesiti/src_bocconi_primavera_2009#q15|src_bocconi_primavera_2009__Q15]]
+**Answer:** The addition is: $2430 + 2115 = 4545$.
 
 
 
@@ -531,8 +516,7 @@ What time is it now (clock problem)
 
 ![[src_bocconi_primavera_2009__q16.png]]
 
-**Answer:** Sara girerà le carte 1 – Z.
-[[Quesiti/src_bocconi_primavera_2009#q16|src_bocconi_primavera_2009__Q16]]
+**Answer:** Sara will turn over the cards 1 – Z.
 
 
 
@@ -568,8 +552,7 @@ What time is it now (clock problem)
 
 ![[src_bocconi_primavera_2009__q17.png]]
 
-**Answer:** Sara dovrà girare tutte le carte.
-[[Quesiti/src_bocconi_primavera_2009#q17|src_bocconi_primavera_2009__Q17]]
+**Answer:** Sara will have to turn over all the cards.
 
 
 
@@ -601,7 +584,6 @@ What time is it now (clock problem)
 > What was the initial length of the side of Peter's land?
 
 **Answer:** The initial length of Pietro's plot side was 13 m.
-[[Quesiti/src_bocconi_primavera_2009#q18|src_bocconi_primavera_2009__Q18]]
 
 
 
@@ -640,8 +622,7 @@ Who wrote on the board (three truths, one lie)
 > 
 > Who wrote on the board "Down with the professors"?
 
-**Answer:** È Rosi che aveva scritto sulla lavagna.
-[[Quesiti/src_bocconi_primavera_2009#q19|src_bocconi_primavera_2009__Q19]]
+**Answer:** It was Rosi who had written on the blackboard.
 
 
 
@@ -673,5 +654,4 @@ Who wrote on the board (three truths, one lie)
 > 
 > **How many experts were present at the meeting?**
 
-**Answer:** Gli esperti di giochi matematici presenti alla riunione erano 8.
-[[Quesiti/src_bocconi_primavera_2009#q20|src_bocconi_primavera_2009__Q20]]
+**Answer:** There were 8 mathematical games experts at the meeting.

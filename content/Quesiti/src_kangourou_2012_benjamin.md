@@ -42,8 +42,6 @@ level: kangourou
 > D) 7:55
 > E) 8:20
 
-[[Quesiti/src_kangourou_2012_benjamin#q01|src_kangourou_2012_benjamin__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,skill_conteggio_sistematico"></span>
@@ -74,8 +72,6 @@ level: kangourou
 *Different colours for the same letters in KAENGURUWETTBEWERB*
 
 > A six-meter-wide board consists of three parts. The middle part is 3 meters wide and the left side is as wide as the right side. How wide is the right side? A) 1 B) 1,25 C) 1,75 D) 2 E) A number different from the previous one
-
-[[Quesiti/src_kangourou_2012_benjamin#q02|src_kangourou_2012_benjamin__Q02]]
 
 
 
@@ -109,8 +105,6 @@ level: kangourou
 
 > Sandra has enclosed four identical coins in a square bounded by four matches, as shown in the figure, which respects proportions. How many matches will you need to enclose 16 identical coins in a square without even partial coin overlapping? A) 8 B) 10 C) 12 D) 15 E) 16
 
-[[Quesiti/src_kangourou_2012_benjamin#q03|src_kangourou_2012_benjamin__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_casework,skill_ragionamento_geometrico"></span>
@@ -142,8 +136,6 @@ level: kangourou
 
 > Which of these numbers can be the sum of the days in 10 consecutive years? A) 3655 B) 3651 C) 3650 D) 3660 E) 3653
 
-[[Quesiti/src_kangourou_2012_benjamin#q04|src_kangourou_2012_benjamin__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,skill_lettura_attenta"></span>
@@ -170,8 +162,6 @@ level: kangourou
 *Eta of chicks born on 24 February observed in March*
 
 > When in Milan it's five o'clock in the afternoon, in San Francisco it's eight o'clock in the morning the same day. When in San Francisco it's 9pm on a Sunday, what time is it in Milan? (a) 6 a.m. on Sundays (b) 6 p.m. on Sundays (c) noon on Sundays (d) midnight between Sunday and Monday (e) 6 a.m. on Monday
-
-[[Quesiti/src_kangourou_2012_benjamin#q05|src_kangourou_2012_benjamin__Q05]]
 
 
 
@@ -235,8 +225,6 @@ level: kangourou
 > Kang 2012
 > Kang 2012
 
-[[Quesiti/src_kangourou_2012_benjamin#q06|src_kangourou_2012_benjamin__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -273,7 +261,6 @@ level: kangourou
 > Look at the figure. For every pair of hexagons that have one side in common, we plot the segment that has their centers as extremes. If we delete the hexagons from the initial figure, what figure do we get? A) B) C) D) E)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2012_benjamin#q07|src_kangourou_2012_benjamin__Q07]]
 
 
 
@@ -313,7 +300,6 @@ level: kangourou
 > Look at the figure. Starting from the position indicated for both coins, the upper coin spins without slipping around the lower coin until it is in the new position indicated. What is the configuration of the two kangaroos? A) B) C) D) E) Depends on the speed of rotation
 
 **Answer:** A
-[[Quesiti/src_kangourou_2012_benjamin#q08|src_kangourou_2012_benjamin__Q08]]
 
 
 
@@ -349,7 +335,6 @@ level: kangourou
 > A balloon can lift a basket if it contains material weighing no more than 80 kilograms. Two balloons attached to the same basket can lift it if it contains material weighing no more than 180 kilograms. How many kilos does the basket weigh? A) 10 B) 20 C) 30 D) 40 E) 50
 
 **Answer:** B
-[[Quesiti/src_kangourou_2012_benjamin#q09|src_kangourou_2012_benjamin__Q09]]
 
 
 
@@ -393,8 +378,6 @@ level: kangourou
 > D) 20
 > E) 21
 > Questions from No. 11 to No. 20 are worth 4 points each
-
-[[Quesiti/src_kangourou_2012_benjamin#q10|src_kangourou_2012_benjamin__Q10]]
 
 
 
@@ -451,7 +434,6 @@ level: kangourou
 > E) Certainly blue
 
 **Answer:** C
-[[Quesiti/src_kangourou_2012_benjamin#q11|src_kangourou_2012_benjamin__Q11]]
 
 
 
@@ -489,7 +471,6 @@ level: kangourou
 > Look at the figure. The puzzle started on the left can be completed with three of the numbered pieces appearing on the right. What kind? A) 1, 3, 4 B) 1, 3, 6 C) 2, 3, 5 D) 2, 3, 6 E) 2, 5, 6
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_benjamin#q12|src_kangourou_2012_benjamin__Q12]]
 
 
 
@@ -533,7 +514,6 @@ level: kangourou
 > Lucia has eight dice. Each die is assigned one and only one of the letters A, B, C, D, which is shown on each face of the dice. By placing these eight dice together, she constructed the cube you see in the figure: for every die that makes it up, except for one, at least one face is visible, so the letter that was assigned to it is visible. Keep in mind that if two dice have a face in common, the letters assigned to them are always different from each other. What letter was assigned to the dice that is not visible? (A) A (B) B (C) C (D) D (E) Can not be answered
 
 **Answer:** B
-[[Quesiti/src_kangourou_2012_benjamin#q13|src_kangourou_2012_benjamin__Q13]]
 
 
 
@@ -579,7 +559,6 @@ How many roads are missing on the seven-city map
 > There are seven cities in Wonderland. However, if two are chosen, they are connected by a direct road, that is, one that does not pass through other cities. On the map we show you, cities are symbolized by dots and streets by segments that have them as extremes. Unfortunately, whoever drew the map forgot to map some of the roads. How many are missing? A) 8 B) 11 C) 21 D) 10 E) 9
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_benjamin#q14|src_kangourou_2012_benjamin__Q14]]
 
 
 
@@ -665,7 +644,6 @@ How many roads are missing on the seven-city map
 > The figure you see is constructed from eight identical squares; its perimeter is 42 cm. How many square centimeters does it cover? A) 8 B) 9 C) 24 D) 72 E) 128 1 2 3 4 5 6 D D D A B D
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_benjamin#q15|src_kangourou_2012_benjamin__Q15]]
 
 
 
@@ -699,7 +677,6 @@ How many roads are missing on the seven-city map
 > In a fruit juice cocktail there are apples, bananas and oranges. Banana and orange are in the ratio of 1 to 2; orange and apple are in the ratio of 3 to 1. Which of the following claims is true? A) There are more bananas than oranges B) There are more oranges than apples and bananas combined C) There are more bananas than apples and oranges combined D) There are more apples than bananas and oranges combined E) The banana is the least present juice
 
 **Answer:** B
-[[Quesiti/src_kangourou_2012_benjamin#q16|src_kangourou_2012_benjamin__Q16]]
 
 
 
@@ -739,7 +716,6 @@ How many roads are missing on the seven-city map
 > Both of the figures on this side are formed by joining the same five pieces. One is a rectangle of 5 × 10 cm, the others are quarters of two different circles. How many centimeters is the difference between the greater and lesser of the two figures' perimeters? A) 2,5 B) 5 C) 10 D) 20 E) 30
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_benjamin#q17|src_kangourou_2012_benjamin__Q17]]
 
 
 
@@ -782,7 +758,6 @@ How many roads are missing on the seven-city map
 > Hip and Hop frogs make each three jumps inside a pond, which contains three stones marked with the numbers 1, 2 and 3, following this rule: at the center of the segment traveled in each jump there must be one of the three stones. The figure on the left shows you Hop's path. In the figure to the right is marked the starting point of Hip, who jumps the stones in the same order as Hop: what is her arrival point? A) A B) B C) C D) D E) E
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_benjamin#q18|src_kangourou_2012_benjamin__Q18]]
 
 
 
@@ -822,7 +797,6 @@ How many roads are missing on the seven-city map
 > Four toothed wheels form a gear as shown in the figure. From left to right, they have respectively 30, 15, 60 and 10 teeth; in contact between two wheels, one tooth of the one alternates with one tooth of the other. If the first wheel (left) makes a complete turn, how many makes the last? A) 3 B) 4 C) 6 D) 8 E) 9
 
 **Answer:** A
-[[Quesiti/src_kangourou_2012_benjamin#q19|src_kangourou_2012_benjamin__Q19]]
 
 
 
@@ -925,7 +899,6 @@ How many roads are missing on the seven-city map
 > Questions from No. 21 to No. 30 are worth 5 points each
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_benjamin#q20|src_kangourou_2012_benjamin__Q20]]
 
 
 
@@ -970,7 +943,6 @@ How many roads are missing on the seven-city map
 > Note the figure: a regular octagon-shaped sheet is folded in half on itself three times until a triangle is obtained (for each of these times the folding line is indicated). From the triangle a right triangle is then cut, cutting along the indicated line. If the sheet is unfolded at this point, what is its shape? A) B) C) D) E)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2012_benjamin#q21|src_kangourou_2012_benjamin__Q21]]
 
 
 
@@ -1051,7 +1023,6 @@ How many roads are missing on the seven-city map
 > In each of the circles in the figure, one and only one of the integers between 1 and 7 must be entered. You want to make sure that the sum of the three numbers that are on a straight line is always the same regardless of the straight line. What number do you have to put in the top circle? A) 1 B) 3 C) 4 D) 5 E) 6
 
 **Answer:** C
-[[Quesiti/src_kangourou_2012_benjamin#q22|src_kangourou_2012_benjamin__Q22]]
 
 
 
@@ -1086,7 +1057,6 @@ How many roads are missing on the seven-city map
 > At a birthday party, there are twelve kids, and there's at least one for each age between 6 and 10 inclusive. Four of them are 6 years old and the most common age is 8. What is the average age of the twelve kids? A) 6,5 B) 7,5 C) 8,5 D) 9 E) 10
 
 **Answer:** B
-[[Quesiti/src_kangourou_2012_benjamin#q23|src_kangourou_2012_benjamin__Q23]]
 
 
 
@@ -1153,7 +1123,6 @@ How many roads are missing on the seven-city map
 > The ABCD rectangle was divided into four rectangles as suggested by the figure. The perimeters of three of them are 11, 16 and 19 cm. The perimeter of the fourth is not the smallest and is not the largest of the four. How many centimeters does the perimeter of the original rectangle measure? A) 28 B) 30 C) 32 D) 38 E) 40
 
 **Answer:** B
-[[Quesiti/src_kangourou_2012_benjamin#q24|src_kangourou_2012_benjamin__Q24]]
 
 
 
@@ -1215,7 +1184,6 @@ How many roads are missing on the seven-city map
 > E) 3 and 4
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_benjamin#q25|src_kangourou_2012_benjamin__Q25]]
 
 
 
@@ -1251,7 +1219,6 @@ How many roads are missing on the seven-city map
 > Peter has a rectangular wooden board of 6 × 7 dm. He wants to cut it down so that you can only get square boards whose sides measure an integer number of decimeter. What is the minimum number of boards you'll have to get? A) 4 B) 5 C) 7 D) 9 E) 42
 
 **Answer:** B
-[[Quesiti/src_kangourou_2012_benjamin#q26|src_kangourou_2012_benjamin__Q26]]
 
 
 
@@ -1291,7 +1258,6 @@ How many roads are missing on the seven-city map
 > Some cells of a grid 4 × 4 were red in color. For each row, the number of red cells was indicated on the right; for each column, it was indicated at the bottom. Subsequently the colour was removed, but the numbers remained, giving rise to one of the following five numbered grids. Which one? A) B) C) D) E)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_benjamin#q27|src_kangourou_2012_benjamin__Q27]]
 
 
 
@@ -1332,7 +1298,6 @@ How many roads are missing on the seven-city map
 > An 8 cm square sheet of paper was folded twice as shown in the figure. What is the sum of the areas of the two rectangles highlighted in gray in square centimetres? A) 10 B) 14 C) 15 D) 16 E) 24
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_benjamin#q28|src_kangourou_2012_benjamin__Q28]]
 
 
 
@@ -1367,7 +1332,6 @@ How many roads are missing on the seven-city map
 > The house numbers of three friends' houses can be written using only three digits altogether: the largest is abc, the second is bc and the third is c. The sum of the three numbers is 912. How much is b ? A) 5 B) 6 C) 7 D) 8 E) 0
 
 **Answer:** A
-[[Quesiti/src_kangourou_2012_benjamin#q29|src_kangourou_2012_benjamin__Q29]]
 
 
 
@@ -1430,5 +1394,3 @@ How many roads are missing on the seven-city map
 > I have communicated, one to Adriana and one to Bruno, two consecutive positive integers (e.g. 6 and 7). Each of them knows only one of the numbers, but they know that the two numbers are consecutive. The following dialogue took place between them in sequence. Adriana to Bruno: I don't know your number. Bruno to Adriana I don't know your number. Adriana to Bruno: Now I know your number. So A) Adriana's number is 1. B) Adriana's number is 2. C) Adriana's number is 3. D) Adriana's number is 4. E) Adriana is lying. 4 2 1 1 0 3 3 2 1 2 1 3 2 2 3 1 3 3 0 0 1 3 1 1 2 1 2 2 2 1 2 2 0 3 3 1 0 3 1 3
 > 
 > I'm not going to lie.
-
-[[Quesiti/src_kangourou_2012_benjamin#q30|src_kangourou_2012_benjamin__Q30]]

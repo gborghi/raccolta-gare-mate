@@ -37,8 +37,6 @@ level: IMO
 > 
 > This process (mixing, distributing, giving tokens) takes place for at least two shifts. After the last round, $A$ has a total of 20 tokens, $B$ has 10 and $C$ has 9. In the last round $B$ received $r$ tokens. Who received $q$ tokens in the first round?
 
-[[Quesiti/src_imo_1974_all#q01|src_imo_1974_all__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria"></span>
@@ -63,8 +61,6 @@ level: IMO
 *Point D with CD geometric mean iff sinA sinB<=sin^2(C/2)*
 
 > In the $ABC$ triangle, prove that there is a point $D$ on the $AB$ side such that $CD$ is the geometric mean of $AD$ and $DB$ if and only if $$\sin A \sin B \leq \sin^2 \frac{C}{2}.$$
-
-[[Quesiti/src_imo_1974_all#q02|src_imo_1974_all__Q02]]
 
 
 
@@ -91,8 +87,6 @@ level: IMO
 Prove binomial-sum with 2^3k not divisible by 5
 
 > Demonstrate that the number $$\sum_{k=0}^{n} \binom{2n+1}{2k+1} 2^{3k}$$ is not divisible by 5 for any integer $n \geq 0$.
-
-[[Quesiti/src_imo_1974_all#q03|src_imo_1974_all__Q03]]
 
 
 
@@ -131,8 +125,6 @@ Prove binomial-sum with 2^3k not divisible by 5
 > 
 > Find the maximum value of $p$ for which such decomposition is possible. For this value of $p$, determine all possible successions $a_1, a_2, \ldots, a_p$.
 
-[[Quesiti/src_imo_1974_all#q04|src_imo_1974_all__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_disuguaglianze,method_disuguaglianze"></span>
@@ -159,8 +151,6 @@ Determine the values of cyclic four-fraction sum S*
 
 > Determine all possible values of $$S = \frac{a}{a+b+d} + \frac{b}{a+b+c} + \frac{c}{b+c+d} + \frac{d}{a+c+d}$$ where $a, b, c, d$ are arbitrary positive numbers.
 
-[[Quesiti/src_imo_1974_all#q05|src_imo_1974_all__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,method_fattorizzazione"></span>
@@ -186,5 +176,3 @@ Determine the values of cyclic four-fraction sum S*
 *Bound n(P) -deg(P) <=2 for P(k) ^2=1 integer roots*
 
 > Whether $P$ is a non-constant polynomial with integer coefficients. If $n(P)$ is the number of distinct integers $k$ such as $(P(k))^2 = 1$, prove that $$n(P) - \deg(P) \leq 2,$$ where $\deg(P)$ denotes the degree of the $P$ polynomial.
-
-[[Quesiti/src_imo_1974_all#q06|src_imo_1974_all__Q06]]

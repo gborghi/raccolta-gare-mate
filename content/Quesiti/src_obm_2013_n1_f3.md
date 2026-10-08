@@ -51,8 +51,6 @@ level: OBM Nível 1
 > 
 > b) Quanti numeri a tre cifre sono iscritti?
 
-[[Quesiti/src_obm_2013_n1_f3#q01|src_obm_2013_n1_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_backward,skill_lettura_attenta,skill_astrazione,skill_ragionamento_geometrico"></span>
@@ -85,8 +83,6 @@ level: OBM Nível 1
 > a) Dopo la prima volta di Clara, quante piume ci saranno sul tavolo?
 > 
 > b) Chi prenderà tutte le monete?
-
-[[Quesiti/src_obm_2013_n1_f3#q02|src_obm_2013_n1_f3__Q02]]
 
 
 
@@ -129,8 +125,6 @@ level: OBM Nível 1
 
 ![[src_obm_2013_n1_f3__q03.png]]
 
-[[Quesiti/src_obm_2013_n1_f3#q03|src_obm_2013_n1_f3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
@@ -163,8 +157,6 @@ level: OBM Nível 1
 > a) Qual è il numero di unità del decimo termine di questa sequenza? Non dimenticate di giustificare la vostra risposta.
 > 
 > b) In quale termine di questa sequenza appare per la prima volta la stringa di numeri $2013$ (in ordine)? Per esempio, la stringa $121$ appare per la prima volta nel quinto termine, $11\mathbf{121}31415$.
-
-[[Quesiti/src_obm_2013_n1_f3#q04|src_obm_2013_n1_f3__Q04]]
 
 
 
@@ -206,5 +198,3 @@ level: OBM Nível 1
 > a) Presentare un modo per riempire la tabella in modo che il numero più grande che appare sia $22$.
 > 
 > b) Qual è il numero intero positivo più piccolo che può essere il numero più grande che appare nella tabella?
-
-[[Quesiti/src_obm_2013_n1_f3#q05|src_obm_2013_n1_f3__Q05]]

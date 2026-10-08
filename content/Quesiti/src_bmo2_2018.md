@@ -33,8 +33,6 @@ level: BMO Round 2
 
 > Considera il triangolo $ABC$. Il punto medio di $AC$ è $M$. Il cerchio tangente a $BC$ a $B$ e che attraversa $M$ incontra di nuovo la linea $AB$ a $P$. Prove che $AB = BP = 2BM$.
 
-[[Quesiti/src_bmo2_2018#q01|src_bmo2_2018__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_casework,method_congruenze,skill_modellizzazione,skill_conteggio_sistematico,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
@@ -59,8 +57,6 @@ level: BMO Round 2
 Le torte da tavolo circolare; trova n in modo che il Cappellone Pazzo possa costringere Alice a mangiare tutto
 
 > Ci sono posti $n$ disposti attorno a un tavolo circolare, e ogni posto ha una piccola torta su un piatto. Alice arriva prima, si siede al tavolo e mangia la sua torta (ma non è molto bella). Successivamente arriva il Cappellaio Pazzo, e dice ad Alice che è sicuramente una bella festa del tè, e che deve continuare a cambiare il suo posto, e ogni volta deve mangiare la torta di fronte a lei (se non è stato ancora mangiato). Infatti il Cappellaio Pazzo è molto boss, e dice ad Alice che, per $i = 1, 2, \ldots, n-1$, quando si muove per la $i$-time, deve spostare $a_i$ posti e lui consegna ad Alice la lista di istruzioni $a_1, a_2, \ldots, a_{n-1}$. A Alice non piacciono le torte, e lei è libera di scegliere la direzione in cui muoversi, sia in senso orario che in senso antiorario. Per quali valori di $n$ il Cappellaio Pazzo può costringere Alice a mangiare tutte le torte?
-
-[[Quesiti/src_bmo2_2018#q02|src_bmo2_2018__Q02]]
 
 
 
@@ -90,8 +86,6 @@ Le torte da tavolo circolare; trova n in modo che il Cappellone Pazzo possa cost
 *Prove la somma dei quadrati da m+1 a 2m non è mai un quadrato perfetto*
 
 > È noto che, per ogni intero positivo $n$, $$1^2 + 2^2 + \cdots + n^2 = \frac{n(n+1)(2n+1)}{6}$$ e così è un quadrato. Prova che non esiste un intero positivo $m$ tale che $$(m+1)^2 + (m+2)^2 + \cdots + (2m)^2$$ sia quadrato.
-
-[[Quesiti/src_bmo2_2018#q03|src_bmo2_2018__Q03]]
 
 
 
@@ -129,5 +123,3 @@ Le torte da tavolo circolare; trova n in modo che il Cappellone Pazzo possa cost
 > b) Esiste una funzione di assorbimento $f$ tale che $f(x)$ sia un numero intero solo se $x = n_i$ per alcuni $i$?
 > 
 > *Si noti che se $k$ è un intero positivo e $f$ è una funzione, $f^k$ indica la composizione delle copie $k$ di $f$. Ad esempio $f^2(t) = f(f(t))$ per tutti i numeri reali $t$.*
-
-[[Quesiti/src_bmo2_2018#q04|src_bmo2_2018__Q04]]

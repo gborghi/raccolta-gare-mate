@@ -36,8 +36,6 @@ level: RMO
 
 ![[src_rmo_2011__q01.png]]
 
-[[Quesiti/src_rmo_2011#q01|src_rmo_2011__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_cassetti,method_conteggio,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -63,8 +61,6 @@ level: RMO
 
 > Let $(a_1, a_2, \ldots, a_{2011})$ essere una permutazione (cioè una riorganizzazione) dei numeri $1, 2, 3, \ldots, 2011$. Indicare che esistono due numeri $j, k$, quali $1 \le j < k \le 2011$ e $|a_j - j| = |a_k - k|$.
 
-[[Quesiti/src_rmo_2011#q02|src_rmo_2011__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -89,8 +85,6 @@ level: RMO
 *Squadrati perfetti consecutivi; dimostrare che n-kl è un quadrato perfetto*
 
 > Un numero naturale $n$ è scelto rigorosamente tra due quadrati perfetti consecutivi. Il più piccolo di questi due quadrati si ottiene sottraendo $k$ da $n$ e il più grande si ottiene aggiungendo $l$ a $n$. Prova che $n - kl$ è un quadrato perfetto.
-
-[[Quesiti/src_rmo_2011#q03|src_rmo_2011__Q03]]
 
 
 
@@ -121,8 +115,6 @@ level: RMO
 
 ![[src_rmo_2011__q04.png]]
 
-[[Quesiti/src_rmo_2011#q04|src_rmo_2011__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -152,8 +144,6 @@ level: RMO
 
 ![[src_rmo_2011__q05.png]]
 
-[[Quesiti/src_rmo_2011#q05|src_rmo_2011__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_stima"></span>
@@ -178,5 +168,3 @@ level: RMO
 *Ricerca tutte le coppie reali (x,y) che soddisfano un'equazione esponenziale*
 
 > Trovare tutte le coppie $(x, y)$ di numeri reali tali che $$16^{x^2+y} + 16^{x+y^2} = 1.$$
-
-[[Quesiti/src_rmo_2011#q06|src_rmo_2011__Q06]]

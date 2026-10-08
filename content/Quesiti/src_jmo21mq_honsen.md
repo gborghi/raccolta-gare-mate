@@ -33,8 +33,6 @@ level: JMO Honsen
 
 > Il punto medio di un triangolo acuto è $H$ e il punto medio di un triangolo acuto $ABC$ è $M$. Il $P$ deve essere il piede della perpendicolare da $H$ alla linea $AM$. Dimostra che $AM \cdot PM = BM^2$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
-[[Quesiti/src_jmo21mq_honsen#q01|src_jmo21mq_honsen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -60,8 +58,6 @@ level: JMO Honsen
 *Ricerca tutti i quadrupli di interi positivi che soddisfano il prodotto facoltato a^n-1*
 
 > Trova tutti i quadrupli $(a, n, p, q, r)$ di numeri interi positivi che soddisfano l'equazione $$a^n - 1 = (a^p - 1)(a^q - 1)(a^r - 1).$$
-
-[[Quesiti/src_jmo21mq_honsen#q02|src_jmo21mq_honsen__Q02]]
 
 
 
@@ -108,8 +104,6 @@ level: JMO Honsen
 > 
 > Prova che B può sempre costringere la partita a finire, indipendentemente dalla strategia di A.
 
-[[Quesiti/src_jmo21mq_honsen#q03|src_jmo21mq_honsen__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,topic_algebra,method_casework,method_simmetria,skill_manipolazione_algebrica,skill_astrazione,skill_riconoscimento_pattern"></span>
@@ -137,8 +131,6 @@ level: JMO Honsen
 
 > Trovare tutte le funzioni $f$ definite sui numeri reali assumendo valori reali in modo tale che per qualsiasi numero reale $x, y$, $$f(f(x) - f(y)) = f(f(x)) - 2x^2 f(y) + f(y^2)$$ si trova.
 
-[[Quesiti/src_jmo21mq_honsen#q04|src_jmo21mq_honsen__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_astrazione,skill_manipolazione_algebrica"></span>
@@ -163,5 +155,3 @@ level: JMO Honsen
 *Quattro punti, uguali a tutti e quattro i triangoli implica congruenza*
 
 > Lasciate che ci siano quattro punti nel piano, nessuno dei quali sia collineare. Se l'inradii di tutti e quattro i triangoli formati scegliendo tre di questi quattro punti come vertici sono tutti uguali, dimostri che tutti e quattro i triangoli sono congruenti tra loro.
-
-[[Quesiti/src_jmo21mq_honsen#q05|src_jmo21mq_honsen__Q05]]

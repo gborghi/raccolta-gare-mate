@@ -52,8 +52,6 @@ level: OBM Nível 1
 
 ![[src_obm_2020_n1_fx__q01.png]]
 
-[[Quesiti/src_obm_2020_n1_fx#q01|src_obm_2020_n1_fx__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_geometria_solida,topic_logica,method_invarianti,method_casework,skill_ragionamento_geometrico,skill_casework_accurato"></span>
@@ -95,8 +93,6 @@ level: OBM Nível 1
 
 ![[src_obm_2020_n1_fx__q02.png]]
 
-[[Quesiti/src_obm_2020_n1_fx#q02|src_obm_2020_n1_fx__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_conteggio,method_casework,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
@@ -133,8 +129,6 @@ level: OBM Nível 1
 > b) dimostrare che per Juca non è possibile sommare le cifre di una certa quantità di prime decimali dopo la virgola della rappresentazione decimale di $7/33$ per ottenere esattamente $2020$.
 > 
 > c) Juca ha osservato la rappresentazione decimale di $11/41$. Quante decimali iniziali dopo la virgola dovrebbe sommare Juca per ottenere un risultato maggiore o uguale a $2021$?
-
-[[Quesiti/src_obm_2020_n1_fx#q03|src_obm_2020_n1_fx__Q03]]
 
 
 
@@ -177,8 +171,6 @@ level: OBM Nível 1
 > b) dimostrare che un numero di sei cifre $\overline{ABCDEF}$ non può essere primadoido.
 > 
 > c) Trova il numero primo primato più grande.
-
-[[Quesiti/src_obm_2020_n1_fx#q04|src_obm_2020_n1_fx__Q04]]
 
 
 
@@ -224,5 +216,3 @@ level: OBM Nível 1
 > d) Rendere uno sketch di un poligono semplice con lati $21$ e linee $10$ in modo tale che queste linee non passino attraverso nessun vertice e il numero di lati tagliati da queste linee sia distinto.
 
 ![[src_obm_2020_n1_fx__q05.png]]
-
-[[Quesiti/src_obm_2020_n1_fx#q05|src_obm_2020_n1_fx__Q05]]

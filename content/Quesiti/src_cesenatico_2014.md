@@ -38,7 +38,6 @@ level: nazionale
 > For every natural number n of 3 decimal digits (so with the first digit other than zero), we consider the number n0 obtained from n by removing its possible digits equal to zero. For example, if n is 205 then n0 is 25. Determine the number of three-digit integers n for which n0 is a divisor of n other than n.
 
 **Answer:** 93
-[[Quesiti/src_cesenatico_2014#q01|src_cesenatico_2014__Q01]]
 
 
 
@@ -72,8 +71,6 @@ level: nazionale
 
 > Whether ABC is such a triangle that, said H the height foot driven by C, we have AH = 3 · HB. In addition,  M is the mean point of AB;  N is the mean point of AC;  P is the point on the opposite side of B to the straight AC such that NP = NC and PC = CB. Prove that APM is PBA.
 
-[[Quesiti/src_cesenatico_2014#q02|src_cesenatico_2014__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_induzione,skill_manipolazione_algebrica"></span>
@@ -101,8 +98,6 @@ level: nazionale
 *MCD of a^n+(a+1)^n+(a+2)^n is power of 3*
 
 > For every positive integer n, be Dn the greatest common divisor of all numbers of the form an + (a + 1)n + (a + 2)n as a varies between all positive integers. (a) Demonstrate that for every n, Dn is 3k for some whole k ≥0. (b) Demonstrate that for every k ≥0, there exists an integer n such that Dn = 3k.
-
-[[Quesiti/src_cesenatico_2014#q03|src_cesenatico_2014__Q03]]
 
 
 
@@ -132,8 +127,6 @@ level: nazionale
 
 > On a center circumference A and radius R, four distinct points B, C, G, H are taken in such an order that G lies on the median of the triangle ABC extended by B, and H lies on the height extended by ABC extended by B. If X is the intersection between the AC and GH lines, it is shown that the AX segment is 2R long.
 
-[[Quesiti/src_cesenatico_2014#q04|src_cesenatico_2014__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_induzione,skill_astrazione"></span>
@@ -159,8 +152,6 @@ level: nazionale
 *Intero as a sum of 2015 2014 two-way powers*
 
 > Demonstrate that there exists a positive integer that can be written as the sum of 2015 distinct positive integers x1 < x2 < · · < x2015 in at least two ways.
-
-[[Quesiti/src_cesenatico_2014#q05|src_cesenatico_2014__Q05]]
 
 
 
@@ -194,4 +185,3 @@ level: nazionale
 > A square chessboard (2n + 1) × (2n + 1), with n > 0, is coloured so that each box is white or black. A box is said to be special if there are at least one other box of the same colour in its row and at least one other box of the same colour in its column. (a) Demonstrate that there are at least 2n + 1 special boxes. (b) Provide an example where there are at most 4 special boxes. (c) Determine, in accordance with n, the minimum number of special boxes possible.
 
 **Answer:** 4n
-[[Quesiti/src_cesenatico_2014#q06|src_cesenatico_2014__Q06]]

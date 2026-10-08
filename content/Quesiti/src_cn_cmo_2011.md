@@ -35,8 +35,6 @@ level: China Mathematical Olympiad
 
 > $a_1, a_2, \ldots, a_n$ ($n \ge 3$) siano numeri reali. Prove che $$\sum_{i=1}^{n} a_i^2 - \sum_{i=1}^{n} a_i a_{i+1} \le \left[\frac{n}{2}\right](M - m)^2,$$ dove $a_{n+1} = a_1$, $M = \max_{1 \le i \le n} a_i$, $m = \min_{1 \le i \le n} a_i$, $[x]$ è il numero intero più grande non superiore a $x$.
 
-[[Quesiti/src_cn_cmo_2011#q01|src_cn_cmo_2011__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_modellizzazione"></span>
@@ -65,8 +63,6 @@ level: China Mathematical Olympiad
 > Come mostrato nella figura. 2.1, $D$ è il punto medio dell'arco $BC$ del circoncircolo del triangolo $ABC$. $X$ si trova su un arco $BD$. $F$ è il punto medio dell'arco $AX$. $S$ si trova su un arco $AC$. $SD$ si interseca con $BC$ a $R$. $SE$ si interseca con $AX$ al punto $T$. Prova che se $RT \parallel DE$, il centro del triangolo $ABC$ si trova sulla linea $RT$.
 
 ![[src_cn_cmo_b11_w93__q02.png]]
-
-[[Quesiti/src_cn_cmo_2011#q02|src_cn_cmo_2011__Q02]]
 
 
 
@@ -98,8 +94,6 @@ level: China Mathematical Olympiad
 
 > Che $A_1, A_2, \ldots, A_n$ sia $n$ sottoinsieme non vuoti di un insieme finito $A$ di numeri reali che soddisfino le seguenti condizioni: (1) La somma degli elementi di $A$ è uguale a 0; (2) Scegli arbitrariamente un numero da ogni $A_i$ e la loro somma è strettamente positiva. Provare che esistono set $A_{i_1}, A_{i_2}, \ldots, A_{i_k}$, $1 \le i_1 < i_2 < \cdots < i_k \le n$ in modo tale che $$|A_{i_1} \cup A_{i_2} \cup \cdots \cup A_{i_k}| < \frac{k}{n} |A|.$$ ($|X|$ indica il numero di elementi di un set finito $X$.)
 
-[[Quesiti/src_cn_cmo_2011#q03|src_cn_cmo_2011__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,method_conteggio,skill_modellizzazione,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -127,7 +121,6 @@ level: China Mathematical Olympiad
 > Se il numero intero positivo $n$ è $S = \{1, 2, \ldots, n\}$. Trova il minimo di $|A \Delta S| + |B \Delta S| + |C \Delta S|$ per i set finiti non vuoti $A$ e $B$ di numeri reali, dove $C = \{a + b \mid a \in A, b \in B\}$, $X \Delta Y = \{x \mid x \text{ belongs to exactly one of } X \text{ and } Y\}$ e $|X|$ indicano il numero di elementi di un set finito $X$.
 
 **Risposta:** n+1
-[[Quesiti/src_cn_cmo_2011#q04|src_cn_cmo_2011__Q04]]
 
 
 
@@ -159,7 +152,6 @@ level: China Mathematical Olympiad
 > Numero intero $n \ge 4$. Trova il massimo di $$\frac{\sum_{i=1}^{n} a_i(a_i + b_i)}{\sum_{i=1}^{n} b_i(a_i + b_i)}$$ per i numeri reali non negativi $a_1, a_2, \ldots, a_n, b_1, b_2, \ldots, b_n$ soddisfaci $$a_1 + a_2 + \cdots + a_n = b_1 + b_2 + \cdots + b_n > 0.$$
 
 **Risposta:** n-1
-[[Quesiti/src_cn_cmo_2011#q05|src_cn_cmo_2011__Q05]]
 
 
 
@@ -185,5 +177,3 @@ level: China Mathematical Olympiad
 *Prove infinitamente molte copriemi copriemi a,b con a+b dividendo am^a+bn^b*
 
 > Prova che per ogni dato numero intero positivo $m$, $n$, esistono infinite coppie di numeri interi positivi copriemi $a$, $b$, in modo tale che $a + b \mid am^a + bn^b$.
-
-[[Quesiti/src_cn_cmo_2011#q06|src_cn_cmo_2011__Q06]]

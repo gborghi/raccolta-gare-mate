@@ -37,7 +37,6 @@ level: squadre
 > How many seven-digit numbers are divisible by 4 and such that the sum of their digits is 4?
 
 **Answer:** 0041
-[[Quesiti/src_kangourou_2018_squadre_junior_f#q01|src_kangourou_2018_squadre_junior_f__Q01]]
 
 
 
@@ -70,7 +69,6 @@ level: squadre
 > for the product a × b ?
 
 **Answer:** 0002
-[[Quesiti/src_kangourou_2018_squadre_junior_f#q02|src_kangourou_2018_squadre_junior_f__Q02]]
 
 
 
@@ -105,7 +103,6 @@ level: squadre
 > we can do this?
 
 **Answer:** 2018
-[[Quesiti/src_kangourou_2018_squadre_junior_f#q03|src_kangourou_2018_squadre_junior_f__Q03]]
 
 
 
@@ -146,7 +143,6 @@ level: squadre
 > always lost, finds himself with one of the two bags empty. What can N be worth, at most?
 
 **Answer:** 0610
-[[Quesiti/src_kangourou_2018_squadre_junior_f#q04|src_kangourou_2018_squadre_junior_f__Q04]]
 
 
 
@@ -185,7 +181,6 @@ level: squadre
 > largest complemented number that is not a multiple of 10?
 
 **Answer:** 0315
-[[Quesiti/src_kangourou_2018_squadre_junior_f#q06|src_kangourou_2018_squadre_junior_f__Q06]]
 
 
 
@@ -217,7 +212,6 @@ level: squadre
 > of two nonzero perfect squares. What is M × N?
 
 **Answer:** 3250
-[[Quesiti/src_kangourou_2018_squadre_junior_f#q07|src_kangourou_2018_squadre_junior_f__Q07]]
 
 
 
@@ -254,7 +248,6 @@ level: squadre
 > tangent to the same line. What is the measure of the largest of the radii?
 
 **Answer:** 0036
-[[Quesiti/src_kangourou_2018_squadre_junior_f#q08|src_kangourou_2018_squadre_junior_f__Q08]]
 
 
 
@@ -290,7 +283,6 @@ level: squadre
 > for the number of signals received to equal the speed of the train expressed in kilometres per hour?
 
 **Answer:** 0126
-[[Quesiti/src_kangourou_2018_squadre_junior_f#q09|src_kangourou_2018_squadre_junior_f__Q09]]
 
 
 
@@ -322,7 +314,6 @@ level: squadre
 > What is the largest three-digit prime number such that the sum of its digits is a two-digit prime number, the sum of whose digits is in turn a prime number?
 
 **Answer:** 0977
-[[Quesiti/src_kangourou_2018_squadre_junior_f#q10|src_kangourou_2018_squadre_junior_f__Q10]]
 
 
 
@@ -353,7 +344,6 @@ level: squadre
 > There is only one four-digit palindromic number n such that 17 × n is a perfect square. What is it?
 
 **Answer:** 8228
-[[Quesiti/src_kangourou_2018_squadre_junior_f#q11|src_kangourou_2018_squadre_junior_f__Q11]]
 
 
 
@@ -389,7 +379,6 @@ level: squadre
 > the equalities √3 = 1.73 and π = 3.14 hold exactly.
 
 **Answer:** 0022
-[[Quesiti/src_kangourou_2018_squadre_junior_f#q12|src_kangourou_2018_squadre_junior_f__Q12]]
 
 
 
@@ -420,7 +409,6 @@ level: squadre
 > For two positive integers m and n it happens that $m^5 + n^3 = 7901$. What is the value of $m^3 + n^5$?
 
 **Answer:** 3341
-[[Quesiti/src_kangourou_2018_squadre_junior_f#q13|src_kangourou_2018_squadre_junior_f__Q13]]
 
 
 
@@ -465,7 +453,6 @@ level: squadre
 > each move, the choice of the admissible cell from which to subtract the tokens?
 
 **Answer:** 7301
-[[Quesiti/src_kangourou_2018_squadre_junior_f#q14|src_kangourou_2018_squadre_junior_f__Q14]]
 
 
 
@@ -496,4 +483,3 @@ level: squadre
 > For how many (ordered) pairs of integers (x,y) is 2|x| + 3|y| < 23 ?
 
 **Answer:** 0169
-[[Quesiti/src_kangourou_2018_squadre_junior_f#q15|src_kangourou_2018_squadre_junior_f__Q15]]

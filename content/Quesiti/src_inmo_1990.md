@@ -45,8 +45,6 @@ level: INMO
 > 
 > con uguaglianza in ogni caso se e solo se le quattro radici sono uguali.
 
-[[Quesiti/src_inmo_1990#q01|src_inmo_1990__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -71,8 +69,6 @@ level: INMO
 *Ricerca tutte le coppie di numeri interi non negativi che soddisfano $(xy-7)^2 = x^2 + y^2$*
 
 > Trova tutte le coppie di integri non negativi $(x, y)$ soddisfacenti $(xy - 7)^2 = x^2 + y^2$.
-
-[[Quesiti/src_inmo_1990#q02|src_inmo_1990__Q02]]
 
 
 
@@ -111,8 +107,6 @@ level: INMO
 > 
 > Trova tutti i valori possibili che $f(1990)$ può assumere.
 
-[[Quesiti/src_inmo_1990#q03|src_inmo_1990__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_congruenze,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_manipolazione_algebrica"></span>
@@ -137,8 +131,6 @@ level: INMO
 *Contare i sottogruppi di tre elementi di {1,...,300} con somma divisibile per 3*
 
 > Determinare il numero di sottoinsiemi di tre elementi di $\{1, 2, 3, \ldots, 300\}$ per i quali la somma degli elementi è un multiple di 3.
-
-[[Quesiti/src_inmo_1990#q04|src_inmo_1990__Q04]]
 
 
 
@@ -167,8 +159,6 @@ level: INMO
 
 > Lasciate che $a, b, c$ siano i lati di un triangolo. Indicare che la quantità $$\frac{a}{b+c} + \frac{b}{c+a} + \frac{c}{a+b}$$ deve essere tra $\frac{1}{2}$ e $2$. L'uguaglianza può mantenere entrambi i limiti?
 
-[[Quesiti/src_inmo_1990#q05|src_inmo_1990__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -194,8 +184,6 @@ level: INMO
 
 > In un triangolo scaleno $ABC$ l'angolo a $A$ è obtuso. Determinare l'insieme dei punti $D$ situati sulla linea estesa $BC$ per i quali $AD = \sqrt{BD \cdot CD}$.
 
-[[Quesiti/src_inmo_1990#q06|src_inmo_1990__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione"></span>
@@ -220,5 +208,3 @@ level: INMO
 *Locus di P tale che il triangolo DEF (piedi dei criminali) sia isosceles; quando equilaterale?*
 
 > Per qualsiasi punto $P$ situato all'interno di un determinato triangolo acuto $ABC$, $D, E, F$ indichi i piedi delle perpendicolari da $P$ a $AB$, $BC$ e $CA$ rispettivamente. Trova l'insieme di tutte le posizioni di $P$ per le quali il triangolo $DEF$ è uguale. Per quale posizione di $P$ è equilaterale il triangolo $DEF$?
-
-[[Quesiti/src_inmo_1990#q07|src_inmo_1990__Q07]]

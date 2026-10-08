@@ -38,7 +38,6 @@ level: squadre
 > To celebrate the anniversary of its opening, a bakery today offers a 30% discount on all items sold. Moreover, on the most representative cake of its production, the bakery offers an additional 20% discount on the discounted price. For this cake, what's the discount rate on the starting price?
 
 **Answer:** 44
-[[Quesiti/src_kangourou_2014_squadre_a#q01|src_kangourou_2014_squadre_a__Q01]]
 
 
 
@@ -77,7 +76,6 @@ level: squadre
 > Average grid In each of the boxes of a grid 100 × 100 a positive integer has been entered. Each number entered is the arithmetic mean of both the two numbers adjacent to it vertically, and the two numbers adjacent to it horizontally, and the two numbers adjacent to it diagonally (when the two numbers exist). The figure shows you which numbers were entered into three of the corner cells. What number was entered in the fourth?
 
 **Answer:** 892
-[[Quesiti/src_kangourou_2014_squadre_a#q02|src_kangourou_2014_squadre_a__Q02]]
 
 
 
@@ -114,7 +112,6 @@ level: squadre
 > assumptions. What is the value of n?
 
 **Answer:** 1050
-[[Quesiti/src_kangourou_2014_squadre_a#q03|src_kangourou_2014_squadre_a__Q03]]
 
 
 
@@ -145,7 +142,6 @@ level: squadre
 > Luisa's swimming pool In a park there's a perfectly circular pool. Luisa dives from a point on the edge, swims eastward, and after 24 meters touches the edge again. From this new point on the edge, she swims north and after seven metres touches the edge again. How many meters does the swimming pool diameter measure?
 
 **Answer:** 25
-[[Quesiti/src_kangourou_2014_squadre_a#q04|src_kangourou_2014_squadre_a__Q04]]
 
 
 
@@ -175,7 +171,6 @@ level: squadre
 > Equation in integers For how many ordered pairs (x,y) of positive integers do you have that x + 3y = 2014?
 
 **Answer:** 671
-[[Quesiti/src_kangourou_2014_squadre_a#q05|src_kangourou_2014_squadre_a__Q05]]
 
 
 
@@ -256,7 +251,6 @@ level: squadre
 > The parallelogram Note the figure: ABCD is a parallelogram, the area of the AED triangle is 360 m2, while the area of the ABE triangle is 540 m2. What is the area of the DEF triangle in m2?
 
 **Answer:** 240
-[[Quesiti/src_kangourou_2014_squadre_a#q06|src_kangourou_2014_squadre_a__Q06]]
 
 
 
@@ -287,7 +281,6 @@ level: squadre
 > The sum is 1/5 How many pairs (a,b) of positive integers are such that 1/a + 1/b = 1/5? (If a ≠ b, the pair (a,b) shall be considered different from the pair (b,a).)
 
 **Answer:** 3
-[[Quesiti/src_kangourou_2014_squadre_a#q07|src_kangourou_2014_squadre_a__Q07]]
 
 
 
@@ -319,7 +312,6 @@ level: squadre
 > How many digits 0? Let's denote with R(k) the positive integer whose writing consists of exactly k digits all equal to 1 (e.g., R(3) = 111). The quotient R(25)/R(5) is an integer: how many of its digits are equal to 0?
 
 **Answer:** 16
-[[Quesiti/src_kangourou_2014_squadre_a#q08|src_kangourou_2014_squadre_a__Q08]]
 
 
 
@@ -352,7 +344,6 @@ level: squadre
 > The rotation of the tyres A car is fitted with special tyres all the same, rather delicate: if fitted in the front position they must be replaced after 3,000 km, if fitted in the rear position they must be replaced after 4,500 km. Now all the tires are new. In order to ensure that the moment when they need to be replaced is the same for all four tyres, after how many kilometres will the four tyres have to be swapped from front to rear and vice versa?
 
 **Answer:** 1800
-[[Quesiti/src_kangourou_2014_squadre_a#q09|src_kangourou_2014_squadre_a__Q09]]
 
 
 
@@ -382,7 +373,6 @@ level: squadre
 > What is the sum of the digits of the whole number 777.777.777.7772 - 222.222.222.2232 ?
 
 **Answer:** 74
-[[Quesiti/src_kangourou_2014_squadre_a#q10|src_kangourou_2014_squadre_a__Q10]]
 
 
 
@@ -414,7 +404,6 @@ level: squadre
 > The fourth vertex In the plane referred to the usual system of orthogonal Cartesian axes the points (1,-1), (-1,0) and (0,1) are three of the vertices of a parallelogram. Consider all the points that can make up the fourth vertex and add up all their coordinates. What is the result?
 
 **Answer:** 0
-[[Quesiti/src_kangourou_2014_squadre_a#q11|src_kangourou_2014_squadre_a__Q11]]
 
 
 
@@ -453,7 +442,6 @@ level: squadre
 > The figure sketches a portion of a rectangular floor. To tile it, square tiles all of the same size were used, broken in half to make triangular tiles that were only used along the edges. Along each of the short edges are 20 triangular tiles, along each of the long ones are 86 tiles. How many square tiles of those used are left whole?
 
 **Answer:** 3334
-[[Quesiti/src_kangourou_2014_squadre_a#q12|src_kangourou_2014_squadre_a__Q12]]
 
 
 
@@ -487,7 +475,6 @@ level: squadre
 > Kilometre signals Giulio is driving at a steady speed on a freeway. At some point, he notices that the two digits of the number on the kilometre signal he is passing are those of the signal he had passed exactly half an hour earlier, but swapped between them. After another precise half hour of driving he notices that the number present on the signal he is passing is made up of the two digits of the signal seen the first time, in the same order, with the zero digit interspersed between the two. What is the number on the third kilometre signal?
 
 **Answer:** 106
-[[Quesiti/src_kangourou_2014_squadre_a#q13|src_kangourou_2014_squadre_a__Q13]]
 
 
 
@@ -517,7 +504,6 @@ level: squadre
 > You know that a, b, and c are three numbers such that a + b + c = 300 and 3a + 2b + c = 600. How much is 3a + 4b + 5c ?
 
 **Answer:** 1200
-[[Quesiti/src_kangourou_2014_squadre_a#q14|src_kangourou_2014_squadre_a__Q14]]
 
 
 
@@ -563,4 +549,3 @@ level: squadre
 > Questions and solutions
 
 **Answer:** 98
-[[Quesiti/src_kangourou_2014_squadre_a#q15|src_kangourou_2014_squadre_a__Q15]]

@@ -39,7 +39,6 @@ level: China Mathematical Competition
 > (A) $\dfrac{\pi}{6}$ \quad (B) $\dfrac{\pi}{12}$ \quad (C) $\dfrac{5\pi}{6}$ \quad (D) $\dfrac{5\pi}{12}$
 
 **Risposta:** B
-[[Quesiti/src_cn_cmc_2004#q01|src_cn_cmc_2004__Q01]]
 
 
 
@@ -72,7 +71,6 @@ level: China Mathematical Competition
 > (A) $\left[-\dfrac{\sqrt{6}}{2},\, \dfrac{\sqrt{6}}{2}\right]$ \quad (B) $\left(-\dfrac{\sqrt{6}}{2},\, \dfrac{\sqrt{6}}{2}\right)$ \quad (C) $\left(-\dfrac{\sqrt{6}}{2},\, \dfrac{\sqrt{6}}{2}\right]$ \quad (D) $\left[-\dfrac{2\sqrt{3}}{3},\, \dfrac{2\sqrt{3}}{3}\right]$
 
 **Risposta:** A
-[[Quesiti/src_cn_cmc_2004#q02|src_cn_cmc_2004__Q02]]
 
 
 
@@ -105,7 +103,6 @@ level: China Mathematical Competition
 > (A) $[2,\, 3)$ \quad (B) $(2,\, 3]$ \quad (C) $[2,\, 4)$ \quad (D) $(2,\, 4]$
 
 **Risposta:** C
-[[Quesiti/src_cn_cmc_2004#q03|src_cn_cmc_2004__Q03]]
 
 
 
@@ -138,7 +135,6 @@ level: China Mathematical Competition
 > (A) $2$ \quad (B) $\dfrac{5}{2}$ \quad (C) $3$ \quad (D) $\dfrac{7}{2}$
 
 **Risposta:** C
-[[Quesiti/src_cn_cmc_2004#q04|src_cn_cmc_2004__Q04]]
 
 
 
@@ -171,7 +167,6 @@ level: China Mathematical Competition
 > (A) $45$ \quad (B) $81$ \quad (C) $165$ \quad (D) $216$
 
 **Risposta:** C
-[[Quesiti/src_cn_cmc_2004#q05|src_cn_cmc_2004__Q05]]
 
 
 
@@ -208,7 +203,6 @@ level: China Mathematical Competition
 ![[src_cn_cmc_2004__q06.png]]
 
 **Risposta:** D
-[[Quesiti/src_cn_cmc_2004#q06|src_cn_cmc_2004__Q06]]
 
 
 
@@ -237,7 +231,6 @@ level: China Mathematical Competition
 > In un sistema rettangolare piano $xOy$, l'area circondata dai grafici della funzione $f(x) = a\sin x + \cos x$ $(a > 0)$ definiti in un intervallo con il periodo meno positivo e dal grafico della funzione $g(x) = \sqrt{a^2 + 1}$ è ___.
 
 **Risposta:** $4\pi$
-[[Quesiti/src_cn_cmc_2004#q07|src_cn_cmc_2004__Q07]]
 
 
 
@@ -268,7 +261,6 @@ level: China Mathematical Competition
 > $f: \mathbf{R} \to \mathbf{R}$ deve essere una funzione tale che $f(0) = 1$ e per qualsiasi $x$, $y \in \mathbf{R}$, $$f(x) - f(y) = f(x - y) + 2$$ sia contenuta. Poi $f(x) = $ ___.
 
 **Risposta:** $x + 1$
-[[Quesiti/src_cn_cmc_2004#q08|src_cn_cmc_2004__Q08]]
 
 
 
@@ -301,7 +293,6 @@ level: China Mathematical Competition
 ![[src_cn_cmc_2004__q09.png]]
 
 **Risposta:** $120^\circ$
-[[Quesiti/src_cn_cmc_2004#q09|src_cn_cmc_2004__Q09]]
 
 
 
@@ -330,7 +321,6 @@ level: China Mathematical Competition
 > Lasciate che $p$ sia un primo strano. $k$ sia un intero positivo tale che $\sqrt{p^2 - pk}$ sia anche un intero positivo. Poi $k = $ ___.
 
 **Risposta:** $\dfrac{(p+1)^2}{4}$
-[[Quesiti/src_cn_cmc_2004#q10|src_cn_cmc_2004__Q10]]
 
 
 
@@ -359,7 +349,6 @@ level: China Mathematical Competition
 > $a_0,\, a_1,\, a_2,\, \cdots,\, a_n,\, \cdots$ è una sequenza di numeri che soddisfa $(3 - a_{n+1}) \cdot (6 + a_n) = 18$ e $a_0 = 3$. Quindi $\displaystyle\sum_{i=0}^{n} \frac{1}{a_i}$ equivale a ___.
 
 **Risposta:** $\dfrac{1}{3}\left[2(2^{n+1}-1) - (n+1)\right]$
-[[Quesiti/src_cn_cmc_2004#q11|src_cn_cmc_2004__Q11]]
 
 
 
@@ -388,7 +377,6 @@ level: China Mathematical Competition
 > Che $M(-1, 2)$ e $N(1, 4)$ siano due punti in un sistema di coordinate retangolare piano $xOy$. $P$ è un punto in movimento sull'asse $x$. Quando $\angle MPN$ prende il suo valore massimo, la coordinata $x$ del punto $P$ è ___.
 
 **Risposta:** $1$
-[[Quesiti/src_cn_cmc_2004#q12|src_cn_cmc_2004__Q12]]
 
 
 
@@ -423,8 +411,6 @@ La probabilità di attraversare i primi tre ostacoli nel gioco dei dadi
 > 
 > (2) Qual è la probabilità che una persona attraverserà i primi tre ostacoli?
 
-[[Quesiti/src_cn_cmc_2004#q13|src_cn_cmc_2004__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_analitica,topic_geometria_piana,method_coordinate,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -457,8 +443,6 @@ La probabilità di attraversare i primi tre ostacoli nel gioco dei dadi
 > (1) Trovare il luogo del punto $P$.
 > 
 > (2) Se la linea $L$ passa attraverso l'incentro (per esempio $D$) di $\triangle ABC$ e ha esattamente 3 punti comuni con il locus del punto $P$, determinare tutti i valori della pendenza $k$ della linea $L$.
-
-[[Quesiti/src_cn_cmc_2004#q14|src_cn_cmc_2004__Q14]]
 
 
 
@@ -493,5 +477,3 @@ La probabilità di attraversare i primi tre ostacoli nel gioco dei dadi
 > (1) Trova $g(t) = \max f(x) - \min f(x)$.
 > 
 > (2) Prova che per $u_i \in \left(0,\, \dfrac{\pi}{2}\right)$ ($i = 1,\, 2,\, 3$), se $\sin u_1 + \sin u_2 + \sin u_3 = 1$, allora $$\frac{1}{g(\tan u_1)} + \frac{1}{g(\tan u_2)} + \frac{1}{g(\tan u_3)} < \frac{3}{4}\sqrt{6}.$$
-
-[[Quesiti/src_cn_cmc_2004#q15|src_cn_cmc_2004__Q15]]

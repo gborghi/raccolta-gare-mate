@@ -44,8 +44,6 @@ level: Coupe Animath Printemps
 > 
 > b) Trovare tutti gli enti $x$ in modo tale che, partendo da $x$ e applicando successivamente due operazioni diverse (tra $A$, $B$, $C$), si ottiene $2015$.
 
-[[Quesiti/src_canimath_2015_printemps#q01|src_canimath_2015_printemps__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -69,8 +67,6 @@ level: Coupe Animath Printemps
 *Triangolo rettangolo ABC; trovare il punto ((s) P sul perimetro con PA+PB=PC*
 
 > $ABC$ sia un triangolo rettangolo a $A$. Determinare il punto ((s) $P$ sul perimetro di $ABC$ in modo tale che $PA + PB = PC$.
-
-[[Quesiti/src_canimath_2015_printemps#q02|src_canimath_2015_printemps__Q02]]
 
 
 
@@ -101,8 +97,6 @@ level: Coupe Animath Printemps
 > 
 > Trovare tutti gli integri $n$ che hanno esattamente $4$ cifre come $f(n) = 4n + 3$.
 
-[[Quesiti/src_canimath_2015_printemps#q03|src_canimath_2015_printemps__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione"></span>
@@ -126,8 +120,6 @@ level: Coupe Animath Printemps
 *Triangolo ABC, punto medio M, perpendicolari che si incontrano a I; provare angoli IPA e INC uguali*
 
 > Lasciate che $ABC$ sia un triangolo. Selezionare $M$ sul lato $[BC]$, $N$ sul lato $[CA]$ e $P$ sul lato $[AB]$. La linea $D_B$ deve essere la linea attraverso $B$ perpendicolare a $[MP]$ e $D_C$ la linea attraverso $C$ perpendicolare a $[MN]$. Supponiamo che le linee $D_B$ e $D_C$ si incontrino in un punto $I$. Prova che gli angoli $\widehat{IPA}$ e $\widehat{INC}$ sono uguali.
-
-[[Quesiti/src_canimath_2015_printemps#q04|src_canimath_2015_printemps__Q04]]
 
 
 
@@ -153,8 +145,6 @@ level: Coupe Animath Printemps
 *2015 numeri interi positivi sul cerchio; trovare due vicini la cui rimozione sbilanci la divisione di somma uguale*
 
 > I numeri interi $2015$ strettamente positivi sono posizionati intorno a un cerchio. Prove che è possibile trovare due integri vicini in modo tale che, dopo averli rimossi, i numeri rimanenti non possano essere divisi in due gruppi con somma uguale.
-
-[[Quesiti/src_canimath_2015_printemps#q05|src_canimath_2015_printemps__Q05]]
 
 
 
@@ -183,8 +173,6 @@ level: Coupe Animath Printemps
 
 > $\lfloor x \rfloor$ indichi la parte integrale di $x$. Ad esempio, $\lfloor 15/4 \rfloor = 3$. Definire $$f(n) = \left\lfloor \frac{n}{\lfloor \sqrt{n} \rfloor} \right\rfloor.$$ Trovare tutti gli enti $n$ in modo che $f(n+1) > f(n)$.
 
-[[Quesiti/src_canimath_2015_printemps#q06|src_canimath_2015_printemps__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_geometria_piana,method_cassetti,method_estremalita,skill_modellizzazione,skill_stima,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
@@ -210,8 +198,6 @@ level: Coupe Animath Printemps
 
 > I punti $n$ sono posizionati su un cerchio di diametro $n/\pi$ (così la circonferenza $n$). Supponiamo che la lunghezza di ogni arco tra due punti consecutivi (senza contare i punti finali) sia rigorosamente superiore al numero di punti rigorosamente all'interno di tale arco. Prova che è possibile trovare archi $n$ che contengono ciascuno esattamente un punto, dividendo il cerchio.
 
-[[Quesiti/src_canimath_2015_printemps#q07|src_canimath_2015_printemps__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
@@ -236,5 +222,3 @@ level: Coupe Animath Printemps
 *Prima p,q,r; pq+1, pr+1, qr-p quadrati; prova che p+2qr+2 è anche un quadrato*
 
 > Lasciate che $p$, $q$, $r$ siano numeri primi in modo tale che ciascuno dei tre numeri $pq + 1$, $pr + 1$ e $qr - p$ sia un quadrato perfetto. Prova che $p + 2qr + 2$ è anche un quadrato perfetto.
-
-[[Quesiti/src_canimath_2015_printemps#q08|src_canimath_2015_printemps__Q08]]

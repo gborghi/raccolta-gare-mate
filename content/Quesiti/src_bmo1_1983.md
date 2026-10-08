@@ -33,8 +33,6 @@ level: BMO Round 1
 
 > Nel triangolo $ABC$ con circoncentro $O$, $AB = AC$, $D$ è il punto medio di $AB$ e $E$ è il centroide del triangolo $ACD$. Prove che $OE$ è perpendicolare a $CD$.
 
-[[Quesiti/src_bmo1_1983#q01|src_bmo1_1983__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -62,8 +60,6 @@ level: BMO Round 1
 
 > La sequenza di Fibonacci $\{f_n\}$ è definita da $$f_1 = 1, \quad f_2 = 1, \quad f_n = f_{n-1} + f_{n-2} \quad (n \ge 2).$$ Prove che ci sono enti unici $a$, $b$, $m$ in modo tale che $0 < a < m$, $0 < b < m$ e $f_n - ab^n$ siano divisibili da $m$ per tutti gli enti positivi $n$.
 
-[[Quesiti/src_bmo1_1983#q02|src_bmo1_1983__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_telescoping,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -90,8 +86,6 @@ level: BMO Round 1
 *La somma e il prodotto delle reciprocità della sequenza iterata soddisfano l'identità*
 
 > I numeri reali $x_1, x_2, x_3, \ldots$ sono definiti da $$x_1 = x, \quad x_{n+1} = x_n^2 + 1 \quad \text{for all } n \ge 1.$$ $S_n$ è la somma e $P_n$ è il prodotto dei primi termini $n$ della sequenza $\gamma_1, \gamma_2, \gamma_3, \ldots$ dove $\gamma_n = \frac{1}{x_n}$. Indicare che $x S_n + P_n = 1$ per tutti $n$.
-
-[[Quesiti/src_bmo1_1983#q03|src_bmo1_1983__Q03]]
 
 
 
@@ -122,8 +116,6 @@ level: BMO Round 1
 
 > Le due superfici cilindriche $$x^2 + y^2 = 1, \quad |y| \le a, \quad x > 0$$ e $$y^2 + z^2 = 1, \quad x > 0, \quad |x| \le a$$ si incrociano e insieme al piano $z = 0$ si inseriscono in una forma di cupola che viene chiamata qui una "cupola". La cupola è collocata sulla cima di una torre verticale di altezza $h$ la cui sezione trasversale orizzontale è un quadrato di lato $2a$. Trova la distanza più breve dal punto più alto della cupola a un angolo della base della torre, sopra la superficie della cupola e della torre.
 
-[[Quesiti/src_bmo1_1983#q04|src_bmo1_1983__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_cassetti,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -148,8 +140,6 @@ level: BMO Round 1
 *Dicenni punti in un cerchio di diametro di 5 pollici: due entro 2 pollici*
 
 > Se i punti $10$ sono all'interno di un cerchio di diametro $5''$, dimostrare che la distanza tra alcuni $2$ dei punti è inferiore a $2''$.
-
-[[Quesiti/src_bmo1_1983#q05|src_bmo1_1983__Q05]]
 
 
 
@@ -179,5 +169,3 @@ level: BMO Round 1
 *Equazione a radice quadrata: trovare p che dà esattamente una soluzione reale*
 
 > Considera l'equazione $$\sqrt{2p + 1 - x^2} + \sqrt{3x + p + 4} = \sqrt{x^2 + 9x + 3p + 9} \tag{1}$$ in cui $x, p$ sono numeri reali e le radici quadrate devono essere reali e non negative. Mostrare che se (1) tiene allora $$(x^2 + x - p)(x^2 + 8x + 2p + 9) = 0.$$ Quindi trovare l'insieme di numeri reali $p$ per cui (1) è soddisfatto da un numero reale $x$ esattamente.
-
-[[Quesiti/src_bmo1_1983#q06|src_bmo1_1983__Q06]]

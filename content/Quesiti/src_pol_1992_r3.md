@@ -33,8 +33,6 @@ level: Olimpiade Polacca Round 3
 
 > I segmenti $AC$ e $BD$ si incrociano a $P$ in modo che $PA = PD$ e $PB = PC$. Se $O$ è il centro circoncentrale del triangolo $PAB$, dimostrare che $OP$ è perpendicolare a $CD$.
 
-[[Quesiti/src_pol_1992_r3#q01|src_pol_1992_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_funzionali,topic_aritmetica,method_induzione,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -61,8 +59,6 @@ level: Olimpiade Polacca Round 3
 
 > Trova tutte le funzioni $f : \mathbb{Q}^+ \to \mathbb{Q}^+$ in modo che per tutte $x \in \mathbb{Q}^+$, $$f(x+1) = f(x) + 1 \quad \text{and} \quad f(x^3) = f(x)^3.$$
 
-[[Quesiti/src_pol_1992_r3#q02|src_pol_1992_r3__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_doppio_conteggio,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -88,8 +84,6 @@ level: Olimpiade Polacca Round 3
 *Prove che la doppia somma di a_m a_n/(m+n) non è negativa*
 
 > Se $a_1, a_2, \ldots, a_r$ sono numeri reali arbitrari, dimostrare la disuguaglianza $$\sum_{n=1}^{r} \sum_{m=1}^{r} \frac{a_m a_n}{m+n} \ge 0.$$
-
-[[Quesiti/src_pol_1992_r3#q03|src_pol_1992_r3__Q03]]
 
 
 
@@ -118,8 +112,6 @@ level: Olimpiade Polacca Round 3
 
 > La sequenza di funzioni $f_n : \mathbb{R} \to \mathbb{R}$ è definita da $f_0(x) = 8$ e $$f_{n+1}(x) = \sqrt{x^2 + 6f_n(x)} \quad \text{for all } x.$$ Per ogni intero $n \ge 0$, risolvere l'equazione $f_n(x) = 2x$.
 
-[[Quesiti/src_pol_1992_r3#q04|src_pol_1992_r3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,method_simmetria,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta"></span>
@@ -145,8 +137,6 @@ level: Olimpiade Polacca Round 3
 
 > La base di una piramide regolare è un $2n$-gon $A_1 A_2 \ldots A_{2n}$ regolare. Una sfera che passa attraverso la vertica superiore $S$ incrocia il bordo laterale $SA_i$ a $B_i$ per $i = 1, 2, \ldots, 2n$. Prove che $\sum_{i=1}^{n} SB_{2i-1} = \sum_{i=1}^{n} SB_{2i}$.
 
-[[Quesiti/src_pol_1992_r3#q05|src_pol_1992_r3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_induzione,method_conteggio,method_fattorizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -171,5 +161,3 @@ level: Olimpiade Polacca Round 3
 Prova (k^3)! divisibile da (k!)^(k^2+k+1)*
 
 > Prove che per ogni intero positivo $k$, $(k^3)!$ è divisibile da $(k!)^{k^2+k+1}$.
-
-[[Quesiti/src_pol_1992_r3#q06|src_pol_1992_r3__Q06]]

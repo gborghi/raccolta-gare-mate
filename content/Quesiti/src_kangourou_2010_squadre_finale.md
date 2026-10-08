@@ -38,7 +38,6 @@ level: squadre
 > From home to school From home to school I always walk, always leaving at the same time. If I walk at 4 km/h, I arrive 5 minutes late at the start of classes, but if I walk at 5 km/h, I arrive 10 minutes before the start of classes. How many metres is the school from my house?
 
 **Answer:** 5000
-[[Quesiti/src_kangourou_2010_squadre_finale#q01|src_kangourou_2010_squadre_finale__Q01]]
 
 
 
@@ -75,7 +74,6 @@ level: squadre
 > (a, b, c, d, e, f, g) are there such that  2a2 + b2 + c2 + d2 + e2  + f2 + g2 = 9  ?
 
 **Answer:** 2820
-[[Quesiti/src_kangourou_2010_squadre_finale#q02|src_kangourou_2010_squadre_finale__Q02]]
 
 
 
@@ -107,7 +105,6 @@ level: squadre
 > This is a special year. The year 2010 has the curious peculiarity that the number formed by its first two digits is a multiple of the number formed by the last two. The same thing happens for example in the year 2404. How many of the next 400 years, that is, the years from 2011 to 2410 inclusive, will have this property?
 
 **Answer:** 17
-[[Quesiti/src_kangourou_2010_squadre_finale#q03|src_kangourou_2010_squadre_finale__Q03]]
 
 
 
@@ -140,7 +137,6 @@ Zigzag paths of 8 white squares on a chessboard
 > The chessboard On an ordinary 8 × 8 chessboard (32 white squares and 32 black squares alternating horizontally and vertically), we call "zigzag path" a set of 8 white squares, one for each row, such that, for each row from the second to the eighth, the square in that row shares a vertex with the one in the previous row. How many different zigzag paths can you find?
 
 **Answer:** 296
-[[Quesiti/src_kangourou_2010_squadre_finale#q04|src_kangourou_2010_squadre_finale__Q04]]
 
 
 
@@ -172,7 +168,6 @@ Zigzag paths of 8 white squares on a chessboard
 > Faces and vertices On each face of a cube we wrote a strictly positive integer. On each vertex we wrote the product of the three numbers written on the faces that meet at that vertex. The sum of the numbers written on the vertices is 70. What's the sum of the numbers on the faces?
 
 **Answer:** 14
-[[Quesiti/src_kangourou_2010_squadre_finale#q05|src_kangourou_2010_squadre_finale__Q05]]
 
 
 
@@ -216,7 +211,6 @@ Zigzag paths of 8 white squares on a chessboard
 > How many cubic centimeters does its volume measure?
 
 **Answer:** 180
-[[Quesiti/src_kangourou_2010_squadre_finale#q06|src_kangourou_2010_squadre_finale__Q06]]
 
 
 
@@ -252,7 +246,6 @@ Zigzag paths of 8 white squares on a chessboard
 > Three intermittent lamps are lit, one every two minutes, one every two and a half minutes and the third every three minutes. Each of the three, when turned on, stays on for a minute and a half. The moment my digital clock, which marks the minutes but not the seconds, turns to 10:38, all three lights go out simultaneously. What time will my clock mark when the three of them turn on together for the first time ? N.B. The expression "they turn on every x minutes" means between one turning on and the next re-turning on, x minutes pass. (To indicate, for example, 10:38, write 1038.)
 
 **Answer:** 1106
-[[Quesiti/src_kangourou_2010_squadre_finale#q07|src_kangourou_2010_squadre_finale__Q07]]
 
 
 
@@ -323,7 +316,6 @@ Zigzag paths of 8 white squares on a chessboard
 >       + + + + + +       + + + + + + + + + + 670 1 669 1 ... 3 1 2 1 1 2010 2009 2008 2007 2006 2005 ... 9 8 7 6 5 4 3 2 1
 
 **Answer:** 1340
-[[Quesiti/src_kangourou_2010_squadre_finale#q08|src_kangourou_2010_squadre_finale__Q08]]
 
 
 
@@ -356,7 +348,6 @@ Zigzag paths of 8 white squares on a chessboard
 > Princess Cunegonda Princess Cunegonda was born on 1 January 1992. A fairy, who happened to be passing by near the cradle where Cunegonda had just been born, made the following prediction: In the first year m in which the units digit of Cunegonda's age will be equal to the units digit of m^m, something wonderful will happen to Cunegonda. Then the prediction came true. What year?
 
 **Answer:** 2008
-[[Quesiti/src_kangourou_2010_squadre_finale#q09|src_kangourou_2010_squadre_finale__Q09]]
 
 
 
@@ -391,7 +382,6 @@ Zigzag paths of 8 white squares on a chessboard
 > A strange country has exactly one million inhabitants who speak a language with a very rich alphabet. Each inhabitant of that country has a surname, a first name and a nickname whose three initial letters are different from each other. You know that it is possible to identify each of the inhabitants using only the initial letters, in order, of the surname, the first name and the nickname. What is the minimum number of letters of the alphabet used in that country?
 
 **Answer:** 102
-[[Quesiti/src_kangourou_2010_squadre_finale#q10|src_kangourou_2010_squadre_finale__Q10]]
 
 
 
@@ -424,7 +414,6 @@ Zigzag paths of 8 white squares on a chessboard
 > The thickness of the hexagon We call the thickness of a regular hexagon the thickness of the circular crown bounded by the circumference to it circumscribed and by that to it inscribed (i.e. the difference between the greater and lesser of the two radii). Now let's imagine a sequence of regular hexagons, the first with side one, the second with side two, the third with side three, and so on. What place in the sequence does the first of these hexagons, whose thickness exceeds 130, occupy?
 
 **Answer:** 971
-[[Quesiti/src_kangourou_2010_squadre_finale#q11|src_kangourou_2010_squadre_finale__Q11]]
 
 
 
@@ -457,7 +446,6 @@ Zigzag paths of 8 white squares on a chessboard
 > Number pairs Find all pairs {a,b} of positive integers, with a < b, such that the sum of all integers strictly comprised between a and b (i.e. simultaneously greater than a and less than b) is 1999. Write the sum of the elements of all these pairs (for example, if the pairs were {a,b}, {c,d}, {e,f} you would write the number a + b + c + d + e + f).
 
 **Answer:** 5997
-[[Quesiti/src_kangourou_2010_squadre_finale#q12|src_kangourou_2010_squadre_finale__Q12]]
 
 
 
@@ -489,7 +477,6 @@ Zigzag paths of 8 white squares on a chessboard
 > A set of special numbers A set S of integers is such that its smallest element is 1001 and the product of all its elements is a perfect square. What is the smallest value that the largest element of S can have?
 
 **Answer:** 1040
-[[Quesiti/src_kangourou_2010_squadre_finale#q13|src_kangourou_2010_squadre_finale__Q13]]
 
 
 
@@ -528,7 +515,6 @@ Zigzag paths of 8 white squares on a chessboard
 > Rectangles and squares The area of the rectangular region in the figure is 2010 m2. The region is divided into seven squares and two rectangles, as indicated. The dimensions of all the squares and rectangles we're talking about are expressed in meters by integer numbers. The two rectangles, which appear shaded in the figure, have the same dimensions and the squares have the maximum possible size compatible with the constraints of the problem. What is the perimeter in meters of each of the two rectangles?
 
 **Answer:** 134
-[[Quesiti/src_kangourou_2010_squadre_finale#q14|src_kangourou_2010_squadre_finale__Q14]]
 
 
 
@@ -573,4 +559,3 @@ Zigzag paths of 8 white squares on a chessboard
 > Questions
 
 **Answer:** 8
-[[Quesiti/src_kangourou_2010_squadre_finale#q15|src_kangourou_2010_squadre_finale__Q15]]

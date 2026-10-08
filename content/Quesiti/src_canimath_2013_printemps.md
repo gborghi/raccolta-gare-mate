@@ -33,8 +33,6 @@ level: Coupe Animath Printemps
 
 > Lascia che il $ABCD$ sia un rombo. Il punto $K$ deve essere un punto della riga $(CD)$, diverso da $C$ e $D$, in modo tale che $AD = BK$. Il punto di intersezione della linea $(BD)$ con il bisettore perpendicolare del segmento $[BC]$ è $P$. Provare che i punti $A$, $K$ e $P$ sono collineari.
 
-[[Quesiti/src_canimath_2013_printemps#q03|src_canimath_2013_printemps__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -62,7 +60,6 @@ level: Coupe Animath Printemps
 > I denominatori di due frazioni irriducibili sono $600$ e $700$. Qual è il minimo valore possibile del denominatore della loro somma (quando la somma è scritta come una frazione irriducibile)?
 
 **Risposta:** 168
-[[Quesiti/src_canimath_2013_printemps#q04|src_canimath_2013_printemps__Q04]]
 
 
 
@@ -92,8 +89,6 @@ level: Coupe Animath Printemps
 > I numeri $m$ e $n$ devono essere numeri interi rigorosamente positivi. Un scarafaggio chiamato scarafaggio $(m,n)$ è posizionato su una griglia con infinite righe (infinite verso l'alto e verso il basso) e colonne (infinite verso sinistra e destra). A ogni passo, il salmone muove le cellule $m$ in una direzione (orizzontale o verticale) e le cellule $n$ nella direzione perpendicolare. La griglia è di colore blu e rosso in un modello $(2,1)$-grasshopper (cioè il colore si ripete con periodo $2$ in una direzione e periodo $1$ nell'altra).
 > 
 > Per quali valori di $m$ e $n$ cambia colore la scarafaggio ad ogni passo?
-
-[[Quesiti/src_canimath_2013_printemps#q05|src_canimath_2013_printemps__Q05]]
 
 
 
@@ -129,5 +124,3 @@ level: Coupe Animath Printemps
 > a) È possibile aprire la casella forte nel massimo dei tentativi $6$?
 > 
 > b) Qual è il numero minimo di tentativi richiesti per garantire l'apertura della casella forte, indipendentemente dal codice segreto?
-
-[[Quesiti/src_canimath_2013_printemps#q06|src_canimath_2013_printemps__Q06]]

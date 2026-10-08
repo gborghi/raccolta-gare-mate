@@ -32,8 +32,6 @@ level: INMO
 
 > I valori $\Gamma_1$ e $\Gamma_2$ siano due cerchi di raggio diseguale, con i centri $O_1$ e $O_2$ rispettivamente, nel piano che si intersecano in due punti distinti $A$ e $B$. Supponiamo che il centro di ciascuno dei cerchi $\Gamma_1$ e $\Gamma_2$ sia all'esterno dell'altro. La tangente di $\Gamma_1$ a $B$ interseca di nuovo $\Gamma_2$ in $C$, diversa da $B$; la tangente di $\Gamma_2$ a $B$ interseca di nuovo $\Gamma_1$ in $D$, diversa da $B$. I bisettori di $\angle CAB$ e $\angle DAB$ incontrano $\Gamma_2$ e $\Gamma_1$ di nuovo rispettivamente in $X$ e $Y$, diversi da $A$. $P$ e $Q$ siano rispettivamente i circoncenti dei triangoli $ACD$ e $XAY$. Prova che $PQ$ è il bisettore perpendicolare del segmento di linea $O_1 O_2$.
 
-[[Quesiti/src_inmo_2020#q01|src_inmo_2020__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
@@ -62,8 +60,6 @@ level: INMO
 
 > Supponiamo che $P(x)$ sia un polinomio con coefficienti reali che soddisfano la condizione $$P(\cos\theta + \sin\theta) = P(\cos\theta - \sin\theta)$$ per ogni $\theta$ reale. Prova che $P(x)$ può essere espresso nella forma $$P(x) = a_0 + a_1(1 - x^2)^2 + a_2(1 - x^2)^4 + \cdots + a_n(1 - x^2)^{2n},$$ per alcuni $a_0, a_1, a_2, \ldots, a_n$ e per un intero non negativo $n$.
 
-[[Quesiti/src_inmo_2020#q02|src_inmo_2020__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_estremalita,skill_conteggio_sistematico,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
@@ -88,8 +84,6 @@ level: INMO
 *Il più piccolo sottoinsieme S di cifre in modo che ogni intero positivo sia uguale a p + q con cifre in S*
 
 > $X = \{0, 1, 2, 3, 4, 5, 6, 7, 8, 9\}$ sia l'insieme di cifre decimali. Che $S \subseteq X$ sia tale che qualsiasi numero intero positivo $n$ possa essere scritto come $p + q$ dove i numeri interi non negativi $p, q$ hanno tutte le loro cifre in $S$. Trova il numero minimo possibile di elementi in $S$.
-
-[[Quesiti/src_inmo_2020#q03|src_inmo_2020__Q03]]
 
 
 
@@ -116,8 +110,6 @@ level: INMO
 *Prove la disuguaglianza di n numeri reali con la somma 2n*
 
 > Let $n \geq 3$ essere un numero intero e let $1 < a_1 \leq a_2 \leq \cdots \leq a_n$ essere $n$ numeri reali come $a_1 + a_2 + \cdots + a_n = 2n$. Provare che $$a_1 a_2 \cdots a_{n-1} + a_1 a_2 \cdots a_{n-2} + 2 + a_1 a_2 + a_1 a_2 \cdots a_n \geq 2 \cdot a_1 a_2 \cdots a_n.$$
-
-[[Quesiti/src_inmo_2020#q04|src_inmo_2020__Q04]]
 
 
 
@@ -156,8 +148,6 @@ level: INMO
 > 
 > c) Determinare se $5$ è incornicibile.
 
-[[Quesiti/src_inmo_2020#q05|src_inmo_2020__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_colorazione,method_invarianti,method_casework,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_astrazione"></span>
@@ -182,5 +172,3 @@ level: INMO
 *5x5 tabella non può essere coperta da 16 trombini con ogni quadrato coperto una o due volte*
 
 > Un \emph{stromino} è un rettangolo $3 \times 1$. Mostrare che una tabella $5 \times 5$ divisa in venticinque quadrati $1 \times 1$ non può essere coperta da stromino $16$ in modo tale che ogni stromino copra esattamente tre quadrati della tabella e ogni quadrato unitario sia coperto da uno o due stromino. [Un stromino può essere posizionato orizzontalmente o verticalmente sulla lavagna.]
-
-[[Quesiti/src_inmo_2020#q06|src_inmo_2020__Q06]]

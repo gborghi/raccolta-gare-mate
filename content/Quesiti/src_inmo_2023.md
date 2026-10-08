@@ -37,8 +37,6 @@ level: INMO
 > 
 > *Nota:* Ad esempio, se $S = \{1, 2, 4\}$, ci sono esattamente cinque coppie ordinate: $(1,1)$, $(1,4)$, $(2,2)$, $(4,1)$ e $(4,4)$.
 
-[[Quesiti/src_inmo_2023#q01|src_inmo_2023__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_disuguaglianze,method_simmetria,skill_manipolazione_algebrica,skill_astrazione,skill_stima"></span>
@@ -70,8 +68,6 @@ level: INMO
 > 
 > Mostrare che è impossibile che ciascuno di questi 101 polinomi abbia tutte le sue radici reali.
 
-[[Quesiti/src_inmo_2023#q02|src_inmo_2023__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_insiemi_funzioni,topic_aritmetica,method_casework,method_congruenze,method_induzione,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
@@ -99,8 +95,6 @@ level: INMO
 
 > $\mathbb{N}$ indichi l'insieme di tutti gli integri positivi. Trova tutti i numeri reali $c \geq 1$ per i quali esiste una funzione $f : \mathbb{N} \to \mathbb{N}$ che soddisfa: (a) per qualsiasi $x, n \in \mathbb{N}$, la quantità $\dfrac{f(x+n) - f(x)}{n^c}$ è un numero intero se e solo se $n = 1$; (b) per tutti $x \in \mathbb{N}$, $|f(x+1) - f(x)| < 2023$.
 
-[[Quesiti/src_inmo_2023#q03|src_inmo_2023__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_invarianti,method_casework,method_estremalita,skill_astrazione,skill_modellizzazione,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
@@ -125,8 +119,6 @@ level: INMO
 Calvin e Hobbes gioco di monete su un cerchio; trovare tutti i k per cui Calvin vince
 
 > $k \geq 1$ e $N > 1$ siano due numeri interi. Su un cerchio sono posizionate monete $2N + 1$ tutte con teste. Calvin e Hobbes giocano il seguente gioco. Calvin inizia e in movimento può trasformare qualsiasi moneta da testa a coda. Hobbes in movimento può trasformare al massimo una moneta che si trova accanto alla moneta che Calvin ha appena trasformato dalle code alle teste. Calvin vince se in qualsiasi momento ci sono monete che mostrano code dopo che Hobbes ha fatto la sua mossa. Determinare tutti i valori di $k$ per i quali Calvin vince la partita.
-
-[[Quesiti/src_inmo_2023#q04|src_inmo_2023__Q04]]
 
 
 
@@ -156,8 +148,6 @@ Calvin e Hobbes gioco di monete su un cerchio; trovare tutti i k per cui Calvin 
 > Euler segna $n$ punti diversi nel piano euclidico. Per ogni coppia di punti segnalati, Gauss scrive il numero $\lfloor \log_2 d \rfloor$ dove $d$ è la distanza tra i due punti. Prove che Gauss scrive meno di $2n$ valori distinti.
 > 
 > *Nota: * Per qualsiasi $d > 0$, $\lfloor \log_2 d \rfloor$ è l'intero unico $k$ tale che $2^k \leq d < 2^{k+1}$.
-
-[[Quesiti/src_inmo_2023#q05|src_inmo_2023__Q05]]
 
 
 
@@ -190,5 +180,3 @@ Calvin e Hobbes gioco di monete su un cerchio; trovare tutti i k per cui Calvin 
 > Euclide ha uno strumento chiamato *cyclos* che fa quanto segue: - Dati tre punti non collineari, disegnare il cerchio che li attraversa. - Dati due punti segnati, disegnare il cerchio con loro come punti finali di diametro. - Marcare eventuali punti di intersezione di due cerchi disegnati o marcare un nuovo punto su un cerchio disegnato.
 > 
 > Mostra che dato due punti segnati, Euclide può disegnare un cerchio centrato su uno di essi e passando attraverso l'altro, utilizzando solo i cicli.
-
-[[Quesiti/src_inmo_2023#q06|src_inmo_2023__Q06]]

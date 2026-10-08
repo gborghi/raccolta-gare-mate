@@ -38,8 +38,7 @@ level: kangourou
 > $$A = 201920192019 \times 20202020 \quad \text{e} \quad B = 202020202020 \times 20192019.$$
 > Is the difference $A - B$ positive, zero or negative?
 
-**Answer:** nulla
-[[Quesiti/src_kangourou_2019_cadet_finale#q01|src_kangourou_2019_cadet_finale__Q01]]
+**Answer:** zero
 
 
 
@@ -123,7 +122,6 @@ level: kangourou
 > Look at the figure. $IBLEC$ is a regular pentagon and the triangle $CER$ is equilateral. $T$ is the intersection point between $CE$ and $IR$ segments. How many degrees does the angle $ITE$ measure? (see figure)
 
 **Answer:** 114
-[[Quesiti/src_kangourou_2019_cadet_finale#q02|src_kangourou_2019_cadet_finale__Q02]]
 
 
 
@@ -151,8 +149,7 @@ level: kangourou
 
 > Gianni and Elvira play in this way. There are 66 tokens on the table: at each turn each of them can take 1 or 2 or 3 or 4 or 5 tokens. Whoever is forced to take the last token loses. Elvira, who wants to win, insists on being the one to start. Why?
 
-**Answer:** strategia vincente
-[[Quesiti/src_kangourou_2019_cadet_finale#q03|src_kangourou_2019_cadet_finale__Q03]]
+**Answer:** winning strategy
 
 
 
@@ -181,7 +178,6 @@ level: kangourou
 > Last August 15, the day of Ferragosto, there was a full moon. Assuming that the lunar cycle is exactly 28 days, in how many years will there be a full moon at Ferragosto again for the first time? (If, for example, it happened next year, you should answer: in 1 year.)
 
 **Answer:** 22
-[[Quesiti/src_kangourou_2019_cadet_finale#q04|src_kangourou_2019_cadet_finale__Q04]]
 
 
 
@@ -210,7 +206,6 @@ level: kangourou
 > Every vertex of a square has a positive integer written on it. If two vertices are adjacent, one of the two corresponding integers divides the other; if two vertices are opposite, neither of the two corresponding integers divides the other. What's the smallest possible value for the sum of these four integers?
 
 **Answer:** 35
-[[Quesiti/src_kangourou_2019_cadet_finale#q05|src_kangourou_2019_cadet_finale__Q05]]
 
 
 
@@ -244,4 +239,3 @@ level: kangourou
 > A rectangular-based pyramid is known for the lengths of three of the four oblique edges connecting its vertex $V$ with the vertices $A$, $B$, $C$, $D$ of the base: $$VA = 90 \text{ m}, \quad VB = 70 \text{ m}, \quad VC = 20 \text{ m}.$$ Can the length of the edge $VD$ be determined? If yes, determine that length; if not, identify the measurements of two pyramids that meet the problem data where the length of the edge $VD$ is different.
 
 **Answer:** 60
-[[Quesiti/src_kangourou_2019_cadet_finale#q06|src_kangourou_2019_cadet_finale__Q06]]

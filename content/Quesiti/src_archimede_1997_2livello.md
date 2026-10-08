@@ -52,7 +52,6 @@ level: 2 livello
 > - **(E)**
 
 **Answer:** D
-[[Quesiti/src_archimede_1997_2livello#q01|src_archimede_1997_2livello__Q01]]
 
 
 
@@ -100,7 +99,6 @@ level: 2 livello
 > - **(E)** None of the above
 
 **Answer:** D
-[[Quesiti/src_archimede_1997_2livello#q02|src_archimede_1997_2livello__Q02]]
 
 
 
@@ -139,7 +137,6 @@ level: 2 livello
 > - **(E)** None of the above
 
 **Answer:** C
-[[Quesiti/src_archimede_1997_2livello#q03|src_archimede_1997_2livello__Q03]]
 
 
 
@@ -178,7 +175,6 @@ How many congressmen out of 100 wear a tie
 > - **(E)** None of the above
 
 **Answer:** E
-[[Quesiti/src_archimede_1997_2livello#q04|src_archimede_1997_2livello__Q04]]
 
 
 
@@ -223,7 +219,6 @@ How many congressmen out of 100 wear a tie
 > - **(E)** None of the previous 100 delegates met in Congress. Not everyone wears a tie, but we know that if you choose two, at least one of them will get the door. How many congressmen are in ties? (A) At least 2, but they can be less than 50 (B) Exactly 50 (C) More than 50, but you can't say exactly how many (D) The situation described is impossible (E) None of the above
 
 **Answer:** B
-[[Quesiti/src_archimede_1997_2livello#q05|src_archimede_1997_2livello__Q05]]
 
 
 
@@ -261,7 +256,6 @@ How many congressmen out of 100 wear a tie
 > A sphere of radius r = 15 cm is supported on two tracks 24 cm apart as shown in Figure 1. If the sphere makes a complete rotation, how much progress on the tracks? (A) 24 c m (B) 30 cm
 
 **Answer:** D
-[[Quesiti/src_archimede_1997_2livello#q06|src_archimede_1997_2livello__Q06]]
 
 
 
@@ -301,7 +295,6 @@ How many congressmen out of 100 wear a tie
 > - **(E)** 980
 
 **Answer:** E
-[[Quesiti/src_archimede_1997_2livello#q07|src_archimede_1997_2livello__Q07]]
 
 
 
@@ -349,7 +342,6 @@ How many congressmen out of 100 wear a tie
 > - **(E)** 998 squares east and 998 squares south of O
 
 **Answer:** B
-[[Quesiti/src_archimede_1997_2livello#q08|src_archimede_1997_2livello__Q08]]
 
 
 
@@ -391,7 +383,6 @@ How many congressmen out of 100 wear a tie
 > - **(E)** None of the above
 
 **Answer:** C
-[[Quesiti/src_archimede_1997_2livello#q09|src_archimede_1997_2livello__Q09]]
 
 
 
@@ -423,7 +414,6 @@ How many congressmen out of 100 wear a tie
 > Which of the following dissections has the solution as shown in the figure?
 
 **Answer:** D
-[[Quesiti/src_archimede_1997_2livello#q10|src_archimede_1997_2livello__Q10]]
 
 
 
@@ -459,7 +449,6 @@ How many congressmen out of 100 wear a tie
 > In the next figure, the radius of the small circles is 1. How much is the area of the drawn figure? (D) (E) None of the above answers
 
 **Answer:** C
-[[Quesiti/src_archimede_1997_2livello#q11|src_archimede_1997_2livello__Q11]]
 
 
 
@@ -492,7 +481,6 @@ How many congressmen out of 100 wear a tie
 > What is the maximum positive integer that has the same number of digits on base 10 and base 16? (The answers are given in footnote 10) (A) 1024 (B) 99999 (c) 999999 (D) 1600000 (E) None of the above
 
 **Answer:** B
-[[Quesiti/src_archimede_1997_2livello#q12|src_archimede_1997_2livello__Q12]]
 
 
 
@@ -523,7 +511,6 @@ How many congressmen out of 100 wear a tie
 > Three friends each own three tokens. After each match the winner receives a token from each of the other two friends. What is the probability that the game will not have to be stopped within five games because one of the players is left with no chips?
 
 **Answer:** A
-[[Quesiti/src_archimede_1997_2livello#q13|src_archimede_1997_2livello__Q13]]
 
 
 
@@ -552,7 +539,6 @@ How many congressmen out of 100 wear a tie
 > Given a square ABCD of the unit side, and M, N two points on the sides AB and AD respectively, such that AM = AN. What is the maximum value of the CDNM quadrilateral area?
 
 **Answer:** D
-[[Quesiti/src_archimede_1997_2livello#q14|src_archimede_1997_2livello__Q14]]
 
 
 
@@ -590,8 +576,6 @@ How many congressmen out of 100 wear a tie
 > 
 > In an ABCD convex quadrilateral the sides AB, BC, CD are equal. Also AC = BD = AD, What is the angle in D?
 
-[[Quesiti/src_archimede_1997_2livello#q15|src_archimede_1997_2livello__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -615,8 +599,6 @@ How many congressmen out of 100 wear a tie
 *angle in D*
 
 > In a convex quadrilateral $ABCD$ the sides $AB$, $BC$, $CD$ are equal. In addition, $AC = BD = AD$. What is the angle in $D$?
-
-[[Quesiti/src_archimede_1997_2livello#q16|src_archimede_1997_2livello__Q16]]
 
 
 
@@ -646,4 +628,3 @@ How many congressmen out of 100 wear a tie
 > Given a prime number $p$, determine all ordered pairs of natural numbers $(m, n)$ that verify the equation: $$\frac{1}{m} + \frac{1}{n} = \frac{1}{p}$$
 
 **Answer:** (2p,2p), (p²+p,p+1), (p+1,p²+p)
-[[Quesiti/src_archimede_1997_2livello#q17|src_archimede_1997_2livello__Q17]]

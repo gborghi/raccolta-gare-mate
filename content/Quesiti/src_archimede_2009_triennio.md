@@ -50,7 +50,6 @@ Year in which Greta's total of children exceeds that of Eva
 > - **(E)** 41.
 
 **Answer:** A
-[[Quesiti/src_archimede_2009_triennio#q03|src_archimede_2009_triennio__Q03]]
 
 
 
@@ -94,7 +93,6 @@ Year in which Greta's total of children exceeds that of Eva
 > - **(E)** 600.
 
 **Answer:** B
-[[Quesiti/src_archimede_2009_triennio#q06|src_archimede_2009_triennio__Q06]]
 
 
 
@@ -136,7 +134,6 @@ Year in which Greta's total of children exceeds that of Eva
 > - **(E)** 11.
 
 **Answer:** B
-[[Quesiti/src_archimede_2009_triennio#q10|src_archimede_2009_triennio__Q10]]
 
 
 
@@ -182,7 +179,6 @@ Year in which Greta's total of children exceeds that of Eva
 > - **(E)** It cannot be determined from the available data.
 
 **Answer:** C
-[[Quesiti/src_archimede_2009_triennio#q11|src_archimede_2009_triennio__Q11]]
 
 
 
@@ -225,7 +221,6 @@ Year in which Greta's total of children exceeds that of Eva
 > - **(E)** 16.
 
 **Answer:** A
-[[Quesiti/src_archimede_2009_triennio#q15|src_archimede_2009_triennio__Q15]]
 
 
 
@@ -267,7 +262,6 @@ Year in which Greta's total of children exceeds that of Eva
 > - **(E)** 63210.
 
 **Answer:** A
-[[Quesiti/src_archimede_2009_triennio#q16|src_archimede_2009_triennio__Q16]]
 
 
 
@@ -313,7 +307,6 @@ Year in which Greta's total of children exceeds that of Eva
 > - **(E)** 280π m2.
 
 **Answer:** A
-[[Quesiti/src_archimede_2009_triennio#q17|src_archimede_2009_triennio__Q17]]
 
 
 
@@ -354,7 +347,6 @@ Year in which Greta's total of children exceeds that of Eva
 > - **(E)** 4.
 
 **Answer:** B
-[[Quesiti/src_archimede_2009_triennio#q18|src_archimede_2009_triennio__Q18]]
 
 
 
@@ -402,7 +394,6 @@ Year in which Greta's total of children exceeds that of Eva
 > - **(E)** 20π cm2.
 
 **Answer:** D
-[[Quesiti/src_archimede_2009_triennio#q19|src_archimede_2009_triennio__Q19]]
 
 
 
@@ -444,7 +435,6 @@ Year in which Greta's total of children exceeds that of Eva
 > - **(E)** 9.
 
 **Answer:** D
-[[Quesiti/src_archimede_2009_triennio#q20|src_archimede_2009_triennio__Q20]]
 
 
 
@@ -485,7 +475,6 @@ Year in which Greta's total of children exceeds that of Eva
 > - **(E)** more than eight.
 
 **Answer:** B
-[[Quesiti/src_archimede_2009_triennio#q21|src_archimede_2009_triennio__Q21]]
 
 
 
@@ -528,7 +517,6 @@ Year in which Greta's total of children exceeds that of Eva
 > - **(E)** 6.
 
 **Answer:** D
-[[Quesiti/src_archimede_2009_triennio#q22|src_archimede_2009_triennio__Q22]]
 
 
 
@@ -571,7 +559,6 @@ Year in which Greta's total of children exceeds that of Eva
 > - **(E)** 30.
 
 **Answer:** B
-[[Quesiti/src_archimede_2009_triennio#q24|src_archimede_2009_triennio__Q24]]
 
 
 
@@ -613,4 +600,3 @@ Year in which Greta's total of children exceeds that of Eva
 > - **(E)** π m2.
 
 **Answer:** A
-[[Quesiti/src_archimede_2009_triennio#q25|src_archimede_2009_triennio__Q25]]

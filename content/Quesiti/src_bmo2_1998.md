@@ -41,8 +41,6 @@ level: BMO Round 2
 > 
 > - la dichiarazione di cui alla lettera i) diventa falsa se "6" viene sostituito da "7".
 
-[[Quesiti/src_bmo2_1998#q01|src_bmo2_1998__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -71,8 +69,6 @@ level: BMO Round 2
 > Un triangolo $ABC$ ha $\angle BAC = \angle BCA$. Una linea $AP$ è disegnata in modo che $\angle PAC = \angle BCA$ dove $P$ è all'interno del triangolo sia costruita in modo che $PQ$ sia parallela a $AB$ e $AQ$ sia parallela a $PC$. $R$ è il punto su $BC$ (separato da $Q$ dalla riga $AP$) tale che $\angle PRQ = \angle BCA$.
 > 
 > Prova che il circoncircolo di $\triangle ABC$ tocca anche il circoncircolo di $\triangle PQR$.
-
-[[Quesiti/src_bmo2_1998#q02|src_bmo2_1998__Q02]]
 
 
 
@@ -109,8 +105,6 @@ level: BMO Round 2
 > 
 > Prova anche che $k(y - x)$ è un quadrato perfetto.
 
-[[Quesiti/src_bmo2_1998#q03|src_bmo2_1998__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_simmetria,method_estremalita,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
@@ -142,5 +136,3 @@ level: BMO Round 2
 > Trova una soluzione delle equazioni simultanee $$xy + yz + zx = 12$$ $$xyz = 2 + x + y + z$$ in cui tutte le $x, y, z$ sono positive e prova che è l'unica tale soluzione.
 > 
 > Mostrare che esiste una soluzione in cui $x, y, z$ sono reali e distinte.
-
-[[Quesiti/src_bmo2_1998#q04|src_bmo2_1998__Q04]]

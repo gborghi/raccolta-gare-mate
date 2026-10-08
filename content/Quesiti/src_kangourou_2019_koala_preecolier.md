@@ -37,8 +37,6 @@ level: kangourou
 
 > Students themselves fill out their own answer cards: in this case, teachers may allow them to fill in the part on the identification data requested in advance.
 
-[[Quesiti/src_kangourou_2019_koala_preecolier#q01|src_kangourou_2019_koala_preecolier__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_logica,skill_riconoscimento_pattern"></span>
@@ -4355,8 +4353,6 @@ The tricks of the Koalas no. 6
 > i
 >
 
-[[Quesiti/src_kangourou_2019_koala_preecolier#q02|src_kangourou_2019_koala_preecolier__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_logica,skill_ragionamento_geometrico"></span>
@@ -4405,8 +4401,6 @@ The tricks of the Koalas no. 6
 > - **(D)** Star and rhombus
 > - **(E)** square and circle
 
-[[Quesiti/src_kangourou_2019_koala_preecolier#q03|src_kangourou_2019_koala_preecolier__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,skill_conteggio_sistematico"></span>
@@ -4450,8 +4444,6 @@ The tricks of the Koalas no. 6
 > - **(C)** 5
 > - **(D)** 4
 > - **(E)** 3
-
-[[Quesiti/src_kangourou_2019_koala_preecolier#q04|src_kangourou_2019_koala_preecolier__Q04]]
 
 
 
@@ -4497,8 +4489,6 @@ How many discs did Anna take away from the house?
 > - **(D)** 5
 > - **(E)** 4
 
-[[Quesiti/src_kangourou_2019_koala_preecolier#q05|src_kangourou_2019_koala_preecolier__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,skill_conteggio_sistematico"></span>
@@ -4543,8 +4533,6 @@ How many discs did Anna take away from the house?
 > - **(D)** 14
 > - **(E)** 13
 
-[[Quesiti/src_kangourou_2019_koala_preecolier#q06|src_kangourou_2019_koala_preecolier__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,skill_modellizzazione"></span>
@@ -4588,8 +4576,6 @@ How many discs did Anna take away from the house?
 > - **(C)** 7
 > - **(D)** 8
 > - **(E)** 9
-
-[[Quesiti/src_kangourou_2019_koala_preecolier#q07|src_kangourou_2019_koala_preecolier__Q07]]
 
 
 
@@ -4639,8 +4625,6 @@ How many discs did Anna take away from the house?
 > - **(D)** [Figure D]
 > - **(E)** [Figure E]
 
-[[Quesiti/src_kangourou_2019_koala_preecolier#q08|src_kangourou_2019_koala_preecolier__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_logica,skill_ragionamento_geometrico"></span>
@@ -4684,8 +4668,6 @@ How many discs did Anna take away from the house?
 > - **(C)** 3 and 4
 > - **(D)** 4 and 5
 > - **(E)** 3 and 5
-
-[[Quesiti/src_kangourou_2019_koala_preecolier#q09|src_kangourou_2019_koala_preecolier__Q09]]
 
 
 
@@ -4731,8 +4713,6 @@ How many discs did Anna take away from the house?
 > - **(D)** 5
 > - **(E)** 6
 
-[[Quesiti/src_kangourou_2019_koala_preecolier#q10|src_kangourou_2019_koala_preecolier__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_logica,skill_ragionamento_geometrico"></span>
@@ -4776,8 +4756,6 @@ How many discs did Anna take away from the house?
 > - **(C)** 4-5-2-3-1
 > - **(D)** 5-3-2-1-4
 > - **(E)** 5-2-3-1-4
-
-[[Quesiti/src_kangourou_2019_koala_preecolier#q11|src_kangourou_2019_koala_preecolier__Q11]]
 
 
 
@@ -4824,8 +4802,6 @@ How many discs did Anna take away from the house?
 > - **(D)** 5
 > - **(E)** 6
 
-[[Quesiti/src_kangourou_2019_koala_preecolier#q12|src_kangourou_2019_koala_preecolier__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_logica,skill_ragionamento_geometrico"></span>
@@ -4858,8 +4834,6 @@ How many discs did Anna take away from the house?
 > 
 > (see figure)
 
-[[Quesiti/src_kangourou_2019_koala_preecolier#q13|src_kangourou_2019_koala_preecolier__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
@@ -4891,8 +4865,6 @@ How many discs did Anna take away from the house?
 > Corrado wants to glue four equal cubes together and then paint the solid he composed, but the little paint he has is enough for only one of the five solids he could compose. Which one?
 > 
 > (see figure)
-
-[[Quesiti/src_kangourou_2019_koala_preecolier#q14|src_kangourou_2019_koala_preecolier__Q14]]
 
 
 
@@ -4938,8 +4910,6 @@ How many discs did Anna take away from the house?
 > - **(D)** 11
 > - **(E)** 12
 
-[[Quesiti/src_kangourou_2019_koala_preecolier#q15|src_kangourou_2019_koala_preecolier__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,skill_modellizzazione"></span>
@@ -4984,8 +4954,6 @@ How many discs did Anna take away from the house?
 > - **(D)** 5
 > - **(E)** 6
 
-[[Quesiti/src_kangourou_2019_koala_preecolier#q16|src_kangourou_2019_koala_preecolier__Q16]]
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_algebra,skill_modellizzazione"></span>
@@ -5025,8 +4993,6 @@ How many discs did Anna take away from the house?
 > - **(C)** 20
 > - **(D)** 24
 > - **(E)** 28
-
-[[Quesiti/src_kangourou_2019_koala_preecolier#q17|src_kangourou_2019_koala_preecolier__Q17]]
 
 
 
@@ -5076,8 +5042,6 @@ What figure did Mauro cut into three pieces?
 > - **(D)** rectangle
 > - **(E)** heart
 
-[[Quesiti/src_kangourou_2019_koala_preecolier#q18|src_kangourou_2019_koala_preecolier__Q18]]
-
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_algebra,skill_modellizzazione"></span>
@@ -5118,8 +5082,6 @@ What figure did Mauro cut into three pieces?
 > - **(D)** 6
 > - **(E)** 7
 
-[[Quesiti/src_kangourou_2019_koala_preecolier#q19|src_kangourou_2019_koala_preecolier__Q19]]
-
 
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_aritmetica,skill_casework_accurato"></span>
@@ -5159,8 +5121,6 @@ How many nuts does the squirrel have with more nuts (7 nuts, 3 different)
 > - **(C)** 4
 > - **(D)** 5
 > - **(E)** 6
-
-[[Quesiti/src_kangourou_2019_koala_preecolier#q20|src_kangourou_2019_koala_preecolier__Q20]]
 
 
 
@@ -5206,8 +5166,6 @@ How many nuts does the squirrel have with more nuts (7 nuts, 3 different)
 > - **(D)** 55 cm
 > - **(E)** 60 cm
 
-[[Quesiti/src_kangourou_2019_koala_preecolier#q21|src_kangourou_2019_koala_preecolier__Q21]]
-
 
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_logica,skill_riconoscimento_pattern"></span>
@@ -5247,8 +5205,6 @@ How many nuts does the squirrel have with more nuts (7 nuts, 3 different)
 > Henry came in and replaced every black square with a white square. Then Fabio arrived and, in the strip left by Henry, replaced each gray square with a black square. Finally Gino arrived and, in the strip left by Fabio, replaced each white square with a gray square. What's the strip left by Gino?
 > 
 > (see figure)
-
-[[Quesiti/src_kangourou_2019_koala_preecolier#q22|src_kangourou_2019_koala_preecolier__Q22]]
 
 
 
@@ -5299,8 +5255,6 @@ How many nuts does the squirrel have with more nuts (7 nuts, 3 different)
 > - **(D)** 15
 > - **(E)** 18
 
-[[Quesiti/src_kangourou_2019_koala_preecolier#q23|src_kangourou_2019_koala_preecolier__Q23]]
-
 
 
 <span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_logica,method_estremalita,skill_conteggio_sistematico"></span>
@@ -5349,5 +5303,3 @@ How many nuts does the squirrel have with more nuts (7 nuts, 3 different)
 > - **(C)** 8
 > - **(D)** 5
 > - **(E)** 9
-
-[[Quesiti/src_kangourou_2019_koala_preecolier#q24|src_kangourou_2019_koala_preecolier__Q24]]

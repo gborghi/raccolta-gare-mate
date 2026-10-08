@@ -33,8 +33,6 @@ level: BMO Round 1
 
 > Trova tutti gli integri $n$ (positivi o negativi) per i quali $n^2 + 20n + 11$ è un quadrato perfetto. Ricorda che devi giustificare di averli trovati tutti.
 
-[[Quesiti/src_bmo_2011-12_round1#q01|src_bmo_2011-12_round1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_induzione,method_estremalita,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -60,8 +58,6 @@ level: BMO Round 1
 
 > Considerate i numeri $1, 2, \ldots, k$. Trova, in termini di $n$, il più grande intero $t$ in modo tale che questi numeri possano essere disposti in una riga in modo che tutti i numeri adiacenti si dividano tra loro.
 
-[[Quesiti/src_bmo_2011-12_round1#q02|src_bmo_2011-12_round1__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione"></span>
@@ -86,8 +82,6 @@ level: BMO Round 1
 *L'intersezione di due cerchi attraverso la tangente P a S è fissa*
 
 > Considera un cerchio $S$. Il punto $P$ si trova al di fuori di $S$ e una linea è tracciata attraverso $P$, tagliando $S$ in punti distinti $X$ e $Y$. I cerchi $S_1$ e $S_2$ sono tracciati attraverso $P$ che sono tangenti a $S$ rispettivamente a $X$ e $Y$. Indicare che l'intersezione (diversi da $P$) di $S_1$ e $S_2$ è indipendente dalle posizioni di $P$, $X$ e $Y$.
-
-[[Quesiti/src_bmo_2011-12_round1#q03|src_bmo_2011-12_round1__Q03]]
 
 
 
@@ -128,8 +122,6 @@ level: BMO Round 1
 > 
 > È ora sempre possibile svuotare entrambe le sacche dopo una sequenza finita di operazioni utilizzando solo le operazioni a) e b)?
 
-[[Quesiti/src_bmo_2011-12_round1#q04|src_bmo_2011-12_round1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_disuguaglianze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
@@ -155,8 +147,6 @@ Il prodotto di quattro numeri interi positivi consecutivi non è mai un quadrato
 
 > Prova che il prodotto di quattro numeri interi positivi consecutivi non può essere un quadrato perfetto.
 
-[[Quesiti/src_bmo_2011-12_round1#q05|src_bmo_2011-12_round1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -181,5 +171,3 @@ Il prodotto di quattro numeri interi positivi consecutivi non è mai un quadrato
 *In un triangolo acuto, piede di altitudine D, piede da D a EF si trova sulla media*
 
 > Che il $ABC$ sia un triangolo acuto. Il piede dell'altitudine da $A$ a $BC$ è $D$. Il piede dell'altitudine da $B$ a $AC$ è $E$. Il piede dell'altitudine da $C$ a $AB$ è $F$. Il punto $P$ è il piede della perpendicolare da $D$ a $EF$. Indicare che $AP$ bisecta $BC$.
-
-[[Quesiti/src_bmo_2011-12_round1#q06|src_bmo_2011-12_round1__Q06]]

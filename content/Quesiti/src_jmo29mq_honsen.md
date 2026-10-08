@@ -33,8 +33,6 @@ level: JMO Honsen
 
 > Trova tutti i triples $(a,b,c)$ di numeri interi positivi che soddisfano $a^2+b+3=(b^2-c^2)^2$.
 
-[[Quesiti/src_jmo29mq_honsen#q01|src_jmo29mq_honsen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_casi_conteggio,method_congruenze,method_estremalita,skill_conteggio_sistematico,skill_modellizzazione"></span>
@@ -65,8 +63,6 @@ level: JMO Honsen
 
 > $n$ sia un numero intero parente con $n\ge 3$. Si gioca una partita su una griglia di celle $n\times n$. Il gioco è composto da giri $n^2$, e a ogni turno vengono eseguite le seguenti operazioni in ordine: \begin{itemize} \item Scegli una cella in cui non è stato ancora scritto un intero, e scrivete in essa un intero tra $1$ e $n^2$ inclusivo. Durante tutto il gioco, ogni numero intero può essere scritto una volta al massimo. \item Per ciascuna riga e colonna che contengono quella cella, se la somma dei numeri interi scritti in essa è un multiple di $n$, allora $1$ punto viene guadagnato (se entrambi sono multipli di $n$, allora $2$ punti vengono guadagnati). \end{itemize} Trova il massimo valore possibile del numero totale di punti che possono essere guadagnati al termine della partita.
 
-[[Quesiti/src_jmo29mq_honsen#q02|src_jmo29mq_honsen__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_funzionali,method_simmetria,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -93,8 +89,6 @@ level: JMO Honsen
 
 > Trova tutte le funzioni $f$ definite sui numeri reali positivi e prendi valori reali positivi in modo tale che, per tutti i numeri reali positivi $x,y$, $$f\left(\frac{f(y)}{f(x)}+1\right)=f\left(x+\frac{y}{x}+1\right)-f(x).$$
 
-[[Quesiti/src_jmo29mq_honsen#q03|src_jmo29mq_honsen__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -118,8 +112,6 @@ level: JMO Honsen
 *Circolo su diametro AK tangente a incircolo*
 
 > Che $I$ sia l'incentro del triangolo $ABC$ e che $\omega$ sia il suo incircolo. Il punto medio del lato $BC$ è $M$. Il punto di intersezione di $K$ deve essere il punto di intersezione della linea attraverso $A$ perpendicolare alla linea $BC$ e la linea attraverso $M$ perpendicolare alla linea $AI$. Provare che il cerchio con diametro $AK$ è tangente a $\omega$.
-
-[[Quesiti/src_jmo29mq_honsen#q04|src_jmo29mq_honsen__Q04]]
 
 
 
@@ -149,5 +141,3 @@ level: JMO Honsen
 > Per un insieme $S$ composto da integri positivi, $S$ è chiamato un insieme \emph{beautiful} se, per qualsiasi elemento distinto $x,y,z$ di $S$, almeno uno di essi è un divisore di $x+y+z$. Prova che esiste un intero $N$ che soddisfa la seguente condizione e trova il più piccolo di tali $N$:
 > 
 > Per ogni insieme bello $S$, esiste un intero $n_S$ con $n_S\ge 2$ tale che il numero di elementi di $S$ che non sono moltipli di $n_S$ sia al massimo $N$.
-
-[[Quesiti/src_jmo29mq_honsen#q05|src_jmo29mq_honsen__Q05]]

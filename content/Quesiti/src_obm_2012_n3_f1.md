@@ -37,8 +37,6 @@ level: OBM Nível 3
 > 
 > **A) ** Sei $\quad$ **B) ** Cinque $\quad$ **C) ** Quattro $\quad$ **D) ** Tre $\quad$ **E) ** Due
 
-[[Quesiti/src_obm_2012_n3_f1#q01|src_obm_2012_n3_f1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_estremalita,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -68,8 +66,6 @@ level: OBM Nível 3
 > 
 > **A)** 38 $\quad$ **B)** 96 $\quad$ **C)** 108 $\quad$ **D)** 576 $\quad$ **E)** 648
 
-[[Quesiti/src_obm_2012_n3_f1#q02|src_obm_2012_n3_f1__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_cassetti,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -98,8 +94,6 @@ level: OBM Nível 3
 > In un sondaggio stradale, ogni intervistato rispose a quattro domande, e poteva dare solo una risposta a ciascuna domanda. Così la stessa persona può dare le stesse o diverse risposte alle domande. Qual è il numero minimo di intervistati che garantisce che almeno due persone rispondano a tutte le domande nello stesso modo?
 > 
 > **A)** 16 $\quad$ **B)** 17 $\quad$ **C)** 9 $\quad$ **D)** 5 $\quad$ **E)** 33
-
-[[Quesiti/src_obm_2012_n3_f1#q03|src_obm_2012_n3_f1__Q03]]
 
 
 
@@ -134,8 +128,6 @@ level: OBM Nível 3
 
 ![[src_obm_2012_n3_f1__q04.png]]
 
-[[Quesiti/src_obm_2012_n3_f1#q04|src_obm_2012_n3_f1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,method_estremalita,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
@@ -165,8 +157,6 @@ level: OBM Nível 3
 > 
 > **A)** 12 $\quad$ **B)** 28 $\quad$ **C)** 38 $\quad$ **D)** 1978 $\quad$ **E)** 2012
 
-[[Quesiti/src_obm_2012_n3_f1#q05|src_obm_2012_n3_f1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -195,8 +185,6 @@ level: OBM Nível 3
 > Le cifre $A$, $B$, $C$ non sono zero e formano i numeri $\overline{ABC}$, $\overline{BCA}$ e $\overline{CAB}$ in modo tale che $\overline{ABC} + \overline{BCA} + \overline{CAB} = \overline{AAA} \times 10$. Quanti numeri $\overline{ABC}$ esistono?
 > 
 > **A) ** 6 $\quad$ **B) ** 8 $\quad$ **C) ** 9 $\quad$ **D) ** 15 $\quad$ **E) ** nessuno
-
-[[Quesiti/src_obm_2012_n3_f1#q06|src_obm_2012_n3_f1__Q06]]
 
 
 
@@ -231,8 +219,6 @@ level: OBM Nível 3
 
 ![[src_obm_2012_n3_f1__q07.png]]
 
-[[Quesiti/src_obm_2012_n3_f1#q07|src_obm_2012_n3_f1__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
@@ -261,8 +247,6 @@ level: OBM Nível 3
 > Se $x^2 = 2x + 1$, allora $(x + 1)^{-1}$ è uguale a
 > 
 > **A)** $x + 2$ $\quad$ **B)** $x - 3$ $\quad$ **C)** $x - 1$ $\quad$ **D)** $2x + 5$ $\quad$ **E)** $3x + 5$
-
-[[Quesiti/src_obm_2012_n3_f1#q08|src_obm_2012_n3_f1__Q08]]
 
 
 
@@ -293,8 +277,6 @@ level: OBM Nível 3
 > 
 > **A)** 20 $\quad$ **B)** 21 $\quad$ **C)** 22 $\quad$ **D)** 23 $\quad$ **E)** 24
 
-[[Quesiti/src_obm_2012_n3_f1#q09|src_obm_2012_n3_f1__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
@@ -323,8 +305,6 @@ level: OBM Nível 3
 > Le masse di tutte le possibili coppie che possono essere formate da 5 studenti sono 89 kg, 92 kg, 93 kg, 94 kg, 95 kg, 96 kg, 96 kg, 97 kg, 98 kg, 100 kg e 101 kg. Qual è la massa dello studente di massa intermedia?
 > 
 > **A)** 52 kg $\quad$ **B)** 51 kg $\quad$ **C)** 49 kg $\quad$ **D)** 48 kg $\quad$ **E)** 46 kg
-
-[[Quesiti/src_obm_2012_n3_f1#q10|src_obm_2012_n3_f1__Q10]]
 
 
 
@@ -371,8 +351,6 @@ level: OBM Nível 3
 > 
 > **A)** 101 $\quad$ **B)** 102 $\quad$ **C)** 103 $\quad$ **D)** 104 $\quad$ **E)** 105
 
-[[Quesiti/src_obm_2012_n3_f1#q11|src_obm_2012_n3_f1__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -409,8 +387,6 @@ level: OBM Nível 3
 
 ![[src_obm_2012_n3_f1__q12.png]]
 
-[[Quesiti/src_obm_2012_n3_f1#q12|src_obm_2012_n3_f1__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,method_congruenze,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -439,8 +415,6 @@ level: OBM Nível 3
 > Gli anni bisesti hanno un altro giorno, il 29 febbraio, che si verifica ogni 4 anni. Esmeralda è nata il 29 febbraio in una domenica. Sapendo che il 29 febbraio 2012 è un mercoledì, in quale anno è nata Esmeralda?
 > 
 > **A)** 1972 $\quad$ **B)** 1976 $\quad$ **C)** 1980 $\quad$ **D)** 1984 $\quad$ **E)** 1988
-
-[[Quesiti/src_obm_2012_n3_f1#q13|src_obm_2012_n3_f1__Q13]]
 
 
 
@@ -474,8 +448,6 @@ level: OBM Nível 3
 
 ![[src_obm_2012_n3_f1__q14.png]]
 
-[[Quesiti/src_obm_2012_n3_f1#q14|src_obm_2012_n3_f1__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
@@ -504,8 +476,6 @@ level: OBM Nível 3
 > Un pannello luminoso è formato da 10 grandi cerchi. All'interno di ogni grande cerchio ci sono quattro lampade: una gialla, una verde, una rossa e una blu. Accendiamo una lampada di ogni grande cerchio in modo che due grandi cerchi consecutivi non abbiano lo stesso colore illuminato. In quanti modi si può fare questo, sapendo che è consentito che le lampade non consecutive abbiano lo stesso colore illuminato?
 > 
 > **A)** $(2^{10} - 1)^4$ $\quad$ **B)** $(2^4 - 1)^{10}$ $\quad$ **C)** $2^{10} - 1$ $\quad$ **D)** $2^4 - 1$ $\quad$ **E)** $2^{10} - 2^4$
-
-[[Quesiti/src_obm_2012_n3_f1#q15|src_obm_2012_n3_f1__Q15]]
 
 
 
@@ -536,8 +506,6 @@ level: OBM Nível 3
 > 
 > **A)** $1006^2$ $\quad$ **B)** $1005^2$ $\quad$ **C)** $1005 \cdot 1007$ $\quad$ **D)** $1005 \cdot 1006$ $\quad$ **E)** $1006 \cdot 1007$
 
-[[Quesiti/src_obm_2012_n3_f1#q16|src_obm_2012_n3_f1__Q16]]
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_probabilita,topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione"></span>
@@ -566,8 +534,6 @@ level: OBM Nível 3
 > Il triangolo $ABC$ ha lati $AB = 6$, $AC = 8$ e $BC = 10$. Un punto $X$ è scelto a caso all'interno del triangolo $ABC$. $p_A$, $p_B$, $p_C$ siano le probabilità che $X$ sia la più vicina al vertice $A$, $B$ o $C$ rispettivamente. Allora...
 > 
 > **A)** $p_A > p_B = p_C$ $\quad$ **B)** $p_A > p_B > p_C$ $\quad$ **C)** $p_A > p_C > p_B$ $\quad$ **D)** $p_A < p_B = p_C$ $\quad$ **E)** $p_A = p_B = p_C$
-
-[[Quesiti/src_obm_2012_n3_f1#q17|src_obm_2012_n3_f1__Q17]]
 
 
 
@@ -614,8 +580,6 @@ level: OBM Nível 3
 > 
 > **A)** 10 $\quad$ **B)** 11 $\quad$ **C)** 12 $\quad$ **D)** 13 $\quad$ **E)** 14
 
-[[Quesiti/src_obm_2012_n3_f1#q18|src_obm_2012_n3_f1__Q18]]
-
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -644,8 +608,6 @@ level: OBM Nível 3
 > Quanti sottoinsiemi con tre elementi distinti di $\{1, 2, 3, \ldots, 25\}$ contengono due numeri distinti il cui prodotto è un quadrato perfetto?
 > 
 > **A)** 15 $\quad$ **B)** 16 $\quad$ **C)** 17 $\quad$ **D)** 18 $\quad$ **E)** 19
-
-[[Quesiti/src_obm_2012_n3_f1#q19|src_obm_2012_n3_f1__Q19]]
 
 
 
@@ -684,8 +646,6 @@ level: OBM Nível 3
 > 
 > **A)** $2e$ $\quad$ **B)** $4e$ $\quad$ **C)** $5e$ $\quad$ **D)** $5e^2$ $\quad$ **E)** $(e + 1)^2$
 
-[[Quesiti/src_obm_2012_n3_f1#q20|src_obm_2012_n3_f1__Q20]]
-
 
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -714,8 +674,6 @@ level: OBM Nível 3
 > Qual è la maggiore potenza di 2 che divide $2011^{2012} - 1$?
 > 
 > **A)** 2 $\quad$ **B)** 4 $\quad$ **C)** 8 $\quad$ **D)** 16 $\quad$ **E)** 32
-
-[[Quesiti/src_obm_2012_n3_f1#q21|src_obm_2012_n3_f1__Q21]]
 
 
 
@@ -754,8 +712,6 @@ level: OBM Nível 3
 
 ![[src_obm_2012_n3_f1__q22.png]]
 
-[[Quesiti/src_obm_2012_n3_f1#q22|src_obm_2012_n3_f1__Q22]]
-
 
 
 <span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_aritmetica,topic_combinatoria,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -784,8 +740,6 @@ level: OBM Nível 3
 > Per Mariazinha esistono solo alcuni numeri che lei ritiene attraenti: 1, 3, 13 e 31. Un numero, tuttavia, sarà considerato attraente solo se può essere espresso come la somma di uno o più di questi numeri attraenti. Ad esempio, $1 + 3 + 3 + 13 + 31 = 51$ è piuttosto attraente. Se si sommano alcuni numeri attraenti per comporre il 2012, quale è il numero più attraente (minore del 2012)?
 > 
 > **A)** 68 $\quad$ **B)** 70 $\quad$ **C)** 71 $\quad$ **D)** 99 $\quad$ **E)** 2011
-
-[[Quesiti/src_obm_2012_n3_f1#q23|src_obm_2012_n3_f1__Q23]]
 
 
 
@@ -817,8 +771,6 @@ level: OBM Nível 3
 > 
 > **A) ** 0 $\quad$ **B) ** 1 $\quad$ **C) ** 2 $\quad$ **D) ** 3 $\quad$ **E) ** infinitamente molti
 
-[[Quesiti/src_obm_2012_n3_f1#q24|src_obm_2012_n3_f1__Q24]]
-
 
 
 <span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_aritmetica,topic_combinatoria,method_doppio_conteggio,method_fattorizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -847,5 +799,3 @@ level: OBM Nível 3
 > Esmeralda disegnò una tabella con 100 righe e 100 colonne e scrisse, nella riga $i$ e nella colonna $j$ della tabella, $\gcd(i, j)$. Ad esempio, ha scritto $\gcd(4, 6) = 2$ nella riga 4, colonna 6, e ha scritto $\gcd(15, 10) = 5$ nella riga 15, colonna 10. Qual è il prodotto di tutti i numeri della tabella?
 > 
 > **A)** $100!^{99}$ $\quad$ **B)** $100!^{100}$ $\quad$ **C)** $100!^{101}$ $\quad$ **D)** $\text{mmc}(1,2,3,\ldots,100)^{99}$ $\quad$ **E)** $\text{mdc}(1,2,3,\ldots,100)^{99}$
-
-[[Quesiti/src_obm_2012_n3_f1#q25|src_obm_2012_n3_f1__Q25]]

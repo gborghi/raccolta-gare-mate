@@ -51,7 +51,6 @@ level: kangourou
 > E) Capricorn
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_cadet#q01|src_kangourou_2021_cadet__Q01]]
 
 
 
@@ -90,7 +89,6 @@ level: kangourou
 > In the figure you see three concentric circles and four of their diameters. What percentage of the figure is shaded? A) 30% B) 35% C) 40% D) 45% E) 50%
 
 **Answer:** E
-[[Quesiti/src_kangourou_2021_cadet#q02|src_kangourou_2021_cadet__Q02]]
 
 
 
@@ -135,7 +133,6 @@ level: kangourou
 > E) 105
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_cadet#q03|src_kangourou_2021_cadet__Q03]]
 
 
 
@@ -182,7 +179,6 @@ level: kangourou
 > E) 9
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_cadet#q04|src_kangourou_2021_cadet__Q04]]
 
 
 
@@ -226,7 +222,6 @@ level: kangourou
 > D) 199 E) 208
 
 **Answer:** A
-[[Quesiti/src_kangourou_2021_cadet#q05|src_kangourou_2021_cadet__Q05]]
 
 
 
@@ -289,7 +284,6 @@ level: kangourou
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_cadet#q06|src_kangourou_2021_cadet__Q06]]
 
 
 
@@ -323,7 +317,6 @@ level: kangourou
 > Bianca is 5 cm taller than Ada, but 10 cm shorter than Carla. Diana is 10 cm taller than Carla but 5 cm shorter than Enza. Which of the following statements is true? A) Bianca is 30 cm shorter than Enza. B) Enza is 15 cm taller than Diana. C) Carla is 20 cm shorter than Enza. D) Diana is 20 cm taller than Ada. E) Ada is 30 cm shorter than Enza.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2021_cadet#q07|src_kangourou_2021_cadet__Q07]]
 
 
 
@@ -377,7 +370,6 @@ Part of the grey cubes of the 3x3x3 cube
 > E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2021_cadet#q08|src_kangourou_2021_cadet__Q08]]
 
 
 
@@ -429,7 +421,6 @@ Part of the grey cubes of the 3x3x3 cube
 > E)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_cadet#q09|src_kangourou_2021_cadet__Q09]]
 
 
 
@@ -478,7 +469,6 @@ Part of the grey cubes of the 3x3x3 cube
 > E) 36 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_cadet#q10|src_kangourou_2021_cadet__Q10]]
 
 
 
@@ -518,7 +508,6 @@ Part of the grey cubes of the 3x3x3 cube
 > The sum of the two two-digit numbers shown on the left, if done correctly, is 137. What is the sum of the two four-digit numbers shown on the right? A) 13737 B) 13837 C) 14747 D) 23737 E) 137137
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_cadet#q11|src_kangourou_2021_cadet__Q11]]
 
 
 
@@ -582,7 +571,6 @@ Part of the grey cubes of the 3x3x3 cube
 >
 
 **Answer:** E
-[[Quesiti/src_kangourou_2021_cadet#q12|src_kangourou_2021_cadet__Q12]]
 
 
 
@@ -628,7 +616,6 @@ Part of the grey cubes of the 3x3x3 cube
 > C) 4 D) 5 E) 6
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_cadet#q13|src_kangourou_2021_cadet__Q13]]
 
 
 
@@ -684,7 +671,6 @@ Part of the grey cubes of the 3x3x3 cube
 > E) 5
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_cadet#q14|src_kangourou_2021_cadet__Q14]]
 
 
 
@@ -739,7 +725,6 @@ Part of the grey cubes of the 3x3x3 cube
 > E) 24
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_cadet#q15|src_kangourou_2021_cadet__Q15]]
 
 
 
@@ -786,7 +771,6 @@ Part of the grey cubes of the 3x3x3 cube
 > D) 4,2 E) 4,5
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_cadet#q16|src_kangourou_2021_cadet__Q16]]
 
 
 
@@ -821,7 +805,6 @@ Part of the grey cubes of the 3x3x3 cube
 > I wrote a fraction where both the numerator and denominator are positive integers. Now I'm going to increase the numerator by 40%. What percentage do I have to deduct from the denominator for the new fraction to be worth twice the starting fraction? A) 10% B) 20% C) 30% D) 40% E) 50%
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_cadet#q17|src_kangourou_2021_cadet__Q17]]
 
 
 
@@ -869,7 +852,6 @@ Part of the grey cubes of the 3x3x3 cube
 > D) 6,5 E) 4√2
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_cadet#q18|src_kangourou_2021_cadet__Q18]]
 
 
 
@@ -918,7 +900,6 @@ Part of the grey cubes of the 3x3x3 cube
 > A) Cristina took at least one pear. B) Cristina took twice as many apples as the number of pears. C) Cristina took twice as many apples as Liliana. D) Cristina took as many apples as Liliana took pears. E) Cristina took as many pears as Liliana took apples.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2021_cadet#q19|src_kangourou_2021_cadet__Q19]]
 
 
 
@@ -958,7 +939,6 @@ Part of the grey cubes of the 3x3x3 cube
 > Football balls from a few years ago were built with white hexagons and black pentagons next to each other as the figure suggests. There were 12 pentagons in total. How many hexagons were there? (A) 12 (B) 15 (C) 18 (D) 20 (E) 24 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_cadet#q20|src_kangourou_2021_cadet__Q20]]
 
 
 
@@ -1012,7 +992,6 @@ Part of the grey cubes of the 3x3x3 cube
 > E) 5
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_cadet#q21|src_kangourou_2021_cadet__Q21]]
 
 
 
@@ -1059,7 +1038,6 @@ Part of the grey cubes of the 3x3x3 cube
 > E) 4
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_cadet#q22|src_kangourou_2021_cadet__Q22]]
 
 
 
@@ -1112,7 +1090,6 @@ Part of the grey cubes of the 3x3x3 cube
 > E) E
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_cadet#q23|src_kangourou_2021_cadet__Q23]]
 
 
 
@@ -1188,7 +1165,6 @@ Part of the grey cubes of the 3x3x3 cube
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_cadet#q24|src_kangourou_2021_cadet__Q24]]
 
 
 
@@ -1235,7 +1211,6 @@ Part of the grey cubes of the 3x3x3 cube
 > E) 36
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_cadet#q25|src_kangourou_2021_cadet__Q25]]
 
 
 
@@ -1285,7 +1260,6 @@ Kangaroo whose color Bruno can't tell
 > C) 202 D) 1002 E) 2021
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_cadet#q26|src_kangourou_2021_cadet__Q26]]
 
 
 
@@ -1340,7 +1314,6 @@ Kangaroo whose color Bruno can't tell
 > E) 12
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_cadet#q27|src_kangourou_2021_cadet__Q27]]
 
 
 
@@ -1379,7 +1352,6 @@ Kangaroo whose color Bruno can't tell
 > There are 21 knights living in a city who always tell the truth and 2,000 crooks who always lie. With these 2021 people, one pollster composed 1010 couples, excluding one person. Then, in each couple, each person had to tell if the other was a knight or a crook. In this survey, 2,000 people were declared knights and 20 people were declared crooks. How many couples were made up of two crooks? A) 980 B) 985 C) 990 D) 995 E) 1000
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_cadet#q28|src_kangourou_2021_cadet__Q28]]
 
 
 
@@ -1432,7 +1404,6 @@ Turn where D meets F in the tournament
 > E) 5
 
 **Answer:** A
-[[Quesiti/src_kangourou_2021_cadet#q29|src_kangourou_2021_cadet__Q29]]
 
 
 
@@ -1506,4 +1477,3 @@ Turn where D meets F in the tournament
 > D) 6,5 E) 7 Q P 1 2 3 4 5 A – B C – D A – E E – F A – C P Q R S T U V W K 18 ? 10 8
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_cadet#q30|src_kangourou_2021_cadet__Q30]]

@@ -34,8 +34,6 @@ level: INMO
 
 > Una linea attraverso la vertica $C$ di un parallelo $ABCD$ risponde alle estensioni dei lati $AB$ e $AD$ rispettivamente a $E$ e $F$. Provare che $$AC^2 + CE \cdot CF = AB \cdot AE + AD \cdot AF.$$
 
-[[Quesiti/src_inmo_1997#q01|src_inmo_1997__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -62,8 +60,6 @@ level: INMO
 
 > Mostrare che non esistono numeri interi positivi $m$ e $n$ in modo tale che $$\frac{m}{n} + \frac{n+1}{m} = 4.$$
 
-[[Quesiti/src_inmo_1997#q02|src_inmo_1997__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_simmetria,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -88,8 +84,6 @@ level: INMO
 *Distinti reali a,b,c con condizione di somma ciclica implicano abc+t=0*
 
 > Supponiamo che $a, b, c$ siano numeri reali distinti e $t$ un numero reale tale che $a + \frac{1}{b} = b + \frac{1}{c} = c + \frac{1}{a} = t$. Mostra che $abc + t = 0$.
-
-[[Quesiti/src_inmo_1997#q03|src_inmo_1997__Q03]]
 
 
 
@@ -116,8 +110,6 @@ level: INMO
 
 > Un centinaio di raggi che emanano dal centro di un quadrato dividono il quadrato in parti $100$, tutte uguali di perimetro $p$. Mostra che $1.4 < p < 1.5$.
 
-[[Quesiti/src_inmo_1997#q04|src_inmo_1997__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_conteggio,method_congruenze,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
@@ -142,8 +134,6 @@ level: INMO
 *Contare le matrici 4x4 da {0,1,2,3} con le somme di righe e colonne divisibili per 4*
 
 > Trovare il numero di matrici $4 \times 4$ le cui voci provengono dal set $\{0, 1, 2, 3\}$ in modo tale che la somma dei numeri in ciascuna delle quattro righe e in ciascuna delle quattro colonne sia divisibile da $4$.
-
-[[Quesiti/src_inmo_1997#q05|src_inmo_1997__Q05]]
 
 
 
@@ -170,5 +160,3 @@ level: INMO
 *Cubico con tre radici reali; valore minimo assoluto rapporto di limite radicale b/a*
 
 > $a$ e $b$ siano numeri positivi per i quali l'equazione cubica $x^3 - ax + b = 0$ ha tre radici reali (non necessariamente distinte). Se $\alpha$ è quello con valore assoluto minimo, dimostrare che $$\frac{b}{a} < \alpha < \frac{3b}{2a}.$$
-
-[[Quesiti/src_inmo_1997#q06|src_inmo_1997__Q06]]

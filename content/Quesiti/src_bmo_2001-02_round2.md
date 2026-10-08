@@ -33,8 +33,6 @@ level: BMO Round 2
 
 > L'altitudine da un vertice di un triangolo acuto $ABC$ incontra il lato opposto a $D$. Da $D$ le perpendicolari $DE$ e $DF$ sono tracciate verso gli altri due lati. Prove che la lunghezza di $EF$ è la stessa a seconda del vertice scelto.
 
-[[Quesiti/src_bmo_2001-02_round2#q01|src_bmo_2001-02_round2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_casework,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
@@ -59,8 +57,6 @@ level: BMO Round 2
 *Regola dei posti a tavola rotonda; trovare tutti i n delegati che evitano la collisione*
 
 > Una sala conferenze dispone di un tavolo rotondo con sedie $n$. Ci sono delegati $n$. Il primo delegato sceglie arbitrariamente il suo posto. Successivamente, il delegato $(k+1)$-siede $k$ a sinistra del delegato $k$-th per $1 \le k \le n-1$. Nessuna sedia può essere occupata da più di un delegato. Trova tutti i valori di $n$ per i quali questo è possibile.
-
-[[Quesiti/src_bmo_2001-02_round2#q02|src_bmo_2001-02_round2__Q02]]
 
 
 
@@ -89,8 +85,6 @@ level: BMO Round 2
 
 > Prove che la sequenza definita da $$b_1 = 1, \quad b_{n+1} = \tfrac{1}{2}\left(3b_n + \sqrt{5b_n^2 - 4}\right), \quad (n \ge 1)$$ è composta solo da numeri interi.
 
-[[Quesiti/src_bmo_2001-02_round2#q03|src_bmo_2001-02_round2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,topic_disuguaglianze,method_disuguaglianze,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -115,5 +109,3 @@ level: BMO Round 2
 *Produzione di lunghezze tangenti da punto a sfera unitaria delimitate da distanze verso i centri*
 
 > $B_1, B_2, \ldots, B_n$ sono sfere di raggio unitario disposte nello spazio. Il punto $P$ è un punto e per ogni $i$ ($1 \le i \le n$) la lunghezza della tangente da $P$ alla sfera $B_i$ è indicata da $t_i$. Prova che il prodotto della $t_i$ non è più del prodotto delle distanze $PC_i$, dove $C_i$ è il centro di $B_i$.
-
-[[Quesiti/src_bmo_2001-02_round2#q04|src_bmo_2001-02_round2__Q04]]

@@ -33,8 +33,6 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 
 > Si deve dare un poligono con lunghezze laterali razionali e tutti gli angoli uguali a $90^\circ$ o $270^\circ$. Un raggio di luce inizia ad uno dei vertici del poligono e va nella direzione del bisettore dell'angolo interno di quel vertice. Il raggio riflette secondo la legge del riflesso. Prove che il raggio finirà per entrare in qualche vertice del poligono.
 
-[[Quesiti/src_pol_2004_r1#q01|src_pol_2004_r1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
@@ -59,8 +57,6 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 *Esistenza di un numero intero primo $p$ e non negativo $x,y,z$ con $(12x+5)(12y+7)=p^z$.*
 
 > Decidere se esiste un primo $p$ e un intero non negativo $x,y,z$ tale che $(12x+5)(12y+7)=p^z$.
-
-[[Quesiti/src_pol_2004_r1#q02|src_pol_2004_r1__Q02]]
 
 
 
@@ -87,8 +83,6 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 
 > Trova tutte le funzioni $f \colon \mathbb{Q} \to \mathbb{Q}$ in modo tale che per tutte le funzioni razionali $x,y$ $$f(x^2+y)=xf(x)+f(y).$$
 
-[[Quesiti/src_pol_2004_r1#q03|src_pol_2004_r1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,skill_ragionamento_geometrico"></span>
@@ -114,8 +108,6 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 
 > Si dà un triangolo a angolo acuto $ABC$. Considerare tutti i triangoli equilaterali $XYZ$ in questo piano in modo che i punti $A,B,C$ si trovino sui segmenti $YZ,ZX,XY$, rispettivamente. Prova che i centri dei triangoli $XYZ$ si trovano su un singolo cerchio.
 
-[[Quesiti/src_pol_2004_r1#q04|src_pol_2004_r1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_bigezione,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -140,8 +132,6 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 *Mostra $N(m,n+1)=N(n,m+1)$, dove $N(m,n)$ conti le sequenze di lunghezza non in diminuzione-$m$ da $\{1,\dots,n\}$.*
 
 > Per i numeri interi positivi $m$ e $n$, $N(m,n)$ indica il numero di sequenze non in diminuzione dei termini $m$ provenienti da $\{1,2,\dots,n\}$. Mostra che $N(m,n+1)=N(n,m+1)$.
-
-[[Quesiti/src_pol_2004_r1#q05|src_pol_2004_r1__Q05]]
 
 
 
@@ -169,8 +159,6 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 
 > Supponiamo che $c$ sia un numero reale tale che il polinomio $P(x)=x^5-5x^3+4x-c$ abbia cinque zeri reali $x_1,x_2,x_3,x_4,x_5$. Calcolare in $c$ la somma dei valori assoluti dei coefficienti del polinomio $$Q(x)=(x-x_1^2)(x-x_2^2)(x-x_3^2)(x-x_4^2)(x-x_5^2).$$
 
-[[Quesiti/src_pol_2004_r1#q06|src_pol_2004_r1__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
@@ -195,8 +183,6 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 *Ricerca tutte le soluzioni integrali positive di $a^2+b^2=c^2$ con $a,c$ primo e $b$ un prodotto di almeno tre primi.*
 
 > Trova tutte le soluzioni di numeri interi positivi dell'equazione $a^2+b^2=c^2$ in modo tale che $a$ e $c$ siano prime e $b$ sia un prodotto di un massimo di tre numeri primi.
-
-[[Quesiti/src_pol_2004_r1#q07|src_pol_2004_r1__Q07]]
 
 
 
@@ -224,8 +210,6 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 
 > Il punto $P$ si trova all'interno di un tetraedro $ABCD$. Provare che $$\angle APB+\angle BPC+\angle CPD+\angle DPA>360^\circ.$$
 
-[[Quesiti/src_pol_2004_r1#q08|src_pol_2004_r1__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,topic_aritmetica,method_congruenze,method_fattorizzazione,skill_astrazione,skill_manipolazione_algebrica"></span>
@@ -250,8 +234,6 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 *Per i polinomi di numeri interi non costanti $W_1,\dots,W_n$, un certo numero $a$ rende tutti $W_k(a)$ composti.*
 
 > Si devono dare polinomi non costanti $W_1(x),W_2(x),\dots,W_n(x)$ con coefficienti interi. Prova che esiste un numero intero $a$ tale che i numeri $W_1(a),W_2(a),\dots,W_n(a)$ siano tutti composti.
-
-[[Quesiti/src_pol_2004_r1#q09|src_pol_2004_r1__Q09]]
 
 
 
@@ -278,8 +260,6 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 
 > Un poligono converso ha un numero pari di lati. La lunghezza di ciascun lato è $2$ o $3$ e il numero di lati di ciascuna lunghezza è pari. Mostrare che esistono due vertici del poligono che dividono il suo perimetro.
 
-[[Quesiti/src_pol_2004_r1#q10|src_pol_2004_r1__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
@@ -304,8 +284,6 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 *In un trapezoide a isosceles con un rombo inscritto $KLMN$, il circondario $O$ si trova sulla linea $KM$.*
 
 > Il $O$ deve essere il centro circundante di un trapezoide $ABCD$ con le basi $AB$ e $CD$. I punti $K,L,M,N$ si trovano rispettivamente sui lati $AB,BC,CD,DA$ in modo che $KLMN$ sia un rombo. Prova che $O$ si trova sulla linea $KM$.
-
-[[Quesiti/src_pol_2004_r1#q11|src_pol_2004_r1__Q11]]
 
 
 
@@ -333,5 +311,3 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 *Ricerca nel $x_1,\dots,x_n$ il numero di soluzioni reali di un sistema di quarticche cubiche cicliche per $n\ge 5$.*
 
 > $n\ge 5$ sia un numero intero. Trova il numero di soluzioni in numeri reali $x_1,\dots,x_n$ del sistema $$x_{i-2}^3+x_{i-1}^3+x_i^3=x_i^4+x_{i+1}^3+x_{i+2}^2\quad\text{for }i=1,2,\dots,n,$$ dove $x_{-1}=x_{n-1}$, $x_0=x_n$, $x_1=x_{n+1}$, $x_2=x_{n+2}$.
-
-[[Quesiti/src_pol_2004_r1#q12|src_pol_2004_r1__Q12]]

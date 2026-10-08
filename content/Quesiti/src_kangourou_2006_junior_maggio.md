@@ -61,7 +61,6 @@ level: kangourou
 > A metal bar, which for simplicity's sake is assumed to be thread-like and whose middle point is denoted by $M$, is supported against a wall and adheres to a wall with which the wall makes an angle. The wall and floor are of very polished marble, so the bar slides slowly, always sticking to the wall, until it lies on the floor (the figure schematizes the bar's position in a single moment during the movement: the wall is symbolized by the sheet). What trajectory does $M$ describe on the wall? Reason for your statement. (see figure)
 
 **Answer:** a quarter of a circle
-[[Quesiti/src_kangourou_2006_junior_maggio#qj1|src_kangourou_2006_junior_maggio__QJ1]]
 
 
 
@@ -90,7 +89,6 @@ level: kangourou
 > Let's denote with $n$ an integer greater than 1 and assume that $n$ points on a circle are numbered from 1 to $n$ in a completely random order. For each pair of adjacent (unordered) points we consider the absolute value of the difference of the two corresponding numbers; we add up all the absolute values thus obtained. What is the minimum value of this sum?
 
 **Answer:** 2n-2
-[[Quesiti/src_kangourou_2006_junior_maggio#qj2|src_kangourou_2006_junior_maggio__QJ2]]
 
 
 
@@ -147,7 +145,6 @@ level: kangourou
 > A circle has been divided into a number of slices (at least 4), for example as shown in Figure 1. You have been instructed to paint the inside of each spike so that between two spikes of the same color there are always at least two of a different color, but you do not know the number of spikes in the circle (that in the figure is just an example!). What's the smallest number of colors that will guarantee you'll make it, regardless of the number of spikes? (see figure)
 
 **Answer:** 5
-[[Quesiti/src_kangourou_2006_junior_maggio#qj3|src_kangourou_2006_junior_maggio__QJ3]]
 
 
 
@@ -176,7 +173,6 @@ level: kangourou
 > They are $p$ and $q$ two prime numbers, different from each other and both different from 2, such that there is no prime number strictly between $p$ and $q$. Is it true that $p + q$ is the product of at least three positive integers greater than 1 (not necessarily different from each other)? If the answer is yes, give a reason, if the answer is no, give a counterexample.
 
 **Answer:** it is true
-[[Quesiti/src_kangourou_2006_junior_maggio#qj4|src_kangourou_2006_junior_maggio__QJ4]]
 
 
 
@@ -205,7 +201,6 @@ level: kangourou
 > Consider 3-digit numbers whose digits can be rearranged to form sets of consecutive digits (e.g. The numbers in 786 can be rearranged to number 678, consisting of consecutive digits). How many of these numbers have an odd number of divisors (different from each other)?
 
 **Answer:** two
-[[Quesiti/src_kangourou_2006_junior_maggio#qj5|src_kangourou_2006_junior_maggio__QJ5]]
 
 
 
@@ -245,4 +240,3 @@ level: kangourou
 > Is it possible that a)? Is it possible that b)? Reason for your answers.
 
 **Answer:** a no, b yes
-[[Quesiti/src_kangourou_2006_junior_maggio#qj6|src_kangourou_2006_junior_maggio__QJ6]]

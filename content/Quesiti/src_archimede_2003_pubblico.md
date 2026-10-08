@@ -32,8 +32,6 @@ This is a problem for all of us.
 
 > In Matelandia it is a good practice to assign some numbers a geometric "shape". For example, the number $36$ is a square and triangular number, that is, it can either be written as a square, $36 = 6 \times 6$, or it can be represented as an equilateral triangle with base 8, in fact $36 = 1+2+3+4+5+6+7+8$. What's the smallest square and triangular number greater than 36?
 
-[[Quesiti/src_archimede_2003_pubblico#q01|src_archimede_2003_pubblico__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -70,8 +68,6 @@ This is a problem for all of us.
 > 
 > The mayor chooses where to sit, while each councillor, due to the restrictions of the place, has to sit next to someone who has already settled down. How many different ways can the council be disposed of? (see figure)
 
-[[Quesiti/src_archimede_2003_pubblico#q02|src_archimede_2003_pubblico__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,skill_conteggio_sistematico"></span>
@@ -95,8 +91,6 @@ This is a problem for all of us.
 *Problem 3*
 
 > The city's main bank has a safe with a four-digit combination, which for security reasons the manager changes every day like this: he multiplies the current combination by 3 and possibly cuts the number to the left. One night, one of the cashiers spying on the manager discovers that the combination does not contain odd numbers. The night after, one of the sworn guards manages to find out that none of the digits is a multiple of 3. The next night a thief tries to open the safe and after several attempts he realizes that the numbers must all be multiples of 3, but he can't penetrate the safe. The next day the thief accidentally listens to the guard and the cashier and learns what they have discovered. What combination would tempt the thief back to rob the bank that same night?
-
-[[Quesiti/src_archimede_2003_pubblico#q03|src_archimede_2003_pubblico__Q03]]
 
 
 
@@ -126,8 +120,6 @@ This is a problem for all of us.
 
 > In Matelandia Park, children enjoy jumping from box to box on the sidewalk. It starts from the box in the center and jumps from box to box without ever going back inside, and without ever going back from a box you already visited. When you get to the edge, you stop. How many different ways can you get to the periphery? (see figure)
 
-[[Quesiti/src_archimede_2003_pubblico#q04|src_archimede_2003_pubblico__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,skill_lettura_attenta"></span>
@@ -152,8 +144,6 @@ This is the problem.
 
 > The airline Air Matelandia has a strange way of calculating the price of return tickets. The price expressed in MatEuro is equal to the average speed of the aircraft (as compared to the ground) calculated on both journeys and expressed in km/h, multiplied by the total duration of the two journeys (departure and return) expressed in hours. Damiano is boarding a flight that travels at a constant speed of 400 km/h relative to the air. During the whole journey it has an opposite wind of 40 km/h, during the return journey it has the same wind in favour. Knowing that Damiano's two trips took a total of two hours, how much did MatEuro's ticket cost?
 
-[[Quesiti/src_archimede_2003_pubblico#q05|src_archimede_2003_pubblico__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,skill_riconoscimento_pattern"></span>
@@ -177,8 +167,6 @@ This is the problem.
 *Problem 6*
 
 > In the main square of the city stands a stone stele. The inscription of the stele is a triangle of numbers that has on its sides the numbers 0, 1, 2, 3, ... as shown in the figure. Every number inside the triangle is the sum of the two that are above it. We indicate with $f(n)$ the sum of the numbers in the line beginning with $n$. What is the remainder of the $f(2003)$ division for 2003? (see figure)
-
-[[Quesiti/src_archimede_2003_pubblico#q06|src_archimede_2003_pubblico__Q06]]
 
 
 
@@ -208,8 +196,6 @@ This is the problem.
 > 
 > Given a polynomial $P(x) = a_n x^n + a_{n-1} x^{n-1} + \cdots + a_1 x + a_0$, of degree $n \geq 0$ at integers with $a_n \neq 0$, we associate its weight $p = n + |a_0| + |a_1| + \cdots + |a_n|$ with $P$. How many polynomials with integer coefficients weighing 6?
 
-[[Quesiti/src_archimede_2003_pubblico#q07|src_archimede_2003_pubblico__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,skill_lettura_attenta"></span>
@@ -234,8 +220,6 @@ This is the problem.
 
 > The city's main park is shaped like a trapeze. Its lower base is 90 metres long and the segment connecting the midpoints of the diagonals is 5 metres long. What's the size of the main base?
 
-[[Quesiti/src_archimede_2003_pubblico#q08|src_archimede_2003_pubblico__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -259,8 +243,6 @@ This is the problem.
 This is a problem.
 
 > The $AB$ and $AC$ sides of a triangle measure 10 cm, take $S$ on $AB$ and $T$ on $AC$ so that $AT = AS = 6$ cm. We indicate with $I$ the intersection point of $BT$ and $CS$. Knowing that the area of the quadrilateral $ASIT$ is $4{,}5$ cm2, say what the area of $ABC$ is in cm2.
-
-[[Quesiti/src_archimede_2003_pubblico#q09|src_archimede_2003_pubblico__Q09]]
 
 
 
@@ -290,8 +272,6 @@ This is a problem.
 > 
 > A polynomial with integer coefficients $q(x)$ divides another polynomial $p(x)$ also into integer coefficients (i.e. there is a third polynomial $r(x)$, also into integer coefficients, such as $p(x) = q(x) \cdot r(x)$). Knowing that the sum of the coefficients of $p(x)$ is 15!, what are the possible values of $q(1)$?
 
-[[Quesiti/src_archimede_2003_pubblico#q10|src_archimede_2003_pubblico__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -317,8 +297,6 @@ This is a problem.
 
 > At the last city election Manolo and Michele, the two candidates for mayor, got the same votes. The strange electoral system in Matilda involves a complicated draw of lots to determine who of the two will be mayor. You take a box containing five balls numbered 1 to 5. Four times you extract a ball, put it back in after reading the extract number. Say $a$, $b$, $c$ and $d$ the four numbers extracted, Michele becomes mayor if $ab + bc + cd + da$ is equal, otherwise he becomes mayor Manolo. Manolo, for the sake of principle, objects: in his view the complicated procedure is not fair at all. What is the probability that $ab + bc + cd + da$ is equal? (express the value as a percentage, if the result is not an integer, write the whole part of the result in the answer)
 
-[[Quesiti/src_archimede_2003_pubblico#q11|src_archimede_2003_pubblico__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,skill_conteggio_sistematico"></span>
@@ -342,8 +320,6 @@ This is a problem.
 *Problem 12*
 
 > Camillo's savage combination is a four-digit odd number, each of which is between 0 and 9. To write this combination on a sheet of paper without other malicious individuals being able to use the information to open the savings account, Camillo removes the figure to the left and writes the result of the conversion on the basis of 3 of that number. Ivan finds the leaflet and thinks it's written a number on base 4. He converts it back to base 10, tries to use it as it is, and Camillo's lifeguard opens up. What is the smallest number $> 1$ that can represent the combination of Camillo's saviour?
-
-[[Quesiti/src_archimede_2003_pubblico#q12|src_archimede_2003_pubblico__Q12]]
 
 
 
@@ -372,8 +348,6 @@ This is a problem.
 
 > Determine the telephone prefix of the city of Matelandia, knowing that it is the maximum natural number of 4 digits (in decimal form) having the following properties: a) The sum of this number and its palindrome is 7216 b) The sum of the digits of this number is 17 c) The numbers at the ends differ by more than 4.
 
-[[Quesiti/src_archimede_2003_pubblico#q13|src_archimede_2003_pubblico__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,skill_conteggio_sistematico"></span>
@@ -397,8 +371,6 @@ This is a problem.
 *Problem 14*
 
 > There's only one row of 35 numbered seats in Matelandia's 3D cinema. At the start of the show, 16 people enter, who, to make themselves more comfortable, arrange for none of them to have a person sitting in the nearby seats. How many different arrangements are possible?
-
-[[Quesiti/src_archimede_2003_pubblico#q14|src_archimede_2003_pubblico__Q14]]
 
 
 
@@ -424,8 +396,6 @@ This is a problem.
 
 > In the Matelandia park, a pond in the shape of an isosceles triangle is to be designed. It must be perfectly inserted into a circular 5 metre radius awning. The sum of the sides that are different from the two equal sides and the height relative to them is 15 meters. Knowing that the water will be everywhere at a depth of one meter, how many cubic meters of water will have to be dipped in the pond?
 
-[[Quesiti/src_archimede_2003_pubblico#q15|src_archimede_2003_pubblico__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,skill_conteggio_sistematico"></span>
@@ -449,8 +419,6 @@ This is a problem.
 *Problem 16*
 
 > In the town of Matelandia there is a renowned confectionery, which produces two types of almond confectionery. Confectionery of type $A$ undergoes three successive processes: machine I (lasting 6 minutes), machine II (lasting 12 minutes) and machine III (lasting 18 minutes). Confectionery of type $B$ also undergoes three successive working processes: machine I (18 minutes) machine II (12 minutes) machine III (6 minutes). Knowing that in one day machine I works for a maximum of 22 hours, machine II for a maximum of 19 hours, machine III for a maximum of 23 hours, in how many ways can the pair of integers $\geq 0$ $(n_A, n_B)$ be chosen, indicating the number of each of the two types of jams produced, so as not to violate the above conditions?
-
-[[Quesiti/src_archimede_2003_pubblico#q16|src_archimede_2003_pubblico__Q16]]
 
 
 
@@ -484,8 +452,6 @@ This is the problem.
 > 
 > If you owe $S_{\max}$ the maximum and $S_{\min}$ the minimum possible area of the mall plant, how much is $S_{\max} - S_{\min}$? (see figure)
 
-[[Quesiti/src_archimede_2003_pubblico#q17|src_archimede_2003_pubblico__Q17]]
-
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_logica,skill_lettura_attenta"></span>
@@ -509,8 +475,6 @@ This is the problem.
 *Problem 18*
 
 > In the city park is an interesting abstract sculpture, which was obtained as follows. Given a side cube $L = 20$, imagine cutting it with a plane so as to obtain a regular hexagon and building on the latter an infinitely straight hexagonal prism. The sculpture is the intersection of the cube with the infinite prism. What's the volume?
-
-[[Quesiti/src_archimede_2003_pubblico#q18|src_archimede_2003_pubblico__Q18]]
 
 
 
@@ -544,8 +508,6 @@ This is the problem.
 > 
 > What is (in percentage, if decimal give the whole part) the probability of Nicholas' victory?
 
-[[Quesiti/src_archimede_2003_pubblico#q19|src_archimede_2003_pubblico__Q19]]
-
 
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_aritmetica,skill_riconoscimento_pattern"></span>
@@ -569,5 +531,3 @@ This is the problem.
 *Problem 20*
 
 > In the Matelandia park, a famous sculpture is formed by two straight cylinders of 10 dm radius (i.e. 20 dm diameter) and 20 dm height that intersect so that their axes are incidental in their middle and perpendicular points. What is the volume of the sculpture in dm3?
-
-[[Quesiti/src_archimede_2003_pubblico#q20|src_archimede_2003_pubblico__Q20]]

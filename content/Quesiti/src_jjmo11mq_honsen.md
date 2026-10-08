@@ -36,8 +36,6 @@ level: JJMO Honsen
 
 > Ci sono quattro numeri reali positivi distinti $a, b, c, d$. Tra le seguenti 12 espressioni $$a+b,\ a+c,\ a+d,\ b+c,\ b+d,\ c+d,$$ $$ab,\ ac,\ ad,\ bc,\ bd,\ cd,$$ trovi il maggior numero possibile di esse il cui valore è uguale a $1$.
 
-[[Quesiti/src_jjmo11mq_honsen#q01|src_jjmo11mq_honsen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_logica,method_estremalita,method_invarianti,skill_modellizzazione,skill_astrazione"></span>
@@ -76,8 +74,6 @@ Gioco di versare latte e tè per fare due buoni tè di latte
 > 
 > L'obiettivo di B e' quello di rendere due tazze di tè buono allo stesso tempo. Indipendentemente dalle azioni di B, A può continuare a impedire a B di raggiungere questo obiettivo per sempre?
 
-[[Quesiti/src_jjmo11mq_honsen#q02|src_jjmo11mq_honsen__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -104,8 +100,6 @@ Gioco di versare latte e tè per fare due buoni tè di latte
 
 > Per gli integri positivi $x, y$, $\gcd(x, y)$ indichi il più grande divisore comune di $x$ e $y$. Trova tutti i triples di numeri interi positivi $(a, b, c)$ soddisfaci $$a = \gcd(b^2+1,\ c^2+1),\quad b = \gcd(c^2+1,\ a^2+1),\quad c = \gcd(a^2+1,\ b^2+1).$$
 
-[[Quesiti/src_jjmo11mq_honsen#q03|src_jjmo11mq_honsen__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -130,8 +124,6 @@ Gioco di versare latte e tè per fare due buoni tè di latte
 *Espresso angolo HJK utilizzando angolo BCA nel triangolo acuto*
 
 > C'è un triangolo acuto $ABC$ con $AB < AC$, il cui centro ortocentrico e incentrico sono rispettivamente $H$ e $I$. Un punto $J$ sul lato $AB$ e un punto $K$ sul lato $BC$ soddisfano $\angle HIK = 90^\circ$ e $AC = AJ + CK$. Esprimere $\angle HJK$ in termini di $\angle BCA$. Qui $XY$ indica la lunghezza del segmento $XY$.
-
-[[Quesiti/src_jjmo11mq_honsen#q04|src_jjmo11mq_honsen__Q04]]
 
 
 
@@ -167,5 +159,3 @@ Gioco di versare latte e tè per fare due buoni tè di latte
 > - Ogni cittadino sorveglia un certo numero di altri cittadini. - Quando alcuni cittadini organizzano una rivolta, ogni cittadino che non si è ribellato può arrestare al massimo uno dei cittadini che sono sotto controllo tra quelli che si sono ribellati. - Se tutti i cittadini che si sono ribellati vengono arrestati, allora quella ribellione è soppressa.
 > 
 > Per tutti i cittadini è stato esaminato il numero di cittadini per ciascun sondaggio e questi numeri sono stati sommati, dando $K$. Inoltre, per ogni ribellione organizzata da cittadini di almeno 1 MSK, esiste sempre un modo per sopprimere tale ribellione. Trova il valore più piccolo possibile che $K$ può assumere. Si noti che anche se il cittadino $A$ sorveglia il cittadino $B$, non è necessariamente il caso che il cittadino $B$ sorvegli il cittadino $A$.
-
-[[Quesiti/src_jjmo11mq_honsen#q05|src_jjmo11mq_honsen__Q05]]

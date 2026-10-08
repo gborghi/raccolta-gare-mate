@@ -47,8 +47,6 @@ level: IMO
 > (i) Determinare l'insieme dei valori di BC² + CA² + AB².
 > (ii) Determinare il luogo dei punti medi del segmento BC.
 
-[[Quesiti/src_imo_1988#q01|src_imo_1988__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_colorazione"></span>
@@ -90,8 +88,6 @@ level: IMO
 > ogni elemento di B appartenga ad almeno due degli Ai.
 > Per quali valori di n si può assegnare a ogni elemento di B uno dei numeri
 > 0 e 1 in modo che a esattamente n elementi di ciascun Ai sia assegnato lo 0?
-
-[[Quesiti/src_imo_1988#q02|src_imo_1988__Q02]]
 
 
 
@@ -158,8 +154,6 @@ level: IMO
 > Canberra, Australia
 > Giorno II
 
-[[Quesiti/src_imo_1988#q03|src_imo_1988__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_casework,skill_manipolazione_algebrica"></span>
@@ -199,8 +193,6 @@ level: IMO
 > 4
 > è unione di intervalli disgiunti la cui somma delle lunghezze è 1988.
 
-[[Quesiti/src_imo_1988#q04|src_imo_1988__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze,skill_ragionamento_geometrico"></span>
@@ -232,8 +224,6 @@ level: IMO
 > i lati AB, AC nei punti K, L rispettivamente. Siano S e T le aree dei
 > triangoli ABC e AKL rispettivamente. Si dimostri che S ≥2T.
 
-[[Quesiti/src_imo_1988#q05|src_imo_1988__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_estremalita"></span>
@@ -263,5 +253,3 @@ level: IMO
 > a2 + b2
 > ab + 1
 > è il quadrato di un intero.
-
-[[Quesiti/src_imo_1988#q06|src_imo_1988__Q06]]

@@ -32,8 +32,6 @@ level: IMO
 
 > Si dimostri che esistono infiniti numeri naturali $a$ con la seguente proprietà: il numero $z = n^4 + a$ non è primo per alcun numero naturale $n$.
 
-[[Quesiti/src_imo_1969_all#q01|src_imo_1969_all__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_trigonometria,method_trigonometria"></span>
@@ -62,8 +60,6 @@ level: IMO
 > $$f(x) = \cos(a_1 + x) + \frac{1}{2}\cos(a_2 + x) + \frac{1}{4}\cos(a_3 + x) + \cdots + \frac{1}{2^{n-1}}\cos(a_n + x).$$
 > noto che $f(x_1) = f(x_2) = 0$, si dimostri che $x_2 - x_1$ è un multiplo razionale di $\pi$.
 
-[[Quesiti/src_imo_1969_all#q02|src_imo_1969_all__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,method_casework,skill_casework_accurato"></span>
@@ -89,8 +85,6 @@ level: IMO
 
 > Per ciascun valore di $k = 1, 2, 3, 4, 5$, determinare condizioni necessarie e sufficienti sul numero $a > 0$ affinché esista un tetraedro con $k$ spigoli di lunghezza $a$ e gli altri $6 - k$ spigoli di lunghezza $1$.
 
-[[Quesiti/src_imo_1969_all#q03|src_imo_1969_all__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -115,8 +109,6 @@ level: IMO
 
 > Sia dato un arco semicircolare $\gamma$ costruito sul diametro $AB$. Sia $C$ un punto sull'arco $\gamma$ diverso da $A$ e da $B$, e sia $D$ il punto medio dell'arco $AC$. Sia infine $M$ il piede della perpendicolare da $D$ alla retta $BC$. Si dimostri che $BM = MA + MC$.
 
-[[Quesiti/src_imo_1969_all#q04|src_imo_1969_all__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio"></span>
@@ -140,8 +132,6 @@ level: IMO
 *Almeno (n-3 choose 2) quadrilateri convessi da n punti*
 
 > Dati $n > 4$ punti nel piano tali che nessuni tre siano allineati, si dimostri che esistono almeno $\binom{n-3}{2}$ quadrilateri convessi i cui vertici sono quattro dei punti dati $n$.
-
-[[Quesiti/src_imo_1969_all#q05|src_imo_1969_all__Q05]]
 
 
 
@@ -169,5 +159,3 @@ level: IMO
 
 > Si dimostri che per tutti i numeri reali $x_1, x_2, y_1, y_2, z_1, z_2$ con $x_1 > 0$, $x_2 > 0$, $x_1 y_1 - z_1^2 > 0$, $x_2 y_2 - z_2^2 > 0$, vale la seguente disuguaglianza:
 > $$\frac{8}{(x_1 + x_2)(y_1 + y_2) - (z_1 + z_2)^2} \leq \frac{1}{x_1 y_1 - z_1^2} + \frac{1}{x_2 y_2 - z_2^2}.$$
-
-[[Quesiti/src_imo_1969_all#q06|src_imo_1969_all__Q06]]

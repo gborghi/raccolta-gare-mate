@@ -42,7 +42,6 @@ level: kangourou
 > This year the turnout recorded at 1 p.m. was $24\%$. What will the final turnout be if the habits of the population have not changed and the people who are comfortable voting in the afternoon can be expected to have the same interest in voting as the people who are comfortable voting in the morning?
 
 **Answer:** 84%
-[[Quesiti/src_kangourou_2008_cadet_maggio#qc1|src_kangourou_2008_cadet_maggio__QC1]]
 
 
 
@@ -75,7 +74,6 @@ level: kangourou
 > If so, how? If not, why?
 
 **Answer:** yes
-[[Quesiti/src_kangourou_2008_cadet_maggio#qc2|src_kangourou_2008_cadet_maggio__QC2]]
 
 
 
@@ -115,7 +113,6 @@ level: kangourou
 > $$1 \;\; 7 \;\; 3 \times ( 4 \;\; 5 + 2 \;\; 4 ) = 2 \;\; 0 \;\; 0 \;\; 7 + 3 \;\; 7$$
 
 **Answer:** 2044
-[[Quesiti/src_kangourou_2008_cadet_maggio#qc3|src_kangourou_2008_cadet_maggio__QC3]]
 
 
 
@@ -151,7 +148,6 @@ level: kangourou
 > Find at least one IMPERFECT set.
 
 **Answer:** {2^(2k+1)}
-[[Quesiti/src_kangourou_2008_cadet_maggio#qc4|src_kangourou_2008_cadet_maggio__QC4]]
 
 
 
@@ -183,8 +179,7 @@ level: kangourou
 > 
 > (Note: both the given set and the empty set are to be counted among the subsets, the empty one obviously formed by an even number of elements.)
 
-**Answer:** dimostrazione
-[[Quesiti/src_kangourou_2008_cadet_maggio#qc5|src_kangourou_2008_cadet_maggio__QC5]]
+**Answer:** proof
 
 
 
@@ -220,4 +215,3 @@ level: kangourou
 > What is the ratio of the area of the $T$ triangle to that of the $C$ square? (see figure)
 
 **Answer:** 1
-[[Quesiti/src_kangourou_2008_cadet_maggio#qc6|src_kangourou_2008_cadet_maggio__QC6]]

@@ -44,8 +44,6 @@ level: kangourou
 
 **Answer:** E
 
-[[Quesiti/src_kangourou_2024_benjamin_semifinale#q01|src_kangourou_2024_benjamin_semifinale__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -76,7 +74,6 @@ level: kangourou
 > (Points 3) In the plane, 2024 circles are drawn, all distinct from each other. How many common points could all the circles have at most? A) 0 B) 1 C) 2 D) 3 E) 1012 Answer: C). The solution. For two points, infinitely many coplanar circles pass (each point on the axis of the segment that has them as extremes is the center of one of them), for three points, only one passes.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2024_benjamin_semifinale#q02|src_kangourou_2024_benjamin_semifinale__Q02]]
 
 
 
@@ -143,7 +140,6 @@ level: kangourou
 > (Points 3) Each of the numbers 1, 2, 3, 4, 5 must be placed in one of the circles in the figure (one only per circle) so that two consecutive numbers are never in two circles connected by a segment. What number should be placed in place of the question mark? A) Only 2. B) Only 3. C) 2 or 4. D) 1 or 5. E) Only 1. Answer: B). The solution. For direct verification on the five numbers. (the vertices of the rhombus must contain pairs of consecutive numbers arranged at opposite vertices)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2024_benjamin_semifinale#q03|src_kangourou_2024_benjamin_semifinale__Q03]]
 
 
 
@@ -398,7 +394,6 @@ level: kangourou
 > 2,024 is located in the same row as the number 8, hence in the first.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2024_benjamin_semifinale#q04|src_kangourou_2024_benjamin_semifinale__Q04]]
 
 
 
@@ -506,7 +501,6 @@ level: kangourou
 > Answer: E). The solution. If n is the number of children, the number sought must be such that, subtracting 6n, 1/n of the number itself is obtained. This is true for 27 if n = 3, but also, for example, for 32 if n = 4. Or: If n is the number of children and k is the number of chocolates for each child, 6n = k(n - 1), that is, k= 6n n−1. Since n - 1 divides n only for n=2, n - 1 must be a divisor of 6: for n=2, k=12 and total number of chocolates 24; for n=3, k=9 and total number of chocolates 27; for n=4, k=8 and total number of chocolates 32; for n=7, k=7 and total number of chocolates 49.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2024_benjamin_semifinale#q05|src_kangourou_2024_benjamin_semifinale__Q05]]
 
 
 
@@ -551,7 +545,6 @@ level: kangourou
 > to be paired with 5.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2024_benjamin_semifinale#q06|src_kangourou_2024_benjamin_semifinale__Q06]]
 
 
 
@@ -604,7 +597,6 @@ level: kangourou
 > Carlo, and it is Donato who lied.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2024_benjamin_semifinale#q07|src_kangourou_2024_benjamin_semifinale__Q07]]
 
 
 
@@ -644,7 +636,6 @@ level: kangourou
 > x = 18 would entail y = 16, not acceptable. Then x = 19 and y = 11.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2024_benjamin_semifinale#q08|src_kangourou_2024_benjamin_semifinale__Q08]]
 
 
 
@@ -696,7 +687,6 @@ level: kangourou
 > Open-ended questions
 
 **Answer:** E
-[[Quesiti/src_kangourou_2024_benjamin_semifinale#q09|src_kangourou_2024_benjamin_semifinale__Q09]]
 
 
 
@@ -733,7 +723,6 @@ level: kangourou
 > by 4).
 
 **Answer:** 0988
-[[Quesiti/src_kangourou_2024_benjamin_semifinale#q10|src_kangourou_2024_benjamin_semifinale__Q10]]
 
 
 
@@ -766,7 +755,6 @@ level: kangourou
 > (Points 5) There are six numbered envelopes lined up: from the third onward, each contains as many stamps as the two immediately preceding ones combined. The sixth contains 71 stamps, the fifth contains 43. How many stamps does the first one have? Answer: 0002. Solution. Proceeding backwards, the fourth contains 71 - 43 = 28, the third 43 - 28 = 15, the second 28 - 15 = 13, the first 15 - 13 = 2.
 
 **Answer:** 0002
-[[Quesiti/src_kangourou_2024_benjamin_semifinale#q11|src_kangourou_2024_benjamin_semifinale__Q11]]
 
 
 
@@ -804,7 +792,6 @@ level: kangourou
 > (Points 5) An n-antiprism is a solid like the one suggested in the figure. It has a lower base and an upper base which are regular polygons congruent with n sides and a lateral surface consisting of triangles obtained by joining each pair of adjacent vertices of each base with one of the vertices of the other, as also suggested by the figure. How many faces, including the bases, does a 2024-antiprism have? The answer is 4050. The solution. Each side of each base generates one and only one face of the side surface.
 
 **Answer:** 4050
-[[Quesiti/src_kangourou_2024_benjamin_semifinale#q12|src_kangourou_2024_benjamin_semifinale__Q12]]
 
 
 
@@ -837,7 +824,6 @@ level: kangourou
 > (Points 6) I've multiplied 9 numbers between them: each of them is 2 or 3. The result of this operation is a number between 600 and 1,000. What is the sum of the digits of this number? Answer: 0021. Solution. You have 29 = 512 < 600, so at least one of the factors must be 3. On the other hand, if at least two factors were 3, the product would be greater than or equal to 9 × 27 > 1000. So 8 factors is 2 and only one is 3, with 768 as the result of the operation.
 
 **Answer:** 0021
-[[Quesiti/src_kangourou_2024_benjamin_semifinale#q13|src_kangourou_2024_benjamin_semifinale__Q13]]
 
 
 
@@ -904,7 +890,6 @@ level: kangourou
 > (Points 6) A positive integer is written on each face of a cube, and the six numbers are all different from each other. You know, whatever you consider two adjacent faces, the only common divisor of the two numbers that you see is 1. What is the minimum value of the sum of the six numbers? Remember, they say two faces are adjacent if they have an edge in common. Answer: 0022. Solution. It is clear that the number 6 cannot be used because it would necessarily be found on a face adjacent to the one with 2 or the one with 3 or the one with 4.
 
 **Answer:** 0022
-[[Quesiti/src_kangourou_2024_benjamin_semifinale#q14|src_kangourou_2024_benjamin_semifinale__Q14]]
 
 
 
@@ -952,7 +937,6 @@ level: kangourou
 > Answer: 0017. Solution. I have to ask him to delete all prime numbers less than 60, that is, those that have no divisors other than 1 and themselves.
 
 **Answer:** 0017
-[[Quesiti/src_kangourou_2024_benjamin_semifinale#q15|src_kangourou_2024_benjamin_semifinale__Q15]]
 
 
 
@@ -987,7 +971,6 @@ level: kangourou
 > (Points 7) The set of integers between 1 and 18 included must be divided into nine pairs, so that the sum of the two numbers that make up each pair is a perfect square. How many different ways can you do that? Answer: 0001. Solution. The perfect squares obtained by adding the two numbers of the various pairs can only be 4, 9, 16 or 25. It is immediately apparent that some couplings are mandatory: (18, 7), (17, 8), (16, 9); furthermore, since 9 - 2 = 7, coupling (2, 14) is also mandatory. However, it follows from the latter that all the others are also required: one must have (11, 5), hence in the order (4, 12), (13, 3), (6, 10), (1, 15).
 
 **Answer:** 0001
-[[Quesiti/src_kangourou_2024_benjamin_semifinale#q16|src_kangourou_2024_benjamin_semifinale__Q16]]
 
 
 
@@ -1026,7 +1009,6 @@ level: kangourou
 > = 2025 is the sum of the cubes of the integers from 1 to 9. Therefore 2024 is the sum of the cubes of the integers from 2 to 9.
 
 **Answer:** 0018
-[[Quesiti/src_kangourou_2024_benjamin_semifinale#q17|src_kangourou_2024_benjamin_semifinale__Q17]]
 
 
 
@@ -1062,4 +1044,3 @@ For how many seconds Aldo is waiting for Bernardo
 > The wheels of Aldo's bicycle have a radius of 30 cm, those of Bernardo's bicycle a radius of 24 cm. Aldo and Bernardo start to pedal at the same time in the same direction and, at the same time, the number of turns made by their wheels is the same and remains constant during the pedal. After 15 minutes, Aldo stops to wait for Bernardo. For how many seconds will he have to wait for him? Answer: 0225. Solution. The ratio of the lengths of the radii (A/B) is 5/4, the length of the circumference is proportional to the radius, so the inverse ratio is between the time required to travel the same distance. So to get to where Aldo got to, Bernardo needs 5/4 of Aldo's time, so 1/4 more than he has so far.
 
 **Answer:** 0225
-[[Quesiti/src_kangourou_2024_benjamin_semifinale#q18|src_kangourou_2024_benjamin_semifinale__Q18]]

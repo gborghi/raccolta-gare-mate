@@ -47,7 +47,6 @@ level: biennio
 > - **(E)** 400.
 
 **Answer:** E
-[[Quesiti/src_archimede_2003_biennio#q01|src_archimede_2003_biennio__Q01]]
 
 
 
@@ -89,7 +88,6 @@ level: biennio
 > - **(E)** 4005.
 
 **Answer:** C
-[[Quesiti/src_archimede_2003_biennio#q02|src_archimede_2003_biennio__Q02]]
 
 
 
@@ -130,7 +128,6 @@ level: biennio
 > - **(E)** None of the above is correct.
 
 **Answer:** A
-[[Quesiti/src_archimede_2003_biennio#q03|src_archimede_2003_biennio__Q03]]
 
 
 
@@ -172,7 +169,6 @@ level: biennio
 > - **(E)** 7.
 
 **Answer:** A
-[[Quesiti/src_archimede_2003_biennio#q04|src_archimede_2003_biennio__Q04]]
 
 
 
@@ -216,7 +212,6 @@ level: biennio
 > - **(E)** 50.
 
 **Answer:** B
-[[Quesiti/src_archimede_2003_biennio#q05|src_archimede_2003_biennio__Q05]]
 
 
 
@@ -260,7 +255,6 @@ level: biennio
 > - **(E)** 40.
 
 **Answer:** B
-[[Quesiti/src_archimede_2003_biennio#q06|src_archimede_2003_biennio__Q06]]
 
 
 
@@ -303,7 +297,6 @@ level: biennio
 > - **(E)** I pay the taxes.
 
 **Answer:** B
-[[Quesiti/src_archimede_2003_biennio#q07|src_archimede_2003_biennio__Q07]]
 
 
 
@@ -358,7 +351,6 @@ level: biennio
 > - **(E)** I'm going to be irrationally negative.
 
 **Answer:** D
-[[Quesiti/src_archimede_2003_biennio#q08|src_archimede_2003_biennio__Q08]]
 
 
 
@@ -401,7 +393,6 @@ level: biennio
 > - **(E)** √ 10 2 .
 
 **Answer:** B
-[[Quesiti/src_archimede_2003_biennio#q09|src_archimede_2003_biennio__Q09]]
 
 
 
@@ -441,7 +432,6 @@ level: biennio
 > - **(E)** There are large numbers to please with these properties. Note: a number is called a palindrome if it can be read indifferently from left to right or from right to left. For example, 141 and 2552 are palindromes, whereas 1231 is not.
 
 **Answer:** B
-[[Quesiti/src_archimede_2003_biennio#q10|src_archimede_2003_biennio__Q10]]
 
 
 
@@ -480,8 +470,6 @@ level: biennio
 > - **(C)** 2π
 > - **(D)** π 2
 > - **(E)** It depends on the radius of the sphere.
-
-[[Quesiti/src_archimede_2003_biennio#q11|src_archimede_2003_biennio__Q11]]
 
 
 
@@ -522,8 +510,6 @@ level: biennio
 > - **(C)** 1 256
 > - **(D)** 1 16
 > - **(E)** 9 128.
-
-[[Quesiti/src_archimede_2003_biennio#q12|src_archimede_2003_biennio__Q12]]
 
 
 
@@ -567,7 +553,6 @@ level: biennio
 > - **(E)** 18.
 
 **Answer:** 70%
-[[Quesiti/src_archimede_2003_biennio#q13|src_archimede_2003_biennio__Q13]]
 
 
 
@@ -610,8 +595,6 @@ level: biennio
 > - **(D)** 3
 > - **(E)** 4.
 
-[[Quesiti/src_archimede_2003_biennio#q14|src_archimede_2003_biennio__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,method_fattorizzazione,skill_conteggio_sistematico"></span>
@@ -650,8 +633,6 @@ level: biennio
 > - **(D)** 5
 > - **(E)** 10.
 
-[[Quesiti/src_archimede_2003_biennio#q15|src_archimede_2003_biennio__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
@@ -688,8 +669,6 @@ If the value of the input data is less than the value of the input data, the val
 > - **(C)** Never
 > - **(D)** if and only if p + q + r = 1 or p = 0
 > - **(E)** if and only if p = q = r = 0.
-
-[[Quesiti/src_archimede_2003_biennio#q16|src_archimede_2003_biennio__Q16]]
 
 
 
@@ -762,8 +741,6 @@ If the value of the input data is less than the value of the input data, the val
 > - **(D)** 200°
 > - **(E)** the data available are insufficient.
 
-[[Quesiti/src_archimede_2003_biennio#q17|src_archimede_2003_biennio__Q17]]
-
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,skill_conteggio_sistematico"></span>
@@ -833,8 +810,6 @@ If the value of the input data is less than the value of the input data, the val
 > - **(D)** 18
 > - **(E)** 24.      
 
-[[Quesiti/src_archimede_2003_biennio#q18|src_archimede_2003_biennio__Q18]]
-
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_analitica,method_coordinate,skill_ragionamento_geometrico"></span>
@@ -880,8 +855,6 @@ If the value of the input data is less than the value of the input data, the val
 > - **(D)** √ 5
 > - **(E)** 4.
 
-[[Quesiti/src_archimede_2003_biennio#q19|src_archimede_2003_biennio__Q19]]
-
 
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -925,5 +898,3 @@ If the value of the input data is less than the value of the input data, the val
 > - **(C)** a > b, whichever is r
 > - **(D)** a < b or a = b, depending on the r value
 > - **(E)** a > b or a = b, depending on r. a b
-
-[[Quesiti/src_archimede_2003_biennio#q20|src_archimede_2003_biennio__Q20]]

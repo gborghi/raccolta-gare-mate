@@ -33,8 +33,6 @@ level: JJMO Yosen
 
 > C'è un intero positivo a due cifre. Quando viene moltiplicato per $7$, diventa un numero a tre cifre. Quando viene moltiplicato di nuovo per $7$, è ancora un numero a tre cifre. Quanti valori sono possibili per il numero intero originale?
 
-[[Quesiti/src_jjmo8yq_yosen#q01|src_jjmo8yq_yosen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_conteggio,skill_conteggio_sistematico"></span>
@@ -59,8 +57,6 @@ level: JJMO Yosen
 *Scegli una carta per costume in modo che la somma sia multiplo di 7*
 
 > Ci sono le schede di spade $4$ etichettate con i numeri $1, 2, 3, 4$ (una ciascuna), le schede di cuore $6$ etichettate con i numeri $1, 2, 3, \ldots, 6$ (una ciascuna) e le schede di diamante $8$ etichettate con i numeri $1, 2, 3, \ldots, 8$ (una ciascuna). Quando una carta viene scelta da ciascuna combinazione, per un totale di carte $3$, in quanti modi può essere fatta la scelta in modo che la somma dei numeri sulle carte $3$ scelte sia un multiple di $7$?
-
-[[Quesiti/src_jjmo8yq_yosen#q02|src_jjmo8yq_yosen__Q02]]
 
 
 
@@ -91,8 +87,6 @@ level: JJMO Yosen
 
 ![[src_jjmo8yq_yosen__q03.png]]
 
-[[Quesiti/src_jjmo8yq_yosen#q03|src_jjmo8yq_yosen__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -117,8 +111,6 @@ level: JJMO Yosen
 *M a tre cifre, n differente in una cifra, n multiple di m*
 
 > Esistono numeri interi positivi a tre cifre $m, n$ in modo tale che $m$ e $n$ differiscono esattamente in una cifra (nella stessa posizione). Inoltre, $n$ è un multiple di $m$. Quante coppie $(m, n)$ sono possibili?
-
-[[Quesiti/src_jjmo8yq_yosen#q04|src_jjmo8yq_yosen__Q04]]
 
 
 
@@ -145,8 +137,6 @@ level: JJMO Yosen
 
 > È noto che il numero di coppie $(m, n)$ di integri positivi al massimo $100$ soddisfa $m < \sqrt{2}\,n < 2m$ è esattamente $2958$. Quante coppie $(m, n)$ di integri positivi al massimo $100$ soddisfano $\sqrt{2}\,n < m$?
 
-[[Quesiti/src_jjmo8yq_yosen#q05|src_jjmo8yq_yosen__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -171,8 +161,6 @@ level: JJMO Yosen
 *Scala di equilibrio: rimuovere i pesi dalla vasca inferiore fino a che non siano bilanciati e svuotati*
 
 > C'è una scala di equilibrio. Sul pannello sinistro ci sono pesi di massa $22, 24, 26, 28$ (uno ciascuno) e sul pannello destro ci sono pesi di massa $23, 25, 27, 29$ (uno ciascuno). La padella la cui massa totale dei pesi su di essa è più grande punta verso il basso; quando i totali sono uguali, la scala si bilancia. A ogni momento, un peso viene rimosso dalla padella che è attualmente inclinata verso il basso; questo viene ripetuto fino a quando la scala si bilancia. In quanti modi si possono effettuare le rimozioni in modo che, al momento in cui le bilanci della bilancia sono state eliminate tutte le pesate?
-
-[[Quesiti/src_jjmo8yq_yosen#q06|src_jjmo8yq_yosen__Q06]]
 
 
 
@@ -202,8 +190,6 @@ level: JJMO Yosen
 > C' è un heptagone regolare $ABCDEFG$ con lunghezza laterale $1$. I punti $P, Q, R, S$ si trovano rispettivamente sui segmenti $AB, BC, CD, EF$ e soddisfano $BP = CQ = DR = FS = \frac{1}{3}$. Il segmento $T$ è l'intersezione del segmento $PR$ e del segmento $QS$. Trova la misura di $\angle PTS$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 ![[src_jjmo8yq_yosen__q07.png]]
-
-[[Quesiti/src_jjmo8yq_yosen#q07|src_jjmo8yq_yosen__Q07]]
 
 
 
@@ -239,8 +225,6 @@ level: JJMO Yosen
 
 ![[src_jjmo8yq_yosen__q08.png]]
 
-[[Quesiti/src_jjmo8yq_yosen#q08|src_jjmo8yq_yosen__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -265,8 +249,6 @@ level: JJMO Yosen
 *Conta n<=999 con somma di 9n uguale a 27*
 
 > Per un intero positivo $n$, $S(n)$ indica la somma delle cifre di $n$. Trova il numero di integri positivi $n$ al massimo $999$ che soddisfano $S(9n) = 27$.
-
-[[Quesiti/src_jjmo8yq_yosen#q09|src_jjmo8yq_yosen__Q09]]
 
 
 
@@ -293,8 +275,6 @@ level: JJMO Yosen
 
 > Trenta studenti hanno fatto un test composto da problemi $3$. Risolvere correttamente i problemi vale rispettivamente $1$ punti, $2$ punti e $4$ punti, e una risposta errata vale $0$ punti. Dato che, nei risultati dei test, ciascuno dei problemi $3$ è stato risolto correttamente da studenti $10$, quante possibilità ci sono per la raccolta dei punteggi $30$ degli studenti? (Le collezioni che differiscono solo nell'ordine dei punteggi sono considerate uguali.)
 
-[[Quesiti/src_jjmo8yq_yosen#q10|src_jjmo8yq_yosen__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_casework_accurato,skill_riconoscimento_pattern"></span>
@@ -320,8 +300,6 @@ level: JJMO Yosen
 
 > Quanti triples $(a, b, c)$ di numeri interi positivi al massimo $2010$ esistono tali che $a + b + c$ sia un multiple di ciascuno di $a$, $b$ e $c$? (I tre numeri in cui i tre numeri figurano in ordini diversi vengono contati come distinti.)
 
-[[Quesiti/src_jjmo8yq_yosen#q11|src_jjmo8yq_yosen__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -346,5 +324,3 @@ level: JJMO Yosen
 *Espresso il circonradio del triangolo APQ attraverso due radii, angolo A=60*
 
 > C'è un triangolo $ABC$ con $\angle BAC = 60^\circ$. I bisettori di $\angle ABC$ e $\angle ACB$ incontrano la parte $AC$ e $AB$ rispettivamente ai punti $P$ e $Q$. Il $r_1$ deve essere il raggio del triangolo $ABC$ e il $r_2$ deve essere il raggio del triangolo $APQ$. Esprimere il radio circundante del triangolo $APQ$ in termini di $r_1$ e $r_2$.
-
-[[Quesiti/src_jjmo8yq_yosen#q12|src_jjmo8yq_yosen__Q12]]

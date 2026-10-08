@@ -68,7 +68,6 @@ level: kangourou
 > The radius of the two small circles is one sixth of the radius of the large circle. The radius of the medium-sized circle is twice that of the small circles. What fraction of the large circle is colored gray? (see figure)
 
 **Answer:** 5/6
-[[Quesiti/src_kangourou_2006_cadet_finale#qc1|src_kangourou_2006_cadet_finale__QC1]]
 
 
 
@@ -127,7 +126,6 @@ level: kangourou
 > A metal bar, which for simplicity's sake is assumed to be filiform and whose middle point is denoted by $M$, is supported against a wall and adheres to a wall with which the wall forms an angle. The wall and floor are of very polished marble, so the bar slides slowly, always sticking to the wall, until it lies on the floor (the figure schematizes the bar's position in a single moment during the movement: the wall is symbolized by the sheet). What trajectory does $M$ describe on the wall? Reason for your statement. (see figure)
 
 **Answer:** quarter of a circle
-[[Quesiti/src_kangourou_2006_cadet_finale#qc2|src_kangourou_2006_cadet_finale__QC2]]
 
 
 
@@ -180,7 +178,6 @@ level: kangourou
 > The figure shows a rectangle with base $a$ and height $b$, and a square with a vertex on the diagonal of the rectangle and the opposite vertex in common with the rectangle. What can be said about the numbers that provide (with respect to appropriate units of measurement) the area and perimeter of the rectangle if the square has sides $2$? (see figure)
 
 **Answer:** they are equal
-[[Quesiti/src_kangourou_2006_cadet_finale#qc3|src_kangourou_2006_cadet_finale__QC3]]
 
 
 
@@ -213,7 +210,6 @@ level: kangourou
 > A circle has been divided into a number of spikes (at least 4), for example as shown in the figure. You have been instructed to paint the inside of each spike so that between two spikes of the same color there are always at least two of a different color, but you do not know the number of spikes in the circle (that in the figure is just an example!). What's the smallest number of colors that will guarantee you'll make it, regardless of the number of spikes? (see figure)
 
 **Answer:** 5
-[[Quesiti/src_kangourou_2006_cadet_finale#qc4|src_kangourou_2006_cadet_finale__QC4]]
 
 
 
@@ -250,7 +246,6 @@ level: kangourou
 > $$\begin{array}{r} \text{ORE} \\ \text{ORE} \\ +\; \text{ORE} \\ \hline \text{VIVE} \end{array}$$
 
 **Answer:** 2625
-[[Quesiti/src_kangourou_2006_cadet_finale#qc5|src_kangourou_2006_cadet_finale__QC5]]
 
 
 
@@ -279,4 +274,3 @@ level: kangourou
 > It considers the numbers of $3$ digits whose digits can be rearranged to form sets of consecutive digits (e.g. the digits of $786$ may be rearranged in the row $678$, consisting of consecutive digits). How many of these numbers have a odd number of divisors (different between them)?
 
 **Answer:** two
-[[Quesiti/src_kangourou_2006_cadet_finale#qc6|src_kangourou_2006_cadet_finale__QC6]]

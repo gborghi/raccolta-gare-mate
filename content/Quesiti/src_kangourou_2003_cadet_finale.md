@@ -39,7 +39,6 @@ level: kangourou
 > The figure represents a square obtained by placing 9 smaller squares side by side. You must enter all the numbers from $1$ to $9$, one per square, so that the sum of the four numbers surrounding each of the inner vertices, marked with a black ball, is $20$. The numbers $3$ and $5$ have already been placed: enter the remaining ones. (see figure)
 
 **Answer:** arrangement
-[[Quesiti/src_kangourou_2003_cadet_finale#qc1|src_kangourou_2003_cadet_finale__QC1]]
 
 
 
@@ -68,7 +67,6 @@ level: kangourou
 > A box contains $100$ coloured balls. Of these, $28$ are red, $20$ green, $12$ yellow, $20$ blue, $10$ white and $10$ black. What is the minimum number of balls that must be drawn to be sure in advance of having at least $15$ of the same colour?
 
 **Answer:** 75
-[[Quesiti/src_kangourou_2003_cadet_finale#qc2|src_kangourou_2003_cadet_finale__QC2]]
 
 
 
@@ -96,7 +94,6 @@ level: kangourou
 > Mirabilandia's magical leather rectangle shrinks by half in length and by a third in height every time it fulfills a wish of its owner. It is known that at first the height measured $27$ centimeters and that, when $3$ desires were fulfilled, the rectangle became a square. How long was the original length?
 
 **Answer:** 64
-[[Quesiti/src_kangourou_2003_cadet_finale#qc3|src_kangourou_2003_cadet_finale__QC3]]
 
 
 
@@ -167,7 +164,6 @@ level: kangourou
 > The $AC$ hypotenuse of a right triangle is divided into $8$ segments equal to each other using $7$ segments parallel to the leg $BC$, each having one end on the leg $AB$ and the other on the hypotenuse. The leg $BC$ is $10$ meters long. What is the sum of the lengths of these $7$ segments?
 
 **Answer:** 35
-[[Quesiti/src_kangourou_2003_cadet_finale#qc4|src_kangourou_2003_cadet_finale__QC4]]
 
 
 
@@ -195,7 +191,6 @@ level: kangourou
 > The hour hand of a clock completes a complete turn in $12$ hours while the minute hand completes a complete turn in one hour. Both hands rotate continuously. There are times when the two hands are overlapping. How long does it take between one of these moments and the next?
 
 **Answer:** 1h5'27"3/11
-[[Quesiti/src_kangourou_2003_cadet_finale#qc5|src_kangourou_2003_cadet_finale__QC5]]
 
 
 
@@ -224,4 +219,3 @@ level: kangourou
 > How many positive integers of $7$ digits divisible by $2003$?
 
 **Answer:** 4493
-[[Quesiti/src_kangourou_2003_cadet_finale#qc6|src_kangourou_2003_cadet_finale__QC6]]

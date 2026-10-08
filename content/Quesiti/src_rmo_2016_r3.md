@@ -32,8 +32,6 @@ level: RMO
 
 > Che $ABC$ sia un triangolo e $D$ il punto medio di $BC$. Supponiamo che il bisettore angolare di $\angle ADC$ sia tangente al circoncircolo del triangolo $ABD$ a $D$. Prove che $\angle A = 90^\circ$.
 
-[[Quesiti/src_rmo_2016_r3#q01|src_rmo_2016_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -59,8 +57,6 @@ level: RMO
 *Rimostra la disuguaglianza con tre differenti valori positivi abc*
 
 > $a, b, c$ siano tre numeri reali positivi distinti, come $abc = 1$. Provare che $$\frac{a^3}{(a-b)(a-c)} + \frac{b^3}{(b-c)(b-a)} + \frac{c^3}{(c-a)(c-b)} \ge 3.$$
-
-[[Quesiti/src_rmo_2016_r3#q02|src_rmo_2016_r3__Q02]]
 
 
 
@@ -89,8 +85,6 @@ level: RMO
 
 > $a, b, c, d, e, f$ siano integri positivi in modo tale che $$\frac{a}{b} < \frac{c}{d} < \frac{e}{f}.$$ Supponiamo $af - be = -1$. Mostra che $d \ge b + f$.
 
-[[Quesiti/src_rmo_2016_r3#q03|src_rmo_2016_r3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_cassetti,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_modellizzazione"></span>
@@ -115,8 +109,6 @@ level: RMO
 *100 paesi, lingue minime in modo che ogni 20 condividano una*
 
 > Ci sono 100 paesi che partecipano ad una Olimpiada. Supponiamo che $n$ sia un numero intero positivo tale che ciascuno dei 100 paesi sia disposto a comunicare in esattamente $n$ lingue. Se un insieme di 20 paesi può comunicare in almeno una lingua comune e nessuna lingua è comune a tutti i 100 paesi, qual è il valore minimo possibile di $n$?
-
-[[Quesiti/src_rmo_2016_r3#q04|src_rmo_2016_r3__Q04]]
 
 
 
@@ -143,8 +135,6 @@ level: RMO
 
 > $ABC$ sia un triangolo rettangolare con $\angle B = 90^\circ$. Il $I$ deve essere il centro di $ABC$. Estendere $AI$ e $CI$; lasciare che si incrociano rispettivamente $BC$ in $D$ e $AB$ in $E$. Tracciare una linea perpendicolare a $AI$ a $I$ per raggiungere $AC$ in $J$; tracciare una linea perpendicolare a $CI$ a $I$ per raggiungere $AC$ in $K$. Supponiamo $DJ = EK$. Provare che $BA = BC$.
 
-[[Quesiti/src_rmo_2016_r3#q05|src_rmo_2016_r3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_backward,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -170,5 +160,3 @@ level: RMO
 *L'esistenza e la non esistenza di progressione armonica in aumento stretto*
 
 > (a) Dato qualsiasi numero naturale $N$, dimostrare che esiste una sequenza rigorosamente crescente di integri positivi $N$ in progressione armonica. b) dimostrare che non può esistere una sequenza infinita di numeri interi positivi in progressione armonica.
-
-[[Quesiti/src_rmo_2016_r3#q06|src_rmo_2016_r3__Q06]]

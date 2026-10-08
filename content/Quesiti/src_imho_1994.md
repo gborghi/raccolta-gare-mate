@@ -35,8 +35,6 @@ level: IMO
 > Siano $m$ e $n$ numeri interi positivi. Siano $a_1, a_2, \ldots, a_m$ elementi distinti di $\{1, 2, \ldots, n\}$ tali che, ogni volta che $a_i + a_j \le n$ per alcuni $i, j$, $1 \le i \le j \le m$, esiste $k$, $1 \le k \le m$, con $a_k = a_i + a_j$. Si dimostri che
 > $$a_1 + a_2 + \cdots + a_m \ge \frac{n+1}{2}.$$
 
-[[Quesiti/src_imho_1994#q01|src_imho_1994__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -72,8 +70,6 @@ level: IMO
 >
 > Si dimostri che $OQ$ è perpendicolare a $EF$ se e solo se $QE = QF$.
 
-[[Quesiti/src_imho_1994#q02|src_imho_1994__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_induzione,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -105,8 +101,6 @@ level: IMO
 >
 > (b) Determinare tutti gli interi positivi $m$ per i quali esiste esattamente un $k$ tale che $f(k) = m$.
 
-[[Quesiti/src_imho_1994#q03|src_imho_1994__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -135,8 +129,6 @@ level: IMO
 > Determinare tutte le coppie ordinate $(m, n)$ di interi positivi tali che
 > $$\frac{n^3 + 1}{mn - 1}$$
 > sia un numero intero.
-
-[[Quesiti/src_imho_1994#q04|src_imho_1994__Q04]]
 
 
 
@@ -167,8 +159,6 @@ level: IMO
 > 1. $f(x + f(y) + xf(y)) = y + f(x) + yf(x)$ per ogni $x$ e $y$ appartenenti a $S$;
 > 2. $\dfrac{f(x)}{x}$ è strettamente crescente in ciascuno degli intervalli $-1 < x < 0$ e $0 < x$.
 
-[[Quesiti/src_imho_1994#q05|src_imho_1994__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,topic_insiemi_funzioni,method_induzione,method_estremalita,skill_astrazione,skill_modellizzazione,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -193,5 +183,3 @@ level: IMO
 *Sia A un insieme di interi positivi; il prodotto delle sottopotenze con k elementi è un prodotto di k numeri primi*
 
 > Si dimostri che esiste un insieme $A$ di interi positivi con la seguente proprietà: per ogni insieme infinito $S$ di numeri primi, esistono due interi positivi $m \in A$ e $n \notin A$ tali che ciascuno di essi è prodotto di $k$ elementi distinti dell'insieme $S$, per un certo $k \ge 2$.
-
-[[Quesiti/src_imho_1994#q06|src_imho_1994__Q06]]

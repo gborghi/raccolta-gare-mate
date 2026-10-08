@@ -33,8 +33,6 @@ level: IMO
 
 > Sia $ABC$ un triangolo acutangolo con ortocentro $H$. La circonferenza passante per $H$ e avente centro nel punto medio di $BC$ interseca la retta $BC$ nei punti $A_1$ e $A_2$. Analogamente, la circonferenza passante per $H$ e avente centro nel punto medio di $CA$ interseca la retta $CA$ nei punti $B_1$ e $B_2$, e la circonferenza passante per $H$ e avente centro nel punto medio di $AB$ interseca la retta $AB$ nei punti $C_1$ e $C_2$. Si dimostri che i punti $A_1$, $A_2$, $B_1$, $B_2$, $C_1$, $C_2$ appartengono a una stessa circonferenza.
 
-[[Quesiti/src_imho_2008#q01|src_imho_2008__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,topic_aritmetica,method_disuguaglianze,method_simmetria,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
@@ -68,8 +66,6 @@ level: IMO
 > 
 > (b) Si dimostri che l'uguaglianza vale sopra per infiniti triple di numeri razionali $x$, $y$, $z$, ciascuno diverso da $1$, e che soddisfano $xyz = 1$.
 
-[[Quesiti/src_imho_2008#q02|src_imho_2008__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_induzione,method_estremalita,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_stima"></span>
@@ -94,8 +90,6 @@ level: IMO
 *Infiniti n tali che n²+1 abbia un divisore primo > 2n+√(2n)*
 
 > Si dimostri che esistono infiniti interi positivi $n$ tali che $n^2 + 1$ ha un divisore primo maggiore di $2n + \sqrt{2n}$.
-
-[[Quesiti/src_imho_2008#q03|src_imho_2008__Q03]]
 
 
 
@@ -125,8 +119,6 @@ level: IMO
 > Determinare tutte le funzioni $f : (0, \infty) \to (0, \infty)$ (in modo che $f$ sia una funzione dai numeri reali positivi ai numeri reali positivi) tali che
 > $$\frac{\left(f(w)\right)^2 + \left(f(x)\right)^2}{f(y^2) + f(z^2)} = \frac{w^2 + x^2}{y^2 + z^2}$$
 > per tutti i numeri reali positivi $w$, $x$, $y$, $z$, che soddisfano $wx = yz$.
-
-[[Quesiti/src_imho_2008#q04|src_imho_2008__Q04]]
 
 
 
@@ -165,8 +157,6 @@ level: IMO
 > 
 > Determinare il rapporto $N/M$.
 
-[[Quesiti/src_imho_2008#q05|src_imho_2008__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
@@ -191,5 +181,3 @@ level: IMO
 *Circonferenza tangente ai lati del quadrilatero convesso ABCD*
 
 > Sia $ABCD$ un quadrilatero convesso con $|BA| \ne |BC|$. Siano $\omega_1$ e $\omega_2$ rispettivamente le circonferenze inscritte nei triangoli $ABC$ e $ADC$. Si supponga che esista una circonferenza $\omega$ tangente al raggio $BA$ oltre $A$ e al raggio $BC$ oltre $C$, e tangente anche alle rette $AD$ e $CD$. Si dimostri che le tangenti esterne comuni alle circonferenze $\omega_1$ e $\omega_2$ si intersecano su $\omega$.
-
-[[Quesiti/src_imho_2008#q06|src_imho_2008__Q06]]

@@ -39,8 +39,6 @@ level: China Mathematical Olympiad
 
 ![[src_cn_cmo_b11_w101__q01.png]]
 
-[[Quesiti/src_cn_cmo_2012#q01|src_cn_cmo_2012__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_conteggio,skill_conteggio_sistematico,skill_astrazione"></span>
@@ -70,7 +68,6 @@ level: China Mathematical Olympiad
 > Dato un numero primo $p$, $A$ sia una matrice $p \times p$ tale che le sue voci siano esattamente $1, 2, \ldots, p^2$ in un certo ordine. Per una matrice è consentita la seguente operazione: aggiungere uno a ciascun numero di una riga o di una colonna, o sottrarre uno da ciascun numero di una riga o di una colonna. La matrice $A$ viene chiamata "buona" se si può prendere una serie finita di tali operazioni che si traduce in una matrice con tutte le voci zero. Trova il numero di matrici buone $A$.
 
 **Risposta:** $2(p!)^2$
-[[Quesiti/src_cn_cmo_2012#q02|src_cn_cmo_2012__Q02]]
 
 
 
@@ -101,7 +98,6 @@ level: China Mathematical Olympiad
 > Se $f(x) = (x+a)(x+b)$ viene dato un numero reale positivo $a, b$, $n \ge 2$ è un intero dato. Per i numeri reali non negativi $x_1, x_2, \ldots, x_n$ che soddisfano $x_1 + x_2 + \cdots + x_n = 1$, trovare il massimo di $F = \sum_{1 \le i < j \le n} \min\{f(x_i), f(x_j)\}$.
 
 **Risposta:** $\dfrac{n-1}{2}\left(\dfrac{1}{n}+a+b+nab\right)$
-[[Quesiti/src_cn_cmo_2012#q04|src_cn_cmo_2012__Q04]]
 
 
 
@@ -129,5 +125,3 @@ level: China Mathematical Olympiad
 *Per n pari a quadrato libero e p primo con p<2 sqrt(n), p non divide n, p divide n+k^2, scrivi n come ab+bc+ca con diversi interi positivi.*
 
 > Che $n$ sia un numero pari positivo senza quadrato, $k$ sia un numero intero, $p$ sia un numero primo, soddisfacendo $p < 2\sqrt{n}$, $p \nmid n$, $p \mid n + k^2$. Prova che $n$ può essere scritto come $n = ab + bc + ca$, dove $a$, $b$, $c$ sono numeri interi positivi distintivi.
-
-[[Quesiti/src_cn_cmo_2012#q05|src_cn_cmo_2012__Q05]]

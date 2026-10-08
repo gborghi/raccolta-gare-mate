@@ -44,7 +44,6 @@ level: kangourou
 > Based on this experiment, what is a reliable number for the confetti contained in the bag?
 
 **Answer:** 1750
-[[Quesiti/src_kangourou_2021_junior_finale#q01|src_kangourou_2021_junior_finale__Q01]]
 
 
 
@@ -72,7 +71,6 @@ level: kangourou
 > Observing two spheres of different radii from a distance, they appear to you to be the same size (as, for example, could happen with the sun and the moon). However, the distance of the larger one from you is $100$ times the distance of the smaller one (assume that the distances are measured between you and the centers of the spheres). What is the ratio between the volume of the larger one and the volume of the smaller one?
 
 **Answer:** 1,000,000
-[[Quesiti/src_kangourou_2021_junior_finale#q02|src_kangourou_2021_junior_finale__Q02]]
 
 
 
@@ -117,7 +115,6 @@ level: kangourou
 > At the end of these operations we want to restore in each container the initial quantity of water, minimizing the number of pourings. By adopting a suitable strategy, how many pourings might be needed, at most?
 
 **Answer:** 9
-[[Quesiti/src_kangourou_2021_junior_finale#q03|src_kangourou_2021_junior_finale__Q03]]
 
 
 
@@ -179,7 +176,6 @@ level: kangourou
 > In the figure you see a plane net of a cube, that is, a possible arrangement in the plane of the faces of the cube so that you can reconstruct the cube by folding the figure along the sides common to two faces. How many different plane nets of a cube are there, considering identical two developments achievable from each other by rotation and/or reflection? (see figure)
 
 **Answer:** 11
-[[Quesiti/src_kangourou_2021_junior_finale#q04|src_kangourou_2021_junior_finale__Q04]]
 
 
 
@@ -216,7 +212,6 @@ level: kangourou
 > b) $m = 2020$ and $n = 2021$?
 
 **Answer:** a)No b)Yes
-[[Quesiti/src_kangourou_2021_junior_finale#q05|src_kangourou_2021_junior_finale__Q05]]
 
 
 
@@ -243,5 +238,3 @@ level: kangourou
 *Prove c1+..+cn>=n if product ci=1 (AM-GM)*
 
 > Show that for any $n$-tuple $c_1, c_2, \ldots, c_n$ of positive numbers the product of which is $1$, $$c_1 + c_2 + \cdots + c_n \geq n.$$
-
-[[Quesiti/src_kangourou_2021_junior_finale#q06|src_kangourou_2021_junior_finale__Q06]]

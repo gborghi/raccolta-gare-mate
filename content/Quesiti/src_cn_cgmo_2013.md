@@ -37,8 +37,6 @@ level: China Girls' Mathematical Olympiad
 
 ![[src_cn_cgmo_b11_w225__q02.png]]
 
-[[Quesiti/src_cn_cgmo_2013#q02|src_cn_cgmo_2013__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_doppio_conteggio,method_estremalita,skill_modellizzazione,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -63,8 +61,6 @@ level: China Girls' Mathematical Olympiad
 *In un gruppo bipartito, coppie di conoscenze tra ragazzi e ragazze legate*
 
 > In un gruppo di ragazze $n$ e di ragazzi $n$, entrambi si conoscono o non si conoscono. Per ogni due ragazzi e due ragazze, almeno un ragazzo e una ragazza non si conoscono. Prova che il numero di coppie di ragazzi e ragazze che si conoscono è massimo $\dfrac{n(n-1)}{2}$.
-
-[[Quesiti/src_cn_cgmo_2013#q03|src_cn_cgmo_2013__Q03]]
 
 
 
@@ -99,8 +95,6 @@ level: China Girls' Mathematical Olympiad
 > 
 > (2) la differenza di due numeri tra $f(1), f(2), \ldots, f(2013)$ non è un multiple di $2013$.
 
-[[Quesiti/src_cn_cgmo_2013#q04|src_cn_cgmo_2013__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_modellizzazione,skill_stima"></span>
@@ -127,8 +121,6 @@ level: China Girls' Mathematical Olympiad
 
 > Date cifre reali positive $a_1, a_2, \ldots, a_n$. Prove che esistono numeri reali positivi $x_1, x_2, \ldots, x_n$ in modo tale che $\displaystyle\sum_{k=1}^{n} x_k = 1$ e che per tutti i numeri reali positivi $y_1, y_2, \ldots, y_n$ che soddisfano $\displaystyle\sum_{k=1}^{n} y_k = 1$, si ha $$\sum_{k=1}^{n} \frac{a_k}{x_k} \le \sum_{k=1}^{n} \frac{a_k}{y_k}.$$
 
-[[Quesiti/src_cn_cgmo_2013#q05|src_cn_cgmo_2013__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_invarianti,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -153,8 +145,6 @@ level: China Girls' Mathematical Olympiad
 *Ricerca tutte le dimensioni dei sottoinsiemi di Z/99Z chiusi sotto i punti di mezzo*
 
 > Il $S$ deve essere un sottoinsieme di $m$ elementi di $\{0, 1, 2, \ldots, 99\}$, $m \ge 3$, in modo tale che per qualsiasi $x, y \in S$ esista $z \in S$ con $x + y \equiv 2z \pmod{99}$. Trova tutti i valori possibili di $m$.
-
-[[Quesiti/src_cn_cgmo_2013#q06|src_cn_cgmo_2013__Q06]]
 
 
 
@@ -185,8 +175,6 @@ level: China Girls' Mathematical Olympiad
 
 ![[src_cn_cgmo_b11_w225__q07.png]]
 
-[[Quesiti/src_cn_cgmo_2013#q07|src_cn_cgmo_2013__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,method_invarianti,method_induzione,method_casework,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -211,5 +199,3 @@ level: China Girls' Mathematical Olympiad
 *N-gon regolare con vertici etichettati, parità di bordi e incroci positivi differiscono*
 
 > $n \ge 4$ sia un numero pari. Al vertice di un normale $n$-gon scriviamo in modo arbitrario $n$ numeri reali distinti. Partendo da un bordo, chiamiamo tutti i bordi in senso orario con $e_1, e_2, \ldots, e_n$. Un bordo è chiamato \textit{positivo} se la differenza dei numeri al suo punto di fine e al suo punto di partenza è positiva. Un insieme di due bordi $\{e_i, e_j\}$ ($1 \le i < j \le n$) viene chiamato \textit{crossing} se $j - i$ è strano, i due bordi non hanno un vertice comune, e le quattro vertici di $e_i$ e $e_j$ si alternano intorno al poligono. Prove che il numero di incroci tra i bordi positivi e il numero di bordi positivi hanno parità diversa.
-
-[[Quesiti/src_cn_cgmo_2013#q08|src_cn_cgmo_2013__Q08]]

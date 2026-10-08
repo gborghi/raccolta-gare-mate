@@ -50,7 +50,6 @@ level: 2 livello
 > - **(E)** 34
 
 **Answer:** E
-[[Quesiti/src_archimede_2015_febb_2livello#q01|src_archimede_2015_febb_2livello__Q01]]
 
 
 
@@ -86,7 +85,6 @@ level: 2 livello
 > A sequence of a1. . . , a100 of real numbers is such that the arithmetic mean between two consecutive terms is always equal to the index of the second term (e.g., we have a4+a5 2 = 5); what is the sum of the 100 numbers in the sequence? (A) 2550 (B) 5050 (C) 5100 (D) 10100 (E) It cannot be determined: it depends on a1.
 
 **Answer:** C
-[[Quesiti/src_archimede_2015_febb_2livello#q02|src_archimede_2015_febb_2livello__Q02]]
 
 
 
@@ -178,7 +176,6 @@ level: 2 livello
 > - **(E)** None of the above.
 
 **Answer:** A
-[[Quesiti/src_archimede_2015_febb_2livello#q03|src_archimede_2015_febb_2livello__Q03]]
 
 
 
@@ -234,7 +231,6 @@ level: 2 livello
 > - **(E)** 4
 
 **Answer:** D
-[[Quesiti/src_archimede_2015_febb_2livello#q04|src_archimede_2015_febb_2livello__Q04]]
 
 
 
@@ -278,7 +274,6 @@ level: 2 livello
 > - **(E)** 12
 
 **Answer:** C
-[[Quesiti/src_archimede_2015_febb_2livello#q05|src_archimede_2015_febb_2livello__Q05]]
 
 
 
@@ -322,7 +317,6 @@ level: 2 livello
 > - **(E)** Depends on the starting triangle.
 
 **Answer:** B
-[[Quesiti/src_archimede_2015_febb_2livello#q06|src_archimede_2015_febb_2livello__Q06]]
 
 
 
@@ -364,7 +358,6 @@ level: 2 livello
 > - **(E)** 11
 
 **Answer:** B
-[[Quesiti/src_archimede_2015_febb_2livello#q07|src_archimede_2015_febb_2livello__Q07]]
 
 
 
@@ -411,7 +404,6 @@ level: 2 livello
 > - **(E)** 18 m2
 
 **Answer:** D
-[[Quesiti/src_archimede_2015_febb_2livello#q08|src_archimede_2015_febb_2livello__Q08]]
 
 
 
@@ -459,7 +451,6 @@ level: 2 livello
 > - **(E)** 1 4
 
 **Answer:** E
-[[Quesiti/src_archimede_2015_febb_2livello#q09|src_archimede_2015_febb_2livello__Q09]]
 
 
 
@@ -507,7 +498,6 @@ level: 2 livello
 > - **(E)** 2015 · 21008
 
 **Answer:** B
-[[Quesiti/src_archimede_2015_febb_2livello#q10|src_archimede_2015_febb_2livello__Q10]]
 
 
 
@@ -553,7 +543,6 @@ level: 2 livello
 > - **(E)** 85
 
 **Answer:** D
-[[Quesiti/src_archimede_2015_febb_2livello#q11|src_archimede_2015_febb_2livello__Q11]]
 
 
 
@@ -599,7 +588,6 @@ level: 2 livello
 > - **(E)** 24 Problems with a numerical answer  5 points
 
 **Answer:** C
-[[Quesiti/src_archimede_2015_febb_2livello#q12|src_archimede_2015_febb_2livello__Q12]]
 
 
 
@@ -630,7 +618,6 @@ level: 2 livello
 > How much is 4p 220 + 227 + 231 + 232 + 237 + 240 ?
 
 **Answer:** 1056
-[[Quesiti/src_archimede_2015_febb_2livello#q13|src_archimede_2015_febb_2livello__Q13]]
 
 
 
@@ -663,7 +650,6 @@ level: 2 livello
 > A flea is initially located on a top of a regular 2015-sided polygon; it performs a sequence of anti-clockwise jumps: at the first jump it moves from a top (from the initial to the nearest), to the second of three, to the third of five, and so on, so that atn-eighth it starts from a top and lands 2n −1 vertices further up, always in anti-clockwise direction. After how many jumps will it be the first time the fleas land on a summit they've already visited?
 
 **Answer:** 48
-[[Quesiti/src_archimede_2015_febb_2livello#q14|src_archimede_2015_febb_2livello__Q14]]
 
 
 
@@ -701,8 +687,6 @@ level: 2 livello
 
 > Camilla has a box containing 2015 graffiti. He takes a positive number n and puts them on Federica's bench, challenging her to the next game. Federica has two types of moves: she can remove 3 graffiti from the pile she has on her bench (if the pile contains at least 3 graffiti), or she can remove half of the graffiti present (if the pile contains an equal number). Federica wins if, with a sequence of moves of the types described above, she manages to remove all the graffiti from her desk. (a) For how many of the 2015 possible values of n can Federica win? (b) The girls change the rules of the game and decide to award the victory to Federica in case she manages to leave a single graffiti on the bench. For how many of the 2015 values can Federica win with the new rules?
 
-[[Quesiti/src_archimede_2015_febb_2livello#q15|src_archimede_2015_febb_2livello__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
@@ -738,8 +722,6 @@ level: 2 livello
 
 > Demonstrative Exercise Whether ABCD is a convex quadrilateral such that AB = AC = AD and BC < CD. The intersection of the angle \ BAD intersects internally the CD in M and the BC extension in N. Demonstrate that (a) the ABCM quadrilateral is inscribed in a circumference; (b) the ANB and ABM triangles are similar.
 
-[[Quesiti/src_archimede_2015_febb_2livello#q16|src_archimede_2015_febb_2livello__Q16]]
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_casework_accurato"></span>
@@ -770,5 +752,3 @@ level: 2 livello
 *value of k and n*
 
 > Demonstrative Exercise Whether n is a positive integer and whether 1 = d1 < d2 < d3 < . . . < dk = n of its positive divisors, ordered by size. We know that k ≥4 and that d2 3 + d2 4 = 2n + 1. (a) Find all possible values of k. (b) Find all possible values of n.
-
-[[Quesiti/src_archimede_2015_febb_2livello#q17|src_archimede_2015_febb_2livello__Q17]]

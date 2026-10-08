@@ -39,7 +39,6 @@ level: Coupe Animath Printemps
 > *Solo una risposta numerica è prevista qui.*
 
 **Risposta:** 16
-[[Quesiti/src_canimath_2023_printemps#q01|src_canimath_2023_printemps__Q01]]
 
 
 
@@ -64,8 +63,6 @@ level: Coupe Animath Printemps
 *Nel triangolo ABC con angolo CAB = 20 gradi, D il punto medio di [AB], e angolo CDB = 40 gradi; trovare angolo ABC.*
 
 > $ABC$ sia un triangolo soddisfacente $\widehat{CAB} = 20^\circ$. Il segmento $[AB]$ deve essere il punto medio di $D$. Supponiamo che $\widehat{CDB} = 40^\circ$. Qual è l'angolo $\widehat{ABC}$?
-
-[[Quesiti/src_canimath_2023_printemps#q02|src_canimath_2023_printemps__Q02]]
 
 
 
@@ -100,8 +97,6 @@ level: Coupe Animath Printemps
 
 ![[src_canimath_2023_printemps__q03.png]]
 
-[[Quesiti/src_canimath_2023_printemps#q03|src_canimath_2023_printemps__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -127,8 +122,6 @@ level: Coupe Animath Printemps
 
 > Che $ABCDE$ sia un pentagono i cui lati hanno la stessa lunghezza, in modo tale che gli angoli $\widehat{BCD}$ e $\widehat{CDE}$ siano angoli rettangolari, e in modo tale che il punto $A$ non si trovi all'interno del quadrilaterale $BCDE$. Il punto di intersezione delle linee $(AC)$ e $(BD)$ è $P$. Mostra che $AP = PD$.
 
-[[Quesiti/src_canimath_2023_printemps#q04|src_canimath_2023_printemps__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_disuguaglianze,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -153,8 +146,6 @@ level: Coupe Animath Printemps
 *Le classi di Theo sono numeri interi da 1 a 5 con una media massima di 3; sostituisce ogni nota uguale a 1 con una 3; mostra che la nuova media rimane massima di 4.*
 
 > Theo ha ricevuto i suoi voti per il trimestre, che sono tutti numeri interi tra $1$ e $5$ (inclusivo). Egli osserva che la media dei suoi voti è inferiore o uguale a $3$. Per non essere privato di dessert per una settimana, intende quindi sostituire, nella sua relazione, tutti i suoi voti pari a $1$ con tanti voti pari a $3$. Mostrare che dopo questa trasformazione, la media delle classi rimane inferiore o uguale a $4$.
-
-[[Quesiti/src_canimath_2023_printemps#q05|src_canimath_2023_printemps__Q05]]
 
 
 
@@ -193,8 +184,6 @@ level: Coupe Animath Printemps
 > 
 > b) Esiste un numero intero $n \geqslant 2$ tale da $s(n) = 2023$?
 
-[[Quesiti/src_canimath_2023_printemps#q06|src_canimath_2023_printemps__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_stima"></span>
@@ -223,8 +212,6 @@ level: Coupe Animath Printemps
 > Si consideri una griglia $10 \times 10$, composta da celle $100$. Le righe della griglia sono numerate dall'alto al basso in ordine da $1$ a $10$: la riga superiore ha il numero $1$, la riga inferiore ha il numero $10$. Le colonne della griglia sono numerate da sinistra a destra in ordine da $1$ a $10$: la colonna più sinistra ha il numero $1$, la colonna più destra ha il numero $10$. Martin colora alcune celle della griglia in modo tale che, per ogni cella di colore $c$, vi sia almeno una cella di colore diversa da $c$ il cui numero di colonne è maggiore o uguale a quello della colonna di $c$ e il cui numero di righe è maggiore o uguale a quello della riga di $c$.
 > 
 > Qual è il numero massimo di cellule che Martin può colorare?
-
-[[Quesiti/src_canimath_2023_printemps#q07|src_canimath_2023_printemps__Q07]]
 
 
 
@@ -257,7 +244,6 @@ level: Coupe Animath Printemps
 > *Solo una risposta numerica è prevista qui.*
 
 **Risposta:** 111
-[[Quesiti/src_canimath_2023_printemps#q08|src_canimath_2023_printemps__Q08]]
 
 
 
@@ -282,8 +268,6 @@ level: Coupe Animath Printemps
 *Nel triangolo ABC con angolo CAB = 20 gradi, D il punto medio di [AB], e angolo CDB = 40 gradi; trovare angolo ABC.*
 
 > $ABC$ sia un triangolo soddisfacente $\widehat{CAB} = 20^\circ$. Il segmento $[AB]$ deve essere il punto medio di $D$. Supponiamo che $\widehat{CDB} = 40^\circ$. Qual è l'angolo $\widehat{ABC}$?
-
-[[Quesiti/src_canimath_2023_printemps#q09|src_canimath_2023_printemps__Q09]]
 
 
 
@@ -315,8 +299,6 @@ Usando i numeri da 1 a 22 esattamente una volta ciascuno come numeratori e denom
 > 
 > Antoine vuole avere il maggior numero possibile di frazioni con valori interi tra le frazioni che scrive: nell'esempio sopra, si può vedere che ha scritto tre frazioni con valori interi, vale a dire $\frac{10}{2} = 5$, $\frac{15}{5} = 3$ e $\frac{20}{1} = 20$. Qual è il numero massimo di frazioni che possono avere valori interi?
 
-[[Quesiti/src_canimath_2023_printemps#q10|src_canimath_2023_printemps__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_aritmetica,method_cassetti,method_conteggio,skill_modellizzazione,skill_conteggio_sistematico,skill_stima"></span>
@@ -342,8 +324,6 @@ Usando i numeri da 1 a 22 esattamente una volta ciascuno come numeratori e denom
 
 > $a_1, \ldots, a_{100}$ siano $100$ numeri interi distinti come $1 \leqslant a_1 < a_2 < \cdots < a_{100} \leqslant 400$. Per ogni numero intero $i$ tale da $1 \leqslant i \leqslant 99$, impostare $d_i = a_{i+1} - a_i$. Mostrare che almeno $15$ dei numeri tra $d_1, d_2, \ldots, d_{99}$ sono uguali l'uno all'altro.
 
-[[Quesiti/src_canimath_2023_printemps#q11|src_canimath_2023_printemps__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -368,8 +348,6 @@ Usando i numeri da 1 a 22 esattamente una volta ciascuno come numeratori e denom
 *In un rombo ABCD con E l'intersezione dei diagonali, F il punto medio di [BE], G il punto medio di [AD], I l'intersezione di (FG) e (AC), e K il riflesso di A attraverso I; trovare EK/EA.*
 
 > Che $ABCD$ sia un rombo e che $E$ sia il punto di intersezione delle diagonali. Il segmento $F$ è il punto medio del segmento $[BE]$ e il segmento $G$ è il punto medio del segmento $[AD]$. Il $I$ è il punto di intersezione delle linee $(FG)$ e $(AC)$, e il $K$ è il punto simmetrico di $A$ rispetto al punto $I$. Qual è il valore di $\dfrac{EK}{EA}$?
-
-[[Quesiti/src_canimath_2023_printemps#q12|src_canimath_2023_printemps__Q12]]
 
 
 
@@ -399,8 +377,6 @@ Usando i numeri da 1 a 22 esattamente una volta ciascuno come numeratori e denom
 > Si consideri una griglia $10 \times 10$, composta da celle $100$. Le righe della griglia sono numerate dall'alto al basso in ordine da $1$ a $10$: la riga superiore ha il numero $1$, la riga inferiore ha il numero $10$. Le colonne della griglia sono numerate da sinistra a destra in ordine da $1$ a $10$: la colonna più sinistra ha il numero $1$, la colonna più destra ha il numero $10$. Martin colora alcune celle della griglia in modo tale che, per ogni cella di colore $c$, vi sia al massimo una cella di colore diversa da $c$ il cui numero di colonne è maggiore o uguale a quello della colonna di $c$ e il cui numero di righe è maggiore o uguale a quello della riga di $c$.
 > 
 > Qual è il numero massimo di cellule che Martin può colorare?
-
-[[Quesiti/src_canimath_2023_printemps#q13|src_canimath_2023_printemps__Q13]]
 
 
 
@@ -439,8 +415,6 @@ Per quali integri positivi n Aline può scrivere 2n numeri reali, non tutti ugua
 > 
 > Per quali valori di $n$ Aline può realizzare il suo desiderio?
 
-[[Quesiti/src_canimath_2023_printemps#q14|src_canimath_2023_printemps__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,topic_aritmetica,method_induzione,method_casework,method_estremalita,skill_modellizzazione,skill_astrazione,skill_conteggio_sistematico"></span>
@@ -476,5 +450,3 @@ Per quali integri positivi n Aline può scrivere 2n numeri reali, non tutti ugua
 > a) Indicare che $n^2 - 2n$ è ** non ** speciale.
 > 
 > b) Trova tutti i numeri speciali.
-
-[[Quesiti/src_canimath_2023_printemps#q15|src_canimath_2023_printemps__Q15]]

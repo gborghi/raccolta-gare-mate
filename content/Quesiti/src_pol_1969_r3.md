@@ -35,8 +35,6 @@ level: Olimpiade Polacca Round 3
 
 > Prova che se i numeri reali $a, b, c$ soddisfano l'uguaglianza $$\frac{a}{m+2} + \frac{b}{m+1} + \frac{c}{m} = 0$$ per un certo numero positivo $m$, allora l'equazione $ax^2 + bx + c = 0$ ha una radice tra 0 e 1.
 
-[[Quesiti/src_pol_1969_r3#q01|src_pol_1969_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_disuguaglianze,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima"></span>
@@ -62,8 +60,6 @@ level: Olimpiade Polacca Round 3
 *Ricerca la somma minima delle deviazioni assolute da numeri reali distinti*
 
 > Date i numeri reali $a_1, a_2, \ldots, a_n$ distinti, trovare il valore minimo della funzione $$y = |x - a_1| + |x - a_2| + \cdots + |x - a_n|, \quad x \in \mathbb{R}.$$
-
-[[Quesiti/src_pol_1969_r3#q02|src_pol_1969_r3__Q02]]
 
 
 
@@ -92,8 +88,6 @@ level: Olimpiade Polacca Round 3
 
 > Indicare che se i numeri naturali $a, b, p, q, r, s$ soddisfano le condizioni $$qr - ps = 1 \quad \text{and} \quad \frac{p}{q} < \frac{a}{b} < \frac{r}{s},$$ $b \ge q + s$.
 
-[[Quesiti/src_pol_1969_r3#q03|src_pol_1969_r3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,method_invarianti,method_simmetria,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -118,8 +112,6 @@ level: Olimpiade Polacca Round 3
 *Una figura con esattamente n assi di simmetria nello spazio richiede n odd*
 
 > Prova che se una figura ha esattamente $n$ assi di simmetria nello spazio, allora $n$ deve essere impar.
-
-[[Quesiti/src_pol_1969_r3#q04|src_pol_1969_r3__Q04]]
 
 
 
@@ -146,8 +138,6 @@ level: Olimpiade Polacca Round 3
 
 > Prova che un ottagono, i cui angoli sono tutti uguali e tutti i lati hanno una lunghezza razionale, ha un centro di simmetria.
 
-[[Quesiti/src_pol_1969_r3#q05|src_pol_1969_r3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_geometria_solida,method_casework,method_induzione,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -172,5 +162,3 @@ level: Olimpiade Polacca Round 3
 *Determine quale n permette un poliedro con esattamente n bordi*
 
 > Per quali valori di $n$ esiste un poliedro con bordi $n$?
-
-[[Quesiti/src_pol_1969_r3#q06|src_pol_1969_r3__Q06]]

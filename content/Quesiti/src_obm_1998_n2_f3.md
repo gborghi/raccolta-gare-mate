@@ -33,8 +33,6 @@ level: OBM Nível 2
 
 > Prove che in qualsiasi pentagono converso esistono due angoli interni consecutivi la cui somma è maggiore o uguale a $216^\circ$.
 
-[[Quesiti/src_obm_1998_n2_f3#q01|src_obm_1998_n2_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -59,8 +57,6 @@ level: OBM Nível 2
 *Find angolo BAC dato punti di mezzo e condizioni di angolo uguale in triangolo*
 
 > Nel triangolo $ABC$, $D$ è il punto medio di $AB$ e $E$ è il punto laterale $BC$ in modo tale che $BE = 2 \cdot EC$. Dato che gli angoli $ADC$ e $BAE$ sono uguali, trovare l'angolo $BAC$.
-
-[[Quesiti/src_obm_1998_n2_f3#q02|src_obm_1998_n2_f3__Q02]]
 
 
 
@@ -97,8 +93,6 @@ level: OBM Nível 2
 > 
 > Determinare il numero massimo di pin che possono essere posizionati.
 
-[[Quesiti/src_obm_1998_n2_f3#q03|src_obm_1998_n2_f3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
@@ -123,5 +117,3 @@ level: OBM Nível 2
 *Tra i 15 naturali > 1 e < 1998 copriamo in copriamo, almeno uno è primo*
 
 > Si devono dare 15 numeri naturali superiori a $1$ e inferiori a $1998$ in modo tale che due di essi siano copriemi. Prova che almeno uno di questi 15 numeri è primo.
-
-[[Quesiti/src_obm_1998_n2_f3#q04|src_obm_1998_n2_f3__Q04]]

@@ -33,8 +33,6 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 
 > Consider the sequence of integers whose first two terms are, in order, $1007$ and $10017$, and each subsequent term is obtained from the previous one by inserting an additional digit $1$ after the first three digits $100$ (hence $1007, 10017, 100117, 1001117, \ldots$). Show that every integer in the sequence is divisible by $53$.
 
-[[Quesiti/src_kangourou_2022_junior_finale#qj1|src_kangourou_2022_junior_finale__QJ1]]
-
 
 
 <span class="atom-split" id="qj2" data-atom="qj2" data-title="Quesito J2" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
@@ -87,8 +85,7 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 
 > In the figure you can see three circles of radius $1$, each passing through the centre of the other two, and a smaller circle contained in each of the three and tangent to them internally. What is the radius of the latter? (see figure)
 
-**Answer:** 1 - 1/raddt3
-[[Quesiti/src_kangourou_2022_junior_finale#qj2|src_kangourou_2022_junior_finale__QJ2]]
+**Answer:** 1 - 1/sqrt3
 
 
 
@@ -121,7 +118,6 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 > In the figure you can see a region of the plane obtained by joining $36$ squares all equal to each other, and a tile obtained by joining two squares identical to those of the region (the $2 \times 1$ tile). How many tiles of this type can you have at most in the region so that each one covers exactly two squares of the region and does not overlap (even partially)? You can use the figure to indicate how to arrange the tiles, but remember that you also have to justify why you can't place a larger number. (see figure)
 
 **Answer:** 15
-[[Quesiti/src_kangourou_2022_junior_finale#qj3|src_kangourou_2022_junior_finale__QJ3]]
 
 
 
@@ -152,7 +148,6 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 > $$\frac{1}{m} + \frac{1}{n} = \frac{1}{2022}\,?$$
 
 **Answer:** 27
-[[Quesiti/src_kangourou_2022_junior_finale#qj4|src_kangourou_2022_junior_finale__QJ4]]
 
 
 
@@ -183,8 +178,6 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 
 > Two congruent squares, one with a red and the other with a green edge, are arranged in the plane so that their intersection is an octagon (the centers of the two squares may not coincide). Show that the sum of the lengths of the red sides of the octagon coincides with the sum of the lengths of the green sides.
 
-[[Quesiti/src_kangourou_2022_junior_finale#qj5|src_kangourou_2022_junior_finale__QJ5]]
-
 
 
 <span class="atom-split" id="qj6" data-atom="qj6" data-title="Quesito J6" data-tags="topic_aritmetica,method_cassetti,skill_astrazione"></span>
@@ -209,5 +202,3 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 *The final 10-digit number has at least two equal digits*
 
 > Consider the number $2023^{2022}$ in decimal notation; take its first digit from the right (the units digit) and add it to the number obtained by the remaining digits. Continue this way until you get a $10$-digit number. Prove that this number you obtained has at least two equal digits.
-
-[[Quesiti/src_kangourou_2022_junior_finale#qj6|src_kangourou_2022_junior_finale__QJ6]]

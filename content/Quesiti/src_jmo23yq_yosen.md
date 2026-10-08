@@ -35,7 +35,6 @@ level: JMO Yosen
 > Per tre integri positivi $x, y, z$ il cui più piccolo multiplo comune è $2100$, trovare il minimo valore possibile di $x + y + z$.
 
 **Risposta:** 44
-[[Quesiti/src_jmo23yq_yosen#q01|src_jmo23yq_yosen__Q01]]
 
 
 
@@ -73,7 +72,6 @@ level: JMO Yosen
 > Trova tutti gli enti che sono scritti nella stessa posizione (la stessa cella) in entrambe le griglie.
 
 **Risposta:** 87, 174
-[[Quesiti/src_jmo23yq_yosen#q02|src_jmo23yq_yosen__Q02]]
 
 
 
@@ -106,7 +104,6 @@ level: JMO Yosen
 ![[src_jmo23yq_yosen__q03.png]]
 
 **Risposta:** $\dfrac{\sqrt{3}}{6}$
-[[Quesiti/src_jmo23yq_yosen#q03|src_jmo23yq_yosen__Q03]]
 
 
 
@@ -135,7 +132,6 @@ level: JMO Yosen
 > Nel polinomio $(x+1)^3 (x+2)^3 (x+3)^3$, $a_k$ indica il coefficiente di $x^k$. Trova il valore di $a_0 + a_2 + a_4 + a_6$.
 
 **Risposta:** 6696
-[[Quesiti/src_jmo23yq_yosen#q04|src_jmo23yq_yosen__Q04]]
 
 
 
@@ -163,8 +159,7 @@ level: JMO Yosen
 
 > Ci sono due cerchi $O_1, O_2$ che si incrociano a due punti distinti $P$ e $Q$. La tangenza al cerchio $O_1$ a $P$ incontra nuovamente il cerchio $O_2$ a un punto $R$ (diferente da $P$), e la tangenza al cerchio $O_2$ a $Q$ incontra nuovamente il cerchio $O_1$ a un punto $S$ (diferente da $Q$). Inoltre, la linea $PR$ e la linea $QS$ si incrociano in un punto $X$. Considerato il $XR = 9$ e il $XS = 2$, scoprire quante volte il raggio di $O_2$ è confrontato con il raggio di $O_1$ (cioè il rapporto tra il raggio di $O_2$ e quello di $O_1$). Qui $YZ$ indica la lunghezza del segmento $YZ$.
 
-**Risposta:** $\sqrt[3]{\dfrac{2}{9}}$ times
-[[Quesiti/src_jmo23yq_yosen#q05|src_jmo23yq_yosen__Q05]]
+**Risposta:** $\sqrt[3]{\dfrac{2}{9}}$ volte
 
 
 
@@ -193,7 +188,6 @@ Distribuire 24 cioccolatini a 3 persone evitando una condizione
 > Ci sono due tipi di caramelle, $A$ e $B$, con $24$ pezzi di ciascuna. Distribuiamo tutto questo tra tre persone senza rimanere nessuna. Tra tali distribuzioni, quante ci sono per le quali NON esistono due persone che soddisfino la seguente condizione? Condizione: una delle due persone riceve $a$ pezzi di $A$ e $b$ pezzi di $B$, l'altra riceve $a'$ pezzi di $A$ e $b'$ pezzi di $B$, e entrambe $a \le a'$ e $b \le b'$ sono tenute.
 
 **Risposta:** 14017
-[[Quesiti/src_jmo23yq_yosen#q06|src_jmo23yq_yosen__Q06]]
 
 
 
@@ -223,7 +217,6 @@ Distribuire 24 cioccolatini a 3 persone evitando una condizione
 > Quanti tuppi $(x_1, \ldots, x_{25})$ di numeri interi non negativi soddisfano l'equazione $$x_1^2 + \cdots + x_{25}^2 = 2 + x_1 x_2 + x_2 x_3 + \cdots + x_{24} x_{25}?$$
 
 **Risposta:** 29900
-[[Quesiti/src_jmo23yq_yosen#q07|src_jmo23yq_yosen__Q07]]
 
 
 
@@ -252,7 +245,6 @@ Distribuire 24 cioccolatini a 3 persone evitando una condizione
 > C'è un quadrilaterale convex $ABCD$ le cui diagonali $AC$ e $BD$ si incontrano perpendicolare in un punto $X$, con $AX = 5$, $BX = 6$, $CX = 20$. Considerate il cerchio $C_1$ centrato a $A$ con raggio $AX$, il cerchio $C_2$ centrato a $B$ con raggio $BX$, il cerchio $C_3$ centrato a $C$ con raggio $CX$ e il cerchio $C_4$ centrato a $D$ con raggio $DX$. Quando esiste un cerchio tangente a tutti e quattro i cerchi $C_1, C_2, C_3, C_4$, trovare $DX$. Qui $YZ$ indica la lunghezza del segmento $YZ$.
 
 **Risposta:** 12
-[[Quesiti/src_jmo23yq_yosen#q08|src_jmo23yq_yosen__Q08]]
 
 
 
@@ -281,7 +273,6 @@ Distribuire 24 cioccolatini a 3 persone evitando una condizione
 > Trova tutti i divisori di $10^{2013} - 1$ che sono almeno $1$ e al massimo $100$.
 
 **Risposta:** 1, 3, 9, 27, 37, 67
-[[Quesiti/src_jmo23yq_yosen#q09|src_jmo23yq_yosen__Q09]]
 
 
 
@@ -310,7 +301,6 @@ Distribuire 24 cioccolatini a 3 persone evitando una condizione
 > Ci sono carte $2013$ numerate $0, 1, \ldots, 2012$. A partire da uno stato in cui tutte le carte sono rivolte verso il basso, viene eseguita la seguente operazione per $i = 1, 2, \ldots, 2013$ in questo ordine. Operazione $i$: girare ogni carta il cui numero è $\left\lfloor \dfrac{2013 j}{i} \right\rfloor$ per un certo numero intero $j$ con $0 \le j \le i-1$ (una carta a faccia in giù diventa faccia in su, e una carta a faccia in su diventa faccia in giù). Quando tutte le operazioni sono terminate, quante carte sono rivolte in faccia? Qui, per un numero reale $r$, $\lfloor r \rfloor$ indica il numero intero più grande non superiore a $r$.
 
 **Risposta:** 793
-[[Quesiti/src_jmo23yq_yosen#q10|src_jmo23yq_yosen__Q10]]
 
 
 
@@ -339,7 +329,6 @@ Distribuire 24 cioccolatini a 3 persone evitando una condizione
 > $n$ sia un numero intero positivo. In $xyz$-spazio, considera la regione $0 \le x, y, z \le n$ e chiama un segmento di lunghezza $1$ che unisce due punti della griglia un bordo della griglia. Supponiamo che ogni bordo della reticola abbia un orientamento (per un bordo della reticola $AB$, $A \to B$ o $B \to A$). Ciascuno dei lati $4$ di un quadrato unitario è un margine di reticola; un quadrato unitario il cui margine $4$ orientazioni girano attorno a esso (formano un ciclo diretto) è chiamato quadrato di reticola. Due quadrati della griglia sono considerati congruenti quando, mediante rotazione e traduzione, gli orientamenti di tutti i loro bordi possono coincidere. In quanti modi i bordi della griglia possono essere orientati in modo che tutti i quadrati della griglia siano reciprocamente congruenti?
 
 **Risposta:** $2^{(n+1)^3 - 1} + 2^{3n} + 2$
-[[Quesiti/src_jmo23yq_yosen#q11|src_jmo23yq_yosen__Q11]]
 
 
 
@@ -370,4 +359,3 @@ Distribuire 24 cioccolatini a 3 persone evitando una condizione
 > Che $a_1, a_2, \ldots$ sia una sequenza infinita di differenti reali non-zero in modo tale che $\dfrac{a_{i+1}}{a_i} + \dfrac{a_{i+1}}{a_{i+2}}$ prenda un unico valore fisso, maggiore di $0$ e inferiore a $2$, per tutti gli integri positivi $i$. Trovare, in termini di $a_1, a_2, a_3$, il valore minimo di un numero reale $c$ per il quale si applica la seguente condizione. Condizione: per tutti gli integri positivi $x, y$ con $x < y$, $$\frac{a_x a_{x+1} + a_{x+1} a_{x+2} + \cdots + a_{y-1} a_y}{a_x a_y} \le c$$ è valido.
 
 **Risposta:** $\dfrac{2}{\sqrt{\,4 - \left(\dfrac{a_2}{a_1} + \dfrac{a_2}{a_3}\right)^2\,}}$
-[[Quesiti/src_jmo23yq_yosen#q12|src_jmo23yq_yosen__Q12]]

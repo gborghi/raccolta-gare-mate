@@ -34,7 +34,6 @@ level: JMO Yosen
 > [Dichiarazione di problema non disponibile: la pagina sorgente fornita è la scheda delle risposte (解答用紙) della 33a Olimpiada matematica giapponese preliminare, che non contiene dichiarazioni di problema. In questa pagina viene data solo la risposta finale.]
 
 **Risposta:** 90
-[[Quesiti/src_jmo33ya_yosen#q01|src_jmo33ya_yosen__Q01]]
 
 
 
@@ -62,7 +61,6 @@ level: JMO Yosen
 > [Dichiarazione di problema non disponibile: la pagina sorgente fornita è la scheda delle risposte (解答用紙) della 33a Olimpiada matematica giapponese preliminare, che non contiene dichiarazioni di problema. In questa pagina viene data solo la risposta finale.]
 
 **Risposta:** 22
-[[Quesiti/src_jmo33ya_yosen#q02|src_jmo33ya_yosen__Q02]]
 
 
 
@@ -90,7 +88,6 @@ level: JMO Yosen
 > [Dichiarazione di problema non disponibile: la pagina sorgente fornita è la scheda delle risposte (解答用紙) della 33a Olimpiada matematica giapponese preliminare, che non contiene dichiarazioni di problema. In questa pagina viene data solo la risposta finale.]
 
 **Risposta:** \frac{7}{9}
-[[Quesiti/src_jmo33ya_yosen#q03|src_jmo33ya_yosen__Q03]]
 
 
 
@@ -118,7 +115,6 @@ level: JMO Yosen
 > [Dichiarazione di problema non disponibile: la pagina sorgente fornita è la scheda delle risposte (解答用紙) della 33a Olimpiada matematica giapponese preliminare, che non contiene dichiarazioni di problema. In questa pagina viene data solo la risposta finale.]
 
 **Risposta:** \frac{100}{495001}
-[[Quesiti/src_jmo33ya_yosen#q04|src_jmo33ya_yosen__Q04]]
 
 
 
@@ -146,7 +142,6 @@ level: JMO Yosen
 > [Dichiarazione di problema non disponibile: la pagina sorgente fornita è la scheda delle risposte (解答用紙) della 33a Olimpiada matematica giapponese preliminare, che non contiene dichiarazioni di problema. In questa pagina viene data solo la risposta finale.]
 
 **Risposta:** 360
-[[Quesiti/src_jmo33ya_yosen#q05|src_jmo33ya_yosen__Q05]]
 
 
 
@@ -174,7 +169,6 @@ level: JMO Yosen
 > [Dichiarazione di problema non disponibile: la pagina sorgente fornita è la scheda delle risposte (解答用紙) della 33a Olimpiada matematica giapponese preliminare, che non contiene dichiarazioni di problema. In questa pagina viene data solo la risposta finale.]
 
 **Risposta:** 222
-[[Quesiti/src_jmo33ya_yosen#q06|src_jmo33ya_yosen__Q06]]
 
 
 
@@ -202,7 +196,6 @@ level: JMO Yosen
 > [Dichiarazione di problema non disponibile: la pagina sorgente fornita è la scheda delle risposte (解答用紙) della 33a Olimpiada matematica giapponese preliminare, che non contiene dichiarazioni di problema. In questa pagina viene data solo la risposta finale.]
 
 **Risposta:** 82, 167, 1034
-[[Quesiti/src_jmo33ya_yosen#q07|src_jmo33ya_yosen__Q07]]
 
 
 
@@ -229,8 +222,7 @@ level: JMO Yosen
 
 > [Dichiarazione di problema non disponibile: la pagina sorgente fornita è la scheda delle risposte (解答用紙) della 33a Olimpiada matematica giapponese preliminare, che non contiene dichiarazioni di problema. In questa pagina viene data solo la risposta finale.]
 
-**Risposta:** 1920 (通り / ways)
-[[Quesiti/src_jmo33ya_yosen#q08|src_jmo33ya_yosen__Q08]]
+**Risposta:** 1920 (通り / modi)
 
 
 
@@ -257,8 +249,7 @@ level: JMO Yosen
 
 > [Dichiarazione di problema non disponibile: la pagina sorgente fornita è la scheda delle risposte (解答用紙) della 33a Olimpiada matematica giapponese preliminare, che non contiene dichiarazioni di problema. In questa pagina viene data solo la risposta finale.]
 
-**Risposta:** 2021 \cdot 2^{2021} (個 / items)
-[[Quesiti/src_jmo33ya_yosen#q09|src_jmo33ya_yosen__Q09]]
+**Risposta:** 2021 \cdot 2^{2021} (個 / elementi)
 
 
 
@@ -286,7 +277,6 @@ level: JMO Yosen
 > [Dichiarazione di problema non disponibile: la pagina sorgente fornita è la scheda delle risposte (解答用紙) della 33a Olimpiada matematica giapponese preliminare, che non contiene dichiarazioni di problema. In questa pagina viene data solo la risposta finale.]
 
 **Risposta:** 78^\circ
-[[Quesiti/src_jmo33ya_yosen#q10|src_jmo33ya_yosen__Q10]]
 
 
 
@@ -313,8 +303,7 @@ level: JMO Yosen
 
 > [Dichiarazione di problema non disponibile: la pagina sorgente fornita è la scheda delle risposte (解答用紙) della 33a Olimpiada matematica giapponese preliminare, che non contiene dichiarazioni di problema. In questa pagina viene data solo la risposta finale.]
 
-**Risposta:** 2^{15} - 1 (通り / ways)
-[[Quesiti/src_jmo33ya_yosen#q11|src_jmo33ya_yosen__Q11]]
+**Risposta:** 2^{15} - 1 (通り / modi)
 
 
 
@@ -341,5 +330,4 @@ level: JMO Yosen
 
 > [Dichiarazione di problema non disponibile: la pagina sorgente fornita è la scheda delle risposte (解答用紙) della 33a Olimpiada matematica giapponese preliminare, che non contiene dichiarazioni di problema. In questa pagina viene data solo la risposta finale.]
 
-**Risposta:** \binom{2022}{1011} (通り / ways)
-[[Quesiti/src_jmo33ya_yosen#q12|src_jmo33ya_yosen__Q12]]
+**Risposta:** \binom{2022}{1011} (通り / modi)

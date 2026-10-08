@@ -37,8 +37,6 @@ level: INMO
 
 ![[src_inmo_2017__q01.png]]
 
-[[Quesiti/src_inmo_2017#q01|src_inmo_2017__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_casework_accurato"></span>
@@ -63,8 +61,6 @@ level: INMO
 *Ricerca le radici di numeri interi di cubo con parametro n*
 
 > Supponiamo che $n \ge 0$ sia un numero intero e tutte le radici di $x^3 + ax + 4 - (2 \times 2016^n) = 0$ siano numeri interi. Trova tutti i valori possibili di $a$.
-
-[[Quesiti/src_inmo_2017#q02|src_inmo_2017__Q02]]
 
 
 
@@ -93,8 +89,6 @@ level: INMO
 
 > Trova il numero di triples $(x, a, b)$ dove $x$ è un numero reale e $a, b$ appartiene all'insieme $\{1, 2, 3, 4, 5, 6, 7, 8, 9\}$ in modo tale che $$x^2 - a\{x\} + b = 0,$$ dove $\{x\}$ denota la parte frazionaria del numero reale $x$. (ad esempio $\{1.1\} = 0.1 = \{-0.9\}$.)
 
-[[Quesiti/src_inmo_2017#q03|src_inmo_2017__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_algebra,method_casework,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_casework_accurato"></span>
@@ -120,8 +114,6 @@ level: INMO
 
 > Let $ABCDE$ essere un pentagono convex in cui $\angle A = \angle B = \angle C = \angle D = 120^\circ$ e lunghezze laterali sono cinque numeri interi consecutivi in qualche ordine. Trova tutti i valori possibili di $AB + BC + CD$.
 
-[[Quesiti/src_inmo_2017#q04|src_inmo_2017__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -146,8 +138,6 @@ level: INMO
 *Altitudine perpendicolare ai centri di collegamento delle linee dei subtriangoli*
 
 > Il $ABC$ deve essere un triangolo con $\angle A = 90^\circ$ e $AB < AC$. L'altitudine di $AD$ deve essere da $A$ a $BC$. $P$, $Q$ e $I$ indicano rispettivamente gli incentri dei triangoli $ABD$, $ACD$ e $ABC$. Prova che $AI$ è perpendicolare a $PQ$ e $AI = PQ$.
-
-[[Quesiti/src_inmo_2017#q05|src_inmo_2017__Q05]]
 
 
 
@@ -175,5 +165,3 @@ level: INMO
 *Integro n che rende x un intero con lati che formano un triangolo di raggio intero*
 
 > Che $n \ge 1$ sia un numero intero e consideri la somma $$x = \sum_{k \ge 0} \binom{n}{2k} 2^{n-2k} \cdot 3^k = \binom{n}{0} 2^n + \binom{n}{2} 2^{n-2} \cdot 3 + \binom{n}{4} 2^{n-4} \cdot 3^2 + \cdots$$ Mostri che $2x - 1$, $2x$, $2x + 1$ formano i lati di un triangolo la cui area e il suo raggio sono anche numeri interi.
-
-[[Quesiti/src_inmo_2017#q06|src_inmo_2017__Q06]]

@@ -37,8 +37,6 @@ level: BMO Round 2
 > 
 > (ii) $O$ è il circoncentro e $G$ è il centroide di $\triangle ABC$. Prove che $9OG^2 = R^2(1 - 8\cos A \cos B \cos C)$. (Bulgaria, modificato)
 
-[[Quesiti/src_bmo_1973-74_round2#q01|src_bmo_1973-74_round2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_combinatoria,method_estremalita,skill_ragionamento_geometrico,skill_stima,skill_modellizzazione"></span>
@@ -68,8 +66,6 @@ level: BMO Round 2
 > 
 > In un quadrato di lato 50, una linea poligonale $L$ è costruita in modo tale che la distanza di qualsiasi punto all'interno del quadrato da $L$ (cioè dal punto più vicino di $L$) sia inferiore a 1. Prova che la lunghezza di $L$ è superiore a 1248. (URSS)
 
-[[Quesiti/src_bmo_1973-74_round2#q02|src_bmo_1973-74_round2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_geometria_analitica,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -94,8 +90,6 @@ level: BMO Round 2
 *Localisso del centro del pavimento e delle due pareti perpendicolari di un cerchio circolare*
 
 > Un cerchio circolare di raggio 1 è posizionato nell'angolo della stanza. (L'angolo è costituito da un pavimento orizzontale e due pareti verticali perpendicolari e il cerchio tocca tutti e tre i piani). (Francia)
-
-[[Quesiti/src_bmo_1973-74_round2#q03|src_bmo_1973-74_round2__Q03]]
 
 
 
@@ -133,5 +127,3 @@ level: BMO Round 2
 > OR
 > 
 > (b) $x + y + z = 3$, $x^3 + y^3 + z^3 = 15$. Dato che $x^2 + y^2 + z^2$ è inferiore a 10, si trova $x^2 + y^2 + z^2$. (CZR, modificato)
-
-[[Quesiti/src_bmo_1973-74_round2#q04|src_bmo_1973-74_round2__Q04]]

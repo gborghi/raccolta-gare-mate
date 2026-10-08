@@ -37,8 +37,6 @@ level: China Mathematical Competition (Complementary Test)
 
 ![[src_cn_cmc-complementary-test_b11_w77__q01.png]]
 
-[[Quesiti/src_cn_cmc-complementary-test_2012#q01|src_cn_cmc-complementary-test_2012__Q01]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_disuguaglianze,method_induzione,method_estremalita,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima"></span>
@@ -65,8 +63,6 @@ level: China Mathematical Competition (Complementary Test)
 
 > (50 marchi) Il $P_0, P_1, P_2, \ldots, P_n$ deve essere $n + 1$ punti su un piano, la distanza minima tra ciascuno di essi è $d > 0$. Prova $$|P_0P_1| \cdot |P_0P_2| \cdots |P_0P_n| > \left(\frac{d}{3}\right)^n \sqrt{(n+1)!}.$$
 
-[[Quesiti/src_cn_cmc-complementary-test_2012#q03|src_cn_cmc-complementary-test_2012__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_insiemi_funzioni,method_induzione,method_estremalita,method_telescoping,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
@@ -91,5 +87,3 @@ level: China Mathematical Competition (Complementary Test)
 *Prove che le parti frazionarie della serie armonica sono dense in qualsiasi sottointervallo di [0,1]*
 
 > (50 marchi) Let $S_n = 1 + \frac{1}{2} + \cdots + \frac{1}{n}$, dove $n$ è un intero positivo. Prova che per tutti i numeri reali $a$, $b$ con $0 \leq a < b \leq 1$, ci sono infiniti termini nella sequenza $\{S_n - \lfloor S_n \rfloor\}$ che sono all'interno di $(a, b)$. (Qui $\lfloor x \rfloor$ indica il più grande numero intero non superiore al numero reale $x$.)
-
-[[Quesiti/src_cn_cmc-complementary-test_2012#q04|src_cn_cmc-complementary-test_2012__Q04]]

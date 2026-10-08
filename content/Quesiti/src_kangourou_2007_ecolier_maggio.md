@@ -34,7 +34,6 @@ Minimum time for the four digits to appear again
 > 1) Can you stay with 5 squares? How (or, if not, why not)?
 
 **Answer:** 4 hours and 20 minutes
-[[Quesiti/src_kangourou_2007_ecolier_maggio#qe1|src_kangourou_2007_ecolier_maggio__QE1]]
 
 
 
@@ -67,7 +66,6 @@ Minimum time for the four digits to appear again
 > 2) Can you end up with only one token? In what way (or, if not possible, why not)?
 
 **Answer:** 5
-[[Quesiti/src_kangourou_2007_ecolier_maggio#qe2|src_kangourou_2007_ecolier_maggio__QE2]]
 
 
 
@@ -100,7 +98,6 @@ Minimum time for the four digits to appear again
 > 3) Can you remove all the tokens? How (or, if not, why not)? E6. (22 points) Some of the integers that have 6 as its units digit also have this property: if you move the units digit 6 before the first digit of the number, you get a new number that is the product of the starting number by 4. Find the smallest integer with this property. • Find others. •
 
 **Answer:** 7
-[[Quesiti/src_kangourou_2007_ecolier_maggio#qe3|src_kangourou_2007_ecolier_maggio__QE3]]
 
 
 
@@ -129,7 +126,6 @@ Minimum time for the four digits to appear again
 > In a classroom where there are at least two males and two females, each boy shakes each girl's hand once. A total of 65 handshakes were made. How many students (without discriminating between males and females) are in that class?
 
 **Answer:** 18
-[[Quesiti/src_kangourou_2007_ecolier_maggio#qe4|src_kangourou_2007_ecolier_maggio__QE4]]
 
 
 
@@ -172,7 +168,6 @@ Minimum time for the four digits to appear again
 > Answer the following questions. 1) Can you stay with 5 squares? How (or, if not, why not)? 2) Can you stay with just one token? How (or, if not, why not)? 3) Can you remove all the tokens? How (or, if not, why not)?
 
 **Answer:** yes/yes/no
-[[Quesiti/src_kangourou_2007_ecolier_maggio#qe5|src_kangourou_2007_ecolier_maggio__QE5]]
 
 
 
@@ -207,4 +202,3 @@ Minimum time for the four digits to appear again
 > - Then find others.
 
 **Answer:** 153846
-[[Quesiti/src_kangourou_2007_ecolier_maggio#qe6|src_kangourou_2007_ecolier_maggio__QE6]]

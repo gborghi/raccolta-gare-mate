@@ -45,8 +45,6 @@ level: OBM Nível 2
 > 
 > (c) Trovare un valore iniziale $N$ inferiore a $1{,}000{,}000$ (un milione) tale che la sequenza a partire da $N$ abbia esattamente $11$ termini.
 
-[[Quesiti/src_obm_2024_n2_fx#q01|src_obm_2024_n2_fx__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -71,8 +69,6 @@ level: OBM Nível 2
 *La conciclicità ciclica si traduce in un triangolo con cerchi e punti di mezzo circoscritti*
 
 > Il $ABC$ sia un triangolo e il $E$ e il $F$ siano rispettivamente i punti medi dei lati $AC$ e $AB$. Il segmento $BC$ deve essere $D$. I cerchi circoscritti dei triangoli $BDF$ e $CDE$ si incrociano a un punto $X \neq D$. Il punto $Y$ si trova sulla linea $DX$ in modo tale che $AY$ sia parallelo a $BC$. Prova che i punti $K$, $L$, $X$ e $Y$ si trovano tutti sullo stesso cerchio, dove $K$ e $L$ sono i secondi punti di intersezione (diversi da $X$) dei circoncircoli di $BDF$ e $CDE$ con la linea $EF$.
-
-[[Quesiti/src_obm_2024_n2_fx#q02|src_obm_2024_n2_fx__Q02]]
 
 
 
@@ -108,8 +104,6 @@ level: OBM Nível 2
 > 
 > Qual è il più grande intero positivo $k$ in modo che possiamo sempre trovare un percorso crescente di lunghezza $k$, indipendentemente dal modo in cui i numeri $1$ a $100$ sono disposti nella griglia?
 
-[[Quesiti/src_obm_2024_n2_fx#q03|src_obm_2024_n2_fx__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_conteggio,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -134,8 +128,6 @@ level: OBM Nível 2
 *Contare i numeri a 10 cifre con cifre di {1,2,3} divisibili per 99*
 
 > Un numero è chiamato *trilegal* se tutti i suoi numeri appartengono all'insieme $\{1, 2, 3\}$ ed è divisibile da $99$. Quanti numeri trilegali hanno esattamente $10$ cifre?
-
-[[Quesiti/src_obm_2024_n2_fx#q04|src_obm_2024_n2_fx__Q04]]
 
 
 
@@ -170,8 +162,6 @@ level: OBM Nível 2
 > 
 > b) Qual è il maggior numero di equazioni che può scrivere sapendo che uno dei numeri che ha inizialmente scelto è $2024$?
 
-[[Quesiti/src_obm_2024_n2_fx#q05|src_obm_2024_n2_fx__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -196,5 +186,3 @@ level: OBM Nível 2
 *Perpendicolarità che si traduce in triangolo di isosceles con configurazione ceviana speciale*
 
 > Che $ABC$ sia un triangolo di uguali dimensioni con $AB = BC$. Il $D$ deve essere un punto del segmento $AB$, $E$ un punto del segmento $BC$ e $P$ un punto del segmento $DE$ in modo tale che $AD = DP$ e $CE = PE$. $M$ deve essere il punto medio di $DE$. La linea parallela a $AB$ attraverso $M$ si interseca a $AC$ a $X$, e la linea parallela a $BC$ attraverso $M$ si interseca a $Y$. Le linee $DX$ e $EY$ si incrociano a $F$. Prove che $FP$ è perpendicolare a $DE$.
-
-[[Quesiti/src_obm_2024_n2_fx#q06|src_obm_2024_n2_fx__Q06]]

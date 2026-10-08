@@ -41,8 +41,6 @@ level: OBM Nível Universitário
 > 
 > (Nota: $f^{-1}$ indica la funzione inversa di $f$.)
 
-[[Quesiti/src_obm_2008_nu_f2#q01|src_obm_2008_nu_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_doppio_conteggio,method_induzione,skill_modellizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -72,8 +70,6 @@ level: OBM Nível Universitário
 > 
 > Dimostrare che esiste un $n_0\in\mathbb{N}$ tale che $r(A,B,n+1)>r(A,B,n)$ per tutti $n>n_0$ se e solo se entrambi $\mathbb{N}\setminus A$ e $\mathbb{N}\setminus B$ sono finiti.
 
-[[Quesiti/src_obm_2008_nu_f2#q02|src_obm_2008_nu_f2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_ricorsione,method_induzione,method_estremalita,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_stima"></span>
@@ -102,8 +98,6 @@ level: OBM Nível Universitário
 > Date $n,a_1,a_2,\ldots,a_n$ integri positivi, definire $q_0=1$, $q_1=a_1$ e $q_{i+1}=a_{i+1}q_i+q_{i-1}$ per $1\le i\le n-1$.
 > 
 > Prove che per ogni $c>1$ esiste $K>0$ tale che per ogni $M>K$ esiste $n$ un intero positivo e $a_1,a_2,\ldots,a_n$ appartenente a $\{1,2\}$ tale che $M\le q_n < c\cdot M$.
-
-[[Quesiti/src_obm_2008_nu_f2#q03|src_obm_2008_nu_f2__Q03]]
 
 
 
@@ -138,8 +132,6 @@ level: OBM Nível Universitário
 > 
 > (ii) dimostrare che tutte le linee contenute in $H$ fanno lo stesso angolo con il piano $z=0$, e determinare tale angolo.
 
-[[Quesiti/src_obm_2008_nu_f2#q04|src_obm_2008_nu_f2__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_algebra,method_induzione,method_invarianti,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -172,8 +164,6 @@ level: OBM Nível Universitário
 > (i) $f(f(n))=f(n)+1$ per tutti $n\in\mathbb{Z}$;
 > 
 > (ii) $f(2009n+2008)=2009f(n)$ per tutti $n\in\mathbb{Z}$.
-
-[[Quesiti/src_obm_2008_nu_f2#q05|src_obm_2008_nu_f2__Q05]]
 
 
 
@@ -211,5 +201,3 @@ level: OBM Nível Universitário
 > a) Prove che esiste una costante $K>0$ tale che $f(n)\le K\cdot n^{\alpha}$ per ogni intero positivo $n$.
 > 
 > b) dimostrare l'esistenza di una costante $c>0$ tale che $f(n)\ge c\cdot n^{\alpha}$ per ogni intero positivo $n$.
-
-[[Quesiti/src_obm_2008_nu_f2#q06|src_obm_2008_nu_f2__Q06]]

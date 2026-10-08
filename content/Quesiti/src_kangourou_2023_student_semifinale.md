@@ -36,8 +36,6 @@ level: kangourou
 
 > (Points 2) How many positive integers less than 40 have the property that the sum of the squares of their two digits is itself a perfect square? (Numbers must be thought of as two digits, for example 4 must be thought of as 04.) A) 1 B) 9 C) 12 D) 13 E) 14
 
-[[Quesiti/src_kangourou_2023_student_semifinale#q01|src_kangourou_2023_student_semifinale__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
@@ -67,8 +65,6 @@ level: kangourou
 
 > (Points 3) The code of a safe deposit box is a four-digit number. The sum of the last two is a prime number of two digits which, read in the order, are the first two digits of the code. With this information alone, how many attempts will be needed, at most, to open the box? A) 4           B) 8            C) 12           D) 16           E) 20
 
-[[Quesiti/src_kangourou_2023_student_semifinale#q02|src_kangourou_2023_student_semifinale__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_casework,skill_conteggio_sistematico"></span>
@@ -95,8 +91,6 @@ level: kangourou
 *sum of the digits of the product of 9 numbers with digits 2 or 3 between 600 and 1200*
 
 > The product of 9 integers written using only the digits 2 and/or 3 is a number between 600 and 1200. What is the sum of the digits of this product? A) 18 B) 21 C) 23 D) 25 E) There is more than one possibility
-
-[[Quesiti/src_kangourou_2023_student_semifinale#q03|src_kangourou_2023_student_semifinale__Q03]]
 
 
 
@@ -126,8 +120,6 @@ level: kangourou
 
 > (Points 4) Three whole numbers are given each of three digits (i.e. the first digit of each cannot be 0) which we denote with TAP, BAT and CAD where each letter represents a digit, different letters are different digits. It is known that TAP + BAT = CAD. What is the largest possible value for the CAD number? A) 782           B) 892           C) 893          D) 908           E) 987
 
-[[Quesiti/src_kangourou_2023_student_semifinale#q04|src_kangourou_2023_student_semifinale__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,method_casework,skill_ragionamento_geometrico"></span>
@@ -156,8 +148,6 @@ level: kangourou
 
 > (Points 4) Three spheres of radius 1 are arranged in space so that their centers form an equilateral triangle of side 3. What is the greatest number of parts into which the three spheres complex can be divided by cutting the spheres with two planes? A) 8            B) 9             C) 10             D) 11            E) 12
 
-[[Quesiti/src_kangourou_2023_student_semifinale#q05|src_kangourou_2023_student_semifinale__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
@@ -184,8 +174,6 @@ level: kangourou
 *Sign of m and n for an expression to be whole*
 
 > (Points 4) It is known that the three numbers m, n and (8m × 102m) / (5 – m – n × 203m) are all integers and not equal to zero. Which of the following statements is true? A) m < 0, n > 0       B) m > 0, n > 0          C) m > 0, n < 0          D) m < 0, n < 0         E) m + n ≥ 0
-
-[[Quesiti/src_kangourou_2023_student_semifinale#q06|src_kangourou_2023_student_semifinale__Q06]]
 
 
 
@@ -215,8 +203,6 @@ level: kangourou
 *False (X,n) pairs in a periodic alignment of letters*
 
 > (Points 5) Imagine repeating the ABBCCCDDE letter alignment indefinitely, thus obtaining the periodic ABBCCCDDEABBCCCDDEABBC... For how many of the following pairs (X, n) is the following statement false: The n-th letter of the periodic alignment is X? i) (A, 20 × 23) ii) (A, 2023) iii) (C, 2023) iv) (E, 3202) A) 0 (all are true) B) 1 C) 2 D) 3 E) 4 (all are false)
-
-[[Quesiti/src_kangourou_2023_student_semifinale#q07|src_kangourou_2023_student_semifinale__Q07]]
 
 
 
@@ -257,8 +243,6 @@ level: kangourou
 Where lies live.
 
 > (Points 5) A village has 5 houses, each inhabitant lives in one of these 5 houses and in each one lives someone. All the inhabitants living in four of them always tell the truth, all the inhabitants living in the remaining house always lie. The following information was collected from house to house: House A: "In this house live 3 people", "In this village live more than 17 people". House B: "In this house live 4 people", "In this village live more than 21 people". House C: "In this house live 5 people", "The number of people living in this village is NOT 25". House D: "In this house there are 6 people", "In this village there are less than 29 people". House E: "In this house live 7 people", "In this village live less than 33 people". What house do liars live in? A) In house A. B) In house B. C) In house C. D) In house D. E) In house E.
-
-[[Quesiti/src_kangourou_2023_student_semifinale#q08|src_kangourou_2023_student_semifinale__Q08]]
 
 
 
@@ -301,8 +285,6 @@ Where lies live.
 > A) 2              B) 2π             C) 4              D) 4√2              E) 8
 > Open-answer questions
 
-[[Quesiti/src_kangourou_2023_student_semifinale#q09|src_kangourou_2023_student_semifinale__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,method_backward,skill_manipolazione_algebrica"></span>
@@ -330,8 +312,6 @@ Find n after random operations with result 78*
 
 > (Points 4) Gianna plays like this. She writes an integer n, then randomly multiplies it by either 5 or 6. To the product she randomly adds either 5 or 6. From the sum she randomly subtracts either 5 or 6. If the end result is 78, what number is n?
 
-[[Quesiti/src_kangourou_2023_student_semifinale#q10|src_kangourou_2023_student_semifinale__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
@@ -358,8 +338,6 @@ Find n after random operations with result 78*
 
 > (5 points) What is the smallest prime integer p > 2 such that the number p3 + 7p2 is a perfect
 > square?
-
-[[Quesiti/src_kangourou_2023_student_semifinale#q11|src_kangourou_2023_student_semifinale__Q11]]
 
 
 
@@ -390,8 +368,6 @@ Find n after random operations with result 78*
 > B = (1 × 3) + (2 × 4) + (3 × 5) + … + (2,022 × 2,024).
 > What is the value of A – B?
 
-[[Quesiti/src_kangourou_2023_student_semifinale#q12|src_kangourou_2023_student_semifinale__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica"></span>
@@ -421,8 +397,6 @@ Find n after random operations with result 78*
 > (x2 + y2 + z2)2 ≤ k (x4 + y4 + z4)
 > holds for every triple {x, y, z} of real numbers?
 
-[[Quesiti/src_kangourou_2023_student_semifinale#q13|src_kangourou_2023_student_semifinale__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_fattorizzazione,skill_conteggio_sistematico"></span>
@@ -451,8 +425,6 @@ Find n after random operations with result 78*
 > (6 points) From the set of integers between 1 and 17, these included, one can remove two numbers
 > so that their product coincides with the sum of the remaining ones and there is only one way to do it.
 > What is the value of that product?
-
-[[Quesiti/src_kangourou_2023_student_semifinale#q14|src_kangourou_2023_student_semifinale__Q14]]
 
 
 
@@ -484,8 +456,6 @@ Find n after random operations with result 78*
 > that f satisfies, for every real value of x, the chain of inequalities
 > f(x – 5) + 2 ≤ x – 2023 ≤ f(x + 4) – 7.
 > The function f vanishes for only one value of x: which one?
-
-[[Quesiti/src_kangourou_2023_student_semifinale#q15|src_kangourou_2023_student_semifinale__Q15]]
 
 
 
@@ -541,8 +511,6 @@ Find n after random operations with result 78*
 > meter of the new figure and the perimeter of the original square is the number
 > p/100. What is the integer closest to p?
 
-[[Quesiti/src_kangourou_2023_student_semifinale#q16|src_kangourou_2023_student_semifinale__Q16]]
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana,method_estremalita,method_simmetria,skill_ragionamento_geometrico"></span>
@@ -570,8 +538,6 @@ Find n after random operations with result 78*
 
 > (7 points) Consider a triangle with perimeter 64 and the circle inscribed in it. Among the lines tangent to this circle, consider one that is parallel to one of the sides of the triangle.
 > How long could a segment of such a line contained in the triangle be at most?
-
-[[Quesiti/src_kangourou_2023_student_semifinale#q17|src_kangourou_2023_student_semifinale__Q17]]
 
 
 
@@ -603,5 +569,3 @@ Find n after random operations with result 78*
 > but the relation is not necessarily symmetric. Without knowing the actual situation, one wants to be
 > certain a priori of being able to select n people among the 2023 so that none of them has antipathy
 > toward any of the remaining n – 1 selected. What is the largest value of n?
-
-[[Quesiti/src_kangourou_2023_student_semifinale#q18|src_kangourou_2023_student_semifinale__Q18]]

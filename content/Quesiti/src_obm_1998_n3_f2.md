@@ -35,7 +35,6 @@ level: OBM Nível 3
 > Si inseriscono in una scatola cinque carte numerate $3, 4, 5, 6, 7$ rispettivamente. Le carte vengono rimosse dalla scatola una alla volta, ognuna posta su una pila sul tavolo. Se il numero della carta che viene rimossa è inferiore al numero della carta che la precede immediatamente, o inferiore al numero della carta che la segue immediatamente sulla pila, la carta viene riposta immediatamente nella scatola. La procedura continua fino a quando tutte le carte sono sul tavolo. Qual è il numero massimo di volte che le carte possono essere rimosse dalla scatola?
 
 **Risposta:** 15
-[[Quesiti/src_obm_1998_n3_f2#q01|src_obm_1998_n3_f2__Q01]]
 
 
 
@@ -62,8 +61,6 @@ level: OBM Nível 3
 
 > Ci sono 20 palle su un tavolo e due bambini si alternano a mangiarle. A ogni turno, un bambino deve mangiare almeno una palla e al massimo tutte le palle attualmente sul tavolo. In questo gioco vince il bambino che riesce a lasciare esattamente una palla sul tavolo. Quale dei due bambini  il primo o il secondo a giocare  può sempre vincere? Cosa devono fare per vincere?
 
-[[Quesiti/src_obm_1998_n3_f2#q02|src_obm_1998_n3_f2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -89,8 +86,6 @@ level: OBM Nível 3
 
 > Una linea passa attraverso i punti medi di due lati opposti di un quadrilaterale convexo e fa angoli uguali con entrambi i diagonali. Mostrare che le due diagonali hanno la stessa lunghezza.
 
-[[Quesiti/src_obm_1998_n3_f2#q03|src_obm_1998_n3_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -115,8 +110,6 @@ level: OBM Nível 3
 *Semi-cerchi su gambe di triangolo acuto; linee d'altitudine li incontrano in segmenti uguali*
 
 > Nei lati $AB$ e $AC$ di un triangolo acuto $ABC$, sono costruiti semicircoli esternamente, con quei lati come diametri. Le linee contenenti le altitudini relative ai lati $AB$ e $AC$ tagliano tali semicircoli rispettivamente ai punti $P$ e $Q$. Dimostra che $AP = AQ$.
-
-[[Quesiti/src_obm_1998_n3_f2#q04|src_obm_1998_n3_f2__Q04]]
 
 
 
@@ -147,7 +140,6 @@ level: OBM Nível 3
 > Let $f: \mathbb{N} \to \mathbb{R}$ essere una funzione tale che $f(1) = 999$ e $$f(1) + f(2) + \cdots + f(n) = n^2 f(n)$$ per ogni intero positivo $n$. Determinare il valore di $f(1998)$.
 
 **Risposta:** $\dfrac{1}{1999}$
-[[Quesiti/src_obm_1998_n3_f2#q05|src_obm_1998_n3_f2__Q05]]
 
 
 
@@ -176,4 +168,3 @@ level: OBM Nível 3
 > Il più piccolo multiple di $1998$ che ha solo le cifre $0$ e $9$ è $9990$. Qual è il più piccolo multiple di $1998$ che ha solo le cifre $0$ e $3$?
 
 **Risposta:** $333333330$
-[[Quesiti/src_obm_1998_n3_f2#q06|src_obm_1998_n3_f2__Q06]]

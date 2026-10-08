@@ -33,8 +33,6 @@ level: OBM Nível 3
 
 > Che $ABCD$ sia un quadrilaterale convex. Prova che gli incircoli dei triangoli $ABC$, $BCD$, $CDA$ e $DAB$ hanno un punto comune se e solo se $ABCD$ è un rombo.
 
-[[Quesiti/src_obm_2004_n3_f3#q01|src_obm_2004_n3_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_induzione,skill_ragionamento_geometrico,skill_modellizzazione,skill_conteggio_sistematico"></span>
@@ -68,8 +66,6 @@ level: OBM Nível 3
 
 ![[src_obm_2004_n3_f3__q02.png]]
 
-[[Quesiti/src_obm_2004_n3_f3#q02|src_obm_2004_n3_f3__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_casework,method_invarianti,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -98,8 +94,6 @@ level: OBM Nível 3
 > $x_1, x_2, \ldots, x_{2004}$ sia una sequenza di integri che soddisfi $x_{k+3} = x_{k+2} + x_{k+1} x_k$ per $1 \le k \le 2001$.
 > 
 > È possibile che più della metà dei suoi termini siano negativi?
-
-[[Quesiti/src_obm_2004_n3_f3#q03|src_obm_2004_n3_f3__Q03]]
 
 
 
@@ -130,8 +124,6 @@ level: OBM Nível 3
 > 
 > Trovare il più grande intero $n$ con la proprietà che, in ogni posizionamento, una riga o una colonna contiene almeno $n$ cifre distinte.
 
-[[Quesiti/src_obm_2004_n3_f3#q04|src_obm_2004_n3_f3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_induzione,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
@@ -158,8 +150,6 @@ level: OBM Nível 3
 *Sequenza con a_n·a_{n+4}=a_{n+1}a_{n+3}+a_{n+2}^2 e 1s iniziali; mostrare tutti i termini sono interi*
 
 > Considerate la sequenza $(a_n)_{n \ge 0}$ con $a_0 = a_1 = a_2 = a_3 = 1$ e $$a_n a_{n+4} = a_{n+1} a_{n+3} + a_{n+2}^2.$$ Mostra che tutti i termini di questa sequenza sono numeri interi.
-
-[[Quesiti/src_obm_2004_n3_f3#q05|src_obm_2004_n3_f3__Q05]]
 
 
 
@@ -197,5 +187,3 @@ level: OBM Nível 3
 > L'insieme $\operatorname{per}(a, b)$ dei punti periodici **** di $f_{a,b}$ è l'insieme di tutti i punti $P \in \mathbb{R}^2$ per i quali esiste un intero positivo $n$ tale che $f_{a,b}^n(P) = P$.
 > 
 > Fissare un numero reale $b$. Provare che l'insieme $$A_b = \{\, a \in \mathbb{R} \mid \operatorname{per}(a, b) \neq \varnothing \,\}$$ ha un elemento minimo. Calcola questo elemento minimo.
-
-[[Quesiti/src_obm_2004_n3_f3#q06|src_obm_2004_n3_f3__Q06]]

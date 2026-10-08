@@ -47,7 +47,6 @@ level: biennio
 > - **(E)** 28.
 
 **Answer:** D
-[[Quesiti/src_archimede_1997_biennio#q01|src_archimede_1997_biennio__Q01]]
 
 
 
@@ -88,7 +87,6 @@ level: biennio
 > - **(E)** Between 1,000 and 5,000 kilometers.
 
 **Answer:** A
-[[Quesiti/src_archimede_1997_biennio#q02|src_archimede_1997_biennio__Q02]]
 
 
 
@@ -133,7 +131,6 @@ level: biennio
 > - **(E)** equivalent to a side face.
 
 **Answer:** A
-[[Quesiti/src_archimede_1997_biennio#q03|src_archimede_1997_biennio__Q03]]
 
 
 
@@ -174,7 +171,6 @@ level: biennio
 > - **(E)** He can't do it.
 
 **Answer:** C
-[[Quesiti/src_archimede_1997_biennio#q04|src_archimede_1997_biennio__Q04]]
 
 
 
@@ -220,7 +216,6 @@ level: biennio
 > - **(E)** 121.
 
 **Answer:** D
-[[Quesiti/src_archimede_1997_biennio#q05|src_archimede_1997_biennio__Q05]]
 
 
 
@@ -265,7 +260,6 @@ level: biennio
 > - **(E)** 25%.
 
 **Answer:** C
-[[Quesiti/src_archimede_1997_biennio#q06|src_archimede_1997_biennio__Q06]]
 
 
 
@@ -305,7 +299,6 @@ level: biennio
 > - **(E)** None of the above answers are correct.
 
 **Answer:** D
-[[Quesiti/src_archimede_1997_biennio#q07|src_archimede_1997_biennio__Q07]]
 
 
 
@@ -383,7 +376,6 @@ level: biennio
 > - **(E)** No matter what he moves, Roberto loses!
 
 **Answer:** B
-[[Quesiti/src_archimede_1997_biennio#q08|src_archimede_1997_biennio__Q08]]
 
 
 
@@ -428,7 +420,6 @@ level: biennio
 > - **(E)** 125 g.
 
 **Answer:** D
-[[Quesiti/src_archimede_1997_biennio#q09|src_archimede_1997_biennio__Q09]]
 
 
 
@@ -474,7 +465,6 @@ level: biennio
 > - **(E)** 2π cm2.
 
 **Answer:** B
-[[Quesiti/src_archimede_1997_biennio#q10|src_archimede_1997_biennio__Q10]]
 
 
 
@@ -516,7 +506,6 @@ level: biennio
 > - **(E)** None of the previous ones.
 
 **Answer:** B
-[[Quesiti/src_archimede_1997_biennio#q11|src_archimede_1997_biennio__Q11]]
 
 
 
@@ -563,7 +552,6 @@ level: biennio
 > - **(E)** 5180.
 
 **Answer:** E
-[[Quesiti/src_archimede_1997_biennio#q12|src_archimede_1997_biennio__Q12]]
 
 
 
@@ -611,7 +599,6 @@ level: biennio
 > - **(E)** Sb/Sn > 105%.
 
 **Answer:** D
-[[Quesiti/src_archimede_1997_biennio#q13|src_archimede_1997_biennio__Q13]]
 
 
 
@@ -654,7 +641,6 @@ level: biennio
 > - **(E)** depends on the values of x and y. | 0 | x | y | 1
 
 **Answer:** A
-[[Quesiti/src_archimede_1997_biennio#q14|src_archimede_1997_biennio__Q14]]
 
 
 
@@ -701,7 +687,6 @@ level: biennio
 > - **(E)** 120°. b S b T b P b Q b R
 
 **Answer:** D
-[[Quesiti/src_archimede_1997_biennio#q15|src_archimede_1997_biennio__Q15]]
 
 
 
@@ -747,7 +732,6 @@ level: biennio
 > - **(E)**
 
 **Answer:** E
-[[Quesiti/src_archimede_1997_biennio#q16|src_archimede_1997_biennio__Q16]]
 
 
 
@@ -792,7 +776,6 @@ level: biennio
 > - **(E)** 2.
 
 **Answer:** D
-[[Quesiti/src_archimede_1997_biennio#q17|src_archimede_1997_biennio__Q17]]
 
 
 
@@ -835,7 +818,6 @@ level: biennio
 > - **(E)** 29.
 
 **Answer:** B
-[[Quesiti/src_archimede_1997_biennio#q18|src_archimede_1997_biennio__Q18]]
 
 
 
@@ -875,7 +857,6 @@ level: biennio
 > - **(E)** None of the above is the denial of the given sentence.
 
 **Answer:** E
-[[Quesiti/src_archimede_1997_biennio#q19|src_archimede_1997_biennio__Q19]]
 
 
 
@@ -919,4 +900,3 @@ The likelihood that a boy will run out of toys
 > - **(E)** p = 5 9.
 
 **Answer:** E
-[[Quesiti/src_archimede_1997_biennio#q20|src_archimede_1997_biennio__Q20]]

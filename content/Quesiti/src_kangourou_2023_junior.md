@@ -48,7 +48,6 @@ level: kangourou
 > In the image on the left, the dial of a clock is outlined. In the one on the right, the dial is covered by a concentric opaque disc, of the same radius, which has two circular windows. If the opaque disk is rotated so that in one of the two windows the number 10 appears, what numbers can appear in the second window? A) 2 and 6 B) 3 and 7 C) 3 and 6 D) 1 and 9 E) 2 and 7
 
 **Answer:** A
-[[Quesiti/src_kangourou_2023_junior#q01|src_kangourou_2023_junior__Q01]]
 
 
 
@@ -82,7 +81,6 @@ level: kangourou
 > Today is Thursday. What day will it be in 2023 days? A) Tuesday. B) Wednesday. C) Thursday. D) Friday. E) Saturday.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_junior#q02|src_kangourou_2023_junior__Q02]]
 
 
 
@@ -134,7 +132,6 @@ level: kangourou
 > E)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2023_junior#q03|src_kangourou_2023_junior__Q03]]
 
 
 
@@ -182,7 +179,6 @@ level: kangourou
 > E) 99
 
 **Answer:** B
-[[Quesiti/src_kangourou_2023_junior#q04|src_kangourou_2023_junior__Q04]]
 
 
 
@@ -248,7 +244,6 @@ level: kangourou
 >
 
 **Answer:** D
-[[Quesiti/src_kangourou_2023_junior#q05|src_kangourou_2023_junior__Q05]]
 
 
 
@@ -300,7 +295,6 @@ level: kangourou
 > E) 10
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_junior#q06|src_kangourou_2023_junior__Q06]]
 
 
 
@@ -347,7 +341,6 @@ That's what I'm talking about.
 > E) 52
 
 **Answer:** D
-[[Quesiti/src_kangourou_2023_junior#q07|src_kangourou_2023_junior__Q07]]
 
 
 
@@ -439,7 +432,6 @@ That's what I'm talking about.
 > E) 22
 
 **Answer:** B
-[[Quesiti/src_kangourou_2023_junior#q08|src_kangourou_2023_junior__Q08]]
 
 
 
@@ -485,7 +477,6 @@ That's what I'm talking about.
 > E) 4
 
 **Answer:** E
-[[Quesiti/src_kangourou_2023_junior#q09|src_kangourou_2023_junior__Q09]]
 
 
 
@@ -532,7 +523,6 @@ That's what I'm talking about.
 > E) 102 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_junior#q10|src_kangourou_2023_junior__Q10]]
 
 
 
@@ -579,7 +569,6 @@ That's what I'm talking about.
 > E) 5
 
 **Answer:** D
-[[Quesiti/src_kangourou_2023_junior#q11|src_kangourou_2023_junior__Q11]]
 
 
 
@@ -617,7 +606,6 @@ That's what I'm talking about.
 > C) 5/8 D) 5/12 E) 7/16
 
 **Answer:** E
-[[Quesiti/src_kangourou_2023_junior#q12|src_kangourou_2023_junior__Q12]]
 
 
 
@@ -673,7 +661,6 @@ That's what I'm talking about.
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2023_junior#q13|src_kangourou_2023_junior__Q13]]
 
 
 
@@ -720,7 +707,6 @@ That's what I'm talking about.
 > E) 48
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_junior#q14|src_kangourou_2023_junior__Q14]]
 
 
 
@@ -767,7 +753,6 @@ That's what I'm talking about.
 > C) 3/2 D) 4/3 E) 5/2
 
 **Answer:** B
-[[Quesiti/src_kangourou_2023_junior#q15|src_kangourou_2023_junior__Q15]]
 
 
 
@@ -806,7 +791,6 @@ That's what I'm talking about.
 > One step in three of the 2023 steps of a ladder is coloured in black: the ladder starts with two white steps, then the third is black, the fourth and fifth are white, the sixth is black and so on regularly. Anita went up the stairs one step at a time, alternating feet, but we don't know which foot she started with. On how many black steps did she put her right foot? A) 333 B) 334 C) 337 D) 674 E) The answer depends on which foot you set on the first step
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_junior#q16|src_kangourou_2023_junior__Q16]]
 
 
 
@@ -864,7 +848,6 @@ That's what I'm talking about.
 > E)13
 
 **Answer:** B
-[[Quesiti/src_kangourou_2023_junior#q17|src_kangourou_2023_junior__Q17]]
 
 
 
@@ -906,7 +889,6 @@ That's what I'm talking about.
 > The figure shows a large square divided into 9 identical squares containing three circles. The side of the square measures 30 cm; the radii of the three circles are 4 cm (top-left circle), 3 cm (top-right circle), 5 cm (bottom-right circle). How many square centimetres is the area of the shaded part of the large square? A) 400 B) 500 C) 400 + 50π D) 500 – 25π E) 500 + 25π
 
 **Answer:** D
-[[Quesiti/src_kangourou_2023_junior#q18|src_kangourou_2023_junior__Q18]]
 
 
 
@@ -955,7 +937,6 @@ That's what I'm talking about.
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_junior#q19|src_kangourou_2023_junior__Q19]]
 
 
 
@@ -1013,7 +994,6 @@ That's what I'm talking about.
 > E) 0 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2023_junior#q20|src_kangourou_2023_junior__Q20]]
 
 
 
@@ -1068,7 +1048,6 @@ That's what I'm talking about.
 > E) 4
 
 **Answer:** B
-[[Quesiti/src_kangourou_2023_junior#q21|src_kangourou_2023_junior__Q21]]
 
 
 
@@ -1118,7 +1097,6 @@ That's what I'm talking about.
 > E) 5 + 2√3
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_junior#q22|src_kangourou_2023_junior__Q22]]
 
 
 
@@ -1213,7 +1191,6 @@ That's what I'm talking about.
 > E) 8
 
 **Answer:** A
-[[Quesiti/src_kangourou_2023_junior#q23|src_kangourou_2023_junior__Q23]]
 
 
 
@@ -1274,7 +1251,6 @@ That's what I'm talking about.
 >
 
 **Answer:** D
-[[Quesiti/src_kangourou_2023_junior#q24|src_kangourou_2023_junior__Q24]]
 
 
 
@@ -1325,7 +1301,6 @@ That's what I'm talking about.
 > E) 18
 
 **Answer:** D
-[[Quesiti/src_kangourou_2023_junior#q25|src_kangourou_2023_junior__Q25]]
 
 
 
@@ -1375,7 +1350,6 @@ That's what I'm talking about.
 > E)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_junior#q26|src_kangourou_2023_junior__Q26]]
 
 
 
@@ -1426,7 +1400,6 @@ That's what I'm talking about.
 > E) 30
 
 **Answer:** D
-[[Quesiti/src_kangourou_2023_junior#q27|src_kangourou_2023_junior__Q27]]
 
 
 
@@ -1473,7 +1446,6 @@ That's what I'm talking about.
 > D) 8 E) A number different from the previous one
 
 **Answer:** E
-[[Quesiti/src_kangourou_2023_junior#q28|src_kangourou_2023_junior__Q28]]
 
 
 
@@ -1525,7 +1497,6 @@ That's what I'm talking about.
 > E) 34
 
 **Answer:** B
-[[Quesiti/src_kangourou_2023_junior#q29|src_kangourou_2023_junior__Q29]]
 
 
 
@@ -1581,4 +1552,3 @@ That's what I'm talking about.
 >
 
 **Answer:** A
-[[Quesiti/src_kangourou_2023_junior#q30|src_kangourou_2023_junior__Q30]]

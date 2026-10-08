@@ -34,7 +34,6 @@ level: kangourou
 > A pile of sand weighs $5$ tons. A truck can transport all the sand in $3$ trips: on the first trip the loaded truck weighs $3950$ kg; on the second trip it weighs $3750$ kg; on the third trip it weighs $3150$ kg. How many kilograms does the empty truck weigh?
 
 **Answer:** 1950
-[[Quesiti/src_kangourou_2018_ecolier_finale#qe1|src_kangourou_2018_ecolier_finale__QE1]]
 
 
 
@@ -71,7 +70,6 @@ level: kangourou
 > and what is the result?
 
 **Answer:** 7
-[[Quesiti/src_kangourou_2018_ecolier_finale#qe2|src_kangourou_2018_ecolier_finale__QE2]]
 
 
 
@@ -100,7 +98,6 @@ level: kangourou
 > Matteo divided each of the integers from $1$ to $10,000$ inclusive by $11$: sometimes he got remainder $0$, other times not. What is the remainder he got most often?
 
 **Answer:** 1
-[[Quesiti/src_kangourou_2018_ecolier_finale#qe3|src_kangourou_2018_ecolier_finale__QE3]]
 
 
 
@@ -132,7 +129,6 @@ level: kangourou
 > A gear consists of two toothed wheels: one has $16$ teeth, the other has $20$. As the figure suggests, the two wheels are in contact, that is, the teeth of one engage the teeth of the other, and both have a mark. At this instant the gear starts moving: how many turns must the wheel with $20$ teeth make before the two marks return simultaneously, for the first time, to their current position?
 
 **Answer:** 4
-[[Quesiti/src_kangourou_2018_ecolier_finale#qe4|src_kangourou_2018_ecolier_finale__QE4]]
 
 
 
@@ -161,7 +157,6 @@ level: kangourou
 > In Kangland there are exactly one thousand cars. Their license plates, all different from each other, have three digits: the numbers are therefore between $000$ and $999$. For each car, the digits of the license plate are summed and the cars are divided into groups, so that all cars in the same group give the same sum and different groups correspond to different sums. How many cars do the four least numerous groups have in total?
 
 **Answer:** 8
-[[Quesiti/src_kangourou_2018_ecolier_finale#qe5|src_kangourou_2018_ecolier_finale__QE5]]
 
 
 
@@ -189,4 +184,3 @@ level: kangourou
 > Enrico would like to buy a bike that costs $1000$ euros and to get the necessary money he plans to save, from today onwards, all the pocket money he receives from his grandpa and his uncle. His grandpa gives him $10$ euros every week, while his uncle gives him $15$ euros every ten days: today he received pocket money from both. How many days must pass from today for Enrico to be able to go and buy the bike he longs for?
 
 **Answer:** 336
-[[Quesiti/src_kangourou_2018_ecolier_finale#qe6|src_kangourou_2018_ecolier_finale__QE6]]

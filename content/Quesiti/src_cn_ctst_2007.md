@@ -36,8 +36,7 @@ level: China National Team Selection Test
 
 > Il numero razionale $x$ è chiamato "buono" se $x = \frac{p}{q} > 1$, dove $p$, $q$ sono integri positivi copriemi, e ci sono $a$ e $N$ in modo tale che per ogni intero $n \geq N$, $$|\{x^n\} - a| < \frac{1}{2(p+q)},$$ dove $\{a\} = a - [a]$, e $[a]$ è il numero intero più grande inferiore o uguale a $a$. Trova tutti i numeri razionali "buoni".
 
-**Risposta:** all integers greater than 1
-[[Quesiti/src_cn_ctst_2007#q02|src_cn_ctst_2007__Q02]]
+**Risposta:** tutti gli interi maggiori di 1
 
 
 
@@ -66,7 +65,6 @@ level: China National Team Selection Test
 > Ci sono 63 punti su un cerchio $C$ con raggio 10. $S$ è il numero di triangoli i cui lati sono più grandi di 9 e le cui vertici sono scelte tra i 63 punti. Trova il valore massimo di $S$.
 
 **Risposta:** 23121
-[[Quesiti/src_cn_ctst_2007#q03|src_cn_ctst_2007__Q03]]
 
 
 
@@ -97,7 +95,6 @@ level: China National Team Selection Test
 > Trova tutte le funzioni $f: \mathbf{Q}^+ \to \mathbf{Q}^+$ in modo tale che $$f(x) + f(y) + 2xyf(xy) = \frac{f(xy)}{f(x+y)},$$ dove $\mathbf{Q}^+ = \{q \mid q \text{ is a positive rational number}\}$.
 
 **Risposta:** $f(x) = \frac{1}{x^2}$
-[[Quesiti/src_cn_ctst_2007#q04|src_cn_ctst_2007__Q04]]
 
 
 
@@ -129,8 +126,6 @@ level: China National Team Selection Test
 
 > Che $x_1, \cdots, x_n$ ($n \ge 2$) siano numeri reali tali che $$A = \left|\sum_{i=1}^{n} x_i\right| \ne 0$$ e $$B = \max_{1 \le i < j \le n} |x_i - x_j| \ne 0.$$ dimostrino che per ogni vettore $n$ $a_1, \cdots, a_n$ sul piano, esiste una permutazione $(k_1, k_2, \cdots, k_n)$ di $(1, 2, \cdots, n)$ tale che $$\left|\sum_{i=1}^{n} x_{k_i} a_i\right| \ge \frac{AB}{2A+B} \max_{1 \le i \le n} |a_i|.$$
 
-[[Quesiti/src_cn_ctst_2007#q05|src_cn_ctst_2007__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_estremalita,method_doppio_conteggio,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_stima"></span>
@@ -156,5 +151,3 @@ level: China National Team Selection Test
 *Ribbito alla dimensione del set con condizione lcm*
 
 > $n$ sia un intero positivo, impostato $A \subseteq \{1, 2, \cdots, n\}$, e per ogni $a, b \in A$, $\text{lcm}(a, b) \le n$. Provare che $$|A| \le 1.9\sqrt{n} + 5.$$
-
-[[Quesiti/src_cn_ctst_2007#q06|src_cn_ctst_2007__Q06]]

@@ -36,8 +36,6 @@ level: RMO
 
 ![[src_rmo_2012_r3__q01.png]]
 
-[[Quesiti/src_rmo_2012_r3#q01|src_rmo_2012_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_induzione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -62,8 +60,6 @@ level: RMO
 *Divisibilità: abc divide (a+b+c)^31 data divisibilità incatenata*
 
 > Lasciate che $a, b, c$ siano integri positivi in modo tale che $a$ divida $b^2$, $b$ divida $c^2$ e $c$ divida $a^2$. Provare che $abc$ divide $(a + b + c)^{31}$.
-
-[[Quesiti/src_rmo_2012_r3#q02|src_rmo_2012_r3__Q02]]
 
 
 
@@ -90,8 +86,6 @@ level: RMO
 
 > $a$ e $b$ siano numeri reali positivi come $a + b = 1$. Prove che $a^a b^b + b^a a^b \le 1$.
 
-[[Quesiti/src_rmo_2012_r3#q03|src_rmo_2012_r3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -116,8 +110,6 @@ level: RMO
 *Conte di coppie {A,B} di sottoinsiemi di {1,...,10} con intersezione fissa {5,7,8}*
 
 > Let $X = \{1, 2, 3, \ldots, 10\}$. Trovare il numero di coppie $\{A, B\}$ come $A \subseteq X$, $B \subseteq X$, $A \neq B$ e $A \cap B = \{5, 7, 8\}$.
-
-[[Quesiti/src_rmo_2012_r3#q04|src_rmo_2012_r3__Q04]]
 
 
 
@@ -148,8 +140,6 @@ level: RMO
 
 ![[src_rmo_2012_r3__q05.png]]
 
-[[Quesiti/src_rmo_2012_r3#q05|src_rmo_2012_r3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_induzione,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_stima,skill_riconoscimento_pattern"></span>
@@ -174,5 +164,3 @@ level: RMO
 *Ricerca tutti gli integri positivi n in modo che 3^{2n}+3n^2+7 sia un quadrato perfetto*
 
 > Trovare tutti gli integri positivi $n$ in modo che $3^{2n} + 3n^2 + 7$ sia un quadrato perfetto.
-
-[[Quesiti/src_rmo_2012_r3#q06|src_rmo_2012_r3__Q06]]

@@ -39,7 +39,6 @@ level: kangourou
 > How many integers are there between 2,009 and 19,03 ? A) 16 B) 17 C) 14 D) 15 E) More than 17
 
 **Answer:** B
-[[Quesiti/src_kangourou_2009_benjamin_marzo#q01|src_kangourou_2009_benjamin_marzo__Q01]]
 
 
 
@@ -106,7 +105,6 @@ level: kangourou
 > The largest square in the figure, obtained by placing 9 squares side by side, contains the ABCD square in the given position. This, in turn, covers only one of the nine squares, the central one. What is the maximum number of squares that can be covered by the ABCD square if it is placed appropriately? A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** D
-[[Quesiti/src_kangourou_2009_benjamin_marzo#q02|src_kangourou_2009_benjamin_marzo__Q02]]
 
 
 
@@ -142,7 +140,6 @@ Minimum number to be deleted for palindrome
 > By deleting some digits from the number 12323314, you want to get a number that doesn't change when read from right to left instead of left to right. What is the minimum number of digits you must delete to reach your goal? A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** C
-[[Quesiti/src_kangourou_2009_benjamin_marzo#q03|src_kangourou_2009_benjamin_marzo__Q03]]
 
 
 
@@ -189,7 +186,6 @@ Minimum number to be deleted for palindrome
 > E) 14
 
 **Answer:** E
-[[Quesiti/src_kangourou_2009_benjamin_marzo#q04|src_kangourou_2009_benjamin_marzo__Q04]]
 
 
 
@@ -261,7 +257,6 @@ Minimum number to be deleted for palindrome
 > Kang 2009
 
 **Answer:** A
-[[Quesiti/src_kangourou_2009_benjamin_marzo#q05|src_kangourou_2009_benjamin_marzo__Q05]]
 
 
 
@@ -296,7 +291,6 @@ Minimum number to be deleted for palindrome
 > If you keep the 2009 calendar, what's the first year you can reuse it (meaning that each month will start on the same day of the week as 2009)? A) It will no longer be usable B) 2013 C) 2014 D) 2015 E) 2016
 
 **Answer:** D
-[[Quesiti/src_kangourou_2009_benjamin_marzo#q06|src_kangourou_2009_benjamin_marzo__Q06]]
 
 
 
@@ -330,7 +324,6 @@ Minimum number to be deleted for palindrome
 > A bridge crosses a 120-meter-wide river and overhangs each of the two banks for a quarter of its length. How long is the bridge? A) 150 B) 180 C) 210 D) 240 E) 270
 
 **Answer:** D
-[[Quesiti/src_kangourou_2009_benjamin_marzo#q07|src_kangourou_2009_benjamin_marzo__Q07]]
 
 
 
@@ -369,7 +362,6 @@ Minimum number to be deleted for palindrome
 > The large rectangle in the figure is constructed by placing squares of three different dimensions. The sides of each of the smallest squares measure 20 centimeters. How long is the line highlighted in bold? A) 380 B) 400 C) 420 D) 440 E) 1680
 
 **Answer:** C
-[[Quesiti/src_kangourou_2009_benjamin_marzo#q08|src_kangourou_2009_benjamin_marzo__Q08]]
 
 
 
@@ -414,7 +406,6 @@ Minimum number to be deleted for palindrome
 > E) at least 18, but it could be more.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2009_benjamin_marzo#q09|src_kangourou_2009_benjamin_marzo__Q09]]
 
 
 
@@ -450,7 +441,6 @@ Minimum number to be deleted for palindrome
 > Find the remainder of the division by 8 of the number 1 x 2 x 3 x ... x 29 x 30 + 17 A) 1 B) 17 C) 3 D) 7 E) 5 The questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2009_benjamin_marzo#q10|src_kangourou_2009_benjamin_marzo__Q10]]
 
 
 
@@ -493,7 +483,6 @@ Minimum number to be deleted for palindrome
 > E) None
 
 **Answer:** C
-[[Quesiti/src_kangourou_2009_benjamin_marzo#q11|src_kangourou_2009_benjamin_marzo__Q11]]
 
 
 
@@ -573,7 +562,6 @@ Minimum number to be deleted for palindrome
 > Kang 2009
 
 **Answer:** C
-[[Quesiti/src_kangourou_2009_benjamin_marzo#q12|src_kangourou_2009_benjamin_marzo__Q12]]
 
 
 
@@ -609,7 +597,6 @@ Minimum number to be deleted for palindrome
 > There are currently 39 boys and 23 girls in a dance school. Starting today, six boys and eight girls will be added each week and in a few weeks the number of girls will be equal to the number of boys. How many boys and girls will be in the group at that time? A) 144 B) 154 C) 164 D) 174 E) 184
 
 **Answer:** D
-[[Quesiti/src_kangourou_2009_benjamin_marzo#q13|src_kangourou_2009_benjamin_marzo__Q13]]
 
 
 
@@ -649,7 +636,6 @@ Minimum number to be deleted for palindrome
 > Two rectangles, one 8 x 10 and the other 9 x 12 (measurements are in metres), are partially overlapped as shown in the figure. The area of the dark grey region is 37 m2. What is the area of the region in light grey in square metres? A) 60 B) 62 C) 62,5 D) 64 E) 65 .
 
 **Answer:** E
-[[Quesiti/src_kangourou_2009_benjamin_marzo#q14|src_kangourou_2009_benjamin_marzo__Q14]]
 
 
 
@@ -686,7 +672,6 @@ Minimum number to be deleted for palindrome
 > The figure is formed by joining a square, a rectangle, and an equilateral triangle that all have the same perimeter. The side of the square measures 9 cm. What is the length in centimeters of the shortest side of the rectangle? A) 4 B) 5 C) 6 D) 7 E) 8
 
 **Answer:** C
-[[Quesiti/src_kangourou_2009_benjamin_marzo#q15|src_kangourou_2009_benjamin_marzo__Q15]]
 
 
 
@@ -722,7 +707,6 @@ Minimum number to be deleted for palindrome
 > We have a box shaped like a rectangular prism with dimensions, in centimeters, 24 x 24 x 60. We want to fill it completely with indeformable cubes all equal, which we can choose the size of. What's the smallest number of cubes that's enough to accomplish the goal? A) 8 B) 20 C) 60 D) 720 E) 1440
 
 **Answer:** B
-[[Quesiti/src_kangourou_2009_benjamin_marzo#q16|src_kangourou_2009_benjamin_marzo__Q16]]
 
 
 
@@ -757,7 +741,6 @@ Minimum number to be deleted for palindrome
 > Carlo needs to read a 290-page book. He has scheduled his assignment as follows: He will read 4 pages every day, except Sunday, when she will always read 25. If he starts reading next Sunday and follows the schedule (so never skipping days), how many days will it take to finish the book? A) 5 B) 46 C) 40 D) 35 E) 41
 
 **Answer:** E
-[[Quesiti/src_kangourou_2009_benjamin_marzo#q17|src_kangourou_2009_benjamin_marzo__Q17]]
 
 
 
@@ -822,7 +805,6 @@ Minimum number to be deleted for palindrome
 > Kang 2009
 
 **Answer:** A
-[[Quesiti/src_kangourou_2009_benjamin_marzo#q18|src_kangourou_2009_benjamin_marzo__Q18]]
 
 
 
@@ -859,7 +841,6 @@ Minimum number to be deleted for palindrome
 > Henry has 2009 square tiles, all of them equal. Using them all at once, how many different rectangular surfaces can he tile? (Two surfaces shall be considered different only if the length of at least one of the two sides is different.)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2009_benjamin_marzo#q19|src_kangourou_2009_benjamin_marzo__Q19]]
 
 
 
@@ -899,7 +880,6 @@ Minimum number to be deleted for palindrome
 > Consider the following four statements concerning the same positive integer. It's divisible by 5. It's divisible by 11. It's divisible by 55. It's less than 10. You know two of them are true and the other two are false. So that number is A) 1 B) 5 C) 10 D) 11 E) 55 The questions from N. 21 to N. 30 is worth 5 points each.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2009_benjamin_marzo#q20|src_kangourou_2009_benjamin_marzo__Q20]]
 
 
 
@@ -941,7 +921,6 @@ Minimum number to be deleted for palindrome
 > The solid in the figure has six faces, all triangular. Each of its vertices is associated with a number so that the sum of the numbers associated with the three vertices of each face is the same for all faces. The figure shows the numbers associated with two of the vertices. What is the sum of all the numbers used? A) 9 B) 12 C) 17 D) 18 E) 24
 
 **Answer:** C
-[[Quesiti/src_kangourou_2009_benjamin_marzo#q21|src_kangourou_2009_benjamin_marzo__Q21]]
 
 
 
@@ -977,7 +956,6 @@ Minimum number to be deleted for palindrome
 > Eight cards numbered 1 to 8 are placed in two boxes, X and Y, so that the sum of the numbers shown on the cards is the same in the two boxes. There are three cards in the X box. Then we can say with certainty that A) Three of the cards in box Y have an odd number. B) Four of the cards in box Y have an even number. C) The card with the number 1 is not in the box Y. D) The card with the number 2 is in the box Y. E) The card with the number 5 is in box Y.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2009_benjamin_marzo#q22|src_kangourou_2009_benjamin_marzo__Q22]]
 
 
 
@@ -1028,8 +1006,6 @@ Minimum number to be deleted for palindrome
 
 **Answer:** A
 
-[[Quesiti/src_kangourou_2009_benjamin_marzo#q23|src_kangourou_2009_benjamin_marzo__Q23]]
-
 
 
 <span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -1071,7 +1047,6 @@ Minimum number to be deleted for palindrome
 > Look at the figure. ABCD is a square whose side measures 10 cm; the distance between N and M points is 6 cm. Each of the unshaded regions is a right isosceles triangle or a square. The four triangles are equal to each other and so are the four squares. How much is the area of the shaded region in square centimetres? A) 42 B) 46 C) 48 D) 52 E) 58
 
 **Answer:** C
-[[Quesiti/src_kangourou_2009_benjamin_marzo#q24|src_kangourou_2009_benjamin_marzo__Q24]]
 
 
 
@@ -1110,7 +1085,6 @@ Minimum number to be deleted for palindrome
 > Look at the figure. The three letters A, B and C represent as many numbers whose sums, for rows and columns, are those indicated (right for rows and bottom for columns). How much is A + B - C ? A) 5 B) 6 C) 7 D) 8 E) 9
 
 **Answer:** B
-[[Quesiti/src_kangourou_2009_benjamin_marzo#q25|src_kangourou_2009_benjamin_marzo__Q25]]
 
 
 
@@ -1155,7 +1129,6 @@ Minimum number to be deleted for palindrome
 > Think of an integer and put it in box B. Now follow one of the possible paths indicated by the arrows by performing the corresponding operations. If you choose the correct number to start with, will you be able to get to box F with the number 2009? A) Yes, by following any of the three possible paths. B) Yes, following two of the three possible paths and starting with the same number for both. C) Yes, following two of the three possible paths, but starting with two different numbers. D) Yes, but there is only one possible way. E) No.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2009_benjamin_marzo#q26|src_kangourou_2009_benjamin_marzo__Q26]]
 
 
 
@@ -1230,7 +1203,6 @@ Minimum number to be deleted for palindrome
 > A complete set for the game of dominoes consists of 28 cards all different from each other: each card represents one of the 28 possible combinations of two integers from 0 to 6 (including those in which the number is repeated) and the numbers are indicated by the corresponding amount of balls. What's the total number of balls in a set like this? A) 84 B) 105 C) 126 D) 147 E) 168 A B D N M C A B A 11 B A C 8 B C A 8 10 8 9 B F x 7 x 7 x 7 x 6 x 6 x 7 x 6 x 7 -49 -49
 
 **Answer:** E
-[[Quesiti/src_kangourou_2009_benjamin_marzo#q27|src_kangourou_2009_benjamin_marzo__Q27]]
 
 
 
@@ -1286,7 +1258,6 @@ Minimum number to be deleted for palindrome
 > In a 4 x 2 table, two different positive integers are placed in the first row. Each subsequent row contains the sum and difference (larger minus smaller) of the two numbers written in the previous row: respectively, below the smaller the sum is written and below the larger the difference. In an 11 x 2 table constructed in the same way, the numbers in the last row are 64 and 96. What is the sum of the numbers in the first line? A) 4 B) 5 C) 10 D) 40 E) 80 29.In the village of Piedistrani each inhabitant has left foot longer than the right foot: men by two sizes and women by one. The shops, however, are like the rest of the world: they sell paired shoes, a right shoe and a left shoe of the same number. To save money, some of Piedistrani's friends, including an acquaintance of ours, X, whose sex and shoe sizes we know, decide to join together and buy the shoes all together, and then pair them together in the way that suits them. In doing so, each takes two shoes and one of the number 36 and one of the number 45 remain unused. We want to determine the maximum number of friends who might have agreed. This number A) is 8 if X is a male, is 9 if X is a female. B) depends on both sex and number of right shoe of X. C) depends only on the right shoe number of X. D) is 5 anyway. E) is 9 anyway.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2009_benjamin_marzo#q28|src_kangourou_2009_benjamin_marzo__Q28]]
 
 
 
@@ -1315,7 +1286,6 @@ Maximum number of friends (footwear)
 > 29. Answer A) If the group is made up of only women, shoes of all numbers from 36 to 45 must have been purchased, and nine pairs were formed with the left shoe of a larger number than the right, so the group is made up of nine people. If there are men in the group, to avoid any further remains, the pairs of shoes of intermediate number between the two different feet of the same male must be excluded. This will allow for a maximum of eight people in the group.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2009_benjamin_marzo#q29|src_kangourou_2009_benjamin_marzo__Q29]]
 
 
 
@@ -1407,4 +1377,3 @@ Maximum number of friends (footwear)
 > 2009 Category Benjamin For first and second year students of lower secondary school
 
 **Answer:** D
-[[Quesiti/src_kangourou_2009_benjamin_marzo#q30|src_kangourou_2009_benjamin_marzo__Q30]]

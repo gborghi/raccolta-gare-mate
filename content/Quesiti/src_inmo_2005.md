@@ -37,8 +37,6 @@ level: INMO
 
 ![[src_inmo_2005__q01.png]]
 
-[[Quesiti/src_inmo_2005#q01|src_inmo_2005__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -68,7 +66,6 @@ level: INMO
 > $\alpha$ e $\beta$ siano integri positivi in modo tale che $$\frac{43}{197} < \frac{\beta}{\alpha} < \frac{17}{77}.$$ Trova il valore minimo possibile di $\beta$.
 
 **Risposta:** 32
-[[Quesiti/src_inmo_2005#q02|src_inmo_2005__Q02]]
 
 
 
@@ -99,8 +96,6 @@ level: INMO
 
 > Lasciate che $p, q, r$ siano numeri reali, non tutti uguali, in modo che alcune due delle equazioni $$px^2 + 2qx + r = 0, \quad qx^2 + 2rx + p = 0, \quad rx^2 + 2px + q = 0$$ abbiano una radice comune, diciamo $\alpha$. Provare che a) $\alpha$ è reale e negativo; e b) la terza equazione ha radici non reali.
 
-[[Quesiti/src_inmo_2005#q03|src_inmo_2005__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_modellizzazione"></span>
@@ -128,7 +123,6 @@ level: INMO
 > Tutti i numeri $6$ possibili, in ognuno dei quali i numeri si presentano in ordine non in aumento (da sinistra a destra, ad esempio $877550$), sono scritti come una sequenza in ordine in aumento. Trovare il numero $2005$-th in questa sequenza.
 
 **Risposta:** 864110
-[[Quesiti/src_inmo_2005#q04|src_inmo_2005__Q04]]
 
 
 
@@ -157,8 +151,6 @@ level: INMO
 
 > $x_1$ sia un dato numero intero positivo. Una sequenza $(x_n)_{n=1}^{\infty} = (x_1, x_2, x_3, \ldots)$ di numeri interi positivi è tale che $x_n$, per $n \ge 2$, si ottiene da $x_{n-1}$ aggiungendo qualche cifra non zero di $x_{n-1}$. Prova che (a) la sequenza ha un numero pari; (b) la sequenza ha infinitamente molti numeri pari.
 
-[[Quesiti/src_inmo_2005#q05|src_inmo_2005__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_funzionali,topic_algebra,method_casework,method_backward,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
@@ -185,5 +177,3 @@ level: INMO
 *Trova tutte le f: R a R soddisfacenti f(x^2 + yf(z)) = xf(x) + zf(y)*
 
 > Trova tutte le funzioni $f : \mathbf{R} \to \mathbf{R}$ in modo tale che $$f(x^2 + yf(z)) = xf(x) + zf(y) \tag{1}$$ per tutte $x, y, z \in \mathbf{R}$. (Qui $\mathbf{R}$ indica l'insieme di tutti i numeri reali.)
-
-[[Quesiti/src_inmo_2005#q06|src_inmo_2005__Q06]]

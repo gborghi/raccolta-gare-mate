@@ -34,7 +34,6 @@ level: kangourou
 > There's always four digits on my digital watch. It's now 20:08. How long ago did the same four digits last appear before now on my watch (not necessarily in the same order)?
 
 **Answer:** 11h48m
-[[Quesiti/src_kangourou_2008_ecolier_maggio#qe1|src_kangourou_2008_ecolier_maggio__QE1]]
 
 
 
@@ -70,7 +69,6 @@ level: kangourou
 > The grid contains the following boxes in sequence: $2$, $\times$, $7$, $+$, $8$, $=$, $7$, $1$, $\times$, $5$.
 
 **Answer:** equality
-[[Quesiti/src_kangourou_2008_ecolier_maggio#qe2|src_kangourou_2008_ecolier_maggio__QE2]]
 
 
 
@@ -107,7 +105,6 @@ level: kangourou
 > What is the maximum number of colours that can be present in the bags?
 
 **Answer:** 9
-[[Quesiti/src_kangourou_2008_ecolier_maggio#qe3|src_kangourou_2008_ecolier_maggio__QE3]]
 
 
 
@@ -135,7 +132,6 @@ level: kangourou
 > Anna is playing like this: she picks an integer greater than $2008$, multiplies it by itself and sums all the digits of the result she found. What's the lowest sum she could get?
 
 **Answer:** 1
-[[Quesiti/src_kangourou_2008_ecolier_maggio#qe4|src_kangourou_2008_ecolier_maggio__QE4]]
 
 
 
@@ -168,7 +164,6 @@ After all those seconds, Pimpy's back next to Arturo.
 > Arthur the Kangaroo and his little sister Pimpy are playing a run on the outline of an equilateral triangle-shaped flowerbed. They both make one jump every second, but Arthur covers the distance on one side with 10 jumps while Pimpy needs 15 jumps. If they start together and they both continue to run in the same direction, after how many seconds does Pimpy find herself next to Arthur again for the first time?
 
 **Answer:** 90
-[[Quesiti/src_kangourou_2008_ecolier_maggio#qe5|src_kangourou_2008_ecolier_maggio__QE5]]
 
 
 
@@ -200,4 +195,3 @@ After all those seconds, Pimpy's back next to Arturo.
 > Claudio was commissioned to make a large cake in the shape of a triangle drawn on the square sheet on the right (the side of each square is 5 centimeters). After filling it with cream, Claudio realizes that it is the right size, but the shape drawn on the left. Of course the cake can't be turned upside down! His assistant suggests that in order to satisfy the customer, before covering it with the icing, he should cut two large slices and place them differently next to what remains of the cake. If you were Claudio, what would you do? (see figure)
 
 **Answer:** construction
-[[Quesiti/src_kangourou_2008_ecolier_maggio#qe6|src_kangourou_2008_ecolier_maggio__QE6]]

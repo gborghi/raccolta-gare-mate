@@ -33,8 +33,6 @@ level: JJMO
 
 > Calcolare la seguente espressione: $$18.6 \div 31 - 2.604 \div 3.1 - 0.8556 \div 0.31$$
 
-[[Quesiti/src_jjmo1q#q01|src_jjmo1q__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
@@ -59,8 +57,6 @@ level: JJMO
 *Solvi un sistema simmetrico di tre equazioni lineari in x, y, z*
 
 > Trova tutti i numeri reali $x, y, z$ che soddisfano contemporaneamente tutte e tre le seguenti equazioni: $$\begin{cases} y + z = 3 \\ x + z = 5 \\ x + y = 4 \end{cases}$$
-
-[[Quesiti/src_jjmo1q#q02|src_jjmo1q__Q02]]
 
 
 
@@ -93,8 +89,6 @@ level: JJMO
 
 ![[src_jjmo1q__q03.png]]
 
-[[Quesiti/src_jjmo1q#q03|src_jjmo1q__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -124,8 +118,6 @@ level: JJMO
 
 ![[src_jjmo1q__q04.png]]
 
-[[Quesiti/src_jjmo1q#q04|src_jjmo1q__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -150,8 +142,6 @@ level: JJMO
 *Contare i numeri interi da 1 a 2003 con un numero pari di divisori positivi*
 
 > Tra gli integri da $1$ a $2003$, quanti hanno un numero pari di divisori positivi? Ad esempio, $6$ ha divisori positivi $1, 2, 3, 6$ (quattro in totale), quindi $6$ soddisfa questa condizione.
-
-[[Quesiti/src_jjmo1q#q05|src_jjmo1q__Q05]]
 
 
 
@@ -178,8 +168,6 @@ level: JJMO
 
 > Il triangolo $ABC$ deve soddisfare $AB = AC = 5$ e $BC = 6$. All'interno del triangolo, prendere un punto $D$ sul circolo del triangolo $ABC$. Il segmento $AD$ deve incontrare lato $AB$ a $E$ e lato $AC$ a $F$ (così $E$ si trova su $AB$ e $F$ si trova su $AC$, con $D$ tra $E$ e $F$). Date $DE = 1$ e $DF = 2$, si trova l'area del triangolo $DBC$.
 
-[[Quesiti/src_jjmo1q#q06|src_jjmo1q__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,topic_combinatoria,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
@@ -204,8 +192,6 @@ level: JJMO
 *Ricerca tutte le lunghezze laterali possibili di un poligono convexo quando un lato è 18*
 
 > Considera un poligono convex le cui lunghezze laterali sono tutti integri positivi, e in cui un lato ha lunghezza $18$. Trova tutti i valori che possono verificarsi come lunghezza laterale di un tale poligono (cioè, trova tutti gli enti positivi che possono essere la lunghezza di qualche lato).
-
-[[Quesiti/src_jjmo1q#q07|src_jjmo1q__Q07]]
 
 
 
@@ -232,8 +218,6 @@ level: JJMO
 
 > Il quadrilaterale $ABCD$ soddisfa $AB = 3$, $BC = 4$, $CD = 6$, $DA = 6$. Le diagonali $AC$ e $BD$ si intersecano ad un angolo di $45^\circ$. Trova l'area di questo quadrilaterale.
 
-[[Quesiti/src_jjmo1q#q08|src_jjmo1q__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,topic_aritmetica,method_casework,method_simmetria,method_fattorizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -259,8 +243,6 @@ level: JJMO
 *Contare 4 tupli di integri positivi che soddisfano due equazioni simmetriche*
 
 > Trova il numero di 4 tupli $(a, b, c, d)$ di numeri interi positivi che soddisfano il sistema: $$\begin{cases} a + b = cd \\ c + d = ab \end{cases}$$
-
-[[Quesiti/src_jjmo1q#q09|src_jjmo1q__Q09]]
 
 
 
@@ -292,8 +274,6 @@ level: JJMO
 *Ricerca il volume del pezzo contenente il vertice A quando il cubo unitario è tagliato per tre piani medi attraverso il centro*
 
 > Un cubo $ABCD$-$EFGH$ di lunghezza laterale $1$ ha il centro $O$ (l'intersezione delle sue quattro diagonali spaziali). Il cubo viene tagliato dai seguenti tre piani, ciascuno attraversando $O$: \begin{itemize} \item Il piano attraversando i bordi $BC$ e $AD$ (due bordi opposte di una faccia) attraversando $O$. \item Il piano attraverso i bordi $CA$ e $BD$ che attraversa $O$. \item Il piano attraverso i bordi $AB$ e $CD$ che attraversa $O$. Il cubo è quindi diviso in diversi solidi. Trova il volume del solido contenente il vertice $A$.
-
-[[Quesiti/src_jjmo1q#q10|src_jjmo1q__Q10]]
 
 
 
@@ -350,8 +330,6 @@ level: JJMO
 > 
 > 1. L'applicazione di (A) non modifica $xy$; dopo una sola applicazione di (B) il prodotto aumenta. Se prima di applicare (B) la coppia ha prodotto $xy = k^2$, il nuovo prodotto è al massimo $\boxed{\phantom{XX}}$ e almeno $\boxed{\phantom{XX}}$. 2. Per $k \ge 1$, il numero di coppie $(x, y)$ con $xy = k^2$ raggiungibili da $(1,1)$ è massimo $\boxed{\phantom{XX}}$. 3. Quando (B) viene applicato esattamente $\mathbf{3}$ volte, il prodotto massimo $xy$ (che deve essere un quadrato perfetto) è $\boxed{\phantom{XX}}$ se il massimo viene preso in tutte queste sequenze. Le due coppie che raggiungono i due prodotti a quadrato perfetto più grandi sono $\big(\boxed{\phantom{X}},\, \boxed{\phantom{X}}\big)$ e $\big(\boxed{\phantom{X}},\, \boxed{\phantom{X}}\big)$, e questi non possono essere raggiunti con meno di $3$ applicazioni di (B).
 
-[[Quesiti/src_jjmo1q#q11|src_jjmo1q__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,method_estremalita,method_casework,method_doppio_conteggio,skill_conteggio_sistematico,skill_astrazione"></span>
@@ -376,5 +354,3 @@ level: JJMO
 *Trascorsi massimi in un torneo di scacchi a rotonda con 15 giocatori con tutti i record distinti*
 
 > In un torneo di scacchi, i giocatori $15$ giocano ciascuno contro ogni altro giocatore esattamente una volta. In ogni partita, il risultato è una vittoria per un giocatore (e una sconfitta per l'altro) o un pareggio per entrambi. Si è rivelato che nessun giocatore finisce con esattamente lo stesso record (cioè, tutti i giocatori hanno triplicato distintamente (numero di vittorie, numero di perdite, numero di pareggio)). Trova il numero massimo possibile di giochi sorte nel torneo.
-
-[[Quesiti/src_jjmo1q#q12|src_jjmo1q__Q12]]

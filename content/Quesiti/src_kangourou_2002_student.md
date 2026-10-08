@@ -73,7 +73,6 @@ level: kangourou
 > A. 2 B. 4 C. 6 D. 8 E. 10
 
 **Answer:** E
-[[Quesiti/src_kangourou_2002_student#q01|src_kangourou_2002_student__Q01]]
 
 
 
@@ -113,7 +112,6 @@ The last digit of 1! + 2! +... + 2002!
 > A. 0 B. 1 C. 2 D. 3 E. 5
 
 **Answer:** D
-[[Quesiti/src_kangourou_2002_student#q02|src_kangourou_2002_student__Q02]]
 
 
 
@@ -151,7 +149,6 @@ The last digit of 1! + 2! +... + 2002!
 > A. 180 B. 252 C. 256 D. 280 E. 312
 
 **Answer:** B
-[[Quesiti/src_kangourou_2002_student#q03|src_kangourou_2002_student__Q03]]
 
 
 
@@ -201,7 +198,6 @@ Product ab with GCD 3 and quotient 4/10*
 > Student 2002. Page N. 2
 
 **Answer:** E
-[[Quesiti/src_kangourou_2002_student#q04|src_kangourou_2002_student__Q04]]
 
 
 
@@ -235,7 +231,6 @@ Product ab with GCD 3 and quotient 4/10*
 >    B. 1001     C. 2002      D. 4002       E. 2001
 
 **Answer:** A
-[[Quesiti/src_kangourou_2002_student#q05|src_kangourou_2002_student__Q05]]
 
 
 
@@ -272,7 +267,6 @@ Product ab with GCD 3 and quotient 4/10*
 > A. 1 / 11 B. 1 / 10 C. 1 / 12 D. 1 / 13 E. 1 / 14
 
 **Answer:** C
-[[Quesiti/src_kangourou_2002_student#q06|src_kangourou_2002_student__Q06]]
 
 
 
@@ -316,7 +310,6 @@ Product ab with GCD 3 and quotient 4/10*
 > E. 48 %
 
 **Answer:** C
-[[Quesiti/src_kangourou_2002_student#q07|src_kangourou_2002_student__Q07]]
 
 
 
@@ -360,7 +353,6 @@ Percentage of glass with water at 45°
 > E. more than 34%
 
 **Answer:** B
-[[Quesiti/src_kangourou_2002_student#q08|src_kangourou_2002_student__Q08]]
 
 
 
@@ -407,7 +399,6 @@ Percentage of glass with water at 45°
 > E. None of the above
 
 **Answer:** E
-[[Quesiti/src_kangourou_2002_student#q09|src_kangourou_2002_student__Q09]]
 
 
 
@@ -475,8 +466,6 @@ Percentage of glass with water at 45°
 
 **Answer:** A
 
-[[Quesiti/src_kangourou_2002_student#q10|src_kangourou_2002_student__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -524,7 +513,6 @@ Percentage of glass with water at 45°
 > E. None of the above answers are correct.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2002_student#q11|src_kangourou_2002_student__Q11]]
 
 
 
@@ -573,7 +561,6 @@ Percentage of glass with water at 45°
 > E. Nothing can be said without further information.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2002_student#q12|src_kangourou_2002_student__Q12]]
 
 
 
@@ -623,7 +610,6 @@ Percentage of glass with water at 45°
 > E. there is not enough information to answer
 
 **Answer:** C
-[[Quesiti/src_kangourou_2002_student#q13|src_kangourou_2002_student__Q13]]
 
 
 
@@ -664,7 +650,6 @@ Percentage of glass with water at 45°
 > A. 1 B. 2 C. 3 D. 4 E. 5
 
 **Answer:** E
-[[Quesiti/src_kangourou_2002_student#q14|src_kangourou_2002_student__Q14]]
 
 
 
@@ -710,7 +695,6 @@ Percentage of glass with water at 45°
 > Student 2002. Page N. 4
 
 **Answer:** B
-[[Quesiti/src_kangourou_2002_student#q15|src_kangourou_2002_student__Q15]]
 
 
 
@@ -759,7 +743,6 @@ Percentage of glass with water at 45°
 > E. 135°
 
 **Answer:** D
-[[Quesiti/src_kangourou_2002_student#q16|src_kangourou_2002_student__Q16]]
 
 
 
@@ -808,7 +791,6 @@ Percentage of glass with water at 45°
 > B. 3 C. 5 D. 6 E. 7
 
 **Answer:** C
-[[Quesiti/src_kangourou_2002_student#q17|src_kangourou_2002_student__Q17]]
 
 
 
@@ -885,7 +867,6 @@ Percentage of glass with water at 45°
 > D. 1 / (2 + √ 3) E. other answer
 
 **Answer:** A
-[[Quesiti/src_kangourou_2002_student#q18|src_kangourou_2002_student__Q18]]
 
 
 
@@ -932,7 +913,6 @@ Percentage of glass with water at 45°
 > D. 1 minute and 50 seconds E. 1 minute and 39 seconds
 
 **Answer:** A
-[[Quesiti/src_kangourou_2002_student#q19|src_kangourou_2002_student__Q19]]
 
 
 
@@ -987,7 +967,6 @@ Percentage of glass with water at 45°
 > Student 2002. Page N. 5. Questions from N. 21 to N. 30 are worth 5 points.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2002_student#q20|src_kangourou_2002_student__Q20]]
 
 
 
@@ -1026,7 +1005,6 @@ Percentage of glass with water at 45°
 > A. 20 B. 50 C. 70 D. 100 E. 110
 
 **Answer:** E
-[[Quesiti/src_kangourou_2002_student#q21|src_kangourou_2002_student__Q21]]
 
 
 
@@ -1065,7 +1043,6 @@ Maximum k such that 2001^k divides 2002!
 > A. 101 B. 71 C. 69 D. 2 E. 1
 
 **Answer:** B
-[[Quesiti/src_kangourou_2002_student#q22|src_kangourou_2002_student__Q22]]
 
 
 
@@ -1112,8 +1089,6 @@ Maximum k such that 2001^k divides 2002!
 >  
 > E. It is not possible to answer without further information.
 
-[[Quesiti/src_kangourou_2002_student#q23|src_kangourou_2002_student__Q23]]
-
 
 
 <span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_simmetria,skill_casework_accurato"></span>
@@ -1151,7 +1126,6 @@ Maximum k such that 2001^k divides 2002!
 > A. 6 B. 7 C. 8 D. 9 E. None of the above answers are correct.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2002_student#q24|src_kangourou_2002_student__Q24]]
 
 
 
@@ -1221,7 +1195,6 @@ Maximum k such that 2001^k divides 2002!
 > Student 2002. Page N. 6
 
 **Answer:** B
-[[Quesiti/src_kangourou_2002_student#q25|src_kangourou_2002_student__Q25]]
 
 
 
@@ -1259,7 +1232,6 @@ Maximum k such that 2001^k divides 2002!
 > E. None of the above answers are correct.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2002_student#q26|src_kangourou_2002_student__Q26]]
 
 
 
@@ -1300,7 +1272,6 @@ Maximum k such that 2001^k divides 2002!
 > E. less than 2 seconds
 
 **Answer:** E
-[[Quesiti/src_kangourou_2002_student#q27|src_kangourou_2002_student__Q27]]
 
 
 
@@ -1338,7 +1309,6 @@ Maximum k such that 2001^k divides 2002!
 > A. 3 B. 5 C. 7 D. 9 E. 11
 
 **Answer:** C
-[[Quesiti/src_kangourou_2002_student#q28|src_kangourou_2002_student__Q28]]
 
 
 
@@ -1427,7 +1397,6 @@ Maximum k such that 2001^k divides 2002!
 > E. 10 / 7
 
 **Answer:** A
-[[Quesiti/src_kangourou_2002_student#q29|src_kangourou_2002_student__Q29]]
 
 
 
@@ -1503,4 +1472,3 @@ Maximum k such that 2001^k divides 2002!
 > The correct answer is indicated in square brackets after the question number.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2002_student#q30|src_kangourou_2002_student__Q30]]

@@ -43,8 +43,6 @@ Score di campionato di calcio con vincite, pareggio e sconfitte
 > 
 > b) Se il campione ottiene $5$ punti, due squadre finiscono nella stessa posizione con $3$ punti ciascuno, e l'ultimo ottiene $2$ punti, quante gare si saranno verificate?
 
-[[Quesiti/src_obm_2016_n2_f3#q01|src_obm_2016_n2_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_aritmetica,method_ricorsione,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
@@ -87,8 +85,6 @@ Score di campionato di calcio con vincite, pareggio e sconfitte
 > c) Qual è la superficie totale della figura $6$?
 
 ![[src_obm_2016_n2_f3__q02.png]]
-
-[[Quesiti/src_obm_2016_n2_f3#q02|src_obm_2016_n2_f3__Q02]]
 
 
 
@@ -141,8 +137,6 @@ Score di campionato di calcio con vincite, pareggio e sconfitte
 > 
 > b) Qual è il valore minimo possibile di $n$?
 
-[[Quesiti/src_obm_2016_n2_f3#q03|src_obm_2016_n2_f3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_casi_conteggio,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -177,8 +171,6 @@ Score di campionato di calcio con vincite, pareggio e sconfitte
 > a) Qual è il numero più vicino a $2016$ che figura nell'elenco di Carlinhos?
 > 
 > b) Determinare la somma di tutti i numeri della lista di Carlinhos inferiori a $2016$.
-
-[[Quesiti/src_obm_2016_n2_f3#q04|src_obm_2016_n2_f3__Q04]]
 
 
 
@@ -234,5 +226,3 @@ Score di campionato di calcio con vincite, pareggio e sconfitte
 > b) $N = 2016$.
 > 
 > Nota: diciamo che due numeri sono copriemi se non hanno un divisore comune maggiore o uguale a $2$ (più grande di $1$). Ad esempio, $9$ e $4$ sono coprime, poiché $1$ è il loro unico divisore comune.
-
-[[Quesiti/src_obm_2016_n2_f3#q05|src_obm_2016_n2_f3__Q05]]

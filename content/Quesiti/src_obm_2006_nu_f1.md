@@ -33,8 +33,6 @@ level: OBM Nível Universitário
 
 > Calcolo $$\int_2^{\infty} \frac{e^x - 1 - x}{(e^x - 1) \cdot x}\, dx.$$
 
-[[Quesiti/src_obm_2006_nu_f1#q01|src_obm_2006_nu_f1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_geometria_solida,method_casework,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione,skill_ragionamento_geometrico"></span>
@@ -61,8 +59,6 @@ level: OBM Nível Universitário
 
 > $N$ sia un numero intero positivo. Calcolare, come funzione di $N$, il volume del solido definito da $$x,\, y,\, z \in [0, +\infty), \quad \lfloor x \rfloor + \lfloor y \rfloor + \lfloor z \rfloor \le N.$$
 
-[[Quesiti/src_obm_2006_nu_f1#q02|src_obm_2006_nu_f1__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_insiemi_funzioni,topic_disuguaglianze,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -88,8 +84,6 @@ level: OBM Nível Universitário
 *Linghi f(x) <3/2 da ODE con condizioni iniziali*
 
 > Dato che $f : \mathbb{R} \to [0, +\infty)$ è doppio differenziabile con $f(0) = 0$, $f'(0) = 1$ e $1 + f(x) = \dfrac{1}{f'(x)}$, indicare che per tutti $x \in [0, 1]$, $$f(x) < \frac{3}{2}.$$
-
-[[Quesiti/src_obm_2006_nu_f1#q03|src_obm_2006_nu_f1__Q03]]
 
 
 
@@ -119,8 +113,6 @@ level: OBM Nível Universitário
 > Data un'iperbola e una linea non parallela ad alcuna di queste asintotte, determinare il locus dei punti medi degli accordi dell'iperbola che sono paralleli alla linea data.
 > 
 > **Nota: ** Una corda ** di un iperbola è un segmento i cui punti terminali appartengono entrambi all'iperbola.
-
-[[Quesiti/src_obm_2006_nu_f1#q04|src_obm_2006_nu_f1__Q04]]
 
 
 
@@ -154,8 +146,6 @@ level: OBM Nível Universitário
 > 
 > Trova una funzione $y(t)$ tale da $$y''(t) + a(t)\,y'(t) + b(t)\,y(t) = c(t), \quad y(0) = 0, \quad y'(0) = 0.$$
 
-[[Quesiti/src_obm_2006_nu_f1#q05|src_obm_2006_nu_f1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_probabilita,topic_geometria_analitica,method_casework,method_coordinate,method_inclusione_esclusione,skill_modellizzazione,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -181,5 +171,3 @@ level: OBM Nível Universitário
 *Probabilità che la distanza minima in coppia superi m*
 
 > Scegliere tre punti $x_1, x_2, x_3$ a caso, indipendentemente e con distribuzione uniforme su $[0, 1]$. Determinare, in funzione del numero positivo $m$, la probabilità che $$\min\{\,|x_1 - x_2|,\; |x_1 - x_3|,\; |x_2 - x_3|\,\} > m.$$
-
-[[Quesiti/src_obm_2006_nu_f1#q06|src_obm_2006_nu_f1__Q06]]

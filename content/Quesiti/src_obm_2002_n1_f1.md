@@ -41,7 +41,6 @@ level: OBM Nível 1
 > (A) $\dfrac{1}{4}$ (B) $\dfrac{1}{2}$ (C) $1$ (D) $2$ (E) $8$
 
 **Risposta:** C
-[[Quesiti/src_obm_2002_n1_f1#q01|src_obm_2002_n1_f1__Q01]]
 
 
 
@@ -80,7 +79,6 @@ level: OBM Nível 1
 ![[src_obm_2002_n1_f1__q02.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2002_n1_f1#q02|src_obm_2002_n1_f1__Q02]]
 
 
 
@@ -119,7 +117,6 @@ Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
 ![[src_obm_2002_n1_f1__q03.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2002_n1_f1#q03|src_obm_2002_n1_f1__Q03]]
 
 
 
@@ -158,7 +155,6 @@ Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
 ![[src_obm_2002_n1_f1__q04.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2002_n1_f1#q04|src_obm_2002_n1_f1__Q04]]
 
 
 
@@ -193,7 +189,6 @@ Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
 > (A) Quarantotto. (B) Quarantove nove. (C) Cinquanta. (D) Cinquanta e uno. (E) Cinquantaquattro.
 
 **Risposta:** D
-[[Quesiti/src_obm_2002_n1_f1#q05|src_obm_2002_n1_f1__Q05]]
 
 
 
@@ -227,7 +222,6 @@ Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
 > (A) $4166$ lattine (B) $10000$ lattine (C) $20000$ lattine (D) $25000$ lattine (E) $30000$
 
 **Risposta:** D
-[[Quesiti/src_obm_2002_n1_f1#q06|src_obm_2002_n1_f1__Q06]]
 
 
 
@@ -269,7 +263,6 @@ Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
 ![[src_obm_2002_n1_f1__q07.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2002_n1_f1#q07|src_obm_2002_n1_f1__Q07]]
 
 
 
@@ -308,7 +301,6 @@ Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
 ![[src_obm_2002_n1_f1__q08.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2002_n1_f1#q08|src_obm_2002_n1_f1__Q08]]
 
 
 
@@ -343,7 +335,6 @@ Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
 > (A) un numero primo. (B) un multiple di $3$. C) pari alla somma di questi numeri. (D) un numero strano. (E) un quadrato perfetto.
 
 **Risposta:** C
-[[Quesiti/src_obm_2002_n1_f1#q09|src_obm_2002_n1_f1__Q09]]
 
 
 
@@ -377,7 +368,6 @@ Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
 > (A) $\dfrac{2}{5}$ (B) $\dfrac{9}{20}$ (C) $\dfrac{1}{2}$ (D) $\dfrac{2}{3}$ (E) $\dfrac{9}{10}$
 
 **Risposta:** B
-[[Quesiti/src_obm_2002_n1_f1#q10|src_obm_2002_n1_f1__Q10]]
 
 
 
@@ -428,7 +418,6 @@ Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
 ![[src_obm_2002_n1_f1__q11.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2002_n1_f1#q11|src_obm_2002_n1_f1__Q11]]
 
 
 
@@ -470,7 +459,6 @@ Comparare il costo del viaggio in auto (benzina più pedaggio) con quello dell'a
 > - **(E)** Spendere R\$$14{,}00$ di più.
 
 **Risposta:** C
-[[Quesiti/src_obm_2002_n1_f1#q12|src_obm_2002_n1_f1__Q12]]
 
 
 
@@ -505,7 +493,6 @@ Comparare il costo del viaggio in auto (benzina più pedaggio) con quello dell'a
 > (A) $28$ (B) $31$ (C) $32$ (D) $33$ (E) $36$
 
 **Risposta:** B
-[[Quesiti/src_obm_2002_n1_f1#q13|src_obm_2002_n1_f1__Q13]]
 
 
 
@@ -540,7 +527,6 @@ Comparare il costo del viaggio in auto (benzina più pedaggio) con quello dell'a
 > (A) $1\,000\,000$ (B) $1\,250\,002$ (C) $1\,501\,999$ (D) $1\,999\,999$ (E) $13\,999\,432$
 
 **Risposta:** D
-[[Quesiti/src_obm_2002_n1_f1#q14|src_obm_2002_n1_f1__Q14]]
 
 
 
@@ -575,7 +561,6 @@ Comparare il costo del viaggio in auto (benzina più pedaggio) con quello dell'a
 > (A) $10$ volte (B) $12$ volte (C) $13$ volte (D) $14$ volte (E) $15$ volte
 
 **Risposta:** A
-[[Quesiti/src_obm_2002_n1_f1#q15|src_obm_2002_n1_f1__Q15]]
 
 
 
@@ -622,7 +607,6 @@ Comparare il costo del viaggio in auto (benzina più pedaggio) con quello dell'a
 ![[src_obm_2002_n1_f1__q16.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2002_n1_f1#q16|src_obm_2002_n1_f1__Q16]]
 
 
 
@@ -661,7 +645,6 @@ Comparare il costo del viaggio in auto (benzina più pedaggio) con quello dell'a
 ![[src_obm_2002_n1_f1__q17.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2002_n1_f1#q17|src_obm_2002_n1_f1__Q17]]
 
 
 
@@ -704,7 +687,6 @@ Comparare il costo del viaggio in auto (benzina più pedaggio) con quello dell'a
 ![[src_obm_2002_n1_f1__q18.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2002_n1_f1#q18|src_obm_2002_n1_f1__Q18]]
 
 
 
@@ -739,7 +721,6 @@ Comparare il costo del viaggio in auto (benzina più pedaggio) con quello dell'a
 > (A) $250$ (B) $270$ (C) $271$ (D) $280$ (E) $292$
 
 **Risposta:** D
-[[Quesiti/src_obm_2002_n1_f1#q19|src_obm_2002_n1_f1__Q19]]
 
 
 
@@ -773,4 +754,3 @@ Comparare il costo del viaggio in auto (benzina più pedaggio) con quello dell'a
 > (A) $500$ litri (B) $600$ litri (C) $700$ litri (D) $800$ litri (E) $900$ litri
 
 **Risposta:** A
-[[Quesiti/src_obm_2002_n1_f1#q20|src_obm_2002_n1_f1__Q20]]

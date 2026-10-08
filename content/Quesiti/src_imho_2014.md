@@ -35,8 +35,6 @@ level: IMO
 > Sia $a_0 < a_1 < a_2 < \cdots$ una successione infinita di interi positivi. Si dimostri che esiste un unico numero intero $n \ge 1$ tale che
 > $$a_n < \frac{a_0 + a_1 + \cdots + a_n}{n} \le a_{n+1}.$$
 
-[[Quesiti/src_imho_2014#q01|src_imho_2014__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_estremalita,method_casework,method_induzione,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_casework_accurato"></span>
@@ -61,8 +59,6 @@ level: IMO
 *Configurazioni pacifiche di torre su una scacchiera n×n senza quadrati k×k vuoti*
 
 > Sia $n \ge 2$ un numero intero. Si consideri una scacchiera di dimensione $n \times n$ composta da $n^2$ quadratini unitari. Una configurazione di $n$ torri su questa scacchiera si dice pacifica se ogni riga e ogni colonna contiene esattamente una torre. Si determini il massimo intero positivo $k$ tale che, per ogni configurazione pacifica di $n$ torri, esista un quadrato di lato $k \times k$ che non contiene alcuna torre nei suoi $k^2$ quadratini unitari.
-
-[[Quesiti/src_imho_2014#q02|src_imho_2014__Q02]]
 
 
 
@@ -93,8 +89,6 @@ level: IMO
 > $$\angle CHS - \angle CSB = 90^\circ, \quad \angle THC - \angle DTC = 90^\circ.$$.
 > Si dimostri che la retta $BD$ è tangente alla circonferenza circoscritta al triangolo $TSH$.
 
-[[Quesiti/src_imho_2014#q03|src_imho_2014__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -120,8 +114,6 @@ level: IMO
 
 > I punti $P$ e $Q$ giacciono sul lato $BC$ del triangolo acutangolo $ABC$ in modo che $\angle PAB = \angle BCA$ e $\angle CAQ = \angle ABC$. I punti $M$ e $N$ giacciono rispettivamente sulle rette $AP$ e $AQ$, in modo che $P$ sia il punto medio di $AM$ e $Q$ sia il punto medio di $AN$. Si dimostri che le rette $BM$ e $CN$ si intersecano sulla circonferenza circoscritta al triangolo $ABC$.
 
-[[Quesiti/src_imho_2014#q04|src_imho_2014__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,method_induzione,skill_modellizzazione,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -146,8 +138,6 @@ level: IMO
 *Monete della Banca di Città del Capo divise in gruppi di al più 1*
 
 > Per ogni intero positivo $n$, la Banca di Città del Capo emette monete del valore $\frac{1}{n}$. Dato un insieme finito di tali monete (non necessariamente con valori diversi), la cui somma totale sia al più $99 + \frac{1}{2}$, si dimostri che è possibile suddividere questo insieme in al più $100$ gruppi, ciascuno dei quali abbia somma totale al più $1$.
-
-[[Quesiti/src_imho_2014#q05|src_imho_2014__Q05]]
 
 
 
@@ -177,5 +167,3 @@ level: IMO
 > Un insieme di rette nel piano è in posizione generale se nessuna coppia è parallela e nessuna terna passa per lo stesso punto. Un insieme di rette in posizione generale suddivide il piano in regioni, alcune delle quali hanno area finita; chiamiamo queste ultime le sue regioni finite. Si dimostri che per ogni $n$ sufficientemente grande, in qualsiasi insieme di $n$ rette in posizione generale è possibile colorare almeno $\sqrt{n}$ di esse di blu in modo tale che nessuna delle sue regioni finite abbia tutto il confine colorato di blu.
 > 
 > \textit{Nota:} I punteggi attribuiti ai risultati con $\sqrt{n}$ sostituito da $c\sqrt{n}$ dipenderanno dal valore della costante $c$.
-
-[[Quesiti/src_imho_2014#q06|src_imho_2014__Q06]]

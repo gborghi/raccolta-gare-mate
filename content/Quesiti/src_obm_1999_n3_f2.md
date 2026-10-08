@@ -33,8 +33,6 @@ level: OBM Nível 3
 
 > Al diametro di un cerchio, scrivere il numero $1$ (primo passo). Successivamente, ogni semicircolo viene suddiviso e a ciascuno dei suoi due punti di mezzo si scrive la somma dei numeri alle due estremità del semicircolo (seconda tappa). Successivamente, ogni quartiere circolare viene suddiviso e a ciascuno dei suoi due punti di mezzo si scrive la somma dei numeri alle due estremità del quartiere circolo (terzo passo). Questo processo continua: ad ogni passo, ogni arco è diviso e al suo punto medio viene scritta la somma dei numeri ai suoi due punti finali. Determinare la somma di tutti i numeri scritti dopo i passi $1999$.
 
-[[Quesiti/src_obm_1999_n3_f2#q01|src_obm_1999_n3_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_disuguaglianze,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -64,8 +62,6 @@ level: OBM Nível 3
 
 ![[src_obm_1999_n3_f2__q02.png]]
 
-[[Quesiti/src_obm_1999_n3_f2#q02|src_obm_1999_n3_f2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato,skill_conteggio_sistematico"></span>
@@ -93,8 +89,6 @@ level: OBM Nível 3
 
 > Determinare il numero intero più grande $n$ per il quale esiste una riorganizzazione $(a, b, c, d)$ di $(3, 6, 9, 12)$ tale che $$\sqrt[4]{a\sqrt[3]{b\sqrt{c^{\,d}}}}$$ sia un numero intero. Giustifica la tua risposta.
 
-[[Quesiti/src_obm_1999_n3_f2#q03|src_obm_1999_n3_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_casework,method_colorazione,method_invarianti,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -119,8 +113,6 @@ level: OBM Nível 3
 *Neri interi positivi per i quali un rettangolo 9×10 può essere cartigliato da 1×n pezzi*
 
 > Determinare tutti i numeri interi positivi $n$ per i quali è possibile tessere un rettangolo $9 \times 10$ usando pezzi $1 \times n$.
-
-[[Quesiti/src_obm_1999_n3_f2#q04|src_obm_1999_n3_f2__Q04]]
 
 
 
@@ -147,8 +139,6 @@ level: OBM Nível 3
 
 > José ha tre coppie di occhiali: uno magenta, uno giallo e uno cian. Ogni mattina ne sceglie uno a caso, facendo attenzione a non usarne mai lo stesso del giorno precedente. Il 1° agosto indossava la magenta. Qual e' la probabilita' che il 31 agosto usi di nuovo la coppia di magenta?
 
-[[Quesiti/src_obm_1999_n3_f2#q05|src_obm_1999_n3_f2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -173,5 +163,3 @@ level: OBM Nível 3
 *Ricerca tutte le soluzioni integrali di x^3 - y^3 = 999*
 
 > Trovare tutte le soluzioni integrali di $x^3 - y^3 = 999$.
-
-[[Quesiti/src_obm_1999_n3_f2#q06|src_obm_1999_n3_f2__Q06]]

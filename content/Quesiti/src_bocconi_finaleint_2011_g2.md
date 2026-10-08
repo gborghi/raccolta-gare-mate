@@ -43,7 +43,6 @@ Head and cross coins: colour those with the cross
 ![[src_bocconi_finaleint_2011_g2__q01.png]]
 
 **Answer:** The coins with the cross are those indicated in the figure of the solution (4 coins colored in gray).
-[[Quesiti/src_bocconi_finaleint_2011_g2#q01|src_bocconi_finaleint_2011_g2__Q01]]
 
 
 
@@ -73,7 +72,6 @@ Mysterious addition with repeated symbols
 > In this addition, each symbol always replaces the same number and two different symbols replace two different numbers. Find the addition. Note: decimal writing of a multi-digit number never begins with $0$. $$\heartsuit\clubsuit + \clubsuit\heartsuit = \clubsuit\clubsuit\spadesuit$$
 
 **Answer:** $91 + 19 = 110$
-[[Quesiti/src_bocconi_finaleint_2011_g2#q02|src_bocconi_finaleint_2011_g2__Q02]]
 
 
 
@@ -106,7 +104,6 @@ How many cubes do not touch the carpet or other cubes?
 ![[src_bocconi_finaleint_2011_g2__q03.png]]
 
 **Answer:** 6
-[[Quesiti/src_bocconi_finaleint_2011_g2#q03|src_bocconi_finaleint_2011_g2__Q03]]
 
 
 
@@ -139,7 +136,6 @@ How many cubes do not touch the carpet or other cubes?
 ![[src_bocconi_finaleint_2011_g2__q04.png]]
 
 **Answer:** 5022
-[[Quesiti/src_bocconi_finaleint_2011_g2#q04|src_bocconi_finaleint_2011_g2__Q04]]
 
 
 
@@ -173,7 +169,6 @@ How many cubes do not touch the carpet or other cubes?
 ![[src_bocconi_finaleint_2011_g2__q05.png]]
 
 **Answer:** 929
-[[Quesiti/src_bocconi_finaleint_2011_g2#q05|src_bocconi_finaleint_2011_g2__Q05]]
 
 
 
@@ -205,8 +200,7 @@ How many cubes do not touch the carpet or other cubes?
 
 ![[src_bocconi_finaleint_2011_g2__q06.png]]
 
-**Answer:** Esiste un'unica posizione di taglio (la risposta è unica).
-[[Quesiti/src_bocconi_finaleint_2011_g2#q06|src_bocconi_finaleint_2011_g2__Q06]]
+**Answer:** There is a single cutting position (the answer is unique).
 
 
 
@@ -235,7 +229,6 @@ How many cubes do not touch the carpet or other cubes?
 > A math and logic game club is made up of boys and girls. All of its members, except 11, are boys. In any group of 20 members there are at least six girls. What's the maximum number of club members?
 
 **Answer:** 24
-[[Quesiti/src_bocconi_finaleint_2011_g2#q07|src_bocconi_finaleint_2011_g2__Q07]]
 
 
 
@@ -264,7 +257,6 @@ How many cubes do not touch the carpet or other cubes?
 > Use the digits from $1$ to $9$ to form a nine-digit number, all different. Without changing the order, each pair of digits written next to each other must form a one-digit number equal to the product of the two 1-digit numbers, if any, equal.
 
 **Answer:** 728163549
-[[Quesiti/src_bocconi_finaleint_2011_g2#q08|src_bocconi_finaleint_2011_g2__Q08]]
 
 
 
@@ -293,7 +285,6 @@ How many cubes do not touch the carpet or other cubes?
 > The last international final of mathematical and logic games was attended by 75 competitors in the C1 category. The $36\%$ provided an accurate answer to at least 13 problems. The $84\%$ gave an accurate answer to no more than 13 problems. How many participants solved exactly 13 problems?
 
 **Answer:** 15
-[[Quesiti/src_bocconi_finaleint_2011_g2#q09|src_bocconi_finaleint_2011_g2__Q09]]
 
 
 
@@ -322,7 +313,6 @@ How many cubes do not touch the carpet or other cubes?
 > Electrum and silver coins allow anything that the antique merchant touches to be turned into gold to create an alabaster vase. The price of the vase is 177 drachmas. Mida has in her purse 3 gold coins worth 20 drachmas each, 5 electrum coins worth 11 drachmas each, and 7 silver coins worth 3 drachmas each. The merchant has no rest; therefore Mida must pay the exact price, but to do so he must ask his valet to take coins from his purse. How many gold coins does the valet have to take?
 
 **Answer:** 4
-[[Quesiti/src_bocconi_finaleint_2011_g2#q10|src_bocconi_finaleint_2011_g2__Q10]]
 
 
 
@@ -355,7 +345,6 @@ How many cubes do not touch the carpet or other cubes?
 ![[src_bocconi_finaleint_2011_g2__q11.png]]
 
 **Answer:** $2 \times 56 = 112$
-[[Quesiti/src_bocconi_finaleint_2011_g2#q11|src_bocconi_finaleint_2011_g2__Q11]]
 
 
 
@@ -388,7 +377,6 @@ How many cubes do not touch the carpet or other cubes?
 ![[src_bocconi_finaleint_2011_g2__q12.png]]
 
 **Answer:** $50\%$
-[[Quesiti/src_bocconi_finaleint_2011_g2#q12|src_bocconi_finaleint_2011_g2__Q12]]
 
 
 
@@ -421,7 +409,6 @@ How many cubes do not touch the carpet or other cubes?
 ![[src_bocconi_finaleint_2011_g2__q13.png]]
 
 **Answer:** $(44, 13)$
-[[Quesiti/src_bocconi_finaleint_2011_g2#q13|src_bocconi_finaleint_2011_g2__Q13]]
 
 
 
@@ -449,8 +436,7 @@ How many cubes do not touch the carpet or other cubes?
 
 > A cow is inside a narrow railway tunnel, 5 meters from its middle. A train is heading towards the tunnel entrance. When she's three kilometers from the entrance, the cow hears the noise. She knows she's going to this entrance or the exit of the tunnel, she can get out a moment before the train hits her. What is the maximum length of the tunnel in meters? Note: the train travels at constant speed; the cow also moves at constant speed and its speed would be the same in one direction or the other.
 
-**Answer:** 250 metri
-[[Quesiti/src_bocconi_finaleint_2011_g2#q14|src_bocconi_finaleint_2011_g2__Q14]]
+**Answer:** 250 meters
 
 
 
@@ -479,7 +465,6 @@ How many cubes do not touch the carpet or other cubes?
 > Leonardo wrote a magic number on a board. Then he asked Teresa: (i) to draw on the board a non-isosceles and non-flat triangle; (ii) to calculate the six ratios between the lengths of its three sides taken two by two; (iii) to observe which one is closest to 1 (it is possible that Teresa obtained it in two different ways). Then Leonardo says, "I knew this ratio would be less than 1". And Teresa: "Is that all there is?" And Leonardo said, "No. I also knew it would be greater than the magic number". What is this magic number, at most? Rounded to the decimal place with three digits after the comma that would have been greater than 1,414 for $\sqrt{2}$, 1,732 for $\sqrt{3}$, and 2,236 for $\sqrt{5}$.
 
 **Answer:** $0{,}618$
-[[Quesiti/src_bocconi_finaleint_2011_g2#q15|src_bocconi_finaleint_2011_g2__Q15]]
 
 
 
@@ -512,7 +497,6 @@ How many cubes do not touch the carpet or other cubes?
 ![[src_bocconi_finaleint_2011_g2__q16.png]]
 
 **Answer:** 2356
-[[Quesiti/src_bocconi_finaleint_2011_g2#q16|src_bocconi_finaleint_2011_g2__Q16]]
 
 
 
@@ -544,8 +528,7 @@ How many cubes do not touch the carpet or other cubes?
 
 ![[src_bocconi_finaleint_2011_g2__q17.png]]
 
-**Answer:** $(36,64)$, $(130,158)$, $(96,144)$, $(50,90)$, $(112,152)$, $(42,82)$, $(84,136)$, $(58,110)$ (larghezza, lunghezza)
-[[Quesiti/src_bocconi_finaleint_2011_g2#q17|src_bocconi_finaleint_2011_g2__Q17]]
+**Answer:** $(36,64)$, $(130,158)$, $(96,144)$, $(50,90)$, $(112,152)$, $(42,82)$, $(84,136)$, $(58,110)$ (width, length)
 
 
 
@@ -573,5 +556,4 @@ How many cubes do not touch the carpet or other cubes?
 
 > Mattia wrote three two-digit numbers. He added those three numbers, then calculated the product. The sum of the three numbers is written $xy$ (with $x$ the decimal point and $y$ the unit point). This product is written $x0y0$ (with $x$ the number of thousands and $y$ the number of tens; the other two digits are zeros). What are, in increasing order, the three numbers Mattia has chosen?
 
-**Answer:** $(10, 20, 30)$ oppure $(15, 16, 17)$
-[[Quesiti/src_bocconi_finaleint_2011_g2#q18|src_bocconi_finaleint_2011_g2__Q18]]
+**Answer:** $(10, 20, 30)$ or $(15, 16, 17)$

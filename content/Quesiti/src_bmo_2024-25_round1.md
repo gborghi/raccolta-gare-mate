@@ -41,8 +41,6 @@ level: BMO Round 1
 > 
 > Trova tutte le $n$ nella gamma $3 \le n \le 12$ che sono soddisfatte.
 
-[[Quesiti/src_bmo_2024-25_round1#q01|src_bmo_2024-25_round1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -69,8 +67,6 @@ level: BMO Round 1
 *Carte in cerchio, somme vicine divisibili per 3*
 
 > I numeri $1, 2, \dots, n$ sono scritti su carte $n$, un numero su ciascuna carta. Le carte sono posizionate in un cerchio. (i) Se le carte sono disposte in un ordine particolare, la somma dei numeri su ciascuna coppia di carte vicine è divisibile per $3$. ii) Determinare tutti i valori di $n$ per i quali le carte possono essere posizionate in un cerchio in modo che la somma dei numeri su ciascuna coppia di carte vicine sia divisibile da $3$.
-
-[[Quesiti/src_bmo_2024-25_round1#q02|src_bmo_2024-25_round1__Q02]]
 
 
 
@@ -103,8 +99,6 @@ level: BMO Round 1
 > 
 > Determinare, con dimostrazione, chi vince la partita.
 
-[[Quesiti/src_bmo_2024-25_round1#q03|src_bmo_2024-25_round1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -136,8 +130,6 @@ level: BMO Round 1
 > 
 > Prove che $\angle CPB = 90^\circ$.
 
-[[Quesiti/src_bmo_2024-25_round1#q04|src_bmo_2024-25_round1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -165,8 +157,6 @@ level: BMO Round 1
 
 > Che $p$ sia un numero primo, e che $n$ sia il numero intero positivo più piccolo, strettamente maggiore di $1$, che non è un divisore di $p - 1$. Prova che $(n+1)^k - 1$ e $(n+1)^k - n$ sono divisibili da $p$ per un intero positivo $k$.
 
-[[Quesiti/src_bmo_2024-25_round1#q05|src_bmo_2024-25_round1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_geometria_solida,method_cassetti,method_doppio_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -193,5 +183,3 @@ level: BMO Round 1
 *4x4x4 cubo di zuccheri a 3 sapori; trovare 12 sapori identici in 9 coppie di distanza uguale*
 
 > Bjork ha cubetti di zucchero $64$, ciascuno di dimensioni $1 \times 1 \times 1$. Ogni cubo di zucchero ha un sapore bianco, demeraro o muscovado. Ha accumulato i cubetti di zucchero in un cubo $4 \times 4 \times 4$. Dovere che tra i cubetti i cui centri si trovano su una sottolattice allineata all'asse $1 \times 1 \times 1$ devono esistere cubetti di zucchero $12$ dello stesso sapore, che possono essere suddivisi in coppie disgiunte $9$ in modo che i cubetti di ciascuna coppia siano dello stesso colore.
-
-[[Quesiti/src_bmo_2024-25_round1#q06|src_bmo_2024-25_round1__Q06]]

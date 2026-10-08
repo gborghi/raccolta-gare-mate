@@ -34,8 +34,6 @@ level: squadre
 > Prime number 
 > What is the prime number between 112 and 122 that is the sum of two squares?
 
-[[Quesiti/src_kangourou_2021_squadre_finale#q01|src_kangourou_2021_squadre_finale__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_congruenze,skill_modellizzazione"></span>
@@ -65,8 +63,6 @@ level: squadre
 
 > Families On a bus to Mirabilandia, which is Covid free, in addition to the driver, some families are travelling. Each family consists of exactly a father, a mother and one child, except one in which the children are two. At the end of the journey, adding up the kilometres travelled by all travellers, including the driver, gives 2021. How many families are there?
 
-[[Quesiti/src_kangourou_2021_squadre_finale#q02|src_kangourou_2021_squadre_finale__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_algebra,method_estremalita,skill_astrazione"></span>
@@ -95,8 +91,6 @@ level: squadre
 *Maximum opposite sum of products of sequence 0,1,-1*
 
 > Product sum Any term in a sequence of 2021 integers is 1 or 0 or −1. For each unordered pair of terms in the sequence, the product of the terms that make up the pair is computed; all the products obtained are added. When we vary all the possible sequences of this kind, what is the maximum value we can get for the opposite of this sum?
-
-[[Quesiti/src_kangourou_2021_squadre_finale#q03|src_kangourou_2021_squadre_finale__Q03]]
 
 
 
@@ -130,8 +124,6 @@ level: squadre
 
 > The angle In the figure you see a square, a regular octagon and a regular hexagon, having one side in common. You can also see two triangles made by joining some of the vertices of the other figures. How many degrees does the angle φ measure, the sum of two consecutive angles of the two triangles shown in the figure?
 
-[[Quesiti/src_kangourou_2021_squadre_finale#q04|src_kangourou_2021_squadre_finale__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_doppio_conteggio,skill_conteggio_sistematico"></span>
@@ -161,8 +153,6 @@ level: squadre
 
 > We call the weight of a positive integer of at least two digits the number of ordered pairs of its digits, not necessarily adjacent, for which the first digit is greater than the second; for example, the weight of 5142 is 4. Consider all the positive five-digit integers that you can write using for each of them all the digits 1, 2, 3, 4, 5 and add up their weights: what number do you get?
 
-[[Quesiti/src_kangourou_2021_squadre_finale#q05|src_kangourou_2021_squadre_finale__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
@@ -190,8 +180,6 @@ level: squadre
 *AEG triangle area with two adjacent squares*
 
 > The side of a square ABCD measures 19 cm. On the CD side a point G is located and, externally to the ABCD square, the square GCEF with side 14 cm is constructed. What is the area in square centimetres of the AEG triangle?
-
-[[Quesiti/src_kangourou_2021_squadre_finale#q06|src_kangourou_2021_squadre_finale__Q06]]
 
 
 
@@ -225,8 +213,6 @@ level: squadre
 > The bus A bus, a truck and a car travel at a constant speed, the truck at 63 km/h and the car at 126 km/h. They pass in this order in front of a service station spaced at equal intervals. They then pass by a second service station still at the same time intervals as before, but this time in the order bus, car, truck. What is the speed of the bus in km/h?
 >  
 > ϕ
-
-[[Quesiti/src_kangourou_2021_squadre_finale#q07|src_kangourou_2021_squadre_finale__Q07]]
 
 
 
@@ -265,8 +251,6 @@ level: squadre
 > buy a book costing 65 euros, but not the ticket for a trip costing 150 euros.
 > How many euros does Francesco have?
 
-[[Quesiti/src_kangourou_2021_squadre_finale#q08|src_kangourou_2021_squadre_finale__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_algebra,skill_manipolazione_algebrica"></span>
@@ -292,8 +276,6 @@ level: squadre
 *Number of vertices (angles in arithmetic progression)*
 
 > How many vertices? The interior angles of a convex polygon are measured in arithmetic progression: the smallest measures 106 degrees, the largest measures 194. How many vertices does the polygon have?
-
-[[Quesiti/src_kangourou_2021_squadre_finale#q09|src_kangourou_2021_squadre_finale__Q09]]
 
 
 
@@ -322,8 +304,6 @@ level: squadre
 
 > Without six John writes all integers from 1 to 2021 except those containing the digit 6. How many numbers does he write?
 
-[[Quesiti/src_kangourou_2021_squadre_finale#q10|src_kangourou_2021_squadre_finale__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato"></span>
@@ -351,8 +331,6 @@ level: squadre
 *Solutions (X,Y) with 135X6Y divisible by 12*
 
 > The letters Mauro must replace with a digit each letter appearing in the number 135X6Y so that the resulting number is divisible by 12. How many solutions (X,Y) does this problem admit? (It is not excluded that X may coincide with Y).
-
-[[Quesiti/src_kangourou_2021_squadre_finale#q11|src_kangourou_2021_squadre_finale__Q11]]
 
 
 
@@ -383,8 +361,6 @@ level: squadre
 
 > Numbers "strong" Let's say a number is "strong" if every pair of its consecutive digits is a number that is a power, at least of second degree, of a positive integer. For example, 325 is a strong number because 32 and 25 are powers of integers. What are the last four digits of the largest strongest number? Write the digit of the thousands, that of the hundreds, etc. in order.
 
-[[Quesiti/src_kangourou_2021_squadre_finale#q12|src_kangourou_2021_squadre_finale__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
@@ -412,8 +388,6 @@ level: squadre
 *F in cents (gift collection)*
 
 > Alice's birthday is during a summer camp and her friends want to give her a gift: to buy it, the 20 boys each put the same M-euro number and the 10 girls each put the same F-euro number. The average total amount collected exceeds 50% of the M sum paid by each boy. How many cents is the quotient of the division M: F ?
-
-[[Quesiti/src_kangourou_2021_squadre_finale#q13|src_kangourou_2021_squadre_finale__Q13]]
 
 
 
@@ -468,8 +442,6 @@ level: squadre
 
 > Black rectangle The black rectangle in the figure has dimensions of 8 × 4. It is located in the gap between the edge of a square and the inscribed circle, has a vertex on it and the opposite one coincides with a vertex of the square. How much is the area of the square?
 
-[[Quesiti/src_kangourou_2021_squadre_finale#q14|src_kangourou_2021_squadre_finale__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,topic_logica,skill_riconoscimento_pattern"></span>
@@ -499,5 +471,3 @@ level: squadre
 *Smallest early number of 4 digits*
 
 > If we write all the integers starting with 1, one after the other and without leaving any spaces between them, we get the sequence 123456789101112131415.... By isolating two or more digits that appear as consecutive in this alignment, it may happen that the number formed by them appears for the first time much earlier than its natural position: for example, 12 appears at the beginning, and then again in its natural position between 11 and 13. This kind of numbers are called early numbers. What's the smallest four-digit early number?
-
-[[Quesiti/src_kangourou_2021_squadre_finale#q15|src_kangourou_2021_squadre_finale__Q15]]

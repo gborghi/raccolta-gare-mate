@@ -41,7 +41,6 @@ level: China Mathematical Competition
 > (A) 2 046 \quad (B) 2 047 \quad (C) 2 048 \quad (D) 2 049
 
 **Risposta:** (B) 2 047
-[[Quesiti/src_cn_cmc_2003#q01|src_cn_cmc_2003__Q01]]
 
 
 
@@ -76,7 +75,6 @@ level: China Mathematical Competition
 ![[src_cn_cmc_2003__q02.png]]
 
 **Risposta:** (B)
-[[Quesiti/src_cn_cmc_2003#q02|src_cn_cmc_2003__Q02]]
 
 
 
@@ -111,7 +109,6 @@ level: China Mathematical Competition
 > (A) $\frac{16}{3}$ \quad (B) $\frac{8}{3}$ \quad (C) $\frac{16\sqrt{3}}{3}$ \quad (D) $8\sqrt{3}$
 
 **Risposta:** (A)
-[[Quesiti/src_cn_cmc_2003#q03|src_cn_cmc_2003__Q03]]
 
 
 
@@ -148,7 +145,6 @@ level: China Mathematical Competition
 > (A) $\frac{12}{5}\sqrt{2}$ \quad (B) $\frac{11}{6}\sqrt{2}$ \quad (C) $\frac{11}{6}\sqrt{3}$ \quad (D) $\frac{12}{5}\sqrt{3}$
 
 **Risposta:** (C) $\frac{11}{6}\sqrt{3}$
-[[Quesiti/src_cn_cmc_2003#q04|src_cn_cmc_2003__Q04]]
 
 
 
@@ -183,7 +179,6 @@ level: China Mathematical Competition
 > (A) $\frac{8}{5}$ \quad (B) $\frac{24}{11}$ \quad (C) $\frac{12}{7}$ \quad (D) $\frac{12}{5}$
 
 **Risposta:** (D) $\frac{12}{5}$
-[[Quesiti/src_cn_cmc_2003#q05|src_cn_cmc_2003__Q05]]
 
 
 
@@ -218,7 +213,6 @@ level: China Mathematical Competition
 > (A) $\frac{\sqrt{3}}{2}$ \quad (B) $\frac{1}{2}$ \quad (C) $\frac{1}{3}$ \quad (D) $\frac{\sqrt{3}}{3}$
 
 **Risposta:** (B) $\frac{1}{2}$
-[[Quesiti/src_cn_cmc_2003#q06|src_cn_cmc_2003__Q06]]
 
 
 
@@ -246,8 +240,6 @@ level: China Mathematical Competition
 *Solvi una disuguaglianza cubica che comporta valori assoluti.*
 
 > L'insieme di soluzioni della disuguaglianza $|x|^3 - 2x^2 - 4|x| + 3 < 0$ è ___.
-
-[[Quesiti/src_cn_cmc_2003#q07|src_cn_cmc_2003__Q07]]
 
 
 
@@ -278,7 +270,6 @@ level: China Mathematical Competition
 > Supponiamo che i punti $F_1, F_2$ siano i foci dell'ellisse $\frac{x^2}{9} + \frac{y^2}{4} = 1$, $P$ sia un punto dell'ellisse e $|PF_1| : |PF_2| = 2 : 1$. Quindi l'area di $\triangle PF_1F_2$ è uguale a ___.
 
 **Risposta:** 4
-[[Quesiti/src_cn_cmc_2003#q08|src_cn_cmc_2003__Q08]]
 
 
 
@@ -309,7 +300,6 @@ level: China Mathematical Competition
 > Per esempio, $A = \{x \mid x^2 - 4x + 3 < 0, x \in \mathbf{R}\}$, $B = \{x \mid 2^{1-x} + a \le 0, x^2 - 2(a+7)x + 5 \le 0, x \in \mathbf{R}\}$. Se $A \subseteq B$, allora l'intervallo del numero reale $a$ è ___.
 
 **Risposta:** $-4 \le a \le -1$
-[[Quesiti/src_cn_cmc_2003#q09|src_cn_cmc_2003__Q09]]
 
 
 
@@ -340,7 +330,6 @@ level: China Mathematical Competition
 > Se $a, b, c, d$ sono numeri interi positivi e $\log_a b = \frac{3}{2}$, $\log_c d = \frac{5}{4}$. Se $a - c = 9$, allora $b - d = $ ___.
 
 **Risposta:** 93
-[[Quesiti/src_cn_cmc_2003#q10|src_cn_cmc_2003__Q10]]
 
 
 
@@ -371,7 +360,6 @@ level: China Mathematical Competition
 > 8 palle di raggio 1 sono collocate in un cilindro in due strati, con ciascun strato contenente 4 palle. Ogni palla è in contatto con 2 palle nello stesso strato, 2 palle nell'altro strato, una base e la superficie laterale del cilindro. Allora l'altezza del cilindro è ___.
 
 **Risposta:** $\sqrt[4]{8} + 2$
-[[Quesiti/src_cn_cmc_2003#q11|src_cn_cmc_2003__Q11]]
 
 
 
@@ -402,7 +390,6 @@ level: China Mathematical Competition
 > $M_n = \{0.\overline{a_1 a_2 \cdots a_n} \mid a_i = 0 \text{ or } 1, 1 \le i \le n-1, a_n = 1\}$ sia un insieme di frazioni decimali. $T_n$ e $S_n$ sono rispettivamente il numero e la somma degli elementi di $M_n$. Poi $\lim_{n \to \infty} \frac{S_n}{T_n} = $ ___.
 
 **Risposta:** $\frac{1}{18}$
-[[Quesiti/src_cn_cmc_2003#q12|src_cn_cmc_2003__Q12]]
 
 
 
@@ -430,8 +417,6 @@ level: China Mathematical Competition
 *Prove che una somma di tre radici quadrate è delimitata sopra da una costante.*
 
 > Supponiamo $\frac{1}{2} \le x \le 5$. Prove che $2\sqrt{x+1} + \sqrt{2x-3} + \sqrt{15-3x} < 2\sqrt{19}$.
-
-[[Quesiti/src_cn_cmc_2003#q13|src_cn_cmc_2003__Q13]]
 
 
 
@@ -462,8 +447,6 @@ level: China Mathematical Competition
 
 > Supponiamo che $A, B, C$ siano tre punti non collineari corrispondenti ai numeri complessi $z_0 = a_i + i$, $z_1 = \frac{1}{2} + b_i$, $z_2 = 1 + c_i$ ($a, b$ e $c$ sono rispettivamente numeri reali). Prova che la curva $$z = z_0 \cos^4 t + 2 z_1 \cos^2 t \cdot \sin^2 t + z_2 \sin^4 t \quad (t \in \mathbf{R})$$ condivide un unico punto comune con la linea che divide $AB$ e è parallela a $AC$ in $\triangle ABC$, e trova questo punto.
 
-[[Quesiti/src_cn_cmc_2003#q14|src_cn_cmc_2003__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_analitica,topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -490,5 +473,3 @@ level: China Mathematical Competition
 *Trovare il locus di tutte le linee di piega formate piegando un cerchio per adattare un punto di confine a un punto interno.*
 
 > Un cerchio con centro $O$ e raggio $R$ è disegnato su carta e $A$ è un dato punto del cerchio con $OA = a$. Piegare la carta per rendere un punto $A'$ sulla circonferenza coincidente con il punto $A$, quindi si lascia una linea di piega sulla carta. Trova l'insieme di tutti i punti su tali linee di piega, quando $A'$ attraversa ogni punto della circonferenza.
-
-[[Quesiti/src_cn_cmc_2003#q15|src_cn_cmc_2003__Q15]]

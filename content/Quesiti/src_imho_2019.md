@@ -35,8 +35,6 @@ level: IMO
 > Sia $\mathbb{Z}$ l'insieme degli interi. Determinare tutte le funzioni $f : \mathbb{Z} \to \mathbb{Z}$ tali che, per tutti gli interi $a$ e $b$,
 > $$f(2a) + 2f(b) = f(f(a+b)).$$
 
-[[Quesiti/src_imho_2019#q01|src_imho_2019__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
@@ -65,8 +63,6 @@ level: IMO
 > Nel triangolo $ABC$, il punto $A_1$ giace sul lato $BC$ e il punto $B_1$ giace sul lato $AC$. Siano $P$ e $Q$ punti rispettivamente sui segmenti $AA_1$ e $BB_1$, tali che $PQ$ sia parallelo a $AB$. Sia $P_1$ un punto sulla retta $PB_1$, tale che $B_1$ giaccia strettamente tra $P$ e $P_1$, e tra $\angle PP_1C = \angle BAC$. Sia $Q_1$ un punto sulla retta $QA_1$, tale che $A_1$ giaccia strettamente tra $Q$ e $Q_1$, e tra $\angle CQ_1Q = \angle CBA$.
 > 
 > Si dimostri che i punti $P$, $Q$, $P_1$ e $Q_1$ sono conciclici.
-
-[[Quesiti/src_imho_2019#q02|src_imho_2019__Q02]]
 
 
 
@@ -101,8 +97,6 @@ level: IMO
 > 
 > Inizialmente, 1010 utenti hanno ciascuno 1009 amici, e 1009 utenti hanno ciascuno 1010 amici. Si dimostri che esiste una sequenza di tali eventi dopo la quale ciascun utente è amico al massimo di un altro utente.
 
-[[Quesiti/src_imho_2019#q03|src_imho_2019__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_fattorizzazione,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico,skill_stima"></span>
@@ -129,8 +123,6 @@ level: IMO
 
 > Determinare tutte le coppie $(k, n)$ di interi positivi tali che
 > $$k! = (2^n - 1)(2^n - 2)(2^n - 4) \cdots (2^n - 2^{n-1}).$$
-
-[[Quesiti/src_imho_2019#q04|src_imho_2019__Q04]]
 
 
 
@@ -165,8 +157,6 @@ level: IMO
 > 
 > (b) Per ciascuna configurazione iniziale $C$, sia $L(C)$ il numero di operazioni effettuate prima che Harry si fermi. Per esempio, $L(THT) = 3$. Determinare il valore medio di $L(C)$ su tutte le $2^n$ possibili configurazioni iniziali $C$.
 
-[[Quesiti/src_imho_2019#q05|src_imho_2019__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -195,5 +185,3 @@ level: IMO
 > Sia $I$ l'incentro del triangolo acutangolo $ABC$ con $AB \neq AC$. La circonferenza inscritta $\omega$ del triangolo $ABC$ è tangente ai lati $BC$, $CA$ e $AB$ nei punti $D$, $E$ e $F$ rispettivamente. La retta passante per $D$ e perpendicolare a $EF$ incontra nuovamente $\omega$ in $R$. La retta $AR$ incontra nuovamente $\omega$ in $P$. Le circonferenze circoscritte ai triangoli $PCE$ e $PBF$ si intersecano nuovamente in $Q$.
 > 
 > Si dimostri che le rette $DI$ e $PQ$ si incontrano sulla retta passante per $A$ e perpendicolare a $AI$.
-
-[[Quesiti/src_imho_2019#q06|src_imho_2019__Q06]]

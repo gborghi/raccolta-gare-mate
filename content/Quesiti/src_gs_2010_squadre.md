@@ -38,7 +38,6 @@ level: squadre
 > Frank takes the dog for a walk along the east wall of the penitentiary, perfectly straight and 9 km long. They leave the prison gate, right at the beginning of the east wall, side by side, and they start a game: Frank throws the ball, the dog returns it to him, Frank picks it up immediately, and just as instantly the dog leaves behind the ball. For the duration of the game, Frank walks 6 km/h and the dog walks 12 km/h. When they reach the end of the wall, they return and continue to play until the gate. How far can Frank get the dog to go by throwing the ball properly? Give the answer in hm.
 
 **Answer:** 36
-[[Quesiti/src_gs_2010_squadre#q01|src_gs_2010_squadre__Q01]]
 
 
 
@@ -75,8 +74,6 @@ level: squadre
 
 > Solving the equation x(x −1) = n(n−1) 2 finds that k > 1 2 + p n2 + (n −1)2, i.e. k > 1 2(1 + √ 20102 + 20092) ≈1421.4. This is problem 17. (Martin Rovelli) What are you talking about?
 
-[[Quesiti/src_gs_2010_squadre#q02|src_gs_2010_squadre__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_logica,method_conteggio,skill_casework_accurato"></span>
@@ -104,7 +101,6 @@ level: squadre
 > 3) square meters, that of the lake k2 square meters, that of the 4 triangles 4 k2 √ 3 4 = k2 √ 3 square meters, we have that the area of the uncultivated land ` ek2m2. Problem number seven. (Alessandro Rosolini) Solution The match is played as follows: round 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 . . . Jake r r r r r r r r r r r r r r . . Line of credit . . So k is 2010. Every six rounds, after the first four, Jake wins a dollar (and then Sline loses one): then Jake wins, and after four rounds the dollars he has are calculated as
 
 **Answer:** 3123
-[[Quesiti/src_gs_2010_squadre#q03|src_gs_2010_squadre__Q03]]
 
 
 
@@ -136,7 +132,6 @@ level: squadre
 > Murph explains to the three Magic Tones how the money they owe for their performance will be distributed, as stipulated by the rules of the Musicians' Union. Murph explains: Half of the money will be divided equally between you, the other half will be allocated to you in proportion to your age in years. Knowing that the older musician will receive, in fact, $40, and that his age is the sum of the ages of the other two, how much in cents of a dollar is the sum to be divided?
 
 **Answer:** 9600
-[[Quesiti/src_gs_2010_squadre#q04|src_gs_2010_squadre__Q04]]
 
 
 
@@ -169,7 +164,6 @@ level: squadre
 > Very pleased with the results of her 11 pupils, Mother Superior, Director of the St. Helen of the Blessed Shroud assigns each of them a different number between 7 and 17 and tests them with a problem: she writes the number $360360$ on the board. Then he explains: This is the product of the numbers for the students who took 10, everyone else took 8. What is the sum of the numbers assigned to the students who did not take 10?
 
 **Answer:** 67
-[[Quesiti/src_gs_2010_squadre#q05|src_gs_2010_squadre__Q05]]
 
 
 
@@ -199,8 +193,6 @@ level: squadre
 > 
 > A park comprises a square lake, each shore of which forms the base of an equilateral triangle-shaped oval. The four tops of the gulls that are not on the lake are joined by two to two straight fences. The land between the fences and the fences is left untouched. The area of the lake is $9747$ square meters, how many square meters is the area of the uncultivated land?
 
-[[Quesiti/src_gs_2010_squadre#q06|src_gs_2010_squadre__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,skill_riconoscimento_pattern"></span>
@@ -229,8 +221,6 @@ Time series won by Jake and Sline
 > The amount of the loan shall be calculated on the basis of the following:
 > 
 > Jake and Sline gamble: They split a deck of 4,020 poker cards, each carrying a red seed or a black seed. They each support their deck of 2010 cards covered on the table and start playing. They discover a card together: if the seeds of the two cards are of different color, Sline pays Jake a dollar, if the seeds of both cards are red nothing happens, if the seeds of both cards are black Jake pays Sline two dollars. For a coincidence in the mixing, Jake's cards are a sequence of a red seed card and a black seed card (i.e. red, black, red, black, red...) while Sline's are a sequence of a black seed card followed by two red seed cards (i.e. black, red, red, black, red, black...). Knowing that they start the game with 2010 bucks in their head, how much bucks does the winner have at the end?
-
-[[Quesiti/src_gs_2010_squadre#q07|src_gs_2010_squadre__Q07]]
 
 
 
@@ -263,7 +253,6 @@ Time series won by Jake and Sline
 > Slim is very good at making chicken soup. He buys the chickens and then divides them into two plates, so that there's exactly the same number. He gives those who advance (and only those) to his parrot Fuzz. Then he divides all the chickens he's kept equally into six plates, and as before those who advance Fuzz eats them. At this point, repeat the same operation with 30 plates, then 210 plates, and then 2310 plates. Considering that today he wants to buy them so that the parrot can eat as many as possible, but not spending more than necessary, how many chicks does he have to buy?
 
 **Answer:** 2309
-[[Quesiti/src_gs_2010_squadre#q08|src_gs_2010_squadre__Q08]]
 
 
 
@@ -292,7 +281,6 @@ The number of shifts for Jake to win $1005.
 > 9) = n 9 10 8 9 =n 8
 
 **Answer:** 6017
-[[Quesiti/src_gs_2010_squadre#q09|src_gs_2010_squadre__Q09]]
 
 
 
@@ -317,8 +305,6 @@ The number of shifts for Jake to win $1005.
 *Bean game strategy, multiple of 9*
 
 > 10) = n 9 10; one hour after n 9 10(1− 1 9) = n 9 10 8 9 = n 8 10. Every hour the number of remaining ones decreases by 10, until the number becomes 2. Dan 10 = 2 is n = 20, the last ones leave after 14 hours. The price ` and 8× 2× (5× 10 + 9 + 8 +... + 1) = 8× 2× (50 + 45) = 1520. This is problem 12. I 'm going to tell you something .
-
-[[Quesiti/src_gs_2010_squadre#q10|src_gs_2010_squadre__Q10]]
 
 
 
@@ -350,7 +336,6 @@ The number of shifts for Jake to win $1005.
 > Matt and Lou are throwing a jazz party together, renting a clubhouse that costs $8 per person per hour. All the guests arrive, and after dancing, drinking, and playing for five hours in a row, a tenth of those present leave the party. At the stroke of the next hour, a ninth of the remaining people leave. After another 60 minutes an eighth of the remaining left the party, and so on with this criterion, until half of those still present left. At this point, only Matt and Lou are left with an hour left to eat what's left and settle the bill with the club. How much do they have to pay?
 
 **Answer:** 1520
-[[Quesiti/src_gs_2010_squadre#q11|src_gs_2010_squadre__Q11]]
 
 
 
@@ -395,8 +380,6 @@ The number of shifts for Jake to win $1005.
 > 
 > Write, in alphabetical order, the subjects that Duncan takes, indicating the subjects, in alphabetical order, with the digits from $1$ to $8$.
 
-[[Quesiti/src_gs_2010_squadre#q12|src_gs_2010_squadre__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
@@ -425,8 +408,6 @@ The number of shifts for Jake to win $1005.
 > **Paper stars, I** (point 50)
 > 
 > Reverend Cleophus James prepares colored paper stars to decorate the Triple Rock Church. To draw a five-pointed star, mark five distinct points on a circumference and join them together with five segments without ever separating the pen from the sheet. That way, he can only draw one type of star. With 7 vertices, he can instead draw two different types, connecting the vertices by skipping one or two at a time, respectively. How many different types of stars can you draw if you mark 2011 vertices on the circumference?
-
-[[Quesiti/src_gs_2010_squadre#q13|src_gs_2010_squadre__Q13]]
 
 
 
@@ -459,7 +440,6 @@ The number of shifts for Jake to win $1005.
 > Locked up in the beauty parlor, Carrie concentrates on calculating long sums in her mind. The last thing he calculated is the sum of those odd positive integers less than 100 that can be written in at least two distinct ways as the difference of perfect squares. What number did you find?
 
 **Answer:** 1358
-[[Quesiti/src_gs_2010_squadre#q14|src_gs_2010_squadre__Q14]]
 
 
 
@@ -489,8 +469,6 @@ The number of shifts for Jake to win $1005.
 > 
 > In a radius of 1 m, the diameter shall be plotted as the first step. As a second step, mark the midpoints of each of the two arcs so formed and join the vertices of the diameter and the two midpoints to get a square. It continues by bisecting each arc formed at the previous step and joining the points marked on the circumference to obtain a regular polygon. How many steps must be taken at least so that the side of the polygon obtained is shorter than $\dfrac{1}{2^{2010}}$ m?
 
-[[Quesiti/src_gs_2010_squadre#q15|src_gs_2010_squadre__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_probabilita,skill_stima"></span>
@@ -518,8 +496,6 @@ The number of shifts for Jake to win $1005.
 > **A game of cards** (50 points)
 > 
 > A gambling game is played with a bag containing 2010 pockets, 2 reds, all the other black. You win if you extract all the red (no matter how many black) seeds, one after the other. A player, before starting the draw sequence, must pay $1 for each draw he intends to make. How much does Jake have to pay to have a greater than$50\%$chance of winning?
-
-[[Quesiti/src_gs_2010_squadre#q16|src_gs_2010_squadre__Q16]]
 
 
 
@@ -564,7 +540,6 @@ The number of shifts for Jake to win $1005.
 > Write the last four digits of the combination in order.
 
 **Answer:** 10240
-[[Quesiti/src_gs_2010_squadre#q17|src_gs_2010_squadre__Q17]]
 
 
 
@@ -616,7 +591,6 @@ The number of shifts for Jake to win $1005.
 > Write the answer at each point in the homonymous box, using $1$ to indicate Alan, $2$ to indicate Bob, $3$ to indicate Claire, $4$ to indicate Duncan, and $0$ to indicate that the request does not have a single answer.
 
 **Answer:** 4102
-[[Quesiti/src_gs_2010_squadre#q18|src_gs_2010_squadre__Q18]]
 
 
 
@@ -646,8 +620,6 @@ The number of shifts for Jake to win $1005.
 > The mausoleum (point 50)
 > 
 > The commander of the Illinois Nazi group had a mausoleum built of cubic blocks of stone, one meter by one. It's made up of 10 steps, it looks like a ziqqurat: each step is a square-based parallel piped, and all the steps are leaning on each other. The top of the mausoleum is a side step of 2 m and a height of 2520 m. But the main peculiarity of the mausoleum is that each step has the side of the lower base square exactly 2 meters from the one below and the lateral surfaces of each step are always the same. How high is the mausoleum?
-
-[[Quesiti/src_gs_2010_squadre#q19|src_gs_2010_squadre__Q19]]
 
 
 
@@ -680,7 +652,6 @@ The number of shifts for Jake to win $1005.
 > Helping Reverend James, instead of scoring 2011 distinct points on the circumference, Jake scored 2010. How many different types of stars can you draw?
 
 **Answer:** 264
-[[Quesiti/src_gs_2010_squadre#q20|src_gs_2010_squadre__Q20]]
 
 
 
@@ -713,7 +684,6 @@ The number of shifts for Jake to win $1005.
 > To track down the Blues Brothers, the Illinois Nazi commander wants to form three drapes from a group of nine volunteers. Knowing their innate incapacity, the commander appoints three captains of drapel from among the nine volunteers: Al, Bruno and Cal. In addition, he wants at least one other component in each drapery, in addition to the captain. How many different drapes can the commander form?
 
 **Answer:** 540
-[[Quesiti/src_gs_2010_squadre#q21|src_gs_2010_squadre__Q21]]
 
 
 
@@ -752,8 +722,6 @@ The number of shifts for Jake to win $1005.
 > 
 > He understands that they allow the $n \mathbin{?} m$ writing value to be calculated for each pair of positive or zero integers. Waiting for Elwood, Twiggy calculates what's worth. What number do you get?
 
-[[Quesiti/src_gs_2010_squadre#q22|src_gs_2010_squadre__Q22]]
-
 
 
 <span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_probabilita,topic_combinatoria,skill_astrazione"></span>
@@ -784,7 +752,6 @@ The number of shifts for Jake to win $1005.
 > Another gambling game is always played with a bag containing 2010 cards, 7 reds and all the other black ones. The rules state that the seeds should be extracted one at a time until all the red seeds have come out, at which point the game is over. Elwood wonders on average how long the game takes. Jake doesn't understand exactly what his brother means, but Ray, who knows it well, explains to him that among the many ways to define the average number of extractions in the game (all leading to the same result) the most interesting is the sum of the probabilities $p_k$ where, for each natural number $0 \le k \le 2010$, $p_k$ is the probability that, after the $k$-eighth extraction, not all 7 red balls have come out. What is the average number of extractions?
 
 **Answer:** 1759.62
-[[Quesiti/src_gs_2010_squadre#q23|src_gs_2010_squadre__Q23]]
 
 
 
@@ -821,4 +788,3 @@ The number of shifts for Jake to win $1005.
 > (The rules of operation $?$ are those of problem 22.)
 
 **Answer:** 34
-[[Quesiti/src_gs_2010_squadre#q24|src_gs_2010_squadre__Q24]]

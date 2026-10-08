@@ -47,7 +47,6 @@ level: biennio
 > - **(E)** 36°
 
 **Answer:** E
-[[Quesiti/src_archimede_2021_biennio_online#q01|src_archimede_2021_biennio_online__Q01]]
 
 
 
@@ -89,7 +88,6 @@ level: biennio
 > - **(E)** 41
 
 **Answer:** D
-[[Quesiti/src_archimede_2021_biennio_online#q02|src_archimede_2021_biennio_online__Q02]]
 
 
 
@@ -129,7 +127,6 @@ level: biennio
 > - **(E)** 3/5
 
 **Answer:** A
-[[Quesiti/src_archimede_2021_biennio_online#q03|src_archimede_2021_biennio_online__Q03]]
 
 
 
@@ -171,7 +168,6 @@ level: biennio
 > - **(E)** 13
 
 **Answer:** E
-[[Quesiti/src_archimede_2021_biennio_online#q04|src_archimede_2021_biennio_online__Q04]]
 
 
 
@@ -212,7 +208,6 @@ level: biennio
 > - **(E)** 13 6 ℓ
 
 **Answer:** C
-[[Quesiti/src_archimede_2021_biennio_online#q05|src_archimede_2021_biennio_online__Q05]]
 
 
 
@@ -253,7 +248,6 @@ level: biennio
 > - **(E)** 3311 · 7716 · 219
 
 **Answer:** B
-[[Quesiti/src_archimede_2021_biennio_online#q06|src_archimede_2021_biennio_online__Q06]]
 
 
 
@@ -297,7 +291,6 @@ level: biennio
 > - **(E)** 32
 
 **Answer:** C
-[[Quesiti/src_archimede_2021_biennio_online#q07|src_archimede_2021_biennio_online__Q07]]
 
 
 
@@ -339,7 +332,6 @@ level: biennio
 > - **(E)** 442 ml
 
 **Answer:** C
-[[Quesiti/src_archimede_2021_biennio_online#q08|src_archimede_2021_biennio_online__Q08]]
 
 
 
@@ -382,7 +374,6 @@ level: biennio
 > - **(E)** 11
 
 **Answer:** C
-[[Quesiti/src_archimede_2021_biennio_online#q09|src_archimede_2021_biennio_online__Q09]]
 
 
 
@@ -424,7 +415,6 @@ level: biennio
 > - **(E)** 25/3
 
 **Answer:** C
-[[Quesiti/src_archimede_2021_biennio_online#q10|src_archimede_2021_biennio_online__Q10]]
 
 
 
@@ -495,7 +485,6 @@ level: biennio
 > - **(E)** 114
 
 **Answer:** B
-[[Quesiti/src_archimede_2021_biennio_online#q11|src_archimede_2021_biennio_online__Q11]]
 
 
 
@@ -536,4 +525,3 @@ level: biennio
 > - **(E)** 80 m2 Games of Archimedes 2021 - GARA BENNIO CODE PROVA 2035 - Exact answers
 
 **Answer:** D
-[[Quesiti/src_archimede_2021_biennio_online#q12|src_archimede_2021_biennio_online__Q12]]

@@ -33,8 +33,6 @@ level: IMO
 
 > Determine all $n > 1$ integers that satisfy the following property: if $d_1, d_2, \ldots, d_k$ are all positive divisors of $n$ with $1 = d_1 < d_2 < \cdots < d_k = n$, then $d_i$ divides $d_{i+1} + d_{i+2}$ by each $1 \leq i \leq k-2$.
 
-[[Quesiti/src_imo_2023#q01|src_imo_2023__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
@@ -63,8 +61,6 @@ level: IMO
 > Whether $ABC$ is an acute triangle with $AB < AC$. Whether $\Omega$ the circumscribed circumference of $ABC$. Whether $S$ is the middle point of the $CB$ arc of $\Omega$ containing $A$. The perpendicular from $A$ to $BC$ meets $BS$ in $D$ and meets $\Omega$ again in $E \neq A$. The line for $D$ parallel to $BC$ meets the line $BE$ in $L$. Whether $\omega$ the circumference circumscribed at the $BDL$ triangle. Be $P \neq B$ the second intersection point of $\omega$ with $\Omega$.
 > 
 > Demonstrate that the tangent to $\omega$ in $P$ meets the line $BS$ on the inner beam of $\angle BAC$.
-
-[[Quesiti/src_imo_2023#q02|src_imo_2023__Q02]]
 
 
 
@@ -95,8 +91,6 @@ level: IMO
 
 > For each integer $k \geq 2$, determine all the infinite sequences of positive integers $a_1, a_2, \ldots$ for which there exists a $P$ polynomial of the form $$P(x) = x^k + c_{k-1}x^{k-1} + \cdots + c_1 x + c_0,$$ where $c_0, c_1, \ldots, c_{k-1}$ are nonnegative integers, such that $$P(a_n) = a_{n+1} a_{n+2} \cdots a_{n+k}$$ for each integer $n \geq 1$.
 
-[[Quesiti/src_imo_2023#q03|src_imo_2023__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica"></span>
@@ -123,8 +117,6 @@ level: IMO
 *Demonstrate a2023>=3034 (roots of sums and reciprocal)*
 
 > $x_1, x_2, \ldots, x_{2023}$ are real positive numbers with two to two distinct ones such that $$a_n = \sqrt{(x_1 + x_2 + \cdots + x_n)\left(\frac{1}{x_1} + \frac{1}{x_2} + \cdots + \frac{1}{x_n}\right)}$$ is an integer for each $n = 1, 2, \ldots, 2023$. Show that $a_{2023} \geq 3034$.
-
-[[Quesiti/src_imo_2023#q04|src_imo_2023__Q04]]
 
 
 
@@ -158,8 +150,6 @@ Japanese triangle, max k red circles on ninja path
 > It should be a positive integer. A Japanese *triangle* is composed of $1 + 2 + \cdots + n$ circles arranged in an equilateral triangular shape, so that for each $i = 1, 2, \ldots, n$, the $i$-eighth row contains exactly $i$ circles, exactly one of which is colored red. A *ninja path* in a Japanese triangle is a sequence of $n$ circles obtained starting from the top line, then descending repeatedly from a circle to one of the two circles immediately below it, and ending in the bottom line.
 > 
 > For $n$, find the largest integer $k$ such that in every Japanese triangle there is a ninja path containing at least $k$ red circles.
-
-[[Quesiti/src_imo_2023#q05|src_imo_2023__Q05]]
 
 
 
@@ -195,5 +185,3 @@ Japanese triangle, max k red circles on ninja path
 > Demonstrate that if the $A_1B_1C_1$ triangle is slender, then the three circumferences surrounding the $AA_1A_2$, $BB_1B_2$ and $CC_1C_2$ triangles all pass through two common points.
 > 
 > *(Note: a scalene triangle is a triangle in which no side has the same length as the others.)*
-
-[[Quesiti/src_imo_2023#q06|src_imo_2023__Q06]]

@@ -35,8 +35,6 @@ level: IMO
 > Sia d un intero positivo diverso da 2, 5 e 13. Si dimostri che si possono trovare
 > a, b distinti nell'insieme {2, 5, 13, d} tali che ab −1 non sia un quadrato perfetto.
 
-[[Quesiti/src_imo_compilation#q01|src_imo_compilation__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
@@ -69,8 +67,6 @@ level: IMO
 > l'immagine di Pk nella rotazione di centro Ak+1 e angolo di 120° in senso orario
 > (per k = 0, 1, 2, . . . ). Si dimostri che se P1986 = P0, allora il triangolo A1A2A3 è
 > equilatero.
-
-[[Quesiti/src_imo_compilation#q02|src_imo_compilation__Q02]]
 
 
 
@@ -119,8 +115,6 @@ level: IMO
 > Giorno II
 > 10 luglio 1986
 
-[[Quesiti/src_imo_compilation#q03|src_imo_compilation__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_geometria_analitica,method_casework,method_congruenze,skill_conteggio_sistematico"></span>
@@ -149,8 +143,6 @@ level: IMO
 *IMO 1997, problema 4*
 
 > Siano A, B vertici consecutivi di un n-agono regolare (n ≥ 5) nel piano, con centro in O. Un triangolo XYZ, congruente a OAB e inizialmente sovrapposto ad esso, si muove nel piano in modo tale che Y e Z descrivano l’intera frontiera del poligono, mentre X rimane all’interno del poligono. Si determini il luogo descritto da X.
-
-[[Quesiti/src_imo_compilation#q04|src_imo_compilation__Q04]]
 
 
 
@@ -187,8 +179,6 @@ level: IMO
 > f(2) = 0,
 > (iii)
 > f(x) ̸= 0 per 0 ≤x < 2.
-
-[[Quesiti/src_imo_compilation#q05|src_imo_compilation__Q05]]
 
 
 
@@ -228,8 +218,6 @@ level: IMO
 > Giorno 1
 > 10 luglio 1987
 
-[[Quesiti/src_imo_compilation#q06|src_imo_compilation__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
@@ -261,5 +249,3 @@ level: IMO
 > (a) Si dimostri che il tetraedro $SABC$ è regolare.
 > 
 > (b) Si dimostri viceversa che per ogni tetraedro regolare esistono cinque tali sfere.
-
-[[Quesiti/src_imo_compilation#q07|src_imo_compilation__Q07]]

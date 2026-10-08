@@ -34,7 +34,6 @@ level: kangourou
 > A friend invites you to play dice like this. You and he repeatedly roll two identical fair dice, with the faces numbered, as usual, from 1 to 6, and calculate the sum of the points. If the sum is 9, one of you wins, if the sum is 10, the other one wins, if the sum is different from 9 and the sum is different from 10, neither of you wins. He lets you choose between 9 and 10, the sum that makes you win, keeping that for himself of the two you didn't. Which one is best for you, and why?
 
 **Answer:** 9
-[[Quesiti/src_kangourou_2017_junior_finale#qj1|src_kangourou_2017_junior_finale__QJ1]]
 
 
 
@@ -63,7 +62,6 @@ level: kangourou
 > (**7 points**) Are there any sets of consecutive odd numbers, each of which is prime? If yes, specify how many; if no, provide a reason.
 
 **Answer:** {3,5,7}
-[[Quesiti/src_kangourou_2017_junior_finale#qj2|src_kangourou_2017_junior_finale__QJ2]]
 
 
 
@@ -92,7 +90,6 @@ level: kangourou
 > (**11 points**) A scheduled aircraft flies daily from an airport $A$ to an airport $B$ and returns from $B$ to $A$ along the same straight route, always keeping the engines at maximum power. Yesterday there was no wind at all, but today there was a steady wind from $A$ to $B$ throughout the day. Overall, did both flights take the same amount of time today as yesterday? Less time? More time? Justify your answer as you see fit.
 
 **Answer:** more time
-[[Quesiti/src_kangourou_2017_junior_finale#qj3|src_kangourou_2017_junior_finale__QJ3]]
 
 
 
@@ -121,7 +118,6 @@ level: kangourou
 > (**14 points**) Are there sequences of (at least two) consecutive positive integers such that the sum of the digits of each number in the sequence is divisible by 7? If yes, how many numbers can there be at most in one of these sequences?
 
 **Answer:** at most two
-[[Quesiti/src_kangourou_2017_junior_finale#qj4|src_kangourou_2017_junior_finale__QJ4]]
 
 
 
@@ -151,7 +147,6 @@ level: kangourou
 > (**18 points**) Whether $S$ is an arbitrary finite set of points in the plane (at least 2): the circle $C$ of minimum radius containing $S$ is known to exist, and is unique (the demonstration of this fact is outside the context of this competition, so it is not required). A $\{a, b\}$ pair of $S$ points is said to be **diametrical** if, however, two $S$ points are chosen, their distance does not exceed the distance between $a$ and $b$. Establish whether it is true (by reasoning the answer) that: - each diametrical pair of $S$ must necessarily lie on the circle that delimits $C$; - there are always circles containing $S$, but not $C$.
 
 **Answer:** No; Yes
-[[Quesiti/src_kangourou_2017_junior_finale#qj5|src_kangourou_2017_junior_finale__QJ5]]
 
 
 
@@ -179,4 +174,3 @@ level: kangourou
 > (**22 points**) How many different cubes can be inscribed in (i.e. have vertices in common with the vertices of) a regular dodecahedron? (Remember that the faces of a regular dodecahedron are regular pentagons.)
 
 **Answer:** 5
-[[Quesiti/src_kangourou_2017_junior_finale#qj6|src_kangourou_2017_junior_finale__QJ6]]

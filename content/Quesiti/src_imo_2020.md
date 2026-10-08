@@ -35,8 +35,6 @@ level: IMO
 
 > Consider the convex quadrilateral $ABCD$. The point $P$ is within $ABCD$. The following equations of proportions are valid: $$\angle PAD : \angle PBA : \angle DPA = 1 : 2 : 3 = \angle CBP : \angle BAP : \angle BPC.$$ It shows that the following three lines meet at a point: the inner intersections of the $\angle ADP$ and $\angle PCB$ angles and the mediator of the $AB$ segment.
 
-[[Quesiti/src_imo_2020#q01|src_imo_2020__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica"></span>
@@ -62,8 +60,6 @@ level: IMO
 This is the same as the previous one.
 
 > The real numbers $a, b, c, d$ are $a \geq b \geq c \geq d > 0$ and $a + b + c + d = 1$. Indicates that $$(a + 2b + 3c + 4d)\, a^a b^b c^c d^d < 1.$$
-
-[[Quesiti/src_imo_2020#q02|src_imo_2020__Q02]]
 
 
 
@@ -95,8 +91,6 @@ This is the same as the previous one.
 > 
 > - The total weight of both batteries is the same. - Each pile contains two stones of each color.
 
-[[Quesiti/src_imo_2020#q03|src_imo_2020__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_logica,method_estremalita,method_grafi,skill_conteggio_sistematico"></span>
@@ -126,8 +120,6 @@ This is the same as the previous one.
 > 
 > It determines the smallest positive integer $k$ so that it can be guaranteed that there are two stations connected by both companies.
 
-[[Quesiti/src_imo_2020#q04|src_imo_2020__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_disuguaglianze,skill_riconoscimento_pattern"></span>
@@ -156,8 +148,6 @@ This is the same as the previous one.
 > A deck of $n > 1$ cards is given. On each card is written a positive integer. The deck has the property that the arithmetic mean of the numbers on each pair of cards is also the geometric mean of the numbers on some collection of one or more cards.
 > 
 > So what does it mean that the numbers on the cards are all the same?
-
-[[Quesiti/src_imo_2020#q05|src_imo_2020__Q05]]
 
 
 
@@ -195,5 +185,3 @@ This is the same as the previous one.
 > (A straight $\ell$ separates a set of points $S$ if any segment connecting two points of $S$ intersects $\ell$.)
 > 
 > **Note.** Weaker results with $cn^{-1/3}$ replaced by $cn^{-\alpha}$ may receive points depending on the value of the $\alpha > 1/3$ constant.
-
-[[Quesiti/src_imo_2020#q06|src_imo_2020__Q06]]

@@ -37,7 +37,6 @@ level: China Western Mathematical Olympiad
 > $n$ ($\ge 2$) sia un numero intero positivo e $a_1$, $a_2$, $\cdots$, $a_n \in (0, 1)$. Trova il valore massimo della somma $$\sum_{i=1}^{n} \sqrt[6]{a_i(1 - a_{i+1})}$$ dove $a_{n+1} = a_1$.
 
 **Risposta:** $\dfrac{n}{\sqrt[3]{2}}$
-[[Quesiti/src_cn_cwmo_2006#q01|src_cn_cwmo_2006__Q01]]
 
 
 
@@ -68,7 +67,6 @@ level: China Western Mathematical Olympiad
 > Trovare il numero positivo $k$ più piccolo in modo che per tutti i quattro dati numeri reali $a$, $b$, $c$ e $d$, ciascuno più grande o uguale a $k$, esiste una permutazione $p$, $q$, $r$ e $s$ di $a$, $b$, $c$, $d$ in modo che l'equazione $$(x^2 + px + q)(x^2 + rx + s) = 0$$ abbia almeno una radice reale.
 
 **Risposta:** 4
-[[Quesiti/src_cn_cwmo_2006#q02|src_cn_cwmo_2006__Q02]]
 
 
 
@@ -103,7 +101,6 @@ level: China Western Mathematical Olympiad
 ![[src_cn_b07_w150__q03.png]]
 
 **Risposta:** $\tan\alpha = \dfrac{6+\sqrt{3}}{11}$
-[[Quesiti/src_cn_cwmo_2006#q03|src_cn_cwmo_2006__Q03]]
 
 
 
@@ -132,8 +129,6 @@ level: China Western Mathematical Olympiad
 
 > Supponiamo che $a$ sia un intero positivo e non un quadrato perfetto. Prove che per qualsiasi numero intero positivo $n$, la somma $$S_n = \{\sqrt{a}\} + \{\sqrt{a}\}^2 + \cdots + \{\sqrt{a}\}^n$$ è irrazionale, dove $\{x\} = x - [x]$ e $[x]$ denotano il numero intero più grande inferiore o uguale a $x$.
 
-[[Quesiti/src_cn_cwmo_2006#q04|src_cn_cwmo_2006__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
@@ -158,8 +153,6 @@ level: China Western Mathematical Olympiad
 Se n è la somma dei quadrati di due positivi in triplice consecutive, così è n^2*
 
 > Let $S = \{n \mid n-1,\, n,\, n+1 \text{ all can be expressed as the sum of the squares of two positive integers}\}$. Prova che, se $n \in S$, allora $n^2 \in S$.
-
-[[Quesiti/src_cn_cwmo_2006#q05|src_cn_cwmo_2006__Q05]]
 
 
 
@@ -189,8 +182,6 @@ Se n è la somma dei quadrati di due positivi in triplice consecutive, così è 
 
 ![[src_cn_b07_w150__q06.png]]
 
-[[Quesiti/src_cn_cwmo_2006#q06|src_cn_cwmo_2006__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_trigonometria,topic_aritmetica,method_induzione,method_ricorsione,skill_manipolazione_algebrica,skill_astrazione,skill_riconoscimento_pattern"></span>
@@ -215,8 +206,6 @@ Se n è la somma dei quadrati di due positivi in triplice consecutive, così è 
 *I cosini razionali si propagano: se cos(((b-1)θ) e cos(bθ) sono razionali, si trovano più grandi n*
 
 > Che $b$ sia un numero intero positivo non inferiore a 3 e $\theta$ sia un numero reale. Dimostra che se entrambi $\cos((b-1)\theta)$ e $\cos(b\theta)$ sono numeri razionali, allora esiste un intero positivo $n > b$, in modo tale che entrambi $\cos((n-1)\theta)$ e $\cos(n\theta)$ sono numeri razionali.
-
-[[Quesiti/src_cn_cwmo_2006#q07|src_cn_cwmo_2006__Q07]]
 
 
 
@@ -244,5 +233,3 @@ Se n è la somma dei quadrati di due positivi in triplice consecutive, così è 
 *Min dimensione di X in modo che un sottoinsieme Y di dimensione n colpisca ogni set di 2 elementi non più di una volta*
 
 > Date un intero positivo $n \geq 2$, $B_1, B_2, \cdots, B_n$ indichi $n$ sottoinsiemi arbitrari del set $X$, ognuno dei quali contiene esattamente due elementi. Trova il valore minimo di $|X|$ in modo tale che esista un sottoinsieme $Y$ di $X$ che soddisfa: (a) $|Y| = n$; (b) $|Y \cap B_i| \leq 1$ per $i = 1, 2, \cdots, n$.
-
-[[Quesiti/src_cn_cwmo_2006#q08|src_cn_cwmo_2006__Q08]]

@@ -33,8 +33,6 @@ level: OBM Nível 3
 
 > Prova che $(a+b)(a+c) \ge 2\sqrt{abc(a+b+c)}$ per qualsiasi numero reale positivo $a$, $b$ e $c$.
 
-[[Quesiti/src_obm_2001_n3_f3#q01|src_obm_2001_n3_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: OBM Nível 3
 *Sequenza di coprimo avido: trovare a_0 per il quale ogni termine è un primo o una potenza primaria*
 
 > Dato un numero intero $a_0 > 1$, definiamo una sequenza $(a_n)_{n \ge 0}$ nel seguente modo: per ogni $k \ge 0$, $a_{k+1}$ è il numero intero più piccolo $a_{k+1} > a_k$ tale che $\gcd(a_{k+1}, a_0 \cdot a_1 \cdots a_k) = 1$. Determinare per quali valori di $a_0$ tutti i termini $a_k$ della sequenza sono numeri primi o potenze di numeri primi.
-
-[[Quesiti/src_obm_2001_n3_f3#q02|src_obm_2001_n3_f3__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: OBM Nível 3
 
 > $E$ e $F$ sono punti sul lato $AB$ del triangolo $ABC$, in modo tale che $AE = EF = FB$. $D$ è un punto della linea $BC$ tale che $BC$ sia perpendicolare a $ED$ e $AD$ sia perpendicolare a $CF$. Gli angoli $\angle BDF$ e $\angle CFA$ misurano rispettivamente $x$ e $3x$. Calcolare il rapporto $\frac{DB}{DC}$.
 
-[[Quesiti/src_obm_2001_n3_f3#q03|src_obm_2001_n3_f3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_trigonometria,topic_algebra,method_estremalita,method_casework,skill_stima,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -114,8 +108,6 @@ level: OBM Nível 3
 
 > Una calcolatrice ha il numero $1$ sul suo display. Dobbiamo eseguire operazioni $2001$, ciascuna delle quali consiste nel premere esattamente una delle due tasti $\sin$ o $\cos$. Queste operazioni calcolano, rispettivamente, il seno o il cosino della loro argomentazione, in radiani. Qual è il più grande risultato possibile ottenuto dopo queste operazioni $2001$?
 
-[[Quesiti/src_obm_2001_n3_f3#q04|src_obm_2001_n3_f3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -140,8 +132,6 @@ level: OBM Nível 3
 *Quadrilaterale convex: le quattro perpendicolari medie ai lati concordano se è ciclico*
 
 > In un quadrilaterale convexo, l'altitudine relativa a un lato è definita come la perpendicolare a quel lato che passa attraverso il punto medio del lato opposto. Prova che le quattro altitudini hanno un punto comune se e solo se il quadrilaterale è iscribile, cioè se e solo se esiste un cerchio che contiene i suoi quattro vertici.
-
-[[Quesiti/src_obm_2001_n3_f3#q05|src_obm_2001_n3_f3__Q05]]
 
 
 
@@ -179,5 +169,3 @@ level: OBM Nível 3
 > Movimento di tipo $B$: se nella tazza $i$ ci sono almeno due pietre, possiamo far saltare una di esse a tazza $i+2$ e un'altra a tazza $i-1$.
 > 
 > Prove il seguente fatto: eseguendo le mosse di tipo $A$ o $B$ per un periodo sufficientemente lungo, raggiungiamo sempre una configurazione in cui non è più possibile eseguire nessuna di queste mosse. Inoltre, dimostrare che questa configurazione finale non dipende dalla scelta delle mosse effettuate durante il processo.
-
-[[Quesiti/src_obm_2001_n3_f3#q06|src_obm_2001_n3_f3__Q06]]

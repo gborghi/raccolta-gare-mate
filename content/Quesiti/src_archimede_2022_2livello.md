@@ -53,7 +53,6 @@ level: 2 livello
 > - **(E)** All points on the sidewalk between the parking meter and the store.
 
 **Answer:** E
-[[Quesiti/src_archimede_2022_2livello#q01|src_archimede_2022_2livello__Q01]]
 
 
 
@@ -95,7 +94,6 @@ level: 2 livello
 > - **(E)** 7077
 
 **Answer:** D
-[[Quesiti/src_archimede_2022_2livello#q02|src_archimede_2022_2livello__Q02]]
 
 
 
@@ -141,7 +139,6 @@ level: 2 livello
 > - **(E)** √ 3−1 4
 
 **Answer:** D
-[[Quesiti/src_archimede_2022_2livello#q03|src_archimede_2022_2livello__Q03]]
 
 
 
@@ -183,7 +180,6 @@ level: 2 livello
 > - **(E)** It is not possible to determine this with the data provided.
 
 **Answer:** C
-[[Quesiti/src_archimede_2022_2livello#q04|src_archimede_2022_2livello__Q04]]
 
 
 
@@ -226,7 +222,6 @@ level: 2 livello
 > - **(E)** None of the above.
 
 **Answer:** C
-[[Quesiti/src_archimede_2022_2livello#q05|src_archimede_2022_2livello__Q05]]
 
 
 
@@ -271,7 +266,6 @@ level: 2 livello
 > - **(E)** 320
 
 **Answer:** B
-[[Quesiti/src_archimede_2022_2livello#q06|src_archimede_2022_2livello__Q06]]
 
 
 
@@ -316,7 +310,6 @@ level: 2 livello
 > - **(E)** 513
 
 **Answer:** B
-[[Quesiti/src_archimede_2022_2livello#q07|src_archimede_2022_2livello__Q07]]
 
 
 
@@ -367,7 +360,6 @@ This is the total amount of the loan.
 > - **(E)** There's not enough data to determine that.
 
 **Answer:** B
-[[Quesiti/src_archimede_2022_2livello#q08|src_archimede_2022_2livello__Q08]]
 
 
 
@@ -410,7 +402,6 @@ This is the total amount of the loan.
 > - **(E)** 2023
 
 **Answer:** C
-[[Quesiti/src_archimede_2022_2livello#q09|src_archimede_2022_2livello__Q09]]
 
 
 
@@ -451,7 +442,6 @@ This is the total amount of the loan.
 > - **(E)** 32 or more.
 
 **Answer:** D
-[[Quesiti/src_archimede_2022_2livello#q10|src_archimede_2022_2livello__Q10]]
 
 
 
@@ -499,7 +489,6 @@ This is the total amount of the loan.
 > - **(E)** 37
 
 **Answer:** B
-[[Quesiti/src_archimede_2022_2livello#q11|src_archimede_2022_2livello__Q11]]
 
 
 
@@ -546,7 +535,6 @@ This is the total amount of the loan.
 > - **(E)** None of the above. Problems with numerical answer  5 points
 
 **Answer:** C
-[[Quesiti/src_archimede_2022_2livello#q12|src_archimede_2022_2livello__Q12]]
 
 
 
@@ -638,7 +626,6 @@ This is the total amount of the loan.
 > Lucio purchases a regular hexagon table and a rectangular tablecloth with an area of 1024 cm2 which has a smaller side equal to the side of the hexagon and covers exactly the portion of table between two opposite sides. What is the area of the table, expressed in cm2?
 
 **Answer:** 1536
-[[Quesiti/src_archimede_2022_2livello#q13|src_archimede_2022_2livello__Q13]]
 
 
 
@@ -673,7 +660,6 @@ This is the total amount of the loan.
 > How many positive integers are n for which 2022 + 1 2 n + 25 + 1 2 n is an integer?
 
 **Answer:** 6
-[[Quesiti/src_archimede_2022_2livello#q14|src_archimede_2022_2livello__Q14]]
 
 
 
@@ -712,8 +698,6 @@ This is the total amount of the loan.
 
 > A number of three digits, different from each other and not zero (say abc), is said to be petalose if there exists an integer n ≥1 such that the number cba 00 · · 0 . The smallest n that makes this divisibility true is called an abc flower. I'll give you an example. The number 132 is petallic, since 132 divides 23100. Since 23100/132 = 175 is an integer but 2310/132 = 17.5 is not, the flower of 132 is 2. (a) Whether abc is a number of three digits (different from each other and not zero) of the form 2x ·3y ·5z with x, y, z nonnegative integers and y ≤2. To prove that ABC is petal. (b) What is the maximum value of a flower of a petal-shaped (three-digit) number? (c) Whether or not a petalled number. Prove that abc is not divisible by 13.
 
-[[Quesiti/src_archimede_2022_2livello#q15|src_archimede_2022_2livello__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
@@ -751,8 +735,6 @@ This is the total amount of the loan.
 
 > Whether ABC is a triangle, whether r is the inner beam of the acute angle \ BAC and whether K is the projection of B on r, L is the projection of K on AB and D is the symmetrical of B with respect to L. Let's call H the foot of the height of the ABC triangle coming out of B. Demonstrate that: (a) BH = 2LK; (b) KA bisects the angle \ HKD; (c) the triangle ADH is isosceles.
 
-[[Quesiti/src_archimede_2022_2livello#q16|src_archimede_2022_2livello__Q16]]
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_analitica,topic_insiemi_funzioni,method_colorazione,skill_astrazione"></span>
@@ -783,5 +765,3 @@ This is the total amount of the loan.
 *Color first quadrant with semicircle, monochromatic*
 
 > The first quadrant of the Cartesian plane is the set of points (x, y) with x and y strictly positive real numbers (i.e. x > 0, y > 0). Each point in the first quadrant is colored red or blue. In addition, for each point P = (x, y) of the first quadrant, all points on the semicircle exiting from P with slope y (i.e. the semicircle originating in P and passing through the coordinate point (x + 1, 2y)) have the same color as P. Prove that all points in the first quadrant have the same color.
-
-[[Quesiti/src_archimede_2022_2livello#q17|src_archimede_2022_2livello__Q17]]

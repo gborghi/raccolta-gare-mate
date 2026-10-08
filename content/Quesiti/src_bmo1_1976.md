@@ -37,8 +37,6 @@ level: BMO Round 1
 > 
 > Mostra che esiste una linea più breve (non retta) che divide l'area del triangolo dato.
 
-[[Quesiti/src_bmo1_1976#q01|src_bmo1_1976__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,method_disuguaglianze,method_simmetria,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -64,8 +62,6 @@ level: BMO Round 1
 *Inuguaglianza per i valori reali positivi x, y, z*
 
 > Dimostra che se $x, y, z$ sono numeri reali positivi allora $$\frac{x}{y+z} + \frac{y}{z+x} + \frac{z}{x+y} \ge \frac{3}{2}.$$
-
-[[Quesiti/src_bmo1_1976#q02|src_bmo1_1976__Q02]]
 
 
 
@@ -96,8 +92,6 @@ level: BMO Round 1
 > 
 > Mostra che è possibile trovare un sottoinsieme $F$ di $E$, contenente non più di $5$ elementi, in modo tale che ogni $S_i$ ($1 \le i \le 50$) abbia un elemento in comune con $F$.
 
-[[Quesiti/src_bmo1_1976#q03|src_bmo1_1976__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -122,8 +116,6 @@ level: BMO Round 1
 *19·8^n + 17 non è mai primo*
 
 > Prova che se $n$ è un intero non negativo, allora $19 \cdot 8^n + 17$ non è un numero primo.
-
-[[Quesiti/src_bmo1_1976#q04|src_bmo1_1976__Q04]]
 
 
 
@@ -155,8 +147,6 @@ level: BMO Round 1
 > Prova che $$\sum_{t=0}^{r-1} \binom{n-1}{t} \binom{m}{t+1} \left[\binom{n+m-2t}{r-2t}\right] = \sum_{t=0}^{r-1} \binom{n-1}{t} \binom{m}{t+1} \left[\binom{n+m-2t}{r-2t-2}\right],$$ dove $a$ e $b$ sono numeri reali, $r$ e $n$ sono interi positivi con $r$ pari e $r \le n$.
 > 
 > $\left[\binom{s}{k}\right]$ indica il coefficiente $x^k$ nell'espansione $(1+x)^s$.
-
-[[Quesiti/src_bmo1_1976#q05|src_bmo1_1976__Q05]]
 
 
 
@@ -196,5 +186,3 @@ level: BMO Round 1
 > Provare $VP = \frac{r\sqrt{2}(1 + 1/\sqrt{5})}{1}$.
 > 
 > [In un triangolo sferico $ABC$ i lati sono archi di grandi cerchi (centro $O$) e i lati sono misurati dagli angoli che essi sottendono a $O$. Potresti trovare utili queste formule triangolari sferiche: $$\frac{\sin a}{\sin A} = \frac{\sin b}{\sin B} = \frac{\sin c}{\sin C},$$ $$\cos a = \cos b \cos c + \sin b \sin c \cos A$$.]
-
-[[Quesiti/src_bmo1_1976#q06|src_bmo1_1976__Q06]]

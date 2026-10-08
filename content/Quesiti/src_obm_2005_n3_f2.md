@@ -37,8 +37,6 @@ level: OBM Nível 3
 
 ![[src_obm_2005_n3_f2__q01.png]]
 
-[[Quesiti/src_obm_2005_n3_f2#q01|src_obm_2005_n3_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -63,8 +61,6 @@ level: OBM Nível 3
 *La più piccola cifra integrale positiva multiplice modulo 5,7,9,11*
 
 > Che $a$ sia un intero positivo tale che $a$ sia un multiple di $5$, $a+1$ sia un multiple di $7$, $a+2$ sia un multiple di $9$, e $a+3$ sia un multiple di $11$. Determinare il valore più piccolo che $a$ può assumere.
-
-[[Quesiti/src_obm_2005_n3_f2#q02|src_obm_2005_n3_f2__Q02]]
 
 
 
@@ -95,8 +91,6 @@ level: OBM Nível 3
 
 ![[src_obm_2005_n3_f2__q03.png]]
 
-[[Quesiti/src_obm_2005_n3_f2#q03|src_obm_2005_n3_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_insiemi_funzioni,topic_funzionali,method_backward,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -121,8 +115,6 @@ level: OBM Nível 3
 *Equazione funzionale f(x+f(y))=x+f(f(y)), ritrovare f(2005)*
 
 > Una funzione $f:\mathbb{R}\to\mathbb{R}$ soddisfa $f(x+f(y))=x+f(f(y))$ per tutti i numeri reali $x$ e $y$. Poiché $f(2)=8$, trovare il valore numerico di $f(2005)$.
-
-[[Quesiti/src_obm_2005_n3_f2#q04|src_obm_2005_n3_f2__Q04]]
 
 
 
@@ -149,8 +141,6 @@ level: OBM Nível 3
 
 > Si desidera determinare un polinomio $p(x)$ con coefficienti interi positivi facendo domande della forma "Qual è il valore numerico di $p(k)$?", dove $k$ è un intero di vostra scelta. Qual è il numero minimo di domande sufficiente a garantire che il polinomio sia determinato?
 
-[[Quesiti/src_obm_2005_n3_f2#q05|src_obm_2005_n3_f2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -175,8 +165,6 @@ level: OBM Nível 3
 *Tutte le coppie di numeri interi (x,y) che soddisfano 9xy - x^2 - 8y^2 = 2005*
 
 > Determinare tutte le coppie di integri $(x,\,y)$ in modo tale che $9xy - x^2 - 8y^2 = 2005$.
-
-[[Quesiti/src_obm_2005_n3_f2#q06|src_obm_2005_n3_f2__Q06]]
 
 
 
@@ -203,8 +191,6 @@ level: OBM Nível 3
 
 > Un prisma è retto e ha un triangolo equilaterale come base. Un piano taglia il prisma ma non taglia nessuna delle sue basi, determinando una sezione trasversale triangolare con lati $a$, $b$ e $c$. Trova il lato della base del prisma come funzione di $a$, $b$ e $c$.
 
-[[Quesiti/src_obm_2005_n3_f2#q07|src_obm_2005_n3_f2__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -229,8 +215,6 @@ level: OBM Nível 3
 Sequenze ordinate di Flamengo con 20 punti, nessuna sconfitta
 
 > In un campionato di calcio, ogni vittoria vale tre punti, ogni pareggio vale un punto e ogni sconfitta vale zero punti. È noto che il Flamengo non ha subito alcuna sconfitta e ha finito con $20$ punti, ma il numero di partite giocate è sconosciuto. Rappresentando una vittoria da $V$, un pareggio da $E$ e una sconfitta da $D$, due possibilità sono $(V,\,E,\,V,\,E,\,V)$ e $(E,\,V,\,V,\,V,\,E,\,V)$. Quante sequenze ordinate di risultati ha ottenuto Flamengo?
-
-[[Quesiti/src_obm_2005_n3_f2#q08|src_obm_2005_n3_f2__Q08]]
 
 
 
@@ -260,5 +244,3 @@ Sequenze ordinate di Flamengo con 20 punti, nessuna sconfitta
 > Determinare il minimo valore possibile del termine massimo di una progressione aritmetica con tutti e sei i termini $a_1,\,a_2,\,a_3,\,a_4,\,a_5,\,a_6$ che sono numeri primi positivi distinti.
 > 
 > In passato, gli ex olimpici Terence Tao (Australia, oro all'IMO 1988) e Ben Green (Regno Unito, argento all'IMO 1994) hanno dimostrato che esistono progressioni aritmetiche arbitrariamente lunghe con tutti i termini prim. Questa domanda risale al diciottesimo secolo e appare nella ricerca di Lagrange e Waring.
-
-[[Quesiti/src_obm_2005_n3_f2#q09|src_obm_2005_n3_f2__Q09]]

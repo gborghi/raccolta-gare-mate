@@ -34,8 +34,7 @@ level: China Girls' Mathematical Olympiad
 
 > Trovare tutti gli integri positivi $z$ in modo che l'equazione $\frac{1}{x} + \frac{1}{y} = \frac{1}{z}$ abbia esattamente $2011$ soluzioni di integri positivi $(x, y)$ con $x \leq y$.
 
-**Risposta:** $z = p^{4021}$ for any prime $p$
-[[Quesiti/src_cn_cgmo_2011#q01|src_cn_cgmo_2011__Q01]]
+**Risposta:** $z = p^{4021}$ per ogni primo $p$
 
 
 
@@ -66,8 +65,6 @@ level: China Girls' Mathematical Olympiad
 
 ![[src_cn_cgmo_b11_w193__q02.png]]
 
-[[Quesiti/src_cn_cgmo_2011#q02|src_cn_cgmo_2011__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_disuguaglianze,method_estremalita,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima"></span>
@@ -93,8 +90,6 @@ level: China Girls' Mathematical Olympiad
 *Inequità con quattro valori reali positivi il cui prodotto è 1*
 
 > Supponiamo che i numeri positivi reali $a$, $b$, $c$, $d$ soddisfino $abcd = 1$. Prova $$\frac{1}{a} + \frac{1}{b} + \frac{1}{c} + \frac{1}{d} + \frac{9}{a+b+c+d} \ge \frac{25}{4}.$$
-
-[[Quesiti/src_cn_cgmo_2011#q03|src_cn_cgmo_2011__Q03]]
 
 
 
@@ -122,8 +117,7 @@ level: China Girls' Mathematical Olympiad
 
 > $n$ ($n \ge 3$) i giocatori di tennis da tavolo hanno un torneo di round-robin  ogni giocatore giocherà tutti gli altri esattamente una volta, e non vi è alcun gioco di pareggio. Supponiamo che, dopo il torneo, tutti i giocatori possano essere organizzati in un cerchio in modo tale che: per tutti e tre i giocatori $A$, $B$, $C$ se $A$, $B$ sono adiacenti, allora almeno uno di loro ha sconfitto $C$. Si prega di trovare tutti i possibili valori di $n$. (posta da Fu Yunhao)
 
-**Risposta:** all odd $n \ge 3$
-[[Quesiti/src_cn_cgmo_2011#q04|src_cn_cgmo_2011__Q04]]
+**Risposta:** tutti gli $n \ge 3$ dispari
 
 
 
@@ -156,7 +150,6 @@ level: China Girls' Mathematical Olympiad
 ![[src_cn_cgmo_b11_w201__q05.png]]
 
 **Risposta:** $\lambda(s) = \max(s, 1)$
-[[Quesiti/src_cn_cgmo_2011#q05|src_cn_cgmo_2011__Q05]]
 
 
 
@@ -182,8 +175,6 @@ level: China Girls' Mathematical Olympiad
 Esistenza di integri positivi m,n che rendono m^n+1 un quadrato perfetto
 
 > Esistono numeri interi positivi $m$, $n$ in modo che $m^n + 1$ sia un quadrato perfetto? Prova la tua conclusione. (Posizionato da Yuan Hanhua)
-
-[[Quesiti/src_cn_cgmo_2011#q06|src_cn_cgmo_2011__Q06]]
 
 
 
@@ -214,8 +205,6 @@ Esistenza di integri positivi m,n che rendono m^n+1 un quadrato perfetto
 
 > Supponiamo che le piccole palle $n$ siano state inserite nelle scatole $n$ numerate $B_1, B_2, \ldots, B_n$. Ogni volta possiamo selezionare una casella $B_k$ e eseguire le seguenti operazioni: (1) Se $k = 1$ e c'è almeno una palla in $B_1$, spostare una palla da $B_1$ a $B_2$. (2) Se $k = n$ e c'è almeno una palla in $B_n$, spostare una palla da $B_n$ a $B_{n-1}$. (3) Se $2 \le k \le n-1$ e ci sono almeno due palle in $B_k$, spostare una palla da $B_k$ a $B_{k-1}$ e una palla a $B_{k+1}$. Prova quanto segue: non importa come le palle siano distribuite tra le scatole originariamente, è sempre possibile lasciare che ciascuna scatola contenga esattamente una palla con operazioni finite. (Posizionato da Wang Xinmao)
 
-[[Quesiti/src_cn_cgmo_2011#q07|src_cn_cgmo_2011__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -244,5 +233,3 @@ Esistenza di integri positivi m,n che rendono m^n+1 un quadrato perfetto
 > Come mostrato nella figura. 8.1, $\odot O$ è il lato di contatto del cerchio inciso $BC$ di $\triangle ABC$ al punto $M$, e i punti $D$, $E$ sono sui segmenti $AB$ e $AC$, rispettivamente, soddisfacendo $DE \parallel BC$; $\odot O_1$ è il cerchio inciso di $\triangle ADE$ tangente al lato $DE$ al punto $N$; $O_1B$, $DO$ si intersecano al punto $F$, e $O_1C$, $DO$ si intersecano al punto $G$. Provare che $MN$ divide ugualmente il segmento $FG$. (Posizionato da Bian Hongping)
 
 ![[src_cn_cgmo_b11_w209__q08.png]]
-
-[[Quesiti/src_cn_cgmo_2011#q08|src_cn_cgmo_2011__Q08]]

@@ -35,8 +35,6 @@ level: BMO Round 1
 
 > Prova che il numero $$3^n + 2 \times 17^n$$ dove $n$ è un intero non negativo, non è mai un quadrato perfetto.
 
-[[Quesiti/src_bmo_1990-91_round1#q01|src_bmo_1990-91_round1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_fattorizzazione,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -65,8 +63,6 @@ level: BMO Round 1
 > Trovare tutti gli integri positivi $k$ in modo tale che il polinomio $x^{2k+1} + x + 1$ sia divisibile dal polinomio $x^k + x + 1$.
 > 
 > Per ciascuna di tali $k$ specificare gli integri $n$ in modo tale che $x^n + x + 1$ sia divisibile da $x^k + x + 1$.
-
-[[Quesiti/src_bmo_1990-91_round1#q02|src_bmo_1990-91_round1__Q02]]
 
 
 
@@ -102,8 +98,6 @@ level: BMO Round 1
 > 
 > E' vero che se $(*)$ si tiene, allora $AC$ è perpendicolare a $BD$? Datemi una ragione per la vostra risposta.
 
-[[Quesiti/src_bmo_1990-91_round1#q03|src_bmo_1990-91_round1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_disuguaglianze,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
@@ -132,7 +126,6 @@ level: BMO Round 1
 > Trova, con prova, il valore minimo di $(x + y)(y + z)$ dove $x, y, z$ sono numeri reali positivi che soddisfano la condizione $$xyz(x + y + z) = 1.$$
 
 **Risposta:** 1
-[[Quesiti/src_bmo_1990-91_round1#q04|src_bmo_1990-91_round1__Q04]]
 
 
 
@@ -165,8 +158,6 @@ level: BMO Round 1
 > 
 > Per nessun numero intero $n$, $1 \le n \le 5$, $p_1, p_2, \ldots, p_n$ costituisce una permutazione di $1, 2, \ldots, n$.
 
-[[Quesiti/src_bmo_1990-91_round1#q05|src_bmo_1990-91_round1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_estremalita,method_induzione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -192,8 +183,6 @@ level: BMO Round 1
 
 > Mostrare che se $x$ e $y$ sono numeri interi positivi in modo tale che $x^2 + y^2 - x$ sia divisibile da $2xy$ allora $x$ è un quadrato perfetto.
 
-[[Quesiti/src_bmo_1990-91_round1#q06|src_bmo_1990-91_round1__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,topic_algebra,method_coordinate,skill_modellizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -218,5 +207,3 @@ level: BMO Round 1
 *Lada contro parete: trovare l'altezza h in termini di lunghezza l e distanza tra le scale d*
 
 > Una scala di lunghezza $l$ si appoggia a una parete verticale. Supponiamo che sulla scala ci sia un gradino che abbia la stessa distanza $d$ sia dalla parete che dal terreno (orizzontale). Indicare esplicitamente, in termini di $l$ e $d$, l'altezza $h$ dal suolo che la scala raggiunge fino al muro.
-
-[[Quesiti/src_bmo_1990-91_round1#q07|src_bmo_1990-91_round1__Q07]]

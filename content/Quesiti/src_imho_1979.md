@@ -37,8 +37,6 @@ level: IMO
 > $$\frac{p}{q} = 1 - \frac{1}{2} + \frac{1}{3} - \frac{1}{4} + \cdots - \frac{1}{1318} + \frac{1}{1319}.$$.
 > Si dimostri che $p$ è divisibile per $1979$.
 
-[[Quesiti/src_imho_1979#q01|src_imho_1979__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_colorazione,method_casework,skill_ragionamento_geometrico,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -63,8 +61,6 @@ level: IMO
 *Pentagoni bicolori sulle facce superiore e inferiore del prisma*
 
 > Si consideri un prisma avente come facce superiori e inferiori due pentagoni $A_1A_2A_3A_4A_5$ e $B_1B_2B_3B_4B_5$. Ogni vertice dei due pentagoni e ogni segmento $A_iB_i$ relativo a tutti gli $i = 1, \ldots, 5$ è colorato o di rosso o di verde. Si sa che ogni triangolo i cui vertici siano vertici del prisma e i cui lati siano segmenti colorati ha tutti i suoi lati dello stesso colore. Si dimostri che tutti e 10 i lati delle facce superiore e inferiore sono dello stesso colore.
-
-[[Quesiti/src_imho_1979#q02|src_imho_1979__Q02]]
 
 
 
@@ -91,8 +87,6 @@ level: IMO
 
 > Due circonferenze in un piano si intersecano. Sia $A$ uno dei punti di intersezione. A partire contemporaneamente da $A$, due punti si muovono con velocità costanti, ciascuno lungo la propria circonferenza nello stesso senso. I due punti ritornano simultaneamente in $A$ dopo aver compiuto ciascuno esattamente un giro completo. Si dimostri che esiste un punto fisso $P$ nel piano tale che, in ogni istante, le distanze da $P$ ai due punti in movimento sono uguali.
 
-[[Quesiti/src_imho_1979#q03|src_imho_1979__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_analitica,topic_geometria_solida,method_disuguaglianze,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -117,8 +111,6 @@ level: IMO
 *Tutti i numeri reali in pi rendono le distanze uguali a un punto fisso*
 
 > Dato un piano $\pi$, un punto $P$ in questo piano e un punto $Q$ non appartenente a $\pi$. Determinare tutti i punti $R$ nel piano $\pi$ tali che $\frac{QP + PR}{QR}$ sia massimo.
-
-[[Quesiti/src_imho_1979#q04|src_imho_1979__Q04]]
 
 
 
@@ -148,8 +140,6 @@ level: IMO
 > Determinare tutti i numeri reali $x_1, x_2, x_3, x_4, x_5$ che soddisfano le relazioni
 > $$\sum_{k=1}^{5} k x_k = a, \quad \sum_{k=1}^{5} k^3 x_k = a^2, \quad \sum_{k=1}^{5} k^5 x_k = a^3$$
 > per qualche numero reale $a$.
-
-[[Quesiti/src_imho_1979#q05|src_imho_1979__Q05]]
 
 
 
@@ -193,5 +183,3 @@ level: IMO
 > \item[(ii)] per ogni $i$, $0 \le i \le n-1$, $P_i$ è diverso da $E$;
 > \item[(iii)] per ogni $i$, $0 \le i \le n-1$, $P_i$ e $P_{i+1}$ sono adiacenti.
 > \end{itemize}
-
-[[Quesiti/src_imho_1979#q06|src_imho_1979__Q06]]

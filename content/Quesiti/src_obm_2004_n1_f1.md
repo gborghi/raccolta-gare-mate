@@ -38,7 +38,6 @@ level: OBM Nível 1
 > (A) $10000$ \quad (B) $11000$ \quad (C) $10900$ \quad (D) $12000$ \quad (E) $13000$
 
 **Risposta:** A
-[[Quesiti/src_obm_2004_n1_f1#q01|src_obm_2004_n1_f1__Q01]]
 
 
 
@@ -70,7 +69,6 @@ level: OBM Nível 1
 > (A) $7 \times 8$ \quad (B) $37 - 23$ \quad (C) $9 \times 36$ \quad (D) $144 : 36$ \quad (E) $17 \times 61$
 
 **Risposta:** E
-[[Quesiti/src_obm_2004_n1_f1#q02|src_obm_2004_n1_f1__Q02]]
 
 
 
@@ -102,7 +100,6 @@ Quale potenza è uguale a 2 sollevata a più potenze sommate?
 > (A) $0$ \quad (B) $2$ \quad (C) $4$ \quad (D) $4^7$ \quad (E) $4^8$
 
 **Risposta:** C
-[[Quesiti/src_obm_2004_n1_f1#q03|src_obm_2004_n1_f1__Q03]]
 
 
 
@@ -134,7 +131,6 @@ Quale potenza è uguale a 2 sollevata a più potenze sommate?
 > (A) $5$ \quad (B) $8$ \quad (C) $10$ \quad (D) $12$ \quad (E) $20$
 
 **Risposta:** B
-[[Quesiti/src_obm_2004_n1_f1#q04|src_obm_2004_n1_f1__Q04]]
 
 
 
@@ -167,7 +163,6 @@ Quale potenza è uguale a 2 sollevata a più potenze sommate?
 > (A) $2004$ \quad (B) $\dfrac{113}{355}$ \quad (C) $\dfrac{1}{2004}$ \quad (D) $\dfrac{2}{3}$ \quad (E) $\dfrac{7}{7}$
 
 **Risposta:** C
-[[Quesiti/src_obm_2004_n1_f1#q05|src_obm_2004_n1_f1__Q05]]
 
 
 
@@ -199,7 +194,6 @@ Quale potenza è uguale a 2 sollevata a più potenze sommate?
 > (A) $8$ \quad (B) $13$ \quad (C) $16$ \quad (D) $26$ \quad (E) $31$
 
 **Risposta:** B
-[[Quesiti/src_obm_2004_n1_f1#q06|src_obm_2004_n1_f1__Q06]]
 
 
 
@@ -231,7 +225,6 @@ Quale potenza è uguale a 2 sollevata a più potenze sommate?
 > (A) $11$ \quad (B) $20$ \quad (C) $21$ \quad (D) $31$ \quad (E) $41$
 
 **Risposta:** B
-[[Quesiti/src_obm_2004_n1_f1#q07|src_obm_2004_n1_f1__Q07]]
 
 
 
@@ -267,7 +260,6 @@ Quale potenza è uguale a 2 sollevata a più potenze sommate?
 ![[src_obm_2004_n1_f1__q08.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2004_n1_f1#q08|src_obm_2004_n1_f1__Q08]]
 
 
 
@@ -299,7 +291,6 @@ Quale potenza è uguale a 2 sollevata a più potenze sommate?
 > (A) $2.5$ km \quad (B) $5.0$ km \quad (C) $7.5$ km \quad (D) $10.0$ km \quad (E) $12.5$ km
 
 **Risposta:** B
-[[Quesiti/src_obm_2004_n1_f1#q09|src_obm_2004_n1_f1__Q09]]
 
 
 
@@ -336,7 +327,6 @@ Quale progetto di recinzione per giardino costa di più?
 ![[src_obm_2004_n1_f1__q10.png]]
 
 **Risposta:** E
-[[Quesiti/src_obm_2004_n1_f1#q10|src_obm_2004_n1_f1__Q10]]
 
 
 
@@ -369,7 +359,6 @@ Quale progetto di recinzione per giardino costa di più?
 > (A) $2$ \quad (B) $8$ \quad (C) $5$ \quad (D) $4$ \quad (E) $3$
 
 **Risposta:** E
-[[Quesiti/src_obm_2004_n1_f1#q11|src_obm_2004_n1_f1__Q11]]
 
 
 
@@ -406,7 +395,6 @@ Quale progetto di recinzione per giardino costa di più?
 ![[src_obm_2004_n1_f1__q12.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2004_n1_f1#q12|src_obm_2004_n1_f1__Q12]]
 
 
 
@@ -438,7 +426,6 @@ Quando l'assistente di un artigiano deve fermarsi per corrispondere alla produzi
 > (A) $12$ h \quad (B) $12{:}30$ min \quad (C) $13$ h \quad (D) $13{:}30$ min \quad (E) $14{:}30$ min
 
 **Risposta:** D
-[[Quesiti/src_obm_2004_n1_f1#q13|src_obm_2004_n1_f1__Q13]]
 
 
 
@@ -470,7 +457,6 @@ Quando l'assistente di un artigiano deve fermarsi per corrispondere alla produzi
 > (A) $1$ \quad (B) $3$ \quad (C) $5$ \quad (D) $7$ \quad (E) $9$
 
 **Risposta:** C
-[[Quesiti/src_obm_2004_n1_f1#q14|src_obm_2004_n1_f1__Q14]]
 
 
 
@@ -502,7 +488,6 @@ Quando l'assistente di un artigiano deve fermarsi per corrispondere alla produzi
 > (A) $30$ cm \quad (B) $25$ cm \quad (C) $50$ cm \quad (D) $20$ cm \quad (E) $15$ cm
 
 **Risposta:** A
-[[Quesiti/src_obm_2004_n1_f1#q15|src_obm_2004_n1_f1__Q15]]
 
 
 
@@ -538,7 +523,6 @@ Quando l'assistente di un artigiano deve fermarsi per corrispondere alla produzi
 ![[src_obm_2004_n1_f1__q16.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2004_n1_f1#q16|src_obm_2004_n1_f1__Q16]]
 
 
 
@@ -570,7 +554,6 @@ Quando l'assistente di un artigiano deve fermarsi per corrispondere alla produzi
 > (A) $60$ \quad (B) $320$ \quad (C) $360$ \quad (D) $400$ \quad (E) $840$
 
 **Risposta:** C
-[[Quesiti/src_obm_2004_n1_f1#q17|src_obm_2004_n1_f1__Q17]]
 
 
 
@@ -607,7 +590,6 @@ Quando l'assistente di un artigiano deve fermarsi per corrispondere alla produzi
 ![[src_obm_2004_n1_f1__q18.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2004_n1_f1#q18|src_obm_2004_n1_f1__Q18]]
 
 
 
@@ -640,7 +622,6 @@ Quando l'assistente di un artigiano deve fermarsi per corrispondere alla produzi
 > (A) $5$ \quad (B) $4$ \quad (C) $5$ \quad (D) $7$ \quad (E) $9$
 
 **Risposta:** E
-[[Quesiti/src_obm_2004_n1_f1#q19|src_obm_2004_n1_f1__Q19]]
 
 
 
@@ -680,7 +661,6 @@ Quando l'assistente di un artigiano deve fermarsi per corrispondere alla produzi
 > (A) Nella scatola rossa. Quad (B) nella scatola verde. Quad (C) nella scatola blu. Quad (D) Le informazioni fornite non sono sufficienti per dare una risposta. \quad (E) Le informazioni fornite sono contraddittorie.
 
 **Risposta:** B
-[[Quesiti/src_obm_2004_n1_f1#q20|src_obm_2004_n1_f1__Q20]]
 
 
 
@@ -713,7 +693,6 @@ Quando l'assistente di un artigiano deve fermarsi per corrispondere alla produzi
 > (A) $7$ \quad (B) $10$ \quad (C) $12$ \quad (D) $13$ \quad (E) $14$
 
 **Risposta:** D
-[[Quesiti/src_obm_2004_n1_f1#q21|src_obm_2004_n1_f1__Q21]]
 
 
 
@@ -750,7 +729,6 @@ Quando l'assistente di un artigiano deve fermarsi per corrispondere alla produzi
 ![[src_obm_2004_n1_f1__q22.png]]
 
 **Risposta:** E
-[[Quesiti/src_obm_2004_n1_f1#q22|src_obm_2004_n1_f1__Q22]]
 
 
 
@@ -787,7 +765,6 @@ Quando l'assistente di un artigiano deve fermarsi per corrispondere alla produzi
 ![[src_obm_2004_n1_f1__q23.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2004_n1_f1#q23|src_obm_2004_n1_f1__Q23]]
 
 
 
@@ -824,7 +801,6 @@ Quali visualizzazioni corrispondono all'oggetto 3D mostrato?
 ![[src_obm_2004_n1_f1__q24.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2004_n1_f1#q24|src_obm_2004_n1_f1__Q24]]
 
 
 
@@ -856,4 +832,3 @@ Quali visualizzazioni corrispondono all'oggetto 3D mostrato?
 > (A) $26.4$ km \quad (B) $264$ km \quad (C) $26{,}400$ km \quad (D) $264{,}000$ km \quad (E) $2{,}640{,}000$ km
 
 **Risposta:** B
-[[Quesiti/src_obm_2004_n1_f1#q25|src_obm_2004_n1_f1__Q25]]

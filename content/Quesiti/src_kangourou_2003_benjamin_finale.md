@@ -34,7 +34,6 @@ level: kangourou
 > Four numbers are such that the second is equal to the first plus $7$, the third is equal to the second plus $7$ and the fourth is equal to the third plus $7$. Their sum is $54$. What's the first number?
 
 **Answer:** 3
-[[Quesiti/src_kangourou_2003_benjamin_finale#qb1|src_kangourou_2003_benjamin_finale__QB1]]
 
 
 
@@ -91,8 +90,7 @@ level: kangourou
 
 > In a square square there is a square flowerbed as shown in the figure. The area of the part of the square not occupied by the flowerbed is $8$ times the area of the flowerbed. To make one lap of the square along its outer perimeter I take $15$ minutes. How many minutes will I take, at the same speed, to make one lap along the perimeter of the flowerbed? (see figure)
 
-**Answer:** 5 minuti
-[[Quesiti/src_kangourou_2003_benjamin_finale#qb2|src_kangourou_2003_benjamin_finale__QB2]]
+**Answer:** 5 minutes
 
 
 
@@ -120,7 +118,6 @@ level: kangourou
 > Mirabilandia's magical leather rectangle shrinks by half in length and by a third in height every time it fulfills its owner's wish. After $5$ wishes its area is $2\,\text{cm}^2$, while after $2$ wishes its height was $4\,\text{cm}$. What was its length after it fulfilled its first wish?
 
 **Answer:** 27
-[[Quesiti/src_kangourou_2003_benjamin_finale#qb3|src_kangourou_2003_benjamin_finale__QB3]]
 
 
 
@@ -148,7 +145,6 @@ level: kangourou
 > Is it possible for a car to travel $25\,000\,\text{km}$ and each of the five tyres it is fitted with (four plus the spare wheel) to be used for the same number of kilometres? If you answer no explain why; if you answer yes indicate a possible tyre replacement strategy.
 
 **Answer:** yes
-[[Quesiti/src_kangourou_2003_benjamin_finale#qb4|src_kangourou_2003_benjamin_finale__QB4]]
 
 
 
@@ -176,7 +172,6 @@ level: kangourou
 > What are the first three digits and the last three digits of the smallest positive integer whose digit sum is $2003$?
 
 **Answer:** 599 / 999
-[[Quesiti/src_kangourou_2003_benjamin_finale#qb5|src_kangourou_2003_benjamin_finale__QB5]]
 
 
 
@@ -205,4 +200,3 @@ level: kangourou
 > Indicate how a set of $200$ integers between $1$ and $300$ (extremes included) can be identified so that the following clause is respected: if a number is present in the set, then its double is not present.
 
 **Answer:** construction
-[[Quesiti/src_kangourou_2003_benjamin_finale#qb6|src_kangourou_2003_benjamin_finale__QB6]]

@@ -97,7 +97,6 @@ level: kangourou
 > E) 5 (all)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2022_student_semifinale#q01|src_kangourou_2022_student_semifinale__Q01]]
 
 
 
@@ -143,7 +142,6 @@ level: kangourou
 > E) 1.000
 
 **Answer:** D
-[[Quesiti/src_kangourou_2022_student_semifinale#q02|src_kangourou_2022_student_semifinale__Q02]]
 
 
 
@@ -190,7 +188,6 @@ level: kangourou
 > E) 4 (all)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2022_student_semifinale#q03|src_kangourou_2022_student_semifinale__Q03]]
 
 
 
@@ -235,7 +232,6 @@ level: kangourou
 > C) 20 D) 40 / π E) None of the proposed numbers.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2022_student_semifinale#q04|src_kangourou_2022_student_semifinale__Q04]]
 
 
 
@@ -304,7 +300,6 @@ level: kangourou
 > D) 4π E) 11π/5
 
 **Answer:** D
-[[Quesiti/src_kangourou_2022_student_semifinale#q05|src_kangourou_2022_student_semifinale__Q05]]
 
 
 
@@ -344,7 +339,6 @@ level: kangourou
 > D) 1 E) 5
 
 **Answer:** B
-[[Quesiti/src_kangourou_2022_student_semifinale#q06|src_kangourou_2022_student_semifinale__Q06]]
 
 
 
@@ -384,7 +378,6 @@ Find n *
 > (B) 12 C) 20 D) 25 E) None of the above.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2022_student_semifinale#q07|src_kangourou_2022_student_semifinale__Q07]]
 
 
 
@@ -444,7 +437,6 @@ Find n *
 > K
 
 **Answer:** C
-[[Quesiti/src_kangourou_2022_student_semifinale#q08|src_kangourou_2022_student_semifinale__Q08]]
 
 
 
@@ -504,7 +496,6 @@ Find n *
 > Open-ended questions
 
 **Answer:** C
-[[Quesiti/src_kangourou_2022_student_semifinale#q09|src_kangourou_2022_student_semifinale__Q09]]
 
 
 
@@ -574,7 +565,6 @@ Find n *
 > (4 points) The figure shows two congruent regular hexagons that have only one vertex in common. Two of the sides that converge at that vertex are perpendicular. How many degrees does the indicated angle ABC measure?
 
 **Answer:** 15
-[[Quesiti/src_kangourou_2022_student_semifinale#q10|src_kangourou_2022_student_semifinale__Q10]]
 
 
 
@@ -607,7 +597,6 @@ Find n *
 > (5 points) A small calculator can only perform four optional operations on a number that is assigned: subtract 1, divide by 2, multiply by 3, add 4. Starting from number 1 and running in sequence one at a time operations like these on the results obtained, what is the minimum number of operations that are sufficient to reach 2022? (For example, to reach 6 it takes and only 3: 1 × 3 + 4 − 1.)
 
 **Answer:** 9
-[[Quesiti/src_kangourou_2022_student_semifinale#q11|src_kangourou_2022_student_semifinale__Q11]]
 
 
 
@@ -644,7 +633,6 @@ Find n *
 > are infinitely many fair rectangles, answer 9999.)
 
 **Answer:** 2
-[[Quesiti/src_kangourou_2022_student_semifinale#q12|src_kangourou_2022_student_semifinale__Q12]]
 
 
 
@@ -674,7 +662,6 @@ Find n *
 > (6 points) For how many pairs (x, y) of positive integers does it happen that both integers x² + y and x + y² are perfect squares? (Write 9999 if you think there are infinite pairs.)
 
 **Answer:** 0
-[[Quesiti/src_kangourou_2022_student_semifinale#q13|src_kangourou_2022_student_semifinale__Q13]]
 
 
 
@@ -715,7 +702,6 @@ Find n *
 > C
 
 **Answer:** 4
-[[Quesiti/src_kangourou_2022_student_semifinale#q14|src_kangourou_2022_student_semifinale__Q14]]
 
 
 
@@ -758,7 +744,6 @@ Find n *
 > what is the sum of all the numbers S(T)?
 
 **Answer:** 0
-[[Quesiti/src_kangourou_2022_student_semifinale#q15|src_kangourou_2022_student_semifinale__Q15]]
 
 
 
@@ -791,7 +776,6 @@ Find n *
 > 12-digit integers of the form ABCDABCDABCD are divisible by 2022?
 
 **Answer:** 13
-[[Quesiti/src_kangourou_2022_student_semifinale#q16|src_kangourou_2022_student_semifinale__Q16]]
 
 
 
@@ -826,7 +810,6 @@ Find n *
 > as P varies in P?
 
 **Answer:** 33
-[[Quesiti/src_kangourou_2022_student_semifinale#q17|src_kangourou_2022_student_semifinale__Q17]]
 
 
 
@@ -869,4 +852,3 @@ Find n *
 > 15 9 2 0 4 0 13 33 2
 
 **Answer:** 2
-[[Quesiti/src_kangourou_2022_student_semifinale#q18|src_kangourou_2022_student_semifinale__Q18]]

@@ -33,8 +33,6 @@ level: JMO Honsen
 
 > $p$ sia un numero primo. Per ogni numero intero $k$ con $1 \le k \le p-1$, $a_k$ è il numero di divisori di $kp+1$ che sono superiori o uguali a $k$ e inferiori a $p$. Trova il valore di $a_1 + a_2 + \cdots + a_{p-1}$.
 
-[[Quesiti/src_jmo26mq_honsen#q01|src_jmo26mq_honsen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -63,8 +61,6 @@ level: JMO Honsen
 > Un quadrilaterale ciclico $ABCD$ è inserito in un cerchio, soddisfacendo $AB : AD = CD : CB$. Il $X$ è l'intersezione delle diagonali $AC$ e $BD$, e il $Y$ è l'intersezione delle linee $AB$ e $CD$. $E$, $F$, $G$, $H$ siano rispettivamente i punti intermedi di $AB$, $BC$, $CD$ e $DA$. $S$ sia l'intersezione del bisettore angolare di $\angle AXB$ con il segmento $EG$, e $T$ sia l'intersezione del bisettore angolare di $\angle AYD$ con il segmento $FH$. Prova che la linea $ST$ è parallela alla diagonale $BD$.
 > 
 > (Qui $UV$ indica la lunghezza del segmento $UV$.)
-
-[[Quesiti/src_jmo26mq_honsen#q02|src_jmo26mq_honsen__Q02]]
 
 
 
@@ -104,8 +100,6 @@ level: JMO Honsen
 > 
 > Si dice che la micro-tassazione possa continuare a tempo indeterminato nel Regno dell'OMM. Trova il valore minimo di $S$ per il quale questo è raggiungibile.
 
-[[Quesiti/src_jmo26mq_honsen#q03|src_jmo26mq_honsen__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,topic_algebra,method_casework,method_simmetria,method_backward,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -132,8 +126,6 @@ level: JMO Honsen
 *Ricerca tutte le funzioni reali che soddisfano f(yf(x) -x) = f(x) f(y) +2x*
 
 > Trovare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ definite su tutti i numeri reali in modo tale che per tutti i numeri reali $x, y$, $$f(yf(x) - x) = f(x)f(y) + 2x$$ si mantenga.
-
-[[Quesiti/src_jmo26mq_honsen#q04|src_jmo26mq_honsen__Q04]]
 
 
 
@@ -168,5 +160,3 @@ level: JMO Honsen
 > Le città devono essere suddivise in due gruppi $\alpha$ e $\beta$ e ogni strada che collega una città del gruppo $\alpha$ a una città del gruppo $\beta$ è designata autostrada. Dimostrare l'esistenza di una tale partizione che soddisfa entrambe le seguenti condizioni:
 > 
 > - Ogni gruppo contiene almeno una città. - Per ogni città, il numero di incidenti sulle autostrade in quella città è massimo $1$.
-
-[[Quesiti/src_jmo26mq_honsen#q05|src_jmo26mq_honsen__Q05]]

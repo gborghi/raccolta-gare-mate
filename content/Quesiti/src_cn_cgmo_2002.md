@@ -33,8 +33,6 @@ level: China Girls' Mathematical Olympiad
 
 > Trova tutti gli integri positivi $n$ in modo tale che $2$ divida $2003n + 2002$. (Possibile da Wu Weichao)
 
-[[Quesiti/src_cn_cgmo_2002#q01|src_cn_cgmo_2002__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_doppio_conteggio,method_casework,method_induzione,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_modellizzazione"></span>
@@ -68,8 +66,6 @@ level: China Girls' Mathematical Olympiad
 > 
 > (2) Prove che $n$ è un numero odd.
 
-[[Quesiti/src_cn_cgmo_2002#q02|src_cn_cgmo_2002__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_disuguaglianze,topic_geometria_piana,method_disuguaglianze,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
@@ -94,8 +90,6 @@ level: China Girls' Mathematical Olympiad
 *Ricerca tutti i numeri interi positivi k per l'esistenza triangolare attraverso l'ineguaglianza*
 
 > Trovare tutti i numeri interi positivi $k$ in modo tale che per tutti i numeri positivi $a$, $b$ e $c$ che soddisfano l'ineguaglianza $k(ab + bc + ca) > 5(a^2 + b^2 + c^2)$, debba esistere un triangolo con $a$, $b$ e $c$ come lunghezze dei suoi tre lati rispettivamente. (Posizionato da Qian Zhanwang)
-
-[[Quesiti/src_cn_cgmo_2002#q03|src_cn_cgmo_2002__Q03]]
 
 
 
@@ -126,8 +120,6 @@ level: China Girls' Mathematical Olympiad
 
 ![[src_cn_cgmo_2002__q04.png]]
 
-[[Quesiti/src_cn_cgmo_2002#q04|src_cn_cgmo_2002__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima"></span>
@@ -153,8 +145,6 @@ level: China Girls' Mathematical Olympiad
 
 > Supponiamo che $P_1, P_2, \ldots, P_n$ ($n \ge 2$) sia una permutazione arbitraria di $1, 2, \ldots, n$. Prove che $$\frac{1}{P_1 + P_2} + \frac{1}{P_2 + P_3} + \cdots + \frac{1}{P_{n-2} + P_{n-1}} + \frac{1}{P_{n-1} + P_n} > \frac{n-1}{n+2}.$$ (posato da Qiu Zonghu)
 
-[[Quesiti/src_cn_cgmo_2002#q05|src_cn_cgmo_2002__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato,skill_riconoscimento_pattern"></span>
@@ -179,8 +169,6 @@ level: China Girls' Mathematical Olympiad
 *Ricerca tutte le coppie di integri positivi (x,y) con x^y = y^(x-y)*
 
 > Trova tutte le coppie di integri positivi $(x, y)$ che soddisfano $x^y = y^{x-y}$. (Possibile da Pan Chengbiao)
-
-[[Quesiti/src_cn_cgmo_2002#q06|src_cn_cgmo_2002__Q06]]
 
 
 
@@ -211,8 +199,6 @@ level: China Girls' Mathematical Olympiad
 
 ![[src_cn_cgmo_2002__q07.png]]
 
-[[Quesiti/src_cn_cgmo_2002#q07|src_cn_cgmo_2002__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_geometria_analitica,method_estremalita,method_casework,method_conteggio,skill_conteggio_sistematico,skill_astrazione,skill_modellizzazione"></span>
@@ -241,5 +227,3 @@ level: China Girls' Mathematical Olympiad
 > Supponiamo che $A_1, A_2, \ldots, A_8$ siano otto punti presi arbitrariamente su un piano. Per una linea diretta $l$ presa arbitrariamente sul piano, le proiezioni di $A_1, A_2, \ldots, A_8$ sulla linea $l$ sono $P_1, P_2, \ldots, P_8$ secondo la direzione della linea $l$. Abbiamo una permutazione per $1, 2, \ldots, 8$, vale a dire, $i_1, i_2, i_3, i_4, i_5, i_6, i_7, i_8$. Supponiamo che dopo che questi otto punti sono proiettati su ogni linea diretta sul piano, otteniamo il numero di diverse permutazioni come $N_8 = N(A_1, \ldots, A_8)$. Trova il valore massimo di $N_8$. (Posizionato da Su Chun)
 
 ![[src_cn_cgmo_2002__q08.png]]
-
-[[Quesiti/src_cn_cgmo_2002#q08|src_cn_cgmo_2002__Q08]]

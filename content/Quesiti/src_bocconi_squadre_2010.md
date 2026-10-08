@@ -43,7 +43,6 @@ level: Gara a Squadre
 ![[src_bocconi_squadre_2010__q01.png]]
 
 **Answer:** 240 m
-[[Quesiti/src_bocconi_squadre_2010#q01|src_bocconi_squadre_2010__Q01]]
 
 
 
@@ -82,7 +81,6 @@ level: Gara a Squadre
 ![[src_bocconi_squadre_2010__q02.png]]
 
 **Answer:** $a=6,\ b=1,\ c=8,\ d=2,\ e=3,\ f=4,\ g=5,\ h=7,\ i=9$
-[[Quesiti/src_bocconi_squadre_2010#q02|src_bocconi_squadre_2010__Q02]]
 
 
 
@@ -115,7 +113,6 @@ How many PRISTEM members practice all three sports?
 > How many members of the PRISTEM sports section do all three sports?
 
 **Answer:** 2
-[[Quesiti/src_bocconi_squadre_2010#q03|src_bocconi_squadre_2010__Q03]]
 
 
 
@@ -148,7 +145,6 @@ How many PRISTEM members practice all three sports?
 > How many quintets are possible, knowing that each player has a numbered shirt (from 1 to 12) and that by law in the same formation can never be two players wearing two consecutive numbers on the shirt?
 
 **Answer:** 56
-[[Quesiti/src_bocconi_squadre_2010#q04|src_bocconi_squadre_2010__Q04]]
 
 
 
@@ -185,7 +181,6 @@ How many PRISTEM members practice all three sports?
 > Note: the width of the roads is not taken into account.
 
 **Answer:** 1000 m
-[[Quesiti/src_bocconi_squadre_2010#q05|src_bocconi_squadre_2010__Q05]]
 
 
 
@@ -218,7 +213,6 @@ How to align 5 boys with Alessandra and Ingrid not close
 > How many ways can the five boys line up, sitting on a bench (right) so that Alessandra and Ingrid never get close?
 
 **Answer:** 72
-[[Quesiti/src_bocconi_squadre_2010#q06|src_bocconi_squadre_2010__Q06]]
 
 
 
@@ -255,7 +249,6 @@ How many apples did Anna buy initially?
 > How many apples did Anna initially buy?
 
 **Answer:** 32
-[[Quesiti/src_bocconi_squadre_2010#q07|src_bocconi_squadre_2010__Q07]]
 
 
 
@@ -288,7 +281,6 @@ How many apples did Anna buy initially?
 > What is the minimum number of trays needed to produce this amount of wine?
 
 **Answer:** 6
-[[Quesiti/src_bocconi_squadre_2010#q08|src_bocconi_squadre_2010__Q08]]
 
 
 
@@ -321,7 +313,6 @@ How many apples did Anna buy initially?
 > How many numbered pages does the encyclopedia have?
 
 **Answer:** 3171
-[[Quesiti/src_bocconi_squadre_2010#q09|src_bocconi_squadre_2010__Q09]]
 
 
 
@@ -354,7 +345,6 @@ How many apples did Anna buy initially?
 > How old is Nando?
 
 **Answer:** 72
-[[Quesiti/src_bocconi_squadre_2010#q10|src_bocconi_squadre_2010__Q10]]
 
 
 
@@ -391,7 +381,6 @@ How many apples did Anna buy initially?
 ![[src_bocconi_squadre_2010__q11.png]]
 
 **Answer:** 866
-[[Quesiti/src_bocconi_squadre_2010#q11|src_bocconi_squadre_2010__Q11]]
 
 
 
@@ -425,7 +414,6 @@ How many apples did Anna buy initially?
 > What's the right combination?
 
 **Answer:** 47228
-[[Quesiti/src_bocconi_squadre_2010#q12|src_bocconi_squadre_2010__Q12]]
 
 
 
@@ -458,7 +446,6 @@ How many apples did Anna buy initially?
 > Who are they?
 
 **Answer:** 675
-[[Quesiti/src_bocconi_squadre_2010#q13|src_bocconi_squadre_2010__Q13]]
 
 
 
@@ -491,7 +478,6 @@ How many apples did Anna buy initially?
 > Find a four-digit number whose contrary is four times larger.
 
 **Answer:** 2178
-[[Quesiti/src_bocconi_squadre_2010#q14|src_bocconi_squadre_2010__Q14]]
 
 
 
@@ -524,7 +510,6 @@ How many apples did Anna buy initially?
 > What is the relationship between the areas of the DMS and ABC triangles?
 
 **Answer:** $\frac{1}{7}$
-[[Quesiti/src_bocconi_squadre_2010#q15|src_bocconi_squadre_2010__Q15]]
 
 
 
@@ -561,7 +546,6 @@ How many apples did Anna buy initially?
 ![[src_bocconi_squadre_2010__q16.png]]
 
 **Answer:** 18
-[[Quesiti/src_bocconi_squadre_2010#q16|src_bocconi_squadre_2010__Q16]]
 
 
 
@@ -594,7 +578,6 @@ How many apples did Anna buy initially?
 > What's the smallest number extracted from each of the five friends?
 
 **Answer:** $A=4;\ D=1;\ G=6;\ I=2;\ M=8$
-[[Quesiti/src_bocconi_squadre_2010#q17|src_bocconi_squadre_2010__Q17]]
 
 
 
@@ -623,7 +606,6 @@ How many apples did Anna buy initially?
 > With how many zeros does the result of multiplying all integers between 50 and 100 (included) end?
 
 **Answer:** 14
-[[Quesiti/src_bocconi_squadre_2010#q18|src_bocconi_squadre_2010__Q18]]
 
 
 
@@ -656,7 +638,6 @@ Age of the eldest nephew under 10 in the mysterious family
 > What is the age of the eldest, who is still under 10?
 
 **Answer:** 6
-[[Quesiti/src_bocconi_squadre_2010#q19|src_bocconi_squadre_2010__Q19]]
 
 
 
@@ -689,4 +670,3 @@ Age of the eldest nephew under 10 in the mysterious family
 > What's the minimum value of the side of the main square?
 
 **Answer:** 49 m
-[[Quesiti/src_bocconi_squadre_2010#q20|src_bocconi_squadre_2010__Q20]]

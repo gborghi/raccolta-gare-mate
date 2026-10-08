@@ -49,8 +49,6 @@ level: OBM Nível 3
 
 ![[src_obm_2000_n3_f3__q01.png]]
 
-[[Quesiti/src_obm_2000_n3_f3#q01|src_obm_2000_n3_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_telescoping,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -81,8 +79,6 @@ level: OBM Nível 3
 > $\sigma(n)$ sia la somma di tutti i divisori positivi di $n$, dove $n$ è un intero positivo (ad esempio, $\sigma(4) = 12$ e $\sigma(11) = 12$). Diciamo $n$ è **quasi-perfetto** se $\sigma(n) = 2n - 1$ (ad esempio, $\sigma(1) = 1 = 2 \cdot 1 - 1$, quindi $1$ è quasi-perfetto, ma $\sigma(7) = 8 \neq 2 \cdot 7 - 1 = 13$, quindi $7$ non è). $m$ e $k$ siano integri positivi, $n$ il resto della divisione di $n$ per $k$, e definire $$s(n) = \sum_{k=1}^{n} m \bmod k$$ (ad esempio, $s(6) = 0 + 0 + 4 + 0 + 2 + 1 + 0 = 3$ e $s(11) = 0 + 1 + 2 + 3 + 1 + 5 + 4 + 4 + 3 + 2 + 1 + 0 + 0 = 22$).
 > 
 > Provare che $n$ è quasi perfetto se e solo se $s(n) = s(n-1)$.
-
-[[Quesiti/src_obm_2000_n3_f3#q02|src_obm_2000_n3_f3__Q02]]
 
 
 
@@ -115,7 +111,6 @@ level: OBM Nível 3
 > Determinare il numero intero positivo più piccolo $n$ tale che $f(1) + f(2) + \cdots + f(n) \ge 123456$.
 
 **Risposta:** 24710
-[[Quesiti/src_obm_2000_n3_f3#q03|src_obm_2000_n3_f3__Q03]]
 
 
 
@@ -147,8 +142,7 @@ level: OBM Nível 3
 > 
 > Per quali valori di $v$ è possibile che l'auto passi attraverso un numero arbitrario di semafori senza fermarsi in nessuno di essi?
 
-**Risposta:** $v = \dfrac{20}{k}$ m/s for every positive integer $k$
-[[Quesiti/src_obm_2000_n3_f3#q04|src_obm_2000_n3_f3__Q04]]
+**Risposta:** $v = \dfrac{20}{k}$ m/s per ogni intero positivo $k$
 
 
 
@@ -177,7 +171,6 @@ level: OBM Nível 3
 > $X$ sia l'insieme di tutte le sequenze $\underline{a} = (a_1, a_2, \ldots, a_{2000})$ in modo tale che $a_i \in \{0,1,2\}$ per $1 \le i \le 1000$ e $a_i \in \{0,1\}$ per $1001 \le i \le 2000$. Date $\underline{a}$ e $\underline{b}$ in $X$, definire la distanza $d(\underline{a},\underline{b})$ tra $\underline{a}$ e $\underline{b}$ come il numero degli indici $i$, $1 \le i \le 2000$, in modo tale che $a_i \ne b_i$. Determinare il numero di funzioni $f : X \to X$ che preservano la distanza, cioè tale che $d(f(\underline{a}), f(\underline{b})) = d(\underline{a}, \underline{b})$ per tutte le $\underline{a}$ e $\underline{b}$ di $X$.
 
 **Risposta:** $1000! \cdot 1000! \cdot 2^{1000} \cdot (1\times 2^{1000} \cdot 3^{1000})$
-[[Quesiti/src_obm_2000_n3_f3#q05|src_obm_2000_n3_f3__Q05]]
 
 
 
@@ -210,4 +203,3 @@ Quanti pezzi un cubo si divide in 28 piani perpendicolari?
 > **Nota:** Dati due punti $A$ e $B$ nello spazio, il piano bisettore perpendicolare di $A$ e $B$ è l'insieme di punti nello spazio equidistanti da $A$ e $B$. In altre parole, è il piano perpendicolare al segmento $AB$ che attraversa il punto medio di $AB$.
 
 **Risposta:** 96
-[[Quesiti/src_obm_2000_n3_f3#q06|src_obm_2000_n3_f3__Q06]]

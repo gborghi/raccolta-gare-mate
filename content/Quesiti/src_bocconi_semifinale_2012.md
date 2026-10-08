@@ -47,7 +47,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 ![[src_bocconi_semifinale_2012__q01.png]]
 
 **Answer:** 5105
-[[Quesiti/src_bocconi_semifinale_2012#q01|src_bocconi_semifinale_2012__Q01]]
 
 
 
@@ -87,8 +86,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 ![[src_bocconi_semifinale_2012__q02.png]]
 
-**Answer:** Una soluzione (ne esistono due), con i dischi neri uguali a 11.
-[[Quesiti/src_bocconi_semifinale_2012#q02|src_bocconi_semifinale_2012__Q02]]
+**Answer:** One solution (there are two), with the black discs equal to 11.
 
 
 
@@ -125,7 +123,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > How many cell phones did they sell in December, before Marco paid his bills?
 
 **Answer:** 200
-[[Quesiti/src_bocconi_semifinale_2012#q03|src_bocconi_semifinale_2012__Q03]]
 
 
 
@@ -166,7 +163,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 ![[src_bocconi_semifinale_2012__q04.png]]
 
 **Answer:** 16
-[[Quesiti/src_bocconi_semifinale_2012#q04|src_bocconi_semifinale_2012__Q04]]
 
 
 
@@ -203,7 +199,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > What was the number originally conceived by Peter?
 
 **Answer:** 312
-[[Quesiti/src_bocconi_semifinale_2012#q05|src_bocconi_semifinale_2012__Q05]]
 
 
 
@@ -244,7 +239,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 ![[src_bocconi_semifinale_2012__q06.png]]
 
 **Answer:** 22
-[[Quesiti/src_bocconi_semifinale_2012#q06|src_bocconi_semifinale_2012__Q06]]
 
 
 
@@ -285,7 +279,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 ![[src_bocconi_semifinale_2012__q07.png]]
 
 **Answer:** 15
-[[Quesiti/src_bocconi_semifinale_2012#q07|src_bocconi_semifinale_2012__Q07]]
 
 
 
@@ -322,7 +315,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > After turning it on, how many times did Luca press at least the keys on Dad's calculator (the ones that work) to see how 2012 was written?
 
 **Answer:** 16
-[[Quesiti/src_bocconi_semifinale_2012#q08|src_bocconi_semifinale_2012__Q08]]
 
 
 
@@ -363,7 +355,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 ![[src_bocconi_semifinale_2012__q09.png]]
 
 **Answer:** 11
-[[Quesiti/src_bocconi_semifinale_2012#q09|src_bocconi_semifinale_2012__Q09]]
 
 
 
@@ -403,8 +394,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > Complete the box (writing, in digits, the missing numbers) so that the sentence is true.
 
-**Answer:** Due soluzioni: '15 numeri … 4 multipli di 5' e '15 numeri … 5 multipli di 5'.
-[[Quesiti/src_bocconi_semifinale_2012#q10|src_bocconi_semifinale_2012__Q10]]
+**Answer:** Two solutions: '15 numbers … 4 multiples of 5' and '15 numbers … 5 multiples of 5'.
 
 
 
@@ -445,7 +435,6 @@ The last issue Milena manages to write with strokes, stopping at the 312th strok
 ![[src_bocconi_semifinale_2012__q11.png]]
 
 **Answer:** 56
-[[Quesiti/src_bocconi_semifinale_2012#q11|src_bocconi_semifinale_2012__Q11]]
 
 
 
@@ -485,8 +474,7 @@ The last issue Milena manages to write with strokes, stopping at the 312th strok
 
 ![[src_bocconi_semifinale_2012__q12.png]]
 
-**Answer:** Due soluzioni: $1 - 7 - 8$ e $2 - 6 - 9$.
-[[Quesiti/src_bocconi_semifinale_2012#q12|src_bocconi_semifinale_2012__Q12]]
+**Answer:** Two solutions: $1 - 7 - 8$ and $2 - 6 - 9$.
 
 
 
@@ -527,7 +515,6 @@ The last issue Milena manages to write with strokes, stopping at the 312th strok
 ![[src_bocconi_semifinale_2012__q13.png]]
 
 **Answer:** 20
-[[Quesiti/src_bocconi_semifinale_2012#q13|src_bocconi_semifinale_2012__Q13]]
 
 
 
@@ -564,7 +551,6 @@ The last issue Milena manages to write with strokes, stopping at the 312th strok
 > What is the minimum value of the sum of the digits of the number N+P?
 
 **Answer:** 9
-[[Quesiti/src_bocconi_semifinale_2012#q14|src_bocconi_semifinale_2012__Q14]]
 
 
 
@@ -605,7 +591,6 @@ The last issue Milena manages to write with strokes, stopping at the 312th strok
 ![[src_bocconi_semifinale_2012__q15.png]]
 
 **Answer:** 10
-[[Quesiti/src_bocconi_semifinale_2012#q15|src_bocconi_semifinale_2012__Q15]]
 
 
 
@@ -650,7 +635,6 @@ The last issue Milena manages to write with strokes, stopping at the 312th strok
 ![[src_bocconi_semifinale_2012__q16.png]]
 
 **Answer:** 505
-[[Quesiti/src_bocconi_semifinale_2012#q16|src_bocconi_semifinale_2012__Q16]]
 
 
 
@@ -691,4 +675,3 @@ The last issue Milena manages to write with strokes, stopping at the 312th strok
 ![[src_bocconi_semifinale_2012__q17.png]]
 
 **Answer:** 14
-[[Quesiti/src_bocconi_semifinale_2012#q17|src_bocconi_semifinale_2012__Q17]]

@@ -39,7 +39,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 ![[src_bocconi_semifinale_2008__q01.png]]
 
 **Answer:** 10
-[[Quesiti/src_bocconi_semifinale_2008#q01|src_bocconi_semifinale_2008__Q01]]
 
 
 
@@ -68,7 +67,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > Mary must guess a whole number that Luke chose in great secrecy. Here's the information that it collects, out of order, disorderly: The number to be found is smaller than 39; larger than 25; smaller than 29; larger than 23; smaller than 31; larger than 27 and smaller than 35. What's the number that Luca thought of?
 
 **Answer:** 28
-[[Quesiti/src_bocconi_semifinale_2008#q02|src_bocconi_semifinale_2008__Q02]]
 
 
 
@@ -97,7 +95,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > Carla sent her friend Milena a package with a birthday present. For shipping expenses, it only put stamps of $0{,}60$ Euro and $0{,}80$ Euro on the package for a total value of $6{,}60$ Euro. Carla used less than $10$ stamps overall. How many stamps from $0{,}80$ Euro did you use?
 
 **Answer:** 6
-[[Quesiti/src_bocconi_semifinale_2008#q03|src_bocconi_semifinale_2008__Q03]]
 
 
 
@@ -126,7 +123,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > This calculator has only two keys: the $\text{``-1''}$ key (minus 1) and the $\text{``3''}$ key (section 3). When switched on, the number $2008$ appears on the screen. How many times do you have to press the $\text{``-1''}$ and $\text{``3''}$ keys to read the $\text{``1''}$ result on the screen?
 
 **Answer:** 13
-[[Quesiti/src_bocconi_semifinale_2008#q04|src_bocconi_semifinale_2008__Q04]]
 
 
 
@@ -158,8 +154,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 ![[src_bocconi_semifinale_2008__q05.png]]
 
-**Answer:** Sopra 2 7 4 6 1, sotto 5 3
-[[Quesiti/src_bocconi_semifinale_2008#q05|src_bocconi_semifinale_2008__Q05]]
+**Answer:** Top 2 7 4 6 1, bottom 5 3
 
 
 
@@ -192,7 +187,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 ![[src_bocconi_semifinale_2008__q06.png]]
 
 **Answer:** 440
-[[Quesiti/src_bocconi_semifinale_2008#q06|src_bocconi_semifinale_2008__Q06]]
 
 
 
@@ -220,7 +214,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > The base of a rectangle is twice its height. We can divide this rectangle into $200$ equal squares each having an area of $4 \text{ cm}^2$. What is the perimeter of the rectangle?
 
 **Answer:** 120
-[[Quesiti/src_bocconi_semifinale_2008#q07|src_bocconi_semifinale_2008__Q07]]
 
 
 
@@ -249,7 +242,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > The number $55$ has the following properties: if you subtract 1 from it, you get a multiple of 9; if you add 1 to it, you get a multiple of 8. What is the smallest three-digit number that has the same properties?
 
 **Answer:** 127
-[[Quesiti/src_bocconi_semifinale_2008#q08|src_bocconi_semifinale_2008__Q08]]
 
 
 
@@ -278,7 +270,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > Surely you have considered two equal rectangular parallel pipes, each with a total area of $448 \text{ cm}^2$. A rectangular (non-cubic) parallelepiped with a total area of $448 \text{ cm}^2$ can also be obtained. What would be the volume of this cube?
 
 **Answer:** $512 \text{ cm}^3$
-[[Quesiti/src_bocconi_semifinale_2008#q09|src_bocconi_semifinale_2008__Q09]]
 
 
 
@@ -307,7 +298,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > What figures are behind the symbols of this equality? $\heartsuit\heartsuit\heartsuit - \clubsuit\clubsuit + \diamondsuit\heartsuit + \spadesuit\clubsuit = 1234$
 
 **Answer:** $\heartsuit=2;\; \clubsuit=9;\; \diamondsuit=1;\; \spadesuit=0$
-[[Quesiti/src_bocconi_semifinale_2008#q10|src_bocconi_semifinale_2008__Q10]]
 
 
 
@@ -335,8 +325,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > A blacksmith has $5$ separate pieces of chain, each consisting of two rings inserted into each other. It takes a blacksmith a quarter of an hour to open a ring and a quarter of an hour to close it. How long does it take, at least, to form a single-piece chain of $10$ rings (closed)?
 
-**Answer:** 90 minuti
-[[Quesiti/src_bocconi_semifinale_2008#q11|src_bocconi_semifinale_2008__Q11]]
+**Answer:** 90 minutes
 
 
 
@@ -365,7 +354,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > Let's start with a two-digit number. If we put a zero between its two digits, we get a three digit number. Now let's subtract the initial two-digit number from the three-digit number. The result is divisible by a positive number. How many different values can this positive number take (including $\text{``}1\text{''}$)?
 
 **Answer:** 58
-[[Quesiti/src_bocconi_semifinale_2008#q12|src_bocconi_semifinale_2008__Q12]]
 
 
 
@@ -398,7 +386,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 ![[src_bocconi_semifinale_2008__q13.png]]
 
 **Answer:** 84
-[[Quesiti/src_bocconi_semifinale_2008#q13|src_bocconi_semifinale_2008__Q13]]
 
 
 
@@ -427,7 +414,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > In a square sheet, the side of which measures an integer of centimetres greater than or equal to 3, the largest possible number of rectangles of cm $2$ per cm $3$ shall be cut. If one or more pieces remain, what is their total area? Note: the question allows for more than one solution. We have to point them all out.
 
 **Answer:** $1 - 3 - 4 \text{ cm}^2$
-[[Quesiti/src_bocconi_semifinale_2008#q14|src_bocconi_semifinale_2008__Q14]]
 
 
 
@@ -456,7 +442,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > When in a race there are only two horses, there are three possible placements: two in which there is a start and one in which the two horses arrive at equal merit. This is the race is between three horses, there are the following possible placements: six where there is no equality, six where two horses are equal (being the third in front or behind them) and one where the three horses are all equal. When five horses race, how many possible places are there?
 
 **Answer:** 541
-[[Quesiti/src_bocconi_semifinale_2008#q15|src_bocconi_semifinale_2008__Q15]]
 
 
 
@@ -489,4 +474,3 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 ![[src_bocconi_semifinale_2008__q16.png]]
 
 **Answer:** 9
-[[Quesiti/src_bocconi_semifinale_2008#q16|src_bocconi_semifinale_2008__Q16]]

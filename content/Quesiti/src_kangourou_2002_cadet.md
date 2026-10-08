@@ -48,7 +48,6 @@ level: kangourou
 > A. 7 6         B. 55 44         C. 666 555         D. 8888 7777        E. 44444 33333 .
 
 **Answer:** D
-[[Quesiti/src_kangourou_2002_cadet#q01|src_kangourou_2002_cadet__Q01]]
 
 
 
@@ -100,7 +99,6 @@ level: kangourou
 > E. it makes nine turns in a counterclockwise direction.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2002_cadet#q02|src_kangourou_2002_cadet__Q02]]
 
 
 
@@ -150,7 +148,6 @@ level: kangourou
 > 2
 
 **Answer:** D
-[[Quesiti/src_kangourou_2002_cadet#q03|src_kangourou_2002_cadet__Q03]]
 
 
 
@@ -187,7 +184,6 @@ level: kangourou
 > A. 11:08 B. 12:39 C. 13:09            D. 16:32 E. 12:00
 
 **Answer:** C
-[[Quesiti/src_kangourou_2002_cadet#q04|src_kangourou_2002_cadet__Q04]]
 
 
 
@@ -233,7 +229,6 @@ level: kangourou
 > A. 3/5         B. 2/3     C. 5/6        D. 3/4          E. 5/7 .
 
 **Answer:** D
-[[Quesiti/src_kangourou_2002_cadet#q05|src_kangourou_2002_cadet__Q05]]
 
 
 
@@ -271,7 +266,6 @@ level: kangourou
 > D. 10 000 × 100 : 10         E. 0,1 × 0,01 × 10 000 .
 
 **Answer:** D
-[[Quesiti/src_kangourou_2002_cadet#q06|src_kangourou_2002_cadet__Q06]]
 
 
 
@@ -318,7 +312,6 @@ level: kangourou
 > D. 88 days, remaining eggs: 21 E. 88 days, remaining eggs: 22.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2002_cadet#q07|src_kangourou_2002_cadet__Q07]]
 
 
 
@@ -361,7 +354,6 @@ level: kangourou
 > A. 15        B. 14        C. 13        D. 12        E. Another number.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2002_cadet#q08|src_kangourou_2002_cadet__Q08]]
 
 
 
@@ -415,7 +407,6 @@ level: kangourou
 > E. Mauro has a dog
 
 **Answer:** A
-[[Quesiti/src_kangourou_2002_cadet#q09|src_kangourou_2002_cadet__Q09]]
 
 
 
@@ -453,7 +444,6 @@ Maximum number of plums
 > The questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2002_cadet#q10|src_kangourou_2002_cadet__Q10]]
 
 
 
@@ -486,7 +476,6 @@ Maximum number of plums
 > A. 7 : 12       B. 25 : 8       C. 4 : 1      D. 5 : 2       E. It's impossible to answer.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2002_cadet#q11|src_kangourou_2002_cadet__Q11]]
 
 
 
@@ -526,7 +515,6 @@ Maximum number of plums
 > A. 15 B. 40 C. 110 D. 140 E. 150.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2002_cadet#q12|src_kangourou_2002_cadet__Q12]]
 
 
 
@@ -570,7 +558,6 @@ Maximum number of plums
 > E. The data is insufficient to answer.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2002_cadet#q13|src_kangourou_2002_cadet__Q13]]
 
 
 
@@ -630,7 +617,6 @@ Maximum number of plums
 > 4
 
 **Answer:** B
-[[Quesiti/src_kangourou_2002_cadet#q14|src_kangourou_2002_cadet__Q14]]
 
 
 
@@ -669,7 +655,6 @@ Maximum number of plums
 >  C. 239 kg    D. 240 kg      E. 247 kg
 
 **Answer:** C
-[[Quesiti/src_kangourou_2002_cadet#q15|src_kangourou_2002_cadet__Q15]]
 
 
 
@@ -704,7 +689,6 @@ Maximum number of plums
 > A. 50%        B. 57%        C. 25%        D. 60%        E. 40%.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2002_cadet#q16|src_kangourou_2002_cadet__Q16]]
 
 
 
@@ -742,7 +726,6 @@ Maximum number of plums
 > A. The last plate must be between P and Q B. The last plate must be between Q and R C. The last plate must be before P D. The last plate must be after R E. The last plate has the same weight as R.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2002_cadet#q17|src_kangourou_2002_cadet__Q17]]
 
 
 
@@ -795,8 +778,6 @@ Maximum number of plums
 
 **Answer:** D
 
-[[Quesiti/src_kangourou_2002_cadet#q18|src_kangourou_2002_cadet__Q18]]
-
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_combinatoria,method_estremalita,skill_conteggio_sistematico"></span>
@@ -828,7 +809,6 @@ Minimum coins on the 2x9 grid
 > In some of the squares that make up a grid of 2 × 9 there are coins. Each square either contains a coin or has a side in common with a square containing one. The number of coins on the grid shall be at least A. 5           B. 6          C. 7          D. 8          E. 9.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2002_cadet#q19|src_kangourou_2002_cadet__Q19]]
 
 
 
@@ -879,7 +859,6 @@ Minimum coins on the 2x9 grid
 > The questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2002_cadet#q20|src_kangourou_2002_cadet__Q20]]
 
 
 
@@ -912,7 +891,6 @@ Minimum coins on the 2x9 grid
 > A. 3           B. 4           C. 5           D. 6           E. 7.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2002_cadet#q21|src_kangourou_2002_cadet__Q21]]
 
 
 
@@ -965,7 +943,6 @@ Minimum coins on the 2x9 grid
 > A. 20         B. 125          C. 60          D. 30          E. 35
 
 **Answer:** A
-[[Quesiti/src_kangourou_2002_cadet#q22|src_kangourou_2002_cadet__Q22]]
 
 
 
@@ -999,7 +976,6 @@ Minimum coins on the 2x9 grid
 > A. Monday B. Tuesday C. Wednesday D. Thursday E. Saturday.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2002_cadet#q23|src_kangourou_2002_cadet__Q23]]
 
 
 
@@ -1050,7 +1026,6 @@ Minimum coins on the 2x9 grid
 > 6
 
 **Answer:** C
-[[Quesiti/src_kangourou_2002_cadet#q24|src_kangourou_2002_cadet__Q24]]
 
 
 
@@ -1085,7 +1060,6 @@ Minimum coins on the 2x9 grid
 > A. 18        B. 17        C. 16        D. 15        E. 14.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2002_cadet#q25|src_kangourou_2002_cadet__Q25]]
 
 
 
@@ -1132,7 +1106,6 @@ Minimum coins on the 2x9 grid
 > A. 104°      B. 106°30’      C. 108°      D. 112°30’      E. 114°30’.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2002_cadet#q26|src_kangourou_2002_cadet__Q26]]
 
 
 
@@ -1170,7 +1143,6 @@ Minimum coins on the 2x9 grid
 > A. 30 B. 26 C. 40        D. 48         E. 24.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2002_cadet#q27|src_kangourou_2002_cadet__Q27]]
 
 
 
@@ -1206,7 +1178,6 @@ Minimum coins on the 2x9 grid
 > A. 55550         B. 99990 C. 66660        D. 100000 E. 98760.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2002_cadet#q28|src_kangourou_2002_cadet__Q28]]
 
 
 
@@ -1241,7 +1212,6 @@ Minimum coins on the 2x9 grid
 > A. 2S / 3        B. S / 2       C. 2S / 5       D. S / 4      E. S / 5.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2002_cadet#q29|src_kangourou_2002_cadet__Q29]]
 
 
 
@@ -1322,5 +1292,3 @@ Minimum coins on the 2x9 grid
 > after the question number.
 
 **Answer:** A
-
-[[Quesiti/src_kangourou_2002_cadet#q30|src_kangourou_2002_cadet__Q30]]

@@ -47,8 +47,6 @@ level: Concours Général
 > 
 > Determinare i numeri naturali non zero $p$ in modo tale che, per ogni numero naturale non zero $n$, $S_{n,p}$ sia un quadrato perfetto.
 
-[[Quesiti/src_cgen_1991#q01|src_cgen_1991__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_insiemi_funzioni,topic_algebra,method_telescoping,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
@@ -86,8 +84,6 @@ level: Concours Général
 > Indicare che $f_n$ è in aumento e che $\displaystyle\lim_{x \to +\infty} f_n(x) = 0$.
 > 
 > **2.** Determina il limite della sequenza con termine generale $f_n(n)$.
-
-[[Quesiti/src_cgen_1991#q02|src_cgen_1991__Q02]]
 
 
 
@@ -128,8 +124,6 @@ level: Concours Général
 > 
 > Prova che: $$R^2 = OH^2 + 2SI^2,$$ dove $I$ indica un punto che appare nella configurazione. *(Avvertimento: l'ultimo termine $2SI^2$ può comportare un punto $I$ non specificamente nominato nella parte leggibile dell'immagine; potrebbe essere $2SH^2$ o $2\,\Omega I^2$. Vedi avvertenze.)*
 
-[[Quesiti/src_cgen_1991#q03|src_cgen_1991__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_estremalita,method_casework,method_induzione,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -156,8 +150,6 @@ level: Concours Général
 *Sottoinsieme massimo di {1,...,2^p} senza elemento doppio di un altro*
 
 > $p$ sia un dato numero naturale e $n = 2^p$. Si considerano i sottoinsiemi $A$ di $E = \{1, 2, \ldots, n\}$ che possiedono la seguente proprietà: $$\text{if } x \in A, \text{ then } 2x \notin A.$$ Determinare il numero massimo di elementi di tale sottoinsieme $A$.
-
-[[Quesiti/src_cgen_1991#q04|src_cgen_1991__Q04]]
 
 
 
@@ -198,5 +190,3 @@ level: Concours Général
 > **2.** $A_1, A_2, A_3, A_4, A_5$ siano cinque punti del piano. Un pentagono regolare è inserito nel cerchio con il centro $A_1$ e un raggio $R$.
 > 
 > Prova che esiste un vertice $S$ del pentagono tale che: $$SA_1 \cdot SA_2 \cdot SA_3 \cdot SA_4 \cdot SA_5 \ge R^5.$$
-
-[[Quesiti/src_cgen_1991#q05|src_cgen_1991__Q05]]

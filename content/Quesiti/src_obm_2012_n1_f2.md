@@ -33,8 +33,6 @@ level: OBM Nível 1
 
 > Un motociclista viaggia a velocità costante lungo la rotta dell'autobus che collega il terminal A al terminal B, seguendo la linea di autobus regolare che collega i due terminal. Lasciò il terminal A e si diresse verso l'altro, e notò che ogni 3 minuti passava davanti ad una fermata di autobus. Le ci sono voluti 45 minuti per raggiungere il terminal B. Lei sa che la distanza tra il terminal e la fermata più vicina, e tra due fermate consecutive, è di 2 km. Qual è la distanza tra i due terminali?
 
-[[Quesiti/src_obm_2012_n1_f2#q01|src_obm_2012_n1_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
@@ -61,8 +59,6 @@ level: OBM Nível 1
 
 > In aggiunta a tre numeri a 4 cifre di seguito, lettere diverse rappresentano cifre diverse. Qual è il numero $\overline{ZYX}$? $$\begin{array}{r} XXXX \\ +\; YYYY \\ \hline ZZZZ \\ \hline YXXZ \end{array}$$
 
-[[Quesiti/src_obm_2012_n1_f2#q02|src_obm_2012_n1_f2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -86,8 +82,6 @@ level: OBM Nível 1
 *Area di triangolo equilaterale con lo stesso perimetro dell'esagono regolare di area 240*
 
 > Un triangolo equilaterale ha lo stesso perimetro di un esagono regolare la cui superficie è $240 \text{ cm}^2$. Qual è l'area del triangolo, in $\text{cm}^2$?
-
-[[Quesiti/src_obm_2012_n1_f2#q03|src_obm_2012_n1_f2__Q03]]
 
 
 
@@ -113,8 +107,6 @@ level: OBM Nível 1
 *Numero minimo di quadrati per la taglia di un rettangolo 24x13*
 
 > Jade vuole tagliare un foglio rettangolare di carta di $24 \text{ cm}$ di $13 \text{ cm}$ in quadrati più piccoli, non necessariamente della stessa dimensione. Qual è il numero minimo di quadrati che otterrà?
-
-[[Quesiti/src_obm_2012_n1_f2#q04|src_obm_2012_n1_f2__Q04]]
 
 
 
@@ -143,8 +135,6 @@ level: OBM Nível 1
 
 > Utilizzando solo le parentesi quante siano necessarie, ma utilizzando solo le addizioni e le sottrazioni già indicate, possiamo rendere l'espressione $$1 - 2 + 3 - 4 + 5 - 6 + 7 - 8 + 9 - 10$$ il numero più grande possibile. Che numero è questo?
 
-[[Quesiti/src_obm_2012_n1_f2#q05|src_obm_2012_n1_f2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -168,8 +158,6 @@ level: OBM Nível 1
 *Contare le ragazze alla scuola di Esmeralda dopo un aumento dell'iscrizione del 10%/20%*
 
 > Nella scuola di Esmeralda, quest'anno il numero di ragazzi è aumentato di $10\%$ e il numero di ragazze è aumentato di $20\%$ rispetto all'anno scorso. Attualmente ci sono studenti $230$, esattamente $30$ in più rispetto all'anno scorso. Quante ragazze ci sono a scuola?
-
-[[Quesiti/src_obm_2012_n1_f2#q06|src_obm_2012_n1_f2__Q06]]
 
 
 
@@ -224,8 +212,6 @@ level: OBM Nível 1
 > 
 > $$\text{Ana's score:} \quad \text{Beto's score:} \quad \text{Carlos's score:}$$
 
-[[Quesiti/src_obm_2012_n1_f2#q07|src_obm_2012_n1_f2__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_ricorsione,method_induzione,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_modellizzazione"></span>
@@ -263,8 +249,6 @@ level: OBM Nível 1
 
 ![[src_obm_2012_n1_f2__q08.png]]
 
-[[Quesiti/src_obm_2012_n1_f2#q08|src_obm_2012_n1_f2__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_combinatoria,method_ricorsione,method_casework,method_conteggio,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -301,5 +285,3 @@ level: OBM Nível 1
 > b) Qual è il numero a tre cifre più grande che Diamantino può trasformare in $1$?
 > 
 > c) Diamantino ha scritto tutti i numeri inferiori a $2012$, con due o più cifre, che possono essere trasformati in $9$. Quanti numeri ha scritto?
-
-[[Quesiti/src_obm_2012_n1_f2#q09|src_obm_2012_n1_f2__Q09]]

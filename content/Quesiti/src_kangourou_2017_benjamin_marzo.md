@@ -53,7 +53,6 @@ level: kangourou
 > E)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2017_benjamin_marzo#q01|src_kangourou_2017_benjamin_marzo__Q01]]
 
 
 
@@ -87,7 +86,6 @@ level: kangourou
 > A fly has six legs, a spider has eight. All together, three flies and two spiders have as many legs as nine canaries and... A) Two cats B) Three cats C) Four cats D) Five cats E) Six cats
 
 **Answer:** C
-[[Quesiti/src_kangourou_2017_benjamin_marzo#q02|src_kangourou_2017_benjamin_marzo__Q02]]
 
 
 
@@ -132,7 +130,6 @@ level: kangourou
 > E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2017_benjamin_marzo#q03|src_kangourou_2017_benjamin_marzo__Q03]]
 
 
 
@@ -170,7 +167,6 @@ level: kangourou
 > E) 3702963
 
 **Answer:** E
-[[Quesiti/src_kangourou_2017_benjamin_marzo#q04|src_kangourou_2017_benjamin_marzo__Q04]]
 
 
 
@@ -223,7 +219,6 @@ level: kangourou
 > E) 5
 
 **Answer:** B
-[[Quesiti/src_kangourou_2017_benjamin_marzo#q05|src_kangourou_2017_benjamin_marzo__Q05]]
 
 
 
@@ -270,7 +265,6 @@ level: kangourou
 > E) 10
 
 **Answer:** A
-[[Quesiti/src_kangourou_2017_benjamin_marzo#q06|src_kangourou_2017_benjamin_marzo__Q06]]
 
 
 
@@ -318,7 +312,6 @@ level: kangourou
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2017_benjamin_marzo#q07|src_kangourou_2017_benjamin_marzo__Q07]]
 
 
 
@@ -364,7 +357,6 @@ level: kangourou
 > D) E)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2017_benjamin_marzo#q08|src_kangourou_2017_benjamin_marzo__Q08]]
 
 
 
@@ -411,7 +403,6 @@ How many more questions has Nino solved than Piero
 > E) 9
 
 **Answer:** B
-[[Quesiti/src_kangourou_2017_benjamin_marzo#q09|src_kangourou_2017_benjamin_marzo__Q09]]
 
 
 
@@ -463,7 +454,6 @@ How Beppe had folded the sheet given the hole
 > E) Questions from N. 11 to N. 20 is worth 4 points each.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2017_benjamin_marzo#q10|src_kangourou_2017_benjamin_marzo__Q10]]
 
 
 
@@ -510,7 +500,6 @@ How Beppe had folded the sheet given the hole
 > E) 15
 
 **Answer:** E
-[[Quesiti/src_kangourou_2017_benjamin_marzo#q11|src_kangourou_2017_benjamin_marzo__Q11]]
 
 
 
@@ -572,7 +561,6 @@ How Beppe had folded the sheet given the hole
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2017_benjamin_marzo#q12|src_kangourou_2017_benjamin_marzo__Q12]]
 
 
 
@@ -624,7 +612,6 @@ How Beppe had folded the sheet given the hole
 > E) 120
 
 **Answer:** D
-[[Quesiti/src_kangourou_2017_benjamin_marzo#q13|src_kangourou_2017_benjamin_marzo__Q13]]
 
 
 
@@ -664,7 +651,6 @@ How Beppe had folded the sheet given the hole
 > Milena made the construction you see next to it by gluing 1 dm side cubes and now wants to put it in a box with rectangular faces. Which of the following are the dimensions of the smallest box you can use? A) 3 × 4 × 4 B) 3 × 5 × 5 C) 3 × 4 × 5 D) 4 × 4 × 4 E) 4 × 4 × 5
 
 **Answer:** C
-[[Quesiti/src_kangourou_2017_benjamin_marzo#q14|src_kangourou_2017_benjamin_marzo__Q14]]
 
 
 
@@ -701,7 +687,6 @@ How Beppe had folded the sheet given the hole
 > Tom writes all the numbers from 1 to 20 on the same line and gets the 31-digit number: 1234567891011121314151617181920. Then he deletes 24 of the 31 digits so that the number that remains written (leaving the digits in the order in which they are) is as large as possible. What number is this? A) 9671819 B) 9567892 C) 9781920 D) 9912345 E) 9818192
 
 **Answer:** C
-[[Quesiti/src_kangourou_2017_benjamin_marzo#q15|src_kangourou_2017_benjamin_marzo__Q15]]
 
 
 
@@ -753,7 +738,6 @@ How Beppe had folded the sheet given the hole
 > E) 824
 
 **Answer:** C
-[[Quesiti/src_kangourou_2017_benjamin_marzo#q16|src_kangourou_2017_benjamin_marzo__Q16]]
 
 
 
@@ -837,7 +821,6 @@ How Beppe had folded the sheet given the hole
 >
 
 **Answer:** E
-[[Quesiti/src_kangourou_2017_benjamin_marzo#q17|src_kangourou_2017_benjamin_marzo__Q17]]
 
 
 
@@ -877,7 +860,6 @@ How Beppe had folded the sheet given the hole
 > The letters in the figure represent integers greater than or equal to zero. Adding the numbers represented in each row and in each column gives the results shown in the figure. Which of the following is true? A) b is equal to c. B) a is less than d. C) a is greater than d. D) c is greater than b. E) None of the above.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2017_benjamin_marzo#q18|src_kangourou_2017_benjamin_marzo__Q18]]
 
 
 
@@ -915,7 +897,6 @@ How Beppe had folded the sheet given the hole
 > Adriano has a sum of money and 3 magic sticks: • the A stick adds 1 euro to the sum; • the T stick takes 1 euro from the sum; • the R stick doubles the sum. You have to use them all, one at a time. In what order should you use them to get as much money as possible? A) R, A, T B) A, T, R C) R, T, A D) A, R, T E) T, A, R
 
 **Answer:** D
-[[Quesiti/src_kangourou_2017_benjamin_marzo#q19|src_kangourou_2017_benjamin_marzo__Q19]]
 
 
 
@@ -1021,7 +1002,6 @@ How Beppe had folded the sheet given the hole
 > E) 48 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2017_benjamin_marzo#q20|src_kangourou_2017_benjamin_marzo__Q20]]
 
 
 
@@ -1067,7 +1047,6 @@ How Beppe had folded the sheet given the hole
 >               E)
 
 **Answer:** A
-[[Quesiti/src_kangourou_2017_benjamin_marzo#q21|src_kangourou_2017_benjamin_marzo__Q21]]
 
 
 
@@ -1153,7 +1132,6 @@ How Beppe had folded the sheet given the hole
 >
 
 **Answer:** D
-[[Quesiti/src_kangourou_2017_benjamin_marzo#q22|src_kangourou_2017_benjamin_marzo__Q22]]
 
 
 
@@ -1197,7 +1175,6 @@ How Beppe had folded the sheet given the hole
 > In the first left triangle a kangaroo was drawn. The kangaroo in the second triangle is the first's symmetry to the common side of the first and second triangles. The kangaroo in the third triangle is symmetrical to the second relative to the side common to the second and third triangles. If the same is done, which of the following is the image shown in the grey triangle? A) B) C) D) E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2017_benjamin_marzo#q23|src_kangourou_2017_benjamin_marzo__Q23]]
 
 
 
@@ -1244,7 +1221,6 @@ How Beppe had folded the sheet given the hole
 > E) 5
 
 **Answer:** C
-[[Quesiti/src_kangourou_2017_benjamin_marzo#q24|src_kangourou_2017_benjamin_marzo__Q24]]
 
 
 
@@ -1297,7 +1273,6 @@ Exchange moves of kangaroos looking at each other
 > E) 16
 
 **Answer:** D
-[[Quesiti/src_kangourou_2017_benjamin_marzo#q25|src_kangourou_2017_benjamin_marzo__Q25]]
 
 
 
@@ -1345,7 +1320,6 @@ Exchange moves of kangaroos looking at each other
 > E) 7
 
 **Answer:** C
-[[Quesiti/src_kangourou_2017_benjamin_marzo#q26|src_kangourou_2017_benjamin_marzo__Q26]]
 
 
 
@@ -1389,7 +1363,6 @@ Exchange moves of kangaroos looking at each other
 >
 
 **Answer:** A
-[[Quesiti/src_kangourou_2017_benjamin_marzo#q27|src_kangourou_2017_benjamin_marzo__Q27]]
 
 
 
@@ -1440,7 +1413,6 @@ Exchange moves of kangaroos looking at each other
 >       E) Clelia, Alice, Bianca
 
 **Answer:** D
-[[Quesiti/src_kangourou_2017_benjamin_marzo#q28|src_kangourou_2017_benjamin_marzo__Q28]]
 
 
 
@@ -1533,7 +1505,6 @@ Exchange moves of kangaroos looking at each other
 > E) 8
 
 **Answer:** D
-[[Quesiti/src_kangourou_2017_benjamin_marzo#q29|src_kangourou_2017_benjamin_marzo__Q29]]
 
 
 
@@ -1589,4 +1560,3 @@ Exchange moves of kangaroos looking at each other
 >
 
 **Answer:** E
-[[Quesiti/src_kangourou_2017_benjamin_marzo#q30|src_kangourou_2017_benjamin_marzo__Q30]]

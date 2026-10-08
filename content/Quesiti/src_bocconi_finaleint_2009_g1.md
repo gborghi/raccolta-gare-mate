@@ -44,7 +44,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 ![[src_bocconi_finaleint_2009_g1__q01.png]]
 
 **Answer:** 6
-[[Quesiti/src_bocconi_finaleint_2009_g1#q01|src_bocconi_finaleint_2009_g1__Q01]]
 
 
 
@@ -74,7 +73,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > Mathias had more than 20 but less than 30. He gives a number to Mathilde and says, "I'll add three times the number of balls I just gave you and half the number of balls I have left. The result is exactly the same as the number of balls I had before I gave it to him. How many balls did Mathias have before I gave it to him?
 
 **Answer:** 25
-[[Quesiti/src_bocconi_finaleint_2009_g1#q02|src_bocconi_finaleint_2009_g1__Q02]]
 
 
 
@@ -104,7 +102,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 3 - MATHILDE's ETA (coefficient 3) Mathilde is 11 years old today, her younger brother is 7 and her mother 37. Mathilde writes her age: 11. Add the digits to this number, then multiply the result by 7 and write the result of the multiplication: 14. Then it starts again from the last number written: add the digits of this number, then multiply the result by 7 and write the result of the multiplication: 35. The first three numbers written are 11, 14, and 35. What number would Mathilde write?
 
 **Answer:** 119
-[[Quesiti/src_bocconi_finaleint_2009_g1#q03|src_bocconi_finaleint_2009_g1__Q03]]
 
 
 
@@ -134,7 +131,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 4 - SEARCH THE SQUARE (coefficient 4) Two rectangles of size $5\text{ cm} \times 6\text{ cm}$ and $3\text{ cm} \times 4\text{ cm}$ are arranged within a square, without overlapping. What is the minimum size of the side of the square?
 
 **Answer:** 8 cm
-[[Quesiti/src_bocconi_finaleint_2009_g1#q04|src_bocconi_finaleint_2009_g1__Q04]]
 
 
 
@@ -167,7 +163,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 5 - AUTHORREFERENCE (coefficient 5) Complete the sentence in the box with the help of digits to make it true: $$1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 - 12 - 13 - 14 - 15 - 16 - 17 - 18$$ In this box, the number of digits \ldots\ and 3 times the number of digits \ldots
 
 **Answer:** 1 e 3
-[[Quesiti/src_bocconi_finaleint_2009_g1#q05|src_bocconi_finaleint_2009_g1__Q05]]
 
 
 
@@ -200,8 +195,7 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 
 ![[src_bocconi_finaleint_2009_g1__q06.png]]
 
-**Answer:** 2 soluzioni (es. con 3 in alto: 5 e 6 in alto ai lati, 7 e 9 in basso); le cinque somme sono cinque numeri consecutivi
-[[Quesiti/src_bocconi_finaleint_2009_g1#q06|src_bocconi_finaleint_2009_g1__Q06]]
+**Answer:** 2 solutions (e.g. with 3 at the top: 5 and 6 at the top on the sides, 7 and 9 at the bottom); the five sums are five consecutive numbers
 
 
 
@@ -231,7 +225,6 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 > 7 - CON 4 E 6 (coefficient 7) What is the smallest number that is written solely with 4 and 6 digits (at least one of each), and such that divisions of this number by 4 and 6 give both integers?
 
 **Answer:** 4464
-[[Quesiti/src_bocconi_finaleint_2009_g1#q07|src_bocconi_finaleint_2009_g1__Q07]]
 
 
 
@@ -264,8 +257,7 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 
 ![[src_bocconi_finaleint_2009_g1__q08.png]]
 
-**Answer:** configurazione mostrata in figura (numero massimo di pioni)
-[[Quesiti/src_bocconi_finaleint_2009_g1#q08|src_bocconi_finaleint_2009_g1__Q08]]
+**Answer:** configuration shown in the figure (maximum number of pawns)
 
 
 
@@ -295,7 +287,6 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 > 9 - The DADI Cube (coefficient 9) A cube $3 \times 3 \times 3$ is formed by assembling 27 identical dice. The faces of a dice carry all the digits from 1 to 6, and the sum of the points on two opposite faces is always 7. What is the minimum sum of all points visible on the surface of the cube?
 
 **Answer:** 90
-[[Quesiti/src_bocconi_finaleint_2009_g1#q09|src_bocconi_finaleint_2009_g1__Q09]]
 
 
 
@@ -325,7 +316,6 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 > 10 - The BICKING GAME (coefficient 10) There are nine glasses on a table. One and drunk, eight are down. One move consists of turning seven glasses (any glass can be turned backwards or backwards). At least, how many moves do you have to play to get all the glasses drunk?
 
 **Answer:** 4
-[[Quesiti/src_bocconi_finaleint_2009_g1#q10|src_bocconi_finaleint_2009_g1__Q10]]
 
 
 
@@ -359,7 +349,6 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 ![[src_bocconi_finaleint_2009_g1__q11.png]]
 
 **Answer:** 31 cm
-[[Quesiti/src_bocconi_finaleint_2009_g1#q11|src_bocconi_finaleint_2009_g1__Q11]]
 
 
 
@@ -389,7 +378,6 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 > 12 - The dog (coefficient 12) The base of Julien's dog's dog and a regular hexagon whose side measures 1 meter. The cat is closed and the dog is tied to the outside of the cat to a figure top with a 3-meter long rope. What, in square metres, is the area of the region that the dog can reach outside its litter? The exact answer is given using $\pi$ if necessary.
 
 **Answer:** $3\pi$ m$^2$
-[[Quesiti/src_bocconi_finaleint_2009_g1#q12|src_bocconi_finaleint_2009_g1__Q12]]
 
 
 
@@ -419,7 +407,6 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 > 13 - DOUBLE COVER (coefficient 13) By placing a square of 4 cm on a triangle, up to two thirds of the triangle surface can be covered. By placing the triangle on the square, you can cover up to three quarters of the square's surface. What is the area of the triangle, in cm$^2$?
 
 **Answer:** 18 cm$^2$
-[[Quesiti/src_bocconi_finaleint_2009_g1#q13|src_bocconi_finaleint_2009_g1__Q13]]
 
 
 
@@ -448,8 +435,7 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 
 > 14 - Simplified fractions (coefficient 14) Mathias has just invented a new method for simplifying fractions. To simplify the $\frac{49}{98}$ fraction, you simply delete the figure that appears on the numerator and denominator, i.e. 9: you get $\frac{4}{8}$, which is exactly equal to $\frac{49}{98}$. What other fractions of the form $\frac{a}{b}$ (where $a$ and $b$ are two-digit numbers, with a numerical value of nothing in common, and $a < b$) can Mathias correctly simplify with his method?
 
-**Answer:** $\frac{16}{64}$, $\frac{19}{95}$, $\frac{26}{65}$ (3 soluzioni)
-[[Quesiti/src_bocconi_finaleint_2009_g1#q14|src_bocconi_finaleint_2009_g1__Q14]]
+**Answer:** $\frac{16}{64}$, $\frac{19}{95}$, $\frac{26}{65}$ (3 solutions)
 
 
 
@@ -479,7 +465,6 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 > 15 - CUBI (coefficient 15) Mathias has a large number of identical white cubes. On each face of each of them draw a diagonal. How many different cubes do you get?
 
 **Answer:** 8
-[[Quesiti/src_bocconi_finaleint_2009_g1#q15|src_bocconi_finaleint_2009_g1__Q15]]
 
 
 
@@ -509,7 +494,6 @@ The probability that an ant, after 7 random movements on the tips of a cube, has
 > 16 - The shape in the cube (coefficient 16) An ant starts from a vertex of a cube. Each shift consists of moving from one vertex to another along a cube's axis. At each vertex, for the next move, the ant chooses one of three possible spikes at random. The subsequent choices are independent of each other. Immediately after the seventh shift, what is the probability that the ant has passed through the eight vertices of the cube (counting the start)? It will respond in the form of an irreducible fraction.
 
 **Answer:** $\frac{2}{243}$
-[[Quesiti/src_bocconi_finaleint_2009_g1#q16|src_bocconi_finaleint_2009_g1__Q16]]
 
 
 
@@ -543,7 +527,6 @@ The probability that an ant, after 7 random movements on the tips of a cube, has
 ![[src_bocconi_finaleint_2009_g1__q17.png]]
 
 **Answer:** $\frac{39}{20}$
-[[Quesiti/src_bocconi_finaleint_2009_g1#q17|src_bocconi_finaleint_2009_g1__Q17]]
 
 
 
@@ -576,5 +559,4 @@ The probability that an ant, after 7 random movements on the tips of a cube, has
 
 ![[src_bocconi_finaleint_2009_g1__q18.png]]
 
-**Answer:** 2 soluzioni
-[[Quesiti/src_bocconi_finaleint_2009_g1#q18|src_bocconi_finaleint_2009_g1__Q18]]
+**Answer:** 2 solutions

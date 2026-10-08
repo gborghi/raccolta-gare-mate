@@ -48,7 +48,6 @@ level: 2 livello
 > - **(E)** 42.
 
 **Answer:** D
-[[Quesiti/src_archimede_2009_2livello#q01|src_archimede_2009_2livello__Q01]]
 
 
 
@@ -90,7 +89,6 @@ level: 2 livello
 > - **(E)** 32 √ 3π.
 
 **Answer:** B
-[[Quesiti/src_archimede_2009_2livello#q02|src_archimede_2009_2livello__Q02]]
 
 
 
@@ -134,7 +132,6 @@ level: 2 livello
 > - **(E)** 200.
 
 **Answer:** A
-[[Quesiti/src_archimede_2009_2livello#q03|src_archimede_2009_2livello__Q03]]
 
 
 
@@ -182,7 +179,6 @@ How many sincere people between Luke, Mary, Nicholas, Paola
 > - **(E)** I mean, everybody.
 
 **Answer:** C
-[[Quesiti/src_archimede_2009_2livello#q04|src_archimede_2009_2livello__Q04]]
 
 
 
@@ -238,7 +234,6 @@ How many sincere people between Luke, Mary, Nicholas, Paola
 > - **(E)** 3 −2 √ 2. b c b c b c b c A B C D L M N O γ
 
 **Answer:** E
-[[Quesiti/src_archimede_2009_2livello#q05|src_archimede_2009_2livello__Q05]]
 
 
 
@@ -281,7 +276,6 @@ How many sincere people between Luke, Mary, Nicholas, Paola
 > - **(E)** None of the above claims can be deduced.
 
 **Answer:** B
-[[Quesiti/src_archimede_2009_2livello#q06|src_archimede_2009_2livello__Q06]]
 
 
 
@@ -324,7 +318,6 @@ How many sincere people between Luke, Mary, Nicholas, Paola
 > - **(E)** 100.
 
 **Answer:** C
-[[Quesiti/src_archimede_2009_2livello#q07|src_archimede_2009_2livello__Q07]]
 
 
 
@@ -376,7 +369,6 @@ How many sincere people between Luke, Mary, Nicholas, Paola
 > - **(E)** 2 √ 2.
 
 **Answer:** D
-[[Quesiti/src_archimede_2009_2livello#q08|src_archimede_2009_2livello__Q08]]
 
 
 
@@ -418,7 +410,6 @@ How many sincere people between Luke, Mary, Nicholas, Paola
 > - **(E)** infinite.
 
 **Answer:** C
-[[Quesiti/src_archimede_2009_2livello#q09|src_archimede_2009_2livello__Q09]]
 
 
 
@@ -461,7 +452,6 @@ How many sincere people between Luke, Mary, Nicholas, Paola
 > - **(E)** 1 − 2 3 10 .
 
 **Answer:** A
-[[Quesiti/src_archimede_2009_2livello#q10|src_archimede_2009_2livello__Q10]]
 
 
 
@@ -509,7 +499,6 @@ How many sincere people between Luke, Mary, Nicholas, Paola
 > - **(E)** 1339.
 
 **Answer:** D
-[[Quesiti/src_archimede_2009_2livello#q11|src_archimede_2009_2livello__Q11]]
 
 
 
@@ -552,7 +541,6 @@ Maximum number of integers of x^16 + x*
 > - **(E)** 5. Problems with numerical answer  5 points
 
 **Answer:** E
-[[Quesiti/src_archimede_2009_2livello#q12|src_archimede_2009_2livello__Q12]]
 
 
 
@@ -583,7 +571,6 @@ Maximum k with k squared dividing n!/(n-6)! for each n>6*
 > Determine the maximum positive integer k such that k2 divides n! (n −6)! for each n > 6.
 
 **Answer:** 12
-[[Quesiti/src_archimede_2009_2livello#q13|src_archimede_2009_2livello__Q13]]
 
 
 
@@ -614,7 +601,6 @@ Maximum k with k squared dividing n!/(n-6)! for each n>6*
 > Whether x is the smallest of the two solutions to the equation x2 −4x + 2 = 0. What are the first three digits after the comma in the writing (based 10) of the number x + x2 + x3 + · · + x2009?
 
 **Answer:** 414
-[[Quesiti/src_archimede_2009_2livello#q14|src_archimede_2009_2livello__Q14]]
 
 
 
@@ -645,8 +631,7 @@ Maximum k with k squared dividing n!/(n-6)! for each n>6*
 
 > DEMOSTRATIVE EXERCISE a) What is the minimum positive integer c such that there exists at least one pair (a, b) of distinct positive integers such that 2c2 = a2 + b2? (b) Demonstrate that there are infinitely many (a, b, c) distinct positive integers such that 2c2 = a2 + b2.
 
-**Answer:** c=5 (terne (7,1,5))
-[[Quesiti/src_archimede_2009_2livello#q15|src_archimede_2009_2livello__Q15]]
+**Answer:** c=5 (triple (7,1,5))
 
 
 
@@ -739,8 +724,7 @@ Maximum k with k squared dividing n!/(n-6)! for each n>6*
 
 > DEMOSTRATIVE EXERCISE A triangle ABC, rectangle A and with AC cathetus major is given; either M is the mean point of BC, N is the symmetrical point of A with respect to BC, or the intersection between the perpendicular to MN passing through N and the straight containing BC. (a) Demonstrate that the OMN angle is twice the ACB angle. (b) Demonstrate that the ratio of the MNO to ABC areas is one quarter of the ratio of the BC to HM lengths, where H is the foot of the height relative to the ABC hypotenuse.
 
-**Answer:** dimostrazione
-[[Quesiti/src_archimede_2009_2livello#q16|src_archimede_2009_2livello__Q16]]
+**Answer:** proof
 
 
 
@@ -773,4 +757,3 @@ Maximum k with k squared dividing n!/(n-6)! for each n>6*
 > Demonstratory Exercise Determine all positive integers m for which both 2 · 5m + 10 3m + 1 and 9m + 1m + 5 are integers.
 
 **Answer:** m=1
-[[Quesiti/src_archimede_2009_2livello#q17|src_archimede_2009_2livello__Q17]]

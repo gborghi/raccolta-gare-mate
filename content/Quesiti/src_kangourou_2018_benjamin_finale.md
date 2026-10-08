@@ -36,7 +36,6 @@ level: kangourou
 > Call $S$ the result of the addition $$2015 + 2016 + 2017 + 2018 + 2019 + 2020 + 2021.$$ What do you think is the fastest way to calculate the $S : 2018$ quotient and what is the result?
 
 **Answer:** 7
-[[Quesiti/src_kangourou_2018_benjamin_finale#qb1|src_kangourou_2018_benjamin_finale__QB1]]
 
 
 
@@ -64,7 +63,6 @@ level: kangourou
 > Eugenio works as a warehouse keeper. He knows that tomorrow some growers will each bring him the same number of crates of apples and that he will have to distribute the crates among 4 vans, so that all the vans travel with the same number of crates. The number of growers equals the number of crates that each grower will bring him. Eugenio knows that if, after he has distributed as many crates as possible among the 4 vans, some crates remain, he can keep them for himself. How many crates could he at most happen to keep for himself?
 
 **Answer:** 1
-[[Quesiti/src_kangourou_2018_benjamin_finale#qb2|src_kangourou_2018_benjamin_finale__QB2]]
 
 
 
@@ -96,7 +94,6 @@ level: kangourou
 > A gear consists of three toothed wheels $A$, $B$ and $C$. $A$ has 16 teeth, $B$ has 20 and $C$ has 30. As the figure suggests, $B$ is in contact with both $A$ and $C$ (i.e. the $B$ teeth engage both those of $A$ and those of $C$), but $A$ is not in contact with $C$. Every wheel has a mark. At this moment the gear is set in motion: how many turns does the $B$ wheel have to make before all three marks return to their current position simultaneously for the first time? (see figure)
 
 **Answer:** 12
-[[Quesiti/src_kangourou_2018_benjamin_finale#qb3|src_kangourou_2018_benjamin_finale__QB3]]
 
 
 
@@ -125,7 +122,6 @@ level: kangourou
 > How many lines pass through two of the vertices of a cube, but do not contain any edge of the cube?
 
 **Answer:** 16
-[[Quesiti/src_kangourou_2018_benjamin_finale#qb4|src_kangourou_2018_benjamin_finale__QB4]]
 
 
 
@@ -154,7 +150,6 @@ level: kangourou
 > There's exactly a million cars in Kanglandia. Their plates, all different from each other, have six digits: the numbers are therefore between $000000$ and $999999$. For each car the plate numbers are added and the cars are divided into groups so that all the cars in the same group provide the same sum and different groups are related to different sums. How many cars do the six smallest groups have in total?
 
 **Answer:** 56
-[[Quesiti/src_kangourou_2018_benjamin_finale#qb5|src_kangourou_2018_benjamin_finale__QB5]]
 
 
 
@@ -182,4 +177,3 @@ level: kangourou
 > Antonia and Luca play heads or tails for the sum of 8 euros, tossing a fair coin. They decide that the sum will be pocketed by the first of them who has had 6 tosses in their favor. When they are at the score of 5 for Antonia and 3 for Luca, they are however forced to interrupt the game and discuss how to divide the 8 euros (which neither has so far won). What is the fair way to divide them (that is, the way that takes into account the probability of victory that each of the two has at the moment of the interruption)?
 
 **Answer:** 7 e 1
-[[Quesiti/src_kangourou_2018_benjamin_finale#qb6|src_kangourou_2018_benjamin_finale__QB6]]

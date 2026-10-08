@@ -37,8 +37,6 @@ level: BMO Round 1
 > 
 > Decidere se queste informazioni sono sufficienti per determinare l'età in modo unico e trovare tutte le possibilità per la loro età.
 
-[[Quesiti/src_bmo1_1999#q01|src_bmo1_1999__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -66,8 +64,6 @@ level: BMO Round 1
 
 > Un cerchio ha un diametro $AB$ e $X$ è un punto fisso di $AB$ situato tra $A$ e $B$. Un punto $P$, distinto da $A$ e $B$, si trova sulla circonferenza del cerchio. Prove che $$\frac{\tan \angle APX}{\tan \angle PAX}$$ rimane costante mentre $P$ si muove intorno al cerchio.
 
-[[Quesiti/src_bmo1_1999#q02|src_bmo1_1999__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -94,8 +90,6 @@ level: BMO Round 1
 *Trovare costante positiva c così l'equazione ha esattamente tre soluzioni a numeri interi positivi*
 
 > Determinare una costante positiva $c$ tale che l'equazione $$xy^2 - y^2 - x + y = c$$ abbia precisamente tre soluzioni $(x, y)$ in numeri interi positivi.
-
-[[Quesiti/src_bmo1_1999#q03|src_bmo1_1999__Q03]]
 
 
 
@@ -130,8 +124,6 @@ level: BMO Round 1
 > 
 > Indicare che esiste un intero positivo $N$ tale che $u_n = u_N$ per tutti $n \ge N$, e determinare tutti i valori possibili che $u_N$ può assumere. È sempre così che $u_N = 1$ o $u_N = 17$?
 
-[[Quesiti/src_bmo1_1999#q04|src_bmo1_1999__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_insiemi_funzioni,topic_combinatoria,method_induzione,method_invarianti,method_bigezione,skill_astrazione,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
@@ -162,5 +154,3 @@ level: BMO Round 1
 > Considera tutte le funzioni $f$ dai numeri interi positivi ai numeri interi positivi in modo che (i) per ogni intero positivo $m$, ci sia un intero positivo unico $n$ in modo che $f(n) = m$; (ii) per ogni intero positivo $n$, $f(f(n)) = p$ per qualche intero positivo $p$.
 > 
 > Indicare che esiste un intero positivo $n$ tale che $f(n) = p$.
-
-[[Quesiti/src_bmo1_1999#q05|src_bmo1_1999__Q05]]

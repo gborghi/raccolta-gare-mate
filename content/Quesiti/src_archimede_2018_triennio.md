@@ -46,7 +46,6 @@ level: triennio
 > - **(E)** 2025 2018
 
 **Answer:** B
-[[Quesiti/src_archimede_2018_triennio#q01|src_archimede_2018_triennio__Q01]]
 
 
 
@@ -88,7 +87,6 @@ level: triennio
 > - **(E)** 592
 
 **Answer:** D
-[[Quesiti/src_archimede_2018_triennio#q03|src_archimede_2018_triennio__Q03]]
 
 
 
@@ -129,7 +127,6 @@ level: triennio
 > - **(E)** 549
 
 **Answer:** E
-[[Quesiti/src_archimede_2018_triennio#q04|src_archimede_2018_triennio__Q04]]
 
 
 
@@ -175,7 +172,6 @@ level: triennio
 > - **(E)** 75
 
 **Answer:** E
-[[Quesiti/src_archimede_2018_triennio#q05|src_archimede_2018_triennio__Q05]]
 
 
 
@@ -225,7 +221,6 @@ level: triennio
 > - **(E)** 150 A1 A2 A3 A4 A5 A6 A7 A8 A9 A10 A11
 
 **Answer:** C
-[[Quesiti/src_archimede_2018_triennio#q06|src_archimede_2018_triennio__Q06]]
 
 
 
@@ -271,7 +266,6 @@ level: triennio
 > - **(E)** More than 40
 
 **Answer:** D
-[[Quesiti/src_archimede_2018_triennio#q07|src_archimede_2018_triennio__Q07]]
 
 
 
@@ -313,7 +307,6 @@ This is the sum of the amounts of the following items: *
 > - **(E)** 43
 
 **Answer:** A
-[[Quesiti/src_archimede_2018_triennio#q08|src_archimede_2018_triennio__Q08]]
 
 
 
@@ -360,7 +353,6 @@ This is the sum of the amounts of the following items: *
 > - **(E)** 64/25
 
 **Answer:** B
-[[Quesiti/src_archimede_2018_triennio#q09|src_archimede_2018_triennio__Q09]]
 
 
 
@@ -403,7 +395,6 @@ This is the sum of the amounts of the following items: *
 > - **(E)** 348
 
 **Answer:** A
-[[Quesiti/src_archimede_2018_triennio#q10|src_archimede_2018_triennio__Q10]]
 
 
 
@@ -450,7 +441,6 @@ This is the sum of the amounts of the following items: *
 > - **(E)** 21
 
 **Answer:** C
-[[Quesiti/src_archimede_2018_triennio#q11|src_archimede_2018_triennio__Q11]]
 
 
 
@@ -491,7 +481,6 @@ This is the sum of the amounts of the following items: *
 > - **(E)** 1001
 
 **Answer:** D
-[[Quesiti/src_archimede_2018_triennio#q12|src_archimede_2018_triennio__Q12]]
 
 
 
@@ -536,7 +525,6 @@ This is the sum of the amounts of the following items: *
 > - **(E)** r ≥81
 
 **Answer:** D
-[[Quesiti/src_archimede_2018_triennio#q13|src_archimede_2018_triennio__Q13]]
 
 
 
@@ -578,7 +566,6 @@ This is the sum of the amounts of the following items: *
 > - **(E)** 3/4
 
 **Answer:** C
-[[Quesiti/src_archimede_2018_triennio#q14|src_archimede_2018_triennio__Q14]]
 
 
 
@@ -630,7 +617,6 @@ This is the sum of the amounts of the following items: *
 > - **(E)** (288; 2) 1 2 3 4 5 6 7 8 9 10 12 13 14 15 16 17 18 19 20 21 23 24 25 ... ... ... ... ... ... ... ... ... ...
 
 **Answer:** B
-[[Quesiti/src_archimede_2018_triennio#q15|src_archimede_2018_triennio__Q15]]
 
 
 
@@ -673,7 +659,6 @@ This is the sum of the amounts of the following items: *
 > - **(E)** 14 3
 
 **Answer:** A
-[[Quesiti/src_archimede_2018_triennio#q16|src_archimede_2018_triennio__Q16]]
 
 
 
@@ -719,7 +704,6 @@ This is the sum of the amounts of the following items: *
 > - **(E)** All five .
 
 **Answer:** E
-[[Quesiti/src_archimede_2018_triennio#q17|src_archimede_2018_triennio__Q17]]
 
 
 
@@ -767,7 +751,6 @@ This is the sum of the amounts of the following items: *
 > - **(E)** 29 24 33 ? 22 P
 
 **Answer:** D
-[[Quesiti/src_archimede_2018_triennio#q18|src_archimede_2018_triennio__Q18]]
 
 
 
@@ -815,7 +798,6 @@ This is the sum of the values of the derivatives of the derivatives.
 > - **(E)** He can do it with a odd number of moves.
 
 **Answer:** A
-[[Quesiti/src_archimede_2018_triennio#q19|src_archimede_2018_triennio__Q19]]
 
 
 
@@ -863,4 +845,3 @@ This is the sum of the values of the derivatives of the derivatives.
 > - **(E)** 120 T2 Italian Mathematical Union PROJECT OLIMPIADES OF MATHEMATICS Ministry of Education, University and Research The Games of Archimedes - Triennio Competition 22 November 2018 • The test consists of 20 problems. Each question shall be followed by 5 answers indicated by the letters (A), (B), (C), (D) and (E). One of these answers is correct, the other four are wrong. • Each correct answer is worth 5 points, each wrong answer is worth 0 points. For each answer left blank or unreadable one point will be awarded. • For each problem, you must transcribe the letter corresponding to the answer you think is correct in the grid below. Cancellations or corrections on the grid are not permitted. The use of any kind of calculator or communication tool shall not be permitted. You have 110 minutes to run the test. Good work and good fun! Name of the applicant and date of birth: e-mail (optional): 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
 
 **Answer:** B
-[[Quesiti/src_archimede_2018_triennio#q20|src_archimede_2018_triennio__Q20]]

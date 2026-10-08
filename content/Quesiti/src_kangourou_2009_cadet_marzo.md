@@ -40,7 +40,6 @@ level: kangourou
 > There are dogs and cats in a room. The number of cat legs is twice the number of dog noses. So the number of cats is A) twice the number of dogs. B) equal to the number of dogs. C) half the number of dogs. D) 1/4 of the number of dogs. E) 1/6 of the number of dogs.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2009_cadet_marzo#q01|src_kangourou_2009_cadet_marzo__Q01]]
 
 
 
@@ -77,7 +76,6 @@ With how many companions did the fourth girl dance?
 > Four girls and four boys attended a dance party. Eventually, the four boys claimed to have danced with 3, 1, 2, 2 different partners while three of the girls claimed to have danced with 2 different partners each. How many different partners did the fourth girl dance with? A) 1 B) 3 C) 0 D) 4 E) 2
 
 **Answer:** E
-[[Quesiti/src_kangourou_2009_cadet_marzo#q02|src_kangourou_2009_cadet_marzo__Q02]]
 
 
 
@@ -156,7 +154,6 @@ With how many companions did the fourth girl dance?
 > The star depicted here is made up of 12 identical equilateral triangles. The perimeter of the star is 36 cm. How many centimetres does the perimeter of the shaded hexagon measure? A) 6 B) 12 C) 18 D) 24 E) 30
 
 **Answer:** C
-[[Quesiti/src_kangourou_2009_cadet_marzo#q03|src_kangourou_2009_cadet_marzo__Q03]]
 
 
 
@@ -193,7 +190,6 @@ With how many companions did the fourth girl dance?
 > The houses on Via Lunga are numbered from 1, without skipping numbers. Henry has to deliver letters to some houses: he has to deliver a letter to each house that has an odd house number, starting with house number 15 and ending with house number 53. How many letters does he have to deliver in all? A) 19 B) 20 C) 27 D) 38 E) 53
 
 **Answer:** B
-[[Quesiti/src_kangourou_2009_cadet_marzo#q04|src_kangourou_2009_cadet_marzo__Q04]]
 
 
 
@@ -232,7 +228,6 @@ With how many companions did the fourth girl dance?
 > The figure shows a square divided into smaller squares. If the largest square has area 1, how much is the area of the black square? A) 1/100 B) 1/300 C) 1/600 D) 1/900 E) 1/1000
 
 **Answer:** D
-[[Quesiti/src_kangourou_2009_cadet_marzo#q05|src_kangourou_2009_cadet_marzo__Q05]]
 
 
 
@@ -287,7 +282,6 @@ With how many companions did the fourth girl dance?
 > Kang 2009
 
 **Answer:** D
-[[Quesiti/src_kangourou_2009_cadet_marzo#q06|src_kangourou_2009_cadet_marzo__Q06]]
 
 
 
@@ -321,7 +315,6 @@ With how many companions did the fourth girl dance?
 > An elevator can carry up to 12 adults or up to 20 children. How many children can ride at most together with 9 adults? A) 3 B) 4 C) 5 D) 6 E) 8
 
 **Answer:** C
-[[Quesiti/src_kangourou_2009_cadet_marzo#q07|src_kangourou_2009_cadet_marzo__Q07]]
 
 
 
@@ -368,7 +361,6 @@ With how many companions did the fourth girl dance?
 > E) Only I, III and V
 
 **Answer:** E
-[[Quesiti/src_kangourou_2009_cadet_marzo#q08|src_kangourou_2009_cadet_marzo__Q08]]
 
 
 
@@ -405,7 +397,6 @@ With how many companions did the fourth girl dance?
 > A rectangular parallelepiped container is of such size that, when filled to the brim, it contains one litre of water. Each of its three dimensions is halved, creating a new vessel of the same shape. If this container is also filled to the brim, how many litres of water is it? A) 0,0625 B) 0,125 C) 0,25 D) 0,5 E) A number different from the previous ones
 
 **Answer:** B
-[[Quesiti/src_kangourou_2009_cadet_marzo#q09|src_kangourou_2009_cadet_marzo__Q09]]
 
 
 
@@ -445,7 +436,6 @@ With how many companions did the fourth girl dance?
 > The Q, R and S points shown in the figure are aligned, the QPS angle is 12 degrees and the PQ, PS and RS segments are the same length. How many degrees does the QPR angle measure? A) 60 B) 54 C) 42 D) 84 E) 36 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2009_cadet_marzo#q10|src_kangourou_2009_cadet_marzo__Q10]]
 
 
 
@@ -481,7 +471,6 @@ With how many companions did the fourth girl dance?
 > How many positive integers N have the following property: "the number of digits of the decimal representation of the square of N is equal to the number of digits of the decimal representation of the cube of N"? A) 2 B) 3 C) 4 D) 9 E) Infinite
 
 **Answer:** B
-[[Quesiti/src_kangourou_2009_cadet_marzo#q11|src_kangourou_2009_cadet_marzo__Q11]]
 
 
 
@@ -540,7 +529,6 @@ With how many companions did the fourth girl dance?
 > What is the smallest number of points that you can remove from the figure so that there are no three collinear points? A) 1 B) 2 C) 3 D) 4 E) 7
 
 **Answer:** C
-[[Quesiti/src_kangourou_2009_cadet_marzo#q12|src_kangourou_2009_cadet_marzo__Q12]]
 
 
 
@@ -617,7 +605,6 @@ With how many companions did the fourth girl dance?
 > Kang 2009
 
 **Answer:** A
-[[Quesiti/src_kangourou_2009_cadet_marzo#q13|src_kangourou_2009_cadet_marzo__Q13]]
 
 
 
@@ -655,7 +642,6 @@ With how many companions did the fourth girl dance?
 > The largest square shown in the figure has area 1. What is the area of the shaded region? A) B) C) D) E)
 
 **Answer:** A
-[[Quesiti/src_kangourou_2009_cadet_marzo#q14|src_kangourou_2009_cadet_marzo__Q14]]
 
 
 
@@ -692,7 +678,6 @@ With how many companions did the fourth girl dance?
 > There are two kinds of people living on an island: the sincere, who never lie, and the liars, who always lie. There are 25 people in line on this island. Everyone, except the first in line, says the person in front of him in line is a liar while the first says everyone behind him is a liar. How many liars are in line? (a) 24 (b) 13 (c) 12 (d) 0 (e) It is not possible to establish
 
 **Answer:** B
-[[Quesiti/src_kangourou_2009_cadet_marzo#q15|src_kangourou_2009_cadet_marzo__Q15]]
 
 
 
@@ -734,7 +719,6 @@ With how many companions did the fourth girl dance?
 > The solid in the figure has six faces, all triangular. Each of its vertices is associated with a number so that the sum of the numbers associated with the three vertices of each face is the same for all faces. The figure shows the numbers associated with two of the vertices. What is the sum of all the numbers used? A) 9 B) 12 C) 17 D) 18 E) 24
 
 **Answer:** C
-[[Quesiti/src_kangourou_2009_cadet_marzo#q16|src_kangourou_2009_cadet_marzo__Q16]]
 
 
 
@@ -772,7 +756,6 @@ With how many companions did the fourth girl dance?
 > In the equality, different letters represent different numbers, whereas equal letters represent equal numbers. How many different values can the O•T•T•O product take? A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** A
-[[Quesiti/src_kangourou_2009_cadet_marzo#q17|src_kangourou_2009_cadet_marzo__Q17]]
 
 
 
@@ -885,7 +868,6 @@ With how many companions did the fourth girl dance?
 > Kang 2009
 
 **Answer:** D
-[[Quesiti/src_kangourou_2009_cadet_marzo#q18|src_kangourou_2009_cadet_marzo__Q18]]
 
 
 
@@ -922,7 +904,6 @@ With how many companions did the fourth girl dance?
 > The figure shows a regular polygon with 9 sides. How many degrees does the X angle shown in the figure measure, made by extending two sides? A) 40 B) 45 C) 50 D) 55 E) 60
 
 **Answer:** E
-[[Quesiti/src_kangourou_2009_cadet_marzo#q19|src_kangourou_2009_cadet_marzo__Q19]]
 
 
 
@@ -966,7 +947,6 @@ With how many companions did the fourth girl dance?
 > The first three drawings of a sequence are shown in the figure: each of them consists of squares of side 1 surrounding a square hole (gray in the figure). How many squares of side 1 are needed to build the tenth drawing of the sequence? A) 76 B) 80 C) 84 D) 92 E) 100 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2009_cadet_marzo#q20|src_kangourou_2009_cadet_marzo__Q20]]
 
 
 
@@ -1009,7 +989,6 @@ With how many companions did the fourth girl dance?
 > We move along the edges of the cube in the figure starting from point P, in the direction indicated by the arrow. At the end of the first edge we have to decide whether to go to the right or to the left, and so at the end of each edge we follow: we choose alternating right and left. How many edges will we have traveled when we first return to point P? A) 2 B) 4 C) 6 D) 9 E) 12
 
 **Answer:** C
-[[Quesiti/src_kangourou_2009_cadet_marzo#q21|src_kangourou_2009_cadet_marzo__Q21]]
 
 
 
@@ -1044,7 +1023,6 @@ With how many companions did the fourth girl dance?
 > How many are the ten-digit positive integers containing only the digits 1, 2 and 3 in which two of any adjacent digits differ by 1? A) 16 B) 32 C) 64 D) 80 E) 100
 
 **Answer:** C
-[[Quesiti/src_kangourou_2009_cadet_marzo#q22|src_kangourou_2009_cadet_marzo__Q22]]
 
 
 
@@ -1124,7 +1102,6 @@ With how many companions did the fourth girl dance?
 > Kang 2009
 
 **Answer:** A
-[[Quesiti/src_kangourou_2009_cadet_marzo#q23|src_kangourou_2009_cadet_marzo__Q23]]
 
 
 
@@ -1164,7 +1141,6 @@ With how many companions did the fourth girl dance?
 > With three cuts we divided a large cube into eight rectangular parallelepipeds. What is the ratio between the sum of the total surfaces of these eight parallelepipeds and the total surface area of the original cube? A) 1:1 B) 4:3 C) 3:2 D) 4:1 E) 2:1
 
 **Answer:** E
-[[Quesiti/src_kangourou_2009_cadet_marzo#q24|src_kangourou_2009_cadet_marzo__Q24]]
 
 
 
@@ -1199,7 +1175,6 @@ With how many companions did the fourth girl dance?
 > How many positive integers N satisfy the following condition: of all the divisors of N, other than N and 1, the largest is 45 times the smallest? A) 0 B) 1 C) 2 D) 3 E) more than 3
 
 **Answer:** C
-[[Quesiti/src_kangourou_2009_cadet_marzo#q25|src_kangourou_2009_cadet_marzo__Q25]]
 
 
 
@@ -1236,7 +1211,6 @@ With how many companions did the fourth girl dance?
 > A square was exactly divided (i.e. without surpluses and overlaps) into 2009 squares. If the length of the side of each of the squares we're talking about is an integer, what is the minimum length of the side of the original square that makes this possible? A) 46 B) 47 C) 503 D) A number different from the previous ones. E) This breakdown is not feasible.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2009_cadet_marzo#q26|src_kangourou_2009_cadet_marzo__Q26]]
 
 
 
@@ -1273,7 +1247,6 @@ With how many companions did the fourth girl dance?
 > In an non-self-intersecting PQRS quadrilateral the PQ side measures 2006, the QR side measures 2008, the RS side measures 2007 and the SP side measures 2009. What internal angles of the quadrilateral are necessarily less than 180°? A) P, Q, R, S B) P, Q, R C) Q, R, S D) P, Q, S E) P, R, S
 
 **Answer:** E
-[[Quesiti/src_kangourou_2009_cadet_marzo#q27|src_kangourou_2009_cadet_marzo__Q27]]
 
 
 
@@ -1311,7 +1284,6 @@ With how many companions did the fourth girl dance?
 > By overlapping a square of side 6 centimeters on a triangle, I can cover up to 60% of the area of that triangle. By overlapping the triangle on the square, I can cover up to 2/3 of the area of the square. What is the area of the triangle in square centimetres? A) 22,8 B) 24 C) 36 D) 40 E) 60
 
 **Answer:** D
-[[Quesiti/src_kangourou_2009_cadet_marzo#q28|src_kangourou_2009_cadet_marzo__Q28]]
 
 
 
@@ -1370,7 +1342,6 @@ With how many companions did the fourth girl dance?
 > Kang 2009
 
 **Answer:** D
-[[Quesiti/src_kangourou_2009_cadet_marzo#q29|src_kangourou_2009_cadet_marzo__Q29]]
 
 
 
@@ -1417,4 +1388,3 @@ With how many companions did the fourth girl dance?
 > 1 2009 Cadet Category For third-year students of lower secondary school or first-year students of upper secondary school
 
 **Answer:** B
-[[Quesiti/src_kangourou_2009_cadet_marzo#q30|src_kangourou_2009_cadet_marzo__Q30]]

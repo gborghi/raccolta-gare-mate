@@ -48,7 +48,6 @@ level: kangourou
 > - **(E)** 14.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2001_junior#q01|src_kangourou_2001_junior__Q01]]
 
 
 
@@ -95,7 +94,6 @@ level: kangourou
 > - **(E)** This provision is possible, but the position of A cannot be determined uniquely.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2001_junior#q02|src_kangourou_2001_junior__Q02]]
 
 
 
@@ -136,7 +134,6 @@ level: kangourou
 > - **(E)** cannot be determined without further information.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2001_junior#q03|src_kangourou_2001_junior__Q03]]
 
 
 
@@ -183,7 +180,6 @@ level: kangourou
 > - **(E)** 125.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2001_junior#q04|src_kangourou_2001_junior__Q04]]
 
 
 
@@ -225,7 +221,6 @@ level: kangourou
 > - **(E)** m is divisible by 5 or by 7, but not by both Note: GCD (a, b) indicates the maximum common divisor between a and b.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2001_junior#q05|src_kangourou_2001_junior__Q05]]
 
 
 
@@ -271,7 +266,6 @@ level: kangourou
 > - **(E)** 6.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2001_junior#q06|src_kangourou_2001_junior__Q06]]
 
 
 
@@ -312,7 +306,6 @@ level: kangourou
 > - **(E)** more than four. Kangourou 15 March 2001. Junior Category. Page N. 3
 
 **Answer:** C
-[[Quesiti/src_kangourou_2001_junior#q07|src_kangourou_2001_junior__Q07]]
 
 
 
@@ -397,7 +390,6 @@ level: kangourou
 > - **(E)** 59 cm.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2001_junior#q08|src_kangourou_2001_junior__Q08]]
 
 
 
@@ -439,7 +431,6 @@ level: kangourou
 > - **(E)** 14.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2001_junior#q09|src_kangourou_2001_junior__Q09]]
 
 
 
@@ -484,7 +475,6 @@ Cutting a ring to free them
 > - **(E)** no. The questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2001_junior#q10|src_kangourou_2001_junior__Q10]]
 
 
 
@@ -526,7 +516,6 @@ Cutting a ring to free them
 > - **(E)** 6.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2001_junior#q11|src_kangourou_2001_junior__Q11]]
 
 
 
@@ -570,7 +559,6 @@ Cutting a ring to free them
 > - **(E)** 50°. Kangourou 15 March 2001. Junior class. Page N. 4
 
 **Answer:** C
-[[Quesiti/src_kangourou_2001_junior#q12|src_kangourou_2001_junior__Q12]]
 
 
 
@@ -599,7 +587,6 @@ Cutting a ring to free them
 > A clock lags by X minutes every Y hours. How many hours, in terms of X and Y, will that clock be delayed in a week?
 
 **Answer:** C
-[[Quesiti/src_kangourou_2001_junior#q13|src_kangourou_2001_junior__Q13]]
 
 
 
@@ -647,7 +634,6 @@ Cutting a ring to free them
 > - **(E)** 68.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2001_junior#q14|src_kangourou_2001_junior__Q14]]
 
 
 
@@ -715,7 +701,6 @@ Cutting a ring to free them
 > - **(E)** 20 cm².
 
 **Answer:** A
-[[Quesiti/src_kangourou_2001_junior#q15|src_kangourou_2001_junior__Q15]]
 
 
 
@@ -758,7 +743,6 @@ Cutting a ring to free them
 > - **(E)** 750 kg.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2001_junior#q16|src_kangourou_2001_junior__Q16]]
 
 
 
@@ -800,7 +784,6 @@ Cutting a ring to free them
 > - **(E)** 6.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2001_junior#q17|src_kangourou_2001_junior__Q17]]
 
 
 
@@ -894,8 +877,6 @@ Cutting a ring to free them
 
 **Answer:** D
 
-[[Quesiti/src_kangourou_2001_junior#q18|src_kangourou_2001_junior__Q18]]
-
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,method_congruenze,skill_riconoscimento_pattern"></span>
@@ -939,7 +920,6 @@ Cutting a ring to free them
 > - **(E)** 30.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2001_junior#q19|src_kangourou_2001_junior__Q19]]
 
 
 
@@ -981,7 +961,6 @@ Cutting a ring to free them
 > - **(E)** 9. The questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2001_junior#q20|src_kangourou_2001_junior__Q20]]
 
 
 
@@ -1026,7 +1005,6 @@ Candies eaten by Cristina
 > - **(E)** 15.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2001_junior#q21|src_kangourou_2001_junior__Q21]]
 
 
 
@@ -1106,7 +1084,6 @@ Candies eaten by Cristina
 > A right triangle ABC as in the figure, with AB = c, AX = p and XC = q, represents a terrain. Jenny and Vicky walk at the same speed in opposite directions on the edge of the ground, both starting at the same moment from position X. The two girls meet in B. What's the value of q as a function of p and c?
 
 **Answer:** B
-[[Quesiti/src_kangourou_2001_junior#q22|src_kangourou_2001_junior__Q22]]
 
 
 
@@ -1200,7 +1177,6 @@ Candies eaten by Cristina
 > Kangourou 15 March 2001. Junior class. Page N. 6
 
 **Answer:** D
-[[Quesiti/src_kangourou_2001_junior#q23|src_kangourou_2001_junior__Q23]]
 
 
 
@@ -1241,7 +1217,6 @@ Candies eaten by Cristina
 > - **(E)** 5.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2001_junior#q24|src_kangourou_2001_junior__Q24]]
 
 
 
@@ -1276,7 +1251,6 @@ Candies eaten by Cristina
 > ABCDEFGH is a cube with side 2 cm. P, Q and R are the midpoints of AD, GH and BF respectively. What is the area of the PQR triangle?
 
 **Answer:** C
-[[Quesiti/src_kangourou_2001_junior#q25|src_kangourou_2001_junior__Q25]]
 
 
 
@@ -1348,7 +1322,6 @@ Candies eaten by Cristina
 > - **(E)** 36.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2001_junior#q26|src_kangourou_2001_junior__Q26]]
 
 
 
@@ -1389,7 +1362,6 @@ Candies eaten by Cristina
 > - **(E)** 4.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2001_junior#q27|src_kangourou_2001_junior__Q27]]
 
 
 
@@ -1434,7 +1406,6 @@ Candies eaten by Cristina
 > - **(E)** 16 – 4π + √5 π.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2001_junior#q28|src_kangourou_2001_junior__Q28]]
 
 
 
@@ -1477,7 +1448,6 @@ Candies eaten by Cristina
 > - **(E)** 34.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2001_junior#q29|src_kangourou_2001_junior__Q29]]
 
 
 
@@ -1520,4 +1490,3 @@ Candies eaten by Cristina
 > - **(E)** 101
 
 **Answer:** B
-[[Quesiti/src_kangourou_2001_junior#q30|src_kangourou_2001_junior__Q30]]

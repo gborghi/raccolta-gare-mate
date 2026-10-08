@@ -33,8 +33,6 @@ level: CAMP Selection Camp
 
 > $ABC$ sia un triangolo acuto e $M$ il punto medio del lato $BC$. $\ell$ sia il bisettore angolare di $\angle BAC$, e $D$ sia l'intersezione di $\ell$ con la tangente al circoncircolo del triangolo $ABC$ a $C$. Il $H$ deve essere un punto su $\ell$ tale che $\angle ABH = 90^\circ$. Il $P$ deve essere il secondo punto di intersezione (diversi da $C$) del circoncircolo del triangolo $CDH$ e del circoncircolo del triangolo $ABC$. Prova che $\angle CPM = \angle ACB$.
 
-[[Quesiti/src_selection_camp_2016#q01|src_selection_camp_2016__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_fattorizzazione,method_estremalita,skill_modellizzazione,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -67,8 +65,6 @@ level: CAMP Selection Camp
 > 
 > Trova il valore più piccolo di $n$ in modo che esista un insieme $A$ con esattamente $2015$ buone partizioni. (Qui $\emptyset$ indica l'insieme vuoto.)
 
-[[Quesiti/src_selection_camp_2016#q02|src_selection_camp_2016__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_combinatoria,method_induzione,method_simmetria,method_invarianti,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -99,8 +95,6 @@ level: CAMP Selection Camp
 > 
 > (a) Prove che esistono due polinomi distinti di grado $n+1$ che sono simili. b) dimostrare che non esistono due polinomi distinti di grado $n$ che siano simili.
 
-[[Quesiti/src_selection_camp_2016#q03|src_selection_camp_2016__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,method_induzione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -125,8 +119,6 @@ level: CAMP Selection Camp
 *Prodotto di frazioni min 1 divisibili da un primo odd*
 
 > $m, n$ siano integri positivi che soddisfino $m > n$. Per $k = 1, 2, \ldots, n+1$, definire $x_k = \dfrac{m+k}{n+k}$. Supponiamo che $x_1, x_2, \ldots, x_{n+1}$ siano tutti numeri interi. Prove che $x_1 x_2 \cdots x_{n+1} - 1$ è divisibile da qualche primo pari.
-
-[[Quesiti/src_selection_camp_2016#q04|src_selection_camp_2016__Q04]]
 
 
 
@@ -154,8 +146,6 @@ level: CAMP Selection Camp
 
 > Trova tutte le coppie di funzioni $(f, g)$ definite sui razionali e prendi valori razionali in modo tale che per tutti i numeri razionali $x, y$, $$f(f(x) + yg(x)) = (x+1)g(y) + f(y).$$
 
-[[Quesiti/src_selection_camp_2016#q05|src_selection_camp_2016__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_grafi,method_estremalita,method_casework,skill_modellizzazione,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
@@ -180,8 +170,6 @@ level: CAMP Selection Camp
 *Minimum di strette di mano per garantire l'infezione di tutte le persone del 2015*
 
 > Ci sono persone $2015$. Inizialmente, esattamente la persona $1$ è infetta dalla febbre IMO, ma non è noto chi sia. Quando due persone si stringono la mano, se uno di loro è infetto, l'altro diventa infetto. Qual è il numero minimo di strette di mano che deve verificarsi per garantire che tutte le persone $2015$ siano infette, indipendentemente da chi sia la persona infetta iniziale?
-
-[[Quesiti/src_selection_camp_2016#q06|src_selection_camp_2016__Q06]]
 
 
 
@@ -209,8 +197,6 @@ level: CAMP Selection Camp
 
 > Trova il numero reale più piccolo $k$ in modo che per ogni intero $n \ge 2$ e ogni sequenza di numeri reali positivi $a_0, a_1, \ldots, a_n$, $$\frac{1}{a_0+a_1} + \frac{1}{a_0+a_1+a_2} + \cdots + \frac{1}{a_0+a_1+\cdots+a_n} < k\left(\frac{1}{a_0} + \frac{1}{a_1} + \cdots + \frac{1}{a_n}\right).$$
 
-[[Quesiti/src_selection_camp_2016#q07|src_selection_camp_2016__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -235,8 +221,6 @@ level: CAMP Selection Camp
 *Ratio BT/BM quando il cerchio attraversa B,M incontra i lati a P,Q e BPTQ è parallelo sul cerchio*
 
 > In un triangolo acuto $ABC$, $M$ deve essere il punto medio del lato $AC$. Un cerchio $\omega$ attraversa $B$ e $M$ e incontra i lati $AB$ e $BC$ rispettivamente nei punti $P$ e $Q$ (con $P \neq B$ e $Q \neq B$). Il punto $T$ deve essere tale che $BPTQ$ sia un parallelo. Se $T$ si trova sul circoncircolo del triangolo $ABC$, si trova il valore di $\dfrac{BT}{BM}$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
-
-[[Quesiti/src_selection_camp_2016#q08|src_selection_camp_2016__Q08]]
 
 
 
@@ -263,8 +247,6 @@ level: CAMP Selection Camp
 *Ricerca tutti i quadrupli primari p<q<r<s con p^s - r^q = 3*
 
 > Trova tutti i quadrupli di numeri primi $(p, q, r, s)$ con $p < q < r < s$ soddisfacente $$p^s - r^q = 3.$$
-
-[[Quesiti/src_selection_camp_2016#q09|src_selection_camp_2016__Q09]]
 
 
 
@@ -297,8 +279,6 @@ level: CAMP Selection Camp
 > 
 > Trova il valore massimo possibile di $n$.
 
-[[Quesiti/src_selection_camp_2016#q10|src_selection_camp_2016__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,topic_insiemi_funzioni,method_invarianti,method_ricorsione,method_induzione,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione,skill_riconoscimento_pattern"></span>
@@ -326,8 +306,6 @@ level: CAMP Selection Camp
 
 > Che $a_0, a_1, \ldots$ e $b_0, b_1, \ldots$ siano sequenze di integri positivi che soddisfino $a_0, b_0 \ge 2$ e, per ogni intero non negativo $n$, $$a_{n+1} = \gcd(a_n, b_n) + 1, \quad b_{n+1} = \operatorname{lcm}(a_n, b_n) - 1.$$ dimostri che esiste un intero non negativo $N$ e un intero positivo $t$ tale che $a_{n+t} = a_n$ sia valido per ogni intero $n \ge N$. (Qui $\gcd(x, y)$ e $\operatorname{lcm}(x, y)$ indicano rispettivamente il più grande divisore comune e il più piccolo multiplo comune degli integri positivi $x$ e $y$.)
 
-[[Quesiti/src_selection_camp_2016#q11|src_selection_camp_2016__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_lettura_attenta,skill_astrazione"></span>
@@ -352,5 +330,3 @@ level: CAMP Selection Camp
 *Quadrilaterali con cerchi incisi su quattro sottoquadrilaterali: tre linee simultanee o parallele*
 
 > $ABCD$ sia un quadrilaterale convexo e $P, Q, R, S$ punti sui lati $AB, BC, CD, DA$ rispettivamente. Il segmento $O$ deve essere l'intersezione tra $PR$ e $QS$. Supponiamo che ciascuno dei quadrilaterali $APOS$, $BQOP$, $CROQ$ e $DSOR$ abbia un cerchio inciso. Prove che le tre linee $AC$, $PQ$ e $RS$ si incontrano in un unico punto o sono reciprocamente parallele.
-
-[[Quesiti/src_selection_camp_2016#q12|src_selection_camp_2016__Q12]]

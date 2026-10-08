@@ -45,7 +45,6 @@ level: squadre
 > red balls and 2 green balls in the box, the others outside”.)
 
 **Answer:** 42
-[[Quesiti/src_kangourou_2009_squadre_semifinale#q01|src_kangourou_2009_squadre_semifinale__Q01]]
 
 
 
@@ -77,8 +76,6 @@ level: squadre
 > made up of numbers that are perfect squares (that is, that are the square of some integer)?
 
 **Answer:** 1
-
-[[Quesiti/src_kangourou_2009_squadre_semifinale#q02|src_kangourou_2009_squadre_semifinale__Q02]]
 
 
 
@@ -115,7 +112,6 @@ level: squadre
 > What is the maximum number of pieces that you can place on the board?
 
 **Answer:** 27
-[[Quesiti/src_kangourou_2009_squadre_semifinale#q03|src_kangourou_2009_squadre_semifinale__Q03]]
 
 
 
@@ -147,7 +143,6 @@ level: squadre
 > 4. The flag without the circle In the figure (which is not to scale) you see a coloured rectangular flag of white and gray whose horizontal sides are 240 cm long and whose vertical sides are 150 cm long. A white cross with parallel side arms appears on the flag, the measurements of which are determined as shown in the figure (exactly as in the previous question, but the circle is no longer there). What is the value in square centimetres of the area of the
 
 **Answer:** 21570
-[[Quesiti/src_kangourou_2009_squadre_semifinale#q04|src_kangourou_2009_squadre_semifinale__Q04]]
 
 
 
@@ -176,7 +171,6 @@ level: squadre
 > 5. The chessboard You have available an 8 × 8 board (like the one used for checkers or chess) and 50 pieces. You want to arrange the pieces on the board so that:
 
 **Answer:** 21
-[[Quesiti/src_kangourou_2009_squadre_semifinale#q05|src_kangourou_2009_squadre_semifinale__Q05]]
 
 
 
@@ -207,7 +201,6 @@ Nights lived by her mother before Martina.
 > Before Martina Martina was born on 9 May last year at noon. Her mother was born on May 9, 1983, always at noon. How many nights did Martina's mother live before Martina was born?
 
 **Answer:** 9132
-[[Quesiti/src_kangourou_2009_squadre_semifinale#q06|src_kangourou_2009_squadre_semifinale__Q06]]
 
 
 
@@ -240,7 +233,6 @@ Nights lived by her mother before Martina.
 > Millimeter paper On a sheet of millimeter paper, where a square grid of one millimeter of side is present, a rectangle of 350 × 210 millimetres with sides parallel to the lines already on the sheet and vertices coinciding with vertices of the squares is shown. How many vertices of squares does each of the diagonals of this rectangle meet?
 
 **Answer:** 71
-[[Quesiti/src_kangourou_2009_squadre_semifinale#q07|src_kangourou_2009_squadre_semifinale__Q07]]
 
 
 
@@ -272,7 +264,6 @@ Nights lived by her mother before Martina.
 > The sides of a triangle are 40, 50, and 60 centimeters long. By drawing a segment with one end at the vertex relative to the smaller angle and the other end on the opposite side, the triangle is divided into two triangles having the same perimeter. How many centimeters is the shorter of the two segments into which that side is divided?
 
 **Answer:** 15
-[[Quesiti/src_kangourou_2009_squadre_semifinale#q08|src_kangourou_2009_squadre_semifinale__Q08]]
 
 
 
@@ -303,7 +294,6 @@ Nights lived by her mother before Martina.
 > Male and female In a room there are some people: if the number of males is divided by the number of females, you get exactly 0.24. It is known that the number of people present is the smallest that can determine that ratio. How many people are in that room?
 
 **Answer:** 31
-[[Quesiti/src_kangourou_2009_squadre_semifinale#q09|src_kangourou_2009_squadre_semifinale__Q09]]
 
 
 
@@ -335,7 +325,6 @@ Nights lived by her mother before Martina.
 > Two identical dice (each with faces numbered 1 to 6, as usual) are loaded: by throwing any one of them, the face with the number 1 can never come out and the probability that one of the remaining faces will come out is proportional to the number shown on the face. When throwing them, how many chances out of 100 are there that one of the faces will show an even number and the other one will show an odd number?
 
 **Answer:** 48
-[[Quesiti/src_kangourou_2009_squadre_semifinale#q10|src_kangourou_2009_squadre_semifinale__Q10]]
 
 
 
@@ -374,7 +363,6 @@ Nights lived by her mother before Martina.
 > How many of these milestone markers have two and no more than two different digits?
 
 **Answer:** 40
-[[Quesiti/src_kangourou_2009_squadre_semifinale#q11|src_kangourou_2009_squadre_semifinale__Q11]]
 
 
 
@@ -411,7 +399,6 @@ Nights lived by her mother before Martina.
 > lowest terms. Write the denominator of the fraction.
 
 **Answer:** 4950
-[[Quesiti/src_kangourou_2009_squadre_semifinale#q12|src_kangourou_2009_squadre_semifinale__Q12]]
 
 
 
@@ -462,7 +449,6 @@ Number in the cell ? of the arrow grid*
 > The grid shown in the figure is an irregular grid in some of whose cells numbers already appear. You must fill the remaining cells using only integers from 1 to 9 included (one per cell) and complying with all the following rules: - the grey cells must contain only odd numbers, the white cells must contain only even numbers; - no number may appear more than once in the same row; - no number may appear more than once in the same column; - in each row and in each column in which the arrow appears, the sum of the numbers starting from the arrow cell in the direction indicated by the arrow must be equal to the number indicated in the cell before the arrow. What number must you enter in the cell indicated by the question mark?
 
 **Answer:** 9
-[[Quesiti/src_kangourou_2009_squadre_semifinale#q13|src_kangourou_2009_squadre_semifinale__Q13]]
 
 
 
@@ -508,7 +494,6 @@ Number in the cell ? of the arrow grid*
 > write 0611).
 
 **Answer:** 1016
-[[Quesiti/src_kangourou_2009_squadre_semifinale#q14|src_kangourou_2009_squadre_semifinale__Q14]]
 
 
 
@@ -549,4 +534,3 @@ Number in the cell ? of the arrow grid*
 > Mirabilandia,  9 May 2009
 
 **Answer:** 7
-[[Quesiti/src_kangourou_2009_squadre_semifinale#q15|src_kangourou_2009_squadre_semifinale__Q15]]

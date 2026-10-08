@@ -39,8 +39,6 @@ level: Concours Général
 > 
 > Indicare che i punti $D, E, F, G, H, I$ sono conciclici se e solo se almeno uno dei seguenti punti è valido: - il triangolo $ABC$ è equilaterale; - il triangolo $ABC$ è rettangolare e uguale.
 
-[[Quesiti/src_cgen_1996#q01|src_cgen_1996__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_insiemi_funzioni,topic_aritmetica,method_invarianti,method_ricorsione,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -71,8 +69,6 @@ level: Concours Général
 > $a$ sia un intero positivo e $b$ un intero strettamente positivo. Considera la sequenza reale $(u_n)_{n \in \mathbb{N}}$ definita come segue: $$\begin{cases} u_0 = b \\ u_{n+1} = \dfrac{1}{2} u_n & \text{if } u_n \text{ is an even integer,} \\ u_{n+1} = a + u_n & \text{otherwise.} \end{cases}$$
 > 
 > 1. Mostrare che si può trovare un intero positivo $n$ tale che $u_n \le a$. 2. Mostrare che la sequenza è alla fine periodica.
-
-[[Quesiti/src_cgen_1996#q02|src_cgen_1996__Q02]]
 
 
 
@@ -107,8 +103,6 @@ level: Concours Général
 > 
 > 3. Tra i tetraedri che hanno anche almeno due facce isosceles, trovate quelli le cui lunghezze facciali (come funzione della lunghezza laterale $a$ del bordo più piccolo) riducono al minimo il bordo più grande.
 
-[[Quesiti/src_cgen_1996#q03|src_cgen_1996__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_insiemi_funzioni,topic_disuguaglianze,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
@@ -140,8 +134,6 @@ level: Concours Général
 > 
 > 2. Lasciate che $x$ e $y$ siano due valori rigorosamente positivi. Mostra che $x^y + y^x > 1$.
 
-[[Quesiti/src_cgen_1996#q04|src_cgen_1996__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_casework,method_estremalita,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_lettura_attenta,skill_modellizzazione"></span>
@@ -172,5 +164,3 @@ level: Concours Général
 > Che $n$ sia un numero naturale non zero. Diciamo che un numero naturale non zero $k$ soddisfa la condizione $C_n$ se esistono $2k$ numeri naturali $a_1, b_1, \ldots, a_k, b_k$, tutti distinti, in modo tale che le somme $a_1 + b_1, \ldots, a_k + b_k$ siano in coppia distinte e tutte strettamente inferiori a $n$.
 > 
 > 1. Indicare che se $k$ soddisfa la condizione $C_n$, allora $k \le \dfrac{2n-3}{5}$. 2. Indicare che $5$ soddisfa la condizione $C_{14}$. 3. Supponiamo che $\dfrac{2n-3}{5}$ sia un intero. Indicare che $\dfrac{2n-3}{5}$ soddisfa la condizione $C_n$.
-
-[[Quesiti/src_cgen_1996#q05|src_cgen_1996__Q05]]

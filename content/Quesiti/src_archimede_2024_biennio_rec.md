@@ -45,8 +45,6 @@ level: biennio
 > - **(D)** 7
 > - **(E)** 6
 
-[[Quesiti/src_archimede_2024_biennio_rec#q01|src_archimede_2024_biennio_rec__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,skill_modellizzazione"></span>
@@ -86,8 +84,6 @@ level: biennio
 > - **(C)** 4
 > - **(D)** 3
 > - **(E)** 2
-
-[[Quesiti/src_archimede_2024_biennio_rec#q02|src_archimede_2024_biennio_rec__Q02]]
 
 
 
@@ -138,8 +134,6 @@ level: biennio
 > - **(D)** 62°
 > - **(E)** 58°
 
-[[Quesiti/src_archimede_2024_biennio_rec#q03|src_archimede_2024_biennio_rec__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_casework,skill_casework_accurato"></span>
@@ -178,8 +172,6 @@ level: biennio
 > - **(D)** 15
 > - **(E)** 23
 
-[[Quesiti/src_archimede_2024_biennio_rec#q04|src_archimede_2024_biennio_rec__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica"></span>
@@ -216,8 +208,6 @@ level: biennio
 > - **(C)** 7n3+45
 > - **(D)** 5n4+84
 > - **(E)** 8n3+75
-
-[[Quesiti/src_archimede_2024_biennio_rec#q05|src_archimede_2024_biennio_rec__Q05]]
 
 
 
@@ -269,8 +259,6 @@ level: biennio
 > - **(D)** 45
 > - **(E)** 60
 
-[[Quesiti/src_archimede_2024_biennio_rec#q06|src_archimede_2024_biennio_rec__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_conteggio,skill_conteggio_sistematico"></span>
@@ -309,8 +297,6 @@ level: biennio
 > - **(C)** 27
 > - **(D)** 22
 > - **(E)** 21
-
-[[Quesiti/src_archimede_2024_biennio_rec#q07|src_archimede_2024_biennio_rec__Q07]]
 
 
 
@@ -356,8 +342,6 @@ level: biennio
 > - **(D)** 24
 > - **(E)** 1/3
 
-[[Quesiti/src_archimede_2024_biennio_rec#q08|src_archimede_2024_biennio_rec__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
@@ -395,8 +379,6 @@ level: biennio
 > - **(C)** 512
 > - **(D)** 450
 > - **(E)** 576
-
-[[Quesiti/src_archimede_2024_biennio_rec#q09|src_archimede_2024_biennio_rec__Q09]]
 
 
 
@@ -449,8 +431,6 @@ level: biennio
 > - **(D)** 2− √ 2
 > - **(E)** 1 2
 
-[[Quesiti/src_archimede_2024_biennio_rec#q10|src_archimede_2024_biennio_rec__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,method_cassetti,skill_casework_accurato"></span>
@@ -489,8 +469,6 @@ level: biennio
 > - **(C)** 12
 > - **(D)** 13
 > - **(E)** 10
-
-[[Quesiti/src_archimede_2024_biennio_rec#q11|src_archimede_2024_biennio_rec__Q11]]
 
 
 
@@ -533,8 +511,6 @@ level: biennio
 > - **(D)** 16
 > - **(E)** 24
 
-[[Quesiti/src_archimede_2024_biennio_rec#q12|src_archimede_2024_biennio_rec__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_probabilita,topic_aritmetica,method_conteggio,skill_conteggio_sistematico"></span>
@@ -573,8 +549,6 @@ level: biennio
 > - **(C)** 1/15
 > - **(D)** 4/45
 > - **(E)** 1/10
-
-[[Quesiti/src_archimede_2024_biennio_rec#q13|src_archimede_2024_biennio_rec__Q13]]
 
 
 
@@ -615,8 +589,6 @@ level: biennio
 > - **(D)** 5
 > - **(E)** 6
 
-[[Quesiti/src_archimede_2024_biennio_rec#q14|src_archimede_2024_biennio_rec__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
@@ -654,8 +626,6 @@ How to sit 3 pairs of siblings next to each other
 > - **(C)** 50
 > - **(D)** 36
 > - **(E)** 42
-
-[[Quesiti/src_archimede_2024_biennio_rec#q15|src_archimede_2024_biennio_rec__Q15]]
 
 
 
@@ -707,5 +677,3 @@ How to sit 3 pairs of siblings next to each other
 > - **(C)** 39/10
 > - **(D)** 18/5
 > - **(E)** 5 411
-
-[[Quesiti/src_archimede_2024_biennio_rec#q16|src_archimede_2024_biennio_rec__Q16]]

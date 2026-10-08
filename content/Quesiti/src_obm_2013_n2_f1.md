@@ -38,7 +38,6 @@ level: OBM Nível 2
 > (A) Niente; pagherà lo stesso importo. (B) Perderà 100 reais. (C) Guadagna 105 reais. (D) Perderà 95 reais. (E) Perderà 105 reais.
 
 **Risposta:** D
-[[Quesiti/src_obm_2013_n2_f1#q01|src_obm_2013_n2_f1__Q01]]
 
 
 
@@ -75,7 +74,6 @@ level: OBM Nível 2
 ![[src_obm_2013_n2_f1__q02.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2013_n2_f1#q02|src_obm_2013_n2_f1__Q02]]
 
 
 
@@ -112,7 +110,6 @@ level: OBM Nível 2
 ![[src_obm_2013_n2_f1__q03.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2013_n2_f1#q03|src_obm_2013_n2_f1__Q03]]
 
 
 
@@ -148,7 +145,6 @@ level: OBM Nível 2
 ![[src_obm_2013_n2_f1__q04.png]]
 
 **Risposta:** A
-[[Quesiti/src_obm_2013_n2_f1#q04|src_obm_2013_n2_f1__Q04]]
 
 
 
@@ -185,7 +181,6 @@ level: OBM Nível 2
 ![[src_obm_2013_n2_f1__q05.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2013_n2_f1#q05|src_obm_2013_n2_f1__Q05]]
 
 
 
@@ -218,7 +213,6 @@ level: OBM Nível 2
 > (A) 0 \quad (B) 1 \quad (C) 2 \quad (D) 3 \quad (E) 4
 
 **Risposta:** C
-[[Quesiti/src_obm_2013_n2_f1#q06|src_obm_2013_n2_f1__Q06]]
 
 
 
@@ -251,7 +245,6 @@ level: OBM Nível 2
 > (A) 102112 \quad (B) 270280 \quad (C) 833823 \quad (D) 929925 \quad (E) 923823
 
 **Risposta:** E
-[[Quesiti/src_obm_2013_n2_f1#q07|src_obm_2013_n2_f1__Q07]]
 
 
 
@@ -284,7 +277,6 @@ level: OBM Nível 2
 > (A) 4 \quad (B) 5 \quad (C) 6 \quad (D) 7 \quad (E) 8
 
 **Risposta:** A
-[[Quesiti/src_obm_2013_n2_f1#q08|src_obm_2013_n2_f1__Q08]]
 
 
 
@@ -327,7 +319,6 @@ level: OBM Nível 2
 > (A) Porta 1 \quad (B) Porta 2 \quad (C) Porta 3 \quad (D) Non è possibile determinare. Non è possibile in nessuna di esse.
 
 **Risposta:** A
-[[Quesiti/src_obm_2013_n2_f1#q09|src_obm_2013_n2_f1__Q09]]
 
 
 
@@ -371,7 +362,6 @@ level: OBM Nível 2
 > (A) 45 \quad (B) 46 \quad (C) 62 \quad (D) 63 \quad (E) 64
 
 **Risposta:** D
-[[Quesiti/src_obm_2013_n2_f1#q10|src_obm_2013_n2_f1__Q10]]
 
 
 
@@ -403,7 +393,6 @@ level: OBM Nível 2
 > (A) $\sqrt{7}$ \quad (B) $2\sqrt{2}$ \quad (C) $3$ \quad (D) $\sqrt{10}$ \quad (E) $2\sqrt{3}$
 
 **Risposta:** D
-[[Quesiti/src_obm_2013_n2_f1#q11|src_obm_2013_n2_f1__Q11]]
 
 
 
@@ -448,7 +437,6 @@ level: OBM Nível 2
 > (A) 2 \quad (B) 3 \quad (C) 6 \quad (D) 9 \quad (E) 12
 
 **Risposta:** B
-[[Quesiti/src_obm_2013_n2_f1#q12|src_obm_2013_n2_f1__Q12]]
 
 
 
@@ -481,7 +469,6 @@ level: OBM Nível 2
 > (A) 25 \quad (B) 13 \quad (C) 11 \quad (D) 31 \quad (E) 53
 
 **Risposta:** D
-[[Quesiti/src_obm_2013_n2_f1#q13|src_obm_2013_n2_f1__Q13]]
 
 
 
@@ -514,7 +501,6 @@ level: OBM Nível 2
 > (A) 64 \quad (B) 72 \quad (C) 81 \quad (D) 90 \quad (E) 96
 
 **Risposta:** C
-[[Quesiti/src_obm_2013_n2_f1#q14|src_obm_2013_n2_f1__Q14]]
 
 
 
@@ -551,7 +537,6 @@ level: OBM Nível 2
 ![[src_obm_2013_n2_f1__q15.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2013_n2_f1#q15|src_obm_2013_n2_f1__Q15]]
 
 
 
@@ -584,7 +569,6 @@ level: OBM Nível 2
 > (A) 3 \quad (B) 9 \quad (C) 18 \quad (D) 27 \quad (E) 123456789
 
 **Risposta:** B
-[[Quesiti/src_obm_2013_n2_f1#q16|src_obm_2013_n2_f1__Q16]]
 
 
 
@@ -618,7 +602,6 @@ level: OBM Nível 2
 > (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 4 \quad (E) 5
 
 **Risposta:** C
-[[Quesiti/src_obm_2013_n2_f1#q17|src_obm_2013_n2_f1__Q17]]
 
 
 
@@ -654,7 +637,6 @@ level: OBM Nível 2
 ![[src_obm_2013_n2_f1__q18.png]]
 
 **Risposta:** E
-[[Quesiti/src_obm_2013_n2_f1#q18|src_obm_2013_n2_f1__Q18]]
 
 
 
@@ -687,7 +669,6 @@ level: OBM Nível 2
 > (A) 0 \quad (B) 1 \quad (C) 2 \quad (D) 3 \quad (E) Impossibile da determinare.
 
 **Risposta:** A
-[[Quesiti/src_obm_2013_n2_f1#q19|src_obm_2013_n2_f1__Q19]]
 
 
 
@@ -720,7 +701,6 @@ level: OBM Nível 2
 > (A) 150 \quad (B) 216 \quad (C) 125 \quad (D) 80 \quad (E) 120
 
 **Risposta:** A
-[[Quesiti/src_obm_2013_n2_f1#q20|src_obm_2013_n2_f1__Q20]]
 
 
 
@@ -753,7 +733,6 @@ level: OBM Nível 2
 > (A) 150 \quad (B) 216 \quad (C) 125 \quad (D) 80 \quad (E) 120
 
 **Risposta:** D
-[[Quesiti/src_obm_2013_n2_f1#q21|src_obm_2013_n2_f1__Q21]]
 
 
 
@@ -789,7 +768,6 @@ level: OBM Nível 2
 ![[src_obm_2013_n2_f1__q22.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2013_n2_f1#q22|src_obm_2013_n2_f1__Q22]]
 
 
 
@@ -822,7 +800,6 @@ level: OBM Nível 2
 > (A) 8 \quad (B) 12 \quad (C) 4 \quad (D) 16 \quad (E) 2
 
 **Risposta:** A
-[[Quesiti/src_obm_2013_n2_f1#q23|src_obm_2013_n2_f1__Q23]]
 
 
 
@@ -859,7 +836,6 @@ level: OBM Nível 2
 ![[src_obm_2013_n2_f1__q24.png]]
 
 **Risposta:** A
-[[Quesiti/src_obm_2013_n2_f1#q24|src_obm_2013_n2_f1__Q24]]
 
 
 
@@ -892,4 +868,3 @@ level: OBM Nível 2
 > (A) 100 \quad (B) 150 \quad (C) 200 \quad (D) 240 \quad (E) 300
 
 **Risposta:** D
-[[Quesiti/src_obm_2013_n2_f1#q25|src_obm_2013_n2_f1__Q25]]

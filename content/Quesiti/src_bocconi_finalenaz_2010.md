@@ -46,8 +46,7 @@ Four watches: what time is it now?
 
 ![[src_bocconi_finalenaz_2010__q01.png]]
 
-**Answer:** 14 h 30 m (anche 2:30 del pomeriggio)
-[[Quesiti/src_bocconi_finalenaz_2010#q01|src_bocconi_finalenaz_2010__Q01]]
+**Answer:** 14 h 30 m (also 2:30 in the afternoon)
 
 
 
@@ -84,7 +83,6 @@ Four watches: what time is it now?
 ![[src_bocconi_finalenaz_2010__q02.png]]
 
 **Answer:** 3
-[[Quesiti/src_bocconi_finalenaz_2010#q02|src_bocconi_finalenaz_2010__Q02]]
 
 
 
@@ -117,7 +115,6 @@ Four watches: what time is it now?
 > Following the same rules, how many odd numbers can you read?
 
 **Answer:** 16
-[[Quesiti/src_bocconi_finalenaz_2010#q03|src_bocconi_finalenaz_2010__Q03]]
 
 
 
@@ -152,8 +149,6 @@ Four watches: what time is it now?
 
 ![[src_bocconi_finalenaz_2010__q04.png]]
 
-[[Quesiti/src_bocconi_finalenaz_2010#q04|src_bocconi_finalenaz_2010__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_logica,method_casework,skill_lettura_attenta,skill_stima,skill_ragionamento_geometrico"></span>
@@ -185,7 +180,6 @@ One step towards culture: how many books does the library of Calde have?
 > How many books exactly does Calde's library own?
 
 **Answer:** 2013
-[[Quesiti/src_bocconi_finalenaz_2010#q05|src_bocconi_finalenaz_2010__Q05]]
 
 
 
@@ -226,7 +220,6 @@ One step towards culture: how many books does the library of Calde have?
 ![[src_bocconi_finalenaz_2010__q06.png]]
 
 **Answer:** 15
-[[Quesiti/src_bocconi_finalenaz_2010#q06|src_bocconi_finalenaz_2010__Q06]]
 
 
 
@@ -256,8 +249,6 @@ One step towards culture: how many books does the library of Calde have?
 > **Switch the integers from 2 to 8 (consider once and only once) so that the sum of all the numbers on the same segment is always equal to 12. **
 
 ![[src_bocconi_finalenaz_2010__q07.png]]
-
-[[Quesiti/src_bocconi_finalenaz_2010#q07|src_bocconi_finalenaz_2010__Q07]]
 
 
 
@@ -290,7 +281,6 @@ One step towards culture: how many books does the library of Calde have?
 > **In the figure, how many parallelograms at most do you see? **
 
 **Answer:** 27
-[[Quesiti/src_bocconi_finalenaz_2010#q08|src_bocconi_finalenaz_2010__Q08]]
 
 
 
@@ -323,7 +313,6 @@ One step towards culture: how many books does the library of Calde have?
 > Who is it?
 
 **Answer:** 198
-[[Quesiti/src_bocconi_finalenaz_2010#q09|src_bocconi_finalenaz_2010__Q09]]
 
 
 
@@ -363,8 +352,7 @@ One step towards culture: how many books does the library of Calde have?
 
 ![[src_bocconi_finalenaz_2010__q10.png]]
 
-**Answer:** 7+7=14 oppure 4+8=12
-[[Quesiti/src_bocconi_finalenaz_2010#q10|src_bocconi_finalenaz_2010__Q10]]
+**Answer:** 7+7=14 or 4+8=12
 
 
 
@@ -397,7 +385,6 @@ One step towards culture: how many books does the library of Calde have?
 > What is the maximum number of kilometres you could have walked?
 
 **Answer:** 48
-[[Quesiti/src_bocconi_finalenaz_2010#q11|src_bocconi_finalenaz_2010__Q11]]
 
 
 
@@ -429,8 +416,7 @@ One step towards culture: how many books does the library of Calde have?
 > 
 > **If you get 450, what are these two numbers (in ascending order)?**
 
-**Answer:** (2, 100) oppure (4, 72) oppure (14, 28)
-[[Quesiti/src_bocconi_finalenaz_2010#q12|src_bocconi_finalenaz_2010__Q12]]
+**Answer:** (2, 100) or (4, 72) or (14, 28)
 
 
 
@@ -463,7 +449,6 @@ One step towards culture: how many books does the library of Calde have?
 > What should be the first number Laura writes if she wants to be sure to take at least 15 euros from the table, no matter how Matteo plays?
 
 **Answer:** 2
-[[Quesiti/src_bocconi_finalenaz_2010#q13|src_bocconi_finalenaz_2010__Q13]]
 
 
 
@@ -496,7 +481,6 @@ One step towards culture: how many books does the library of Calde have?
 > **How many of these results are divisible by 3? **
 
 **Answer:** 43
-[[Quesiti/src_bocconi_finalenaz_2010#q14|src_bocconi_finalenaz_2010__Q14]]
 
 
 
@@ -529,7 +513,6 @@ One step towards culture: how many books does the library of Calde have?
 > **In increasing order, the quantities of Euro contained in the various Salvadanian currency units.**
 
 **Answer:** 13, 27, 35, 65, 65
-[[Quesiti/src_bocconi_finalenaz_2010#q15|src_bocconi_finalenaz_2010__Q15]]
 
 
 
@@ -562,4 +545,3 @@ One step towards culture: how many books does the library of Calde have?
 > What is the minimum perimeter of Rosi's garden?
 
 **Answer:** 77
-[[Quesiti/src_bocconi_finalenaz_2010#q16|src_bocconi_finalenaz_2010__Q16]]

@@ -33,8 +33,6 @@ level: IMO
 
 > La circonferenza $AB$ è tangente alle circonferenze $CAMN$ e $NMBD$. Il punto $M$ si trova tra i punti $C$ e $D$ sulla retta $CD$, e la retta $CD$ è parallela alla retta $AB$. Le corde $NA$ e $CM$ si intersecano nel punto $P$; le corde $NB$ e $DM$ si intersecano nel punto $Q$. I raggi $CA$ e $DB$ si incontrano nel punto $E$. Si dimostri che $PE = QE$.
 
-[[Quesiti/src_imho_2000#q01|src_imho_2000__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -62,8 +60,6 @@ level: IMO
 > Siano $a, b, c$ numeri reali positivi il cui prodotto è 1. Si dimostri che
 > $$\left(a - 1 + \frac{1}{b}\right)\left(b - 1 + \frac{1}{c}\right)\left(c - 1 + \frac{1}{a}\right) \le 1.$$
 
-[[Quesiti/src_imho_2000#q02|src_imho_2000__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_combinatoria,method_invarianti,method_casework,skill_riconoscimento_pattern,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -88,8 +84,6 @@ level: IMO
 *Gioco di punti mobili su una retta, domanda sulla periodicità*
 
 > Siano $k$ un numero reale positivo, $N$ un intero maggiore di 1 e $N$ punti disposti su una retta, non tutti coincidenti. Una mossa consiste nel seguente: si scelgono due punti $A$ e $B$ non sovrapposti; si sostituisce $B$ con un altro punto $B'$ posto a destra di $B$; si sostituisce $A$ con un altro punto $A'$ posto a sinistra di $A$ in modo che $A'B' = kAB$. Per quali valori di $k$ è possibile spostare i punti arbitrariamente lontano a destra compiendo ripetutamente mosse di questo tipo?
-
-[[Quesiti/src_imho_2000#q03|src_imho_2000__Q03]]
 
 
 
@@ -116,8 +110,6 @@ level: IMO
 
 > 100 carte sono numerate da 1 a 100 (ogni carta con un numero diverso) e messe in 3 scatole (almeno una carta in ogni scatola). In quanti modi si può fare ciò in modo che, scelte due scatole ed estratta una carta da ciascuna, la sola conoscenza della loro somma sia sempre sufficiente per identificare la terza scatola?
 
-[[Quesiti/src_imho_2000#q04|src_imho_2000__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,method_induzione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -143,8 +135,6 @@ level: IMO
 
 > Possiamo trovare $N$ divisibile esattamente da 2000 primi distinti, in modo che $N$ divida $2^N + 1$? [N può essere divisibile da una potenza di un primo.]
 
-[[Quesiti/src_imho_2000#q05|src_imho_2000__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -169,5 +159,3 @@ level: IMO
 *I piedi delle altezze riflesse nei bisettori angolari giacciono sulla circonferenza inscritta*
 
 > Sia $A_1A_2A_3$ un triangolo acutangolo. Il piede dell'altezza da $A_i$ è $K_i$, e la circonferenza inscritta tocca il lato opposto a $A_i$ nel punto $L_i$. La retta $K_1K_2$ è riflessa rispetto alla retta $L_1L_2$. Analogamente, la retta $K_2K_3$ è riflessa rispetto alla retta $L_2L_3$, e la retta $K_3K_1$ è riflessa rispetto alla retta $L_3L_1$. Si dimostri che le tre nuove rette formano un triangolo i cui vertici appartengono alla circonferenza inscritta.
-
-[[Quesiti/src_imho_2000#q06|src_imho_2000__Q06]]

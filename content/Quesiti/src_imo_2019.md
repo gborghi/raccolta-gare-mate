@@ -33,8 +33,6 @@ level: IMO
 
 > It is $\mathbb{Z}$ the set of integers. Determine all functions $f : \mathbb{Z} \to \mathbb{Z}$ such that, for all integers $a$ and $b$, $$f(2a) + 2f(b) = f(f(a+b)).$$
 
-[[Quesiti/src_imo_2019#q01|src_imo_2019__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
@@ -63,8 +61,6 @@ level: IMO
 > In the $ABC$ triangle, the point $A_1$ lies on the $BC$ side and the point $B_1$ lies on the $AC$ side. $P$ and $Q$ points on the $AA_1$ and $BB_1$ segments respectively, such that $PQ$ is parallel to $AB$. Whether $P_1$ is a point on the $PB_1$ line such that $B_1$ is located between $P$ and $P_1$, and $\angle PP_1C = \angle BAC$. Similarly, $Q_1$ is a point on the $QA_1$ line such that $A_1$ is close to $Q$ and $Q_1$, and $\angle CQ_1Q = \angle CBA$.
 > 
 > To demonstrate that $P$, $Q$, $P_1$ and $Q_1$ are complicated.
-
-[[Quesiti/src_imo_2019#q02|src_imo_2019__Q02]]
 
 
 
@@ -99,8 +95,6 @@ level: IMO
 > 
 > Initially, $1010$ users each have $1009$ friends and $1009$ users each have $1010$ friends. Demonstrate that there is a sequence of such events after which each user is friends with at most one other user.
 
-[[Quesiti/src_imo_2019#q03|src_imo_2019__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_riconoscimento_pattern"></span>
@@ -126,8 +120,6 @@ level: IMO
 *Couples (k,n) with k!=(2^n-1)(2^n-2)...*
 
 > Find all positive integers $(k, n)$ pairs such as $$k! = (2^n - 1)(2^n - 2)(2^n - 4) \cdots (2^n - 2^{n-1}).$$
-
-[[Quesiti/src_imo_2019#q04|src_imo_2019__Q04]]
 
 
 
@@ -162,8 +154,6 @@ level: IMO
 > 
 > (b) For each initial configuration $C$, be $L(C)$ the number of operations before Harry stops. For example, $L(THT) = 3$ and $L(TTT) = 0$. Determine the mean value of $L(C)$ over all possible initial configurations $2^n$.
 
-[[Quesiti/src_imo_2019#q05|src_imo_2019__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
@@ -192,5 +182,3 @@ level: IMO
 > Whether $I$ the center of the inscribed circle of the acutangol triangle $ABC$ with $AB \neq AC$. The circle inscribed $\omega$ of $ABC$ is tangent to the sides $BC$, $CA$ and $AB$ respectively in $D$, $E$ and $F$. The straight line passing through $D$ perpendicular to $EF$ meets $\omega$ again in $R$. The $AR$ line is again $\omega$ in $P$. The circumferences circumscribed to the $PCE$ and $PBF$ triangles meet again in $Q$.
 > 
 > Show that the lines $DI$ and $PQ$ meet on the straight line passing by $A$ perpendicular to $AI$.
-
-[[Quesiti/src_imo_2019#q06|src_imo_2019__Q06]]

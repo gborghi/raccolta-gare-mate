@@ -38,7 +38,6 @@ level: squadre
 > Divisible by 60 What is the smallest natural number of three digits ABC, all distinct from each other and different from zero, such that the average of all the numbers that you get by permuting the three digits (ABC included) is an integer divisible by 60?
 
 **Answer:** 0127
-[[Quesiti/src_kangourou_2024_junior_squadre_f2#q01|src_kangourou_2024_junior_squadre_f2__Q01]]
 
 
 
@@ -71,7 +70,6 @@ level: squadre
 > The net A plot of land square 1 km side is divided into rectangular sections each of which may be 5 m × 20 m or 6 m × 12 m in size. The individual portions are separated by a net and the overall plot is fenced off, always by a net: taking into account all possible layouts, what is the sum between the maximum and minimum length in kilometres of the net as a whole required?
 
 **Answer:** 0504
-[[Quesiti/src_kangourou_2024_junior_squadre_f2#q02|src_kangourou_2024_junior_squadre_f2__Q02]]
 
 
 
@@ -104,7 +102,6 @@ level: squadre
 > with at least two elements do not contain two consecutive numbers?
 
 **Answer:** 0221
-[[Quesiti/src_kangourou_2024_junior_squadre_f2#q03|src_kangourou_2024_junior_squadre_f2__Q03]]
 
 
 
@@ -138,7 +135,6 @@ level: squadre
 > The equation Consider the equation (in the unknown x), dependent on the two parameters a and b, x3 – 10x2 + ax – b = 0. There are ordered pairs (a, b) of strictly positive integers such that the equation has three (real) solutions all of which are strictly positive integers. What is the sum of the first elements of these pairs? (If you believe there are infinite pairs, write 9999).
 
 **Answer:** 0220
-[[Quesiti/src_kangourou_2024_junior_squadre_f2#q04|src_kangourou_2024_junior_squadre_f2__Q04]]
 
 
 
@@ -169,7 +165,6 @@ level: squadre
 > The grid A competitor has a 10 × 10 square grid. It earns two points for each square subgrid (original grid included) it can identify and one point for each non-square rectangular subgrid it can identify. What is the maximum score it can total?
 
 **Answer:** 3410
-[[Quesiti/src_kangourou_2024_junior_squadre_f2#q05|src_kangourou_2024_junior_squadre_f2__Q05]]
 
 
 
@@ -208,7 +203,6 @@ level: squadre
 > What is f(0)?
 
 **Answer:** 0091
-[[Quesiti/src_kangourou_2024_junior_squadre_f2#q06|src_kangourou_2024_junior_squadre_f2__Q06]]
 
 
 
@@ -337,7 +331,6 @@ level: squadre
 > K B C D E F G A H
 
 **Answer:** 0630
-[[Quesiti/src_kangourou_2024_junior_squadre_f2#q07|src_kangourou_2024_junior_squadre_f2__Q07]]
 
 
 
@@ -368,7 +361,6 @@ level: squadre
 > Perfect square Write the first four digits (from the left) of the largest natural number n such that n^2 + 2024n is a perfect square.
 
 **Answer:** 2550
-[[Quesiti/src_kangourou_2024_junior_squadre_f2#q08|src_kangourou_2024_junior_squadre_f2__Q08]]
 
 
 
@@ -399,7 +391,6 @@ level: squadre
 > The remainder The positive integer N consists of 1,001 digits all equal to 1. What's the remainder of the division of N by 1.001?
 
 **Answer:** 0100
-[[Quesiti/src_kangourou_2024_junior_squadre_f2#q09|src_kangourou_2024_junior_squadre_f2__Q09]]
 
 
 
@@ -434,7 +425,6 @@ level: squadre
 > The Ada cube adjoins 64 cubes on side 1 to form a cube 4 × 4 × 4 and coats the six outer faces of the resulting cube in red. Then he separates the 64 cubes, randomly picks one of them and throws it on the floor like a dice: what is the probability that, among the faces of the cubes visible after the launch, there is exactly one painting of it in red? (Write one after the other numerator and denominator of the fraction: for example if the answer is 21/23 or 2/123 write in both cases 2123, if it is 1/3 write 0103.)
 
 **Answer:** 0716
-[[Quesiti/src_kangourou_2024_junior_squadre_f2#q10|src_kangourou_2024_junior_squadre_f2__Q10]]
 
 
 
@@ -469,7 +459,6 @@ level: squadre
 > possible number of elements. What is this number?
 
 **Answer:** 0030
-[[Quesiti/src_kangourou_2024_junior_squadre_f2#q11|src_kangourou_2024_junior_squadre_f2__Q11]]
 
 
 
@@ -501,7 +490,6 @@ Percentage of area S with respect to area T triangle 3,4,5
 > The dimensions of the sides of a T triangle are 3, 4 and 5. The height and median of this triangle relative to the vertex of the largest angle are sides of the same S triangle. What percentage of the area of T is the area of S?
 
 **Answer:** 0014
-[[Quesiti/src_kangourou_2024_junior_squadre_f2#q12|src_kangourou_2024_junior_squadre_f2__Q12]]
 
 
 
@@ -534,7 +522,6 @@ Percentage of area S with respect to area T triangle 3,4,5
 > The vertex Compared to a system of orthogonal (monometric) Cartesian axes fixed for space, the three points (4, 0, 3), (6, 4, 1) and (2, 8, 5) represent three of the vertices of a cube. Only one of the remaining 5 vertices has as its first coordinate 0: what are its coordinates in order? (The coordinates required are all non-negative integers less than 10, so the answer must be [00AB].)
 
 **Answer:** 0047
-[[Quesiti/src_kangourou_2024_junior_squadre_f2#q13|src_kangourou_2024_junior_squadre_f2__Q13]]
 
 
 
@@ -568,7 +555,6 @@ How many cards show a white face after 2024 moves
 > The cards There are 2024 cards, each with a white face and the other gray, numbered from 1 to 2024 with the same number on both faces. Initially, they all show the white face. 2024 moves are performed: for 1 ≤ k ≤ 2024, the k-th move consists of flipping all the cards that have a number divisible by k (since on the first move all the cards are flipped, on the second only the cards that have an even number, and so on). After 2024 moves, how many cards show the white face?
 
 **Answer:** 1980
-[[Quesiti/src_kangourou_2024_junior_squadre_f2#q14|src_kangourou_2024_junior_squadre_f2__Q14]]
 
 
 
@@ -613,4 +599,3 @@ How many cards show a white face after 2024 moves
 > Titles and answers
 
 **Answer:** 1024
-[[Quesiti/src_kangourou_2024_junior_squadre_f2#q15|src_kangourou_2024_junior_squadre_f2__Q15]]

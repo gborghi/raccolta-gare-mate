@@ -44,7 +44,6 @@ level: kangourou
 > Which of the parallel pipes shown in the answers can be composed using these six identical-sized bricks? A) B) C) D) E)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_benjamin#q01|src_kangourou_2021_benjamin__Q01]]
 
 
 
@@ -82,7 +81,6 @@ level: kangourou
 > In this picture, all the children are holding hands. How many times does it happen that both hands that are holding together are left hands? A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** A
-[[Quesiti/src_kangourou_2021_benjamin#q02|src_kangourou_2021_benjamin__Q02]]
 
 
 
@@ -120,7 +118,6 @@ level: kangourou
 > By correctly fitting the five puzzle tiles together, you get a rectangle in which you read an addition. What is the result? A) 22 B) 32 C) 41 D) 122 E) 203
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_benjamin#q03|src_kangourou_2021_benjamin__Q03]]
 
 
 
@@ -170,7 +167,6 @@ level: kangourou
 >
 
 **Answer:** E
-[[Quesiti/src_kangourou_2021_benjamin#q04|src_kangourou_2021_benjamin__Q04]]
 
 
 
@@ -221,7 +217,6 @@ level: kangourou
 > E) 81
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_benjamin#q05|src_kangourou_2021_benjamin__Q05]]
 
 
 
@@ -272,7 +267,6 @@ level: kangourou
 > E) She can't.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_benjamin#q06|src_kangourou_2021_benjamin__Q06]]
 
 
 
@@ -316,7 +310,6 @@ level: kangourou
 > C) C D) D E) E
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_benjamin#q07|src_kangourou_2021_benjamin__Q07]]
 
 
 
@@ -357,7 +350,6 @@ level: kangourou
 > Mary had a sheet of paper. She folded it exactly in half and then folded it in half again and got the figure to the right. Of the P, Q and R shapes you see on the left, which could have been the original paper? A) Only P. B) Only Q. C) Only R. D) Only P or Q. E) Any one of the three forms.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2021_benjamin#q08|src_kangourou_2021_benjamin__Q08]]
 
 
 
@@ -390,7 +382,6 @@ level: kangourou
 > In one box were 20 apples and 20 pears. Carlo took 20 fruits at random from the box and Luca took all the rest. Which of the following is certainly true? A) Carlo took at least one pear. B) Carlo took the same number of apples and pears. C) Carlo took the same number of apples as Luca. D) Carlo took as many pears as the apples that Luca took. E) Carlo took the same number of pears as Luca.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_benjamin#q09|src_kangourou_2021_benjamin__Q09]]
 
 
 
@@ -467,7 +458,6 @@ level: kangourou
 > The questions from N. 11 to N. 20 is worth 4 points each.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_benjamin#q10|src_kangourou_2021_benjamin__Q10]]
 
 
 
@@ -503,7 +493,6 @@ level: kangourou
 > Giulio wrote the number 5021972970 on a strip of paper; then he cut the strip at two points; thus he got three numbers that he then went to add up. What's the smallest sum that Giulio could have gotten? A) 3244 B) 3444 C) 5172 D) 5217 E) 5444
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_benjamin#q11|src_kangourou_2021_benjamin__Q11]]
 
 
 
@@ -554,7 +543,6 @@ level: kangourou
 > C) 25 D) 35 E) 50
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_benjamin#q12|src_kangourou_2021_benjamin__Q12]]
 
 
 
@@ -611,7 +599,6 @@ level: kangourou
 > E)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_benjamin#q13|src_kangourou_2021_benjamin__Q13]]
 
 
 
@@ -664,7 +651,6 @@ Number at the top? with sums of 30 in hexagons*
 > E) 7
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_benjamin#q14|src_kangourou_2021_benjamin__Q14]]
 
 
 
@@ -710,7 +696,6 @@ Number at the top? with sums of 30 in hexagons*
 > D) 8,2 E) 8,5
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_benjamin#q15|src_kangourou_2021_benjamin__Q15]]
 
 
 
@@ -796,7 +781,6 @@ The color of the sphere? in the spherical pyramid*
 > E) E
 
 **Answer:** A
-[[Quesiti/src_kangourou_2021_benjamin#q16|src_kangourou_2021_benjamin__Q16]]
 
 
 
@@ -853,7 +837,6 @@ The color of the sphere? in the spherical pyramid*
 > E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2021_benjamin#q17|src_kangourou_2021_benjamin__Q17]]
 
 
 
@@ -908,7 +891,6 @@ The color of the sphere? in the spherical pyramid*
 > E)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_benjamin#q18|src_kangourou_2021_benjamin__Q18]]
 
 
 
@@ -950,7 +932,6 @@ The color of the sphere? in the spherical pyramid*
 > E) 4 parts green and 9 parts white.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_benjamin#q19|src_kangourou_2021_benjamin__Q19]]
 
 
 
@@ -1039,7 +1020,6 @@ The color of the sphere? in the spherical pyramid*
 > The questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_benjamin#q20|src_kangourou_2021_benjamin__Q20]]
 
 
 
@@ -1078,7 +1058,6 @@ The color of the sphere? in the spherical pyramid*
 > C) Dani and Eva. D) Eva and Anna. E) There is insufficient information to establish this.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2021_benjamin#q21|src_kangourou_2021_benjamin__Q21]]
 
 
 
@@ -1126,7 +1105,6 @@ Maximum number of pancakes with ingredients given
 > E) 15
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_benjamin#q22|src_kangourou_2021_benjamin__Q22]]
 
 
 
@@ -1175,7 +1153,6 @@ Maximum number of pancakes with ingredients given
 > D) E)
 
 **Answer:** A
-[[Quesiti/src_kangourou_2021_benjamin#q23|src_kangourou_2021_benjamin__Q23]]
 
 
 
@@ -1220,7 +1197,6 @@ Maximum number of pancakes with ingredients given
 > E) The data are insufficient to determine it.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_benjamin#q24|src_kangourou_2021_benjamin__Q24]]
 
 
 
@@ -1273,7 +1249,6 @@ Maximum number of pancakes with ingredients given
 > E) 21
 
 **Answer:** E
-[[Quesiti/src_kangourou_2021_benjamin#q25|src_kangourou_2021_benjamin__Q25]]
 
 
 
@@ -1339,7 +1314,6 @@ Maximum number of pancakes with ingredients given
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_benjamin#q26|src_kangourou_2021_benjamin__Q26]]
 
 
 
@@ -1391,7 +1365,6 @@ Maximum number of pancakes with ingredients given
 > E) 14
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_benjamin#q27|src_kangourou_2021_benjamin__Q27]]
 
 
 
@@ -1440,7 +1413,6 @@ Maximum number of pancakes with ingredients given
 > E) 86
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_benjamin#q28|src_kangourou_2021_benjamin__Q28]]
 
 
 
@@ -1491,7 +1463,6 @@ Maximum number of pancakes with ingredients given
 > E) 55
 
 **Answer:** A
-[[Quesiti/src_kangourou_2021_benjamin#q29|src_kangourou_2021_benjamin__Q29]]
 
 
 
@@ -1549,4 +1520,3 @@ Maximum number of pancakes with ingredients given
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_benjamin#q30|src_kangourou_2021_benjamin__Q30]]

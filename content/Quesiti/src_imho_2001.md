@@ -41,8 +41,6 @@ level: IMO
 > 
 > Si dimostri che $\angle CAB + \angle COP < 90^\circ$.
 
-[[Quesiti/src_imho_2001#q01|src_imho_2001__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
@@ -71,8 +69,6 @@ level: IMO
 > Si dimostri che
 > $$\frac{a}{\sqrt{a^2+8bc}}+\frac{b}{\sqrt{b^2+8ca}}+\frac{c}{\sqrt{c^2+8ab}}\ge 1$$
 > per tutti i numeri reali positivi $a$, $b$ e $c$.
-
-[[Quesiti/src_imho_2001#q02|src_imho_2001__Q02]]
 
 
 
@@ -109,8 +105,6 @@ level: IMO
 > 
 > Si dimostri che esiste un problema risolto da almeno tre ragazze e da almeno tre ragazzi.
 
-[[Quesiti/src_imho_2001#q03|src_imho_2001__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_cassetti,method_congruenze,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_modellizzazione,skill_riconoscimento_pattern"></span>
@@ -139,8 +133,6 @@ level: IMO
 > Sia $n$ un intero dispari maggiore di $1$, e siano $k_1, k_2, \ldots, k_n$ degli interi dati. Per ciascuna delle $n!$ permutazioni $a = (a_1, a_2, \ldots, a_n)$ di $1, 2, \ldots, n$, sia
 > $$S(a) = \sum_{i=1}^{n} k_i\, a_i.$$
 > Si dimostri che esistono due permutazioni $b$ e $c$, con $b \ne c$, tali che $n!$ è un divisore di $S(b) - S(c)$.
-
-[[Quesiti/src_imho_2001#q04|src_imho_2001__Q04]]
 
 
 
@@ -175,8 +167,6 @@ level: IMO
 > 
 > Quali sono gli angoli possibili del triangolo $ABC$?
 
-[[Quesiti/src_imho_2001#q05|src_imho_2001__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione,skill_lettura_attenta"></span>
@@ -205,5 +195,3 @@ level: IMO
 > Siano $a$, $b$, $c$, $d$ interi tali che $a > b > c > d > 0$. Supponiamo che
 > $$ac + bd = (b + d + a - c)(b + d - a + c).$$
 > Si dimostri che $ab + cd$ non è primo.
-
-[[Quesiti/src_imho_2001#q06|src_imho_2001__Q06]]

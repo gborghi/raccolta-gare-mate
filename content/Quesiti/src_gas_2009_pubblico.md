@@ -42,7 +42,6 @@ Maximum number of Elves among honest/ foolish prisoners
 > Question of Honor [10] They elevate noble creatures to Him and flee from falsehood and deceit: they always speak the truth. Humans, on the other hand, are a less austere people and have no regrets if they need to lie: they can tell the truth or the lie. When the Orcs conquer a human stronghold, they capture 9999 prisoners. They are questioned in order; the first 1729 claim to be elves. Starting with 1730°, the n-eighth states There are at least n −1729 humans among us. How many elves can there be?
 
 **Answer:** 5864
-[[Quesiti/src_gas_2009_pubblico#q01|src_gas_2009_pubblico__Q01]]
 
 
 
@@ -74,7 +73,6 @@ Maximum number of Elves among honest/ foolish prisoners
 > Pythagorean Rectangle [15] El-Romb is patiently compiling a 10000 × 10000 Pythagorean table. Bobo goes over there and traces the edge of a rectangle of 5×53 boxes that has 1001 on two opposite corners and wonders what the arithmetic mean of all the numbers in the rectangle is. Can you answer that?
 
 **Answer:** 1053
-[[Quesiti/src_gas_2009_pubblico#q02|src_gas_2009_pubblico__Q02]]
 
 
 
@@ -107,7 +105,6 @@ Maximum number of Elves among honest/ foolish prisoners
 > Ancient Battles [20] A major battle of ancient times took place in the Year N of the first era. Knowing that N is the smallest number that, based on ten, is written with the numbers 2 and 3 and is divisible by 22009, find the last 4 digits of N.
 
 **Answer:** 3232
-[[Quesiti/src_gas_2009_pubblico#q03|src_gas_2009_pubblico__Q03]]
 
 
 
@@ -142,7 +139,6 @@ Maximum number of Elves among honest/ foolish prisoners
 > Gobbit birthdays [20] Gobbits have a different life cycle than humans, in fact they reach maturity later and remain young much longer. Today is Polynus' birthday, but Morry doesn't remember the age of his young friend. Polino then puts this riddle: My age is equal to the number of integers between 1 and 55 that cannot be written as ±12 ±22 ±32 ±42 ±52 for any choice of signs. How old is Polino?
 
 **Answer:** 0041
-[[Quesiti/src_gas_2009_pubblico#q04|src_gas_2009_pubblico__Q04]]
 
 
 
@@ -179,7 +175,6 @@ Maximum number of Elves among honest/ foolish prisoners
 > Engravings in the rock [25] In narrating his journey to the mines of Toria, a traveler hinted at a rock wall on which something particular was written: it was a polynomial, in which the highest degree term was x4 and the known term 45. He couldn't remember anything else about that engraving, but he knew all his roots were intact. How many different coefficients could the third degree term have? Team competition 2009  Public competition  Problem texts  Pag. 1 di 4
 
 **Answer:** 0013
-[[Quesiti/src_gas_2009_pubblico#q05|src_gas_2009_pubblico__Q05]]
 
 
 
@@ -217,7 +212,6 @@ Maximum number of Elves among honest/ foolish prisoners
 > Lights and Shadows [25] Sarumath's Polyedril is a perfectly transparent cube-shaped crystal of 1 foot by side. The evil Tauron also sabotaged this visionary stone, inserting a black, opaque square with vertices in the centers of the vertical faces of the cube. To allow Areagorn to use the stone again, Gaussdalf must conjure up a magic light source on the vertical of the center of the black square, in such a position that the ratio between the surface of the illuminated cube and that in shadow is equal to 2010/2009 (the light source can also be placed inside the cube). At what distance from the square, standing, will the light have to be evoked? (As a result, provide the sum of the numerator and denominator of the reduced fraction to the minimum terms.)
 
 **Answer:** 8041
-[[Quesiti/src_gas_2009_pubblico#q06|src_gas_2009_pubblico__Q06]]
 
 
 
@@ -253,7 +247,6 @@ Maximum number of Elves among honest/ foolish prisoners
 > Meeting in Riemandell [30] El-Romb organized a meeting in Riemandell between representatives of the various races. Four elves, three dwarves and three men will come and sit around a round table with 10 seats. However, elves and dwarves do not agree to sit next to each other: how many ways can El-Romb arrange the 10 guests at the table? (Note: two arrangements are considered equal if they are obtained from each other by rotation, but different if they are obtained by symmetry. All guests should be considered different and distinctive.)
 
 **Answer:** 6048
-[[Quesiti/src_gas_2009_pubblico#q07|src_gas_2009_pubblico__Q07]]
 
 
 
@@ -301,7 +294,6 @@ Maximum number of Elves among honest/ foolish prisoners
 > The Moon of Puntor [30] Legends tell that the night of the Battle of Puntor was illuminated by a moon shaped like the area enclosed between the arc of circumference AB, BD, DC and CA, where: AB is a half-circle of midpoint L; C and D are such that BC and AD are as long as AB and pass through L; the arcs BD, DC and CA have a center in A, L and B respectively. (See figure.) If AB measured 42 kilometers, how much would the area enclosed by the moon be, in square kilometers? . ..A . .B . .L . .D ..C
 
 **Answer:** 0370
-[[Quesiti/src_gas_2009_pubblico#q08|src_gas_2009_pubblico__Q08]]
 
 
 
@@ -341,7 +333,6 @@ Maximum number of Elves among honest/ foolish prisoners
 > Toria mines [35] The Toria mines, wonderful underground dwellings built by dwarves, can be seen as a three-dimensional lattice 5 miles long in the West-East direction, 3 miles wide in the North-South direction that develops on 5 levels (5 floors, so 4 stair ramps). Each mile there is a room which is connected to the next rooms by corridors to E, O, N and S and to the upper and lower rooms by stairs. Gaussdalf and the ring company have just entered the gate of the cleaver at the highest level in the NO corner and must reach the gate to the Anduin at the lowest level in the SE corner. They want to do it fast, so they want to go through as few rooms as possible. They also know that the lowest level is on fire, so they only want to get down there after pushing themselves as far as possible. How many different paths can they take?
 
 **Answer:** 9240
-[[Quesiti/src_gas_2009_pubblico#q09|src_gas_2009_pubblico__Q09]]
 
 
 
@@ -386,7 +377,6 @@ Maximum number of consistent statements on 12 subjects
 > Team competition 2009  Public competition  Problem texts  Pag. How many statements can Sarumath make at most?
 
 **Answer:** 4094
-[[Quesiti/src_gas_2009_pubblico#q10|src_gas_2009_pubblico__Q10]]
 
 
 
@@ -420,7 +410,6 @@ Maximum number of consistent statements on 12 subjects
 > The legendary number [40] There is an inscription at the doors of Puntor that records the legendary number  i.e. the largest number known at the time of the creation of Puntor. We know that number is 1.3.5. 2009. However, the wind has eroded the stone over time and what remains are only the last four digits. What are they?
 
 **Answer:** 0625
-[[Quesiti/src_gas_2009_pubblico#q11|src_gas_2009_pubblico__Q11]]
 
 
 
@@ -454,7 +443,6 @@ Maximum number of consistent statements on 12 subjects
 > Siege towers [40] The Orcs are building the towers to besiege the fortress of Minas Torith. To make them, some parallel-piped bricks are used. They don't know the dimensions of the sides, but they know that if you add the length by 7 times the width and 49 times the height you get the size of 273 cm. What is the maximum volume of each brick in cubic centimetres?
 
 **Answer:** 2197
-[[Quesiti/src_gas_2009_pubblico#q12|src_gas_2009_pubblico__Q12]]
 
 
 
@@ -487,7 +475,6 @@ Maximum number of consistent statements on 12 subjects
 > Keeping in touch [45] Before meeting at the council convened by El-Romb in Riemandell, the 25 free peoples' representatives will have to contact each other, and each of them wants to make sure they have heard everyone else. Unfortunately, the council members come from 13 different cities, so each will send a letter to everyone who is not in their city. How many letters were sent, at least?
 
 **Answer:** 0444
-[[Quesiti/src_gas_2009_pubblico#q13|src_gas_2009_pubblico__Q13]]
 
 
 
@@ -521,7 +508,6 @@ How to wear 9 rings on 8 fingers in order*
 > Nine to mortal men [50] The evil Tauron, blinded by the desire for power, tells the story of how he can wear the 9 rings of the Nazgul on the 8 surviving fingers of his hands. In each of these ways, he notes how many and which rings go on which finger and in which order. How many different ways will it count? (If the quantity requested is an integer greater than 9999, please provide the last 4 digits as a result.)
 
 **Answer:** 7200
-[[Quesiti/src_gas_2009_pubblico#q14|src_gas_2009_pubblico__Q14]]
 
 
 
@@ -559,7 +545,6 @@ How to wear 9 rings on 8 fingers in order*
 > The stairs of Banach Dur [55] The tower of Tauron has 39! The stairs. The lowest of the orchestral servants, who is on the top ladder, is taking orders directly from the Dark Lord, and must transmit them down to various lieutenants throughout the tower. He starts by descending the exact half of the steps, where he finds a first lieutenant; from here on, whenever he talks to a lieutenant on the k-eighth ladder, he orders him to descend from d other steps, where d is the largest divisor of k distinct from k itself. When he finally reached the first step, he exchanged two words with the second lieutenant and then stroked the ground. How many lieutenants did the orchestra talk to before it hit the ground?
 
 **Answer:** 0195
-[[Quesiti/src_gas_2009_pubblico#q15|src_gas_2009_pubblico__Q15]]
 
 
 
@@ -596,7 +581,6 @@ How to wear 9 rings on 8 fingers in order*
 > Radical reinforcements [60] Areagorn must seek to increase the company's army and ask for reinforcements from the undead. Sadly, the head of the army of the undead, a mathematician, proposes to Areagorn to give him a warrior for every natural number n such that the number 49q√n+p n+20092009 is whole. How many undead will the company have?
 
 **Answer:** 1743
-[[Quesiti/src_gas_2009_pubblico#q16|src_gas_2009_pubblico__Q16]]
 
 
 
@@ -630,7 +614,6 @@ How to wear 9 rings on 8 fingers in order*
 > Tauron's Polyhedron [65] The Polyhedron of the Dark Lord is a tetrahedron whose beam lengths amount to 46, 47, 50, 55, 56 and 64 centimetres. Within the polyhedron, an ethereal segment is a segment that joins a vertex with the baricenter of the opposite face. What is the sum of the squares of the lengths of the four etheric segments, in square centimeters?
 
 **Answer:** 7592
-[[Quesiti/src_gas_2009_pubblico#q17|src_gas_2009_pubblico__Q17]]
 
 
 
@@ -675,7 +658,6 @@ How to wear 9 rings on 8 fingers in order*
 > Morry and Polino are respectively in points M and P and note that the points in which they are located have a peculiarity: if you calculate the difference between the squares of the lengths of the tangents conducting to the two circles, you find the same number for both gobbits. They also note that the angles [ MAB, [ MBA] measure 60 and 30 degrees respectively and the tangent of d PAB is 12/5. How much is the tangent of the angle of PBA? (As a result, provide the sum of the numerator and denominator of the reduced fraction to the minimum terms.)
 
 **Answer:** 0009
-[[Quesiti/src_gas_2009_pubblico#q18|src_gas_2009_pubblico__Q18]]
 
 
 
@@ -713,7 +695,6 @@ How to wear 9 rings on 8 fingers in order*
 > The book gives the numbers [75] To decorate the book that recounts his adventures, Bobo decided to write on the first line of the last page the numbers 1,22,32,...,20092. Moving to the bottom line, below each pair of numbers in the top line he writes their sum, then moves to the next line proceeding the same way and continues that way until he gets a single number. What's the last number? (If the required quantity is an integer n = pa1 1 ... pak k, with p1,..., pk prime distinct, giving the resulting number p1a1 +··+ pkak.)
 
 **Answer:** 4574
-[[Quesiti/src_gas_2009_pubblico#q19|src_gas_2009_pubblico__Q19]]
 
 
 
@@ -819,4 +800,3 @@ How to wear 9 rings on 8 fingers in order*
 > . . I 'm not . Team competition .2 .9 X NATIONAL GARA A SQUADER Public competition  SOLUTIONS  9 May 2009 No. Problem Pti Solution 1 Question d'honneur 10 5864 2 Pythagorean Rectangle 15 1053 3 Ancient battles 20 3232 4 Birthdays gobbit 20 0041 5 Incisions in the rock 25 0013 6 Lights and Shadows 25 8041 7 Meeting at Riemandell 30 6048 8 The moon of Puntor 30 0370 9 The mines of Toria 35 9240 10 A proof of logic 35 4094 11 The legendary number 40 0625 12 Towers d'assassination 40 2197 13 Maintaining contacts 45 0444 14 Nine to mortal men 50 7200 15 The scatters of Banach Dur 55 0195 16 Radical 60 1743 17 Poliedril forces of Tauron 65 7592 18 Strange Rhineries 709 000 numbers of the book gives the geometry of the numbers 45 75 75 75 20 L'annel Gauss 805 120
 
 **Answer:** 1205
-[[Quesiti/src_gas_2009_pubblico#q20|src_gas_2009_pubblico__Q20]]

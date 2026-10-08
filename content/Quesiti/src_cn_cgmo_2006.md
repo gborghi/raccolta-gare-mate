@@ -35,8 +35,6 @@ level: China Girls' Mathematical Olympiad
 
 > Una funzione $f\colon (0,+\infty)\to\mathbb{R}$ soddisfa le seguenti condizioni: a) $f(a)=1$ per un numero reale positivo $a$, b) $f(x)f(y)+f\!\left(\dfrac{a}{x}\right)f\!\left(\dfrac{a}{y}\right)=2f(xy)$ per qualsiasi numero reale positivo $x$, $y$. Prove che $f(x)$ è costante.
 
-[[Quesiti/src_cn_cgmo_2006#q01|src_cn_cgmo_2006__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -60,8 +58,6 @@ level: China Girls' Mathematical Olympiad
 *Punto medio dell'accordo attraverso due intersezioni di circoncircolo in quadrilaterali convexi*
 
 > Che $ABCD$ sia un quadrilaterale convex. Il $O$ è l'intersezione di $AC$ e $BD$. I $M$ e $N$ siano le intersezioni del circoncircolo di $\triangle OAD$ con il circoncircolo di $\triangle OBC$. Il $T$ e il $S$ sono le intersezioni di $MN$ con il circoncircolo di $\triangle OAB$ e $\triangle OCD$ rispettivamente. Prova che $M$ è il punto medio di $TS$.
-
-[[Quesiti/src_cn_cgmo_2006#q02|src_cn_cgmo_2006__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: China Girls' Mathematical Olympiad
 *Infinitamente molti n con i di {n,n+2,n+28} espressibili come somma di tre cubi*
 
 > Dimostra che per $i=1,2,3$, esistono infiniti numeri interi $n$ che soddisfano la seguente condizione: possiamo trovare $i$ numeri interi in $\{n,\,n+2,\,n+28\}$ che possono essere espressi come la somma dei cubi di tre numeri interi positivi.
-
-[[Quesiti/src_cn_cgmo_2006#q03|src_cn_cgmo_2006__Q03]]
 
 
 
@@ -117,8 +111,6 @@ level: China Girls' Mathematical Olympiad
 
 > Otto persone si uniscono a una festa. (1) Se ci sono tre persone che si conoscono in un gruppo di cinque, dimostri che possiamo trovare quattro persone che si conoscono. (2) Se ci sono tre persone in un gruppo di sei che si conoscono in modo ciclico, possiamo trovare quattro persone che si conoscono in modo ciclico?
 
-[[Quesiti/src_cn_cgmo_2006#q04|src_cn_cgmo_2006__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_analitica,method_estremalita,method_coordinate,method_casework,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
@@ -146,8 +138,6 @@ level: China Girls' Mathematical Olympiad
 
 > Let $S = \{(a, b) \mid 1 \le a, b \le 5, a, b \in Z\}$. Il $T$ deve essere l'insieme di punti interi del piano in modo tale che per qualsiasi punto $P$ di $S$ esista un punto diverso $Q$ di $T$ in modo tale che il segmento di linea $PQ$ non contenga punti interi tranne $P$ e $Q$. Trova il valore minimo di $|T|$, dove $|T|$ indica il numero di elementi del set finito $T$.
 
-[[Quesiti/src_cn_cgmo_2006#q05|src_cn_cgmo_2006__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_disuguaglianze,method_disuguaglianze,method_trigonometria,skill_manipolazione_algebrica,skill_stima"></span>
@@ -173,8 +163,6 @@ level: China Girls' Mathematical Olympiad
 *Nonneg reals sommando a 1: dimostrare la disuguaglianza con radici quadrate*
 
 > Per i numeri reali non negativi $a$, $b$, $c$ con $a + b + c = 1$, dimostrare che $$\sqrt{a + \frac{(b-c)^2}{4}} + \sqrt{b} + \sqrt{c} \le \sqrt{3}.$$
-
-[[Quesiti/src_cn_cgmo_2006#q06|src_cn_cgmo_2006__Q06]]
 
 
 
@@ -205,8 +193,6 @@ level: China Girls' Mathematical Olympiad
 
 > I numeri $a$, $b$ e $c$ siano tutti integri con un valore assoluto inferiore o uguale a $10$. Il polinomio cubo $$f(x) = x^3 + ax^2 + bx + c$$ soddisfa la proprietà $$|f(2 + \sqrt{3})| < 0.0001.$$ Determina se $2 + \sqrt{3}$ è una radice di $f$.
 
-[[Quesiti/src_cn_cgmo_2006#q07|src_cn_cgmo_2006__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,method_estremalita,method_induzione,method_casework,skill_modellizzazione,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
@@ -235,5 +221,3 @@ level: China Girls' Mathematical Olympiad
 > In un torneo di scacchi round robin ogni giocatore gioca con ogni altro giocatore esattamente una volta. Il vincitore di ciascuna partita ottiene $1$ punti e il perdente $0$ punti. Se la partita termina in pareggio, ogni giocatore ottiene un punto $\frac{1}{2}$. In un torneo ci sono giocatori $m$, si dice che un torneo abbia proprietà $P(m)$ se si verifica quanto segue: tra ogni set $S$ di giocatori $m$, c'è un giocatore che ha vinto tutte le sue partite $m - 1$ contro gli altri giocatori $m - 1$ in $S$.
 > 
 > Per un dato numero intero positivo $m \ge 4$, determinare il valore minimo di $n$ (come funzione di $m$) in modo tale che si verifichi quanto segue: in ogni torneo di scacchi a round robin da giocatore $n$ con proprietà $P(m)$, i punteggi finali dei giocatori $n$ sono tutti distinti.
-
-[[Quesiti/src_cn_cgmo_2006#q08|src_cn_cgmo_2006__Q08]]

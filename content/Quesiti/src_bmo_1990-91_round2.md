@@ -37,8 +37,6 @@ level: BMO Round 2
 > 
 > Prove che $\sin\theta \le \dfrac{1}{\sqrt{5}}$.
 
-[[Quesiti/src_bmo_1990-91_round2#q01|src_bmo_1990-91_round2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_invarianti,skill_ragionamento_geometrico,skill_modellizzazione,skill_riconoscimento_pattern"></span>
@@ -76,8 +74,6 @@ level: BMO Round 2
 > 
 > (Le amicizie sono reciproche e non cambiano.)
 
-[[Quesiti/src_bmo_1990-91_round2#q02|src_bmo_1990-91_round2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_disuguaglianze,topic_geometria_piana,method_disuguaglianze,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -103,8 +99,6 @@ level: BMO Round 2
 *Perimetro del triangolo 2 implica a2+b2+c2+2abc < 2*
 
 > Prova che se il perimetro di un triangolo con lati $a$, $b$, $c$ è $2$, allora $$a^2 + b^2 + c^2 + 2abc < 2.$$
-
-[[Quesiti/src_bmo_1990-91_round2#q03|src_bmo_1990-91_round2__Q03]]
 
 
 
@@ -138,5 +132,3 @@ level: BMO Round 2
 > $x$ sia un numero reale positivo. Prova che almeno uno dei numeri $$x,\ 2x,\ 3x,\ \ldots,\ 20x$$ contiene la cifra $2$ nella sua espansione decimale.
 > 
 > $N$ sia il numero intero positivo più piccolo in modo tale che, per ogni numero reale positivo $x$, almeno uno dei numeri $$x,\ 2x,\ 3x,\ \ldots,\ Nx$$ contenga la cifra $2$ nella sua espansione decimale. Trova i limiti inferiori e superiori per $N$ e, se possibile, trova esattamente $N$.
-
-[[Quesiti/src_bmo_1990-91_round2#q04|src_bmo_1990-91_round2__Q04]]

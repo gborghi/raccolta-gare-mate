@@ -39,7 +39,6 @@ level: China Mathematical Competition
 ![[src_cn_cmc_b11_w42__q01.png]]
 
 **Risposta:** $-1$
-[[Quesiti/src_cn_cmc_2012#q01|src_cn_cmc_2012__Q01]]
 
 
 
@@ -65,8 +64,6 @@ level: China Mathematical Competition
 *Ricerca il colore A/tan B dato un rapporto angolare laterale in un triangolo*
 
 > Supponiamo che $\triangle ABC$ con gli angoli $A$, $B$ e $C$, e i lati corrispondenti $a$, $b$ e $c$ soddisfi l'equazione $a \cos B - b \cos A = \dfrac{3}{5}c$. Quindi il valore di $\dfrac{\tan A}{\tan B}$ è \underline{\hspace{2cm}}.
-
-[[Quesiti/src_cn_cmc_2012#q02|src_cn_cmc_2012__Q02]]
 
 
 
@@ -95,8 +92,6 @@ level: China Mathematical Competition
 *Sequenza che soddisfa la somma quadrata è uguale all'identità della somma dei cubi*
 
 > (37 punti) È noto che ogni termine della sequenza $\{a_n\}$ è un numero reale non zero, e per qualsiasi intero positivo $n$ detiene l'equazione $$(a_1 + a_2 + \cdots + a_n)^2 = a_1^3 + a_2^3 + \cdots + a_n^3.$$ (1) Quando $n = 3$, trovare tutte le sequenze costituite da tre termini. (2) Esiste una sequenza infinita $\{a_n\}$ tale che $a_{2013} = -2012$? Se sì, indicate la formula del termine generale; se no, indicate la ragione.
-
-[[Quesiti/src_cn_cmc_2012#q10|src_cn_cmc_2012__Q10]]
 
 
 
@@ -129,8 +124,6 @@ level: China Mathematical Competition
 
 ![[src_cn_cmc_b11_w58__q11.png]]
 
-[[Quesiti/src_cn_cmc_2012#q11|src_cn_cmc_2012__Q11]]
-
 
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_geometria_analitica,method_coordinate,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -158,7 +151,6 @@ level: China Mathematical Competition
 > (20 punti) Se si considera che l'equazione di ellisse $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$ ($a > b > 0$) in un sistema di coordinate rettangolare piano $xOy$, $A_1$, $A_2$ siano i suoi punti di fine sinistra e destra, $F_1$, $F_2$ siano i suoi foci sinistra e destra e $P$ sia qualsiasi punto dell'ellisse diverso da $A_1$, $A_2$. Supponiamo che ci siano punti $Q$, $R$ che soddisfano $\overrightarrow{A_1 Q} = \overrightarrow{P A_1}$, $\overrightarrow{Q A_2} = \overrightarrow{A_2 P}$, $\overrightarrow{P A_1} = \overrightarrow{R F_1}$, $\overrightarrow{P F_2} = \overrightarrow{F_2 R}$. Trova e prova la relazione tra la lunghezza del segmento $QR$ e $b$.
 
 **Risposta:** $QR = b$
-[[Quesiti/src_cn_cmc_2012#q20|src_cn_cmc_2012__Q20]]
 
 
 
@@ -187,4 +179,3 @@ level: China Mathematical Competition
 > (20 punti) Trovare tutte le coppie di numeri reali $(a, b)$, in modo che $f(x) = ax^2 + b$ soddisfi $f(f(x)) \ge f(x)$ per qualsiasi numero reale $x$.
 
 **Risposta:** $\{(a,b) \mid 0 < b \le 1,\; 0 < a < 1,\; 2a + b \le 2\}$
-[[Quesiti/src_cn_cmc_2012#q21|src_cn_cmc_2012__Q21]]

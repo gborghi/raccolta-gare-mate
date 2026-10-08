@@ -58,7 +58,6 @@ level: kangourou
 > E)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_benjamin#q01|src_kangourou_2023_benjamin__Q01]]
 
 
 
@@ -97,7 +96,6 @@ level: kangourou
 > The figure shows a package surrounded by four tapes, denoted by the letters M, N, P, Q. In what order, from first to last, were the four tapes wrapped? A) M, N, Q, P B) N, M, P, Q C) N, Q, M, P D) N, M, Q, P E) Q, N, M, P
 
 **Answer:** D
-[[Quesiti/src_kangourou_2023_benjamin#q02|src_kangourou_2023_benjamin__Q02]]
 
 
 
@@ -146,7 +144,6 @@ level: kangourou
 > D) 711 E) 1111
 
 **Answer:** D
-[[Quesiti/src_kangourou_2023_benjamin#q03|src_kangourou_2023_benjamin__Q03]]
 
 
 
@@ -196,7 +193,6 @@ level: kangourou
 > E)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2023_benjamin#q04|src_kangourou_2023_benjamin__Q04]]
 
 
 
@@ -263,7 +259,6 @@ level: kangourou
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2023_benjamin#q05|src_kangourou_2023_benjamin__Q05]]
 
 
 
@@ -315,7 +310,6 @@ level: kangourou
 > E) 13
 
 **Answer:** D
-[[Quesiti/src_kangourou_2023_benjamin#q06|src_kangourou_2023_benjamin__Q06]]
 
 
 
@@ -354,7 +348,6 @@ level: kangourou
 > Alice has the four pieces shown in this figure. Two of these can be combined to form the hexagon of the second figure. Which ones? A) 1 and 2 B) 1 and 3 C) 2 and 3 D) 2 and 4 E) 1 and 4
 
 **Answer:** B
-[[Quesiti/src_kangourou_2023_benjamin#q07|src_kangourou_2023_benjamin__Q07]]
 
 
 
@@ -394,7 +387,6 @@ level: kangourou
 > On a clock (pictured left) a circle of grey cardboard with three holes was overlaid. Now the circle is rotated around its center. Which of the following sets of numbers can be seen after rotation? A) 2, 4 and 9 B) 1, 5, and 10 C) 4, 6 and 12 D) 3, 6, and 9 E) 5, 7, and 12
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_benjamin#q08|src_kangourou_2023_benjamin__Q08]]
 
 
 
@@ -446,7 +438,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) 10
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_benjamin#q09|src_kangourou_2023_benjamin__Q09]]
 
 
 
@@ -494,7 +485,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) 100 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2023_benjamin#q10|src_kangourou_2023_benjamin__Q10]]
 
 
 
@@ -559,7 +549,6 @@ The manufacturer shall provide the manufacturer with the following information:
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_benjamin#q11|src_kangourou_2023_benjamin__Q11]]
 
 
 
@@ -596,7 +585,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > Which of the four pieces on the left should be used to complete the puzzle? A) 1 and 2 B) 1 and 4 C) 2 and 3 D) 2 and 4 E) 3 and 4
 
 **Answer:** D
-[[Quesiti/src_kangourou_2023_benjamin#q12|src_kangourou_2023_benjamin__Q12]]
 
 
 
@@ -629,7 +617,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > Pamela divided the integers from 1 to 15 into five groups of three numbers each. The sums of the numbers in each of the first four groups are in the order 25, 27, 30 and 31. In which group is the number 4 present? A) In the first. (B) In the second. C) In the third. D) In the fourth. E) In the fifth.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2023_benjamin#q13|src_kangourou_2023_benjamin__Q13]]
 
 
 
@@ -681,7 +668,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > E)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2023_benjamin#q14|src_kangourou_2023_benjamin__Q14]]
 
 
 
@@ -722,7 +708,6 @@ Who broke the window?
 > While Maria, Pietro, Richard and Tina were playing football in the yard, the ball broke through a window. To the teacher who asked the principal, the four answered as follows: Mary: It was Peter Peter: It was Richard Richard: It wasn't me Tina: It wasn't me Only one of them told the truth. Who broke the window? A) Maria B) Tina C) Peter D) Richard E) It is not possible to establish it with certainty.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2023_benjamin#q15|src_kangourou_2023_benjamin__Q15]]
 
 
 
@@ -776,7 +761,6 @@ Who broke the window?
 > E) 7
 
 **Answer:** B
-[[Quesiti/src_kangourou_2023_benjamin#q16|src_kangourou_2023_benjamin__Q16]]
 
 
 
@@ -830,7 +814,6 @@ Who broke the window?
 >
 
 **Answer:** E
-[[Quesiti/src_kangourou_2023_benjamin#q17|src_kangourou_2023_benjamin__Q17]]
 
 
 
@@ -889,7 +872,6 @@ Who broke the window?
 > E) 6
 
 **Answer:** D
-[[Quesiti/src_kangourou_2023_benjamin#q18|src_kangourou_2023_benjamin__Q18]]
 
 
 
@@ -948,7 +930,6 @@ Who broke the window?
 > E) The kangaroo and the beaver.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2023_benjamin#q19|src_kangourou_2023_benjamin__Q19]]
 
 
 
@@ -1003,7 +984,6 @@ Who broke the window?
 > E) Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2023_benjamin#q20|src_kangourou_2023_benjamin__Q20]]
 
 
 
@@ -1081,7 +1061,6 @@ Who broke the window?
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_benjamin#q21|src_kangourou_2023_benjamin__Q21]]
 
 
 
@@ -1136,7 +1115,6 @@ Who broke the window?
 > E)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_benjamin#q22|src_kangourou_2023_benjamin__Q22]]
 
 
 
@@ -1177,7 +1155,6 @@ Who broke the window?
 > The alphabet of the state of Kangland consists of only 3 letters: K, G, R. On the side you see a crossword puzzle in the Kanglandic language. When fully resolved, it consists of 4 of the 5 words KKG, KGK, GRK, RGK and RGG. What word doesn't show up? A) KKG B) KGK C) GRK D) RGK E) RGG
 
 **Answer:** E
-[[Quesiti/src_kangourou_2023_benjamin#q23|src_kangourou_2023_benjamin__Q23]]
 
 
 
@@ -1231,7 +1208,6 @@ Who broke the window?
 > E) 37
 
 **Answer:** B
-[[Quesiti/src_kangourou_2023_benjamin#q24|src_kangourou_2023_benjamin__Q24]]
 
 
 
@@ -1275,7 +1251,6 @@ Who broke the window?
 > On the table is a tower of books all identical, numbered from 1 to 50. Emma builds a new tower as follows: from the top of the starting tower she takes two books and places them on the table (without changing the order) as the base of the new tower; then from the top of what remains of the original tower she takes two more books and places them on top of the new tower; and so on, as suggested by the figure. Which of the following number pairs are on adjacent books in the new tower? A) 29 and 28 B) 34 and 35 C) 29 and 26 D) 31 and 33 E) 27 and 30
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_benjamin#q25|src_kangourou_2023_benjamin__Q25]]
 
 
 
@@ -1359,7 +1334,6 @@ Who broke the window?
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_benjamin#q26|src_kangourou_2023_benjamin__Q26]]
 
 
 
@@ -1394,7 +1368,6 @@ Who broke the window?
 > In a clothing store, two hats are sold for the same price as five skirts, three skirts for the same price as eight shirts and two shirts for the same price as three hats. Which of the following clothing collections costs the most? A. A hat and five skirts. B) A hat, three skirts and a cap. C) Eight skirts and six shirts. D) Thirty-seven caps. E) Three skirts and three hats.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_benjamin#q27|src_kangourou_2023_benjamin__Q27]]
 
 
 
@@ -1449,7 +1422,6 @@ Who broke the window?
 > E) 5
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_benjamin#q28|src_kangourou_2023_benjamin__Q28]]
 
 
 
@@ -1490,7 +1462,6 @@ Who broke the window?
 > B) Rhombus. C) Crown. D) Lightning. E) They all have the same area.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2023_benjamin#q29|src_kangourou_2023_benjamin__Q29]]
 
 
 
@@ -1561,4 +1532,3 @@ Who broke the window?
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2023_benjamin#q30|src_kangourou_2023_benjamin__Q30]]

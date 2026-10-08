@@ -48,7 +48,6 @@ level: kangourou
 > E) 100
 
 **Answer:** A
-[[Quesiti/src_kangourou_2024_junior#q01|src_kangourou_2024_junior__Q01]]
 
 
 
@@ -91,7 +90,6 @@ level: kangourou
 > In a particular high jump competition, the athlete for whom the ratio of jumped height to his height is greater wins. The figure, where the x-axis shows the heights of the athletes and the y-axis shows the heights of the respective jumps performed, describes the performance of the five athletes A, B, C, D, E. Who won the race? A) A B) B C) C D) D E) E
 
 **Answer:** A
-[[Quesiti/src_kangourou_2024_junior#q02|src_kangourou_2024_junior__Q02]]
 
 
 
@@ -145,7 +143,6 @@ level: kangourou
 > E)12
 
 **Answer:** D
-[[Quesiti/src_kangourou_2024_junior#q03|src_kangourou_2024_junior__Q03]]
 
 
 
@@ -183,7 +180,6 @@ level: kangourou
 > On a long route of 2024 aligned tiles, a kangaroo enjoys jumping like this: he touches the first tile with only one leg, the second with both legs, the third with only the other leg, the fourth with both legs, he completely jumps the fifth and then repeats this pattern until the last tile. How many tiles have both legs touched? A) 674 B) 676 C) 804 D) 810 E) 1012
 
 **Answer:** D
-[[Quesiti/src_kangourou_2024_junior#q04|src_kangourou_2024_junior__Q04]]
 
 
 
@@ -247,7 +243,6 @@ level: kangourou
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2024_junior#q05|src_kangourou_2024_junior__Q05]]
 
 
 
@@ -329,7 +324,6 @@ level: kangourou
 > The figure shows a square containing four circles all of the same area, each tangent to two sides of the square and to two other circles. What is the ratio between the area of the black region and that of the grey region? A) 1 : 4 B) 1 : 3 C) 2 : 3 D) 3 : 4 E) π : 1
 
 **Answer:** B
-[[Quesiti/src_kangourou_2024_junior#q06|src_kangourou_2024_junior__Q06]]
 
 
 
@@ -376,7 +370,6 @@ level: kangourou
 > E) 51
 
 **Answer:** C
-[[Quesiti/src_kangourou_2024_junior#q07|src_kangourou_2024_junior__Q07]]
 
 
 
@@ -410,7 +403,6 @@ level: kangourou
 > Which of the following pairs (ordered) of positive numbers can express the areas (in order) of the inscribed circle and the circumscribed circle in the same square? A) (3/2, 3) B) (π, 4π) C) (√π, π) D) (π, π2) E) (2/5, 3)
 
 **Answer:** A
-[[Quesiti/src_kangourou_2024_junior#q08|src_kangourou_2024_junior__Q08]]
 
 
 
@@ -459,7 +451,6 @@ Sum of digits of the largest ABA palindrome multiple of 6
 > E) 24
 
 **Answer:** E
-[[Quesiti/src_kangourou_2024_junior#q09|src_kangourou_2024_junior__Q09]]
 
 
 
@@ -495,7 +486,6 @@ Sum of digits of the largest ABA palindrome multiple of 6
 > The figure shows an ABCD square of center O and a regular hexagon, one of whose sides is OC. What is the degree of the angle indicated by α? A) 105 B) 110 C) 115 D) 120 E) 125 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2024_junior#q10|src_kangourou_2024_junior__Q10]]
 
 
 
@@ -548,7 +538,6 @@ Sum of digits of the largest ABA palindrome multiple of 6
 > E) 5
 
 **Answer:** B
-[[Quesiti/src_kangourou_2024_junior#q11|src_kangourou_2024_junior__Q11]]
 
 
 
@@ -606,7 +595,6 @@ Sum of digits of the largest ABA palindrome multiple of 6
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2024_junior#q12|src_kangourou_2024_junior__Q12]]
 
 
 
@@ -646,7 +634,6 @@ Sum of digits of the largest ABA palindrome multiple of 6
 > A white circle is superimposed on a gray circle which in turn is superimposed on a black circle as shown in Figure 1. In Figure 2 the same three circles appear tangent to each other, the grey and the white externally, and both internally to the black. The area of the black circular crown shown in Figure 1 is 7 times the area of the white circle. What is the ratio between the area of the black circular crown in Figure 1 and the area of the black region in Figure 2? A) 3 : 1 B) 4 : 3 C) 6 : 5 D) 7 : 6 E) 9 : 7
 
 **Answer:** D
-[[Quesiti/src_kangourou_2024_junior#q13|src_kangourou_2024_junior__Q13]]
 
 
 
@@ -693,7 +680,6 @@ Sum of digits of the largest ABA palindrome multiple of 6
 > E) None of the preceding
 
 **Answer:** C
-[[Quesiti/src_kangourou_2024_junior#q14|src_kangourou_2024_junior__Q14]]
 
 
 
@@ -733,7 +719,6 @@ Sum of digits of the largest ABA palindrome multiple of 6
 > C) 33 D) 39 E) 44
 
 **Answer:** C
-[[Quesiti/src_kangourou_2024_junior#q15|src_kangourou_2024_junior__Q15]]
 
 
 
@@ -775,7 +760,6 @@ Product of the 8 external discs from the products of the squares*
 > C) 80 D) 120 E) 480
 
 **Answer:** B
-[[Quesiti/src_kangourou_2024_junior#q16|src_kangourou_2024_junior__Q16]]
 
 
 
@@ -824,7 +808,6 @@ Product of the 8 external discs from the products of the squares*
 > E) 6
 
 **Answer:** C
-[[Quesiti/src_kangourou_2024_junior#q17|src_kangourou_2024_junior__Q17]]
 
 
 
@@ -901,7 +884,6 @@ Product of the 8 external discs from the products of the squares*
 >
 
 **Answer:** D
-[[Quesiti/src_kangourou_2024_junior#q18|src_kangourou_2024_junior__Q18]]
 
 
 
@@ -938,7 +920,6 @@ Product of the 8 external discs from the products of the squares*
 > Cristina placed 8 positive integers, all different from each other and chosen from the first 12, each in a vertex of a regular octagon so that, for each pair of adjacent vertices, the sum of the numbers that appear there turned out to be a multiple of 3. Which of the following quadruples doesn't contain numbers that Cristina used? A) 1, 5, 9, 12 B) 3, 5, 7, 9 C) 1, 2, 11, 12 D) 5, 6, 7, 8 E) 3, 6, 9, 12
 
 **Answer:** E
-[[Quesiti/src_kangourou_2024_junior#q19|src_kangourou_2024_junior__Q19]]
 
 
 
@@ -991,7 +972,6 @@ Product of the 8 external discs from the products of the squares*
 > Questions from No. 21 to No. 30 are worth 5 points each
 
 **Answer:** B
-[[Quesiti/src_kangourou_2024_junior#q20|src_kangourou_2024_junior__Q20]]
 
 
 
@@ -1083,7 +1063,6 @@ Product of the 8 external discs from the products of the squares*
 > E) 9 249 · 323 · 512 · 78 · 114 · 134 · 173 · 192 · 232 · 29 · 31 · 37 · 41 · 43 · 47
 
 **Answer:** C
-[[Quesiti/src_kangourou_2024_junior#q21|src_kangourou_2024_junior__Q21]]
 
 
 
@@ -1136,7 +1115,6 @@ Product of the 8 external discs from the products of the squares*
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2024_junior#q22|src_kangourou_2024_junior__Q22]]
 
 
 
@@ -1165,7 +1143,6 @@ Product of the 8 external discs from the products of the squares*
 > 23. The sum S of the digits of a positive integer N is triple the sum of the digits of the number N + 1. What 's the minimum possible value for S ? A) 9 B) 12 C) 15 D) 18 E) 27
 
 **Answer:** B
-[[Quesiti/src_kangourou_2024_junior#q23|src_kangourou_2024_junior__Q23]]
 
 
 
@@ -1194,7 +1171,6 @@ Product of the 8 external discs from the products of the squares*
 > 24. Giulia has some black cubes, some grey and some white cubes, all the same size, and she wants to use 27 of them to build a cube 3 × 3 × 3. She also wants the surface of this large cube to be one third black, one third gray and one third white. If A and B are respectively the smallest and largest number of black cubes she can use to achieve her goal, how much is the difference B - A worth? A) 1 B) 3 C) 6 D) 7 E) 9 249 ·3 23 ·5 12 ·7 8 ·1 14 ·1 34 ·1 73 ·1 92 ·2 32 ·2 9· 31 ·3 7· 41 ·4 3· 47 22. On alternate days, Charles tells the truth or lies all day long. On a certain day, Charles made exactly four of the following statements. Which cannot have
 
 **Answer:** D
-[[Quesiti/src_kangourou_2024_junior#q24|src_kangourou_2024_junior__Q24]]
 
 
 
@@ -1236,7 +1212,6 @@ Product of the 8 external discs from the products of the squares*
 > D) 27/29 E) 28/29
 
 **Answer:** A
-[[Quesiti/src_kangourou_2024_junior#q25|src_kangourou_2024_junior__Q25]]
 
 
 
@@ -1273,7 +1248,6 @@ Product of the 8 external discs from the products of the squares*
 > Matilde went for a walk. For the first half of the total time he walked at a speed of 2 km/h, then for half of the total distance he kept the speed of 3 km/h and finally for the remaining time to complete the distance he kept the speed of 4 km/h. For what fraction of the total time spent has the speed of 4 km/h been maintained? A) 1/14 B) 1/12 C) 1/7 D) 1/5 E) 1/4
 
 **Answer:** A
-[[Quesiti/src_kangourou_2024_junior#q26|src_kangourou_2024_junior__Q26]]
 
 
 
@@ -1323,7 +1297,6 @@ Product of the 8 external discs from the products of the squares*
 > E) 8
 
 **Answer:** B
-[[Quesiti/src_kangourou_2024_junior#q27|src_kangourou_2024_junior__Q27]]
 
 
 
@@ -1370,7 +1343,6 @@ Product of the 8 external discs from the products of the squares*
 > E) 160
 
 **Answer:** C
-[[Quesiti/src_kangourou_2024_junior#q28|src_kangourou_2024_junior__Q28]]
 
 
 
@@ -1418,7 +1390,6 @@ Product of the 8 external discs from the products of the squares*
 > E) 15
 
 **Answer:** B
-[[Quesiti/src_kangourou_2024_junior#q29|src_kangourou_2024_junior__Q29]]
 
 
 
@@ -1491,4 +1462,3 @@ Product of the 8 external discs from the products of the squares*
 > 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 A A D
 
 **Answer:** B
-[[Quesiti/src_kangourou_2024_junior#q30|src_kangourou_2024_junior__Q30]]

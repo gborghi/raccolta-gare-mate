@@ -39,8 +39,6 @@ level: China Mathematical Olympiad
 
 ![[src_cn_cmo_2009__q01.png]]
 
-[[Quesiti/src_cn_cmo_2009#q01|src_cn_cmo_2009__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -65,8 +63,6 @@ level: China Mathematical Olympiad
 *Ricerca tutte le coppie prime (p,q) con pq che divide 5^p + 5^q*
 
 > Trova tutte le coppie $(p, q)$ di numeri primi come $pq \mid 5^p + 5^q$. (Posato da Fu Yunhao)
-
-[[Quesiti/src_cn_cmo_2009#q02|src_cn_cmo_2009__Q02]]
 
 
 
@@ -93,8 +89,6 @@ level: China Mathematical Olympiad
 
 > Che $m$, $s$ siano integri con $4 < m < s$, e $A_0$, $A_1$, $A_2$, $\ldots$, $A_{2s}$ siano i vertici di un normale $(2s+1)$-gon. Inoltre, $P = \{A_1, A_2, \ldots, A_{2s}\}$. Trova il numero di convex $m$ con esattamente due angoli interni acuti le cui vertici sono tutte in $P$. (Posato da Leng Gangsong)
 
-[[Quesiti/src_cn_cmo_2009#q03|src_cn_cmo_2009__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_disuguaglianze,method_estremalita,method_simmetria,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
@@ -119,8 +113,6 @@ level: China Mathematical Olympiad
 *Minimizzare la somma dei cubi di numeri reali con distanza in coppia almeno 1*
 
 > $n \geq 3$ sia un dato numero intero e $a_1, a_2, \ldots, a_n$ sia un numero reale soddisfacente $\min_{1 \leq i < k \leq n} |a_i - a_k| \geq 1$. Trova il valore minimo di $\displaystyle\sum_{i=1}^{n} |a_i|^3$. (Posato da Zhu Huawei)
-
-[[Quesiti/src_cn_cmo_2009#q04|src_cn_cmo_2009__Q04]]
 
 
 
@@ -151,8 +143,7 @@ level: China Mathematical Olympiad
 
 > Trovare tutti gli enti $n$ in modo tale da poter colorare tutti i bordi e le diagonali di un poligono convexo $n$ con $n$ dati colori che soddisfano le seguenti condizioni: (1) Ciascuno dei bordi o dei diagonali è colorato solo da un colore; (2) Per qualsiasi tre colori distinti, esiste un triangolo le cui vertici sono vertici del poligono $n$ e tre bordi sono colorati da questi tre colori. (Possibile da Su Chan)
 
-**Risposta:** Any odd number $n \geq 1$
-[[Quesiti/src_cn_cmo_2009#q05|src_cn_cmo_2009__Q05]]
+**Risposta:** Ogni numero dispari $n \geq 1$
 
 
 
@@ -178,5 +169,3 @@ level: China Mathematical Olympiad
 *Prove l'esistenza di un insieme di n elementi in cui tutte le medie del sottogruppo sono composti coprimi in coppia*
 
 > Date un numero intero $n \geq 3$, dimostrare che esiste un insieme $S$ di $n$ diversi interi positivi in modo tale che per due sudinsiemi non vuoti $A$ e $B$ di $S$, i numeri $\dfrac{\displaystyle\sum_{x \in A} x}{|A|}$ e $\dfrac{\displaystyle\sum_{x \in B} x}{|B|}$ sono due interi composti copriemi, dove $\displaystyle\sum_{x \in X} x$ indica la somma di tutti gli elementi di un insieme finito $X$, e $|X|$ indica la cardinalità di $X$.
-
-[[Quesiti/src_cn_cmo_2009#q06|src_cn_cmo_2009__Q06]]

@@ -93,8 +93,6 @@ level: TFJM²
 
 ![[src_tfjm_2024__q01.png]]
 
-[[Quesiti/src_tfjm_2024#q01|src_tfjm_2024__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_casework,method_estremalita,method_conteggio,skill_conteggio_sistematico,skill_astrazione,skill_modellizzazione"></span>
@@ -170,8 +168,6 @@ level: TFJM²
 
 ![[src_tfjm_2024__q02.png]]
 
-[[Quesiti/src_tfjm_2024#q02|src_tfjm_2024__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_conteggio,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_casework_accurato"></span>
@@ -243,8 +239,6 @@ level: TFJM²
 > $\textbf{8.}$ Proporre e studiare altre vie di ricerca.
 
 ![[src_tfjm_2024__q03.png]]
-
-[[Quesiti/src_tfjm_2024#q03|src_tfjm_2024__Q03]]
 
 
 
@@ -346,8 +340,6 @@ La depolluzione della Senna: un modello dinamico discreto di netto vs. Volumi di
 
 ![[src_tfjm_2024__q04.png]]
 
-[[Quesiti/src_tfjm_2024#q04|src_tfjm_2024__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_geometria_analitica,method_simmetria,method_coordinate,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione"></span>
@@ -439,8 +431,6 @@ La depolluzione della Senna: un modello dinamico discreto di netto vs. Volumi di
 
 ![[src_tfjm_2024__q05.png]]
 
-[[Quesiti/src_tfjm_2024#q05|src_tfjm_2024__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_probabilita,method_casework,method_conteggio,skill_modellizzazione,skill_stima,skill_casework_accurato"></span>
@@ -525,8 +515,6 @@ La depolluzione della Senna: un modello dinamico discreto di netto vs. Volumi di
 > $\textbf{7.}$ Proporre e studiare altre vie di ricerca.
 
 ![[src_tfjm_2024__q06.png]]
-
-[[Quesiti/src_tfjm_2024#q06|src_tfjm_2024__Q06]]
 
 
 
@@ -631,8 +619,6 @@ La depolluzione della Senna: un modello dinamico discreto di netto vs. Volumi di
 
 ![[src_tfjm_2024__q07.png]]
 
-[[Quesiti/src_tfjm_2024#q07|src_tfjm_2024__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_casework,method_fattorizzazione,skill_conteggio_sistematico,skill_astrazione,skill_riconoscimento_pattern"></span>
@@ -708,5 +694,3 @@ La depolluzione della Senna: un modello dinamico discreto di netto vs. Volumi di
 > $\textbf{7.}$ Proporre e studiare altre vie di ricerca.
 
 ![[src_tfjm_2024__q08.png]]
-
-[[Quesiti/src_tfjm_2024#q08|src_tfjm_2024__Q08]]

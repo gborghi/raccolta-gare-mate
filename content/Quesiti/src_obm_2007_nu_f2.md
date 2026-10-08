@@ -35,8 +35,6 @@ level: OBM Nível Universitário
 
 > Considera la funzione $f:\mathbb{R}\to\mathbb{R}$ data da $f(x)=ax^2+bx+c$, con $a,b,c\in\mathbb{R}$ e $ac<0$. Prova che per ogni intero positivo $n$, l'equazione $$\underbrace{f(f(\cdots(f(x))\cdots))}_{n}=0$$ ha almeno una soluzione reale.
 
-[[Quesiti/src_obm_2007_nu_f2#q01|src_obm_2007_nu_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_estremalita,method_cassetti,method_doppio_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -63,8 +61,6 @@ level: OBM Nível Universitário
 *Un grande sottoinsieme di {1,...,N} contiene un sottointervallo di densità aritmetica spostata*
 
 > Data una cifra integrale positiva $n$, indicare che esiste una cifra integrale positiva $N$ con la seguente proprietà: se $A$ è un sottoinsieme di $\{1,2,\ldots,N\}$ con almeno $N/2$ elementi, allora esiste una cifra integrale positiva $m\le N-n$ tale che $$|A\cap\{m+1,m+2,\ldots,m+k\}|\ge\frac{k}{2}$$ per tutti $k=1,2,\ldots,n$.
-
-[[Quesiti/src_obm_2007_nu_f2#q02|src_obm_2007_nu_f2__Q02]]
 
 
 
@@ -99,8 +95,6 @@ level: OBM Nível Universitário
 > 
 > Per $p(x)\in P_n$, $r(p(x))$ è il massimo dei moduli delle radici di $p(x)$ e $$s(n)=\sup_{p\in P_n}r(p(x)).$$ determina $\displaystyle\lim_{n\to\infty}s(n)$.
 
-[[Quesiti/src_obm_2007_nu_f2#q03|src_obm_2007_nu_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_insiemi_funzioni,topic_algebra,method_induzione,method_estremalita,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -126,8 +120,6 @@ level: OBM Nível Universitário
 *F continua con ff=exp cresce più velocemente di qualsiasi polinomio*
 
 > Che $f:\mathbb{R}\to\mathbb{R}$ sia una funzione continua tale che $f(f(x))=e^x$ per tutti $x\in\mathbb{R}$. Prove che per ogni intero positivo $n$, $$\lim_{x\to+\infty}\frac{f(x)}{x^n}=+\infty.$$
-
-[[Quesiti/src_obm_2007_nu_f2#q04|src_obm_2007_nu_f2__Q04]]
 
 
 
@@ -162,8 +154,6 @@ level: OBM Nível Universitário
 > 
 > b) Il numero di matrici reali $B$ dell'ordine $n$ tale che $B^2=A$.
 
-[[Quesiti/src_obm_2007_nu_f2#q05|src_obm_2007_nu_f2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
@@ -190,5 +180,3 @@ level: OBM Nível Universitário
 *S(a,b)=S(c,d) se ab/cd è un quadrato razionale e S(a,b) ∩S(c,d) contiene non zero razionale*
 
 > Per $a,b\in\mathbb{Q}$, definire l'insieme $$S(a,b)=\{ax^2+by^2\mid x,y\in\mathbb{Q}\}$$ di razionali che possono essere scritti nella forma $ax^2+by^2$ con $x,y\in\mathbb{Q}$. Dati i razionali $a,b,c,d$ tutti non-zero, mostrare che $S(a,b)=S(c,d)$ se e solo se $\dfrac{ab}{cd}$ è il quadrato di un numero razionale e esiste un non-zero razionale $q\in S(a,b)\cap S(c,d)$.
-
-[[Quesiti/src_obm_2007_nu_f2#q06|src_obm_2007_nu_f2__Q06]]

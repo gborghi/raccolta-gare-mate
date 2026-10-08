@@ -34,7 +34,6 @@ Who came last in the race?
 > 1. Five friends challenged each other in a race. Lelio arrived before Mario, CADET Vincenzo after Gianni, Mario before Gianni and Edoardo before Vincenzo. Who came last? A) Vincenzo B) Mario C) Lelio D) Gianni E) Edoardo
 
 **Answer:** A
-[[Quesiti/src_kangourou_2019_cadet_marzo#q01|src_kangourou_2019_cadet_marzo__Q01]]
 
 
 
@@ -62,7 +61,6 @@ Who came last in the race?
 > 2. Andrea divided the apples to be sold at the market into six boxes, putting the same number of apples in each box. Bruno notes that five boxes could have been filled with the same apples, each containing two more apples. How many apples do you have to bring to the market? A) 30 B) 45 C) 60 D) 78 E) 120
 
 **Answer:** C
-[[Quesiti/src_kangourou_2019_cadet_marzo#q02|src_kangourou_2019_cadet_marzo__Q02]]
 
 
 
@@ -95,7 +93,6 @@ Who came last in the race?
 > 3. Which of the drawings below cannot be drawn without taking the pencil off the sheet or traversing the same segment twice? A) B) C) D) E)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2019_cadet_marzo#q03|src_kangourou_2019_cadet_marzo__Q03]]
 
 
 
@@ -123,7 +120,6 @@ Who came last in the race?
 > 4. Five friends went on a trip, each with a bag of pretzels; each of them gave one pretzel to each of the others and everyone ate all the pretzels received as gifts and no others. In this way the total number of pretzels they had at the beginning was halved: what was this number? A) 20 B) 24 C) 30 D) 40 E) 60
 
 **Answer:** D
-[[Quesiti/src_kangourou_2019_cadet_marzo#q04|src_kangourou_2019_cadet_marzo__Q04]]
 
 
 
@@ -161,7 +157,6 @@ Who came last in the race?
 > can't be obtained by bringing the two pieces in the figure together? A) Only 1 B) Only 2 C) Only 2 and 3 D) Only 1 and 5 E) Only 5
 
 **Answer:** D
-[[Quesiti/src_kangourou_2019_cadet_marzo#q05|src_kangourou_2019_cadet_marzo__Q05]]
 
 
 
@@ -190,7 +185,6 @@ Who came last in the race?
 > 6. Giulia wrote a thesis numbering the pages from 1. Overall, in page numbering, the number 4 appears exactly 16 times. Which of the following can be the number of pages of the thesis? A) 84 B) 58 C) 64 D) 52 E) 48
 
 **Answer:** B
-[[Quesiti/src_kangourou_2019_cadet_marzo#q06|src_kangourou_2019_cadet_marzo__Q06]]
 
 
 
@@ -222,7 +216,6 @@ Who came last in the race?
 > 7. In the figure you see a square divided into smaller squares. What fraction of the large square is filled with gray? A) 2/3 B) 2/5 C) 4/7 D) 4/9 E) 5/12
 
 **Answer:** D
-[[Quesiti/src_kangourou_2019_cadet_marzo#q07|src_kangourou_2019_cadet_marzo__Q07]]
 
 
 
@@ -251,7 +244,6 @@ Who came last in the race?
 > 8. Nicola wants to draw an isosceles triangle whose sides are a CADET integer of centimeters long and whose perimeter measures 60 cm. How many different ways does he have to carry out his project? A) 13 B) 14 C) 15 D) 16 E) more than 16
 
 **Answer:** B
-[[Quesiti/src_kangourou_2019_cadet_marzo#q08|src_kangourou_2019_cadet_marzo__Q08]]
 
 
 
@@ -279,7 +271,6 @@ Who came last in the race?
 > 9. Elizabeth received a large box of 60 chocolates as a gift. On Monday she ate a tenth, on Tuesday he ate a ninth of the remaining, on Wednesday he ate an eighth of the remaining and so on until the day he ate half the chocolates left over the day before. How many chocolates are left after that day? A) 3 B) 8 C) 4 D) 2 E) 6
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_cadet_marzo#q09|src_kangourou_2019_cadet_marzo__Q09]]
 
 
 
@@ -311,7 +302,6 @@ What are the three hidden digits given sum 10126*
 > 10. I wrote three four-digit numbers, each on a cardboard. Then I arranged the cards so that three of the numbers are hidden. The sum of the three numbers is 10126: what are the hidden numbers? (a) 4, 5 and 7 (b) 4, 6 and 7 (c) 4, 5 and 6 (d) 3, 5 and 6 (e) None of the above questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_cadet_marzo#q10|src_kangourou_2019_cadet_marzo__Q10]]
 
 
 
@@ -340,7 +330,6 @@ What are the three hidden digits given sum 10126*
 > 11. The pirate Barbanera found four scrolls that give information about where a treasure is buried. They say:
 
 **Answer:** D
-[[Quesiti/src_kangourou_2019_cadet_marzo#q11|src_kangourou_2019_cadet_marzo__Q11]]
 
 
 
@@ -372,7 +361,6 @@ What are the three hidden digits given sum 10126*
 > 12. Viviana drew several identical rectangles adjacent to each other; then she joined the vertices of some of them together, as in the drawing, forming a triangle with a base of 6 cm and height measuring 10 cm and 6 cm respectively; finally she shaded the parts of the rectangles outside the triangle. How many square centimetres is the shaded region? A) 10 B) 12 C) 14 D) 15 E) 21
 
 **Answer:** B
-[[Quesiti/src_kangourou_2019_cadet_marzo#q12|src_kangourou_2019_cadet_marzo__Q12]]
 
 
 
@@ -400,7 +388,6 @@ What are the three hidden digits given sum 10126*
 > 13. Michele has a small pet shop: he currently has 24 animals: dogs, cats, parrots and turtles. Of these 1/8 are dogs, 3/4 are not turtles and 2/3 are not parrots. How many cats are in Michele's store? A) 4 B) 5 C) 6 D) 7 E) 8
 
 **Answer:** D
-[[Quesiti/src_kangourou_2019_cadet_marzo#q13|src_kangourou_2019_cadet_marzo__Q13]]
 
 
 
@@ -472,7 +459,6 @@ What are the three hidden digits given sum 10126*
 > 14. In the drawing the PQ, PR and QS segments are equal and the QPR angle is 20 degrees. How many degrees does the RQS angle measure ? A) 50 B) 60 C) 65 D) 70 E) 75
 
 **Answer:** B
-[[Quesiti/src_kangourou_2019_cadet_marzo#q14|src_kangourou_2019_cadet_marzo__Q14]]
 
 
 
@@ -501,7 +487,6 @@ What are the three hidden digits given sum 10126*
 > 15. Anna, Bella, Chiara, Dora and Enza are at a party, each hugging exactly one of the girls she knows among the other four. Anna exchanges one hug, Bella exchanges two, Chiara exchanges three and Dora exchanges four. How many hugs does Enza exchange? A) 1 B) 2 C) 3 D) 4 E) 0
 
 **Answer:** B
-[[Quesiti/src_kangourou_2019_cadet_marzo#q15|src_kangourou_2019_cadet_marzo__Q15]]
 
 
 
@@ -534,7 +519,6 @@ What are the three hidden digits given sum 10126*
 > 16. Catherine folded a square sheet of paper exactly in half twice, then made two cuts in the middle of the folded sheet as shown in the drawing. How many of the pieces thus obtained are squares? A) 3 B) 4 C) 5 D) 6 E) 8
 
 **Answer:** C
-[[Quesiti/src_kangourou_2019_cadet_marzo#q16|src_kangourou_2019_cadet_marzo__Q16]]
 
 
 
@@ -562,7 +546,6 @@ What are the three hidden digits given sum 10126*
 > 17. Luisa is playing basketball. In a first series of 20 shots, Luisa scored in 55% of the cases. Adding five more shots, her scoring percentage increased to 56%. How many of the last five shots did she score? A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** C
-[[Quesiti/src_kangourou_2019_cadet_marzo#q17|src_kangourou_2019_cadet_marzo__Q17]]
 
 
 
@@ -590,7 +573,6 @@ How many euros will Pierino have after selling all of them?
 > 18. Pierino spent all his savings to buy 50 bottles of orangeade at the supermarket, paying €1 each, with the intention of selling them all at the same price, higher than the cost. After resold 40 bottles, he already has 10 euros more than his initial savings. How many euros will Pierino have in his pocket after he resells all the bottles? A) 70 B) 75 C) 80 D) 90 E) 100
 
 **Answer:** B
-[[Quesiti/src_kangourou_2019_cadet_marzo#q18|src_kangourou_2019_cadet_marzo__Q18]]
 
 
 
@@ -623,7 +605,6 @@ How many euros will Pierino have after selling all of them?
 > 19. Which of the following grids 4 x 4 1) 2) 3) 4) 5) cannot be obtained by joining the two pieces in the figure? CADET A) Only 1 B) Only 2 C) Only 2 and 3 D) Only 1 and 5 E) Only 5
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_cadet_marzo#q19|src_kangourou_2019_cadet_marzo__Q19]]
 
 
 
@@ -673,7 +654,6 @@ How many euros will Pierino have after selling all of them?
 > E) 38 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2019_cadet_marzo#q20|src_kangourou_2019_cadet_marzo__Q20]]
 
 
 
@@ -729,7 +709,6 @@ How many euros will Pierino have after selling all of them?
 > E) 20
 
 **Answer:** C
-[[Quesiti/src_kangourou_2019_cadet_marzo#q21|src_kangourou_2019_cadet_marzo__Q21]]
 
 
 
@@ -765,7 +744,6 @@ How many euros will Pierino have after selling all of them?
 > Carlo has two candles of different heights. The first candle lasts six hours, the second one eight hours. He lights them both at the same time and three hours later the candles are the same height. What was the ratio between the height of the first candle and that of the second candle before they were lit? A) 4 : 3 B) 8 : 5 C) 5 : 4 D) 3 : 5 E) 7 : 3
 
 **Answer:** C
-[[Quesiti/src_kangourou_2019_cadet_marzo#q22|src_kangourou_2019_cadet_marzo__Q22]]
 
 
 
@@ -842,7 +820,6 @@ How many euros will Pierino have after selling all of them?
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2019_cadet_marzo#q23|src_kangourou_2019_cadet_marzo__Q23]]
 
 
 
@@ -878,7 +855,6 @@ How many euros will Pierino have after selling all of them?
 > When Rita and Flora compared their savings, the ratio between Rita's and Flora's was 5:3. Rita later bought a tablet for 160 euros and the ratio of the two friends' savings became 3: 5. How many euros did Rita have before she bought it? A) 250 B) 200 C) 220 D) 430 E) 420
 
 **Answer:** A
-[[Quesiti/src_kangourou_2019_cadet_marzo#q24|src_kangourou_2019_cadet_marzo__Q24]]
 
 
 
@@ -930,7 +906,6 @@ How many euros will Pierino have after selling all of them?
 > E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_cadet_marzo#q25|src_kangourou_2019_cadet_marzo__Q25]]
 
 
 
@@ -978,7 +953,6 @@ How many euros will Pierino have after selling all of them?
 > E) 103
 
 **Answer:** D
-[[Quesiti/src_kangourou_2019_cadet_marzo#q26|src_kangourou_2019_cadet_marzo__Q26]]
 
 
 
@@ -1021,7 +995,6 @@ How many euros will Pierino have after selling all of them?
 > Matthew painted each of the eight circles in the figure with a color chosen from red, yellow, and blue, making sure that no pair of circles directly connected by a segment received the same color. What pair of circles has necessarily been painted the same color? A) 5 and 8 B) 1 and 6 C) 2 and 7 D) 4 and 5 E) 3 and 6
 
 **Answer:** A
-[[Quesiti/src_kangourou_2019_cadet_marzo#q27|src_kangourou_2019_cadet_marzo__Q27]]
 
 
 
@@ -1070,7 +1043,6 @@ Maximum number of teams with no more than 250 matches
 > E) 7
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_cadet_marzo#q28|src_kangourou_2019_cadet_marzo__Q28]]
 
 
 
@@ -1113,7 +1085,6 @@ Maximum number of teams with no more than 250 matches
 > C) 1/2 D) 7/16 E) 3/8
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_cadet_marzo#q29|src_kangourou_2019_cadet_marzo__Q29]]
 
 
 
@@ -1161,4 +1132,3 @@ Maximum number of teams with no more than 250 matches
 >
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_cadet_marzo#q30|src_kangourou_2019_cadet_marzo__Q30]]

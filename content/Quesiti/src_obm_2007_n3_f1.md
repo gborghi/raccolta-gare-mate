@@ -43,7 +43,6 @@ level: OBM Nível 3
 ![[src_obm_2007_n3_f1__q01.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2007_n3_f1#q01|src_obm_2007_n3_f1__Q01]]
 
 
 
@@ -76,7 +75,6 @@ level: OBM Nível 3
 > (A) $8999$ \quad (B) $8874$ \quad (C) $7875$ \quad (D) $8000$ \quad (E) $7750$
 
 **Risposta:** C
-[[Quesiti/src_obm_2007_n3_f1#q02|src_obm_2007_n3_f1__Q02]]
 
 
 
@@ -109,7 +107,6 @@ level: OBM Nível 3
 > (A) $180$ \quad (B) $150$ \quad (C) $120$ \quad (D) $182$ \quad (E) $75$
 
 **Risposta:** A
-[[Quesiti/src_obm_2007_n3_f1#q03|src_obm_2007_n3_f1__Q03]]
 
 
 
@@ -146,7 +143,6 @@ level: OBM Nível 3
 ![[src_obm_2007_n3_f1__q04.png]]
 
 **Risposta:** E
-[[Quesiti/src_obm_2007_n3_f1#q04|src_obm_2007_n3_f1__Q04]]
 
 
 
@@ -179,7 +175,6 @@ level: OBM Nível 3
 > (A) $36$ \quad (B) $45$ \quad (C) $24$ \quad (D) $15$ \quad (E) $72$
 
 **Risposta:** A
-[[Quesiti/src_obm_2007_n3_f1#q05|src_obm_2007_n3_f1__Q05]]
 
 
 
@@ -211,7 +206,6 @@ level: OBM Nível 3
 > (A) $9.7$ \quad (B) $90.3$ \quad (C) $99.7$ \quad (D) $99.9$ \quad (E) $970$
 
 **Risposta:** C
-[[Quesiti/src_obm_2007_n3_f1#q06|src_obm_2007_n3_f1__Q06]]
 
 
 
@@ -246,7 +240,6 @@ level: OBM Nível 3
 > (A) $200.007$ \quad (B) $20.000.007$ \quad (C) $2.000.000.007$ \quad (D) $200.000.000.007$ \quad (E) $20.000.000.000.007$
 
 **Risposta:** E
-[[Quesiti/src_obm_2007_n3_f1#q07|src_obm_2007_n3_f1__Q07]]
 
 
 
@@ -280,7 +273,6 @@ level: OBM Nível 3
 > (A) $2007$ \quad (B) $309$ \quad (C) $155$ \quad (D) $25$ \quad (E) $5$
 
 **Risposta:** E
-[[Quesiti/src_obm_2007_n3_f1#q08|src_obm_2007_n3_f1__Q08]]
 
 
 
@@ -317,7 +309,6 @@ level: OBM Nível 3
 ![[src_obm_2007_n3_f1__q09.png]]
 
 **Risposta:** E
-[[Quesiti/src_obm_2007_n3_f1#q09|src_obm_2007_n3_f1__Q09]]
 
 
 
@@ -358,7 +349,6 @@ level: OBM Nível 3
 > (A) $18$ \quad (B) $41$ \quad (C) $45$ \quad (D) $50$ \quad (E) $65$
 
 **Risposta:** D
-[[Quesiti/src_obm_2007_n3_f1#q10|src_obm_2007_n3_f1__Q10]]
 
 
 
@@ -395,7 +385,6 @@ level: OBM Nível 3
 > (A) $48$ \quad (B) $60$ \quad (C) $72$ \quad (D) $96$ \quad (E) $120$
 
 **Risposta:** B
-[[Quesiti/src_obm_2007_n3_f1#q11|src_obm_2007_n3_f1__Q11]]
 
 
 
@@ -432,7 +421,6 @@ level: OBM Nível 3
 > (A) $0<\tan\alpha<\dfrac{1}{6}$ \quad (B) $\dfrac{1}{6}<\tan\alpha<\dfrac{1}{5}$ \quad (C) $\dfrac{1}{5}<\tan\alpha<\dfrac{1}{4}$ \quad (D) $\dfrac{1}{4}<\tan\alpha<\dfrac{1}{3}$ \quad (E) $\dfrac{1}{3}<\tan\alpha<1$
 
 **Risposta:** D
-[[Quesiti/src_obm_2007_n3_f1#q12|src_obm_2007_n3_f1__Q12]]
 
 
 
@@ -468,7 +456,6 @@ level: OBM Nível 3
 > (A) $-1$ \quad (B) $-0.5$ \quad (C) $0$ \quad (D) $0.5$ \quad (E) $2$
 
 **Risposta:** B
-[[Quesiti/src_obm_2007_n3_f1#q13|src_obm_2007_n3_f1__Q13]]
 
 
 
@@ -505,7 +492,6 @@ level: OBM Nível 3
 > (A) $-2$ \quad (B) $-1$ \quad (C) $0$ \quad (D) $1$ \quad (E) $2$
 
 **Risposta:** E
-[[Quesiti/src_obm_2007_n3_f1#q14|src_obm_2007_n3_f1__Q14]]
 
 
 
@@ -537,7 +523,6 @@ level: OBM Nível 3
 > (A) $[-1,+\infty[$ \quad (B) $]-\infty,1]$ \quad (C) $[-3,2]$ \quad (D) $[-2,3]$ \quad (E) $\mathbb{Z}$
 
 **Risposta:** A
-[[Quesiti/src_obm_2007_n3_f1#q15|src_obm_2007_n3_f1__Q15]]
 
 
 
@@ -570,7 +555,6 @@ level: OBM Nível 3
 > (A) $\dfrac{3\sqrt{3}}{8}$ \quad (B) $\dfrac{\sqrt{3}}{2}$ \quad (C) $\dfrac{\sqrt{2}}{3}$ \quad (D) $\dfrac{\sqrt{2}}{2}$ \quad (E) $\dfrac{1}{2}$
 
 **Risposta:** A
-[[Quesiti/src_obm_2007_n3_f1#q16|src_obm_2007_n3_f1__Q16]]
 
 
 
@@ -605,7 +589,6 @@ level: OBM Nível 3
 > (A) $40$ \quad (B) $41$ \quad (C) $42$ \quad (D) $43$ \quad (E) $44$
 
 **Risposta:** E
-[[Quesiti/src_obm_2007_n3_f1#q17|src_obm_2007_n3_f1__Q17]]
 
 
 
@@ -640,7 +623,6 @@ level: OBM Nível 3
 > (A) $0$ \quad (B) $1$ \quad (C) $2$ \quad (D) $-1$ \quad (E) $-3$
 
 **Risposta:** D
-[[Quesiti/src_obm_2007_n3_f1#q18|src_obm_2007_n3_f1__Q18]]
 
 
 
@@ -681,7 +663,6 @@ level: OBM Nível 3
 > - **(E)** Almeno $25\%$ degli edifici hanno meno di $5$ piani.
 
 **Risposta:** B
-[[Quesiti/src_obm_2007_n3_f1#q19|src_obm_2007_n3_f1__Q19]]
 
 
 
@@ -714,7 +695,6 @@ level: OBM Nível 3
 > (A) $8$ \quad (B) $9$ \quad (C) $10$ \quad (D) $11$ \quad (E) $12$
 
 **Risposta:** B
-[[Quesiti/src_obm_2007_n3_f1#q20|src_obm_2007_n3_f1__Q20]]
 
 
 
@@ -746,7 +726,6 @@ level: OBM Nível 3
 > (A) $02\mathrm{h}30$ \quad (B) $06\mathrm{h}20$ \quad (C) $05\mathrm{h}40$ \quad (D) $08\mathrm{h}50$ \quad (E) $09\mathrm{h}55$
 
 **Risposta:** E
-[[Quesiti/src_obm_2007_n3_f1#q21|src_obm_2007_n3_f1__Q21]]
 
 
 
@@ -779,7 +758,6 @@ Il più grande divisore comune di 1221,2332,3443,...,8998
 > (A) $3$ \quad (B) $33$ \quad (C) $37$ \quad (D) $11$ \quad (E) $101$
 
 **Risposta:** D
-[[Quesiti/src_obm_2007_n3_f1#q22|src_obm_2007_n3_f1__Q22]]
 
 
 
@@ -820,7 +798,6 @@ La palla sul tavolo 3x6 rimbalza due volte e cade in S; distanza da P sul lato P
 ![[src_obm_2007_n3_f1__q23.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2007_n3_f1#q23|src_obm_2007_n3_f1__Q23]]
 
 
 
@@ -853,7 +830,6 @@ La palla sul tavolo 3x6 rimbalza due volte e cade in S; distanza da P sul lato P
 > (A) Multiplice di $3$ \quad (B) Prime \quad (C) Con ultima cifra uguale a $7$ \quad (D) La cui somma di cifre è $10$ \quad (E) Multiplice di $7$
 
 **Risposta:** D
-[[Quesiti/src_obm_2007_n3_f1#q24|src_obm_2007_n3_f1__Q24]]
 
 
 
@@ -890,4 +866,3 @@ La palla sul tavolo 3x6 rimbalza due volte e cade in S; distanza da P sul lato P
 > (A) $44$ \quad (B) $54$ \quad (C) $64$ \quad (D) $75$ \quad (E) $84$
 
 **Risposta:** D
-[[Quesiti/src_obm_2007_n3_f1#q25|src_obm_2007_n3_f1__Q25]]

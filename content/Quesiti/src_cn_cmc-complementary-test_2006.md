@@ -41,8 +41,6 @@ level: China Mathematical Competition (Complementary Test)
 
 ![[src_cn_b07_w54__q01.png]]
 
-[[Quesiti/src_cn_cmc-complementary-test_2006#q01|src_cn_cmc-complementary-test_2006__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_casework_accurato,skill_ragionamento_geometrico"></span>
@@ -78,7 +76,6 @@ level: China Mathematical Competition (Complementary Test)
 ![[src_cn_b07_w62__q02.png]]
 
 **Risposta:** 11
-[[Quesiti/src_cn_cmc-complementary-test_2006#q02|src_cn_cmc-complementary-test_2006__Q02]]
 
 
 
@@ -110,4 +107,3 @@ Risolvere un sistema di quattro equazioni simmetriche di potenza-somma in x,y,z,
 > Risolvi il seguente sistema di equazioni. $$\begin{cases} x - y + z - w = 2, \\ x^2 - y^2 + z^2 - w^2 = 6, \\ x^3 - y^3 + z^3 - w^3 = 20, \\ x^4 - y^4 + z^4 - w^4 = 66. \end{cases}$$
 
 **Risposta:** $(x,y,z,w)$: $(3,2,1,0)$, $(3,0,1,2)$, $(1,2,3,0)$, $(1,0,3,2)$
-[[Quesiti/src_cn_cmc-complementary-test_2006#q03|src_cn_cmc-complementary-test_2006__Q03]]

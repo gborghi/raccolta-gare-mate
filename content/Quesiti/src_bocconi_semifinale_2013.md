@@ -39,7 +39,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > How many rankings will there be at the end of the race (bearing in mind that the 3 teams reach the finish line and no ex-equals are allowed)?
 
 **Answer:** 6
-[[Quesiti/src_bocconi_semifinale_2013#q01|src_bocconi_semifinale_2013__Q01]]
 
 
 
@@ -80,7 +79,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 ![[src_bocconi_semifinale_2013__q02.png]]
 
 **Answer:** 4
-[[Quesiti/src_bocconi_semifinale_2013#q02|src_bocconi_semifinale_2013__Q02]]
 
 
 
@@ -113,7 +111,6 @@ Maximum number of equal parts from a pizza with 3 cuts
 > How many parts (not necessarily of the same shape or weight) will you get at most?
 
 **Answer:** 7
-[[Quesiti/src_bocconi_semifinale_2013#q03|src_bocconi_semifinale_2013__Q03]]
 
 
 
@@ -146,7 +143,6 @@ Nice days in 2013
 > How many "beautiful" days are there in 2013, from January 1 to December 31, including March 12?
 
 **Answer:** 7
-[[Quesiti/src_bocconi_semifinale_2013#q04|src_bocconi_semifinale_2013__Q04]]
 
 
 
@@ -187,7 +183,6 @@ Nice days in 2013
 ![[src_bocconi_semifinale_2013__q05.png]]
 
 **Answer:** A
-[[Quesiti/src_bocconi_semifinale_2013#q05|src_bocconi_semifinale_2013__Q05]]
 
 
 
@@ -228,7 +223,6 @@ Nice days in 2013
 ![[src_bocconi_semifinale_2013__q06.png]]
 
 **Answer:** 22
-[[Quesiti/src_bocconi_semifinale_2013#q06|src_bocconi_semifinale_2013__Q06]]
 
 
 
@@ -261,7 +255,6 @@ Nice days in 2013
 > How many ways can Nando train his team?
 
 **Answer:** 9
-[[Quesiti/src_bocconi_semifinale_2013#q07|src_bocconi_semifinale_2013__Q07]]
 
 
 
@@ -290,7 +283,6 @@ Nice days in 2013
 > Find a two-digit number such that twice its opposite (the opposite of a number is the same number, written in the opposite direction of the drawing) is equal to the initial number increased by 1.
 
 **Answer:** 73
-[[Quesiti/src_bocconi_semifinale_2013#q08|src_bocconi_semifinale_2013__Q08]]
 
 
 
@@ -330,8 +322,7 @@ Nice days in 2013
 
 ![[src_bocconi_semifinale_2013__q09.png]]
 
-**Answer:** tre soluzioni: 13, 14, 15
-[[Quesiti/src_bocconi_semifinale_2013#q09|src_bocconi_semifinale_2013__Q09]]
+**Answer:** three solutions: 13, 14, 15
 
 
 
@@ -363,7 +354,6 @@ Nice days in 2013
 > What is the radius of this particular circle?
 
 **Answer:** 2
-[[Quesiti/src_bocconi_semifinale_2013#q10|src_bocconi_semifinale_2013__Q10]]
 
 
 
@@ -400,7 +390,6 @@ Nice days in 2013
 ![[src_bocconi_semifinale_2013__q11.png]]
 
 **Answer:** $9^\circ$, $63^\circ$, $108^\circ$
-[[Quesiti/src_bocconi_semifinale_2013#q11|src_bocconi_semifinale_2013__Q11]]
 
 
 
@@ -429,8 +418,7 @@ Nice days in 2013
 
 > Help Liliana  her calculator is defective and she writes only the figure "4"  to complete the following writing, replacing appropriate digits instead of the $*$ symbol: $$\frac{* * 4 \times}{* *} = \frac{4}{4 * 4}$$
 
-**Answer:** due soluzioni: $124 \times 36$ e $214 \times 21$
-[[Quesiti/src_bocconi_semifinale_2013#q12|src_bocconi_semifinale_2013__Q12]]
+**Answer:** two solutions: $124 \times 36$ and $214 \times 21$
 
 
 
@@ -466,8 +454,7 @@ Nice days in 2013
 
 ![[src_bocconi_semifinale_2013__q13.png]]
 
-**Answer:** (vedi figura nella soluzione)
-[[Quesiti/src_bocconi_semifinale_2013#q13|src_bocconi_semifinale_2013__Q13]]
+**Answer:** (see the figure in the solution)
 
 
 
@@ -499,8 +486,7 @@ Nice days in 2013
 > 
 > What are the dimensions of the particular rectangle?
 
-**Answer:** due soluzioni: $5 \times 20$ e $6 \times 12$
-[[Quesiti/src_bocconi_semifinale_2013#q14|src_bocconi_semifinale_2013__Q14]]
+**Answer:** two solutions: $5 \times 20$ and $6 \times 12$
 
 
 
@@ -537,7 +523,6 @@ Nice days in 2013
 > How many competitors didn't cheat?
 
 **Answer:** 15
-[[Quesiti/src_bocconi_semifinale_2013#q15|src_bocconi_semifinale_2013__Q15]]
 
 
 
@@ -574,4 +559,3 @@ Nice days in 2013
 ![[src_bocconi_semifinale_2013__q16.png]]
 
 **Answer:** $\sqrt{2} - 1$
-[[Quesiti/src_bocconi_semifinale_2013#q16|src_bocconi_semifinale_2013__Q16]]

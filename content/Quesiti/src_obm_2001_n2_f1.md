@@ -41,7 +41,6 @@ level: OBM Nível 2
 > (A) $1$ \quad (B) $26$ \quad (C) $5$ \quad (D) $4$ \quad (E) più di $4$
 
 **Risposta:** B
-[[Quesiti/src_obm_2001_n2_f1#q01|src_obm_2001_n2_f1__Q01]]
 
 
 
@@ -80,7 +79,6 @@ level: OBM Nível 2
 ![[src_obm_2001_n2_f1__q02.png]]
 
 **Risposta:** E
-[[Quesiti/src_obm_2001_n2_f1#q02|src_obm_2001_n2_f1__Q02]]
 
 
 
@@ -115,7 +113,6 @@ level: OBM Nível 2
 > (A) è uguale a $1$ \quad (B) è uguale a $4$ \quad (C) è inferiore a $3$ \quad (D) è maggiore di $4$ e inferiore a $11$ \quad (E) è $3$
 
 **Risposta:** D
-[[Quesiti/src_obm_2001_n2_f1#q03|src_obm_2001_n2_f1__Q03]]
 
 
 
@@ -149,7 +146,6 @@ level: OBM Nível 2
 > (A) $15$ litri \quad (B) $45$ litri \quad (C) $75$ litri \quad (D) $80$ litri \quad (E) $30$
 
 **Risposta:** C
-[[Quesiti/src_obm_2001_n2_f1#q04|src_obm_2001_n2_f1__Q04]]
 
 
 
@@ -184,7 +180,6 @@ level: OBM Nível 2
 > (A) $98$ \quad (B) $32$ \quad (C) $22$ \quad (D) $89$ \quad (E) $21$
 
 **Risposta:** E
-[[Quesiti/src_obm_2001_n2_f1#q05|src_obm_2001_n2_f1__Q05]]
 
 
 
@@ -223,7 +218,6 @@ level: OBM Nível 2
 ![[src_obm_2001_n2_f1__q06.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2001_n2_f1#q06|src_obm_2001_n2_f1__Q06]]
 
 
 
@@ -257,7 +251,6 @@ level: OBM Nível 2
 > (A) $3$ meloni \quad (B) $4$ meloni \quad (C) $6$ meloni \quad (D) $5$ meloni \quad (E) $2$ meloni
 
 **Risposta:** A
-[[Quesiti/src_obm_2001_n2_f1#q07|src_obm_2001_n2_f1__Q07]]
 
 
 
@@ -292,7 +285,6 @@ level: OBM Nível 2
 > (A) $4$ \quad (B) $0$ \quad (C) $7$ \quad (D) $5$ \quad (E) Mancano dati
 
 **Risposta:** D
-[[Quesiti/src_obm_2001_n2_f1#q08|src_obm_2001_n2_f1__Q08]]
 
 
 
@@ -326,8 +318,7 @@ level: OBM Nível 2
 > 
 > (A) $18$ \quad (B) $12$ \quad (C) $24$ \quad (D) $9$ \quad (E) $36$
 
-**Risposta:** Anulada
-[[Quesiti/src_obm_2001_n2_f1#q09|src_obm_2001_n2_f1__Q09]]
+**Risposta:** Annullato
 
 
 
@@ -362,7 +353,6 @@ level: OBM Nível 2
 > (A) $10$ \quad (B) $11$ \quad (C) $12$ \quad (D) $13$ \quad (E) $14$
 
 **Risposta:** C
-[[Quesiti/src_obm_2001_n2_f1#q10|src_obm_2001_n2_f1__Q10]]
 
 
 
@@ -397,7 +387,6 @@ level: OBM Nível 2
 > (A) $347$ \quad (B) $73$ \quad (C) $109$ \quad (D) $141$ \quad (E) $361$
 
 **Risposta:** B
-[[Quesiti/src_obm_2001_n2_f1#q11|src_obm_2001_n2_f1__Q11]]
 
 
 
@@ -440,7 +429,6 @@ level: OBM Nível 2
 > - **(E)** Tutte le righe hanno cellule occupate $5$.
 
 **Risposta:** D
-[[Quesiti/src_obm_2001_n2_f1#q12|src_obm_2001_n2_f1__Q12]]
 
 
 
@@ -474,7 +462,6 @@ level: OBM Nível 2
 > (A) $38^\circ$ \quad (B) $40^\circ$ \quad (C) $42^\circ$ \quad (D) $44^\circ$ \quad (E) $46^\circ$
 
 **Risposta:** C
-[[Quesiti/src_obm_2001_n2_f1#q13|src_obm_2001_n2_f1__Q13]]
 
 
 
@@ -509,7 +496,6 @@ level: OBM Nível 2
 > (A) $7$ \quad (B) $8$ \quad (C) $9$ \quad (D) $10$ \quad (E) $11$
 
 **Risposta:** E
-[[Quesiti/src_obm_2001_n2_f1#q14|src_obm_2001_n2_f1__Q14]]
 
 
 
@@ -544,7 +530,6 @@ level: OBM Nível 2
 > (A) $3n$ \quad (B) $3n+1$ \quad (C) $3n+2$ \quad (D) $3n+3$ \quad (E) $4n$
 
 **Risposta:** D
-[[Quesiti/src_obm_2001_n2_f1#q15|src_obm_2001_n2_f1__Q15]]
 
 
 
@@ -579,7 +564,6 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 > (A) R\$$7{,}00$ \quad (B) R\$$8{,}00$ \quad (C) R\$$9{,}00$ \quad (D) R\$$10{,}00$ \quad (E) R\$$11{,}00$
 
 **Risposta:** B
-[[Quesiti/src_obm_2001_n2_f1#q16|src_obm_2001_n2_f1__Q16]]
 
 
 
@@ -613,7 +597,6 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 > (A) $50$ \quad (B) $60$ \quad (C) $70$ \quad (D) $80$ \quad (E) $90$
 
 **Risposta:** C
-[[Quesiti/src_obm_2001_n2_f1#q17|src_obm_2001_n2_f1__Q17]]
 
 
 
@@ -648,7 +631,6 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 > (A) $6882$ \quad (B) $5994$ \quad (C) $4668$ \quad (D) $7224$ \quad (E) $3448$
 
 **Risposta:** A
-[[Quesiti/src_obm_2001_n2_f1#q18|src_obm_2001_n2_f1__Q18]]
 
 
 
@@ -687,7 +669,6 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 ![[src_obm_2001_n2_f1__q19.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2001_n2_f1#q19|src_obm_2001_n2_f1__Q19]]
 
 
 
@@ -722,7 +703,6 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 ![[src_obm_2001_n2_f1__q20.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2001_n2_f1#q20|src_obm_2001_n2_f1__Q20]]
 
 
 
@@ -757,7 +737,6 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 > (A) $9$ \quad (B) $5$ \quad (C) $6$ \quad (D) $7$ \quad (E) $8$
 
 **Risposta:** D
-[[Quesiti/src_obm_2001_n2_f1#q21|src_obm_2001_n2_f1__Q21]]
 
 
 
@@ -800,7 +779,6 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 > - **(E)** Possono superare $20000$ km/h.
 
 **Risposta:** D
-[[Quesiti/src_obm_2001_n2_f1#q22|src_obm_2001_n2_f1__Q22]]
 
 
 
@@ -839,7 +817,6 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 ![[src_obm_2001_n2_f1__q23.png]]
 
 **Risposta:** A
-[[Quesiti/src_obm_2001_n2_f1#q23|src_obm_2001_n2_f1__Q23]]
 
 
 
@@ -874,7 +851,6 @@ Numero di lupi tra i cinque animali in cui i cani dicono la verità e i lupi men
 > (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
 
 **Risposta:** D
-[[Quesiti/src_obm_2001_n2_f1#q24|src_obm_2001_n2_f1__Q24]]
 
 
 
@@ -912,4 +888,3 @@ Numero di lupi tra i cinque animali in cui i cani dicono la verità e i lupi men
 ![[src_obm_2001_n2_f1__q25.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2001_n2_f1#q25|src_obm_2001_n2_f1__Q25]]

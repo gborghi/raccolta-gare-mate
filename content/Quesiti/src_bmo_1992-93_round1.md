@@ -33,8 +33,6 @@ level: BMO Round 1
 
 > Trova, mostrando il tuo metodo, un numero intero a sei cifre $n$ con le seguenti proprietà: (i) $n$ è un quadrato perfetto, (ii) il numero formato dalle ultime tre cifre di $n$ è esattamente uno maggiore del numero formato dalle prime tre cifre di $n$. (In questo modo $n$ potrebbe sembrare $123124$, anche se questo non è un quadrato.)
 
-[[Quesiti/src_bmo_1992-93_round1#q01|src_bmo_1992-93_round1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_stima"></span>
@@ -59,8 +57,6 @@ level: BMO Round 1
 *Tostato quadrato ABCD tagliato a metà; trovare il triangolo di divisione del triangolo ABC tagliato a destra più corto in aree uguali.*
 
 > Un pezzo quadrato di torta $ABCD$ di lunghezza laterale $1$ e centro $O$ viene tagliato a metà per formare due pezzi uguali $ABC$ e $CDA$. Se il triangolo $ABC$ deve essere tagliato in due parti di superficie uguale, di solito si taglia lungo la linea di simmetria $BO$. Tuttavia, ci sono altri modi di farlo. Trova, con giustificazione, la lunghezza e la posizione del taglio retto più breve che divide il triangolo $ABC$ in due parti di superficie uguale.
-
-[[Quesiti/src_bmo_1992-93_round1#q02|src_bmo_1992-93_round1__Q02]]
 
 
 
@@ -93,8 +89,6 @@ level: BMO Round 1
 > 
 > (Nota: se $x$ e $y$ sono interi, allora $x$ divide $y$ se e solo se esiste un intero $z$ tale che $y = xz$. Per esempio, $x = 4$ divide $y = -12$, poiché possiamo prendere $z = -3$.)
 
-[[Quesiti/src_bmo_1992-93_round1#q03|src_bmo_1992-93_round1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -119,8 +113,6 @@ level: BMO Round 1
 *Due cerchi si toccano internamente a M; tangente al cerchio interno incontra l'esterno a Q,R; dimostrano angoli uguali a M.*
 
 > Due cerchi si toccano internamente a $M$. Una linea retta tocca il cerchio interno a $P$ e taglia il cerchio esterno a $Q$ e $R$. Prove che $\angle QMP = \angle RMP$.
-
-[[Quesiti/src_bmo_1992-93_round1#q04|src_bmo_1992-93_round1__Q04]]
 
 
 
@@ -148,5 +140,3 @@ level: BMO Round 1
 *Reali positivi x,y,z soddisfano 1/3 ≤ xy+yz+zx ≤ 3; trovare intervallo di xyz e x+y+z.*
 
 > Se $x, y, z$ sono numeri reali positivi che soddisfano $$\frac{1}{3} \le xy + yz + zx \le 3.$$ Determina l'intervallo di valori per (i) $xyz$ e (ii) $x + y + z$.
-
-[[Quesiti/src_bmo_1992-93_round1#q05|src_bmo_1992-93_round1__Q05]]

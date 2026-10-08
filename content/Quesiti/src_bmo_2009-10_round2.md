@@ -35,8 +35,6 @@ level: BMO Round 2
 
 > Ci sono bambini in un campo di matematica. Ciascuno ha al massimo tre amici nel campo, e $A$ è amico di $B$ se e solo se $B$ è amico di $A$. Il capo del campo vorrebbe mettere in fila i bambini in modo che ogni bambino sia vicino a un massimo di due bambini tra qualsiasi coppia di amici. E' sempre possibile farlo?
 
-[[Quesiti/src_bmo_2009-10_round2#q01|src_bmo_2009-10_round2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -63,8 +61,6 @@ level: BMO Round 2
 *Prova la condizione angolare in triangolo se angolo retto a C*
 
 > Nel triangolo $ABC$, il centroide è $G$ e $D$ è il punto medio di $CA$. La linea attraverso $G$ parallela a $BC$ incontra $AB$ a $E$. Prova che $\angle AEC = \angle DGC$ se e solo se $\angle ACB = 90^\circ$.
-
-[[Quesiti/src_bmo_2009-10_round2#q02|src_bmo_2009-10_round2__Q02]]
 
 
 
@@ -93,8 +89,6 @@ level: BMO Round 2
 
 > Trova tutti gli enti $n$ in modo tale che $n^2 + 4$ divida $n^3 + n$, e prova che la tua risposta è completa.
 
-[[Quesiti/src_bmo_2009-10_round2#q03|src_bmo_2009-10_round2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_simmetria,skill_manipolazione_algebrica,skill_stima,skill_riconoscimento_pattern"></span>
@@ -122,5 +116,3 @@ level: BMO Round 2
 *Prove la disuguaglianza dei valori reali positivi x, y, z*
 
 > Prove che, per tutti i numeri reali positivi $x$, $y$ e $z$, $$\left(\frac{x+y}{z}\right)^2 + \left(\frac{y+z}{x}\right)^2 + \left(\frac{z+x}{y}\right)^2 \ge 3(x+y+z)\left(\frac{1}{x}+\frac{1}{y}+\frac{1}{z}\right) - 9.$$
-
-[[Quesiti/src_bmo_2009-10_round2#q04|src_bmo_2009-10_round2__Q04]]

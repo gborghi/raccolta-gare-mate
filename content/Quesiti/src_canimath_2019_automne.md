@@ -35,7 +35,6 @@ level: Coupe Animath Automne
 > Trova il numero di numeri interi dispari tra 1 e 2019 inclusi.
 
 **Risposta:** 1010
-[[Quesiti/src_canimath_2019_automne#q01|src_canimath_2019_automne__Q01]]
 
 
 
@@ -63,7 +62,6 @@ level: Coupe Animath Automne
 > Monsieur Deschamps possiede polli e mucche; le galline hanno due gambe e le mucche quattro. Per prepararsi all'inverno, deve fare pantofole per tutti. Ha 160 animali in totale e deve fare 400 pantofole. Quante mucche possiede?
 
 **Risposta:** 40
-[[Quesiti/src_canimath_2019_automne#q02|src_canimath_2019_automne__Q02]]
 
 
 
@@ -90,8 +88,6 @@ level: Coupe Animath Automne
 
 > Lasciate che $ABC$ sia un triangolo di uguali dimensioni in modo che $\widehat{ABC} = 60^\circ$; non sappiamo quale vertice è l'apice. Trova tutti i valori possibili di $\widehat{ACB}$.
 
-[[Quesiti/src_canimath_2019_automne#q03|src_canimath_2019_automne__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -116,8 +112,6 @@ level: Coupe Animath Automne
 *Area di IXJY quadrilaterale all'interno del rettangolo ABCD dell'area 4*
 
 > Il $ABCD$ deve essere un rettangolo di area 4. Il $I$ deve essere il punto medio di $[AD]$ e $J$ il punto medio di $[BC]$. Il punto di intersezione di $(AJ)$ e $(BI)$ è $X$ e il punto di intersezione di $(DJ)$ e $(CI)$ è $Y$. Qual è la superficie del quadrilaterale $IXJY$?
-
-[[Quesiti/src_canimath_2019_automne#q04|src_canimath_2019_automne__Q04]]
 
 
 
@@ -144,8 +138,6 @@ level: Coupe Animath Automne
 *Contare i numeri interi a 3 cifre i cui numeri formano una progressione aritmetica da sinistra a destra*
 
 > Quanti numeri interi tra 100 e 999 (inclusi) sono tali che le loro cifre formino una progressione aritmetica quando vengono lette da sinistra a destra?
-
-[[Quesiti/src_canimath_2019_automne#q05|src_canimath_2019_automne__Q05]]
 
 
 
@@ -184,8 +176,6 @@ level: Coupe Animath Automne
 > 
 > Le grandi diagonali di una scacchiera sono le due diagonali che vanno da un angolo della scacchiera all'angolo opposto.
 
-[[Quesiti/src_canimath_2019_automne#q06|src_canimath_2019_automne__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_disuguaglianze,method_casework,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
@@ -214,8 +204,6 @@ L'ordinamento rigoroso delle frazioni implica l'ordinamento dei loro medianti?
 
 > E' vero che se $a_1$, $a_2$, $b_1$, $b_2$, $c_1$, $d_1$, $c_2$, $d_2$ sono integri rigorosamente positivi in modo che $$\frac{a_1}{b_1} < \frac{c_1}{d_1} \quad \text{and} \quad \frac{a_2}{b_2} < \frac{c_2}{d_2},$$ si abbia sempre $$\frac{a_1 + c_1}{b_1 + d_1} < \frac{a_2 + c_2}{b_2 + d_2}\,?$$
 
-[[Quesiti/src_canimath_2019_automne#q07|src_canimath_2019_automne__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -241,8 +229,6 @@ L'ordinamento rigoroso delle frazioni implica l'ordinamento dei loro medianti?
 *Integra con esattamente 300 unità, senza zeri decimali, e un quadrato perfetto*
 
 > Esiste un numero intero la cui rappresentazione decimale contiene esattamente 300 cifre uguali a $1$, nessun numero uguale a $0$, e che è un quadrato perfetto? Ad esempio, $9 = 3 \times 3$ è un quadrato perfetto ma $2$ non lo è.
-
-[[Quesiti/src_canimath_2019_automne#q08|src_canimath_2019_automne__Q08]]
 
 
 
@@ -270,7 +256,6 @@ L'ordinamento rigoroso delle frazioni implica l'ordinamento dei loro medianti?
 > Monsieur Deschamps possiede polli e mucche; le galline hanno due gambe e le mucche quattro. Per prepararsi all'inverno, deve fare pantofole per tutti. Ha 160 animali in totale e deve fare 400 pantofole. Quante mucche possiede?
 
 **Risposta:** 40
-[[Quesiti/src_canimath_2019_automne#q09|src_canimath_2019_automne__Q09]]
 
 
 
@@ -297,8 +282,6 @@ L'ordinamento rigoroso delle frazioni implica l'ordinamento dei loro medianti?
 
 > Ho calzini di due colori diversi: 6 calzini blu e 6 calzini rossi. Ho disegnato diversi calzini a caso dal cassetto. Quante calzini devo disegnare, come minimo, per essere sicuro di avere due calzini di colori diversi?
 
-[[Quesiti/src_canimath_2019_automne#q10|src_canimath_2019_automne__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -323,8 +306,6 @@ L'ordinamento rigoroso delle frazioni implica l'ordinamento dei loro medianti?
 *Area quadrilaterale IXJY all'interno del rettangolo ABCD dell'area 4 (versione liceale)*
 
 > Il $ABCD$ deve essere un rettangolo di area 4. Il $I$ deve essere il punto medio di $[AD]$ e $J$ il punto medio di $[BC]$. Il punto di intersezione di $(AJ)$ e $(BI)$ è $X$ e il punto di intersezione di $(DJ)$ e $(CI)$ è $Y$. Qual è la superficie del quadrilaterale $IXJY$?
-
-[[Quesiti/src_canimath_2019_automne#q11|src_canimath_2019_automne__Q11]]
 
 
 
@@ -363,8 +344,6 @@ L'ordinamento rigoroso delle frazioni implica l'ordinamento dei loro medianti?
 > 
 > Le grandi diagonali di una scacchiera sono le due diagonali che vanno da un angolo della scacchiera all'angolo opposto.
 
-[[Quesiti/src_canimath_2019_automne#q12|src_canimath_2019_automne__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -390,8 +369,6 @@ L'ordinamento rigoroso delle frazioni implica l'ordinamento dei loro medianti?
 *Integra con esattamente 300 unità, senza zeri, e quadrato perfetto (versione liceale)*
 
 > Esiste un numero intero la cui rappresentazione decimale contiene esattamente 300 cifre uguali a $1$, nessun numero uguale a $0$, e che è un quadrato perfetto? Ad esempio, $9 = 3 \times 3$ è un quadrato perfetto ma $2$ non lo è.
-
-[[Quesiti/src_canimath_2019_automne#q13|src_canimath_2019_automne__Q13]]
 
 
 
@@ -426,8 +403,6 @@ Gioco di divisione: dimostra che Paul vince per N=2019 e perde per N=2020
 > 
 > b) Mostrare che se $N = 2020$, Paul non può vincere.
 
-[[Quesiti/src_canimath_2019_automne#q14|src_canimath_2019_automne__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -451,8 +426,6 @@ Gioco di divisione: dimostra che Paul vince per N=2019 e perde per N=2020
 *Altezze del triangolo ABC: piedi E, F; mostra AFHE come parallelo dato AH perpendicolare a EF*
 
 > Lasciate che $ABC$ sia un triangolo. Che $E$ sia il piede dell'altitudine da $B$ del triangolo $ABC$ e $F$ il piede dell'altitudine da $C$ del triangolo $ABC$. $H$ sia il punto di intersezione delle linee $(BE)$ e $(CF)$, e $O$ il centro del cerchio circoscritto di $ABC$. Si noti che $H$ è l'ortocentro del triangolo. Indicare che $AF = AE$ e che il quadrilaterale $AFHE$ è un parallelo.
-
-[[Quesiti/src_canimath_2019_automne#q15|src_canimath_2019_automne__Q15]]
 
 
 
@@ -487,8 +460,6 @@ Gioco di divisione: dimostra che Paul vince per N=2019 e perde per N=2020
 > 
 > $\triangleright$ la somma dei valori di tutti gli accordi è uguale a $1010^2$.
 
-[[Quesiti/src_canimath_2019_automne#q16|src_canimath_2019_automne__Q16]]
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_algebra,topic_aritmetica,method_invarianti,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
@@ -515,5 +486,3 @@ Gioco di divisione: dimostra che Paul vince per N=2019 e perde per N=2020
 *Esistenza di una sequenza di interi rigorosamente positivi che soddisfano a_{n+2} = a_{n+1} + sqrt(a_n + a_{n+1})*
 
 > Esiste una sequenza di integri rigorosamente positivi $a_0, a_1, \ldots$ tale che $$a_{n+2} = a_{n+1} + \sqrt{a_n + a_{n+1}}$$ per tutti gli integri $n \ge 0$?
-
-[[Quesiti/src_canimath_2019_automne#q17|src_canimath_2019_automne__Q17]]

@@ -37,8 +37,6 @@ level: BMO Round 2
 > 
 > Prove che il triangolo $BPE$ è uguale.
 
-[[Quesiti/src_bmo2_2019#q01|src_bmo2_2019__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_casework,method_invarianti,method_conteggio,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -63,8 +61,6 @@ level: BMO Round 2
 *Piani di scacchi su tavola n2×n2, trovare valori vincenti di n*
 
 > Per alcuni numeri interi $n$, un insieme di pezzi magici di scacchi $n^2$ si organizzano su una scacchiera quadrata $n^2 \times n^2$ composta da quadrati unitari $n^4$. A un segnale, tutti i pezzi di scacchi si teleportano su un altro quadrato della scacchiera in modo tale che la distanza tra i centri dei loro quadrati vecchi e nuovi sia $n$. I pezzi di scacchi vincono se, sia prima che dopo il segnale, non ci sono due pezzi di scacchi nella stessa riga o colonna. Per quali valori di $n$ possono vincere i scacchi?
-
-[[Quesiti/src_bmo2_2019#q02|src_bmo2_2019__Q02]]
 
 
 
@@ -93,8 +89,6 @@ level: BMO Round 2
 
 > Lasciate che $p$ sia un primo parziale. Quanti sottoinsiemi non vuoti di $$\{1, 2, 3, \ldots, p-2, p-1\}$$ hanno una somma divisibile per $p$?
 
-[[Quesiti/src_bmo2_2019#q03|src_bmo2_2019__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,topic_algebra,method_backward,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
@@ -121,5 +115,3 @@ level: BMO Round 2
 *Trova tutte le funzioni f: R+→R+ con f(x)≤f(y) per x≤y e equazione funzionale*
 
 > Trova tutte le funzioni $f$ dai numeri reali positivi ai numeri reali positivi per i quali $f(x) \le f(y)$ ogni volta $x \le y$ e $$f(x^4) + f(x^2) + f(x) + f(1) = x^4 + x^2 + x + 1$$ per tutti $x > 0$.
-
-[[Quesiti/src_bmo2_2019#q04|src_bmo2_2019__Q04]]

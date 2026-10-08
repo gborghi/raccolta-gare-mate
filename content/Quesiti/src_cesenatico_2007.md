@@ -92,8 +92,7 @@ level: nazionale
 
 > A regular hexagon is given in the plan. For each point P of the plane, we call P the sum of the six distances between P and the lines on which the sides of the hexagon lie, and v(P) the sum of the six distances of P from the vertices of the hexagon. (a) For which P points of the plan is the minimum P? (b) For which points P of the plan v(P) is the minimum?
 
-**Answer:** (a) interno/bordo esagono; (b) il centro
-[[Quesiti/src_cesenatico_2007#q01|src_cesenatico_2007__Q01]]
+**Answer:** (a) interior/boundary of the hexagon; (b) the center
 
 
 
@@ -124,8 +123,7 @@ level: nazionale
 
 > Let's say that two polynomials with integer coefficients p and q are similar if they have the same degree and the same coefficients less the order. (a) Demonstrate that if p and q are similar, then p(2007) −q(2007) is a multiple of 2. (b) Are there such integers k > 2 that, however given two similar polynomials p and q, p(2007)−q(2007) is a multiple of k?
 
-**Answer:** (a) dimostrato; (b) si, k=2006
-[[Quesiti/src_cesenatico_2007#q02|src_cesenatico_2007__Q02]]
+**Answer:** (a) proved; (b) yes, k=2006
 
 
 
@@ -158,8 +156,7 @@ level: nazionale
 
 > Let ABC be a triangle with a baricenter G. Both D = A point on the AG line such that AG = GD, and E = B point on the GB line such that GB = GE. Let M be the mean of AB. Demonstrate that the quadrilateral BMCD is inscribed in a circumference if and only if BA = BE.
 
-**Answer:** dimostrato
-[[Quesiti/src_cesenatico_2007#q03|src_cesenatico_2007__Q03]]
+**Answer:** proved
 
 
 
@@ -192,7 +189,6 @@ level: nazionale
 > Alberto, to celebrate Barbara's birthday, proposes to play the following game: given the sum of the numbers 0, 1, . . . , 1024, Barbara removes 29 numbers from this total. In the next step, Alberto removes the remaining 28 numbers. You play Barbara again, who removes 27 and so on, until there are only 2 numbers a and b. Alberto at this point has to pay Barbara a-a-b thousand euros. Determine the maximum amount of euro Barbara is sure to be able to collect, regardless of the strategy adopted by Alberto.
 
 **Answer:** 32 euro
-[[Quesiti/src_cesenatico_2007#q04|src_cesenatico_2007__Q04]]
 
 
 
@@ -225,8 +221,7 @@ level: nazionale
 
 > Whether given the sequence (x1 = 2; xn+1 = 2x2 n −1 for n ≥1. Demonstrate that n and xn are relatively prime for each n ≥1.
 
-**Answer:** dimostrato
-[[Quesiti/src_cesenatico_2007#q05|src_cesenatico_2007__Q05]]
+**Answer:** proved
 
 
 
@@ -276,5 +271,4 @@ Maximum constant c_n and d_n in inequality with product 1
 
 > For each integer n ≥2, determine: (a) the largest real number cn such that 1 1 + a1 + 1 1 + a2 + . . . + 1 1 + an ≥cn for each choice of positive real numbers a1, a2, . . . , such as a1 · a2 · . . . · an = 1; (b) the largest real number such that 1 1 + 2a1 + 1 1 + 2a2 + . . . + 1 1 + 2an ≥dn for each choice of positive real numbers a1, a2, . . . , such as a1 · a2 · . . . · an = 1.
 
-**Answer:** (a) c_n=1; (b) d_2=2/3, d_n=1 per n>=3
-[[Quesiti/src_cesenatico_2007#q06|src_cesenatico_2007__Q06]]
+**Answer:** (a) c_n=1; (b) d_2=2/3, d_n=1 for n>=3

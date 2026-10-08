@@ -37,8 +37,6 @@ level: BMO Round 1
 > 
 > (Due espressioni sono considerate diverse se contengono numeri diversi. L'ordine dei numeri che formano una somma è irrilevante.)
 
-[[Quesiti/src_bmo_2021-22_round1#q01|src_bmo_2021-22_round1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
@@ -63,8 +61,6 @@ level: BMO Round 1
 *Trova il minor numero possibile di giochi di tavolo giocati*
 
 > Un giorno Arun e Disha giocarono diverse partite di tennis da tavolo. A cinque punti durante il giorno, Arun calcola la percentuale di partite giocate fino ad ora che ha vinto. I risultati di questi calcoli sono stati esattamente $30\%$, esattamente $40\%$, esattamente $50\%$, esattamente $60\%$ e esattamente $70\%$ in qualche ordine. Qual è il numero minimo di giochi che avrebbero potuto giocare?
-
-[[Quesiti/src_bmo_2021-22_round1#q02|src_bmo_2021-22_round1__Q02]]
 
 
 
@@ -95,8 +91,6 @@ level: BMO Round 1
 > 
 > (Due pile sono diverse se contengono numeri diversi di pezzi d'oro di un certo peso. La disposizione dei pezzi nelle pile è irrilevante.)
 
-[[Quesiti/src_bmo_2021-22_round1#q03|src_bmo_2021-22_round1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -126,8 +120,6 @@ level: BMO Round 1
 > 
 > (Un arco minore di un cerchio è il più breve dei due archi con determinati punti terminali.)
 
-[[Quesiti/src_bmo_2021-22_round1#q04|src_bmo_2021-22_round1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,method_estremalita,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -152,8 +144,6 @@ level: BMO Round 1
 *Ricerca la media più piccola possibile di un insieme di N dato m(N) per N<2021*
 
 > Un insieme $N$ è un insieme di diversi integri positivi compresi un dato intero positivo $N$. La media $m(N)$ deve essere la più piccola possibile di qualsiasi set $N$. Per quanti valori $N$ inferiori a $2021$ $m(N)$ è un numero intero?
-
-[[Quesiti/src_bmo_2021-22_round1#q05|src_bmo_2021-22_round1__Q05]]
 
 
 
@@ -195,5 +185,3 @@ level: BMO Round 1
 > (iii) Ogni termine dopo il primo è uguale al termine precedente o alla somma di tutti i termini precedenti.
 > 
 > Quando Marvin sarà finito, quante delle liste avranno una somma uguale a $999{,}999$?
-
-[[Quesiti/src_bmo_2021-22_round1#q06|src_bmo_2021-22_round1__Q06]]

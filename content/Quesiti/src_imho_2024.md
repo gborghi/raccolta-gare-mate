@@ -37,8 +37,6 @@ level: IMO
 > $$\lfloor \alpha \rfloor + \lfloor 2\alpha \rfloor + \cdots + \lfloor n\alpha \rfloor$$
 > sia multiplo di $n$. (Si osservi che $\lfloor z \rfloor$ indica il massimo intero minore o uguale a $z$. Per esempio, $\lfloor -\pi \rfloor = -4$ e $\lfloor 2 \rfloor = \lfloor 2.9 \rfloor = 2$.)
 
-[[Quesiti/src_imho_2024#q01|src_imho_2024__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -67,8 +65,6 @@ level: IMO
 > Determinare tutte le coppie $(a, b)$ di interi positivi per cui esistono interi positivi $y$ e $N$ tali che
 > $$\gcd(a^n + b,\, b^n + a) = y$$
 > sia verificata per ogni intero $n \geq N$. (Si osservi che $\gcd(x, y)$ indica il massimo comun divisore degli interi $x$ e $y$.)
-
-[[Quesiti/src_imho_2024#q02|src_imho_2024__Q02]]
 
 
 
@@ -103,8 +99,6 @@ level: IMO
 > 
 > (Una successione infinita $b_1, b_2, b_3, \ldots$ è definitivamente periodica se esistono interi positivi $p$ e $M$ tali che $b_{m+p} = b_m$ per ogni $m \geq M$.)
 
-[[Quesiti/src_imho_2024#q03|src_imho_2024__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -133,8 +127,6 @@ level: IMO
 > Sia $ABC$ un triangolo con $AB < AC < BC$. Siano $I$ e $\omega$ rispettivamente l'incentro e la circonferenza inscritta del triangolo $ABC$. Sia $X$ il punto sulla retta $BC$ diverso da $C$ tale che la retta passante per $X$ parallela a $AC$ sia tangente alla $\omega$. Analogamente, sia $Y$ il punto sulla retta $BC$ diverso da $B$ tale che la retta passante per $Y$ parallela a $AB$ sia tangente alla $\omega$. Sia $AI$ che interseca la circonferenza circoscritta al triangolo $ABC$ nel punto $P \neq A$. Siano $K$ e $L$ i punti medi dei segmenti $AC$ e $AB$, rispettivamente.
 > 
 > Si dimostri che $\angle KIL + \angle YPX = 180^\circ$.
-
-[[Quesiti/src_imho_2024#q04|src_imho_2024__Q04]]
 
 
 
@@ -165,8 +157,6 @@ level: IMO
 > 
 > Determinare il valore minimo di $n$ per cui Turbo ha una strategia che garantisce di raggiungere la riga finale nell'attempto $n^{\mathrm{th}}$ o prima, indipendentemente dalle posizioni dei mostri.
 
-[[Quesiti/src_imho_2024#q05|src_imho_2024__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_insiemi_funzioni,topic_funzionali,method_casework,method_simmetria,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -196,5 +186,3 @@ level: IMO
 > $$f(x + f(y)) = f(x) + y \quad \text{or} \quad f(f(x) + y) = x + f(y).$$
 >
 > Si dimostri che esiste un intero $c$ tale che per ogni funzione aquasiperiodica $f$ esistono al più $c$ numeri razionali distinti $r$ tali che $f(r) = f(-r)$, e si determini il più piccolo valore possibile di $c$.
-
-[[Quesiti/src_imho_2024#q06|src_imho_2024__Q06]]

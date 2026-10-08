@@ -33,8 +33,6 @@ level: BMO Round 1
 
 > Trova tutti i numeri interi a due cifre $N$ per i quali la somma dei numeri di $10^N - N$ è divisibile da $170$.
 
-[[Quesiti/src_bmo1_2001#q01|src_bmo1_2001__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: BMO Round 1
 *Circolo all'interno di un altro; accordi tangenti dal punto esterno; rapporto angolare al punto di contatto*
 
 > Il cerchio $S$ si trova all'interno del cerchio $T$ e lo tocca a $A$. A partire da un punto $P$ (distinto da $A$) su $T$, gli accordi $PQ$ e $PR$ di $T$ sono tangenti a $S$. Indicare che $\angle QAR = 2\angle XAV$, dove $X$ e $V$ sono i punti in cui $S$ tocca rispettivamente $PQ$ e $PR$.
-
-[[Quesiti/src_bmo1_2001#q02|src_bmo1_2001__Q02]]
 
 
 
@@ -95,8 +91,6 @@ level: BMO Round 1
 > 
 > (ii) Provare o respingere l'affermazione: è possibile confezionare tutti e sette tetromini distinti in un rettangolo $4 \times 7$ senza sovrapposizioni.
 
-[[Quesiti/src_bmo1_2001#q03|src_bmo1_2001__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_induzione,method_ricorsione,method_estremalita,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -124,8 +118,6 @@ level: BMO Round 1
 
 > Definire la sequenza $a_1, a_2, \ldots$ per $$a_1 = n, \quad a_{k+1} = a_k + \left\lfloor \sqrt{a_k} \right\rfloor,$$ in cui $n$ è un intero positivo e $\lfloor x \rfloor$ indica il numero intero più vicino a $x$ inferiore o uguale a $x$; se necessario i numeri interi sono arrotondati. Mostrare che per alcuni interi positivi $n$, i termini $a_1, a_2, \ldots, a_{2001}$ formano una sequenza di interi consecutivi $2001$.
 
-[[Quesiti/src_bmo1_2001#q04|src_bmo1_2001__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -150,5 +142,3 @@ level: BMO Round 1
 *Triangolo rettangolare se a^2+b^2+c^2 è uguale a 8R^2*
 
 > Un triangolo ha lati di lunghezza $a$, $b$, $c$ e il suo circoncircolo ha raggio $R$. Prove che il triangolo è rettangolare se e solo se $a^2 + b^2 + c^2 = 8R^2$.
-
-[[Quesiti/src_bmo1_2001#q05|src_bmo1_2001__Q05]]

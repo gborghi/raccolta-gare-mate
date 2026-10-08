@@ -42,7 +42,6 @@ level: Classi Prime
 > We know that a positive integer n has 6 divisors (counting among the divisors also 1 and n). How many divisors can your square have at most? A 15 B 11 C 36 D 7 E 35 F 12
 
 **Answer:** A
-[[Quesiti/src_archimede_2016_classiprime#q01|src_archimede_2016_classiprime__Q01]]
 
 
 
@@ -78,7 +77,6 @@ level: Classi Prime
 > The numbers a = 1234321, b = 1002001 and c = 249 −248 are given. Which of these are perfect squares? To all B only a and b C only a and c D only b and c E only b F none
 
 **Answer:** A
-[[Quesiti/src_archimede_2016_classiprime#q02|src_archimede_2016_classiprime__Q02]]
 
 
 
@@ -115,7 +113,6 @@ Product m*n data MCD=6 and mcm=3150*
 > Given two positive integers m and n, we know that MCD(m, n) = 6 and that mcm(m, n) = 3150. What is the value of the product? A 18900 B 9450 C 6300 D 12600 E the data provided are incompatible because there are no two numbers n and m satisfying the required conditions F the data provided are insufficient to satisfy
 
 **Answer:** A
-[[Quesiti/src_archimede_2016_classiprime#q03|src_archimede_2016_classiprime__Q03]]
 
 
 
@@ -155,7 +152,6 @@ Product m*n data MCD=6 and mcm=3150*
 > On the island of Kenoncè, ATMs distribute money using 5, 20 and 35 sesterce notes. Claudia wants to withdraw money so she can be sure she's getting at least a five-sester bill. What is the maximum amount of money you can withdraw? There is no maximum at 85 sesterces B 95 sesterces C 195 sesterces D 110 sesterces E 65 sesterces F, because there are multiple quantities of 5 arbitrarily large sesterces, which cannot be expressed using only 20 and 35 sesterce notes
 
 **Answer:** A
-[[Quesiti/src_archimede_2016_classiprime#q04|src_archimede_2016_classiprime__Q04]]
 
 
 
@@ -199,7 +195,6 @@ Product m*n data MCD=6 and mcm=3150*
 > Claudia and Luca challenge the game Mordi La Striscia: it starts with a strip of whole-length liquorice (expressed in centimeters) and, in turn, each player detaches a piece of whole-length positive (always expressed in centimeters) from it with a bite, but making sure that, at each turn, the liquorice detached from the bite is never more than what remains. In the end, the winner is the one who, after the bite, leaves a strip of only one centimeter. At some point, the licorice strip is 27 centimeters long and it's up to Claudia to bite. If you want to be sure you're winning, how many inches of licorice do you have to take off with your bite? A 12 B 13 C 11 D 10 and 9 F Luke will win whatever Claudia does
 
 **Answer:** A
-[[Quesiti/src_archimede_2016_classiprime#q05|src_archimede_2016_classiprime__Q05]]
 
 
 
@@ -238,7 +233,6 @@ Product m*n data MCD=6 and mcm=3150*
 > Luca wrote the PIN of his ATM on a piece of paper, but the third and last digit were deleted. This is how the PIN appears: 16 6. Luke, however, recalls that it was a divisible number by 15 and this allows him to significantly reduce the number of possible cases including testing. How many of these cases are there? A 7 B 6 C 8 D 9 E 10 F 11
 
 **Answer:** A
-[[Quesiti/src_archimede_2016_classiprime#q06|src_archimede_2016_classiprime__Q06]]
 
 
 
@@ -274,7 +268,6 @@ Product m*n data MCD=6 and mcm=3150*
 > How many integers n, such as 700 ≤n ≤800, do not have factors in common with 707? A 86 B 82 C 93 D 81 E 91 F 77
 
 **Answer:** A
-[[Quesiti/src_archimede_2016_classiprime#q07|src_archimede_2016_classiprime__Q07]]
 
 
 
@@ -315,7 +308,6 @@ Product m*n data MCD=6 and mcm=3150*
 > Teacher Sotuttoio is fixated on group work and posters. The group of Luca, Massimo, Davide and Claudia must prepare a carton with 10 drawings: they can start the work as they wish, provided that one person works on each of the 10 drawings. The final score of the group will be the product of the number of drawings made by each child. For example, if Luke does 7 drawings and each of the other children does only one, the final score will be 7 · 1 · 1 · 1, that is, 7. Children immediately notice that even grades higher than 10 can be scored. What's the highest score you can get? A 36 B 24 C 54 D 27 E 15 F 20
 
 **Answer:** A
-[[Quesiti/src_archimede_2016_classiprime#q08|src_archimede_2016_classiprime__Q08]]
 
 
 
@@ -352,7 +344,6 @@ Product m*n data MCD=6 and mcm=3150*
 > Given a regular octagon, the set U consists of its 8 vertices and its centre. How many rectangular triangles have 3 points of U for vertices? A 32 B 28 C 56 D 16 E 36 F 72
 
 **Answer:** A
-[[Quesiti/src_archimede_2016_classiprime#q09|src_archimede_2016_classiprime__Q09]]
 
 
 
@@ -390,7 +381,6 @@ Product m*n data MCD=6 and mcm=3150*
 > In the ABC triangle you have AB = 60cm and AC = 50cm. Let's take P on the AB side and Q on the AC side so that AP = AQ = 10cm. If the area of the BCQP quadrilateral is 696cm2, what is the area of the APQ triangle in cm2? A 24 B 32 C 20 D 18 E 36 F cannot be determined by the data provided alone
 
 **Answer:** A
-[[Quesiti/src_archimede_2016_classiprime#q10|src_archimede_2016_classiprime__Q10]]
 
 
 
@@ -426,7 +416,6 @@ Product m*n data MCD=6 and mcm=3150*
 > They are n = 11.112.222 and m = 11.118.888. How many positive integers exactly divide both m and n? A 16 B 8 C 2 D 4 E 24 F 6
 
 **Answer:** A
-[[Quesiti/src_archimede_2016_classiprime#q11|src_archimede_2016_classiprime__Q11]]
 
 
 
@@ -471,7 +460,6 @@ Product m*n data MCD=6 and mcm=3150*
 > Professor Quandomigira still has to bring her last month's results to class. Pressed by a student, she replies, "I don't remember your vote". I can only tell you that the votes satisfy the following property: no matter how you choose a guy, you can always find at least one girl who got a narrowly higher vote than you. The following statements can be drawn from the professor's words: (a) however a girl is chosen, there is at least one boy who scored lower than her; (b) the average score of girls is higher than the average score of boys; (c) the highest score of a girl is higher than the highest score of a boy. A only (c) B only (b) C only (a) D all E no F only (a) and (c)
 
 **Answer:** A
-[[Quesiti/src_archimede_2016_classiprime#q12|src_archimede_2016_classiprime__Q12]]
 
 
 
@@ -506,7 +494,6 @@ This is the total number of units of measurement for each unit of measurement.
 > What is the minimum common multiple between 2019000 and 2021000? A 10 B 7 C 8 D 9 E 11 F more than 11
 
 **Answer:** A
-[[Quesiti/src_archimede_2016_classiprime#q13|src_archimede_2016_classiprime__Q13]]
 
 
 
@@ -544,7 +531,6 @@ This is the total number of units of measurement for each unit of measurement.
 > On a sheet is written a list of 6 mononyms: the first is xy2 while the last is x8y6. We also know that each monome, from the third to the next, is the product of the two monomes that precede it. What's the fourth monopoly? A x3y2 B x2y3 C x2y4 D x4y2 E x3y F not determined by the data provided alone
 
 **Answer:** A
-[[Quesiti/src_archimede_2016_classiprime#q14|src_archimede_2016_classiprime__Q14]]
 
 
 
@@ -585,7 +571,6 @@ This is the total number of units of measurement for each unit of measurement.
 > On a cube with a side of 18 cm, 3 square holes with a side of 6 cm were used in the center of the faces, which cross it from side to side, as shown in the figure: What is the volume of the solid obtained, expressed in cm3? A 4320 B 3888 C 1944 D 5616 E 5184 F 3600
 
 **Answer:** A
-[[Quesiti/src_archimede_2016_classiprime#q15|src_archimede_2016_classiprime__Q15]]
 
 
 
@@ -642,7 +627,6 @@ This is the total number of units of measurement for each unit of measurement.
 > The rectangle in the figure consists of 18 squares. On its sides (see figure) are taken the points A, B, C, D, E, F and G: A B C D E F G What is the sum of the convex angles d GAB + d ABC + d BCD + d CDE + d DEF + d EFG + d FGA? A 540° B 630° C 720° D 450° E 360° F 900°
 
 **Answer:** A
-[[Quesiti/src_archimede_2016_classiprime#q16|src_archimede_2016_classiprime__Q16]]
 
 
 
@@ -680,7 +664,6 @@ This is the total number of units of measurement for each unit of measurement.
 > From the third degree polynomial p(x) we know that its coefficients are all integers, that p(7) = p(13) = 0 and that p(0) is a positive 2-digit number. What's the value of p? A 91 B 20 C 21 D 19 E 92 F cannot be determined by the data provided alone
 
 **Answer:** A
-[[Quesiti/src_archimede_2016_classiprime#q17|src_archimede_2016_classiprime__Q17]]
 
 
 
@@ -749,5 +732,3 @@ This is the total number of units of measurement for each unit of measurement.
 > Emanuele Callegari
 
 **Answer:** A
-
-[[Quesiti/src_archimede_2016_classiprime#q18|src_archimede_2016_classiprime__Q18]]

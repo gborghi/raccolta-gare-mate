@@ -49,7 +49,6 @@ level: squadre
 > None of the seven mentions the fifth King Unton Greyjoy. What is the total number of letters of the winner's name and surname?
 
 **Answer:** 0010
-[[Quesiti/src_gs_2013_squadre#q01|src_gs_2013_squadre__Q01]]
 
 
 
@@ -81,7 +80,6 @@ level: squadre
 > So think about how to fold the starting sheet in half twice so you get the maximum perimeter possible. How long is that perimeter?
 
 **Answer:** 0051
-[[Quesiti/src_gs_2013_squadre#q02|src_gs_2013_squadre__Q02]]
 
 
 
@@ -110,7 +108,6 @@ level: squadre
 > The entrance to the King's Gate is controlled by a five-digit code that changes every day. King Ceelvyer Lannister decided that in order not to strain the brain too much on similar inecies, the code should always be composed using exactly two sequences of two different digits, e.g. $44333$ and $07777$, but not $43334$ or even $77707$. The Hand of the King protests by saying that the $p/q$ fraction obtained by dividing the total number of codes proposed by Ceelvyer Lannister by the number of all possible five-digit codes is minuscule and this will generate unnecessary risks to the security of the city. But Ceelvyer Lannister tells the Hand not to worry and, taking the fraction $p/q$ with $p$ and $q$ first among them, calculates the difference $q - p$ and shows the Hand that it is not small. What number did Ceelvyer Lannister calculate?
 
 **Answer:** 2491
-[[Quesiti/src_gs_2013_squadre#q03|src_gs_2013_squadre__Q03]]
 
 
 
@@ -138,7 +135,6 @@ level: squadre
 > = 51.
 
 **Answer:** 0192
-[[Quesiti/src_gs_2013_squadre#q04|src_gs_2013_squadre__Q04]]
 
 
 
@@ -167,7 +163,6 @@ level: squadre
 > Ceelvyer, who is part of the very wealthy House of Lannister, evaluates personal names in a slightly unusual way. It classifies the 21 capital letters of the Italian alphabet according to their topological character: the number of holes in their printed writing. The letter B is 2, the letters A, D, O, P, Q, R are 1 each, all the others are 0. Then evaluate the value of a name as the sum of the values of the component letters. After careful analysis, she decides to name her fourth child PDOR after considering all four-letter lists (even with only consonants) and with the same value. How many four-letter lists with the same PDOR value that Ceelvyer Lannister excluded?
 
 **Answer:** 8519
-[[Quesiti/src_gs_2013_squadre#q05|src_gs_2013_squadre__Q05]]
 
 
 
@@ -200,7 +195,6 @@ level: squadre
 > The heraldic coat of arms chosen by Brienne Tarth is hung on a wall: it is a green cross on a white background. The coat of arms is square. The two arms of the cross are parallelograms all contained in the square. Of each parallelogram, two sides lie on the two horizontal sides of the square and two of the four vertices coincide with two vertices diagonally opposite the square. Each side of the square coat of arms shall be $60\text{ cm}$ long. Each horizontal side of the two parallelograms is $15\text{ cm}$ long. What is the white area of the coat of arms in $\text{cm}^2$?
 
 **Answer:** 1950
-[[Quesiti/src_gs_2013_squadre#q06|src_gs_2013_squadre__Q06]]
 
 
 
@@ -229,7 +223,6 @@ level: squadre
 > To spend time at the Barrier, the Night's Watch do very long calculations to keep their brains warm. For example, Sam writes numbers in sequence and sums the sequence. Today he writes lines of 21 numbers: in the first line he writes two 1, then 2, 3, etc. In the second line, he writes 1, then two 2, then 3, 4, etc. up to 20; in the third line, it says 1, 2, two 3, then 4, 5, etc. until 20; and then continue until you write a line with 1, 2, etc. until 19, ending with two 20. Finally, add up all the numbers written. What is the result?
 
 **Answer:** 4410
-[[Quesiti/src_gs_2013_squadre#q07|src_gs_2013_squadre__Q07]]
 
 
 
@@ -257,7 +250,6 @@ level: squadre
 > The vertical section of the tunnel in the Black Castle Barrier has a trapezoidal shape with bases of $6{,}26\text{ m}$ and $76{,}82\text{ m}$. In some points of the tunnel, to ensure stability, a support beam is mounted, parallel to the bases, which divides the vertical section of the tunnel into two equivalent trapezoids. How long is one of these support beams in cm?
 
 **Answer:** 5450
-[[Quesiti/src_gs_2013_squadre#q08|src_gs_2013_squadre__Q08]]
 
 
 
@@ -288,7 +280,6 @@ level: squadre
 > The commander of the Night's Watch uses functions to set calculations that warm his brain. For $x$ and $y$ positive integers, write $\operatorname{qu}(x, y)$ for the quotient of division of $x$ with $y$, i.e. that number $q$ such that $x - (q \times y)$ is a number between $0$ and $y-1$, extremes included (e.g., $\operatorname{qu}(13, 4) = 3$). Today he calculates numbers according to the following formula: $$a_i = (-1)^i + (-1)^{\operatorname{qu}(i,2)} + (-1)^{\operatorname{qu}(i,3)} + (-1)^{\operatorname{qu}(i,4)}.$$ By varying $i$ from $1$ to $2013$, extremes included, how many times does the commander find that the value of $a_i$ is $0$?
 
 **Answer:** 0672
-[[Quesiti/src_gs_2013_squadre#q09|src_gs_2013_squadre__Q09]]
 
 
 
@@ -319,7 +310,6 @@ level: squadre
 > Another of the functions that the Night's Watch commander uses is a rational $f : \mathbb{Q} \to \mathbb{Q}$ rational variable function such that $$f(x + y) = f(x) + f(y)$$ for each $x$ and $y$ rational numbers. The commander knows that $f\!\left(\dfrac{7}{8}\right) = \dfrac{8}{7}$ and calculates $f\!\left(\dfrac{49}{2}\right)$. What is the result?
 
 **Answer:** 0032
-[[Quesiti/src_gs_2013_squadre#q10|src_gs_2013_squadre__Q10]]
 
 
 
@@ -382,7 +372,6 @@ level: squadre
 > What's the number in box five?
 
 **Answer:** 8229
-[[Quesiti/src_gs_2013_squadre#q11|src_gs_2013_squadre__Q11]]
 
 
 
@@ -414,7 +403,6 @@ level: squadre
 > On what date, every month, does its area become greater than 1,500 for the first time?
 
 **Answer:** 0019
-[[Quesiti/src_gs_2013_squadre#q12|src_gs_2013_squadre__Q12]]
 
 
 
@@ -447,7 +435,6 @@ level: squadre
 > [Each sheet has two pages, each numbered.]
 
 **Answer:** 0362
-[[Quesiti/src_gs_2013_squadre#q13|src_gs_2013_squadre__Q13]]
 
 
 
@@ -480,7 +467,6 @@ level: squadre
 > Today, watching one of his Guardians play, Commander Jeor Mormont calculated the probability that the game is not over after the sixth round and, at that point, the player's score is on box 2. If $p/q$ is the probability calculated by the commander, with $p$ and $q$ first among them, the number $q - p$ shall be determined.
 
 **Answer:** 0713
-[[Quesiti/src_gs_2013_squadre#q14|src_gs_2013_squadre__Q14]]
 
 
 
@@ -509,7 +495,6 @@ level: squadre
 > As I said, to spend time at the Wall, the Night's Watch do very long calculations. Jon, starting with number 2013, subtracts 1 and multiplies the result by 1, then subtracts 2 to the product result and multiplies by 2 what he gets, and continues until he subtracts 2013 and multiplies by 2013. What are the last three digits of the number you get?
 
 **Answer:** 0043
-[[Quesiti/src_gs_2013_squadre#q15|src_gs_2013_squadre__Q15]]
 
 
 
@@ -545,7 +530,6 @@ level: squadre
 > Then they write the product $p \cdot q$ for each of these pairs. What's the minimum product they write?
 
 **Answer:** 1469
-[[Quesiti/src_gs_2013_squadre#q16|src_gs_2013_squadre__Q16]]
 
 
 
@@ -578,7 +562,6 @@ level: squadre
 > The arm supporting Munry Baratheon's ship rotates on a long circumference $12\text{ m}$, the arm supporting Unton Greyjoy's ship rotates on a long circumference $40\text{ m}$. When the geyser begins to operate by simultaneously turning and climbing the vessels, each describes a cylindrical propeller. When the ships get stuck, Unton Greyjoy vomits. Munry Baratheon laughed and declared himself the winner. Landed, Unton Greyjoy justifies himself with his soldiers by explaining that it was his ship's longer journey. What's the difference between the two paths in m?
 
 **Answer:** 0130
-[[Quesiti/src_gs_2013_squadre#q17|src_gs_2013_squadre__Q17]]
 
 
 
@@ -611,7 +594,6 @@ level: squadre
 > Bran Stark plays the usual six-sided dice, a lot. It adjoins them to each other on the table (without stacking them or leaving any space), so that they form rectangles of various sizes. It follows a precise rule: the numbers on the faces with which two dice are joined must be summed to 6. In each dice, the sum of the opposite faces is 7. How many dice, at most, can one use to form one of the above-mentioned rectangles?
 
 **Answer:** 0016
-[[Quesiti/src_gs_2013_squadre#q18|src_gs_2013_squadre__Q18]]
 
 
 
@@ -640,7 +622,6 @@ level: squadre
 > The Drogon dragon trains for precise flights. Starting from its trespol, it makes a flight of $200\text{ m}$ to the east, from where it arrived it makes a second flight to the north again of $200\text{ m}$. From the point where it has arrived, it exercises in precise jumps: one jump east of $1\text{ m}$, one turn east of $45^\circ$ in anti-clockwise direction, one turn north-east of $2\text{ m}$, one turn east of $45^\circ$ in anti-clockwise direction, one turn north of $3\text{ m}$, one turn east of $45^\circ$ in anti-clockwise direction, one turn west of $4\text{ m}$, one turn west of $45^\circ$ in anti-clockwise direction, one jump west of $5\text{ m}$, and so on, until the last jump it makes is $400\text{ m}$. How far from the starting point is he at the end of his jumps?
 
 **Answer:** 0282
-[[Quesiti/src_gs_2013_squadre#q19|src_gs_2013_squadre__Q19]]
 
 
 
@@ -676,7 +657,6 @@ Minimum number of offices in the skyscraper
 > What is the minimum number of offices in the building?
 
 **Answer:** 0174
-[[Quesiti/src_gs_2013_squadre#q20|src_gs_2013_squadre__Q20]]
 
 
 
@@ -709,7 +689,6 @@ Minimum number of offices in the skyscraper
 > The grate at the window of the cell in which Lewyj Stark is locked is made up of twenty-two bars, eleven vertical, eleven horizontal, which form 100 squares all equal on the side $5\text{ cm}$. Lewyj Stark spends his time forming with a thin wire perimeter rectangles $1\text{ m}$ with vertices at intersections between bars (and with all four sides of positive length). How many rectangles can it form?
 
 **Answer:** 0296
-[[Quesiti/src_gs_2013_squadre#q21|src_gs_2013_squadre__Q21]]
 
 
 
@@ -742,7 +721,6 @@ Minimum number of offices in the skyscraper
 > On the battlefield, Tyrion Lannister expects Beapys Baratheon's soldiers to attack from the River Acquanera. He placed three lighthouses, two on opposite shores east and west. Tyrion's on the tower a $8\text{ km}$ from the lighthouse on the east bank and a $5\text{ km}$ from the other. It also knows that the distance between the two headlights is $8{,}9\text{ km}$. The third lighthouse is placed on a buoy in the river exactly halfway along the line connecting the two lighthouses on the banks. The starship of Beapys Baratheon appears on the line of the three lighthouses and Tyrion notices that his angle of view between the lighthouse on the east shore and the starship coincides with his angle of view between the boa and the lighthouse on the west shore. He therefore immediately calculates the ratio between the distance of the ship viewed from the beacon on the east bank and that of the ship viewed from the beacon on the west bank and, to prepare the defence, informs Bronn how far the ship viewed from the beacon on the west bank is. How far is the ship seen from the lighthouse on the west bank?
 
 **Answer:** 2500
-[[Quesiti/src_gs_2013_squadre#q22|src_gs_2013_squadre__Q22]]
 
 
 
@@ -771,7 +749,6 @@ Minimum number of offices in the skyscraper
 > The new emblem of House Lannister is a pair of identical rings, formed by rotating a square around a straight plane with the square and parallel to its diagonal. The two rings are chained to each other (one goes through the other's hole). An ancient legend says that if the diagonal of the square used to obtain the rings is $30\text{ cm}$ long and if the volume occupied by the pair of rings is as low as possible, a diamond is created at each point of contact between the two rings. The volume in $\text{cm}^3$ of the smallest solid containing all the pyramids with diamond vertices (i.e. the smallest convex polyhedron containing all the diamonds) will indicate the number of years of Lannister House rule over Westeros. How long will that rule last?
 
 **Answer:** 9000
-[[Quesiti/src_gs_2013_squadre#q23|src_gs_2013_squadre__Q23]]
 
 
 
@@ -800,4 +777,3 @@ Probability of S ball in the 14th minute (recurrence)
 > DEATH controls the fate of the characters with CASE. In front of DEATH there are two circular paths, one twice the length of the other. The two tracks are connected at a point where there is an exchange that allows you to pass from one trail to the other. A ball spins at a perfectly constant speed in the grooves (it takes a minute to complete the shortest groove). CASE, whenever the ball is about to pass to the point of contact, it says "yes" or "no" CASE, exactly. If he says yes, DEATH opens the link so that the ball passes into the other field. If he says no, he doesn't open the link and keeps the ball in the same fold. Every time the ball reaches halfway through the longest stretch, a character dies. At the start of the team competition, the ball passes to the middle of the second stroke (and a character dies). One wonders what the probability is that a character will die at the close of the 14th minute of competition. If this probability is $p/q$, with $p$ and $q$ first, the answer is $q - p$.
 
 **Answer:** 5461
-[[Quesiti/src_gs_2013_squadre#q24|src_gs_2013_squadre__Q24]]

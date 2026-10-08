@@ -37,8 +37,6 @@ level: OBM Nível 2
 
 ![[src_obm_1999_n2_f3__q01.png]]
 
-[[Quesiti/src_obm_1999_n2_f3#q01|src_obm_1999_n2_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_logica,topic_combinatoria,method_invarianti,method_casework,skill_ragionamento_geometrico,skill_lettura_attenta,skill_astrazione"></span>
@@ -68,8 +66,6 @@ Un cittadino esiliato può mai tornare nella sua città originaria?
 > 
 > **Nota: ** Tutte le distanze tra le città sono distinte.
 
-[[Quesiti/src_obm_1999_n2_f3#q02|src_obm_1999_n2_f3__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_invarianti,method_casework,skill_lettura_attenta,skill_modellizzazione,skill_conteggio_sistematico"></span>
@@ -95,8 +91,6 @@ Quante volte Adriano e Bruno si sono affrontati a ping-pong?
 
 > Adriano, Bruno e Carlos giocarono una serie di partite di table tennis. Ogni volta che un giocatore perdeva, veniva sostituito dal giocatore che aspettava. La prima partita è stata giocata tra Adriano e Bruno. È noto che Adriano ha vinto 12 partite e Bruno 21 partite. Quante volte Adriano e Bruno hanno giocato l'uno contro l'altro?
 
-[[Quesiti/src_obm_1999_n2_f3#q03|src_obm_1999_n2_f3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_fattorizzazione,skill_astrazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -121,5 +115,3 @@ Quante volte Adriano e Bruno si sono affrontati a ping-pong?
 *Prove sqrt(2) ha una cifra decimale non zero tra le posizioni 1.000.000 e 3.000.000*
 
 > Prove che c'è almeno una cifra decimale diversa da zero tra i punti decimali $1{,}000{,}000$-th a $3{,}000{,}000$-th di $\sqrt{2}$ dopo il punto decimale.
-
-[[Quesiti/src_obm_1999_n2_f3#q04|src_obm_1999_n2_f3__Q04]]

@@ -43,7 +43,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 ![[src_bocconi_finalenaz_2013__q01.png]]
 
 **Answer:** 1-2-4-3-6-5
-[[Quesiti/src_bocconi_finalenaz_2013#q01|src_bocconi_finalenaz_2013__Q01]]
 
 
 
@@ -80,7 +79,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 ![[src_bocconi_finalenaz_2013__q02.png]]
 
 **Answer:** 2453
-[[Quesiti/src_bocconi_finalenaz_2013#q02|src_bocconi_finalenaz_2013__Q02]]
 
 
 
@@ -113,7 +111,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > What is the result (given that a number cannot start with "0")?
 
 **Answer:** 43199865
-[[Quesiti/src_bocconi_finalenaz_2013#q03|src_bocconi_finalenaz_2013__Q03]]
 
 
 
@@ -146,7 +143,6 @@ Anne's gift for four gifts with memory constraints
 > How much did Anna spend on her first cousin?
 
 **Answer:** 515 Euro
-[[Quesiti/src_bocconi_finalenaz_2013#q04|src_bocconi_finalenaz_2013__Q04]]
 
 
 
@@ -183,7 +179,6 @@ Anne's gift for four gifts with memory constraints
 ![[src_bocconi_finalenaz_2013__q05.png]]
 
 **Answer:** 220
-[[Quesiti/src_bocconi_finalenaz_2013#q05|src_bocconi_finalenaz_2013__Q05]]
 
 
 
@@ -216,7 +211,6 @@ Anne's gift for four gifts with memory constraints
 > How many birthdays (day and month) can be written under the same condition?
 
 **Answer:** 75
-[[Quesiti/src_bocconi_finalenaz_2013#q06|src_bocconi_finalenaz_2013__Q06]]
 
 
 
@@ -253,7 +247,6 @@ Anne's gift for four gifts with memory constraints
 ![[src_bocconi_finalenaz_2013__q07.png]]
 
 **Answer:** 7500 km
-[[Quesiti/src_bocconi_finalenaz_2013#q07|src_bocconi_finalenaz_2013__Q07]]
 
 
 
@@ -286,7 +279,6 @@ Anne's gift for four gifts with memory constraints
 ![[src_bocconi_finalenaz_2013__q08.png]]
 
 **Answer:** 5
-[[Quesiti/src_bocconi_finalenaz_2013#q08|src_bocconi_finalenaz_2013__Q08]]
 
 
 
@@ -319,7 +311,6 @@ Measures of square meadows with total area of 222 dams
 > How much do the sides of the meadows measure? (On the answer sheet, write the smallest possible answer, if not unique.)
 
 **Answer:** 1-5-14, 1-10-11, 2-7-13
-[[Quesiti/src_bocconi_finalenaz_2013#q09|src_bocconi_finalenaz_2013__Q09]]
 
 
 
@@ -352,7 +343,6 @@ Measures of square meadows with total area of 222 dams
 > How much is Deborah's number worth?
 
 **Answer:** 121 e 264
-[[Quesiti/src_bocconi_finalenaz_2013#q10|src_bocconi_finalenaz_2013__Q10]]
 
 
 
@@ -385,7 +375,6 @@ Measures of square meadows with total area of 222 dams
 > How many tokens did Nando use at most?
 
 **Answer:** 10
-[[Quesiti/src_bocconi_finalenaz_2013#q11|src_bocconi_finalenaz_2013__Q11]]
 
 
 
@@ -418,7 +407,6 @@ Measures of square meadows with total area of 222 dams
 > How tall is he?
 
 **Answer:** 4,8 cm e 5 cm
-[[Quesiti/src_bocconi_finalenaz_2013#q12|src_bocconi_finalenaz_2013__Q12]]
 
 
 
@@ -455,7 +443,6 @@ Mysterious positive number less than 2013 with three conditions
 > What number is this?
 
 **Answer:** 1513
-[[Quesiti/src_bocconi_finalenaz_2013#q13|src_bocconi_finalenaz_2013__Q13]]
 
 
 
@@ -488,7 +475,6 @@ Mysterious positive number less than 2013 with three conditions
 > How many coin tosses did Gian Italo make?
 
 **Answer:** 12
-[[Quesiti/src_bocconi_finalenaz_2013#q14|src_bocconi_finalenaz_2013__Q14]]
 
 
 
@@ -521,7 +507,6 @@ Mysterious positive number less than 2013 with three conditions
 > What are the first three consecutive natural integers that have the same number of divisors? (On the answer sheet, write the smallest of these three numbers.)
 
 **Answer:** 33
-[[Quesiti/src_bocconi_finalenaz_2013#q15|src_bocconi_finalenaz_2013__Q15]]
 
 
 
@@ -554,7 +539,6 @@ Mysterious positive number less than 2013 with three conditions
 > What are these three numbers?
 
 **Answer:** 3, 11, 19
-[[Quesiti/src_bocconi_finalenaz_2013#q16|src_bocconi_finalenaz_2013__Q16]]
 
 
 
@@ -593,7 +577,6 @@ Mysterious positive number less than 2013 with three conditions
 > After how many operations, at least, will the bulbs all be turned on again?
 
 **Answer:** 73
-[[Quesiti/src_bocconi_finalenaz_2013#q17|src_bocconi_finalenaz_2013__Q17]]
 
 
 
@@ -626,4 +609,3 @@ Mysterious positive number less than 2013 with three conditions
 > What is the minimum size of this radius in centimetres?
 
 **Answer:** 25 cm
-[[Quesiti/src_bocconi_finalenaz_2013#q18|src_bocconi_finalenaz_2013__Q18]]

@@ -33,8 +33,6 @@ level: BMO Round 2
 
 > Trova tutte le soluzioni in numeri interi non negativi $a$, $b$ a $\sqrt{a} + \sqrt{b} = \sqrt{2009}$.
 
-[[Quesiti/src_bmo2_2009#q01|src_bmo2_2009__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: BMO Round 2
 Prove proprietà dell'ortocentro sul circoncircolo di un triangolo acuto
 
 > Il $ABC$ deve essere un triangolo a angolo acuto con circoncircolo $\omega$. Il centro di $\omega$ è $O$ e l'ortocentro è $H$. Prova che il centro del circoncircolo del triangolo $BOH$ (dove $B$ è un vertice) si trova sul cerchio $\omega$.
-
-[[Quesiti/src_bmo2_2009#q02|src_bmo2_2009__Q02]]
 
 
 
@@ -88,8 +84,6 @@ Prove proprietà dell'ortocentro sul circoncircolo di un triangolo acuto
 *Ricerca tutte le funzioni reali che soddisfano una determinata equazione funzionale*
 
 > Trova tutte le funzioni $f$ dai numeri reali ai numeri reali che soddisfano $$f(x^2) + f(y^2) = (x + y)(f(x) + f(y))$$ per tutti i numeri reali $x$ e $y$.
-
-[[Quesiti/src_bmo2_2009#q03|src_bmo2_2009__Q03]]
 
 
 
@@ -119,5 +113,3 @@ Prove proprietà dell'ortocentro sul circoncircolo di un triangolo acuto
 > Data una cifra integrale positiva $n$, $s(n)$ indica il numero di numeri integrali positivi che appaiono come blocchi di cifre consecutive nella rappresentazione binaria di $n$. Ad esempio, $s(13) = 6$ perché $13 = 1101_2$, che contiene come blocchi consecutivi le rappresentazioni binarie di $13 = 1101_2$, $6 = 110_2$, $5 = 101_2$, $3 = 11_2$, $2 = 10_2$ e $1 = 1_2$.
 > 
 > Mostrare che se $n \le 2500$, allora $s(n) \le 2b$, dove $b$ è il numero di bit nella rappresentazione binaria di $n$, e trovare i valori di $n$ per i quali l'uguaglianza è valida.
-
-[[Quesiti/src_bmo2_2009#q04|src_bmo2_2009__Q04]]

@@ -37,8 +37,6 @@ level: IMO
 > $$|\overrightarrow{OP_1} + \overrightarrow{OP_2} + \cdots + \overrightarrow{OP_n}| \geq 1.$$
 > dove $|\overrightarrow{OM}|$ indica la lunghezza del vettore $\overrightarrow{OM}$.
 
-[[Quesiti/src_imho_1973#q01|src_imho_1973__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,topic_combinatoria,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta"></span>
@@ -63,8 +61,6 @@ level: IMO
 *Insieme finito M con la proprietà delle rette dei punti medi parallele*
 
 > Si dimostri che esiste o non esiste un insieme finito $M$ di punti nello spazio, non tutti complanari, tale che, per ogni coppia di punti $A$ e $B$ appartenenti a $M$, si possano scegliere due altri punti $C$ e $D$ appartenenti a $M$ in modo che le rette $AB$ e $CD$ siano parallele e non coincidenti.
-
-[[Quesiti/src_imho_1973#q02|src_imho_1973__Q02]]
 
 
 
@@ -95,8 +91,6 @@ level: IMO
 > $$x^4 + ax^3 + bx^2 + ax + 1 = 0$$
 > ha almeno una soluzione reale. Per tutte tali coppie $(a, b)$, determinare il valore minimo di $b$.
 
-[[Quesiti/src_imho_1973#q03|src_imho_1973__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_estremalita,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_stima"></span>
@@ -121,8 +115,6 @@ level: IMO
 *Un soldato trova il cammino di minima lunghezza attraverso un triangolo equilatero*
 
 > Un soldato deve controllare la presenza di mine in una regione di forma triangolare equilatera. Il raggio d'azione del suo rilevatore è pari alla metà dell'altezza del triangolo. Il soldato parte da un vertice del triangolo. Quale percorso deve seguire affinché il cammino compiuto sia il più breve possibile e comunque riesca nel suo compito?
-
-[[Quesiti/src_imho_1973#q04|src_imho_1973__Q04]]
 
 
 
@@ -169,8 +161,6 @@ level: IMO
 > 
 > Si dimostri che esiste un numero reale $k$ tale che $f(k) = k$ per ogni $f$ appartenente a $G$.
 
-[[Quesiti/src_imho_1973#q05|src_imho_1973__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_disuguaglianze,method_casework,method_disuguaglianze,method_induzione,skill_manipolazione_algebrica,skill_stima,skill_conteggio_sistematico"></span>
@@ -207,5 +197,3 @@ level: IMO
 > (b) $q < \dfrac{b_{k+1}}{b_k} < \dfrac{1}{q}$ per $k = 1, 2, \ldots, n-1$,
 > 
 > (c) $b_1 + b_2 + \cdots + b_n < \dfrac{1+q}{1-q}(a_1 + a_2 + \cdots + a_n)$.
-
-[[Quesiti/src_imho_1973#q06|src_imho_1973__Q06]]

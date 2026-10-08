@@ -35,8 +35,6 @@ level: nazionale
 
 > If a and b are positive integers such that 54a = ab. Prove that a is a power of 54, that is, there exists a positive integer c such that a = 54c.
 
-[[Quesiti/src_cesenatico_2023#q01|src_cesenatico_2023__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_estremalita,method_invarianti,skill_astrazione"></span>
@@ -76,7 +74,6 @@ level: nazionale
 > Let it be a positive integer. On a board, Bobo writes n integers greater than or equal to zero. Next, for every Bobo move • for every i = 1, . . . , n calculates the number a of integers written at that time on the board and less than or equal to i, • deletes all the numbers written, • writes on the board the numbers a1, a2, . . . , an. For example, if n = 5 and the numbers written initially are 0, 7, 2, 6, 2, after the first move will be 1, 3, 3, 3, 3, after the second move will be 1, 1, 5, 5, 5, and so on. (a) Demonstrate that, for each n and for each initial configuration, the numbers written on the board do not change from a certain point onwards. (b) Determine, as a function of n, the positive minimum integer k with the property that, for any initial configuration, moves from k-eighth to next no longer change the numbers written on the board.
 
 **Answer:** k=2n+1
-[[Quesiti/src_cesenatico_2023#q02|src_cesenatico_2023__Q02]]
 
 
 
@@ -109,8 +106,7 @@ level: nazionale
 
 > For each positive integer n, we indicate with s(n) the sum of the digits of n (in the normal representation at base 10). So, for example, s(8) = 8, s(2023) = 7, s(573) = 15. (a) Determine whether there are two distinct positive integers a and b such that 2023 · a + s(a) = 2023 · b + s(b). (b) Determine whether there are two distinct positive integers a and b such that a + 2023 · s(a) = b + 2023 · s(b).
 
-**Answer:** si in entrambi i casi
-[[Quesiti/src_cesenatico_2023#q03|src_cesenatico_2023__Q03]]
+**Answer:** yes in both cases
 
 
 
@@ -148,8 +144,6 @@ level: nazionale
 
 > On a circumference of center O and diameter AB, we fix a point C distinct from A and B. Then we vary a point D, also distinct from A and B, on the arc AB of the circumference to which C does not belong, and we define E as the point of the CD segment such that the BE and CD lines are perpendicular. Demonstrate that the EC·ED product is maximum, at the variation of D, if and only if points B, O, E and D lie on the same circumference. Italian Olympic Games of Mathematics 2023 - Texts and solutions - Page 1 of 15
 
-[[Quesiti/src_cesenatico_2023#q04|src_cesenatico_2023__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_disuguaglianze,method_disuguaglianze,method_simmetria,skill_manipolazione_algebrica"></span>
@@ -182,7 +176,6 @@ level: nazionale
 > Three real numbers (positive, negative or zero) such that a2 + b2 + c2 = 6. (a) Determine the maximum possible value for the expression (a −b) 2 + (b −c) 2 + (c −a) 2. (b) Determine the maximum possible value for the expression (a −b) 2 · (b −c) 2 · (c −a) 2. In either case, also specify all the thresholds for which the maximum value is reached.
 
 **Answer:** 18 e 108
-[[Quesiti/src_cesenatico_2023#q05|src_cesenatico_2023__Q05]]
 
 
 
@@ -226,5 +219,4 @@ level: nazionale
 > 
 > XXXIX Italian Games of Cesenatic Mathematics, May 5th, 2023
 
-**Answer:** ogni intero positivo c
-[[Quesiti/src_cesenatico_2023#q06|src_cesenatico_2023__Q06]]
+**Answer:** every positive integer c

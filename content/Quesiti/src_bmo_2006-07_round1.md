@@ -33,8 +33,6 @@ level: BMO Round 1
 
 > Trova quattro numeri primi inferiori a 100 che sono fattori di $3^n - 2^n$ per un intero positivo $n$.
 
-[[Quesiti/src_bmo_2006-07_round1#q01|src_bmo_2006-07_round1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -60,8 +58,6 @@ level: BMO Round 1
 *Quadrilaterale con punti di trisezione su due lati; dimostrare pari aree terze*
 
 > Nel quadrilaterale $ABCD$, i punti $M$ e $N$ sono sul lato $AB$ in modo tale che $AM = MN = NB$, e i punti $P$ e $Q$ sono sul lato $CD$ in modo tale che $CP = PQ = QD$. Provare che $$\text{Area of } AMCP = \text{Area of } MNQP = \tfrac{1}{3} \text{ Area of } ABCD.$$
-
-[[Quesiti/src_bmo_2006-07_round1#q02|src_bmo_2006-07_round1__Q02]]
 
 
 
@@ -94,7 +90,6 @@ level: BMO Round 1
 > Trovare l'unico intero positivo a 9 cifre (usando ciascuno dei cifre $1$ a $9$ esattamente una volta) in modo tale che i primi cifre $n$ formino un numero divisibile da $n$ per ciascuna $n = 1, 2, \ldots, 9$.
 
 **Risposta:** 381654729
-[[Quesiti/src_bmo_2006-07_round1#q03|src_bmo_2006-07_round1__Q03]]
 
 
 
@@ -121,8 +116,6 @@ level: BMO Round 1
 
 > Due cerchi di tocco $S$ e $T$ hanno una tangente comune che incontra $S$ a $A$ e $T$ a $B$. Lasciate che $AP$ abbia un diametro di $S$ e che la tangente da $P$ a $T$ la tocchi a $Q$. Prova che $AP = PQ$.
 
-[[Quesiti/src_bmo_2006-07_round1#q04|src_bmo_2006-07_round1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_astrazione,skill_ragionamento_geometrico"></span>
@@ -147,5 +140,3 @@ level: BMO Round 1
 *Mostra che se 2 + sqrt(1 + 12a^2) è un intero, è un quadrato perfetto*
 
 > $a$ sia un numero intero. Mostrare che se $2 + \sqrt{1 + 12a^2}$ è un intero, allora è un quadrato perfetto.
-
-[[Quesiti/src_bmo_2006-07_round1#q05|src_bmo_2006-07_round1__Q05]]

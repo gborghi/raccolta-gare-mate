@@ -33,8 +33,6 @@ level: OBM Nível 2
 
 > Qual è il numero intero positivo più piccolo che lascia cinque rimanenti diversi quando diviso da $2$, $3$, $4$, $5$ e $6$?
 
-[[Quesiti/src_obm_2015_n2_f2#q01|src_obm_2015_n2_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -64,8 +62,6 @@ level: OBM Nível 2
 
 ![[src_obm_2015_n2_f2__q02.png]]
 
-[[Quesiti/src_obm_2015_n2_f2#q02|src_obm_2015_n2_f2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -91,8 +87,6 @@ level: OBM Nível 2
 
 > Il professor Piraldo ha dato a Esmeralda un'equazione della forma $ax = b$, dove $a$ e $b$ sono numeri reali. Esmeralda ha commesso un errore e ha risolto invece l'equazione $bx = a$, ottenendo una soluzione che è esattamente uguale alla soluzione corretta meno $60$. Se la soluzione corretta ha la forma $m + \sqrt{n}$ con $m$ e $n$ integri, qual è il valore di $m + n$?
 
-[[Quesiti/src_obm_2015_n2_f2#q03|src_obm_2015_n2_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,skill_conteggio_sistematico,skill_modellizzazione"></span>
@@ -117,8 +111,6 @@ level: OBM Nível 2
 *Casse minime per la conservazione delle bottiglie d'acqua 2015 e delle scatole di succo d'arancia 2015*
 
 > Una fabbrica dispone di diverse scatole, ciascuna con una capacità di $31$ litri. Ha bottiglie d'acqua $2015$, ciascuna contenente $3$ litri, e cartoni di succo d'arancia $2015$, ciascuna contenente $5$ litri. Ogni scatola può contenere qualsiasi combinazione di bottiglie e cartoni, purché il loro volume totale non superi la capacità della scatola. Nessuna scatola può essere sovraempempiegata. Qual è il numero minimo di scatole di cui ha bisogno l'azienda per immagazzinare tutte le bottiglie e tutte le scatole che ha prodotto?
-
-[[Quesiti/src_obm_2015_n2_f2#q04|src_obm_2015_n2_f2__Q04]]
 
 
 
@@ -147,8 +139,6 @@ level: OBM Nível 2
 
 > I numeri reali $x$, $y$ e $z$ soddisfano il sistema $$\frac{x}{y} + \frac{y}{z} = 2015, \qquad \frac{y}{z} + \frac{z}{x} = 37.$$ Determinano il numero intero più vicino a $\dfrac{z}{y}$.
 
-[[Quesiti/src_obm_2015_n2_f2#q05|src_obm_2015_n2_f2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -173,8 +163,6 @@ level: OBM Nível 2
 *Lunghezza di AB data a due cerchi tangenti attraverso A e B con PB=QB=1000*
 
 > Due cerchi $C_1$ e $C_2$ si incrociano ai punti $A$ e $B$. La tangente di $C_1$ a $A$ incontra di nuovo $C_2$ a $P$; la tangente di $C_2$ a $A$ incontra di nuovo $C_1$ a $Q$. Dato che $PB = QB = 1000$, determinare la lunghezza del segmento $AB$.
-
-[[Quesiti/src_obm_2015_n2_f2#q06|src_obm_2015_n2_f2__Q06]]
 
 
 
@@ -217,8 +205,6 @@ level: OBM Nível 2
 
 ![[src_obm_2015_n2_f2__q07.png]]
 
-[[Quesiti/src_obm_2015_n2_f2#q07|src_obm_2015_n2_f2__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -248,8 +234,6 @@ level: OBM Nível 2
 > 
 > Una frazione è chiamata irriducibile quando il più grande divisore comune (GCD) del suo numeratore e del suo denominatore è uguale a $1$.
 
-[[Quesiti/src_obm_2015_n2_f2#q08|src_obm_2015_n2_f2__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -274,5 +258,3 @@ level: OBM Nível 2
 *Meditazione dell'angolo EOF nel triangolo rettangolo ABC con altitudini e circoncentro*
 
 > In un triangolo rettangolo $ABC$, l'angolo di $A$ è $45^\circ$. Le altitudini $BE$ e $CF$ siano le altitudini da $B$ e $C$ ai lati $AC$ e $AB$ rispettivamente, $E$ su $AC$ e $F$ su $AB$, e $O$ sia il centro circostante del triangolo $ABC$ (cioè il centro del cerchio che attraversa $A$, $B$ e $C$). Calcolare la misura dell'angolo $EOF$.
-
-[[Quesiti/src_obm_2015_n2_f2#q09|src_obm_2015_n2_f2__Q09]]

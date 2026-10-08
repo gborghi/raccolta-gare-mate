@@ -34,7 +34,6 @@ The family of the pirates ends Tuesday/Wednesday.
 > You are shipwrecked on the beach of Mirabilandia which is inhabited by two pirate families: that of the Sincere (who always tell the truth) and that of the Liars (who always lie). You meet two pirates by the name of Tuesday and Wednesday and you'd like to know for each of them which family they belong to. Tuesday says "we belong to two different families", but Wednesday replies "it's not true!" What's your conclusion?
 
 **Answer:** Tuesday is sincere
-[[Quesiti/src_kangourou_2004_benjamin_finale#qb1|src_kangourou_2004_benjamin_finale__QB1]]
 
 
 
@@ -63,7 +62,6 @@ Who wins the rope-cutting game
 > Stephen and John have a red rope and a blue one (over 20 centimeters long). They intend to play as follows: in turn they will cut from one of the ends of one of the two strings a piece that must be $4$ centimeters long if the player chooses the red string or $5$ centimeters if the player chooses the blue string. He will lose the first of the two who will no longer be able to cut, that is, he will find himself with the red rope less than $4$ centimetres long and the blue rope less than $5$ centimetres long. Stephen will start the game. How, by knowing the length of the two ropes, can we know from the beginning whether Stephen or John will win?
 
 **Answer:** parity of cuts
-[[Quesiti/src_kangourou_2004_benjamin_finale#qb2|src_kangourou_2004_benjamin_finale__QB2]]
 
 
 
@@ -91,7 +89,6 @@ Who wins the rope-cutting game
 > Consider all the possible quadrilaterals in the plane. Name $A$ the set of all quadrilaterals having at least one pair of opposite sides of the same length; $B$ the set of all quadrilaterals having at least one pair of adjacent sides of the same length; $C$ the set of all quadrilaterals having the four sides of the same length; $D$ the set of all quadrilaterals having at least one pair of parallel opposite sides of the same length. Some of these sets contain one or more of the others. For each set, specify any other sets it contains.
 
 **Answer:** C in D,B; D in A
-[[Quesiti/src_kangourou_2004_benjamin_finale#qb3|src_kangourou_2004_benjamin_finale__QB3]]
 
 
 
@@ -123,7 +120,6 @@ Who wins the rope-cutting game
 > A square $Q$ is tiled by $34$ smaller squares, of which only $33$ are known to have side $1$ cm. What are the minimum and maximum possible values for the length of the side of the square $Q$?
 
 **Answer:** min 7 max 17
-[[Quesiti/src_kangourou_2004_benjamin_finale#qb4|src_kangourou_2004_benjamin_finale__QB4]]
 
 
 
@@ -158,7 +154,6 @@ Who wins the rope-cutting game
 > How many regular pairs (if I don't take into account the order in which I write the two numbers)?
 
 **Answer:** 9
-[[Quesiti/src_kangourou_2004_benjamin_finale#qb5|src_kangourou_2004_benjamin_finale__QB5]]
 
 
 
@@ -186,4 +181,3 @@ Who wins the rope-cutting game
 > I have $8{,}22$ euros with which I want to buy two treats for each of my $9$ friends: they can be popsicles or chocolates, but all my friends prefer to have a popsicle and a chocolate and I intend to satisfy as many of them as possible. The chocolates all have the same price as do the popsicles and each chocolate costs $6$ cents more than a popsicle. What must a popsicle cost at least, if I spend exactly the available amount?
 
 **Answer:** 43
-[[Quesiti/src_kangourou_2004_benjamin_finale#qb6|src_kangourou_2004_benjamin_finale__QB6]]

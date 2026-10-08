@@ -37,8 +37,6 @@ level: BMO Round 1
 
 > Un intero non negativo $f(n)$ è assegnato a ogni intero positivo $n$ in modo tale che siano soddisfatte le seguenti condizioni: (i) $f(mn) = f(m) + f(n)$ per tutti gli integri positivi $m$, $n$; (ii) $f(n) = 0$ quando la cifra decimale finale (a destra) di $n$ è $3$; e (iii) $f(10) = 0$. Prova che $f(n) = 0$ per tutti gli integri positivi $n$.
 
-[[Quesiti/src_bmo1_1977#q01|src_bmo1_1977__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -63,8 +61,6 @@ level: BMO Round 1
 *Punto medio di BC collineare con punti medio di BX e CY per il contatto incircolare*
 
 > I lati $BC$, $CA$ e $AB$ di un triangolo toccano un cerchio rispettivamente a $X$, $Y$ e $Z$. Prove che il punto medio di $BC$ si trova sulla linea retta attraverso i punti medio di $BX$ e $CY$.
-
-[[Quesiti/src_bmo1_1977#q02|src_bmo1_1977__Q02]]
 
 
 
@@ -94,8 +90,6 @@ level: BMO Round 1
 
 > (i) Dimostra che, se $x$, $y$, $z$ sono numeri reali non negativi, allora $$x(x-y)(x-z) + y(y-z)(y-x) + z(z-x)(z-y) \ge 0.$$ (ii) Dimostra quindi o altrimenti che per tutti i numeri reali $a$, $b$, $c$ $$a^4 + b^4 + c^4 + 3a^2b^2c^2 \ge 2(b^2c^2 + c^2a^2 + a^2b^2).$$
 
-[[Quesiti/src_bmo1_1977#q03|src_bmo1_1977__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_fattorizzazione,method_casework,method_simmetria,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
@@ -122,8 +116,6 @@ level: BMO Round 1
 
 > L'equazione $x^4 + qx + r = 0$ ha radici $v_1, v_2, v_3, v_4$. \quad \ldots (1) Esprimere le radici di $x^4 + qx + r = 0$ in termini di $v_1, v_2, v_3, v_4$ per mostrare che se $(1)$ ha solo radici reali allora $-1 < x < 3$.
 
-[[Quesiti/src_bmo1_1977#q04|src_bmo1_1977__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -148,8 +140,6 @@ level: BMO Round 1
 *Due sfere ciascuna tangente all'esterno a cinque vertex-sfere di otteedro; punto comune?*
 
 > $A_1 A_2 A_3 A_4 A_5 A_6$ è un ottaedro regolare i cui lati sono di lunghezza $2a$. Per ogni $i = 1, 2, \ldots, 5$, $K_i$ è una sfera con centro $A_i$ e raggio $r_i$. Ciascuna di queste sfere $K_1, K_2, \ldots, K_5$ è toccata all'esterno da ciascuna delle due sfere $P_1$ e $P_2$ del raggio $a$. Determinare con la prova e senza tabelle se $P_1$ e $P_2$ hanno o non hanno un punto comune.
-
-[[Quesiti/src_bmo1_1977#q05|src_bmo1_1977__Q05]]
 
 
 
@@ -179,5 +169,3 @@ level: BMO Round 1
 > Il polinomio $26(x^{2n} + x^{2n-2} + \cdots + x^2 + 1)$, dove $n > 1$, deve essere decomposto in una somma di polinomi, ognuno diverso. Ciascuno di questi polinomi è di forma $a_k x^k + a_{k-1} x^{k-1} + \cdots + a_1 x + a_0$, dove ogni $a_j$ è uno dei numeri $1, 2, \ldots, 9$ e non ci sono due $a_j$ uguali.
 > 
 > Trova tutti i valori di $n$ per i quali è possibile questa decomposizione.
-
-[[Quesiti/src_bmo1_1977#q06|src_bmo1_1977__Q06]]

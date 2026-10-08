@@ -44,8 +44,7 @@ level: nazionale
 
 > By re-analysing divisibility by 3, we get that x1 and y1 must also be divisible by 3, and so the equation can be further simplified by dividing by 9. If we do this, we'll get to the point where the equation comes down to the form 3 · 6682005 = x2n + y2n. But again, this equation is only possible if xn and yn are divisible by 3, and so x2 n + y2 n is divisible by 9. But since 3 · 6682005 is not divisible by 9, such an equation has no solutions.
 
-**Answer:** -3 gradi
-[[Quesiti/src_cesenatico_2004#q01|src_cesenatico_2004__Q01]]
+**Answer:** -3 degrees
 
 
 
@@ -77,8 +76,7 @@ level: nazionale
 
 > 2. Given in the plane two parallel lines r, s and two points P, Q with P ∈r and Q ∈s, are considered pairs of circumferences (CP, CQ), the first tangent a r in P and the second tangent a s in Q, which are also tangents externally to each other, at a point we call T. Determine the location of these T-points by varying all possible pairs of circumferences. Solution: The location sought is the union of the open segment PQ and the part of the circumference of the diameter PQ that lies outside the strip bounded by r and s. Each circumference can be tangent to its respective straight line in two ways: in one case it intersects the strip S between the two lines, in the other it does not intersect it at all. In both cases the centre of circumference (resp. OP, OQ) is located along the perpendicular
 
-**Answer:** unione del segmento PQ e arco circonferenza di diametro PQ
-[[Quesiti/src_cesenatico_2004#q02|src_cesenatico_2004__Q02]]
+**Answer:** union of the segment PQ and an arc of the circle with diameter PQ
 
 
 
@@ -105,8 +103,7 @@ level: nazionale
 
 > 3. (a) Determine whether 20052004 is the sum of two positive perfect squares. (b) Determine whether 20042005 is the sum of two positive perfect squares. Solution: (a) 20052004 and sum of two positive perfect squares. Note that 52 = 32 + 42 and that 20052004 = 52m2, where m = 51001 4011002. Multiplying the first ratio by m2 gives 20052004 = (5m) 2 = (3m) 2 + (4m) 2: (b) 20042005 is not the sum of two positive perfect squares. It should be noted first that 20042005 = 32005 6682005 and is divisible by 3. Looking at the rest of the division by 3 of the square of an integer x, you can see that if x is divisible by 3 it's 0, whereas if it's not, and then x is equal to 3k 1, then x2 is equal to 9k2 6.
 
-**Answer:** (a) si, (b) no
-[[Quesiti/src_cesenatico_2004#q03|src_cesenatico_2004__Q03]]
+**Answer:** (a) yes, (b) no
 
 
 
@@ -139,8 +136,7 @@ level: nazionale
 
 > Antonio and Bernardo play the following game: two piles of tokens are given, one with m tokens and the other with n tokens. Each player chooses one of the following moves in turn: • take a token from one of the stacks; • take a token from each of the stacks; • move a token from one stack to another. He loses those who can't move. Let's start with Antonio. Determine, depending on m and n, whether one of the two players has a winning strategy and, if so, specify which player it is.
 
-**Answer:** Antonio se almeno uno tra m,n dispari; Bernardo se entrambi pari
-[[Quesiti/src_cesenatico_2004#q04|src_cesenatico_2004__Q04]]
+**Answer:** Antonio if at least one of m,n is odd; Bernardo if both are even
 
 
 
@@ -173,8 +169,7 @@ level: nazionale
 
 > Determine whether the following statement is true or false: For each succession x1, x2, x3, ... of real numbers greater than or equal to zero there are two successions a1, a2, a3, ... e b1, b2, b3, ... of real numbers greater than or equal to zero such that • xn = an + bn for each n; • a1 + ... + an ≤n for infinite values of n; • b1 + ... + bn ≤n for infinite values of n, possibly different from the previous ones.
 
-**Answer:** vero
-[[Quesiti/src_cesenatico_2004#q05|src_cesenatico_2004__Q05]]
+**Answer:** true
 
 
 
@@ -286,5 +281,4 @@ level: nazionale
 
 > Let P be an interior point in an ABC triangle. The AP, BP and CP lines intersect the sides of ABC in A′, B′ and C′ respectively. By placing x = AP PA′, y = BP PB′, z = CP PC′, prove that xyz = x + y + z + 2.         A B C P C′ A′ E B′ D G F
 
-**Answer:** identita dimostrata
-[[Quesiti/src_cesenatico_2004#q06|src_cesenatico_2004__Q06]]
+**Answer:** identity proved

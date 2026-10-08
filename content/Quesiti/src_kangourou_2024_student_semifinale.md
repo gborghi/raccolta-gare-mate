@@ -80,7 +80,6 @@ level: kangourou
 > I lied yesterday and I will lie tomorrow.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2024_student_semifinale#q01|src_kangourou_2024_student_semifinale__Q01]]
 
 
 
@@ -108,7 +107,6 @@ level: kangourou
 > Yesterday was Monday or Tuesday or Wednesday or Thursday.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2024_student_semifinale#q02|src_kangourou_2024_student_semifinale__Q02]]
 
 
 
@@ -147,7 +145,6 @@ Probability of diamonds in box 9 after opening
 > Tomorrow is Saturday or Sunday or Monday. On what day did Charles' fifteenth birthday fall? A. Certainly on Monday. B) Certainly on Thursday. C) Certainly on Friday. D) Thursday or Friday, both being possible. E) Monday or Friday, both being possible. Answer: E). The solution. 1) can be either true or false. If 1) is false they must also be false 2) and 3); if 2) is false the day can be Saturday, Sunday or Monday; if 3) is false the day can be Monday, Tuesday, Wednesday or Thursday: the intersection is Monday. If 1) is true they must also be true 2) and 3); if 2) is true the day may be Tuesday, Wednesday, Thursday or Friday; if 3) is true the day may be Friday, Saturday or Sunday: the intersection is Friday.
 
 **Answer:** C or E
-[[Quesiti/src_kangourou_2024_student_semifinale#q03|src_kangourou_2024_student_semifinale__Q03]]
 
 
 
@@ -176,7 +173,6 @@ Probability of diamonds in box 9 after opening
 > 4. In the Cartesian plane, consider a square Q whose vertices each have both coordinates integers. For which of the following reasons cannot the area of Q be 27? A) Because 27 is an odd integer. B) Because 27 is not the sum of two perfect squares. C) Because 27 is a perfect cube. D) Because 27 is not a perfect square. E) None of the above is a valid reason.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2024_student_semifinale#q04|src_kangourou_2024_student_semifinale__Q04]]
 
 
 
@@ -205,7 +201,6 @@ Birthday with true/false statements
 > 5. On alternate days, Charles tells the truth or lies for the whole day. On the day of his fifteenth birthday, Charles made the three statements listed below.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2024_student_semifinale#q05|src_kangourou_2024_student_semifinale__Q05]]
 
 
 
@@ -246,7 +241,6 @@ Birthday with true/false statements
 > one of the 4 remaining}, {38, 68, 375}, {55, 104, 175}, for a total of 6 triples out of 20.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2024_student_semifinale#q06|src_kangourou_2024_student_semifinale__Q06]]
 
 
 
@@ -299,7 +293,6 @@ Minimum number of students to cover all eight problems
 > In fact, it seems to me that in the latter case, there is a perfect symmetry that leads to having three students solve the problems that the student in question did not solve.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2024_student_semifinale#q07|src_kangourou_2024_student_semifinale__Q07]]
 
 
 
@@ -340,7 +333,6 @@ Minimum number of students to cover all eight problems
 > (Points 5) A strip consists of eight aligned squares, each of which may be white or gray. One move consists of changing the color from white to gray or vice versa for each of four consecutive squares. If you start from a strip where the squares are all white, how many of the following four strips can be obtained after an appropriate number of moves, even variable from strip to strip? A) 0 (no) B) 1 C) 2 D) 3 E) 4 (all) Answer A).
 
 **Answer:** A
-[[Quesiti/src_kangourou_2024_student_semifinale#q08|src_kangourou_2024_student_semifinale__Q08]]
 
 
 
@@ -386,7 +378,6 @@ Maximum number of redundant cameras on the road 1000m
 > Open-ended questions
 
 **Answer:** E
-[[Quesiti/src_kangourou_2024_student_semifinale#q09|src_kangourou_2024_student_semifinale__Q09]]
 
 
 
@@ -421,7 +412,6 @@ Maximum number of redundant cameras on the road 1000m
 > since a + b = – (c + d), we then get that the number sought is 1.
 
 **Answer:** 1
-[[Quesiti/src_kangourou_2024_student_semifinale#q10|src_kangourou_2024_student_semifinale__Q10]]
 
 
 
@@ -493,7 +483,6 @@ Maximum number of redundant cameras on the road 1000m
 > 5 = (4 × 4 + 4)/4; 6 = (4 + 4)/4 + 4; 7 = 44/4 – 4; 8 = 4 + 4 + 4 – 4; 9 = 4 + 4 + 4/4; 10 = (44 – 4)/4.
 
 **Answer:** 11
-[[Quesiti/src_kangourou_2024_student_semifinale#q11|src_kangourou_2024_student_semifinale__Q11]]
 
 
 
@@ -526,7 +515,6 @@ Maximum number of redundant cameras on the road 1000m
 > (Points 5) How many angles less than 170 degrees can a convex polygon have at most? Answer: 0035. Solution. The sum of the complements to 180 of the measurements in degrees of angles of a convex polygon shall be 360. On the other hand, on the basis of this consideration, it is clear that there is a polygon of 36 sides with 35 angles measuring less than 170 degrees.
 
 **Answer:** 35
-[[Quesiti/src_kangourou_2024_student_semifinale#q12|src_kangourou_2024_student_semifinale__Q12]]
 
 
 
@@ -559,7 +547,6 @@ Maximum number of redundant cameras on the road 1000m
 > (Points 6) Given a convex polygon with n sides (n > 3), we use Sn to indicate the number of its diagonals. What is the smallest value of n such that Sn + Sn-1 > 2024? Answer: 0048. Solution. For every n > 3 we have Sn = n(n-3)/2, from which Sn + Sn-1 = n2-4n+2. In order to have n2-4n-2022 > 0 we must have n > 2 + √2026. The first perfect square greater than 2026 is 2116 = 462.
 
 **Answer:** 48
-[[Quesiti/src_kangourou_2024_student_semifinale#q13|src_kangourou_2024_student_semifinale__Q13]]
 
 
 
@@ -596,7 +583,6 @@ Maximum number of redundant cameras on the road 1000m
 > (Points 6) In a mathematical contest, n problems were given to 50 contestants. For each individual contestant, the correct answers given, the wrong ones and the ones not given were counted. There were no two competitors who provided both the same number of correct answers and the same number of incorrect answers. What's the smallest possible value for n? The answer is: 0009. The solution. In our assumptions, for 0 ≤ k ≤ n, the admissible papers with exactly k correct answers are n - k + 1 in number (there may not be any unspecified answers). The sum of all these numbers in k is the sum of the integers from 1 to n + 1 included, i.e. $\frac{(n+1)(n+2)}{2}$ and this value must be at least 50. From $n^2 + 3n - 98 \ge 0$, with n integers, follows $n \ge 9$.
 
 **Answer:** 9
-[[Quesiti/src_kangourou_2024_student_semifinale#q14|src_kangourou_2024_student_semifinale__Q14]]
 
 
 
@@ -683,7 +669,6 @@ Maximum number of redundant cameras on the road 1000m
 > (Points 6) A triangle ABC, right-angled at A and whose angle in B measures 60 degrees is given; that triangle has area 2024. With the following procedure two sequences of points are identified: A1, A2, A3, ... on the AC side and B1, B2, B3, ... on the BC side: • A1 is on the ABC angle bisector, segment A1B1 is perpendicular to the BC side; • B2 is on the B1A1C angle bisector, segment B2A2 is perpendicular to the AC side; • A3 is on the A2B2C angle bisector, segment A3B3 is perpendicular to the BC side and so on. What is the smallest integer n such that the area of the AnBnC triangle is less than 10? The answer is: 0005. The solution. The triangles ABA1, A1BB1 and A1B1C are congruent, so the area of A1B1C is 1/3 of that of ABC. Since all AhBhC triangles are similar to ABC, the situation is repeated for each AhBhC triangle with respect to Ah-1Bh-1C and for n = 5 the area 2024/35 = 2024/243 of AnBnC becomes for the first time less than 10.
 
 **Answer:** 5
-[[Quesiti/src_kangourou_2024_student_semifinale#q15|src_kangourou_2024_student_semifinale__Q15]]
 
 
 
@@ -731,7 +716,6 @@ Maximum number of redundant cameras on the road 1000m
 > r = 3 involves A = 1 + 2B, so it leads to the integers 94, 73, 52, 31; r = 6 involves A = 2 + 2B, so it leads to the integers 83, 62 r = 9 involves A = 3 + 2B, so it leads to the whole 93 r = 12 and r = 15 do not leave any possibility.
 
 **Answer:** 11
-[[Quesiti/src_kangourou_2024_student_semifinale#q16|src_kangourou_2024_student_semifinale__Q16]]
 
 
 
@@ -772,7 +756,6 @@ Maximum number of redundant cameras on the road 1000m
 > to verify that this sequence of consecutive integers cannot be extended.
 
 **Answer:** 11
-[[Quesiti/src_kangourou_2024_student_semifinale#q17|src_kangourou_2024_student_semifinale__Q17]]
 
 
 
@@ -823,4 +806,3 @@ Maximum number of redundant cameras on the road 1000m
 > 1,008/2,024. Therefore we have p = 1 – 2 × 1,008/2,024 = 8/2,024 = 1/253.
 
 **Answer:** 253
-[[Quesiti/src_kangourou_2024_student_semifinale#q18|src_kangourou_2024_student_semifinale__Q18]]

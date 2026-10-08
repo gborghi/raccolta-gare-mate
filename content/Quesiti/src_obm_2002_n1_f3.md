@@ -47,8 +47,6 @@ level: OBM Nível 1
 > 
 > b) Presenta un insieme il cui elemento più grande è il più piccolo possibile.
 
-[[Quesiti/src_obm_2002_n1_f3#q01|src_obm_2002_n1_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -88,8 +86,6 @@ level: OBM Nível 1
 
 ![[src_obm_2002_n1_f3__q02.png]]
 
-[[Quesiti/src_obm_2002_n1_f3#q02|src_obm_2002_n1_f3__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_lettura_attenta,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -120,8 +116,6 @@ level: OBM Nível 1
 > Il parco di sotto ha la forma di un quadrilaterale e possiede diversi cancelli (ingressi): uno ad ogni vertice del quadrilaterale e uno su ogni lato. I cancelli devono essere numerati, quattro per quattro, in modo che su ogni lato la somma $T$ dei numeri sia la stessa. Numerare i punti in modo che la somma sia sempre lo stesso numero, pari a $T$. Presenta qui di seguito un esempio di numerazione dei punti che fornisce uno dei possibili valori di $T$.
 
 ![[src_obm_2002_n1_f3__q03.png]]
-
-[[Quesiti/src_obm_2002_n1_f3#q03|src_obm_2002_n1_f3__Q03]]
 
 
 
@@ -162,8 +156,6 @@ level: OBM Nível 1
 
 ![[src_obm_2002_n1_f3__q04.png]]
 
-[[Quesiti/src_obm_2002_n1_f3#q04|src_obm_2002_n1_f3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_logica,method_simmetria,method_estremalita,method_casework,skill_astrazione,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_modellizzazione"></span>
@@ -190,5 +182,3 @@ level: OBM Nível 1
 *Su un tavolo 8x8 due giocatori inseriscono alternativamente 1x1 pedoni su quadrati; il giocatore che non può muoversi perde; determina quale giocatore ha una strategia vincente indipendentemente dal gioco dell'avversario*
 
 > Due giocatori giocano su una scacchiera ($8 \times 8$) composta da quadrati della dimensione dei pezzi. I due giocatori giocano alternativamente, e a ciascuna partita un giocatore pone un pedone $1 \times 1$ su un quadrato vuoto della tavola. Il giocatore che non riesce a mettere un pedone sulla tavola perde. Un giocatore può vincere indipendentemente dal modo in cui l'avversario gioca  cioè, uno dei giocatori ha una strategia vincente?
-
-[[Quesiti/src_obm_2002_n1_f3#q05|src_obm_2002_n1_f3__Q05]]

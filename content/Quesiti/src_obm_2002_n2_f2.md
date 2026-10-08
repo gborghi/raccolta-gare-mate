@@ -41,8 +41,6 @@ level: OBM Nível 2
 
 ![[src_obm_2002_n2_f2__q01.png]]
 
-[[Quesiti/src_obm_2002_n2_f2#q01|src_obm_2002_n2_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -72,8 +70,6 @@ level: OBM Nível 2
 
 ![[src_obm_2002_n2_f2__q02.png]]
 
-[[Quesiti/src_obm_2002_n2_f2#q02|src_obm_2002_n2_f2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_colorazione,method_invarianti,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_astrazione"></span>
@@ -98,8 +94,6 @@ level: OBM Nível 2
 *8×8 tabella con vicinanza-differenza 1, voci 17 e 3 presenti; trovare la somma delle diagonali principali*
 
 > Nelle celle di una tabella $8 \times 8$, i numeri interi positivi sono scritti in modo tale che la differenza tra i numeri scritti nelle celle vicine (cellule che condividono un lato comune) è $1$. È noto che in una delle celle è scritto il numero $17$ e in un'altra è scritto il numero $3$. Calcolare la somma di tutti i numeri scritti sulle due diagonali principali della tabella.
-
-[[Quesiti/src_obm_2002_n2_f2#q03|src_obm_2002_n2_f2__Q03]]
 
 
 
@@ -134,8 +128,6 @@ level: OBM Nível 2
 
 ![[src_obm_2002_n2_f2__q04.png]]
 
-[[Quesiti/src_obm_2002_n2_f2#q04|src_obm_2002_n2_f2__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_ricorsione,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -160,8 +152,6 @@ level: OBM Nível 2
 *Sequenza a partire da 7; ogni termine successivo è la somma digitali del termine precedente al quadrato, più 1; trovare l'elemento 2002*
 
 > Il primo numero di una sequenza è $7$. La seguente si ottiene nel seguente modo: calcoliamo il quadrato del numero precedente, $7^2 = 49$, e poi prendiamo la somma delle sue cifre e aggiungiamo $1$, cioè il secondo numero è $4 + 9 + 1 = 14$. Ripetiamo questo processo, ottenendo $14^2 = 196$ e il terzo numero della sequenza è $1 + 9 + 6 + 1 = 17$, e così via. Qual è l'elemento $2002^\circ$ di questa sequenza?
-
-[[Quesiti/src_obm_2002_n2_f2#q05|src_obm_2002_n2_f2__Q05]]
 
 
 
@@ -199,5 +189,3 @@ level: OBM Nível 2
 > b) L'ultimo anno di palindroma pari è stato $1991$, che è stato pari. Quando si verificherà il prossimo anno palindromo?
 > 
 > c) L'ultimo anno di palindrome primario è avvenuto più di $1000$ anni fa, in $929$. Determina quale sarà il prossimo primo palindromo.
-
-[[Quesiti/src_obm_2002_n2_f2#q06|src_obm_2002_n2_f2__Q06]]

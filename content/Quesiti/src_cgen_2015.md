@@ -86,8 +86,6 @@ level: Concours Général
 > 
 > 5. Che $n$ sia un numero intero maggiore o uguale a $4$ e che $(x_1, x_2, \ldots, x_n)$ sia la sequenza finita data a Isabelle e Clara. Set: $$M = \max(|x_1|, |x_2|, \ldots, |x_n|), \quad S = |x_1 + x_2 + \cdots + x_n|, \quad N = \max(M, S).$$ In altre parole, $M$ è il più grande dei numeri $|x_1|, |x_2|, \ldots, |x_n|$. Allo stesso modo, $N$ è il più grande dei numeri $M$ e $S$. a. Mostra che $S \le I$. b. Mostra che $M \le 2I$. c. Mostra che $C \le N$. d. Riduzione di $C \le 2I$. e. Determinare i valori $n$ $x_1, x_2, \ldots, x_n$ tali da $C = 2I$.
 
-[[Quesiti/src_cgen_2015#q01|src_cgen_2015__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,topic_geometria_analitica,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -145,8 +143,6 @@ level: Concours Général
 > 
 > 4. In quanto segue, il prodotto di due vettori $\vec{v}$ e $\vec{w}$ è indicato $\vec{v} \cdot \vec{w}$. Le linee $\Delta_1, \ldots, \Delta_4$ devono essere quattro linee non coplanarie distinte, che sono simultanee in un punto $H$. Per $1 \le i \le 4$ si sceglie un vettore di direzione unitario $\vec{u}_i$ di $\Delta_i$ e, per $1 \le i, j \le 4$, un set $c_{ij} = \vec{u}_i \cdot \vec{u}_j$. a. Supponiamo che esista un tetraedro $A_1 A_2 A_3 A_4$ le cui altitudini sono simultanee a $H$ e tale che $A_j \in \Delta_j$ per tutti $j \in \{1, 2, 3, 4\}$. Mostrare che $c_{12} c_{34} = c_{13} c_{24} = c_{14} c_{23}$. b. Al contrario, se $c_{12} c_{34} = c_{13} c_{24} = c_{14} c_{23} \ne 0$, dimostrare che esiste un tetraedro $A_1 A_2 A_3 A_4$ le cui altitudini sono simultanee a $H$ e tale che $A_j \in \Delta_j$ per tutti $j \in \{1, 2, 3, 4\}$.
 
-[[Quesiti/src_cgen_2015#q02|src_cgen_2015__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_insiemi_funzioni,topic_disuguaglianze,method_disuguaglianze,method_induzione,method_estremalita,skill_manipolazione_algebrica,skill_astrazione,skill_stima,skill_lettura_attenta"></span>
@@ -203,5 +199,3 @@ level: Concours Général
 > 4. L'obiettivo della presente domanda 4 è di dimostrare che nessuna sequenza del tipo $\mathcal{A}$ è limitata sopra o sotto, tranne quelle costanti. In questa domanda, supponiamo che $(u_n)_{n \in \mathbb{N}^*}$ sia una sequenza di tipo $\mathcal{A}$ con valori non negativi, e consideriamo un intero $r \in \mathbb{N}^*$. a. $p$ sia un numero intero tale che $p > r$. Mostrare che esistono numeri naturali non zero $q$ e $q'$ come $q < p \le q'$ e $2q\, u_{q'} \le u_r \le u_q$. Riduzione di $u_p \le 3 u_r$. b. Per tutti $p \in \mathbb{N}^*$, indicare che $u_p \le 3 u_r$. Dalle domande a, b, c e d si deduce che la sequenza $(u_n)_{n \in \mathbb{N}^*}$ del tipo $\mathcal{A}$ è dilimitata sopra. c. Che $D$ sia un reale rigorosamente positivo e che $p \in \mathbb{N}^*$. Indicare che se $u_p > D$ non è un limite inferiore (minorante) della sequenza, così è la condizione appropriata. d. Deduzione che la sequenza $(u_n)_{n \in \mathbb{N}^*}$ non sia limitata in basso. e. Conclusione.
 > 
 > 5. Esiste una sequenza limitata non costante del tipo $\mathcal{A}$?
-
-[[Quesiti/src_cgen_2015#q03|src_cgen_2015__Q03]]

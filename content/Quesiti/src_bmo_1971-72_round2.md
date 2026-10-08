@@ -37,8 +37,6 @@ level: BMO Round 2
 
 > Mostra come assegnare ai vertici di un poligono regolare con vertici $n^2$ numeri tali che: (i) vengono utilizzate solo le cifre $1$ e $2$; (ii) vengono utilizzate solo le cifre $n$; (iii) ogni vertice ha un numero diverso; e (iv) i vertici vicini hanno numeri diversi in un solo e solo luogo di una cifra.
 
-[[Quesiti/src_bmo_1971-72_round2#q01|src_bmo_1971-72_round2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima"></span>
@@ -66,8 +64,6 @@ level: BMO Round 2
 
 > $a, b, c, d$ sono numeri positivi e $$S = \frac{ab}{c} + \frac{bc}{d} + \frac{cd}{a} + \frac{da}{b}.$$ Provare che $S$ non è inferiore a $4$ e ottenere le condizioni necessarie per $S = 4$.
 
-[[Quesiti/src_bmo_1971-72_round2#q02|src_bmo_1971-72_round2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_doppio_conteggio,method_grafi,method_casework,skill_modellizzazione,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_astrazione"></span>
@@ -92,8 +88,6 @@ level: BMO Round 2
 *In un grafico di amicizia senza amici comuni e due stranieri comuni, trovare n*
 
 > Ci sono persone $n$ presenti in una riunione. Ogni due persone sono o amiche l'una dell'altra o estranee l'una all'altra. Non ci sono due amici che abbiano un amico in comune. Ogni sconosciuto ha due amici in comune. Prove che ogni persona abbia lo stesso numero di amici alla riunione. Se questo numero è $b$, trovare $n$.
-
-[[Quesiti/src_bmo_1971-72_round2#q03|src_bmo_1971-72_round2__Q03]]
 
 
 
@@ -121,5 +115,3 @@ level: BMO Round 2
 *Ricerca tutti i polinomi p tali che a·p(a2)+b·p(b2)+c·p(c2)=k·abc per i lati del triangolo*
 
 > Quando $k = 1$, trovare tutti i polinomi $p$ in una variabile tale che $$a \cdot p(a^2) + b \cdot p(b^2) + c \cdot p(c^2) = k \cdot abc,$$ dove $a, b, c$ sono le lunghezze dei lati $BC$, $CA$, $AB$ del triangolo $ABC$. Prova il tuo risultato. Qual è l' effetto di alterare $k$?
-
-[[Quesiti/src_bmo_1971-72_round2#q04|src_bmo_1971-72_round2__Q04]]

@@ -45,8 +45,6 @@ level: OBM Nível 3
 > 
 > **Obs:** Una potenza perfetta è un numero della forma $a^b$, dove $a$ e $b$ sono interi positivi e $b \ge 2$.
 
-[[Quesiti/src_obm_2002_n3_f3#q01|src_obm_2002_n3_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -71,8 +69,6 @@ level: OBM Nível 3
 *ABCD quadrilaterale convex ciclico con punto M su CD; i triangoli ADM e ABCM hanno superficie e perimetro uguali*
 
 > Il $ABCD$ è un quadrilaterale convex inserito in un cerchio, e il $M$ è un punto laterale $CD$, in modo che il triangolo $ADM$ e il quadrilaterale $ABCM$ abbiano la stessa superficie e lo stesso perimetro. Prove che $ABCD$ ha due lati uguali.
-
-[[Quesiti/src_obm_2002_n3_f3#q02|src_obm_2002_n3_f3__Q02]]
 
 
 
@@ -99,8 +95,6 @@ level: OBM Nível 3
 
 > Numeriamo le cellule di una scheda quadrillare di $m \times n$, dove $m, n \ge 2$, con i numeri interi $1, 2, 3, \ldots, mn$ in modo tale che, per ogni $t \le mn - 1$, le cellule $t$ e $t+1$ abbiano almeno un lato in comune. Indicare che esiste una $i \le mn - 3$ tale che le celle $i$ e $i + 3$ abbiano almeno un lato in comune.
 
-[[Quesiti/src_obm_2002_n3_f3#q03|src_obm_2002_n3_f3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_doppio_conteggio,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -125,8 +119,6 @@ level: OBM Nível 3
 *Diametro di un sottoinsieme non vuoto di {1,...,n} definito come differenza di max e min; somma dei diametri di tutti i sottoinsiemi non vuoti*
 
 > Il diametro di un sottoinsieme non vuoto di $\{1, 2, \ldots, n\}$ viene definito come la differenza tra il suo elemento più grande e il suo elemento più piccolo (in valore assoluto). Calcolare la somma dei diametri di tutti i sottoinsiemi non vuoti di $\{1, 2, \ldots, n\}$.
-
-[[Quesiti/src_obm_2002_n3_f3#q04|src_obm_2002_n3_f3__Q04]]
 
 
 
@@ -157,8 +149,6 @@ level: OBM Nível 3
 > 
 > **Obs:** È consentito che i quadrati si sovrappongano e parti di essi possono estendersi oltre i confini del quadrato da coprire.
 
-[[Quesiti/src_obm_2002_n3_f3#q05|src_obm_2002_n3_f3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_doppio_conteggio,method_inclusione_esclusione,method_cassetti,skill_modellizzazione,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -187,5 +177,3 @@ level: OBM Nível 3
 > Arnaldo e Beatriz comunicano durante un viaggio di campeggio usando segnali di fumo, a volte con un piccolo fuoco e a volte con uno grande. Durante il tempo disponibile prima del caffè mattutino, Arnaldo riesce a inviare una sequenza di 24 polveri di fumo. Beatriz e Arnaldo creano poi un dizionario per comunicare. Il dizionario elenca le sequenze $N$ di 24 polveri di fumo (dove $G$ indica un grande polvere di fumo e $P$ indica un piccolo polvere di fumo, ad esempio la sequenza $GPGPGPGPGPGPGPGPGPGPGPGPGP$), e il dizionario indica il significato di ciascuna sequenza. Per evitare interpretazioni errate, Arnaldo e Beatriz concordano di includere nel dizionario solo le sequenze che differiscono in almeno 8 delle 24 posizioni. Più precisamente, due sequenze sono considerate vicine se differiscono in almeno $8$ delle posizioni $24$. Arnaldo e Beatriz concordano di non includere sequenze vicine nel dizionario.
 > 
 > Prove che $N \le 4096$.
-
-[[Quesiti/src_obm_2002_n3_f3#q06|src_obm_2002_n3_f3__Q06]]

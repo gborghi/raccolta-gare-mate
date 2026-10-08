@@ -34,8 +34,6 @@ level: IMO
 
 > Whether $a_0 < a_1 < a_2 < \cdots$ is an infinite sequence of positive integers. Demonstrate that there is a single integer $n \geq 1$ such that $$a_n < \frac{a_0 + a_1 + \cdots + a_n}{n} \leq a_{n+1}.$$
 
-[[Quesiti/src_imo_2014#q01|src_imo_2014__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_colorazione,method_estremalita,skill_conteggio_sistematico"></span>
@@ -60,8 +58,6 @@ level: IMO
 *Maximum k with square k×k free of peace towers*
 
 > It is $n \geq 2$ a whole. A chessboard $n \times n$ composed of $n^2$ square units shall be considered. A configuration of $n$ towers on this chessboard is said to be **pacific** if each row and column contains exactly one tower. Find the largest positive integer $k$ such that, for each peaceful configuration of $n$ towers, there exists a square $k \times k$ that contains no tower on any of its $k^2$ unit squares.
-
-[[Quesiti/src_imo_2014#q02|src_imo_2014__Q02]]
 
 
 
@@ -90,8 +86,6 @@ level: IMO
 
 > The convex quadrilateral $ABCD$ has $\angle ABC = \angle CDA = 90°$. The point $H$ is the foot of the perpendicular run from $A$ to $BD$. The points $S$ and $T$ lie on the sides $AB$ and $AD$ respectively, such that $H$ lies within the $SCT$ and $$\angle CHS - \angle CSB = 90°, \qquad \angle THC - \angle DTC = 90°.$$ triangle.
 
-[[Quesiti/src_imo_2014#q03|src_imo_2014__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
@@ -117,8 +111,6 @@ level: IMO
 
 > The $P$ and $Q$ points lie on the $BC$ side of the $ABC$ acute triangle so that $\angle PAB = \angle BCA$ and $\angle CAQ = \angle ABC$. The points $M$ and $N$ lie on the lines $AP$ and $AQ$ respectively, so that $P$ is the mean point of $AM$ and $Q$ is the mean point of $AN$. Demonstrate that the lines $BM$ and $CN$ intersect on the circumference circumscribed at the triangle $ABC$.
 
-[[Quesiti/src_imo_2014#q04|src_imo_2014__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_algebra,method_estremalita,method_invarianti,skill_conteggio_sistematico"></span>
@@ -143,8 +135,6 @@ level: IMO
 *Sharing coins of 1/n value into <=100 groups*
 
 > For every positive $n$, the Cape Town Bank issues cut coins $\frac{1}{n}$. Given a finite collection of such coins (not necessarily in different cuts) with a total value of at most $99 + \frac{1}{2}$, demonstrate that the collection can be divided into 100 or fewer groups, so that each group has a total value of at most $1$.
-
-[[Quesiti/src_imo_2014#q05|src_imo_2014__Q05]]
 
 
 
@@ -174,5 +164,3 @@ level: IMO
 > A set of lines in the plane is in ** general position** if no pair is parallel and no tern passes through the same point. A set of lines in general position divides the plan into regions, some of which have finite area; these regions are called **finite regions**. Demonstrate that for all $n$ sufficiently large, in any set of $n$ lines in general position it is possible to colour at least $\sqrt{n}$ lines in blue so that no finite region has an entirely blue edge.
 > 
 > **Note:** Results in which $\sqrt{n}$ is replaced by $c\sqrt{n}$ will be evaluated on the basis of the value of the constant $c$.
-
-[[Quesiti/src_imo_2014#q06|src_imo_2014__Q06]]

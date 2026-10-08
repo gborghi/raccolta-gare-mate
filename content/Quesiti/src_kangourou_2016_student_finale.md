@@ -39,7 +39,6 @@ level: kangourou
 > determined it.
 
 **Answer:** 63
-[[Quesiti/src_kangourou_2016_student_finale#qs1|src_kangourou_2016_student_finale__QS1]]
 
 
 
@@ -75,7 +74,6 @@ level: kangourou
 > how many more holidays would there be in each year?
 
 **Answer:** 2
-[[Quesiti/src_kangourou_2016_student_finale#qs2|src_kangourou_2016_student_finale__QS2]]
 
 
 
@@ -104,7 +102,6 @@ level: kangourou
 > With respect to an assigned system of orthogonal Cartesian axes in space, the coordinates of three vertices of a cube are $(4,0,3)$, $(6,4,1)$ and $(2,8,5)$. Determine, as quickly as you can, the coordinates (with respect to the same system) of one of the remaining vertices of the cube.
 
 **Answer:** (0,4,7)
-[[Quesiti/src_kangourou_2016_student_finale#qs3|src_kangourou_2016_student_finale__QS3]]
 
 
 
@@ -133,7 +130,6 @@ level: kangourou
 > Consider the set of the first $2016$ positive integers: to each of its non-empty subsets the inverse of the product of the numbers composing it is associated (e.g. if the subset is $\{99, 105, 2001\}$ it associates $\dfrac{1}{99 \cdot 105 \cdot 2001}$). What is the sum of all the numbers you get by varying all the possible non-empty subsets?
 
 **Answer:** 2016
-[[Quesiti/src_kangourou_2016_student_finale#qs4|src_kangourou_2016_student_finale__QS4]]
 
 
 
@@ -210,7 +206,6 @@ level: kangourou
 > A parallelogram is inscribed in a regular hexagon (i.e. its vertices are points on some side of the hexagon) and the centers (of symmetry) of the two polygons coincide. What is the maximum value of the ratio between the area of the parallelogram and the area of the hexagon?
 
 **Answer:** 2/3
-[[Quesiti/src_kangourou_2016_student_finale#qs5|src_kangourou_2016_student_finale__QS5]]
 
 
 
@@ -262,5 +257,4 @@ level: kangourou
 > 
 > *N.B. To provide some answers, you can simply trace sufficiently explanatory figures.*
 
-**Answer:** 1a falsa, 1b vera, 2 falsa
-[[Quesiti/src_kangourou_2016_student_finale#qs6|src_kangourou_2016_student_finale__QS6]]
+**Answer:** 1a false, 1b true, 2 false

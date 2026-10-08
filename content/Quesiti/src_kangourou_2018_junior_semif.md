@@ -53,7 +53,6 @@ level: kangourou
 > E) Infinite
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_junior_semif#q01|src_kangourou_2018_junior_semif__Q01]]
 
 
 
@@ -119,7 +118,6 @@ level: kangourou
 > (Points 3) The eye in the figure is made up of two quarter-circles each of length 1 and the circle C of the largest possible radius contained in the region bounded by them. How long is the circumference of C? A) 2 B) π - 1 C) 3√2 - 2 D) 4√2 - π E) A number different from the previous ones.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2018_junior_semif#q02|src_kangourou_2018_junior_semif__Q02]]
 
 
 
@@ -200,7 +198,6 @@ level: kangourou
 > E) none of those listed.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2018_junior_semif#q03|src_kangourou_2018_junior_semif__Q03]]
 
 
 
@@ -243,7 +240,6 @@ level: kangourou
 > E) None of the above.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_junior_semif#q04|src_kangourou_2018_junior_semif__Q04]]
 
 
 
@@ -283,7 +279,6 @@ level: kangourou
 > C) 4/3 D) 3/2 E) 5/3
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_junior_semif#q05|src_kangourou_2018_junior_semif__Q05]]
 
 
 
@@ -326,7 +321,6 @@ level: kangourou
 > E) 9
 
 **Answer:** D
-[[Quesiti/src_kangourou_2018_junior_semif#q06|src_kangourou_2018_junior_semif__Q06]]
 
 
 
@@ -372,7 +366,6 @@ level: kangourou
 > D) Exactly 4 E) More than 4
 
 **Answer:** E
-[[Quesiti/src_kangourou_2018_junior_semif#q07|src_kangourou_2018_junior_semif__Q07]]
 
 
 
@@ -418,7 +411,6 @@ level: kangourou
 > E) Infinite
 
 **Answer:** D
-[[Quesiti/src_kangourou_2018_junior_semif#q08|src_kangourou_2018_junior_semif__Q08]]
 
 
 
@@ -467,7 +459,6 @@ level: kangourou
 > Open-ended questions
 
 **Answer:** D
-[[Quesiti/src_kangourou_2018_junior_semif#q09|src_kangourou_2018_junior_semif__Q09]]
 
 
 
@@ -497,7 +488,6 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 > (Points 4) The (real) solutions of the equation (97 - x) 1/4 + x 1/4 = 5 are integers. How much is their product worth?
 
 **Answer:** 1296
-[[Quesiti/src_kangourou_2018_junior_semif#q10|src_kangourou_2018_junior_semif__Q10]]
 
 
 
@@ -527,7 +517,6 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 > (Points 5) M is the sum of the odd positive integers less than 1000 and N is the sum of the even positive integers strictly less than 1000. How much is M-N ?
 
 **Answer:** 500
-[[Quesiti/src_kangourou_2018_junior_semif#q11|src_kangourou_2018_junior_semif__Q11]]
 
 
 
@@ -558,7 +547,6 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 > (Points 5) A circular section rope is cut into two pieces. Both are spirally rolled onto a table to produce approximately two discs. The radius of one of the two is twice the radius of the other. What is the ratio between the length of the whole rope and the length of the shortest piece? (If necessary, approximate the answer to the nearest integer.)
 
 **Answer:** 5
-[[Quesiti/src_kangourou_2018_junior_semif#q12|src_kangourou_2018_junior_semif__Q12]]
 
 
 
@@ -592,7 +580,6 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 > example, if the probability were 0.81 write the answer as 8100.)
 
 **Answer:** 9000
-[[Quesiti/src_kangourou_2018_junior_semif#q13|src_kangourou_2018_junior_semif__Q13]]
 
 
 
@@ -622,7 +609,6 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 > (Points 6) For how many different ordered pairs (a, b) of integers between - 2018 and 2018, endpoints included, is 2a + b + 6 = 0?
 
 **Answer:** 2019
-[[Quesiti/src_kangourou_2018_junior_semif#q14|src_kangourou_2018_junior_semif__Q14]]
 
 
 
@@ -654,7 +640,6 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 > (Points 6) Each point P of the plane with integer coordinates is assigned a nonnegative integer which is the average of the four numbers assigned to the four points at distance 1 from P. The item (2018, 2018) is assigned the number 2018. What is the smallest of the values that appear as P varies?
 
 **Answer:** 2018
-[[Quesiti/src_kangourou_2018_junior_semif#q15|src_kangourou_2018_junior_semif__Q15]]
 
 
 
@@ -684,7 +669,6 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 > (Points 7) How many integers between 0001 and 9999 inclusive are such that the sum of the first two digits coincides with the sum of the other two?
 
 **Answer:** 669
-[[Quesiti/src_kangourou_2018_junior_semif#q16|src_kangourou_2018_junior_semif__Q16]]
 
 
 
@@ -717,7 +701,6 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 > (Points 7) A railway company operates a line with m stations. It then has n more built, with n > 1. For each new route a new type of ticket is printed (note: the route from station A to station B is different from that from B to A). If a total of 46 new types of tickets are printed, what are, in order, the values of m and n? (For example, if m = 25 and n = 4, write 2504.)
 
 **Answer:** 1102
-[[Quesiti/src_kangourou_2018_junior_semif#q17|src_kangourou_2018_junior_semif__Q17]]
 
 
 
@@ -759,4 +742,3 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 > 1296 0500 0005 9000 2019 2018 0669 1102 3600
 
 **Answer:** 3600
-[[Quesiti/src_kangourou_2018_junior_semif#q18|src_kangourou_2018_junior_semif__Q18]]

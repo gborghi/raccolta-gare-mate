@@ -35,8 +35,6 @@ level: BMO Round 1
 
 > Trova tutte le soluzioni reali $x$ dell'equazione $$\sqrt{x + 1972098 - 1988\sqrt{x + 1974081 - 1988\sqrt{x + 980409}}} + \sqrt{x + 1974081 - 1988\sqrt{x + 980409}} = 1$$ dove $\sqrt{\phantom{x}}$ indica la radice quadrata non negativa.
 
-[[Quesiti/src_bmo_1987-88_round1#q01|src_bmo_1987-88_round1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_funzionali,topic_algebra,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -62,8 +60,6 @@ level: BMO Round 1
 *Ricerca tutte le funzioni a valore reale su numeri naturali che soddisfano f(x+y) = f(x)f(y)*
 
 > Trovare tutte le funzioni a valore reale $f$ definite sul set $D$ dei numeri naturali $x \ge 10$ e soddisfare l'equazione funzionale $$f(x + y) = f(x)\,f(y)$$ per tutti $x, y \in D$.
-
-[[Quesiti/src_bmo_1987-88_round1#q02|src_bmo_1987-88_round1__Q02]]
 
 
 
@@ -92,8 +88,6 @@ level: BMO Round 1
 
 > Trovare una coppia di integri $r$, $n$ tale che $0 < n < 200$ e $$\frac{r}{n} < \frac{51}{80} < \frac{r+1}{n}, \qquad \frac{r}{n+1} < \frac{51}{80} < \frac{r+1}{n+1}.$$ Inoltre dimostrare che esiste esattamente una coppia di tali $r$, $n$.
 
-[[Quesiti/src_bmo_1987-88_round1#q03|src_bmo_1987-88_round1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -118,8 +112,6 @@ level: BMO Round 1
 *I piedi perpendicolari da ortocentro a bisettori angolari sono collineari con il punto medio di BC*
 
 > Il triangolo $ABC$ ha l'ortocentro $H$. I piedi delle perpendicolari da $H$ ai bisettieri interni ed esterni dell'angolo $BAC$ (non angolo retto) sono $P$ e $Q$. Provare che $PQ$ passa attraverso il punto medio di $BC$.
-
-[[Quesiti/src_bmo_1987-88_round1#q04|src_bmo_1987-88_round1__Q04]]
 
 
 
@@ -149,8 +141,6 @@ level: BMO Round 1
 *Prove recursively defined d(n,m) sono sempre numeri interi*
 
 > I numeri $d(n, m)$ con $m$, $n$ enti, $0 \le m \le n$, sono definiti da $$d(n, 0) = d(n, n) = 1 \quad \text{for all } n \ge 0$$ e $$m\,d(n, m) = m\,d(n-1, m) + (2n - m)\,d(n-1, m-1)$$ per $0 < m < n$. Provare che tutti i $d(n, m)$ sono numeri interi.
-
-[[Quesiti/src_bmo_1987-88_round1#q05|src_bmo_1987-88_round1__Q05]]
 
 
 
@@ -183,4 +173,3 @@ Indicare il valore minimo positivo di (x2+y2)/y soggetto alla restrizione quadra
 > Indicare che il valore minimo positivo di $$\frac{x^2 + y^2}{y},$$ dove $x$, $y$ sono numeri reali, in modo che $$7x^2 + 3xy + 3y^2 = 1,$$ sia $\dfrac{1}{2}$.
 
 **Risposta:** \frac{1}{2}
-[[Quesiti/src_bmo_1987-88_round1#q06|src_bmo_1987-88_round1__Q06]]

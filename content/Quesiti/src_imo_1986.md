@@ -34,8 +34,6 @@ level: IMO
 > Sia d un intero positivo diverso da 2, 5 e 13. Si dimostri che si possono trovare
 > a, b distinti nell'insieme {2, 5, 13, d} tali che ab −1 non sia un quadrato perfetto.
 
-[[Quesiti/src_imo_1986#q01|src_imo_1986__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_invarianti"></span>
@@ -67,8 +65,6 @@ level: IMO
 > l'immagine di Pk nella rotazione di centro Ak+1 e angolo di 120° in senso orario
 > (per k = 0, 1, 2, . . . ). Si dimostri che se P1986 = P0, allora il triangolo A1A2A3 è
 > equilatero.
-
-[[Quesiti/src_imo_1986#q02|src_imo_1986__Q02]]
 
 
 
@@ -110,8 +106,6 @@ level: IMO
 > Giorno II
 > 10 luglio 1986
 
-[[Quesiti/src_imo_1986#q03|src_imo_1986__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -139,8 +133,6 @@ level: IMO
 *Determinare il luogo dei punti X mentre un triangolo congruente si muove intorno a un n-agono*
 
 > Siano A e B vertici adiacenti di un n-agono regolare (n ≥ 5) nel piano, con centro in O. Un triangolo XYZ, congruente a OAB e inizialmente sovrapposto ad esso, si muove nel piano in modo tale che Y e Z descrivano l'intera frontiera del poligono, mentre X rimane all'interno del poligono. Si determini il luogo descritto da X.
-
-[[Quesiti/src_imo_1986#q04|src_imo_1986__Q04]]
 
 
 
@@ -179,8 +171,6 @@ level: IMO
 > (iii)
 > f(x) ̸= 0 per 0 ≤x < 2.
 
-[[Quesiti/src_imo_1986#q05|src_imo_1986__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_geometria_analitica,method_colorazione"></span>
@@ -207,5 +197,3 @@ level: IMO
 *Punti interi colorati di due colori con bilancio delle conte su rette parallele agli assi*
 
 > Si consideri un insieme finito di punti nel piano, ciascuno dei quali ha coordinate intere. Si dimostri che è sempre possibile colorare alcuni punti dell'insieme di rosso e gli altri di bianco in modo tale che, per ogni retta L parallela a uno degli assi coordinati, la differenza (in valore assoluto) tra il numero di punti bianchi e quello di punti rossi appartenenti a L sia al più 1.
-
-[[Quesiti/src_imo_1986#q06|src_imo_1986__Q06]]

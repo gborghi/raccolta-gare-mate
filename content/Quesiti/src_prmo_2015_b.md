@@ -35,7 +35,6 @@ level: PRMO
 > Un uomo cammina una certa distanza e ritorna in $3\frac{1}{4}$ ore; può andare in entrambe le direzioni in $2\frac{1}{2}$ ore. Quante ore gli ci vorrebbero per camminare in entrambe le direzioni?
 
 **Risposta:** 4
-[[Quesiti/src_prmo_2015_b#q01|src_prmo_2015_b__Q01]]
 
 
 
@@ -64,7 +63,6 @@ level: PRMO
 > Le equazioni $x^2 - 4x + k = 0$ e $x^2 + kx - 4 = 0$, dove $k$ è un numero reale, hanno esattamente una radice comune. Qual è il valore di $k$?
 
 **Risposta:** 3
-[[Quesiti/src_prmo_2015_b#q02|src_prmo_2015_b__Q02]]
 
 
 
@@ -93,7 +91,6 @@ level: PRMO
 > I numeri interi positivi $a$ e $b$ sono tali da $a + b = a/b + b/a$. Qual è il valore di $a^2 + b^2$?
 
 **Risposta:** 2
-[[Quesiti/src_prmo_2015_b#q03|src_prmo_2015_b__Q03]]
 
 
 
@@ -122,7 +119,6 @@ level: PRMO
 > Quanti segmenti di linea hanno entrambi i loro punti di fine situati alle vertici di un determinato cubo?
 
 **Risposta:** 28
-[[Quesiti/src_prmo_2015_b#q04|src_prmo_2015_b__Q04]]
 
 
 
@@ -151,7 +147,6 @@ level: PRMO
 > $P(x)$ sia un polinomio non zero con coefficienti interi. Se $P(n)$ è divisibile per $n$ per ogni intero positivo $n$, qual è il valore di $P(0)$?
 
 **Risposta:** 0
-[[Quesiti/src_prmo_2015_b#q05|src_prmo_2015_b__Q05]]
 
 
 
@@ -180,7 +175,6 @@ level: PRMO
 > Quanti numeri interi positivi a due cifre $N$ hanno la proprietà che la somma di $N$ e il numero ottenuto invertendo l'ordine dei numeri di $N$ è un quadrato perfetto?
 
 **Risposta:** 8
-[[Quesiti/src_prmo_2015_b#q06|src_prmo_2015_b__Q06]]
 
 
 
@@ -209,7 +203,6 @@ level: PRMO
 > $E(n)$ indichi la somma dei numeri pari di $n$. Per esempio, $E(1243) = 2 + 4 = 6$. Qual è il valore di $E(1) + E(2) + \cdots + E(100)$?
 
 **Risposta:** 400
-[[Quesiti/src_prmo_2015_b#q07|src_prmo_2015_b__Q07]]
 
 
 
@@ -242,7 +235,6 @@ level: PRMO
 ![[src_prmo_2015_b__q08.png]]
 
 **Risposta:** 15
-[[Quesiti/src_prmo_2015_b#q08|src_prmo_2015_b__Q08]]
 
 
 
@@ -271,7 +263,6 @@ level: PRMO
 > Qual è il più grande perimetro possibile di un triangolo rettangolo con lunghezze laterali interi se uno dei lati ha lunghezza 12?
 
 **Risposta:** 84
-[[Quesiti/src_prmo_2015_b#q09|src_prmo_2015_b__Q09]]
 
 
 
@@ -300,7 +291,6 @@ level: PRMO
 > Un rettangolo $2 \times 3$ e un rettangolo $3 \times 4$ sono contenuti in un quadrato senza sovrapposizioni in alcun punto interno, e i lati del quadrato sono paralleli ai lati dei due rettangoli dati. Qual è la più piccola area possibile del quadrato?
 
 **Risposta:** 25
-[[Quesiti/src_prmo_2015_b#q10|src_prmo_2015_b__Q10]]
 
 
 
@@ -329,7 +319,6 @@ level: PRMO
 > $a$, $b$, $c$ siano numeri reali come $a - 7b + 8c = 4$ e $8a + 4b - c = 7$. Qual è il valore di $a^2 - b^2 + c^2$?
 
 **Risposta:** 1
-[[Quesiti/src_prmo_2015_b#q11|src_prmo_2015_b__Q11]]
 
 
 
@@ -358,7 +347,6 @@ level: PRMO
 > In rettangolo $ABCD$, $AB = 8$ e $BC = 20$. $P$ sia un punto su $AD$ tale che $\angle BPC = 90^\circ$. Se $r_1$, $r_2$, $r_3$ sono i raggi degli incircoli dei triangoli $APB$, $BPC$ e $CPD$, qual è il valore di $r_1 + r_2 + r_3$?
 
 **Risposta:** 8
-[[Quesiti/src_prmo_2015_b#q12|src_prmo_2015_b__Q12]]
 
 
 
@@ -387,7 +375,6 @@ Ogni uomo ballava con 4 donne, ogni donna con 3 uomini; 9 uomini; contare donne*
 > In una festa, ogni uomo ballava con esattamente quattro donne e ogni donna ballava con esattamente tre uomini. Nove uomini hanno partecipato alla festa. Quante donne hanno partecipato alla festa?
 
 **Risposta:** 12
-[[Quesiti/src_prmo_2015_b#q13|src_prmo_2015_b__Q13]]
 
 
 
@@ -416,7 +403,6 @@ Ogni uomo ballava con 4 donne, ogni donna con 3 uomini; 9 uomini; contare donne*
 > Se $3^x + 2^x = 985$ e $3^y - 2^y = 473$, qual è il valore di $xy$?
 
 **Risposta:** 48
-[[Quesiti/src_prmo_2015_b#q14|src_prmo_2015_b__Q14]]
 
 
 
@@ -442,8 +428,6 @@ Ogni uomo ballava con 4 donne, ogni donna con 3 uomini; 9 uomini; contare donne*
 *Il più piccolo prodotto di 3 numeri primi distinti x,y,z uguale al numero di numeri*
 
 > Che $n$ sia il numero intero più grande che è il prodotto di esattamente 3 numeri primi distinti, $x$, $y$ e $z$, dove $x$, $y$ e $z$ sono il numero di decine e di cifre unità.
-
-[[Quesiti/src_prmo_2015_b#q15|src_prmo_2015_b__Q15]]
 
 
 
@@ -472,7 +456,6 @@ Ogni uomo ballava con 4 donne, ogni donna con 3 uomini; 9 uomini; contare donne*
 > Nel triangolo a angolo acuto $ABC$, $D$ deve essere il punto medio di $BC$. $E$ sia il punto medio di $AC$. $F$ sia il punto medio di $AB$. Supponiamo $\angle BAE = 40^\circ$. Se $\angle DAE = \angle DFE$, qual è la magnitudine di $\angle ADF$ in gradi?
 
 **Risposta:** 40
-[[Quesiti/src_prmo_2015_b#q16|src_prmo_2015_b__Q16]]
 
 
 
@@ -503,7 +486,6 @@ Ogni uomo ballava con 4 donne, ogni donna con 3 uomini; 9 uomini; contare donne*
 > Che $a$, $b$, $c$ siano tali da definire $a + b + c = 0$ e $$P = \frac{a^2}{2a^2 + bc} + \frac{b^2}{2b^2 + ca} + \frac{c^2}{2c^2 + ab}$$. Qual è il valore di $P$?
 
 **Risposta:** 1
-[[Quesiti/src_prmo_2015_b#q17|src_prmo_2015_b__Q17]]
 
 
 
@@ -532,7 +514,6 @@ Ogni uomo ballava con 4 donne, ogni donna con 3 uomini; 9 uomini; contare donne*
 > Un sottogruppo $B$ dell'insieme dei primi 100 interi positivi ha la proprietà che non due elementi di $B$ sommano a 125. Qual è il numero massimo possibile di elementi in $B$?
 
 **Risposta:** 62
-[[Quesiti/src_prmo_2015_b#q18|src_prmo_2015_b__Q18]]
 
 
 
@@ -561,7 +542,6 @@ Ogni uomo ballava con 4 donne, ogni donna con 3 uomini; 9 uomini; contare donne*
 > Le cifre di un intero positivo $n$ sono quattro numeri interi consecutivi in ordine decrescente quando vengono letti da sinistra a destra. Qual è la somma dei possibili rimanenti quando $n$ è diviso per 37?
 
 **Risposta:** 217
-[[Quesiti/src_prmo_2015_b#q19|src_prmo_2015_b__Q19]]
 
 
 
@@ -590,4 +570,3 @@ Ogni uomo ballava con 4 donne, ogni donna con 3 uomini; 9 uomini; contare donne*
 > Il cerchio $\omega$ tocca internamente il cerchio $\Omega$ a $P$. Il centro $O$ di $\Omega$ si trova fuori di $\omega$. Il diametro $XY$ deve essere di $\Omega$ che è anche tangente a $\omega$. Supponiamo $PY > PX$. Lasciate che $PY$ si incroci $\omega$ a $Z$. Se $YZ = 2PZ$, qual è la magnitudine di $\angle PYX$ in gradi?
 
 **Risposta:** 15
-[[Quesiti/src_prmo_2015_b#q20|src_prmo_2015_b__Q20]]

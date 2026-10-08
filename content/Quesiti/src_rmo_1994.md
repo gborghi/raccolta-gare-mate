@@ -33,8 +33,6 @@ level: RMO
 
 > Una foglia è strappata da un romanzo di carta. La somma dei numeri sulle pagine restanti è di 15000. Trova i numeri delle pagine sulla foglia strappata.
 
-[[Quesiti/src_rmo_1994#q01|src_rmo_1994__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -60,8 +58,6 @@ level: RMO
 
 > Nel triangolo $ABC$, l'incircolo tocca i lati $BC$, $CA$ e $AB$ rispettivamente a $D$, $E$ e $F$. Se il raggio dell'incircolo è di 4 unità e se $BD$, $CE$ e $AF$ sono numeri interi consecutivi, trovare i lati del triangolo $ABC$.
 
-[[Quesiti/src_rmo_1994#q02|src_rmo_1994__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_congruenze,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -86,8 +82,6 @@ level: RMO
 *numeri a 6 cifre con cifre 16 ciascuna una volta, divisibili per k per 1 a 6*
 
 > Trova tutti i numeri naturali a 6 cifre $a_1 a_2 a_3 a_4 a_5 a_6$ formati utilizzando i numeri $1, 2, 3, 4, 5, 6$ una volta che ciascuno sia tale che il numero $a_1 a_2 \cdots a_k$ sia divisibile da $k$, per $1 \le k \le 6$.
-
-[[Quesiti/src_rmo_1994#q03|src_rmo_1994__Q03]]
 
 
 
@@ -116,8 +110,6 @@ level: RMO
 
 > Risolvere il sistema di equazioni per $x$ e $y$ reali: $$5x\!\left(1 + \frac{1}{x^2 + y^2}\right) = 12$$ $$5y\!\left(1 - \frac{1}{x^2 + y^2}\right) = 4.$$
 
-[[Quesiti/src_rmo_1994#q04|src_rmo_1994__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_cassetti,method_estremalita,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_astrazione"></span>
@@ -142,8 +134,6 @@ level: RMO
 *insieme di 16 integri positivi con prodotto in coppia non superiore al 1994*
 
 > $A$ sia un insieme di 16 integri positivi con la proprietà che il prodotto di due numeri distinti di $A$ non supererà il 1994. Mostrare che ci sono due numeri $a$ e $b$ in $A$ che non sono relativamente primi.
-
-[[Quesiti/src_rmo_1994#q05|src_rmo_1994__Q05]]
 
 
 
@@ -170,8 +160,6 @@ level: RMO
 
 > Che $AC$ e $BD$ siano due accordi di un cerchio con centro $O$ in modo tale che si intersecano a angolo retto all'interno del cerchio al punto $M$. Supponiamo che $K$ e $L$ siano rispettivamente i punti di mezzo dell'accordo $AB$ e $CD$. Prova che $OKML$ è un parallelo.
 
-[[Quesiti/src_rmo_1994#q06|src_rmo_1994__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_fattorizzazione,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -196,8 +184,6 @@ level: RMO
 *Conta i razionali m/n con 0 < m/n < 1, gcd(m,n) = 1, mn = 25!*
 
 > Trova il numero di tutti i numeri razionali $m/n$ in modo tale che (a) $0 < m/n < 1$, (b) $m$ e $n$ siano relativamente primi, (c) $mn = 25!$.
-
-[[Quesiti/src_rmo_1994#q07|src_rmo_1994__Q07]]
 
 
 
@@ -224,5 +210,3 @@ level: RMO
 *Dimostrare la disuguaglianza (1+a)(1+b)(1+c) >= 8(1-a)(1-b)(1-c)*
 
 > Se $a$, $b$ e $c$ sono numeri reali positivi come $a + b + c = 1$, dimostrare che $$(1+a)(1+b)(1+c) \ge 8(1-a)(1-b)(1-c).$$
-
-[[Quesiti/src_rmo_1994#q08|src_rmo_1994__Q08]]

@@ -91,7 +91,6 @@ level: squadre
 > Look at the figure. ABC and EFG are equilateral triangles; F is the midpoint of BC, G is the midpoint of FC and D is aligned with F and E. The perimeter of triangle ABC is 132. What is the perimeter of the shaded pentagon ABGED?
 
 **Answer:** 0121
-[[Quesiti/src_kangourou_squadre_2024_finale#q01|src_kangourou_squadre_2024_finale__Q01]]
 
 
 
@@ -122,7 +121,6 @@ level: squadre
 > Positive sums What is the smallest positive integer that can be expressed as the sum of both nine consecutive positive integers and ten consecutive positive integers?
 
 **Answer:** 0135
-[[Quesiti/src_kangourou_squadre_2024_finale#q02|src_kangourou_squadre_2024_finale__Q02]]
 
 
 
@@ -160,7 +158,6 @@ level: squadre
 > The PQ segment In the figure, the endpoint P of the PQ segment is a vertex of the square while the endpoint Q is an internal point on one side of the square that has no endpoint in P. The other two segments inside the square have both one end at one vertex of the square and the other on the PQ segment and are perpendicular to PQ. The figure, which is not to scale, shows their lengths in centimeters. How many millimeters is the PQ segment?
 
 **Answer:** 0136
-[[Quesiti/src_kangourou_squadre_2024_finale#q03|src_kangourou_squadre_2024_finale__Q03]]
 
 
 
@@ -191,7 +188,6 @@ level: squadre
 > Prime numbers The three digit number n = ABC (A ≠ 0) is such that n = B × CB where both B and CB are prime numbers. What is n?
 
 **Answer:** 0679
-[[Quesiti/src_kangourou_squadre_2024_finale#q04|src_kangourou_squadre_2024_finale__Q04]]
 
 
 
@@ -222,7 +218,6 @@ level: squadre
 > At some point in his life, a writer published a novel every two years. He's certainly published more than 7 and less than 14. Adding up the years in which his novels were published, you get 21,945. In what year did he publish his first novel?
 
 **Answer:** 1985
-[[Quesiti/src_kangourou_squadre_2024_finale#q05|src_kangourou_squadre_2024_finale__Q05]]
 
 
 
@@ -255,7 +250,6 @@ level: squadre
 > Simeone began writing the positive integers, starting from 1, but putting the minus sign in front of all and only the even numbers. He therefore began by writing 1 – 2 + 3 – 4 + 5 – 6 + …. He stopped exactly when the algebraic sum written as a result gave 2024 as a result. What is the last integer he wrote?
 
 **Answer:** 4047
-[[Quesiti/src_kangourou_squadre_2024_finale#q06|src_kangourou_squadre_2024_finale__Q06]]
 
 
 
@@ -308,7 +302,6 @@ level: squadre
 > } 36 20 } P Q A B C D E F G
 
 **Answer:** 3276
-[[Quesiti/src_kangourou_squadre_2024_finale#q07|src_kangourou_squadre_2024_finale__Q07]]
 
 
 
@@ -339,7 +332,6 @@ level: squadre
 > The box A box is shaped like a rectangular parallelepiped. If the length is increased by 50% and the width by 40%, and the height is decreased by 10%, by what percentage does the volume of the box increase? (Answer without the % symbol.)
 
 **Answer:** 0089
-[[Quesiti/src_kangourou_squadre_2024_finale#q08|src_kangourou_squadre_2024_finale__Q08]]
 
 
 
@@ -371,7 +363,6 @@ level: squadre
 > Two swimmers train in a swimming pool: they start from one side and, when they reach the opposite side, they reverse their direction. One takes 45 seconds to reach the opposite side, the other 30 seconds. If they both start from opposite sides and swim in adjacent lanes for one hour at a constant speed, how many times will they find themselves next to each other for a crossing or an overtaking?
 
 **Answer:** 0100
-[[Quesiti/src_kangourou_squadre_2024_finale#q09|src_kangourou_squadre_2024_finale__Q09]]
 
 
 
@@ -404,7 +395,6 @@ level: squadre
 > that such a number does not exist.)
 
 **Answer:** 2569
-[[Quesiti/src_kangourou_squadre_2024_finale#q10|src_kangourou_squadre_2024_finale__Q10]]
 
 
 
@@ -438,7 +428,6 @@ level: squadre
 > The grid In each cell of a square grid n × n, where n is a positive integer, an integer is placed so that the numbers in two adjacent cells (i.e. they share a side) differ exactly by 1. The numbers 3 and 17 are in the grid. If n is the smallest possible value compatible with the statement of the problem, what is the sum of the numbers appearing on the diagonals of the grid?
 
 **Answer:** 0160
-[[Quesiti/src_kangourou_squadre_2024_finale#q11|src_kangourou_squadre_2024_finale__Q11]]
 
 
 
@@ -470,7 +459,6 @@ level: squadre
 > Triangle pattern Imagine that positive integers are listed in a triangular (unlimited) pattern as suggested by the figure. What is the sum of the numbers in the twenty-fifth row?
 
 **Answer:** 7825
-[[Quesiti/src_kangourou_squadre_2024_finale#q12|src_kangourou_squadre_2024_finale__Q12]]
 
 
 
@@ -510,7 +498,6 @@ level: squadre
 > The tournament A football tournament involves four teams A, B, C, D. Each meets each of the other three once and only once. The final ranking (3 points for victory, 1 for tie, 0 for defeat) is what you see in the figure. A and C only conceded one goal each, B and C only scored one goal each, A scored three goals. What is the result of the match between A and D? If the match ends m for A and n for D (e.g. 1 to 0), write [0m0n] (in the case of the example [0100]).
 
 **Answer:** 0201
-[[Quesiti/src_kangourou_squadre_2024_finale#q13|src_kangourou_squadre_2024_finale__Q13]]
 
 
 
@@ -547,7 +534,6 @@ level: squadre
 > previously: what is this sum?
 
 **Answer:** 0090
-[[Quesiti/src_kangourou_squadre_2024_finale#q14|src_kangourou_squadre_2024_finale__Q14]]
 
 
 
@@ -611,4 +597,3 @@ level: squadre
 > Securities and replies
 
 **Answer:** 0218
-[[Quesiti/src_kangourou_squadre_2024_finale#q15|src_kangourou_squadre_2024_finale__Q15]]

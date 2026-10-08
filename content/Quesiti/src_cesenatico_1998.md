@@ -37,8 +37,6 @@ level: nazionale
 
 > If $x$ is a positive real number, $[x]$ denotes the whole part of $x$, i.e. the maximum integer $n \leq x$. Calculate the sum $$\sum_{n=1}^{1\,000\,000} \left[\sqrt{n}\right] = \left[\sqrt{1}\right] + \left[\sqrt{2}\right] + \cdots + \left[\sqrt{999\,999}\right] + \left[\sqrt{1\,000\,000}\right].$$ [The student may use, if he believes so, the following formula: $$\sum_{i=1}^{k} i^2 = \frac{k(k+1)(2k+1)}{6},$$ for which proof is not required.]
 
-[[Quesiti/src_cesenatico_1998#q01|src_cesenatico_1998__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_geometria_solida,method_cassetti,skill_astrazione"></span>
@@ -64,8 +62,6 @@ level: nazionale
 
 > It turns out that in every convex polyhedron there are at least two faces with the same number of sides.
 
-[[Quesiti/src_cesenatico_1998#q02|src_cesenatico_1998__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_probabilita,skill_casework_accurato"></span>
@@ -89,8 +85,6 @@ level: nazionale
 Chances are you'll be playing poker tonight.
 
 > Alberto wants to organize a poker game for tonight. He knows that Bruno and Barbara go to the gym together one in three evenings, and that Carla, Corrado, Dario and David are engaged one in two evenings (but not necessarily on the same days). Moreover, he knows that Darius does not want to play with David because he has taken the girl away from him. Since it takes at least four people (including Alberto) to play poker, what is the probability that it will be played tonight?
-
-[[Quesiti/src_cesenatico_1998#q03|src_cesenatico_1998__Q03]]
 
 
 
@@ -122,8 +116,6 @@ Chances are you'll be playing poker tonight.
 
 > Whether $ABCD$ a trapezoid with a greater base $AB$ such that the diagonal $AC$ and $BD$ are perpendicular. either $O$ the center of circumference surrounding the $ABC$ triangle and $E$ the intersection point between the $OB$ straight line and the $CD$ straight line. Show that $$BC^2 = CD \cdot CE.$$
 
-[[Quesiti/src_cesenatico_1998#q04|src_cesenatico_1998__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_congruenze,skill_manipolazione_algebrica"></span>
@@ -154,8 +146,6 @@ Chances are you'll be playing poker tonight.
 > Let $a_1, a_2, a_3, a_4$ be four distinct integers and let $P(x)$ be a polynomial with integer coefficients such that $$P(a_1) = P(a_2) = P(a_3) = P(a_4) = 1. \quad (\star)$$ (i) Show that there is no integer $n$ such that $P(n) = 12$.
 > 
 > (ii) Is there a polynomial $P(x)$ that satisfies the condition $(\star)$ and an integer $n$ such that $P(n) = 1998$?
-
-[[Quesiti/src_cesenatico_1998#q05|src_cesenatico_1998__Q05]]
 
 
 
@@ -196,5 +186,3 @@ Chances are you'll be playing poker tonight.
 > (ii) It is shown that if $f$ is increasing, fully multiplied and $f(2) = 2$ then $f(n) = n$ for each $n$.
 > 
 > (iii) Does the statement (ii) remain true if the adverb * is completely removed *?
-
-[[Quesiti/src_cesenatico_1998#q06|src_cesenatico_1998__Q06]]

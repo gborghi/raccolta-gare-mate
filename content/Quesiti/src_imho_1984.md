@@ -33,8 +33,6 @@ level: IMO
 
 > Si dimostri che $0 \le yz + zx + xy - 2xyz \le \dfrac{7}{27}$, dove $x, y, z$ sono numeri reali non negativi tali che $x + y + z = 1$.
 
-[[Quesiti/src_imho_1984#q01|src_imho_1984__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -66,8 +64,6 @@ level: IMO
 > (ii) $(a+b)^7 - a^7 - b^7$ sia divisibile per $7^7$.
 > Fornire una giustificazione della risposta.
 
-[[Quesiti/src_imho_1984#q02|src_imho_1984__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_geometria_piana,method_colorazione,method_cassetti,method_estremalita,skill_astrazione,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
@@ -93,8 +89,6 @@ level: IMO
 
 > Nel piano sono dati due punti distinti $O$ e $A$. Per ciascun punto $X$ del piano, diverso da $O$, si indichi con $a(X)$ l'ampiezza dell'angolo formato da $OA$ e $OX$ (misurato in senso antiorario da $OA$ a $OX$, $0 \le a(X) < 2\pi$). Sia $C(X)$ la circonferenza di centro $O$ e raggio di lunghezza $OX \cdot a(X) / OX$. Ogni punto del piano è colorato con uno dei colori di un insieme finito. Si dimostri che esiste un punto $Y$ tale che il suo colore compare sulla circonferenza della circonferenza $C(Y)$.
 
-[[Quesiti/src_imho_1984#q03|src_imho_1984__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -119,8 +113,6 @@ level: IMO
 *Quadrilatero convesso ABCD: CD tangente alla circonferenza su AB se e solo se BC ∥ AD*
 
 > Sia $ABCD$ un quadrilatero convesso tale che la retta $CD$ sia tangente alla circonferenza avente come diametro $AB$. Si dimostri che la retta $AB$ è tangente alla circonferenza avente come diametro $CD$ se e solo se le rette $BC$ e $AD$ sono parallele.
-
-[[Quesiti/src_imho_1984#q04|src_imho_1984__Q04]]
 
 
 
@@ -151,8 +143,6 @@ level: IMO
 > $$n - 3 < \frac{2d}{p} < \left\lfloor \frac{n}{2} \right\rfloor \cdot \frac{n + 1}{2} - 2,$$
 > dove $\lfloor x \rfloor$ indica il massimo intero non superiore a $x$.
 
-[[Quesiti/src_imho_1984#q05|src_imho_1984__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,method_estremalita,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
@@ -177,5 +167,3 @@ level: IMO
 *Interi dispari con ad=bc, a+d=2^k, b+c=2^m implicano a=1*
 
 > Siano $a, b, c, d$ numeri interi dispari tali che $0 < a < b < c < d$ e $ad = bc$. Si dimostri che se $a + d = 2^k$ e $b + c = 2^m$ per alcuni interi $k$ e $m$, allora $a = 1$.
-
-[[Quesiti/src_imho_1984#q06|src_imho_1984__Q06]]

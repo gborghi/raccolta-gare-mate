@@ -37,8 +37,6 @@ level: OBM Nível 1
 
 ![[src_obm_2015_n1_f2__q01.png]]
 
-[[Quesiti/src_obm_2015_n1_f2#q01|src_obm_2015_n1_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,skill_manipolazione_algebrica,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -62,8 +60,6 @@ level: OBM Nível 1
 *Sconti sulle magliette: 3 al 10% contro 2 al 5%, differenza 12 reais; trovare prezzo scontato*
 
 > Júlia ha comprato magliette $3$ uguali e pagato con uno sconto $10\%$, mentre suo fratello ha comprato magliette $2$ dello stesso tipo e pagato con uno sconto $5\%$. Il fratello di Júlia ha pagato $12$ reais più di Júlia. Qual è il prezzo, in reais, di ogni T-shirt al prezzo scontato di Júlia?
-
-[[Quesiti/src_obm_2015_n1_f2#q02|src_obm_2015_n1_f2__Q02]]
 
 
 
@@ -98,8 +94,6 @@ level: OBM Nível 1
 
 ![[src_obm_2015_n1_f2__q03.png]]
 
-[[Quesiti/src_obm_2015_n1_f2#q03|src_obm_2015_n1_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_logica,topic_combinatoria,method_invarianti,method_casework,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -124,8 +118,6 @@ level: OBM Nível 1
 *2015 persone a tavola rotonda, ognuno dice un vicino onesto e un disonesto; contare onesto*
 
 > Ci sono persone $2015$ sedute attorno a un tavolo circolare. Ognuno di loro è onesto o disonesto. Ognuno dice: "Uno dei miei due vicini (il di sinistra o quello di destra) è onesto, e l'altro è disonesto".
-
-[[Quesiti/src_obm_2015_n1_f2#q04|src_obm_2015_n1_f2__Q04]]
 
 
 
@@ -164,8 +156,6 @@ level: OBM Nível 1
 
 ![[src_obm_2015_n1_f2__q05.png]]
 
-[[Quesiti/src_obm_2015_n1_f2#q05|src_obm_2015_n1_f2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -194,8 +184,6 @@ Dipingere 12 vertici di 12 quadrati con 3 colori in modo che ogni quadrato abbia
 > Nella figura ci sono quadrati $12$. Matilu vuole dipingere i vertici di questi quadrati $12$ utilizzando tre colori  verde, giallo e blu  in modo che ogni quadrato abbia esattamente $2$ vertici verdi e $2$ vertici gialli. In quanti modi diversi si possono dipingere questi vertici?
 
 ![[src_obm_2015_n1_f2__q06.png]]
-
-[[Quesiti/src_obm_2015_n1_f2#q06|src_obm_2015_n1_f2__Q06]]
 
 
 
@@ -242,8 +230,6 @@ Dipingere 12 vertici di 12 quadrati con 3 colori in modo che ogni quadrato abbia
 > 
 > c) Quali cifre possono apparire come ultima (decima) cifra?
 
-[[Quesiti/src_obm_2015_n1_f2#q07|src_obm_2015_n1_f2__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -289,8 +275,6 @@ Dipingere 12 vertici di 12 quadrati con 3 colori in modo che ogni quadrato abbia
 
 ![[src_obm_2015_n1_f2__q08.png]]
 
-[[Quesiti/src_obm_2015_n1_f2#q08|src_obm_2015_n1_f2__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_solida,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -323,5 +307,3 @@ Dipingere 12 vertici di 12 quadrati con 3 colori in modo che ogni quadrato abbia
 > a) Dopo aver assemblato un grande cubo laterale $3$ (fatto di $27$ piccoli cubetti), Esmeralda dipinge di verde le facce di piccoli cubetti che hanno esattamente $3$ facce visibili e di giallo le facce di piccoli cubetti che hanno esattamente $2$ facce visibili. Dopo la vernice, le facce $120$ sono gialle. Quanti volti sono rimasti non dipinti sui piccoli cubetti?
 > 
 > b) Dopo aver assemblato un grande cubo di $9$ piccoli cubetti, Esmeralda dipinse $3$ le facce del grande cubo verde e $1$ la faccia gialla. Al massimo, quanti piccoli cubetti avrebbero potuto avere esattamente $2$ volti verdi e $1$ volti gialli?
-
-[[Quesiti/src_obm_2015_n1_f2#q09|src_obm_2015_n1_f2__Q09]]

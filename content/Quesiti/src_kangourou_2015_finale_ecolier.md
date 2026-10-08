@@ -35,7 +35,6 @@ level: kangourou
 > A strange ATM can only deliver sums of money less than 1000 euros and only with 5, 10, 20 and 50 euro banknotes, all in equal quantities at each withdrawal. How many different amounts of money can be withdrawn from that ATM?
 
 **Answer:** 11
-[[Quesiti/src_kangourou_2015_finale_ecolier#qe1|src_kangourou_2015_finale_ecolier__QE1]]
 
 
 
@@ -70,8 +69,7 @@ level: kangourou
 > - the sum of the pips shown on two opposite faces is 8 if on one of the two faces there is an even number of pips.
 > Anna does not believe him. If you think Amedeo is right, indicate one of the dice he could have built; if you think Anna is right not to believe him, explain why.
 
-**Answer:** ha ragione Anna
-[[Quesiti/src_kangourou_2015_finale_ecolier#qe2|src_kangourou_2015_finale_ecolier__QE2]]
+**Answer:** Anna is right
 
 
 
@@ -103,7 +101,6 @@ level: kangourou
 > Kang is a station on a single track line. In the figure, you can see the Kang track pattern, each of which has a length: the running track is the top track, while the bottom track starts and ends with two "dead-end" tracks. All trains running on the line are made up of a locomotive, which is at the head, and some carriages: the length of each locomotive and carriage is 19 meters. What are the least restrictive conditions to be imposed on the composition of two trains in order to cross at Kang? Please note that all types of maneuvers (especially trains may reverse) and signalling compatible with the station layout are allowed, but not the breaking of trains into groups of carriages. (see figure)
 
 **Answer:** max 9 carriages
-[[Quesiti/src_kangourou_2015_finale_ecolier#qe3|src_kangourou_2015_finale_ecolier__QE3]]
 
 
 
@@ -131,7 +128,6 @@ level: kangourou
 > Sandro and Paolo play the following game. There are 8 tokens on the table: you play it in turns and when it's your turn, you can take 1, 2 or 3 tokens: the last one who can take any tokens wins. Sandro wants to win at any cost. Should he play first or let Paul start?
 
 **Answer:** second (Paolo starts)
-[[Quesiti/src_kangourou_2015_finale_ecolier#qe4|src_kangourou_2015_finale_ecolier__QE4]]
 
 
 
@@ -159,7 +155,6 @@ level: kangourou
 > Cecilia, who wants some potatoes, is in front of three identical vending machines: one for candy, one for potatoes, one for biscuits. She can't see the inside of any of the three, but she's told that the label on the product, applied to each of the three, is wrong for each of the three. Cecilia observes a gentleman in front of her who, putting a coin in one of the vending machines, gets candy. How many tries will she have to make to get the potatoes?
 
 **Answer:** on the first try
-[[Quesiti/src_kangourou_2015_finale_ecolier#qe5|src_kangourou_2015_finale_ecolier__QE5]]
 
 
 
@@ -188,4 +183,3 @@ level: kangourou
 > 51 crows are lined up on a suspended electric wire. When (and only when) one of them caws, its right-hand neighbor and its left-hand neighbor (or only one of the two, in the case where the crow is at one of the two ends) take flight and after exactly one minute they return to the place where they were and caw in turn. The first crow in the row starts cawing. After exactly one hour from this first caw, how many times will the last crow have cawed?
 
 **Answer:** 6
-[[Quesiti/src_kangourou_2015_finale_ecolier#qe6|src_kangourou_2015_finale_ecolier__QE6]]

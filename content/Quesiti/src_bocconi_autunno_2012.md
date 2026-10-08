@@ -35,7 +35,6 @@ level: Giochi d'Autunno
 > What is the smallest (positive integer) of four digits, all equal and all different from each other? Note: 0 is considered an even number and no number starts with 0.
 
 **Answer:** 2046
-[[Quesiti/src_bocconi_autunno_2012#q01|src_bocconi_autunno_2012__Q01]]
 
 
 
@@ -68,8 +67,7 @@ Who among the four athletes didn't tell the truth?
 
 > Here are the statements made by our four athletes, right after the end of the race (only they participated): Jacopo: I cut the finish line first  Luke: I am neither the first nor the last  Michele: I am not the last  Nando: I came fourth  Only one of them did not tell the truth. Who's that?
 
-**Answer:** Jacopo non ha detto la verità
-[[Quesiti/src_bocconi_autunno_2012#q02|src_bocconi_autunno_2012__Q02]]
+**Answer:** Jacopo did not tell the truth
 
 
 
@@ -98,7 +96,6 @@ Who among the four athletes didn't tell the truth?
 > January 13, 2012 is written as January 13, 2012. Ilaria finds it more interesting on 20 December 2012 that it is written as 20.12.2012, with the four digits repeating in the same order. What will be the first date after 20 December 2012 to be written with the four digits repeating the same order?
 
 **Answer:** 21-01-2101
-[[Quesiti/src_bocconi_autunno_2012#q03|src_bocconi_autunno_2012__Q03]]
 
 
 
@@ -131,7 +128,6 @@ Who among the four athletes didn't tell the truth?
 ![[src_bocconi_autunno_2012__q04.png]]
 
 **Answer:** 36
-[[Quesiti/src_bocconi_autunno_2012#q04|src_bocconi_autunno_2012__Q04]]
 
 
 
@@ -164,7 +160,6 @@ Who among the four athletes didn't tell the truth?
 ![[src_bocconi_autunno_2012__q05.png]]
 
 **Answer:** 9
-[[Quesiti/src_bocconi_autunno_2012#q05|src_bocconi_autunno_2012__Q05]]
 
 
 
@@ -191,8 +186,7 @@ Who among the four athletes didn't tell the truth?
 
 > If six loggers harvest six cypresses in six hours, how long will it take ten loggers to harvest ten cypresses?
 
-**Answer:** 6 ore
-[[Quesiti/src_bocconi_autunno_2012#q06|src_bocconi_autunno_2012__Q06]]
+**Answer:** 6 hours
 
 
 
@@ -221,7 +215,6 @@ Who among the four athletes didn't tell the truth?
 > Carla takes a two-digit number (a positive integer), multiplies it by 4 and then subtracts 3 from the result thus obtained. It's magic! The number Carla finally finds is written with the same numbers as the starting number, but in reverse order. What was the departure number?
 
 **Answer:** 16
-[[Quesiti/src_bocconi_autunno_2012#q07|src_bocconi_autunno_2012__Q07]]
 
 
 
@@ -254,7 +247,6 @@ Who among the four athletes didn't tell the truth?
 ![[src_bocconi_autunno_2012__q08.png]]
 
 **Answer:** 23
-[[Quesiti/src_bocconi_autunno_2012#q08|src_bocconi_autunno_2012__Q08]]
 
 
 
@@ -284,8 +276,6 @@ Who among the four athletes didn't tell the truth?
 > Milena always replaces each symbol with the same number, making sure that different symbols correspond to different numbers. As you can see, you get as a result of the addition of a three-digit number where the digits of the hundreds and the units are equal to each other. What is the greatest possible value of the first by adding $\square\!\heartsuit\!\Upsilon\!\Upsilon$?
 
 ![[src_bocconi_autunno_2012__q09.png]]
-
-[[Quesiti/src_bocconi_autunno_2012#q09|src_bocconi_autunno_2012__Q09]]
 
 
 
@@ -318,7 +308,6 @@ Who among the four athletes didn't tell the truth?
 ![[src_bocconi_autunno_2012__q10.png]]
 
 **Answer:** 204
-[[Quesiti/src_bocconi_autunno_2012#q10|src_bocconi_autunno_2012__Q10]]
 
 
 
@@ -349,8 +338,6 @@ Who among the four athletes didn't tell the truth?
 
 ![[src_bocconi_autunno_2012__q11.png]]
 
-[[Quesiti/src_bocconi_autunno_2012#q11|src_bocconi_autunno_2012__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_solida,method_casework,method_conteggio,skill_ragionamento_geometrico,skill_astrazione,skill_conteggio_sistematico"></span>
@@ -378,7 +365,6 @@ Who among the four athletes didn't tell the truth?
 > You remove a small part of a wooden cube from the area around each vertex and you get a solid with 14 faces. How many faces will you get if you take out a small part of the 14-faced solid in the area around each vertex?
 
 **Answer:** 38
-[[Quesiti/src_bocconi_autunno_2012#q12|src_bocconi_autunno_2012__Q12]]
 
 
 
@@ -408,7 +394,6 @@ The value of DEUX in cryptographic arithmetic UN x UN + UN = DEUX*
 > As always, you have to replace a letter with the same number and, two different letters, two different digits; no number starts with 0. To say how much DEUX is worth for equality to be true: $$\text{UN} \times \text{UN} + \text{UN} = \text{DEUX}$$
 
 **Answer:** 7482
-[[Quesiti/src_bocconi_autunno_2012#q13|src_bocconi_autunno_2012__Q13]]
 
 
 
@@ -441,7 +426,6 @@ The value of DEUX in cryptographic arithmetic UN x UN + UN = DEUX*
 ![[src_bocconi_autunno_2012__q14.png]]
 
 **Answer:** 62 cm o $100\sqrt{5}-\frac{1}{2}$
-[[Quesiti/src_bocconi_autunno_2012#q14|src_bocconi_autunno_2012__Q14]]
 
 
 
@@ -470,4 +454,3 @@ The value of DEUX in cryptographic arithmetic UN x UN + UN = DEUX*
 > As soon as Renato retired, he gave in to his passion and opened a restaurant. Last night, 32 customers took (at least) the starter and the first; the $\frac{8}{6}$ of all customers chose (at least) the first and the sweet; half took everything: starter, first and sweet. The first one was taken by everyone and nobody the gourmets:) he was confined to one scope. How many sweets were served in total?
 
 **Answer:** 40
-[[Quesiti/src_bocconi_autunno_2012#q15|src_bocconi_autunno_2012__Q15]]

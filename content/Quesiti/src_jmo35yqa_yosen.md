@@ -39,7 +39,6 @@ level: JMO Yosen
 ![[src_jmo35yqa_yosen__q01.png]]
 
 **Risposta:** 72
-[[Quesiti/src_jmo35yqa_yosen#q01|src_jmo35yqa_yosen__Q01]]
 
 
 
@@ -68,7 +67,6 @@ level: JMO Yosen
 > Quante quadruple $(a,b,c,d)$ di numeri interi positivi soddisfano $abcd = 2025$ in modo tale che $ab$, $bc$, $cd$, $da$ siano tutti quadrati perfetti?
 
 **Risposta:** 44
-[[Quesiti/src_jmo35yqa_yosen#q02|src_jmo35yqa_yosen__Q02]]
 
 
 
@@ -101,7 +99,6 @@ level: JMO Yosen
 ![[src_jmo35yqa_yosen__q03.png]]
 
 **Risposta:** 512
-[[Quesiti/src_jmo35yqa_yosen#q03|src_jmo35yqa_yosen__Q03]]
 
 
 
@@ -130,7 +127,6 @@ level: JMO Yosen
 > Quanti integri $n$ con $1 \le n \le 1000$ hanno la proprietà che i rimanenti ottenuti quando $n$ è diviso da $2$, $3$, $4$, $5$, $6$ rispettivamente sono pareggiamente distinti (nessuno di due è uguale)?
 
 **Risposta:** 49
-[[Quesiti/src_jmo35yqa_yosen#q04|src_jmo35yqa_yosen__Q04]]
 
 
 
@@ -163,7 +159,6 @@ level: JMO Yosen
 ![[src_jmo35yqa_yosen__q05.png]]
 
 **Risposta:** \frac{15}{11}
-[[Quesiti/src_jmo35yqa_yosen#q05|src_jmo35yqa_yosen__Q05]]
 
 
 
@@ -194,7 +189,6 @@ level: JMO Yosen
 > Ci sono due sequenze di interi positivi $a_1, a_2, \ldots$ e $b_1, b_2, \ldots$ in modo che per ogni intero positivo $n$, una delle seguenti sostengono: $$(a_{n+1}, b_{n+1}) = \left(\frac{a_n}{2},\, b_n + \frac{a_n}{2}\right) \quad \text{or} \quad (a_{n+1}, b_{n+1}) = \left(a_n + \frac{b_n}{2},\, \frac{b_n}{2}\right).$$ A questo punto, quante coppie $(a_1, b_1)$ di interi positivi, ciascuna al massimo $40$, possono verificarsi come coppia di partenza (cioè: in modo che entrambe le sequenze siano interamente composte da numeri interi positivi)?
 
 **Risposta:** 1064
-[[Quesiti/src_jmo35yqa_yosen#q06|src_jmo35yqa_yosen__Q06]]
 
 
 
@@ -225,7 +219,6 @@ level: JMO Yosen
 > C'è una griglia di celle con righe $20$ e colonne $25$, tutte inizialmente vuote. Taro gioca una partita con questa griglia. Il gioco è diviso in diverse giri; alla volta $n$-th esegue la seguente operazione: sceglie un intero positivo $k$ e $k$ celle vuote $A_1, A_2, \ldots, A_k$ in modo tale che per ogni numero intero $i$ con $1 \le i \le k-1$, la cella $A_{i+1}$ sia adiacente a $A_i$ a destra o sopra di esso; quindi scrive $n$ in tutte le $k$ di queste celle. Il gioco finisce quando ogni cellula ha un numero scritto. Quando Taro agisce in modo da rendere il numero di giri fino a quando il gioco finisce il più piccolo possibile, quanti modi distinti possono essere scritti i numeri sulla griglia alla fine della partita? Qui, due scritti che coincidono sotto una rotazione o riflessione sono anche considerati come distinti.
 
 **Risposta:** 20!^3
-[[Quesiti/src_jmo35yqa_yosen#q07|src_jmo35yqa_yosen__Q07]]
 
 
 
@@ -258,7 +251,6 @@ level: JMO Yosen
 > Per un numero intero $n \ge 3$, una sequenza di numeri interi $a_1, a_2, \ldots, a_n$ è chiamata bella se tutte le seguenti condizioni sono valide: - $0 = a_1 < a_2 < \cdots < a_n$; - esiste un numero intero $i$ con $1 \le i \le n$ in modo tale che $a_i = 2025$; - per tutti i numeri interi $i, j, k$ con $i < j < k$, la disuguaglianza $\dfrac{a_i + a_k}{2} \le a_j$ è valida. Lasciate che $N$ sia la lunghezza più grande possibile di una sequenza bella. Tra le belle sequenze $a_1, a_2, \ldots, a_N$ di lunghezza $N$, trova il minimo valore possibile di $a_N$. Qui, la lunghezza di una sequenza $x_1, x_2, \ldots, x_l$ è $l$.
 
 **Risposta:** 2057
-[[Quesiti/src_jmo35yqa_yosen#q08|src_jmo35yqa_yosen__Q08]]
 
 
 
@@ -287,7 +279,6 @@ level: JMO Yosen
 > C'è un triangolo acuto $ABC$ con il circoncentro $O$. Il $D$ deve essere il piede della perpendicolare da $A$ a lato $BC$. Si ritiene che $\angle AOD = 90^\circ$ e $OD = 4\sqrt{7}$. I piedi $E$ e $F$ devono essere i piedi delle perpendicolari da $D$ ai lati $AB$ e $AC$ rispettivamente. Il segmento $AO$ e il segmento $EF$ si incontrano in un punto $P$ e $AP = 11$. Trova la lunghezza $EF$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 **Risposta:** 2\sqrt{61}
-[[Quesiti/src_jmo35yqa_yosen#q09|src_jmo35yqa_yosen__Q09]]
 
 
 
@@ -316,7 +307,6 @@ level: JMO Yosen
 > Let $S = \{0, 1, 2, \ldots, 8\}$. Considera le funzioni $f$ definite su $S$ e prendendo valori in $S$ in modo tale che, per tutti gli elementi $x, y, z$ di $S$, se $x + y - z$ è un multiple di $9$, allora $f(x)\,f(y) - f(f(z))$ è anche un multiple di $9$. Quante funzioni $f$ esistono?
 
 **Risposta:** 858
-[[Quesiti/src_jmo35yqa_yosen#q10|src_jmo35yqa_yosen__Q10]]
 
 
 
@@ -353,7 +343,6 @@ level: JMO Yosen
 ![[src_jmo35yqa_yosen__q11.png]]
 
 **Risposta:** \frac{2^{68}(2^{102}-1)}{3}
-[[Quesiti/src_jmo35yqa_yosen#q11|src_jmo35yqa_yosen__Q11]]
 
 
 
@@ -382,4 +371,3 @@ level: JMO Yosen
 > Un pentagono $ABCDE$ è inserito in un cerchio $\Omega$ e soddisfa $AC = AD$ e $BC \parallel DE$. Prendi un punto $P$ sull'arco $CD$ di $\Omega$ che non contiene $A$ e lascia $P_1, P_2, P_3, P_4, P_5$ essere il riflesso di $P$ attraverso le linee $AB$, $BC$, $CD$, $DE$ e $EA$ rispettivamente. Si ritiene che $PC : PD = P_1 P_2 : P_4 P_5 = 2 : 3$ e $CD : P_2 P_4 = 4\sqrt{2} : 11$. Trova il valore di $\dfrac{P_1 P_3}{P_1 P_5}$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 **Risposta:** \frac{\sqrt{37}}{10}
-[[Quesiti/src_jmo35yqa_yosen#q12|src_jmo35yqa_yosen__Q12]]

@@ -33,8 +33,6 @@ level: INMO
 
 > Considera un triangolo acuto $ABC$ e lascia che $P$ sia un punto interno di $ABC$. Supponiamo che le linee $BP$ e $CP$, quando prodotte, soddisfino $AC$ e $AB$ rispettivamente in $E$ e $F$. $D$ sia il punto in cui $AP$ incrocia il segmento di linea $EF$ e $K$ sia il piede di perpendicolare da $D$ a $BC$. Indicare che $DK$ bisecta $\angle EKF$.
 
-[[Quesiti/src_inmo_2003#q01|src_inmo_2003__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -60,8 +58,6 @@ level: INMO
 *Ricerca tutte le prime p,q e anche n>2 che soddisfano un'equazione somma*
 
 > Trova tutti i numeri primi $p$ e $q$, e numeri pari $n > 2$, soddisfacendo l'equazione $$p^n + p^{n-1} + \cdots + p + 1 = q^2 + q + 1.$$
-
-[[Quesiti/src_inmo_2003#q02|src_inmo_2003__Q02]]
 
 
 
@@ -90,8 +86,6 @@ level: INMO
 
 > Mostrare che per ogni numero reale $a$ l'equazione $$8x^4 - 16x^3 + 16x^2 - 8x + a = 0 \tag{1}$$ ha almeno una radice non reale e trovare la somma di tutte le radici non reali dell'equazione.
 
-[[Quesiti/src_inmo_2003#q03|src_inmo_2003__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_congruenze,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -116,8 +110,6 @@ level: INMO
 *Ricerca tutti i numeri a 7 cifre utilizzando i numeri 5 e 7, divisibili sia per 5 che per 7*
 
 > Trovare tutti i numeri $7$ di cifre formati utilizzando solo i numeri $5$ e $7$, e divisibili sia per $5$ che per $7$.
-
-[[Quesiti/src_inmo_2003#q04|src_inmo_2003__Q04]]
 
 
 
@@ -146,8 +138,6 @@ level: INMO
 
 > Il $ABC$ deve essere un triangolo con lati $a$, $b$, $c$. Considerate un triangolo $A_1B_1C_1$ con lati uguali a $a + \frac{b}{2}$, $b + \frac{c}{2}$, $c + \frac{a}{2}$. Indicare che $$[A_1B_1C_1] \ge \frac{3}{4}[ABC],$$ dove $[XYZ]$ indica l'area del triangolo $XYZ$.
 
-[[Quesiti/src_inmo_2003#q05|src_inmo_2003__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_casework,skill_ragionamento_geometrico,skill_lettura_attenta,skill_astrazione"></span>
@@ -172,5 +162,3 @@ level: INMO
 *Billeti a nove cifre colorati secondo la regola di variazione in tutti i luoghi; trovare il colore di 123123123*
 
 > In una lotteria, i biglietti ricevono numeri a nove cifre utilizzando solo i numeri $1$, $2$, $3$. Sono anche di colore rosso, blu o verde in modo tale che due biglietti i cui numeri differiscono in tutti e nove i posti ricevono colori diversi. Supponiamo che il biglietto con il numero $122222222$ sia rosso e che il biglietto con il numero $222222222$ sia verde. Determinare, con la prova, il colore del biglietto con il numero $123123123$.
-
-[[Quesiti/src_inmo_2003#q06|src_inmo_2003__Q06]]

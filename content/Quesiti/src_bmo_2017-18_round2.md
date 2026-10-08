@@ -37,8 +37,6 @@ level: BMO Round 2
 > 
 > Prove che $AB \times BP = 2BM^2$.
 
-[[Quesiti/src_bmo_2017-18_round2#q01|src_bmo_2017-18_round2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_casework,method_invarianti,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -63,8 +61,6 @@ level: BMO Round 2
 Gioco di torta circolare: per il quale il Cappellaio Pazzo può costringere Alice a mangiare tutte le torte
 
 > Ci sono posti $n$ per il tè intorno a un tavolo circolare, e ogni posto ha una piccola torta su un piatto. Alice arriva prima, si siede al tavolo e mangia la sua torta (ma non è molto bella). Successivamente arriva il Cappellaio Pazzo, e dice ad Alice che avrà una festa di tè solitaria, e che deve continuare a cambiare il suo posto, e ogni volta deve mangiare la torta di fronte a lei (se non è stato ancora mangiato). Infatti il Cappellaio Pazzo è molto boss, e dice ad Alice che, per $i = 1, 2, \ldots, n-1$, quando si muove per la $i$-time, deve spostare $a_i$ posti e lui consegna ad Alice la lista di istruzioni $a_1, a_2, \ldots, a_{n-1}$. A Alice non piacciono le torte, ed è libera di scegliere, in ogni fase, se muoversi in senso orario o in senso antiorario. Per quali valori di $n$ il Cappellaio Pazzo può costringere Alice a mangiare tutte le torte?
-
-[[Quesiti/src_bmo_2017-18_round2#q02|src_bmo_2017-18_round2__Q02]]
 
 
 
@@ -94,8 +90,6 @@ Gioco di torta circolare: per il quale il Cappellaio Pazzo può costringere Alic
 *Determine se la somma dei cubetti (m+1)3+...+(2m)3 è sempre un quadrato perfetto*
 
 > È noto che, per ogni intero positivo $n$, $$1^3 + 2^3 + \cdots + n^3 = \frac{n^2(n+1)^2}{4}$$ e così è un quadrato. Determinare se esiste un intero positivo $m$ tale che $$(m+1)^3 + (m+2)^3 + \cdots + (2m)^3$$ sia quadrato.
-
-[[Quesiti/src_bmo_2017-18_round2#q03|src_bmo_2017-18_round2__Q03]]
 
 
 
@@ -133,5 +127,3 @@ Gioco di torta circolare: per il quale il Cappellaio Pazzo può costringere Alic
 > b) Esiste una funzione di assorbimento $f$ e una sequenza crescente di numeri reali $a_1 < a_2 < a_3 < \cdots$ tale che $f(x)$ sia un intero solo se $x = a_i$ per alcuni $i$?
 > 
 > Si noti che se $k$ è un intero positivo e $f$ è una funzione, allora $f^k$ indica la composizione delle copie $k$ di $f$. Ad esempio $f^3(t) = f(f(f(t)))$ per tutti i numeri reali $t$.
-
-[[Quesiti/src_bmo_2017-18_round2#q04|src_bmo_2017-18_round2__Q04]]

@@ -35,7 +35,6 @@ level: kangourou
 > Two integers are such that their product and their sum have the same last digit (i.e. that of the units). Of the ten digits, what can be the last digit of the sum?
 
 **Answer:** 0,2,4
-[[Quesiti/src_kangourou_2016_finale_benjamin#qb1|src_kangourou_2016_finale_benjamin__QB1]]
 
 
 
@@ -67,7 +66,6 @@ level: kangourou
 > Look at the figure. All the triangles you can see are equilateral: the sides of the black one (the smallest one) are $2$ cm long, the sides of the gray ones are all $5$ cm long. How long are the sides of the largest triangle (the one that contains them all)? As the figure suggests, the sides of grey triangles and black triangles that have vertices in common are on the same straight line. (see figure)
 
 **Answer:** 19
-[[Quesiti/src_kangourou_2016_finale_benjamin#qb2|src_kangourou_2016_finale_benjamin__QB2]]
 
 
 
@@ -95,7 +93,6 @@ level: kangourou
 > In the strange republic of Kang the year is divided into the same months as ours, with the same length, but the holidays are those whose number is divisible by $6$ or is a prime number: the others are working days. If every "bridge" day were also added to the holidays, that is, a working day preceded and followed by a holiday, how many more holidays would there be in each year? (Remember that $1$ is not a prime number.)
 
 **Answer:** 23 o 24
-[[Quesiti/src_kangourou_2016_finale_benjamin#qb3|src_kangourou_2016_finale_benjamin__QB3]]
 
 
 
@@ -129,7 +126,6 @@ level: kangourou
 > Fox is unprepared and thinks he's answering questions at random. To try to get promoted, should he choose envelope A or envelope B?
 
 **Answer:** envelope A
-[[Quesiti/src_kangourou_2016_finale_benjamin#qb4|src_kangourou_2016_finale_benjamin__QB4]]
 
 
 
@@ -158,7 +154,6 @@ level: kangourou
 > A circular park is surrounded by a fence of $2016$ meters. Each $8$ meters of fence has a plant and each $64$ meters the plants are of the same type. How many different types of plants can be along the fence at most?
 
 **Answer:** 4
-[[Quesiti/src_kangourou_2016_finale_benjamin#qb5|src_kangourou_2016_finale_benjamin__QB5]]
 
 
 
@@ -186,4 +181,3 @@ level: kangourou
 > The currency of Kangland is the kang. In Kangcity, the eurokang exchange rate works like this: you get $1$ kang by paying $1{,}20$ euro, you get $1$ euro by paying $1$ kang and proportionally if you exchange lower-value coins. In both currencies, the minimum value coin is that of a cent; any amount of money can be changed and the result of the change, if not expressed by an integer of cents, is rounded up to the nearest cent. I'm in Kangcity and I only have euros. Is there a (legal) way to buy a $2$ kang ice cream with only $2$ euros? If yes, what is the minimum number of exchanges that I can make?
 
 **Answer:** yes, 40
-[[Quesiti/src_kangourou_2016_finale_benjamin#qb6|src_kangourou_2016_finale_benjamin__QB6]]

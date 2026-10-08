@@ -51,8 +51,6 @@ level: OBM Nível 3
 > 
 > Inoltre, trovare tutti $n$ con questa proprietà.
 
-[[Quesiti/src_obm_2025_n3_fx#q01|src_obm_2025_n3_fx__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -77,8 +75,6 @@ level: OBM Nível 3
 *Triangolo acuto con circoncircolo; simultaneità/colinearità di punti di intersezione specifici*
 
 > Che $ABC$ sia un triangolo acuto con $AB < AC$ e che $\Gamma$ sia il suo cerchio circoscritto. Definire $M$ come punto medio del lato $BC$ e $D$, $E$, $F$ come i piedi delle altitudini rispetto ai lati $BC$, $AC$ e $AB$, rispettivamente. Prendi $N$ come intersezione di $EF$ e $AM$. Il $R$, $S$ siano le intersezioni di $EF$ e $\Gamma$, in modo tale che $R$ sia situato sull'arco $AB$ senza $C$ e $S$ sia situato sull'arco $AC$ senza $B$. Inoltre, supponiamo che $BS$ e $CR$ si incontrino al punto $T$. Indicare che $DA$ divide l'angolo $\angle TDN$.
-
-[[Quesiti/src_obm_2025_n3_fx#q02|src_obm_2025_n3_fx__Q02]]
 
 
 
@@ -117,8 +113,6 @@ level: OBM Nível 3
 > 
 > Prova che ogni intero positivo appare nella sequenza.
 
-[[Quesiti/src_obm_2025_n3_fx#q03|src_obm_2025_n3_fx__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta,skill_stima"></span>
@@ -153,8 +147,6 @@ level: OBM Nível 3
 > 
 > Determinare tutti gli integri positivi $k$ in modo tale che esista un intero positivo $n$ soddisfacente $f(n) = nk$.
 
-[[Quesiti/src_obm_2025_n3_fx#q04|src_obm_2025_n3_fx__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_estremalita,method_doppio_conteggio,method_grafi,skill_modellizzazione,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_stima"></span>
@@ -188,8 +180,6 @@ level: OBM Nível 3
 > 
 > Determinare, come funzione di $n$, il numero minimo possibile di elementi di un insieme ostruzionale.
 
-[[Quesiti/src_obm_2025_n3_fx#q05|src_obm_2025_n3_fx__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_geometria_analitica,method_simmetria,method_coordinate,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -214,5 +204,3 @@ level: OBM Nível 3
 *ABCD convex quadrilaterale con condizione angolare; famiglia di partizioni di linee tangenti in 8 insieme simultanei/paralleli*
 
 > Il $ABCD$ deve essere un quadrilaterale convesso che soddisfi $90^\circ > \angle ABC > \angle CDA > \angle DAB$. $\mathcal{R}$ sia l'insieme di tutte le linee $\ell$ in modo tale che esista un cerchio tangente alle quattro riflessioni di $\ell$ attraverso i quattro lati del quadrilaterale $ABCD$. Prova che $\mathcal{R}$ può essere suddiviso in gruppi $8$ in modo che le linee di ciascun gruppo siano tutte simultanee o tutte parallele.
-
-[[Quesiti/src_obm_2025_n3_fx#q06|src_obm_2025_n3_fx__Q06]]

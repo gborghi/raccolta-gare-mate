@@ -34,8 +34,6 @@ level: Olimpiade Polacca Round 3
 
 > I numeri reali $x_1, x_2, \ldots, x_n$ dell'intervallo $(0,1)$ soddisfano l'uguaglianza $x_1 + x_2 + \cdots + x_n = m + r$, dove $m$ è un intero e $r \in [0,1)$. Provare che $$x_1^2 + x_2^2 + \cdots + x_n^2 \le m + r^2.$$
 
-[[Quesiti/src_pol_1988_r3#q01|src_pol_1988_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_probabilita,topic_combinatoria,method_conteggio,method_doppio_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
@@ -60,8 +58,6 @@ level: Olimpiade Polacca Round 3
 *Numero atteso di indici di permutazione equiparabili*
 
 > Per una permutazione $\pi = (p_1, p_2, \ldots, p_n)$ di $(1, 2, \ldots, n)$ definiamo $X(\pi)$ come il numero di indici $j$ tale che $p_i < p_j$ per tutti $i < j$. Trova il valore atteso di $X(\pi)$ su tutte le permutazioni $\pi$ di $(1, 2, \ldots, n)$.
-
-[[Quesiti/src_pol_1988_r3#q02|src_pol_1988_r3__Q02]]
 
 
 
@@ -88,8 +84,6 @@ level: Olimpiade Polacca Round 3
 
 > Un poligono $W$ ha un centro di simmetria $S$. Dimostrare che esiste un parallelo $V$ contenente $W$ in modo tale che il punto medio di ciascun lato di $V$ sia situato sul confine di $W$.
 
-[[Quesiti/src_pol_1988_r3#q03|src_pol_1988_r3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_insiemi_funzioni,method_invarianti,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
@@ -114,8 +108,6 @@ level: Olimpiade Polacca Round 3
 *Funzione continua su reali con periodo d che soddisfa l'equazione funzionale*
 
 > Che $d$ sia un intero positivo e che $f : [0, d] \to \mathbb{R}$ sia una funzione continua con $f(0) = f(d)$. Prova che esiste un $c \in [0, d)$ tale che $f(c) = f(c + 1)$.
-
-[[Quesiti/src_pol_1988_r3#q04|src_pol_1988_r3__Q04]]
 
 
 
@@ -142,8 +134,6 @@ level: Olimpiade Polacca Round 3
 
 > La sequenza $(a_n)_{n \ge 0}$ è definita da $a_1 = a_2 = 1$ e $a_n = a_{n-1} \cdot a_{n-2} + a_{n-1} + a_{n-2}$ per $n \ge 3$. Prove che per ogni intero positivo $r$ esiste un intero positivo $s$ tale che $a_s$ sia divisibile da $r$.
 
-[[Quesiti/src_pol_1988_r3#q05|src_pol_1988_r3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_stima"></span>
@@ -168,5 +158,3 @@ level: Olimpiade Polacca Round 3
 *Tetraedro di maggior volume inserito nell'emisfero del raggio 1*
 
 > Determinare il più grande volume possibile di un tetraedro situato all'interno di un emisfero di raggio $1$.
-
-[[Quesiti/src_pol_1988_r3#q06|src_pol_1988_r3__Q06]]

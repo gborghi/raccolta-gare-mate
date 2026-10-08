@@ -36,8 +36,6 @@ level: OBM Nível 3
 
 > Quanti numeri tra $10$ e $13000$, letti da sinistra a destra, sono formati da cifre consecutive in ordine crescente? Ad esempio, $456$ è uno di questi numeri, ma $7890$ non lo è. (A) $10$ (B) $13$ (C) $18$ (D) $22$ (E) $25$
 
-[[Quesiti/src_obm_2005_n3_f1#q01|src_obm_2005_n3_f1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -70,8 +68,6 @@ level: OBM Nível 3
 
 ![[src_obm_2005_n3_f1__q02.png]]
 
-[[Quesiti/src_obm_2005_n3_f1#q02|src_obm_2005_n3_f1__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -103,8 +99,6 @@ level: OBM Nível 3
 
 ![[src_obm_2005_n3_f1__q03.png]]
 
-[[Quesiti/src_obm_2005_n3_f1#q03|src_obm_2005_n3_f1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato"></span>
@@ -133,8 +127,6 @@ level: OBM Nível 3
 
 > Le lettere $O$, $B$ e $M$ rappresentano numeri interi. Se $O \times B \times M = 240$, $O \times B + M = 46$ e $O + B \times M = 64$, allora $O + B + M$ è uguale a: (A) $19$ (B) $20$ (C) $21$ (D) $24$ (E) $36$
 
-[[Quesiti/src_obm_2005_n3_f1#q04|src_obm_2005_n3_f1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -162,8 +154,6 @@ level: OBM Nível 3
 *Trova la cifra n: un moltiplo di 7 fiancheggiato dal 2004 e un numero di cifre del 2005*
 
 > Esmeralda ha digitato correttamente un multiple di $7$ superiore a un miliardo, con cifre $4010$. Alla sua sinistra ha scritto il numero $2004$ e alla sua destra, $1$, ottenendo nuovi numeri $2004\ldots1$ con una cifra $n$ e $2005$. Qual è il valore di $n$? (A) $3$ (B) $4$ (C) $5$ (D) $6$ (E) $7$
-
-[[Quesiti/src_obm_2005_n3_f1#q05|src_obm_2005_n3_f1__Q05]]
 
 
 
@@ -194,8 +184,6 @@ level: OBM Nível 3
 *Il valore possibile di y nell'equazione radicale nidificata è uguale a 1*
 
 > I numeri interi positivi $x$ e $y$ soddisfano l'equazione $$\sqrt{x + \tfrac{1}{2}\sqrt{y}} - \sqrt{x - \tfrac{1}{2}\sqrt{y}} = 1.$$ Quale delle alternative presenta un possibile valore di $y$? (A) $5$ (B) $6$ (C) $7$ (D) $8$ (E) $9$
-
-[[Quesiti/src_obm_2005_n3_f1#q06|src_obm_2005_n3_f1__Q06]]
 
 
 
@@ -229,8 +217,6 @@ level: OBM Nível 3
 
 ![[src_obm_2005_n3_f1__q07.png]]
 
-[[Quesiti/src_obm_2005_n3_f1#q07|src_obm_2005_n3_f1__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,skill_stima,skill_manipolazione_algebrica"></span>
@@ -258,8 +244,6 @@ level: OBM Nível 3
 
 > Un negozio di saponi fa una promozione con l'annuncio: "Acquistate uno e prendete un altro a metà prezzo". Un'altra promozione che il negozio potrebbe fare per offrire lo stesso sconto percentuale è: (A) "Prenditi due e paga uno" (B) "Prenditi tre e paga uno" (C) "Prenditi tre e paga due" (D) "Prenditi quattro e paga tre" (E) "Prenditi cinque e paga quattro"
 
-[[Quesiti/src_obm_2005_n3_f1#q08|src_obm_2005_n3_f1__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,skill_stima,skill_modellizzazione"></span>
@@ -286,8 +270,6 @@ level: OBM Nível 3
 *Volume stimato di tutto il platino prodotto nella storia per densità e tonnellata*
 
 > Il platino è un metallo molto raro, più raro e costoso dell'oro. La densità è $21.45\ \text{g/cm}^3$. Supponiamo che la produzione mondiale di platino negli ultimi anni fosse di circa $110$ tonnellate all'anno, e che prima fosse trascurabile. Indicare l'alternativa il cui volume è più vicino al volume di platino prodotto nella storia umana: (A) una scatola da scarpe (B) una piscina (C) un edificio di dieci piani (D) il Monte Pascoal (E) la Luna
-
-[[Quesiti/src_obm_2005_n3_f1#q09|src_obm_2005_n3_f1__Q09]]
 
 
 
@@ -321,8 +303,6 @@ level: OBM Nível 3
 
 ![[src_obm_2005_n3_f1__q10.png]]
 
-[[Quesiti/src_obm_2005_n3_f1#q10|src_obm_2005_n3_f1__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_solida,method_estremalita,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -350,8 +330,6 @@ level: OBM Nível 3
 *Numero minimo di bordi di un poliedro con faccia esagonale regolare*
 
 > Una delle facce di un poliedro è un esagono regolare. Qual è la quantità minima di bordi che questo poliedro può avere? (A) $7$ (B) $9$ (C) $12$ (D) $15$ (E) $18$
-
-[[Quesiti/src_obm_2005_n3_f1#q11|src_obm_2005_n3_f1__Q11]]
 
 
 
@@ -381,8 +359,6 @@ level: OBM Nível 3
 
 > In un anno, quante mesi hanno cinque domeniche al massimo? (A) $3$ (B) $4$ (C) $5$ (D) $6$ (E) $7$
 
-[[Quesiti/src_obm_2005_n3_f1#q12|src_obm_2005_n3_f1__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -409,8 +385,6 @@ level: OBM Nível 3
 *Lunghezza del CD in triangolo ABC con D su BC, AB=AD=2, BD=1, condizione del bisettore angolare*
 
 > $D$ è un punto appartenente al lato $BC$ del triangolo $ABC$. Sapendo che $AB = AD = 2$, $BD = 1$ e gli angoli $B\hat{A}D$ e $C\hat{A}D$ sono congruenti, la misura del segmento $CD$ è: (A) $\dfrac{3}{2}$ (B) $\dfrac{4}{3}$ (C) $\dfrac{5}{4}$ (D) $\dfrac{6}{5}$ (E) $\dfrac{7}{6}$
-
-[[Quesiti/src_obm_2005_n3_f1#q13|src_obm_2005_n3_f1__Q13]]
 
 
 
@@ -439,8 +413,6 @@ level: OBM Nível 3
 *Numeri 1..12 attorno a un cerchio con somme vicine triangolare; trovare numero opposto 12*
 
 > Esmeralda adora i numeri triangolari (cioè i numeri $1$, $3$, $6$, $10$, $15$, $21$, $28$, ...), tanto che ha deciso di posizionare i numeri $1$, $2$, $3$, ..., $12$ attorno a un cerchio in modo tale che la somma di ogni coppia di numeri vicini sia un numero triangolare. All'inizio ha lasciato $12$ fuori. Il numero opposto a $12$ nella sua disposizione (il numero originale) è: (A) $1$ (B) $4$ (C) $3$ (D) $6$ (E) $10$
-
-[[Quesiti/src_obm_2005_n3_f1#q14|src_obm_2005_n3_f1__Q14]]
 
 
 
@@ -472,8 +444,6 @@ level: OBM Nível 3
 
 > I termini $a_n$ di una sequenza di numeri interi positivi soddisfano la relazione $$a_{n+1} = a_{n+2}(a_{n+1} + a_n)\quad\text{for } n = 1, 2, 3, \ldots$$ Se $a_5 = 35$, cosa è $a_4$? (A) $1$ (B) $3$ (C) $5$ (D) $7$ (E) $9$
 
-[[Quesiti/src_obm_2005_n3_f1#q15|src_obm_2005_n3_f1__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
@@ -501,8 +471,6 @@ level: OBM Nível 3
 *Condizione per l'aggiunta per la distribuzione per moltiplicazione: a+(bc)=(a+b)(a+c)*
 
 > $a$, $b$ e $c$ siano numeri reali. Per la proprietà distributiva della moltiplicazione sull'addizione, è vero che $a \times (b + c) = (a \times b) + (a \times c)$. La distributività dell'addizione sulla moltiplicazione, cioè $a + (b \times c) = (a + b) \times (a + c)$, non è sempre vera, ma si verifica, cioè si verifica, se e solo se: (A) $a = b = c$ o $a + \tfrac{1}{3} = 0$ (B) $a = b = c$ (C) l'uguaglianza non si verifica mai (D) $a + b + c = 1$ o $a = 0$ (E) $a = b = c = 0$
-
-[[Quesiti/src_obm_2005_n3_f1#q16|src_obm_2005_n3_f1__Q16]]
 
 
 
@@ -535,8 +503,6 @@ level: OBM Nível 3
 
 ![[src_obm_2005_n3_f1__q17.png]]
 
-[[Quesiti/src_obm_2005_n3_f1#q17|src_obm_2005_n3_f1__Q17]]
-
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria,topic_algebra,method_conteggio,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
@@ -565,8 +531,6 @@ level: OBM Nível 3
 
 > Tra i tredici numeri reali non zero ci sono più numeri positivi di quelli negativi. Tra i prodotti $\dfrac{13 \times 12}{2} = 78$ di coppie di 13 numeri, $22$ sono negativi. Quanti dei tredici numeri dati sono negativi? (A) $2$ (B) $7$ (C) $8$ (D) $9$ (E) $10$
 
-[[Quesiti/src_obm_2005_n3_f1#q18|src_obm_2005_n3_f1__Q18]]
-
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -593,8 +557,6 @@ level: OBM Nível 3
 *angolo di un parallelo tale che le perpendicolari ai suoi lati formino un altro parallelo con angoli uguali*
 
 > Tracciando quattro linee perpendicolari ai lati di un parallelo, otteniamo una regione delimitata da queste quattro linee che è anche un parallelo. Possiamo affermare che uno degli angoli del parallelogramma originale, in modo che i due parallelogrammi abbiano angoli uguali, è: (A) $30^\circ$ (B) $45^\circ$ (C) $60^\circ$ (D) $75^\circ$ (E) $90^\circ$
-
-[[Quesiti/src_obm_2005_n3_f1#q19|src_obm_2005_n3_f1__Q19]]
 
 
 
@@ -624,8 +586,6 @@ Classifica (2+sqrt2) ^3(3-sqrt2) ^4 + (2-sqrt2) ^3(3+sqrt2) ^4*
 
 > Il numero $(2 + \sqrt{2})^3(3 - \sqrt{2})^4 + (2 - \sqrt{2})^3(3 + \sqrt{2})^4$ è: (A) un numero intero imparato (B) un numero intero pari (C) un non intero razionale (D) un positivo irrazionale (E) un negativo irrazionale
 
-[[Quesiti/src_obm_2005_n3_f1#q20|src_obm_2005_n3_f1__Q20]]
-
 
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,skill_stima,skill_manipolazione_algebrica"></span>
@@ -653,8 +613,6 @@ Classifica (2+sqrt2) ^3(3-sqrt2) ^4 + (2-sqrt2) ^3(3+sqrt2) ^4*
 *Ordina tre grandi/esotiche potenze A, B, C per dimensioni*
 
 > Per esempio, $A = 10^{(16/2005)^2}$, $B = 2005^2$ e $C = 2^{\sqrt{2005}}$. Poi: (A) $A < B < C$ (B) $A < C < B$ (C) $B < A < C$ (D) $B < C < A$ (E) $C < A < B$
-
-[[Quesiti/src_obm_2005_n3_f1#q21|src_obm_2005_n3_f1__Q21]]
 
 
 
@@ -684,8 +642,6 @@ Classifica (2+sqrt2) ^3(3-sqrt2) ^4 + (2-sqrt2) ^3(3+sqrt2) ^4*
 
 > Un pilota copre tre segmenti di strada, rispettivamente $240$ km, $300$ km e $400$ km. Le velocità medie su questi tre segmenti sono comprese tra $40$ km/h, $75$ km/h e $80$ km/h. Possiamo garantire che il tempo totale, in ore, trascorso dal pilota sui tre segmenti sia: (A) almeno $13$ ore (B) almeno $13$ ore e al massimo $18$ ore (C) almeno $14$ ore e al massimo $18$ ore (D) almeno $15$ ore e al massimo $18$ ore (E) almeno $18$ ore
 
-[[Quesiti/src_obm_2005_n3_f1#q22|src_obm_2005_n3_f1__Q22]]
-
 
 
 <span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_aritmetica,method_casework,skill_casework_accurato,skill_riconoscimento_pattern"></span>
@@ -713,8 +669,6 @@ Classifica (2+sqrt2) ^3(3-sqrt2) ^4 + (2-sqrt2) ^3(3+sqrt2) ^4*
 *Identificare quale coppia NON è 'primanos' (in un AP a tre termini)*
 
 > Due numeri interi sono chiamati $\textit{primanos}$ quando appartengono a una progressione aritmetica di tre termini primi. Ad esempio, i numeri $41$ e $59$ sono primani, perché appartengono alla progressione aritmetica $(41, 47, 53, 59)$ che contiene solo numeri primi. Tra le alternative di seguito, i due numeri che sono $\textbf{not}$ primanos sono: (A) $7$ e $11$ (B) $13$ e $53$ (C) $41$ e $131$ (D) $31$ e $43$ (E) $23$ e $41$
-
-[[Quesiti/src_obm_2005_n3_f1#q23|src_obm_2005_n3_f1__Q23]]
 
 
 
@@ -744,8 +698,6 @@ Classifica (2+sqrt2) ^3(3-sqrt2) ^4 + (2-sqrt2) ^3(3+sqrt2) ^4*
 
 > Un orologio ha le mani per ore, minuti e secondi. Considerando i momenti tra $12$ ore e $1$ seconde e $23$ ore, $59$ minuti e $59$ secondi durante i quali alcune mani si sovrappongono, la risposta è: (A) $1430$ (B) $1438$ (C) $1440$ (D) $1446$ (E) $1452$
 
-[[Quesiti/src_obm_2005_n3_f1#q24|src_obm_2005_n3_f1__Q24]]
-
 
 
 <span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_combinatoria,topic_logica,method_cassetti,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -773,5 +725,3 @@ Classifica (2+sqrt2) ^3(3-sqrt2) ^4 + (2-sqrt2) ^3(3+sqrt2) ^4*
 *Nombre massimo di studenti brasiliani in una classe di 9 con vincoli di raggruppamento (dichiarazione confusa)*
 
 > Un insegnante di inglese dà una lezione privata a una classe di studenti $9$, di cui al massimo due hanno la stessa età. L'insegnante sa che tre studenti della stessa nazionalità e di diverse età possono formare un gruppo, e sceglie gli studenti in modo che al massimo tre di loro abbiano la stessa nazionalità. Quanti studenti brasiliani ci sono nella classe? (A) $1$ (B) $2$ (C) $3$ (D) $4$ (E) $5$
-
-[[Quesiti/src_obm_2005_n3_f1#q25|src_obm_2005_n3_f1__Q25]]

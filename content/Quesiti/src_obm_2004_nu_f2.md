@@ -45,8 +45,6 @@ level: OBM Nível Universitário
 > 
 > Calcolare $f(3)$.
 
-[[Quesiti/src_obm_2004_nu_f2#q01|src_obm_2004_nu_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_insiemi_funzioni,topic_logica,method_invarianti,skill_astrazione,skill_ragionamento_geometrico"></span>
@@ -84,8 +82,6 @@ level: OBM Nível Universitário
 > 
 > *Rimarca: * Un insieme $E$ si chiama *numerable* se $E=\emptyset$ o se esiste una funzione surgettiva $f:\mathbb{N}\to E$.
 
-[[Quesiti/src_obm_2004_nu_f2#q02|src_obm_2004_nu_f2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -116,8 +112,6 @@ level: OBM Nível Universitário
 > 
 > Prova che, per due matrici invertibili reali $A$ e $B$, $$d(AB)\le\frac{\|AB\|}{\|A\|\cdot\|B\|}\,d(A)\cdot d(B).$$
 
-[[Quesiti/src_obm_2004_nu_f2#q03|src_obm_2004_nu_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -147,8 +141,6 @@ level: OBM Nível Universitário
 > Let $\mathbb{Z}^k=\{(x_1,x_2,\ldots,x_k):x_1,x_2,\ldots,x_k\in\mathbb{Z}\}$. Che $p$ sia un primo, $k$ un intero positivo, e $P_1,P_2,\ldots,P_n, Q\in\mathbb{Z}^k$ tale che per tutti $j$, $1\le j\le k$, $$\frac{P_j-Q}{p}\in\mathbb{Z}^k.$$
 > 
 > Prova che esiste un polinomio $f(x_1,\ldots,x_k)$ con coefficienti interi come $f(P_j)=0$ per tutti $j$, $1\le j\le k$ e $\dfrac{f(Q)}{p}\notin\mathbb{Z}$.
-
-[[Quesiti/src_obm_2004_nu_f2#q04|src_obm_2004_nu_f2__Q04]]
 
 
 
@@ -183,8 +175,6 @@ level: OBM Nível Universitário
 > 
 > Calcolare $\displaystyle\lim_{n\to\infty}\frac{|A_m|}{|B_m|}$ come funzione di $m$.
 
-[[Quesiti/src_obm_2004_nu_f2#q05|src_obm_2004_nu_f2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_insiemi_funzioni,method_estremalita,method_disuguaglianze,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -215,5 +205,3 @@ level: OBM Nível Universitário
 > Che $\gamma:[0,2\pi]\to\mathbb{R}^2$ sia una funzione differenziabile con derivata continua, $|\gamma'(t)|=1$ per tutte le $t$, la cui immagine è una curva chiusa semplice; cioè, $$\gamma(t_1)=\gamma(t_2),\quad t_1<t_2\implies t_1=0,\;t_2=2\pi.$$
 > 
 > Prove che esiste $0\le t_0<t_1<2\pi$ tale che $$|\gamma(t_1)-\gamma(t_0)|\le\frac{1}{\pi}\min\{t_1-t_0,\,2\pi+t_0-t_1\}.$$
-
-[[Quesiti/src_obm_2004_nu_f2#q06|src_obm_2004_nu_f2__Q06]]

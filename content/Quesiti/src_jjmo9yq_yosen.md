@@ -33,8 +33,6 @@ level: JJMO Yosen
 
 > $z$ sia un intero positivo a 2 cifre, $y$ un intero positivo a 1 cifre e $x$ un intero positivo a 1 cifre. Le decine di $z$, le unità di $z$ e $y$ sono tutte diverse tra loro. Trova il valore massimo di $xy$.
 
-[[Quesiti/src_jjmo9yq_yosen#q01|src_jjmo9yq_yosen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -64,8 +62,6 @@ level: JJMO Yosen
 
 ![[src_jjmo9yq_yosen__q02.png]]
 
-[[Quesiti/src_jjmo9yq_yosen#q02|src_jjmo9yq_yosen__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -90,8 +86,6 @@ level: JJMO Yosen
 *Il numero intero positivo più piccolo divisibile entro il 2011 con le ultime quattro cifre 9999*
 
 > Tra i numeri interi positivi le cui ultime quattro cifre sono $9999$, trova il più piccolo che sia divisibile da $2011$.
-
-[[Quesiti/src_jjmo9yq_yosen#q03|src_jjmo9yq_yosen__Q03]]
 
 
 
@@ -122,8 +116,6 @@ level: JJMO Yosen
 
 ![[src_jjmo9yq_yosen__q04.png]]
 
-[[Quesiti/src_jjmo9yq_yosen#q04|src_jjmo9yq_yosen__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_algebra,method_invarianti,method_casework,method_congruenze,skill_modellizzazione,skill_lettura_attenta,skill_manipolazione_algebrica,skill_casework_accurato"></span>
@@ -148,8 +140,6 @@ level: JJMO Yosen
 *Minimum di uve dopo le stagioni ripristinare le mele e le uve al 2011 con mandarine superiori al 2011*
 
 > Un mago può utilizzare uno dei seguenti tre incantesimi in qualsiasi numero di volte:\n\nL'incantesimo A: Cambia 1 mandarino e 1 uva in 2 mele.\nL'incantesimo B: Cambia 1 uva e 1 mela in 3 mandarini.\nL'incantesimo C: Cambia 1 mela e 1 mandarino in 4 uve.\n\nA partire da uno stato con mele $2011$, mandarini $2011$ e uve $2011$, il mago utilizza gli incantesimi (ogni una almeno una volta) e termina con mele $2011$, esattamente $2011$ uve, e almeno $2011$ mandarini. Qual è il numero minimo di mandarini alla fine?
-
-[[Quesiti/src_jjmo9yq_yosen#q05|src_jjmo9yq_yosen__Q05]]
 
 
 
@@ -176,8 +166,6 @@ level: JJMO Yosen
 
 > Ci sono 4 carte, ognuna con un numero intero positivo singolo-cifrato scritto su di essa. Quando si scelgono due delle quattro carte e si aggiungono i loro numeri, possono essere ottenute somme distinte esattamente $4$ in totale. Quando si scelgono due delle quattro carte e si moltiplicano i loro numeri, si possono ottenere esattamente $3$ prodotti distinti in totale. Trova tutte le possibili serie di 4 enti che potrebbero essere scritte sulle carte.
 
-[[Quesiti/src_jjmo9yq_yosen#q06|src_jjmo9yq_yosen__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_stima"></span>
@@ -202,8 +190,6 @@ level: JJMO Yosen
 *Il numero intero più piccolo n ≥ 11 con esattamente 23 quadrati perfetti in [n, n+2011]*
 
 > Trova il più piccolo intero positivo $n \ge 11$ in modo che tra gli interi $n, n+1, n+2, \ldots, n+2011$, ci siano esattamente $23$ quadrati perfetti.
-
-[[Quesiti/src_jjmo9yq_yosen#q07|src_jjmo9yq_yosen__Q07]]
 
 
 
@@ -234,8 +220,6 @@ level: JJMO Yosen
 
 ![[src_jjmo9yq_yosen__q08.png]]
 
-[[Quesiti/src_jjmo9yq_yosen#q08|src_jjmo9yq_yosen__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -260,8 +244,6 @@ level: JJMO Yosen
 *N più piccolo con S(n2) = S(n) − 7, dove S è la funzione somma dei divisori*
 
 > Per un intero positivo $k$, $S(k)$ indica la somma di tutti i divisori positivi di $k$. Trova il numero intero positivo più piccolo $n$ tale da $S(n^2) = S(n) - 7$.
-
-[[Quesiti/src_jjmo9yq_yosen#q09|src_jjmo9yq_yosen__Q09]]
 
 
 
@@ -288,8 +270,6 @@ level: JJMO Yosen
 
 > Quanti integri positivi non superiori $1000$ hanno la proprietà che la somma delle loro cifre non cambia quando il numero è moltiplicato per $5$?
 
-[[Quesiti/src_jjmo9yq_yosen#q10|src_jjmo9yq_yosen__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,method_casework,method_simmetria,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
@@ -315,8 +295,6 @@ level: JJMO Yosen
 
 > I quadrati di unità di lunghezza laterale $1$ sono disposti in righe $8$ e colonne $8$ per formare un quadrato $8 \times 8$ $ABCD$. Alcuni di questi quadrati unitari devono essere colorati (pintati) soggetti alle seguenti tre condizioni:\n\n$\bullet$ L'arrangiamento dei quadrati colorati è simmetrico rispetto a entrambe le diagonali $AC$ e $BD$ del quadrato.\n$\bullet$ In ogni riga, al massimo un quadrato unitario è colorato.\n$\bullet$ In ogni colonna, al massimo un quadrato unitario è colorato.\n\nQuante colorazioni sono possibili (compresa la colorazione in cui nessun quadrato è colorato)?
 
-[[Quesiti/src_jjmo9yq_yosen#q11|src_jjmo9yq_yosen__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -341,5 +319,3 @@ level: JJMO Yosen
 *Area del triangolo ABC dato incentro I, circoncentro O, AB=2, AC=3, angolo AIO=90°*
 
 > $I$ sia l'incentro e $O$ il circoncentro del triangolo $ABC$. Date $AB = 2$, $AC = 3$ e $\angle AIO = 90^\circ$, si trova l'area del triangolo $ABC$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
-
-[[Quesiti/src_jjmo9yq_yosen#q12|src_jjmo9yq_yosen__Q12]]

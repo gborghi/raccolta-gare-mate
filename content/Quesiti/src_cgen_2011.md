@@ -49,8 +49,6 @@ level: Concours Général
 
 ![[src_cgen_2011__q01.png]]
 
-[[Quesiti/src_cgen_2011#q01|src_cgen_2011__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,method_estremalita,skill_conteggio_sistematico,skill_casework_accurato,skill_modellizzazione"></span>
@@ -103,8 +101,6 @@ level: Concours Général
 > **d.** Risolvi $n$. Come si scelgono gli enti $a_1, \ldots, a_n$ in modo che la capacità $C(a_1, \ldots, a_n)$ sia il più grande possibile?
 > 
 > **2. Con il cambio.** Il commerciante al quale il nostro acquirente va a fare acquisti ha anche una borsa, che gli consente di dare il cambio. Fissamo gli integri $n$ e $p$. Chiamiamo *capacità comune* il numero intero più grande $M$ in modo che si possa pagare (cioè effettuare l'operazione) ogni importo intero da $1$ a $M$. Come si possono scegliere i portafogli $(a_1, \ldots, a_n)$ dell'acquirente e $(v_1, \ldots, v_p)$ del venditore, in modo da offrire la massima capacità comune possibile?
-
-[[Quesiti/src_cgen_2011#q02|src_cgen_2011__Q02]]
 
 
 
@@ -186,5 +182,3 @@ level: Concours Général
 > **d.** Esempio: prendere $n = 5$; dire se esiste una soluzione al problema e, se sì, costruirla.
 > 
 > **e.** La stessa domanda con $n = 7$ e poi $n = 9$.
-
-[[Quesiti/src_cgen_2011#q03|src_cgen_2011__Q03]]

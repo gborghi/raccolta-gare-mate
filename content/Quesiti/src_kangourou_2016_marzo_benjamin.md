@@ -49,7 +49,6 @@ level: kangourou
 > E) One twelfth
 
 **Answer:** E
-[[Quesiti/src_kangourou_2016_marzo_benjamin#q01|src_kangourou_2016_marzo_benjamin__Q01]]
 
 
 
@@ -89,7 +88,6 @@ level: kangourou
 > A 10 cm long thread is folded into equal parts as shown in the figure. If the thread is cut where indicated by the dashed lines, how many centimeters are the resulting three pieces of wire? A) 2, 3, 5 B) 2, 2, 6 C) 1, 4, 5 D) 1, 3, 6 E) 3, 3, 4
 
 **Answer:** A
-[[Quesiti/src_kangourou_2016_marzo_benjamin#q02|src_kangourou_2016_marzo_benjamin__Q02]]
 
 
 
@@ -141,7 +139,6 @@ level: kangourou
 > E) 6
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_marzo_benjamin#q03|src_kangourou_2016_marzo_benjamin__Q03]]
 
 
 
@@ -178,7 +175,6 @@ level: kangourou
 > Which of the following road signs has the most axes of symmetry? A) B) C)	              D) E)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_marzo_benjamin#q04|src_kangourou_2016_marzo_benjamin__Q04]]
 
 
 
@@ -250,7 +246,6 @@ level: kangourou
 > E) 50
 
 **Answer:** E
-[[Quesiti/src_kangourou_2016_marzo_benjamin#q05|src_kangourou_2016_marzo_benjamin__Q05]]
 
 
 
@@ -298,7 +293,6 @@ The manufacturer shall provide the manufacturer with the following information:
 >
 
 **Answer:** D
-[[Quesiti/src_kangourou_2016_marzo_benjamin#q06|src_kangourou_2016_marzo_benjamin__Q06]]
 
 
 
@@ -350,7 +344,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) 6
 
 **Answer:** B
-[[Quesiti/src_kangourou_2016_marzo_benjamin#q07|src_kangourou_2016_marzo_benjamin__Q07]]
 
 
 
@@ -401,7 +394,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) 6
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_marzo_benjamin#q08|src_kangourou_2016_marzo_benjamin__Q08]]
 
 
 
@@ -453,7 +445,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) 4
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_marzo_benjamin#q09|src_kangourou_2016_marzo_benjamin__Q09]]
 
 
 
@@ -504,7 +495,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > Questions from No. 11 to No. 20 are worth 4 points each
 
 **Answer:** E
-[[Quesiti/src_kangourou_2016_marzo_benjamin#q10|src_kangourou_2016_marzo_benjamin__Q10]]
 
 
 
@@ -543,7 +533,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > Which of the figures you see in the answers cannot be obtained by partially overlapping these two identical squares of paper? A) B) C) D) E)
 
 **Answer:** A
-[[Quesiti/src_kangourou_2016_marzo_benjamin#q11|src_kangourou_2016_marzo_benjamin__Q11]]
 
 
 
@@ -593,7 +582,6 @@ The manufacturer shall provide the manufacturer with the following information:
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_marzo_benjamin#q12|src_kangourou_2016_marzo_benjamin__Q12]]
 
 
 
@@ -646,7 +634,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) E
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_marzo_benjamin#q13|src_kangourou_2016_marzo_benjamin__Q13]]
 
 
 
@@ -692,7 +679,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) 5
 
 **Answer:** D
-[[Quesiti/src_kangourou_2016_marzo_benjamin#q14|src_kangourou_2016_marzo_benjamin__Q14]]
 
 
 
@@ -728,7 +714,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > A strip of paper has the number 2581953764. Gianni cuts the strip at two points, getting three numbers, then adds those three numbers. What is the smallest sum he can get? A) 2675 B) 2975 C) 2978 D) 4217 E) 4298
 
 **Answer:** B
-[[Quesiti/src_kangourou_2016_marzo_benjamin#q15|src_kangourou_2016_marzo_benjamin__Q15]]
 
 
 
@@ -766,7 +751,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > Fulvio's from the hairdresser. Looking in the mirror he sees the clock with the hands in this position. What position would you have been if you'd looked in the mirror 10 minutes ago? A) B) C) D) E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2016_marzo_benjamin#q16|src_kangourou_2016_marzo_benjamin__Q16]]
 
 
 
@@ -814,7 +798,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) 4
 
 **Answer:** A
-[[Quesiti/src_kangourou_2016_marzo_benjamin#q17|src_kangourou_2016_marzo_benjamin__Q17]]
 
 
 
@@ -871,7 +854,6 @@ The manufacturer shall provide the manufacturer with the following information:
 >
 
 **Answer:** D
-[[Quesiti/src_kangourou_2016_marzo_benjamin#q18|src_kangourou_2016_marzo_benjamin__Q18]]
 
 
 
@@ -919,7 +901,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) 12
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_marzo_benjamin#q19|src_kangourou_2016_marzo_benjamin__Q19]]
 
 
 
@@ -973,7 +954,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) It is impossible to establish. The questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2016_marzo_benjamin#q20|src_kangourou_2016_marzo_benjamin__Q20]]
 
 
 
@@ -1023,7 +1003,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > E)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2016_marzo_benjamin#q21|src_kangourou_2016_marzo_benjamin__Q21]]
 
 
 
@@ -1071,7 +1050,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) 8
 
 **Answer:** B
-[[Quesiti/src_kangourou_2016_marzo_benjamin#q22|src_kangourou_2016_marzo_benjamin__Q22]]
 
 
 
@@ -1149,7 +1127,6 @@ The manufacturer shall provide the manufacturer with the following information:
 >
 
 **Answer:** D
-[[Quesiti/src_kangourou_2016_marzo_benjamin#q23|src_kangourou_2016_marzo_benjamin__Q23]]
 
 
 
@@ -1197,7 +1174,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) 16
 
 **Answer:** B
-[[Quesiti/src_kangourou_2016_marzo_benjamin#q24|src_kangourou_2016_marzo_benjamin__Q24]]
 
 
 
@@ -1250,7 +1226,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) 18
 
 **Answer:** B
-[[Quesiti/src_kangourou_2016_marzo_benjamin#q25|src_kangourou_2016_marzo_benjamin__Q25]]
 
 
 
@@ -1295,7 +1270,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > C) D) E)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2016_marzo_benjamin#q26|src_kangourou_2016_marzo_benjamin__Q26]]
 
 
 
@@ -1349,7 +1323,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) 15
 
 **Answer:** D
-[[Quesiti/src_kangourou_2016_marzo_benjamin#q27|src_kangourou_2016_marzo_benjamin__Q27]]
 
 
 
@@ -1400,7 +1373,6 @@ The manufacturer shall provide the manufacturer with the following information:
 >
 
 **Answer:** E
-[[Quesiti/src_kangourou_2016_marzo_benjamin#q28|src_kangourou_2016_marzo_benjamin__Q28]]
 
 
 
@@ -1448,7 +1420,6 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) 108
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_marzo_benjamin#q29|src_kangourou_2016_marzo_benjamin__Q29]]
 
 
 
@@ -1511,4 +1482,3 @@ The manufacturer shall provide the manufacturer with the following information:
 > E
 
 **Answer:** E
-[[Quesiti/src_kangourou_2016_marzo_benjamin#q30|src_kangourou_2016_marzo_benjamin__Q30]]

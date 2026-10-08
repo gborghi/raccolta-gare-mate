@@ -41,8 +41,6 @@ level: JMO Honsen
 
 ![[src_jmo33hq_honsen__q01.png]]
 
-[[Quesiti/src_jmo33hq_honsen#q01|src_jmo33hq_honsen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
@@ -67,8 +65,6 @@ level: JMO Honsen
 *Nel triangolo acuto, la linea attraverso F parallela a XY incontra DY a P; prova AD perp EP*
 
 > Il $ABC$ deve essere un triangolo acuto con $D$, $E$, $F$ i punti medi dei lati $BC$, $CA$ e $AB$ rispettivamente. I piedi $X$ e $Y$ siano i piedi delle perpendicolari da $D$ alle linee $AB$ e $AC$ rispettivamente. La linea attraverso $F$ parallela alla linea $XY$ incontra la linea $DY$ in un punto $P$. Provare che le linee $AD$ e $EP$ sono perpendicolari.
-
-[[Quesiti/src_jmo33hq_honsen#q02|src_jmo33hq_honsen__Q02]]
 
 
 
@@ -101,8 +97,6 @@ level: JMO Honsen
 > 
 > (Quindi, quando $n = 0$ il conteggio è $0$, quindi la condizione è soddisfatta a vuoto per $n = 0$.)
 
-[[Quesiti/src_jmo33hq_honsen#q03|src_jmo33hq_honsen__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato,skill_riconoscimento_pattern"></span>
@@ -129,8 +123,6 @@ level: JMO Honsen
 *Ricerca tutti gli integri positivi n per i quali (phi(n)^phi(n) - 1) / d(n) non è un intero*
 
 > Trovare tutti gli integri positivi $n$ in modo che $$\frac{\varphi(n)^{\varphi(n)} - 1}{d(n)}$$ non sia un intero. Qui $\varphi(n)$ indica il numero di integri da $1$ a $n$ che sono copriemi a $n$ (funzione totiente di Euler), e $d(n)$ indica il numero di divisori positivi di $n$.
-
-[[Quesiti/src_jmo33hq_honsen#q04|src_jmo33hq_honsen__Q04]]
 
 
 
@@ -165,5 +157,3 @@ level: JMO Honsen
 > Per qualsiasi bizione $f : S \to S$, esiste una bizione $g : S \to S$ tale che $$\sum_{k=1}^{3000} \Bigl(\max\{f(f(k)),\, f(g(k)),\, g(f(k)),\, g(g(k))\} - \min\{f(f(k)),\, f(g(k)),\, g(f(k)),\, g(g(k))\}\Bigr) \ge X.$$
 > 
 > Qui, una bijezione da $S$ a $S$ è una funzione $f : S \to S$ tale che per ogni elemento $y \in S$ esiste esattamente un elemento $x \in S$ con $f(x) = y$. Per i numeri interi positivi $x_1, x_2, x_3, x_4$, $\max\{x_1, x_2, x_3, x_4\}$ e $\min\{x_1, x_2, x_3, x_4\}$ indicano rispettivamente il loro massimo e il loro minimo.
-
-[[Quesiti/src_jmo33hq_honsen#q05|src_jmo33hq_honsen__Q05]]

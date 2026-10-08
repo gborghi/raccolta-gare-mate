@@ -86,8 +86,6 @@ level: Concours Général
 > 
 > \textbf{5.} Ammettiamo la relazione, per ogni reale $x$, $$(2x+12)^3 + (2x+4)^3 + (2x+2)^3 - (2x+10)^3 - (2x+6)^3 - (2x)^3 = 288.$$
 
-[[Quesiti/src_cgen_2016#q01|src_cgen_2016__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_analitica,topic_aritmetica,method_coordinate,method_congruenze,method_simmetria,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -170,8 +168,6 @@ level: Concours Général
 > Concludere che se l'osservatore vede la foresta attraverso la prima riga, allora vede fuori dalla foresta.
 
 ![[src_cgen_2016__q02.png]]
-
-[[Quesiti/src_cgen_2016#q02|src_cgen_2016__Q02]]
 
 
 
@@ -304,5 +300,3 @@ level: Concours Général
 > \textbf{c.} Deduci, per ogni numero intero $n \ge 1$, che $E(X_n) \le q + q^2 + \cdots + q^n$.
 > 
 > Conclusione.
-
-[[Quesiti/src_cgen_2016#q03|src_cgen_2016__Q03]]

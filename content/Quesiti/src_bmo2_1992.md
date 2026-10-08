@@ -33,8 +33,6 @@ level: BMO Round 2
 
 > $p$ sia un numero primo impar. Prove che esistono unici integri positivi $x, y$ come $x^2 = y(y + p)$, e fornisca le formule per $x$ e $y$ in termini di $p$.
 
-[[Quesiti/src_bmo2_1992#q01|src_bmo2_1992__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima"></span>
@@ -60,8 +58,6 @@ level: BMO Round 2
 *Ineguaglianza che limita una somma di reciprocità di somme a tre termini tra due espressioni.*
 
 > Lasciate che $a, b, c, d$ siano numeri reali positivi. Provare che $$\frac{12}{a+b+c+d} \le \frac{1}{a+b} + \frac{1}{a+c} + \frac{1}{a+d} + \frac{1}{b+c} + \frac{1}{b+d} + \frac{1}{c+d} \le \frac{3}{4}\left(\frac{1}{a} + \frac{1}{b} + \frac{1}{c} + \frac{1}{d}\right).$$
-
-[[Quesiti/src_bmo2_1992#q02|src_bmo2_1992__Q02]]
 
 
 
@@ -89,8 +85,6 @@ level: BMO Round 2
 *Un triangolo il cui radio di circonferenza soddisfa AB^2+AC^2=BC^2-R^2; dimostrare che gli angoli sono determinati in modo unico e trovarli.*
 
 > Il circoncircolo del triangolo $ABC$ ha un raggio $R$ soddisfacente $$AB^2 + AC^2 = BC^2 - R^2.$$ Prove che gli angoli del triangolo sono determinati in modo unico, e indicare i valori per gli angoli.
-
-[[Quesiti/src_bmo2_1992#q03|src_bmo2_1992__Q03]]
 
 
 
@@ -142,5 +136,3 @@ level: BMO Round 2
 > (i) dimostrare che il numero di nani deve essere pari superiore a $2$ e che, corrispondendo a ciascuna pari $n > 2$, può esistere una tale comunità di nani $n$.
 > 
 > (ii) Gli orchi malvagi vogliono isolare un gruppo di nani dal resto della comunità. Per fare questo devono distruggere un certo insieme di amicizie. Supponiamo che abbiano successo distruggendo $$F_d \text{ doorstep friendships}, \quad F_t \text{ tea friendships}, \quad F_s \text{ supper friendships},$$ e che tutte queste amicizie debbano essere distrutte per isolare quel gruppo. Prove che $F_d, F_t, F_s$ dovrebbe essere tutto pari o tutto impar.
-
-[[Quesiti/src_bmo2_1992#q04|src_bmo2_1992__Q04]]

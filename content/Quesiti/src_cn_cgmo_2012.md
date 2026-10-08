@@ -35,8 +35,6 @@ level: China Girls' Mathematical Olympiad
 
 > $a_1$, $a_2$, $\ldots$, $a_n$ siano $n$ numeri reali non negativi. Prove che $$\frac{1}{1+a_1} + \frac{a_1}{(1+a_1)(1+a_2)} + \cdots + \frac{a_1 a_2 \cdots a_{n-1}}{(1+a_1)(1+a_2)\cdots(1+a_n)} \le 1.$$ (posato da Ai Yinghua)
 
-[[Quesiti/src_cn_cgmo_2012#q01|src_cn_cgmo_2012__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -69,8 +67,6 @@ level: China Girls' Mathematical Olympiad
 
 ![[src_cn_cgmo_b11_w209__q02.png]]
 
-[[Quesiti/src_cn_cgmo_2012#q02|src_cn_cgmo_2012__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -95,8 +91,6 @@ level: China Girls' Mathematical Olympiad
 *Ricerca tutte le coppie di numeri interi (a,b) con condizione di divisore comune*
 
 > Trova tutte le coppie di integri $(a, b)$ che soddisfano la seguente condizione: esiste un intero $d \ge 2$ tale che $a^n + b^n + 1$ sia divisibile da $d$ per qualsiasi intero positivo $n$. (Possibile da Chen Yonggao)
-
-[[Quesiti/src_cn_cgmo_2012#q03|src_cn_cgmo_2012__Q03]]
 
 
 
@@ -127,8 +121,6 @@ level: China Girls' Mathematical Olympiad
 
 ![[src_cn_cgmo_b11_w217__q05.png]]
 
-[[Quesiti/src_cn_cgmo_2012#q05|src_cn_cgmo_2012__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_grafi,method_estremalita,method_colorazione,method_casework,skill_modellizzazione,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
@@ -156,7 +148,6 @@ level: China Girls' Mathematical Olympiad
 > Ci sono città ($n \ge 2$) e due compagnie aeree in un paese. Tra due città, esiste esattamente un volo a due vie che li collega e che è gestito da una delle due compagnie. Una matematica femminile pianifica un percorso di viaggio, in modo che inizia e finisca nella stessa città, attraversa almeno altre due città e ogni città del percorso viene visitata una volta. Scopre che, ovunque inizi e qualunque sia la rotta che sceglie, deve prendere voli di entrambe le compagnie. Trova il valore massimo di $n$. (Posizionato da Liang Yingde)
 
 **Risposta:** 4
-[[Quesiti/src_cn_cgmo_2012#q06|src_cn_cgmo_2012__Q06]]
 
 
 
@@ -185,4 +176,3 @@ level: China Girls' Mathematical Olympiad
 > Trova il numero di integri $k$ nell'insieme $\{0, 1, 2, \ldots, 2012\}$ in modo tale che il numero di combinazione $\binom{2012}{k}$ sia un multiple di $2012$. (Posizionato da Wang Bin)
 
 **Risposta:** 1498
-[[Quesiti/src_cn_cgmo_2012#q08|src_cn_cgmo_2012__Q08]]

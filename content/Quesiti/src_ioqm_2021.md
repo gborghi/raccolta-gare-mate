@@ -33,8 +33,6 @@ level: IOQM
 
 > Nel piano sono tracciate tre linee parallele $l_1, l_2, l_3$ in modo tale che la distanza perpendicolare tra $l_1$ e $l_2$ sia 3 e la distanza perpendicolare tra $l_2$ e $l_3$ sia anche 3. Un quadrato $ABCD$ è costruito in modo tale che $A$ si trova su $l_1$, $B$ si trova su $l_2$, $C$ si trova su $l_2$ e $D$ si trova su $l_3$. Trova l'area della piazza.
 
-[[Quesiti/src_ioqm_2021#q01|src_ioqm_2021__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_casework,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
@@ -59,8 +57,6 @@ level: IOQM
 *Numeri da 1 a 101 scritti in rosso/blu; contare i numeri rossi con vincoli*
 
 > Ria scrive i numeri $1, 2, \ldots, 101$ in penne rosse e blu. Il numero blu più grande è pari al numero di numeri scritti in blu e il numero rosso più piccolo è pari alla metà del numero di numeri scritti in rosso. Quanti numeri ha scritto Ria con la penna rossa?
-
-[[Quesiti/src_ioqm_2021#q02|src_ioqm_2021__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: IOQM
 
 > Considerate l'insieme $\mathcal{T}$ di tutti i triangoli i cui lati sono numeri primi distinti che sono anche in progressione aritmetica. $\triangle \in \mathcal{T}$ sia il triangolo con il minimo perimetro. Se $a^\circ$ è l'angolo più grande di $\triangle$ e $L$ è il suo perimetro, determinare il valore di $\dfrac{a}{L}$.
 
-[[Quesiti/src_ioqm_2021#q03|src_ioqm_2021__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_fattorizzazione,skill_lettura_attenta,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -113,8 +107,6 @@ level: IOQM
 *numeri a 6 cifre con solo cifre a,b,c; somma 5939399406; maggior rimanente di abc mod 100*
 
 > Considerate l'insieme di tutti i numeri a 6 cifre composti solo da 3 cifre, $a, b, c$ sono distinti. Supponiamo che la somma di tutti questi numeri sia 5939399406. Qual è il maggior residuo quando il numero a tre cifre $\overline{abc}$ è diviso da $100$?
-
-[[Quesiti/src_ioqm_2021#q04|src_ioqm_2021__Q04]]
 
 
 
@@ -141,8 +133,6 @@ level: IOQM
 
 > Nel parallelo $ABCD$ il lato più lungo è il doppio del lato più breve. Il $XYZW$ è il quadrilaterale formato dai bisettori interni degli angoli di $ABCD$. Se l'area di $XYZW$ è 10, si trova l'area di $ABCD$.
 
-[[Quesiti/src_ioqm_2021#q05|src_ioqm_2021__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -168,8 +158,6 @@ level: IOQM
 
 > $x, y, z$ siano numeri reali positivi come $x^2 + y^2 + z^2 = 49$, $xy + yz + zx = 36$ e $x^2 + \sqrt{3}xy + z^2 = 25$. Se il valore di $2xy + \sqrt{3}yz + sx$ può essere scritto come $p\sqrt{q}$ dove $p, q$ sono numeri interi e $q$ non è divisibile da un numero primo, trovare $p + q$.
 
-[[Quesiti/src_ioqm_2021#q06|src_ioqm_2021__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_conteggio,method_bigezione,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -194,8 +182,6 @@ level: IOQM
 *Contare le mappe non in diminuzione da {1,2,3} a {1,2,3,4,5}*
 
 > Trova il numero di mappe $f : \{1, 2, 3\} \to \{1, 2, 3, 4, 5\}$ in modo tale che $f(i) \le f(j)$ ogni volta che $i < j$.
-
-[[Quesiti/src_ioqm_2021#q07|src_ioqm_2021__Q07]]
 
 
 
@@ -224,8 +210,6 @@ level: IOQM
 
 > Per qualsiasi numero reale $t$, $[t]$ indichi il numero intero più grande $\le t$. Supponiamo che $N$ sia il numero intero più grande tale che $$\left[\sqrt{\left[\sqrt{N}\right]}\right] = 4$$ Trova la somma delle cifre di $N$.
 
-[[Quesiti/src_ioqm_2021#q08|src_ioqm_2021__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_analitica,topic_algebra,method_ricorsione,method_coordinate,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
@@ -252,8 +236,6 @@ level: IOQM
 *Sequenza P_n definita da ricorrenza lineare; area del pentagono P0, P2, P4, P6, P8*
 
 > Indicare $P_0 = (3, 1)$ e definire $P_{n+1} = (x_{n+1}, y_{n+1})$ per $n \ge 0$ con $$x_{n+1} = \frac{3x_n - y_n}{2}, \quad y_{n+1} = \frac{x_n + y_n}{2}$$ Indicare l'area del quadrilaterale formato dai punti $P_0, P_2, P_4, P_6, P_8$.
-
-[[Quesiti/src_ioqm_2021#q09|src_ioqm_2021__Q09]]
 
 
 
@@ -282,8 +264,6 @@ level: IOQM
 
 > Supponiamo che $P$ sia il polinomio di grado minimo con coefficienti interi tali che $$P(\sqrt{7} + \sqrt{5}) = 2(\sqrt{7} - \sqrt{5})$$ Trova $P(2)$.
 
-[[Quesiti/src_ioqm_2021#q10|src_ioqm_2021__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,method_inclusione_esclusione,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -309,8 +289,6 @@ level: IOQM
 
 > In quanti modi quattro coppie sposate possono sedersi in un giro con sedi identici in modo tale che uomini e donne occupino sedi alternativi e nessun marito si sedi accanto alla moglie?
 
-[[Quesiti/src_ioqm_2021#q11|src_ioqm_2021__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,method_estremalita,method_cassetti,method_inclusione_esclusione,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_stima"></span>
@@ -335,5 +313,3 @@ level: IOQM
 *12x12 tabella; corve N minime per garantire 7 reciprocamente non attaccanti*
 
 > Una tabella $12 \times 12$ è divisa in 144 quadrati unitari disegnando linee parallele ai lati. Si dice che due corve posizionate su due quadrati di unità non attaccano se non sono nella stessa colonna o nella stessa riga. Trovare il numero minimo $N$ in modo che se le corde $N$ sono posizionate sui quadrati di unità, una torre per quadrato, possiamo sempre trovare 7 corde in modo che non ci siano due che si attaccano.
-
-[[Quesiti/src_ioqm_2021#q12|src_ioqm_2021__Q12]]

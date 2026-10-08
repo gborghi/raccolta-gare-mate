@@ -100,8 +100,6 @@ level: Concours Général
 > 
 > 10. Determinare il limite di $\dfrac{u_n - 1 - \dfrac{2}{n}}{\dfrac{1}{n}}$ quando $n$ tende a $+\infty$.
 
-[[Quesiti/src_cgen_2024#q01|src_cgen_2024__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_probabilita,topic_combinatoria,method_casework,method_conteggio,method_ricorsione,skill_modellizzazione,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -226,8 +224,6 @@ Gioco di probabilità con scatole opache che nascondono dolci; scelte in stile M
 > Evariste, un'amica di Sophie e Germain, decide di dare loro un pacchetto di caramelle se giocano un'ultima partita (sempre alle stesse condizioni) e se, alla fine di questa partita, Sophie trova la scatola giusta. Germain ha l'obbligo di mettere il pacchetto in una scatola a caso, senza avere il diritto di comunicare a Sophie la scatola in cui ha messo il pacchetto. Prima di iniziare questo gioco finale, Sophie e Germain possono concordare una strategia comune?
 > 
 > 9. Per quali valori di $n \ge 3$ possono Sophie e Germain ideare una strategia comune che assicuri che Sophie trovi la scatola con il pacchetto?
-
-[[Quesiti/src_cgen_2024#q02|src_cgen_2024__Q02]]
 
 
 
@@ -424,5 +420,3 @@ Gioco di probabilità con scatole opache che nascondono dolci; scelte in stile M
 > 20. Dimostrare che la proprietà $\mathbf{P}_\cup$ è soddisfatta se e solo se $\max\{\alpha\,;\beta\} = 1$, o $\alpha$ e $\beta$ sono due numeri irrazionali strettamente inferiori a $1$ per i quali esistono due integri $u \ge 1$ e $v \ge 1$ tali da $u(1-\alpha) + v(1-\beta) = 1$.
 > 
 > 21. Esistono tre valori rigorosamente positivi $\alpha$, $\beta$ e $\gamma$ per i quali gli insiemi $\mathcal{E}(\alpha)$, $\mathcal{E}(\beta)$ e $\mathcal{E}(\gamma)$ sono disconnessi in coppia?
-
-[[Quesiti/src_cgen_2024#q03|src_cgen_2024__Q03]]

@@ -33,8 +33,6 @@ level: OBM Nível 3
 
 > Qual è il numero intero positivo più piccolo che è il doppio di un cubo perfetto e il quintuplico di un quadrato perfetto?
 
-[[Quesiti/src_obm_2001_n3_f2#q01|src_obm_2001_n3_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -64,8 +62,6 @@ level: OBM Nível 3
 
 ![[src_obm_2001_n3_f2__q02.png]]
 
-[[Quesiti/src_obm_2001_n3_f2#q02|src_obm_2001_n3_f2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -94,8 +90,6 @@ level: OBM Nível 3
 > Il trapezoide $ABCD$ ha basi $AB \parallel CD$. Il lato $DA$ è lungo $x$ e il lato $BC$ è lungo $2x$. La somma degli angoli $\angle DAB + \angle ABC = 120^\circ$. Determinare l'angolo $\angle DAB$.
 
 ![[src_obm_2001_n3_f2__q03.png]]
-
-[[Quesiti/src_obm_2001_n3_f2#q03|src_obm_2001_n3_f2__Q03]]
 
 
 
@@ -130,8 +124,6 @@ Campionato veneziano di calcio: trovare punti minimi per il Vulcano FC per garan
 > 
 > b) Determinare il minimo $n$ in modo tale che, se il Vulcano FC accumula $n$ punti al secondo turno, questo garantisca al Vulcano FC un posto nella finale (indipendentemente dal numero di punti accumulati dall'avversario e dai punteggi delle altre squadre).
 
-[[Quesiti/src_obm_2001_n3_f2#q04|src_obm_2001_n3_f2__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_telescoping,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -158,8 +150,6 @@ Campionato veneziano di calcio: trovare punti minimi per il Vulcano FC per garan
 *Evaluare l'espressione somma radicale incastonata ed esprimere come p/q razionale*
 
 > Il numero $$S = \sum_{a=1}^{2000} \sqrt{1 + \frac{1}{a^2} + \frac{1}{(a+1)^2}}$$ è razionale; si esprime nella forma $\dfrac{p}{q}$, dove $p$ e $q$ sono integri positivi.
-
-[[Quesiti/src_obm_2001_n3_f2#q05|src_obm_2001_n3_f2__Q05]]
 
 
 
@@ -193,5 +183,3 @@ Campionato veneziano di calcio: trovare punti minimi per il Vulcano FC per garan
 > a) Per quali valori di $n$ è scelto il primo studente nel cerchio (colui che inizia il conteggio)?
 > 
 > b) Se nel cerchio iniziale ci sono studenti $192$, qual è la posizione nel cerchio dello studente scelto?
-
-[[Quesiti/src_obm_2001_n3_f2#q06|src_obm_2001_n3_f2__Q06]]

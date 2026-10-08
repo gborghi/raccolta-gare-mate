@@ -35,8 +35,6 @@ level: Olimpiade Polacca Round 3
 
 > I polinomi $u_i(x) = a_i x + b_i$ ($a_i, b_i \in \mathbb{R}$, $i = 1, 2, 3$) soddisfano $$u_1(x)^n + u_2(x)^n = u_3(x)^n \quad \text{for some integer } n \ge 2.$$ Prove che esistono numeri reali $A$, $B$, $c_1$, $c_2$, $c_3$ tali da $u_i(x) = c_i(Ax + B)$ per $i = 1, 2, 3$.
 
-[[Quesiti/src_pol_1972_r3#q01|src_pol_1972_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_combinatoria,method_estremalita,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -62,8 +60,6 @@ level: Olimpiade Polacca Round 3
 
 > Sul piano sono indicati i punti $n > 2$, di cui non tre sono collineari. Prove che tra tutte le linee poligonali chiuse che attraversano questi punti, qualsiasi con la lunghezza minima non è autointersezione.
 
-[[Quesiti/src_pol_1972_r3#q02|src_pol_1972_r3__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,skill_manipolazione_algebrica,skill_stima"></span>
@@ -87,8 +83,6 @@ level: Olimpiade Polacca Round 3
 *C'è un polinomio a coefficiente interi che si approssimano da 1/2 a 1/1000 su [1/10, 2/10].*
 
 > Prova che esiste un polinomio $P(x)$ con coeficienti interi in modo che per tutti $x$ nell'intervallo $\left[\frac{1}{10}, \frac{2}{10}\right]$ abbiamo $\left|P(x) - \frac{1}{2}\right| < \frac{1}{1000}$.
-
-[[Quesiti/src_pol_1972_r3#q03|src_pol_1972_r3__Q03]]
 
 
 
@@ -115,8 +109,6 @@ level: Olimpiade Polacca Round 3
 
 > I punti $A$ e $B$ sono indicati su una linea senza punti comuni con una sfera $K$. I piedi $P$ della perpendicolare dal centro di $K$ alla linea $AB$ sono posizionati tra $A$ e $B$, e le lunghezze dei segmenti $AP$ e $BP$ superano entrambi il raggio di $K$. Si consideri l'insieme $Z$ di tutti i triangoli $ABC$ i cui lati $AC$ e $BC$ sono tangenti a $K$. Prova che tra tutti i triangoli di $Z$, un triangolo $T$ con un perimetro massimo ha anche una superficie massima.
 
-[[Quesiti/src_pol_1972_r3#q04|src_pol_1972_r3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_induzione,method_bigezione,skill_conteggio_sistematico,skill_astrazione"></span>
@@ -142,8 +134,6 @@ level: Olimpiade Polacca Round 3
 
 > Prova che tutti i sottosetti di un insieme finito possono essere organizzati in una sequenza in cui ogni due sottosetti successivi differiscono in un elemento esatto.
 
-[[Quesiti/src_pol_1972_r3#q05|src_pol_1972_r3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,method_estremalita,skill_manipolazione_algebrica,skill_stima"></span>
@@ -168,5 +158,3 @@ level: Olimpiade Polacca Round 3
 *La somma digitali di 1972^n è illimitata in quanto n tende all'infinito.*
 
 > Prova che la somma dei numeri $1972^n$ non è limitata dall'alto quando $n$ tende all'infinito.
-
-[[Quesiti/src_pol_1972_r3#q06|src_pol_1972_r3__Q06]]

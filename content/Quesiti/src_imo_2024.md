@@ -41,8 +41,6 @@ level: IMO
 > 
 > (Nota che $\lfloor z \rfloor$ indica il massimo intero minore o uguale a $z$. Per esempio, $\lfloor -\pi \rfloor = -4$ e $\lfloor 2 \rfloor = \lfloor 2.9 \rfloor = 2$.)
 
-[[Quesiti/src_imo_2024#q01|src_imo_2024__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,skill_riconoscimento_pattern"></span>
@@ -75,8 +73,6 @@ level: IMO
 > sia verificata per ogni intero $n \geq N$.
 > 
 > (Nota che $\gcd(x, y)$ indica il massimo comun divisore degli interi $x$ e $y$.)
-
-[[Quesiti/src_imo_2024#q02|src_imo_2024__Q02]]
 
 
 
@@ -111,8 +107,6 @@ level: IMO
 > 
 > (Una successione infinita $b_1, b_2, b_3, \ldots$ è definitivamente periodica se esistono interi positivi $p$ e $M$ tali che $b_{m+p} = b_m$ per ogni $m \geq M$.)
 
-[[Quesiti/src_imo_2024#q03|src_imo_2024__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
@@ -141,8 +135,6 @@ level: IMO
 > Sia $ABC$ un triangolo con $AB < AC < BC$. Siano $I$ e $\omega$ rispettivamente l'incentro e la circonferenza inscritta del triangolo $ABC$. Sia $X$ il punto sulla retta $BC$ diverso da $C$ tale che la retta passante per $X$ parallela a $AC$ sia tangente a $\omega$. Analogamente, sia $Y$ il punto sulla retta $BC$ diverso da $B$ tale che la retta passante per $Y$ parallela a $AB$ sia tangente a $\omega$. Sia $AI$ che interseca nuovamente la circonferenza circoscritta al triangolo $ABC$ nel punto $P \neq A$. Siano $K$ e $L$ i punti medi dei segmenti $AC$ e $AB$, rispettivamente.
 > 
 > Si dimostri che $\angle KIL + \angle YPX = 180^\circ$.
-
-[[Quesiti/src_imo_2024#q04|src_imo_2024__Q04]]
 
 
 
@@ -177,8 +169,6 @@ level: IMO
 > 
 > Determinare il valore minimo di $n$ per cui Turbo ha una strategia che garantisce di raggiungere la riga finale entro il tentativo $n$-esimo o in precedenza, indipendentemente dalle posizioni dei mostri.
 
-[[Quesiti/src_imo_2024#q05|src_imo_2024__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_funzionali,skill_manipolazione_algebrica"></span>
@@ -208,5 +198,3 @@ level: IMO
 > $$f(x + f(y)) = f(x) + y \quad \text{or} \quad f(f(x) + y) = x + f(y).$$
 > 
 > Si dimostri che esiste un intero $c$ tale che per ogni funzione aquaesuliana $f$ esistono al più $c$ numeri razionali distinti della forma $f(r) + f(-r)$ per qualche numero razionale $r$, e si determini il valore più piccolo possibile di $c$.
-
-[[Quesiti/src_imo_2024#q06|src_imo_2024__Q06]]

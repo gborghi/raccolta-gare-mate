@@ -40,8 +40,6 @@ level: INMO
 
 ![[src_inmo_2001__q01.png]]
 
-[[Quesiti/src_inmo_2001#q01|src_inmo_2001__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -69,8 +67,6 @@ level: INMO
 
 > Mostrare che l'equazione $$x^2 + y^2 + z^2 = (x - y)(y - z)(z - x)$$ ha infinite soluzioni in numeri interi $x, y, z$.
 
-[[Quesiti/src_inmo_2001#q02|src_inmo_2001__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_disuguaglianze,method_disuguaglianze,method_simmetria,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -97,8 +93,6 @@ Se abc=1 con a,b,c valori reali positivi, dimostrare a^(b+c)路b^(c+a)路c^(a+b)鈮
 
 > Se $a, b, c$ sono numeri reali positivi come $abc = 1$, dimostrare che $$a^{b+c} \cdot b^{c+a} \cdot c^{a+b} \le 1.$$
 
-[[Quesiti/src_inmo_2001#q03|src_inmo_2001__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_cassetti,method_congruenze,method_casework,skill_conteggio_sistematico,skill_casework_accurato,skill_ragionamento_geometrico"></span>
@@ -123,8 +117,6 @@ Se abc=1 con a,b,c valori reali positivi, dimostrare a^(b+c)路b^(c+a)路c^(a+b)鈮
 *Da nove numeri interi scegliete quattro con a+b-c-d divisibile per 20; otto numeri interi insufficienti*
 
 > Date nove numeri interi, mostrare che 猫 possibile scegliere, tra loro, quattro numeri interi $a, b, c, d$ in modo tale che $a + b - c - d$ sia divisibile da $20$. Inoltre mostrano che una tale selezione non 猫 possibile se iniziamo con otto numeri interi invece di nove.
-
-[[Quesiti/src_inmo_2001#q04|src_inmo_2001__Q04]]
 
 
 
@@ -155,8 +147,6 @@ Se abc=1 con a,b,c valori reali positivi, dimostrare a^(b+c)路b^(c+a)路c^(a+b)鈮
 
 ![[src_inmo_2001__q05.png]]
 
-[[Quesiti/src_inmo_2001#q05|src_inmo_2001__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_insiemi_funzioni,topic_algebra,method_casework,method_backward,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -183,5 +173,3 @@ Se abc=1 con a,b,c valori reali positivi, dimostrare a^(b+c)路b^(c+a)路c^(a+b)鈮
 *Trova tutte le f:R鈫扲 soddisfacenti f:x+y) =f:x)f:y:f:xy)*
 
 > $\mathbf{R}$ indichi l'insieme dei numeri reali. Trova tutte le funzioni $f : \mathbf{R} \to \mathbf{R}$ che soddisfano la condizione $$f(x + y) = f(x)f(y)f(xy)$$ per tutte le $x, y \in \mathbf{R}$.
-
-[[Quesiti/src_inmo_2001#q06|src_inmo_2001__Q06]]

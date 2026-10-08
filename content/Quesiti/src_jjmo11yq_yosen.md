@@ -39,7 +39,6 @@ level: JJMO Yosen
 ![[src_jjmo11yq_yosen__q01.png]]
 
 **Risposta:** 8/3
-[[Quesiti/src_jjmo11yq_yosen#q01|src_jjmo11yq_yosen__Q01]]
 
 
 
@@ -68,7 +67,6 @@ level: JJMO Yosen
 > Tra i numeri interi tra $1$ e $20$ inclusi, sono stati scelti numeri $10$ reciprocamente distinti e il prodotto di tali numeri $10$ è risultato essere $45405360000$. Indicare i numeri scelti $10$. L'ordine dei numeri $10$ non importa.
 
 **Risposta:** 5, 7, 10, 11, 12, 13, 14, 15, 18, 20
-[[Quesiti/src_jjmo11yq_yosen#q02|src_jjmo11yq_yosen__Q02]]
 
 
 
@@ -99,8 +97,7 @@ level: JJMO Yosen
 
 ![[src_jjmo11yq_yosen__q03.png]]
 
-**Risposta:** 200/3 degrees
-[[Quesiti/src_jjmo11yq_yosen#q03|src_jjmo11yq_yosen__Q03]]
+**Risposta:** 200/3 gradi
 
 
 
@@ -133,7 +130,6 @@ level: JJMO Yosen
 ![[src_jjmo11yq_yosen__q04.png]]
 
 **Risposta:** 12
-[[Quesiti/src_jjmo11yq_yosen#q04|src_jjmo11yq_yosen__Q04]]
 
 
 
@@ -162,7 +158,6 @@ level: JJMO Yosen
 > C'è un triangolo di uguali dimensioni $ABC$ in cui $\angle BAC$ è un angolo retto. C'è un punto $D$ sul lato $BC$ e un punto $E$ sul lato $CA$ con $\angle ADE=45^\circ$. Se $BD:DC=1:5$ viene dato, si trova $AE:EC$. Qui $\overline{XY}$ indica la lunghezza del segmento $XY$.
 
 **Risposta:** 13:5
-[[Quesiti/src_jjmo11yq_yosen#q05|src_jjmo11yq_yosen__Q05]]
 
 
 
@@ -191,7 +186,6 @@ level: JJMO Yosen
 > $a,b,c$ siano tre integri positivi reciprocamente distinti. Poiché le ultime due cifre del prodotto $abc$ sono $99$, si trova il valore più piccolo possibile di $a+b+c$.
 
 **Risposta:** 269
-[[Quesiti/src_jjmo11yq_yosen#q06|src_jjmo11yq_yosen__Q06]]
 
 
 
@@ -224,7 +218,6 @@ level: JJMO Yosen
 > Condizione: la linea attraverso i due vertici rossi e la linea attraverso i due vertici blu sono perpendicolari l'una all'altra.
 
 **Risposta:** 235250
-[[Quesiti/src_jjmo11yq_yosen#q07|src_jjmo11yq_yosen__Q07]]
 
 
 
@@ -253,7 +246,6 @@ level: JJMO Yosen
 > Quante coppie $(a,b)$ di numeri interi positivi esistono tali che $$\frac{201}{a}+\frac{3}{b}$$ sia un intero?
 
 **Risposta:** 34
-[[Quesiti/src_jjmo11yq_yosen#q08|src_jjmo11yq_yosen__Q08]]
 
 
 
@@ -282,7 +274,6 @@ level: JJMO Yosen
 > Quanti triples $(a,b,c)$ di numeri interi positivi sono tali che $a+b+c=2013$ e ciascuno di $a,b,c$ sia coprimo a $2013$?
 
 **Risposta:** 318600
-[[Quesiti/src_jjmo11yq_yosen#q09|src_jjmo11yq_yosen__Q09]]
 
 
 
@@ -311,7 +302,6 @@ level: JJMO Yosen
 > Si consideri un esagono regolare $ABCDEF$ con lunghezza laterale $1$. C'è un cerchio che attraversa i due punti $A$ e $C$, e un cerchio che attraversa i due punti $B$ e $D$; questi due cerchi si incrociano a un punto $P$ e a un punto $Q$. Trovare il minimo valore possibile della lunghezza del segmento $PQ$. Qui, si presume che i due cerchi siano distinti.
 
 **Risposta:** (2/3)*sqrt(6)
-[[Quesiti/src_jjmo11yq_yosen#q10|src_jjmo11yq_yosen__Q10]]
 
 
 
@@ -349,7 +339,6 @@ level: JJMO Yosen
 > Si noti che una cellula può essere una cellula buona e una cattiva allo stesso tempo. Qual è il valore più grande possibile di (numero di cellule buone) $-$ (numero di cellule cattive)?
 
 **Risposta:** 5050
-[[Quesiti/src_jjmo11yq_yosen#q11|src_jjmo11yq_yosen__Q11]]
 
 
 
@@ -378,4 +367,3 @@ level: JJMO Yosen
 > Nel piano c'è un cerchio di raggio inferiore a $1$. Sulla circonferenza di questo cerchio, si prendono i punti $2013$ reciprocamente distinti e si disegna un cerchio di raggio $1$ centrato su ciascuno di essi. Il confine della regione costituita da tutti i punti contenuti in ciascuno di questi cerchi unitari $2013$ aveva lunghezza $1$. Trova la lunghezza del confine della regione costituita da tutti i punti contenuti in almeno uno di questi cerchi unitari $2013$.
 
 **Risposta:** 4*pi - 1
-[[Quesiti/src_jjmo11yq_yosen#q12|src_jjmo11yq_yosen__Q12]]

@@ -36,8 +36,6 @@ level: kangourou
 
 **Answer:** 1
 
-[[Quesiti/src_kangourou_2026_ecolier_finale#qe1|src_kangourou_2026_ecolier_finale__QE1]]
-
 
 
 <span class="atom-split" id="qe2" data-atom="qe2" data-title="Quesito E2" data-tags="topic_aritmetica,skill_modellizzazione"></span>
@@ -64,8 +62,6 @@ level: kangourou
 > There are 20 families and in each of them there are 3 or 4 or 5 people and all these cases occur at least once. If altogether there are 63 people, how many families are made up of exactly 4 people?
 
 **Answer:** 1
-
-[[Quesiti/src_kangourou_2026_ecolier_finale#qe2|src_kangourou_2026_ecolier_finale__QE2]]
 
 
 
@@ -94,8 +90,6 @@ level: kangourou
 
 **Answer:** C
 
-[[Quesiti/src_kangourou_2026_ecolier_finale#qe3|src_kangourou_2026_ecolier_finale__QE3]]
-
 
 
 <span class="atom-split" id="qe4" data-atom="qe4" data-title="Quesito E4" data-tags="topic_geometria_solida,skill_modellizzazione"></span>
@@ -122,8 +116,6 @@ level: kangourou
 > On a flat roof, a mason has built a square-based chimney open at both the top and bottom. All four of its faces are 10 cm thick. To build the chimney, the mason used only whole bricks of dimensions (in centimeters) $10\times 10\times 20$. How many bricks did he use?
 
 **Answer:** 30
-
-[[Quesiti/src_kangourou_2026_ecolier_finale#qe4|src_kangourou_2026_ecolier_finale__QE4]]
 
 
 
@@ -152,8 +144,6 @@ level: kangourou
 
 **Answer:** 18, 38, 58, 78, 98
 
-[[Quesiti/src_kangourou_2026_ecolier_finale#qe5|src_kangourou_2026_ecolier_finale__QE5]]
-
 
 
 <span class="atom-split" id="qe6" data-atom="qe6" data-title="Quesito E6" data-tags="topic_aritmetica,skill_astrazione"></span>
@@ -180,5 +170,3 @@ level: kangourou
 > Three even integers are written on the board. Paolo erases one of them and replaces it with the sum of the other two decreased by 1. He repeats this operation on the new triple. Is it possible, starting from an appropriate triple and after performing several such operations, to obtain the triple $\{2025, 2026, 2027\}$?
 
 **Answer:** NO
-
-[[Quesiti/src_kangourou_2026_ecolier_finale#qe6|src_kangourou_2026_ecolier_finale__QE6]]

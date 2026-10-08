@@ -37,8 +37,7 @@ Logical riddle: the oldest animal of dogs, crickets and cats
 
 > My dog is older than my hamster, and my hamster is younger than my cat, who is in turn older than my dog. Which animal is the oldest?
 
-**Answer:** Il mio gatto
-[[Quesiti/src_bocconi_finaleint_2007_g1#q01|src_bocconi_finaleint_2007_g1__Q01]]
+**Answer:** My cat
 
 
 
@@ -66,7 +65,6 @@ Logical riddle: the oldest animal of dogs, crickets and cats
 > Three consecutive integers have the sum $2007$. Which is the largest of the three numbers?
 
 **Answer:** 670
-[[Quesiti/src_bocconi_finaleint_2007_g1#q02|src_bocconi_finaleint_2007_g1__Q02]]
 
 
 
@@ -98,7 +96,6 @@ Cube with constant sum on opposite faces: face opposite to 17
 ![[src_bocconi_finaleint_2007_g1__q03.png]]
 
 **Answer:** 13
-[[Quesiti/src_bocconi_finaleint_2007_g1#q03|src_bocconi_finaleint_2007_g1__Q03]]
 
 
 
@@ -131,7 +128,6 @@ Cube with constant sum on opposite faces: face opposite to 17
 ![[src_bocconi_finaleint_2007_g1__q04.png]]
 
 **Answer:** $13 \times 4 = 52$
-[[Quesiti/src_bocconi_finaleint_2007_g1#q04|src_bocconi_finaleint_2007_g1__Q04]]
 
 
 
@@ -164,7 +160,6 @@ Cube with constant sum on opposite faces: face opposite to 17
 ![[src_bocconi_finaleint_2007_g1__q05.png]]
 
 **Answer:** 23
-[[Quesiti/src_bocconi_finaleint_2007_g1#q05|src_bocconi_finaleint_2007_g1__Q05]]
 
 
 
@@ -193,7 +188,6 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 > For the school party, Mathias sold the tombstone tickets. The tickets were all numbered from the number $1$ and Mathias sold them in the order of their numbering. Mathias noted that he had sold exactly as many tickets with one of the numbers $0$, $2$ as tickets with none of these numbers. How many tickets did Mathias sell at least, knowing he sold more than two?
 
 **Answer:** 28
-[[Quesiti/src_bocconi_finaleint_2007_g1#q06|src_bocconi_finaleint_2007_g1__Q06]]
 
 
 
@@ -225,8 +219,7 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 
 ![[src_bocconi_finaleint_2007_g1__q07.png]]
 
-**Answer:** vedi griglia
-[[Quesiti/src_bocconi_finaleint_2007_g1#q07|src_bocconi_finaleint_2007_g1__Q07]]
+**Answer:** see grid
 
 
 
@@ -259,7 +252,6 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 ![[src_bocconi_finaleint_2007_g1__q08.png]]
 
 **Answer:** $\blacktriangle = 5$, $\blacksquare = 22$
-[[Quesiti/src_bocconi_finaleint_2007_g1#q08|src_bocconi_finaleint_2007_g1__Q08]]
 
 
 
@@ -287,8 +279,7 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 
 > Mathilde, on vacation, wants to buy a card for her friend Geo. He wants to pay for it with three different coins. It also prefers to give a coin of $0{,}50$ euro. The merchant then returns three different coins. What's the price of the card? The coins in use are the following: $0{,}01$ euro; $0{,}02$ euro; $0{,}05$ euro; $0{,}10$ euro; $0{,}20$ euro; $0{,}50$ euro; $1$ euro; $2$ euro.
 
-**Answer:** $0{,}23$ euro oppure $0{,}27$ euro
-[[Quesiti/src_bocconi_finaleint_2007_g1#q09|src_bocconi_finaleint_2007_g1__Q09]]
+**Answer:** $0{,}23$ euro or $0{,}27$ euro
 
 
 
@@ -321,7 +312,6 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 ![[src_bocconi_finaleint_2007_g1__q10.png]]
 
 **Answer:** 6 511 962
-[[Quesiti/src_bocconi_finaleint_2007_g1#q10|src_bocconi_finaleint_2007_g1__Q10]]
 
 
 
@@ -349,7 +339,6 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 > Two trains run in reverse between cities A and C, passing through B. Between A and B the speed and $250$ km/h during $2$ hours, and between B and C $360$ km in $3$ hours. The TGV number $1$ runs AC, and the TGV number $2$ runs CA, at $3$ km from their route. How long is the time between the departure of the two TGVs? (in hours, minutes and seconds).
 
 **Answer:** 1 h 33 min 36 s
-[[Quesiti/src_bocconi_finaleint_2007_g1#q11|src_bocconi_finaleint_2007_g1__Q11]]
 
 
 
@@ -381,8 +370,7 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 
 ![[src_bocconi_finaleint_2007_g1__q12.png]]
 
-**Answer:** vedi griglia
-[[Quesiti/src_bocconi_finaleint_2007_g1#q12|src_bocconi_finaleint_2007_g1__Q12]]
+**Answer:** see grid
 
 
 
@@ -415,7 +403,6 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 ![[src_bocconi_finaleint_2007_g1__q13.png]]
 
 **Answer:** $11\,552\ \mathrm{m}^2$
-[[Quesiti/src_bocconi_finaleint_2007_g1#q13|src_bocconi_finaleint_2007_g1__Q13]]
 
 
 
@@ -448,7 +435,6 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 ![[src_bocconi_finaleint_2007_g1__q14.png]]
 
 **Answer:** 7520
-[[Quesiti/src_bocconi_finaleint_2007_g1#q14|src_bocconi_finaleint_2007_g1__Q14]]
 
 
 
@@ -481,7 +467,6 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 ![[src_bocconi_finaleint_2007_g1__q15.png]]
 
 **Answer:** 50
-[[Quesiti/src_bocconi_finaleint_2007_g1#q15|src_bocconi_finaleint_2007_g1__Q15]]
 
 
 
@@ -513,8 +498,7 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 
 ![[src_bocconi_finaleint_2007_g1__q16.png]]
 
-**Answer:** vedi figura
-[[Quesiti/src_bocconi_finaleint_2007_g1#q16|src_bocconi_finaleint_2007_g1__Q16]]
+**Answer:** see figure
 
 
 
@@ -547,7 +531,6 @@ Oasis: Mira-Jeu - whole coconut, Ananas-Mira-Jeu-Banane angle of 135 degrees, Mi
 ![[src_bocconi_finaleint_2007_g1__q17.png]]
 
 **Answer:** 3 km, 17 km, 99 km
-[[Quesiti/src_bocconi_finaleint_2007_g1#q17|src_bocconi_finaleint_2007_g1__Q17]]
 
 
 
@@ -577,5 +560,3 @@ Oasis: Mira-Jeu - whole coconut, Ananas-Mira-Jeu-Banane angle of 135 degrees, Mi
 > A pile of sand and a convex polyhedron one of whose faces, called the base, and in contact with the ground. What's more, exactly three spikes pass through each vertex. Sand piles obtained from each other by translation, rotation and symmetry are considered equal. So you count three different piles of sand on a square base. How many piles of sand exist with a base at $9$ sides?
 
 ![[src_bocconi_finaleint_2007_g1__q18.png]]
-
-[[Quesiti/src_bocconi_finaleint_2007_g1#q18|src_bocconi_finaleint_2007_g1__Q18]]

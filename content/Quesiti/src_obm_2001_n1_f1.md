@@ -39,7 +39,6 @@ level: OBM Nível 1
 > (A) $111$ \quad (B) $49$ \quad (C) $29$ \quad (D) $69$ \quad (E) $5$
 
 **Risposta:** E
-[[Quesiti/src_obm_2001_n1_f1#q01|src_obm_2001_n1_f1__Q01]]
 
 
 
@@ -76,7 +75,6 @@ level: OBM Nível 1
 ![[src_obm_2001_n1_f1__q02.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2001_n1_f1#q02|src_obm_2001_n1_f1__Q02]]
 
 
 
@@ -109,7 +107,6 @@ level: OBM Nível 1
 > (A) $100$ \quad (B) $104$ \quad (C) $101$ \quad (D) $103$ \quad (E) $102$
 
 **Risposta:** C
-[[Quesiti/src_obm_2001_n1_f1#q03|src_obm_2001_n1_f1__Q03]]
 
 
 
@@ -142,7 +139,6 @@ level: OBM Nível 1
 > (A) $1$ \quad (B) $3$ \quad (C) $2$ \quad (D) $4$ \quad (E) più di $4$
 
 **Risposta:** B
-[[Quesiti/src_obm_2001_n1_f1#q04|src_obm_2001_n1_f1__Q04]]
 
 
 
@@ -175,7 +171,6 @@ level: OBM Nível 1
 > (A) è uguale a $11$ \quad (B) è uguale a $4$ \quad (C) è inferiore a $3$ \quad (D) è maggiore di $4$ e inferiore a $11$ \quad (E) è $3$
 
 **Risposta:** D
-[[Quesiti/src_obm_2001_n1_f1#q05|src_obm_2001_n1_f1__Q05]]
 
 
 
@@ -208,7 +203,6 @@ level: OBM Nível 1
 > (A) $15$ litri \quad (B) $45$ litri \quad (C) $75$ litri \quad (D) $80$ litri \quad (E) $30$
 
 **Risposta:** C
-[[Quesiti/src_obm_2001_n1_f1#q06|src_obm_2001_n1_f1__Q06]]
 
 
 
@@ -244,7 +238,6 @@ level: OBM Nível 1
 ![[src_obm_2001_n1_f1__q07.png]]
 
 **Risposta:** A
-[[Quesiti/src_obm_2001_n1_f1#q07|src_obm_2001_n1_f1__Q07]]
 
 
 
@@ -277,7 +270,6 @@ level: OBM Nível 1
 > (A) $98$ \quad (B) $32$ \quad (C) $22$ \quad (D) $89$ \quad (E) $21$
 
 **Risposta:** B
-[[Quesiti/src_obm_2001_n1_f1#q08|src_obm_2001_n1_f1__Q08]]
 
 
 
@@ -314,7 +306,6 @@ level: OBM Nível 1
 ![[src_obm_2001_n1_f1__q09.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2001_n1_f1#q09|src_obm_2001_n1_f1__Q09]]
 
 
 
@@ -351,7 +342,6 @@ level: OBM Nível 1
 ![[src_obm_2001_n1_f1__q10.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2001_n1_f1#q10|src_obm_2001_n1_f1__Q10]]
 
 
 
@@ -383,7 +373,6 @@ level: OBM Nível 1
 > (A) $3$ meloni \quad (B) $4$ meloni \quad (C) $6$ meloni \quad (D) $5$ meloni \quad (E) $2$ meloni
 
 **Risposta:** A
-[[Quesiti/src_obm_2001_n1_f1#q11|src_obm_2001_n1_f1__Q11]]
 
 
 
@@ -416,7 +405,6 @@ level: OBM Nível 1
 > (A) $4$ \quad (B) $0$ \quad (C) $7$ \quad (D) $5$ \quad (E) Mancano dati
 
 **Risposta:** B
-[[Quesiti/src_obm_2001_n1_f1#q12|src_obm_2001_n1_f1__Q12]]
 
 
 
@@ -448,7 +436,6 @@ level: OBM Nível 1
 > (A) $15$ grammi \quad (B) $10$ grammi \quad (C) $12$ grammi \quad (D) $20$ grammi \quad (E) $22$ grammi
 
 **Risposta:** B
-[[Quesiti/src_obm_2001_n1_f1#q13|src_obm_2001_n1_f1__Q13]]
 
 
 
@@ -481,7 +468,6 @@ level: OBM Nível 1
 > (A) $18$ \quad (B) $12$ \quad (C) $24$ \quad (D) $9$ \quad (E) $36$
 
 **Risposta:** A
-[[Quesiti/src_obm_2001_n1_f1#q14|src_obm_2001_n1_f1__Q14]]
 
 
 
@@ -514,7 +500,6 @@ level: OBM Nível 1
 > (A) $10$ \quad (B) $11$ \quad (C) $12$ \quad (D) $13$ \quad (E) $14$
 
 **Risposta:** C
-[[Quesiti/src_obm_2001_n1_f1#q15|src_obm_2001_n1_f1__Q15]]
 
 
 
@@ -547,7 +532,6 @@ level: OBM Nível 1
 > (A) Tutte le colonne hanno almeno $3$ quadrati occupati. \quad (B) Nessuna colonna ha più di $3$ quadrati occupati. \quad (C) Una colonna non ha quadrati occupati. \quad (D) Qualche riga ha almeno $6$ quadrati occupati. \quad (E) Tutte le righe hanno almeno $4$ quadrati occupati.
 
 **Risposta:** D
-[[Quesiti/src_obm_2001_n1_f1#q16|src_obm_2001_n1_f1__Q16]]
 
 
 
@@ -580,7 +564,6 @@ level: OBM Nível 1
 > (A) $7$ \quad (B) $8$ \quad (C) $9$ \quad (D) $10$ \quad (E) $11$
 
 **Risposta:** E
-[[Quesiti/src_obm_2001_n1_f1#q17|src_obm_2001_n1_f1__Q17]]
 
 
 
@@ -613,7 +596,6 @@ level: OBM Nível 1
 > (A) $6882$ \quad (B) $5994$ \quad (C) $4668$ \quad (D) $7224$ \quad (E) $3448$
 
 **Risposta:** A
-[[Quesiti/src_obm_2001_n1_f1#q18|src_obm_2001_n1_f1__Q18]]
 
 
 
@@ -646,7 +628,6 @@ level: OBM Nível 1
 > (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
 
 **Risposta:** D
-[[Quesiti/src_obm_2001_n1_f1#q19|src_obm_2001_n1_f1__Q19]]
 
 
 
@@ -683,4 +664,3 @@ level: OBM Nível 1
 ![[src_obm_2001_n1_f1__q20.png]]
 
 **Risposta:** A
-[[Quesiti/src_obm_2001_n1_f1#q20|src_obm_2001_n1_f1__Q20]]

@@ -46,7 +46,6 @@ level: China Mathematical Competition (Complementary Test)
 ![[src_cn_cmc-complementary-test_2008__q01.png]]
 
 **Risposta:** $f(P)_{\min} = \sqrt{10}$
-[[Quesiti/src_cn_cmc-complementary-test_2008#q01|src_cn_cmc-complementary-test_2008__Q01]]
 
 
 
@@ -77,8 +76,6 @@ level: China Mathematical Competition (Complementary Test)
 
 > (50 punti) $f(x)$ deve essere una funzione periodica con periodi $T$ e $1$, soddisfacente $0 < T < 1$. Prova che: (1) Se $T$ è un numero razionale, esiste un primo $p$ tale che $\frac{1}{p}$ è anche un periodo di $f(x)$. (2) Se $T$ è irrazionale, esiste una sequenza di numeri irrazionali $\{a_n\}$ che soddisfa $1 > a_n > a_{n+1} > 0$ $(n = 1, 2, \ldots)$ e ogni $a_n$ è un periodo di $f(x)$.
 
-[[Quesiti/src_cn_cmc-complementary-test_2008#q02|src_cn_cmc-complementary-test_2008__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_disuguaglianze,method_telescoping,method_estremalita,skill_manipolazione_algebrica,skill_stima"></span>
@@ -108,5 +105,3 @@ level: China Mathematical Competition (Complementary Test)
 *Dato a_k>=0 (k=1..2008), dimostrare l'esistenza di una sequenza x_n con una relazione di serie prescritta se la somma dell'a_k supera 1.*
 
 > (50 punti) Supponiamo che $a_k \ge 0$, $k = 1, 2, \ldots, 2008$. Prove che se e solo se $\sum_{k=1}^{2008} a_k > 1$ esiste una sequenza $\{x_n\}$ soddisfacente (1) $0 = x_0 < x_1 < x_2 < \cdots < x_n < \cdots$, $n = 1, 2, 3, \ldots$; (2) $\lim_{n \to \infty} x_n$; (3) $x_n - x_{n-1} = \sum_{k=1}^{2008} a_k(x_{n+k} - x_{n+k-1})$, $n = 1, 2, 3, \ldots$
-
-[[Quesiti/src_cn_cmc-complementary-test_2008#q03|src_cn_cmc-complementary-test_2008__Q03]]

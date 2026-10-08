@@ -47,7 +47,6 @@ level: biennio
 > - **(E)** 105.
 
 **Answer:** B
-[[Quesiti/src_archimede_2009_biennio#q01|src_archimede_2009_biennio__Q01]]
 
 
 
@@ -92,7 +91,6 @@ level: biennio
 > - **(E)** 21000.
 
 **Answer:** C
-[[Quesiti/src_archimede_2009_biennio#q02|src_archimede_2009_biennio__Q02]]
 
 
 
@@ -137,7 +135,6 @@ level: biennio
 > - **(E)** 5.
 
 **Answer:** A
-[[Quesiti/src_archimede_2009_biennio#q03|src_archimede_2009_biennio__Q03]]
 
 
 
@@ -183,7 +180,6 @@ Select n because the fly returns to 12 after 12 jumps
 > - **(E)** 12.
 
 **Answer:** C
-[[Quesiti/src_archimede_2009_biennio#q04|src_archimede_2009_biennio__Q04]]
 
 
 
@@ -224,7 +220,6 @@ Select n because the fly returns to 12 after 12 jumps
 > - **(E)** 1
 
 **Answer:** A
-[[Quesiti/src_archimede_2009_biennio#q05|src_archimede_2009_biennio__Q05]]
 
 
 
@@ -272,7 +267,6 @@ Select n because the fly returns to 12 after 12 jumps
 > - **(E)** 9. 6 x 4 5
 
 **Answer:** A
-[[Quesiti/src_archimede_2009_biennio#q06|src_archimede_2009_biennio__Q06]]
 
 
 
@@ -316,7 +310,6 @@ Last year's report on tobacco-farm relations
 > - **(E)** 60.
 
 **Answer:** D
-[[Quesiti/src_archimede_2009_biennio#q07|src_archimede_2009_biennio__Q07]]
 
 
 
@@ -360,7 +353,6 @@ Last year's report on tobacco-farm relations
 > - **(E)** I don't know.
 
 **Answer:** E
-[[Quesiti/src_archimede_2009_biennio#q08|src_archimede_2009_biennio__Q08]]
 
 
 
@@ -404,7 +396,6 @@ Last year's report on tobacco-farm relations
 > - **(E)** 155°.
 
 **Answer:** B
-[[Quesiti/src_archimede_2009_biennio#q09|src_archimede_2009_biennio__Q09]]
 
 
 
@@ -447,7 +438,6 @@ Last year's report on tobacco-farm relations
 > - **(E)** 12.
 
 **Answer:** C
-[[Quesiti/src_archimede_2009_biennio#q10|src_archimede_2009_biennio__Q10]]
 
 
 
@@ -493,7 +483,6 @@ Last year's report on tobacco-farm relations
 > - **(E)** 100.
 
 **Answer:** C
-[[Quesiti/src_archimede_2009_biennio#q11|src_archimede_2009_biennio__Q11]]
 
 
 
@@ -541,7 +530,6 @@ Last year's report on tobacco-farm relations
 > - **(E)** 33. P
 
 **Answer:** A
-[[Quesiti/src_archimede_2009_biennio#q12|src_archimede_2009_biennio__Q12]]
 
 
 
@@ -623,7 +611,6 @@ Last year's report on tobacco-farm relations
 > - **(E)** 2 m2.
 
 **Answer:** A
-[[Quesiti/src_archimede_2009_biennio#q13|src_archimede_2009_biennio__Q13]]
 
 
 
@@ -667,7 +654,6 @@ Last year's report on tobacco-farm relations
 > - **(E)** Seven of them.
 
 **Answer:** D
-[[Quesiti/src_archimede_2009_biennio#q14|src_archimede_2009_biennio__Q14]]
 
 
 
@@ -711,7 +697,6 @@ Last year's report on tobacco-farm relations
 > - **(E)** I'll give you nine.
 
 **Answer:** A
-[[Quesiti/src_archimede_2009_biennio#q15|src_archimede_2009_biennio__Q15]]
 
 
 
@@ -754,7 +739,6 @@ Last year's report on tobacco-farm relations
 > - **(E)** 1.
 
 **Answer:** B
-[[Quesiti/src_archimede_2009_biennio#q16|src_archimede_2009_biennio__Q16]]
 
 
 
@@ -797,7 +781,6 @@ Last year's report on tobacco-farm relations
 > - **(E)** 1 < a < b.
 
 **Answer:** D
-[[Quesiti/src_archimede_2009_biennio#q17|src_archimede_2009_biennio__Q17]]
 
 
 
@@ -842,7 +825,6 @@ Last year's report on tobacco-farm relations
 > - **(E)** 3 · 56.
 
 **Answer:** C
-[[Quesiti/src_archimede_2009_biennio#q18|src_archimede_2009_biennio__Q18]]
 
 
 
@@ -890,7 +872,6 @@ Last year's report on tobacco-farm relations
 > - **(E)** 20π cm2.
 
 **Answer:** D
-[[Quesiti/src_archimede_2009_biennio#q19|src_archimede_2009_biennio__Q19]]
 
 
 
@@ -938,4 +919,3 @@ Who lies between four poker players
 > - **(E)** There's no way to tell.
 
 **Answer:** B
-[[Quesiti/src_archimede_2009_biennio#q20|src_archimede_2009_biennio__Q20]]

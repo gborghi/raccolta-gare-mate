@@ -33,8 +33,6 @@ level: OBM Nível Universitário
 
 > Che $y = P(x)$ sia un polinomio di grado 4. Mostrare che se esiste una linea (in $\mathbb{R}^2$) che interseca il grafico di $P$ a 4 punti, allora esiste una linea che interseca il grafico a 4 punti spaziati ugualmente.
 
-[[Quesiti/src_obm_2002_nu_f2#q01|src_obm_2002_nu_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: OBM Nível Universitário
 *Matrice reale simmetrica con somme di righe 1 e di diagonali non limitate; prova 0 < det A ≤ 1*
 
 > Che $A = (a_{ij})$ sia una matrice simmetrica reale $n \times n$ tale che $a_{ii} = 1$ e $\displaystyle\sum_{j=1}^{n} |a_{ij}| < 2$ per tutti $i \in \{1, 2, \ldots, n\}$. Prove che $0 < \det A \le 1$.
-
-[[Quesiti/src_obm_2002_nu_f2#q02|src_obm_2002_nu_f2__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: OBM Nível Universitário
 
 > Si deve $A_1, A_2, \ldots, A_k \subseteq \{1, 2, \ldots, n\}$ essere impostato in modo tale che $|A_i| \ge \dfrac{n}{2}$ e $|A_i \cap A_j| \le \dfrac{n}{4}$ per tutti $i, j$ con $i \ne j$. Prove che $\displaystyle\left|\bigcup_{i=1}^{k} A_i\right| \ge \dfrac{k}{k+1} \cdot n$.
 
-[[Quesiti/src_obm_2002_nu_f2#q03|src_obm_2002_nu_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
@@ -114,8 +108,6 @@ level: OBM Nível Universitário
 *Ricerca tutte le soluzioni reali di un'equazione radicale annidata*
 
 > Trova tutte le soluzioni reali dell'equazione $$x = \sqrt{2 + \sqrt{2 - \sqrt{2 + x}}}.$$
-
-[[Quesiti/src_obm_2002_nu_f2#q04|src_obm_2002_nu_f2__Q04]]
 
 
 
@@ -148,8 +140,6 @@ level: OBM Nível Universitário
 > 
 > Data una cifra integrale positiva $n$, definire $k(n)$ come la più grande $k$ tale che $\ln_k(n) \ge 1$, e definire $a_n$ come $$a_n = \prod_{j=0}^{k(n)} \ln_j(n) = n \cdot \ln(n) \cdot \ln\ln(n) \cdots \ln_{k(n)}(n).$$ Determinare se la serie $\displaystyle\sum_{n=1}^{\infty} \dfrac{1}{a_n}$ converge o diverge.
 
-[[Quesiti/src_obm_2002_nu_f2#q05|src_obm_2002_nu_f2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_analitica,topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_astrazione,skill_modellizzazione"></span>
@@ -174,5 +164,3 @@ level: OBM Nível Universitário
 *Due coniche che si incrociano a 4 punti; le linee tangenti producono un'ellisse o un cerchio tangenti*
 
 > Considerate due ellissi nel piano $\mathbb{R}^2$ che si incrociano esattamente a 4 punti. A questi 4 punti, disegnare le linee tangenti a entrambe le ellissi, ottenendo 8 linee. Prove che esiste un'ellisse (o cerchio) tangente a tutte e 8 di queste linee.
-
-[[Quesiti/src_obm_2002_nu_f2#q06|src_obm_2002_nu_f2__Q06]]

@@ -32,8 +32,6 @@ level: IMO
 
 > Siano $m$ e $n$ numeri naturali con $1 \leq m < n$. Nelle rispettive rappresentazioni decimali, le ultime tre cifre di $1978^m$ sono uguali, rispettivamente, alle ultime tre cifre di $1978^n$. Determinare $m$ e $n$ in modo che $m + n$ abbia il valore minimo.
 
-[[Quesiti/src_imo_1978_all#q01|src_imo_1978_all__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,method_coordinate"></span>
@@ -57,8 +55,6 @@ level: IMO
 *Luogo del vertice opposto Q di raggi perpendicolari nella sfera*
 
 > Sia $P$ un punto fisso interno a una sfera data. Tre raggi mutuamente perpendicolari uscenti da $P$ intersecano la sfera nei punti $U$, $V$ e $W$; sia $Q$ il vertice diagonalmente opposto a $P$ nel parallelepipedo individuato da $PU$, $PV$ e $PW$. Si determini il luogo descritto da $Q$ al variare di tali terne di raggi uscenti da $P$.
-
-[[Quesiti/src_imo_1978_all#q02|src_imo_1978_all__Q02]]
 
 
 
@@ -94,8 +90,6 @@ level: IMO
 > $$g(n) = f(f(n)) + 1 \quad \text{for all } n \geq 1.$$
 > Determinare $f(240)$.
 
-[[Quesiti/src_imo_1978_all#q03|src_imo_1978_all__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
@@ -120,8 +114,6 @@ level: IMO
 *Punto medio della corda dei punti di tangenza PQ è il centro della circonferenza inscritta*
 
 > Nel triangolo $ABC$, $AB = AC$. Una circonferenza è tangente internamente alla circonferenza circoscritta al triangolo $ABC$ e inoltre tangente ai lati $AB$, $AC$ nei punti $P$, $Q$ rispettivamente. Si dimostri che il punto medio del segmento $PQ$ è l'incentro del triangolo $ABC$.
-
-[[Quesiti/src_imo_1978_all#q04|src_imo_1978_all__Q04]]
 
 
 
@@ -149,8 +141,6 @@ level: IMO
 > Siano $\{a_k\}$ ($k = 1, 2, 3, \ldots$) due successioni di interi positivi distinti. Si dimostri che per ogni numero naturale $n$,
 > $$\sum_{k=1}^{n} \frac{a_k}{k^2} \geq \sum_{k=1}^{n} \frac{1}{k}.$$
 
-[[Quesiti/src_imo_1978_all#q05|src_imo_1978_all__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_cassetti"></span>
@@ -174,5 +164,3 @@ level: IMO
 *Membro il cui numero è somma/doppio dei membri dello stesso paese*
 
 > Un'associazione internazionale ha membri provenienti da sei paesi diversi. L'elenco dei membri contiene 1978 nomi, numerati $1, 2, \ldots, 1978$. Si dimostri che esiste almeno un membro il cui numero è uguale alla somma dei numeri di due membri del suo stesso paese, oppure è il doppio del numero di un membro dello stesso paese.
-
-[[Quesiti/src_imo_1978_all#q06|src_imo_1978_all__Q06]]

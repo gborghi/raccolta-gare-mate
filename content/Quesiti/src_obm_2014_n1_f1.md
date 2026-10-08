@@ -43,8 +43,6 @@ level: OBM Nível 1
 
 ![[src_obm_2014_n1_f1__q01.png]]
 
-[[Quesiti/src_obm_2014_n1_f1#q01|src_obm_2014_n1_f1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -79,8 +77,6 @@ level: OBM Nível 1
 
 ![[src_obm_2014_n1_f1__q02.png]]
 
-[[Quesiti/src_obm_2014_n1_f1#q02|src_obm_2014_n1_f1__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,skill_lettura_attenta,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -112,8 +108,6 @@ level: OBM Nível 1
 > 
 > (A) $13$ \quad (B) $19$ \quad (C) $29$ \quad (D) $29$ \quad (E) $36$
 
-[[Quesiti/src_obm_2014_n1_f1#q03|src_obm_2014_n1_f1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_casework,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -144,8 +138,6 @@ level: OBM Nível 1
 > In una classe di sesto anno ci sono ragazzi e ragazze; il numero di ragazzi supera il numero di ragazze di una determinata quantità. Qual è il rapporto tra il numero di ragazze e il numero di ragazzi in questa classe?
 > 
 > (A) $23$ \quad (B) $13{:}34$ \quad (C) $3{:}5$ \quad (D) $3{:}8$ \quad (E) $1{:}2$
-
-[[Quesiti/src_obm_2014_n1_f1#q04|src_obm_2014_n1_f1__Q04]]
 
 
 
@@ -181,8 +173,6 @@ level: OBM Nível 1
 > (A) $1200\text{ cm}^2$ \quad (B) $1300\text{ cm}^2$ \quad (C) $1400\text{ cm}^2$ \quad (D) $1500\text{ cm}^2$ \quad (E) $1600\text{ cm}^2$
 
 ![[src_obm_2014_n1_f1__q05.png]]
-
-[[Quesiti/src_obm_2014_n1_f1#q05|src_obm_2014_n1_f1__Q05]]
 
 
 
@@ -225,8 +215,6 @@ level: OBM Nível 1
 > 
 > (A) Solo I \quad (B) Solo II \quad (C) Solo III \quad (D) Solo I e II \quad (E) Solo II e III
 
-[[Quesiti/src_obm_2014_n1_f1#q06|src_obm_2014_n1_f1__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -261,8 +249,6 @@ level: OBM Nível 1
 > 
 > (D) $5x+10(15-x)=54$ \quad (E) $5x+2(15-x)=135$
 
-[[Quesiti/src_obm_2014_n1_f1#q07|src_obm_2014_n1_f1__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -293,8 +279,6 @@ level: OBM Nível 1
 > Ana sale una scala con scalini $18$. Si arrampicano due gradini alla volta, saltando ogni volta un passo; poi si arrampicano uno dopo l'altro. Scendiando, scende gli stessi gradini. Considerando le condizioni descritte, qual è il minimo numero di gradini che Ana deve percorrere per arrivare all'ultimo gradino di scala?
 > 
 > (A) $3$ \quad (B) $4$ \quad (C) $5$ \quad (D) $6$ \quad (E) $12$
-
-[[Quesiti/src_obm_2014_n1_f1#q08|src_obm_2014_n1_f1__Q08]]
 
 
 
@@ -335,8 +319,6 @@ level: OBM Nível 1
 > 
 > (A) $4$ reais \quad (B) $5$ reais \quad (C) $6$ reais \quad (D) $9$ reais \quad (E) $11$ reais
 
-[[Quesiti/src_obm_2014_n1_f1#q09|src_obm_2014_n1_f1__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,method_casework,skill_modellizzazione,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -367,8 +349,6 @@ Acquisto di 20 penne e 20 matite in due negozi con promozioni; quanto si può ri
 > Joana, per acquistare penne $20$ e matite $20$, ha confrontato i prezzi in due negozi. Nel negozio A ogni penna costa $4$ reais e ogni matita $5$ reais; nel negozio B ogni penna costa $6$ reais e ogni matita $3$ reais. Ogni negozio ha una promozione. Comprando con la scelta migliore tra comprare solo al negozio A o solo al negozio B, quanto può risparmiare?
 > 
 > (A) nulla (B) R\$\,6{,}00 \quad (C) R\$\,8{,}00 \quad (D) R\$\,10{,}00 \quad (E) R\$\,12{,}00
-
-[[Quesiti/src_obm_2014_n1_f1#q10|src_obm_2014_n1_f1__Q10]]
 
 
 
@@ -404,8 +384,6 @@ Acquisto di 20 penne e 20 matite in due negozi con promozioni; quanto si può ri
 
 ![[src_obm_2014_n1_f1__q11.png]]
 
-[[Quesiti/src_obm_2014_n1_f1#q11|src_obm_2014_n1_f1__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -435,8 +413,6 @@ Tre pittori dipingono tre pareti di 60 m a velocità diverse, aiutandosi a vicen
 > Manuel, Antonio e Joaquim iniziano a dipingere, nello stesso istante, tre pareti uguali di $60$ metri di lunghezza, una parete ciascuno. Nei primi minuti di lavoro, Manuel dipinge i metri $2$, gli metri Antonio $3$ e Joaquim $5$. Quando ciascuno finisce la sua parte, va immediatamente ad aiutare gli altri, fino a quando tutti e tre insieme finiscono tutto il lavoro, mantenendo lo stesso ritmo fino alla fine. Quanto tempo hanno impiegato per completare il lavoro?
 > 
 > (A) $3$ ore \quad (B) $4$ ore \quad (C) $5$ ore \quad (D) $6$ ore \quad (E) $7$ ore
-
-[[Quesiti/src_obm_2014_n1_f1#q12|src_obm_2014_n1_f1__Q12]]
 
 
 
@@ -469,8 +445,6 @@ Tre pittori dipingono tre pareti di 60 m a velocità diverse, aiutandosi a vicen
 > 
 > (A) $12$ \quad (B) $16$ \quad (C) $18$ \quad (D) $20$ \quad (E) $23$
 
-[[Quesiti/src_obm_2014_n1_f1#q13|src_obm_2014_n1_f1__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -501,8 +475,6 @@ Rosa distribuisce tra i nipoti; 10 restano, poi 22, distribuisce infine 240; qua
 > Rosa decise di distribuire $250$ reais tra i suoi nipoti, dando la stessa quantità completa (senza centavos) a ciascuno, ma vide che $10$ reais sarebbero rimasti. Poi ha deciso di dare una quantità maggiore a ciascuno, ma allora $22$ reais sarebbe rimasto. Pertanto ha deciso di distribuire solo $240$ reais. Quanto guadagnava ogni nipote?
 > 
 > (A) $5$ reais \quad (B) $10$ reais \quad (C) $12$ reais \quad (D) $15$ reais \quad (E) $20$ reais
-
-[[Quesiti/src_obm_2014_n1_f1#q14|src_obm_2014_n1_f1__Q14]]
 
 
 
@@ -538,8 +510,6 @@ Rosa distribuisce tra i nipoti; 10 restano, poi 22, distribuisce infine 240; qua
 
 ![[src_obm_2014_n1_f1__q15.png]]
 
-[[Quesiti/src_obm_2014_n1_f1#q15|src_obm_2014_n1_f1__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,topic_logica,method_casework,skill_lettura_attenta,skill_modellizzazione"></span>
@@ -571,8 +541,6 @@ Gioco di marmo: Adao ha perso 5, Bernardo ha perso 4, Carlos li ha vinti; totale
 > 
 > (A) $11$ \quad (B) $13$ \quad (C) $19$ \quad (D) $29$ \quad (E) $33$
 
-[[Quesiti/src_obm_2014_n1_f1#q16|src_obm_2014_n1_f1__Q16]]
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_logica,topic_aritmetica,method_casework,skill_lettura_attenta,skill_casework_accurato,skill_modellizzazione"></span>
@@ -603,8 +571,6 @@ Gioco di marmo: Adao ha perso 5, Bernardo ha perso 4, Carlos li ha vinti; totale
 > In una classe completa, l'insegnante chiede quanti studenti hanno studiato per l'esame. Molti studenti rispondono. Quelli che hanno studiato dicono la verità; quelli che non hanno studiato mentono. Se$32$dice la verità, quanti studenti ci sono nella stanza?
 > 
 > (A) $38$ \quad (B) $40$ \quad (C) $42$ \quad (D) $44$ \quad (E) $55$
-
-[[Quesiti/src_obm_2014_n1_f1#q17|src_obm_2014_n1_f1__Q17]]
 
 
 
@@ -640,8 +606,6 @@ Gioco di marmo: Adao ha perso 5, Bernardo ha perso 4, Carlos li ha vinti; totale
 
 ![[src_obm_2014_n1_f1__q18.png]]
 
-[[Quesiti/src_obm_2014_n1_f1#q18|src_obm_2014_n1_f1__Q18]]
-
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,skill_conteggio_sistematico,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
@@ -672,8 +636,6 @@ Gioco di marmo: Adao ha perso 5, Bernardo ha perso 4, Carlos li ha vinti; totale
 > Juca fece un elenco di tutti i numeri interi positivi con quattro cifre distinte, in ordine crescente. Poi fece un'altra lista delle differenze positive tra tutte le coppie di numeri vicini. Nella seconda lista, quale era il numero più grande che Juca scrisse?
 > 
 > (A) $25$ \quad (B) $36$ \quad (C) $47$ \quad (D) $103$ \quad (E) $105$
-
-[[Quesiti/src_obm_2014_n1_f1#q19|src_obm_2014_n1_f1__Q19]]
 
 
 
@@ -709,5 +671,3 @@ Gioco di marmo: Adao ha perso 5, Bernardo ha perso 4, Carlos li ha vinti; totale
 > A) Quad (B) Quad (C) Quad (D) Quad (E)
 
 ![[src_obm_2014_n1_f1__q20.png]]
-
-[[Quesiti/src_obm_2014_n1_f1#q20|src_obm_2014_n1_f1__Q20]]

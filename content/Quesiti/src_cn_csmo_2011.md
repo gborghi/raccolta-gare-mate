@@ -41,8 +41,6 @@ level: China Southeastern Mathematical Olympiad
 > 
 > (2) il valore di $a$ per un dato $b$. (Posizionato da Lu Xingjiang)
 
-[[Quesiti/src_cn_csmo_2011#q01|src_cn_csmo_2011__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_casework_accurato,skill_ragionamento_geometrico"></span>
@@ -70,7 +68,6 @@ level: China Southeastern Mathematical Olympiad
 > $a$, $b$ e $c$ siano integri positivi copriemi in modo che $a^2 \mid (b^3 + c^3)$, $b^2 \mid (a^3 + c^3)$ e $c^2 \mid (a^3 + b^3)$ siano. Trova i valori di $a$, $b$ e $c$. (postato da Yang Xiaoming)
 
 **Risposta:** $(a,b,c)=(1,1,1),(1,2,3),(1,3,2),(2,1,3),(2,3,1),(3,1,2),(3,2,1)$
-[[Quesiti/src_cn_csmo_2011#q02|src_cn_csmo_2011__Q02]]
 
 
 
@@ -96,8 +93,6 @@ level: China Southeastern Mathematical Olympiad
 *Ricerca tutte le n in modo che ogni sottoinsieme di 35 elementi di {1,...,50} contenga a,b con a+b=n o a-b=n*
 
 > Indicare $M = \{1, 2, 3, \ldots, 50\}$. Trova tutti gli integri positivi $n$ in modo che ci siano almeno due elementi diversi $a$ e $b$ in qualsiasi sottoinsieme con 35 elementi di $M$, come $a + b = n$ o $a - b = n$. (Posizionato da Li Shenghong)
-
-[[Quesiti/src_cn_csmo_2011#q03|src_cn_csmo_2011__Q03]]
 
 
 
@@ -128,8 +123,6 @@ level: China Southeastern Mathematical Olympiad
 
 ![[src_cn_csmo_b11_w293__q04.png]]
 
-[[Quesiti/src_cn_csmo_2011#q04|src_cn_csmo_2011__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
@@ -159,8 +152,6 @@ level: China Southeastern Mathematical Olympiad
 
 ![[src_cn_csmo_b11_w293__q05.png]]
 
-[[Quesiti/src_cn_csmo_2011#q05|src_cn_csmo_2011__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -186,8 +177,6 @@ level: China Southeastern Mathematical Olympiad
 
 > Dato che i punti $n$ $P_1, P_2, \ldots, P_n$ su un piano, $M$ deve essere qualsiasi punto sul segmento $AB$ sul piano. Indicare con $|P_i M|$ la distanza tra $P_i$ e $M$, $i = 1, 2, 3, \ldots, n$. Prove che $$\sum_{i=1}^{n} |P_i M| \leq \max\!\left\{\sum_{i=1}^{n} |P_i A|,\; \sum_{i=1}^{n} |P_i B|\right\}.$$ (posato da Jin Mengwei)
 
-[[Quesiti/src_cn_csmo_2011#q06|src_cn_csmo_2011__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_aritmetica,method_induzione,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -212,8 +201,6 @@ level: China Southeastern Mathematical Olympiad
 *Sequenza definita da ricorrenza; dimostrare a_n + 2a_{n+2} è sempre un quadrato perfetto*
 
 > Supponiamo che la sequenza $\{a_n\}$ sia definita da $a_1 = a_2 = 1$, $a_n = 7a_{n-1} - a_{n-2} + n$ per $n \geq 3$. Prova che $a_n + 2a_{n+2}$ è un quadrato perfetto per qualsiasi intero positivo $n$. (posta da Tao Pingsheng)
-
-[[Quesiti/src_cn_csmo_2011#q07|src_cn_csmo_2011__Q07]]
 
 
 
@@ -242,4 +229,3 @@ level: China Southeastern Mathematical Olympiad
 > Considerate 12 cifre sulla faccia dell'orologio come 12 punti. Colorateli in quattro colori: rosso, giallo, blu e verde. Ogni colore è usato per tre punti. Configurare i quadrilaterali convexi con vertici in questi punti in modo che ogni quadrilaterale abbia un vertice di ogni colore. Trova il numero più grande $n$ di tali quadrilaterali in modo tale che tra tutti e tre di questi quadrilaterali non ci sia vertice dello stesso colore nella stessa posizione. (posta da Tao Pingsheng)
 
 **Risposta:** 9
-[[Quesiti/src_cn_csmo_2011#q08|src_cn_csmo_2011__Q08]]

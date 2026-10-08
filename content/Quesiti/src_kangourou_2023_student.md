@@ -52,7 +52,6 @@ level: kangourou
 > E) 49
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_student#q01|src_kangourou_2023_student__Q01]]
 
 
 
@@ -98,7 +97,6 @@ level: kangourou
 > E) 4
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_student#q02|src_kangourou_2023_student__Q02]]
 
 
 
@@ -145,7 +143,6 @@ level: kangourou
 > E) 4
 
 **Answer:** B
-[[Quesiti/src_kangourou_2023_student#q03|src_kangourou_2023_student__Q03]]
 
 
 
@@ -211,7 +208,6 @@ level: kangourou
 > B) 27 C) 32 D) 36 E) 64
 
 **Answer:** D
-[[Quesiti/src_kangourou_2023_student#q04|src_kangourou_2023_student__Q04]]
 
 
 
@@ -251,7 +247,6 @@ level: kangourou
 >            	 E) 4
 
 **Answer:** B
-[[Quesiti/src_kangourou_2023_student#q05|src_kangourou_2023_student__Q05]]
 
 
 
@@ -289,7 +284,6 @@ level: kangourou
 > C) 2^9 + 1 D)  2^9 + 2 E) 0
 
 **Answer:** A
-[[Quesiti/src_kangourou_2023_student#q06|src_kangourou_2023_student__Q06]]
 
 
 
@@ -341,7 +335,6 @@ level: kangourou
 >
 
 **Answer:** D
-[[Quesiti/src_kangourou_2023_student#q07|src_kangourou_2023_student__Q07]]
 
 
 
@@ -430,7 +423,6 @@ level: kangourou
 > D)  35 E) 42
 
 **Answer:** B
-[[Quesiti/src_kangourou_2023_student#q08|src_kangourou_2023_student__Q08]]
 
 
 
@@ -468,7 +460,6 @@ level: kangourou
 > E) 11
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_student#q09|src_kangourou_2023_student__Q09]]
 
 
 
@@ -517,7 +508,6 @@ level: kangourou
 > Questions from No. 11 to No. 20 are worth 4 points each
 
 **Answer:** E
-[[Quesiti/src_kangourou_2023_student#q10|src_kangourou_2023_student__Q10]]
 
 
 
@@ -568,7 +558,6 @@ level: kangourou
 > E) 13
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_student#q11|src_kangourou_2023_student__Q11]]
 
 
 
@@ -614,7 +603,6 @@ level: kangourou
 > E) 9
 
 **Answer:** A
-[[Quesiti/src_kangourou_2023_student#q12|src_kangourou_2023_student__Q12]]
 
 
 
@@ -661,7 +649,6 @@ level: kangourou
 > D) 8 E) None of the above.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2023_student#q13|src_kangourou_2023_student__Q13]]
 
 
 
@@ -716,7 +703,6 @@ level: kangourou
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2023_student#q14|src_kangourou_2023_student__Q14]]
 
 
 
@@ -763,7 +749,6 @@ level: kangourou
 > E) 4
 
 **Answer:** B
-[[Quesiti/src_kangourou_2023_student#q15|src_kangourou_2023_student__Q15]]
 
 
 
@@ -808,7 +793,6 @@ Maximum number of koalas with each animal near a kangaroo
 > E) 12
 
 **Answer:** D
-[[Quesiti/src_kangourou_2023_student#q16|src_kangourou_2023_student__Q16]]
 
 
 
@@ -851,7 +835,6 @@ Maximum number of koalas with each animal near a kangaroo
 > D) 16 E) None of the above.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2023_student#q17|src_kangourou_2023_student__Q17]]
 
 
 
@@ -901,7 +884,6 @@ Maximum number of koalas with each animal near a kangaroo
 > E) 16
 
 **Answer:** E
-[[Quesiti/src_kangourou_2023_student#q18|src_kangourou_2023_student__Q18]]
 
 
 
@@ -990,7 +972,6 @@ Maximum number of koalas with each animal near a kangaroo
 > B) 23 C) 24 D) 25 E) The measurement depends on the distance between the bases
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_student#q19|src_kangourou_2023_student__Q19]]
 
 
 
@@ -1037,7 +1018,6 @@ Maximum number of koalas with each animal near a kangaroo
 > Questions from No. 21 to No. 30 are worth 5 points each
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_student#q20|src_kangourou_2023_student__Q20]]
 
 
 
@@ -1124,7 +1104,6 @@ Maximum number of koalas with each animal near a kangaroo
 >
 
 **Answer:** A
-[[Quesiti/src_kangourou_2023_student#q21|src_kangourou_2023_student__Q21]]
 
 
 
@@ -1164,7 +1143,6 @@ Maximum number of koalas with each animal near a kangaroo
 > Thirteen climbers participate in a sport climbing competition involving three different specialties. The final score of each athlete is the product of the placements obtained in each specialty. For example, an athlete who finishes fourth, third and sixth in each of the three specialties will get a score of 72. Of course, the higher the score, the worse the final placement. Anna has already won the first two specialties. Once the last test is completed, what is the worst final placement you can have? A) Second B) Third C) Fourth D) Fifth E) Sixth
 
 **Answer:** B
-[[Quesiti/src_kangourou_2023_student#q22|src_kangourou_2023_student__Q22]]
 
 
 
@@ -1216,7 +1194,6 @@ Maximum number of koalas with each animal near a kangaroo
 > E)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2023_student#q23|src_kangourou_2023_student__Q23]]
 
 
 
@@ -1330,7 +1307,6 @@ Maximum number of koalas with each animal near a kangaroo
 >
 
 **Answer:** E
-[[Quesiti/src_kangourou_2023_student#q24|src_kangourou_2023_student__Q24]]
 
 
 
@@ -1372,7 +1348,6 @@ Maximum number of koalas with each animal near a kangaroo
 > A stain of ink covered part of the formula assigning a fifth degree polynomial, as shown below. It is well known that the polynomial has 5 roots and that they are all integers, not necessarily distinct. What is the highest power of x  1 dividing the polynomial? A) (x – 1)1 B) (x – 1)2 C) (x – 1)3 D) (x – 1)4 E) (x – 1)5
 
 **Answer:** D
-[[Quesiti/src_kangourou_2023_student#q25|src_kangourou_2023_student__Q25]]
 
 
 
@@ -1426,7 +1401,6 @@ Maximum number of koalas with each animal near a kangaroo
 > E) 30
 
 **Answer:** A
-[[Quesiti/src_kangourou_2023_student#q26|src_kangourou_2023_student__Q26]]
 
 
 
@@ -1469,7 +1443,6 @@ Maximum number of koalas with each animal near a kangaroo
 > E) 29 33 53
 
 **Answer:** E
-[[Quesiti/src_kangourou_2023_student#q27|src_kangourou_2023_student__Q27]]
 
 
 
@@ -1525,7 +1498,6 @@ Maximum number of koalas with each animal near a kangaroo
 > E) 9
 
 **Answer:** E
-[[Quesiti/src_kangourou_2023_student#q28|src_kangourou_2023_student__Q28]]
 
 
 
@@ -1579,7 +1551,6 @@ Maximum number of koalas with each animal near a kangaroo
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_student#q29|src_kangourou_2023_student__Q29]]
 
 
 
@@ -1637,4 +1608,3 @@ Maximum number of koalas with each animal near a kangaroo
 > C C B D B A D
 
 **Answer:** C
-[[Quesiti/src_kangourou_2023_student#q30|src_kangourou_2023_student__Q30]]

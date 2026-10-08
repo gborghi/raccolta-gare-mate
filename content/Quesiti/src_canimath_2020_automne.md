@@ -40,7 +40,6 @@ level: Coupe Animath Automne
 > *Solo una risposta numerica è prevista qui.*
 
 **Risposta:** 15
-[[Quesiti/src_canimath_2020_automne#q01|src_canimath_2020_automne__Q01]]
 
 
 
@@ -70,8 +69,6 @@ level: Coupe Animath Automne
 > 
 > *Solo una risposta numerica è prevista qui.*
 
-[[Quesiti/src_canimath_2020_automne#q02|src_canimath_2020_automne__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -95,8 +92,6 @@ level: Coupe Animath Automne
 *Trova un angolo FEA in un quadrato con E sulla diagonale BD in modo che EB = AB e F sulla linea AD*
 
 > Il segmento $ABCD$ deve essere quadrato e $E$ il punto del segmento $[BD]$ in modo tale che $EB = AB$. Il punto $F$ è definito come il punto di intersezione delle linee $(CE)$ e $(AD)$. Trova il valore dell'angolo $\widehat{FEA}$.
-
-[[Quesiti/src_canimath_2020_automne#q03|src_canimath_2020_automne__Q03]]
 
 
 
@@ -129,8 +124,6 @@ level: Coupe Animath Automne
 > 
 > 1. Noémie possiede più pecore di Tristan. ciascuno di essi ha almeno $2$ pecore; 3. il numero totale di pecore $a^2 + b^2$ è pari.
 
-[[Quesiti/src_canimath_2020_automne#q04|src_canimath_2020_automne__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -154,8 +147,6 @@ level: Coupe Animath Automne
 *Prove che i triangoli ADE e BCE hanno superficie uguale in un trapezoide con E l'intersezione diagonale*
 
 > Il $ABCD$ deve essere un trapezoide (non auto-crosso) tale che le linee $(AB)$ e $(CD)$ siano parallele. Scriviamo $E$ per il punto di intersezione delle diagonali $[AC]$ e $[BD]$. Indicare che l'area del triangolo $ADE$ è uguale all'area del triangolo $BCE$.
-
-[[Quesiti/src_canimath_2020_automne#q05|src_canimath_2020_automne__Q05]]
 
 
 
@@ -182,8 +173,6 @@ level: Coupe Animath Automne
 
 > Mettiamo $12$ ciottoli su una scacchiera con righe $8$ e colonne $8$. Ciascuna pietra è stata collocata su uno dei quadrati $64$ della scacchiera (con al massimo una pietra per quadrato). Mostrare che è possibile colorare in rosso le righe $4$ e le colonne $4$ in modo tale che ciascuno dei ciottoli $12$ sia su un quadrato rosso.
 
-[[Quesiti/src_canimath_2020_automne#q06|src_canimath_2020_automne__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
@@ -208,8 +197,6 @@ level: Coupe Animath Automne
 *Conta triplici interi sommati a zero con valore assoluto pari a 2k*
 
 > $k$ sia un numero intero rigorosamente positivo. Per ogni numero reale $x$, il numero $|x|$ è il valore assoluto di $x$, pari a $x$ se $x$ è positivo e $-x$ se $x$ è negativo. Trova il numero di triples $(x, y, z)$ dove $x, y, z$ sono numeri interi come $x + y + z = 0$ e $|x| + |y| + |z| = 2k$.
-
-[[Quesiti/src_canimath_2020_automne#q07|src_canimath_2020_automne__Q07]]
 
 
 
@@ -240,8 +227,6 @@ level: Coupe Animath Automne
 > 
 > *Nota: diciamo che un insieme $A$ è incluso in un insieme $B$ se ogni elemento di $A$ è anche un elemento di $B$.*
 
-[[Quesiti/src_canimath_2020_automne#q08|src_canimath_2020_automne__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -270,8 +255,6 @@ level: Coupe Animath Automne
 > 
 > *Solo una risposta numerica è prevista qui.*
 
-[[Quesiti/src_canimath_2020_automne#q09|src_canimath_2020_automne__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -295,8 +278,6 @@ level: Coupe Animath Automne
 *Trova un angolo FEA in un quadrato con E sulla diagonale BD in modo che EB=AB (liceu)*
 
 > Il segmento $ABCD$ deve essere quadrato e $E$ il punto del segmento $[BD]$ in modo tale che $EB = AB$. Il punto $F$ è definito come il punto di intersezione delle linee $(CE)$ e $(AD)$. Trova il valore dell'angolo $\widehat{FEA}$.
-
-[[Quesiti/src_canimath_2020_automne#q10|src_canimath_2020_automne__Q10]]
 
 
 
@@ -329,8 +310,6 @@ level: Coupe Animath Automne
 > 
 > 1. Noémie possiede più pecore di Tristan. ciascuno di essi ha almeno $2$ pecore; 3. il numero totale di pecore $a^2 + b^2$ è pari.
 
-[[Quesiti/src_canimath_2020_automne#q11|src_canimath_2020_automne__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,method_invarianti,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
@@ -355,8 +334,6 @@ level: Coupe Animath Automne
 *Contare possibili numeri di voci pari in una griglia 3x3 con tutte le somme di righe e colonne odd*
 
 > Si collocano gli enti $9$ nelle celle di una griglia $3 \times 3$ in modo tale che la somma dei numeri di una colonna o di una riga sia sempre pari. Quali valori possono assumere il numero di cellule pari di tale configurazione?
-
-[[Quesiti/src_canimath_2020_automne#q12|src_canimath_2020_automne__Q12]]
 
 
 
@@ -383,8 +360,6 @@ level: Coupe Animath Automne
 
 > Per ogni numero reale $x$, scriviamo $\lfloor x \rfloor$ per il numero intero più grande inferiore o uguale a $x$, quindi chiamiamo * parte frazionaria* di $x$ il numero $\langle x \rangle$ definito da $\langle x \rangle = x - \lfloor x \rfloor$. Quanti numeri reali $x$ verificano $1 \le x \le 10$ e $\langle x \rangle^2 = \langle x^2 \rangle$?
 
-[[Quesiti/src_canimath_2020_automne#q13|src_canimath_2020_automne__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -409,8 +384,6 @@ level: Coupe Animath Automne
 *Trova integri n>=2 espressi come a^3+d^3 con un divisore primo più piccolo e un divisore d*
 
 > Trova i numeri interi $n$ più grandi o uguali a $2$ in modo che, scrivendo $a$ per il più piccolo divisore primo di $n$, si possa trovare un divisore positivo di $n$ scritto $d$ in modo che $n = a^3 + d^3$.
-
-[[Quesiti/src_canimath_2020_automne#q14|src_canimath_2020_automne__Q14]]
 
 
 
@@ -437,8 +410,6 @@ level: Coupe Animath Automne
 
 > Il $ABCD$ è un parallelo della superficie $1$ e $M$ un punto appartenente al segmento $[BD]$ in modo tale che $MD = 3MB$. Scriviamo $N$ per il punto di intersezione delle linee $(AM)$ e $(CB)$. Calcolare l'area del triangolo $MND$.
 
-[[Quesiti/src_canimath_2020_automne#q15|src_canimath_2020_automne__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -463,8 +434,6 @@ level: Coupe Animath Automne
 *Ricerca tutti i valori C che sono prodotti di numeri interi diversi di 5 e anche di 8*
 
 > Suzanne moltiplica due numeri interi la cui differenza è uguale a $5$ e Martin moltiplica due numeri interi la cui differenza è uguale a $8$. Ottieni lo stesso risultato, che scriviamo $C$. Quali sono i valori possibili di $C$?
-
-[[Quesiti/src_canimath_2020_automne#q16|src_canimath_2020_automne__Q16]]
 
 
 
@@ -496,5 +465,3 @@ level: Coupe Animath Automne
 > È possibile posizionare i punti $10$ blu, $10$ rossi e $10$ verdi nel piano in modo tale che le distanze tra i punti siano parziali e che:
 > 
 > - per ogni punto blu, il secondo punto più vicino è rosso; - per ogni punto rosso, il secondo punto più vicino è verde; - per ogni punto verde, il secondo punto più vicino è blu?
-
-[[Quesiti/src_canimath_2020_automne#q17|src_canimath_2020_automne__Q17]]

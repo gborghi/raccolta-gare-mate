@@ -37,8 +37,6 @@ level: IMO
 > $$f(\lfloor x \rfloor y) = f(x)f(y)$$
 > sia verificata per ogni $x, y \in \mathbb{R}$. (Qui $\lfloor z \rfloor$ indica il massimo intero minore o uguale a $z$.)
 
-[[Quesiti/src_imho_2010#q01|src_imho_2010__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -67,8 +65,6 @@ level: IMO
 > Sia $I$ l'incentro del triangolo $ABC$ e sia $\Gamma$ la sua circonferenza circoscritta. Sia la retta $AI$ che interseca nuovamente $\Gamma$ nel punto $D$. Sia $E$ un punto sull'arco $\widehat{BDC}$ e sia $F$ un punto sul lato $BC$ tali che
 > $$\angle BAF = \angle CAE < \tfrac{1}{2}\angle BAC.$$
 > Infine, sia $G$ il punto medio del segmento $IF$. Si dimostri che le rette $DG$ e $EI$ si intersecano su $\Gamma$.
-
-[[Quesiti/src_imho_2010#q02|src_imho_2010__Q02]]
 
 
 
@@ -99,8 +95,6 @@ level: IMO
 > $$(g(m) + n)(m + g(n))$$
 > sia un quadrato perfetto per ogni $m, n \in \mathbb{N}$.
 
-[[Quesiti/src_imho_2010#q03|src_imho_2010__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -125,8 +119,6 @@ level: IMO
 *Punto interno al triangolo, circonferenza circoscritta tangente, condizione SC=SP*
 
 > Sia $P$ un punto interno al triangolo $ABC$. Le rette $AP$, $BP$ e $CP$ intersecano nuovamente la circonferenza circoscritta $\Gamma$ del triangolo $ABC$ nei punti $K$, $L$ e $M$ rispettivamente. La tangente a $\Gamma$ nel punto $C$ interseca la retta $AB$ nel punto $S$. Si supponga che $SC = SP$. Si dimostri che $MK = ML$.
-
-[[Quesiti/src_imho_2010#q04|src_imho_2010__Q04]]
 
 
 
@@ -165,8 +157,6 @@ level: IMO
 > 
 > Si determini se esiste una successione finita di tali operazioni che porti alla situazione in cui la scatola $B_1, B_2, B_3, B_4, B_5$ è vuota e la scatola $B_6$ contiene esattamente $2010^{2010^{2010}}$ monete. (Si osservi che $a^{b^c} = a^{(b^c)}$.)
 
-[[Quesiti/src_imho_2010#q05|src_imho_2010__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_combinatoria,method_induzione,method_estremalita,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta,skill_astrazione"></span>
@@ -195,5 +185,3 @@ level: IMO
 > Sia $a_1, a_2, a_3, \ldots$ una successione di numeri reali positivi. Supponiamo che per qualche intero positivo $s$, valga
 > $$a_n = \max\{a_k + a_{n-k} \mid 1 \le k \le n-1\}$$
 > per ogni $n > s$. Si dimostri che esistono interi positivi $\ell$ e $N$, con $\ell \le s$ e tali che $a_n = a_{\ell} + a_{n-\ell}$ per ogni $n \ge N$.
-
-[[Quesiti/src_imho_2010#q06|src_imho_2010__Q06]]

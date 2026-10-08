@@ -35,8 +35,6 @@ level: BMO Round 1
 
 > Riduzione della frazione $\dfrac{N}{D}$ ai suoi termini più bassi quando $$N = 22548548548548516627 ,$$ $$D = 8118811881188118000 .$$
 
-[[Quesiti/src_bmo_1985-86_round1#q01|src_bmo_1985-86_round1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -61,8 +59,6 @@ level: BMO Round 1
 *Radius di un cerchio da due cerchi tangenti esternamente tra tangenti paralleli*
 
 > Un cerchio $S$ di raggio $R$ ha due tangenti paralleli $\tau_1$ e $\tau_2$. Un cerchio $S_1$ di raggio $r_1$ tocca $S$ e $\tau_1$; un cerchio $S_2$ di raggio $r_2$ tocca $S$ e $\tau_2$, nonché il cerchio $S_1$. Tutti i contatti del cerchio sono esterni. Calcolare $R$ in termini di $r_1$ e $r_2$.
-
-[[Quesiti/src_bmo_1985-86_round1#q02|src_bmo_1985-86_round1__Q02]]
 
 
 
@@ -91,8 +87,6 @@ level: BMO Round 1
 
 > Prova che se $m$, $n$ sono interi positivi e $$1 + m + n\sqrt{3} = \left(2 + \sqrt{3}\right)^{2n-1}$$ allora $m$ è un quadrato perfetto.
 
-[[Quesiti/src_bmo_1985-86_round1#q03|src_bmo_1985-86_round1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_disuguaglianze,topic_geometria_piana,method_estremalita,skill_manipolazione_algebrica,skill_stima"></span>
@@ -119,8 +113,6 @@ level: BMO Round 1
 *K più grande in una disuguaglianza per i lati di qualsiasi triangolo obtuso*
 
 > Trovare, con prova, il numero reale più grande $K$ (indipendente da $a$, $b$, $c$) in modo tale che l'ineguaglianza $$a^2 + b^2 + c^2 > K(a+b+c)^2$$ sia valida per le lunghezze $a$, $b$, $c$ dei lati di qualsiasi triangolo angolato obtuso.
-
-[[Quesiti/src_bmo_1985-86_round1#q04|src_bmo_1985-86_round1__Q04]]
 
 
 
@@ -153,8 +145,6 @@ level: BMO Round 1
 
 > Trova, con prova, il numero di permutazioni $$a_1, a_2, \ldots, a_n$$ di $1, 2, \ldots, n$ in modo tale che $$a_r \le a_{r+2} \quad\text{for } 1 \le r \le n-2$$ e $$a_r \le a_{r+3} \quad\text{for } 1 \le r \le n-3 .$$ (In una permutazione appaiono ciascuno dei numeri $1, 2, \ldots, n$.)
 
-[[Quesiti/src_bmo_1985-86_round1#q05|src_bmo_1985-86_round1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -179,5 +169,3 @@ level: BMO Round 1
 *L'area della sezione cubica è uguale all'area della sezione tetraedro sotto piani paralleli*
 
 > $AB$, $AC$, $AD$ sono tre bordi di un cubo. $AB$ è prodotto a $X$ in modo che $AX = 2AC$, e $AD$ è prodotto a $Y$ in modo che $AY = 3AD$. Prova che l'area della sezione del cubo per qualsiasi piano parallelo a $BCD$ è uguale all'area della sezione trasversale del tetraedro $ABEF$ per lo stesso piano.
-
-[[Quesiti/src_bmo_1985-86_round1#q06|src_bmo_1985-86_round1__Q06]]

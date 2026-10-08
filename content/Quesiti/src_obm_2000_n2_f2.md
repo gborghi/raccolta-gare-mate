@@ -33,8 +33,6 @@ level: OBM Nível 2
 
 > Qual è il numero intero positivo più piccolo che è sia il doppio di un cubo perfetto che il quintuplico di un quadrato perfetto?
 
-[[Quesiti/src_obm_2000_n2_f2#q01|src_obm_2000_n2_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
@@ -63,8 +61,6 @@ level: OBM Nível 2
 > In quanti modi diversi possiamo costruire una scatola rettangolare (paralelepiped) utilizzando esattamente 216 blocchi cubi di dimensioni $1 \times 1 \times 1$?
 > 
 > **Nota:** Le scatole di dimensioni $2 \times 3 \times 36$ e $2 \times 36 \times 3$ devono essere considerate uguali.
-
-[[Quesiti/src_obm_2000_n2_f2#q02|src_obm_2000_n2_f2__Q02]]
 
 
 
@@ -99,8 +95,6 @@ level: OBM Nível 2
 
 ![[src_obm_2000_n2_f2__q03.png]]
 
-[[Quesiti/src_obm_2000_n2_f2#q03|src_obm_2000_n2_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_algebra,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -134,8 +128,6 @@ level: OBM Nível 2
 
 ![[src_obm_2000_n2_f2__q04.png]]
 
-[[Quesiti/src_obm_2000_n2_f2#q04|src_obm_2000_n2_f2__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -160,8 +152,6 @@ level: OBM Nível 2
 *Ricerca n e m dopo aver cancellato m da {1,...,n} lascia media 134/11*
 
 > Elencare i numeri interi da $1$ a $n$. Da questo elenco cancellati il numero intero $m$. La media dei restanti numeri $n - 1$ è uguale a $\dfrac{134}{11}$. Trova $n$ e $m$.
-
-[[Quesiti/src_obm_2000_n2_f2#q05|src_obm_2000_n2_f2__Q05]]
 
 
 
@@ -195,5 +185,3 @@ level: OBM Nível 2
 > a) Trovare il minimo $n$ in modo tale che, se $Vulcano$ $FC$ punta ** esattamente ** $n$ punti nel secondo round (indipendentemente da chi sono gli avversari e chi altro punta $n$ punti), sia garantito di raggiungere la finale (indipendentemente da chi punta $n$ punti tra gli avversari).
 > 
 > b) Trovare il minimo $n$ in modo tale che, se $Vulcano$ $FC$ ottiene ** almeno ** $n$ punti nel secondo round (indipendentemente da chi sono gli avversari e chi altro ottiene almeno $n$ punti), sia garantito il raggiungimento della finale (indipendentemente da chi ottiene almeno $n$ punti tra gli avversari).
-
-[[Quesiti/src_obm_2000_n2_f2#q06|src_obm_2000_n2_f2__Q06]]

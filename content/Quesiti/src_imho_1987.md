@@ -37,8 +37,6 @@ level: IMO
 > $$\sum_{k=0}^{n} k \cdot p_n(k) = n!.$$
 > (Osservazione: Una permutazione $f$ di un insieme $S$ è un'applicazione biunivoca da $S$ in sé stesso. Un elemento $i$ nell'insieme $S$ si dice punto fisso della permutazione $f$ se $f(i) = i$.)
 
-[[Quesiti/src_imho_1987#q01|src_imho_1987__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -63,8 +61,6 @@ level: IMO
 *I quadrilatero AKNM e il triangolo ABC hanno aree uguali*
 
 > In un triangolo acutangolo $ABC$, la bisettrice interna dell'angolo $A$ incontra il lato $BC$ in $L$ e interseca nuovamente la circonferenza circoscritta al triangolo $ABC$ nel punto $N$. Dall'punto $L$ si conducono le perpendicolari ai lati $AB$ e $AC$, i piedi di tali perpendicolari essendo rispettivamente $K$ e $M$. Si dimostri che il quadrilatero $AKNM$ e il triangolo $ABC$ hanno la stessa area.
-
-[[Quesiti/src_imho_1987#q02|src_imho_1987__Q02]]
 
 
 
@@ -93,8 +89,6 @@ level: IMO
 > Siano $x_1, x_2, \ldots, x_n$ numeri reali che soddisfano $x_1^2 + x_2^2 + \cdots + x_n^2 = 1$. Si dimostri che per ogni intero $k \ge 2$ esistono interi $a_1, a_2, \ldots, a_n$, non tutti $0$, tali che $|a_i| \le k-1$ per ogni $i$ e
 > $$|a_1 x_1 + a_2 x_2 + \cdots + a_n x_n| \le \frac{(k-1)\sqrt{n}}{k^n - 1}.$$
 
-[[Quesiti/src_imho_1987#q03|src_imho_1987__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_insiemi_funzioni,topic_aritmetica,method_invarianti,method_induzione,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
@@ -119,8 +113,6 @@ level: IMO
 *Non esiste alcuna funzione sui numeri interi non negativi tale che f(f(n)) = n + 1987*
 
 > Si dimostri che non esiste una funzione $f$ dall'insieme degli interi non negativi in sé stesso tale che $f(f(n)) = n + 1987$ per ogni $n$.
-
-[[Quesiti/src_imho_1987#q04|src_imho_1987__Q04]]
 
 
 
@@ -147,8 +139,6 @@ level: IMO
 
 > Sia $n$ un intero maggiore o uguale a $3$. Si dimostri che esiste un insieme di $n$ punti nel piano tali che la distanza tra ogni coppia di punti sia irrazionale e ciascun insieme di tre punti formi un triangolo non degenere con area razionale.
 
-[[Quesiti/src_imho_1987#q05|src_imho_1987__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta,skill_casework_accurato"></span>
@@ -173,5 +163,3 @@ level: IMO
 *La primalità di k^2+k+n per ogni k fino a n-2 segue dai casi piccoli*
 
 > Sia $n$ un intero maggiore o uguale a $2$. Si dimostri che se $k^2 + k + n$ è primo per ogni intero $k$ tale che $0 \le k \le \sqrt{n/3}$, allora $k^2 + k + n$ è primo per ogni intero $k$ tale che $0 \le k \le n - 2$.
-
-[[Quesiti/src_imho_1987#q06|src_imho_1987__Q06]]

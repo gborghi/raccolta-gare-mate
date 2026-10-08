@@ -38,7 +38,6 @@ level: squadre
 > It's a cube.
 
 **Answer:** 0793
-[[Quesiti/src_cesenatico_2006_squadre_pubblico#q01|src_cesenatico_2006_squadre_pubblico__Q01]]
 
 
 
@@ -76,7 +75,6 @@ level: squadre
 > A number with only even digits. 2. Unveiled impostors [40] Often people wonder how it is possible to recognize a mathematician from a mateban, that is, someone fasting mathematics. It's often simpler than you think. A mattress would never find the greatest value of x so 3√ x+1184− 3√ x−1184 = 4.
 
 **Answer:** 2912
-[[Quesiti/src_cesenatico_2006_squadre_pubblico#q02|src_cesenatico_2006_squadre_pubblico__Q02]]
 
 
 
@@ -109,7 +107,6 @@ level: squadre
 > Rapports are stormy.[35] The mathematics students of the Higher Mathematical School are divided into five houses: Rapporteur, Partimaginaria, Perognesiste, Inclusion and Righecompass. Houses are two to two allies or enemies. Any ally of an enemy house is also an enemy. How many different ways can the mutual relations between the five houses be?
 
 **Answer:** 0052
-[[Quesiti/src_cesenatico_2006_squadre_pubblico#q03|src_cesenatico_2006_squadre_pubblico__Q03]]
 
 
 
@@ -148,7 +145,6 @@ level: squadre
 > The first test [60] Finally came the big day of the Triangle tournament. The competitors are placed before the first test: determine the minimum value of 4a3 b + b+1 a at the variation of a > 0 and b > 0 real numbers. Team competition 2006  Public competition  Problem texts  Pag. 1 di 4
 
 **Answer:** 0004
-[[Quesiti/src_cesenatico_2006_squadre_pubblico#q04|src_cesenatico_2006_squadre_pubblico__Q04]]
 
 
 
@@ -195,7 +191,6 @@ level: squadre
 > Question of positions [40] In order to succeed in group spells in geomancy it is necessary to be quite precise in placing yourself in the right place. Hardy, Ron and his two brothers, Henri and Smale, are positioned in points A, B, C and D which are, in the order, on a circumference as shown in the figure. We know that AC is equal to CD is equal to 10 √ 5 and that BC is equal to 5 √ 5. So E is the foot of the perpendicular from C to BD, you get CE is equal to 10. Determine the AB. A B C D
 
 **Answer:** 0015
-[[Quesiti/src_cesenatico_2006_squadre_pubblico#q05|src_cesenatico_2006_squadre_pubblico__Q05]]
 
 
 
@@ -230,7 +225,6 @@ Coefficient of x^2006 in product of polynomials
 > Ron has discovered the other half of the sky, the girls! His passion is the most beautiful of all mathematicians: Clara, of the house of Righecompass. The number of Chiara's chamber is equal to the coefficient of the term x2006 of the polynomial (1+x) 2(1+x2)(1+x4)(1+x8) 3(1+x16)(1+x32) 4(1+x64)(1+x128)(1+x256)(1+x512)(1+x1024). Which room in Righecompasso's house is Ron supposed to go into?
 
 **Answer:** 0064
-[[Quesiti/src_cesenatico_2006_squadre_pubblico#q06|src_cesenatico_2006_squadre_pubblico__Q06]]
 
 
 
@@ -264,7 +258,6 @@ Coefficient of x^2006 in product of polynomials
 > Quamditch training [20] In a Quamditch training, leggywoman Hermita Lagrange is studying a very difficult figure: she wants to go back slowly to a propeller (i.e. taking height regularly while spinning along the lateral surface of an imaginary cylinder), so that her scope travels a total distance of 2006 meters in exactly 15 laps, rising in all by an integer number of meters. In addition, the cylinder's circumference is to be a whole number of meters long. How much can this number be worth (if any)?
 
 **Answer:** 0118
-[[Quesiti/src_cesenatico_2006_squadre_pubblico#q07|src_cesenatico_2006_squadre_pubblico__Q07]]
 
 
 
@@ -299,7 +292,6 @@ The final figure is not much of (5n)! for four years*
 > Merited Holidays [80] According to a long tradition, the number of extra-curricular holidays of the Higher Mathematical School is decided each solar year on the basis of an ancient tradition. It is always a number between 1 and 9, and in the year n must correspond to the last non-zero figure of the factor of 5n (calculated at the matrices in a special ceremony). How many vacation days are there in the next four years? Answer a number whose four digits are in the order of the holiday days of the years 2006 to 2009.
 
 **Answer:** 4862
-[[Quesiti/src_cesenatico_2006_squadre_pubblico#q08|src_cesenatico_2006_squadre_pubblico__Q08]]
 
 
 
@@ -332,7 +324,6 @@ The final figure is not much of (5n)! for four years*
 > The Triangle tournament [45] In years that have at least 36 divisors, the Higher School of Mathematics organizes the Triangle tournament. From its foundation in 1006 to this year in 2006, in which years has the tournament been organized? Answer with the sum of those years.
 
 **Answer:** 8160
-[[Quesiti/src_cesenatico_2006_squadre_pubblico#q09|src_cesenatico_2006_squadre_pubblico__Q09]]
 
 
 
@@ -368,7 +359,6 @@ The final figure is not much of (5n)! for four years*
 > During the potion lesson, Hardy and his friend Ron Perelman have to choose two of the 36 ingredients available and mix them in hopes of getting a potion with some properties. Their friend Hermita told him that if the first two ingredients don't work, he should try two more (changing them both): it may happen that even then he gets nothing, but then  assures him  by mixing an ingredient from each pair (in any way) you will necessarily get a useful potion. How many combinations of at least two ingredients make a potion useful?
 
 **Answer:** 0594
-[[Quesiti/src_cesenatico_2006_squadre_pubblico#q10|src_cesenatico_2006_squadre_pubblico__Q10]]
 
 
 
@@ -409,7 +399,6 @@ The final figure is not much of (5n)! for four years*
 > Team competition 2006  Public competition  Problem texts  Pag. 3 di 4
 
 **Answer:** 2143
-[[Quesiti/src_cesenatico_2006_squadre_pubblico#q11|src_cesenatico_2006_squadre_pubblico__Q11]]
 
 
 
@@ -442,7 +431,6 @@ The final figure is not much of (5n)! for four years*
 > The Quamditch team[40] Hardy, the captain of the Rapporteur's home Quamditch team must decide the roster of nine players from his home Quamditch team. How many non-empty subsets of {1,2,3,4,5,6,7,8,9} are such that the sum of the elements is multiple of 3?
 
 **Answer:** 0175
-[[Quesiti/src_cesenatico_2006_squadre_pubblico#q12|src_cesenatico_2006_squadre_pubblico__Q12]]
 
 
 
@@ -476,7 +464,6 @@ The final figure is not much of (5n)! for four years*
 > The divination test [70] The highly trained Hermit has just passed, with ease, the divination test, despite the prediction of roots being, according to Hardy and Ron, a rather hostile subject. It was about calculating the fifth root of 107187643912857507, knowing that it is a 4-digit integer and that the third digit (counting from right to left) is 5. What's the solution?
 
 **Answer:** 2547
-[[Quesiti/src_cesenatico_2006_squadre_pubblico#q13|src_cesenatico_2006_squadre_pubblico__Q13]]
 
 
 
@@ -508,7 +495,6 @@ The final figure is not much of (5n)! for four years*
 > The second test [50] For the competitors in the TreAngoli tournament who survived the first test, it is now time to address the second question. They must determine the remainder of the whole division between 4·723 +311 and 101. What is it?
 
 **Answer:** 0000
-[[Quesiti/src_cesenatico_2006_squadre_pubblico#q14|src_cesenatico_2006_squadre_pubblico__Q14]]
 
 
 
@@ -545,7 +531,6 @@ Probability of possession of ball with dice (rules given)
 > The Quamditch Final [60] In the Quamditch school final, the teams of Reportaureo and Partimmaginaria meet. To decide the possession of the ball Hardy, the captain of Rapportaureo, and Fracto, the captain of Partimmaginaria, play the following game: they both draw a normal dice. If the number on Hardy's dice is greater than Fracto's, then the ball goes to Rapportaureo. If the numbers are the same, then the ball goes to Partimaginaria. If finally the Fracto number is the largest, then you repeat the game in reverse. Calculate the probability of the ball touching Rapporteur. Express the result as the sum of the numerator and denominator of the fraction reduced to minimum terms.
 
 **Answer:** 0027
-[[Quesiti/src_cesenatico_2006_squadre_pubblico#q15|src_cesenatico_2006_squadre_pubblico__Q15]]
 
 
 
@@ -579,7 +564,6 @@ Probability of possession of ball with dice (rules given)
 > A Quamditch Scheme[25] Hardy, the team captain of the Quamditch team from the house of Rapporteur, instructs his teammates on a new game scheme he has developed. If we consider in space the sum of Q points that have whole coordinates and are between 0 and 10 (included), how many cubes exist with parallel shafts to the Cartesian axis and with vertices belonging to Q?
 
 **Answer:** 3025
-[[Quesiti/src_cesenatico_2006_squadre_pubblico#q16|src_cesenatico_2006_squadre_pubblico__Q16]]
 
 
 
@@ -613,7 +597,6 @@ Probability of possession of ball with dice (rules given)
 > Situation of danger [40] Following the intrusion into the castle of the Higher Mathematical School of the followers of He-who-can-not-be-demonstrated, all the words of order to enter the houses of the school have been changed. As soon as Hardy, Ron, and Hermita try to enter the Reporter's house, the guard ghost asks them how many sets of consecutive integers there are and whose sum is a billion. What answer do you have to give to enter?
 
 **Answer:** 0020
-[[Quesiti/src_cesenatico_2006_squadre_pubblico#q17|src_cesenatico_2006_squadre_pubblico__Q17]]
 
 
 
@@ -649,7 +632,6 @@ Probability of possession of ball with dice (rules given)
 > The beautiful deceiver [40] Ron is now completely fed up with Chiara, the beautiful girl at school. Beautiful Clara knows Ron's rather weak in arithmology, so to make fun of him she gives him a date at one of the castle halls. The number of the room is equal to the minimum possible denominator among all the fractions whose decimal writing contains a period of exactly four digits, all distinct. Which room is Ron supposed to go to?
 
 **Answer:** 0101
-[[Quesiti/src_cesenatico_2006_squadre_pubblico#q18|src_cesenatico_2006_squadre_pubblico__Q18]]
 
 
 
@@ -684,7 +666,6 @@ Probability of possession of ball with dice (rules given)
 > At the divination lesson [10] Poor Ron was blindfolded and the divination teacher wrote a formula on the board. Knowing that in the expression there are only 2 digits and multiplication marks, and that the result has four digits and is the maximum possible, what answer should Ron give?
 
 **Answer:** 9768
-[[Quesiti/src_cesenatico_2006_squadre_pubblico#q19|src_cesenatico_2006_squadre_pubblico__Q19]]
 
 
 
@@ -718,7 +699,6 @@ Probability of possession of ball with dice (rules given)
 > Defence against dark mathematics [25] Group lesson in the course of defence against dark mathematics! Twelve students, numbered S1, S2, respectively. . . , S12, are located at the vertices of a regular dodecagon. If the segments S1S6, S5S10 and S9S2 are plotted, four triangles are formed. Both A the area of the central triangle and B the sum of the areas of the other three. Calculate 1000A/B.
 
 **Answer:** 1000
-[[Quesiti/src_cesenatico_2006_squadre_pubblico#q20|src_cesenatico_2006_squadre_pubblico__Q20]]
 
 
 
@@ -753,7 +733,6 @@ Probability of possession of ball with dice (rules given)
 > Ambitious matriculations [20] Higher Mathematics School students are assigned to their home country according to their mathematical attitudes. This year, in order to enter the House of Rapporteur, it was necessary to find the sum of all the positive rations which, reduced to the minimum terms, have the form of 30, and which are less than 10. What was the response of the student body?
 
 **Answer:** 0400
-[[Quesiti/src_cesenatico_2006_squadre_pubblico#q21|src_cesenatico_2006_squadre_pubblico__Q21]]
 
 
 
@@ -788,7 +767,6 @@ Probability of possession of ball with dice (rules given)
 > A condemnation to be avoided [10] The followers of He-who-can-not-be-proven, fierce supporters of dark and contradictory mathematics, are on the verge! Even simple questions can reveal their distorted mathematical knowledge. For example, the judge asked how many positive integers strictly greater than 9 whose digits on base 10 are strictly increasing from left to right. What is the answer to avoid condemnation?
 
 **Answer:** 0502
-[[Quesiti/src_cesenatico_2006_squadre_pubblico#q22|src_cesenatico_2006_squadre_pubblico__Q22]]
 
 
 
@@ -821,7 +799,6 @@ Probability of possession of ball with dice (rules given)
 > Graduates of the Higher Mathematical School are assigned to their home country according to their mathematical attitudes. This year, for example, in order to enter the house of Inclusion, it was necessary to know how many integers are equal, including between 4000 and 7000, all of which have different digits. What's the right answer?
 
 **Answer:** 0728
-[[Quesiti/src_cesenatico_2006_squadre_pubblico#q23|src_cesenatico_2006_squadre_pubblico__Q23]]
 
 
 
@@ -938,4 +915,3 @@ The probability of Hardy winning the ninth game.
 > Cesenatico Competition for teams 2 6 VII GARA NAZIONAL A SQUADRE Competition for the public  SOLUTIONS  6 May 2006 Nr. Problem Pti Solution 1 A leisure break 15 0793 2 Impostors revealed 40 2912 3 Stormy reports 35 0052 4 The first test 60 0004 5 Question of positions 40 0015 6 Seducer of overtime 35 0064 7 Training of Quamditch 20 0118 8 Merited holidays 80 4862 9 The tournament Triangles 45 8160 10 To the potions lesson 65 0594 11 A truffle weapon 15 2143 12 The team of Quamditch 40 0175 13 L  Exam of divination 70 2547 14 The final test of Quamditch 60 0027 16 A scheme of Quamditch 25 3025 17 020 17 A scheme of danger One 40 020 18 The beautiful 40 0101 Un un un unwillingness of the Divine Defence against the Secondary Schools
 
 **Answer:** 9842
-[[Quesiti/src_cesenatico_2006_squadre_pubblico#q24|src_cesenatico_2006_squadre_pubblico__Q24]]

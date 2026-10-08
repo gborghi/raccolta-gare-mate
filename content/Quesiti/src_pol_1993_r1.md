@@ -34,8 +34,6 @@ level: Olimpiade Polacca Round 1
 
 > Risolvere la seguente equazione in numeri reali: $$\frac{(x^2-1)(|x|+1)}{x+\operatorname{sgn} x}=[x+1].$$
 
-[[Quesiti/src_pol_1993_r1#q01|src_pol_1993_r1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_trigonometria,topic_algebra,method_estremalita,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -61,8 +59,6 @@ level: Olimpiade Polacca Round 1
 *Solvi un sistema ciclico di n equazioni che coinvolgono tangente e cotangente.*
 
 > $n\ge 3$ sia un numero intero. Risolvere il sistema di equazioni: $$\begin{aligned}\tan x_1+3\cot x_1&=2\tan x_2,\\\tan x_2+3\cot x_2&=2\tan x_3,\\&\;\;\vdots\\\tan x_n+3\cot x_n&=2\tan x_1.\end{aligned}$$
-
-[[Quesiti/src_pol_1993_r1#q02|src_pol_1993_r1__Q02]]
 
 
 
@@ -90,8 +86,6 @@ level: Olimpiade Polacca Round 1
 
 > Che il $ABCDEF$ sia un esagono centralmente simmetrico. Le linee $AB$ e $EF$ si incontrano a $A'$, le linee $BC$ e $AF$ si incontrano a $B'$, e le linee $AB$ e $CD$ si incontrano a $C'$. Provare che $$AB\cdot BC\cdot CD=AA'\cdot BB'\cdot CC'.$$
 
-[[Quesiti/src_pol_1993_r1#q03|src_pol_1993_r1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,skill_astrazione,skill_manipolazione_algebrica"></span>
@@ -117,8 +111,6 @@ level: Olimpiade Polacca Round 1
 
 > Trova tutte le funzioni $f:\mathbb{R}\to\mathbb{R}$ in modo che per tutte le $x,y$ reali, $$f(x+y)-f(x-y)=f(x)f(y).$$
 
-[[Quesiti/src_pol_1993_r1#q04|src_pol_1993_r1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione"></span>
@@ -143,8 +135,6 @@ level: Olimpiade Polacca Round 1
 Prove che una linea determinata da due quadrati costruiti su un triangolo passa attraverso un punto fisso.
 
 > Si deve considerare che $A$ e $C$ siano punti distinti nel piano. Per ogni punto $B$ si costruiscono quadrati $ABKL$ e $BCMN$ al di fuori del triangolo $ABC$. Prove che le linee $LM$ passano attraverso un punto fisso in quanto $B$ varia nello stesso semiplano determinato da $AC$.
-
-[[Quesiti/src_pol_1993_r1#q05|src_pol_1993_r1__Q05]]
 
 
 
@@ -173,8 +163,6 @@ Prove che una linea determinata da due quadrati costruiti su un triangolo passa 
 
 > La sequenza $(x_n)$ è definita da $x_0=1992$ e $$x_n=-\frac{1992}{n}\sum_{k=0}^{n-1}x_k$$ per ciascuna $n\ge 1$. Calcolare $\displaystyle\sum_{n=0}^{1992}2^n x_n$.
 
-[[Quesiti/src_pol_1993_r1#q06|src_pol_1993_r1__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_solida,topic_geometria_analitica,method_coordinate,method_casework,skill_ragionamento_geometrico,skill_modellizzazione"></span>
@@ -199,8 +187,6 @@ Prove che una linea determinata da due quadrati costruiti su un triangolo passa 
 *Ricerca il volume dello scafo convexo dei punti definiti dalle equazioni vettoriali nello spazio.*
 
 > Considerare i punti $A_0(0,0,0)$, $A_1(1,0,0)$, $A_2(0,1,0)$ e $A_3(0,0,1)$ nello spazio. Il punto $P_{ij}$ ($i,j=0,1,2,3$) deve essere definito da $\overrightarrow{A_0 P_{ij}}=\overrightarrow{A_i A_j}$. Trovare il volume della cassa convexa dei punti $P_{ij}$.
-
-[[Quesiti/src_pol_1993_r1#q07|src_pol_1993_r1__Q07]]
 
 
 
@@ -228,8 +214,6 @@ Massimizzare la somma di nove numeri naturali soggetti a un limite sulla somma d
 
 > Date un numero intero positivo $n$, determinare il valore massimo possibile della somma dei numeri naturali $k_1,k_2,\ldots,k_9$ che soddisfano $$k_1^5+k_2^5+\cdots+k_9^5\le 7n.$$
 
-[[Quesiti/src_pol_1993_r1#q08|src_pol_1993_r1__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_fattorizzazione,skill_manipolazione_algebrica"></span>
@@ -256,8 +240,6 @@ Massimizzare la somma di nove numeri naturali soggetti a un limite sulla somma d
 
 > Lasciate che $a,b,c$ siano numeri reali. Provare la disuguaglianza $$(a^2+b^2-c^2)(b^2+c^2-a^2)(c^2+a^2-b^2)\le(a+b-c)^2(b+c-a)^2(c+a-b)^2.$$
 
-[[Quesiti/src_pol_1993_r1#q09|src_pol_1993_r1__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_solida,topic_insiemi_funzioni,method_estremalita,skill_astrazione,skill_ragionamento_geometrico"></span>
@@ -282,8 +264,6 @@ Massimizzare la somma di nove numeri naturali soggetti a un limite sulla somma d
 *Dimostrare che un'isometria è una suriezione non in aumento di distanza di un cubo su se stesso.*
 
 > Che $\mathscr{C}$ sia un cubo e che $f:\mathscr{C}\to\mathscr{C}$ sia una suriezione tale che $|PQ|\ge|f(P)f(Q)|$ per tutti $P,Q\in\mathscr{C}$. Provare che $f$ è un'isometria.
-
-[[Quesiti/src_pol_1993_r1#q10|src_pol_1993_r1__Q10]]
 
 
 
@@ -310,8 +290,6 @@ Massimizzare la somma di nove numeri naturali soggetti a un limite sulla somma d
 
 > Sei pedoni vengono posizionati a caso su una scacchiera $n\times n$. La probabilità che almeno due dei pedoni si trovino nella stessa riga o colonna è $p_n$. Trova $\displaystyle\lim_{n\to\infty} n p_n$.
 
-[[Quesiti/src_pol_1993_r1#q11|src_pol_1993_r1__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -336,5 +314,3 @@ Massimizzare la somma di nove numeri naturali soggetti a un limite sulla somma d
 *Caricare quando x^n+4 fattori in due polinomi non costanti di coefficienti interi.*
 
 > Prove che il polinomio $x^n+4$ è espressibile come il prodotto di due polinomi non costanti con coefficienti interi se e solo se $4\mid n$.
-
-[[Quesiti/src_pol_1993_r1#q12|src_pol_1993_r1__Q12]]

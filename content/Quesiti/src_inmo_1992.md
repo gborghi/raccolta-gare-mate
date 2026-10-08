@@ -33,8 +33,6 @@ level: INMO
 
 > In un triangolo $ABC$, $\angle A = 2\angle B$. Prove che $a^2 = b(b + c)$.
 
-[[Quesiti/src_inmo_1992#q01|src_inmo_1992__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_simmetria,skill_manipolazione_algebrica,skill_stima"></span>
@@ -59,8 +57,6 @@ level: INMO
 *Numeri reali x,y,z con la somma e la somma delle condizioni di quadrati; mostrare x_i in [1/2,2]*
 
 > Se i numeri reali $x, y, z$ soddisfano $x + y + z = 4$ e $x^2 + y^2 + z^2 = 6$, indicare che ciascuno di $x, y, z$ si trova nel segmento $\left[\tfrac{1}{2}, 2\right]$. Può $x$ raggiungere uno dei punti finali del segmento?
-
-[[Quesiti/src_inmo_1992#q02|src_inmo_1992__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: INMO
 
 > Determinare il residuo di $19^{92}$ diviso per $92$.
 
-[[Quesiti/src_inmo_1992#q03|src_inmo_1992__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,method_inclusione_esclusione,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -113,8 +107,6 @@ level: INMO
 *Permutazioni di 1,...,k non estensibili; trovare numero di tali permutazioni*
 
 > Trova il numero di permutazioni $(p_1, p_2, \ldots, p_6)$ di $1, 2, \ldots, 6$ in modo tale che per qualsiasi $k$, $1 \le k \le 5$, $(p_1, p_2, \ldots, p_k)$ non costituisca una permutazione di $1, 2, \ldots, k$.
-
-[[Quesiti/src_inmo_1992#q04|src_inmo_1992__Q04]]
 
 
 
@@ -141,8 +133,6 @@ level: INMO
 
 > Due cerchi $C_1$ e $C_2$ nel piano si intersecano a due punti $P$ e $Q$. Una linea attraverso $P$ incontra $C_1$ a $A$ e $C_2$ a $B$. Il $Y$ deve essere il punto medio di $AB$ e $QY$ deve incontrare di nuovo i cerchi $C_1$ e $C_2$ rispettivamente a $X$ e $Z$. Indicare che $Y$ è il punto medio di $XZ$.
 
-[[Quesiti/src_inmo_1992#q05|src_inmo_1992__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -167,8 +157,6 @@ level: INMO
 *Polinomio con coefficienti interi che assumono il valore 2 a numeri interi distinti; nessun numero intero b con f(b)=9*
 
 > $f(x)$ sia un polinomio con coefficienti interi in modo che esistano diversi interi $a_1, a_2, \ldots, a_n$ in cui $f$ prende il valore $2$. Indicare che non esiste un numero intero $b$ con $f(b) = 9$.
-
-[[Quesiti/src_inmo_1992#q06|src_inmo_1992__Q06]]
 
 
 
@@ -195,8 +183,6 @@ level: INMO
 
 > Per ogni numero intero $n \ge 3$, trovare il numero di modi in cui si possono posizionare i numeri $1, 2, \ldots, n^2$ nei quadrati di una scacchiera $n \times n$ (uno in ogni quadrato) in modo che i numeri in ogni riga e in ogni colonna formino una progressione aritmetica.
 
-[[Quesiti/src_inmo_1992#q07|src_inmo_1992__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato"></span>
@@ -221,8 +207,6 @@ level: INMO
 *Ricerca tutte le coppie (m,n) di numeri interi positivi per le quali 2^m + 3^n è un quadrato perfetto*
 
 > Trova tutte le coppie $(m, n)$ di interi positivi per le quali $2^m + 3^n$ è un quadrato perfetto.
-
-[[Quesiti/src_inmo_1992#q08|src_inmo_1992__Q08]]
 
 
 
@@ -250,8 +234,6 @@ level: INMO
 
 > Trova $n$ in modo che in un normale $n$-gon $A_1 A_2 \ldots A_n$ abbiamo $$\frac{1}{A_1 A_2} = \frac{1}{A_1 A_3} + \frac{1}{A_1 A_4}.$$
 
-[[Quesiti/src_inmo_1992#q09|src_inmo_1992__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_funzionali,topic_algebra,method_simmetria,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -277,5 +259,3 @@ level: INMO
 *Ricerca tutte le funzioni f: R\{0,1} → R che soddisfa un'equazione funzionale*
 
 > Determinare tutte le funzioni $f : \mathbb{R} \setminus \{0, 1\} \to \mathbb{R}$ in modo che per tutte $x$, $$f(x) + f\!\left(\frac{1}{1-x}\right) = \frac{2(1-2x)}{x(1-x)}.$$
-
-[[Quesiti/src_inmo_1992#q10|src_inmo_1992__Q10]]

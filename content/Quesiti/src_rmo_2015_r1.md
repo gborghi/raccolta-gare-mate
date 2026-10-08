@@ -32,8 +32,6 @@ level: RMO
 
 > In un quadrilaterale ciclico $ABCD$, le diagonali $AC$ e $BD$ si intersecano a $X$. Lasciate che i circoncircoli dei triangoli $AXD$ e $BXC$ si incrociano di nuovo a $Y$. Se $X$ è il centro del triangolo $ABY$, indicare che $\angle CAD = 90^\circ$.
 
-[[Quesiti/src_rmo_2015_r1#q01|src_rmo_2015_r1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -58,8 +56,6 @@ level: RMO
 *Due quadratici uguali a due enti, dimostrare la differenza dei coefficienti lineari principali è pari*
 
 > Lasciate che $P_1(x) = x^2 + a_1 x + b_1$ e $P_2(x) = x^2 + a_2 x + b_2$ siano due polinomi quadratici con coefficienti interi. Supponiamo $a_1 \neq a_2$ e ci sono enti $m \neq n$ come $P_1(m) = P_2(m)$ e $P_1(n) = P_2(n)$. Provare che $a_1 - a_2$ è pari.
-
-[[Quesiti/src_rmo_2015_r1#q02|src_rmo_2015_r1__Q02]]
 
 
 
@@ -86,8 +82,6 @@ level: RMO
 
 > Trova tutte le frazioni che possono essere scritte contemporaneamente nelle forme $\dfrac{7k-5}{5k-3}$ e $\dfrac{6l-1}{4l-3}$, per alcuni integri $k$, $l$.
 
-[[Quesiti/src_rmo_2015_r1#q03|src_rmo_2015_r1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,method_inclusione_esclusione,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
@@ -112,8 +106,6 @@ level: RMO
 *Contare i modi per scegliere 3 oggetti non adiacenti non diametralmente opposti tra 28 in un cerchio*
 
 > Supponiamo che 28 oggetti siano posizionati lungo un cerchio a distanze uguali. In quanti modi si possono scegliere tre oggetti tra di loro in modo che nessuno dei tre oggetti scelti sia adiacente o diametralmente opposto?
-
-[[Quesiti/src_rmo_2015_r1#q04|src_rmo_2015_r1__Q04]]
 
 
 
@@ -140,8 +132,6 @@ level: RMO
 
 > Che $ABC$ sia un triangolo con $\angle B = 90^\circ$. I punti intermedi $E$ e $F$ siano rispettivamente i punti intermedi $AB$ e $AC$. Supponiamo che l'incircolo $I$ del triangolo $ABC$ sia situato sull'incircolo del triangolo $AEF$. Trova il rapporto $BC/AB$.
 
-[[Quesiti/src_rmo_2015_r1#q05|src_rmo_2015_r1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
@@ -166,5 +156,3 @@ level: RMO
 *Ricerca tutti i reali a in (3,4) in modo che a(3-2f) sia un intero*
 
 > Trova tutti i numeri reali $a$ in modo tale che $3 < a < 4$ e $a(3 - 2f)$ siano un numero intero, dove $f = \{a\}$ indica la parte frazionaria di $a$. (Ad esempio $\{1.5\} = 0.5$; $\{-3.4\} = 0.6$.)
-
-[[Quesiti/src_rmo_2015_r1#q06|src_rmo_2015_r1__Q06]]

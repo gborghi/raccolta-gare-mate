@@ -39,7 +39,6 @@ level: squadre
 > are those in which one of the two digits is even and the other is odd?
 
 **Answer:** 0045
-[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q01|src_kangourou_2021_squadre_ecolier_f__Q01]]
 
 
 
@@ -75,7 +74,6 @@ level: squadre
 > example, the first time were tomorrow, you should write 0001.
 
 **Answer:** 0104
-[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q02|src_kangourou_2021_squadre_ecolier_f__Q02]]
 
 
 
@@ -105,7 +103,6 @@ level: squadre
 > Federico has a dog breeding farm where he keeps only three types of dogs: pointers, labradors and spaniels. Currently all the dogs except $28$ are pointers, all the dogs except $19$ are labradors and all the dogs except $13$ are spaniels. How many labradors are there?
 
 **Answer:** 0011
-[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q03|src_kangourou_2021_squadre_ecolier_f__Q03]]
 
 
 
@@ -135,7 +132,6 @@ level: squadre
 > To add two numbers, Giulio used a calculator. While typing one of the two, he mistakenly added a zero at the end: so he got the sum $4640$ while, if he had typed both numbers correctly, he would have gotten $2021$. What was the larger of the two correct numbers?
 
 **Answer:** 1730
-[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q04|src_kangourou_2021_squadre_ecolier_f__Q04]]
 
 
 
@@ -169,7 +165,6 @@ level: squadre
 > Here you see a square tile in which a figure obtained by placing six rectangles of identical dimensions side by side is inserted. The area of the square is $18$ cm$^2$. How many centimeters is the perimeter of the inserted figure?
 
 **Answer:** 0016
-[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q05|src_kangourou_2021_squadre_ecolier_f__Q05]]
 
 
 
@@ -200,7 +195,6 @@ level: squadre
 > In the group stage of the Champions Cup there are $8$ groups, in each of which $4$ teams play. Each team meets each other team in its group twice. How many matches are played in total during the group stage?
 
 **Answer:** 0096
-[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q06|src_kangourou_2021_squadre_ecolier_f__Q06]]
 
 
 
@@ -234,7 +228,6 @@ level: squadre
 > green numbering, while no. 5 in the red numbering is no. 106 in the green numbering. How many posts are there?
 
 **Answer:** 0111
-[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q07|src_kangourou_2021_squadre_ecolier_f__Q07]]
 
 
 
@@ -267,7 +260,6 @@ level: squadre
 > is 100 and add them up”. What is the smallest sum that Dario could find?
 
 **Answer:** 0110
-[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q08|src_kangourou_2021_squadre_ecolier_f__Q08]]
 
 
 
@@ -305,7 +297,6 @@ level: squadre
 > small?
 
 **Answer:** 0002
-[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q09|src_kangourou_2021_squadre_ecolier_f__Q09]]
 
 
 
@@ -335,7 +326,6 @@ level: squadre
 > The sum of five consecutive integers is 2020. What is the largest of these numbers?
 
 **Answer:** 0406
-[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q10|src_kangourou_2021_squadre_ecolier_f__Q10]]
 
 
 
@@ -371,7 +361,6 @@ level: squadre
 > Claudio travel?
 
 **Answer:** 0350
-[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q11|src_kangourou_2021_squadre_ecolier_f__Q11]]
 
 
 
@@ -405,7 +394,6 @@ level: squadre
 > of 5 biscuits will she have to buy?
 
 **Answer:** 0006
-[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q12|src_kangourou_2021_squadre_ecolier_f__Q12]]
 
 
 
@@ -436,7 +424,6 @@ level: squadre
 > How many four-digit numbers have 1 as the thousands digit and at least 3 equal digits?
 
 **Answer:** 0037
-[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q13|src_kangourou_2021_squadre_ecolier_f__Q13]]
 
 
 
@@ -468,7 +455,6 @@ level: squadre
 > birthday?
 
 **Answer:** 0056
-[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q14|src_kangourou_2021_squadre_ecolier_f__Q14]]
 
 
 
@@ -503,4 +489,3 @@ level: squadre
 > while {83, 98} is not. How many centenary pairs are there?
 
 **Answer:** 0005
-[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q15|src_kangourou_2021_squadre_ecolier_f__Q15]]

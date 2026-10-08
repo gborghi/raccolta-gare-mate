@@ -33,8 +33,6 @@ level: Olimpiade Polacca Round 3
 
 > In un triangolo acuto $ABC$ il punto $O$ è il centro circostante, $CD$ è l'altitudine, $E$ un punto laterale $AB$ e $M$ il punto medio di $CE$. La perpendicolare a $OM$ a $M$ incrocia rispettivamente le linee $AC$ e $BC$ a $K$ e $L$. Prove che $\frac{LM}{MK} = \frac{AD}{DB}$.
 
-[[Quesiti/src_pol_2007_r3#q01|src_pol_2007_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_fattorizzazione,skill_riconoscimento_pattern"></span>
@@ -59,8 +57,6 @@ level: Olimpiade Polacca Round 3
 *insieri positivi bianchi/neri definiti con parità del numero di fattori primi; esistenza di numeri interi con somma uguale di divisori bianchi e neri.*
 
 > Si dice che un intero positivo sia $white$ se è uguale a 1 o a un prodotto di un numero pari di fattori primi (non necessariamente distinti). Altri integri positivi sono denominati $black$. Esiste un numero intero positivo la cui somma dei divisori bianchi è uguale alla somma dei divisori neri?
-
-[[Quesiti/src_pol_2007_r3#q02|src_pol_2007_r3__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: Olimpiade Polacca Round 3
 
 > Un piano è diviso in unità quadrate. Un intero positivo deve essere scritto in ogni quadrato unitario in modo che ogni intero positivo si verifichi esattamente una volta. Decidi se questo può essere fatto in modo tale che il numero in ogni quadrato divida la somma dei numeri nei quattro quadrati vicini.
 
-[[Quesiti/src_pol_2007_r3#q03|src_pol_2007_r3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
@@ -113,8 +107,6 @@ level: Olimpiade Polacca Round 3
 *Contare il numero dei valori possibili del prodotto km per i numeri interi con n^2 <= k <= m <= (n+1)^2.*
 
 > Date un numero intero $n \ge 1$, trovare il numero dei valori possibili del prodotto $km$, dove $k$ e $m$ sono numeri interi con $n^2 \le k \le m \le (n+1)^2$.
-
-[[Quesiti/src_pol_2007_r3#q04|src_pol_2007_r3__Q04]]
 
 
 
@@ -144,8 +136,6 @@ level: Olimpiade Polacca Round 3
 
 > Un tetraedro $ABCD$ è tale che $$\angle BAC + \angle BDC = \angle ABD + \angle ACD,$$ $$\angle BAD + \angle BCD = \angle ABC + \angle ADC.$$ dimostri che il centro della sfera circoscritta del tetraedro si trova sulla linea che attraversa i punti medi di $AB$ e $CD$.
 
-[[Quesiti/src_pol_2007_r3#q05|src_pol_2007_r3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,method_induzione,method_ricorsione,skill_manipolazione_algebrica"></span>
@@ -172,5 +162,3 @@ level: Olimpiade Polacca Round 3
 *Sequenza reale definita ricursivamente attraverso un'equazione di somma ponderata a partire da a0=-1; dimostrare tutti i termini successivi positivi.*
 
 > La sequenza dei numeri reali $a_0, a_1, a_2, \ldots$ è definita da $a_0 = -1$ e $$a_n + \frac{a_{n-1}}{2} + \frac{a_{n-2}}{3} + \cdots + \frac{a_1}{n} + \frac{a_0}{n+1} = 0 \quad \text{for } n \ge 1.$$ Mostra che $a_n > 0$ per $n \ge 1$.
-
-[[Quesiti/src_pol_2007_r3#q06|src_pol_2007_r3__Q06]]

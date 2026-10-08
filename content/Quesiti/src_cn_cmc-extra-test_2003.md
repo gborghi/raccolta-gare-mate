@@ -36,8 +36,6 @@ level: China Mathematical Competition (Extra Test)
 
 ![[src_cn_cmc-extra-test_2003__q01.png]]
 
-[[Quesiti/src_cn_cmc-extra-test_2003#q01|src_cn_cmc-extra-test_2003__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -65,7 +63,6 @@ level: China Mathematical Competition (Extra Test)
 > I tre lati di un triangolo sono numeri interi $l$, $m$, $n$, rispettivamente, soddisfacendo $l > m \ge n$ e $\left\{\frac{3^l}{10^4}\right\} = \left\{\frac{3^m}{10^4}\right\} = \left\{\frac{3^n}{10^4}\right\}$, dove $\{x\} = x - [x]$ e $[x]$ denotano la parte integrale di $x$. Trova il perimetro minimo di un triangolo.
 
 **Risposta:** 3003
-[[Quesiti/src_cn_cmc-extra-test_2003#q02|src_cn_cmc-extra-test_2003__Q02]]
 
 
 
@@ -91,5 +88,3 @@ level: China Mathematical Competition (Extra Test)
 *Figura spaziale con vertici n=q^2+q+1: prova dell'esistenza di quadrilaterali spaziali*
 
 > La figura spaziale è composta da vertici $n$ e linee $l$ che collegano tali vertici, con $n = q^2 + q + 1$, $l \ge \frac{1}{2}(q+1)^2 + 1$, $q \ge 2$, $q \in \mathbb{N}$. Supponiamo che la figura soddisfi le seguenti condizioni: ogni quattro vertici non sono coplanari, ogni vertici è collegato da almeno una linea e c'è un vertici che è collegato da almeno $q + 2$ linee. Prove che esiste un quadrilaterale spaziale nella figura.
-
-[[Quesiti/src_cn_cmc-extra-test_2003#q03|src_cn_cmc-extra-test_2003__Q03]]

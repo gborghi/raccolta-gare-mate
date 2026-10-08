@@ -45,8 +45,6 @@ level: triennio
 > - **(D)** 12
 > - **(E)** 11
 
-[[Quesiti/src_archimede_2024_triennio_rec#q01|src_archimede_2024_triennio_rec__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,skill_manipolazione_algebrica"></span>
@@ -88,8 +86,6 @@ level: triennio
 > - **(D)** 11
 > - **(E)** 13
 
-[[Quesiti/src_archimede_2024_triennio_rec#q02|src_archimede_2024_triennio_rec__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_conteggio,skill_conteggio_sistematico"></span>
@@ -127,8 +123,6 @@ level: triennio
 > - **(C)** 9
 > - **(D)** No one
 > - **(E)** 36
-
-[[Quesiti/src_archimede_2024_triennio_rec#q03|src_archimede_2024_triennio_rec__Q03]]
 
 
 
@@ -172,8 +166,6 @@ level: triennio
 > - **(C)** 1/9
 > - **(D)** 1/3
 > - **(E)** 2
-
-[[Quesiti/src_archimede_2024_triennio_rec#q04|src_archimede_2024_triennio_rec__Q04]]
 
 
 
@@ -238,8 +230,6 @@ level: triennio
 > - **(D)** 16
 > - **(E)** 12
 
-[[Quesiti/src_archimede_2024_triennio_rec#q05|src_archimede_2024_triennio_rec__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
@@ -275,8 +265,6 @@ level: triennio
 > - **(C)** 99
 > - **(D)** 50
 > - **(E)** 42
-
-[[Quesiti/src_archimede_2024_triennio_rec#q06|src_archimede_2024_triennio_rec__Q06]]
 
 
 
@@ -343,8 +331,6 @@ level: triennio
 > - **(D)** 17/4
 > - **(E)** 9/2
 
-[[Quesiti/src_archimede_2024_triennio_rec#q07|src_archimede_2024_triennio_rec__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
@@ -396,8 +382,6 @@ level: triennio
 > - **(D)** √ 3 3
 > - **(E)** 3 4
 
-[[Quesiti/src_archimede_2024_triennio_rec#q08|src_archimede_2024_triennio_rec__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
@@ -436,8 +420,6 @@ level: triennio
 > - **(D)** 7
 > - **(E)** 5
 
-[[Quesiti/src_archimede_2024_triennio_rec#q09|src_archimede_2024_triennio_rec__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
@@ -475,8 +457,6 @@ How to sit 4 pairs of sisters next to each other
 > - **(C)** 360
 > - **(D)** 432
 > - **(E)** 420
-
-[[Quesiti/src_archimede_2024_triennio_rec#q10|src_archimede_2024_triennio_rec__Q10]]
 
 
 
@@ -529,8 +509,6 @@ How to sit 4 pairs of sisters next to each other
 > - **(D)** 4
 > - **(E)** 9/2
 
-[[Quesiti/src_archimede_2024_triennio_rec#q11|src_archimede_2024_triennio_rec__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
@@ -572,8 +550,6 @@ How to sit 4 pairs of sisters next to each other
 > - **(D)** 90
 > - **(E)** 81
 
-[[Quesiti/src_archimede_2024_triennio_rec#q12|src_archimede_2024_triennio_rec__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,method_fattorizzazione,skill_casework_accurato"></span>
@@ -611,8 +587,6 @@ How to sit 4 pairs of sisters next to each other
 > - **(C)** 3
 > - **(D)** No one
 > - **(E)** 68
-
-[[Quesiti/src_archimede_2024_triennio_rec#q13|src_archimede_2024_triennio_rec__Q13]]
 
 
 
@@ -663,8 +637,6 @@ How to sit 4 pairs of sisters next to each other
 > - **(D)** 77°
 > - **(E)** 72°
 
-[[Quesiti/src_archimede_2024_triennio_rec#q14|src_archimede_2024_triennio_rec__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -701,8 +673,6 @@ How to sit 4 pairs of sisters next to each other
 > - **(C)** 20
 > - **(D)** 30
 > - **(E)** 25
-
-[[Quesiti/src_archimede_2024_triennio_rec#q15|src_archimede_2024_triennio_rec__Q15]]
 
 
 
@@ -743,5 +713,3 @@ How to sit 4 pairs of sisters next to each other
 > - **(C)** 1/12
 > - **(D)** 1/10
 > - **(E)** 7/80 511
-
-[[Quesiti/src_archimede_2024_triennio_rec#q16|src_archimede_2024_triennio_rec__Q16]]

@@ -41,8 +41,6 @@ level: Coupe Animath Printemps
 
 ![[src_canimath_2009_printemps__q02.png]]
 
-[[Quesiti/src_canimath_2009_printemps#q02|src_canimath_2009_printemps__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_cassetti,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -72,8 +70,6 @@ level: Coupe Animath Printemps
 > 
 > b) Considerate 41 diversi numeri a due cifre. Prove che si possono sempre scegliere cinque di essi in modo che due dei cinque abbiano cifre di unità distinte e decine di cifre distinte.
 
-[[Quesiti/src_canimath_2009_printemps#q03|src_canimath_2009_printemps__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_doppio_conteggio,method_invarianti,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -98,8 +94,6 @@ level: Coupe Animath Printemps
 *In una festa ogni ospite stringe la mano con esattamente altri 7; dimostra il numero pari di ospiti*
 
 > A una festa di Capodanno a casa dei miei nonni, ogni ospite stringeva la mano con esattamente altri 7 ospiti, e baciava tutti gli altri sulla guancia. Prove che il numero degli ospiti sia pari.
-
-[[Quesiti/src_canimath_2009_printemps#q04|src_canimath_2009_printemps__Q04]]
 
 
 
@@ -129,8 +123,6 @@ level: Coupe Animath Printemps
 > Quattro monete di valori $2\,\text{€}$, $1\,\text{€}$, $2\,\text{centimes}$ e $1\,\text{centime}$ si trovano su un tavolo senza sovrapposizioni. La moneta $2\,\text{€}$ tocca la moneta $1\,\text{€}$ al punto $A$, la moneta $1\,\text{€}$ tocca la moneta $2\,\text{centime}$ al punto $B$, la moneta $2\,\text{centime}$ tocca la moneta $1\,\text{centime}$ al punto $C$ e la moneta $1\,\text{centime}$ tocca la moneta $2\,\text{€}$ al punto $D$.
 > 
 > Prove che $\angle ABC + \angle CDA = 180^\circ$.
-
-[[Quesiti/src_canimath_2009_printemps#q05|src_canimath_2009_printemps__Q05]]
 
 
 
@@ -165,5 +157,3 @@ level: Coupe Animath Printemps
 > $x$ e $y$ siano numeri reali rigorosamente positivi con $0 < x < y$. Definire: $$H = \frac{2xy}{x+y}, \quad G = \sqrt{xy}, \quad A = \frac{x+y}{2}, \quad Q = \sqrt{\frac{x^2+y^2}{2}}.$$ Prove che: a) $0 < G - H$ b) $Q \ge G < 2A$ (cioè\ $G \le Q$ e $G < 2A$) c) $G - H < Q - A$
 > 
 > (In sintesi: $0 < G - H < Q - A \le A - G$.)
-
-[[Quesiti/src_canimath_2009_printemps#q06|src_canimath_2009_printemps__Q06]]

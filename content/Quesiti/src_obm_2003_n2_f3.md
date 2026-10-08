@@ -45,8 +45,6 @@ level: OBM Nível 2
 > 
 > b) Quante tabelle diverse esistono in totale?
 
-[[Quesiti/src_obm_2003_n2_f3#q01|src_obm_2003_n2_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -71,8 +69,6 @@ level: OBM Nível 2
 *Trova la più piccola divisione primaria $x^2+5x+23$ per un numero intero $x$*
 
 > Determinare il primo positivo più piccolo che divide $x^2 + 5x + 23$ per un intero $x$.
-
-[[Quesiti/src_obm_2003_n2_f3#q02|src_obm_2003_n2_f3__Q02]]
 
 
 
@@ -103,8 +99,6 @@ level: OBM Nível 2
 > 
 > Prove che $BX = CX$ se e solo se $PQ$ ha un diametro di $S$.
 
-[[Quesiti/src_obm_2003_n2_f3#q03|src_obm_2003_n2_f3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima"></span>
@@ -130,8 +124,6 @@ level: OBM Nível 2
 
 > Prova che $x^2 + 4y^2 - 4xy + 2x - 4y + 2 > 0$ per tutti i numeri reali $x$ e $y$.
 
-[[Quesiti/src_obm_2003_n2_f3#q04|src_obm_2003_n2_f3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_estremalita,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_stima"></span>
@@ -156,8 +148,6 @@ level: OBM Nível 2
 *Trovare punti su un cerchio che massimizzi l'area quadrilaterale dato punto interno*
 
 > Data una cerchia $K$ e un punto interno fisso $A$ distinto dal centro, determinare i punti $B$, $C$ e $D$ su $K$ in modo tale che l'area del quadrilaterale $ABCD$ sia il più ampia possibile.
-
-[[Quesiti/src_obm_2003_n2_f3#q05|src_obm_2003_n2_f3__Q05]]
 
 
 
@@ -191,5 +181,3 @@ level: OBM Nível 2
 > Un turista desidera viaggiare in tutta la Tumbolia, visitando ogni città esattamente una volta e tornando nella città in cui ha iniziato il suo viaggio.
 > 
 > Provare che è possibile scegliere l'ordine in cui le città vengono visitate in modo che il turista cambie il mezzo di trasporto al massimo una volta.
-
-[[Quesiti/src_obm_2003_n2_f3#q06|src_obm_2003_n2_f3__Q06]]

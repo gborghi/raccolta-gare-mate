@@ -37,7 +37,6 @@ level: 2 livello
 > (A) $\dfrac{5}{7}$ \quad (B) $\dfrac{7}{5}$ \quad (C) $\dfrac{4}{3}$ \quad (D) $\dfrac{3}{2}$ \quad (E) $2$.
 
 **Answer:** D
-[[Quesiti/src_archimede_1998_2livello#q01|src_archimede_1998_2livello__Q01]]
 
 
 
@@ -89,7 +88,6 @@ level: 2 livello
 > - **(E)** None of the previous ones.
 
 **Answer:** C
-[[Quesiti/src_archimede_1998_2livello#q02|src_archimede_1998_2livello__Q02]]
 
 
 
@@ -129,7 +127,6 @@ level: 2 livello
 > - **(E)** depends on the inner radius of the circular crown.
 
 **Answer:** D
-[[Quesiti/src_archimede_1998_2livello#q03|src_archimede_1998_2livello__Q03]]
 
 
 
@@ -170,7 +167,6 @@ level: 2 livello
 > (see figure)
 
 **Answer:** C
-[[Quesiti/src_archimede_1998_2livello#q04|src_archimede_1998_2livello__Q04]]
 
 
 
@@ -202,7 +198,6 @@ What time does Maximo realize he forgot his wallet?
 > (A) 12:06 \quad (B) 12:09 \quad (C) 12:12 \quad (D) 12:15 \quad (E) the data are insufficient.
 
 **Answer:** C
-[[Quesiti/src_archimede_1998_2livello#q05|src_archimede_1998_2livello__Q05]]
 
 
 
@@ -241,7 +236,6 @@ What time does Maximo realize he forgot his wallet?
 > - **(E)** $2a$ is whole.
 
 **Answer:** C
-[[Quesiti/src_archimede_1998_2livello#q06|src_archimede_1998_2livello__Q06]]
 
 
 
@@ -273,7 +267,6 @@ What time does Maximo realize he forgot his wallet?
 > (A) $\dfrac{1}{3}$ \quad (B) $\dfrac{1}{6}$ \quad (C) $\dfrac{1}{9}$ \quad (D) $\dfrac{1}{12}$ \quad (E) $\dfrac{1}{15}$.
 
 **Answer:** E
-[[Quesiti/src_archimede_1998_2livello#q07|src_archimede_1998_2livello__Q07]]
 
 
 
@@ -306,7 +299,6 @@ What time does Maximo realize he forgot his wallet?
 > (A) For each $\lambda \geq 0$ \quad (B) only for $\lambda = 0$ \quad (C) for each $\lambda$ such that $0 \leq \lambda \leq 1$ (D) only for $\lambda = 1$ \quad (E) for no value of $\lambda$.
 
 **Answer:** D
-[[Quesiti/src_archimede_1998_2livello#q08|src_archimede_1998_2livello__Q08]]
 
 
 
@@ -339,7 +331,6 @@ What time does Maximo realize he forgot his wallet?
 > (A) 12 \quad (B) 24 \quad (C) 32 \quad (D) 56 \quad (E) 112
 
 **Answer:** C
-[[Quesiti/src_archimede_1998_2livello#q09|src_archimede_1998_2livello__Q09]]
 
 
 
@@ -380,7 +371,6 @@ What time does Maximo realize he forgot his wallet?
 > - **(E)** 7 times the area of $ABC$.
 
 **Answer:** E
-[[Quesiti/src_archimede_1998_2livello#q10|src_archimede_1998_2livello__Q10]]
 
 
 
@@ -412,7 +402,6 @@ What time does Maximo realize he forgot his wallet?
 > (A) 1 \quad (B) 2 \quad (C) 4 \quad (D) 8 \quad (E) more than 8.
 
 **Answer:** D
-[[Quesiti/src_archimede_1998_2livello#q11|src_archimede_1998_2livello__Q11]]
 
 
 
@@ -451,7 +440,6 @@ What time does Maximo realize he forgot his wallet?
 > - **(E)** Bruno is older and weaker than Carlo.
 
 **Answer:** E
-[[Quesiti/src_archimede_1998_2livello#q12|src_archimede_1998_2livello__Q12]]
 
 
 
@@ -483,7 +471,6 @@ What time does Maximo realize he forgot his wallet?
 > (A) $l^2$ \quad (B) $\dfrac{\sqrt{3}}{2}l^2$ \quad (C) $2l^2$ \quad (D) $\sqrt{3}\,l^2$ \quad (E) $2\sqrt{3}\,l^2$.
 
 **Answer:** D
-[[Quesiti/src_archimede_1998_2livello#q13|src_archimede_1998_2livello__Q13]]
 
 
 
@@ -524,7 +511,6 @@ What time does Maximo realize he forgot his wallet?
 > (see figure)
 
 **Answer:** B
-[[Quesiti/src_archimede_1998_2livello#q14|src_archimede_1998_2livello__Q14]]
 
 
 
@@ -556,7 +542,6 @@ What time does Maximo realize he forgot his wallet?
 > (A) 16 \quad (B) 26 \quad (C) 36 \quad (D) 46 \quad
 
 **Answer:** E
-[[Quesiti/src_archimede_1998_2livello#q15|src_archimede_1998_2livello__Q15]]
 
 
 
@@ -586,8 +571,6 @@ Show that the radius of the enclosure at ABC is HM*
 > This is the first step towards the development of a new approach.
 > 
 > Given the $ABC$ triangle with $\widehat{CAB} = \widehat{ABC} = 90°$  or with $C\hat{A}B - A\hat{B}C = 90°$  said $M$ the mean point of $AB$ and $H$ the foot of the height relative to $AB$, prove that the radius of circumference surrounded by $ABC$ is equal to $HM$.
-
-[[Quesiti/src_archimede_1998_2livello#q16|src_archimede_1998_2livello__Q16]]
 
 
 
@@ -626,4 +609,3 @@ Show that the radius of the enclosure at ABC is HM*
 > 1. The sum $X$ of all positive integers for which $f(M) = M$ is determined. 2. It is shown that for every positive integer $M$, the succession $M,\, f(M),\, f(f(M)),\, f(f(f(M))),\, \ldots$ contains an element of $X$.
 
 **Answer:** X={1..9,19}
-[[Quesiti/src_archimede_1998_2livello#q17|src_archimede_1998_2livello__Q17]]

@@ -35,8 +35,6 @@ level: IMO
 
 > For each integer $a_0 > 1$, the succession $a_0, a_1, a_2, \ldots$ is defined as follows: $$a_{n+1} = \begin{cases} \sqrt{a_n} & \text{se } \sqrt{a_n} \text{ è un intero,} \\ a_n + 3 & \text{altrimenti,} \end{cases}$$ for each $n \geq 0$. Determine all $a_0$ values for which there exists a $A$ number such that $a_n = A$ for infinite $n$ values.
 
-[[Quesiti/src_imo_2017#q01|src_imo_2017__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_funzionali,method_casework,skill_manipolazione_algebrica"></span>
@@ -62,8 +60,6 @@ level: IMO
 *Functional equation f(f(x) f(y))+f(x+y)=f(xy)*
 
 > Whether $\mathbb{R}$ is the set of real numbers. Determine all functions $f : \mathbb{R} \to \mathbb{R}$ such that, for all real numbers $x$ and $y$, $$f(f(x)f(y)) + f(x + y) = f(xy).$$
-
-[[Quesiti/src_imo_2017#q02|src_imo_2017__Q02]]
 
 
 
@@ -106,8 +102,6 @@ level: IMO
 > 
 > Is it always possible, regardless of how the rabbit moves and from which points the device communicates, for the hunter to choose his movements so that after $10^9$ turns he can ensure that the distance between him and the rabbit is at most $100$?
 
-[[Quesiti/src_imo_2017#q03|src_imo_2017__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
@@ -132,8 +126,6 @@ level: IMO
 *KT tangent to the Gamma (points on a circle)*
 
 > If $R$ and $S$ are two distinct points on a circumference $\Omega$ such that $RS$ is not a diameter. If $\ell$ is the tangent line to $\Omega$ in $R$. The $T$ point is such that $S$ is the middle point of the $RT$ segment. The $J$ point is selected on the $RS$ minor arc of $\Omega$ so that the circumference circumscribed $\Gamma$ to the $JST$ triangle intersects $\ell$ at two distinct points. Either $A$ the common point of $\Gamma$ and $\ell$ nearest to $R$. The $AJ$ line is again $\Omega$ in $K$. Demonstrate that the straight $KT$ is tangent to $\Gamma$.
-
-[[Quesiti/src_imo_2017#q04|src_imo_2017__Q04]]
 
 
 
@@ -180,8 +172,6 @@ level: IMO
 > 
 > Prove that this is always possible.
 
-[[Quesiti/src_imo_2017#q05|src_imo_2017__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_congruenze,skill_riconoscimento_pattern"></span>
@@ -207,5 +197,3 @@ level: IMO
 *Homogeneous polynomial =1 on primitive points*
 
 > An ordered pair $(x, y)$ of integers is a * prime point* if the maximum common divisor of $x$ and $y$ is $1$. Given a finite set $S$ of primitive points, prove that there exists a positive integer $n$ and an integer $a_0, a_1, \ldots, a_n$ such that for each $(x, y) \in S$: $$a_0 x^n + a_1 x^{n-1} y + a_2 x^{n-2} y^2 + \cdots + a_{n-1} x y^{n-1} + a_n y^n = 1.$$
-
-[[Quesiti/src_imo_2017#q06|src_imo_2017__Q06]]

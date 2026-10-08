@@ -33,8 +33,6 @@ level: JJMO Honsen
 
 > Un esagono $ABCDEF$ è inserito in un cerchio. Supponiamo che $AB \parallel DE$, $BC \parallel EF$ e $CD \parallel FA$. Prove che $AB \parallel CD$.
 
-[[Quesiti/src_jjmo9mq_honsen#q01|src_jjmo9mq_honsen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_estremalita,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -60,8 +58,6 @@ level: JJMO Honsen
 
 > Lascia che $n$ sia un quadrato perfetto. Si consideri tutti gli enti che possono essere espressi come un prodotto $a \times b$ dove $a$ e $b$ sono enteri positivi ciascuno al massimo $n$ (non necessariamente distinti). Tra questi enti, elencare i più piccoli $n$ (in ordine crescente), esprimendoli in termini di $n$.
 
-[[Quesiti/src_jjmo9mq_honsen#q02|src_jjmo9mq_honsen__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -86,8 +82,6 @@ level: JJMO Honsen
 *Triangolo acuto, centro ortografico, due circoncircoli che incontrano le linee di altitudine all'esterno; dimostrare AE = AF*
 
 > Che $H$ sia l'ortocentro di un triangolo acuto $ABC$, e che $D$ sia l'intersezione delle linee $AH$ e $BC$. $E$ deve essere il punto (diversi da $A$ e $B$) in cui il circoncircolo del triangolo $ABD$ incontra la linea $CH$, dove $E$ si trova fuori dal triangolo $ABC$. Il punto $F$ deve essere il punto (diversi da $A$ e $C$) in cui il circoncircolo del triangolo $ACD$ incontra la linea $BH$, dove $F$ si trova fuori dal triangolo $ABC$. Provare che $AE = AF$.
-
-[[Quesiti/src_jjmo9mq_honsen#q03|src_jjmo9mq_honsen__Q03]]
 
 
 
@@ -122,8 +116,6 @@ level: JJMO Honsen
 > 
 > Trova tutte le coppie $(p, q)$ di numeri interi positivi per le quali è possibile ripetere l'operazione a tempo indeterminato (per qualsiasi numero di passaggi, in qualsiasi ordine di scelte) senza mai scrivere un multiple di $p$ o un multiple di $q$ sulla scheda nera.
 
-[[Quesiti/src_jjmo9mq_honsen#q04|src_jjmo9mq_honsen__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_induzione,method_invarianti,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -152,5 +144,3 @@ level: JJMO Honsen
 > $n \geq 2$ sia un numero intero. Considerate le disposizioni dei numeri interi $1, 2, \ldots, n$, ognuno apparendo esattamente $n$ volte, in una fila di termini $n^2$. Determinare per quali valori di $n$ esiste un sistema che soddisfa la seguente condizione:
 > 
 > \textbf{Condition:} Per ogni intero $k$ con $1 \leq k \leq n^2 - 1$, il rimanente quando la somma dei primi termini $k$ è divisa da $n$ è \emph{differente} dal rimanente quando $k$ è divisa da $n$.
-
-[[Quesiti/src_jjmo9mq_honsen#q05|src_jjmo9mq_honsen__Q05]]

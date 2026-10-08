@@ -35,8 +35,6 @@ level: IMO
 > Sia $M$ un punto sul lato $AB$ del triangolo $\triangle ABC$. Siano $r_1$, $r_2$, $r$ i raggi delle circonferenze inscritte nei triangoli $AMC$, $BMC$ e $ABC$. Siano $q_1$, $q_2$, $q$ i raggi delle circonferenze exinscritte dei medesimi triangoli che giacciono negli angoli $ACB$. Si dimostri che
 > $$\frac{r_1}{q_1} \cdot \frac{r_2}{q_2} = \frac{r}{q}.$$
 
-[[Quesiti/src_imho_1970#q01|src_imho_1970__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_disuguaglianze,method_induzione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
@@ -71,8 +69,6 @@ level: IMO
 > $$x_n \neq 0, \quad x_{n-1} \neq 0.$$
 > Si dimostri che
 > $$\frac{A_{n-1}}{A_n} < \frac{B_{n-1}}{B_n} \text{ if and only if } a > b.$$
-
-[[Quesiti/src_imho_1970#q02|src_imho_1970__Q02]]
 
 
 
@@ -113,8 +109,6 @@ level: IMO
 > 
 > (b) Dato $c$ con $0 \le c < 2$, si dimostri che esistono numeri $a_0, a_1, a_2, \ldots$ con le proprietà sopra indicate tali che $b_n > c$ per $n$ abbastanza grandi.
 
-[[Quesiti/src_imho_1970#q03|src_imho_1970__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_fattorizzazione,skill_lettura_attenta,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -139,8 +133,6 @@ level: IMO
 *Partizione degli interi positivi in due insiemi con prodotti uguali*
 
 > Determinare l'insieme di tutti gli interi positivi $n$ con la proprietà che l'insieme $\{n, n+1, n+2, n+3, n+4, n+5\}$ può essere suddiviso in due insiemi tali che il prodotto dei numeri di un insieme sia uguale al prodotto dei numeri dell'altro insieme.
-
-[[Quesiti/src_imho_1970#q04|src_imho_1970__Q04]]
 
 
 
@@ -171,8 +163,6 @@ level: IMO
 > $$(AB + BC + CA)^2 \le 6(AD^2 + BD^2 + CD^2).$$
 > Per quali tetraedri si ha l'uguaglianza?
 
-[[Quesiti/src_imho_1970#q05|src_imho_1970__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_geometria_piana,method_doppio_conteggio,method_casework,method_estremalita,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_modellizzazione,skill_stima"></span>
@@ -197,5 +187,3 @@ level: IMO
 *100 punti in posizione generale; al più il 70% dei triangoli è acutangolo*
 
 > In un piano sono dati 100 punti, nessuna terna dei quali allineata. Si considerino tutti i possibili triangoli aventi questi punti come vertici. Si dimostri che non più di $70\%$ di questi triangoli sono acutangoli.
-
-[[Quesiti/src_imho_1970#q06|src_imho_1970__Q06]]

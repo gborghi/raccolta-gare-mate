@@ -33,8 +33,6 @@ level: OBM Nível 2
 
 > Tre mesi consecutivi di un determinato anno non alto hanno esattamente quattro domeniche. Prova che uno di questi mesi è febbraio.
 
-[[Quesiti/src_obm_1999_n2_f2#q01|src_obm_1999_n2_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,topic_logica,method_invarianti,method_casework,skill_riconoscimento_pattern,skill_lettura_attenta,skill_astrazione"></span>
@@ -68,8 +66,6 @@ level: OBM Nível 2
 > 
 > b) $3, 3, 3$ ?
 
-[[Quesiti/src_obm_1999_n2_f2#q02|src_obm_1999_n2_f2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_disuguaglianze,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -94,8 +90,6 @@ level: OBM Nível 2
 *ABCD quadrato con punti M,N,P,Q sui lati in modo che i circoncircoli dei triangoli MBN e PDQ siano tangenti esternamente; dimostrare MN + PQ >= AC.*
 
 > Lasciate che $ABCD$ sia quadrato. Scegliamo i punti $M$, $N$, $P$, $Q$ rispettivamente su $AB$, $BC$, $CD$ e $DA$, in modo tale che i cerchi circumscritti dei triangoli $MBN$ e $PDQ$ siano tangenti esternamente. Prova che $MN + PQ \ge AC$.
-
-[[Quesiti/src_obm_1999_n2_f2#q03|src_obm_1999_n2_f2__Q03]]
 
 
 
@@ -122,8 +116,6 @@ level: OBM Nível 2
 
 > Determinare il numero naturale più grande per il quale esiste una riorganizzazione $(a, b, c, d)$ di $(3, 6, 9, 12)$ (cioè $\{a, b, c, d\} = \{3, 6, 9, 12\}$) tale che il numero $\sqrt[3]{3^a \cdot 6^b \cdot 9^c \cdot 12^d}$ sia un numero intero. Giustifica la tua risposta.
 
-[[Quesiti/src_obm_1999_n2_f2#q04|src_obm_1999_n2_f2__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
@@ -149,8 +141,6 @@ level: OBM Nível 2
 
 > Un insegnante di matematica ha dato ai suoi studenti l'aggiunta $\dfrac{A}{B} + \dfrac{C}{D}$, dove $A$, $B$, $C$ e $D$ sono numeri interi positivi e le frazioni sono già semplificate al massimo (cioè i denominatori sono coprime con i rispettivi numeratori). Dopo averlo semplificato al minimo (cioè scrivendo il risultato con il minimo denominatore comune e quindi riducendo il risultato), mostrare che la frazione che gli studenti troveranno come risultato è già semplificata.
 
-[[Quesiti/src_obm_1999_n2_f2#q05|src_obm_1999_n2_f2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_colorazione,method_casework,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
@@ -175,5 +165,3 @@ level: OBM Nível 2
 *Ricerca tutti gli integri positivi n per i quali un rettangolo 9x10 può essere cartigliato utilizzando pezzi 1xn.*
 
 > Determinare tutti i numeri interi positivi $n$ per i quali è possibile assemblare un rettangolo $9 \times 10$ utilizzando pezzi $1 \times n$.
-
-[[Quesiti/src_obm_1999_n2_f2#q06|src_obm_1999_n2_f2__Q06]]

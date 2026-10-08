@@ -38,7 +38,6 @@ level: kangourou
 > 2x > 130 2) x < 100 3) 3x > 50 4) x > 20 5) x > 15 two are true and three are false, what are the real ones? (A) 1) and 3). (B) 2) and 3). (C) 2) and 4). (D) 2) and 5). (E) 4) and 5).
 
 **Answer:** C
-[[Quesiti/src_kangourou_2017_junior_semifinale#q01|src_kangourou_2017_junior_semifinale__Q01]]
 
 
 
@@ -67,7 +66,6 @@ level: kangourou
 > 2. Kangcity is located 2 km east and 2 km north of Kangtown and the two towns are separated by a 1 km wide river running from south to north. We want to build a road that crosses the river on a bridge as short as possible and that, if this demand is met, is the shortest possible. How many kilometers will the road be? (B) 2√2 (C) √3+1 (D) √5 + 1 (A) 4 (E) 3
 
 **Answer:** D
-[[Quesiti/src_kangourou_2017_junior_semifinale#q02|src_kangourou_2017_junior_semifinale__Q02]]
 
 
 
@@ -96,7 +94,6 @@ level: kangourou
 > 3. (Points 3) If any of the following five inequalities
 
 **Answer:** D
-[[Quesiti/src_kangourou_2017_junior_semifinale#q03|src_kangourou_2017_junior_semifinale__Q03]]
 
 
 
@@ -138,7 +135,6 @@ level: kangourou
 > - **(E)** None of the above claims are correct.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2017_junior_semifinale#q04|src_kangourou_2017_junior_semifinale__Q04]]
 
 
 
@@ -180,7 +176,6 @@ level: kangourou
 > - **(E)** 2017
 
 **Answer:** C
-[[Quesiti/src_kangourou_2017_junior_semifinale#q05|src_kangourou_2017_junior_semifinale__Q05]]
 
 
 
@@ -226,7 +221,6 @@ level: kangourou
 > - **(E)** 240
 
 **Answer:** D
-[[Quesiti/src_kangourou_2017_junior_semifinale#q06|src_kangourou_2017_junior_semifinale__Q06]]
 
 
 
@@ -272,7 +266,6 @@ level: kangourou
 > - **(E)** None of the above
 
 **Answer:** E
-[[Quesiti/src_kangourou_2017_junior_semifinale#q07|src_kangourou_2017_junior_semifinale__Q07]]
 
 
 
@@ -368,7 +361,6 @@ level: kangourou
 > - **(E)** 5 : 7
 
 **Answer:** E
-[[Quesiti/src_kangourou_2017_junior_semifinale#q08|src_kangourou_2017_junior_semifinale__Q08]]
 
 
 
@@ -413,7 +405,6 @@ level: kangourou
 > - **(E)** 20 Open-ended questions
 
 **Answer:** B
-[[Quesiti/src_kangourou_2017_junior_semifinale#q09|src_kangourou_2017_junior_semifinale__Q09]]
 
 
 
@@ -496,7 +487,6 @@ level: kangourou
 > (Points 6) In the figure you see a circle of area 600. AB is a diameter and the DB and BC chords are as long as the radius. What is the area of the shaded region?
 
 **Answer:** 0100
-[[Quesiti/src_kangourou_2017_junior_semifinale#q10|src_kangourou_2017_junior_semifinale__Q10]]
 
 
 
@@ -526,7 +516,6 @@ level: kangourou
 > (Points 9) Two numbers a and b other than zero are such that a + b = 101 and (1/a) + (1/b) = 20. How much is (b/a) + (a/b) worth?
 
 **Answer:** 2018
-[[Quesiti/src_kangourou_2017_junior_semifinale#q11|src_kangourou_2017_junior_semifinale__Q11]]
 
 
 
@@ -555,7 +544,6 @@ level: kangourou
 > (Points 9) Denotes with N the product of 97532 for 1468. What is the remainder of the division of N by 15?
 
 **Answer:** 0011
-[[Quesiti/src_kangourou_2017_junior_semifinale#q12|src_kangourou_2017_junior_semifinale__Q12]]
 
 
 
@@ -584,7 +572,6 @@ level: kangourou
 > (Points 12) In a right triangle the length of the hypotenuse is 4 less than the sum of the lengths of the legs. How long is the radius of the inscribed circle?
 
 **Answer:** 0002
-[[Quesiti/src_kangourou_2017_junior_semifinale#q13|src_kangourou_2017_junior_semifinale__Q13]]
 
 
 
@@ -615,7 +602,6 @@ level: kangourou
 > City A is 450 km from city B. A train that connects you to the station, scheduled to take 2 hours and 15 minutes. After travelling for the first part of the journey at an average of 160 km/h, the train is 9 minutes late on the roadmap: to arrive on time, how many km/h must its average speed be on the remaining part of the journey?
 
 **Answer:** 0220
-[[Quesiti/src_kangourou_2017_junior_semifinale#q14|src_kangourou_2017_junior_semifinale__Q14]]
 
 
 
@@ -647,7 +633,6 @@ level: kangourou
 > (Points 12) The equation x2 – mx + 10 = 0 has two distinct integer solutions x1 ≠ x2. What is the maximum value that the expression x1^2 + x2^2 can take?
 
 **Answer:** 0101
-[[Quesiti/src_kangourou_2017_junior_semifinale#q15|src_kangourou_2017_junior_semifinale__Q15]]
 
 
 
@@ -677,7 +662,6 @@ level: kangourou
 > (Points 15) We have 2017 positive integers such that the sum of two of them, however chosen, is divisible by 2017. At the very least, how many of them should be divisible by 2017?
 
 **Answer:** 2017
-[[Quesiti/src_kangourou_2017_junior_semifinale#q16|src_kangourou_2017_junior_semifinale__Q16]]
 
 
 
@@ -707,7 +691,6 @@ level: kangourou
 > (Points 15) Two positive integers have 3 as their greatest common divisor and 1800 as their least common multiple. What is the minimum value that their sum can have?
 
 **Answer:** 0147
-[[Quesiti/src_kangourou_2017_junior_semifinale#q17|src_kangourou_2017_junior_semifinale__Q17]]
 
 
 
@@ -824,4 +807,3 @@ level: kangourou
 > 1130
 
 **Answer:** 1130
-[[Quesiti/src_kangourou_2017_junior_semifinale#q18|src_kangourou_2017_junior_semifinale__Q18]]

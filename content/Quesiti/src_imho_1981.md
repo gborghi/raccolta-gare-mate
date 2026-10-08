@@ -37,8 +37,6 @@ level: IMO
 > $$\frac{BC}{PD} + \frac{CA}{PE} + \frac{AB}{PF}$$
 > è minima.
 
-[[Quesiti/src_imho_1981#q01|src_imho_1981__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_doppio_conteggio,method_induzione,method_telescoping,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -66,8 +64,6 @@ level: IMO
 > Sia $1 \le r \le n$ e si considerino tutti i sottoinsiemi di $r$ elementi dell'insieme $\{1, 2, \ldots, n\}$. Ogni uno di questi sottoinsiemi ha un elemento minimo. Sia $F(n, r)$ la media aritmetica di questi elementi minimi. Si dimostri che
 > $$F(n, r) = \frac{n+1}{r+1}.$$
 
-[[Quesiti/src_imho_1981#q02|src_imho_1981__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_estremalita,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -92,8 +88,6 @@ level: IMO
 *Valore massimo di m^n + n^m con vincolo intero*
 
 > Determinare il valore massimo di $m^n + n^m$, dove $m$ e $n$ sono interi che soddisfano $m, n \in \{1, 2, \ldots, 1981\}$ e $(n^2 - mn - m^2)^2 = 1$.
-
-[[Quesiti/src_imho_1981#q03|src_imho_1981__Q03]]
 
 
 
@@ -124,8 +118,6 @@ level: IMO
 > 
 > (b) Per quali valori di $n > 2$ esiste un solo insieme con la proprietà indicata?
 
-[[Quesiti/src_imho_1981#q04|src_imho_1981__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione"></span>
@@ -150,8 +142,6 @@ level: IMO
 *Tre circonferenze congruenti inscritte in un triangolo, circocentro allineato*
 
 > Tre circonferenze congruenti hanno un punto in comune $O$ e si trovano all'interno di un triangolo dato. Ogni circonferenza è tangente a una coppia di lati del triangolo. Si dimostri che l'incentro e il circocentro del triangolo e il punto $O$ sono allineati.
-
-[[Quesiti/src_imho_1981#q05|src_imho_1981__Q05]]
 
 
 
@@ -185,5 +175,3 @@ level: IMO
 > (2) $f(x + 1, 0) = f(x, 1)$,
 > (3) $f(x + 1, y + 1) = f(x, f(x + 1, y))$,
 > per tutti gli interi non negativi $x$, $y$. Determinare $f(4, 1981)$.
-
-[[Quesiti/src_imho_1981#q06|src_imho_1981__Q06]]

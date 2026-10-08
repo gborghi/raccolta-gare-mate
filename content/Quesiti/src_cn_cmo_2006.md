@@ -34,8 +34,6 @@ level: China Mathematical Olympiad
 
 > Supponiamo che i numeri reali $a_1, a_2, \ldots, a_n$ soddisfino $a_1 + a_2 + \cdots + a_n = 0$. Prova $$\max_{1 \le i \le n} a_i^2 \le \frac{n}{3} \sum_{i=1}^{n-1} (a_i - a_{i+1})^2.$$
 
-[[Quesiti/src_cn_cmo_2006#q01|src_cn_cmo_2006__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
@@ -63,7 +61,6 @@ level: China Mathematical Olympiad
 > Supponiamo che i numeri interi positivi $a_1, a_2, \ldots, a_{2006}$ (alcuni di essi possono essere uguali) soddisfino la condizione: qualsiasi due di $\frac{a_1}{a_2},\, \frac{a_2}{a_3},\, \ldots,\, \frac{a_{2005}}{a_{2006}}$ sono disuguali. Almeno quanti numeri diversi ci sono in $\{a_1, a_2, \ldots, a_{2006}\}$?
 
 **Risposta:** 46
-[[Quesiti/src_cn_cmo_2006#q02|src_cn_cmo_2006__Q02]]
 
 
 
@@ -92,8 +89,6 @@ Prove che una delle due equazioni diofantine ha una soluzione strana
 
 > Supponiamo che gli integri positivi $m$, $n$, $k$ soddisfino $mn = k^2 + k + 3$. Prova che almeno una delle seguenti equazioni diofantine $$x^2 + 11y^2 = 4m \quad \text{and} \quad x^2 + 11y^2 = 4n$$ ha una soluzione $(x_0, y_0)$ con $x_0$, $y_0$ essendo numeri odd.
 
-[[Quesiti/src_cn_cmo_2006#q03|src_cn_cmo_2006__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -118,8 +113,6 @@ Prove che una delle due equazioni diofantine ha una soluzione strana
 *Prove AE + AP = PD in triangolo rettangolo con incircolo*
 
 > $\triangle ABC$ sia un triangolo rettangolare con $\angle ACB = 90^\circ$. Il cerchio $\odot$ di $\triangle ABC$ è tangente a $BC$, $CA$, $AB$ rispettivamente a $D$, $E$ e $F$. $AD$ si interseca con $\odot$ a $P$. $\angle BPC = 90^\circ$. Prove che $AE + AP = PD$.
-
-[[Quesiti/src_cn_cmo_2006#q04|src_cn_cmo_2006__Q04]]
 
 
 
@@ -151,8 +144,6 @@ Prove che una delle due equazioni diofantine ha una soluzione strana
 > 
 > Provare la seguente disuguaglianza: $$\left(\frac{n}{2(a_1 + a_2 + \cdots + a_n)} - 1\right)^n \le \left(\frac{a_1 + a_2 + \cdots + a_n}{n}\right)^n \left(\frac{1}{a_1} - 1\right)\left(\frac{1}{a_2} - 1\right) \cdots \left(\frac{1}{a_n} - 1\right).$$
 
-[[Quesiti/src_cn_cmo_2006#q05|src_cn_cmo_2006__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_estremalita,method_inclusione_esclusione,method_cassetti,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
@@ -180,4 +171,3 @@ Prove che una delle due equazioni diofantine ha una soluzione strana
 > $X$ deve essere un insieme di 56 elementi. Trovare il numero intero $n$ meno positivo in modo tale che per ogni 15 sottoinsieme di $X$, se l'unione di ogni 7 di questi 15 sottoinsiemi contiene almeno $n$ elementi, allora esistono 3 dei 15 sottoinsiemi la cui intersezione non è vuota.
 
 **Risposta:** 41
-[[Quesiti/src_cn_cmo_2006#q06|src_cn_cmo_2006__Q06]]

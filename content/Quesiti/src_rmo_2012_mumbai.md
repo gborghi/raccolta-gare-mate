@@ -33,8 +33,6 @@ level: RMO
 
 > $\alpha$ sia lo zero comune dei tre polinomi $x^2 + ax + b$, $x^2 + x + ab$ e $ax^2 + x + b$. (In questo modo $\alpha^2 + a\alpha + b = 0$, $\alpha^2 + \alpha + ab = 0$ e $a\alpha^2 + \alpha + b = 0$.) Trova tutti questi polinomi, cioè\ trova tutti i valori di $a$ e $b$.
 
-[[Quesiti/src_rmo_2012_mumbai#q01|src_rmo_2012_mumbai__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -59,8 +57,6 @@ level: RMO
 *Divisibilità per 169 di un quadratico in n*
 
 > $n$ sia un numero naturale. Prova che $169$ divide $21n^2 + 89n + 44$ se e solo se $13$ divide $n^2 + 3n + 51$.
-
-[[Quesiti/src_rmo_2012_mumbai#q02|src_rmo_2012_mumbai__Q02]]
 
 
 
@@ -89,7 +85,6 @@ level: RMO
 > Risolvi l'equazione $2^{\lfloor x \rfloor} + \{x\} = \dfrac{5\cdot 2^{2\lfloor x \rfloor}}{2^{2\lfloor x \rfloor} - 11}$, dove $\lfloor x \rfloor$ indica la parte integrale di $x$ e $\{x\}$ indica la sua parte frazionaria.
 
 **Risposta:** $x = 14/5$
-[[Quesiti/src_rmo_2012_mumbai#q03|src_rmo_2012_mumbai__Q03]]
 
 
 
@@ -119,8 +114,6 @@ level: RMO
 
 ![[src_rmo_2012_mumbai__q04.png]]
 
-[[Quesiti/src_rmo_2012_mumbai#q04|src_rmo_2012_mumbai__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_casework,skill_casework_accurato,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -148,7 +141,6 @@ level: RMO
 > Trovare tutti i triples $(a, b, c)$ di numeri interi positivi in modo che $a$ sia un primo, $1 \le a \le b \le c$, e $$\frac{1}{a} + \frac{2}{b} + \frac{3}{c} = 1.$$
 
 **Risposta:** $(a,b,c)\in\{(2,5,30),(2,6,18),(2,7,14),(2,8,12),(2,10,10),(3,4,18),(3,6,9)\}$
-[[Quesiti/src_rmo_2012_mumbai#q05|src_rmo_2012_mumbai__Q05]]
 
 
 
@@ -177,7 +169,6 @@ level: RMO
 > Per un sottogruppo non vuoto $A$ di $S = \{1, 2, \ldots, 10\}$, definire $w(A)$ organizzando gli elementi di $A$ in ordine decrescente e quindi aggiungendo e sottrattandoli alternatamente, a partire dall'aggiunta (si aggiunge l'elemento più grande). $\mathrm{WSUM}$ sia la somma di $w(A)$ su tutti i sottoinsiemi non vuoti $A$ di $S$. Mostra che $\mathrm{WSUM} = 70656$.
 
 **Risposta:** $70656$
-[[Quesiti/src_rmo_2012_mumbai#q06|src_rmo_2012_mumbai__Q06]]
 
 
 
@@ -209,7 +200,6 @@ level: RMO
 ![[src_rmo_2012_mumbai__q07.png]]
 
 **Risposta:** $\angle AOB = 100^\circ$
-[[Quesiti/src_rmo_2012_mumbai#q07|src_rmo_2012_mumbai__Q07]]
 
 
 
@@ -235,5 +225,3 @@ level: RMO
 *Rimostra una disuguaglianza per due frazioni con un vincolo reciproco*
 
 > $x = 2a$, $y = 2b$, $z = 2c$ con $a, b, c > 1$ che soddisfi $\dfrac{1}{a} + \dfrac{1}{b} + \dfrac{1}{c} = 1$. Provare che $$\frac{1}{(a-1)(b-1)(c-1)} + \frac{8}{(a+1)(b+1)(c+1)} \le \frac{1}{4}.$$
-
-[[Quesiti/src_rmo_2012_mumbai#q08|src_rmo_2012_mumbai__Q08]]

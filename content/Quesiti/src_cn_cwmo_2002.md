@@ -35,8 +35,6 @@ level: China Western Mathematical Olympiad
 
 > Trova tutti gli integri positivi $n$ in modo tale che $$n^4 - 4n^2 + 22n + 18$$ sia un quadrato perfetto. (Possibile da Pan Chengbiao)
 
-[[Quesiti/src_cn_cwmo_2002#q01|src_cn_cwmo_2002__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -66,8 +64,6 @@ level: China Western Mathematical Olympiad
 
 ![[src_cn_cwmo_2002__q02.png]]
 
-[[Quesiti/src_cn_cwmo_2002#q02|src_cn_cwmo_2002__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_geometria_analitica,method_coordinate,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -95,7 +91,6 @@ level: China Western Mathematical Olympiad
 > Considerate un quadrato sul piano complesso. I numeri complessi corrispondenti ai suoi quattro vertici sono le quattro radici di qualche equazione del quarto grado con un coefficiente sconosciuto e interi $x^4 + px^3 + qx^2 + rx + s = 0$. Trova il valore minimo dell'area di tale quadrato. (Posizionato da Xiong Jin)
 
 **Risposta:** 2
-[[Quesiti/src_cn_cwmo_2002#q03|src_cn_cwmo_2002__Q03]]
 
 
 
@@ -123,8 +118,6 @@ level: China Western Mathematical Olympiad
 *Prove che due set di indici dissociati danno unioni uguali di sottoinsiemi*
 
 > Supponiamo che $n$ sia un intero positivo e $A_1, A_2, \ldots, A_{n+1}$ siano $n+1$ sottosette non vuote del set $\{1, 2, \ldots, n\}$. Prova che esistono due sottinsiemi dissociati e non vuoti $\{i_1, i_2, \ldots, i_k\}$ e $\{j_1, j_2, \ldots, j_m\}$ in modo tale che $$A_{i_1} \cup A_{i_2} \cup \cdots \cup A_{i_k} = A_{j_1} \cup A_{j_2} \cup \cdots \cup A_{j_m}.$$ (posato da Pan Chengbiao)
-
-[[Quesiti/src_cn_cwmo_2002#q04|src_cn_cwmo_2002__Q04]]
 
 
 
@@ -155,8 +148,6 @@ level: China Western Mathematical Olympiad
 
 ![[src_cn_cwmo_2002__q05.png]]
 
-[[Quesiti/src_cn_cwmo_2002#q05|src_cn_cwmo_2002__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_disuguaglianze,topic_aritmetica,method_disuguaglianze,method_casework,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
@@ -185,8 +176,6 @@ level: China Western Mathematical Olympiad
 
 > Supponiamo che $n$ sia un dato numero intero positivo. Trova tutti i gruppi di numeri interi $(a_1, a_2, \ldots, a_n)$ che soddisfano le condizioni: (1) $a_1 + a_2 + \cdots + a_n \ge n^2$; (2) $a_1^2 + a_2^2 + \cdots + a_n^2 \le n^3 + 1$. (Possibile da Pan Chengbiao)
 
-[[Quesiti/src_cn_cwmo_2002#q06|src_cn_cwmo_2002__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_aritmetica,method_induzione,method_ricorsione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -213,5 +202,3 @@ level: China Western Mathematical Olympiad
 *Sequenza di tipo Fibonacci: dimostrare la ricorrenza e trovare coppie di divisibilità*
 
 > Supponiamo che $\alpha$, $\beta$ siano due radici dell'equazione $x^2 - x - 1 = 0$. Proviamo che per qualsiasi intero positivo $n$, abbiamo $a_{n+2} = a_{n+1} + a_n$. (2) Trovare tutti i numeri interi positivi $a$ e $b$, $a < b$, soddisfacendo che $b$ divide $a_n - 2a \cdot n^b$ per qualsiasi numero intero positivo $n$. (Posizionato da Li Shenghong)
-
-[[Quesiti/src_cn_cwmo_2002#q07|src_cn_cwmo_2002__Q07]]

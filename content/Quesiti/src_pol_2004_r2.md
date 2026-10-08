@@ -38,8 +38,6 @@ level: Olimpiade Polacca Round 2
 
 > I numeri positivi $a, b, c, d$ soddisfano le equazioni $$a^2 + b^2 + c^2 = a^4$$ $$b^2 + c^2 + d^2 = b^4$$ $$c^2 + d^2 + a^2 = c^4$$ $$d^2 + a^2 + b^2 = d^4.$$ Prove che $a = b = c = d$.
 
-[[Quesiti/src_pol_2004_r2#q01|src_pol_2004_r2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -66,8 +64,6 @@ level: Olimpiade Polacca Round 2
 *Diagonali concorrenti in un esagono convesso con lati uguali e somma degli angoli*
 
 > In un esagono converso $ABCDEF$ tutti i lati hanno la stessa lunghezza e $$\angle A + \angle C + \angle E = \angle B + \angle D + \angle F.$$ Prove che le diagonali $AD$, $BE$ e $CF$ sono simultanee.
-
-[[Quesiti/src_pol_2004_r2#q02|src_pol_2004_r2__Q02]]
 
 
 
@@ -96,8 +92,6 @@ level: Olimpiade Polacca Round 2
 
 > Determinare tutte le sequenze $a_1, a_2, a_3, \ldots$ di $1$ e $-1$ che soddisfano l'uguaglianza $$a_{mn} = a_m a_n$$ per tutte le $m, n$ e che hanno la proprietà: tra i tre termini successivi $a_n, a_{n+1}, a_{n+2}$, si verificano sia $1$ che $-1$.
 
-[[Quesiti/src_pol_2004_r2#q03|src_pol_2004_r2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -122,8 +116,6 @@ level: Olimpiade Polacca Round 2
 *Ricerca tutti gli integri positivi con esattamente sqrt(n) divisori positivi*
 
 > Trova tutti i numeri interi positivi $n$ che hanno esattamente $\sqrt{n}$ divisori positivi.
-
-[[Quesiti/src_pol_2004_r2#q04|src_pol_2004_r2__Q04]]
 
 
 
@@ -150,8 +142,6 @@ level: Olimpiade Polacca Round 2
 
 > I punti $D$ e $E$ sono presi rispettivamente sui lati $BC$ e $CA$ di un triangolo $ABC$ in modo tale che $BD = AE$. I segmenti $AD$ e $BE$ si incontrano a $P$. Il bisettore di $\angle ACB$ interseca i segmenti $AD$ e $BE$ rispettivamente a $Q$ e $R$. Prove che $\frac{PQ}{AD} = \frac{PR}{BE}$.
 
-[[Quesiti/src_pol_2004_r2#q05|src_pol_2004_r2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_grafi,method_estremalita,method_induzione,skill_modellizzazione,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -176,5 +166,3 @@ level: Olimpiade Polacca Round 2
 *Selezionare n/2 persone a tavola rotonda, ciascuna tra due conoscenti*
 
 > Ci sono persone $n \geq 5$ in una festa. Supponiamo che tra i tre ci siano due che si conoscono. Mostrare che si può selezionare almeno $n/2$ delle persone e organizzarle su una tavola rotonda in modo che ciascuna persona si sedi tra due delle sue conoscenze.
-
-[[Quesiti/src_pol_2004_r2#q06|src_pol_2004_r2__Q06]]

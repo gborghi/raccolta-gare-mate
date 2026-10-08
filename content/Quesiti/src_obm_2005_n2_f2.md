@@ -33,8 +33,6 @@ level: OBM Nível 2
 
 > Natasha è superstiziosa e, quando numerò le 200 pagine del suo diario a partire da 1, ha saltato tutti i numeri di pagina contenenti i numeri 1 o 3 (in qualsiasi ordine). Per esempio, i numeri 31 e 137 non appaiono, ma 103 appaiono. Qual è il numero che Natasha ha scritto sull'ultima pagina del suo diario?
 
-[[Quesiti/src_obm_2005_n2_f2#q01|src_obm_2005_n2_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -63,8 +61,6 @@ level: OBM Nível 2
 > Quattro pezzi uguali, ognuno a forma di triangolo, erano disposti in due modi diversi, come mostrato nelle figure di seguito. I quadrati $ABCD$ e $EFGH$ hanno lati uguali rispettivamente a $3\,\text{cm}$ e $9\,\text{cm}$. Determinare la lunghezza laterale del quadrato $IJKL$.
 
 ![[src_obm_2005_n2_f2__q02.png]]
-
-[[Quesiti/src_obm_2005_n2_f2#q02|src_obm_2005_n2_f2__Q02]]
 
 
 
@@ -99,8 +95,6 @@ level: OBM Nível 2
 
 ![[src_obm_2005_n2_f2__q03.png]]
 
-[[Quesiti/src_obm_2005_n2_f2#q03|src_obm_2005_n2_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -130,8 +124,6 @@ level: OBM Nível 2
 
 ![[src_obm_2005_n2_f2__q04.png]]
 
-[[Quesiti/src_obm_2005_n2_f2#q04|src_obm_2005_n2_f2__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -156,8 +148,6 @@ level: OBM Nível 2
 *Il numero intero positivo più piccolo che soddisfa quattro condizioni di divisibilità*
 
 > Che $a$ sia un intero positivo tale che $a + 1$ sia un multiple di $5$, $a + 2$ sia un multiple di $7$, $a + 3$ sia un multiple di $9$, e $a + 3$ sia un multiple di $11$. Determinare il valore più piccolo che $a$ può assumere.
-
-[[Quesiti/src_obm_2005_n2_f2#q05|src_obm_2005_n2_f2__Q05]]
 
 
 
@@ -188,8 +178,6 @@ level: OBM Nível 2
 > 
 > (Nota: questo è Parte B, Problema 1, vale 10 punti ciascuno.)
 
-[[Quesiti/src_obm_2005_n2_f2#q06|src_obm_2005_n2_f2__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -219,8 +207,6 @@ level: OBM Nível 2
 
 ![[src_obm_2005_n2_f2__q07.png]]
 
-[[Quesiti/src_obm_2005_n2_f2#q07|src_obm_2005_n2_f2__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -249,8 +235,6 @@ level: OBM Nível 2
 > (a) Factor l'espressione $x^2 - 9xy + 8y^2$.
 > 
 > b) Determinare tutte le coppie di integri $(x, y)$ tali da $9xy - x^2 - 8y^2 = 2005$.
-
-[[Quesiti/src_obm_2005_n2_f2#q08|src_obm_2005_n2_f2__Q08]]
 
 
 
@@ -288,5 +272,3 @@ Sequenze di domino con case 1-3: ordini di conteggio, spiegazione dell'impossibi
 > b) Spiega perché non sia possibile fare lo stesso con tutti i pezzi $10$ formati utilizzando solo i numeri $1$, $2$, $3$ e $4$.
 
 ![[src_obm_2005_n2_f2__q09.png]]
-
-[[Quesiti/src_obm_2005_n2_f2#q09|src_obm_2005_n2_f2__Q09]]

@@ -32,8 +32,6 @@ level: INMO
 
 > Le diagonali $AC$ e $BD$ di un quadrilaterale ciclico $ABCD$ si intersecano al punto $P$. Che $O$ sia il circoncentro del triangolo $APB$ e $H$ sia l'ortocentro del triangolo $CPD$. Indicare che i punti $H$, $P$ e $O$ si trovano su una linea.
 
-[[Quesiti/src_inmo_1993#q01|src_inmo_1993__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,skill_manipolazione_algebrica,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -58,8 +56,6 @@ level: INMO
 *Polinomio quadratico con valori interi a numeri interi consecutivi*
 
 > Considera un polinomio quadratico $P(x) = x^2 + ax + b$ con $a, b \in \mathbb{Z}$. Indicare che per qualsiasi intero $n$ esiste un intero $m$ tale che $P(n)P(n+1) = P(m)$.
-
-[[Quesiti/src_inmo_1993#q02|src_inmo_1993__Q02]]
 
 
 
@@ -88,8 +84,6 @@ level: INMO
 
 > Se $a, b, c, d$ sono numeri positivi con $a + b + c + d = 1$, dimostrare che $$ab + bc + cd \le \frac{1}{4}.$$ La disuguaglianza analogo vale per le variabili $n$?
 
-[[Quesiti/src_inmo_1993#q03|src_inmo_1993__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -113,8 +107,6 @@ level: INMO
 *Localisso dei punti con circondazioni uguali per i sotto-triangoli*
 
 > Trovare l'insieme di tutti i punti $P$ nell'insieme di un triangolo $ABC$ in modo tale che $P \neq A, B, C$ e i triangoli $ABP$, $BCP$ e $CAP$ abbiano lo stesso circondario.
-
-[[Quesiti/src_inmo_1993#q04|src_inmo_1993__Q04]]
 
 
 
@@ -141,8 +133,6 @@ Numero naturale n tale che n! termina esattamente in zero 1993*
 
 > Indicare che esiste un numero naturale $n$ tale che $n!$ nel sistema decimale finisce esattamente in zero $1993$.
 
-[[Quesiti/src_inmo_1993#q05|src_inmo_1993__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -166,8 +156,6 @@ Numero naturale n tale che n! termina esattamente in zero 1993*
 *Due cerchi tangenti ai lati di un triangolo rettangolo; prodotto dei raggi uguale all'area*
 
 > Il $\mathscr{S}$ deve essere un semicircolo di un triangolo rettangolo $ABC$ con $\angle A = 90^\circ$. Circolo $\mathscr{S}_1$ è tangente alle linee $AB$ e $AC$ e internamente a $\mathscr{S}$. Circolo $\mathscr{S}_2$ è tangente a $AB$ e $AC$ e esternamente a $\mathscr{S}$. Se $r_1, r_2$ sono i raggi di $S_1$ e $S_2$, dimostrare che $r_1 \cdot r_2$ è uguale a quattro volte l'area di $\triangle ABC$.
-
-[[Quesiti/src_inmo_1993#q06|src_inmo_1993__Q06]]
 
 
 
@@ -194,8 +182,6 @@ Numero naturale n tale che n! termina esattamente in zero 1993*
 
 > $A$ sia un sottogruppo di 53 elementi di $A = \{1, 2, 3, \ldots, 100\}$. Prova che esistono due elementi distinti $x, y \in A$ la cui somma è divisibile da $9$.
 
-[[Quesiti/src_inmo_1993#q07|src_inmo_1993__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_induzione,method_invarianti,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_astrazione"></span>
@@ -221,8 +207,6 @@ Numero naturale n tale che n! termina esattamente in zero 1993*
 
 > Lasciate che $f$ sia una funzione bijectiva da $A = \{1, 2, \ldots, n\}$ a se stessa. Prove che esiste un intero positivo $M$ tale che $f^M(i) = i$ per ogni $i \in A$, dove $f^M = f \circ f \circ \cdots \circ f$ ($M$ volte).
 
-[[Quesiti/src_inmo_1993#q08|src_inmo_1993__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_combinatoria,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione"></span>
@@ -246,5 +230,3 @@ Numero naturale n tale che n! termina esattamente in zero 1993*
 *Esagono converso con angoli e lunghezze laterali uguali 1,2,3,4,5,6 in qualche ordine*
 
 > Dimostrare che nel piano esiste un esagono converso i cui angoli interni sono tutti uguali e le cui lunghezze laterali sono $1, 2, 3, 4, 5, 6$ in un certo ordine.
-
-[[Quesiti/src_inmo_1993#q09|src_inmo_1993__Q09]]

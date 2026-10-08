@@ -33,8 +33,6 @@ level: RMO
 
 > Prove che l'inradio di un triangolo rettangolo con lati interi è un intero.
 
-[[Quesiti/src_rmo_1999#q01|src_rmo_1999__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_conteggio,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
@@ -59,8 +57,6 @@ level: RMO
 *Contare interi positivi che dividono $10^{999}$ ma non $10^{998}$*
 
 > Trova il numero di interi positivi che dividono $10^{999}$ ma non $10^{998}$.
-
-[[Quesiti/src_rmo_1999#q02|src_rmo_1999__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: RMO
 
 > Il $ABCD$ deve essere quadrato e $M, N$ punti sui lati $AB, BC$, rispettivamente, in modo tale che $\angle MDN = 45^\circ$. Se $R$ è il punto medio di $MN$, indicare che $RP = RQ$ dove $P, Q$ sono i punti di intersezione di $AC$ con le linee $MD, ND$.
 
-[[Quesiti/src_rmo_1999#q03|src_rmo_1999__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_fattorizzazione,method_simmetria,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -113,8 +107,6 @@ level: RMO
 *Rede di cubo con forma speciale implicano $p=q=r$*
 
 > Se $p, q, r$ sono le radici dell'equazione cubica $x^3 - 3px^2 + 3q^2x - r^3 = 0$, indicare che $p = q = r$.
-
-[[Quesiti/src_rmo_1999#q04|src_rmo_1999__Q04]]
 
 
 
@@ -142,8 +134,6 @@ level: RMO
 
 > Se $a, b, c$ sono i lati di un triangolo dimostrano la seguente disuguaglianza: $$\frac{a}{c+a-b} + \frac{b}{a+b-c} + \frac{c}{b+c-a} \ge 3.$$
 
-[[Quesiti/src_rmo_1999#q05|src_rmo_1999__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -169,8 +159,6 @@ level: RMO
 *Ricerca tutte le soluzioni integrali di $(m-n)^2 = \frac{4mn}{m+n-1}$*
 
 > Trova tutte le soluzioni in numeri interi $m, n$ dell'equazione $$(m-n)^2 = \frac{4mn}{m+n-1}.$$
-
-[[Quesiti/src_rmo_1999#q06|src_rmo_1999__Q06]]
 
 
 
@@ -199,5 +187,3 @@ level: RMO
 *Contare polinomi quadrati $ax^2+bx+c$ divisibili per $x+1$*
 
 > Trova il numero di polinomi quadratici, $ax^2 + bx + c$, che soddisfano le seguenti condizioni: (a) $a, b, c$ sono distinti; (b) $a, b, c \in \{1, 2, 3, \ldots 1999\}$ e (c) $x + 1$ dividono $ax^2 + bx + c$.
-
-[[Quesiti/src_rmo_1999#q07|src_rmo_1999__Q07]]

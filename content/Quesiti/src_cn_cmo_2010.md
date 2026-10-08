@@ -37,8 +37,6 @@ level: China Mathematical Olympiad
 
 ![[src_cn_cmo_2010__q01.png]]
 
-[[Quesiti/src_cn_cmo_2010#q01|src_cn_cmo_2010__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -66,8 +64,6 @@ level: China Mathematical Olympiad
 
 > Date un numero intero $k \ge 3$ e una sequenza $\{a_n\}$ che soddisfa $a_1 = 2k$ e per ogni $n > k$, $$a_{n+1} = \begin{cases} a_n + 1, & \text{if } a_n \text{ and } n \text{ are coprime,} \\ 2a_n, & \text{otherwise,} \end{cases}$$ dimostra che $a_n$ è un primo per infinite $n$. (Posato da Zhu Huawei)
 
-[[Quesiti/src_cn_cmo_2010#q02|src_cn_cmo_2010__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_funzionali,method_estremalita,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima,skill_astrazione"></span>
@@ -93,8 +89,6 @@ level: China Mathematical Olympiad
 
 > $a$, $b$, $c$ siano numeri complessi in modo tale che $|az^2 + bz + c| \le 1$ per tutti i numeri complessi $z$ con $|z| \le 1$. Trova il valore massimo di $|b|$. (Posizione di Li Weigui)
 
-[[Quesiti/src_cn_cmo_2010#q03|src_cn_cmo_2010__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_cassetti,method_conteggio,skill_modellizzazione,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -119,8 +113,6 @@ level: China Mathematical Olympiad
 *Coperire m integri utilizzando un piccolo insieme di T più spostamenti in [-n,n]*
 
 > Date due integri $m$, $n$ più grandi di 1 e $a_1 < a_2 < \cdots < a_m$, dimostrano che esiste un insieme $T$ di integri con $|T| \le 1 + \dfrac{8n}{m-1}$ tale che ogni $a_i$ possa essere scritto come $a_i = t + s$ per alcuni $t \in T$ e alcuni $s \in \{-n, -n+1, \ldots, n\}$. (Posato da Leng Gangsong)
-
-[[Quesiti/src_cn_cmo_2010#q04|src_cn_cmo_2010__Q04]]
 
 
 
@@ -150,8 +142,6 @@ level: China Mathematical Olympiad
 
 > Operamo su pile di carte posizionate alle posizioni $n+1$ $A_1, A_2, \ldots, A_n$ ($n \ge 3$) e $O$. In una operazione, possiamo fare una delle seguenti: (1) Se ci sono almeno tre carte in qualche posizione $A_i$, possiamo prendere tre carte da $A_i$ e posizionare una carta ciascuno a $A_{i-1}$, $A_i$, e $O$ (indici mod $n$, quindi $A_{n+1} = A_1$); (2) Se ci sono almeno $n$ carte a $O$, possiamo prendere $n$ carte da $O$ e posizionare una carta a ciascuno di $A_1, A_2, \ldots, A_n$. Prova che se il numero totale delle carte è almeno $n^2 + 3n + 1$, possiamo eseguire una sequenza di operazioni in modo che ci siano almeno $n+1$ carte in ciascuna delle posizioni $A_1, A_2, \ldots, A_n$. (Posato da Qu Zhenhua)
 
-[[Quesiti/src_cn_cmo_2010#q05|src_cn_cmo_2010__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_congruenze,method_induzione,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -178,5 +168,3 @@ level: China Mathematical Olympiad
 *Sei integri positivi distinti in coppia con condizione di potenza somma, provare il rapporto è intero*
 
 > Lasciate che $a_1$, $a_2$, $a_3$, $b_1$, $b_2$, $b_3$ siano integri positivi separati in coppia in modo tale che $$(n-1)!\, n!\, (n+1)!\, (2n-1)! \mid \prod_{1 \le i < j \le 3}(a_i - a_j) \cdot \prod_{1 \le i < j \le 3}(b_i - b_j)$$ sia valido per qualche intero positivo $n$. Prova che esiste un intero positivo $r$ tale che $a_1^r + a_2^r + a_3^r = b_1^r + b_2^r + b_3^r$. (Posato da Chen Yonggao)
-
-[[Quesiti/src_cn_cmo_2010#q06|src_cn_cmo_2010__Q06]]

@@ -34,8 +34,6 @@ level: IMO
 
 > The $O$ point lies on the straight $g$; $\overrightarrow{OP_1}, \overrightarrow{OP_2}, \ldots, \overrightarrow{OP_n}$ are unit vectors such that the $P_1, P_2, \ldots, P_n$ points lie all in a plane containing $g$ and on one side of $g$. Show that if $n$ is odd, then $$\left|\overrightarrow{OP_1} + \overrightarrow{OP_2} + \cdots + \overrightarrow{OP_n}\right| \geq 1.$$ Here $\left|\overrightarrow{OM}\right|$ denotes the length of the $\overrightarrow{OM}$ vector.
 
-[[Quesiti/src_imo_1973_all#q01|src_imo_1973_all__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida"></span>
@@ -58,8 +56,6 @@ level: IMO
 *Finite non-coplanar set with parallel-pairs property exists?*
 
 > Determine whether or not there is a finite set $M$ of points in space, not lying on the same plane, such that for any pair of points $A$ and $B$ of $M$ two other points $C$ and $D$ of $M$ may be chosen so that the lines $AB$ and $CD$ are parallel and not coincident.
-
-[[Quesiti/src_imo_1973_all#q02|src_imo_1973_all__Q02]]
 
 
 
@@ -87,8 +83,6 @@ Minimize a^2+b^2 for quartic with a real root
 
 > They are $a$ and $b$ real numbers for which the equation $$x^4 + ax^3 + bx^2 + ax + 1 = 0$$ has at least one real solution. For all pairs $(a, b)$ with this property, find the minimum value of $a^2 + b^2$.
 
-[[Quesiti/src_imo_1973_all#q03|src_imo_1973_all__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
@@ -113,8 +107,6 @@ Minimize a^2+b^2 for quartic with a real root
 *Shortest mine-sweeping path in an equilateral triangle*
 
 > A soldier must check for mines in an equilateral triangle region. The radius of action of its detector is half the height of the triangle. The soldier starts at the top of the triangle. What path must he follow to cover the shortest possible distance and still complete his mission?
-
-[[Quesiti/src_imo_1973_all#q04|src_imo_1973_all__Q04]]
 
 
 
@@ -159,8 +151,6 @@ Minimize a^2+b^2 for quartic with a real root
 > 
 > Demonstrate that there is a real number $k$ such that $f(k) = k$ for each $f \in G$.
 
-[[Quesiti/src_imo_1973_all#q05|src_imo_1973_all__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_disuguaglianze,method_disuguaglianze"></span>
@@ -196,5 +186,3 @@ Minimize a^2+b^2 for quartic with a real root
 > (b) $q < \dfrac{b_{k+1}}{b_k} < \dfrac{1}{q}$ for $k = 1, 2, \ldots, n-1$,
 > 
 > (c) $b_1 + b_2 + \cdots + b_n < \dfrac{1+q}{1-q}(a_1 + a_2 + \cdots + a_n)$.
-
-[[Quesiti/src_imo_1973_all#q06|src_imo_1973_all__Q06]]

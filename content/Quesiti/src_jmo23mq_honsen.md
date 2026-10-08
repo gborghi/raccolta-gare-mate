@@ -39,8 +39,6 @@ Distribuire caramelle a gruppi di persone in condizioni*
 > 
 > - Ogni persona riceve almeno $1$ dolci. - Ogni persona appartenente al gruppo $i$ riceve esattamente $a_i$ dolci $(1 \le i \le k)$. - Se $1 \le i < j \le k$, allora $a_i > a_j$.
 
-[[Quesiti/src_jmo23mq_honsen#q01|src_jmo23mq_honsen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_funzionali,topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -67,8 +65,6 @@ Distribuire caramelle a gruppi di persone in condizioni*
 *Ricerca tutte le funzioni integrali che soddisfano un'equazione funzionale*
 
 > Trovare tutte le funzioni $f$ definite sui numeri interi e prendere valori reali in modo tale che, per tutti gli enti $m,n$, $$f(m) + f(n) = f(mn) + f(m + n + mn)$$ tenga.
-
-[[Quesiti/src_jmo23mq_honsen#q02|src_jmo23mq_honsen__Q02]]
 
 
 
@@ -100,8 +96,6 @@ Distribuire caramelle a gruppi di persone in condizioni*
 > 
 > - $a_1 < \cdots < a_n = m$. - I numeri $n-1$ $\dfrac{a_1^2 + a_2^2}{2}, \ldots, \dfrac{a_{n-1}^2 + a_n^2}{2}$ sono tutti quadrati perfetti.
 
-[[Quesiti/src_jmo23mq_honsen#q03|src_jmo23mq_honsen__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -127,8 +121,6 @@ Distribuire caramelle a gruppi di persone in condizioni*
 
 > Il $ABC$ deve essere un triangolo acuto con il centro orto $H$. Il cerchio che attraversa i punti $B$ e $C$ e il cerchio con segmento $AH$ come diametro si intersecano a due punti distinti $X, Y$. Il $D$ deve essere il piede della perpendicolare da $A$ alla linea $BC$, e il $K$ deve essere il piede della perpendicolare da $D$ alla linea $XY$. Prove che $\angle BKD = \angle CKD$.
 
-[[Quesiti/src_jmo23mq_honsen#q04|src_jmo23mq_honsen__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_piana,method_estremalita,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -153,5 +145,3 @@ Distribuire caramelle a gruppi di persone in condizioni*
 *Maximi coppie di segmenti che si intersecano in una sequenza di punti di svolta a 90 gradi*
 
 > $n$ sia un numero intero positivo. Nel piano ci sono punti $P_1, P_2, \ldots, P_{4n}$, di cui non tre sono collineari, in modo tale che per ogni $i = 1, 2, \ldots, 4n$, rotando il raggio $P_i P_{i-1}$ in senso orario per $90^\circ$ circa il punto $P_i$, esso coincide con il raggio $P_i P_{i+1}$. Trovare il numero massimo possibile di coppie $(i,j)$ in modo tale che i segmenti $P_i P_{i+1}$ e $P_j P_{j+1}$ si intersecano in un punto diverso dai loro punti di fine. Qui $P_0 = P_{4n}$, $P_{4n+1} = P_1$ e $1 \le i < j \le 4n$.
-
-[[Quesiti/src_jmo23mq_honsen#q05|src_jmo23mq_honsen__Q05]]

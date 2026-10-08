@@ -35,8 +35,6 @@ level: IMO
 > Dato un triangolo $ABC$, sia $I$ il centro della sua circonferenza inscritta. Le bisettrici degli angoli $A$, $B$, $C$ incontrano i lati opposti rispettivamente nei punti $A'$, $B'$, $C'$. Si dimostri che
 > $$\frac{1}{4} < \frac{AI \cdot BI \cdot CI}{AA' \cdot BB' \cdot CC'} \le \frac{8}{27}.$$
 
-[[Quesiti/src_imho_1991#q01|src_imho_1991__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
@@ -66,8 +64,6 @@ level: IMO
 > $$a_2 - a_1 = a_3 - a_2 = \cdots = a_k - a_{k-1} > 0,$$
 > si dimostri che $n$ deve essere o $1$, o $2$, o $4$, o una potenza di un primo dispari, oppure il doppio di una potenza di un primo dispari.
 
-[[Quesiti/src_imho_1991#q02|src_imho_1991__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_cassetti,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_casework_accurato"></span>
@@ -92,8 +88,6 @@ level: IMO
 *Più piccolo sottoinsieme di {1,...,280} con n elementi che contiene cinque membri a due a due coprimi*
 
 > Sia $S = \{1, 2, 3, \ldots, 280\}$. Determinare il più piccolo intero $n$ tale che ogni sottoinsieme di $n$ elementi di $S$ contenga cinque numeri a due a due primi tra loro.
-
-[[Quesiti/src_imho_1991#q03|src_imho_1991__Q03]]
 
 
 
@@ -124,8 +118,6 @@ level: IMO
 > 
 > [Un grafo è costituito da un insieme di punti, detti vertici, unitamente a un insieme di archi che collegano certe coppie di vertici distinti. Ogni coppia di vertici distinti $u$, $v$ appartiene a al più un arco. Il grafo $G$ è connesso se per ogni coppia di vertici distinti $x$, $y$ esiste una certa sequenza di vertici $x = v_0, v_1, v_2, \ldots, v_m = y$ tale che ciascuna coppia $v_i, v_{i+1}$, $(0 \le i < m)$ è collegata da un arco del grafo $G$.]
 
-[[Quesiti/src_imho_1991#q04|src_imho_1991__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_disuguaglianze,method_trigonometria,method_estremalita,skill_ragionamento_geometrico,skill_stima,skill_manipolazione_algebrica"></span>
@@ -150,8 +142,6 @@ level: IMO
 *Punto interno del triangolo con uno degli angoli PAB, PBC, PCA al più di 30°*
 
 > Sia $ABC$ un triangolo e $P$ un punto interno a $ABC$. Si dimostri che almeno uno degli angoli $\angle PAB$, $\angle PBC$, $\angle PCA$ è minore o uguale a $30^\circ$.
-
-[[Quesiti/src_imho_1991#q05|src_imho_1991__Q05]]
 
 
 
@@ -185,5 +175,3 @@ level: IMO
 > Dato un qualsiasi numero reale $a > 1$, si costruisca una successione infinita limitata $x_0, x_1, x_2, \ldots$ tale che
 > $$|x_i - x_j| \cdot |i - j|^a \ge 1$$
 > per ogni coppia di interi non negativi distinti $i$, $j$.
-
-[[Quesiti/src_imho_1991#q06|src_imho_1991__Q06]]

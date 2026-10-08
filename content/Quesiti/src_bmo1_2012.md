@@ -33,8 +33,6 @@ level: BMO Round 1
 
 > Trova tutti gli integri $n$ (positivi o negativi) per i quali $n^2 + 20n + 11$ è un quadrato perfetto. Ricorda che devi giustificare di averli trovati tutti.
 
-[[Quesiti/src_bmo1_2012#q01|src_bmo1_2012__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -60,8 +58,6 @@ level: BMO Round 1
 
 > Considerate i numeri $1, 2, \ldots, n$. Trova, in termini di $n$, il più grande intero $t$ in modo tale che questi numeri possano essere disposti in una riga in modo che tutti i termini consecutivi differiscano almeno $t$.
 
-[[Quesiti/src_bmo1_2012#q02|src_bmo1_2012__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -86,8 +82,6 @@ level: BMO Round 1
 *Due cerchi attraverso P tangenti a S a X, Y: differenza di raggio indipendente dalle posizioni di P, X, Y*
 
 > Considera un cerchio $S$. Il punto $P$ si trova al di fuori di $S$ e una linea è tracciata attraverso $P$, tagliando $S$ in punti distinti $X$ e $Y$. I cerchi $S_1$ e $S_2$ sono tracciati attraverso $P$ che sono tangenti a $S$ rispettivamente a $X$ e $Y$. Dimostrare che la differenza tra i raggi di $S_1$ e $S_2$ è indipendente dalle posizioni di $P$, $X$ e $Y$.
-
-[[Quesiti/src_bmo1_2012#q03|src_bmo1_2012__Q03]]
 
 
 
@@ -129,8 +123,6 @@ level: BMO Round 1
 > 
 > È ora sempre possibile svuotare entrambe le sacche dopo una sequenza finita di operazioni?
 
-[[Quesiti/src_bmo1_2012#q04|src_bmo1_2012__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_stima"></span>
@@ -155,8 +147,6 @@ level: BMO Round 1
 *Il prodotto di quattro integri positivi consecutivi non può essere uguale al prodotto di due integri positivi consecutivi*
 
 > Prove che il prodotto di quattro numeri interi positivi consecutivi non può essere uguale al prodotto di due numeri interi positivi consecutivi.
-
-[[Quesiti/src_bmo1_2012#q05|src_bmo1_2012__Q05]]
 
 
 
@@ -186,5 +176,3 @@ level: BMO Round 1
 > Che il $ABC$ sia un triangolo acuto. I piedi delle altitudini da $A$, $B$ e $C$ sono rispettivamente $D$, $E$ e $F$. Prova che $DE + DF \le BC$ e determina i triangoli per i quali vale l'uguaglianza.
 > 
 > L'altitudine da $A$ è la linea attraverso $A$ che è perpendicolare a $BC$. Il piede di questa altitudine è il punto $D$ dove incontra $BC$. Le altre altitudini sono definite in modo simile.
-
-[[Quesiti/src_bmo1_2012#q06|src_bmo1_2012__Q06]]

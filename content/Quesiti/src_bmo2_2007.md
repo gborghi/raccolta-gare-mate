@@ -33,8 +33,6 @@ level: BMO Round 2
 
 > Il triangolo $ABC$ ha lati a lunghezza interi e $AC = 2007$. Dato che $\angle BAC = \angle ACD$, determinare $AB$ e $BC$.
 
-[[Quesiti/src_bmo2_2007#q01|src_bmo2_2007__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_induzione,method_ricorsione,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -61,8 +59,6 @@ level: BMO Round 2
 *Infinitamente molte coppie di numeri interi positivi che rendono una somma di frazioni un numero intero*
 
 > Mostrare che ci sono infinite coppie di integri positivi $(m, n)$ in modo tale che $$\frac{m+1}{n} + \frac{n+1}{m}$$ è un intero positivo.
-
-[[Quesiti/src_bmo2_2007#q02|src_bmo2_2007__Q02]]
 
 
 
@@ -93,8 +89,6 @@ level: BMO Round 2
 > 
 > (Nota: il circoncircolo di $\triangle ABC$ è il circolo che attraversa i vertici $A$, $B$ e $C$. L'ortocentro è il punto di intersezione delle perpendicolari dai vertici ai lati opposti.)
 
-[[Quesiti/src_bmo2_2007#q03|src_bmo2_2007__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,method_casework,method_grafi,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_modellizzazione"></span>
@@ -119,5 +113,3 @@ level: BMO Round 2
 *Contare i modi per chiudere le linee in un grafico ferroviario completo di 6 città mantenendolo connesso*
 
 > Nel paese dell'Esagonia, le sei città sono collegate da una rete ferroviaria tale che esiste una linea ferroviaria diretta che collega ciascuna coppia di città. Domenica, alcune linee possono essere chiuse per la riparazione. La carta ferroviaria dei passeggeri stabilisce che ogni città deve essere accessibile in treno da qualsiasi altra città (non necessariamente direttamente) in ogni momento. In quanti modi diversi possono essere chiuse alcune linee a condizione di questa condizione?
-
-[[Quesiti/src_bmo2_2007#q04|src_bmo2_2007__Q04]]

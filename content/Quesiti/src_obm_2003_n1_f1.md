@@ -43,7 +43,6 @@ level: OBM Nível 1
 ![[src_obm_2003_n1_f1__q01.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2003_n1_f1#q01|src_obm_2003_n1_f1__Q01]]
 
 
 
@@ -95,7 +94,6 @@ level: OBM Nível 1
 > (A) $11.3\ \text{m}^3$ \quad (B) $11.7\ \text{m}^3$ \quad (C) $12.7\ \text{m}^3$ \quad (D) $63.5\ \text{m}^3$ \quad (E) $317.5\ \text{m}^3$
 
 **Risposta:** C
-[[Quesiti/src_obm_2003_n1_f1#q02|src_obm_2003_n1_f1__Q02]]
 
 
 
@@ -128,7 +126,6 @@ level: OBM Nível 1
 > (A) 29 \quad (B) 30 \quad (C) 31 \quad (D) 32 \quad (E) 33
 
 **Risposta:** A
-[[Quesiti/src_obm_2003_n1_f1#q03|src_obm_2003_n1_f1__Q03]]
 
 
 
@@ -175,7 +172,6 @@ level: OBM Nível 1
 ![[src_obm_2003_n1_f1__q04.png]]
 
 **Risposta:** E
-[[Quesiti/src_obm_2003_n1_f1#q04|src_obm_2003_n1_f1__Q04]]
 
 
 
@@ -215,7 +211,6 @@ level: OBM Nível 1
 > - **(E)** un numero la cui somma digitali è 9.
 
 **Risposta:** A
-[[Quesiti/src_obm_2003_n1_f1#q05|src_obm_2003_n1_f1__Q05]]
 
 
 
@@ -252,7 +247,6 @@ level: OBM Nível 1
 ![[src_obm_2003_n1_f1__q06.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2003_n1_f1#q06|src_obm_2003_n1_f1__Q06]]
 
 
 
@@ -289,7 +283,6 @@ level: OBM Nível 1
 ![[src_obm_2003_n1_f1__q07.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2003_n1_f1#q07|src_obm_2003_n1_f1__Q07]]
 
 
 
@@ -322,7 +315,6 @@ level: OBM Nível 1
 > (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 4 \quad (E) 5
 
 **Risposta:** C
-[[Quesiti/src_obm_2003_n1_f1#q08|src_obm_2003_n1_f1__Q08]]
 
 
 
@@ -354,7 +346,6 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 > (A) 80 reais (B) 90 reais (C) 100 reais (D) 120 reais (E) 130 reais
 
 **Risposta:** B
-[[Quesiti/src_obm_2003_n1_f1#q09|src_obm_2003_n1_f1__Q09]]
 
 
 
@@ -394,7 +385,6 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 > - **(E)** 336 tavoli e 1344 sedie
 
 **Risposta:** E
-[[Quesiti/src_obm_2003_n1_f1#q10|src_obm_2003_n1_f1__Q10]]
 
 
 
@@ -435,7 +425,6 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 ![[src_obm_2003_n1_f1__q11.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2003_n1_f1#q11|src_obm_2003_n1_f1__Q11]]
 
 
 
@@ -468,7 +457,6 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 > (A) 20 \quad (B) 30 \quad (C) 45 \quad (D) 60 \quad (E) 75
 
 **Risposta:** D
-[[Quesiti/src_obm_2003_n1_f1#q12|src_obm_2003_n1_f1__Q12]]
 
 
 
@@ -509,7 +497,6 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 ![[src_obm_2003_n1_f1__q13.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2003_n1_f1#q13|src_obm_2003_n1_f1__Q13]]
 
 
 
@@ -546,7 +533,6 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 ![[src_obm_2003_n1_f1__q14.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2003_n1_f1#q14|src_obm_2003_n1_f1__Q14]]
 
 
 
@@ -582,7 +568,6 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 ![[src_obm_2003_n1_f1__q15.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2003_n1_f1#q15|src_obm_2003_n1_f1__Q15]]
 
 
 
@@ -614,7 +599,6 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 > (A) 1 min 20 s \quad (B) 1 min 24 s \quad (C) 1 min 30 s \quad (D) 1 min 40 s \quad (E) 2 min
 
 **Risposta:** B
-[[Quesiti/src_obm_2003_n1_f1#q16|src_obm_2003_n1_f1__Q16]]
 
 
 
@@ -651,7 +635,6 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 ![[src_obm_2003_n1_f1__q17.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2003_n1_f1#q17|src_obm_2003_n1_f1__Q17]]
 
 
 
@@ -692,7 +675,6 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 > - **(E)** 41 32 33 24 15 16 18
 
 **Risposta:** D
-[[Quesiti/src_obm_2003_n1_f1#q18|src_obm_2003_n1_f1__Q18]]
 
 
 
@@ -743,7 +725,6 @@ Quante cellule ha segnato Camila nel gioco da tavolo con Lara
 > (A) 3 \quad (B) 4 \quad (C) 5 \quad (D) 6 \quad (E) 7
 
 **Risposta:** B
-[[Quesiti/src_obm_2003_n1_f1#q19|src_obm_2003_n1_f1__Q19]]
 
 
 
@@ -784,4 +765,3 @@ Quante cellule ha segnato Camila nel gioco da tavolo con Lara
 > - **(E)** la distanza dalla Terra alla Luna, che è molto maggiore di tutte le alternative precedenti.
 
 **Risposta:** D
-[[Quesiti/src_obm_2003_n1_f1#q20|src_obm_2003_n1_f1__Q20]]

@@ -33,8 +33,6 @@ level: BMO Round 2
 
 > Le diagonali $AC$ e $BD$ di un quadrilaterale ciclico si incontrano a $E$. I punti intermedi dei lati $AB$, $BC$, $CD$ e $DA$ sono rispettivamente $P$, $Q$, $R$ e $S$. Prova che i cerchi $EPS$ e $EQR$ hanno lo stesso raggio.
 
-[[Quesiti/src_bmo2_2012#q01|src_bmo2_2012__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_insiemi_funzioni,method_induzione,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -66,8 +64,6 @@ level: BMO Round 2
 > 
 > [Questi sono alcuni esempi di utilizzo di $\lfloor x \rfloor$: $\lfloor \pi \rfloor = 3$, $\lfloor 1729 \rfloor = 1729$ e $\left\lfloor \frac{2012}{1000} \right\rfloor = 2$.]
 
-[[Quesiti/src_bmo2_2012#q02|src_bmo2_2012__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_insiemi_funzioni,topic_combinatoria,method_casework,skill_astrazione,skill_lettura_attenta"></span>
@@ -92,8 +88,6 @@ level: BMO Round 2
 *I reali sono divisi in due sottosette disjointe; dimostrare che per ogni coppia (m,n) di integri positivi esiste x<y<z nello stesso sottosetto con m(z-y) =n(y-x).*
 
 > L'insieme dei numeri reali è diviso in due sottinsiemi che non si intersecano. Prove che per ogni coppia $(m, n)$ di integri positivi, ci sono numeri reali $x < y < z$ tutti nello stesso sottoinsieme in modo tale che $m(z-y) = n(y-x)$.
-
-[[Quesiti/src_bmo2_2012#q03|src_bmo2_2012__Q03]]
 
 
 
@@ -121,5 +115,3 @@ level: BMO Round 2
 *Mostra che c'è un intero positivo k tale che se m divide a^n+b^n+c^n-d^n-e^n-f^n per tutti n in [1,k], allora m lo divide per tutti gli interi positivi n.*
 
 > Mostrare che esiste un intero positivo $k$ con la seguente proprietà: se $a, b, c, d, e$ e $f$ sono interi e $m$ è un divisore di $$a^n + b^n + c^n - d^n - e^n - f^n$$ per tutti gli interi $n$ nell'intervallo $1 \le n \le k$, allora $m$ è un divisore di $a^n + b^n + c^n - d^n - e^n - f^n$ per tutti gli interi positivi $n$.
-
-[[Quesiti/src_bmo2_2012#q04|src_bmo2_2012__Q04]]

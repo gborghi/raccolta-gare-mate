@@ -34,8 +34,6 @@ level: Olimpiade Polacca Round 3
 
 > Prove che per tutti i numeri reali non negativi $x_1, x_2, \ldots, x_n$ ($n \ge 2$) è valida la seguente disuguaglianza: $$\sum_{i=1}^{n} i x_i \le \binom{n}{2} + \sum_{i=1}^{n} x_i^i.$$
 
-[[Quesiti/src_pol_2001_r3#q01|src_pol_2001_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,topic_disuguaglianze,method_disuguaglianze,skill_ragionamento_geometrico,skill_stima"></span>
@@ -60,8 +58,6 @@ level: Olimpiade Polacca Round 3
 *Mostra la somma delle distanze da un punto interno di un tetraedro regolare con bordo 1 alle sue vertici è massima di 3.*
 
 > Prova che, per qualsiasi punto interno $P$ di un tetraedro regolare con bordo $1$, la somma delle distanze da $P$ ai vertici del tetraedro non è superiore a $3$.
-
-[[Quesiti/src_pol_2001_r3#q02|src_pol_2001_r3__Q02]]
 
 
 
@@ -90,8 +86,6 @@ level: Olimpiade Polacca Round 3
 
 > Considera la sequenza $(x_n)$ definita da $$x_1 = a, \quad x_2 = b, \quad x_{n+2} = x_{n+1} + x_n \quad \text{for } n = 1, 2, 3, \ldots,$$ dove $a$ e $b$ sono numeri reali. Chiamiamo un numero $c$ un valore multiplo della sequenza $(x_n)$ se esistono interi positivi $k \ne l$ tali che $x_k = x_l = c$. Prove che esistono $a$ e $b$ per i quali $(x_n)$ possiede più di $2000$ diversi valori multipli. Inoltre, dimostri che $(x_n)$ non può avere infinitamente molti valori multipli diversi.
 
-[[Quesiti/src_pol_2001_r3#q03|src_pol_2001_r3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -117,8 +111,6 @@ level: Olimpiade Polacca Round 3
 
 > Supponiamo che $a$ e $b$ siano integri in modo tale che $2^n a + b$ sia un quadrato perfetto per tutti $n \in \mathbb{N}$. Mostrare che $a = 0$.
 
-[[Quesiti/src_pol_2001_r3#q04|src_pol_2001_r3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -143,8 +135,6 @@ level: Olimpiade Polacca Round 3
 *Nel parallelogramma ABCD, K su BC e L su CD con BK×AD=DL×AB; DK e BL si incontrano in P. Dimostra che angle DAP = angle BAC.*
 
 > I punti $K$ e $L$ sono presi sui lati $BC$ e $CD$ di un parallelo $ABCD$, rispettivamente, in modo tale che $BK \cdot AD = DL \cdot AB$. I segmenti $DK$ e $BL$ si incontrano al punto $P$. Prove che $\angle DAP = \angle BAC$.
-
-[[Quesiti/src_pol_2001_r3#q05|src_pol_2001_r3__Q05]]
 
 
 
@@ -173,5 +163,3 @@ level: Olimpiade Polacca Round 3
 *Dato il 2000 di incremento degli integri positivi al di sotto di 10^100, trovare due sottoinsiemi non vuoti con dimensioni uguali, somme di elementi uguali e somme di quadrati uguali.*
 
 > Si devono dare $n_1 < n_2 < \cdots < n_{2000} < 10^{100}$ numeri interi positivi. Indicare che esistono due sottinsiemi non vuoti e disconnessi $A$ e $B$ di $\{n_1, n_2, \ldots, n_{2000}\}$ in modo tale che: (i) $A$ e $B$ abbiano lo stesso numero di elementi; (ii) $A$ e $B$ abbiano le stesse somme di elementi; (iii) $A$ e $B$ abbiano le stesse somme dei quadrati di elementi.
-
-[[Quesiti/src_pol_2001_r3#q06|src_pol_2001_r3__Q06]]

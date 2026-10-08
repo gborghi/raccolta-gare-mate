@@ -33,8 +33,6 @@ level: Olimpiade Polacca Round 3
 
 > I numeri interi positivi $x_1, x_2, \ldots, x_7$ soddisfano $x_{n+3} = x_{n+2}(x_{n+1} + x_n)$ per $n = 1, 2, 3, 4$. Se $x_6 = 144$, trovare $x_7$.
 
-[[Quesiti/src_pol_1997_r3#q01|src_pol_1997_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_simmetria,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -62,8 +60,6 @@ level: Olimpiade Polacca Round 3
 
 > Trova tutti i triples $(x, y, z)$ dei numeri reali che soddisfano $$3(x^2 + y^2 + z^2) = 1,$$ $$x^2 y^2 + y^2 z^2 + z^2 x^2 = xyz(x + y + z)^3.$$
 
-[[Quesiti/src_pol_1997_r3#q02|src_pol_1997_r3__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,method_disuguaglianze,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -89,8 +85,6 @@ level: Olimpiade Polacca Round 3
 
 > I media delle facce $ABD, ACD, BCD$ di un tetraedro $ABCD$ prelevati da $D$ fanno angoli uguali ai bordi a cui sono stati portati. Prova che la superficie di ciascuna faccia $ABD, ACD, BCD$ è inferiore alla somma delle aree delle altre due.
 
-[[Quesiti/src_pol_1997_r3#q03|src_pol_1997_r3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_ricorsione,method_casework,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -115,8 +109,6 @@ level: Olimpiade Polacca Round 3
 *Sequenza con a_1=0, a_n = a_{floor(n/2)} + (-1)^{n(n+1)/2}; indici di conteggio n in [2^k, 2^{k+1}) con a_n=0.*
 
 > Considera la sequenza data da $a_1 = 0$ e $a_n = a_{\lfloor n/2 \rfloor} + (-1)^{\frac{n(n+1)}{2}}$ per $n > 1$. Per ogni numero intero $k \geq 0$, trovare il numero di indici $n$ con $2^k \leq n < 2^{k+1}$ tale che $a_n = 0$.
-
-[[Quesiti/src_pol_1997_r3#q04|src_pol_1997_r3__Q04]]
 
 
 
@@ -144,8 +136,6 @@ level: Olimpiade Polacca Round 3
 
 > Si dà un pentagono convexo $ABCDE$ con $DC = DE$ e $\angle DCB = \angle DEA = 90^\circ$. Il segmento $AB$ deve contenere un punto $F$ in modo tale che $AF : BF = AE : BC$. Provare che $$\angle FCE = \angle ADE \quad \text{and} \quad \angle FEC = \angle BDC.$$
 
-[[Quesiti/src_pol_1997_r3#q05|src_pol_1997_r3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_geometria_piana,method_estremalita,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -170,5 +160,3 @@ level: Olimpiade Polacca Round 3
 *n punti su un cerchio unitario; q = numero di segmenti con punti terminali tra i punti di lunghezza superiori a sqrt 2; prova 3q <= n^2.*
 
 > Si devono dare $n$ punti distinti su un cerchio di raggio $1$. Il $q$ è il numero dei segmenti con punti terminali nei punti dati la cui lunghezza è superiore a $\sqrt{2}$. Prove che $3q \leq n^2$.
-
-[[Quesiti/src_pol_1997_r3#q06|src_pol_1997_r3__Q06]]

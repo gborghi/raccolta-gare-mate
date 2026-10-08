@@ -39,7 +39,6 @@ level: China Mathematical Competition
 > (A) $(-\infty, -1)$ \qquad (B) $(-\infty, 1)$ \qquad (C) $(1, +\infty)$ \qquad (D) $(3, +\infty)$
 
 **Risposta:** A
-[[Quesiti/src_cn_cmc_2002#q01|src_cn_cmc_2002__Q01]]
 
 
 
@@ -72,7 +71,6 @@ level: China Mathematical Competition
 > (A) 2 \qquad (B) 1 \qquad (C) 0 \qquad (D) $\frac{1}{2}$
 
 **Risposta:** B
-[[Quesiti/src_cn_cmc_2002#q02|src_cn_cmc_2002__Q02]]
 
 
 
@@ -109,7 +107,6 @@ level: China Mathematical Competition
 > (C) funzioni pari e odd \qquad (D) funzioni né pari né odd
 
 **Risposta:** A
-[[Quesiti/src_cn_cmc_2002#q03|src_cn_cmc_2002__Q03]]
 
 
 
@@ -142,7 +139,6 @@ level: China Mathematical Competition
 > (A) 1 \qquad (B) 2 \qquad (C) 3 \qquad (D) 4
 
 **Risposta:** B
-[[Quesiti/src_cn_cmc_2002#q04|src_cn_cmc_2002__Q04]]
 
 
 
@@ -175,7 +171,6 @@ level: China Mathematical Competition
 > (A) $C_{50}^1$ \qquad (B) $C_{50}^2$ \qquad (C) $C_{50}^3$ \qquad (D) $C_{50}^{25}$
 
 **Risposta:** D
-[[Quesiti/src_cn_cmc_2002#q05|src_cn_cmc_2002__Q05]]
 
 
 
@@ -208,7 +203,6 @@ level: China Mathematical Competition
 > (A) $V_1 = \dfrac{1}{2}V_2$ \qquad (B) $V_1 = \dfrac{2}{3}V_2$ \qquad (C) $V_1 = V_2$ \qquad (D) $V_1 = 2V_2$
 
 **Risposta:** C
-[[Quesiti/src_cn_cmc_2002#q06|src_cn_cmc_2002__Q06]]
 
 
 
@@ -237,7 +231,6 @@ level: China Mathematical Competition
 > È dato che i numeri complessi $z_1$, $z_2$ soddisfano $|z_1| = 2$ e $|z_2| = 3$. Se l'angolo incluso dei loro corrispondenti vettori è $60^\circ$, allora $\dfrac{z_1 + z_2}{z_1 - z_2} = $ \underline{\quad}.
 
 **Risposta:** $\dfrac{\sqrt{133}}{7}$
-[[Quesiti/src_cn_cmc_2002#q07|src_cn_cmc_2002__Q07]]
 
 
 
@@ -266,7 +259,6 @@ level: China Mathematical Competition
 > Organizziamo l'espansione di $\left(\sqrt{x} + \dfrac{1}{\sqrt{x}}\right)^n$ in potenze diminuenti di $x$. Se i coefficienti dei primi tre termini formano una progressione aritmetica, allora nell'espansione ci sono termini \underline{\quad} di $x$ con potenza interi positiva.
 
 **Risposta:** 3
-[[Quesiti/src_cn_cmc_2002#q08|src_cn_cmc_2002__Q08]]
 
 
 
@@ -299,7 +291,6 @@ level: China Mathematical Competition
 ![[src_cn_cmc_2002__q09.png]]
 
 **Risposta:** 33
-[[Quesiti/src_cn_cmc_2002#q09|src_cn_cmc_2002__Q09]]
 
 
 
@@ -331,7 +322,6 @@ level: China Mathematical Competition
 > È dato che $f(x)$ è una funzione definita su $\mathbf{R}$, che soddisfa $f(1) = 1$, e per qualsiasi $x \in \mathbf{R}$, $$f(x + 5) \ge f(x) + 5,$$ $$f(x + 1) \le f(x) + 1.$$ Se $g(x) = f(x) + 1 - x$, allora $g(2002) = $ \underline{\quad}.
 
 **Risposta:** 1
-[[Quesiti/src_cn_cmc_2002#q10|src_cn_cmc_2002__Q10]]
 
 
 
@@ -360,7 +350,6 @@ level: China Mathematical Competition
 > Se $\log|x + 2y| + \log|x - 2y| = 1$, il valore minimo di $|x| - |y|$ è \underline{\quad}.
 
 **Risposta:** $\sqrt{3}$
-[[Quesiti/src_cn_cmc_2002#q11|src_cn_cmc_2002__Q11]]
 
 
 
@@ -391,7 +380,6 @@ level: China Mathematical Competition
 > La disuguaglianza $$\sin^2 x + a\cos x + a^2 \ge 1$$ vale per tutti $x \in \mathbf{R}$. Trova la gamma di valori di $a$.
 
 **Risposta:** $a \le -2$
-[[Quesiti/src_cn_cmc_2002#q12|src_cn_cmc_2002__Q12]]
 
 
 
@@ -421,8 +409,6 @@ level: China Mathematical Competition
 > Considerato il $A(0, 2)$ e i due punti $B$ e $C$ della parabola $y^2 = x + 4$ in modo tale che $AB \perp BC$, si trova l'intervallo dei valori per la coordinata $y$ del punto $C$.
 
 ![[src_cn_cmc_2002__q13.png]]
-
-[[Quesiti/src_cn_cmc_2002#q13|src_cn_cmc_2002__Q13]]
 
 
 
@@ -457,5 +443,3 @@ level: China Mathematical Competition
 > (1) Trovare una formula per il termine generale della sequenza $\{S_k\}$. (2) Trova $\lim_{n \to \infty} S_n$.
 
 ![[src_cn_cmc_2002__q14.png]]
-
-[[Quesiti/src_cn_cmc_2002#q14|src_cn_cmc_2002__Q14]]

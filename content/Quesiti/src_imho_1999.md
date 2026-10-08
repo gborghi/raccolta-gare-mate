@@ -37,8 +37,6 @@ level: IMO
 > 
 > Per ogni coppia di punti distinti $A$ e $B$ in $S$, l'asse del segmento $AB$ è un asse di simmetria per $S$.
 
-[[Quesiti/src_imho_1999#q01|src_imho_1999__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_estremalita,method_simmetria,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
@@ -76,8 +74,6 @@ level: IMO
 > 
 > (b) Per questo valore costante $C$, determinare in quali casi si ha l'uguaglianza.
 
-[[Quesiti/src_imho_1999#q02|src_imho_1999__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_estremalita,method_casework,method_doppio_conteggio,skill_conteggio_sistematico,skill_modellizzazione,skill_ragionamento_geometrico"></span>
@@ -110,8 +106,6 @@ level: IMO
 > $N$ quadratini unitari sulla scacchiera sono segnati in modo tale che ogni casella (segna o non segnata) sulla scacchiera sia adiacente a almeno un quadratino segnato.
 > 
 > Determinare il più piccolo valore possibile di $N$.
-
-[[Quesiti/src_imho_1999#q03|src_imho_1999__Q03]]
 
 
 
@@ -146,8 +140,6 @@ level: IMO
 > $n$ non supera $2p$, e
 > $(p-1)^n + 1$ è divisibile per $n^{p-1}$.
 
-[[Quesiti/src_imho_1999#q04|src_imho_1999__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_astrazione,skill_modellizzazione"></span>
@@ -177,8 +169,6 @@ level: IMO
 > 
 > Si dimostri che $CD$ è tangente a $G_2$.
 
-[[Quesiti/src_imho_1999#q05|src_imho_1999__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_funzionali,topic_algebra,method_casework,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -207,5 +197,3 @@ level: IMO
 > Determinare tutte le funzioni $f : \mathbf{R} \longrightarrow \mathbf{R}$ tali che
 > $$f(x - f(y)) = f(f(y)) + xf(y) + f(x) - 1$$
 > per ogni numero reale $x, y$.
-
-[[Quesiti/src_imho_1999#q06|src_imho_1999__Q06]]

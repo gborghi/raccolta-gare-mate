@@ -37,8 +37,6 @@ level: RMO
 
 > Le radici dell'equazione $$x^3 - 3ax^2 + bx + 18c = 0$$ formano una progressione aritmetica non costante e le radici dell'equazione $$x^3 + bx^2 + x - c^2 = 0$$ formano una progressione geometrica non costante. Dato che $a$, $b$, $c$ sono numeri reali, trovare tutti i valori integrali positivi $a$ e $b$.
 
-[[Quesiti/src_rmo_2014_r5#q02|src_rmo_2014_r5__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -62,8 +60,6 @@ level: RMO
 *Bissettori angolari da bisettori perpendicolari in triangolo acuto; dimostrare BO perp a DE*
 
 > Il $ABC$ è un triangolo acuto angolato in cui $\angle ABC$ è l'angolo più grande. Che il $O$ sia il suo circoncentro. I bisettori perpendicolari di $BC$ e $AC$ incontrano $AB$ e $BC$ rispettivamente a $X$ e $Y$. I bisettori interni di $\angle AXB$ e $\angle BYC$ si incontrano rispettivamente a $AC$ e $E$. Prova che $BO$ è perpendicolare a $DE$.
-
-[[Quesiti/src_rmo_2014_r5#q03|src_rmo_2014_r5__Q03]]
 
 
 
@@ -92,5 +88,3 @@ level: RMO
 *Contare percorsi distinti da (0,0) a (8,8) con esattamente tre passi a destra*
 
 > Una persona si muove nel piano $x$-$y$ che si muove lungo punti con coordinate interi $x$ e $y$ solo. Quando si trova al punto $(x, y)$, fa un passo in base alle seguenti regole: a) se $x + y$ è anche si sposta a $(x+1, y)$ o a $(x-1, y+1)$; b) se $x + y$ è pari si sposta a $(x+1, y)$ o a $(x+1, y+1)$. Quanti percorsi distinti può percorrere per passare da$(0, 0)$ a$(8, 8)$ dato che ha fatto esattamente tre passi a destra?
-
-[[Quesiti/src_rmo_2014_r5#q04|src_rmo_2014_r5__Q04]]

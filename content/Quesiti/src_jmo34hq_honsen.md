@@ -33,8 +33,6 @@ level: JMO Honsen
 
 > $n \ge 2$ sia un numero intero. Trovare tutte le permutazioni $(a_1, a_2, \ldots, a_n)$ di $n$ numeri interi consecutivi in modo tale che $(a_1 - 2a_2,\; a_2 - 2a_3,\; \ldots,\; a_{n-1} - 2a_n,\; a_n - 2a_1)$ sia anche una permutazione di $(a_1, a_2, \ldots, a_n)$.
 
-[[Quesiti/src_jmo34hq_honsen#q01|src_jmo34hq_honsen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_funzionali,topic_aritmetica,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
@@ -61,8 +59,6 @@ level: JMO Honsen
 *Ricerca tutte le funzioni su numeri interi positivi che soddisfano un'equazione funzionale lcm*
 
 > Trova tutte le funzioni $f$ definite sui numeri interi positivi che assumono valori interi positivi in modo tale che, per tutti i numeri interi positivi $m$ e $n$, $$\mathrm{lcm}(f(m + f(n)),\, f(m)) = \mathrm{lcm}(f(m),\, f(m + n)).$$ qui $\mathrm{lcm}(x, y)$ denota il più piccolo comune multiple di $x$ e $y$.
-
-[[Quesiti/src_jmo34hq_honsen#q02|src_jmo34hq_honsen__Q02]]
 
 
 
@@ -105,8 +101,6 @@ level: JMO Honsen
 > 
 > (Nota: il segmento $AB$, $BC$ o $CD$ comprende entrambi gli endpoint.)
 
-[[Quesiti/src_jmo34hq_honsen#q03|src_jmo34hq_honsen__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -136,8 +130,6 @@ level: JMO Honsen
 > 
 > (Più precisamente: $E$ sia il punto del segmento $AB$ con $CE = CM$. Il circoncircolo di $\triangle ABE$ incontra il circoncircolo di $\triangle ABC$ a $B$ e in un altro punto $X$. $U$, $V$ siano i due punti di intersezione della linea $AX$ con il circoncircolo di $\triangle ABC$. Provare che $UV$ è un diametro del circoncircolo di $\triangle ABC$ se e solo se $D$, $O$, $X$ sono collineari, dove $D$ è sul raggio da $A$ a $B$ oltre $B$ con $BD = BM$.)
 
-[[Quesiti/src_jmo34hq_honsen#q04|src_jmo34hq_honsen__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,method_induzione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
@@ -163,5 +155,3 @@ level: JMO Honsen
 *Nessuna soluzione di integri positivi a^2+b^2+c^2+d^2−4√(abcd)=7·2^(2n−1)*
 
 > Prova che non ci sono numeri interi positivi $(a, b, c, d, n)$ che soddisfano $$a^2 + b^2 + c^2 + d^2 - 4\sqrt{abcd} = 7 \cdot 2^{2n-1}.$$
-
-[[Quesiti/src_jmo34hq_honsen#q05|src_jmo34hq_honsen__Q05]]

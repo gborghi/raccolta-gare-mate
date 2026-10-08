@@ -33,8 +33,6 @@ level: Olimpiade Polacca Round 2
 
 > Per un polinomio $P$ con coefficienti interi, $P(5)$ è divisibile per 2 e $P(2)$ è divisibile per 5. Provare che $P(7)$ è divisibile per 10.
 
-[[Quesiti/src_pol_1995_r2#q01|src_pol_1995_r2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -59,8 +57,6 @@ level: Olimpiade Polacca Round 2
 
 > Il $ABCDEF$ deve essere un esagono converso con $AB = BC$, $CD = DE$ e $EF = FA$. Prove che le linee attraverso $C, E, A$ perpendicolari a $BD, DF, FB$ sono simultanee.
 
-[[Quesiti/src_pol_1995_r2#q02|src_pol_1995_r2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
@@ -84,8 +80,6 @@ level: Olimpiade Polacca Round 2
 *Irazionali positivi a,b,c,d con a+b=1; mostrare c+d=1 se il piano n) + piano n) = piano n) + piano n) per tutti gli integri positivi n.*
 
 > $a, b, c, d$ siano numeri irrazionali positivi con $a + b = 1$. Indicare che $c + d = 1$ se e solo se $[na] + [nb] = [nc] + [nd]$ per tutti gli integri positivi $n$.
-
-[[Quesiti/src_pol_1995_r2#q03|src_pol_1995_r2__Q03]]
 
 
 
@@ -112,8 +106,6 @@ level: Olimpiade Polacca Round 2
 
 > I numeri reali positivi $x_1, x_2, \ldots, x_n$ soddisfano la condizione $\sum_{i=1}^{n} x_i \le \sum_{i=1}^{n} x_i^2$. Prove la disuguaglianza $\sum_{i=1}^{n} x_i^t \le \sum_{i=1}^{n} x_i^{t+1}$ per tutti i numeri reali $t > 1$.
 
-[[Quesiti/src_pol_1995_r2#q04|src_pol_1995_r2__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,topic_geometria_piana,skill_ragionamento_geometrico,skill_modellizzazione"></span>
@@ -137,8 +129,6 @@ level: Olimpiade Polacca Round 2
 *Tetraedro ABCD: incircoli di facce ABC e ABD tangenti al bordo AB nello stesso punto; dimostrare che i punti di tangenza su AC,BC,AD,BD sono conciclici.*
 
 > Le incircoli delle facce $ABC$ e $ABD$ di un tetraedro $ABCD$ sono tangenti al bordo $AB$ nello stesso punto. Provare che i punti di tangenza di questi incircoli ai bordi $AC, BC, AD, BD$ sono conciclici.
-
-[[Quesiti/src_pol_1995_r2#q05|src_pol_1995_r2__Q05]]
 
 
 
@@ -164,5 +154,3 @@ level: Olimpiade Polacca Round 2
 *Determina tutti gli integri positivi n per i quali un n x n quadrato può essere tagliato in quadrati 2x2 e 3x3 (laterali paralleli al grande quadrato).*
 
 > Determinare tutti i numeri interi positivi $n$ per i quali il quadrato $n \times n$ può essere tagliato in quadrati $2 \times 2$ e $3 \times 3$ (con i lati paralleli ai lati del grande quadrato).
-
-[[Quesiti/src_pol_1995_r2#q06|src_pol_1995_r2__Q06]]

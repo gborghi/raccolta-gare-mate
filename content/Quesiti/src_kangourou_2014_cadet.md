@@ -53,7 +53,6 @@ level: kangourou
 > E) 22
 
 **Answer:** D
-[[Quesiti/src_kangourou_2014_cadet#q01|src_kangourou_2014_cadet__Q01]]
 
 
 
@@ -101,7 +100,6 @@ level: kangourou
 > E) EVOLVANO
 
 **Answer:** D
-[[Quesiti/src_kangourou_2014_cadet#q02|src_kangourou_2014_cadet__Q02]]
 
 
 
@@ -143,7 +141,6 @@ level: kangourou
 > E) 4028
 
 **Answer:** A
-[[Quesiti/src_kangourou_2014_cadet#q03|src_kangourou_2014_cadet__Q03]]
 
 
 
@@ -178,7 +175,6 @@ level: kangourou
 > A room 10 meters long and 6 meters wide is paved with square tiles of 1 meter on the side. You want to insert a finishing plastic wire between the individual tiles and between the tiles and the walls or doors, leaving no hole. How many meters of wire do you need? A) 100 B) 115 C) 125 D) 136 E) 172
 
 **Answer:** D
-[[Quesiti/src_kangourou_2014_cadet#q04|src_kangourou_2014_cadet__Q04]]
 
 
 
@@ -224,7 +220,6 @@ level: kangourou
 > E) 35
 
 **Answer:** E
-[[Quesiti/src_kangourou_2014_cadet#q05|src_kangourou_2014_cadet__Q05]]
 
 
 
@@ -278,7 +273,6 @@ level: kangourou
 >
 
 **Answer:** A
-[[Quesiti/src_kangourou_2014_cadet#q06|src_kangourou_2014_cadet__Q06]]
 
 
 
@@ -321,7 +315,6 @@ level: kangourou
 > E) 2
 
 **Answer:** B
-[[Quesiti/src_kangourou_2014_cadet#q07|src_kangourou_2014_cadet__Q07]]
 
 
 
@@ -377,7 +370,6 @@ level: kangourou
 > E) 20
 
 **Answer:** E
-[[Quesiti/src_kangourou_2014_cadet#q08|src_kangourou_2014_cadet__Q08]]
 
 
 
@@ -422,7 +414,6 @@ level: kangourou
 > E) 99 × 222
 
 **Answer:** B
-[[Quesiti/src_kangourou_2014_cadet#q09|src_kangourou_2014_cadet__Q09]]
 
 
 
@@ -476,7 +467,6 @@ level: kangourou
 > (e) 8 Questions from n. 11 al n. 20 is worth 4 points each.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2014_cadet#q10|src_kangourou_2014_cadet__Q10]]
 
 
 
@@ -524,7 +514,6 @@ level: kangourou
 > E) 10
 
 **Answer:** E
-[[Quesiti/src_kangourou_2014_cadet#q11|src_kangourou_2014_cadet__Q11]]
 
 
 
@@ -619,7 +608,6 @@ level: kangourou
 >
 
 **Answer:** A
-[[Quesiti/src_kangourou_2014_cadet#q12|src_kangourou_2014_cadet__Q12]]
 
 
 
@@ -666,7 +654,6 @@ level: kangourou
 > E) 16
 
 **Answer:** C
-[[Quesiti/src_kangourou_2014_cadet#q13|src_kangourou_2014_cadet__Q13]]
 
 
 
@@ -746,7 +733,6 @@ level: kangourou
 > E) 32
 
 **Answer:** E
-[[Quesiti/src_kangourou_2014_cadet#q14|src_kangourou_2014_cadet__Q14]]
 
 
 
@@ -799,7 +785,6 @@ When heart and arrow match for the first time
 > E) Never.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2014_cadet#q15|src_kangourou_2014_cadet__Q15]]
 
 
 
@@ -897,7 +882,6 @@ When heart and arrow match for the first time
 > E) 90
 
 **Answer:** C
-[[Quesiti/src_kangourou_2014_cadet#q16|src_kangourou_2014_cadet__Q16]]
 
 
 
@@ -935,7 +919,6 @@ When heart and arrow match for the first time
 > Six children share an apartment with two bathrooms, which they use every morning from 7:00 a.m. onwards. They use the bathrooms one at a time, each the first bathroom they find free, but they each stay there regularly for a different time: 8, 10, 12, 17, 21 and 22 minutes. If they organize themselves properly, at what time, at the earliest, will they be able to finish using the bathrooms? A) 7:45 B) 7:46 C) 7:47 D) 7:48 E) 7:50
 
 **Answer:** B
-[[Quesiti/src_kangourou_2014_cadet#q17|src_kangourou_2014_cadet__Q17]]
 
 
 
@@ -985,7 +968,6 @@ When heart and arrow match for the first time
 >
 
 **Answer:** E
-[[Quesiti/src_kangourou_2014_cadet#q18|src_kangourou_2014_cadet__Q18]]
 
 
 
@@ -1033,7 +1015,6 @@ When heart and arrow match for the first time
 > E) 250
 
 **Answer:** D
-[[Quesiti/src_kangourou_2014_cadet#q19|src_kangourou_2014_cadet__Q19]]
 
 
 
@@ -1078,7 +1059,6 @@ When heart and arrow match for the first time
 > E) 32.5 Questions from n. 21 to n. 30 are worth 5 points each.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2014_cadet#q20|src_kangourou_2014_cadet__Q20]]
 
 
 
@@ -1158,7 +1138,6 @@ When heart and arrow match for the first time
 > E) 27
 
 **Answer:** E
-[[Quesiti/src_kangourou_2014_cadet#q21|src_kangourou_2014_cadet__Q21]]
 
 
 
@@ -1219,7 +1198,6 @@ When heart and arrow match for the first time
 > E) E
 
 **Answer:** D
-[[Quesiti/src_kangourou_2014_cadet#q22|src_kangourou_2014_cadet__Q22]]
 
 
 
@@ -1321,7 +1299,6 @@ When heart and arrow match for the first time
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2014_cadet#q23|src_kangourou_2014_cadet__Q23]]
 
 
 
@@ -1369,7 +1346,6 @@ When heart and arrow match for the first time
 > E) 10
 
 **Answer:** A
-[[Quesiti/src_kangourou_2014_cadet#q24|src_kangourou_2014_cadet__Q24]]
 
 
 
@@ -1407,7 +1383,6 @@ When heart and arrow match for the first time
 > Vincenzo used to go from the center of the village to his garden by bicycle. Today he had planned to arrive at 3 p.m. but, after covering 3/4 of the distance travelling at constant speed, he realized that he had taken 2/3 of the time planned for the full journey. From that point on, he rode more smoothly, always at a steady speed, and arrived at the time he had planned. What is the ratio between the speed of the first part and that of the second part of the journey? A) 5 : 4 B) 4 : 3 C) 3 : 2 D) 2 : 1 E) 3 : 1
 
 **Answer:** C
-[[Quesiti/src_kangourou_2014_cadet#q25|src_kangourou_2014_cadet__Q25]]
 
 
 
@@ -1461,7 +1436,6 @@ When heart and arrow match for the first time
 > E)
 
 **Answer:** A
-[[Quesiti/src_kangourou_2014_cadet#q26|src_kangourou_2014_cadet__Q26]]
 
 
 
@@ -1520,7 +1494,6 @@ When heart and arrow match for the first time
 > E) 17
 
 **Answer:** B
-[[Quesiti/src_kangourou_2014_cadet#q27|src_kangourou_2014_cadet__Q27]]
 
 
 
@@ -1559,7 +1532,6 @@ When heart and arrow match for the first time
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2014_cadet#q28|src_kangourou_2014_cadet__Q28]]
 
 
 
@@ -1616,7 +1588,6 @@ When heart and arrow match for the first time
 > E) 12
 
 **Answer:** A
-[[Quesiti/src_kangourou_2014_cadet#q29|src_kangourou_2014_cadet__Q29]]
 
 
 
@@ -1700,5 +1671,3 @@ When heart and arrow match for the first time
 > CADET STRING 2014
 
 **Answer:** B
-
-[[Quesiti/src_kangourou_2014_cadet#q30|src_kangourou_2014_cadet__Q30]]

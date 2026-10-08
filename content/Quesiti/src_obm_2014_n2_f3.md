@@ -49,8 +49,6 @@ level: OBM Nível 2
 
 ![[src_obm_2014_n2_f3__q01.png]]
 
-[[Quesiti/src_obm_2014_n2_f3#q01|src_obm_2014_n2_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -80,8 +78,6 @@ level: OBM Nível 2
 
 ![[src_obm_2014_n2_f3__q02.png]]
 
-[[Quesiti/src_obm_2014_n2_f3#q02|src_obm_2014_n2_f3__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_lettura_attenta,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -106,8 +102,6 @@ level: OBM Nível 2
 *Trova tutti gli enti n>1 in modo tale che per ogni k con 0<=k<n ci sia un multiple di n la cui somma digitali lascia il rimanente k dopo la divisione da n.*
 
 > Trova tutti gli enti $n$, $n > 1$, con la seguente proprietà: per ogni $k$ con $0 \le k < n$, esiste un multiple di $n$ la cui somma di cifre, nella base dieci, lascia il rimanente $k$ dopo la divisione da $n$.
-
-[[Quesiti/src_obm_2014_n2_f3#q03|src_obm_2014_n2_f3__Q03]]
 
 
 
@@ -135,8 +129,6 @@ level: OBM Nível 2
 
 > $ABCD$ sia un quadrato con il centro $O$. I punti $E$, $F$, $G$, $H$ siano punti interni sui lati $AB$, $BC$, $CD$, $DA$, rispettivamente, in modo tale che $AE = BF = CG = DH$. Supponiamo che la riga $OA$ incontra $HE$ al punto $X$, la riga $OB$ incontra $EF$ al punto $Y$, la riga $OC$ incontra $FG$ al punto $Z$ e la riga $OD$ incontra $GH$ al punto $W$. Dato che $\text{Area}(EFGH) = 1$, trovare $$\left(\text{Area}\,ABCD\right) \times \left(\text{Area}\,XYZW\right).$$
 
-[[Quesiti/src_obm_2014_n2_f3#q04|src_obm_2014_n2_f3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,method_disuguaglianze,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -161,8 +153,6 @@ level: OBM Nível 2
 *Coefficienti interi: positivo per tutti gli interi non implica radici reali*
 
 > Lasciate che $p$ e $q$ siano numeri interi. Sapendo che $x^2 + px + q$ è positivo per ogni numero intero $x$, dimostrare che l'equazione $x^2 + px + q = 0$ non ha soluzione reale.
-
-[[Quesiti/src_obm_2014_n2_f3#q05|src_obm_2014_n2_f3__Q05]]
 
 
 
@@ -192,5 +182,3 @@ level: OBM Nível 2
 > In ogni cella di una tabella $2m \times 2n$ viene scritto un numero intero. L'operazione consentita è quella di scegliere tre celle che formano una figura congruente a un L-tromino, come indicato nella figura seguente, e di aggiungere $1$ a ciascuna di queste tre celle. Determinare la condizione necessaria e sufficiente, in termini di $m$, $n$ e dei numeri iniziali, per rendere possibile la parità di tutti i numeri.
 
 ![[src_obm_2014_n2_f3__q06.png]]
-
-[[Quesiti/src_obm_2014_n2_f3#q06|src_obm_2014_n2_f3__Q06]]

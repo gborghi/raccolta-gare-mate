@@ -38,8 +38,6 @@ level: OBM Nível 1
 
 > Trova tutti i numeri naturali a tre cifre $n$ che soddisfano tutte le seguenti proprietà: \begin{itemize} \item $n$ è odd; \item $n$ è un quadrato perfetto; \item la somma delle cifre di $n$ è un quadrato perfetto. # Finire #
 
-[[Quesiti/src_obm_2004_n1_f3#q01|src_obm_2004_n1_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_casework,method_conteggio,method_simmetria,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
@@ -68,8 +66,6 @@ level: OBM Nível 1
 > Con quattro triangoli equilaterali di lato $1$ è possibile formare un pezzo a forma di triangolo equilaterale di lato $2$, come mostrato nella figura. I quattro piccoli triangoli che compongono il pezzo sono colorati in tre possibili colori: bianco, nero e grigio. Due pezzi sono considerati uguali quando uno può essere ottenuto dall'altro mediante rotazione. Quanti pezzi diversi si possono formare alle condizioni indicate?
 
 ![[src_obm_2004_n1_f3__q02.png]]
-
-[[Quesiti/src_obm_2004_n1_f3#q02|src_obm_2004_n1_f3__Q02]]
 
 
 
@@ -101,8 +97,6 @@ level: OBM Nível 1
 > Diciamo che un numero naturale è composto se può essere scritto come il prodotto di due numeri naturali entrambi più grandi di$1$. Ad esempio, $91$ è composto perché possiamo scrivere $91 = 7 \times 13$.
 > 
 > Provare che il numero $$\frac{1}{2}\!\left(2^{2004}+2\right)+1$$ è composto.
-
-[[Quesiti/src_obm_2004_n1_f3#q03|src_obm_2004_n1_f3__Q03]]
 
 
 
@@ -141,8 +135,6 @@ level: OBM Nível 1
 
 ![[src_obm_2004_n1_f3__q04.png]]
 
-[[Quesiti/src_obm_2004_n1_f3#q04|src_obm_2004_n1_f3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_combinatoria,method_casework,method_simmetria,method_invarianti,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione"></span>
@@ -179,5 +171,3 @@ level: OBM Nível 1
 > Esiste un poligono laterale $13$ con il quale è possibile tessere l'intero piano utilizzando le sue copie senza sovrapposizioni? In caso affermativo, mostrare un poligono del genere. Se no, spiegate perché no.
 
 ![[src_obm_2004_n1_f3__q05.png]]
-
-[[Quesiti/src_obm_2004_n1_f3#q05|src_obm_2004_n1_f3__Q05]]

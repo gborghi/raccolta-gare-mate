@@ -33,8 +33,6 @@ level: BMO Round 1
 
 > Alice e Bob lo fanno a turno per scrivere numeri su una lavagna. Alice inizia scrivendo un numero intero $a$ tra $-100$ e $100$ inclusivo sulla lavagna. A ogni turno di Bob scrive il doppio del numero che Alice ha scritto l'ultima volta. Su ogni turno successivo di Alice scrive il numero $45$ inferiore al numero che Bob ha scritto l'ultimo. A un certo punto, il numero $a$ viene scritto sulla lavagna per la seconda volta. Trova il valore di $a$.
 
-[[Quesiti/src_bmo1_2021#q01|src_bmo1_2021__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: BMO Round 1
 *Triangolo con perimetro interi e superficie pari a P al quadrato*
 
 > Un triangolo ha lunghezze laterali $a$, $a$ e $b$. Il suo perimetro $P$ e superficie $A$. Dato che $b$ e $P$ sono numeri interi e che $P$ è numericamente uguale a $A^2$, trovare tutte le possibili coppie $(a, b)$.
-
-[[Quesiti/src_bmo1_2021#q02|src_bmo1_2021__Q02]]
 
 
 
@@ -94,8 +90,6 @@ level: BMO Round 1
 > 
 > (Quando $n = 1$ ci sono due possibili sequenze.)
 
-[[Quesiti/src_bmo1_2021#q03|src_bmo1_2021__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_lettura_attenta,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -123,8 +117,6 @@ level: BMO Round 1
 
 > Nell'equazione $$A^{AA} + AA = \text{B,BBC,DED,BEE,BBB,BBE}$$ le lettere $A$, $B$, $C$, $D$ e $E$ rappresentano differenti cifre di base 10 (il lato destro è quindi un numero di sedici cifre e $AA$ è un numero di due cifre). Dato che $C = 9$, trovare $A$, $B$, $D$ e $E$.
 
-[[Quesiti/src_bmo1_2021#q04|src_bmo1_2021__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -149,8 +141,6 @@ level: BMO Round 1
 *Configurazione del cerchio tangente: AD=DP implica BP=AC*
 
 > I punti $A$, $B$ e $C$ si trovano su un cerchio $\Gamma$. Il circolo $\Delta$ è tangente a $AC$ a $A$. Si riunisce a $\Gamma$ a $D$ e alla riga $AB$ a $P$. Il punto $A$ si trova tra i punti $B$ e $P$. Prova che se $AD = DP$, allora $BP = AC$.
-
-[[Quesiti/src_bmo1_2021#q05|src_bmo1_2021__Q05]]
 
 
 
@@ -180,8 +170,6 @@ level: BMO Round 1
 > Dato che un intero $n$ è la somma di due potenze differenti di $2$ e anche la somma di due numeri primi di Mersenne diversi, dimostrare che $n$ è la somma di due diversi numeri quadrati.
 > 
 > (Un primo di Mersenne è un numero primo che è uno meno di una potenza di due.)
-
-[[Quesiti/src_bmo1_2021#q06|src_bmo1_2021__Q06]]
 
 
 
@@ -213,5 +201,3 @@ level: BMO Round 1
 > Evie e Odette stanno giocando. Tre pietre sono posizionate sulla linea numerica; una a $-2020$, una a $2020$ e una a $n$, dove $n$ è un numero intero tra $-2020$ e $2020$ inclusivo. Lo prendono a turno spostando la pietra più sinistra o la pietra più destra a un numero intero tra le altre due pietre. La partita finisce quando le pietre occupano tre numeri interi consecutivi.
 > 
 > Odette vince se la loro somma è strana; Evie vince se la loro somma è pari. Per quanti valori di $n$ Evie può garantire la vittoria se: (a) Odette viene prima; (b) Evie viene prima?
-
-[[Quesiti/src_bmo1_2021#q07|src_bmo1_2021__Q07]]

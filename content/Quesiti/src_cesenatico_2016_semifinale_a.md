@@ -40,7 +40,6 @@ level: nazionale
 > The Galactic Sheets for Tourists are the best-selling problem-solving book in the universe, also because they feature the reassuring words Work! Get to work! I'm going to work. They have 420 pages numbered from 1 to 420, some of which contain theory and other exercises. The sum of the page numbers of the exercise pages, which we'll call S, is such that S2 divides the sum of the page numbers of the pages containing theory. What different values can S assume? Answer by indicating the sum of these values.
 
 **Answer:** 0240
-[[Quesiti/src_cesenatico_2016_semifinale_a#q01|src_cesenatico_2016_semifinale_a__Q01]]
 
 
 
@@ -72,7 +71,6 @@ level: nazionale
 > [⋆]Galactic Cards problems contain simple problems such as the following. Let's consider all the numbers that in 2016 have exactly ten digits and are written in that base using only the digits zero and one. How many of these numbers are multiples of a hundred? By cent, we mean the number 100 on the basis of ten.
 
 **Answer:** 0014
-[[Quesiti/src_cesenatico_2016_semifinale_a#q02|src_cesenatico_2016_semifinale_a__Q02]]
 
 
 
@@ -105,7 +103,6 @@ level: nazionale
 > Arthur Dehn's house is about to be demolished to make way for a hook! It has the shape of a square ABCD on the side 1500 inscribed with a circumference Γ. From the point E of side AB such that AE = 750 √ 2 starts a straight (not overlapping to AB) road tangent to Γ, which intersects the straight CD in X. How big is EX?
 
 **Answer:** 2121
-[[Quesiti/src_cesenatico_2016_semifinale_a#q03|src_cesenatico_2016_semifinale_a__Q03]]
 
 
 
@@ -148,7 +145,6 @@ level: nazionale
 > Even Earth is about to be destroyed to make way for a hyperspace curve. Square Perfect came up with a plan to save himself and Arthur. They will have to teleport on a Bogon ship, wait at least half an hour on it for their teleportation device to recharge, and then they can transfer with the device to another spacecraft that is expected to cross the Bogon ship 11 hours later than their expected arrival time (the teleportation device only works when the two ships are close together). In fact, unfortunately, there is no guarantee that the two ships will be on time: each of them, regardless of the other, has 12 chances of arriving on time, 14 of being one hour late, 18 of having two, 16 of having three, and so on. What are the odds that our two heroes will be able to teleport twice as scheduled? Answer by stating the sum of the numerator and denominator of the fraction reduced to the minimum terms.
 
 **Answer:** 6143
-[[Quesiti/src_cesenatico_2016_semifinale_a#q04|src_cesenatico_2016_semifinale_a__Q04]]
 
 
 
@@ -182,7 +178,6 @@ level: nazionale
 > Bogon I Bogon discovered the two hitchhikers on their ship! Now Superintendent Krylov-Bogonlyubov has forced them to solve a problem of the terrible Bogon geometry, the second worst in the entire universe. They're facing an ABC triangle with AB = 7623 and BC = 8000. Given M the BC middle point, they were forced to choose D,E points on the AC,AB segments respectively, so that ABMD and ACME are cyclic. To free themselves, they must find the maximum AC value such that BCDE is cyclic. What's this value?
 
 **Answer:** 7623
-[[Quesiti/src_cesenatico_2016_semifinale_a#q05|src_cesenatico_2016_semifinale_a__Q05]]
 
 
 
@@ -224,7 +219,6 @@ level: nazionale
 > Two thirds Competition in Teams 2016  Semifinal A  Test of the calculation problems 128(p1 +p2 +p3 +··+p35).
 
 **Answer:** 2144
-[[Quesiti/src_cesenatico_2016_semifinale_a#q06|src_cesenatico_2016_semifinale_a__Q06]]
 
 
 
@@ -257,7 +251,6 @@ level: nazionale
 > The most intelligent species humans are only the third most intelligent species on planet Earth, after dolphins and mice. In fact, given a sequence such that a0 = 1, a1 = 2, and an = an−1 +12an−2 for each n ≥2, mice can immediately calculate what is worth 2016 +3a2015. Humans, on the other hand, can only determine the last three digits of this number. What are these last three digits?
 
 **Answer:** 0120
-[[Quesiti/src_cesenatico_2016_semifinale_a#q07|src_cesenatico_2016_semifinale_a__Q07]]
 
 
 
@@ -290,7 +283,6 @@ level: nazionale
 > In the past year Arthur has already met at a party Trillion, the new flame of President Jacob. They had this conversation there: Think, 2015 is just over, and I didn't realize that it has 13 and 31 as prime factors. It doesn't often happen that a year has two prime factors that are written on base 10 with the digits ab and ba, with a =b. We shouldn't miss events like this! How many more years will this property be true between now and the year 3000?
 
 **Answer:** 0004
-[[Quesiti/src_cesenatico_2016_semifinale_a#q08|src_cesenatico_2016_semifinale_a__Q08]]
 
 
 
@@ -328,7 +320,6 @@ The remaining sum alpha_i^4 mod 2243 (roots)
 > The depressed robot, do this, do that. . . On this ship, they only give me ridiculous tasks like proving that 2243 is a prime number. He thought to himself, Artin, the robot from the Golden Section. A bionic brain like mine can immediately calculate also what the five positive integers α1,α2,...,α5 are smaller than 2243 such that α5 i +2016αi +2016 is multiple 2243 for each i. And I can also tell you how much the rest of α4 is 1 +α4 2 +··+α4 5 divided by 2243. But no one ever asks me that! Can you tell me how much the rest is worth?
 
 **Answer:** 0908
-[[Quesiti/src_cesenatico_2016_semifinale_a#q09|src_cesenatico_2016_semifinale_a__Q09]]
 
 
 
@@ -364,7 +355,6 @@ This is the total value of the assets under management of the institution.
 > Bogon bureaucracy The Bogons have captured Trillion! Arthur can release her with a presidential release order signed by Jacob, but first she must undergo another Bogon geometry session. Whether ABC is an H orthogonal triangle with AB = 84, AC = 32 √ 3 and \ BAC = 60°. If D is a point on the AH segment such that 7AD = AH, and a point on the BH segment such that 7BE = BH, F is a point on the CH segment such that 7CF = CH. What is AB ·CF +BC ·AD +AC ·BE worth?
 
 **Answer:** 1152
-[[Quesiti/src_cesenatico_2016_semifinale_a#q10|src_cesenatico_2016_semifinale_a__Q10]]
 
 
 
@@ -399,7 +389,6 @@ Probably no office for waste (1/k^2, p+q)
 > The bureaucracy never ends After passing the first Bogon office, Jacob must visit 30 more, numbered 2 to 31. For every k, the office with the number k has a 1 k2 probability, regardless of the others, of rejecting the presidential order. What are the chances that none of the remaining 30 offices will reject the form? Answer by indicating the sum of numerator and denominator reduced to minimum terms.
 
 **Answer:** 0047
-[[Quesiti/src_cesenatico_2016_semifinale_a#q11|src_cesenatico_2016_semifinale_a__Q11]]
 
 
 
@@ -433,7 +422,6 @@ Probably no office for waste (1/k^2, p+q)
 > Arthur is trying to find the coordinates of the planet Mathratea by deciphering the numbers in an ancient inscription. He managed to discover this sum among numbers written in base 10, written in an ancient system in which each symbol represents a different number (and the numbers cannot start with the number 0): ♥+♦♥+♣♦♥= ♣♥. It is very valuable for deciphering their writing, since there are not many values that can assume the result ♣♥. Calculate the amount you get by dividing by ten the sum of all its possible values.
 
 **Answer:** 3413
-[[Quesiti/src_cesenatico_2016_semifinale_a#q12|src_cesenatico_2016_semifinale_a__Q12]]
 
 
 
@@ -467,7 +455,6 @@ The probability of a spacecraft traveling 10+ miles
 > Increasing Improbability Jacob activated the Increasing Improbability Engine, an experimental device first installed in the Gold Section. The ship proceeds like this: first it has a 7/10 chance of moving for a galactic mile (otherwise it's still), then a 6/10 chance of going two miles, then 5/10 chance of going three miles, 4/10 chance of going four, and finally 3/10 chance of going five. What is the probability that the spacecraft will travel 10 or more galactic miles? Answer by indicating the first four decimal places of this probability.
 
 **Answer:** 2256
-[[Quesiti/src_cesenatico_2016_semifinale_a#q13|src_cesenatico_2016_semifinale_a__Q13]]
 
 
 
@@ -504,7 +491,6 @@ The probability of a spacecraft traveling 10+ miles
 > The improbable engine of increasing improbability has brought our heroes to Mathratea, but in the meantime has created a vase of flowers and a free-falling headgear several miles from the planet's surface. What an unlikely event! The poor cetacean, as he fell, barely had time to invent this problem. Both ABC a triangle and D and E respectively of the points on AB and AC such that AD = 1 5AB and AE = 1 3AC. For the parallel to BC passing through A, be F the intersection between r and CD, G the intersection between r and BE and P the intersection between CD and BE. Knowing that FP = 35, PG = 100 and GF = 117, determine the area of BCGF.
 
 **Answer:** 8918
-[[Quesiti/src_cesenatico_2016_semifinale_a#q14|src_cesenatico_2016_semifinale_a__Q14]]
 
 
 
@@ -537,7 +523,6 @@ The probability of a spacecraft traveling 10+ miles
 > A fjord on Mathratea the world builder, Schwarzibartfast, is building an exact copy of planet Earth, complete to the last fjord. Initially he wanted to build a fjord for every possible monic polynomial with real coefficients of degree 3 such that p(1) = 1, p(2) = 2 and p(3) is an integer. Realizing that these are infinite, he decided to limit himself to those in which all the coefficients have an absolute value of less than or equal to 5600. How many different values can p(3) assume?
 
 **Answer:** 7467
-[[Quesiti/src_cesenatico_2016_semifinale_a#q15|src_cesenatico_2016_semifinale_a__Q15]]
 
 
 
@@ -580,4 +565,3 @@ The probability of a spacecraft traveling 10+ miles
 > U XVII National Team Semifinal Competition A  Solution  6 May 2016 Dont Panic! Nr. The problem
 
 **Answer:** 4456
-[[Quesiti/src_cesenatico_2016_semifinale_a#q16|src_cesenatico_2016_semifinale_a__Q16]]

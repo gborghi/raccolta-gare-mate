@@ -41,8 +41,6 @@ level: IMO
 > 
 > (ii) La somma di tutti gli elementi in ciascun $A_i$ è la stessa.
 
-[[Quesiti/src_imho_1989#q01|src_imho_1989__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -75,8 +73,6 @@ level: IMO
 > (i) L'area del triangolo $A_0B_0C_0$ è il doppio dell'area dell'esagono $AC_1BA_1CB_1$.
 > 
 > (ii) L'area del triangolo $A_0B_0C_0$ è almeno quattro volte l'area del triangolo $ABC$.
-
-[[Quesiti/src_imho_1989#q02|src_imho_1989__Q02]]
 
 
 
@@ -117,8 +113,6 @@ level: IMO
 > Si dimostri che:
 > $$k < \frac{1}{2} + \sqrt{2n}.$$
 
-[[Quesiti/src_imho_1989#q03|src_imho_1989__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -146,8 +140,6 @@ level: IMO
 > Sia $ABCD$ un quadrilatero convesso tale che i lati $AB$, $AD$, $BC$ soddisfino $AB = AD + BC$. Esiste un punto $P$ interno al quadrilatero, distante $h$ dalla retta $CD$, tale che $AP = h + AD$ e $BP = h + BC$. Si dimostri che:
 > $$\frac{1}{\sqrt{h}} \ge \frac{1}{\sqrt{AD}} + \frac{1}{\sqrt{BC}}.$$
 
-[[Quesiti/src_imho_1989#q04|src_imho_1989__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_congruenze,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -173,8 +165,6 @@ level: IMO
 
 > Si dimostri che per ogni intero positivo $n$ esistono $n$ numeri interi positivi consecutivi, dei quali nessuno è una potenza intera di un numero primo.
 
-[[Quesiti/src_imho_1989#q05|src_imho_1989__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_doppio_conteggio,method_bigezione,method_inclusione_esclusione,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -199,5 +189,3 @@ level: IMO
 *Le permutazioni di {1,...,2n} con proprietà P superano quelle senza*
 
 > Una permutazione $(x_1, x_2, \ldots, x_{2n})$ dell'insieme $\{1, 2, \ldots, 2n\}$, dove $n$ è un intero positivo, si dice avere la proprietà $P$ se $|x_i - x_{i+1}| = n$ per almeno un $i$ in $\{1, 2, \ldots, 2n-1\}$. Si dimostri che, per ogni $n$, esistono più permutazioni con la proprietà $P$ che senza.
-
-[[Quesiti/src_imho_1989#q06|src_imho_1989__Q06]]

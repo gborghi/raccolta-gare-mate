@@ -37,8 +37,6 @@ level: China National Team Selection Test
 
 ![[src_cn_ctst_2009__q01.png]]
 
-[[Quesiti/src_cn_ctst_2009#q01|src_cn_ctst_2009__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_casework_accurato"></span>
@@ -70,7 +68,6 @@ level: China National Team Selection Test
 > Con un numero intero $n \geq 2$, trovare il più grande $\lambda(n)$ con la seguente proprietà: se una sequenza di numeri reali $a_0, a_1, a_2, \ldots, a_n$ soddisfa $$0 = a_0 \leq a_1 \leq a_2 \leq \cdots \leq a_n,$$ $$a_i \geq \frac{1}{2}(a_{i+1} + a_{i-1}), \quad i = 1, 2, \ldots, n-1,$$, allora $$\left(\sum_{i=1}^{n} a_i\right)^2 \geq \lambda(n) \sum_{i=1}^{n} a_i^2.$$
 
 **Risposta:** \frac{n(n+1)^2}{4}
-[[Quesiti/src_cn_ctst_2009#q02|src_cn_ctst_2009__Q02]]
 
 
 
@@ -97,8 +94,6 @@ Numero di n con p n! - 1 by cp^(2/3)*
 
 > Prova che per qualsiasi numero primo impar $p$, il numero di integri positivi $n$ soddisfa $p \mid n! - 1$ non è superiore a $cp^{\frac{2}{3}}$, dove $c$ è una costante indipendente da $p$. (Posato da Yu Hongbing)
 
-[[Quesiti/src_cn_ctst_2009#q03|src_cn_ctst_2009__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_fattorizzazione,method_estremalita,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
@@ -123,8 +118,6 @@ Numero di n con p n! - 1 by cp^(2/3)*
 *Ricerca l'insieme non vuoto S in [ab,(a+1)(b+1)] rendendo il rapporto del prodotto un quadrato perfetto*
 
 > $a$, $b$ siano numeri reali positivi con $b - a \geq 2$. Prove che per due interi distinti $m$, $n$ nell'intervallo $(a, b)$, esiste un insieme non vuoto $S$ costituito da alcuni interi nell'intervallo $[ab, (a+1)(b+1)]$, e che $\frac{\prod_{s \in S} s}{mn(m+n+1)^2}$ è un quadrato di un numero razionale. (Posato da Yu Hongbing)
-
-[[Quesiti/src_cn_ctst_2009#q04|src_cn_ctst_2009__Q04]]
 
 
 
@@ -158,8 +151,7 @@ Numero di n con p n! - 1 by cp^(2/3)*
 > 
 > Trova il valore minimo possibile di $M = \max_{j} \sum_{i=1}^{m} a_{ij}$.
 
-**Risposta:** $(2l+1)m - l^2$ where $l = \lfloor (n-1)/2 \rfloor$
-[[Quesiti/src_cn_ctst_2009#q05|src_cn_ctst_2009__Q05]]
+**Risposta:** $(2l+1)m - l^2$ dove $l = \lfloor (n-1)/2 \rfloor$
 
 
 
@@ -185,5 +177,3 @@ Numero di n con p n! - 1 by cp^(2/3)*
 *AP di 40 diversi integri positivi contiene uno non di forma 2^k+3^l*
 
 > Prove che in una progressione aritmetica composta da $40$ diversi interi positivi, almeno uno dei numeri non può essere scritto come $2^k + 3^l$, dove $k$, $l$ sono interi non negativi. (Posato da Chen Yonggao)
-
-[[Quesiti/src_cn_ctst_2009#q06|src_cn_ctst_2009__Q06]]

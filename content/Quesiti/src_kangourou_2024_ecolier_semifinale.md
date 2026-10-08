@@ -40,7 +40,6 @@ level: kangourou
 > The mother gave her three children the same number of chocolates. When they each ate six, they realized that, overall, the chocolates left were as many as they each received from their mother. What is the total number of chocolates the mother gave? A) 27 B) 48 C) 36 D) 21 E) 22 Answer: A). Solution. The number sought must be such that subtracting 18 gives one third of the same number.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2024_ecolier_semifinale#q01|src_kangourou_2024_ecolier_semifinale__Q01]]
 
 
 
@@ -75,7 +74,6 @@ level: kangourou
 > (Points 3) Two cities A and B are connected by a railway line. The trains always travel on time in each of the two directions and take 270 minutes to get from one terminus to the other. Every day, trains depart from A every hour, the first at 6.00 and the last at 18.00; also from B trains depart every hour, but the first at 8.00 and the last at 20.00. During its journey, how many trains does the train that leaves from A at 6:00 meet? A) 1 B) 2 C) 3 D) 4 E) 5 Answer: C). The solution. 270 minutes correspond to 4 and a half hours: the train departing from A at 6.00 arrives at B at 10.30, so it meets those departing from B at 8.00, 9.00 and 10.00.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2024_ecolier_semifinale#q02|src_kangourou_2024_ecolier_semifinale__Q02]]
 
 
 
@@ -113,8 +111,6 @@ level: kangourou
 
 **Answer:** E
 
-[[Quesiti/src_kangourou_2024_ecolier_semifinale#q03|src_kangourou_2024_ecolier_semifinale__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_estremalita,skill_conteggio_sistematico"></span>
@@ -147,7 +143,6 @@ level: kangourou
 > (Points 4) Among integers that have three digits and are divisible by 4, find one such that the sum of its digits is the highest possible. What is that sum? A) 26 B) 25 C) 24 D) 23 E) 22 Answer: B). The solution. The highest possible sum of the digits of a three-digit number is 27 (999); the (even) number 998 is not divisible by 4: it is therefore necessary to decrease it by one unit again, obtaining 988 which is divisible by 4 (while 898 is not).
 
 **Answer:** B
-[[Quesiti/src_kangourou_2024_ecolier_semifinale#q04|src_kangourou_2024_ecolier_semifinale__Q04]]
 
 
 
@@ -226,7 +221,6 @@ level: kangourou
 > ?
 
 **Answer:** B
-[[Quesiti/src_kangourou_2024_ecolier_semifinale#q05|src_kangourou_2024_ecolier_semifinale__Q05]]
 
 
 
@@ -261,7 +255,6 @@ level: kangourou
 > There are 56 people on a subway train, and many stops remain before the terminus. At the next stop, one more person will get off than will get on, at the next stop two more people will get off than will get on, at the third stop three more people will get off than will get on, and so on. After how many stops will the train leave with half the number of passengers compared to the initial number? A) 7 B) 8 C) 9 D) 10 E) 12 Answer: A). Solution. You will have to lose 56: 2 = 28 passengers and at each stop you will lose one more than at the previous stop: we have 28 = 1 + 2 + ... + 7.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2024_ecolier_semifinale#q06|src_kangourou_2024_ecolier_semifinale__Q06]]
 
 
 
@@ -298,7 +291,6 @@ level: kangourou
 > (N + 1) × N is even because either N is or N + 1 is, therefore C) is odd.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2024_ecolier_semifinale#q07|src_kangourou_2024_ecolier_semifinale__Q07]]
 
 
 
@@ -527,7 +519,6 @@ level: kangourou
 > first.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2024_ecolier_semifinale#q08|src_kangourou_2024_ecolier_semifinale__Q08]]
 
 
 
@@ -646,7 +637,6 @@ level: kangourou
 > Open-answer questions
 
 **Answer:** D
-[[Quesiti/src_kangourou_2024_ecolier_semifinale#q09|src_kangourou_2024_ecolier_semifinale__Q09]]
 
 
 
@@ -678,7 +668,6 @@ level: kangourou
 > A digital clock displays the hours with four digits: for example, if it is 3 and 12 in the afternoon, it shows 15:12, and the sum of the digits shown is 9. In the course of a day, what is the largest possible sum of the digits that the clock can show at any given moment? The answer is 0024. Solution. The maximum of the sum of the hour numbers is 10, which is done with 19, the sum of the minute numbers is 14, which is done with 59.
 
 **Answer:** 0024
-[[Quesiti/src_kangourou_2024_ecolier_semifinale#q10|src_kangourou_2024_ecolier_semifinale__Q10]]
 
 
 
@@ -711,7 +700,6 @@ In how many years will the sum of the children's ages equal the father's age
 > Today, May 25, Samuel turns 31 and his three sons turn 2, 4, and 7. In how many years, on the date of their birthday, will the sum of the ages of Samuel's sons coincide with the age of their father? Answer: 0009. Solution. By direct or graphical check or by observing that the double of the waiting years must fill the difference between 31 and 2 + 4 + 7 (Samuel's age increases with the age of each of his children).
 
 **Answer:** 0009
-[[Quesiti/src_kangourou_2024_ecolier_semifinale#q11|src_kangourou_2024_ecolier_semifinale__Q11]]
 
 
 
@@ -747,7 +735,6 @@ In how many years will the sum of the children's ages equal the father's age
 > immediately obtains 612,345.
 
 **Answer:** 2345
-[[Quesiti/src_kangourou_2024_ecolier_semifinale#q12|src_kangourou_2024_ecolier_semifinale__Q12]]
 
 
 
@@ -780,7 +767,6 @@ In how many years will the sum of the children's ages equal the father's age
 > (Points 6) There are six numbered envelopes lined up: from the third onward, each contains as many stamps as the two immediately preceding ones combined. The sixth contains 71 stamps, the fifth contains 43. How many stamps does the first one have? Answer: 0002. Solution. Proceeding backwards, the fourth contains 71 - 43 = 28, the third 43 - 28 = 15, the second 28 - 15 = 13, the first 15 - 13 = 2.
 
 **Answer:** 0002
-[[Quesiti/src_kangourou_2024_ecolier_semifinale#q13|src_kangourou_2024_ecolier_semifinale__Q13]]
 
 
 
@@ -823,7 +809,6 @@ In how many years will the sum of the children's ages equal the father's age
 > to be paired with 5.
 
 **Answer:** 0003
-[[Quesiti/src_kangourou_2024_ecolier_semifinale#q14|src_kangourou_2024_ecolier_semifinale__Q14]]
 
 
 
@@ -856,4 +841,3 @@ Product of 9 numbers 2 or 3 between 600 and 1000
 > (Points 8) I've multiplied 9 numbers between them: each of them is 2 or 3. The result of this operation is a number between 600 and 1,000: what is this number? The answer is 0768. The solution. You have 29 = 512 < 600, so at least one of the factors must be 3. On the other hand, if at least two factors were 3, the product would be greater than or equal to 9 × 27 > 1000. So 8 factors are 2 and only one is 3, with 768 as the result of the operation.
 
 **Answer:** 0768
-[[Quesiti/src_kangourou_2024_ecolier_semifinale#q15|src_kangourou_2024_ecolier_semifinale__Q15]]

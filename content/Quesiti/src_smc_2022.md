@@ -47,7 +47,6 @@ level: Senior Mathematical Challenge
 > - **(E)** 6
 
 **Risposta:** D
-[[Quesiti/src_smc_2022#q01|src_smc_2022__Q01]]
 
 
 
@@ -88,7 +87,6 @@ level: Senior Mathematical Challenge
 > - **(E)** 53
 
 **Risposta:** C
-[[Quesiti/src_smc_2022#q02|src_smc_2022__Q02]]
 
 
 
@@ -133,7 +131,6 @@ level: Senior Mathematical Challenge
 ![[src_smc_2022__q03.png]]
 
 **Risposta:** C
-[[Quesiti/src_smc_2022#q03|src_smc_2022__Q03]]
 
 
 
@@ -178,7 +175,6 @@ level: Senior Mathematical Challenge
 ![[src_smc_2022__q04.png]]
 
 **Risposta:** D
-[[Quesiti/src_smc_2022#q04|src_smc_2022__Q04]]
 
 
 
@@ -219,7 +215,6 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(E)** 3.1
 
 **Risposta:** C
-[[Quesiti/src_smc_2022#q05|src_smc_2022__Q05]]
 
 
 
@@ -260,7 +255,6 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(E)** $2^{400}$
 
 **Risposta:** E
-[[Quesiti/src_smc_2022#q06|src_smc_2022__Q06]]
 
 
 
@@ -301,7 +295,6 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(E)** 2
 
 **Risposta:** C
-[[Quesiti/src_smc_2022#q07|src_smc_2022__Q07]]
 
 
 
@@ -346,7 +339,6 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 ![[src_smc_2022__q08.png]]
 
 **Risposta:** E
-[[Quesiti/src_smc_2022#q08|src_smc_2022__Q08]]
 
 
 
@@ -386,7 +378,6 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(E)** 300 m
 
 **Risposta:** B
-[[Quesiti/src_smc_2022#q09|src_smc_2022__Q09]]
 
 
 
@@ -427,7 +418,6 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(E)** $-1$
 
 **Risposta:** E
-[[Quesiti/src_smc_2022#q10|src_smc_2022__Q10]]
 
 
 
@@ -472,7 +462,6 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 ![[src_smc_2022__q11.png]]
 
 **Risposta:** A
-[[Quesiti/src_smc_2022#q11|src_smc_2022__Q11]]
 
 
 
@@ -513,7 +502,6 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(E)** 63
 
 **Risposta:** E
-[[Quesiti/src_smc_2022#q12|src_smc_2022__Q12]]
 
 
 
@@ -554,7 +542,6 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(E)** $12\text{ m}^2$
 
 **Risposta:** C
-[[Quesiti/src_smc_2022#q13|src_smc_2022__Q13]]
 
 
 
@@ -599,7 +586,6 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 ![[src_smc_2022__q14.png]]
 
 **Risposta:** A
-[[Quesiti/src_smc_2022#q14|src_smc_2022__Q14]]
 
 
 
@@ -640,7 +626,6 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(E)** 72
 
 **Risposta:** B
-[[Quesiti/src_smc_2022#q15|src_smc_2022__Q15]]
 
 
 
@@ -685,7 +670,6 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 ![[src_smc_2022__q16.png]]
 
 **Risposta:** B
-[[Quesiti/src_smc_2022#q16|src_smc_2022__Q16]]
 
 
 
@@ -730,7 +714,6 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 ![[src_smc_2022__q17.png]]
 
 **Risposta:** B
-[[Quesiti/src_smc_2022#q17|src_smc_2022__Q17]]
 
 
 
@@ -771,7 +754,6 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(E)** $5\sqrt{3}$
 
 **Risposta:** B
-[[Quesiti/src_smc_2022#q18|src_smc_2022__Q18]]
 
 
 
@@ -812,7 +794,6 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(E)** 4
 
 **Risposta:** E
-[[Quesiti/src_smc_2022#q19|src_smc_2022__Q19]]
 
 
 
@@ -857,7 +838,6 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 ![[src_smc_2022__q20.png]]
 
 **Risposta:** D
-[[Quesiti/src_smc_2022#q20|src_smc_2022__Q20]]
 
 
 
@@ -902,7 +882,6 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 ![[src_smc_2022__q21.png]]
 
 **Risposta:** D
-[[Quesiti/src_smc_2022#q21|src_smc_2022__Q21]]
 
 
 
@@ -943,7 +922,6 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(E)** infinitamente molti
 
 **Risposta:** B
-[[Quesiti/src_smc_2022#q22|src_smc_2022__Q22]]
 
 
 
@@ -988,7 +966,6 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 ![[src_smc_2022__q23.png]]
 
 **Risposta:** A
-[[Quesiti/src_smc_2022#q23|src_smc_2022__Q23]]
 
 
 
@@ -1029,7 +1006,6 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(E)** $(p+1)(q+1)$
 
 **Risposta:** D
-[[Quesiti/src_smc_2022#q24|src_smc_2022__Q24]]
 
 
 
@@ -1074,4 +1050,3 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 ![[src_smc_2022__q25.png]]
 
 **Risposta:** A
-[[Quesiti/src_smc_2022#q25|src_smc_2022__Q25]]

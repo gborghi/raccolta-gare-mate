@@ -53,7 +53,6 @@ level: kangourou
 > E) can be any of the previous numbers.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2018_cadet_semifinale#q01|src_kangourou_2018_cadet_semifinale__Q01]]
 
 
 
@@ -100,7 +99,6 @@ level: kangourou
 > E) 9
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_cadet_semifinale#q02|src_kangourou_2018_cadet_semifinale__Q02]]
 
 
 
@@ -157,7 +155,6 @@ level: kangourou
 > D) 0 euro (you can have it for free). E) Less than 1 euro but not 0.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2018_cadet_semifinale#q03|src_kangourou_2018_cadet_semifinale__Q03]]
 
 
 
@@ -196,7 +193,6 @@ level: kangourou
 > The segment shown in the figure is divided into 6 segments of equal length. All the triangles that appear in the figure are equilateral. What fraction of the whole figure (including the white part inside) remained white? A) 1/3 B) 2/9 C) 5/21 D) 6/25 E) 7/27
 
 **Answer:** E
-[[Quesiti/src_kangourou_2018_cadet_semifinale#q04|src_kangourou_2018_cadet_semifinale__Q04]]
 
 
 
@@ -233,7 +229,6 @@ level: kangourou
 > D) 120 E) 122
 
 **Answer:** A
-[[Quesiti/src_kangourou_2018_cadet_semifinale#q05|src_kangourou_2018_cadet_semifinale__Q05]]
 
 
 
@@ -303,7 +298,6 @@ level: kangourou
 > C) 12π + 18√3 D) 18π - 8√3 E) 18π + 12√3
 
 **Answer:** C
-[[Quesiti/src_kangourou_2018_cadet_semifinale#q06|src_kangourou_2018_cadet_semifinale__Q06]]
 
 
 
@@ -337,7 +331,6 @@ level: kangourou
 > (Points 5) Which of the following numbers is both the sum of three consecutive integers and the sum of four consecutive integers? A) 20182018 B) 20192019 C) 20202020 D) 20212021	          E) 20222022
 
 **Answer:** E
-[[Quesiti/src_kangourou_2018_cadet_semifinale#q07|src_kangourou_2018_cadet_semifinale__Q07]]
 
 
 
@@ -367,7 +360,6 @@ level: kangourou
 > (Points 5) Which of the following numbers is a multiple of 11? A) 102018 + 11           B) 102018 + 111     C) 102018 + 1111           D) 102018 + 2111      E) 102018 + 3111
 
 **Answer:** D
-[[Quesiti/src_kangourou_2018_cadet_semifinale#q08|src_kangourou_2018_cadet_semifinale__Q08]]
 
 
 
@@ -427,7 +419,6 @@ level: kangourou
 > (e) Open-ended questions
 
 **Answer:** B
-[[Quesiti/src_kangourou_2018_cadet_semifinale#q09|src_kangourou_2018_cadet_semifinale__Q09]]
 
 
 
@@ -458,7 +449,6 @@ level: kangourou
 > (Points 4) The product of 10 positive integers (not necessarily different from each other) is 10^10. If M is the maximum value that the sum of these 10 numbers can have, what are the last 4 digits of M?
 
 **Answer:** 0009
-[[Quesiti/src_kangourou_2018_cadet_semifinale#q10|src_kangourou_2018_cadet_semifinale__Q10]]
 
 
 
@@ -535,7 +525,6 @@ level: kangourou
 > (Points 5) Cinzia has 5 sticks 2, 3, 4, 5 and 6 centimeters long and can choose the length of a sixth stick so as to form, using all six, an equilateral triangle. How many different lengths can the sixth stick have? (The figure shows you how you can build the triangle with a sixth stick 4 cm long, and this is one of the possible lengths.)
 
 **Answer:** 0004
-[[Quesiti/src_kangourou_2018_cadet_semifinale#q11|src_kangourou_2018_cadet_semifinale__Q11]]
 
 
 
@@ -568,7 +557,6 @@ level: kangourou
 > At the market, fruit can be bartered according to the following rule: 4 apples are worth 3 oranges or 2 bananas. Of course, the fruit cannot be broken. Anna has only apples and wants to give each of her five friends the same gift: a basket containing the same number of apples, oranges and bananas (at least one fruit per type). What is the minimum number of apples that, after proper market trading, allows her to carry out her plan?
 
 **Answer:** 0023
-[[Quesiti/src_kangourou_2018_cadet_semifinale#q12|src_kangourou_2018_cadet_semifinale__Q12]]
 
 
 
@@ -599,7 +587,6 @@ level: kangourou
 > (Points 6) For every natural number between 1 and 99 included, the product of its digits (which coincides with the number itself if the number is a single digit) is calculated. All the products thus obtained are then added. What is the result?
 
 **Answer:** 2070
-[[Quesiti/src_kangourou_2018_cadet_semifinale#q13|src_kangourou_2018_cadet_semifinale__Q13]]
 
 
 
@@ -633,7 +620,6 @@ level: kangourou
 > halfway through the trip, she meets seat number 120 (which is going in the opposite direction). What is the value of N ?
 
 **Answer:** 0156
-[[Quesiti/src_kangourou_2018_cadet_semifinale#q14|src_kangourou_2018_cadet_semifinale__Q14]]
 
 
 
@@ -664,7 +650,6 @@ level: kangourou
 > (Points 6) The sum of the digits of a four-digit number A is 2. The sum of the digits of a two-digit number B is also 2. How many numbers can be seen as the sum of a number A and a number B with these properties?
 
 **Answer:** 0007
-[[Quesiti/src_kangourou_2018_cadet_semifinale#q15|src_kangourou_2018_cadet_semifinale__Q15]]
 
 
 
@@ -694,7 +679,6 @@ level: kangourou
 > (Points 7) Two planar circles of the same radius pass each through the centre of the other: call P one of the two intersection points. How many degrees does the outer angle between the circles formed by the two tangent lines in P on the two circumferences measure?
 
 **Answer:** 0120
-[[Quesiti/src_kangourou_2018_cadet_semifinale#q16|src_kangourou_2018_cadet_semifinale__Q16]]
 
 
 
@@ -724,7 +708,6 @@ level: kangourou
 > (Points 7) If the equality 29a031 × 342 = 100900b02 is true where a, b are two (different) digits, what is the sum of a + b?
 
 **Answer:** 0011
-[[Quesiti/src_kangourou_2018_cadet_semifinale#q17|src_kangourou_2018_cadet_semifinale__Q17]]
 
 
 
@@ -775,4 +758,3 @@ level: kangourou
 > 0009 0004 0023 2070 0156 0007 0120 0011 0040
 
 **Answer:** 0040
-[[Quesiti/src_kangourou_2018_cadet_semifinale#q18|src_kangourou_2018_cadet_semifinale__Q18]]

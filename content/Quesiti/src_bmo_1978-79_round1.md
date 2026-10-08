@@ -35,8 +35,6 @@ level: BMO Round 1
 
 > Trovare tutti i triangoli $ABC$ per i quali $$AB + AC = 2 \text{ cm} \quad \text{and} \quad AD = \sqrt{AB \cdot AC} \text{ cm},$$ dove $AD$ è l'altitudine da $A$, incontrando $BC$ ad angoli retti in $D$.
 
-[[Quesiti/src_bmo_1978-79_round1#q01|src_bmo_1978-79_round1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,topic_trigonometria,method_simmetria,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -65,8 +63,6 @@ level: BMO Round 1
 > Da un punto $O$ nello spazio $3$ emergono tre raggi $OA$, $OB$, $OC$, gli angoli $BOC$, $COA$, $AOB$ sono $\alpha$, $\beta$ e $\gamma$ rispettivamente.
 > 
 > Prove che, per qualsiasi $2n > 0$, esistono punti $X$, $Y$, $Z$ su $OA$, $OB$, $OC$ rispettivamente in modo tale che i triangoli $YOZ$, $ZOX$ e $XOY$ abbiano tutti lo stesso perimetro $2n$, ed esprimere semplicemente $OX$ in termini di $n$, $\alpha$, $\beta$ e $\gamma$.
-
-[[Quesiti/src_bmo_1978-79_round1#q02|src_bmo_1978-79_round1__Q02]]
 
 
 
@@ -99,8 +95,6 @@ level: BMO Round 1
 > 
 > Provare che $$\sum_{i=1}^{n} a_i \ge \tfrac{1}{3}n(n^2 + 2).$$
 
-[[Quesiti/src_bmo_1978-79_round1#q03|src_bmo_1978-79_round1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,topic_algebra,method_backward,method_simmetria,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
@@ -130,8 +124,6 @@ level: BMO Round 1
 > La funzione $f$ è definita sui numeri razionali e assume solo valori razionali. Per tutti i $x$ e $y$ razionali, $$f(x + f(y)) = f(f(x)) + f(y).$$
 > 
 > Provare che $f$ è costante.
-
-[[Quesiti/src_bmo_1978-79_round1#q04|src_bmo_1978-79_round1__Q04]]
 
 
 
@@ -163,8 +155,6 @@ level: BMO Round 1
 > 
 > Prova che per $n > 1$, $$p(n+1) - 2p(n) + p(n-1) \ge 0.$$
 
-[[Quesiti/src_bmo_1978-79_round1#q05|src_bmo_1978-79_round1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,method_induzione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -195,5 +185,3 @@ Sequenza infinita 1001,100010001,...; dimostrare che non esiste una prima che di
 > Considera la sequenza infinita di numeri interi $$1001, \quad 100010001, \quad 1000100010001, \quad \ldots$$ dove ogni numero intero dopo il primo viene ottenuto adiacendo $0001$ ai numeri del numero intero precedente.
 > 
 > Prove che non esiste un numero primo che divida tutti i numeri interi della sequenza.
-
-[[Quesiti/src_bmo_1978-79_round1#q06|src_bmo_1978-79_round1__Q06]]

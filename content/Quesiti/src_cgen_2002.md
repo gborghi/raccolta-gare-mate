@@ -65,8 +65,6 @@ level: Concours Général
 > 
 > **6.** Nel piano complesso associato alla cornice ortonormale diretta $(O;\vec{\imath},\vec{\jmath})$, $\alpha$, $\beta$, $\gamma$ siano gli affissi dei punti non collineari $A$, $B$, $C$. a. Indicare una condizione necessaria e sufficiente su $\dfrac{(\alpha-\beta)(\alpha-\gamma)}{(\beta-\gamma)^2}$ affinché il triangolo $ABC$ sia pseudo rettangolo a $A$. b. Supponiamo $\beta = -\gamma = e^{i\frac{\pi}{4}}$. Determinare l'insieme $(E_1)$ dei punti $A$ del piano in modo tale che il triangolo $ABC$ sia pseudo rettangolo a $A$. c. Supponiamo $\beta = -\gamma = 1$. Determinare l'insieme $(E_2)$ dei punti $A$ del piano in modo tale che il triangolo $ABC$ sia pseudo rettangolo a $A$. d. Con quale semplice trasformazione geometrica si passa da $(E_2)$ a $(E_1)$?
 
-[[Quesiti/src_cgen_2002#q01|src_cgen_2002__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_trigonometria,topic_geometria_piana,topic_algebra,method_trigonometria,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato"></span>
@@ -135,8 +133,6 @@ level: Concours Général
 > 
 > **7.** Risolvi in $\mathbb{N}^*$ l'equazione $x^2\,(y^2 - z^2)^2 = (y^2 + z^2)^3$.
 
-[[Quesiti/src_cgen_2002#q02|src_cgen_2002__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_analitica,topic_geometria_piana,method_coordinate,method_simmetria,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_stima"></span>
@@ -181,8 +177,6 @@ level: Concours Général
 > Che $n$ sia un intero naturale non zero e $u$ un reale positivo tale che $u^n = r + s$. Per ogni numero intero $k$ tra $1$ e $n$, si considera il trapezoide destro $T_k$ (possibilmente ridotto a triangolo) il cui lato oblico è il segmento con punti terminali i punti delle coordinate $(u^{k-1}, 0)$ e $(u^k, 0)$, le cui basi hanno pendenza $-1$, e uno dei cui angoli retti ha per vertice il punto di $\mathcal{H}$ con abscissa $\dfrac{u^{k-1} + u^{1-k}}{2}$. a. Si definisce così, per ogni valore di $k$, un trapezoide unico $T_k$ (ridotto a triangolo quando $k = 1$): illustrare con uno schizzo. b. Perché si può ipotizzare che la somma delle aree di questi trapeziosi ammetta $\dfrac{\mathcal{A} + s^2}{2}$ come limite quando $n$ tende all'infinito? c. Prove la conjectura precedente utilizzando un'altra sequenza di trapezoi combinata con la prima. d. Recuperare il valore di $\mathcal{A}$.
 > 
 > **3.** $B$ e $C$ siano i punti delle rispettive coordinate $(1,0)$ e $(-1,0)$ e $A$ un punto delle coordinate $(x,y)$ con $x \ge 0$ e $y \ge 0$ in modo tale che il triangolo $ABC$ sia pseudo rettangolo a $A$. Indicare con $S$ la superficie del triangolo $ABC$ e con $S'$ la superficie della parte del piano costituita dai punti della piastra triangolare definiti dal triangolo $ABC$ le cui coordinate $(X,Y)$ soddisfano $Y^2 \le X^2 - 1$. Studiare il limite possibile, poiché $x$ tende all' infinito, del rapporto $\dfrac{S'}{S}$.
-
-[[Quesiti/src_cgen_2002#q03|src_cgen_2002__Q03]]
 
 
 
@@ -232,5 +226,3 @@ level: Concours Général
 > **2.** $(H)$ deve essere l'insieme dei punti $A$ e $A'$ in quanto $T$ e $P$ variano. a. Qual è l'intersezione dell'insieme $(H)$ con un piano ortogonale a $\vec{w}$? b. Qual è l'intersezione dell'insieme $(H)$ con un piano contenente la linea $(O;\vec{w})$? c. Mostra che l'insieme $(H)$ è contenuto in un'unione di linee che si specificherà.
 > 
 > **3.** Quest'ultima domanda riguarda i punti interi dell'insieme $(H)$, cioè gli elementi di $(H)$ le cui tre coordinate sono interi. a. Che $(x,y,z)$ sia il triplo delle coordinate di tale punto. Indicare che $x$ o $y$ è strano. Da ora in poi, indicare con $\mathcal{S}$ l'insieme di triples $(x,y,z)$ di enti interi naturali rigorosamente positivi in modo tale che $x$ sia impar e $x^2 + y^2 = z^2 + 1$. b. Che $d$ sia un numero intero rigorosamente positivo fisso. Prova che l'insieme di elementi $(x,y,z)$ di $\mathcal{S}$ in modo tale che $\gcd(x+1, y+z) = d$ sia vuoto se $d$ è pari, e un insieme infinito se $d$ è pari. c. Il $m$ deve essere un intero naturale parziale superiore o uguale a $3$. Quanti elementi $(x,y,z)$ di $\mathcal{S}$ sono tali da $x = m$? Determinare questi elementi quando $m = 3, 5, 7, 9$.
-
-[[Quesiti/src_cgen_2002#q04|src_cgen_2002__Q04]]

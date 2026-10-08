@@ -38,7 +38,6 @@ level: kangourou
 > Minimum terms Reduce to lowest terms the fraction (1 + 3 + 5 + ... + 51) / (4 + 6 + 8 + ... + 54) and report consecutively numerator and denominator (for example, if the fraction was 5/8 write [0508]).
 
 **Answer:** 2629
-[[Quesiti/src_kangourou_2019_junior_semifinale_a#q01|src_kangourou_2019_junior_semifinale_a__Q01]]
 
 
 
@@ -69,7 +68,6 @@ level: kangourou
 > Three circles In an equilateral triangle of 40 metres side, three circles of equal radius are drawn, pairwise tangent to each other, each tangent to two sides of the triangle. What is the largest integer that does not exceed the length in decimeters of the radius of the circles?
 
 **Answer:** 0073
-[[Quesiti/src_kangourou_2019_junior_semifinale_a#q02|src_kangourou_2019_junior_semifinale_a__Q02]]
 
 
 
@@ -164,7 +162,6 @@ level: kangourou
 > Between 1 and 9 the vertices and the centre of the regular octagon in the figure have been given a name. In how many different ways can each of the points, vertices and center, be assigned an integer between 1 and 9 so that different points receive different numbers but, for each fixed assignment, the sum of the three numbers affecting the individual diagonals passing through the center is always the same when the diagonal varies?
 
 **Answer:** 1152
-[[Quesiti/src_kangourou_2019_junior_semifinale_a#q03|src_kangourou_2019_junior_semifinale_a__Q03]]
 
 
 
@@ -201,7 +198,6 @@ level: kangourou
 > in the same set, what is the maximum possible value for N + T + Q under the constraint T – Q = 5?
 
 **Answer:** 0041
-[[Quesiti/src_kangourou_2019_junior_semifinale_a#q04|src_kangourou_2019_junior_semifinale_a__Q04]]
 
 
 
@@ -233,7 +229,6 @@ level: kangourou
 > 10 lines In the plane there are 10 lines: of these, there are no two parallels, there are no three concurrent at the same point, there are no four tangent to the same circle. How many circles are tangent to exactly three of the ten lines?
 
 **Answer:** 0480
-[[Quesiti/src_kangourou_2019_junior_semifinale_a#q05|src_kangourou_2019_junior_semifinale_a__Q05]]
 
 
 
@@ -266,7 +261,6 @@ level: kangourou
 > division (p2 + q2) : 30?
 
 **Answer:** 0020
-[[Quesiti/src_kangourou_2019_junior_semifinale_a#q06|src_kangourou_2019_junior_semifinale_a__Q06]]
 
 
 
@@ -298,7 +292,6 @@ level: kangourou
 > The product For three positive integers A, B and C, A + 1/(B + (1/C)) = 881/97. What is their product?
 
 **Answer:** 0864
-[[Quesiti/src_kangourou_2019_junior_semifinale_a#q07|src_kangourou_2019_junior_semifinale_a__Q07]]
 
 
 
@@ -331,7 +324,6 @@ level: kangourou
 > Kanglandia banknotes are rectangular, obtained by aligning three squares of the same size. For all of them the back is gray, while on the other side each of the squares can be yellow, red, green or blue. Only the colours (and their positions) differentiate different banknotes. How many types of banknotes are there?
 
 **Answer:** 0040
-[[Quesiti/src_kangourou_2019_junior_semifinale_a#q08|src_kangourou_2019_junior_semifinale_a__Q08]]
 
 
 
@@ -366,7 +358,6 @@ level: kangourou
 > [9999] if it has infinitely many.)
 
 **Answer:** 0003
-[[Quesiti/src_kangourou_2019_junior_semifinale_a#q09|src_kangourou_2019_junior_semifinale_a__Q09]]
 
 
 
@@ -400,7 +391,6 @@ level: kangourou
 > In an urn there are 2019 cards, on each of which a different positive integer from 1 to 2019 is written. We want to add to the urn a card on which a positive integer n is written so that the arithmetic mean of the numbers written on the cards now in the urn is greater than n. In how many different ways can we choose n?
 
 **Answer:** 1009
-[[Quesiti/src_kangourou_2019_junior_semifinale_a#q10|src_kangourou_2019_junior_semifinale_a__Q10]]
 
 
 
@@ -433,7 +423,6 @@ The probability that ABC+AB+A is divisible by 3*
 > Divisible by 3 Choosing at random three positive integers (not necessarily distinct) A, B, C less than or equal to 2019, what is the probability that the number A × B × C + A × B + A is divisible by 3? (Write down below the numerator and denominator of the fraction reduced to minimum terms; for example, if the answer is 4/31, write [0431].)
 
 **Answer:** 1327
-[[Quesiti/src_kangourou_2019_junior_semifinale_a#q11|src_kangourou_2019_junior_semifinale_a__Q11]]
 
 
 
@@ -464,7 +453,6 @@ The probability that ABC+AB+A is divisible by 3*
 > Birthdays Today is the birthday of Peter and John; the sum of their ages is 91 years and John's age is twice the age that Peter had when John was the same age as Peter now has. How old is John?
 
 **Answer:** 0052
-[[Quesiti/src_kangourou_2019_junior_semifinale_a#q12|src_kangourou_2019_junior_semifinale_a__Q12]]
 
 
 
@@ -498,7 +486,6 @@ The probability that ABC+AB+A is divisible by 3*
 > 99 points In space 99 distinct points are assigned so that there are no four are coplanar. Some points are connected by segments so that each of the 99 points is reachable (through the traced segments) from each of the others (i.e. there is a connected graph), but the traced segments do not form any triangle. What is the maximum number of segments traced (i.e. the number of arcs in the graph)?
 
 **Answer:** 2450
-[[Quesiti/src_kangourou_2019_junior_semifinale_a#q13|src_kangourou_2019_junior_semifinale_a__Q13]]
 
 
 
@@ -531,7 +518,6 @@ The probability that ABC+AB+A is divisible by 3*
 > Back-balanced numbers Let's say a positive integer N of five digits is back-balanced if, say, A is the six-digit integer that you get by putting 2 before the digits of N and B is the six-digit integer that you get by putting 2 after the digits of N, you have B = 3A. What is the sum of the digits of all the back-balanced numbers? (Write [0000] if there are no back-balanced numbers.)
 
 **Answer:** 0025
-[[Quesiti/src_kangourou_2019_junior_semifinale_a#q14|src_kangourou_2019_junior_semifinale_a__Q14]]
 
 
 
@@ -582,4 +568,3 @@ The probability that ABC+AB+A is divisible by 3*
 > Questions and solutions
 
 **Answer:** 0046
-[[Quesiti/src_kangourou_2019_junior_semifinale_a#q15|src_kangourou_2019_junior_semifinale_a__Q15]]

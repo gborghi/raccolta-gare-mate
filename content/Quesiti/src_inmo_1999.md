@@ -33,8 +33,6 @@ level: INMO
 
 > I punti $D$, $E$, $F$ sono prelevati sui lati $BC$, $CA$, $AB$ di un triangolo acuto angolato $ABC$ in modo tale che $AD \perp BC$, $AE = BC$ e $CF$ bisecci $\angle C$. Supponiamo che $CF$ soddisfi $AD$ a $M$ e $DE$ a $N$ in modo tale che $FM = 2$, $MN = 1$ e $NC = 3$. Trova il perimetro di $\triangle ABC$.
 
-[[Quesiti/src_inmo_1999#q01|src_inmo_1999__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: INMO
 *Campo rettangolare di pulizia del villaggio con lati interi e parti uguali del 1998*
 
 > In un villaggio nel 1998 persone si sono offerte volontarie per pulire, per una fiera, un campo rettangolare con lati interi e perimetro pari a 3996 piedi. A tal fine, il campo è stato diviso in parti uguali nel 1998. Se ogni parte ha un'area interiore, trova la lunghezza e la larghezza del campo.
-
-[[Quesiti/src_inmo_1999#q02|src_inmo_1999__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: INMO
 
 > Prova che non esistono polinomi non costanti $p(x)$ e $q(x)$ con coefficienti interi come $p(x)q(x) = x^4 + 2x + 1$.
 
-[[Quesiti/src_inmo_1999#q03|src_inmo_1999__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -114,8 +108,6 @@ level: INMO
 *Triangoli equalaterali inscritti in cerchi concentrici disuguaglianza per punti arbitrari*
 
 > I triangoli equilaterali $ABC$ e $A_1B_1C_1$ sono inseriti rispettivamente in cerchi concentrici $\Gamma$ e $\Gamma_1$. Se $P$ e $P_1$ sono punti arbitrari rispettivamente su $\Gamma$ e $\Gamma_1$, dimostrare che $$P_1A^2 + P_1B^2 + P_1C^2 = PA_1^2 + PB_1^2 + PC_1^2.$$
-
-[[Quesiti/src_inmo_1999#q04|src_inmo_1999__Q04]]
 
 
 
@@ -146,8 +138,6 @@ level: INMO
 
 > Mostrare che tra qualsiasi numero positivo distinto si possono scegliere tre, ad esempio $A$, $B$, $C$, in modo tale che le tre equazioni quadratiche $$Bx^2 + x + C = 0$$ $$Cx^2 + x + A = 0$$ $$Ax^2 + x + B = 0$$ abbiano tutte radici reali o tutte radici non reali.
 
-[[Quesiti/src_inmo_1999#q05|src_inmo_1999__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_induzione,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_astrazione,skill_manipolazione_algebrica"></span>
@@ -172,5 +162,3 @@ level: INMO
 *Split set {1,2,...,4n} in sottosette disconnessi di quattro elementi con somma di elementi uguale*
 
 > Per quali integri positivi $n$ può essere diviso l'insieme $\{1, 2, \ldots, 4n\}$ in $n$ disgiunti sottoinsiemi di quattro elementi $\{a, b, c, d\}$ in modo che in ciascuno di essi $a = \frac{b+c+d}{3}$?
-
-[[Quesiti/src_inmo_1999#q06|src_inmo_1999__Q06]]

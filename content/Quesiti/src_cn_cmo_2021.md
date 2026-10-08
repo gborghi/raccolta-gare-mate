@@ -33,8 +33,6 @@ level: China Mathematical Olympiad
 
 > Dato il numero positivo $a$, $b$ e il segmento $AB$ di lunghezza $a$ in un piano, supponiamo che due punti in movimento $C$, $D$ in questo piano soddisfino il fatto che $ABCD$ sia un quadrilaterale converso non degenerato con $BC = CD = b$, $DA = a$. È facile vedere che esiste un cerchio $I$ tangente a tutti e quattro i lati del quadrilaterale $ABCD$. Trova la traiettoria del centro $I$.
 
-[[Quesiti/src_cn_cmo_2021#q01|src_cn_cmo_2021__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima"></span>
@@ -62,7 +60,6 @@ level: China Mathematical Olympiad
 > Trova il numero reale massimo $\lambda$ che soddisfa la seguente condizione: per tutti i numeri reali positivi $p, q, r, s$ e per un numero complesso $z = a + bi$ ($a, b \in \mathbb{R}$) tale che $|b| \geq \lambda|a|$, $pz^3 + 2qz^2 + 2rz + s \neq 0$.
 
 **Risposta:** \sqrt{3}
-[[Quesiti/src_cn_cmo_2021#q02|src_cn_cmo_2021__Q02]]
 
 
 
@@ -89,8 +86,6 @@ level: China Mathematical Olympiad
 
 > Trova tutti gli enti $a$ che soddisfano la seguente condizione: esiste un insieme $X$ di enti $6$ in modo che per ogni $k = 1, 2, \ldots, 36$, esiste $x, y \in X$ in modo che $ax + y \equiv k \pmod{37}$.
 
-[[Quesiti/src_cn_cmo_2021#q03|src_cn_cmo_2021__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_algebra,method_grafi,method_invarianti,method_induzione,skill_modellizzazione,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -116,8 +111,6 @@ Gli scienziati aggiornano l'approvazione da parte di amici medi a pavimento; dim
 
 > Dato che gli scienziati partecipano a una conferenza, ogni scienziato ha alcuni amici che partecipano alla conferenza (l'amicizia è reciproca e nessuno è il proprio amico). È noto che non importa come questi scienziati siano divisi in due gruppi, ci sono sempre due scienziati nello stesso gruppo che sono amici, e ci sono anche due scienziati in gruppi diversi che sono amici. Il primo giorno, è stato proposto un argomento alla conferenza, e il grado di approvazione di ogni scienziato per questo argomento può essere rappresentato da un intero non negativo. Supponiamo che il grado di approvazione di ogni scienziato diventi la parte integrale della media del grado di approvazione di tutti i suoi amici il giorno precedente. Prove che dopo diversi giorni, il grado di approvazione di tutti gli scienziati è lo stesso.
 
-[[Quesiti/src_cn_cmo_2021#q04|src_cn_cmo_2021__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_aritmetica,method_backward,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_conteggio_sistematico"></span>
@@ -142,8 +135,6 @@ Gli scienziati aggiornano l'approvazione da parte di amici medi a pavimento; dim
 *Construire sqrt(2021) con regola e bussola utilizzando al massimo 10 cerchi/linee*
 
 > È noto che ci sono solo due tipi di oggetti geometrici unidimensionali, cerchi e linee, che appaiono nella costruzione di regola e bussola. Due punti devono essere contrassegnati su una carta con una distanza di $1$. Prove che una linea e due punti su questa linea con una distanza di $\sqrt{2021}$ possono essere disegnati sulla carta con regola e bussola, in modo che il numero totale di diversi cerchi e linee che appaiono nel processo di disegna non superi $10$.
-
-[[Quesiti/src_cn_cmo_2021#q05|src_cn_cmo_2021__Q05]]
 
 
 
@@ -171,5 +162,3 @@ Gli scienziati aggiornano l'approvazione da parte di amici medi a pavimento; dim
 *Prove i limiti sul numero minimo di coefficienti divisibili per 3 in (x+1)^s(x+2)^{n-s}*
 
 > Per gli integri $0 \leq s \leq n$, indicare $f(n, s)$ come numero di coefficienti nell'espansione di $(x + 1)^s(x + 2)^{n-s}$ divisibili per $3$. Per esempio, $(x+1)^2(x+2)^0 = x^2 + 2x + 1$, quindi $f(2, 2) = 2$. Per un intero positivo $n$, definire $F(n)$ come il minimo di $f(n, 0), f(n, 1), \ldots, f(n, n)$. Prova: (1) Esistono infiniti interi positivi $n$ tali da $F(n) \geq \dfrac{n-1}{3}$. (2) Per qualsiasi numero intero positivo $n$, c'è $F(n) \leq \dfrac{n-1}{2}$.
-
-[[Quesiti/src_cn_cmo_2021#q06|src_cn_cmo_2021__Q06]]

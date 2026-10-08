@@ -87,8 +87,6 @@ level: TFJM²
 
 ![[src_tfjm_2026__q01.png]]
 
-[[Quesiti/src_tfjm_2026#q01|src_tfjm_2026__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_geometria_piana,method_grafi,method_bigezione,method_casework,method_conteggio,skill_astrazione,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
@@ -180,8 +178,6 @@ level: TFJM²
 
 ![[src_tfjm_2026__q02.png]]
 
-[[Quesiti/src_tfjm_2026#q02|src_tfjm_2026__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_probabilita,method_casework,method_conteggio,method_inclusione_esclusione,skill_modellizzazione,skill_conteggio_sistematico,skill_stima"></span>
@@ -265,8 +261,6 @@ level: TFJM²
 > 6. Proporre e studiare altre direzioni di ricerca.
 
 ![[src_tfjm_2026__q03.png]]
-
-[[Quesiti/src_tfjm_2026#q03|src_tfjm_2026__Q03]]
 
 
 
@@ -354,8 +348,6 @@ level: TFJM²
 > Domanda complementare. Proporre e studiare altre direzioni di ricerca.
 
 ![[src_tfjm_2026__q04.png]]
-
-[[Quesiti/src_tfjm_2026#q04|src_tfjm_2026__Q04]]
 
 
 
@@ -447,8 +439,6 @@ level: TFJM²
 
 ![[src_tfjm_2026__q05.png]]
 
-[[Quesiti/src_tfjm_2026#q05|src_tfjm_2026__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_probabilita,method_casework,method_conteggio,method_estremalita,method_colorazione,skill_conteggio_sistematico,skill_modellizzazione,skill_stima"></span>
@@ -527,8 +517,6 @@ level: TFJM²
 
 ![[src_tfjm_2026__q06.png]]
 
-[[Quesiti/src_tfjm_2026#q06|src_tfjm_2026__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_casework,method_conteggio,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato"></span>
@@ -604,8 +592,6 @@ level: TFJM²
 > Domanda complementare. Proporre e studiare altre direzioni di ricerca.
 
 ![[src_tfjm_2026__q07.png]]
-
-[[Quesiti/src_tfjm_2026#q07|src_tfjm_2026__Q07]]
 
 
 
@@ -703,5 +689,3 @@ level: TFJM²
 > Domanda complementare. Proporre e studiare altre direzioni di ricerca.
 
 ![[src_tfjm_2026__q08.png]]
-
-[[Quesiti/src_tfjm_2026#q08|src_tfjm_2026__Q08]]

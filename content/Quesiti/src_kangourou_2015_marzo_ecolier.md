@@ -58,7 +58,6 @@ level: kangourou
 > E) 15
 
 **Answer:** E
-[[Quesiti/src_kangourou_2015_marzo_ecolier#q01|src_kangourou_2015_marzo_ecolier__Q01]]
 
 
 
@@ -95,7 +94,6 @@ level: kangourou
 > Henry has the 10 bars of metal all the same as you see in the figure. With screws, it joins them in pairs to form the 5 longest bars that are shown in the figures that make up the answers. Which one is the longest?
 
 **Answer:** A
-[[Quesiti/src_kangourou_2015_marzo_ecolier#q02|src_kangourou_2015_marzo_ecolier__Q02]]
 
 
 
@@ -147,7 +145,6 @@ level: kangourou
 > E) 6
 
 **Answer:** E
-[[Quesiti/src_kangourou_2015_marzo_ecolier#q03|src_kangourou_2015_marzo_ecolier__Q03]]
 
 
 
@@ -196,7 +193,6 @@ level: kangourou
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2015_marzo_ecolier#q04|src_kangourou_2015_marzo_ecolier__Q04]]
 
 
 
@@ -244,7 +240,6 @@ level: kangourou
 > A) B) C) D) E)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2015_marzo_ecolier#q05|src_kangourou_2015_marzo_ecolier__Q05]]
 
 
 
@@ -302,7 +297,6 @@ level: kangourou
 >        E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2015_marzo_ecolier#q06|src_kangourou_2015_marzo_ecolier__Q06]]
 
 
 
@@ -336,7 +330,6 @@ level: kangourou
 > The figure shows a very fractured island and 10 frogs. Some frogs are in the water. How many are on the island? A) 5              B) 6              C) 7              D) 8                 E) 9
 
 **Answer:** B
-[[Quesiti/src_kangourou_2015_marzo_ecolier#q07|src_kangourou_2015_marzo_ecolier__Q07]]
 
 
 
@@ -387,7 +380,6 @@ level: kangourou
 > The questions from N. 9 to N. 16 are worth 4 points each.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2015_marzo_ecolier#q08|src_kangourou_2015_marzo_ecolier__Q08]]
 
 
 
@@ -422,7 +414,6 @@ level: kangourou
 > Bruno wants to break down the region determined by the dark contour in Figure 1 into triangles all equal to the one shown in Figure 2. How many triangles will he get? A) 8               B) 12                 C) 14                  D) 15                  E) 16
 
 **Answer:** D
-[[Quesiti/src_kangourou_2015_marzo_ecolier#q09|src_kangourou_2015_marzo_ecolier__Q09]]
 
 
 
@@ -469,7 +460,6 @@ level: kangourou
 > E) 7
 
 **Answer:** B
-[[Quesiti/src_kangourou_2015_marzo_ecolier#q10|src_kangourou_2015_marzo_ecolier__Q10]]
 
 
 
@@ -506,7 +496,6 @@ level: kangourou
 > Sarah had many grey cubes and many white cubes. She built the large cube you see in the figure so that two cubes of the same color never had any faces in common. How many white cubes did she use? A) 10           B) 12            C) 13            D) 14            E) 15
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_ecolier#q11|src_kangourou_2015_marzo_ecolier__Q11]]
 
 
 
@@ -545,7 +534,6 @@ level: kangourou
 > E) 7th
 
 **Answer:** A
-[[Quesiti/src_kangourou_2015_marzo_ecolier#q12|src_kangourou_2015_marzo_ecolier__Q12]]
 
 
 
@@ -593,7 +581,6 @@ level: kangourou
 > E) 2
 
 **Answer:** B
-[[Quesiti/src_kangourou_2015_marzo_ecolier#q13|src_kangourou_2015_marzo_ecolier__Q13]]
 
 
 
@@ -677,7 +664,6 @@ level: kangourou
 >
 
 **Answer:** D
-[[Quesiti/src_kangourou_2015_marzo_ecolier#q14|src_kangourou_2015_marzo_ecolier__Q14]]
 
 
 
@@ -745,7 +731,6 @@ level: kangourou
 > E) 9
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_ecolier#q15|src_kangourou_2015_marzo_ecolier__Q15]]
 
 
 
@@ -790,7 +775,6 @@ level: kangourou
 > Questions from No. 17 to No. 24 are worth 5 points each
 
 **Answer:** A
-[[Quesiti/src_kangourou_2015_marzo_ecolier#q16|src_kangourou_2015_marzo_ecolier__Q16]]
 
 
 
@@ -876,7 +860,6 @@ level: kangourou
 > E) 7
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_ecolier#q17|src_kangourou_2015_marzo_ecolier__Q17]]
 
 
 
@@ -923,7 +906,6 @@ level: kangourou
 >
 
 **Answer:** D
-[[Quesiti/src_kangourou_2015_marzo_ecolier#q18|src_kangourou_2015_marzo_ecolier__Q18]]
 
 
 
@@ -1014,7 +996,6 @@ level: kangourou
 > C) Only red. D) Any color is fine. E) No color is right.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_ecolier#q19|src_kangourou_2015_marzo_ecolier__Q19]]
 
 
 
@@ -1069,7 +1050,6 @@ The sum of John's sum
 > E) 15
 
 **Answer:** E
-[[Quesiti/src_kangourou_2015_marzo_ecolier#q20|src_kangourou_2015_marzo_ecolier__Q20]]
 
 
 
@@ -1113,7 +1093,6 @@ The sum of John's sum
 > A) B) C) D) E)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_ecolier#q21|src_kangourou_2015_marzo_ecolier__Q21]]
 
 
 
@@ -1178,7 +1157,6 @@ The sum of John's sum
 > The points you see marked in the figure are the 16 vertices of nine squares that, placed side by side, form a square. Choosing 4 of these 16 points each time, you can form different squares, even of different areas. What's the maximum number of squares you can get, that have all different areas? A) 2 B) 3 C) 4	               D) 5 E) 6
 
 **Answer:** D
-[[Quesiti/src_kangourou_2015_marzo_ecolier#q22|src_kangourou_2015_marzo_ecolier__Q22]]
 
 
 
@@ -1220,7 +1198,6 @@ The sum of John's sum
 > D) 8 E) The information is not sufficient to answer
 
 **Answer:** E
-[[Quesiti/src_kangourou_2015_marzo_ecolier#q23|src_kangourou_2015_marzo_ecolier__Q23]]
 
 
 
@@ -1279,4 +1256,3 @@ The sum of John's sum
 > ECOLIER STRING 2015
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_ecolier#q24|src_kangourou_2015_marzo_ecolier__Q24]]

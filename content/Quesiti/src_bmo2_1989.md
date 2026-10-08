@@ -39,8 +39,6 @@ level: BMO Round 2
 > 
 > Esistono numeri interi $b, c$ in modo che l'equazione $$ax^2 - bx + c = 0$$ abbia due radici distinte nell'intervallo $0 < x < 1$.
 
-[[Quesiti/src_bmo2_1989#q01|src_bmo2_1989__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_conteggio,method_casework,method_inclusione_esclusione,skill_conteggio_sistematico,skill_casework_accurato,skill_riconoscimento_pattern"></span>
@@ -72,8 +70,6 @@ level: BMO Round 2
 > 
 > Indicare se è possibile generare le lettere $n$ che appaiono ciascuna cinque volte.
 
-[[Quesiti/src_bmo2_1989#q02|src_bmo2_1989__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_fattorizzazione,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
@@ -101,8 +97,6 @@ level: BMO Round 2
 
 > Che $f(x)$ sia un polinomio di grado $n$ tale che $$f(k) = \frac{1}{k+1}, \quad k = 0, 1, 2, \ldots, n.$$ Trova $f(n+1)$, esprimendo il risultato il più semplicemente possibile.
 
-[[Quesiti/src_bmo2_1989#q03|src_bmo2_1989__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -127,5 +121,3 @@ level: BMO Round 2
 *Punto M su AC del triangolo ABC con cerchi incisi; trovare IM in termini di lati*
 
 > $M$ è un punto sul lato $AC$ del triangolo $ABC$ in modo tale che i triangoli $ABM$, $BCM$ abbiano scritti cerchi. Trova la lunghezza di $IM$ in termini di lunghezza $a, b, c$ dei lati del triangolo $ABC$.
-
-[[Quesiti/src_bmo2_1989#q04|src_bmo2_1989__Q04]]

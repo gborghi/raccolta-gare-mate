@@ -55,7 +55,6 @@ Minimum squares to blacken in 7x7 squares because every 4x4 contains one
 > E) 3
 
 **Answer:** D
-[[Quesiti/src_kangourou_2019_ecolier_semifinale#q01|src_kangourou_2019_ecolier_semifinale__Q01]]
 
 
 
@@ -109,7 +108,6 @@ Minimum white cars to move to get the black car out
 > E) 6
 
 **Answer:** B
-[[Quesiti/src_kangourou_2019_ecolier_semifinale#q02|src_kangourou_2019_ecolier_semifinale__Q02]]
 
 
 
@@ -152,7 +150,6 @@ Minimum white cars to move to get the black car out
 > E) 0
 
 **Answer:** B
-[[Quesiti/src_kangourou_2019_ecolier_semifinale#q03|src_kangourou_2019_ecolier_semifinale__Q03]]
 
 
 
@@ -192,7 +189,6 @@ Minimum white cars to move to get the black car out
 > (Doc. 4) Marta folded a sheet of paper exactly in half, in one of the possible ways, and then folded the result in half again, always making sure the two sides were well matched. She got the triangle on the right. Which of the shapes P, Q, R might have had the starting sheet? A) Only P B) Only Q C) Only R D) Only P and R E) All three
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_ecolier_semifinale#q04|src_kangourou_2019_ecolier_semifinale__Q04]]
 
 
 
@@ -229,7 +225,6 @@ Minimum white cars to move to get the black car out
 > (Dots 4) Anna cuts a tape into four parts; she holds one part and gives the other three (one for each) to her friends Betta, Cinzia, and Donatella. The length of the part of Betta is one third of the length of that of Anna, the length of the part of Cinzia is one third of that of Betta and the length of the part of Donatella is one third of that of Cinzia. If the length of the piece of Cinzia is 3 meters, how many meters was the length of the tape before it was cut? A) 21 B) 30 C) 40 D) 54 E) 51
 
 **Answer:** C
-[[Quesiti/src_kangourou_2019_ecolier_semifinale#q05|src_kangourou_2019_ecolier_semifinale__Q05]]
 
 
 
@@ -281,7 +276,6 @@ Minimum white cars to move to get the black car out
 > R
 
 **Answer:** D
-[[Quesiti/src_kangourou_2019_ecolier_semifinale#q06|src_kangourou_2019_ecolier_semifinale__Q06]]
 
 
 
@@ -333,7 +327,6 @@ Minimum white cars to move to get the black car out
 > E) h
 
 **Answer:** C
-[[Quesiti/src_kangourou_2019_ecolier_semifinale#q07|src_kangourou_2019_ecolier_semifinale__Q07]]
 
 
 
@@ -367,7 +360,6 @@ Minimum white cars to move to get the black car out
 > In the subtraction you see in the figure, some digits have been replaced by letters (different letters for different digits). What 's the sum of a + b + c + d ? A) 22 B) 23 C) 24 D) 25 E) 27
 
 **Answer:** B
-[[Quesiti/src_kangourou_2019_ecolier_semifinale#q08|src_kangourou_2019_ecolier_semifinale__Q08]]
 
 
 
@@ -415,7 +407,6 @@ Minimum white cars to move to get the black car out
 > E) 8 Open-ended questions
 
 **Answer:** D
-[[Quesiti/src_kangourou_2019_ecolier_semifinale#q09|src_kangourou_2019_ecolier_semifinale__Q09]]
 
 
 
@@ -457,7 +448,6 @@ Minimum white cars to move to get the black car out
 > moves?
 
 **Answer:** 5
-[[Quesiti/src_kangourou_2019_ecolier_semifinale#q10|src_kangourou_2019_ecolier_semifinale__Q10]]
 
 
 
@@ -488,7 +478,6 @@ How many friends of Agnes dividing 121 crackers
 > (Points 4) Agnese has 121 crackers; she distributes them to her friends so that she and her friends have the same number of crackers and more than one each. How many of Agnes' friends are there?
 
 **Answer:** 10
-[[Quesiti/src_kangourou_2019_ecolier_semifinale#q11|src_kangourou_2019_ecolier_semifinale__Q11]]
 
 
 
@@ -522,7 +511,6 @@ How many friends of Agnes dividing 121 crackers
 > (Points 6) Each square of this square sheet has an area of 2 cm2; how many square centimetres is the area of the figure we have drawn on the sheet?
 
 **Answer:** 24
-[[Quesiti/src_kangourou_2019_ecolier_semifinale#q12|src_kangourou_2019_ecolier_semifinale__Q12]]
 
 
 
@@ -554,7 +542,6 @@ Maximum sum of the first two cards with total sum of 35
 > (Points 6) From a bag containing many decks of cards mixed together, Ada drew five cards (not one of which is a joker or a face card) and arranged them so that the score of each card did not exceed that of the next card. Putting all the scores together, she gets 35. What is the maximum value of the sum of the scores of the first two cards?
 
 **Answer:** 14
-[[Quesiti/src_kangourou_2019_ecolier_semifinale#q13|src_kangourou_2019_ecolier_semifinale__Q13]]
 
 
 
@@ -584,7 +571,6 @@ Maximum sum of the first two cards with total sum of 35
 > At this moment one tank contains 100 litres of water and another tank contains 120 litres. From the first, water comes out at a rate of one litre per hour, while from the second, water comes out at a rate of three litres per hour. How many hours from now will the two tanks contain the same amount of water?
 
 **Answer:** 10
-[[Quesiti/src_kangourou_2019_ecolier_semifinale#q14|src_kangourou_2019_ecolier_semifinale__Q14]]
 
 
 
@@ -616,4 +602,3 @@ Maximum sum of the first two cards with total sum of 35
 > A cellar contains some whole wheels of cheese. One day 36 mice invade the cellar and devour a total of 12 whole wheels of cheese, all eating the same amount of cheese. The next day, 12 of those mice return to the cellar and, each eating half of what they ate the day before, deplete the remaining wheels. How many whole wheels of cheese were there initially in the cellar?
 
 **Answer:** 14
-[[Quesiti/src_kangourou_2019_ecolier_semifinale#q15|src_kangourou_2019_ecolier_semifinale__Q15]]

@@ -33,8 +33,6 @@ level: RMO
 
 > Trova il numero di numeri a otto cifre con la somma delle cifre uguale a 4.
 
-[[Quesiti/src_rmo_2013_r3#q01|src_rmo_2013_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_casework,method_congruenze,skill_conteggio_sistematico,skill_casework_accurato,skill_manipolazione_algebrica"></span>
@@ -59,8 +57,6 @@ level: RMO
 *Trova tutti i 4 triples di naturali con a!+b!+c!=3^d*
 
 > Trovare tutti i quadrupli $(a, b, c, d)$ dei numeri naturali con $a \le b \le c$ e $a! + b! + c! = 3^d$.
-
-[[Quesiti/src_rmo_2013_r3#q02|src_rmo_2013_r3__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: RMO
 
 > In un triangolo acuto $ABC$ con $AB < AC$, il cerchio $\Gamma$ tocca $AB$ a $B$ e passa attraverso $C$ incrociandosi di nuovo a $AC$ a $D$. Prova che l'ortocentro del triangolo $ABD$ si trova su $\Gamma$ se e solo se si trova sul bisettore perpendicolare di $BC$.
 
-[[Quesiti/src_rmo_2013_r3#q03|src_rmo_2013_r3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -113,8 +107,6 @@ level: RMO
 *Prove che f(x) +2x non è un polinomio di Fermat quando f(0)=1000*
 
 > Un polinomio è chiamato \textit{polinomio Fermat} se può essere scritto come la somma dei quadrati di due polinomi con coefficienti interi. Supponiamo che $f(x)$ sia un polinomio di Fermat tale che $f(0) = 1000$. Prova che $f(x) + 2x$ non è un polinomio di Fermat.
-
-[[Quesiti/src_rmo_2013_r3#q04|src_rmo_2013_r3__Q04]]
 
 
 
@@ -141,8 +133,6 @@ level: RMO
 
 > Che $ABC$ sia un triangolo non rettangolare. Definire una sequenza di triangoli $A_i B_i C_i$, con $i \ge 0$, come segue: $A_0 B_0 C_0$ è il triangolo $ABC$, e, per $i \ge 0$, $A_{i+1}, B_{i+1}, C_{i+1}$ sono rispettivamente i riflessi dell'ortocentro del triangolo $A_i B_i C_i$ nei lati $B_i C_i, C_i A_i, A_i B_i$. Supponiamo che $\angle A_m = \angle A_n$ per alcuni numeri naturali $m, n$ con $m \ne n$. Prove che $\angle A = 60^\circ$.
 
-[[Quesiti/src_rmo_2013_r3#q05|src_rmo_2013_r3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,topic_geometria_piana,method_congruenze,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -167,5 +157,3 @@ level: RMO
 *Un buon sottoinsieme di n-gon regolare (n primo) ha esattamente quattro elementi*
 
 > Che $n \ge 3$ sia un numero naturale e che $A_1 A_2 \cdots A_n$ sia un poligono regolare. Let $X = \{1, 2, \ldots, n\}$. Un sottoinsieme $\{i_1, i_2, \ldots, i_k\}$ di $X$, con $k \ge 3$ e $i_1 < i_2 < \cdots < i_k$, è chiamato \textit{good subset} se gli angoli del poligono $A_{i_1} A_{i_2} \cdots A_{i_k}$, quando disposti in ordine, sono in progressione aritmetica. Se $n$ è un primo, mostrare che un sottoinsieme buono appropriato di $X$ contiene esattamente quattro elementi.
-
-[[Quesiti/src_rmo_2013_r3#q06|src_rmo_2013_r3__Q06]]

@@ -33,8 +33,6 @@ level: OBM Nível 3
 
 > Esmeralda scrive $2009^2$ numeri interi in una tabella con righe 2009 e colonne 2009, inserendo un numero in ogni cella. Somma correttamente i numeri in ogni riga e in ogni colonna, ottenendo risultati 4018. Si accorge che tutti i risultati sono diversi. È possibile che tutti questi risultati siano quadrati perfetti?
 
-[[Quesiti/src_obm_2009_n3_f3#q01|src_obm_2009_n3_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: OBM Nível 3
 *Prima sicura q=2p+1; prova che q ha un multiplo con somma digitali ≤3*
 
 > $q$ sia un primo della forma $2p + 1$, dove $p > 0$ è anche un primo. Prova che esiste un multiple di $q$ la cui somma di cifre nella base dieci è inferiore o uguale a 3.
-
-[[Quesiti/src_obm_2009_n3_f3#q02|src_obm_2009_n3_f3__Q02]]
 
 
 
@@ -93,8 +89,6 @@ level: OBM Nível 3
 > 
 > Mostrare che, dopo un numero finito di operazioni, ogni punto avrà al massimo tre pietre. Inoltre, dimostrare che la configurazione finale non dipende dall'ordine di esecuzione delle operazioni.
 
-[[Quesiti/src_obm_2009_n3_f3#q03|src_obm_2009_n3_f3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,topic_combinatoria,method_induzione,method_casework,skill_modellizzazione,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
@@ -119,8 +113,6 @@ level: OBM Nível 3
 *Prove che esiste un n0 tale che un cubo possa essere dissezionato in n cubetti più piccoli per tutti n≥n0*
 
 > Mostrare che esiste un intero positivo $n_0$ con la seguente proprietà: per qualsiasi intero $n \ge n_0$, è possibile dividere un cubo in cubi $n$ più piccoli (non necessariamente uguali).
-
-[[Quesiti/src_obm_2009_n3_f3#q04|src_obm_2009_n3_f3__Q04]]
 
 
 
@@ -147,8 +139,6 @@ level: OBM Nível 3
 
 > Lasciate che $ABC$ sia un triangolo e $O$ il suo centro circonda. Le linee $AB$ e $AC$ incontrano di nuovo il circoncircolo del triangolo $OBC$ rispettivamente a $B_1 \neq B$ e $C_1 \neq C$; le linee $BA$ e $BC$ incontrano di nuovo il circoncircolo del triangolo $OAC$ rispettivamente a $A_2 \neq A$ e $C_2 \neq C$; e le linee $CA$ e $CB$ incontrano di nuovo il circoncircolo del triangolo $OAB$ rispettivamente a $A_3 \neq A$ e $B_3 \neq B$. Prove che le linee $A_2A_3$, $B_1B_3$ e $C_1C_2$ sono simultanee.
 
-[[Quesiti/src_obm_2009_n3_f3#q05|src_obm_2009_n3_f3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_estremalita,method_simmetria,skill_manipolazione_algebrica,skill_stima,skill_riconoscimento_pattern"></span>
@@ -174,5 +164,3 @@ level: OBM Nível 3
 *Ricerca tutti i valori della somma ciclica x_i/(x_{i-1}+x_i+x_{i+1}) per i reali positivi, n>3 fissi*
 
 > Che $n > 3$ sia un numero intero fisso e che $x_1, x_2, \ldots, x_n$ sia un numero reale positivo. Trova, in termini di $n$, tutti i possibili valori reali di $$S = \frac{x_1}{x_n + x_1 + x_2} + \frac{x_2}{x_1 + x_2 + x_3} + \frac{x_3}{x_2 + x_3 + x_4} + \cdots + \frac{x_{n-1}}{x_{n-2} + x_{n-1} + x_n} + \frac{x_n}{x_{n-1} + x_n + x_1}.$$
-
-[[Quesiti/src_obm_2009_n3_f3#q06|src_obm_2009_n3_f3__Q06]]

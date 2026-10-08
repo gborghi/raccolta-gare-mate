@@ -43,8 +43,6 @@ level: CAMP Selection Camp
 > 
 > Qui una stringa binaria $n$-cifre è una sequenza di simboli $n$ ognuno uguale a $0$ o $1$. Ad esempio, le stringhe binarie $3$ a cifre sono $000, 001, 010, 011, 100, 101, 110, 111$, dando stringhe $8$ in totale.
 
-[[Quesiti/src_selection_camp_2017#q01|src_selection_camp_2017__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -73,8 +71,6 @@ level: CAMP Selection Camp
 > Il triangolo $ABC$ deve soddisfare $AB \neq AC$. Che $\Gamma$ sia il circoncircolo del triangolo $ABC$ e che $I$ sia il suo incentro. Il $M$ deve essere il punto medio del lato $BC$ e il $D$ deve essere il piede della perpendicolare da $I$ al lato $BC$. La linea che attraversa $I$ perpendicolare alla linea $AI$ incontra i lati $AB$ e $AC$ rispettivamente a $F$ e $E$. Il $X$ deve essere il secondo punto di intersezione (diversi da $A$) del circoncircolo del triangolo $AEF$ con $\Gamma$. Provare che le linee $XD$ e $AM$ si incontrano su $\Gamma$.
 > 
 > (Qui $UV$ indica la lunghezza del segmento $UV$.)
-
-[[Quesiti/src_selection_camp_2017#q02|src_selection_camp_2017__Q02]]
 
 
 
@@ -107,8 +103,6 @@ level: CAMP Selection Camp
 > 
 > - $a_1 < a_2 < a_3 < \cdots$; - Per ogni numero intero positivo $n$, $$a_1^k + a_2^k + \cdots + a_n^k = (a_1 + a_2 + \cdots + a_n)^{r_n}.$$
 
-[[Quesiti/src_selection_camp_2017#q03|src_selection_camp_2017__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -138,8 +132,6 @@ level: CAMP Selection Camp
 > 
 > (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
-[[Quesiti/src_selection_camp_2017#q04|src_selection_camp_2017__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_colorazione,method_casework,method_estremalita,method_simmetria,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -164,8 +156,6 @@ level: CAMP Selection Camp
 *Vertici di n-gon regolari 3 colori unici per colore: esiste un triangolo con arcobaleno e isosceles*
 
 > $n$ sia un numero intero $\ge 5$ che sia coprimo a $6$. I vertici di un normale $n$-gon sono colorati con $3$ colori in modo tale che per ogni colore il numero di vertici di quel colore sia strano. Prove che si possono scegliere le vertici $3$ del normale $n$-gon formando un triangolo di uguali stelle le cui tre vertici hanno tutti colori diversi.
-
-[[Quesiti/src_selection_camp_2017#q05|src_selection_camp_2017__Q05]]
 
 
 
@@ -193,8 +183,6 @@ level: CAMP Selection Camp
 
 > Trova tutte le funzioni $f$ definite sui reali assumendo valori reali quali $f(0) \neq 0$ e, per tutti i numeri reali $x, y$, $$f(x+y)^2 = 2f(x)f(y) + \max\{f(x^2) + f(y^2),\, f(x^2 + y^2)\}.$$
 
-[[Quesiti/src_selection_camp_2017#q06|src_selection_camp_2017__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_casework_accurato,skill_riconoscimento_pattern"></span>
@@ -219,8 +207,6 @@ level: CAMP Selection Camp
 *Trova tutte le coppie di numeri interi positivi (n,k) con n^4+10n^2+2^k un quadrato perfetto*
 
 > Trova tutte le coppie di integri positivi $(n, k)$ in modo tale che $n^4 + 10n^2 + 2^k$ sia un quadrato perfetto.
-
-[[Quesiti/src_selection_camp_2017#q07|src_selection_camp_2017__Q07]]
 
 
 
@@ -248,8 +234,6 @@ level: CAMP Selection Camp
 *Sequenza di numeri interi positivi con termine superiore alla media dei prossimi termini del 2016: dilimitato sopra*
 
 > Che $a_1, a_2, \ldots$ sia una sequenza di interi positivi che soddisfi, per ogni intero positivo $n$, $$a_n > \frac{a_{n+1} + a_{n+2} + \cdots + a_{2n}}{n + 2016}.$$ Prove che esiste una costante reale positiva $C$ tale che $a_n < C$ per tutti gli interi positivi $n$.
-
-[[Quesiti/src_selection_camp_2017#q08|src_selection_camp_2017__Q08]]
 
 
 
@@ -295,8 +279,6 @@ level: CAMP Selection Camp
 > 
 > Prove che esiste un anno e un'isola in modo tale che in quell'anno un traghetto opera tra quell'isola e ogni altra isola.
 
-[[Quesiti/src_selection_camp_2017#q09|src_selection_camp_2017__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,topic_combinatoria,method_casework,method_estremalita,method_simmetria,skill_manipolazione_algebrica,skill_casework_accurato,skill_stima,skill_lettura_attenta"></span>
@@ -323,8 +305,6 @@ level: CAMP Selection Camp
 
 > Trovare tutti i numeri interi positivi $n \ge 3$ in modo tale che si verifichi quanto segue: per qualsiasi numero reale $2n$ $a_1, a_2, \ldots, a_n, b_1, b_2, \ldots, b_n$ soddisfacente $|a_k| + |b_k| = 1$ per $k = 1, 2, \ldots, n$, si possono scegliere numeri reali $x_1, x_2, \ldots, x_n$ con $|x_k| = 1$ per $k = 1, 2, \ldots, n$ in modo tale che $$\left|\sum_{k=1}^n x_k a_k\right| + \left|\sum_{k=1}^n x_k b_k\right| \le 1.$$
 
-[[Quesiti/src_selection_camp_2017#q10|src_selection_camp_2017__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_funzionali,topic_aritmetica,method_casework,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -350,8 +330,6 @@ level: CAMP Selection Camp
 
 > Trova tutte le funzioni $f$ definite sui numeri interi positivi che assumono valori interi positivi in modo tale che per qualsiasi numero intero positivo $m, n$, si abbia $f(m) + f(n) - mn \neq 0$ e $\dfrac{mf(m) + nf(n)}{f(m) + f(n) - mn}$ è un numero intero.
 
-[[Quesiti/src_selection_camp_2017#q11|src_selection_camp_2017__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -376,5 +354,3 @@ level: CAMP Selection Camp
 *Quadrilaterali convex con angoli, bisettori, punto medio e circoncircolo uguali: PQ perp AC*
 
 > Il $ABCD$ deve essere un quadrilaterale converso con $\angle ABC = \angle ADC < 90^\circ$. I bisettori angolari di $\angle ABC$ e $\angle ADC$ incontrano la linea $AC$ rispettivamente in punti distinti $E$ e $F$ e si incontrano a punto $P$. Let $M$ essere il punto medio del segmento $AC$, e let $\omega$ essere il circoncircolo del triangolo $BPD$. La linea $BM$ incontra di nuovo $\omega$ a un punto $X \neq B$ e la linea $DM$ incontra di nuovo $\omega$ a un punto $Y \neq D$. Se le linee $XE$ e $YF$ si incontrano al punto $Q$, dimostrare che le linee $PQ$ e $AC$ sono perpendicolari.
-
-[[Quesiti/src_selection_camp_2017#q12|src_selection_camp_2017__Q12]]

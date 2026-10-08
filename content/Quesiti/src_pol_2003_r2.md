@@ -33,8 +33,6 @@ level: Olimpiade Polacca Round 2
 
 > Indicare che esiste un intero positivo $n > 2003$ per il quale la sequenza $a_k = \binom{n}{k}$, $k = 0, 1, \ldots, 2003$, ha la seguente proprietà: $a_k$ divide $a_m$ ogni volta che $0 \le k \le m \le 2003$.
 
-[[Quesiti/src_pol_2003_r2#q01|src_pol_2003_r2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: Olimpiade Polacca Round 2
 *ABCD quadrilaterale ciclico; bisectori angolari si incontrano a P e Q; prova che la linea PQ è perpendicolare a MN dove M,N sono i punti di mezzo dell'arco.*
 
 > Un quadrilaterale $ABCD$ è inserito in un cerchio $o$. I bisettori degli angoli $DAB$ e $ABC$ si incontrano a $P$, e i bisettori degli angoli $BCD$ e $CDA$ si incontrano a $Q$. Il $M$ deve essere il punto medio dell'arco $BC$ di $o$ non contenente $D$ e $A$, e $N$ deve essere il punto medio dell'arco $DA$ di $o$ non contenente $B$ e $C$. Provare che la linea che attraversa $P$ e $Q$ è perpendicolare a $MN$.
-
-[[Quesiti/src_pol_2003_r2#q02|src_pol_2003_r2__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: Olimpiade Polacca Round 2
 
 > Considerate il polinomio $W(x) = x^4 - 3x^3 + 5x^2 - 9x$. Trova tutte le coppie di integri distinti $a, b$ che soddisfano $W(a) = W(b)$.
 
-[[Quesiti/src_pol_2003_r2#q03|src_pol_2003_r2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -113,8 +107,6 @@ level: Olimpiade Polacca Round 2
 *Per ogni primo p> 3 mostra esistono integri x,y,k con 0<2k<p tale che kp+3=x^2+y^2.*
 
 > Indicare che per ogni primo $p > 3$ esistono numeri interi $x, y, k$ con $0 < 2k < p$ tali che $kp + 3 = x^2 + y^2$.
-
-[[Quesiti/src_pol_2003_r2#q04|src_pol_2003_r2__Q04]]
 
 
 
@@ -141,8 +133,6 @@ level: Olimpiade Polacca Round 2
 
 > Da un punto $A$ esterno a un cerchio $o$ con centro $O$, sono tracciate due linee tangenti che toccano $o$ a $B$ e $C$. Un'altra linea tangente a $o$ incrocia i segmenti $AB$ e $AC$ rispettivamente ai punti $E$ e $F$. Le linee $OE$ e $OF$ soddisfano rispettivamente i segmenti $BC$ a $P$ e $Q$. Prova che i segmenti $BP$, $PQ$ e $QC$ sono lati di un triangolo simile a $\triangle AEF$.
 
-[[Quesiti/src_pol_2003_r2#q05|src_pol_2003_r2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_funzionali,topic_aritmetica,method_ricorsione,method_induzione,method_conteggio,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_astrazione,skill_lettura_attenta"></span>
@@ -167,8 +157,6 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Una funzione f su coppie di integri non negativi soddisfa determinate ricorrenze; data f(a,b)=n, trova il numero di soluzioni integrali x di f(a,x) + f(b,x)=n.*
+*Una funzione f sulle coppie di interi non negativi soddisfa date relazioni ricorsive; dato f(a,b)=n, trovare il numero di soluzioni intere x di f(a,x)+f(b,x)=n.*
 
-> Una funzione $f$ dalle coppie di integri non negativi ai numeri reali soddisfa le seguenti condizioni: $$f(0,0) = 0, \qquad f(2x,2y) = f(2x+1,2y+1) = f(x,y),$$ $$f(2x+1,2y) = f(2x,2y+1) = f(x,y) + 1$$ per tutti gli integri non negativi $x, y$. $n$ e $a, b$ siano integri non negativi come $f(a,b) = n$. Trova il numero di soluzioni integrali $x$ dell'equazione $f(a,x) + f(b,x) = n$.
-
-[[Quesiti/src_pol_2003_r2#q06|src_pol_2003_r2__Q06]]
+> Una funzione $f$, definita sulle coppie di interi non negativi e a valori reali, soddisfa le seguenti condizioni: $$f(0,0) = 0, \qquad f(2x,2y) = f(2x+1,2y+1) = f(x,y),$$ $$f(2x+1,2y) = f(2x,2y+1) = f(x,y) + 1$$ per tutti gli interi non negativi $x, y$. Siano $n$ e $a, b$ interi non negativi tali che $f(a,b) = n$. Trovare il numero di soluzioni intere $x$ dell'equazione $f(a,x) + f(b,x) = n$.

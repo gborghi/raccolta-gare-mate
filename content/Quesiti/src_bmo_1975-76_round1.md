@@ -37,8 +37,6 @@ level: BMO Round 1
 > 
 > Mostra che esiste una linea più breve (non retta) che divide l'area del triangolo dato.
 
-[[Quesiti/src_bmo_1975-76_round1#q01|src_bmo_1975-76_round1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,method_disuguaglianze,method_simmetria,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -64,8 +62,6 @@ level: BMO Round 1
 *Prove la somma delle disuguaglianze di x/(y+z) >= 3/2 per i reali positivi*
 
 > Dimostra che se $x, y, z$ sono numeri reali positivi allora $$\frac{x}{y+z} + \frac{y}{z+x} + \frac{z}{x+y} \ge \frac{3}{2}.$$
-
-[[Quesiti/src_bmo_1975-76_round1#q02|src_bmo_1975-76_round1__Q02]]
 
 
 
@@ -96,8 +92,6 @@ level: BMO Round 1
 > 
 > Mostrare che è possibile trovare un sottoinsieme $F$ di $E$, contenente non più di $5$ elementi, in modo tale che ogni $S_i$ ($1 \le i \le 50$) abbia un elemento in comune con $F$.
 
-[[Quesiti/src_bmo_1975-76_round1#q03|src_bmo_1975-76_round1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -122,8 +116,6 @@ level: BMO Round 1
 *Prova che 19 per 8^n + 17 è composto per tutti gli integri non negativi n*
 
 > Prova che se $n$ è un intero non negativo, allora $19 \cdot 8^n + 17$ non è un numero primo.
-
-[[Quesiti/src_bmo_1975-76_round1#q04|src_bmo_1975-76_round1__Q04]]
 
 
 
@@ -151,8 +143,6 @@ level: BMO Round 1
 *Prova l'identità che coinvolge i coefficienti binomiali e le potenze di due reali*
 
 > Prova che se $a$ e $b$ sono numeri reali, $r$ e $n$ sono numeri interi positivi con $r \ge n$, $$\sum_{t=0}^{n} \binom{r-1}{t}\binom{n}{t} a^{r-2t} b^{r-2t} = \sum_{t=0}^{n} \binom{r-1}{t}\binom{n}{t} a^t b^t,$$ dove $\binom{n}{t}$ indica il coefficiente di $x^t$ nell'espansione di $(1+x)^n$.
-
-[[Quesiti/src_bmo_1975-76_round1#q05|src_bmo_1975-76_round1__Q05]]
 
 
 
@@ -192,5 +182,3 @@ level: BMO Round 1
 > Provare $VP = \dfrac{r}{2}\sqrt{1 + \dfrac{1}{\sqrt{2}}}$.
 > 
 > [In un triangolo sferico $ABC$ i lati sono archi di grandi cerchi (centro $O$) e i lati sono misurati dagli angoli che essi sottendono a $O$. Potresti trovare utili queste formule triangolari sferiche: $$\sin A / \sin a = \sin b / \sin B = \sin c / \sin C,$$ $$\cos a = \cos b \cos c + \sin b \sin c \cos A.]$$
-
-[[Quesiti/src_bmo_1975-76_round1#q06|src_bmo_1975-76_round1__Q06]]

@@ -33,8 +33,6 @@ level: BMO Round 1
 
 > Ciascuno di loro ha un gran numero di chili. Le dice: "Se mi dai $\pounds 3$, avrò $n$ volte quanto te". Le dice: "Se mi dai $\pounds n$, avrò $3$ volte quanto te". Dato che tutte queste affermazioni sono vere e che $n$ è un intero positivo, quali sono i valori possibili per $n$?
 
-[[Quesiti/src_bmo1_2005#q01|src_bmo1_2005__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -59,8 +57,6 @@ level: BMO Round 1
 *Prove CP = CQ utilizzando semicircoli di altitudine a piedi sui lati del triangolo*
 
 > Il $ABC$ è un triangolo acuto, e il $D$, $E$ sono i piedi delle altitudini da $A$, $B$ a $BC$, $CA$ rispettivamente. $P$ è il punto in cui la linea $AD$ incontra il semicircolo costruito verso l'esterno su $BC$, e $Q$ è il punto in cui la linea $BE$ incontra il semicircolo costruito verso l'esterno su $AC$. Prove che $CP = CQ$.
-
-[[Quesiti/src_bmo1_2005#q02|src_bmo1_2005__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: BMO Round 1
 
 > Determinare il numero naturale minimo $n$ per il quale è valido il seguente risultato: Indipendentemente dal colore rosso o blu degli elementi del set $\{1, 2, \ldots, n\}$, nel set (non necessariamente distinto) ci sono enti $x, y, z$ dello stesso colore, come $x + y + z = w$.
 
-[[Quesiti/src_bmo1_2005#q03|src_bmo1_2005__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -113,8 +107,6 @@ level: BMO Round 1
 *Il termine minimo più grande in AP di sette numeri primi distinti*
 
 > Determinare il minimo valore possibile del termine più grande in una progressione aritmetica di sette numeri primi distinti.
-
-[[Quesiti/src_bmo1_2005#q04|src_bmo1_2005__Q04]]
 
 
 
@@ -143,5 +135,3 @@ level: BMO Round 1
 *Un insieme di razionali chiusi sotto due mappe contiene tutti i razionali in (0,1)*
 
 > Se $S$ è un insieme di numeri razionali con le seguenti proprietà: (i) $\frac{1}{2} \in S$, (ii) Se $x \in S$, allora sia $\frac{1}{x+1} \in S$ che $\frac{x}{x+1} \in S$. Prova che $S$ contiene tutti i numeri razionali nell'intervallo $0 < x < 1$.
-
-[[Quesiti/src_bmo1_2005#q05|src_bmo1_2005__Q05]]

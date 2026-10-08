@@ -64,8 +64,6 @@ level: Concours Général
 > 
 > 5. a. Il valore $a$ deve essere $\mathbb{R}$. Indichiamo con $D(a)$ la tangente a $M(a)$ a $S$. Indicare un'equazione di $D(a)$. b. Indichiamo di nuovo con $U$ il punto di $\mathscr{P}$ con le coordinate $(u,v)$. Discutere, come funzione di $u$ e $v$, il numero di soluzioni $a$ dell'equazione $U\in D(a)$. c. Supponiamo che l'equazione $U\in D(a)$ ammetta due soluzioni distinte $a_1$ e $a_2$. Indicare che se $UM(a_1)=UM(a_2)$, allora $u=0$. d. Supponiamo $U\in\mathscr{P}$. Ora supponiamo che esista un cerchio con il centro $U$ tangente a $S$ a due punti distinti $M$ e $N$ di $S$. Mostrare che le tangenti di $S$ a $M$ e $N$ sono simultanee, e che se indichiamo con $V$ il loro punto di intersezione allora $VM=VN$. e. Determinare l'insieme di punti $U$ non appartenenti a $S$ per i quali esiste un cerchio con centro $U$ tangente a $S$ in due punti distinti di $S$.
 
-[[Quesiti/src_cgen_2008#q01|src_cgen_2008__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_analitica,topic_geometria_piana,method_coordinate,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -95,8 +93,6 @@ level: Concours Général
 > 1. Il piano si riferisce a un quadro ortonormale $(O;\vec{i},\vec{j})$. Consideriamo un triangolo $ABC$ il cui lato non è parallelo all'asse degli ordinati $Oy$. A ogni riga $\mathscr{D}$ non parallela a $Oy$ si associano i punti $A'$, $B'$ e $C'$, intersezioni di $\mathscr{D}$ con i paralleli a $Oy$ tracciati rispettivamente attraverso $A$, $B$ e $C$. Indicare che esiste una linea unica $\mathscr{D}$ per la quale la somma $s$ delle lunghezze $AA'+BB'+CC'$ è minima e caratterizzarla.
 > 
 > 2. Indicare che esiste una linea $\mathscr{D}$ per la quale la somma $s_1$ delle distanze da $A$, $B$ e $C$ a $\mathscr{D}$ è minima. Indicare che questa riga è unica se $ABC$ non è uguale e caratterizzarla.
-
-[[Quesiti/src_cgen_2008#q02|src_cgen_2008__Q02]]
 
 
 
@@ -137,5 +133,3 @@ level: Concours Général
 > 1. Mentre raccoglie due ricevute cadute a terra, il macellaio legge: - 750 grammi di ciocche, 250 grammi di tostato. Complesso: 18 euro; - 250 g di ciocche, 500 g di rosta. Total: 17 euro. Quali possono essere i possibili prezzi per il chilo di ciocche e il chilo di rossato (un dato darà tutte le soluzioni)?
 > 
 > 2. Perché i dati relativi a tutti i ricevute del giorno non permettono in nessun caso di determinare il prezzo esatto di ciascuno dei prodotti venduti?
-
-[[Quesiti/src_cgen_2008#q03|src_cgen_2008__Q03]]

@@ -33,8 +33,6 @@ level: IMO
 
 > The equilateral triangles $ABK$, $BCL$, $CDM$, $DAN$ are constructed within the square $ABCD$. Demonstrate that the mean points of the four segments $KL$, $LM$, $MN$, $NK$ and the mean points of the eight segments $AK$, $BK$, $BL$, $CL$, $CM$, $DM$, $DN$, $AN$ are the twelve vertices of a regular dodecahedron.
 
-[[Quesiti/src_imo_1977_all#q01|src_imo_1977_all__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_invarianti"></span>
@@ -59,8 +57,6 @@ level: IMO
 
 > In a finite sequence of real numbers the sum of any seven successive terms is negative, and the sum of any eleven successive terms is positive. Determine the maximum number of terms in the sequence.
 
-[[Quesiti/src_imo_1977_all#q02|src_imo_1977_all__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_fattorizzazione"></span>
@@ -84,8 +80,6 @@ level: IMO
 *Non-unique factorization into indecomposables in V_n*
 
 > If $n$ is an integer $> 2$, and $V_n$ is the sum of the integers $1 + kn$, with $k = 1, 2, \ldots$. A $m \in V_n$ number is said to be *unbreakable* in $V_n$ if $p, q \in V_n$ numbers such as $pq = m$ do not exist. Demonstrate that there is a number $r \in V_n$ that can be expressed as the product of elements that cannot be broken down into $V_n$ in more than one way. (Products which differ only in order of factors are considered to be the same.)
-
-[[Quesiti/src_imo_1977_all#q03|src_imo_1977_all__Q03]]
 
 
 
@@ -114,8 +108,6 @@ level: IMO
 
 > Show that if $f(\theta) \geq 0$ for every real $\theta$, then $$a^2 + b^2 \leq 2 \quad \text{e} \quad A^2 + B^2 \leq 1.$$
 
-[[Quesiti/src_imo_1977_all#q04|src_imo_1977_all__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_casework,method_congruenze"></span>
@@ -139,8 +131,6 @@ level: IMO
 Find pairs (a,b) with q^2+r=1977 for a^2+b^2 over a+b*
 
 > The values of $a$ and $b$ are positive integers. When $a^2 + b^2$ is divided by $a + b$, the quotient is $q$ and the rest is $r$. Find all pairs $(a, b)$ such as $q^2 + r = 1977$.
-
-[[Quesiti/src_imo_1977_all#q05|src_imo_1977_all__Q05]]
 
 
 
@@ -169,5 +159,3 @@ Find pairs (a,b) with q^2+r=1977 for a^2+b^2 over a+b*
 *f(n+1)>f(f(n)) implies f(n) =n for all n*
 
 > Whether $f(n)$ is a function defined on the set of all positive integers and with values in the same set. Show that if $$f(n+1) > f(f(n))$$ for every positive integer $n$, then $$f(n) = n \quad \text{per ogni } n.$$
-
-[[Quesiti/src_imo_1977_all#q06|src_imo_1977_all__Q06]]

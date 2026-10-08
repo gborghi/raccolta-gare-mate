@@ -33,8 +33,6 @@ level: BMO Round 1
 
 > Trova un intero positivo la cui prima cifra è $1$ e che ha la proprietà che, se questa cifra viene trasferita alla fine del numero, il numero è triplicato.
 
-[[Quesiti/src_bmo_1989-90_round1#q01|src_bmo_1989-90_round1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_stima"></span>
@@ -59,8 +57,6 @@ level: BMO Round 1
 *Quadrato ABCD, P su AB; trovare il rapporto massimo e min PC/PD*
 
 > $ABCD$ è un quadrato e $P$ è un punto sulla linea $AB$. Trova i valori massimi e minimi del rapporto $PC/PD$, mostrando che si verificano per i punti $P$ dati da $AP \times BP = AB^2$.
-
-[[Quesiti/src_bmo_1989-90_round1#q02|src_bmo_1989-90_round1__Q02]]
 
 
 
@@ -89,8 +85,6 @@ level: BMO Round 1
 
 > Gli angoli $A$, $B$, $C$, $D$ di un quadrilaterale convexo soddisfano la relazione $$\cos A + \cos B + \cos C + \cos D = 0.$$ Prove che $ABCD$ sia un trapezio o ciclico.
 
-[[Quesiti/src_bmo_1989-90_round1#q03|src_bmo_1989-90_round1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_probabilita,method_ricorsione,method_casework,skill_modellizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -115,8 +109,6 @@ level: BMO Round 1
 *Gioco di monete pregiudiziale; trovare p per un gioco equo tra A e B*
 
 > Una moneta è biased in modo che la probabilità di ottenere una testa è $p$, $0 < p < 1$. Due giocatori $A$ e $B$ lanciano la moneta a turno fino a quando non si verifica una delle sequenze $HHH$ o $HTH$. Se la sequenza $HHH$ si verifica prima, allora $A$ vince. Se $HTH$ si verifica per primo, allora $B$ vince. Per quale valore di $p$ è il fair game (cioè in modo tale che $A$ e $B$ abbiano uguali possibilità di vincere)?
-
-[[Quesiti/src_bmo_1989-90_round1#q04|src_bmo_1989-90_round1__Q04]]
 
 
 
@@ -151,8 +143,6 @@ level: BMO Round 1
 > 
 > [Il centroide è l'intersezione delle linee da ogni vertice al punto medio del lato opposto; l'ortocentro è l'intersezione delle altitudini.]
 
-[[Quesiti/src_bmo_1989-90_round1#q05|src_bmo_1989-90_round1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
@@ -179,5 +169,3 @@ level: BMO Round 1
 *Rationale x,y soddisfare x^4+y^4=2(xy)^3; provare 1-xy è quadrato razionale*
 
 > Dimostra che se $x$, $y$ sono numeri razionali che soddisfano l'equazione $$x^4 + y^4 = 2(xy)^3,$$ allora $1 - xy$ è il quadrato di un numero razionale.
-
-[[Quesiti/src_bmo_1989-90_round1#q06|src_bmo_1989-90_round1__Q06]]

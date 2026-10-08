@@ -33,8 +33,6 @@ level: BMO Round 1
 
 > Indicare che ci sono almeno tre numeri primi $p$ inferiori a 200 per i quali $p+2$, $p+6$, $p+8$ e $p+12$ sono tutti primi. Indicare inoltre che esiste un solo numero primo $q$ per il quale $q+2$, $q+6$, $q+8$, $q+12$ e $q+14$ sono tutti numeri primi.
 
-[[Quesiti/src_bmo_2019-20_round1#q01|src_bmo_2019-20_round1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -61,8 +59,6 @@ level: BMO Round 1
 *Ricerca tutti i possibili valori di a_1 in una sequenza di numeri interi che soddisfa una ricorrenza*
 
 > Una sequenza di integri $a_1, a_2, a_3, \ldots$ soddisfa la relazione: $$4a_{n+1}^2 - 4a_n a_{n+1} + a_n^2 - 1 = 0$$ per tutti gli integri positivi $n$. Quali sono i valori possibili di $a_1$?
-
-[[Quesiti/src_bmo_2019-20_round1#q02|src_bmo_2019-20_round1__Q02]]
 
 
 
@@ -92,8 +88,6 @@ level: BMO Round 1
 > Due cerchi $S_1$ e $S_2$ sono tangenti a $P$. Un tangente comune, non attraverso $P$, tocca $S_1$ a $A$ e $S_2$ a $B$. I punti $C$ e $D$, rispettivamente su $S_1$ e $S_2$, sono al di fuori del triangolo $APB$ e sono tali che $P$ sia sulla linea $CD$.
 > 
 > Prova che $AC$ è perpendicolare a $BD$.
-
-[[Quesiti/src_bmo_2019-20_round1#q03|src_bmo_2019-20_round1__Q03]]
 
 
 
@@ -128,8 +122,6 @@ level: BMO Round 1
 > 
 > (b) Quali sono i numeri sui biglietti che i pinguini tengono proprio davanti e proprio dietro al pinguino che detiene il biglietto 33?
 
-[[Quesiti/src_bmo_2019-20_round1#q04|src_bmo_2019-20_round1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_algebra,method_invarianti,method_casework,method_congruenze,skill_modellizzazione,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_astrazione"></span>
@@ -154,8 +146,6 @@ level: BMO Round 1
 *Bambini con dolci intorno a un tavolo; trovare accordi iniziali che possano essere resi perfetti*
 
 > Sei bambini sono spaziati uniformemente attorno a un tavolo circolare. Inizialmente, uno ha un mucchio di dolci davanti a sé, mentre gli altri non hanno nulla. Se un bambino ha davanti a sé almeno quattro dolci, può fare la seguente mossa: mangiare un dolce e dare un dolce a ciascuno dei suoi vicini immediati e al bambino direttamente di fronte. Una disposizione è chiamata *perfetta* se vi è una sequenza di mosse che comporta che ogni bambino abbia davanti a sé lo stesso numero di dolci. Per quali valori di $n$ è perfetta la disposizione iniziale?
-
-[[Quesiti/src_bmo_2019-20_round1#q05|src_bmo_2019-20_round1__Q05]]
 
 
 
@@ -186,5 +176,3 @@ level: BMO Round 1
 > Una funzione $f$ si chiama *good* se assegna un valore intero $f(m,n)$ a ogni coppia ordinata di integri $(m,n)$ in modo tale che per ogni coppia di integri $(m,n)$ abbiamo: $$2f(m,n) = f(m-n, n-m) + m + n = f(m+1,n) + f(m,n+1) - 1.$$
 > 
 > Trova tutte le buone funzioni.
-
-[[Quesiti/src_bmo_2019-20_round1#q06|src_bmo_2019-20_round1__Q06]]

@@ -43,7 +43,6 @@ Cube towers: how many cubes on the fourth day?
 ![[src_bocconi_autunno_2013__q01.png]]
 
 **Answer:** 820
-[[Quesiti/src_bocconi_autunno_2013#q01|src_bocconi_autunno_2013__Q01]]
 
 
 
@@ -74,7 +73,6 @@ Cube towers: how many cubes on the fourth day?
 > Replace $A$ with a certain number (always the same) and $B$ with another number (always the same but different from the one used for $A$) so that the result is correct: $$\begin{array}{r} BA + \\ BA + \\ BA = \\ \hline 1BB \end{array}$$ What is $BA$?
 
 **Answer:** 48
-[[Quesiti/src_bocconi_autunno_2013#q02|src_bocconi_autunno_2013__Q02]]
 
 
 
@@ -106,7 +104,6 @@ Cube towers: how many cubes on the fourth day?
 > What will be the height of the water in the big box?
 
 **Answer:** 2{,}5 \text{ cm}
-[[Quesiti/src_bocconi_autunno_2013#q03|src_bocconi_autunno_2013__Q03]]
 
 
 
@@ -137,8 +134,6 @@ Cube towers: how many cubes on the fourth day?
 
 ![[src_bocconi_autunno_2013__q04.png]]
 
-[[Quesiti/src_bocconi_autunno_2013#q04|src_bocconi_autunno_2013__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_logica,method_casework,method_invarianti,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
@@ -167,8 +162,6 @@ Cube towers: how many cubes on the fourth day?
 > Place the integers from 2 to 6 in the empty disks so that the difference between the numbers of two adjacent disks (the larger minus the smaller) is always equal to 1 or 2.
 
 ![[src_bocconi_autunno_2013__q05.png]]
-
-[[Quesiti/src_bocconi_autunno_2013#q05|src_bocconi_autunno_2013__Q05]]
 
 
 
@@ -201,7 +194,6 @@ Cube towers: how many cubes on the fourth day?
 > In what year, instead, will the sum of the year's figures be equal to one third of Matthew's age?
 
 **Answer:** 2024
-[[Quesiti/src_bocconi_autunno_2013#q06|src_bocconi_autunno_2013__Q06]]
 
 
 
@@ -234,7 +226,6 @@ Cube towers: how many cubes on the fourth day?
 > In this sentence, you can count... Letters e.
 
 **Answer:** dieci
-[[Quesiti/src_bocconi_autunno_2013#q07|src_bocconi_autunno_2013__Q07]]
 
 
 
@@ -264,8 +255,6 @@ Cube towers: how many cubes on the fourth day?
 > Place the integers from 4 to 10 in the empty cells of the triangle so that the sum of the three or four numbers on the same segment is always equal to 20.
 
 ![[src_bocconi_autunno_2013__q08.png]]
-
-[[Quesiti/src_bocconi_autunno_2013#q08|src_bocconi_autunno_2013__Q08]]
 
 
 
@@ -298,7 +287,6 @@ Cube towers: how many cubes on the fourth day?
 > How many times in a day (from 00h and 00 minutes to 23h and 59 minutes) does Angelo's wake up display four consecutive digits?
 
 **Answer:** 30
-[[Quesiti/src_bocconi_autunno_2013#q09|src_bocconi_autunno_2013__Q09]]
 
 
 
@@ -330,7 +318,6 @@ Cube towers: how many cubes on the fourth day?
 > What was the score on your fourth assignment?
 
 **Answer:** 15
-[[Quesiti/src_bocconi_autunno_2013#q10|src_bocconi_autunno_2013__Q10]]
 
 
 
@@ -360,8 +347,6 @@ Cube towers: how many cubes on the fourth day?
 > Place the integers 1 to 8 in the seven empty boxes in the figure so that the sum of the numbers at the vertices of the same grey triangle is always equal to 14.
 
 ![[src_bocconi_autunno_2013__q11.png]]
-
-[[Quesiti/src_bocconi_autunno_2013#q11|src_bocconi_autunno_2013__Q11]]
 
 
 
@@ -406,7 +391,6 @@ Cube towers: how many cubes on the fourth day?
 ![[src_bocconi_autunno_2013__q12.png]]
 
 **Answer:** 28 \text{ m} \times 44 \text{ m}
-[[Quesiti/src_bocconi_autunno_2013#q12|src_bocconi_autunno_2013__Q12]]
 
 
 
@@ -443,7 +427,6 @@ Cube towers: how many cubes on the fourth day?
 ![[src_bocconi_autunno_2013__q13.png]]
 
 **Answer:** 16 \text{ cm}
-[[Quesiti/src_bocconi_autunno_2013#q13|src_bocconi_autunno_2013__Q13]]
 
 
 
@@ -480,7 +463,6 @@ How many white squares in the Milena tablecloth at Fig. 4?*
 ![[src_bocconi_autunno_2013__q14.png]]
 
 **Answer:** 2465
-[[Quesiti/src_bocconi_autunno_2013#q14|src_bocconi_autunno_2013__Q14]]
 
 
 
@@ -509,7 +491,6 @@ How many white squares in the Milena tablecloth at Fig. 4?*
 > What is the unit number of the number $1^2 + 2^3 + 3^4 + \ldots + 2012^{2013} + 2013^{2014}$?
 
 **Answer:** 5
-[[Quesiti/src_bocconi_autunno_2013#q15|src_bocconi_autunno_2013__Q15]]
 
 
 
@@ -546,7 +527,6 @@ The probability that Desiderio and Nando sit side by side.
 > N.B.: Desiderio and Nando are supposed to be sitting on either side of the other, even though they were separated by the central hallway.
 
 **Answer:** \dfrac{1}{3}
-[[Quesiti/src_bocconi_autunno_2013#q16|src_bocconi_autunno_2013__Q16]]
 
 
 
@@ -579,7 +559,6 @@ The probability that Desiderio and Nando sit side by side.
 > What number will be the 2014th?
 
 **Answer:** 3546120
-[[Quesiti/src_bocconi_autunno_2013#q17|src_bocconi_autunno_2013__Q17]]
 
 
 
@@ -610,4 +589,3 @@ The probability that Desiderio and Nando sit side by side.
 > What is the value of the expression: $$\sqrt{30 + \sqrt{30 + \sqrt{30 + \sqrt{30 + \cdots}}}}$$ where the number of roots is infinite and the numbers written are equal to 30?
 
 **Answer:** 6
-[[Quesiti/src_bocconi_autunno_2013#q18|src_bocconi_autunno_2013__Q18]]

@@ -35,7 +35,6 @@ level: kangourou
 > For which pairs $(x, y)$ of relative integers is it true that $|x^2 - 3y^2 + 2xy| = 1$?
 
 **Answer:** (1,0),(-1,0)
-[[Quesiti/src_kangourou_2004_student_finale#qs1|src_kangourou_2004_student_finale__QS1]]
 
 
 
@@ -113,7 +112,6 @@ level: kangourou
 > A circumference $\beta$ with a radius of $\sqrt{2}$ centimetres and a circumference $\gamma$ with a radius of $2$ centimetres and a centre $C$ belonging to $\beta$ are given in the plane. Calculate the area of the region internal to $\beta$ and external to $\gamma$.
 
 **Answer:** 2
-[[Quesiti/src_kangourou_2004_student_finale#qs2|src_kangourou_2004_student_finale__QS2]]
 
 
 
@@ -152,7 +150,6 @@ level: kangourou
 > How many tiles can the chessboard hold at most? (see figure)
 
 **Answer:** 8
-[[Quesiti/src_kangourou_2004_student_finale#qs3|src_kangourou_2004_student_finale__QS3]]
 
 
 
@@ -181,7 +178,6 @@ level: kangourou
 > A calculator executes the following instructions: (1) initialize $X$ to $3$ and $S$ to $0$, (2) increase the value of $X$ by $2$, (3) increase the value of $S$ by the value of $X$, (4) if $S$ has at least $5$ digits go to the instruction (5) otherwise go to the instruction (2) and start from that position, (5) print the value of $X$ and finish. What will be the value of $X$ to be printed in step (5)?
 
 **Answer:** 10200
-[[Quesiti/src_kangourou_2004_student_finale#qs4|src_kangourou_2004_student_finale__QS4]]
 
 
 
@@ -210,7 +206,6 @@ level: kangourou
 > Suppose you know that (for $n = 1, 2, \ldots$) $a_n$ is the square of a nonzero integer and the difference $a_{n+1} - a_n$ is a prime (positive) or the square of a prime. Show that all possible sequences $\{a_n\}$ that meet these requirements are finite and determines the longest.
 
 **Answer:** length 7
-[[Quesiti/src_kangourou_2004_student_finale#qs5|src_kangourou_2004_student_finale__QS5]]
 
 
 
@@ -238,5 +233,4 @@ level: kangourou
 
 > Consider a point $P$ inside a regular tetrahedron with side $1$. Show that the sum of the distances from $P$ to the six edges of the tetrahedron is not less than $\dfrac{2\sqrt{2}}{3}$ and identify any points $P$ at which this sum is exactly $\dfrac{2\sqrt{2}}{3}$.
 
-**Answer:** 3sqrt2/2 baricentro
-[[Quesiti/src_kangourou_2004_student_finale#qs6|src_kangourou_2004_student_finale__QS6]]
+**Answer:** 3sqrt2/2 centroid

@@ -32,8 +32,6 @@ level: nazionale
 
 > Determine all the positive integers of three digits that are equal to 34 times the sum of their digits.
 
-[[Quesiti/src_archimede_2002_individuale#q01|src_archimede_2002_individuale__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
@@ -72,7 +70,6 @@ level: nazionale
 > (see figure)
 
 **Answer:** 2750/3 m^3
-[[Quesiti/src_archimede_2002_individuale#q02|src_archimede_2002_individuale__Q02]]
 
 
 
@@ -106,8 +103,6 @@ level: nazionale
 > 
 > (see figure)
 
-[[Quesiti/src_archimede_2002_individuale#q03|src_archimede_2002_individuale__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
@@ -135,7 +130,6 @@ level: nazionale
 > Determine for which values of $n$ all solutions to the equation $X^3 - 3X + n = 0$ are integers.
 
 **Answer:** n=2 e n=-2
-[[Quesiti/src_archimede_2002_individuale#q04|src_archimede_2002_individuale__Q04]]
 
 
 
@@ -161,8 +155,6 @@ level: nazionale
 *divide expression into three parts, k multiple of 3*
 
 > Whether $m = 5^n + 3^n + 1$, where $n$ is a natural number. Show that if $m$ is prime then $n$ is multiple 12.
-
-[[Quesiti/src_archimede_2002_individuale#q05|src_archimede_2002_individuale__Q05]]
 
 
 
@@ -204,5 +196,3 @@ level: nazionale
 > Can you color some boxes so that an odd number of them have exactly 2 colored adjacent boxes and all other colored boxes have exactly 4 colored adjacent boxes?
 > 
 > **Note:** Two boxes are considered adjacent if they have one side in common.
-
-[[Quesiti/src_archimede_2002_individuale#q06|src_archimede_2002_individuale__Q06]]

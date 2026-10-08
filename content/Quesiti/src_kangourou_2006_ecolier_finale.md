@@ -34,7 +34,6 @@ level: kangourou
 > *(5 points)* What is the multiple of 11 closest to 1000?
 
 **Answer:** 1001
-[[Quesiti/src_kangourou_2006_ecolier_finale#qe1|src_kangourou_2006_ecolier_finale__QE1]]
 
 
 
@@ -62,7 +61,6 @@ level: kangourou
 > *(7 points) * The letters of the word "MELA" are all distinct from each other. Match each letter of this word with a digit so that the word "MELA" represents the smallest number of four digits all distinct from each other. While maintaining this choice of digits, what number is represented by the word "MALE"?
 
 **Answer:** 1320
-[[Quesiti/src_kangourou_2006_ecolier_finale#qe2|src_kangourou_2006_ecolier_finale__QE2]]
 
 
 
@@ -102,7 +100,6 @@ level: kangourou
 > Draw here under the inscription that you'd see looking at the window from inside the store. (see figure)
 
 **Answer:** mirror image
-[[Quesiti/src_kangourou_2006_ecolier_finale#qe3|src_kangourou_2006_ecolier_finale__QE3]]
 
 
 
@@ -130,7 +127,6 @@ Claim that the truthful and the liar can say
 > Arturo always tells the truth, while Bernardo always lies. Find a statement that both of them can make.
 
 **Answer:** I am telling the truth
-[[Quesiti/src_kangourou_2006_ecolier_finale#qe4|src_kangourou_2006_ecolier_finale__QE4]]
 
 
 
@@ -159,7 +155,6 @@ Claim that the truthful and the liar can say
 > *(18 points)* How many 3-digit numbers are there (significant, that is, whose first digit is not 0), such that any 2 of them taken together do not differ by less than 4?
 
 **Answer:** 18
-[[Quesiti/src_kangourou_2006_ecolier_finale#qe5|src_kangourou_2006_ecolier_finale__QE5]]
 
 
 
@@ -191,4 +186,3 @@ Claim that the truthful and the liar can say
 > You can have, in any quantity you want, three different sizes of square bricks: their sides are 1, 2 or 3 decimeter long. By placing them side by side, without overlapping them and without leaving any uncovered areas, you can build a square whose side measures 7 decimetres. What is the smallest number of bricks you need to place side by side and how they should be distributed between the different sizes? Use the grid to draw the figure that realises the solution you found and explain why you don't think a smaller number of bricks is enough. (You can also use the grid for any other drawings that may serve the purpose.)
 
 **Answer:** 12
-[[Quesiti/src_kangourou_2006_ecolier_finale#qe6|src_kangourou_2006_ecolier_finale__QE6]]

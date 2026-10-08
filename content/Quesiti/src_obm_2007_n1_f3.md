@@ -49,8 +49,6 @@ level: OBM Nível 1
 
 ![[src_obm_2007_n1_f3__q01.png]]
 
-[[Quesiti/src_obm_2007_n1_f3#q01|src_obm_2007_n1_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,skill_modellizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -83,8 +81,6 @@ level: OBM Nível 1
 > Sapendo che l'area del tappeto B è doppia dell'area del tappeto A, calcolare l'area (in $\text{m}^2$) della parte del pavimento che è diventata scoperta dopo che il tappeto B è stato spostato.
 
 ![[src_obm_2007_n1_f3__q02.png]]
-
-[[Quesiti/src_obm_2007_n1_f3#q02|src_obm_2007_n1_f3__Q02]]
 
 
 
@@ -138,8 +134,6 @@ level: OBM Nível 1
 > b) Ora desiderano scoprire i numeri scritti sulle carte. In primo luogo, Arnaldo solleva la carta più sinistra e dice di non poter determinare i numeri delle altre due carte dalle informazioni disponibili. E Bernaldo solleva la carta più a destra e dice che non riesce a scoprire i numeri delle altre due carte. Lo stesso accade con Cernaldo, che solleva la carta centrale e dice di non poter trovare i numeri delle altre due carte.
 > 
 > Sapendo che tutti e tre sentono quello che gli altri dicono, ma non vedono la carta che l'altra persona sta guardando, quale numero è scritto sulla carta centrale?
-
-[[Quesiti/src_obm_2007_n1_f3#q03|src_obm_2007_n1_f3__Q03]]
 
 
 
@@ -198,8 +192,6 @@ level: OBM Nível 1
 > 
 > **Nota: ** Se non è possibile costruire una tabella, è necessario spiegare il motivo.
 
-[[Quesiti/src_obm_2007_n1_f3#q04|src_obm_2007_n1_f3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_conteggio,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_stima"></span>
@@ -224,5 +216,3 @@ level: OBM Nível 1
 *Summa digitali di 9 volte il prodotto di cinque e due numeri di repunito del 2007*
 
 > Let $A = \underbrace{555\!\cdots\!5}_{2007 \text{ fives}} \times \underbrace{222\!\cdots\!2}_{2007 \text{ twos}}$. Calcolare la somma delle cifre di $9 \times A$. Non dimenticate di giustificare la vostra risposta.
-
-[[Quesiti/src_obm_2007_n1_f3#q05|src_obm_2007_n1_f3__Q05]]

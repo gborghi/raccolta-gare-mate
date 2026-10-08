@@ -40,8 +40,6 @@ level: IMO
 > (i) ciascun Ai contiene 17 elementi;
 > (ii) la somma di tutti gli elementi in ciascun Ai è la stessa.
 
-[[Quesiti/src_imo_1989#q01|src_imo_1989__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze,method_simmetria,skill_ragionamento_geometrico"></span>
@@ -78,8 +76,6 @@ level: IMO
 > (i) L’area del triangolo A₀B₀C₀ è il doppio dell’area dell’esagono AC₁BA₁CB₁.
 >
 > (ii) L’area del triangolo A₀B₀C₀ è almeno quattro volte l’area del triangolo ABC.
-
-[[Quesiti/src_imo_1989#q02|src_imo_1989__Q02]]
 
 
 
@@ -133,8 +129,6 @@ level: IMO
 > Braunschweig, Germania
 > Giorno II
 
-[[Quesiti/src_imo_1989#q03|src_imo_1989__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze"></span>
@@ -187,8 +181,6 @@ level: IMO
 > BC
 > .
 
-[[Quesiti/src_imo_1989#q04|src_imo_1989__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze"></span>
@@ -214,8 +206,6 @@ level: IMO
 
 > Si dimostri che per ogni intero positivo n esistono n interi positivi consecutivi
 > nessuno dei quali è una potenza (con esponente intero) di un numero primo.
-
-[[Quesiti/src_imo_1989#q05|src_imo_1989__Q05]]
 
 
 
@@ -246,5 +236,3 @@ level: IMO
 > positivo, si dice che ha la proprietà P se |xi −xi+1| = n per almeno un i in
 > {1, 2, . . . , 2n −1}. Si dimostri che, per ogni n, le permutazioni con la
 > proprietà P sono più di quelle senza.
-
-[[Quesiti/src_imo_1989#q06|src_imo_1989__Q06]]

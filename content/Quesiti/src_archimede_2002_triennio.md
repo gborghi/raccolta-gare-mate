@@ -46,8 +46,6 @@ level: triennio
 > - **(D)** 4
 > - **(E)** 9.
 
-[[Quesiti/src_archimede_2002_triennio#q01|src_archimede_2002_triennio__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
@@ -85,8 +83,6 @@ level: triennio
 > - **(D)** 50%
 > - **(E)** 60%.
 
-[[Quesiti/src_archimede_2002_triennio#q02|src_archimede_2002_triennio__Q02]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,skill_riconoscimento_pattern"></span>
@@ -122,8 +118,6 @@ level: triennio
 > - **(C)** √0, 49
 > - **(D)** 1000,5
 > - **(E)** 10000,1.
-
-[[Quesiti/src_archimede_2002_triennio#q08|src_archimede_2002_triennio__Q08]]
 
 
 
@@ -164,8 +158,6 @@ level: triennio
 > - **(C)** 220 cm3
 > - **(D)** 300 cm3
 > - **(E)** the data provided are insufficient.
-
-[[Quesiti/src_archimede_2002_triennio#q09|src_archimede_2002_triennio__Q09]]
 
 
 
@@ -208,8 +200,6 @@ level: triennio
 > - **(D)** 301
 > - **(E)** 574.
 
-[[Quesiti/src_archimede_2002_triennio#q10|src_archimede_2002_triennio__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
@@ -250,8 +240,6 @@ level: triennio
 > - **(D)** Never
 > - **(E)** I always do.
 
-[[Quesiti/src_archimede_2002_triennio#q11|src_archimede_2002_triennio__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_probabilita,method_doppio_conteggio,skill_conteggio_sistematico"></span>
@@ -288,8 +276,6 @@ level: triennio
 > - **(C)** 5 12
 > - **(D)** 1 2
 > - **(E)** 7 12.
-
-[[Quesiti/src_archimede_2002_triennio#q12|src_archimede_2002_triennio__Q12]]
 
 
 
@@ -360,8 +346,6 @@ level: triennio
 > - **(D)** √ 3 + π 6
 > - **(E)** 3 √ 3 −π.
 
-[[Quesiti/src_archimede_2002_triennio#q13|src_archimede_2002_triennio__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_probabilita,method_casework,skill_modellizzazione"></span>
@@ -399,8 +383,6 @@ level: triennio
 > - **(C)** 33,33%
 > - **(D)** 35%
 > - **(E)** 50%.
-
-[[Quesiti/src_archimede_2002_triennio#q14|src_archimede_2002_triennio__Q14]]
 
 
 
@@ -440,8 +422,6 @@ level: triennio
 > - **(C)** a 60 km/h
 > - **(D)** He can 't do it .
 > - **(E)** depending on the length of the road.
-
-[[Quesiti/src_archimede_2002_triennio#q15|src_archimede_2002_triennio__Q15]]
 
 
 
@@ -484,8 +464,6 @@ level: triennio
 > - **(D)** three
 > - **(E)** Four of them.
 
-[[Quesiti/src_archimede_2002_triennio#q16|src_archimede_2002_triennio__Q16]]
-
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_funzionali,topic_algebra,method_casework,skill_riconoscimento_pattern"></span>
@@ -525,8 +503,6 @@ level: triennio
 > - **(D)** 3; 6; 48
 > - **(E)** 3; 5; 9.
 
-[[Quesiti/src_archimede_2002_triennio#q18|src_archimede_2002_triennio__Q18]]
-
 
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_aritmetica,method_fattorizzazione,skill_riconoscimento_pattern"></span>
@@ -563,8 +539,6 @@ level: triennio
 > - **(C)** 170
 > - **(D)** 180
 > - **(E)** 190.
-
-[[Quesiti/src_archimede_2002_triennio#q20|src_archimede_2002_triennio__Q20]]
 
 
 
@@ -608,8 +582,6 @@ level: triennio
 > - **(D)** 700
 > - **(E)** 825.
 
-[[Quesiti/src_archimede_2002_triennio#q22|src_archimede_2002_triennio__Q22]]
-
 
 
 <span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_logica,method_casework,skill_casework_accurato"></span>
@@ -652,8 +624,6 @@ level: triennio
 > - **(D)** 4
 > - **(E)** There's no way to deduce that.
 
-[[Quesiti/src_archimede_2002_triennio#q23|src_archimede_2002_triennio__Q23]]
-
 
 
 <span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_geometria_solida,skill_astrazione"></span>
@@ -692,8 +662,6 @@ level: triennio
 > - **(D)** only tetrahedra with a height of 6 √ 3
 > - **(E)** Only if the tetrahedron is straight.
 
-[[Quesiti/src_archimede_2002_triennio#q24|src_archimede_2002_triennio__Q24]]
-
 
 
 <span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_aritmetica,method_congruenze,skill_conteggio_sistematico"></span>
@@ -731,5 +699,3 @@ level: triennio
 > - **(C)** 87 cents
 > - **(D)** There are arbitrarily large figures that are not exactly payable
 > - **(E)** None of the above answers are correct.
-
-[[Quesiti/src_archimede_2002_triennio#q25|src_archimede_2002_triennio__Q25]]

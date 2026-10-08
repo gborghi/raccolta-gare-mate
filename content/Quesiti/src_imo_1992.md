@@ -36,8 +36,6 @@ level: IMO
 > (a −1)(b −1)(c −1)
 > sia un divisore di abc −1.
 
-[[Quesiti/src_imo_1992#q01|src_imo_1992__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_funzionali,skill_astrazione"></span>
@@ -75,8 +73,6 @@ f(x² + f(y)) = y + f(x)²*
 > ´
 > = y + (f(x))²
 > per ogni x, y ∈ R.
-
-[[Quesiti/src_imo_1992#q02|src_imo_1992__Q02]]
 
 
 
@@ -120,8 +116,6 @@ f(x² + f(y)) = y + f(x)²*
 > Tempo: 41
 > 2 ore
 
-[[Quesiti/src_imo_1992#q03|src_imo_1992__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
@@ -146,8 +140,6 @@ f(x² + f(y)) = y + f(x)²*
 Find the locus of P with incircle tangent and midpoint condition
 
 > In the plane $C$ a circle, $l$ a straight tangent to the circle $C$, and $M$ a point on $l$. Find the geometric location of all $P$ points with the following property: there are two points $Q$, $R$ on $l$ such that $M$ is the middle point of $QR$ and $C$ is the circle inscribed in the $PQR$ triangle.
-
-[[Quesiti/src_imo_1992#q04|src_imo_1992__Q04]]
 
 
 
@@ -174,8 +166,6 @@ Find the locus of P with incircle tangent and midpoint condition
 Bound point-set size by product of projection sizes
 
 > Whether $S$ a finite set of points in three-dimensional space. The sets consisting of the orthogonal projections of the points of $S$ on the plane $yz$, $xz$ and $xy$ are $S_x$, $S_y$, $S_z$ respectively. Show that $$|S|^2 \le |S_x| \cdot |S_y| \cdot |S_z|$$ where $|A|$ denotes the number of elements of the finite set $A$.
-
-[[Quesiti/src_imo_1992#q05|src_imo_1992__Q05]]
 
 
 
@@ -208,5 +198,3 @@ Bound point-set size by product of projection sizes
 > (a) Demonstrate that $S(n) \le n^2 - 14$ for each $n \ge 4$.
 > 
 > (b) Find a specific value of $n$ for which $S(n) = n^2 - 14$.
-
-[[Quesiti/src_imo_1992#q06|src_imo_1992__Q06]]

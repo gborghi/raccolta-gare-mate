@@ -34,8 +34,6 @@ level: JJMO Honsen
 
 > Che $a, b, c, d$ siano valori reali positivi che soddisfino $\dfrac{ab}{cd} = \dfrac{a+b}{c+d}$. Provare che $$( a+b)(c+d) \ge (a+c)(b+d).$$
 
-[[Quesiti/src_jjmo22hq_honsen#q01|src_jjmo22hq_honsen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -60,8 +58,6 @@ level: JJMO Honsen
 *Il riflesso del punto medio sulla linea DN si trova all'interno del triangolo, AM' perp BC*
 
 > Nel triangolo $ABC$ con $AB < AC$, $M$ sia il punto medio del lato $BC$. Il $N$ deve essere il punto medio dell'arco $BC$ non contenente $A$ sul circoncircolo del triangolo $ABC$. Il $D$ deve essere l'intersezione del bisettore angolare di $\angle BAC$ con il lato $BC$. Il $M'$ deve essere il riflesso di $M$ sulla linea $DN$. Prova che $M'$ si trova all'interno del triangolo $ABC$ (non al suo confine) e che la linea $AM'$ è perpendicolare alla linea $BC$. Qui $XY$ indica la lunghezza del segmento $XY$.
-
-[[Quesiti/src_jjmo22hq_honsen#q02|src_jjmo22hq_honsen__Q02]]
 
 
 
@@ -89,8 +85,6 @@ level: JJMO Honsen
 
 > Trova tutti gli integri positivi $n$, $x$, $y$, $z$ e i numeri primi $p$ in modo tale che $$(x^2 + y^2)(y^2 + z^2)(z^2 + x^2) = p^n.$$
 
-[[Quesiti/src_jjmo22hq_honsen#q03|src_jjmo22hq_honsen__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_casework,method_estremalita,method_invarianti,method_colorazione,skill_conteggio_sistematico,skill_modellizzazione,skill_ragionamento_geometrico,skill_casework_accurato"></span>
@@ -116,8 +110,6 @@ level: JJMO Honsen
 
 > È data una griglia $2024 \times 2024$. Ogni cellula è di colore rosso, blu o bianco, e ogni cellula riceve esattamente un colore. La colorazione soddisfa la seguente condizione: ogni cellula rossa ha esattamente $1$ cellula rossa tra i suoi vicini (al massimo $4$) che condividono un lato; e per ogni quadrato di cellule $2 \times 2$, il numero di cellule blu che contiene è $1$ o $2$. Trova il massimo numero possibile di cellule bianche.
 
-[[Quesiti/src_jjmo22hq_honsen#q04|src_jjmo22hq_honsen__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -142,5 +134,3 @@ level: JJMO Honsen
 *Ssimilità dei triangoli B'C'D' e BCD nel triangolo acuto*
 
 > Nel triangolo acuto $ABC$, $D$ deve essere il punto laterale $BC$ che soddisfa $AB : AC = DB : BC$. Che $B'$ sia il riflesso di $B$ sulla linea $AC$, che $C'$ sia il riflesso di $C$ sulla linea $AB$, e che $D'$ sia il riflesso di $D$ sul bisettore perpendicolare di $BC$. Prova che il triangolo $B'C'D'$ è simile al triangolo $BCD$. Qui $XY$ indica la lunghezza del segmento $XY$.
-
-[[Quesiti/src_jjmo22hq_honsen#q05|src_jjmo22hq_honsen__Q05]]

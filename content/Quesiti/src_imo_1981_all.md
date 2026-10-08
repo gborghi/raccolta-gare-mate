@@ -34,8 +34,6 @@ level: IMO
 
 > Whether $P$ is an interior point of the $ABC$ triangle. The feet of the perpendiculars led by $P$ to the lines $BC$, $CA$ and $AB$ shall be $D$, $E$, $F$ respectively. Find all $P$ points for which $$\frac{BC}{PD} + \frac{CA}{PE} + \frac{AB}{PF}$$ is minimum.
 
-[[Quesiti/src_imo_1981_all#q01|src_imo_1981_all__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_doppio_conteggio"></span>
@@ -61,8 +59,6 @@ level: IMO
 
 > They are $1 \leq r \leq n$ and all $r$ subset elements of the $\{1, 2, \ldots, n\}$ set are considered. Each of these sub-sets has a minimum element. Whether $F(n, r)$ the arithmetic mean of these minimum elements; prove that $$F(n, r) = \frac{n+1}{r+1}.$$
 
-[[Quesiti/src_imo_1981_all#q02|src_imo_1981_all__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_fattorizzazione,method_ricorsione"></span>
@@ -86,8 +82,6 @@ level: IMO
 Max m^3+n^3 with (n^2-mn-m^2)^2=1 up to 1981
 
 > Determine the maximum value of $m^3 + n^3$, where $m$ and $n$ are integers with $m, n \in \{1, 2, \ldots, 1981\}$ and $(n^2 - mn - m^2)^2 = 1$.
-
-[[Quesiti/src_imo_1981_all#q03|src_imo_1981_all__Q03]]
 
 
 
@@ -117,8 +111,6 @@ Max m^3+n^3 with (n^2-mn-m^2)^2=1 up to 1981
 > 
 > (b) For which values of $n > 2$ exactly does a set with the property described exist?
 
-[[Quesiti/src_imo_1981_all#q04|src_imo_1981_all__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
@@ -143,8 +135,6 @@ Max m^3+n^3 with (n^2-mn-m^2)^2=1 up to 1981
 *incenter, circumcenter, or hill*
 
 > Three congruent circles have a common point $O$ and are contained in a given triangle. Each circle is tangent to a pair of triangle sides. Demonstrate that the center, circumcenter of the triangle and the point $O$ are collinear.
-
-[[Quesiti/src_imo_1981_all#q05|src_imo_1981_all__Q05]]
 
 
 
@@ -186,5 +176,3 @@ Max m^3+n^3 with (n^2-mn-m^2)^2=1 up to 1981
 > (3) $f(x+1, y+1) = f(x, f(x+1, y))$,
 > 
 > for all non-negative integers $x$, $y$. Determine $f(4, 1981)$.
-
-[[Quesiti/src_imo_1981_all#q06|src_imo_1981_all__Q06]]

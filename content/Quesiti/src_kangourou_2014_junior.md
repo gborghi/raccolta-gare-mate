@@ -49,8 +49,6 @@ level: kangourou
 > 	
 > D) 160 E) 600
 
-[[Quesiti/src_kangourou_2014_junior#q01|src_kangourou_2014_junior__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_simmetria,skill_stima"></span>
@@ -89,8 +87,6 @@ level: kangourou
 > B) 10,5 C) 14
 > 	
 > D) 17.5 E) The answer depends on the length of the third side.
-
-[[Quesiti/src_kangourou_2014_junior#q02|src_kangourou_2014_junior__Q02]]
 
 
 
@@ -139,8 +135,6 @@ level: kangourou
 > 	
 > E) c < b < a
 
-[[Quesiti/src_kangourou_2014_junior#q03|src_kangourou_2014_junior__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,skill_manipolazione_algebrica"></span>
@@ -182,8 +176,6 @@ level: kangourou
 > D) 	
 > 	
 > E)
-
-[[Quesiti/src_kangourou_2014_junior#q04|src_kangourou_2014_junior__Q04]]
 
 
 
@@ -247,8 +239,6 @@ How many years ago did the last figure exceed the sum of the others?
 > E) 11 2---- 3 4---- 5 11 ------ 15 7---- 8 7 ----- 11 6 ------ 15 5---- 8
 >
 
-[[Quesiti/src_kangourou_2014_junior#q05|src_kangourou_2014_junior__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -299,7 +289,6 @@ How many years ago did the last figure exceed the sum of the others?
 > E) 8
 
 **Answer:** A
-[[Quesiti/src_kangourou_2014_junior#q06|src_kangourou_2014_junior__Q06]]
 
 
 
@@ -352,7 +341,6 @@ How many years ago did the last figure exceed the sum of the others?
 > E) Someone has solved more than 20 problems.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2014_junior#q07|src_kangourou_2014_junior__Q07]]
 
 
 
@@ -389,7 +377,6 @@ How many years ago did the last figure exceed the sum of the others?
 > Referred to an ordinary system of orthogonal Cartesian axes, the position of a square is such that one of its diagonals lies on the x-axis. The coordinates of the two vertices on this axis are given by the pairs (–1,0) and (5,0). Which of the following pairs gives the coordinates of one of the remaining vertices? A) (2, 0) B) (2, 3) C) (2, – 6) D) (3, 5) E) (3, – 1)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2014_junior#q08|src_kangourou_2014_junior__Q08]]
 
 
 
@@ -425,7 +412,6 @@ How many years ago did the last figure exceed the sum of the others?
 > In one village the ratio of the number of adult males to the number of adult females is 2:3, while the ratio of the number of adult females to the number of young people is 8:1. What is the ratio between the number of adults (men and women) and the number of young people? A) 5:1 B) 10:3 C) 13:1 D) 12:1 E) 40:3
 
 **Answer:** E
-[[Quesiti/src_kangourou_2014_junior#q09|src_kangourou_2014_junior__Q09]]
 
 
 
@@ -476,7 +462,6 @@ How many years ago did the last figure exceed the sum of the others?
 > Questions from n. 11 to n. 20 are worth 4 points each.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2014_junior#q10|src_kangourou_2014_junior__Q10]]
 
 
 
@@ -520,7 +505,6 @@ How many years ago did the last figure exceed the sum of the others?
 > D) 6 E) The project cannot be carried out.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2014_junior#q11|src_kangourou_2014_junior__Q11]]
 
 
 
@@ -574,7 +558,6 @@ How many years ago did the last figure exceed the sum of the others?
 > E) 160×100
 
 **Answer:** C
-[[Quesiti/src_kangourou_2014_junior#q12|src_kangourou_2014_junior__Q12]]
 
 
 
@@ -645,7 +628,6 @@ How many years ago did the last figure exceed the sum of the others?
 > E) 14
 
 **Answer:** D
-[[Quesiti/src_kangourou_2014_junior#q13|src_kangourou_2014_junior__Q13]]
 
 
 
@@ -680,7 +662,6 @@ How many years ago did the last figure exceed the sum of the others?
 > A crocodile's tail is one-third of its total length. The head is 93 cm long, exactly a quarter of the crocodile's length if you don't count the tail. How long is the crocodile, including head and tail? A) 558 B) 496 C) 490 D) 372 E) 186
 
 **Answer:** A
-[[Quesiti/src_kangourou_2014_junior#q14|src_kangourou_2014_junior__Q14]]
 
 
 
@@ -732,7 +713,6 @@ How many years ago did the last figure exceed the sum of the others?
 > E) 23
 
 **Answer:** E
-[[Quesiti/src_kangourou_2014_junior#q15|src_kangourou_2014_junior__Q15]]
 
 
 
@@ -783,7 +763,6 @@ How many years ago did the last figure exceed the sum of the others?
 >
 
 **Answer:** E
-[[Quesiti/src_kangourou_2014_junior#q16|src_kangourou_2014_junior__Q16]]
 
 
 
@@ -830,7 +809,6 @@ How many years ago did the last figure exceed the sum of the others?
 > E) 5
 
 **Answer:** E
-[[Quesiti/src_kangourou_2014_junior#q17|src_kangourou_2014_junior__Q17]]
 
 
 
@@ -878,7 +856,6 @@ How many years ago did the last figure exceed the sum of the others?
 > E) 15
 
 **Answer:** C
-[[Quesiti/src_kangourou_2014_junior#q18|src_kangourou_2014_junior__Q18]]
 
 
 
@@ -928,7 +905,6 @@ How many years ago did the last figure exceed the sum of the others?
 > E) 112
 
 **Answer:** D
-[[Quesiti/src_kangourou_2014_junior#q19|src_kangourou_2014_junior__Q19]]
 
 
 
@@ -977,7 +953,6 @@ How many years ago did the last figure exceed the sum of the others?
 > Questions from no. 21 to no. 30 are worth 5 points each
 
 **Answer:** C
-[[Quesiti/src_kangourou_2014_junior#q20|src_kangourou_2014_junior__Q20]]
 
 
 
@@ -1028,7 +1003,6 @@ How many years ago did the last figure exceed the sum of the others?
 > E) 60
 
 **Answer:** D
-[[Quesiti/src_kangourou_2014_junior#q21|src_kangourou_2014_junior__Q21]]
 
 
 
@@ -1091,7 +1065,6 @@ How many years ago did the last figure exceed the sum of the others?
 >
 
 **Answer:** D
-[[Quesiti/src_kangourou_2014_junior#q22|src_kangourou_2014_junior__Q22]]
 
 
 
@@ -1144,7 +1117,6 @@ How many years ago did the last figure exceed the sum of the others?
 > E) 10
 
 **Answer:** D
-[[Quesiti/src_kangourou_2014_junior#q23|src_kangourou_2014_junior__Q23]]
 
 
 
@@ -1182,7 +1154,6 @@ How many years ago did the last figure exceed the sum of the others?
 > On an island there are only green frogs and blue frogs. Compared to a year ago, the number of blue frogs increased by 60% while the number of green frogs decreased by 60%. Today, the ratio of blue frog numbers to green frog numbers is the same as it was a year ago between green frog numbers and blue frog numbers. What percentage of the total number of frogs on the island has varied from one year ago? A) 0% B) 20% C) 30% D) 40% E) 50%
 
 **Answer:** B
-[[Quesiti/src_kangourou_2014_junior#q24|src_kangourou_2014_junior__Q24]]
 
 
 
@@ -1230,7 +1201,6 @@ How many years ago did the last figure exceed the sum of the others?
 > E) 90
 
 **Answer:** C
-[[Quesiti/src_kangourou_2014_junior#q25|src_kangourou_2014_junior__Q25]]
 
 
 
@@ -1277,7 +1247,6 @@ How many years ago did the last figure exceed the sum of the others?
 > E) 48
 
 **Answer:** C
-[[Quesiti/src_kangourou_2014_junior#q26|src_kangourou_2014_junior__Q26]]
 
 
 
@@ -1363,7 +1332,6 @@ How many years ago did the last figure exceed the sum of the others?
 > A circle with centre O appears in the figure. The point P is external to it, the straight PT is tangent to it at point T and the straight PB is the bisector of the TPA angle. What is the measurement in degrees of the angle TBP ? A) 30° B) 45° C) 60° D) 75° E) Depends on the location of the point P.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2014_junior#q27|src_kangourou_2014_junior__Q27]]
 
 
 
@@ -1417,7 +1385,6 @@ How many years ago did the last figure exceed the sum of the others?
 >
 
 **Answer:** D
-[[Quesiti/src_kangourou_2014_junior#q28|src_kangourou_2014_junior__Q28]]
 
 
 
@@ -1507,7 +1474,6 @@ How many years ago did the last figure exceed the sum of the others?
 > E) 15,375
 
 **Answer:** B
-[[Quesiti/src_kangourou_2014_junior#q29|src_kangourou_2014_junior__Q29]]
 
 
 
@@ -1572,7 +1538,6 @@ How many years ago did the last figure exceed the sum of the others?
 > STRINGA JUNIOR 2014
 
 **Answer:** C
-[[Quesiti/src_kangourou_2014_junior#q30|src_kangourou_2014_junior__Q30]]
 
 
 
@@ -1610,5 +1575,3 @@ How many years ago did the last figure exceed the sum of the others?
 > (see figure)
 > 
 > A) $8+4\sqrt{2}$ B) $9$ C) $8\sqrt{2}$ D) $12$ E) $14$
-
-[[Quesiti/src_kangourou_2014_junior#q31|src_kangourou_2014_junior__Q31]]

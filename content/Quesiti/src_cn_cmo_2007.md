@@ -34,8 +34,6 @@ level: China Mathematical Olympiad
 
 > Date le cifre complesse $a$, $b$, $c$, lasciamo $|a + b| = m$, $|a - b| = n$, e supponiamo $mn \neq 0$. Provare che $$\max\{|ac + b|,\ |a + bc|\} \ge \frac{mn}{\sqrt{m^2 + n^2}}.$$
 
-[[Quesiti/src_cn_cmo_2007#q01|src_cn_cmo_2007__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_induzione,method_casework,method_cassetti,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -77,8 +75,6 @@ level: China Mathematical Olympiad
 
 ![[src_cn_b07_w62__q02.png]]
 
-[[Quesiti/src_cn_cmo_2007#q02|src_cn_cmo_2007__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_algebra,method_doppio_conteggio,method_simmetria,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_modellizzazione"></span>
@@ -116,8 +112,6 @@ level: China Mathematical Olympiad
 > 
 > (Nota: supponiamo che $x_1, x_2, \cdots, x_{2007}$ sia una permutazione di $1, 2, \cdots, 2007$. Lo chiamiamo una permutazione pari se $\prod_{1 \leq i < j \leq 2007}(x_i - x_j) > 0$ ($< 0$), e altrimenti una permutazione pari.)
 
-[[Quesiti/src_cn_cmo_2007#q03|src_cn_cmo_2007__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -143,8 +137,6 @@ level: China Mathematical Olympiad
 
 > Supponiamo che i punti $O$ e $I$ siano rispettivamente il circoncentro e l'incentro di $\triangle ABC$, e che il cerchio di $\triangle ABC$ sia tangente ai lati $BC$, $CA$, $AB$ rispettivamente ai punti $D$, $E$ e $F$. Le linee $FD$ e $CA$ sono intercettate al punto $P$, mentre le linee $DE$ e $AB$ sono intercettate al punto $Q$. E i punti $M$ e $N$ sono il punto medio dei segmenti $PE$ e $QF$ rispettivamente. Provare che $OI \perp MN$.
 
-[[Quesiti/src_cn_cmo_2007#q04|src_cn_cmo_2007__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_insiemi_funzioni,method_induzione,method_telescoping,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
@@ -169,8 +161,6 @@ level: China Mathematical Olympiad
 *Sequenza limitata che soddisfa la condizione di somma; dimostrare un < 1/n*
 
 > Supponiamo che una sequenza di numeri limitata $\{a_n\}$ soddisfi $$a_n \leq \sum_{k=n}^{2n+2006} \frac{a_k}{k+1}, \quad n = 1, 2, 3, \cdots.$$ Provi che $a_n < \frac{1}{n}$, $n = 1, 2, 3, \cdots$.
-
-[[Quesiti/src_cn_cmo_2007#q05|src_cn_cmo_2007__Q05]]
 
 
 
@@ -199,4 +189,3 @@ level: China Mathematical Olympiad
 > Trovare il più piccolo intero positivo $n \geq 9$ che soddisfi che per qualsiasi gruppo di numeri interi $a_1, a_2, \cdots, a_n$, esiste sempre $b_1, b_2, \cdots, b_n \in \{4, 7\}$ tale che $9 \mid (a_1 b_1 + a_2 b_2 + \cdots + a_n b_n)$.
 
 **Risposta:** 13
-[[Quesiti/src_cn_cmo_2007#q06|src_cn_cmo_2007__Q06]]

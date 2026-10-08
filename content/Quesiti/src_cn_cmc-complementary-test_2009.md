@@ -45,8 +45,6 @@ level: China Mathematical Competition (Complementary Test)
 
 ![[src_cn_cmc-complementary-test_2009__q01.png]]
 
-[[Quesiti/src_cn_cmc-complementary-test_2009#q01|src_cn_cmc-complementary-test_2009__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,topic_insiemi_funzioni,method_disuguaglianze,method_telescoping,skill_manipolazione_algebrica,skill_stima"></span>
@@ -73,8 +71,6 @@ level: China Mathematical Competition (Complementary Test)
 
 > (50 marchi) dimostrare che $$-1 < \left(\sum_{k=1}^{n} \frac{k}{k^2+1}\right) - \ln n \leq \frac{1}{2}, \quad n = 1, 2, \ldots$$
 
-[[Quesiti/src_cn_cmc-complementary-test_2009#q02|src_cn_cmc-complementary-test_2009__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -99,8 +95,6 @@ level: China Mathematical Competition (Complementary Test)
 *Infinitamente molti m >= k con C(m,k) coprimo a l*
 
 > (50 punti) Supponiamo che $k$, $l$ siano due numeri interi positivi. Prova che ci sono infiniti interi positivi $m \geq k$ in modo tale che $\binom{m}{k}$ e $l$ siano relativamente primi.
-
-[[Quesiti/src_cn_cmc-complementary-test_2009#q03|src_cn_cmc-complementary-test_2009__Q03]]
 
 
 
@@ -159,5 +153,3 @@ level: China Mathematical Competition (Complementary Test)
 > (O) Per ogni colonna $\begin{pmatrix} x_{1k} \\ x_{2k} \\ x_{3k} \end{pmatrix}$ ($k = 1, 2, \ldots, 9$) in $P$, esiste $i \in \{1, 2, 3\}$ tale che $$x_{ik} \leq u_i = \min(x_{i1}, x_{i2}, x_{i3}).$$
 > 
 > Provare che $\widetilde{S}$, la matrice ottenuta riordinando due righe di $S$, ha anche la proprietà (O).
-
-[[Quesiti/src_cn_cmc-complementary-test_2009#q04|src_cn_cmc-complementary-test_2009__Q04]]

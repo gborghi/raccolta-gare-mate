@@ -47,7 +47,6 @@ Minimum number of transactions so that everyone pays the same
 > - **(E)** 6π
 
 **Answer:** C
-[[Quesiti/src_archimede_2016_febb_2livello#q01|src_archimede_2016_febb_2livello__Q01]]
 
 
 
@@ -76,7 +75,6 @@ Minimum number of transactions so that everyone pays the same
 > 2. An ancient text states that Jerusalem lived 150♦years, where the symbol ♦ replaces the number of units, which scholars cannot read. Fortunately, we have three other manuscripts on the life of Jerusalem; the first claims that he lived an equal number of years, the second that he lived a multiple of 3, the third that he lived a multiple of 5. Knowing that exactly one of these three manuscripts contains false information, how many different digits could be hidden behind the symbol ♦? (A) None (B) One (C) Two (D) Three (E) Four
 
 **Answer:** B
-[[Quesiti/src_archimede_2016_febb_2livello#q02|src_archimede_2016_febb_2livello__Q02]]
 
 
 
@@ -105,7 +103,6 @@ Minimum number of transactions so that everyone pays the same
 > 3. Given a real number x, the symbol x indicates its entire part (i.e. the largest integer less or equal to x) and {x} its fractional part (i.e. x−x). Let x, y, z be three positive real numbers satisfying the following system:  3x−{y} + {z} = 20,3  3y+ 5z−{x} = 15,1  {y} + {z} = 0,9  How much is x + y + z? (A) 10,8 (B) 11,1 (C) 11,6 (D) 12,8 (E) 13
 
 **Answer:** D
-[[Quesiti/src_archimede_2016_febb_2livello#q03|src_archimede_2016_febb_2livello__Q03]]
 
 
 
@@ -137,7 +134,6 @@ Minimum number of transactions so that everyone pays the same
 > 4. Consider the grey area in the figure, bounded by semicircles, the largest of the radii 2 and the two smallest of the radii
 
 **Answer:** C
-[[Quesiti/src_archimede_2016_febb_2livello#q04|src_archimede_2016_febb_2livello__Q04]]
 
 
 
@@ -180,7 +176,6 @@ Minimum number of transactions so that everyone pays the same
 > - **(E)** None of the above
 
 **Answer:** D
-[[Quesiti/src_archimede_2016_febb_2livello#q05|src_archimede_2016_febb_2livello__Q05]]
 
 
 
@@ -223,7 +218,6 @@ Minimum number of transactions so that everyone pays the same
 > - **(E)** 2048
 
 **Answer:** B
-[[Quesiti/src_archimede_2016_febb_2livello#q06|src_archimede_2016_febb_2livello__Q06]]
 
 
 
@@ -266,7 +260,6 @@ Minimum number of transactions so that everyone pays the same
 > - **(E)** 2016
 
 **Answer:** A
-[[Quesiti/src_archimede_2016_febb_2livello#q07|src_archimede_2016_febb_2livello__Q07]]
 
 
 
@@ -309,7 +302,6 @@ Minimum number of transactions so that everyone pays the same
 > - **(E)** √ 42
 
 **Answer:** C
-[[Quesiti/src_archimede_2016_febb_2livello#q08|src_archimede_2016_febb_2livello__Q08]]
 
 
 
@@ -353,7 +345,6 @@ How many Fibonacci numbers have exactly 2016 digits?
 > - **(E)** 10 or more
 
 **Answer:** B
-[[Quesiti/src_archimede_2016_febb_2livello#q09|src_archimede_2016_febb_2livello__Q09]]
 
 
 
@@ -400,7 +391,6 @@ How many Fibonacci numbers have exactly 2016 digits?
 > - **(E)** 7
 
 **Answer:** D
-[[Quesiti/src_archimede_2016_febb_2livello#q10|src_archimede_2016_febb_2livello__Q10]]
 
 
 
@@ -445,7 +435,6 @@ How many Fibonacci numbers have exactly 2016 digits?
 > - **(E)** 40
 
 **Answer:** E
-[[Quesiti/src_archimede_2016_febb_2livello#q11|src_archimede_2016_febb_2livello__Q11]]
 
 
 
@@ -489,7 +478,6 @@ How many Fibonacci numbers have exactly 2016 digits?
 > - **(E)** 3 · 7 · 13 · 17 · 19 218 Problems with a numerical answer  5 points
 
 **Answer:** A
-[[Quesiti/src_archimede_2016_febb_2livello#q12|src_archimede_2016_febb_2livello__Q12]]
 
 
 
@@ -530,7 +518,6 @@ How many Fibonacci numbers have exactly 2016 digits?
 > Whether n is the smallest positive integer of 4 digits greater than or equal to 2016 that has the following property: there exists a positive integer S such that S = s a + r b + q c + √ d + S, where a, b, c, d are, in  order, the number of thousands, hundreds, tens and units of n. How much is n?
 
 **Answer:** 2167
-[[Quesiti/src_archimede_2016_febb_2livello#q13|src_archimede_2016_febb_2livello__Q13]]
 
 
 
@@ -562,7 +549,6 @@ How many Fibonacci numbers have exactly 2016 digits?
 > Eugenia's phone PIN consists of 4 digits; Eugenia only remembers that the first is between 0 and 6, the second between 0 and 3, the third between 0 and 4, the fourth between 0 and 2, and that the sum of the four digits is at least 8 (for example, the PIN could be 3330). How many codes are compatible with Eugenia's memories?
 
 **Answer:** 210
-[[Quesiti/src_archimede_2016_febb_2livello#q14|src_archimede_2016_febb_2livello__Q14]]
 
 
 
@@ -598,8 +584,6 @@ How many Fibonacci numbers have exactly 2016 digits?
 
 > DEMOSTRATIVE EXERCISE If m, n two integers greater than or equal to 2. From a table with m rows and n columns we know that each box contains either the number 1 or the number −1, and that the total sum of all the boxes is greater than or equal to zero. Genoveffa considers the paths that link a box in the first column (at its choice) to a box in the last column (again at its choice) and that always move from one box to an adjacent horizontal or vertical one, without going back twice on the same box. The value of a path is the sum of the numbers in the boxes it crosses. (a) Demonstrate that for every m, n ≥2 there are tables with m rows and n columns without paths of value 2 or more. (b) Demonstrate that it is always possible to find a path with a value greater than or equal to 1.
 
-[[Quesiti/src_archimede_2016_febb_2livello#q15|src_archimede_2016_febb_2livello__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,topic_funzionali,method_congruenze,method_invarianti,skill_astrazione"></span>
@@ -627,8 +611,6 @@ How many Fibonacci numbers have exactly 2016 digits?
 There is a perfect square.
 
 > Whether a1, a2, . . . , an, . . . a sequence of positive integers such that at + 1 is the number of positive divisors of at for each ≥ 1. Let's say that a2 =2. Prove that there is an index m such that am is a perfect square.
-
-[[Quesiti/src_archimede_2016_febb_2livello#q16|src_archimede_2016_febb_2livello__Q16]]
 
 
 
@@ -666,5 +648,3 @@ There is a perfect square.
 ![[src_archimede_2016_febb_2livello__prob17.png]]
 
 > Demonstrative Exercise Whether ABCD is a rectangle with AB > BC and whether ω is its circumscribed circumference. E and F are the intersections (different from A) of the intersection of the angle \ BAD with the CD side and the circumference ω respectively. The perpendicular to DF passing through E intersects the DF rope in G and the non-C-containing DF arc at point H. It is shown that: (a) the DF and FB segments are of the same length; (b) the DEG and DHG triangles are congruent; (c) the HF and FC segments are equal.
-
-[[Quesiti/src_archimede_2016_febb_2livello#q17|src_archimede_2016_febb_2livello__Q17]]

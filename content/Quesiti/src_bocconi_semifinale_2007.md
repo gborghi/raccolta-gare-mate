@@ -43,7 +43,6 @@ Number of four digits as reflected on the astronaut suit
 ![[src_bocconi_semifinale_2007__q01.png]]
 
 **Answer:** 2965
-[[Quesiti/src_bocconi_semifinale_2007#q01|src_bocconi_semifinale_2007__Q01]]
 
 
 
@@ -72,7 +71,6 @@ Number of four digits as reflected on the astronaut suit
 > Add the digits of the number $N = 10^7 - 2007$ (after performing the operations indicated). What number do you get?
 
 **Answer:** 55
-[[Quesiti/src_bocconi_semifinale_2007#q02|src_bocconi_semifinale_2007__Q02]]
 
 
 
@@ -109,7 +107,6 @@ Number of four digits as reflected on the astronaut suit
 > What's this figure?
 
 **Answer:** 9
-[[Quesiti/src_bocconi_semifinale_2007#q03|src_bocconi_semifinale_2007__Q03]]
 
 
 
@@ -146,7 +143,6 @@ Number of four digits as reflected on the astronaut suit
 ![[src_bocconi_semifinale_2007__q04.png]]
 
 **Answer:** 7 dm
-[[Quesiti/src_bocconi_semifinale_2007#q04|src_bocconi_semifinale_2007__Q04]]
 
 
 
@@ -178,8 +174,7 @@ Number of four digits as reflected on the astronaut suit
 
 ![[src_bocconi_semifinale_2007__q05.png]]
 
-**Answer:** I valori mancanti si ricavano dallo schema con i numeri 24, 30, 20, 5, 6
-[[Quesiti/src_bocconi_semifinale_2007#q05|src_bocconi_semifinale_2007__Q05]]
+**Answer:** The missing values are obtained from the scheme with the numbers 24, 30, 20, 5, 6
 
 
 
@@ -211,8 +206,7 @@ Number of four digits as reflected on the astronaut suit
 > 
 > What time is this? Give all the solutions, indicating the number of the first and last days of the period (consisting of consecutive days).
 
-**Answer:** Tre soluzioni: $(1;5)$, $(4;6)$ e $(7;8)$
-[[Quesiti/src_bocconi_semifinale_2007#q06|src_bocconi_semifinale_2007__Q06]]
+**Answer:** Three solutions: $(1;5)$, $(4;6)$ and $(7;8)$
 
 
 
@@ -248,7 +242,6 @@ Number of four digits as reflected on the astronaut suit
 > In this strange part of the world, on September 1, 2005, there was only one pair of these animals, just born. How many living couples are there today, March 24, 2007?
 
 **Answer:** 9
-[[Quesiti/src_bocconi_semifinale_2007#q07|src_bocconi_semifinale_2007__Q07]]
 
 
 
@@ -286,8 +279,7 @@ Number of four digits as reflected on the astronaut suit
 
 ![[src_bocconi_semifinale_2007__q08.png]]
 
-**Answer:** (soluzione determinata univocamente dalle condizioni)
-[[Quesiti/src_bocconi_semifinale_2007#q08|src_bocconi_semifinale_2007__Q08]]
+**Answer:** (solution uniquely determined by the conditions)
 
 
 
@@ -324,7 +316,6 @@ Number of four digits as reflected on the astronaut suit
 > What size should square boards have in order to have the smallest torque weight possible (and no other boards of the same size can be added)?
 
 **Answer:** 23 cm
-[[Quesiti/src_bocconi_semifinale_2007#q09|src_bocconi_semifinale_2007__Q09]]
 
 
 
@@ -356,8 +347,7 @@ Number of four digits as reflected on the astronaut suit
 > 
 > How many pencils are left in Nando's box?
 
-**Answer:** 43 matite
-[[Quesiti/src_bocconi_semifinale_2007#q10|src_bocconi_semifinale_2007__Q10]]
+**Answer:** 43 pencils
 
 
 
@@ -394,7 +384,6 @@ Number of four digits as reflected on the astronaut suit
 ![[src_bocconi_semifinale_2007__q11.png]]
 
 **Answer:** 18
-[[Quesiti/src_bocconi_semifinale_2007#q11|src_bocconi_semifinale_2007__Q11]]
 
 
 
@@ -426,8 +415,7 @@ Meeting point between Carla and Milena with different speeds up and down
 > 
 > How far from Carla's house will they meet?
 
-**Answer:** 24 km dalla casa di Carla
-[[Quesiti/src_bocconi_semifinale_2007#q12|src_bocconi_semifinale_2007__Q12]]
+**Answer:** 24 km from Carla's house
 
 
 
@@ -460,7 +448,6 @@ Meeting point between Carla and Milena with different speeds up and down
 > How far did we swim?
 
 **Answer:** $7{,}5$ m
-[[Quesiti/src_bocconi_semifinale_2007#q13|src_bocconi_semifinale_2007__Q13]]
 
 
 
@@ -500,8 +487,7 @@ Meeting point between Carla and Milena with different speeds up and down
 > 
 > How many cookies were in the box when the sailors landed on the island?
 
-**Answer:** 95 biscotti
-[[Quesiti/src_bocconi_semifinale_2007#q14|src_bocconi_semifinale_2007__Q14]]
+**Answer:** 95 biscuits
 
 
 
@@ -534,7 +520,6 @@ Meeting point between Carla and Milena with different speeds up and down
 > What is this fraction? (To reply irreducibly)
 
 **Answer:** $\dfrac{4}{33}$
-[[Quesiti/src_bocconi_semifinale_2007#q15|src_bocconi_semifinale_2007__Q15]]
 
 
 
@@ -563,7 +548,6 @@ Meeting point between Carla and Milena with different speeds up and down
 > How many numbers are written with the 10 digits 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 (each used once), which are divisible by 11?
 
 **Answer:** 285.120
-[[Quesiti/src_bocconi_semifinale_2007#q16|src_bocconi_semifinale_2007__Q16]]
 
 
 
@@ -600,7 +584,6 @@ Meeting point between Carla and Milena with different speeds up and down
 ![[src_bocconi_semifinale_2007__q17.png]]
 
 **Answer:** $\dfrac{AX}{XY} = \dfrac{12}{49}$
-[[Quesiti/src_bocconi_semifinale_2007#q17|src_bocconi_semifinale_2007__Q17]]
 
 
 
@@ -633,4 +616,3 @@ Meeting point between Carla and Milena with different speeds up and down
 > If Luca Maria has 10 daughters, how many sons does he have?
 
 **Answer:** 9
-[[Quesiti/src_bocconi_semifinale_2007#q18|src_bocconi_semifinale_2007__Q18]]

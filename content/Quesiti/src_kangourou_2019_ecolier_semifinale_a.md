@@ -37,7 +37,6 @@ level: kangourou
 > The sum of the digits of a number less than 45 is 12. What is the product of its digits?
 
 **Answer:** 0027
-[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q01|src_kangourou_2019_ecolier_semifinale_a__Q01]]
 
 
 
@@ -71,7 +70,6 @@ level: kangourou
 > Four bags contain a total of 100 candies. They are lined up (left to right) from the fullest to the emptiest; the one on the left contains 42 candies, the one on the right contains 7 and no bag contains the same number of candies as another. If M is the number of candies in the second left-hand bag and N is the number of candies in the second right-hand bag, how much can M - N be worth at most?
 
 **Answer:** 0031
-[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q02|src_kangourou_2019_ecolier_semifinale_a__Q02]]
 
 
 
@@ -104,7 +102,6 @@ level: kangourou
 > What is the maximum number of exact weighings I can do?
 
 **Answer:** 0055
-[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q03|src_kangourou_2019_ecolier_semifinale_a__Q03]]
 
 
 
@@ -136,7 +133,6 @@ level: kangourou
 > Rita has 4 numbered cards on each of which is one of the four digits of 2019 and the figure 9 is underlined, so as not to confuse it with 6. In how many ways can she arrange the cards if you want to get a four-digit number with significant digits (i.e. one that cannot be written using only three digits)?
 
 **Answer:** 0018
-[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q04|src_kangourou_2019_ecolier_semifinale_a__Q04]]
 
 
 
@@ -167,7 +163,6 @@ level: kangourou
 > My dog and my cat are in the garden, the first 100 meters from the door, the second 80 meters. I called them, and they rushed to the door. The dog runs twice as fast as the cat. When the dog arrived at the door, how many meters did the cat still have to cover?
 
 **Answer:** 0030
-[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q05|src_kangourou_2019_ecolier_semifinale_a__Q05]]
 
 
 
@@ -200,7 +195,6 @@ level: kangourou
 > Added to 2019 A palindrome number is a number equal to the number that you get by reading its digits from right to left. For example, 8, 44, 131, 2002 are palindromic numbers whereas 2019 is not. There's a 3-digit palindrome number that added to 2019 gives a palindrome number: find this 4-digit palindrome number.
 
 **Answer:** 2332
-[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q06|src_kangourou_2019_ecolier_semifinale_a__Q06]]
 
 
 
@@ -230,7 +224,6 @@ level: kangourou
 > Three integers The sum of three positive integers is 2019. If you subtract the same number from each of them, you get the numbers 931, 721 and 301. What is the largest of the three numbers?
 
 **Answer:** 0953
-[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q07|src_kangourou_2019_ecolier_semifinale_a__Q07]]
 
 
 
@@ -261,7 +254,6 @@ Members of the smaller gorilla family
 > In a forest in the Congo, there are three mountain gorilla families, 44 of them together. The smallest family has seven fewer members than the largest and four fewer than the middle family. How many members are there in the smallest family?
 
 **Answer:** 0011
-[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q08|src_kangourou_2019_ecolier_semifinale_a__Q08]]
 
 
 
@@ -292,7 +284,6 @@ Members of the smaller gorilla family
 > In three hours Mario went up to a shelter and without stopping he went down the valley. He went up at an average speed of 4 km/h and down at 12 km/h. How many kilometres, in total, did Mario walk there and back?
 
 **Answer:** 0018
-[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q09|src_kangourou_2019_ecolier_semifinale_a__Q09]]
 
 
 
@@ -329,7 +320,6 @@ Members of the smaller gorilla family
 > The grid Insert in each of the empty cells of this grid a number chosen between 2, 5 and 10 so that the sum of the numbers in each row and column is 22. What's the sum of the numbers you put in cells C2, C3 and D3?
 
 **Answer:** 0017
-[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q10|src_kangourou_2019_ecolier_semifinale_a__Q10]]
 
 
 
@@ -361,7 +351,6 @@ Members of the smaller gorilla family
 > Alice, Bianca and Claudia want to split 50 apples (without cutting them) so that Alice gets at least 14, Bianca gets at least 9, and Claudia gets 12 or 15. How many different ways can they do that?
 
 **Answer:** 0029
-[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q11|src_kangourou_2019_ecolier_semifinale_a__Q11]]
 
 
 
@@ -393,7 +382,6 @@ Members of the smaller gorilla family
 > Digital clock A digital clock indicates the time in 24-hour format: for example, if it is 4:20 p.m., it indicates 16:20. Over the course of a full day (24 hours), for how many minutes does the digit 5 appear on the clock?
 
 **Answer:** 0450
-[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q12|src_kangourou_2019_ecolier_semifinale_a__Q12]]
 
 
 
@@ -427,7 +415,6 @@ Members of the smaller gorilla family
 > Lottery 5 boys and 6 girls have to sell 100 tickets of a lottery. The boys share a portion of the tickets equally among themselves (but not all); the girls do the same with the remainder of the tickets. This information does not determine the total number of tickets sold by the boys, because you can find different situations: for each of them you find the number of tickets sold by each of the boys. How much is the sum of the numbers you found?
 
 **Answer:** 0024
-[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q13|src_kangourou_2019_ecolier_semifinale_a__Q13]]
 
 
 
@@ -459,7 +446,6 @@ Members of the smaller gorilla family
 > 100 numbers Mattia randomly selects 100 whole numbers all different from each other, each greater than 0 (and different from 0) and less than 2019 (and different from 2019) and puts them in increasing order. What is the maximum value of the difference between one of the numbers chosen and the one preceding it in the order?
 
 **Answer:** 1919
-[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q14|src_kangourou_2019_ecolier_semifinale_a__Q14]]
 
 
 
@@ -492,4 +478,3 @@ Members of the smaller gorilla family
 > The gurocan is a fantastic animal that all the kids in the schools of Kanguria know well. Some of them were asked: How many legs do fourteen cats, one chicken and seventeen gurocans have in total? Carlo answered 108, Linda 130, Maria 164, Nina 196 and Oliviero 262. One of them answered correctly. So how many legs does a gurocan have?
 
 **Answer:** 0012
-[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q15|src_kangourou_2019_ecolier_semifinale_a__Q15]]

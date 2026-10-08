@@ -37,8 +37,6 @@ level: BMO Round 2
 > 
 > Prove che il triangolo $BPE$ è uguale.
 
-[[Quesiti/src_bmo_2018-19_round2#q01|src_bmo_2018-19_round2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_invarianti,method_casework,method_colorazione,skill_modellizzazione,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -63,8 +61,6 @@ level: BMO Round 2
 *Trova tutte le n per le quali i pezzi magici di scacchi possono vincere*
 
 > Per alcuni numeri interi $n$, un insieme di pezzi magici di scacchi $n^2$ si organizzano su una scacchiera quadrata $n^2 \times n^2$ composta da quadrati unitari $n^4$. A un segnale, tutti i pezzi di scacchi si teleportano su un altro quadrato della scacchiera in modo tale che la distanza tra i centri dei loro quadrati vecchi e nuovi sia $n$. I pezzi di scacchi vincono se, sia prima che dopo il segnale, non ci sono due pezzi di scacchi nella stessa riga o colonna. Per quali valori di $n$ possono vincere i scacchi?
-
-[[Quesiti/src_bmo_2018-19_round2#q02|src_bmo_2018-19_round2__Q02]]
 
 
 
@@ -95,7 +91,6 @@ level: BMO Round 2
 > Lasciate che $p$ sia un primo parziale. Quanti sottoinsiemi non vuoti di $$\{1, 2, 3, \ldots, p-2, p-1\}$$ hanno una somma divisibile per $p$?
 
 **Risposta:** \dfrac{2^{p-1} + p - 2}{p}
-[[Quesiti/src_bmo_2018-19_round2#q03|src_bmo_2018-19_round2__Q03]]
 
 
 
@@ -126,4 +121,3 @@ level: BMO Round 2
 > Trova tutte le funzioni $f$ dai numeri reali positivi ai numeri reali positivi per i quali $f(x) \le f(y)$ ogni volta $x \le y$ e $$f(x^3) + f(x^2) + f(x) + f(1) = x^4 + x^2 + x + 1$$ per tutti $x > 0$.
 
 **Risposta:** f(x) = x
-[[Quesiti/src_bmo_2018-19_round2#q04|src_bmo_2018-19_round2__Q04]]

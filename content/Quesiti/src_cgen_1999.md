@@ -39,8 +39,6 @@ level: Concours Général
 > 
 > 1. Qual è il volume massimo di tale cilindro? 2. Qual è il volume massimo di una sfera centrata su questo asse e all'interno del cono? 3. Confronta i due massimi trovati.
 
-[[Quesiti/src_cgen_1999#q01|src_cgen_1999__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -67,8 +65,6 @@ level: Concours Général
 
 > Risolvere in $\mathbb{N}$ l'equazione in $n$: $$( n+3)^{n} = \sum_{k=1}^{n+2} k^{n}$$
 
-[[Quesiti/src_cgen_1999#q02|src_cgen_1999__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_trigonometria,method_estremalita,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -93,8 +89,6 @@ level: Concours Général
 *Triangolo acuto massimizzando il rapporto lato più breve a raggio*
 
 > Per quali triangoli a angolo acuto il rapporto tra lato più corto e raggio del cerchio inciso è maggiore?
-
-[[Quesiti/src_cgen_1999#q03|src_cgen_1999__Q03]]
 
 
 
@@ -132,8 +126,6 @@ level: Concours Général
 > 
 > Mostrare che tutti i dolci saranno mangiati e determinare la probabilità che l'ultimo dolce mangiato sia rosso.
 
-[[Quesiti/src_cgen_1999#q04|src_cgen_1999__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -158,5 +150,3 @@ level: Concours Général
 *Le simmetrie di un triangolo vertice sul lato opposto sono collineari se l'ortocentro è uguale al diametro circostante*
 
 > Mostrare che le simmetrie di ciascun vertice di un triangolo rispetto al lato opposto sono collineari se, e solo se, la distanza dall'ortocentro al centro del cerchio circoscritto è uguale al diametro di quel cerchio.
-
-[[Quesiti/src_cgen_1999#q05|src_cgen_1999__Q05]]

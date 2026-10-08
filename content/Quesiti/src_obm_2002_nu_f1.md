@@ -32,8 +32,6 @@ level: OBM Nível Universitário
 
 > La funzione $f:(-1,+\infty)\to\mathbb{R}$ è continua e differenziabile. È noto che $f(0)=0$, $f'(0)=a$ e $f(x+1)=e^{f(x)}$ per tutti $x>-1$. Calcolare $f'(13)$.
 
-[[Quesiti/src_obm_2002_nu_f1#q01|src_obm_2002_nu_f1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -60,8 +58,6 @@ level: OBM Nível Universitário
 
 > Che $A$ sia la matrice $n\times n$ $$A=\begin{pmatrix} x+y & x & \cdots & x \\ x & x+y & \cdots & x \\ \vdots & \vdots & \ddots & \vdots \\ x & x & \cdots & x+y \end{pmatrix}.$$ Per quali valori di $x$ e $y$ è invertibile la matrice $A$? Calcolare $A^{-1}$.
 
-[[Quesiti/src_obm_2002_nu_f1#q02|src_obm_2002_nu_f1__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_insiemi_funzioni,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -86,8 +82,6 @@ level: OBM Nível Universitário
 *Calcolare un'integrale che coinvolga radici quadrate incastonate*
 
 > Calcolo $$\int_1^3 \frac{\sqrt{x^2+1}+x-1}{\sqrt{x^2+1}+x+1}\,dx.$$
-
-[[Quesiti/src_obm_2002_nu_f1#q03|src_obm_2002_nu_f1__Q03]]
 
 
 
@@ -114,8 +108,6 @@ level: OBM Nível Universitário
 
 > Determinare tutti gli integri positivi $m$ per i quali il polinomio $(x+1)^m + x^m + 1$ è divisibile da $(x^2+x+1)^2$.
 
-[[Quesiti/src_obm_2002_nu_f1#q04|src_obm_2002_nu_f1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_probabilita,topic_combinatoria,method_inclusione_esclusione,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
@@ -140,8 +132,6 @@ level: OBM Nível Universitário
 *Probabilità che la somma di 10 rotoli di dadi sia pari a 20*
 
 > Rogliamo 10 dadi standard (ciascuno con 6 volti numerati da 1 a 6, tutti uguali probabilità). Calcola la probabilità che la somma dei 10 risultati sia uguale a 20.
-
-[[Quesiti/src_obm_2002_nu_f1#q05|src_obm_2002_nu_f1__Q05]]
 
 
 
@@ -175,5 +165,3 @@ level: OBM Nível Universitário
 > a) Il $Q=(a,b)$ deve essere un punto di $C$. Supponiamo che la linea tangente a $C$ a $Q$ incontra $C$ ad un altro punto unico $Q'$. Determinare le coordinate di $Q'$.
 > 
 > b) Let $P_0=(3,8)$. Per ogni numero intero non negativo $n$, definire $P_{n+1}=P_n'$, il punto di intersezione di $C$ con la tangente di $C$ a $P_n$. Determinare $P_{2002}$.
-
-[[Quesiti/src_obm_2002_nu_f1#q06|src_obm_2002_nu_f1__Q06]]

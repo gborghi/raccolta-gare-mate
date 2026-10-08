@@ -35,7 +35,6 @@ level: kangourou
 > In a crate there are $24$ apples: some are green and the remaining ones are red. You have been told that, if you take three at random, surely at least one is green. Marco has just taken $3$ and two of these are red. How many green apples are there in the crate?
 
 **Answer:** 22
-[[Quesiti/src_kangourou_2021_ecolier_finale#q01|src_kangourou_2021_ecolier_finale__Q01]]
 
 
 
@@ -67,7 +66,6 @@ level: kangourou
 > I have a square $Q$ with a side of $6$ cm. I want to obtain a new square by surrounding it with squares that are all equal to each other, and I want the sides of these squares to measure an integer number of centimeters. What can the side lengths of the squares used as the frame be? The figure shows you, for example, what I can do with squares with a side of $1$ cm.
 
 **Answer:** 1 cm, 2 cm, 3 cm, 6 cm
-[[Quesiti/src_kangourou_2021_ecolier_finale#q02|src_kangourou_2021_ecolier_finale__Q02]]
 
 
 
@@ -103,7 +101,6 @@ level: kangourou
 > fill the first container?
 
 **Answer:** 189
-[[Quesiti/src_kangourou_2021_ecolier_finale#q03|src_kangourou_2021_ecolier_finale__Q03]]
 
 
 
@@ -136,7 +133,6 @@ level: kangourou
 > equality, giving reasons.
 
 **Answer:** 34x3=102
-[[Quesiti/src_kangourou_2021_ecolier_finale#q04|src_kangourou_2021_ecolier_finale__Q04]]
 
 
 
@@ -167,7 +163,6 @@ level: kangourou
 > and 101. With how many digits 0 does the product end?
 
 **Answer:** 12
-[[Quesiti/src_kangourou_2021_ecolier_finale#q05|src_kangourou_2021_ecolier_finale__Q05]]
 
 
 
@@ -225,5 +220,3 @@ level: kangourou
 ```
 
 > In the figure you see the numbers from $1$ to $5$ arranged clockwise on a circle. You can modify them as many times as you want, but each time only by adding $1$ to two numbers that are in adjacent positions (for example, you can add $1$ to $5$ and $1$, thus making them become $6$ and $2$; then to $2$ and $2$, making them become $3$ and $3$). Explain how it is possible, while respecting this rule, to end up with five numbers that are all equal.
-
-[[Quesiti/src_kangourou_2021_ecolier_finale#q06|src_kangourou_2021_ecolier_finale__Q06]]

@@ -33,8 +33,6 @@ level: BMO Round 1
 
 > Trova, mostrando il tuo metodo, un numero intero a sei cifre $n$ con le seguenti proprietà: (i) $n$ è un quadrato perfetto; (ii) il numero formato dalle ultime tre cifre di $n$ è esattamente uno maggiore del numero formato dalle prime tre cifre di $n$. (In questo modo $n$ potrebbe sembrare $121122$, anche se questo non è un quadrato.)
 
-[[Quesiti/src_bmo1_1993#q01|src_bmo1_1993__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: BMO Round 1
 *Papero quadrato tagliato in due coppie di triangoli congruenti, trovare il triangolo di divisione segmento più breve*
 
 > Un pezzo quadrato di carta $ABCD$ di lunghezza laterale 2 e centro $O$ viene tagliato a metà per formare due pezzi uguali $ABC$ e $CDA$. Se il triangolo $ABC$ dovesse essere tagliato in due parti che sarebbero anche congruenti tra loro, si taglierebbe naturalmente lungo la linea di simmetria $BO$. Tuttavia, ci sono altri modi di farlo. Trova, con giustificazione, la lunghezza e la posizione del segmento più corto su cui divide il triangolo $ABC$ in due parti congruenti.
-
-[[Quesiti/src_bmo1_1993#q02|src_bmo1_1993__Q02]]
 
 
 
@@ -93,8 +89,6 @@ level: BMO Round 1
 > 
 > (Nota: se $x$ e $y$ sono numeri interi, allora $x$ divide $y$ se e solo se esiste un numero intero $z$ tale da $y = xz$. Per esempio, $4$ divide $-12$, poiché possiamo prendere $z = -3$.)
 
-[[Quesiti/src_bmo1_1993#q03|src_bmo1_1993__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -119,8 +113,6 @@ level: BMO Round 1
 *Due cerchi si toccano internamente; una linea retta tocca il cerchio interno e taglia il cerchio esterno*
 
 > Due cerchi si toccano internamente a $M$. Una linea retta tocca il cerchio interno a $P$ e taglia il cerchio esterno a $Q$ e $R$. Prove che $\angle QMP = \angle RMP$.
-
-[[Quesiti/src_bmo1_1993#q04|src_bmo1_1993__Q04]]
 
 
 
@@ -148,5 +140,3 @@ level: BMO Round 1
 *Ricerca l'intervallo di c per i reali positivi che soddisfano una disuguaglianza ciclica*
 
 > Che $x$, $y$, $z$ siano numeri reali positivi che soddisfino $$\frac{1}{3} \le \frac{x}{x+y+z} \le \frac{1}{2}.$$ Determinare l'intervallo dei valori per (i) $\frac{y}{x+y+z}$ e (ii) $\frac{x+y}{x+y+z}$.
-
-[[Quesiti/src_bmo1_1993#q05|src_bmo1_1993__Q05]]

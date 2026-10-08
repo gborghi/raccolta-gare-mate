@@ -54,7 +54,6 @@ level: squadre
 > So Bn is 2Cn−1 3 +An−1. Finally, it should be noted that at launch n, the point mark can be on one of the two vertices A or C (if n is equal), or on one of the two vertices B or D (if n is odd). So if n is equal, An + Cn = 1. Putting together these observations, it is found that, if n = 2m is equal, A2m = 1 3 2 3C2m−2 + A2m−2 and C2m−2 = 1 −A2m−2 where A2m = A2m−2 + 2 9 . Given that A0 = 1 because, at the 0th throw, the landmark is in A, it is found that A10 = 4921 39. The answer is 4921.
 
 **Answer:** 0016
-[[Quesiti/src_gs_2012_squadre#q01|src_gs_2012_squadre__Q01]]
 
 
 
@@ -87,7 +86,6 @@ level: squadre
 > Dotto's practicing with the numbers. He took the $$f(n) = \frac{200 - 2n}{n}$$ function and calculated the last two digits (i.e. the two to the right) of the $$f(1) \cdot f(2) \cdot \ldots \cdot f(99).$$ product. What did he find?
 
 **Answer:** 0088
-[[Quesiti/src_gs_2012_squadre#q02|src_gs_2012_squadre__Q02]]
 
 
 
@@ -116,7 +114,6 @@ level: squadre
 > 3 . To calculate Bn, you notice that, with one throw, you get to B from C with probability 2 3 and from A, with probability 9 1. Therefore Bn = 2Cn−1 3 +An−1. Finally, it is noted that, at launch, the landmark may be on one of the two vertices A oC (without being equal) or on one of the two vertices B or D (if n is odd). Therefore, sen is equal to,An +Cn = 1. Putting together these observations, we find that, sen = 2m is equal, A2m = 1 3 (2 3C2m−2 + A2m−2
 
 **Answer:** 1250
-[[Quesiti/src_gs_2012_squadre#q03|src_gs_2012_squadre__Q03]]
 
 
 
@@ -145,7 +142,6 @@ level: squadre
 > Dotto continues to practice with numbers: he has invented a new operation between integers. Multiply the number of units of the first number by the number of units of the second number, then, if the result is greater than 9, it adds the numbers, and if this new number is greater than 9, it adds the numbers again, until it gets a number with only one digit. This is the unit number of the resulting number of the new operation. The same goes for the number of tens, the number of hundreds, and so on. How many pairs of numbers have the result $1357$?
 
 **Answer:** 1296
-[[Quesiti/src_gs_2012_squadre#q04|src_gs_2012_squadre__Q04]]
 
 
 
@@ -173,7 +169,6 @@ level: squadre
 > In a regular polygon of 30 sides, Pisolo counts all vertices from 1 to 30. It then supports 15 circular discs of equal radius to the side of the polygon with the centers on the vertices numbered with an odd number. Each disc has a circumference of 20 cm. What is the outer perimeter of the figure?
 
 **Answer:** 0160
-[[Quesiti/src_gs_2012_squadre#q05|src_gs_2012_squadre__Q05]]
 
 
 
@@ -202,7 +197,6 @@ level: squadre
 > Cucciolo calls sgarzulini the natural numbers formed only by digits 1. How many digits has the smallest prime number greater than 1 such that the number of its prime divisors is a prime number?
 
 **Answer:** 1024
-[[Quesiti/src_gs_2012_squadre#q06|src_gs_2012_squadre__Q06]]
 
 
 
@@ -233,7 +227,6 @@ level: squadre
 > Dotto writes the following operation $$\text{Pera} + \text{Pesca} = \text{Frutti}$$ and explains to the other dwarfs that he replaced each digit with a letter, different letters correspond to different digits. So a letter at the beginning of a word doesn't correspond to the number 0. What digits does Dotto write when he writes **case**?
 
 **Answer:** 7635
-[[Quesiti/src_gs_2012_squadre#q07|src_gs_2012_squadre__Q07]]
 
 
 
@@ -268,7 +261,6 @@ level: squadre
 > The magic mirror's algorithm for calculating who is "the most beautiful in the realm" requires the 16 numbers $$1, 2, 3, 4, 10, 20, 30, 40, 100, 200, 300, 400, 600, 700, 800, 900$$ to be inserted into a grid $4 \times 4$. Today the sums of the 4 lines of the grid are $$920, \quad 1003, \quad 1313, \quad 874$$ while the sums of the 4 columns (from the left) are $$2230, \quad 461, \quad 109, \quad 1310.$$ The sum of the 4 numbers occupying the diagonal of the grid that goes from the position up to the left to the position down to the right determines the identity of the most beautiful of today: what is the sum today?
 
 **Answer:** 1404
-[[Quesiti/src_gs_2012_squadre#q08|src_gs_2012_squadre__Q08]]
 
 
 
@@ -299,7 +291,6 @@ level: squadre
 > In order to perform a magical rite, the Queen must find the number of quadruples $(x, y, z, t)$ of real numbers such as $$\begin{cases} x^2y^2 + z^2t^2 = 1 \\ x^2z^2 + t^2y^2 = 1 \\ x^2t^2 + y^2z^2 = 1 \\ xyzt = 0 \end{cases}$$ What are they?
 
 **Answer:** 0032
-[[Quesiti/src_gs_2012_squadre#q09|src_gs_2012_squadre__Q09]]
 
 
 
@@ -332,7 +323,6 @@ level: squadre
 > It shall be answered by the fraction reduced to the minimum terms expressing that probability.
 
 **Answer:** 0033
-[[Quesiti/src_gs_2012_squadre#q10|src_gs_2012_squadre__Q10]]
 
 
 
@@ -361,7 +351,6 @@ level: squadre
 > Brontë draws a regular polygon of 21 sides. Then trace all the diagonals and count all the points inside the polygon that are intersections of those diagonals. How many points does that count?
 
 **Answer:** 5985
-[[Quesiti/src_gs_2012_squadre#q11|src_gs_2012_squadre__Q11]]
 
 
 
@@ -392,7 +381,6 @@ level: squadre
 > This time Dotto considers the equation $$3i^2 + 2j^2 = 77 \cdot 6^{2012}$$ and determines how many integer solutions $(i, j)$ it has. How many are there?
 
 **Answer:** 0008
-[[Quesiti/src_gs_2012_squadre#q12|src_gs_2012_squadre__Q12]]
 
 
 
@@ -421,7 +409,6 @@ level: squadre
 > Gongolo has a copy of each of the five regular solids in front of him. Looking at them one by one, you imagine how to trace, in each of them, all the longest segments possible. How many of these segments are there in total?
 
 **Answer:** 0029
-[[Quesiti/src_gs_2012_squadre#q13|src_gs_2012_squadre__Q13]]
 
 
 
@@ -450,7 +437,6 @@ level: squadre
 > Eolo and Mammolo decide to play a game together, arranging square bricks, all of the same size. Eolo stacks them up, Mammolo makes square walls. Eolo starts with a pile of a brick, Mammolo with a square of a brick (the same thing). In the second round, Eolo makes a stack of two bricks, Mammolo a square of four bricks. In the third round, Eolo makes a stack of three bricks, Mammolo a square of nine bricks. They realize they ordered 20 bricks. They decide to continue until the turn when they have set up a number of 2012 bricks. What shift do they stop at?
 
 **Answer:** 0502
-[[Quesiti/src_gs_2012_squadre#q14|src_gs_2012_squadre__Q14]]
 
 
 
@@ -479,7 +465,6 @@ level: squadre
 > Dotto is still practicing with numbers. There are 10 boxes in front, numbered 1 to 10. Insert in box n. 1 a number chosen between $-1, 0, 1$ and $2$; likewise, also in box n. 2 enters one of the numbers $-1, 0, 1, 2$ etc. until all the boxes are filled. Then he makes the product of the 10 numbers that are inserted and writes the number on the board. Repeat the operation by inserting the $-1, 0, 1, 2$ numbers in the boxes again in a different way from the previous one, and write the resulting product on the board next to the first one. Continue by entering the $-1, 0, 1, 2$ numbers in all possible ways into the ten boxes and writing off the product obtained alongside the others. Finally, calculate the sum of all the numbers written on the board. What number do you get?
 
 **Answer:** 1024
-[[Quesiti/src_gs_2012_squadre#q15|src_gs_2012_squadre__Q15]]
 
 
 
@@ -508,7 +493,6 @@ level: squadre
 > In a square field of 200 m on the side, vertical poles were planted, cylindrical in shape, all of them equal to each other. Two of each shall be at least two metres apart. The Queen's three guards enter the camp and position themselves at three distinct points. From their point of view, looking in all directions, each of the guards says they see exactly three poles, all the others remain hidden. How many poles are there on the field?
 
 **Answer:** 0144
-[[Quesiti/src_gs_2012_squadre#q16|src_gs_2012_squadre__Q16]]
 
 
 
@@ -541,7 +525,6 @@ Winning expected game dice backwards
 > It is answered by the numerator of the fraction reduced to the minimum terms which expresses the average gain.
 
 **Answer:** 1709
-[[Quesiti/src_gs_2012_squadre#q17|src_gs_2012_squadre__Q17]]
 
 
 
@@ -570,7 +553,6 @@ Winning expected game dice backwards
 > Practicing the cutting of diamonds, Brontolo draws, on a small square sheet of two centimeters, a tangent circumference on the sides of the sheet. He then draws a second circumference, external to the first and tangent to it and to two sides of the sheet; then he draws a third, external to the first two, but tangent to the second and to two sides of the sheet, and so on. Brontolo stops when drawing the first circumference with a radius less than one thousandth of a millimeter; how many circles are drawn on the paper?
 
 **Answer:** 0007
-[[Quesiti/src_gs_2012_squadre#q18|src_gs_2012_squadre__Q18]]
 
 
 
@@ -611,7 +593,6 @@ Winning expected game dice backwards
 > The bartender, a knight, intervenes and says: The island's inhabitants are ten thousand and the information given by the knights present allows us to determine the answer in a unique way. Thanks to his training with numbers, Dotto calculates how many thieves are and interrupts Snow White to say the least, thus ruining the fairy tale. What number does Dotto say?
 
 **Answer:** 1475
-[[Quesiti/src_gs_2012_squadre#q19|src_gs_2012_squadre__Q19]]
 
 
 
@@ -644,7 +625,6 @@ Winning expected game dice backwards
 > [Note: the property does not require that the number of sides meeting in the same vertex coincide with the number of triangles used.]
 
 **Answer:** 0026
-[[Quesiti/src_gs_2012_squadre#q20|src_gs_2012_squadre__Q20]]
 
 
 
@@ -677,7 +657,6 @@ Winning expected game dice backwards
 > Snow White and the Seven Dwarfs are sitting around a circular table, and each stacks a number of books on the table in front of him, between 2 and 9 (extremes included). They notice that even if you take two of their seats next to each other, the number of books in front of one of them divides the number of books in front of the other. Dotto has 9 books on the table in front of him, so Snow White, who sits on his left side, has 3 or 9 books in front. How many ways can you get books distributed on the table?
 
 **Answer:** 0324
-[[Quesiti/src_gs_2012_squadre#q21|src_gs_2012_squadre__Q21]]
 
 
 
@@ -706,7 +685,6 @@ Winning expected game dice backwards
 > To convince Snow White to eat the apple (which appears suspicious because perfectly spherical after bathing in the magic potion), the witch cuts it to pieces, so that each cut passes through the center. How many apples can you get after seven cuts?
 
 **Answer:** 0044
-[[Quesiti/src_gs_2012_squadre#q22|src_gs_2012_squadre__Q22]]
 
 
 
@@ -739,7 +717,6 @@ Winning expected game dice backwards
 > To preserve Snow White's dead body, the seven dwarfs are working tirelessly to divide into three zones a large square area fenced by a side of a mile, using only three stretches of rectangular stationary. As soon as he arrives, the Blue Prince notices that there is a maximum distance $\ell$ with the property that, however such a division is performed (i.e. using three sections of stationary of appropriate length, but without one overlapping with another), in one of the three zones there are at least two distant points $\ell$. Before kissing Snow White, the Blue Prince tells the seven dwarfs the value of$\ell$. What is the difference in millimetres between this $\ell$ distance and the fence side?
 
 **Answer:** 7782
-[[Quesiti/src_gs_2012_squadre#q23|src_gs_2012_squadre__Q23]]
 
 
 
@@ -776,4 +753,3 @@ Winning expected game dice backwards
 > It shall be answered by the fraction reduced to the minimum terms expressing that probability.
 
 **Answer:** 4921
-[[Quesiti/src_gs_2012_squadre#q24|src_gs_2012_squadre__Q24]]

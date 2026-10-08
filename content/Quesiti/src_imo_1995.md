@@ -38,8 +38,6 @@ level: IMO
 
 > Siano A, B, C, D quattro punti distinti su una retta, in quest'ordine. Le circonferenze di diametri AC e BD si intersecano nei punti X e Y. La retta XY incontra BC in Z. Sia P un punto sulla retta XY diverso da Z. La retta CP interseca la circonferenza di diametro AC nei punti C e M, mentre la retta BP interseca la circonferenza di diametro BD nei punti B e N. Si dimostri che le rette AM, DN ed XY sono concorrenti.
 
-[[Quesiti/src_imo_1995#q01|src_imo_1995__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,method_disuguaglianze"></span>
@@ -78,8 +76,6 @@ level: IMO
 > c3(a + b) ≥3
 > 2.
 
-[[Quesiti/src_imo_1995#q02|src_imo_1995__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_combinatoria,method_coordinate"></span>
@@ -116,8 +112,6 @@ level: IMO
 > Tempo: 41
 > 2 ore
 
-[[Quesiti/src_imo_1995#q03|src_imo_1995__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,method_disuguaglianze,method_ricorsione"></span>
@@ -142,8 +136,6 @@ level: IMO
 *Maximum x0 for cyclic positive-real recurrence sequence*
 
 > Find the maximum value of $x_0$ for which there exists a sequence $x_0, x_1, \ldots, x_{1995}$ of positive real numbers with $x_0 = x_{1995}$, such that for $i = 1, \ldots, 1995$: $$x_{i-1} + \frac{2}{x_{i-1}} = 2x_i + \frac{1}{x_i}.$$
-
-[[Quesiti/src_imo_1995#q04|src_imo_1995__Q04]]
 
 
 
@@ -171,8 +163,6 @@ In the case of the equation, the following equation is used: *Hexagon inequality
 
 > Whether $ABCDEF$ is a convex hexagon with $AB = BC = CD$ and $DE = EF = FA$, such as $\angle BCD = \angle EFA = \pi/3$. Suppose $G$ and $H$ are points within the hexagon such as $\angle AGB = \angle DHE = 2\pi/3$. Show that $$AG + GB + GH + DH + HE \geq CF.$$
 
-[[Quesiti/src_imo_1995#q05|src_imo_1995__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_conteggio"></span>
@@ -196,5 +186,3 @@ In the case of the equation, the following equation is used: *Hexagon inequality
 *Count p-element subsets of 1..2p with p-divisible sum*
 
 > Whether $p$ is an odd prime number. How many $A$ subsets of $p$ elements of $\{1, 2, \ldots, 2p\}$ exist that the sum of the elements of $A$ is divisible by $p$?
-
-[[Quesiti/src_imo_1995#q06|src_imo_1995__Q06]]

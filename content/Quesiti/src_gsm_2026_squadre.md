@@ -35,8 +35,6 @@ level: squadre
 
 **Answer:** 4000
 
-[[Quesiti/src_gsm_2026_squadre#q01|src_gsm_2026_squadre__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_probabilita,skill_modellizzazione"></span>
@@ -63,8 +61,6 @@ level: squadre
 > I roll an unbiased die and cover the number shown on the upper face. He rolls another identical die and does the same. On both dice, a side face with a single dot is visible. What is the probability that the same number appeared on both dice? [Give the answer as the probability multiplied by 10000.]
 
 **Answer:** 2500
-
-[[Quesiti/src_gsm_2026_squadre#q02|src_gsm_2026_squadre__Q02]]
 
 
 
@@ -93,8 +89,6 @@ level: squadre
 
 **Answer:** 0033
 
-[[Quesiti/src_gsm_2026_squadre#q03|src_gsm_2026_squadre__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -121,8 +115,6 @@ level: squadre
 > Circle with center O, points A and B diametrically opposite. M is the midpoint of OA; parallel lines through M, O, and B, with b tangent. Find the value of (AO''/O''M'') × 1000.
 
 **Answer:** 1931
-
-[[Quesiti/src_gsm_2026_squadre#q04|src_gsm_2026_squadre__Q04]]
 
 
 
@@ -151,8 +143,6 @@ level: squadre
 
 **Answer:** 0300
 
-[[Quesiti/src_gsm_2026_squadre#q05|src_gsm_2026_squadre__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_geometria_piana,skill_conteggio_sistematico"></span>
@@ -179,8 +169,6 @@ level: squadre
 > How many different rectangles can be constructed with a perimeter of 34 m such that the sides, in m, have positive integer lengths and the longer sides have length greater than twice the shorter sides?
 
 **Answer:** 0005
-
-[[Quesiti/src_gsm_2026_squadre#q06|src_gsm_2026_squadre__Q06]]
 
 
 
@@ -209,8 +197,6 @@ level: squadre
 
 **Answer:** 0052
 
-[[Quesiti/src_gsm_2026_squadre#q07|src_gsm_2026_squadre__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_probabilita,skill_conteggio_sistematico"></span>
@@ -237,8 +223,6 @@ level: squadre
 > In the game of Goose (63 squares, moving backward if overshooting the goal), the piece is three squares before the finish line. Probability of reaching the goal in at most three dice rolls, multiplied by 10000.
 
 **Answer:** 4212
-
-[[Quesiti/src_gsm_2026_squadre#q08|src_gsm_2026_squadre__Q08]]
 
 
 
@@ -267,8 +251,6 @@ level: squadre
 
 **Answer:** 0081
 
-[[Quesiti/src_gsm_2026_squadre#q09|src_gsm_2026_squadre__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,skill_conteggio_sistematico"></span>
@@ -295,8 +277,6 @@ level: squadre
 > 2026 socks of each of three colors, placed in 3 drawers such that each drawer contains at least two socks of each color, and for each drawer, the number of socks of one color is always less than the sum of the socks of the other two colors. What is the maximum number of socks that can be drawn from a random drawer to guarantee having at least one pair (two socks) of each color?
 
 **Answer:** 2026
-
-[[Quesiti/src_gsm_2026_squadre#q10|src_gsm_2026_squadre__Q10]]
 
 
 
@@ -339,8 +319,6 @@ level: squadre
 
 **Answer:** 2118
 
-[[Quesiti/src_gsm_2026_squadre#q12|src_gsm_2026_squadre__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,skill_astrazione"></span>
@@ -382,8 +360,6 @@ level: squadre
 
 **Answer:** 0258
 
-[[Quesiti/src_gsm_2026_squadre#q14|src_gsm_2026_squadre__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,topic_insiemi_funzioni,skill_astrazione"></span>
@@ -410,8 +386,6 @@ level: squadre
 > Three-player formations closed under union and intersection, with empty and full sets always allowed. How many valid formation lists are there?
 
 **Answer:** 0029
-
-[[Quesiti/src_gsm_2026_squadre#q15|src_gsm_2026_squadre__Q15]]
 
 
 
@@ -440,8 +414,6 @@ level: squadre
 
 **Answer:** 0335
 
-[[Quesiti/src_gsm_2026_squadre#q16|src_gsm_2026_squadre__Q16]]
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_probabilita,skill_astrazione"></span>
@@ -468,8 +440,6 @@ level: squadre
 > Ninety contestants, two games on an urn numbered 1 to 4. The ratio of the winning probabilities of the last and second-to-last contestants, multiplied by 100.
 
 **Answer:** 0066
-
-[[Quesiti/src_gsm_2026_squadre#q17|src_gsm_2026_squadre__Q17]]
 
 
 
@@ -498,8 +468,6 @@ level: squadre
 
 **Answer:** 5520
 
-[[Quesiti/src_gsm_2026_squadre#q18|src_gsm_2026_squadre__Q18]]
-
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_combinatoria,skill_casework_accurato"></span>
@@ -526,8 +494,6 @@ level: squadre
 > Cipher A=1..Z=26 without spaces. How many four-digit codes are deciphered with certainty as three letters?
 
 **Answer:** 2781
-
-[[Quesiti/src_gsm_2026_squadre#q19|src_gsm_2026_squadre__Q19]]
 
 
 
@@ -556,8 +522,6 @@ level: squadre
 
 **Answer:** 9998
 
-[[Quesiti/src_gsm_2026_squadre#q20|src_gsm_2026_squadre__Q20]]
-
 
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_algebra,skill_astrazione"></span>
@@ -584,5 +548,3 @@ level: squadre
 > 26 recursive sequences A to Z (A Fibonacci-1, B Fibonacci, ...). What is the value of A2 + B4 + C6 + ... + Z52?
 
 **Answer:** 2764
-
-[[Quesiti/src_gsm_2026_squadre#q21|src_gsm_2026_squadre__Q21]]

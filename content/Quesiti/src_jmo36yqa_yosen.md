@@ -36,7 +36,6 @@ level: JMO Yosen
 > Trova tutti i triples $(a, b, c)$ di numeri interi non negativi che soddisfano $$a^{20} + b^2 + c^6 = 2026.$$
 
 **Risposta:** (1,36,3)
-[[Quesiti/src_jmo36yqa_yosen#q01|src_jmo36yqa_yosen__Q01]]
 
 
 
@@ -65,7 +64,6 @@ level: JMO Yosen
 > Trova il più grande intero positivo $n$ in modo che $\lfloor \sqrt{2026n} \rfloor$ non sia divisibile da $n$. Qui, per un numero reale $r$, $\lfloor r \rfloor$ indica il numero intero più grande non superiore a $r$ (ad esempio, $\lfloor 3.14 \rfloor = 3$, $\lfloor 5 \rfloor = 5$).
 
 **Risposta:** 91
-[[Quesiti/src_jmo36yqa_yosen#q02|src_jmo36yqa_yosen__Q02]]
 
 
 
@@ -98,7 +96,6 @@ level: JMO Yosen
 ![[src_jmo36yqa_yosen__q03.png]]
 
 **Risposta:** \dfrac{11\sqrt{6}}{24}
-[[Quesiti/src_jmo36yqa_yosen#q03|src_jmo36yqa_yosen__Q03]]
 
 
 
@@ -133,7 +130,6 @@ level: JMO Yosen
 > Scegliamo alcune linee tagliate e le usiamo per tagliare completamente il rettangolo $ABCD$ in rettangoli più piccoli. Si è scoperto che ogni rettangolo più piccolo ha tutte le lunghezze laterali interi positivi al massimo $9$. Inoltre, non esistono due rettangoli più piccoli che abbiano la stessa lunghezza laterale. Trova la superficie massima possibile di rettangolo $ABCD$.
 
 **Risposta:** 729
-[[Quesiti/src_jmo36yqa_yosen#q04|src_jmo36yqa_yosen__Q04]]
 
 
 
@@ -163,7 +159,6 @@ level: JMO Yosen
 > Trovare tutti i triples $(x, y, z)$ di numeri interi con $1 \le x, y, z \le 17$ in modo tale che esista un numero intero maggiore di $1$ che divide tutte e quattro delle seguenti quantità: $$xy + 4, \quad yz + 5, \quad zx + 6, \quad xyz + 7.$$
 
 **Risposta:** (4,12,5), (17,12,5)
-[[Quesiti/src_jmo36yqa_yosen#q05|src_jmo36yqa_yosen__Q05]]
 
 
 
@@ -192,7 +187,6 @@ level: JMO Yosen
 > Nel parallelogramma $ABCD$, $E$ deve essere un punto laterale $CD$ (escluse le estremità). Il $M$ deve essere il punto medio del segmento $AE$, e il $G$ deve essere l'intersezione della linea $BM$ e della linea $AD$. Dato che $CE = DF = 3$ (dove $F$ è un punto specifico definito dalla configurazione), $MB = 5$, $MC = 4$, si trova la lunghezza $XY$, dove $XY$ indica la lunghezza del segmento $AB$.
 
 **Risposta:** \sqrt{41}-3
-[[Quesiti/src_jmo36yqa_yosen#q06|src_jmo36yqa_yosen__Q06]]
 
 
 
@@ -227,7 +221,6 @@ level: JMO Yosen
 > Quando tutti gli studenti hanno finito di muoversi, il numero totale degli studenti sulle panchine risulta essere esattamente $2000$. Trova il numero di posti a sedere possibili in quel momento.
 
 **Risposta:** 2 \cdot \binom{2026}{52}
-[[Quesiti/src_jmo36yqa_yosen#q07|src_jmo36yqa_yosen__Q07]]
 
 
 
@@ -262,7 +255,6 @@ level: JMO Yosen
 > Qui, un intero $x$ viene detto **divide** un intero $y$ se esiste un intero $m$ tale che $y = mx$. Trova $a_{20}$.
 
 **Risposta:** 48000
-[[Quesiti/src_jmo36yqa_yosen#q08|src_jmo36yqa_yosen__Q08]]
 
 
 
@@ -291,7 +283,6 @@ level: JMO Yosen
 > In triangolo $ABC$, $AB = AC$ e $BC = 21$. Sul lato $BC$, $CA$, $AB$ (esclusi i punti finali) ci sono i punti $D$, $E$ e $F$ rispettivamente tali che $\angle EDF = 180^\circ - \dfrac{1}{2}\angle BAC$. $P$ sia l'intersezione del bisettore perpendicolare di $BD$ e della linea $DE$, e $Q$ sia l'intersezione del bisettore perpendicolare di $CD$ e della linea $DF$. Dato che $FP = 16$, $FQ = 12$ e $AB = 6\sqrt{7}$, si trova l'area del triangolo $DPQ$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 **Risposta:** \dfrac{48\sqrt{7}}{25}
-[[Quesiti/src_jmo36yqa_yosen#q09|src_jmo36yqa_yosen__Q09]]
 
 
 
@@ -326,7 +317,6 @@ level: JMO Yosen
 > Un convex $101$-gon è un non-auto-intersezione $101$-gon il cui angolo interno è inferiore a $180^\circ$. Trovare il valore più piccolo di $n$ per il quale esiste un tale convex $101$-gon.
 
 **Risposta:** 650
-[[Quesiti/src_jmo36yqa_yosen#q10|src_jmo36yqa_yosen__Q10]]
 
 
 
@@ -356,7 +346,6 @@ level: JMO Yosen
 > Trova il numero di sequenze $(a_1, a_2, \ldots, a_{26})$ di numeri interi con $1 \le a_i \le 20$ che soddisfano la seguente condizione: per qualsiasi coppia di indici $(i, j)$ con $1 \le i < j \le 26$, esiste un indice $t$ con $i \le t \le j$ tale che $$a_1 + a_2 + \cdots + a_t = a_{t+1} + a_{t+2} + \cdots + a_{26}.$$
 
 **Risposta:** 9980 \cdot 19^{23}
-[[Quesiti/src_jmo36yqa_yosen#q11|src_jmo36yqa_yosen__Q11]]
 
 
 
@@ -385,4 +374,3 @@ level: JMO Yosen
 > Lasciate che $x$, $y$, $z$ siano integri positivi che soddisfino $x^y \cdot y^z = 2^{20x + 20y}$. Dato che $\dfrac{y}{20}$ è un numero intero e $\dfrac{z}{20}$ non è un numero intero, trovare il valore minimo possibile di $z$.
 
 **Risposta:** 2^{127} \cdot 641^{641}
-[[Quesiti/src_jmo36yqa_yosen#q12|src_jmo36yqa_yosen__Q12]]

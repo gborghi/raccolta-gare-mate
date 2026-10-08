@@ -39,7 +39,6 @@ level: triennio
 > The answer is D. According to the pre-reform calendar, since the ratio of 400 to 6 is 66, there were 66 public holidays. With the new calendar each month there are 6 holidays and so in a year there are 60 holidays. The holidays then went from 66 to 60 and the decrease, 6, is less than 10% of 66, which is 6.6. [Problem proposed by Mr P. Negroes.]
 
 **Answer:** D
-[[Quesiti/src_archimede_2012_triennio#q03|src_archimede_2012_triennio__Q03]]
 
 
 
@@ -104,7 +103,6 @@ level: triennio
 > The answer is A. The volume of a sphere of radius R is 4πR3 3 , while its surface is 4πR2. Let's use R1 and R2 to indicate the rays of S1 and S2 respectively. We know that 4πR3 2 3 4πR3 1 3 = 2 ⇒ R2 R1 3 = 2 . So R2 R1 is equal to 3√ 2 ⇒R2 2 R2 1 is equal to 3√ 4. Since the ratio of the surface of S2 to that of S1 is R2 2 R2 1 , it is 3√ 4. [Problem proposed by Mr P. I'm going to tell you something.
 
 **Answer:** A
-[[Quesiti/src_archimede_2012_triennio#q04|src_archimede_2012_triennio__Q04]]
 
 
 
@@ -137,7 +135,6 @@ level: triennio
 > The answer is C. The average speed in the home-school-home route is given by the total route length, i.e. 4 km (2 to go and 2 to return), divided by the total time spent, i.e. 16 minutes (12 to go and 4 to return). So the average speed is 0.25 km/min, which is 15 km/h. [Problem proposed by S. Monica.]
 
 **Answer:** C
-[[Quesiti/src_archimede_2012_triennio#q05|src_archimede_2012_triennio__Q05]]
 
 
 
@@ -185,7 +182,6 @@ level: triennio
 > The answer is C. We're going to use O to show the center of the square, K to show the top of the square that belongs to the AC side, and 2x the length in meters of the square's diagonal. For the similarity of the AHC and KOC triangles, we have CH AH = OC KO = 2 −x x. Ma CH AH = 2 m 0,5 m = 4 . From here we get x = 2.5 m and then HK = 2 √ 2.5 m. The area of the square is then 8 25 m2. [Problem proposed by Mr U. Bindini and A. I'm going to have to go with you.
 
 **Answer:** C
-[[Quesiti/src_archimede_2012_triennio#q06|src_archimede_2012_triennio__Q06]]
 
 
 
@@ -221,7 +217,6 @@ level: triennio
 > The answer is B. We'll see that pq + 1 is equal if pq is odd, and vice versa is odd if pq is even. Since the only prime number is 2, for pq + 1 to be prime, it has to be equal to 2 or it has to be odd. But pq + 1 = 2 implies pq = 1, which is impossible. So we have to have that pq is equal, and then p has to be equal, and being first we have to have p = 2. If q is odd pq + 1 admits the breakdown: (pq + 1) = (p + 1)(pq−1 −pq−2 + · · · + p2 −p + 1) and so in particular it is divisible by p + 1 and therefore cannot be prime. So also q has to be equal and so q is equal to 2. The only possibility is then p = q = 2.
 
 **Answer:** B
-[[Quesiti/src_archimede_2012_triennio#q09|src_archimede_2012_triennio__Q09]]
 
 
 
@@ -257,7 +252,6 @@ level: triennio
 > The answer is B. By developing the binomial cube we can write (102013 + 1)3 = 106039 + 3 · 104026 + 3 · 102013 + 1 . Each of the 4 numbers to the right of the equation, written at base 10, has only one digit different from zero and in a different position from the others, so the sum of the digits of the number that you get by adding them is 1 + 3 + 3 + 1 = 8. [Problem proposed by C. By Stephen.] 3
 
 **Answer:** B
-[[Quesiti/src_archimede_2012_triennio#q11|src_archimede_2012_triennio__Q11]]
 
 
 
@@ -300,7 +294,6 @@ level: triennio
 > The answer is D. We can write n5 −5n3 + 4n = n(n4 −5n2 + 4) = n(n2 −4)(n2 −1) = (n −2)(n −1) n(n + 1)(n + 2) . So we're considering a number that can always be written as the product of five consecutive natural numbers (all strictly positive, because n ≥3). In a sequence of 5 consecutive natural numbers there are certainly two even numbers of which a multiple of 4, a multiple of 3 and a multiple of 5. So their product is certainly a multiple of 120 = 2·3·4·5. On the other hand for n = 3 we have n5 −5n3 + 4n = 120 so 120 is the largest divisor of n5 −5n3 + 4n at the variance of n ≥3.
 
 **Answer:** D
-[[Quesiti/src_archimede_2012_triennio#q12|src_archimede_2012_triennio__Q12]]
 
 
 
@@ -370,7 +363,6 @@ level: triennio
 > The answer is E. None of the expressions in the other answers is less than or equal to 16 + x2 for every x. In fact, if for example x = 0, the number q 1 6 + x2 = q 1 6 > 1 6, then (A) is false. The answer (D) is also obviously wrong if 0 < x < 1, because in this case 1 6 + x > 1 6 + x 2. By developing the binomial square, it also finds that it cannot be (C): 1 6 + x 2 = 1 36 + x2 + 1 3x > 1 6 + x2 for x > 15 36. Finally, let's prove that the answer (B) is also wrong: in fact 1 6 + x2 ≥−2 √ 3x  6 √ 3x2 + 12x + √ 3 ≥0 and the discriminant of the trinomial 6 √ 3x2 + 12x+ √ 3 is ∆= 144−24·3 > 0; so the trinomial admits two distinct real roots and is negative for every value of x closely understood between the two roots. [Problem proposed by G. Barbarians and A. I'm going to have to go with you.
 
 **Answer:** E
-[[Quesiti/src_archimede_2012_triennio#q13|src_archimede_2012_triennio__Q13]]
 
 
 
@@ -492,7 +484,6 @@ level: triennio
 > The answer is A. Let's first calculate the apoteme of the cone: a = √ r2 + h2 = 30cm. Now let's cut the cone along the apoteme passing through Q, and we get a circular sector of center V , radius a and arc of circumference of length equal to 2πr: the angle to the center underneath that arc measures θ = 2πr a = 2πr √ r2+h2 = 2 3π radiants. V or a d P Q 60 The problem is then reduced to finding the length of the segment connecting the median point P of the circumference arc to the median point Q of one of the two radii delimiting the circular sector. Since the angle d PV Q = 60°, it follows that PQ is perpendicular to the radius containing Q, so d = q a2 −  a 2 2 = √ 3 2 a = 15 √ 3. [Problem proposed by Nirvana.] 4
 
 **Answer:** A
-[[Quesiti/src_archimede_2012_triennio#q14|src_archimede_2012_triennio__Q14]]
 
 
 
@@ -531,7 +522,6 @@ level: triennio
 > The answer is B. The possible events after throwing the two dice can be represented by all the ordered pairs (d1, d2) where d1 is the value of the first dice and d2 is the value of the second; since d1 can vary between 4 possible values and d2 between eight possible values, the total number of events is 32. Let's see that for each d1 value of the 4-sided dice there is one and only one d2 value of the 8-sided dice whose sum with d1 is 11. So the favourable events, or the pairs (d1, d2) such that the sum of d1 + d2 is 11, is 4, out of a total of 32. The probability of a favorable event occurring is then 4 32 = 18. [Problem proposed by S. Mongols.]
 
 **Answer:** B
-[[Quesiti/src_archimede_2012_triennio#q15|src_archimede_2012_triennio__Q15]]
 
 
 
@@ -571,7 +561,6 @@ level: triennio
 > The answer is B. Let's show with n the whole solution of the equation x10 + kx2 + 4 = 0; we observe that n = 0 otherwise the equation is not verified. We can write: n10 + kn2 + 4 = 0 k = −n8 −4 n2 . So, since k is integer and n8 is integer, 4 n2 is integer, and so n2 divides 4 and so it can only be n = ±1, n = ±2. In the first case we have k = −5 and in the second case k = −28 −1. k can only take two values. [Problem proposed by Mr P. I'm going to tell you something.
 
 **Answer:** B
-[[Quesiti/src_archimede_2012_triennio#q16|src_archimede_2012_triennio__Q16]]
 
 
 
@@ -609,7 +598,6 @@ level: triennio
 > The answer is A. A number is congruent to the sum of its digits, taken at alternate signs (starting from the positive sign for the number of units). Consider a square of two digits that is written, in decimal notation, as ab; we notice right away that −8 ≤a −b ≤9 and that definitely a =b, a =b −1 (unless ab is not a square). This means that the difference a −b is congruent, module 11, to an integer x between 1 and 9. Therefore, whatever the square ab is assigned, there is always one and only one digit x between 1 and 9 such that x−a+b is congruent to zero modulo 11, i.e. such that xab is divisible by 11. So the probability is equal to 19. [Problem proposed by S. Mongols.]
 
 **Answer:** A
-[[Quesiti/src_archimede_2012_triennio#q17|src_archimede_2012_triennio__Q17]]
 
 
 
@@ -668,4 +656,3 @@ This is the sum of the squares of the two sides of the hypotenuse.
 > The answer is B. Consider the polynomial function f(t) = (t −1)(t + 1)2012 −1. For t > 1 this function is increasing, as both functions (t −1) and (t + 1)2012 are, and therefore their product is. We assume f(x) = 0 while f 1 + 1 32012 = 1 32012 1 32012 + 2 −1 < 3 32012 −1 < 0 so 1 + 1 32012 < x. On the other hand, since we know that x > 1, from f(x) = 0, we deduce immediately that x = 1 + 1 (x + 1)2012 < 1 + 1 22012 [S. Mongols.] 6
 
 **Answer:** B
-[[Quesiti/src_archimede_2012_triennio#q20|src_archimede_2012_triennio__Q20]]

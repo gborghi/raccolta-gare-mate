@@ -35,8 +35,6 @@ level: BMO Round 1
 
 > Dato che $x$ è un intero positivo risolvere $$[\sqrt{1}] + [\sqrt{2}] + \ldots + [\sqrt{x^2-1}] = 400$$ (dove $[z]$ significa la parte integrale di $z$) e dimostrare la soluzione è completa.
 
-[[Quesiti/src_bmo_1974-75_round1#q01|src_bmo_1974-75_round1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,method_casework,skill_astrazione,skill_manipolazione_algebrica"></span>
@@ -69,8 +67,6 @@ level: BMO Round 1
 > I due prodotti $\displaystyle\prod_{1}^{h} \alpha_i^{a_i}$ e $\displaystyle\prod_{1}^{k} \beta_i^{b_i}$ si formano quando $a_i$ e $\beta_i$ sono numeri interi positivi.
 > 
 > Se $d$ divide la differenza tra questi prodotti, indicare che $d = 1$ o $d \ge p_n$.
-
-[[Quesiti/src_bmo_1974-75_round1#q02|src_bmo_1974-75_round1__Q02]]
 
 
 
@@ -105,8 +101,6 @@ level: BMO Round 1
 > 
 > Prova che se il disco $S$ contiene punti $7$ in modo tale che la distanza da uno dei punti $7$ a un altro punto sia superiore o pari a $1$, allora uno dei punti $7$ è $O$.
 
-[[Quesiti/src_bmo_1974-75_round1#q03|src_bmo_1974-75_round1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -135,8 +129,6 @@ level: BMO Round 1
 > Tre linee parallele $AD$, $BE$ e $CF$ sono tracciate attraverso le vertici del triangolo $ABC$ che si incontrano sui lati opposti rispettivamente in $D$, $E$ e $F$.
 > 
 > I punti $P$, $Q$, $R$ dividono $AD$, $BE$, $CF$ rispettivamente nello stesso rapporto $k:1$ e $P$, $Q$, $R$ sono collineari. Trova il valore di $k$.
-
-[[Quesiti/src_bmo_1974-75_round1#q04|src_bmo_1974-75_round1__Q04]]
 
 
 
@@ -168,8 +160,6 @@ level: BMO Round 1
 
 > Per ogni intero positivo $m$ viene data quella $$1 + \binom{2m}{1}\cos\theta + \binom{2m}{2}\cos 2\theta + \ldots + \cos 2m\theta = \left(2\cos\tfrac{1}{2}\theta\right)^{2m}\cos m\theta$$ dove ci sono termini $2m+1$ sul lato sinistro. La funzione $f(\theta)$ è definita da una di queste espressioni. La funzione $g(\theta)$ è definita da $$g(\theta) = 1 + \binom{2m}{1}\cos 2\theta + \binom{2m}{2}\cos 4\theta + \ldots + \cos 2m\theta.$$ Dato che non esiste un $k$ razionale per il quale $a = k\pi$ trova i valori di $a$ per il quale $$\lim_{m \to \infty} \frac{g(a)}{f(a)} = \frac{1}{2}.$$
 
-[[Quesiti/src_bmo_1974-75_round1#q05|src_bmo_1974-75_round1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica"></span>
@@ -195,8 +185,6 @@ level: BMO Round 1
 *Prove una disuguaglianza tra due funzioni razionali di x e y*
 
 > Prova che se $n$ è un numero intero superiore a $1$ e $x > y > 1$, allora $$\frac{x^{n+1}-1}{x(x^{n-1}-1)} > \frac{y^{n+1}-1}{y(y^{n-1}-1)}.$$
-
-[[Quesiti/src_bmo_1974-75_round1#q06|src_bmo_1974-75_round1__Q06]]
 
 
 
@@ -224,8 +212,6 @@ level: BMO Round 1
 
 > Prove che esiste solo un insieme di numeri reali $x_1, x_2, \ldots, x_n$ tale che $$(1-x_1)^2 + (x_1-x_2)^2 + \ldots + (x_{n-1}-x_n)^2 + x_n^2 = \frac{1}{n+1}.$$
 
-[[Quesiti/src_bmo_1974-75_round1#q07|src_bmo_1974-75_round1__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione"></span>
@@ -250,5 +236,3 @@ level: BMO Round 1
 *Fraczione di vetro di vino conico occupato dall'acqua quando inclinato*
 
 > L'interno di un bicchiere di vino è un cono a destra circolare. Il bicchiere è a metà riempito di acqua e poi lentamente inclinato in modo che l'acqua inizi e continui a scorrere da un punto $P$ sul bordo. Quale frazione dell'intero interno conico è occupata dall'acqua quando il piano orizzontale del livello dell'acqua divide il generatore del cono più lontano da $P$?
-
-[[Quesiti/src_bmo_1974-75_round1#q08|src_bmo_1974-75_round1__Q08]]

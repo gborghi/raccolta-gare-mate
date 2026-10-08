@@ -53,8 +53,6 @@ level: OBM Nível 2
 > 
 > b) Un numero robusto è chiamato *super robusto* se tutti i suoi numeri sono distinti. Calcola la somma di tutti i numeri super-robusti.
 
-[[Quesiti/src_obm_2019_n2_fx#q01|src_obm_2019_n2_fx__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_disuguaglianze,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -86,8 +84,6 @@ level: OBM Nível 2
 > 
 > Prove che $a + b \ge 4k$.
 
-[[Quesiti/src_obm_2019_n2_fx#q02|src_obm_2019_n2_fx__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -113,8 +109,6 @@ level: OBM Nível 2
 
 > $ABC$ sia un triangolo rettangolo inciso in un cerchio $\Gamma$ con centro $O$. $D$ sia il piede dell'altitudine dal vertice $A$. $E$ e $F$ siano punti su $\Gamma$ in modo tale che $AE = AD = AF$. I punti di intersezione della linea $EF$ sono $P$ e $Q$ con i lati $AB$ e $AC$, rispettivamente. Il punto di intersezione $X$ è il secondo punto di intersezione della linea $EF$ con il circolo circonscritto del triangolo $APQ$. Indicare che le linee $XD$ e $AQ$ si incontrano su $\Gamma$.
 
-[[Quesiti/src_obm_2019_n2_fx#q03|src_obm_2019_n2_fx__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_astrazione,skill_manipolazione_algebrica"></span>
@@ -139,8 +133,6 @@ level: OBM Nível 2
 5 punti su un cerchio: riflessioni di D su lati di un triangolo acuto
 
 > Il $ABC$ deve essere un triangolo acuto e il $D$ un punto laterale $BC$. Il $E$ deve essere il riflesso di $D$ sulla linea $AC$, e il $F$ deve essere il riflesso di $D$ sulla linea $AB$. La linea $ED$ interseca la linea $AB$ a $G$, mentre la linea $FD$ interseca la linea $AC$ a $H$. Prova che i punti $A$, $E$, $F$, $G$ e $H$ si trovano tutti su un cerchio comune.
-
-[[Quesiti/src_obm_2019_n2_fx#q04|src_obm_2019_n2_fx__Q04]]
 
 
 
@@ -175,8 +167,6 @@ level: OBM Nível 2
 
 ![[src_obm_2019_n2_fx__q05.png]]
 
-[[Quesiti/src_obm_2019_n2_fx#q05|src_obm_2019_n2_fx__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_casework,skill_modellizzazione,skill_astrazione,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
@@ -201,5 +191,3 @@ level: OBM Nível 2
 *Prove 2019 che esistono punti di reticolare reciprocamente visibili nel piano*
 
 > Nel piano cartesiano, tutti i punti con entrambe le coordinate sono di colore blu. Si dice che due punti blu siano *visibili reciprocamente* se il segmento di linea che li collega non contiene altri punti blu. Prove che esiste un insieme di punti blu $2019$ che sono in coppia reciprocamente visibili.
-
-[[Quesiti/src_obm_2019_n2_fx#q06|src_obm_2019_n2_fx__Q06]]

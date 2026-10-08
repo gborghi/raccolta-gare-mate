@@ -33,8 +33,6 @@ level: Olimpiade Polacca Round 1
 
 > Risolvere il sistema di equazioni $x|x| + y|y| = |x| + |y| = 1$.
 
-[[Quesiti/src_pol_1997_r1#q01|src_pol_1997_r1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
@@ -59,8 +57,6 @@ level: Olimpiade Polacca Round 1
 *In un parallelo con un punto interno che dà un'eguaglianza d'angolo, dimostrare un'altra eguaglianza d'angolo.*
 
 > $P$ deve essere un punto all'interno di un parallelo $ABCD$ tale che $\angle ABP = \angle ADP$. Prove che $\angle PAB = \angle PCB$.
-
-[[Quesiti/src_pol_1997_r1#q02|src_pol_1997_r1__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: Olimpiade Polacca Round 1
 
 > $a, b \ge 1$, $c \ge 0$ siano numeri reali e $n \ge 1$ un numero intero. Provare che $$(ab + c)^n - c \le a^n \left( (b + c)^n - c \right).$$
 
-[[Quesiti/src_pol_1997_r1#q03|src_pol_1997_r1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -113,8 +107,6 @@ level: Olimpiade Polacca Round 1
 *Prove che un intero n di almeno 2 è composto se esistono alcuni interi positivi a,b,x,y.*
 
 > Prova che un intero $n \ge 2$ è composto se e solo se ci sono interi positivi $a, b, x, y$ con $a + b = n$ e $\frac{x}{a} + \frac{y}{b} = 1$.
-
-[[Quesiti/src_pol_1997_r1#q04|src_pol_1997_r1__Q04]]
 
 
 
@@ -141,8 +133,6 @@ level: Olimpiade Polacca Round 1
 
 > I bisettori angolari degli angoli $A$, $B$, $C$ di un triangolo $ABC$ incontrano i lati opposti rispettivamente a $D$, $E$, $F$ e il cerchio circoscritto di $\triangle ABC$ a $K$, $L$ e $M$. Provare che $$\frac{AD}{DK} + \frac{BE}{EL} + \frac{CF}{FM} \ge 1.$$
 
-[[Quesiti/src_pol_1997_r1#q05|src_pol_1997_r1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -166,8 +156,6 @@ level: Olimpiade Polacca Round 1
 *Determine P(0) per un polinomio di grado n che assume il valore 1/k a potenze di 2.*
 
 > Se $P(x)$ è un polinomio di grado $n$ tale che $P(k) = 1/k$ per $k = 1, 2, 4, 8, \ldots, 2^n$, determinare $P(0)$.
-
-[[Quesiti/src_pol_1997_r1#q06|src_pol_1997_r1__Q06]]
 
 
 
@@ -194,8 +182,6 @@ level: Olimpiade Polacca Round 1
 
 > Trova il massimo dei volumi di tetraedri contenuti in una palla di un determinato raggio, il cui bordo è il diametro della palla.
 
-[[Quesiti/src_pol_1997_r1#q07|src_pol_1997_r1__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_congruenze,method_casi_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -220,8 +206,6 @@ level: Olimpiade Polacca Round 1
 *Contare i sottoinsiemi per somma rimanente mod 7 e per prodotto rimanente mod 7; trovare il rapporto a_n/b_n.*
 
 > $a_n$ indica il numero di tutti i sottogruppi non vuoti di $\{1, 2, \ldots, 6n\}$ la cui somma di elementi dà il rimanente $5$ diviso per $7$. Inoltre, $b_n$ è il numero di tutti i sottogruppi non vuoti di $\{1, 2, \ldots, 7n\}$ il cui prodotto degli elementi dà il rimanente $5$ diviso per $7$. Trova $a_n / b_n$.
-
-[[Quesiti/src_pol_1997_r1#q08|src_pol_1997_r1__Q08]]
 
 
 
@@ -248,8 +232,6 @@ level: Olimpiade Polacca Round 1
 
 > Trova tutte le funzioni $f : [1, \infty) \to [1, \infty)$ che soddisfano: (i) $f(x + 1) = \frac{f(x)^2 - 1}{x}$ per tutte le $x \ge 1$; (ii) la funzione $g(x) = f(x)/x$ è limitata.
 
-[[Quesiti/src_pol_1997_r1#q09|src_pol_1997_r1__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -273,8 +255,6 @@ level: Olimpiade Polacca Round 1
 *In un triangolo acuto con due punti interni che soddisfano le equazioni angolari, dimostrare che una condizione rettangolare è equivalente a Q essendo un ortocentro.*
 
 > Si deve $P, Q$ essere punti all'interno di un triangolo a angolo acuto $ABC$ in modo tale che $\angle ACP = \angle BCQ$ e $\angle CAP = \angle BAQ$. I piedi delle perpendicolari $D$, $E$ e $F$ siano rispettivamente $P$ a $BC$, $CA$ e $AB$. Prova che $\angle DEF = 90^\circ$ se e solo se $Q$ è l'ortocentro di $\triangle BDF$.
-
-[[Quesiti/src_pol_1997_r1#q10|src_pol_1997_r1__Q10]]
 
 
 
@@ -301,8 +281,6 @@ level: Olimpiade Polacca Round 1
 
 > Che $m$ sia un intero positivo e $P(x)$ un polinomio non costante con coefficienti interi. Prova che se $P(x)$ ha almeno tre radici di numeri interi distinte, allora $P(x) + 5^m$ ha al massimo una radice di numeri interi.
 
-[[Quesiti/src_pol_1997_r1#q11|src_pol_1997_r1__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_aritmetica,method_doppio_conteggio,method_congruenze,skill_conteggio_sistematico,skill_modellizzazione"></span>
@@ -327,5 +305,3 @@ level: Olimpiade Polacca Round 1
 *Per n persone che cenano tre volte e ogni coppia si riunisce esattamente una volta, dimostrare che n è congruente a 1 o 3 mod 6.*
 
 > Un gruppo di persone $n$ notò che, per un certo periodo di tempo, tre di loro potrebbero andare a cena insieme, ogni coppia si riunisce esattamente a una cena. Prova che $n \equiv 1$ o $n \equiv 3 \pmod{6}$.
-
-[[Quesiti/src_pol_1997_r1#q12|src_pol_1997_r1__Q12]]

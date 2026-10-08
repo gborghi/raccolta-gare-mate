@@ -64,7 +64,6 @@ level: kangourou
 > E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2021_student_gara#q01|src_kangourou_2021_student_gara__Q01]]
 
 
 
@@ -109,7 +108,6 @@ level: kangourou
 > E) 13
 
 **Answer:** A
-[[Quesiti/src_kangourou_2021_student_gara#q02|src_kangourou_2021_student_gara__Q02]]
 
 
 
@@ -157,7 +155,6 @@ level: kangourou
 > E) 5
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_student_gara#q03|src_kangourou_2021_student_gara__Q03]]
 
 
 
@@ -209,7 +206,6 @@ level: kangourou
 > E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2021_student_gara#q04|src_kangourou_2021_student_gara__Q04]]
 
 
 
@@ -320,7 +316,6 @@ level: kangourou
 > 0
 
 **Answer:** A
-[[Quesiti/src_kangourou_2021_student_gara#q05|src_kangourou_2021_student_gara__Q05]]
 
 
 
@@ -356,7 +351,6 @@ level: kangourou
 > A rectangular sheet of paper has sides of length x and y, with x > y. The rectangle can be rolled to form a cylinder (without the paper overlapping) in two different ways. What is the ratio of the volume of the longest cylinder to the volume of the shortest cylinder? A) y2 : x2 B) y : x C) 1 : 1 D) x : y E) x2 : y2
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_student_gara#q06|src_kangourou_2021_student_gara__Q06]]
 
 
 
@@ -402,7 +396,6 @@ level: kangourou
 > E) √x
 
 **Answer:** E
-[[Quesiti/src_kangourou_2021_student_gara#q07|src_kangourou_2021_student_gara__Q07]]
 
 
 
@@ -450,7 +443,6 @@ level: kangourou
 > E) 27
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_student_gara#q08|src_kangourou_2021_student_gara__Q08]]
 
 
 
@@ -491,7 +483,6 @@ level: kangourou
 > C) 2pq D) 3pq E) 4pq
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_student_gara#q09|src_kangourou_2021_student_gara__Q09]]
 
 
 
@@ -531,7 +522,6 @@ level: kangourou
 > The parabola in the figure is represented by an equation of the form y = ax2 + bx + c with distinct real numbers a, b and c. Which of the following equations can represent the line drawn in the figure? A) y = bx + c B) y = cx + b C) y = ax + b D) y = ax + c E) y = cx + a Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_student_gara#q10|src_kangourou_2021_student_gara__Q10]]
 
 
 
@@ -578,7 +568,6 @@ level: kangourou
 > E)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_student_gara#q11|src_kangourou_2021_student_gara__Q11]]
 
 
 
@@ -613,7 +602,6 @@ level: kangourou
 > Let A = (0, 1) ∪ (2, 3) be the union of the real intervals (0, 1) and (2, 3); and B = (1, 2) ∪ (3, 4). What is the set of the numbers a + b with a in A and b in B ? A) (1, 7) B) (1, 5) ∪ (5, 7) C) (1, 3) ∪ (3, 7) D) (1, 3) ∪ (3, 5) ∪ (5, 7) E) None of the above answers are correct.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_student_gara#q12|src_kangourou_2021_student_gara__Q12]]
 
 
 
@@ -679,7 +667,6 @@ level: kangourou
 >
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_student_gara#q13|src_kangourou_2021_student_gara__Q13]]
 
 
 
@@ -715,7 +702,6 @@ level: kangourou
 > We want to align, in any order, the first 1000 positive integers and, for each triple of adjacent numbers in the alignment, calculate the sum of the three numbers that make it up. What is the maximum number of odd sums that can be obtained? A) 997 B) 996 C) 995 D) 994 E) 993
 
 **Answer:** A
-[[Quesiti/src_kangourou_2021_student_gara#q14|src_kangourou_2021_student_gara__Q14]]
 
 
 
@@ -767,7 +753,6 @@ level: kangourou
 > E) None of the above answers is correct.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_student_gara#q15|src_kangourou_2021_student_gara__Q15]]
 
 
 
@@ -803,7 +788,6 @@ level: kangourou
 > Given a positive integer N, written in decimal form, we denote the product of its digits with p(N): for example, p(23) = 2 × 3 = 6. What is the value of the sum p(10) + p(11) + p(12) + ... + p(99) + p(100)? A) 2025 B) 4500 C) 5005 D) 5050 E) None of the above answers are correct.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2021_student_gara#q16|src_kangourou_2021_student_gara__Q16]]
 
 
 
@@ -856,7 +840,6 @@ level: kangourou
 > E) 23
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_student_gara#q17|src_kangourou_2021_student_gara__Q17]]
 
 
 
@@ -911,7 +894,6 @@ level: kangourou
 > E)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_student_gara#q18|src_kangourou_2021_student_gara__Q18]]
 
 
 
@@ -1004,7 +986,6 @@ level: kangourou
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_student_gara#q19|src_kangourou_2021_student_gara__Q19]]
 
 
 
@@ -1062,7 +1043,6 @@ level: kangourou
 > Questions from No. 21 to No. 30 are worth 5 points each
 
 **Answer:** E
-[[Quesiti/src_kangourou_2021_student_gara#q20|src_kangourou_2021_student_gara__Q20]]
 
 
 
@@ -1112,7 +1092,6 @@ level: kangourou
 > E) 8
 
 **Answer:** E
-[[Quesiti/src_kangourou_2021_student_gara#q21|src_kangourou_2021_student_gara__Q21]]
 
 
 
@@ -1160,7 +1139,6 @@ level: kangourou
 > E) 19
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_student_gara#q22|src_kangourou_2021_student_gara__Q22]]
 
 
 
@@ -1310,7 +1288,6 @@ level: kangourou
 >
 
 **Answer:** E
-[[Quesiti/src_kangourou_2021_student_gara#q23|src_kangourou_2021_student_gara__Q23]]
 
 
 
@@ -1363,7 +1340,6 @@ Whose child is the little kangaroo s?*
 > E) E
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_student_gara#q24|src_kangourou_2021_student_gara__Q24]]
 
 
 
@@ -1420,7 +1396,6 @@ Whose child is the little kangaroo s?*
 > E) 120
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_student_gara#q25|src_kangourou_2021_student_gara__Q25]]
 
 
 
@@ -1473,7 +1448,6 @@ Whose child is the little kangaroo s?*
 > D) 455 E) 23
 
 **Answer:** A
-[[Quesiti/src_kangourou_2021_student_gara#q26|src_kangourou_2021_student_gara__Q26]]
 
 
 
@@ -1554,7 +1528,6 @@ Whose child is the little kangaroo s?*
 >
 
 **Answer:** A
-[[Quesiti/src_kangourou_2021_student_gara#q27|src_kangourou_2021_student_gara__Q27]]
 
 
 
@@ -1611,7 +1584,6 @@ Whose child is the little kangaroo s?*
 > D) 5,5 E) 6
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_student_gara#q28|src_kangourou_2021_student_gara__Q28]]
 
 
 
@@ -1665,7 +1637,6 @@ Whose child is the little kangaroo s?*
 > E) 8
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_student_gara#q29|src_kangourou_2021_student_gara__Q29]]
 
 
 
@@ -1730,4 +1701,3 @@ Whose child is the little kangaroo s?*
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_student_gara#q30|src_kangourou_2021_student_gara__Q30]]

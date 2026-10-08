@@ -38,7 +38,8 @@ test("preprocess merges every translation sibling into qlang-split blocks", () =
     w(
       "src_test_2020__Q01__en.md",
       { secondary: "true", translation_of: "src_test_2020__Q01", lang: "en" },
-      "TESTO_Q01_EN\n",
+      // back-link glued to the answer line -> only the link goes, the answer stays
+      "TESTO_Q01_EN\n\n**Answer:** 3 [[src_test_2020__Q01]]\n",
     )
     w(
       "src_test_2020__Q01__it.md",
@@ -50,7 +51,9 @@ test("preprocess merges every translation sibling into qlang-split blocks", () =
     w(
       "src_test_2020__Q02__en.md",
       { secondary: "true", translation_of: "src_test_2020__Q02", lang: "en" },
-      "TESTO_Q02_EN\n",
+      // vault back-link on its own line right under the answer -> dropped; an aliased
+      // link to the same atom and a link to another note are content -> kept
+      "TESTO_Q02_EN\n\n**Answer:** 7\n  [[src_test_2020__Q02]]  \nSEE [[src_test_2020__Q02|vedi]] [[Topics/topic_x]]\n",
     )
     // Q03: original en; an en sibling (same lang -> skipped), a de sibling, and two it
     // siblings (duplicate -> newest by mtime kept)
@@ -89,6 +92,7 @@ test("preprocess merges every translation sibling into qlang-split blocks", () =
     })
     assert.match(log, /merged 5 translation siblings into 3 quesiti/)
     assert.match(log, /1 same-lang, 1 duplicate-lang/)
+    assert.match(log, /back-links \[\[<translation_of>\]\] dropped: 1 lone lines \+ 1 after Answer: in 2 siblings/)
 
     const page = readFileSync(path.join(out, "content", "Quesiti", "src_test_2020.md"), "utf8")
     const atoms = Object.fromEntries(
@@ -127,6 +131,11 @@ test("preprocess merges every translation sibling into qlang-split blocks", () =
       ),
     )
     assert.equal(q2.match(/qlang-split/g).length, 1)
+    // back-links: lone line dropped, answer kept, other links kept
+    assert.ok(q2.includes("**Answer:** 7"))
+    assert.ok(!/^\s*\[\[src_test_2020__Q02\]\]\s*$/m.test(q2), "lone back-link still there")
+    assert.ok(q2.includes("vedi]]") && q2.includes("topic_x"))
+    assert.ok(q1.includes("**Answer:** 3") && !/Answer:\*\* 3 \[\[/.test(q1))
 
     // Q03: en sibling skipped, it (newest) before de
     const q3 = atoms.q03

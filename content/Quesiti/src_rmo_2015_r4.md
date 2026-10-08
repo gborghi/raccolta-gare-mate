@@ -36,8 +36,6 @@ level: RMO
 
 ![[src_rmo_2015_r4__q01.png]]
 
-[[Quesiti/src_rmo_2015_r4#q01|src_rmo_2015_r4__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -62,8 +60,6 @@ level: RMO
 *Quadratici con valori interi a 0,1,2 implicano coefficienti interi*
 
 > Che $P(x) = x^2 + ax + b$ sia un polinomio quadratico dove $a$ è reale e $b \neq 2$ è razionale. Supponiamo che $P(0)^2$, $P(1)^2$, $P(2)^2$ siano numeri interi. Provare che $a$ e $b$ sono numeri interi.
-
-[[Quesiti/src_rmo_2015_r4#q02|src_rmo_2015_r4__Q02]]
 
 
 
@@ -91,8 +87,6 @@ level: RMO
 
 > Trova tutti gli integri $a, b, c$ in modo che $$a^2 = bc + 4, \quad b^2 = ca + 4.$$
 
-[[Quesiti/src_rmo_2015_r4#q03|src_rmo_2015_r4__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_casework,method_conteggio,method_inclusione_esclusione,skill_conteggio_sistematico,skill_casework_accurato,skill_ragionamento_geometrico"></span>
@@ -117,8 +111,6 @@ level: RMO
 *Contare i modi per scegliere 3 di 40 oggetti su un cerchio, non due adiacenti o diametralmente opposti*
 
 > Supponiamo che 40 oggetti siano posizionati lungo un cerchio a distanze uguali. In quanti modi si possono scegliere tre oggetti tra di loro in modo che nessuno dei tre oggetti scelti sia adiacente o diametralmente opposto?
-
-[[Quesiti/src_rmo_2015_r4#q04|src_rmo_2015_r4__Q04]]
 
 
 
@@ -148,8 +140,6 @@ level: RMO
 
 ![[src_rmo_2015_r4__q05.png]]
 
-[[Quesiti/src_rmo_2015_r4#q05|src_rmo_2015_r4__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_stima"></span>
@@ -178,5 +168,3 @@ level: RMO
 > Quanti integri $m$ soddisfano entrambe le seguenti proprietà: i) $1 \le m \le 5000$; ii) $[\sqrt{m}] = [\sqrt{m+125}]$?
 > 
 > (Qui $[x]$ indica il più grande numero intero non superiore a $x$, per qualsiasi numero reale $x$.)
-
-[[Quesiti/src_rmo_2015_r4#q06|src_rmo_2015_r4__Q06]]

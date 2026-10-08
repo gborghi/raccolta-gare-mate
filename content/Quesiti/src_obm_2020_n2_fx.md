@@ -32,8 +32,6 @@ level: OBM Nível 2
 
 > $ABC$ sia un triangolo rettangolo e $D$ un punto su $BC$ tale che $AD \perp BC$. Il bisettore di angolo $\angle DAC$ incontra il segmento $DC$ a $E$. $F$ sia il punto della linea $AE$ in modo tale che $BF \perp AE$. Dato che $\angle BAE = 45^\circ$, trovare la misura di $\angle BFC$.
 
-[[Quesiti/src_obm_2020_n2_fx#q01|src_obm_2020_n2_fx__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
@@ -66,8 +64,6 @@ level: OBM Nível 2
 > $$x^2 - 824x + \blacksquare 43 = 0 \text{ has two integer solutions.}$$
 > 
 > Qui $\blacksquare$ rappresenta un certo numero di cifre che sono state cancellate dalla lavagna. Quali sono tutte le possibili equazioni che sono state originariamente scritte sulla lavagna?
-
-[[Quesiti/src_obm_2020_n2_fx#q02|src_obm_2020_n2_fx__Q02]]
 
 
 
@@ -105,8 +101,6 @@ level: OBM Nível 2
 > 
 > Trova il minimo valore possibile di $x_1$ per il quale la sequenza contiene un termine pari a $2020$.
 
-[[Quesiti/src_obm_2020_n2_fx#q03|src_obm_2020_n2_fx__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
@@ -140,8 +134,6 @@ level: OBM Nível 2
 > 
 > Quanti numeri $4$ sono supercilindrici?
 
-[[Quesiti/src_obm_2020_n2_fx#q04|src_obm_2020_n2_fx__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -166,8 +158,6 @@ level: OBM Nível 2
 *Prove l'eguaglianza angolare utilizzando circoli di due triangoli in un triangolo acuto*
 
 > $ABC$ sia un triangolo acuto con il centro circundante $O$. Il $M$ è il punto medio del $AB$ e $K \ne C$ il secondo punto di intersezione dei circoncircoli dei triangoli $ACK$ e $OMB$. Le linee $CK$ e $OM$ si incontrano a $P$. Prova che $\angle KAP = \angle MCB$.
-
-[[Quesiti/src_obm_2020_n2_fx#q05|src_obm_2020_n2_fx__Q05]]
 
 
 
@@ -197,5 +187,3 @@ level: OBM Nível 2
 > $k$ sia un numero intero positivo. Arnaldo e Bernaldo giocano su una tavola $2020 \times 2020$. Inizialmente tutte le celle della lavagna sono vuote. Una mossa consiste nel scegliere una cella vuota e metterci un token blu o rosso. Bernaldo vince se in qualsiasi momento esistono $k$ celle consecutive nella stessa riga o colonna tutte piene di gettoni dello stesso colore. Arnaldo è il primo, e da allora i giocatori si alternano. Arnaldo vince se a un certo punto l'intero tavolo viene riempito senza che Bernaldo vinca.
 > 
 > Trova tutti i valori di $k$ per i quali Arnaldo ha una strategia vincente.
-
-[[Quesiti/src_obm_2020_n2_fx#q06|src_obm_2020_n2_fx__Q06]]

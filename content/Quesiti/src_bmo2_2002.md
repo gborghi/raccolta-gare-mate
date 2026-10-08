@@ -33,8 +33,6 @@ level: BMO Round 2
 
 > L'altitudine da uno dei vertici di un triangolo acuto $ABC$ incontra il lato opposto a $D$. Da $D$ le perpendicolari $DE$ e $DF$ sono tracciate verso gli altri due lati. Prove che la lunghezza di $EF$ è la stessa a seconda del vertice scelto.
 
-[[Quesiti/src_bmo2_2002#q01|src_bmo2_2002__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_casework,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
@@ -59,8 +57,6 @@ level: BMO Round 2
 *I delegati dei posti di lavoro della conferenza trovano un insieme di valori di n*
 
 > Una sala conferenze dispone di un tavolo rotondo con sedie $n$. Ci sono delegati $n$ alla conferenza. Il primo delegato siede ovunque. Successivamente il delegato $(k+1)$ siede $k$ a destra del delegato $k$, per $1 \le k \le n-1$. (In particolare, il secondo delegato siede accanto al primo) Non possono occuparsi due delegati nello stesso posto. Trova l'insieme di valori di $n$ per il quale questo è possibile.
-
-[[Quesiti/src_bmo2_2002#q02|src_bmo2_2002__Q02]]
 
 
 
@@ -89,8 +85,6 @@ level: BMO Round 2
 
 > Prove che la sequenza definita da $$b_0 = 1, \quad b_1 = 1, \quad b_{n+1} = b_n^2 - b_{n-1} \quad (n \ge 1)$$ è composta solo da numeri interi.
 
-[[Quesiti/src_bmo2_2002#q03|src_bmo2_2002__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,topic_disuguaglianze,method_disuguaglianze,method_induzione,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_stima"></span>
@@ -115,5 +109,3 @@ level: BMO Round 2
 *N sfere unità disposte in modo che ciascuna tocchi esattamente altre due; lunghezza tangente legata*
 
 > Supponiamo che $B_1, \ldots, B_N$ siano sfere $N$ di raggio unitario disposte nello spazio in modo che ciascuna sfera tocchi esattamente due altre esternamente. Che $P$ sia un punto al di fuori di tutte queste sfere, e che i punti di contatto $N$ siano $C_1, \ldots, C_N$. La lunghezza della tangente da $P$ alla sfera $B_i$ $(1 \le i \le N)$ è indicata da $t_i$. Prove che il prodotto delle quantità $t_i$ non è superiore al quadrato della distanza $PC$.
-
-[[Quesiti/src_bmo2_2002#q04|src_bmo2_2002__Q04]]

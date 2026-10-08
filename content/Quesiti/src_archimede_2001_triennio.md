@@ -44,8 +44,6 @@ level: triennio
 > - **(D)** 108
 > - **(E)** It's impossible to determine.
 
-[[Quesiti/src_archimede_2001_triennio#q01|src_archimede_2001_triennio__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,skill_conteggio_sistematico"></span>
@@ -85,8 +83,6 @@ level: triennio
 > - **(D)** 8
 > - **(E)** It's going to be endless.
 
-[[Quesiti/src_archimede_2001_triennio#q02|src_archimede_2001_triennio__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,skill_modellizzazione"></span>
@@ -125,8 +121,6 @@ level: triennio
 > - **(D)** 20 students have contact lenses
 > - **(E)** None of the previous ones.
 
-[[Quesiti/src_archimede_2001_triennio#q03|src_archimede_2001_triennio__Q03]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_geometria_analitica,method_coordinate,skill_manipolazione_algebrica"></span>
@@ -164,8 +158,6 @@ level: triennio
 > - **(C)** α > 0
 > - **(D)** α = √ 3
 > - **(E)** α ̸= 0. ( x2 + y2 = α x = 3y
-
-[[Quesiti/src_archimede_2001_triennio#q06|src_archimede_2001_triennio__Q06]]
 
 
 
@@ -207,8 +199,6 @@ level: triennio
 > - **(D)** 1600
 > - **(E)** Only the girls get a purse.
 
-[[Quesiti/src_archimede_2001_triennio#q07|src_archimede_2001_triennio__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_probabilita,method_congruenze,skill_conteggio_sistematico"></span>
@@ -247,8 +237,6 @@ Probability of partial sums of launches not divisible by 7
 > - **(C)** 25 36
 > - **(D)** 3 4
 > - **(E)** 5 6.
-
-[[Quesiti/src_archimede_2001_triennio#q08|src_archimede_2001_triennio__Q08]]
 
 
 
@@ -291,8 +279,6 @@ Probability of partial sums of launches not divisible by 7
 > - **(C)** 53
 > - **(D)** 58
 > - **(E)** √ 482 + 102.
-
-[[Quesiti/src_archimede_2001_triennio#q09|src_archimede_2001_triennio__Q09]]
 
 
 
@@ -343,8 +329,6 @@ Guilty and complicit in the theft
 > - **(D)** Aldo and Darius
 > - **(E)** There's no way to deduce that.
 
-[[Quesiti/src_archimede_2001_triennio#q10|src_archimede_2001_triennio__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,topic_algebra,skill_manipolazione_algebrica"></span>
@@ -381,8 +365,6 @@ Guilty and complicit in the theft
 > - **(C)** P(3) may not be used 92
 > - **(D)** P(4) may not be worth 20
 > - **(E)** P(5) cannot be worth 150.
-
-[[Quesiti/src_archimede_2001_triennio#q11|src_archimede_2001_triennio__Q11]]
 
 
 
@@ -421,8 +403,6 @@ Guilty and complicit in the theft
 > - **(D)** 4
 > - **(E)** infinite.
 
-[[Quesiti/src_archimede_2001_triennio#q12|src_archimede_2001_triennio__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
@@ -457,8 +437,6 @@ Guilty and complicit in the theft
 ![[src_archimede_2001_triennio__prob13.png]]
 
 > In the figure below, calculate the CD knowing that OB = 1, $\widehat{ABC}$ = 45°, $\widehat{BCD}$ = 15°. A B C b O D
-
-[[Quesiti/src_archimede_2001_triennio#q13|src_archimede_2001_triennio__Q13]]
 
 
 
@@ -497,8 +475,6 @@ Guilty and complicit in the theft
 > - **(D)** 3025
 > - **(E)** 4525.
 
-[[Quesiti/src_archimede_2001_triennio#q14|src_archimede_2001_triennio__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica"></span>
@@ -535,8 +511,6 @@ Guilty and complicit in the theft
 > - **(C)** x > 9
 > - **(D)** x < 1 9
 > - **(E)** x < 9.
-
-[[Quesiti/src_archimede_2001_triennio#q15|src_archimede_2001_triennio__Q15]]
 
 
 
@@ -579,8 +553,6 @@ Guilty and complicit in the theft
 > - **(D)** 180°−2y
 > - **(E)** y.
 
-[[Quesiti/src_archimede_2001_triennio#q16|src_archimede_2001_triennio__Q16]]
-
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_logica,topic_algebra,skill_modellizzazione"></span>
@@ -620,8 +592,6 @@ Guilty and complicit in the theft
 > - **(C)** 60
 > - **(D)** 90
 > - **(E)** 99.
-
-[[Quesiti/src_archimede_2001_triennio#q18|src_archimede_2001_triennio__Q18]]
 
 
 
@@ -706,8 +676,6 @@ Guilty and complicit in the theft
 > - **(D)** 6
 > - **(E)** 2 √ 3.
 
-[[Quesiti/src_archimede_2001_triennio#q19|src_archimede_2001_triennio__Q19]]
-
 
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_funzionali,topic_algebra,method_backward,skill_manipolazione_algebrica"></span>
@@ -746,8 +714,6 @@ Guilty and complicit in the theft
 > - **(C)** 3
 > - **(D)** 4
 > - **(E)** 5.
-
-[[Quesiti/src_archimede_2001_triennio#q21|src_archimede_2001_triennio__Q21]]
 
 
 
@@ -791,8 +757,6 @@ Guilty and complicit in the theft
 > - **(D)** 36
 > - **(E)** 50.
 
-[[Quesiti/src_archimede_2001_triennio#q22|src_archimede_2001_triennio__Q22]]
-
 
 
 <span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_disuguaglianze,topic_algebra,skill_manipolazione_algebrica"></span>
@@ -834,8 +798,6 @@ Guilty and complicit in the theft
 > - **(C)** p < q < r
 > - **(D)** q < p < r
 > - **(E)** q < r < p.
-
-[[Quesiti/src_archimede_2001_triennio#q23|src_archimede_2001_triennio__Q23]]
 
 
 
@@ -879,8 +841,6 @@ Guilty and complicit in the theft
 > - **(D)** 1 2
 > - **(E)** 2 3.
 
-[[Quesiti/src_archimede_2001_triennio#q24|src_archimede_2001_triennio__Q24]]
-
 
 
 <span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica"></span>
@@ -918,5 +878,3 @@ Guilty and complicit in the theft
 > - **(C)** 4
 > - **(D)** 6
 > - **(E)** 8.
-
-[[Quesiti/src_archimede_2001_triennio#q25|src_archimede_2001_triennio__Q25]]

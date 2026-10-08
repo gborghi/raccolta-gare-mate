@@ -33,8 +33,6 @@ level: JMO Honsen
 
 > $P(x)$ sia un polinomio con coefficienti interi tali che $P(n^2)=0$ per alcuni numeri interi non zero $n$. Prova che per ogni numero razionale non zero $a$, abbiamo $P(a^2)\neq 1$.
 
-[[Quesiti/src_jmo18mq_honsen#q01|src_jmo18mq_honsen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_invarianti,method_estremalita,method_casework,skill_modellizzazione,skill_conteggio_sistematico"></span>
@@ -68,8 +66,6 @@ level: JMO Honsen
 > 
 > Determinare il numero massimo possibile di giri fino al primo momento in cui ogni giocatore detiene esattamente una carta rossa e una carta bianca.
 
-[[Quesiti/src_jmo18mq_honsen#q02|src_jmo18mq_honsen__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico"></span>
@@ -94,8 +90,6 @@ level: JMO Honsen
 *Circolo attraverso A e circoncentro incontra lati; PQ=BC, angolo*
 
 > Che $O$ sia il centro circundante di un triangolo acuto $ABC$. Un cerchio che attraversa i due punti $A$ e $O$ incontra di nuovo le linee $AB$ e $AC$ rispettivamente nei punti $P$ e $Q$ (con $P,Q\neq A$). Supponiamo che il segmento $PQ$ abbia la stessa lunghezza del segmento $BC$. Trova la misura dell'angolo tra la linea $PQ$ e la linea $BC$ che è al massimo $90^\circ$.
-
-[[Quesiti/src_jmo18mq_honsen#q03|src_jmo18mq_honsen__Q03]]
 
 
 
@@ -122,8 +116,6 @@ level: JMO Honsen
 *Ricerca tutte le funzioni reali che soddisfano una determinata equazione funzionale*
 
 > Trovare tutte le funzioni $f$, definite sui numeri reali e assumendo valori reali, in modo che per tutti i numeri reali $x,y$, $$f(x+y)\,f\big(f(x)-y\big)=x\,f(x)-y\,f(y).$$
-
-[[Quesiti/src_jmo18mq_honsen#q04|src_jmo18mq_honsen__Q04]]
 
 
 
@@ -154,5 +146,3 @@ level: JMO Honsen
 > Esiste un numero intero positivo $n$ che soddisfa la seguente condizione?
 > 
 > Condizione: per ogni numero razionale $r$, esiste un intero $b$ e un intero non zero $a_1,\dots,a_n$ tale che $$r=b+\frac{1}{a_1}+\cdots+\frac{1}{a_n}.$$
-
-[[Quesiti/src_jmo18mq_honsen#q05|src_jmo18mq_honsen__Q05]]

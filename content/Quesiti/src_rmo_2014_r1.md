@@ -37,8 +37,6 @@ level: RMO
 
 ![[src_rmo_2014_r1__q01.png]]
 
-[[Quesiti/src_rmo_2014_r1#q01|src_rmo_2014_r1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,skill_manipolazione_algebrica,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -68,8 +66,6 @@ level: RMO
 
 > $a_1, a_2, \ldots, a_{2n}$ sia una progressione aritmetica dei numeri reali positivi con differenza comune $d$. Per i) $a_1^2 + a_3^2 + \cdots + a_{2n-1}^2 = x$, ii) $a_2^2 + a_4^2 + \cdots + a_{2n}^2 = y$ e iii) $a_n + a_{n+1} = z$. Esprimere $d$ in termini di $x$, $y$, $z$, $n$.
 
-[[Quesiti/src_rmo_2014_r1#q02|src_rmo_2014_r1__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -94,8 +90,6 @@ level: RMO
 *I numeri di 2^r permutati danno 2^s; provare r=s*
 
 > Supponiamo che per alcuni integri positivi $r$ e $s$, le cifre di $2^r$ siano ottenute permutando le cifre di $2^s$ in espansione decimale. Prove che $r = s$.
-
-[[Quesiti/src_rmo_2014_r1#q03|src_rmo_2014_r1__Q03]]
 
 
 
@@ -126,8 +120,6 @@ level: RMO
 
 ![[src_rmo_2014_r1__q04.png]]
 
-[[Quesiti/src_rmo_2014_r1#q04|src_rmo_2014_r1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -152,8 +144,6 @@ level: RMO
 *Triangolo acuto, ortocentro, circoncircoli: trovare il punto X indipendente da P*
 
 > Lasciate che $ABC$ sia un triangolo a angolo acuto e che $H$ sia il suo centro orto. Per ogni punto $P$ sul circoncircolo del triangolo $ABC$, $Q$ deve essere il punto di intersezione della linea $BH$ con la linea $AP$. Indicare che sul circoncircolo di $ABC$ vi è un punto unico $X$ tale che per ogni punto $P \neq A, B$ il circoncircolo di $HQP$ passi attraverso $X$.
-
-[[Quesiti/src_rmo_2014_r1#q05|src_rmo_2014_r1__Q05]]
 
 
 
@@ -180,5 +170,3 @@ level: RMO
 *Rali positivi sommati a 1; trovare il più piccolo K per la disuguaglianza sommata*
 
 > $x_1, x_2, \ldots, x_{2014}$ siano numeri reali positivi come $\sum_{j=1}^{2014} x_j = 1$. Determinare con prova la costante più piccola $K$ in modo tale che $$K \sum_{j=1}^{2014} \frac{x_j^2}{1 - x_j} \ge 1.$$
-
-[[Quesiti/src_rmo_2014_r1#q06|src_rmo_2014_r1__Q06]]

@@ -33,8 +33,6 @@ level: JMO Honsen
 
 > $n$ sia un numero intero positivo. Due giocatori si alternano dicendo numeri interi tra $1$ e $n$ inclusivi (ogni numero intero può essere detto una volta al massimo). La partita finisce quando non restano numeri interi. Se la somma dei numeri interi indicati dal primo giocatore è divisibile per $3$, il primo giocatore vince; altrimenti il secondo giocatore vince. Trova tutte le $n$ per le quali il primo giocatore ha una strategia vincente.
 
-[[Quesiti/src_jmo17mq_honsen#q01|src_jmo17mq_honsen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_funzionali,topic_disuguaglianze,method_disuguaglianze,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
@@ -62,8 +60,6 @@ level: JMO Honsen
 
 > Lasciate che $f$ sia una funzione definita sui valori reali positivi e che prenda valori reali positivi. Trovare tutti tali $f$ soddisfacenti: per ogni coppia di valori reali positivi $x, y$, $$f(x) + f(y) \le \frac{f(x+y)}{2} + \frac{f(x)}{x} + \frac{f(y)}{y} \ge \frac{f(x+y)}{x+y}.$$ (cioè contemporaneamente $f(x)+f(y) \le \dfrac{f(x+y)}{2} + \dfrac{f(x)}{x} + \dfrac{f(y)}{y}$ e $\dfrac{f(x)}{x} + \dfrac{f(y)}{y} \ge \dfrac{f(x+y)}{x+y}$.)
 
-[[Quesiti/src_jmo17mq_honsen#q02|src_jmo17mq_honsen__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -71,7 +67,7 @@ level: JMO Honsen
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Four circles tangent to triangle sides meet at a point*
+*Three circles, each tangent to two sides of a triangle and internally tangent to its circumcircle: the lines from the vertices to the points of contact are concurrent*
 
 > Let $\triangle ABC$ be a triangle. Let $\Gamma$ be its circumscribed circle (circumcircle). Let $\Gamma_A$ be the circle internally tangent to $\Gamma$ and tangent to sides $AB$ and $AC$; let $\Gamma_B$ be the circle internally tangent to $\Gamma$ and tangent to sides $AB$ and $BC$; let $\Gamma_C$ be the circle internally tangent to $\Gamma$ and tangent to sides $AC$ and $BC$. Denote the points of tangency of $\Gamma_A$, $\Gamma_B$, $\Gamma_C$ with $\Gamma$ by $P$, $Q$, $R$ respectively. Prove that the lines $AP$, $BQ$, $CR$ are concurrent.
 
@@ -85,11 +81,9 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro cerchi tangenti ai lati del triangolo si incontrano in un punto*
+*Tre circonferenze tangenti a due lati di un triangolo e internamente alla circonferenza circoscritta: le rette dai vertici ai punti di contatto sono concorrenti*
 
-> Lasciate che $\triangle ABC$ sia un triangolo. $\Gamma$ sia il suo circolo circonscritto (circolo circonscritto). Il $\Gamma_A$ deve essere il cerchio interno tangente a $\Gamma$ e tangente ai lati $AB$ e $AC$; $\Gamma_B$ deve essere il cerchio interno tangente a $\Gamma$ e tangente ai lati $AB$ e $BC$; $\Gamma_C$ deve essere il cerchio interno tangente a $\Gamma$ e tangente ai lati $AC$ e $BC$. Indicare rispettivamente i punti di tangenza di $\Gamma_A$, $\Gamma_B$, $\Gamma_C$ con $\Gamma$ per $P$, $Q$ e $R$. Prove che le linee $AP$, $BQ$, $CR$ sono simultanee.
-
-[[Quesiti/src_jmo17mq_honsen#q03|src_jmo17mq_honsen__Q03]]
+> Sia $\triangle ABC$ un triangolo e sia $\Gamma$ la sua circonferenza circoscritta. Sia $\Gamma_A$ la circonferenza tangente internamente a $\Gamma$ e tangente ai lati $AB$ e $AC$; sia $\Gamma_B$ la circonferenza tangente internamente a $\Gamma$ e tangente ai lati $AB$ e $BC$; sia $\Gamma_C$ la circonferenza tangente internamente a $\Gamma$ e tangente ai lati $AC$ e $BC$. Siano $P$, $Q$, $R$ rispettivamente i punti di tangenza di $\Gamma_A$, $\Gamma_B$, $\Gamma_C$ con $\Gamma$. Dimostrare che le rette $AP$, $BQ$, $CR$ sono concorrenti.
 
 
 
@@ -115,8 +109,6 @@ level: JMO Honsen
 *Band di larghezza sqrt(2) che copre quattro punti del piano*
 
 > Nel piano, definire l'insieme di tutti i punti la cui distanza da una data linea è al massimo $\frac{d}{2}$ una "banda di larghezza $d$". Se i punti $A$, $B$, $C$, $D$ sono quattro punti del piano. Supponiamo che per qualsiasi scelta di tre di questi quattro punti, esista una fascia di larghezza $1$ che contiene tutti e tre. Prove che esiste una banda di larghezza $\sqrt{2}$ che contiene tutti e quattro i punti.
-
-[[Quesiti/src_jmo17mq_honsen#q04|src_jmo17mq_honsen__Q04]]
 
 
 
@@ -144,5 +136,3 @@ level: JMO Honsen
 *Alfa irrazionale tale che beta in A(alfa) implica che beta/alfa è un intero*
 
 > Per un numero reale $r$, $\lfloor r \rfloor$ indica il numero intero più grande non superiore a $r$. Per un numero reale positivo $x$, definire l'insieme $$A(x) = \{\lfloor nx \rfloor \mid n \text{ is a positive integer}\}.$$ Trovare tutti i numeri irrazionali $\alpha > 1$ in modo tale che: ogni volta che $\beta$ è un vero positivo con $A(\alpha) \supset A(\beta)$, il rapporto $\dfrac{\beta}{\alpha}$ è un intero.
-
-[[Quesiti/src_jmo17mq_honsen#q05|src_jmo17mq_honsen__Q05]]

@@ -32,8 +32,6 @@ level: IMO
 
 > Si dimostri che da un insieme di dieci numeri interi distinti a due cifre (nel sistema decimale) è sempre possibile scegliere due sottoinsiemi disgiunti i cui elementi abbiano la stessa somma.
 
-[[Quesiti/src_imo_1972_all#q01|src_imo_1972_all__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_induzione"></span>
@@ -57,8 +55,6 @@ level: IMO
 *Scomporre un quadrilatero ciclico in n quadrilateri ciclici*
 
 > Si dimostri che se $n \geq 4$, ogni quadrilatero che può essere inscritto in una circonferenza può essere scomposto in $n$ quadrilateri ciascuno dei quali può essere inscritto in una circonferenza.
-
-[[Quesiti/src_imo_1972_all#q02|src_imo_1972_all__Q02]]
 
 
 
@@ -91,8 +87,6 @@ level: IMO
 > $$\frac{(2m)!(2n)!}{m!\,n!\,(m+n)!}$$
 > 
 > è un numero intero. ($0! = 1$.)
-
-[[Quesiti/src_imo_1972_all#q03|src_imo_1972_all__Q03]]
 
 
 
@@ -138,8 +132,6 @@ level: IMO
 > 
 > dove $x_1, x_2, x_3, x_4, x_5$ sono numeri reali positivi.
 
-[[Quesiti/src_imo_1972_all#q04|src_imo_1972_all__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali"></span>
@@ -171,8 +163,6 @@ level: IMO
 > 
 > Per ogni $x, y$. Si dimostri che se $f(x)$ non è identicamente nullo e se $|f(x)| \leq 1$ per ogni $x$, allora $|g(y)| \leq 1$ per ogni $y$.
 
-[[Quesiti/src_imo_1972_all#q05|src_imo_1972_all__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico"></span>
@@ -197,5 +187,3 @@ level: IMO
 *Tetraedro regolare con un vertice su ciascuno dei quattro piani paralleli*
 
 > Siano dati quattro piani paralleli distinti. Si dimostri che esiste un tetraedro regolare avente un vertice su ciascun piano.
-
-[[Quesiti/src_imo_1972_all#q06|src_imo_1972_all__Q06]]

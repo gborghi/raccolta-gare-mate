@@ -45,7 +45,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > In alphabetical order, which of these eleven numbers will occupy the third position?
 
 **Answer:** TRE
-[[Quesiti/src_bocconi_finalenaz_2012#q01|src_bocconi_finalenaz_2012__Q01]]
 
 
 
@@ -75,7 +74,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Renato has long legs, and every two steps he advances by a foot and a half. When he goes from home to school, he's used to counting his steps; halfway through, he stops and thinks, "I've already taken 800 steps". What's the distance in meters between Renato's house and the school?
 
 **Answer:** 1200
-[[Quesiti/src_bocconi_finalenaz_2012#q02|src_bocconi_finalenaz_2012__Q02]]
 
 
 
@@ -105,7 +103,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Carla has noted that six seconds pass from the first to the last stroke when the clock in her country's church strikes at 6 a.m. How many seconds pass (from the first to the last stroke) when the same clock, five hours later, strikes 11?
 
 **Answer:** 12
-[[Quesiti/src_bocconi_finalenaz_2012#q03|src_bocconi_finalenaz_2012__Q03]]
 
 
 
@@ -136,7 +133,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > A week ago it was May 12, 2012, which you can write as May 12, 2012. If you rewrite these numbers, you get: $1+2+0+5+2+0+1+2=13$. What is the next date for which the sum of the digits (as done with 12 May 2012) is equal to 39?
 
 **Answer:** 29-09-2089
-[[Quesiti/src_bocconi_finalenaz_2012#q04|src_bocconi_finalenaz_2012__Q04]]
 
 
 
@@ -170,8 +166,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 ![[src_bocconi_finalenaz_2012__q05.png]]
 
-**Answer:** (due soluzioni mostrate in figura)
-[[Quesiti/src_bocconi_finalenaz_2012#q05|src_bocconi_finalenaz_2012__Q05]]
+**Answer:** (two solutions shown in the figure)
 
 
 
@@ -207,7 +202,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 ![[src_bocconi_finalenaz_2012__q06.png]]
 
 **Answer:** $1234 - 5 - 6 + 789$
-[[Quesiti/src_bocconi_finalenaz_2012#q06|src_bocconi_finalenaz_2012__Q06]]
 
 
 
@@ -238,7 +232,6 @@ Maximum number of boys in the group with the same sum
 > In the group of friends who meet on the square every Saturday afternoon, each boy added the number of the day of his birthday (from 1 to 31) to that of the month in which he was born, from 1 to 12. None of the boys were born on the same day of the month but all found, as a result of the sum, the same number (greater than 34). How many boys, at most, was the group?
 
 **Answer:** 8
-[[Quesiti/src_bocconi_finalenaz_2012#q07|src_bocconi_finalenaz_2012__Q07]]
 
 
 
@@ -272,8 +265,7 @@ Maximum number of boys in the group with the same sum
 
 ![[src_bocconi_finalenaz_2012__q08.png]]
 
-**Answer:** (figura con grafo nella soluzione)
-[[Quesiti/src_bocconi_finalenaz_2012#q08|src_bocconi_finalenaz_2012__Q08]]
+**Answer:** (figure with graph in the solution)
 
 
 
@@ -310,7 +302,6 @@ Maximum number of boys in the group with the same sum
 ![[src_bocconi_finalenaz_2012__q09.png]]
 
 **Answer:** 1831
-[[Quesiti/src_bocconi_finalenaz_2012#q09|src_bocconi_finalenaz_2012__Q09]]
 
 
 
@@ -344,8 +335,7 @@ Maximum number of boys in the group with the same sum
 
 ![[src_bocconi_finalenaz_2012__q10.png]]
 
-**Answer:** (figura con soluzione nella soluzione)
-[[Quesiti/src_bocconi_finalenaz_2012#q10|src_bocconi_finalenaz_2012__Q10]]
+**Answer:** (see the figure in the solution)
 
 
 
@@ -375,7 +365,6 @@ Maximum number of boys in the group with the same sum
 > The father says to his son, "In two years, when you are twice as old as you were 'in 20 years,' the father will be twice as old as you were". What is the child's current age?
 
 **Answer:** 4
-[[Quesiti/src_bocconi_finalenaz_2012#q11|src_bocconi_finalenaz_2012__Q11]]
 
 
 
@@ -407,8 +396,7 @@ Maximum number of boys in the group with the same sum
 
 > Liliana took with an integer that is written with three different non-zero digits: $\heartsuit$, $\diamondsuit$, $\clubsuit$, where $\heartsuit$ indicates the number of hundreds, $\diamondsuit$ that of tens and $\clubsuit$ that of units. The number $\heartsuit\diamondsuit\clubsuit$ is also the mean of the other two numbers $\heartsuit\clubsuit\diamondsuit$ and $\clubsuit\heartsuit\diamondsuit$, i.e.: $$\heartsuit\diamondsuit\clubsuit = \frac{\heartsuit\clubsuit\diamondsuit + \clubsuit\heartsuit\diamondsuit}{2}$$ What is the number of Liliana?
 
-**Answer:** 481 oppure 518 oppure 592 oppure 629
-[[Quesiti/src_bocconi_finalenaz_2012#q12|src_bocconi_finalenaz_2012__Q12]]
+**Answer:** 481 or 518 or 592 or 629
 
 
 
@@ -443,7 +431,6 @@ Maximum number of boys in the group with the same sum
 ![[src_bocconi_finalenaz_2012__q13.png]]
 
 **Answer:** $\frac{11}{20}$
-[[Quesiti/src_bocconi_finalenaz_2012#q13|src_bocconi_finalenaz_2012__Q13]]
 
 
 
@@ -473,7 +460,6 @@ Maximum number of boys in the group with the same sum
 > Two boatmen, each sailing at a constant speed, leave respectively the two opposite and parallel banks of a canal and meet for the first time $3{,}5$ km from the north shore. Then they continue their route, reach the opposite shore and, without delay, reach the opposite shore (always at the same constant speed) to meet again 2 km from the south shore. What is the width of the channel (in km)?
 
 **Answer:** 8,5
-[[Quesiti/src_bocconi_finalenaz_2012#q14|src_bocconi_finalenaz_2012__Q14]]
 
 
 
@@ -508,7 +494,6 @@ Maximum number of boys in the group with the same sum
 ![[src_bocconi_finalenaz_2012__q15.png]]
 
 **Answer:** 35
-[[Quesiti/src_bocconi_finalenaz_2012#q15|src_bocconi_finalenaz_2012__Q15]]
 
 
 
@@ -543,7 +528,6 @@ Maximum number of boys in the group with the same sum
 ![[src_bocconi_finalenaz_2012__q16.png]]
 
 **Answer:** $144$ cm$^2$
-[[Quesiti/src_bocconi_finalenaz_2012#q16|src_bocconi_finalenaz_2012__Q16]]
 
 
 
@@ -578,7 +562,6 @@ Maximum number of boys in the group with the same sum
 ![[src_bocconi_finalenaz_2012__q17.png]]
 
 **Answer:** a=6, b=19, c=30
-[[Quesiti/src_bocconi_finalenaz_2012#q17|src_bocconi_finalenaz_2012__Q17]]
 
 
 
@@ -613,7 +596,6 @@ Maximum number of boys in the group with the same sum
 ![[src_bocconi_finalenaz_2012__q18.png]]
 
 **Answer:** 17
-[[Quesiti/src_bocconi_finalenaz_2012#q18|src_bocconi_finalenaz_2012__Q18]]
 
 
 
@@ -644,7 +626,6 @@ Maximum number of boys in the group with the same sum
 > With 2012 stones, form two heaps and write the product of the number of stones contained in the first pile multiplied by the number of stones in the second pile. Then divide one of the two heaps into two new heaps and write the product of the number of stones contained in these new heaps respectively. Now divide one of the three heaps you get, write the product, etc. Until you have all the heaps made of one stone. How much is the sum of the 2011 products you wrote?
 
 **Answer:** 2 023 066
-[[Quesiti/src_bocconi_finalenaz_2012#q19|src_bocconi_finalenaz_2012__Q19]]
 
 
 
@@ -678,5 +659,4 @@ Maximum number of boys in the group with the same sum
 
 ![[src_bocconi_finalenaz_2012__q20.png]]
 
-**Answer:** (tre configurazioni a croce nella soluzione)
-[[Quesiti/src_bocconi_finalenaz_2012#q20|src_bocconi_finalenaz_2012__Q20]]
+**Answer:** (three cross-shaped configurations in the solution)

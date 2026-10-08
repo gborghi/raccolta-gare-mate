@@ -39,7 +39,6 @@ level: kangourou
 > If m pencils are purchased at a cost of n euro each and n pencils at a cost of m euro each, then the average cost in euro of each pen is:
 
 **Answer:** C
-[[Quesiti/src_kangourou_2004_student#q01|src_kangourou_2004_student__Q01]]
 
 
 
@@ -75,7 +74,6 @@ level: kangourou
 > D) 32         E) 34
 
 **Answer:** D
-[[Quesiti/src_kangourou_2004_student#q02|src_kangourou_2004_student__Q02]]
 
 
 
@@ -107,7 +105,6 @@ level: kangourou
 > The smallest real number x that results in inequality x2 −2004 < 0 is: A) −2004 B) 2004 C) 0 D) −√2004 E) √2004
 
 **Answer:** E
-[[Quesiti/src_kangourou_2004_student#q03|src_kangourou_2004_student__Q03]]
 
 
 
@@ -141,7 +138,6 @@ level: kangourou
 > How many vertices does a regular polygon have if the sum of its interior angles is equal to one seventh of the sum of the interior angles of a regular 16-gon? A)  3 B) 4 C)  6 D) 7 E) 10
 
 **Answer:** B
-[[Quesiti/src_kangourou_2004_student#q04|src_kangourou_2004_student__Q04]]
 
 
 
@@ -182,7 +178,6 @@ level: kangourou
 > s is an odd positive integer. In a s-side square the unit squares centered on the diagonals were painted in black (see the example in figure, where s = 7). What is the area of the unpainted region? A)s2 + 1 − 2s B)s2 + 4 − 4s C) 2s2 + 1− 4s D) s2 −1 −2s E) s2 − 2s
 
 **Answer:** A
-[[Quesiti/src_kangourou_2004_student#q05|src_kangourou_2004_student__Q05]]
 
 
 
@@ -243,7 +238,6 @@ level: kangourou
 > tudent
 
 **Answer:** C
-[[Quesiti/src_kangourou_2004_student#q06|src_kangourou_2004_student__Q06]]
 
 
 
@@ -316,7 +310,6 @@ level: kangourou
 > The two equilateral triangles ABC and ECD in the figure have sides of length 2 and 1 respectively. The area of the ABCE quadrilateral is: A) B) C) 3 D) E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2004_student#q07|src_kangourou_2004_student__Q07]]
 
 
 
@@ -347,7 +340,6 @@ level: kangourou
 > Five people choose a number from these three: 1, 2, 4. The five numbers chosen are multiplied together. Only one of the following numbers could be the product obtained: which? A) 100        B) 256        C) 768       D) 2048      E) 4096
 
 **Answer:** B
-[[Quesiti/src_kangourou_2004_student#q08|src_kangourou_2004_student__Q08]]
 
 
 
@@ -381,7 +373,6 @@ level: kangourou
 > In one pasture there were 15 sheep and some shepherds. After half the shepherds and a third of the sheep have moved away from the pasture, there are a total of 50 legs. How many legs were there initially? A) 60 B) 72 C) 80 D) 90         E) 100
 
 **Answer:** C
-[[Quesiti/src_kangourou_2004_student#q09|src_kangourou_2004_student__Q09]]
 
 
 
@@ -415,7 +406,6 @@ level: kangourou
 > An ABC triangle is inscribed in a circumference whose center falls within the triangle and whose radius is as long as the CB side. What is the degree of the angle of CAB? (a) 22,5° B) 30° C) 45° D) 60° E) 90° Questions from N. 11 al N. Twenty is worth four points.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2004_student#q10|src_kangourou_2004_student__Q10]]
 
 
 
@@ -449,7 +439,6 @@ level: kangourou
 > Consider the Cartesian plane. How many squares have a vertex in (-1,-1) such that at least one of the coordinate axes is the axis of symmetry of the square itself? A) 2 B) 3 C) 4 D) 5 E) 6
 
 **Answer:** D
-[[Quesiti/src_kangourou_2004_student#q11|src_kangourou_2004_student__Q11]]
 
 
 
@@ -485,7 +474,6 @@ Minimum cards to be extracted per product divisible by 4*
 > In a non-transparent box, there are 100 cards, numbered 1 to 100. What is the minimum number of cards we need to extract from the box in the dark, to make sure that the product of the numbers that appear on the extracted cards is divisible by four? A) 51 B) 52 C) 53 D) 54         E) 55
 
 **Answer:** B
-[[Quesiti/src_kangourou_2004_student#q12|src_kangourou_2004_student__Q12]]
 
 
 
@@ -573,7 +561,6 @@ Minimum cards to be extracted per product divisible by 4*
 > A) 1%          B) 3%         C) 97%       D) 98%       E) 99%
 
 **Answer:** D
-[[Quesiti/src_kangourou_2004_student#q13|src_kangourou_2004_student__Q13]]
 
 
 
@@ -606,7 +593,6 @@ Minimum cards to be extracted per product divisible by 4*
 > How many two-digit numbers have squares and cubes ending in the same number? A) 1 B) 9 C) 18 D) 27 E) more than thirty
 
 **Answer:** E
-[[Quesiti/src_kangourou_2004_student#q14|src_kangourou_2004_student__Q14]]
 
 
 
@@ -640,7 +626,6 @@ Minimum cards to be extracted per product divisible by 4*
 > How many positive integers can be written in the form a0 + 3 a1 + 32 a2 + 33 a3 + 34 a4 with a0 , a1 , a2 , a3 , a4 belonging to the set {-1, 0, 1}? A) 5 B) 80 C) 81 D) 121        E) 243
 
 **Answer:** D
-[[Quesiti/src_kangourou_2004_student#q15|src_kangourou_2004_student__Q15]]
 
 
 
@@ -672,7 +657,6 @@ Minimum cards to be extracted per product divisible by 4*
 > The number is A) negative B) equal to zero C) the fourth power of a non-zero integer D) equal to 11 E) a positive integer divisible by 5
 
 **Answer:** C
-[[Quesiti/src_kangourou_2004_student#q16|src_kangourou_2004_student__Q16]]
 
 
 
@@ -706,7 +690,6 @@ Minimum cards to be extracted per product divisible by 4*
 > How many right triangles have three of the 14 vertices of a regular 14-gon? A) 72 B) 82 C) 84 D) 88 E) other answer
 
 **Answer:** C
-[[Quesiti/src_kangourou_2004_student#q17|src_kangourou_2004_student__Q17]]
 
 
 
@@ -771,7 +754,6 @@ Minimum cards to be extracted per product divisible by 4*
 > A circle K is inscribed in the circular sector which is a quarter of a circle of radius 6, as shown in Figure 1. What's the radius of K? A) B) C) 2,5 D) 3 E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2004_student#q18|src_kangourou_2004_student__Q18]]
 
 
 
@@ -810,7 +792,6 @@ Minimum cards to be extracted per product divisible by 4*
 > E) a 2 Aa 3 > 0
 
 **Answer:** B
-[[Quesiti/src_kangourou_2004_student#q19|src_kangourou_2004_student__Q19]]
 
 
 
@@ -917,7 +898,6 @@ Minimum cards to be extracted per product divisible by 4*
 > Questions from No. 21 to No. 30 are worth 5 points
 
 **Answer:** E
-[[Quesiti/src_kangourou_2004_student#q20|src_kangourou_2004_student__Q20]]
 
 
 
@@ -951,7 +931,6 @@ Minimum cards to be extracted per product divisible by 4*
 > There's an election in Ortholand. Every voter in the Broccoli Party has already eaten broccoli, while 90% of voters in the other parties have never eaten broccoli. What percentage did the Broccoli Party get, if exactly 46% of voters have already eaten broccoli? A) 40% B) 41%        C) 43% D) 45%       E) 46%
 
 **Answer:** A
-[[Quesiti/src_kangourou_2004_student#q21|src_kangourou_2004_student__Q21]]
 
 
 
@@ -1031,7 +1010,6 @@ Minimum cards to be extracted per product divisible by 4*
 > A parallelogram is divided into 4 triangles, following a criterion similar to that shown in the figure. So: A) the areas of the four triangles, in m2 , can be 4, 5, 8, 9 B) the areas of the four triangles, in m2 , can be 5, 6, 7, 12 C) the areas of the four triangles, in m2 , can be 10, 11, 12, 19 D) the areas of the four triangles, in m2 , can be: 11, 13, 15, 16 E) None of the previous statements are correct
 
 **Answer:** A
-[[Quesiti/src_kangourou_2004_student#q22|src_kangourou_2004_student__Q22]]
 
 
 
@@ -1071,7 +1049,6 @@ Minimum cards to be extracted per product divisible by 4*
 > The figure shows the graphs of two functions f and g, defined on real numbers. Which of the following equations is satisfied for every real number x? A)  f(x) = −g(x) +2 B) f(x) = −g(x) −2 C) f(x) = −g(x+2) D) f(x+2) = −g(x) E) f(x+1) = −g(x−1)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2004_student#q23|src_kangourou_2004_student__Q23]]
 
 
 
@@ -1165,7 +1142,6 @@ Minimum cards to be extracted per product divisible by 4*
 > tudent
 
 **Answer:** A
-[[Quesiti/src_kangourou_2004_student#q24|src_kangourou_2004_student__Q24]]
 
 
 
@@ -1203,7 +1179,6 @@ Minimum cards to be extracted per product divisible by 4*
 > We start with 200 numbers all equal to zero written in succession. In the first step, we add 1 to each of the 200 numbers. In the second step we add 1 only to the numbers whose place is a multiple of 2 (i.e. those of even place). In the third step we add 1 only to the numbers whose place is a multiple of 3 and we proceed according to this law: in the n-th step we add 1 only to the numbers whose place is a multiple of n. After 200 steps, what number do we find in place 120? A) 16 B) 12 C) 20         D)24 E) 32
 
 **Answer:** A
-[[Quesiti/src_kangourou_2004_student#q25|src_kangourou_2004_student__Q25]]
 
 
 
@@ -1241,7 +1216,6 @@ Minimum cards to be extracted per product divisible by 4*
 > How many triangles (non-degenerate) have their vertices 3 of the 18 points shown in the figure? A) 816 B) 711 C) 777       D) 717 E) 811
 
 **Answer:** B
-[[Quesiti/src_kangourou_2004_student#q26|src_kangourou_2004_student__Q26]]
 
 
 
@@ -1277,7 +1251,6 @@ Minimum cards to be extracted per product divisible by 4*
 > a, b, c are three digits such that 0 < a < b < c. The sum of all the three-digit integers that can be formed by permuting these three digits is 1554. What digit is c ? A) 3 B) 4 C) 5 D) 6 E) 7
 
 **Answer:** B
-[[Quesiti/src_kangourou_2004_student#q27|src_kangourou_2004_student__Q27]]
 
 
 
@@ -1312,7 +1285,6 @@ Minimum cards to be extracted per product divisible by 4*
 > B) 8991       C) 9000     D) 9009      E) 9018
 
 **Answer:** B
-[[Quesiti/src_kangourou_2004_student#q28|src_kangourou_2004_student__Q28]]
 
 
 
@@ -1347,7 +1319,6 @@ Minimum cards to be extracted per product divisible by 4*
 > How many sets of consecutive positive integers are such that the sum of their numbers is exactly 100? (N.B. The sum consisting of only number 100 is excluded. A) 0            B) 1 C) 2 D) 3 E) 4
 
 **Answer:** C
-[[Quesiti/src_kangourou_2004_student#q29|src_kangourou_2004_student__Q29]]
 
 
 
@@ -1440,4 +1411,3 @@ Minimum cards to be extracted per product divisible by 4*
 > SOLUTIONS STUDENT 2004
 
 **Answer:** D
-[[Quesiti/src_kangourou_2004_student#q30|src_kangourou_2004_student__Q30]]

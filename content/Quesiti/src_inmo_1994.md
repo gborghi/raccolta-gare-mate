@@ -41,8 +41,6 @@ level: INMO
 > 
 > b) Inoltre, se $P$ è il quarto vertice del parallelo $AGCP$, dimostrare che il triangolo $GAP$ è simile a $\triangle ABC$.
 
-[[Quesiti/src_inmo_1994#q01|src_inmo_1994__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -67,8 +65,6 @@ level: INMO
 *La radice reale del polinomio di grado-5 implica disuguaglianza*
 
 > Prova che se $x$ è una radice reale di $x^5 - x^3 + x = a$, allora $x^6 \ge 2a - 1$.
-
-[[Quesiti/src_inmo_1994#q02|src_inmo_1994__Q02]]
 
 
 
@@ -95,8 +91,6 @@ Tra i 181 quadrati perfetti, 19 hanno la somma divisibile per 19
 
 > Prove che tra i 181 quadrati perfetti ci sono 19 la cui somma è divisibile per 19.
 
-[[Quesiti/src_inmo_1994#q03|src_inmo_1994__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,method_inclusione_esclusione,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_casework_accurato"></span>
@@ -122,8 +116,6 @@ Tra i 181 quadrati perfetti, 19 hanno la somma divisibile per 19
 
 > Trova il numero di triangoli (non generati) le cui vertici si trovano nell'insieme dei punti $(s, t)$ nel piano con $s, t \in \{0, 1, 2, 3, 4\}$.
 
-[[Quesiti/src_inmo_1994#q04|src_inmo_1994__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -148,8 +140,6 @@ Tra i 181 quadrati perfetti, 19 hanno la somma divisibile per 19
 *Circolo attraverso il vertice di rettangolo tangente a due lati; distanza a diagonale*
 
 > Un cerchio attraverso il vertice $C$ di un rettangolo $ABCD$ è tangente ai lati $AB$ e $AD$ a $M$ e $N$. Dato che la distanza da $C$ alla linea $MN$ è pari a 5, calcolare l'area del rettangolo $ABCD$.
-
-[[Quesiti/src_inmo_1994#q05|src_inmo_1994__Q05]]
 
 
 
@@ -177,5 +167,3 @@ Tra i 181 quadrati perfetti, 19 hanno la somma divisibile per 19
 *Ricerca tutte le funzioni che soddisfano due equazioni funzionali*
 
 > Trova tutte le funzioni $f: \mathbb{R} \to \mathbb{R}$ che soddisfano $$f(-x) = f(x) \quad \text{and} \quad f(x+1) = f(x) + 1 \quad \text{for all } x,$$ e $$f\!\left(\frac{1}{x}\right) = \frac{f(x)}{x^2} \quad \text{for all } x \ne 0.$$
-
-[[Quesiti/src_inmo_1994#q06|src_inmo_1994__Q06]]

@@ -49,8 +49,6 @@ level: OBM Nível 2
 
 ![[src_obm_2004_n2_f3__q01.png]]
 
-[[Quesiti/src_obm_2004_n2_f3#q01|src_obm_2004_n2_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_invarianti,method_ricorsione,method_casework,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -86,8 +84,6 @@ level: OBM Nível 2
 > 
 > b) Le cifre $1, 2, 3, 4$ riappare successivamente nella sequenza?
 
-[[Quesiti/src_obm_2004_n2_f3#q02|src_obm_2004_n2_f3__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_invarianti,method_induzione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -117,8 +113,6 @@ level: OBM Nível 2
 > 
 > Quali sono i valori possibili della somma di tutti i prodotti scritti nei quadrati?
 
-[[Quesiti/src_obm_2004_n2_f3#q03|src_obm_2004_n2_f3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_backward,method_casework,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta"></span>
@@ -147,8 +141,6 @@ Gioco a due giocatori: scegliere alternativamente un numero intero superiore al 
 > In una partita per due giocatori, Arnaldo e Bernaldo scelgono alternativamente un intero positivo. A ogni turno, il numero scelto deve essere superiore al doppio dell'ultimo numero scelto. Il vincitore è il primo giocatore a scegliere il numero $2004$.
 > 
 > In questo gioco, Arnaldo va per primo e inizia con il numero $2$. Quale dei due giocatori ha una strategia vincente  cioè può garantire la scelta del numero $2004$ indipendentemente dalle mosse dell'avversario?
-
-[[Quesiti/src_obm_2004_n2_f3#q04|src_obm_2004_n2_f3__Q04]]
 
 
 
@@ -183,8 +175,6 @@ Gioco a due giocatori: scegliere alternativamente un numero intero superiore al 
 > 
 > b) Indicare che $AB$ è tangente al cerchio di diametro $O_1 O_2$.
 
-[[Quesiti/src_obm_2004_n2_f3#q05|src_obm_2004_n2_f3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_cassetti,method_estremalita,method_inclusione_esclusione,skill_conteggio_sistematico,skill_astrazione,skill_stima"></span>
@@ -213,5 +203,3 @@ Gioco a due giocatori: scegliere alternativamente un numero intero superiore al 
 > Considerate tutti i modi di riempire le celle di una tabella $10 \times 10$ con esattamente dieci dei cifre $0, 1, 2, \ldots, 9$ (per cui ogni cifra appare esattamente $10$ volte in tutta la tabella).
 > 
 > Trova il più grande intero $n$ con la proprietà che, in ogni tabella di questo tipo, esiste una riga o una colonna che contiene almeno $n$ cifre distinte.
-
-[[Quesiti/src_obm_2004_n2_f3#q06|src_obm_2004_n2_f3__Q06]]

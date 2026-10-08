@@ -33,8 +33,6 @@ level: China Southeastern Mathematical Olympiad
 
 > Trovare un triplo $(l, m, n)$ $(1 < l < m < n)$ di numeri interi positivi in modo che $\sum_{k=1}^{l} k$, $\sum_{k=l+1}^{m} k$, $\sum_{k=m+1}^{n} k$ formino una sequenza geometrica in ordine. (posta da Tao Pingsheng)
 
-[[Quesiti/src_cn_csmo_2012#q01|src_cn_csmo_2012__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -64,8 +62,6 @@ level: China Southeastern Mathematical Olympiad
 
 ![[src_cn_csmo_b11_w301__q02.png]]
 
-[[Quesiti/src_cn_csmo_2012#q02|src_cn_csmo_2012__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -92,8 +88,7 @@ level: China Southeastern Mathematical Olympiad
 
 > Per il numero composto positivo $n$, indicare rispettivamente con $f(n)$ e $g(n)$ i tre divisori positivi più piccoli di $n$ e i due divisori positivi più grandi di $n$. Trova tutti $n$ in modo tale che $g(n)$ sia uguale a $f(n)$ a qualche potenza di numeri interi positivi. (Possibile da He Yijie)
 
-**Risposta:** $n = 4 \times 6^l$ for $l \in \mathbf{N}^*$
-[[Quesiti/src_cn_csmo_2012#q03|src_cn_csmo_2012__Q03]]
+**Risposta:** $n = 4 \times 6^l$ con $l \in \mathbf{N}^*$
 
 
 
@@ -124,7 +119,6 @@ level: China Southeastern Mathematical Olympiad
 > Lasciate che i numeri reali $a$, $b$, $c$ e $d$ soddisfino $$f(x) = a\cos x + b\cos 2x + c\cos 3x + d\cos 4x \leq 1$$ per qualsiasi numero reale $x$. Trova i valori di $a$, $b$, $c$ e $d$ in modo tale che $a + b - c + d$ abbia il numero massimo. (Posizionato da Li Shenghong)
 
 **Risposta:** 3
-[[Quesiti/src_cn_csmo_2012#q04|src_cn_csmo_2012__Q04]]
 
 
 
@@ -153,7 +147,6 @@ level: China Southeastern Mathematical Olympiad
 > Un numero non negativo $m$ è chiamato *six match number*. Se $m$ e la somma delle sue cifre sono entrambi multipli di $6$, trovare il numero dei sei numeri corrispondenti inferiore a $2012$. (posta da Tao Pingsheng)
 
 **Risposta:** 108
-[[Quesiti/src_cn_csmo_2012#q05|src_cn_csmo_2012__Q05]]
 
 
 
@@ -184,7 +177,6 @@ level: China Southeastern Mathematical Olympiad
 > Trova il numero intero positivo minimo $n$ tale da $$\sqrt{\frac{n-2011}{n+2012}} < \sqrt{\frac{n-2012}{n+2013}}$$ (posato da Liu Guimei)
 
 **Risposta:** 4023
-[[Quesiti/src_cn_csmo_2012#q06|src_cn_csmo_2012__Q06]]
 
 
 
@@ -217,4 +209,3 @@ level: China Southeastern Mathematical Olympiad
 ![[src_cn_csmo_b11_w301__q07.png]]
 
 **Risposta:** $90^\circ$
-[[Quesiti/src_cn_csmo_2012#q07|src_cn_csmo_2012__Q07]]

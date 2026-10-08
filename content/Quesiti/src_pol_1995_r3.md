@@ -33,8 +33,6 @@ level: Olimpiade Polacca Round 3
 
 > Trova il numero di sottoinsiemi di $\{1, 2, \ldots, 2n\}$ in cui l'equazione $x + y = 2z + 1$ non ha soluzioni.
 
-[[Quesiti/src_pol_1995_r3#q01|src_pol_1995_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_combinatoria,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: Olimpiade Polacca Round 3
 *Poligono converso tagliato in pentagoni e triangoli, superficie più grande*
 
 > Un poligono convexo è tagliato dalle sue diagonali in un pentagono e dieci triangoli. Qual è il maggior numero di triangoli ottenuti che possono avere la stessa area?
-
-[[Quesiti/src_pol_1995_r3#q02|src_pol_1995_r3__Q02]]
 
 
 
@@ -89,8 +85,6 @@ level: Olimpiade Polacca Round 3
 
 > Lasciate che $p > 3$ sia un primo e lasciate $q = p^2$. La sequenza $(a_n)$ è definita da $$a_n = \begin{cases} n & \text{for } n = 0, 1, 2, \ldots, p-1; \\ a_{n-1} + a_{n-p} & \text{for } n \ge p. \end{cases}$$ Determina il rimanente quando $a_q$ è diviso da $p$.
 
-[[Quesiti/src_pol_1995_r3#q03|src_pol_1995_r3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_riconoscimento_pattern"></span>
@@ -117,8 +111,6 @@ level: Olimpiade Polacca Round 3
 
 > $x_1, x_2, \ldots, x_n$ siano numeri positivi con media armonica pari a $1$. Trova il minimo valore possibile di $$x_1 + \frac{x_2^2}{2} + \frac{x_3^3}{3} + \cdots + \frac{x_n^n}{n}.$$
 
-[[Quesiti/src_pol_1995_r3#q04|src_pol_1995_r3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_probabilita,topic_combinatoria,method_conteggio,method_doppio_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -143,8 +135,6 @@ level: Olimpiade Polacca Round 3
 *Urn con n fogli etichettati 1..n; numero previsto di disegni divisibili per 4*
 
 > Una urna contiene fogli di carta $n$ etichettati $1, 2, \ldots, n$. Tracciamo le foglie una per una senza rimetterle nell'urna fino a ottenere un foglio con un numero divisibile per $4$. Per un $n$ fisso, determinare tutti i valori di $k$ per i quali il valore atteso del numero di disegni è uguale a $k$.
-
-[[Quesiti/src_pol_1995_r3#q05|src_pol_1995_r3__Q05]]
 
 
 
@@ -171,5 +161,3 @@ level: Olimpiade Polacca Round 3
 *Raggi da un punto termico comune; dimostrare esattamente una coppia di punti B,C sui raggi con PA+AB=PC+CB e PB+BC=PA+AC*
 
 > Sono indicati tre raggi $l$, $m$, $n$ nello spazio con un punto di fine comune $P$ e un punto $A$ su $l$. Prova che esiste esattamente un paio di punti $B \in m$ e $C \in n$ in modo tale che $$PA + AB = PC + CB \quad \text{and} \quad PB + BC = PA + AC.$$
-
-[[Quesiti/src_pol_1995_r3#q06|src_pol_1995_r3__Q06]]

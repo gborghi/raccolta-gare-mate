@@ -33,8 +33,6 @@ level: OBM Nível 3
 
 > Trova il primo positivo più piccolo che divide $x^2 + 5x + 23$ per un intero $x$.
 
-[[Quesiti/src_obm_2003_n3_f3#q01|src_obm_2003_n3_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_estremalita,method_casework,method_conteggio,skill_astrazione,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -62,8 +60,6 @@ level: OBM Nível 3
 
 > Il $S$ deve essere un insieme di elementi $n$. Trova il numero intero positivo $k$ con la seguente proprietà: data qualsiasi $k$ sottogruppo distinto $A_1, A_2, \ldots, A_k$ di $S$, esiste una scelta appropriata dei segni $+$ e $-$ in modo tale che $$S = A_1^{\pm} \cup A_2^{\pm} \cup \cdots \cup A_k^{\pm},$$, dove $A_i^{+} = A_i$ e $A_i^{-} = S \setminus A_i$ sono il complemento di $A_i$ rispetto a $S$.
 
-[[Quesiti/src_obm_2003_n3_f3#q02|src_obm_2003_n3_f3__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -89,8 +85,6 @@ level: OBM Nível 3
 
 > Lascia che il $ABCD$ sia un rombo. Le parti $E$, $F$, $G$ e $H$ siano punti sui lati $AB$, $BC$, $CD$ e $DA$, rispettivamente, in modo tale che le linee $EF$ e $GH$ siano tangenti al cerchio inscritto del rombo. Provare che le linee $EH$ e $FG$ sono parallele.
 
-[[Quesiti/src_obm_2003_n3_f3#q03|src_obm_2003_n3_f3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_geometria_analitica,method_estremalita,method_coordinate,skill_ragionamento_geometrico,skill_stima,skill_modellizzazione"></span>
@@ -115,8 +109,6 @@ level: OBM Nível 3
 *Punti sul cerchio che massimizzano l'area ABCD quadrilaterale*
 
 > Un'interferenza $K$ e un punto $A$ interno, fisso e distinto dal centro, sono indicati. Trova i punti $B$, $C$ e $D$ sulla circonferenza in modo tale che l'area del quadrilaterale $ABCD$ sia il più grande possibile.
-
-[[Quesiti/src_obm_2003_n3_f3#q04|src_obm_2003_n3_f3__Q04]]
 
 
 
@@ -147,8 +139,6 @@ level: OBM Nível 3
 *Ineguaglianza funzionale che implica f(x_0)<0 per alcuni x_0*
 
 > Supponiamo che $f:(0,+\infty) \to \mathbb{R}$ soddisfi: \begin{enumerate} \item[(i) $x < y \Rightarrow f(x) < f(y)$, \item[(ii) $f\!\left(\dfrac{2xy}{x+y}\right) \ge \dfrac{f(x)+f(y)}{2}$, per tutti $x, y \in (0,+\infty)$. \end{enumerate} Prove che esiste $x_0 \in (0,+\infty)$ tale che $f(x_0) < 0$.
-
-[[Quesiti/src_obm_2003_n3_f3#q05|src_obm_2003_n3_f3__Q05]]
 
 
 
@@ -182,5 +172,3 @@ level: OBM Nível 3
 > Mostrare che esiste $n_0 \in N$ in modo che per ogni $n \ge n_0$ esistano grafici con vertici $n$ che non sono bacana.
 > 
 > **Osservazione: ** Un grafico con insieme verticale $V$ è una coppia $(V, E)$ dove $E$ è un insieme di sottoinsiemi di $V$, ognuno con esattamente due elementi. Un sottoinsieme $\{p, q\}$ è chiamato *edge*; diciamo che questo bordo collega i vertici $p$ e $q$.
-
-[[Quesiti/src_obm_2003_n3_f3#q06|src_obm_2003_n3_f3__Q06]]

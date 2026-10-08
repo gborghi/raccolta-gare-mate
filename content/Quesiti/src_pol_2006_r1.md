@@ -33,8 +33,6 @@ level: Olimpiade Polacca Round 1
 
 > Determinare tutti gli integri non negativi $n$ per i quali $2^n + 105$ è un quadrato perfetto.
 
-[[Quesiti/src_pol_2006_r1#q01|src_pol_2006_r1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_stima"></span>
@@ -59,8 +57,6 @@ level: Olimpiade Polacca Round 1
 *Solvi sqrt[5]{x} = soffitto(sqrt[5]{3x}) nei reali non negativi.*
 
 > Risolvere l'equazione $\sqrt[5]{x} = \left\lceil \sqrt[5]{3x} \right\rceil$ in numeri reali non negativi.
-
-[[Quesiti/src_pol_2006_r1#q02|src_pol_2006_r1__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: Olimpiade Polacca Round 1
 
 > Un triangolo a angolo acuto $ABC$ è inserito in un cerchio con il centro $O$. Il punto $D$ è la proiezione di $C$ su $AB$, e i punti $E$ e $F$ sono le proiezioni del punto $D$ su $AC$ e $BC$, rispettivamente. Prove che l'area del quadrilaterale $EOFC$ è pari alla metà dell'area del triangolo $ABC$.
 
-[[Quesiti/src_pol_2006_r1#q03|src_pol_2006_r1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_estremalita,method_conteggio,method_casework,skill_conteggio_sistematico,skill_modellizzazione"></span>
@@ -113,8 +107,6 @@ level: Olimpiade Polacca Round 1
 *Sei problemi hanno ottenuto ciascuno 6,5,2 o 0; per ogni due partecipanti ci sono due problemi su ciascuno dei quali hanno ottenuto punteggi diversi; trovare il massimo dei partecipanti.*
 
 > I partecipanti a un concorso di matematica stavano risolvendo sei problemi. Ogni problema era segnato con 6, 5, 2 o 0 punti. Si è scoperto che per ogni due partecipanti $A$ e $B$ ci sono due problemi, in modo tale che su ciascuno di essi $A$ e $B$ si sono ottenuti punteggi diversi. Trovare il maggior numero possibile di partecipanti per i quali questo sia possibile.
-
-[[Quesiti/src_pol_2006_r1#q04|src_pol_2006_r1__Q04]]
 
 
 
@@ -141,8 +133,6 @@ level: Olimpiade Polacca Round 1
 
 > Lasciate che $a, b$ siano numeri reali. Considerate le funzioni $f(x) = ax + b|x|$ e $g(x) = ax - b|x|$. Prova che se $f(f(x)) = x$ per ogni $x \in \mathbb{R}$, allora $g(g(x)) = x$ per ogni $x \in \mathbb{R}$.
 
-[[Quesiti/src_pol_2006_r1#q05|src_pol_2006_r1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -167,8 +157,6 @@ level: Olimpiade Polacca Round 1
 *Linea attraversando l'ortocentro H incontra AC a D, BC a E; linea attraversando H perpendicolare a DE incontra AB a F; dimostra DH/HE = AF/FB.*
 
 > Una linea attraversa l'ortocentro $H$ di un triangolo angolato acuto $ABC$ e incontra i lati $AC$ e $BC$ rispettivamente a $D$ e $E$. La linea attraverso $H$ perpendicolare a $DE$ incrocia la linea $AB$ al punto $F$. Prova che $\frac{DH}{HE} = \frac{AF}{FB}$.
-
-[[Quesiti/src_pol_2006_r1#q06|src_pol_2006_r1__Q06]]
 
 
 
@@ -195,8 +183,6 @@ level: Olimpiade Polacca Round 1
 
 > Un numero primo $p > 3$ e un numero intero positivo $a, b, c$ soddisfano $a + b + c = p + 1$ e il numero $a^3 + b^3 + c^3 - 1$ è divisibile da $p$. Indicare che almeno uno dei numeri $a, b, c$ è uguale a $1$.
 
-[[Quesiti/src_pol_2006_r1#q07|src_pol_2006_r1__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_solida,method_estremalita,skill_ragionamento_geometrico,skill_stima"></span>
@@ -221,8 +207,6 @@ level: Olimpiade Polacca Round 1
 *Tetraedro ABCD circoscritto intorno al centro della sfera unità S con SA>=SB>=SC; mostrare SA>sqrt(5).*
 
 > Un tetraedro $ABCD$ è circoscritto a una sfera con centro $S$ e raggio $1$ tale che $SA \ge SB \ge SC$. Mostrare che $SA > \sqrt{5}$.
-
-[[Quesiti/src_pol_2006_r1#q08|src_pol_2006_r1__Q08]]
 
 
 
@@ -249,8 +233,6 @@ level: Olimpiade Polacca Round 1
 
 > Lasciate che $k_1 < k_2 < \cdots < k_m$ siano numeri interi non negativi. Definire $n = 2^{k_1} + 2^{k_2} + \cdots + 2^{k_m}$. Trova il numero dei coefficienti odd del polinomio $P(x) = (x+1)^n$.
 
-[[Quesiti/src_pol_2006_r1#q09|src_pol_2006_r1__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica"></span>
@@ -276,8 +258,6 @@ level: Olimpiade Polacca Round 1
 
 > I numeri positivi $a, b, c$ soddisfano l'uguaglianza $ab + bc + ca = abc$. Prove che $a^3 + b^3 + c^3 \ge 6abc$.
 
-[[Quesiti/src_pol_2006_r1#q10|src_pol_2006_r1__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
@@ -302,8 +282,6 @@ level: Olimpiade Polacca Round 1
 *ABCD quadrilaterale concavo con angolo interno superiore a A 180 e AB ×CD=AD×BC; P simmetrico a A wrt BD; prova angolo PCB=angolo ACD.*
 
 > In un quadrilaterale concavo $ABCD$ l'angolo interno a $A$ è maggiore di $180^\circ$ e $AB \cdot CD = AD \cdot BC$. Il punto $P$ è simmetrico a $A$ rispetto a $BD$. Dimostra che $\angle PCB = \angle ACD$.
-
-[[Quesiti/src_pol_2006_r1#q11|src_pol_2006_r1__Q11]]
 
 
 
@@ -331,5 +309,3 @@ level: Olimpiade Polacca Round 1
 *Sequenza a_{i+1}=a_i/2 se anche altrimenti 3a_i-1; se a_n=a_0 provare 2^n>a_0.*
 
 > Per un dato numero intero positivo $a_0$ definire la sequenza $(a_n)$ da $$a_{i+1} = \begin{cases} a_i/2 & \text{if } a_i \text{ is even,} \\ 3a_i - 1 & \text{if } a_i \text{ is odd,} \end{cases} \quad i = 0, 1, 2, \ldots$$ Prove che se $n$ è un numero naturale tale da $a_n = a_0$, allora $2^n > a_0$.
-
-[[Quesiti/src_pol_2006_r1#q12|src_pol_2006_r1__Q12]]

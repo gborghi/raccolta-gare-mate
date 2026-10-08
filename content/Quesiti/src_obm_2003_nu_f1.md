@@ -37,8 +37,6 @@ level: OBM Nível Universitário
 
 ![[src_obm_2003_nu_f1__q01.png]]
 
-[[Quesiti/src_obm_2003_nu_f1#q01|src_obm_2003_nu_f1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_casework,method_conteggio,method_ricorsione,skill_conteggio_sistematico,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -63,8 +61,6 @@ level: OBM Nível Universitário
 *Contare i modi per pianificare i giorni di riposo senza tre giorni di formazione consecutivi*
 
 > Un giocatore di tennis ha 30 giorni per prepararsi a un torneo. Se si allenano 3 giorni consecutivi, i giorni successivi soffre di stanchezza muscolare. Decide che durante quei 30 giorni si allenerà esattamente 20 giorni, non si allenerà mai per 3 giorni consecutivi, e riposa i restanti 10 giorni. In quanti modi diversi può scegliere i 10 giorni di riposo?
-
-[[Quesiti/src_obm_2003_nu_f1#q02|src_obm_2003_nu_f1__Q02]]
 
 
 
@@ -91,8 +87,6 @@ level: OBM Nível Universitário
 
 > Lasciate che $A$ e $B$ siano matrici invertibili $n \times n$ reali. Indicare che se la condizione $(AB)^k = A^k B^k$ è valida per tre valori interi consecutivi di $k$, allora $AB = BA$.
 
-[[Quesiti/src_obm_2003_nu_f1#q03|src_obm_2003_nu_f1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_insiemi_funzioni,method_telescoping,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima,skill_riconoscimento_pattern"></span>
@@ -117,8 +111,6 @@ level: OBM Nível Universitário
 *Ricerca un>0 tale che esista il limite di f(n) - pi^2/6 + a/n; calcola il limite*
 
 > Sappiamo che $\displaystyle\sum_{k=1}^{\infty} \frac{1}{k^2} = 1 + \frac{1}{2^2} + \frac{1}{3^2} + \cdots = \frac{\pi^2}{6}$. Definire $f(n) = \displaystyle\sum_{k=1}^{n} \frac{1}{k^2} = 1 + \frac{1}{2^2} + \cdots + \frac{1}{n^2}$. Prove che esiste un numero reale $a > 0$ tale che il limite $$\lim_{n \to \infty} \left( f(n) - \frac{\pi^2}{6} + \frac{a}{n} \right)$$ esista. Trova $a$ e questo limite.
-
-[[Quesiti/src_obm_2003_nu_f1#q04|src_obm_2003_nu_f1__Q04]]
 
 
 
@@ -145,8 +137,6 @@ level: OBM Nível Universitário
 
 > $a$ e $n$ siano integri con $n > 1$ e $\gcd(a, n) = 1$. Prova che il polinomio $\dfrac{1}{n}\bigl((X + a)^n - X^n - a\bigr)$ ha tutti i coefficienti interi se e solo se $n$ è primo.
 
-[[Quesiti/src_obm_2003_nu_f1#q05|src_obm_2003_nu_f1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_insiemi_funzioni,method_ricorsione,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_stima"></span>
@@ -171,5 +161,3 @@ level: OBM Nível Universitário
 *Limiti che coinvolgono il log log di una sequenza ricorsiva a_{n+1}=a_n^2-2*
 
 > Definire $a_1 = 3$ e $a_{n+1} = a_n^2 - 2$. Prove che $$\lim_{n \to \infty} \frac{\log \log a_n}{n} = \log 2$$ e calcola $\displaystyle\lim_{n \to \infty} (\log \log a_n - n \log 2)$. (Tutti i logaritmi sono in base $e$.)
-
-[[Quesiti/src_obm_2003_nu_f1#q06|src_obm_2003_nu_f1__Q06]]

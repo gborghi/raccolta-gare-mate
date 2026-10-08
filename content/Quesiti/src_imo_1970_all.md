@@ -34,8 +34,6 @@ level: IMO
 
 > Whether $M$ a point on the $AB$ side of the $\triangle ABC$ triangle. The radii of the circles inscribed in the triangles $AMC$, $BMC$ and $ABC$ are $r_1$, $r_2$ and $r$ respectively. $q_1$, $q_2$ and $q$ shall be the radii of the circles expressed by the same triangles lying at the angle $ACB$. Show that $$\frac{r_1}{q_1} \cdot \frac{r_2}{q_2} = \frac{r}{q}.$$
 
-[[Quesiti/src_imo_1970_all#q01|src_imo_1970_all__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_disuguaglianze"></span>
@@ -64,8 +62,6 @@ level: IMO
 Based-a vs. base-b digit ratio inequality iff a>b
 
 > $a$, $b$ and $n$ integers greater than $1$, and $a$ and $b$ are the bases of two numbering systems. $A_{n-1}$ and $A_n$ are numbers in the system based on $a$, and $B_{n-1}$ and $B_n$ are numbers in the system based on $b$; these are linked by the relationships: $$A_n = x_n x_{n-1} \cdots x_0, \quad A_{n-1} = x_{n-1} x_{n-2} \cdots x_0,$$ $$B_n = x_n x_{n-1} \cdots x_0, \quad B_{n-1} = x_{n-1} x_{n-2} \cdots x_0,$$ $$x_n \neq 0, \quad x_{n-1} \neq 0.$$ Show that: $$\frac{A_{n-1}}{A_n} < \frac{B_{n-1}}{B_n} \quad \text{se e solo se} \quad a > b.$$
-
-[[Quesiti/src_imo_1970_all#q02|src_imo_1970_all__Q02]]
 
 
 
@@ -96,8 +92,6 @@ Based-a vs. base-b digit ratio inequality iff a>b
 
 > The real numbers $a_0, a_1, \ldots, a_n, \ldots$ satisfy the condition: $$1 = a_0 \leq a_1 \leq a_2 \leq \cdots \leq a_n \leq \cdots.$$ The numbers $b_1, b_2, \ldots, b_n, \ldots$ are defined by $$b_n = \sum_{k=1}^{n} \left(1 - \frac{a_{k-1}}{a_k}\right) \frac{1}{\sqrt{a_k}}.$$ (a) Prove that $0 \leq b_n < 2$ for each $n$. (b) Given $c$ with $0 \leq c < 2$, prove that there are $a_0, a_1, \ldots$ numbers with the above properties such as $b_n > c$ for $n$ sufficiently large.
 
-[[Quesiti/src_imo_1970_all#q03|src_imo_1970_all__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_fattorizzazione"></span>
@@ -121,8 +115,6 @@ Based-a vs. base-b digit ratio inequality iff a>b
 *Find n where six consecutive integers split into equal products*
 
 > Find the set of all positive integers $n$ with the property that the set $\{n, n+1, n+2, n+3, n+4, n+5\}$ can be divided into two subsets such that the product of the numbers in one subset is equal to the product of the numbers in the other subset.
-
-[[Quesiti/src_imo_1970_all#q04|src_imo_1970_all__Q04]]
 
 
 
@@ -150,8 +142,6 @@ Based-a vs. base-b digit ratio inequality iff a>b
 
 > In the $ABCD$ tetrahedron, the angle $BDC$ is a right angle. Assume that the $H$ foot of the perpendicular from $D$ to the plane $ABC$ is the intersection of the heights of the $\triangle ABC$ triangle. Demonstrate which tetrahedra are equal to $$(AB + BC + CA)^2 \leq 6(AD^2 + BD^2 + CD^2).$$
 
-[[Quesiti/src_imo_1970_all#q05|src_imo_1970_all__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_geometria_piana,method_doppio_conteggio"></span>
@@ -175,5 +165,3 @@ Based-a vs. base-b digit ratio inequality iff a>b
 *At most 70% of triangles from 100 points are acute*
 
 > In one plane there are 100 points, none of which are collinear with two others. Consider all possible triangles having such points as vertices. Demonstrate that no more than $70\%$ of these triangles is acutaneous.
-
-[[Quesiti/src_imo_1970_all#q06|src_imo_1970_all__Q06]]

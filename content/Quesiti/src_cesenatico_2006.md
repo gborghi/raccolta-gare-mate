@@ -34,7 +34,6 @@ level: nazionale
 > Rosa and Savino play the following game with the Neapolitan cards (40 cards numbered 1 to 10 of 4 different seeds): initially they divide the 40 cards (20 for each), then in turn they place a card on the table. When some of the cards on the table have values whose sum is exactly 15, these cards are deleted from the game (if there are more than one way to get a sum of 15, the player who supported the last card decides which cards have a sum of values equal to 15 to eliminate). At the end of the game, two cards remained in Savino's hand (one 5 and one 3), one card on the table (one 9) and one card in Rosa's hand. What's the value of the Rose card?
 
 **Answer:** 34
-[[Quesiti/src_cesenatico_2006#q01|src_cesenatico_2006__Q01]]
 
 
 
@@ -61,7 +60,6 @@ level: nazionale
 > Determine all values of $m$, $n$ such as $p^n + 144 = m^2$, where $m$ and $n$ are positive integers and $p$ is a prime number.
 
 **Answer:** (20,2,40),(4,3,12),(12,1,12)
-[[Quesiti/src_cesenatico_2006#q02|src_cesenatico_2006__Q02]]
 
 
 
@@ -92,8 +90,7 @@ level: nazionale
 
 > either $\Gamma$ a circumference and $A$ and $B$ two distinct points of $\Gamma$ not diametrically opposite. Either $P$ is a variable point in $\Gamma$ other than $A$ and $B$ and $H$ is the orthocenter of the $ABP$ triangle. Determine the location described by $H$ to the variable of $P$.
 
-**Answer:** dimostrato (proprieta del baricentro)
-[[Quesiti/src_cesenatico_2006#q03|src_cesenatico_2006__Q03]]
+**Answer:** proved (property of the centroid)
 
 
 
@@ -132,8 +129,7 @@ level: nazionale
 > 
 > (b) Determine whether there are 2 to 2 disjoint semicircles whose boxes do not contain multiples of 3.
 
-**Answer:** dimostrato
-[[Quesiti/src_cesenatico_2006#q04|src_cesenatico_2006__Q04]]
+**Answer:** proved
 
 
 
@@ -169,8 +165,7 @@ level: nazionale
 > 
 > (b) Determine for which $n \geq 3$ is true for each possible choice of real numbers $x_1, x_2, \ldots, x_n$.
 
-**Answer:** (a) vera per n>=4; (b) falsa per n piccolo
-[[Quesiti/src_cesenatico_2006#q05|src_cesenatico_2006__Q05]]
+**Answer:** (a) true for n>=4; (b) false for small n
 
 
 
@@ -210,5 +205,4 @@ Game by Alberto and Barbara with tokens and winning strategy
 > 
 > It is $C_0, C_1, C_2, \ldots$ the battery combinations present at the beginning of the game, after the first move, after the second move, and so on. For each $C_i$ combination, $s_i$ shall be the number of batteries with a token number $a_1, a_2, \ldots, a_k$ greater than 1 and $e_i$ the number of batteries with a single token. It is either $m_i = (a_1 - 1) + \cdots + (a_k - 1)$. Demonstrate that Barbara has a winning strategy if $m_0$ and $s_0$ are both equal and that Alberto has a winning strategy in all other cases. The winning strategy is to leave the opponent with a combination $C_i$ at each move such that $m_i$ and $s_i$ are both equal.
 
-**Answer:** dimostrata strategia vincente
-[[Quesiti/src_cesenatico_2006#q06|src_cesenatico_2006__Q06]]
+**Answer:** winning strategy proved

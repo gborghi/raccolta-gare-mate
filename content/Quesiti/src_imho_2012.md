@@ -37,8 +37,6 @@ level: IMO
 > 
 > (La circonferenza exinscritta di $ABC$ opposta al vertice $A$ è la circonferenza tangente al segmento $BC$, alla semiretta $AB$ oltre $B$ e alla semiretta $AC$ oltre $C$.)
 
-[[Quesiti/src_imho_2012#q01|src_imho_2012__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,method_disuguaglianze,method_induzione,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
@@ -65,8 +63,6 @@ level: IMO
 
 > Sia $n \ge 3$ un intero, e siano $a_2, a_3, \ldots, a_n$ numeri reali positivi tali che $a_2 a_3 \cdots a_n = 1$. Si dimostri che
 > $$(1 + a_2)^2 (1 + a_3)^3 \cdots (1 + a_n)^n > n^n.$$
-
-[[Quesiti/src_imho_2012#q02|src_imho_2012__Q02]]
 
 
 
@@ -107,8 +103,6 @@ level: IMO
 > 1. Se $n \ge 2^k$, allora $B$ può garantire una vittoria.
 > 2. Per tutti i valori sufficientemente grandi di $k$, esiste un intero $n \ge 1.99^k$ tale che $B$ non può garantire una vittoria.
 
-[[Quesiti/src_imho_2012#q03|src_imho_2012__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,topic_aritmetica,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -137,8 +131,6 @@ level: IMO
 > Determinare tutte le funzioni $f : \mathbb{Z} \to \mathbb{Z}$ tali che, per ogni intero $a, b, c$ che soddisfi $a + b + c = 0$, valga l'uguaglianza:
 > $$f(a)^2 + f(b)^2 + f(c)^2 = 2f(a)f(b) + 2f(b)f(c) + 2f(c)f(a).$$
 > (Qui $\mathbb{Z}$ indica l'insieme degli interi.)
-
-[[Quesiti/src_imho_2012#q04|src_imho_2012__Q04]]
 
 
 
@@ -169,8 +161,6 @@ level: IMO
 > 
 > Si dimostri che $MK = ML$.
 
-[[Quesiti/src_imho_2012#q05|src_imho_2012__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_induzione,method_casework,method_invarianti,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_stima"></span>
@@ -197,5 +187,3 @@ level: IMO
 
 > Determinare tutti gli interi positivi $n$ per i quali esistono numeri interi non negativi $a_1, a_2, \ldots, a_n$ tali che
 > $$\frac{1}{2^{a_1}} + \frac{1}{2^{a_2}} + \cdots + \frac{1}{2^{a_n}} = \frac{1}{3^{a_1}} + \frac{2}{3^{a_2}} + \cdots + \frac{n}{3^{a_n}} = 1.$$
-
-[[Quesiti/src_imho_2012#q06|src_imho_2012__Q06]]

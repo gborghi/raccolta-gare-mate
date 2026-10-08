@@ -35,8 +35,6 @@ level: INMO
 
 > Si consideri la sequenza definita da $u_1 = 2$, $u_2 = 3$ e $$u_{2k+1} = 2 + u_k + u_{k+1} \quad \text{and} \quad u_{2k+2} = 2 + 2u_k$$ per tutti gli integri $k \ge 1$. Determinare tutti gli integri positivi $n$ in modo tale che $\frac{u_n}{n}$ sia un intero.
 
-[[Quesiti/src_inmo_2025#q01|src_inmo_2025__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_invarianti,method_casework,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -65,8 +63,6 @@ level: INMO
 > $n \ge 2$ sia un numero intero positivo. I numeri interi $1, 2, \ldots, n$ sono scritti sulla lavagna. In una mossa, Alice può scegliere due numeri interi scritti sulla lavagna $a \ne b$ in modo tale che $a + b$ sia un numero pari, cancellare sia $a$ che $b$ dalla lavagna e scrivere $\frac{a+b}{2}$ sulla lavagna. Trova tutte le $n$ per cui Alice può fare una sequenza di mosse in modo che finisca con un solo numero rimasto sulla tavola.
 > 
 > **Nota.** Quando $n = 3$, Alice cambia $\{1, 2, 3\}$ a $\{2, 3\}$ e dopo questo Alice non può fare ulteriori mosse.
-
-[[Quesiti/src_inmo_2025#q02|src_inmo_2025__Q02]]
 
 
 
@@ -98,8 +94,6 @@ level: INMO
 > 
 > Supponiamo che Euclide abbia solo tre punti non collineari $A, B, C$ sul piano. Prova che Euclide può utilizzare la divisione più volte per disegnare il centro del cerchio che attraversa $A$, $B$ e $C$.
 
-[[Quesiti/src_inmo_2025#q03|src_inmo_2025__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_disuguaglianze,topic_algebra,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
@@ -127,8 +121,6 @@ level: INMO
 
 > $n \ge 3$ sia un numero intero positivo. Trovare il più grande numero reale $t_n$, come funzione di $n$, in modo tale che l'ineguaglianza $$\max(|a_1 + a_2|, |a_2 + a_3|, \ldots, |a_{n-1} + a_n|, |a_n + a_1|) \ge t_n \cdot \max(|a_1|, |a_2|, \ldots, |a_n|)$$ sia valida per tutti i numeri reali $a_1, a_2, \ldots, a_n$.
 
-[[Quesiti/src_inmo_2025#q04|src_inmo_2025__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_invarianti,method_estremalita,skill_ragionamento_geometrico,skill_modellizzazione,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -154,8 +146,6 @@ level: INMO
 
 > Greedy Griphook ha un normale $2000$-gon, il cui vertice ha una singola moneta. In una mossa, sceglie un vertice, rimuove una moneta ciascuno dai due vertici adiacenti e aggiunge una moneta al vertice scelto, conservando la moneta rimanente per se stesso. Può fare tale mossa solo se entrambi i vertici adiacenti hanno almeno una moneta. Griphook si ferma solo quando non riesce a fare più movimenti. Qual e' il numero massimo e minimo di monete che Griphook avrebbe potuto raccogliere?
 
-[[Quesiti/src_inmo_2025#q05|src_inmo_2025__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione,skill_modellizzazione"></span>
@@ -180,5 +170,3 @@ level: INMO
 *Prove che esistono infiniti numeri da pagare per le banconote con copie b-1*
 
 > $b \ge 2$ sia un numero intero positivo. Anu ha una raccolta infinita di note con esattamente $b - 1$ copie di una nota con valore $b^k$ per ogni numero intero $k \ge 1$. Un intero positivo $n$ è chiamato pagabile se Anu può pagare esattamente $n^2 + 1$ rupie utilizzando una raccolta delle sue banconote. Prova che se c'è un numero da pagare, allora ci sono infiniti numeri da pagare.
-
-[[Quesiti/src_inmo_2025#q06|src_inmo_2025__Q06]]

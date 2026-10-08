@@ -38,7 +38,6 @@ level: squadre
 > composed using only two digits, each twice?
 
 **Answer:** 0092
-[[Quesiti/src_kangourou_2020_squadre_ecolier_f#q01|src_kangourou_2020_squadre_ecolier_f__Q01]]
 
 
 
@@ -76,7 +75,6 @@ level: squadre
 > path long?
 
 **Answer:** 0039
-[[Quesiti/src_kangourou_2020_squadre_ecolier_f#q02|src_kangourou_2020_squadre_ecolier_f__Q02]]
 
 
 
@@ -115,7 +113,6 @@ level: squadre
 > none)?
 
 **Answer:** 0034
-[[Quesiti/src_kangourou_2020_squadre_ecolier_f#q03|src_kangourou_2020_squadre_ecolier_f__Q03]]
 
 
 
@@ -156,7 +153,6 @@ level: squadre
 > tenth square?
 
 **Answer:** 0341
-[[Quesiti/src_kangourou_2020_squadre_ecolier_f#q04|src_kangourou_2020_squadre_ecolier_f__Q04]]
 
 
 
@@ -189,7 +185,6 @@ level: squadre
 > both multiples of 3?
 
 **Answer:** 0030
-[[Quesiti/src_kangourou_2020_squadre_ecolier_f#q05|src_kangourou_2020_squadre_ecolier_f__Q05]]
 
 
 
@@ -223,7 +218,6 @@ level: squadre
 > and that Carlo's age is double Betta's. How old is Alda?
 
 **Answer:** 0036
-[[Quesiti/src_kangourou_2020_squadre_ecolier_f#q06|src_kangourou_2020_squadre_ecolier_f__Q06]]
 
 
 
@@ -258,7 +252,6 @@ level: squadre
 > How many euros does Marta have at most?
 
 **Answer:** 0405
-[[Quesiti/src_kangourou_2020_squadre_ecolier_f#q07|src_kangourou_2020_squadre_ecolier_f__Q07]]
 
 
 
@@ -293,7 +286,6 @@ level: squadre
 > Diana's birth. Diana was born on June 4: what code did she use?
 
 **Answer:** 8880
-[[Quesiti/src_kangourou_2020_squadre_ecolier_f#q08|src_kangourou_2020_squadre_ecolier_f__Q08]]
 
 
 
@@ -332,7 +324,6 @@ level: squadre
 > enough to put together?
 
 **Answer:** 0012
-[[Quesiti/src_kangourou_2020_squadre_ecolier_f#q09|src_kangourou_2020_squadre_ecolier_f__Q09]]
 
 
 
@@ -368,7 +359,6 @@ level: squadre
 > How many thalers was the cauldron worth?
 
 **Answer:** 0480
-[[Quesiti/src_kangourou_2020_squadre_ecolier_f#q10|src_kangourou_2020_squadre_ecolier_f__Q10]]
 
 
 
@@ -406,7 +396,6 @@ level: squadre
 > in the figure. What is the sum of the two swapped numbers?
 
 **Answer:** 0021
-[[Quesiti/src_kangourou_2020_squadre_ecolier_f#q11|src_kangourou_2020_squadre_ecolier_f__Q11]]
 
 
 
@@ -439,7 +428,6 @@ level: squadre
 > is 1?
 
 **Answer:** 0037
-[[Quesiti/src_kangourou_2020_squadre_ecolier_f#q12|src_kangourou_2020_squadre_ecolier_f__Q12]]
 
 
 
@@ -475,7 +463,6 @@ level: squadre
 > paint that would be needed to fill the whole figure.
 
 **Answer:** 0048
-[[Quesiti/src_kangourou_2020_squadre_ecolier_f#q13|src_kangourou_2020_squadre_ecolier_f__Q13]]
 
 
 
@@ -510,7 +497,6 @@ level: squadre
 > tokens does Alessio have?
 
 **Answer:** 0101
-[[Quesiti/src_kangourou_2020_squadre_ecolier_f#q14|src_kangourou_2020_squadre_ecolier_f__Q14]]
 
 
 
@@ -549,4 +535,3 @@ level: squadre
 > he no longer has any money: how many euros did Alfonso have before the first trip?
 
 **Answer:** 0042
-[[Quesiti/src_kangourou_2020_squadre_ecolier_f#q15|src_kangourou_2020_squadre_ecolier_f__Q15]]

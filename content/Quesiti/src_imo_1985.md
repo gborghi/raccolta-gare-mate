@@ -32,8 +32,6 @@ level: IMO
 
 > A circle has the centre on the $AB$ side of the cyclic quadrilateral $ABCD$. The other three sides are tangent to the circle. Show that $AD + BC = AB$.
 
-[[Quesiti/src_imo_1985#q01|src_imo_1985__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_invarianti"></span>
@@ -70,8 +68,6 @@ level: IMO
 > 
 > Demonstrate that all numbers in $M$ must have the same color.
 
-[[Quesiti/src_imo_1985#q02|src_imo_1985__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_congruenze"></span>
@@ -100,8 +96,6 @@ level: IMO
 > 
 > $$w(Q_{i_1} + Q_{i_2} + \cdots + Q_{i_n}) \geq w(Q_{i_1}).$$
 
-[[Quesiti/src_imo_1985#q03|src_imo_1985__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_fattorizzazione"></span>
@@ -126,8 +120,6 @@ level: IMO
 
 > Given a $M$ set of $1985$ distinct positive integers, none of which has a prime divisor greater than $26$. Show that $M$ contains at least one subset of four distinct elements whose product is the fourth power of an integer.
 
-[[Quesiti/src_imo_1985#q04|src_imo_1985__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -151,8 +143,6 @@ level: IMO
 *Prove angle OMB is right in two-circle configuration*
 
 > A circle with a centre $O$ passes through the vertices $A$ and $C$ of the $ABC$ triangle and intersects the segments $AB$ and $BC$ again at distinct points $K$ and $N$, respectively. The circles surrounding the $ABC$ and $KBN$ triangles intersect at exactly two distinct points $B$ and $M$. Show that the $\angle OMB$ angle is a right angle.
-
-[[Quesiti/src_imo_1985#q05|src_imo_1985__Q05]]
 
 
 
@@ -193,5 +183,3 @@ level: IMO
 > $$0 < x_n < x_{n+1} < 1$$
 > 
 > for each $n$.
-
-[[Quesiti/src_imo_1985#q06|src_imo_1985__Q06]]

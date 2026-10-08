@@ -76,8 +76,6 @@ level: Concours Général
 > 
 > 5. Che $n$ sia un numero intero maggiore o uguale a $4$ e che $(x_1,x_2,\ldots,x_n)$ sia la sequenza finita data a Isabelle e Clara. Un insieme: $$M=\max(|x_1|,|x_2|,\ldots,|x_n|)\qquad S=|x_1+x_2+\cdots+x_n|\qquad N=\max(M,S)$$ In altre parole, $M$ è il più grande dei numeri $|x_1|,|x_2|,\ldots,|x_n|$. Allo stesso modo, $N$ è il più grande dei numeri $M$ e $S$. a. Mostra che $S\le I$. b. Mostra che $M\le2I$. c. Mostra che $C\le N$. d. Riduzione di $C\le2I$. e. Determinare i valori $n$ $x_1,x_2,\ldots,x_n$ tali da $C=2I$.
 
-[[Quesiti/src_cgen_2021#q01|src_cgen_2021__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,topic_geometria_analitica,method_coordinate,method_simmetria,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -127,8 +125,6 @@ level: Concours Général
 > 3. Un'altitudine viene chiamata da $A$ la linea che passa attraverso $A$ ortogonale al piano $BCD$. Si definiscono in modo analogo le altre tre altitudini, emesse da $B$, $C$ e $D$. Si dice che un tetraedro di spazio sia regolare se tutti i suoi bordi sono della stessa lunghezza. a. È vero che le altitudini sono simultanee a $O$ se e solo se il tetraedro è regolare? b. Le altitudini sono necessariamente contemporanee? c. È vero che le altitudini sono simultanee a $G$ se e solo se il tetraedro è regolare?
 > 
 > 4. In quanto segue, il prodotto del punto di due vettori $\vec{v}$ e $\vec{w}$ è indicato $\vec{v}\cdot\vec{w}$. Le linee $\Delta_1,\ldots,\Delta_4$ devono essere quattro linee non coplanarie distinte, che sono simultanee in un punto $H$. Per $1\le i\le4$ si sceglie un vettore di direzione unitaria $\vec{u}_i$ di $\Delta_i$ e, per $1\le i,j\le4$, una nota $c_{ij}=\vec{u}_i\cdot\vec{u}_j$. a. Si suppone che esista un tetraedro $A_1A_2A_3A_4$ le cui altitudini sono simultanee a $H$ e tale che $A_j\in\Delta_j$ per tutti $j\in\{1,2,3,4\}$. Mostrare che $c_{12}c_{34}=c_{13}c_{24}=c_{14}c_{23}$. b. Al contrario, se $c_{12}c_{34}=c_{13}c_{24}=c_{14}c_{23}\ne0$, dimostrare che esiste un tetraedro $A_1A_2A_3A_4$ le cui altitudini sono simultanee a $H$ e tale che $A_j\in\Delta_j$ per tutti $j\in\{1,2,3,4\}$.
-
-[[Quesiti/src_cgen_2021#q02|src_cgen_2021__Q02]]
 
 
 
@@ -216,8 +212,6 @@ level: Concours Général
 > 
 > 17. Indicare $\mathscr{P}_n$.
 
-[[Quesiti/src_cgen_2021#q03|src_cgen_2021__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_disuguaglianze,topic_insiemi_funzioni,topic_trigonometria,method_disuguaglianze,method_casework,method_trigonometria,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
@@ -301,5 +295,3 @@ level: Concours Général
 > 3.3 Una moltitudine di funzioni forti e deboli. Si dice che la funzione $f$ è "forte" se esiste un intero $k\ge1$ per il quale $f$ è $k$-forte, e "debole" se esiste un intero $k\ge1$ per il quale $f$ è $k$-debole. 10. Indicare che, se $f$ è debole, la funzione $F$ definita su $I$ da $F(x)=\frac{1}{f(x)}$ è forte. 11. Indicare che, se due funzioni $f$ e $g$ definite su $I$ sono deboli, le funzioni $f+g$, $f\times g$ e $\frac{f}{g}$ sono deboli. 12. Mostrare, con l'aiuto di esempi contrastanti, che se due funzioni $f$ e $g$ definite su $I$ sono forti, le funzioni $f+g$, $f\times g$ e $\frac{f}{g}$ non sono necessariamente forti. 13. Che $f$ sia una funzione definita su $I$ con valori rigorosamente positivi, e $g$ una funzione definita su $]0,+\infty[$. a. Indicare che, se $f$ e $g$ sono deboli, la funzione $g\circ f$ è debole. b. Indicare che, se $f$ e $g$ sono forti, la funzione $g\circ f$ è forte.
 > 
 > 3.4 Applicazione alla dimostrazione delle disuguaglianze. 14. Lasciate che $a,b$ e $c$ siano tre reali strettamente positivi e $n$ un intero naturale non zero. Mostra che: $$\left(\frac{a+c}{b+c}\right)^n+\left(\frac{b+c}{a+c}\right)^n\le\left(\frac{a}{b}\right)^n+\left(\frac{b}{a}\right)^n$$ 15. In questa domanda si può usare il fatto che le funzioni $\cos$ e $\sin$ sono differenziabili su $]0,\frac{\pi}{2}[$ con derivati rispettivamente $\cos'=-\sin$ e $\sin'=\cos$. La funzione $\tan$ è definita su $]0,\frac{\pi}{2}[$ da $\tan(x)=\frac{\sin(x)}{\cos(x)}$. Che $a$ e $b$ siano due numeri reali dell'intervallo $]0,\frac{\pi}{2}[$, mostrando che: $$\frac{\sin(a)}{\sin(b)}+\frac{\sin(b)}{\sin(a)}\le\frac{a}{b}+\frac{b}{a}\le\frac{\tan(a)}{\tan(b)}+\frac{\tan(b)}{\tan(a)}$$
-
-[[Quesiti/src_cgen_2021#q04|src_cgen_2021__Q04]]

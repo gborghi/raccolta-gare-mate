@@ -41,8 +41,6 @@ level: IMO
 > 
 > Determinare $f(1982)$.
 
-[[Quesiti/src_imho_1982#q01|src_imho_1982__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -67,8 +65,6 @@ level: IMO
 *Riflessioni nel triangolo e rette concorrenti tramite bisettrice angolare*
 
 > Sia dato un triangolo acutangolo $A_1 A_2 A_3$ non isoscele, con lati $a_1, a_2, a_3$ ($a_i$ è il lato opposto a $A_i$). Per ogni $i = 1, 2, 3$, sia $M_i$ il punto medio del lato $a_i$ e $T_i$ il punto in cui la circonferenza inscritta tocca il lato $a_i$. Sia $S_i$ la riflessione di $T_i$ rispetto alla bisettrice interna dell'angolo $A_i$. Si dimostri che le rette $M_1 S_1$, $M_2 S_2$, $M_3 S_3$ sono concorrenti.
-
-[[Quesiti/src_imho_1982#q02|src_imho_1982__Q02]]
 
 
 
@@ -111,8 +107,6 @@ level: IMO
 > $$\frac{x_0^2}{x_1} + \frac{x_1^2}{x_2} + \cdots + \frac{x_{n-1}^2}{x_n} < 4$$
 > per ogni $n \ge 1$.
 
-[[Quesiti/src_imho_1982#q03|src_imho_1982__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_simmetria,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -141,8 +135,6 @@ level: IMO
 > Si dimostri che se $n$ è un intero positivo tale che l'equazione
 > $$x^2 - 3xy + y^2 = n$$
 > ha una soluzione in numeri interi $(x, y)$, allora ne ha almeno tre. Si mostri che l'equazione non ha soluzioni in numeri interi quando $n = 2^{2891}$.
-
-[[Quesiti/src_imho_1982#q04|src_imho_1982__Q04]]
 
 
 
@@ -173,8 +165,6 @@ level: IMO
 > $$\frac{AM}{AC} = \frac{CN}{CE} = r.$$
 > Determinare $r$ sapendo che $B$, $M$ e $N$ sono allineati.
 
-[[Quesiti/src_imho_1982#q05|src_imho_1982__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_geometria_piana,method_estremalita,method_cassetti,method_invarianti,skill_ragionamento_geometrico,skill_modellizzazione,skill_stima,skill_astrazione"></span>
@@ -199,5 +189,3 @@ level: IMO
 *Percorso nel quadrato che copre il bordo entro distanza 1/2, dimostrare che la lunghezza è ≥ 198*
 
 > Sia $S$ un quadrato di lato 100, e sia $L$ un cammino contenuto in $S$ che non si interseca e formato da segmenti rettilinei $A_0A_1, A_1A_2, \cdots, A_{n-1}A_n$ di lunghezza $A_0 \neq A_n$. Si supponga che per ogni punto $P$ del bordo di $S$ esista un punto di $L$ ad una distanza da $P$ non maggiore di $1/2$. Si dimostri che esistono due punti $X$ e $Y$ in $L$ tali che la distanza tra $X$ e $Y$ non supera $1$, e la lunghezza della parte di $L$ compresa tra $X$ e $Y$ è almeno $198$.
-
-[[Quesiti/src_imho_1982#q06|src_imho_1982__Q06]]

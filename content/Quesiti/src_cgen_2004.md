@@ -75,8 +75,6 @@ level: Concours Général
 
 ![[src_cgen_2004__q01.png]]
 
-[[Quesiti/src_cgen_2004#q01|src_cgen_2004__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_analitica,topic_geometria_solida,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -127,8 +125,6 @@ level: Concours Général
 
 ![[src_cgen_2004__q02.png]]
 
-[[Quesiti/src_cgen_2004#q02|src_cgen_2004__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_insiemi_funzioni,topic_disuguaglianze,method_disuguaglianze,method_trigonometria,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
@@ -178,8 +174,6 @@ level: Concours Général
 > 
 > 3. Dimostrare, a partire dai risultati delle domande 1 e 2, che la sequenza $(\lambda_n)$ è convergente e calcolare il suo limite.
 
-[[Quesiti/src_cgen_2004#q03|src_cgen_2004__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -221,8 +215,6 @@ level: Concours Général
 > 2. Lasciate che $(p,q)$ siano un paio di integri naturali, in modo tale che esistano integri $u > 0$ e $v > 0$, di parità diverse, per cui $p = u^2 + v^2$ e $q = u^2 - v^2$. Mostrare che $(p,q)$ è un paio di integri naturali dispari come $q < p$ verificando la condizione $(C_2)$.
 > 
 > 3. Consideriamo un paio di $(p,q)$ di integri naturali dispari, coprimo, come $q < p$ e verificando la condizione $(C_2)$. Mostrare che esistono due integri naturali $u$ e $v$ di parità diverse come $p = u^2 + v^2$ e $q = u^2 - v^2$. Calcolare quindi, come funzione di $u$ e $v$, il valore dell'intero numero $a$ che interviene nella condizione $(C_2)$.
-
-[[Quesiti/src_cgen_2004#q04|src_cgen_2004__Q04]]
 
 
 
@@ -304,8 +296,6 @@ level: Concours Général
 > 
 > 5. a. Deduci dalle domande precedenti un algoritmo che consente di decomporre $p$ come somma di due quadrati. b. Date il numero primo più piccolo superiore a $40$ che è la somma di due quadrati e, con l'aiuto di questo algoritmo, specificate una sua decomposizione (indicheremo i triplici calcolati ai diversi passaggi dell'iterazione).
 
-[[Quesiti/src_cgen_2004#q05|src_cgen_2004__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -359,5 +349,3 @@ level: Concours Général
 > 3. a. Per $s$ un numero intero maggiore o uguale a $2$, si indica $p_s$ il più piccolo divisore primo del numero $(s!)^2 + 1$. Mostrare che $p_s > s$ e $p_s$ sono la somma di due quadrati. b. Deduci che esiste un infinito di numeri primi somma di due quadrati.
 > 
 > 4. a. Mostrare che esiste un'infinità di coppie di integri $(n,k)$ con $1 \le k < n$ tale che $L(n,k)$ sia razionale. b. Determinare un numero intero $n$ in modo tale che esistano diversi valori di $k$ per i quali $L(n,k)$ è razionale.
-
-[[Quesiti/src_cgen_2004#q06|src_cgen_2004__Q06]]

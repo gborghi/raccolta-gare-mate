@@ -45,8 +45,6 @@ level: Concours Général
 > 
 > 2. Lasciate che $f$ sia una funzione di soluzione del problema. Ci viene dato un reale $x$ e impostare, per ogni intero naturale $n$, $f\left(\frac{x}{2^n}\right) = \cos(\theta_n)$, con $\theta_n$ in $[0,\pi]$. (a) Indicare che $f$ è continuo a $0$ e che $\lim_{n \to +\infty} \theta_n = 0$. b) Verificare l'esistenza di un numero intero $N$ tale che per $n \ge N$ si trovi $\theta_{n+1} = \frac{\theta_n}{2}$. c) Stabilire che $a$ è positivo e che $f(x) = \cos\left(x\sqrt{2a}\right)$.
 
-[[Quesiti/src_cgen_2009#q01|src_cgen_2009__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_probabilita,method_casi_conteggio,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_modellizzazione"></span>
@@ -90,8 +88,6 @@ level: Concours Général
 > 
 > Supponiamo ora che da ora in poi, dopo aver lanciato i 4 dadi, mi sia permesso di lanciare di nuovo tra $0$ e $4$ dadi per migliorare il mio punteggio. 5. Ho ottenuto $11 - 7 - 2 - 2$. Ho esitato tra gettare tutto indietro, mantenere il $11$, e mantenere i due $2$. - Cosa devo fare? 6. Supponiamo che abbia ottenuto 4 dadi diversi. Quali dadi devo gettare di nuovo?
 
-[[Quesiti/src_cgen_2009#q02|src_cgen_2009__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_estremalita,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
@@ -132,5 +128,3 @@ level: Concours Général
 > 2. Supponiamo ora che $a$ e $b$ siano numeri interi rigorosamente positivi con GCD $d$. Indicare che se $U$ è periodico dei periodi $a$ e $b$ e $n \ge a + b - d$, allora $U$ è periodico $d$.
 > 
 > 3. Consideriamo due integri $a$ e $b$ strettamente superiori a $1$ e coprimo. (a) Mostra che si può dividere l'intervallo $[\![1, a+b-2]\!]$ in due sottoinsiemi non vuoti $A$ e $B$ in modo tale che la sequenza $V$ pari a $1$ su $A$ e a $0$ su $B$ sia di periodi $a$ e $b$. (b) La divisione ottenuta nella domanda precedente è unica? Indicare che per ogni $x$ di $A$, $a + b - 1 - x$ è in $A$. Quale proprietà della sequenza $V$ esprime questo?
-
-[[Quesiti/src_cgen_2009#q03|src_cgen_2009__Q03]]

@@ -47,8 +47,6 @@ level: OBM Nível 2
 > 
 > (b) $n = 2005$?
 
-[[Quesiti/src_obm_2006_n2_f3#q01|src_obm_2006_n2_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_combinatoria,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_astrazione,skill_stima"></span>
@@ -86,8 +84,6 @@ level: OBM Nível 2
 
 ![[src_obm_2006_n2_f3__q02.png]]
 
-[[Quesiti/src_obm_2006_n2_f3#q02|src_obm_2006_n2_f3__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -112,8 +108,6 @@ level: OBM Nível 2
 *Ricerca tutte le coppie di numeri interi con x^3 - y^3 = 3(x^2 - y^2)*
 
 > Trova tutte le coppie ordinate $(x, y)$ di integri come $x^3 - y^3 = 3(x^2 - y^2)$.
-
-[[Quesiti/src_obm_2006_n2_f3#q03|src_obm_2006_n2_f3__Q03]]
 
 
 
@@ -140,8 +134,6 @@ level: OBM Nível 2
 
 > Quanti sottoinsiemi di tre elementi $\{a, b, c\}$ di $\{1, 2, 3, \ldots, 100\}$ sono tali che $b$ sia la media aritmetica di $a$ e $c$ (con $a < b < c$)?
 
-[[Quesiti/src_obm_2006_n2_f3#q04|src_obm_2006_n2_f3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -166,8 +158,6 @@ level: OBM Nível 2
 *Trovare l'angolo MNR in un triangolo acuto dato il centro ortografico e i punti medi*
 
 > Che $ABC$ sia un triangolo acuto e $H$ il suo centro orto. $M$, $N$ e $R$ siano rispettivamente i punti intermedi di $AB$, $BC$ e $AH$. Trova la misura dell'angolo $M\hat{N}R$ se angolo $A\hat{B}C = 70^\circ$.
-
-[[Quesiti/src_obm_2006_n2_f3#q05|src_obm_2006_n2_f3__Q05]]
 
 
 
@@ -197,5 +187,3 @@ Il torneo di prova senza k-cycle ha un vincitore e un perdente
 > In un torneo di tennis da tavolo (in cui nessuna partita termina in pareggio), ciascuno dei partecipanti $n$ gioca esattamente una volta contro ciascuno degli altri. È noto che per tutti i $k > 2$ non esistono $k$ giocatori $J_1, J_2, \ldots, J_k$ in modo che $J_1$ batta $J_2$, $J_2$ batta $J_3$, $J_3$ batta $J_4$, $\ldots$, $J_{k-1}$ batta $J_k$ e $J_k$ batta $J_1$.
 > 
 > Prove che esiste un giocatore che ha battuto tutti gli altri e esiste un giocatore che ha perso agli altri.
-
-[[Quesiti/src_obm_2006_n2_f3#q06|src_obm_2006_n2_f3__Q06]]

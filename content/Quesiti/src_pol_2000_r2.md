@@ -33,8 +33,6 @@ level: Olimpiade Polacca Round 2
 
 > Prove o smentire che ogni numero razionale positivo può essere scritto nella forma $\frac{a^3+b^3}{c^3+d^3}$, dove $a,b,c,d$ sono interi positivi.
 
-[[Quesiti/src_pol_2000_r2#q01|src_pol_2000_r2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -58,8 +56,6 @@ level: Olimpiade Polacca Round 2
 *Nel triangolo ABC il bisettore dell'angolo BAC incontra il circoncircolo a D; K e L sono proiezioni di B e C sulla linea AC; mostrare AD >= BK+CL.*
 
 > Nel triangolo $ABC$ il bisettore dell'angolo $\angle BAC$ incontra il circoncircolo di $\triangle ABC$ al punto $D \neq A$. Se $K$ e $L$ sono rispettivamente le proiezioni di $B$ e $C$ sulla linea $AC$, indicare che $AD \ge BK + CL$.
-
-[[Quesiti/src_pol_2000_r2#q02|src_pol_2000_r2__Q02]]
 
 
 
@@ -86,8 +82,6 @@ level: Olimpiade Polacca Round 2
 
 > Le celle della tabella $n \times n$ sono scritte $n^2$ diversi interi positivi. In ogni colonna della scacchiera la cella con il maggior numero è di colore rosso. Un insieme $S$ di celle $n$ è chiamato \emph{admissible} se non ci sono due celle di $S$ nella stessa colonna o riga. Prove che l'insieme ammissibile di cellule con la maggior somma di numeri contiene almeno una cellula rossa.
 
-[[Quesiti/src_pol_2000_r2#q03|src_pol_2000_r2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -112,8 +106,6 @@ level: Olimpiade Polacca Round 2
 *Nel triangolo ABC con AB != AC, I è l'incentro e D, E sono dove BI e CI incontrano i lati opposti; trovare tutte le misure dell'angolo BAC per il quale DI = EI.*
 
 > In un triangolo $ABC$ con $AB \neq AC$, $I$ è l'incentro e $D$ e $E$ i punti di intersezione di $BI$ e $CI$ con i lati opposti del triangolo, rispettivamente. Trova tutte le possibili misure di $\angle BAC$ per le quali può essere soddisfatta l'uguaglianza $DI = EI$.
-
-[[Quesiti/src_pol_2000_r2#q04|src_pol_2000_r2__Q04]]
 
 
 
@@ -140,8 +132,6 @@ level: Olimpiade Polacca Round 2
 
 > Prove o respingere l'esistenza di una funzione $f : \mathbb{N} \to \mathbb{N}$ tale che $$f(f(n)) = 2n \quad \text{for all } n \in \mathbb{N}.$$
 
-[[Quesiti/src_pol_2000_r2#q05|src_pol_2000_r2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -166,5 +156,3 @@ level: Olimpiade Polacca Round 2
 *Un polinomio quadratico w con coefficienti interi assume un valore di quadrato perfetto a ogni numero intero x; prova w è il quadrato di un polinomio.*
 
 > Che $w$ sia un polinomio quadratico con coefficienti interi. Supponiamo che per ogni numero intero $x$ il valore $w(x)$ sia un quadrato perfetto. Prova che $w$ è il quadrato di un polinomio.
-
-[[Quesiti/src_pol_2000_r2#q06|src_pol_2000_r2__Q06]]

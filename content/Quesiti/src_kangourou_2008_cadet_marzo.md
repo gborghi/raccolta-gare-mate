@@ -62,7 +62,6 @@ level: kangourou
 > How many squares can be plotted that have as their vertices four of the points in the figure? A) 2                 B) 3              C) 4 D) 5                 E) 6
 
 **Answer:** C
-[[Quesiti/src_kangourou_2008_cadet_marzo#q01|src_kangourou_2008_cadet_marzo__Q01]]
 
 
 
@@ -97,7 +96,6 @@ level: kangourou
 > One class is made up of nine boys and 13 girls. Half of them have the flu. What's the minimum number of girls who definitely have the flu? A) 7 B) 5 C) 2 D) 6 E) 4
 
 **Answer:** C
-[[Quesiti/src_kangourou_2008_cadet_marzo#q02|src_kangourou_2008_cadet_marzo__Q02]]
 
 
 
@@ -134,7 +132,6 @@ level: kangourou
 > Twelve questions are assigned in a competition: the papers are distributed among the members of the judging panel so that all papers relating to a question are evaluated by two officers and that each commissioner evaluates the papers of three questions. How many members of the committee are there? A) 6 B) 8 C) 12 D) 18 E) 24
 
 **Answer:** B
-[[Quesiti/src_kangourou_2008_cadet_marzo#q03|src_kangourou_2008_cadet_marzo__Q03]]
 
 
 
@@ -192,7 +189,6 @@ level: kangourou
 > The numbers 2, 3, 4, along with another unknown number, are written in the 2x2 grid on the side, one for each box. You know the sum of the numbers in the first line is 9 and the sum of the numbers in the second line is 6. The unknown number is A) 5 B) 6 C) 7 D) 8 E) 4
 
 **Answer:** B
-[[Quesiti/src_kangourou_2008_cadet_marzo#q04|src_kangourou_2008_cadet_marzo__Q04]]
 
 
 
@@ -279,8 +275,6 @@ level: kangourou
 
 **Answer:** D
 
-[[Quesiti/src_kangourou_2008_cadet_marzo#q05|src_kangourou_2008_cadet_marzo__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,skill_manipolazione_algebrica"></span>
@@ -313,7 +307,6 @@ level: kangourou
 > A florist has 24 white roses, 42 red roses, and 36 yellow roses. She wants to make many identical bouquets, using all the flowers. How many bouquets can she make at most? A) 4 B) 6 C) 8 D) 10 E) 12
 
 **Answer:** B
-[[Quesiti/src_kangourou_2008_cadet_marzo#q06|src_kangourou_2008_cadet_marzo__Q06]]
 
 
 
@@ -360,7 +353,6 @@ level: kangourou
 > E) 48
 
 **Answer:** C
-[[Quesiti/src_kangourou_2008_cadet_marzo#q07|src_kangourou_2008_cadet_marzo__Q07]]
 
 
 
@@ -398,7 +390,6 @@ level: kangourou
 > In the figure three straight lines a, b, c are represented which intersect at a point, forming angles the width of which (in degrees) is indicated in the figure. How many degrees does the angle painted in gray measure? A) 52 B) 53 C) 54 D) 55 E) 56
 
 **Answer:** A
-[[Quesiti/src_kangourou_2008_cadet_marzo#q08|src_kangourou_2008_cadet_marzo__Q08]]
 
 
 
@@ -433,7 +424,6 @@ level: kangourou
 > Daniel has 9 coins, each of 2 cents; his sister Anna has 8 coins, each of 5 cents. What is the minimum number of coins that must be changed for each owner to have the same amount of money? A) 4 B) 5 C) 8 D) 12 E) The situation is not feasible.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2008_cadet_marzo#q09|src_kangourou_2008_cadet_marzo__Q09]]
 
 
 
@@ -465,7 +455,6 @@ Number of friends by 15 handshakes
 > Some friends greet each other, each shaking hands with the others. If the handshakes were 15, how many friends are there? A) 15 B) 6 C) 5 D) 7 E) 14 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2008_cadet_marzo#q10|src_kangourou_2008_cadet_marzo__Q10]]
 
 
 
@@ -510,7 +499,6 @@ Number of friends by 15 handshakes
 > The two buses serving on the circular line around Kangcity pass through a certain stop at regular intervals of 25 minutes. How many buses must be added to the line to shorten the waiting interval by 60%? A) 1 B) 2 C) 3 D) 5 E) 6 108° 124° Texts_08.qxp 9-03-2008 14:56 Page 17
 
 **Answer:** C
-[[Quesiti/src_kangourou_2008_cadet_marzo#q11|src_kangourou_2008_cadet_marzo__Q11]]
 
 
 
@@ -543,7 +531,6 @@ Number of friends by 15 handshakes
 > The French mathematician August de Morgan, who died in 1899, used to say that he was x years old in the year x2. When was de Morgan born? A) 1806 B) 1848 C) 1849 D) 1899 E) In another year.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2008_cadet_marzo#q12|src_kangourou_2008_cadet_marzo__Q12]]
 
 
 
@@ -579,7 +566,6 @@ Number of friends by 15 handshakes
 > We want to visit four islands A, B, C, D starting from the mainland, using the ferries that connect them. C is connected in both directions to the mainland; A and C are connected in both directions as well as A and D. A and B can only be reached from the mainland as A from B. What is the minimum number of trips sufficient to visit all the islands (with departure and arrival on the mainland)? A) 6 B) 5 C) 8 D) 4 E) 7
 
 **Answer:** A
-[[Quesiti/src_kangourou_2008_cadet_marzo#q13|src_kangourou_2008_cadet_marzo__Q13]]
 
 
 
@@ -614,7 +600,6 @@ Number of friends by 15 handshakes
 > Tom and Jerry each have a rectangle. The two rectangles are the same. Everyone cuts their own. Tom gets two rectangles each of which has a perimeter of 40 cm, while Jerry gets two rectangles each of which has a perimeter of 50 cm. What was the perimeter of each of the initial rectangles? A) 40 cm B) 50 cm C) 60 cm D) 80 cm       E) 90 cm
 
 **Answer:** C
-[[Quesiti/src_kangourou_2008_cadet_marzo#q14|src_kangourou_2008_cadet_marzo__Q14]]
 
 
 
@@ -650,7 +635,6 @@ Number of friends by 15 handshakes
 > A face of a cube is cut along its two diagonals. Which of the following are not nets of such a cube? A) 1 and 3 B) 1 and 5 C) 3 and 4 D) 3 and 5         E) 2 and 4
 
 **Answer:** D
-[[Quesiti/src_kangourou_2008_cadet_marzo#q15|src_kangourou_2008_cadet_marzo__Q15]]
 
 
 
@@ -745,7 +729,6 @@ Number of friends by 15 handshakes
 > Kang 2008
 
 **Answer:** D
-[[Quesiti/src_kangourou_2008_cadet_marzo#q16|src_kangourou_2008_cadet_marzo__Q16]]
 
 
 
@@ -818,7 +801,6 @@ Number of friends by 15 handshakes
 > Four congruent circles of radius 6 centimeters are tangent to each other and to the sides of the rectangle as shown in the figure. If P is a vertex of the rectangle and Q and R are tangent points, how many square centimeters does the area of the PQR triangle measure? A) 27 B) 45 C) 54 D) 108 E) 180
 
 **Answer:** D
-[[Quesiti/src_kangourou_2008_cadet_marzo#q17|src_kangourou_2008_cadet_marzo__Q17]]
 
 
 
@@ -857,7 +839,6 @@ Number of friends by 15 handshakes
 > A box contains seven cards numbered from 1 to 7. Two wise men randomly take the cards from the box: the first takes three, the second two from the remaining ones; the last two remain locked in the box. The first wise man, after looking only at the numbers written on the cards he caught, says to the second: "I am sure that the sum of the numbers shown on your cards is even". How much is the sum of the numbers shown on the cards the first wise man drew? A) 10 B) 12 C) 6 D) 9 E) 15
 
 **Answer:** B
-[[Quesiti/src_kangourou_2008_cadet_marzo#q18|src_kangourou_2008_cadet_marzo__Q18]]
 
 
 
@@ -895,7 +876,6 @@ Number of friends by 15 handshakes
 > Lucy and Charles go on a mountain trip. When they leave, they read on a sign that their destination is 2 hours and 55 minutes away. They leave the village at 12 o'clock, and at exactly 1 p.m., they make their first stop and read on another sign that their destination is only 1 hour and 15 minutes away. After a quarter of an hour's pause, they continue the journey at the same speed and without stopping. What time do they arrive at their destination? (a) at 14:30 b) at 14:00 c) at 14:55 d) at 15:10 e) at 15:20
 
 **Answer:** B
-[[Quesiti/src_kangourou_2008_cadet_marzo#q19|src_kangourou_2008_cadet_marzo__Q19]]
 
 
 
@@ -932,7 +912,6 @@ Number of friends by 15 handshakes
 > There are points on a straight line. Some of the distances between them are: 1 cm, 2 cm, 3 cm, 4 cm, 5 cm, 6 cm, 7 cm, 8 cm, 9 cm. What is the minimum number of points that allows this condition to be achieved? A) 4 B) 5 C) 6 D) 7 E) 8 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2008_cadet_marzo#q20|src_kangourou_2008_cadet_marzo__Q20]]
 
 
 
@@ -992,8 +971,6 @@ Number of friends by 15 handshakes
 
 **Answer:** D
 
-[[Quesiti/src_kangourou_2008_cadet_marzo#q21|src_kangourou_2008_cadet_marzo__Q21]]
-
 
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_aritmetica,skill_manipolazione_algebrica"></span>
@@ -1027,7 +1004,6 @@ Number of friends by 15 handshakes
 > In a company, girls make up more than 45% but less than 50%. What's the minimum number of girls you have to think are part of that company? A) 3 B) 4 C) 5 D) 6 E) 7
 
 **Answer:** C
-[[Quesiti/src_kangourou_2008_cadet_marzo#q22|src_kangourou_2008_cadet_marzo__Q22]]
 
 
 
@@ -1065,7 +1041,6 @@ Number of friends by 15 handshakes
 > A guy always tells the truth on Thursday and Friday, always lies on Tuesday, while on the other days of the week he lies or tells the truth without a rule. He was asked his name for seven days in a row and in the first six he provided the following answers in order: Luca, Mario, Luca, Mario, Piero, Mario. What did he answer on the seventh day? A) Luca B) Mario C) Piero D) Rita E) There is not enough data to decide.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2008_cadet_marzo#q23|src_kangourou_2008_cadet_marzo__Q23]]
 
 
 
@@ -1108,7 +1083,6 @@ Number of friends by 15 handshakes
 > E) It is impossible to determine it with certainty.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2008_cadet_marzo#q24|src_kangourou_2008_cadet_marzo__Q24]]
 
 
 
@@ -1149,7 +1123,6 @@ Number of friends by 15 handshakes
 > E) 6
 
 **Answer:** B
-[[Quesiti/src_kangourou_2008_cadet_marzo#q25|src_kangourou_2008_cadet_marzo__Q25]]
 
 
 
@@ -1210,7 +1183,6 @@ Number of friends by 15 handshakes
 > Kang 2008
 
 **Answer:** D
-[[Quesiti/src_kangourou_2008_cadet_marzo#q26|src_kangourou_2008_cadet_marzo__Q26]]
 
 
 
@@ -1250,7 +1222,6 @@ Number of friends by 15 handshakes
 > Four identical dice are placed side by side as shown in the figure. The faces of each die are numbered from 1 to 6, but the dice are not standard, i.e. the sum of the points of two opposite faces may not be worth 7. What is the sum total of the dots that appear on the six faces, each of which comes into contact with some other face? A) 19 B) 20 C) 21 D) 22 E) 23
 
 **Answer:** B
-[[Quesiti/src_kangourou_2008_cadet_marzo#q27|src_kangourou_2008_cadet_marzo__Q27]]
 
 
 
@@ -1285,7 +1256,6 @@ Number of friends by 15 handshakes
 > For every two-digit number, we subtract the units digit from the tens digit. How much is the sum of all these differences? A) 90 B) 100 C) 55 D) 45 E) 30
 
 **Answer:** D
-[[Quesiti/src_kangourou_2008_cadet_marzo#q28|src_kangourou_2008_cadet_marzo__Q28]]
 
 
 
@@ -1322,7 +1292,6 @@ Number of friends by 15 handshakes
 > The greatest common divisor of two positive integers m and n is 12 and their least common multiple is a perfect square. So how many of the five rational numbers are perfect squares? A) 1 B) 2 C) 3 D) 4 E) No decision can be made without further information.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2008_cadet_marzo#q29|src_kangourou_2008_cadet_marzo__Q29]]
 
 
 
@@ -1386,4 +1355,3 @@ Number of friends by 15 handshakes
 > Solutions
 
 **Answer:** E
-[[Quesiti/src_kangourou_2008_cadet_marzo#q30|src_kangourou_2008_cadet_marzo__Q30]]

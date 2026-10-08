@@ -48,8 +48,6 @@ level: kangourou
 
 **Answer:** C
 
-[[Quesiti/src_kangourou_2021_junior_marzo#q01|src_kangourou_2021_junior_marzo__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_logica,skill_lettura_attenta"></span>
@@ -110,7 +108,6 @@ level: kangourou
 > E)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_junior_marzo#q02|src_kangourou_2021_junior_marzo__Q02]]
 
 
 
@@ -160,7 +157,6 @@ level: kangourou
 > E) P = Q = R
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_junior_marzo#q03|src_kangourou_2021_junior_marzo__Q03]]
 
 
 
@@ -240,8 +236,6 @@ level: kangourou
 
 **Answer:** B
 
-[[Quesiti/src_kangourou_2021_junior_marzo#q04|src_kangourou_2021_junior_marzo__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,skill_modellizzazione"></span>
@@ -277,7 +271,6 @@ level: kangourou
 > At the end of the first half of a handball match the score was 9 – 14, so the away team was ahead by 5 goals. Respecting the instructions received from the coach during the interval, the home team in the second half dominated, scoring twice as many goals as the opponents and thus winning the game by one goal. What was the final score of the game? A) 20 – 19 B) 21 – 20 C) 22 – 21 D) 23 – 22 E) 24 – 23
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_junior_marzo#q05|src_kangourou_2021_junior_marzo__Q05]]
 
 
 
@@ -371,7 +364,6 @@ level: kangourou
 > Look at the figure. Six congruent rhombi, each 5 cm2 in area, are joined together to form a star whose tips are the vertices of a regular hexagon. How many square centimetres is the area of the hexagon? A) 36 B) 40 C) 45 D) 48 E) 60
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_junior_marzo#q06|src_kangourou_2021_junior_marzo__Q06]]
 
 
 
@@ -418,7 +410,6 @@ level: kangourou
 > E) 24
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_junior_marzo#q07|src_kangourou_2021_junior_marzo__Q07]]
 
 
 
@@ -492,7 +483,6 @@ level: kangourou
 > C) 18 D) 21 E) 24
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_junior_marzo#q08|src_kangourou_2021_junior_marzo__Q08]]
 
 
 
@@ -544,7 +534,6 @@ level: kangourou
 > E)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_junior_marzo#q09|src_kangourou_2021_junior_marzo__Q09]]
 
 
 
@@ -582,7 +571,6 @@ level: kangourou
 > The questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_junior_marzo#q10|src_kangourou_2021_junior_marzo__Q10]]
 
 
 
@@ -624,7 +612,6 @@ level: kangourou
 > (A) certainly A < B. B) certainly A > B. C) certainly A × B > 0. D) A is certainly different from B, but it could either be A < B, or be A > B. E) None of the above claims are correct.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2021_junior_marzo#q11|src_kangourou_2021_junior_marzo__Q11]]
 
 
 
@@ -672,7 +659,6 @@ How to climb 8 steps by skipping 6
 > E) 10
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_junior_marzo#q12|src_kangourou_2021_junior_marzo__Q12]]
 
 
 
@@ -727,7 +713,6 @@ Number in place of ? with equal sums on the circles*
 > E) 5
 
 **Answer:** A
-[[Quesiti/src_kangourou_2021_junior_marzo#q13|src_kangourou_2021_junior_marzo__Q13]]
 
 
 
@@ -775,7 +760,6 @@ Number in place of ? with equal sums on the circles*
 > E) none
 
 **Answer:** A
-[[Quesiti/src_kangourou_2021_junior_marzo#q14|src_kangourou_2021_junior_marzo__Q14]]
 
 
 
@@ -817,7 +801,6 @@ Number in place of ? with equal sums on the circles*
 > E) 16
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_junior_marzo#q15|src_kangourou_2021_junior_marzo__Q15]]
 
 
 
@@ -867,7 +850,6 @@ Number in place of ? with equal sums on the circles*
 > E) 21
 
 **Answer:** E
-[[Quesiti/src_kangourou_2021_junior_marzo#q16|src_kangourou_2021_junior_marzo__Q16]]
 
 
 
@@ -960,7 +942,6 @@ Number in place of ? with equal sums on the circles*
 >
 
 **Answer:** E
-[[Quesiti/src_kangourou_2021_junior_marzo#q17|src_kangourou_2021_junior_marzo__Q17]]
 
 
 
@@ -1017,7 +998,6 @@ Number at the ? in the 3x3 grid after 2x2 moves*
 > E) 19
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_junior_marzo#q18|src_kangourou_2021_junior_marzo__Q18]]
 
 
 
@@ -1055,7 +1035,6 @@ Number at the ? in the 3x3 grid after 2x2 moves*
 > What is the sum of the six angles measured in degrees shown in the picture? A) 360 B) 900 C) 1080 D) 1120 E) 1440
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_junior_marzo#q19|src_kangourou_2021_junior_marzo__Q19]]
 
 
 
@@ -1099,7 +1078,6 @@ Number at the ? in the 3x3 grid after 2x2 moves*
 > The figure shows a sequence of eight boxes, in the first and last of which the number 2021 appears. Each empty box can be filled with a number so that, for an appropriate number a, the sum of the two numbers in two adjacent boxes is alternately a and a + 1, as shown in the figure. What 's the value of a ? A) 4041 B) 4042 C) 4043 D) 4044 E) 4045 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2021_junior_marzo#q20|src_kangourou_2021_junior_marzo__Q20]]
 
 
 
@@ -1142,7 +1120,6 @@ Number at the ? in the 3x3 grid after 2x2 moves*
 > B) 1 / 2 C) 1 / 3 D) √2 / 2 E) √3 / 3
 
 **Answer:** E
-[[Quesiti/src_kangourou_2021_junior_marzo#q21|src_kangourou_2021_junior_marzo__Q21]]
 
 
 
@@ -1180,7 +1157,6 @@ Number at the ? in the 3x3 grid after 2x2 moves*
 > D) 156 E) None of the above.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2021_junior_marzo#q22|src_kangourou_2021_junior_marzo__Q22]]
 
 
 
@@ -1220,7 +1196,6 @@ Number at the ? in the 3x3 grid after 2x2 moves*
 > E) 2021
 
 **Answer:** A
-[[Quesiti/src_kangourou_2021_junior_marzo#q23|src_kangourou_2021_junior_marzo__Q23]]
 
 
 
@@ -1275,7 +1250,6 @@ Number at the ? in the 3x3 grid after 2x2 moves*
 > red, the next one is yellow. Consider the following additional information:
 
 **Answer:** C
-[[Quesiti/src_kangourou_2021_junior_marzo#q24|src_kangourou_2021_junior_marzo__Q24]]
 
 
 
@@ -1304,7 +1278,6 @@ Number at the ? in the 3x3 grid after 2x2 moves*
 > 25. Consider the positive integers that have five digits in decimal writing. How many of them are such that the product of their digits is equal to 1,000? A) 10 B) 20 C) 30 D) 40 E) 60
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_junior_marzo#q25|src_kangourou_2021_junior_marzo__Q25]]
 
 
 
@@ -1333,7 +1306,6 @@ Number at the ? in the 3x3 grid after 2x2 moves*
 > 26. Three boys wrote 10 words each. Each boy, for every word he wrote, gained three points if none of the other boys wrote the same word, gained one point if exactly one of the other boys wrote the same JUNIOR word, no point if the word was also written by the other two. When they compared the three scores they got, they found that they were all different. Paolo had the lowest score, 19 points, while Enrico's score was the highest. How many points did Enrico get? A) 20 B) 21 C) 23 D) 24 E) 25
 
 **Answer:** E
-[[Quesiti/src_kangourou_2021_junior_marzo#q26|src_kangourou_2021_junior_marzo__Q26]]
 
 
 
@@ -1365,7 +1337,6 @@ Number at the ? in the 3x3 grid after 2x2 moves*
 > 27. The smallest square in the figure has area 16 and the grey triangle has area 1. How much is the area of the largest square? A) 17 B) 18 C) 19 D) 20 E) 21
 
 **Answer:** B
-[[Quesiti/src_kangourou_2021_junior_marzo#q27|src_kangourou_2021_junior_marzo__Q27]]
 
 
 
@@ -1394,7 +1365,6 @@ Number at the ? in the 3x3 grid after 2x2 moves*
 > 28. Each of the two numbers a and b, a > b, is the square of an integer. The difference a - b is a prime number. Which of the following numbers could be b ? A) 100 B) 144 C) 256 D) 900 E) 10.000 2
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_junior_marzo#q28|src_kangourou_2021_junior_marzo__Q28]]
 
 
 
@@ -1427,7 +1397,6 @@ Number at the ? in the 3x3 grid after 2x2 moves*
 > 29. In Table 4 × 4 some cells must be painted black. The numbers to the right of each row and below each column specify how many black cells should be in the respective row or column. In how many different ways can the black cells be placed in compliance with the prescriptions? A) 2 B) 3 C) 4 D) 5 E) In more than five ways.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2021_junior_marzo#q29|src_kangourou_2021_junior_marzo__Q29]]
 
 
 
@@ -1456,5 +1425,3 @@ Number at the ? in the 3x3 grid after 2x2 moves*
 > 30. Cristina has eight coins whose weights in grams are given by positive integers all different from each other. When Cristina puts any two coins on one of the two pans of a balance and any two coins on the other, the pan containing the heaviest coin of the four coins is always the heavier pan. What is the smallest possible weight for the heaviest coin? A) 8 B) 12 C) 34 D) 128 E) 256 2 0 2 1 2021 Answers JUNIOR C C C C D B E C A A D E E C C E E E A C D E B D D C
 
 **Answer:** C
-
-[[Quesiti/src_kangourou_2021_junior_marzo#q30|src_kangourou_2021_junior_marzo__Q30]]

@@ -57,8 +57,6 @@ level: OBM Nível 2
 
 ![[src_obm_2008_n2_f3__q01.png]]
 
-[[Quesiti/src_obm_2008_n2_f3#q01|src_obm_2008_n2_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -84,8 +82,6 @@ level: OBM Nível 2
 
 > Che $A$ sia uno dei punti di intersezione di due cerchi con centri $X$ e $Y$. Le tangenti ai cerchi a $A$ si incrociano di nuovo ai cerchi a $B$ e $C$, rispettivamente. Che $P$ sia un punto del piano tale che $PXAY$ sia un parallelo. Prove che $P$ è il circoncentro del triangolo $ABC$.
 
-[[Quesiti/src_obm_2008_n2_f3#q02|src_obm_2008_n2_f3__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -110,8 +106,6 @@ level: OBM Nível 2
 *Nessun numero intero positivo soddisfa $x^x + y^y = 2^{2009}$*
 
 > Prova che non esistono numeri interi positivi $x$ e $y$ tali da $x^x + y^y = 2^{2009}$.
-
-[[Quesiti/src_obm_2008_n2_f3#q03|src_obm_2008_n2_f3__Q03]]
 
 
 
@@ -139,8 +133,6 @@ level: OBM Nível 2
 *Solvi un sistema reale con reciprocità cicliche e xyz=1*
 
 > Risolvere, in numeri reali, il sistema $$x + \frac{1}{y} = y + \frac{1}{z} = z + \frac{1}{x}$$ $$xyz = 1.$$
-
-[[Quesiti/src_obm_2008_n2_f3#q04|src_obm_2008_n2_f3__Q04]]
 
 
 
@@ -173,8 +165,6 @@ level: OBM Nível 2
 
 ![[src_obm_2008_n2_f3__q05.png]]
 
-[[Quesiti/src_obm_2008_n2_f3#q05|src_obm_2008_n2_f3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta"></span>
@@ -199,5 +189,3 @@ level: OBM Nível 2
 *Circumcentro O, intersezioni secondarie, tre linee contemporanee*
 
 > Lasciate che $ABC$ sia un triangolo e $O$ il suo centro circonda. Le linee $AB$ e $AC$ rientrano nel circoncircolo di $OBC$ rispettivamente a $B_1 \neq B$ e $C_1 \neq C$; le linee $BA$ e $BC$ rientrano nel circoncircolo di $OAC$ rispettivamente a $A_2 \neq A$ e $C_2 \neq C$; le linee $CA$ e $CB$ rientrano nel circoncircolo di $OAB$ rispettivamente a $A_3 \neq A$ e $B_3 \neq B$. Prove che le righe $A_2A_3$, $B_1B_3$ e $C_1C_2$ sono simultanee.
-
-[[Quesiti/src_obm_2008_n2_f3#q06|src_obm_2008_n2_f3__Q06]]

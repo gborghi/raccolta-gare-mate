@@ -33,8 +33,6 @@ level: BMO Round 2
 
 > Nel triangolo $ABC$, $B$ è un angolo rettangolo e $\alpha$ è l'angolo tra $AC$ e la media da $C$ a $AB$. Trova $\sin \alpha$.
 
-[[Quesiti/src_bmo2_1991#q01|src_bmo2_1991__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_invarianti,method_casework,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_modellizzazione"></span>
@@ -72,8 +70,6 @@ I nani con i mantelli: dimostrano che i cambiamenti di amicizia si stabilizzano 
 > 
 > (Le amicizie sono reciproche e non cambiano.)
 
-[[Quesiti/src_bmo2_1991#q02|src_bmo2_1991__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_disuguaglianze,topic_geometria_piana,method_disuguaglianze,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione,skill_stima"></span>
@@ -99,8 +95,6 @@ I nani con i mantelli: dimostrano che i cambiamenti di amicizia si stabilizzano 
 *Triangolo con perimetro 2: prova $a^2+b^2+c^2+2abc<2$*
 
 > Prova che se il perimetro di un triangolo con lati $a$, $b$, $c$ è $2$, allora $$a^2 + b^2 + c^2 + 2abc < 2.$$
-
-[[Quesiti/src_bmo2_1991#q03|src_bmo2_1991__Q03]]
 
 
 
@@ -134,5 +128,3 @@ I nani con i mantelli: dimostrano che i cambiamenti di amicizia si stabilizzano 
 > $x$ sia un numero reale positivo. Prova che almeno uno dei numeri $$x,\ 2x,\ 3x,\ \ldots\ ,\ 20x$$ contiene la cifra $2$ nella sua espansione decimale.
 > 
 > $N$ sia il numero intero positivo più piccolo in modo tale che, per ogni numero reale positivo $x$, almeno uno dei numeri $$x,\ 2x,\ 3x,\ \ldots\ ,\ Nx$$ contenga la cifra $2$ nella sua espansione decimale. Trova i limiti inferiori e superiori per $N$ e, se possibile, trova esattamente $N$.
-
-[[Quesiti/src_bmo2_1991#q04|src_bmo2_1991__Q04]]

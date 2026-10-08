@@ -42,7 +42,6 @@ level: kangourou
 > (A) (B) (C) (D) (E)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2015_marzo_preecolier#q01|src_kangourou_2015_marzo_preecolier__Q01]]
 
 
 
@@ -79,7 +78,6 @@ level: kangourou
 > (A) $7$ (B) $6$ (C) $5$ (D) $4$ (E) $3$
 
 **Answer:** E
-[[Quesiti/src_kangourou_2015_marzo_preecolier#q02|src_kangourou_2015_marzo_preecolier__Q02]]
 
 
 
@@ -115,7 +113,6 @@ Find the missing part of the house
 > (A) (B) (C) (D) (E)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2015_marzo_preecolier#q03|src_kangourou_2015_marzo_preecolier__Q03]]
 
 
 
@@ -151,7 +148,6 @@ Find the missing part of the house
 > (A) $17$ (B) $18$ (C) $19$ (D) $20$ (E) $21$
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_preecolier#q04|src_kangourou_2015_marzo_preecolier__Q04]]
 
 
 
@@ -187,7 +183,6 @@ Find the missing part of the house
 > (A) (B) (C) (D) (E)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2015_marzo_preecolier#q05|src_kangourou_2015_marzo_preecolier__Q05]]
 
 
 
@@ -223,7 +218,6 @@ Find the missing part of the house
 > (A) (B) (C) (D) (E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2015_marzo_preecolier#q06|src_kangourou_2015_marzo_preecolier__Q06]]
 
 
 
@@ -259,7 +253,6 @@ Find the missing part of the house
 > (A) (B) (C) (D) (E)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2015_marzo_preecolier#q07|src_kangourou_2015_marzo_preecolier__Q07]]
 
 
 
@@ -295,7 +288,6 @@ Find the missing part of the house
 > (A) $30$ (B) $60$ (C) $90$ (D) $45$ (E) $100$
 
 **Answer:** E
-[[Quesiti/src_kangourou_2015_marzo_preecolier#q08|src_kangourou_2015_marzo_preecolier__Q08]]
 
 
 
@@ -327,7 +319,6 @@ Find the missing part of the house
 > (A) $15$ minutes (B) $30$ minutes (C) $60$ minutes (D) $120$ minutes (E) $40$ minutes
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_preecolier#q09|src_kangourou_2015_marzo_preecolier__Q09]]
 
 
 
@@ -363,7 +354,6 @@ Find the missing part of the house
 > (A) (B) (C) (D) (E)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2015_marzo_preecolier#q10|src_kangourou_2015_marzo_preecolier__Q10]]
 
 
 
@@ -395,7 +385,6 @@ Find the missing part of the house
 > (A) $2$ (B) $3$ (C) $4$ (D) $5$ (E) $6$
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_preecolier#q11|src_kangourou_2015_marzo_preecolier__Q11]]
 
 
 
@@ -431,7 +420,6 @@ Find the missing part of the house
 > (A) $10$ (B) $11$ (C) $12$ (D) $18$ (E) $30$
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_preecolier#q12|src_kangourou_2015_marzo_preecolier__Q12]]
 
 
 
@@ -463,7 +451,6 @@ Find the missing part of the house
 > (A) (B) (C) (D) (E)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_preecolier#q13|src_kangourou_2015_marzo_preecolier__Q13]]
 
 
 
@@ -495,7 +482,6 @@ Find the missing part of the house
 > (A) $5/5/2025$ (B) $15/6/2055$ (C) $15/5/2050$ (D) $25/5/2015$ (E) $15/5/2015$
 
 **Answer:** E
-[[Quesiti/src_kangourou_2015_marzo_preecolier#q14|src_kangourou_2015_marzo_preecolier__Q14]]
 
 
 
@@ -527,7 +513,6 @@ Find the missing part of the house
 > (A) $5$ (B) $4$ (C) $3$ (D) $2$ (E) $1$
 
 **Answer:** D
-[[Quesiti/src_kangourou_2015_marzo_preecolier#q15|src_kangourou_2015_marzo_preecolier__Q15]]
 
 
 
@@ -559,7 +544,6 @@ Find the missing part of the house
 > (A) $1$ (B) $2$ (C) $3$ (D) $4$ (E) $5$
 
 **Answer:** E
-[[Quesiti/src_kangourou_2015_marzo_preecolier#q16|src_kangourou_2015_marzo_preecolier__Q16]]
 
 
 
@@ -591,7 +575,6 @@ Find the missing part of the house
 > (A) $24$ (B) $48$ (C) $72$ (D) $80$ (E) $88$
 
 **Answer:** D
-[[Quesiti/src_kangourou_2015_marzo_preecolier#q17|src_kangourou_2015_marzo_preecolier__Q17]]
 
 
 
@@ -624,7 +607,6 @@ Find the missing part of the house
 > (A) $3$ (B) $4$ (C) $5$ (D) $6$ (E) $7$
 
 **Answer:** D
-[[Quesiti/src_kangourou_2015_marzo_preecolier#q18|src_kangourou_2015_marzo_preecolier__Q18]]
 
 
 
@@ -656,7 +638,6 @@ How many pirates?
 > (A) $7$ (B) $8$ (C) $12$ (D) $15$ (E) $16$
 
 **Answer:** D
-[[Quesiti/src_kangourou_2015_marzo_preecolier#q19|src_kangourou_2015_marzo_preecolier__Q19]]
 
 
 
@@ -688,7 +669,6 @@ How many pirates?
 > (A) $12$ (B) $15$ (C) $18$ (D) $20$ (E) $24$
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_preecolier#q20|src_kangourou_2015_marzo_preecolier__Q20]]
 
 
 
@@ -720,7 +700,6 @@ How many pirates?
 > (A) $14$ (B) $30$ (C) $42$ (D) $48$ (E) $54$
 
 **Answer:** C
-[[Quesiti/src_kangourou_2015_marzo_preecolier#q21|src_kangourou_2015_marzo_preecolier__Q21]]
 
 
 
@@ -760,7 +739,6 @@ How many pirates?
 > - **(E)** the grey cubes are $2$ more than the white cubes
 
 **Answer:** A
-[[Quesiti/src_kangourou_2015_marzo_preecolier#q22|src_kangourou_2015_marzo_preecolier__Q22]]
 
 
 
@@ -800,7 +778,6 @@ How many pirates?
 > - **(E)** $14$ hours and $21$ minutes
 
 **Answer:** A
-[[Quesiti/src_kangourou_2015_marzo_preecolier#q23|src_kangourou_2015_marzo_preecolier__Q23]]
 
 
 
@@ -832,4 +809,3 @@ How many pirates?
 > (A) $3$ (B) $5$ (C) $7$ (D) $8$ (E) $9$
 
 **Answer:** D
-[[Quesiti/src_kangourou_2015_marzo_preecolier#q24|src_kangourou_2015_marzo_preecolier__Q24]]

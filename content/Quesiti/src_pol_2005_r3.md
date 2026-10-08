@@ -34,8 +34,6 @@ level: Olimpiade Polacca Round 3
 
 > Trova tutti i triples $(x, y, n)$ di numeri interi positivi che soddisfano l'equazione $$(x - y)^n = xy.$$
 
-[[Quesiti/src_pol_2005_r3#q01|src_pol_2005_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -61,8 +59,6 @@ level: Olimpiade Polacca Round 3
 
 > Un quadrilaterale convex $ABCD$ è inserito in un cerchio $o$. Il punto $S$ all'interno del cerchio è tale che $\angle SAD = \angle SCB$ e $\angle SDA = \angle SBC$. Il bisettore di angolo $ASB$ interseca il cerchio $o$ nei punti $P$ e $Q$. Prove che $PS = QS$.
 
-[[Quesiti/src_pol_2005_r3#q02|src_pol_2005_r3__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_algebra,method_estremalita,method_doppio_conteggio,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
@@ -87,8 +83,6 @@ level: Olimpiade Polacca Round 3
 *2n x 2n tabella, 4n^2 reali con somma 0, ciascuna al massimo 1 in valore assoluto; dimostrare che ogni somma di colonne o righe ha un valore assoluto al massimo n.*
 
 > In una tabella $2n \times 2n$ ($n \in \mathbb{N}$) sono scritti $4n^2$ numeri reali con la somma $0$ (un numero in ogni cella). Il valore assoluto di qualsiasi numero non supera $1$. Prova che il valore assoluto di tutti i numeri di una colonna o di una riga non supera $n$.
-
-[[Quesiti/src_pol_2005_r3#q03|src_pol_2005_r3__Q03]]
 
 
 
@@ -117,8 +111,6 @@ level: Olimpiade Polacca Round 3
 
 > Si dà un numero reale $c > -2$. Prova che se i numeri positivi $x_1, x_2, \ldots, x_n$ soddisfano $$\sqrt{x_1^2 + cx_1 x_2 + x_2^2} + \sqrt{x_2^2 + cx_2 x_3 + x_3^2} + \cdots + \sqrt{x_n^2 + cx_n x_1 + x_1^2} = \sqrt{c+2}\,(x_1 + x_2 + \cdots + x_n),$$, $c = 2$ o $x_1 = x_2 = \cdots = x_n$.
 
-[[Quesiti/src_pol_2005_r3#q04|src_pol_2005_r3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,method_ricorsione,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -146,8 +138,6 @@ level: Olimpiade Polacca Round 3
 
 > $k > 1$ sia un numero intero e $m = 4k^2 - 5$. Mostra che esistono integri positivi $a$ e $b$ in modo tale che la sequenza $(x_n)$ definita da $$x_0 = a, \quad x_1 = b, \quad x_{n+2} = x_{n+1} + x_n \quad \text{for } n = 0, 1, 2, \ldots$$ abbia tutti i suoi termini relativamente primi a $m$.
 
-[[Quesiti/src_pol_2005_r3#q05|src_pol_2005_r3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_combinatoria,method_estremalita,skill_ragionamento_geometrico,skill_stima,skill_modellizzazione"></span>
@@ -172,5 +162,3 @@ level: Olimpiade Polacca Round 3
 *Ogni esagono convex dell'area 1 contiene un esagono convex dell'area almeno 3/4.*
 
 > Indicare che ogni esagono convexo di superficie $1$ contiene un esagono convexo di superficie non inferiore a $\dfrac{3}{4}$.
-
-[[Quesiti/src_pol_2005_r3#q06|src_pol_2005_r3__Q06]]

@@ -35,8 +35,6 @@ level: kangourou
 
 **Answer:** 729
 
-[[Quesiti/src_kangourou_2026_student_finale#qs1|src_kangourou_2026_student_finale__QS1]]
-
 
 
 <span class="atom-split" id="qs2" data-atom="qs2" data-title="Quesito S2" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
@@ -65,8 +63,6 @@ level: kangourou
 
 **Answer:** 36
 
-[[Quesiti/src_kangourou_2026_student_finale#qs2|src_kangourou_2026_student_finale__QS2]]
-
 
 
 <span class="atom-split" id="qs3" data-atom="qs3" data-title="Quesito S3" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -93,8 +89,6 @@ level: kangourou
 > Convex pentagon circumscribed about a circle of radius $10$ cm, perimeter $75$ cm, angles $>90^\circ$. A coin of radius $1$ cm whose center moves along the boundary. What is the area covered internally?
 
 **Answer:** 71,25
-
-[[Quesiti/src_kangourou_2026_student_finale#qs3|src_kangourou_2026_student_finale__QS3]]
 
 
 
@@ -123,8 +117,6 @@ level: kangourou
 
 **Answer:** 2
 
-[[Quesiti/src_kangourou_2026_student_finale#qs4|src_kangourou_2026_student_finale__QS4]]
-
 
 
 <span class="atom-split" id="qs5" data-atom="qs5" data-title="Quesito S5" data-tags="topic_geometria_piana,topic_disuguaglianze,skill_astrazione"></span>
@@ -152,8 +144,6 @@ level: kangourou
 
 **Answer:** $(1+\sqrt{5})/2$
 
-[[Quesiti/src_kangourou_2026_student_finale#qs5|src_kangourou_2026_student_finale__QS5]]
-
 
 
 <span class="atom-split" id="qs6" data-atom="qs6" data-title="Quesito S6" data-tags="topic_algebra,skill_astrazione"></span>
@@ -180,5 +170,3 @@ level: kangourou
 > To the sequence $\{a_k\}$ associate $S_n=a_1+\cdots+a_n$ and $C_n=a_1^3+\cdots+a_n^3$. Do there exist sequences such that for every $n\ge 1$ we have $1\le S_n\le 2$, but such that $\{C_n\}$ is not bounded?
 
 **Answer:** they exist
-
-[[Quesiti/src_kangourou_2026_student_finale#qs6|src_kangourou_2026_student_finale__QS6]]

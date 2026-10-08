@@ -37,8 +37,6 @@ level: JMO Honsen
 > 
 > (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
-[[Quesiti/src_jmo20mq_honsen#q01|src_jmo20mq_honsen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_induzione,method_congruenze,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -63,8 +61,6 @@ level: JMO Honsen
 *Esistenza di n con n^n - m divisibile per 2^k*
 
 > Che $k$ sia un numero intero positivo e che $m$ sia un numero impar. Prova che esiste un intero positivo $n$ tale che $n^n - m$ sia divisibile da $2^k$.
-
-[[Quesiti/src_jmo20mq_honsen#q02|src_jmo20mq_honsen__Q02]]
 
 
 
@@ -105,8 +101,6 @@ level: JMO Honsen
 > 
 > Prove che almeno una delle seguenti affermazioni (1), (2) è vera: (1) Esiste un'isola che ha inviato una lettera a se stessa. (2) Esistono due isole, collegate da un ponte, che si scambiavano lettere (ciascuno inviava la sua lettera all'altro).
 
-[[Quesiti/src_jmo20mq_honsen#q03|src_jmo20mq_honsen__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica"></span>
@@ -132,8 +126,6 @@ level: JMO Honsen
 *Ineguaglianza ciclica in tre valori positivi*
 
 > Per i numeri reali positivi $x$, $y$, $z$, dimostrare che $$\frac{1+xy+xz}{(1+y+z)^2} + \frac{1+yz+yx}{(1+z+x)^2} + \frac{1+zx+zy}{(1+x+y)^2} \ge 1.$$
-
-[[Quesiti/src_jmo20mq_honsen#q04|src_jmo20mq_honsen__Q04]]
 
 
 
@@ -163,5 +155,3 @@ level: JMO Honsen
 > Si dà un convex $2010$-gon in cui non ci sono tre diagonali che abbiano un punto comune diverso dai vertici. Considera una linea chiusa rotta che è costituita da diagonali $2010$ (i lati del poligono non sono ammessi) e attraversa ogni vertice esattamente una volta. Trova il numero massimo possibile di intersezioni di una linea rotta chiusa.
 > 
 > (Per una linea rotta $P_1 P_2 \cdots P_n P_{n+1}$ con $P_1 = P_{n+1}$, la chiamiamo una linea rotta chiusa.)
-
-[[Quesiti/src_jmo20mq_honsen#q05|src_jmo20mq_honsen__Q05]]

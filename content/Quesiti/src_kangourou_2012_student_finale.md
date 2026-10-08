@@ -32,8 +32,6 @@ level: kangourou
 
 > Assigned three non-aligned points in space, how many spheres pass through these three points? If more than one can pass, how can the radius of the smallest be determined?
 
-[[Quesiti/src_kangourou_2012_student_finale#q01|src_kangourou_2012_student_finale__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_logica,skill_modellizzazione"></span>
@@ -62,8 +60,6 @@ level: kangourou
 
 > Peter wants to line up a number of traditional dice (the sum of points on opposite faces is always 7), as the figure shows. He glues two faces together only if the number of points on both faces is equal, and it wants to get a row so that the sum of points on all the faces exposed is $2012$. Can he do it, and if so, how many dice does he have to use? (see figure)
 
-[[Quesiti/src_kangourou_2012_student_finale#q02|src_kangourou_2012_student_finale__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_colorazione,skill_casework_accurato"></span>
@@ -88,8 +84,6 @@ level: kangourou
 *Colors of 20 tiles with sum rule*
 
 > Twenty tiles are numbered with integers from $1$ to $20$. We want to colour each tile of a single color, white or black, so that the following rule is observed: if two (different) tiles of numbers $m$ and $n$ have the same color and $m + n < 21$, then the tile numbered $m + n$ must also have that color. How many different ways can we assign colors?
-
-[[Quesiti/src_kangourou_2012_student_finale#q03|src_kangourou_2012_student_finale__Q03]]
 
 
 
@@ -120,8 +114,6 @@ level: kangourou
 
 > Show that each polyhedron (a solid whose surface consists of a finite number of polygons) has at least two faces having the same number of edges. Are there any polyhedra that don't have three faces with the same number of edges?
 
-[[Quesiti/src_kangourou_2012_student_finale#q04|src_kangourou_2012_student_finale__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_cassetti,method_congruenze,skill_astrazione"></span>
@@ -147,8 +139,6 @@ level: kangourou
 
 > Prove that, however $n \geq 1$ positive integers are assigned, it is always possible to choose some of them so that their sum is a multiple of $n$.
 
-[[Quesiti/src_kangourou_2012_student_finale#q05|src_kangourou_2012_student_finale__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_insiemi_funzioni,skill_astrazione"></span>
@@ -172,5 +162,3 @@ level: kangourou
 *Infinite family of nearly disjoint uncountable subsets*
 
 > We denote by $\mathbb{N}$ the set of positive integers. It is known that the set of subsets of $\mathbb{N}$ cannot be given a bi-univocal correspondence with $\mathbb{N}$, but can be given a bi-univocal correspondence with any (non-trivial) interval of the real axis. Let's say that two infinite subsets of $\mathbb{N}$ are "almost disjoint" if they have at most a finite number of elements in common. Prove that there exists an infinite set that cannot be biunivocal with $\mathbb{N}$, the elements of which are subsets of $\mathbb{N}$ pairwise almost disjoint.
-
-[[Quesiti/src_kangourou_2012_student_finale#q06|src_kangourou_2012_student_finale__Q06]]

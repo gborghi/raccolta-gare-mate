@@ -33,8 +33,6 @@ level: BMO Round 2
 
 > Esistono infinite coppie di integri positivi $(m, n)$ in modo tale che sia $m$ divida $n^2 + 1$ che $n$ divida $m^2 + 1$?
 
-[[Quesiti/src_bmo_2012-13_round2#q01|src_bmo_2012-13_round2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: BMO Round 2
 *Prove angle QAB = angle CAP data PBQC parallelogramma e angoli uguali*
 
 > Il punto $P$ si trova all'interno del triangolo $ABC$ in modo che $\angle ABP = \angle PCA$. Il punto $Q$ è tale che $PBQC$ sia un parallelo. Prove che $\angle QAB = \angle CAP$.
-
-[[Quesiti/src_bmo_2012-13_round2#q02|src_bmo_2012-13_round2__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: BMO Round 2
 
 > Considerate l'insieme di interi positivi che, quando scritti in binario, hanno esattamente $2013$ cifre e più $0$s di $1$s. $n$ sia il numero di tali integri e $s$ sia la loro somma. Prova che, quando scritto in binario, $n + s$ ha più $0$s di $1$s.
 
-[[Quesiti/src_bmo_2012-13_round2#q03|src_bmo_2012-13_round2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_aritmetica,method_coordinate,method_fattorizzazione,method_congruenze,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -113,5 +107,3 @@ level: BMO Round 2
 *Possono PA, PB, PC, PD e AB essere tutti integri per P sul cerchio di ABCD quadrato?*
 
 > Supponiamo che $ABCD$ sia un quadrato e che $P$ sia un punto che si trova sul cerchio inserito nel quadrato. Determinare se è possibile che $PA$, $PB$, $PC$, $PD$ e $AB$ siano tutti numeri interi.
-
-[[Quesiti/src_bmo_2012-13_round2#q04|src_bmo_2012-13_round2__Q04]]

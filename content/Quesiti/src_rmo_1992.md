@@ -33,8 +33,6 @@ level: RMO
 
 > Determinare l'insieme di enti $n$ per il quale $n^2 + 19n + 92$ è un quadrato di un intero.
 
-[[Quesiti/src_rmo_1992#q01|src_rmo_1992__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -60,8 +58,6 @@ level: RMO
 
 > Se $\frac{1}{a} + \frac{1}{b} = \frac{1}{c}$, dove $a$, $b$, $c$ sono numeri interi positivi senza fattore comune, dimostrare che $(a + b)$ è il quadrato di un intero.
 
-[[Quesiti/src_rmo_1992#q02|src_rmo_1992__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -86,8 +82,6 @@ level: RMO
 *Ricerca il più grande fattore primo a 3 cifre di C(2000,1000).*
 
 > Determinare il più grande fattore primo a 3 cifre del numero intero $\binom{2000}{1000}$.
-
-[[Quesiti/src_rmo_1992#q03|src_rmo_1992__Q03]]
 
 
 
@@ -116,8 +110,6 @@ level: RMO
 
 > $ABCD$ è un quadrilaterale ciclico con $AC \perp BD$, $AC$ incontra $BD$ a $E$. Prove che $$EA^2 + EB^2 + EC^2 + ED^2 = 4R^2,$$ dove $R$ è il raggio del cerchio circumscribente.
 
-[[Quesiti/src_rmo_1992#q04|src_rmo_1992__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -143,8 +135,6 @@ level: RMO
 *ABCD quadrilaterale ciclico; le distanze x,y,z da A alle linee BD,BC,CD soddisfano BD/x=BC/y+CD/z.*
 
 > $ABCD$ è un quadrilaterale ciclico; $x$, $y$, $z$ sono le distanze di $A$ dalle linee $BD$, $BC$ e $CD$ rispettivamente. Provare che $$\frac{BD}{x} = \frac{BC}{y} + \frac{CD}{z}.$$
-
-[[Quesiti/src_rmo_1992#q05|src_rmo_1992__Q05]]
 
 
 
@@ -172,8 +162,6 @@ level: RMO
 
 > $ABCD$ è un quadrilaterale e $P$, $Q$ sono i punti medi rispettivamente di $CD$ e $AB$. Lasciate che $AP$, $DQ$ si incontrino a $X$, e $BP$, $CQ$ si incontrino a $Y$. Provare che $$\text{area of } ADX + \text{area of } BCY = \text{area of quadrilateral } PXQY.$$
 
-[[Quesiti/src_rmo_1992#q06|src_rmo_1992__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_disuguaglianze,topic_aritmetica,method_telescoping,method_disuguaglianze,skill_stima,skill_manipolazione_algebrica"></span>
@@ -199,8 +187,6 @@ level: RMO
 *Prove la disuguaglianza 1 < somma di 1/(1001) a 1/(3001) < 4/3.*
 
 > Provare che $$1 < \frac{1}{1001} + \frac{1}{1002} + \frac{1}{1003} + \cdots + \frac{1}{3001} < \frac{4}{3}.$$
-
-[[Quesiti/src_rmo_1992#q07|src_rmo_1992__Q07]]
 
 
 
@@ -229,8 +215,6 @@ level: RMO
 
 > Risolvere il sistema $$\begin{cases} (x + y)(x + y + z) = 18 \\ (y + z)(x + y + z) = 30 \\ (z + x)(x + y + z) = 24 \end{cases}$$ in termini di parametro $A$.
 
-[[Quesiti/src_rmo_1992#q08|src_rmo_1992__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -255,5 +239,3 @@ level: RMO
 *Octogono ciclico ABCDEFGH con lati alternati a,a,a,a,b,b,b,b; trovare il circondario in termini di a e b.*
 
 > L'ottagono ciclico $ABCDEFGH$ ha rispettivamente lati $a, a, a, a, b, b, b, b$. Trova il raggio del cerchio che circumscrive $ABCDEFGH$ in termini di $a$ e $b$.
-
-[[Quesiti/src_rmo_1992#q09|src_rmo_1992__Q09]]

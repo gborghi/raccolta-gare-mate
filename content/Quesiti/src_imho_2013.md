@@ -35,8 +35,6 @@ level: IMO
 > Si dimostri che per ogni coppia di interi positivi $k$ e $n$, esistono $k$ interi positivi $m_1, m_2, \ldots, m_k$ (non necessariamente distinti) tali che
 > $$1 + \frac{2^k - 1}{n} = \left(1 + \frac{1}{m_1}\right)\left(1 + \frac{1}{m_2}\right)\cdots\left(1 + \frac{1}{m_k}\right).$$
 
-[[Quesiti/src_imho_2013#q01|src_imho_2013__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_estremalita,method_casework,method_colorazione,skill_modellizzazione,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -74,8 +72,6 @@ level: IMO
 >
 > Determinare il minimo valore di $k$ tale che, per ogni configurazione colombiana di $4027$ punti, esista un insieme buono di $k$ rette.
 
-[[Quesiti/src_imho_2013#q02|src_imho_2013__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -105,8 +101,6 @@ level: IMO
 > 
 > La circonferenza exinscritta del triangolo $ABC$ opposta al vertice $A$ è la circonferenza tangente al segmento $BC$, alla semiretta $AB$ oltre $B$ e alla semiretta $AC$ oltre $C$. Le circonferenze exinscritte opposte ai vertici $B$ e $C$ si definiscono analogamente.
 
-[[Quesiti/src_imho_2013#q03|src_imho_2013__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -131,8 +125,6 @@ level: IMO
 *Triangolo acutangolo con ortocentro; allineamento di X, Y, H*
 
 > Sia $ABC$ un triangolo acutangolo di ortocentro $H$, e sia $W$ un punto sul lato $BC$, strettamente compreso tra $B$ e $C$. Siano $M$ e $N$ i piedi delle altezze da $B$ e $C$, rispettivamente. Sia $\omega_1$ la circonferenza circoscritta al triangolo $BWN$, e sia $X$ il punto su $\omega_1$ tale che $WX$ sia un diametro della circonferenza $\omega_1$. Sia $\omega_2$ la circonferenza circoscritta al triangolo $CWM$, e sia $Y$ il punto su $\omega_2$ tale che $WY$ sia un diametro della circonferenza $\omega_2$. Si dimostri che i punti $X$, $Y$ e $H$ sono allineati.
-
-[[Quesiti/src_imho_2013#q04|src_imho_2013__Q04]]
 
 
 
@@ -171,8 +163,6 @@ level: IMO
 > \end{itemize}
 > Si dimostri che $f(x) = x$ per ogni $x \in \mathbb{Q}_{>0}$.
 
-[[Quesiti/src_imho_2013#q05|src_imho_2013__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_bigezione,method_doppio_conteggio,method_conteggio,method_induzione,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_modellizzazione,skill_astrazione,skill_manipolazione_algebrica"></span>
@@ -203,5 +193,3 @@ level: IMO
 > 
 > Sia $M$ il numero di etichettature belle, e sia $N$ il numero delle coppie ordinate $(x, y)$ di interi positivi tali che $x + y \le n$ e $\gcd(x, y) = 1$. Si dimostri che
 > $$M = N + 1.$$
-
-[[Quesiti/src_imho_2013#q06|src_imho_2013__Q06]]

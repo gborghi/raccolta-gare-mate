@@ -35,7 +35,6 @@ level: JMO Yosen
 > Che $m$ e $n$ siano interamente integri positivi coprimari che soddisfano $m+n=90$. Trova il valore massimo possibile del prodotto $mn$.
 
 **Risposta:** 2021
-[[Quesiti/src_jmo31yq_yosen#q01|src_jmo31yq_yosen__Q01]]
 
 
 
@@ -68,7 +67,6 @@ level: JMO Yosen
 ![[src_jmo31yq_yosen__q02.png]]
 
 **Risposta:** \frac{2}{5}
-[[Quesiti/src_jmo31yq_yosen#q02|src_jmo31yq_yosen__Q02]]
 
 
 
@@ -101,7 +99,6 @@ level: JMO Yosen
 ![[src_jmo31yq_yosen__q03.png]]
 
 **Risposta:** 4\sqrt{7}
-[[Quesiti/src_jmo31yq_yosen#q03|src_jmo31yq_yosen__Q03]]
 
 
 
@@ -130,7 +127,6 @@ level: JMO Yosen
 > Tre numeri interi positivi distinti sono scritti su una lavagna nera. Quando i numeri reali $a$, $b$, $c$ sono scritti sulla lavagna, si considera l'operazione che li riscrive contemporaneamente come $\dfrac{b+c}{2}$, $\dfrac{c+a}{2}$, $\dfrac{a+b}{2}$. Dopo che questa operazione è stata eseguita $2021$ volte, i tre numeri sulla lavagna si sono rivelati tutti numeri interi positivi. Trova il valore massimo possibile della somma dei tre numeri interi positivi che sono stati scritti all'inizio.
 
 **Risposta:** 3\cdot 2^{2021}+3
-[[Quesiti/src_jmo31yq_yosen#q04|src_jmo31yq_yosen__Q04]]
 
 
 
@@ -163,7 +159,6 @@ level: JMO Yosen
 ![[src_jmo31yq_yosen__q05.png]]
 
 **Risposta:** 379
-[[Quesiti/src_jmo31yq_yosen#q05|src_jmo31yq_yosen__Q05]]
 
 
 
@@ -192,7 +187,6 @@ level: JMO Yosen
 > Per un intero positivo $n$, $f(n)$ indichi il numero di interi positivi $m$ in modo tale che $m$ e $n$ siano reciprocamente copriemi e $m+1$ e $n+1$ siano reciprocamente copriemi, dove $m$ va oltre $1,2,\dots,n$. Tra $f(1),f(2),\dots,f(10^{10})$, quanti numeri interi positivi distinti appaiono?
 
 **Risposta:** 11
-[[Quesiti/src_jmo31yq_yosen#q06|src_jmo31yq_yosen__Q06]]
 
 
 
@@ -221,7 +215,6 @@ level: JMO Yosen
 > Sul lato $BC$ del triangolo $ABC$, si prendono i punti $P$ e $Q$ e il centroide del triangolo $ACP$ coincide con il centroide del triangolo $ABQ$. Dato $AB=10$, $AC=11$, $BP=5$, $CQ=6$, si trova la lunghezza del lato $BC$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 **Risposta:** \sqrt{231}
-[[Quesiti/src_jmo31yq_yosen#q07|src_jmo31yq_yosen__Q07]]
 
 
 
@@ -252,7 +245,6 @@ level: JMO Yosen
 > Trova il numero di tuppi $(a_1,a_2,\dots,a_{17})$ di numeri interi, ciascuno almeno $2$ e al massimo $20$, in modo tale che $$a_1^{a_2^{\cdot^{\cdot^{a_{17}}}}}\equiv a_2^{a_3^{\cdot^{\cdot^{a_{17}}}}}\equiv 1\pmod{17}.$$ Qui ogni esponente è la torre di potenza formata dai due (e ulteriori) numeri scritti in alto a destra.
 
 **Risposta:** 2042\cdot 19^{14}
-[[Quesiti/src_jmo31yq_yosen#q08|src_jmo31yq_yosen__Q08]]
 
 
 
@@ -281,7 +273,6 @@ level: JMO Yosen
 > Considerare i modi per scrivere uno dei numeri $1$, $2$, $3$ in ogni cella di una griglia $2021\times 2021$ in modo tale che, per ogni blocco di celle $2\times 2$, la somma dei quattro numeri scritti in esso sia uguale a $8$. Supponiamo che ci siano $A$ tali riempimenti in totale. Trova il rimanente quando $A$ è diviso da $100$. I riempimenti che coincidono sotto una rotazione o una riflessione sono contati come distinti.
 
 **Risposta:** 3
-[[Quesiti/src_jmo31yq_yosen#q09|src_jmo31yq_yosen__Q09]]
 
 
 
@@ -310,7 +301,6 @@ level: JMO Yosen
 > Nei lati $AB$ e $AC$ del triangolo $ABC$ ci sono i punti $D$ e $E$ rispettivamente, e i quattro punti $D$, $B$, $C$ e $E$ si trovano su un cerchio. Inoltre, $P$ è un punto all'interno del quadrilaterale $DBCE$ che soddisfa $\angle BDP=\angle BPC=\angle PEC$. Date $AB=9$, $AC=11$, $DP=1$, $EP=3$, si trova il valore di $\dfrac{BP}{CP}$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 **Risposta:** \frac{\sqrt{33}}{11}
-[[Quesiti/src_jmo31yq_yosen#q10|src_jmo31yq_yosen__Q10]]
 
 
 
@@ -339,7 +329,6 @@ level: JMO Yosen
 > Su tutti i tuppi $(x,y,z,w)$ di numeri interi ognuno almeno $1$ e al massimo $1000$, $M$ sia la somma dei valori massimi di $xy+zw$, $zx+yw$, $xw+yz$ (cioè per ogni tuple sommare il più grande di questi tre quantitativi). Allo stesso modo, su tutti tali tupli $(x,y,z,w)$, $m$ sia la somma dei valori minimi di $xy+zw$, $zx+yw$, $xw+yz$. Trova il numero dei divisori positivi di $M-m$.
 
 **Risposta:** 20412
-[[Quesiti/src_jmo31yq_yosen#q11|src_jmo31yq_yosen__Q11]]
 
 
 
@@ -377,4 +366,3 @@ level: JMO Yosen
 ![[src_jmo31yq_yosen__q12.png]]
 
 **Risposta:** 19
-[[Quesiti/src_jmo31yq_yosen#q12|src_jmo31yq_yosen__Q12]]

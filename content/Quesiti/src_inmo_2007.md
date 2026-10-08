@@ -38,8 +38,6 @@ level: INMO
 
 ![[src_inmo_2007__q01.png]]
 
-[[Quesiti/src_inmo_2007#q01|src_inmo_2007__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -67,8 +65,6 @@ level: INMO
 
 > $n$ sia un numero naturale tale che $n = a^2 + b^2 + c^2$, per alcuni numeri naturali $a, b, c$. Prove che $$9n = (p_1 a + q_1 b + r_1 c)^2 + (p_2 a + q_2 b + r_2 c)^2 + (p_3 a + q_3 b + r_3 c)^2,$$ dove $p_i$, $q_i$, $r_i$ sono tutti ** non zero** integri. Inoltre, se $3$ divide ** non ** almeno uno di $a, b, c$, dimostrare che $9n$ può essere espresso nella forma $x^2 + y^2 + z^2$, dove $x, y, z$ sono numeri naturali ** nessuno dei quali ** è divisibile da $3$.
 
-[[Quesiti/src_inmo_2007#q02|src_inmo_2007__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
@@ -93,8 +89,6 @@ level: INMO
 *Rede integrali se l'espressione del pavimento è un quadrato perfetto*
 
 > Lasciate che $m$ e $n$ siano integri positivi in modo tale che l'equazione $x^2 - mx + n = 0$ abbia radici reali $\alpha$ e $\beta$. Prova che $\alpha$ e $\beta$ sono numeri interi se e solo se $[m\alpha] + [m\beta]$ è il quadrato di un numero intero. (Qui $[x]$ indica il più grande numero intero non superiore a $x$.)
-
-[[Quesiti/src_inmo_2007#q03|src_inmo_2007__Q03]]
 
 
 
@@ -123,7 +117,6 @@ level: INMO
 > $\sigma = (a_1, a_2, a_3, \ldots, a_n)$ sia una permutazione di $(1, 2, 3, \ldots, n)$. Una coppia $(a_i, a_j)$ corrisponde ad un'inversione di $\sigma$, se $i < j$ ma $a_i > a_j$. (Esempio: nella permutazione $(2, 4, 5, 3, 1)$, ci sono $6$ inversioni corrispondenti alle coppie $(2,1)$, $(4,3)$, $(4,1)$, $(5,3)$, $(5,1)$, $(3,1)$.) Quante permutazioni di $(1, 2, 3, \ldots, n)$, $(n \ge 3)$ hanno esattamente ** due** inversioni?
 
 **Risposta:** $\dfrac{(n+1)(n-2)}{2}$
-[[Quesiti/src_inmo_2007#q04|src_inmo_2007__Q04]]
 
 
 
@@ -158,8 +151,6 @@ level: INMO
 
 ![[src_inmo_2007__q05.png]]
 
-[[Quesiti/src_inmo_2007#q05|src_inmo_2007__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_simmetria,skill_manipolazione_algebrica,skill_stima,skill_riconoscimento_pattern"></span>
@@ -185,5 +176,3 @@ level: INMO
 *Prove la disuguaglianza dei prodotti ciclici per i risultati positivi*
 
 > Se $x, y, z$ sono numeri reali positivi, dimostrare che $$(x + y + z)^2(yz + zx + xy)^2 \le 3(y^2 + yz + z^2)(z^2 + zx + x^2)(x^2 + xy + y^2).$$
-
-[[Quesiti/src_inmo_2007#q06|src_inmo_2007__Q06]]

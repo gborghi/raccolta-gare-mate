@@ -33,8 +33,6 @@ level: RMO
 
 > Date un triangolo $ABC$ con $\angle ACB = 120^\circ$. Il punto $L$ è segnato sul lato $\overline{AB}$ in modo che $CL$ sia il bisector di $\angle ACB$. I punti $N$ e $K$ sono segnati rispettivamente sui lati $AC$ e $BC$, in modo che $CN + CK = CL$. Prove che il triangolo $KLN$ è equilaterale.
 
-[[Quesiti/src_rmo_2023_kvjnv#q01|src_rmo_2023_kvjnv__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -59,8 +57,6 @@ level: RMO
 *Primo p con 2p uguale alla somma dei quadrati di quattro positivi consecutivi, dimostra p-7 divisorio per 36*
 
 > Dato un numero primo $p$ tale che il numero $2p$ sia uguale alla somma dei quadrati di circa quattro numeri interi positivi consecutivi. Prova che $p - 7$ è divisibile per $36$.
-
-[[Quesiti/src_rmo_2023_kvjnv#q02|src_rmo_2023_kvjnv__Q02]]
 
 
 
@@ -88,8 +84,6 @@ level: RMO
 *Polinomio con coefficienti reali di grado 2, a,b,c separati in coppia con f(a) = bc; trovare f(a+b+c)*
 
 > $f(x)$ sia un polinomio con coefficienti reali di grado 2. Supponiamo che per alcuni numeri reali separati in coppia $a, b, c$ abbiamo $$f(a) = bc; \quad f(b) = ca; \quad f(c) = ab.$$ Determina $f(a + b + c)$ in termini di $a, b, c$.
-
-[[Quesiti/src_rmo_2023_kvjnv#q03|src_rmo_2023_kvjnv__Q03]]
 
 
 
@@ -124,8 +118,6 @@ level: RMO
 > 
 > Determinare il minimo valore possibile di $N$.
 
-[[Quesiti/src_rmo_2023_kvjnv#q04|src_rmo_2023_kvjnv__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_telescoping,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -153,8 +145,6 @@ level: RMO
 
 > Le lunghezze laterali $a$, $b$, $c$ di un triangolo $ABC$ sono interi positivi. $$T_n = (a + b + c)^{2n} - (a - b + c)^{2n} - (a + b - c)^{2n} + (a - b - c)^{2n}$$ per qualsiasi numero intero positivo $n$. Se $\dfrac{T_2}{2T_1} = 2023$ e $a > b > c$, determinare tutti i possibili perimetri del triangolo $ABC$.
 
-[[Quesiti/src_rmo_2023_kvjnv#q05|src_rmo_2023_kvjnv__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
@@ -179,5 +169,3 @@ level: RMO
 *ABCD quadrilaterale ciclico, diagonali che si incontrano a P, Q su BC con PQ perp AC, dimostrare la linea di collegamento dei circoncentri di APD e BQD parallele ad AD*
 
 > Le diagonali $AC$ e $BD$ di un quadrilaterale ciclico $ABCD$ si incontrano a $P$. Il punto $Q$ è scelto sul segmento $BC$ in modo che $PQ$ sia perpendicolare a $AC$. Prova che la linea che unisce i centri dei circoncircoli dei triangoli $APD$ e $BQD$ è parallela a $AD$.
-
-[[Quesiti/src_rmo_2023_kvjnv#q06|src_rmo_2023_kvjnv__Q06]]

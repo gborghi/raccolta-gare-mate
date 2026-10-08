@@ -39,8 +39,6 @@ Question with multiple replies from February 2005 No.1
 > 
 > **(A)** Less than three hours **(B)** more than three hours, but less than six **(C)** more than six hours, but less than nine **(D)** more than nine hours **(E)** cannot be determined.
 
-[[Quesiti/src_febbraio_2005#q01|src_febbraio_2005__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra"></span>
@@ -84,8 +82,6 @@ Question with multiple answers February 2005 No.2
 > 
 > **(E) ** none of the above.
 
-[[Quesiti/src_febbraio_2005#q02|src_febbraio_2005__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana"></span>
@@ -126,8 +122,6 @@ Question with multiple answers February 2005 No.2
 > 
 > **(A) ** Exactly 1 is telling the truth. **(B) ** Exactly 2 are telling the truth. Exactly 3 are telling the truth. Exactly four are telling the truth. **(E) ** It is not possible to determine the number of people who are telling the truth.
 
-[[Quesiti/src_febbraio_2005#q03|src_febbraio_2005__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio"></span>
@@ -156,8 +150,6 @@ Question with multiple answers February 2005 No.2
 > 
 > **(A) ** 1 **(B) ** 2 **(C) ** 3 **(D) ** a finite number greater than 3 **(E) ** infinite.
 
-[[Quesiti/src_febbraio_2005#q04|src_febbraio_2005__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana"></span>
@@ -184,8 +176,6 @@ Question with multiple answers February 2005 No.2
 > $\overline{AB}$ and $\overline{CD}$ are two segments, both long 4, having the mean point $M$ in common and $\widehat{BMD} = 60°$. We indicate with $X$ the sum of all but the points that are more than 1 away from at least one of the two segments. What is the surface area of $X$?
 > 
 > **(A)** $8 - \dfrac{4}{3}\sqrt{3}$ **(B)** $16 - \dfrac{8}{3}\sqrt{3}$ **(C)** $16 - \dfrac{4}{3}\sqrt{3} + \pi$ **(D)** $16 - \dfrac{8}{3}\sqrt{3} + 2\pi$ **(E)** $8 + 2\pi$.
-
-[[Quesiti/src_febbraio_2005#q05|src_febbraio_2005__Q05]]
 
 
 
@@ -215,8 +205,6 @@ Party with three girls and three boys around a round table
 > 
 > **(A)** $\dfrac{1}{6}$ **(B)** $\dfrac{1}{10}$ **(C)** $\dfrac{3}{20}$ **(D)** $\dfrac{1}{12}$ **(E)** $\dfrac{11}{36}$.
 
-[[Quesiti/src_febbraio_2005#q06|src_febbraio_2005__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,method_casework"></span>
@@ -244,8 +232,6 @@ Party with three girls and three boys around a round table
 > If the real parameter $a$ varies, what is the maximum number of solutions for the equation $\bigl||x - 1| - 4\bigr| + x = a$?
 > 
 > **(A) ** 1 **(B) ** 2 **(C) ** 3 **(D) ** 4 **(E) ** may have an infinite number of them.
-
-[[Quesiti/src_febbraio_2005#q07|src_febbraio_2005__Q07]]
 
 
 
@@ -336,8 +322,6 @@ Party with three girls and three boys around a round table
 > 
 > (see figure)
 
-[[Quesiti/src_febbraio_2005#q08|src_febbraio_2005__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,method_disuguaglianze"></span>
@@ -365,8 +349,6 @@ Party with three girls and three boys around a round table
 > Alberto and Barbara are playing with a dice. After a while, they realize that the dice are tricked, and that the number 1 comes out more often than the other 5 numbers (which instead remain unlikely). So they decide that when it comes out 1, that shot is canceled and it's fired again. If you keep rolling the dice until you get 2 valid rolls, what is the probability that the sum of the 2 valid rolls is 8?
 > 
 > **(A)** $\dfrac{3}{25}$ **(B)** $\dfrac{1}{6}$ **(C)** $\dfrac{1}{5}$ **(D)** $\dfrac{6}{25}$ **(E)** $\dfrac{1}{4}$.
-
-[[Quesiti/src_febbraio_2005#q09|src_febbraio_2005__Q09]]
 
 
 
@@ -396,8 +378,6 @@ It's a game of chips, a winning strategy.
 > 
 > **(A) ** 3 **(B) ** 4 **(C) ** 16 **(D) ** 32 **(E) ** may be large as desired.
 
-[[Quesiti/src_febbraio_2005#q10|src_febbraio_2005__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_conteggio"></span>
@@ -422,8 +402,6 @@ It's a game of chips, a winning strategy.
 
 > How many integers between 1 and 2005 (included) have an odd number of even digits?
 
-[[Quesiti/src_febbraio_2005#q11|src_febbraio_2005__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana"></span>
@@ -446,8 +424,6 @@ It's a game of chips, a winning strategy.
 *volume of similar triangles*
 
 > $ABC$ is a triangle with $AC = BC$ and $\widehat{ACB} < 60°$. Two points on the sides of $A'$ and $B'$ and $AC$ are $AA' = BB' = AB$ respectively. Whether $C'$ the intersection of $\overline{AA'}$ with $\overline{BB'}$. Knowing that $AC' = AB'$ and $BC' = BA'$, how much is the angle width in degrees $\widehat{ACB}$?
-
-[[Quesiti/src_febbraio_2005#q12|src_febbraio_2005__Q12]]
 
 
 
@@ -472,8 +448,6 @@ It's a game of chips, a winning strategy.
 
 > On a chessboard $75 \times 75$ the rows and columns are numbered from 1 to 75. Clear wants to put a pad in every box that has an equal coordinate and the other multiple of 3. How many pawns will he have on the chessboard?
 
-[[Quesiti/src_febbraio_2005#q13|src_febbraio_2005__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana"></span>
@@ -496,8 +470,6 @@ It's a game of chips, a winning strategy.
 *Differences between entry centres and tangent segments*
 
 > Two $C_1$ and $C_2$ centers $A$ and $B$ are tangent externally in $T$. either $BD$ a tangent segment to $C_1$ in $D$ and $TC$ the tangent segment to both in $T$ with $C \in BD$. If $AT$ is 80 and $BT$ is 90 length, what is the length of $CD$?
-
-[[Quesiti/src_febbraio_2005#q14|src_febbraio_2005__Q14]]
 
 
 
@@ -523,8 +495,6 @@ It's a game of chips, a winning strategy.
 
 > How many ordered pairs of positive integers $(x,\, y)$ and $y$ satisfy the $xy + 5(x + y) = 2005$ relationship?
 
-[[Quesiti/src_febbraio_2005#q15|src_febbraio_2005__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria"></span>
@@ -547,8 +517,6 @@ It's a game of chips, a winning strategy.
 Question No 16 of the Committee on Budgets
 
 > Either $ABC$ a rectangular triangle in $A$, with $AB > AC$; or $AH$ the height relative to the hypotenuse. On the $BC$ straight $D$ shall be taken such that $H$ is the mean point of $BD$; and then $E$ the foot of the perpendicular led from $C$ to $AD$. Show that $EH = AH$.
-
-[[Quesiti/src_febbraio_2005#q16|src_febbraio_2005__Q16]]
 
 
 
@@ -581,8 +549,6 @@ Question No 17 of the Council in February 2005
 > 
 > It's a whole number.
 
-[[Quesiti/src_febbraio_2005#q17|src_febbraio_2005__Q17]]
-
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_disuguaglianze,method_disuguaglianze"></span>
@@ -607,8 +573,6 @@ Question No 17 of the Council in February 2005
 
 > [problem not present in the document]
 
-[[Quesiti/src_febbraio_2005#q18|src_febbraio_2005__Q18]]
-
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_algebra"></span>
@@ -631,8 +595,6 @@ Question No 17 of the Council in February 2005
 Question No 19 of the Committee on Budgets
 
 > [problem not present in the document]
-
-[[Quesiti/src_febbraio_2005#q19|src_febbraio_2005__Q19]]
 
 
 
@@ -657,8 +619,6 @@ Question No 19 of the Committee on Budgets
 
 > [problem not present in the document]
 
-[[Quesiti/src_febbraio_2005#q20|src_febbraio_2005__Q20]]
-
 
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_aritmetica"></span>
@@ -681,8 +641,6 @@ Question No 19 of the Committee on Budgets
 Question No 21 of February 2005
 
 > [problem not present in the document]
-
-[[Quesiti/src_febbraio_2005#q21|src_febbraio_2005__Q21]]
 
 
 
@@ -708,8 +666,6 @@ Question No 21 of February 2005
 
 > [problem not present in the document]
 
-[[Quesiti/src_febbraio_2005#q22|src_febbraio_2005__Q22]]
-
 
 
 <span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_geometria_piana"></span>
@@ -734,6 +690,4 @@ Question No 21 of February 2005
 
 > [problem not present in the document]
 
-**Answer:** 36/350 (cioe 36 al numeratore della frazione ridotta)
-
-[[Quesiti/src_febbraio_2005#q23|src_febbraio_2005__Q23]]
+**Answer:** 36/350 (i.e. 36 in the numerator of the reduced fraction)

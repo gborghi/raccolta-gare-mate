@@ -39,7 +39,6 @@ level: JJMO Yosen
 ![[src_jjmo18yq_yosen__q01.png]]
 
 **Risposta:** \dfrac{3}{5}
-[[Quesiti/src_jjmo18yq_yosen#q01|src_jjmo18yq_yosen__Q01]]
 
 
 
@@ -68,7 +67,6 @@ level: JJMO Yosen
 > Lasciate che $a, b$ siano numeri interi positivi. Tra tutte le coppie $(a, b)$ in modo tale che la somma di tutti gli integri da $a$ a $b$ (inclusivo) sia uguale a $2020$, si trovano tutte le coppie $(a, b)$ per le quali $a$ è il più piccolo possibile.
 
 **Risposta:** (31,\,70)
-[[Quesiti/src_jjmo18yq_yosen#q02|src_jjmo18yq_yosen__Q02]]
 
 
 
@@ -97,7 +95,6 @@ level: JJMO Yosen
 > Tra i numeri interi positivi, un numero è chiamato palindromo (回文数) se si legge lo stesso avanti e indietro. Tra i palindromi tra $1$ e $10000$ (inclusi), si contano quelli che non sono multipli di $10$.
 
 **Risposta:** 107
-[[Quesiti/src_jjmo18yq_yosen#q03|src_jjmo18yq_yosen__Q03]]
 
 
 
@@ -130,7 +127,6 @@ level: JJMO Yosen
 ![[src_jjmo18yq_yosen__q04.png]]
 
 **Risposta:** \dfrac{169}{20}
-[[Quesiti/src_jjmo18yq_yosen#q04|src_jjmo18yq_yosen__Q04]]
 
 
 
@@ -159,7 +155,6 @@ level: JJMO Yosen
 > In isoceles trapezoide $ABCD$, $AB = CD = 7$, $DA = 6$, $\angle B = 72^\circ$, $\angle C = 48^\circ$. $P$ e $Q$ siano rispettivamente i punti medi delle diagonali $AC$ e $BD$. Trova la lunghezza $PQ$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 **Risposta:** \dfrac{7}{2}
-[[Quesiti/src_jjmo18yq_yosen#q05|src_jjmo18yq_yosen__Q05]]
 
 
 
@@ -192,7 +187,6 @@ level: JJMO Yosen
 ![[src_jjmo18yq_yosen__q06.png]]
 
 **Risposta:** 27
-[[Quesiti/src_jjmo18yq_yosen#q06|src_jjmo18yq_yosen__Q06]]
 
 
 
@@ -225,7 +219,6 @@ level: JJMO Yosen
 ![[src_jjmo18yq_yosen__q07.png]]
 
 **Risposta:** 24
-[[Quesiti/src_jjmo18yq_yosen#q07|src_jjmo18yq_yosen__Q07]]
 
 
 
@@ -255,7 +248,6 @@ level: JJMO Yosen
 > Trovare tutti i tripli di numeri interi positivi $(l, m, n)$ con $1 \le m \le n$ soddisfacente $$l^2 + mn = m^2 + ln \quad \text{and} \quad n^2 + lm = 2020.$$
 
 **Risposta:** (16,16,42),\;(24,24,38),\;(2,42,44)
-[[Quesiti/src_jjmo18yq_yosen#q08|src_jjmo18yq_yosen__Q08]]
 
 
 
@@ -291,7 +283,6 @@ level: JJMO Yosen
 ![[src_jjmo18yq_yosen__q09.png]]
 
 **Risposta:** 22
-[[Quesiti/src_jjmo18yq_yosen#q09|src_jjmo18yq_yosen__Q09]]
 
 
 
@@ -320,7 +311,6 @@ level: JJMO Yosen
 > Il triangolo $ABC$ ha lunghezze laterali interi. I punti $B$, $D$, $E$, $C$ si trovano in questo ordine sul lato $BC$, con $BD = 4$ e $EC = 7$. Un cerchio passa attraverso $D$ e $E$ ed è tangente a lato $AB$ e lato $AC$. Trova il valore minimo possibile del perimetro $AB + BC + CA$ del triangolo $ABC$.
 
 **Risposta:** 66
-[[Quesiti/src_jjmo18yq_yosen#q10|src_jjmo18yq_yosen__Q10]]
 
 
 
@@ -349,7 +339,6 @@ level: JJMO Yosen
 > C'è una griglia $8 \times 8$; ogni cella contiene una moneta. Ogni moneta mostra bianco (faccia in su) o nero (faccia in su). Inizialmente tutte le monete mostrano nero. Una operazione avviene come segue: il giocatore $A$ seleziona i quadrati $5$ in una singola riga; il giocatore $B$ seleziona quindi $1$ di quei quadrati $5$, e tutte le monete $8$ della riga contenente quel quadrato e tutte le monete $8$ della colonna contenente quel quadrato vengono volte (la moneta all'incrocio viene volta una volta). Dopo $2020$ tali operazioni, trovare il numero massimo possibile di monete attese mostrando nero (faccia su), dove il giocatore $A$ sceglie la propria strategia per massimizzare questo valore atteso.
 
 **Risposta:** 50
-[[Quesiti/src_jjmo18yq_yosen#q11|src_jjmo18yq_yosen__Q11]]
 
 
 
@@ -378,4 +367,3 @@ level: JJMO Yosen
 > Trova tutti i quadrupli $(a, b, c, d)$ di numeri interi positivi che soddisfano $1 \le a < b < c < d \le 9$ in modo tale che nessuna delle somme del sottoinsieme $\binom{4}{1} + \binom{4}{2} + \binom{4}{3} + \binom{4}{4} = 15$ formate scegliendo gli elementi $1$, $2$, $3$ o $4$ da $\{a, b, c, d\}$ sia un multiple di $24$.
 
 **Risposta:** (1,2,3,8),\;(1,3,8,9),\;(2,4,6,9)
-[[Quesiti/src_jjmo18yq_yosen#q12|src_jjmo18yq_yosen__Q12]]

@@ -45,8 +45,6 @@ level: OBM Nível 1
 
 ![[src_obm_2018_n1_fx__q01.png]]
 
-[[Quesiti/src_obm_2018_n1_fx#q01|src_obm_2018_n1_fx__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_ricorsione,method_invarianti,skill_riconoscimento_pattern,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -91,8 +89,6 @@ level: OBM Nível 1
 > b) Qual è il termine $2018$ della sequenza $1, 2, \ldots$?
 > 
 > c) Presenta due sequenze il cui termine $2018$ è uguale a 1.
-
-[[Quesiti/src_obm_2018_n1_fx#q02|src_obm_2018_n1_fx__Q02]]
 
 
 
@@ -139,8 +135,6 @@ level: OBM Nível 1
 
 ![[src_obm_2018_n1_fx__q03.png]]
 
-[[Quesiti/src_obm_2018_n1_fx#q03|src_obm_2018_n1_fx__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_ricorsione,method_casework,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_modellizzazione"></span>
@@ -181,8 +175,6 @@ level: OBM Nível 1
 > c) 10 lanci?
 > 
 > In quanti modi distinti la palla può tornare a Ana dopo ciascuno dei seguenti lanci totali?
-
-[[Quesiti/src_obm_2018_n1_fx#q04|src_obm_2018_n1_fx__Q04]]
 
 
 
@@ -225,5 +217,3 @@ level: OBM Nível 1
 > c) In un cubo $n \times n \times n$, quale numero appare più spesso nella numerazione dei cubetti unitari? (La risposta può dipendere da $n$.)
 
 ![[src_obm_2018_n1_fx__q05.png]]
-
-[[Quesiti/src_obm_2018_n1_fx#q05|src_obm_2018_n1_fx__Q05]]

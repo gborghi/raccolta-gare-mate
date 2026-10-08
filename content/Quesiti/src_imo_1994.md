@@ -34,8 +34,6 @@ level: IMO
 > M è il punto medio di BC e O è il punto sulla retta AM tale che
 > OB sia perpendicolare ad AB;
 
-[[Quesiti/src_imo_1994#q01|src_imo_1994__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -59,8 +57,6 @@ level: IMO
 *OQ perpendicolare a EF se e solo se QE=QF*
 
 > Q è un punto arbitrario sul segmento BC diverso da B e C;
-
-[[Quesiti/src_imo_1994#q02|src_imo_1994__Q02]]
 
 
 
@@ -102,8 +98,6 @@ level: IMO
 >
 > • (b) Si determinino tutti gli interi positivi m per i quali esiste esattamente un k tale che f(k) = m.
 
-[[Quesiti/src_imo_1994#q03|src_imo_1994__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze"></span>
@@ -134,8 +128,6 @@ level: IMO
 > mn −1
 > sia un intero.
 
-[[Quesiti/src_imo_1994#q04|src_imo_1994__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,skill_astrazione"></span>
@@ -163,8 +155,6 @@ level: IMO
 > Sia S l'insieme dei numeri reali strettamente maggiori di −1.
 > Determinare tutte le funzioni f : S → S che soddisfano le due condizioni:
 
-[[Quesiti/src_imo_1994#q05|src_imo_1994__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_astrazione"></span>
@@ -189,5 +179,3 @@ level: IMO
 *condizione di appartenenza al prodotto di primi per insiemi infiniti di numeri primi*
 
 > 6. Si dimostri che esiste un insieme A di interi positivi con la seguente proprietà: per ogni insieme infinito S di numeri primi, esistono due interi positivi m ∈ A e n ∉ A, ognuno dei quali è prodotto di k elementi distinti di S per un certo k ≥ 2.
-
-[[Quesiti/src_imo_1994#q06|src_imo_1994__Q06]]

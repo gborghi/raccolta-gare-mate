@@ -39,7 +39,6 @@ level: Coupe Animath Automne
 > Qui si aspetta solo una risposta numerica.
 
 **Risposta:** 25
-[[Quesiti/src_canimath_2024_automne#q01|src_canimath_2024_automne__Q01]]
 
 
 
@@ -72,7 +71,6 @@ level: Coupe Animath Automne
 > Qual è l'angolo $\widehat{QDP}$?
 
 **Risposta:** 90
-[[Quesiti/src_canimath_2024_automne#q02|src_canimath_2024_automne__Q02]]
 
 
 
@@ -99,8 +97,6 @@ level: Coupe Animath Automne
 
 > Lasciate che $a$, $b$ e $n$ siano tre integri rigorosamente positivi in modo tale che $a$ e $b$ dividano entrambi $n$ e $n = a + b + ab$. Mostra che $a = b$.
 
-[[Quesiti/src_canimath_2024_automne#q03|src_canimath_2024_automne__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_casework,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -125,8 +121,6 @@ level: Coupe Animath Automne
 *Octogono con integri blu sui lati; i prodotti verticali possono essere 1,2,...,8 in qualche ordine?*
 
 > Su ciascun lato di un ottagono, Anna scrive in blu un intero rigorosamente positivo (gli 8 interi che scrive non sono necessariamente distinti). Poi, su ciascun vertice dell'ottagono, scrive in rosso il prodotto dei due numeri interi blu scritti alle estremità dei due lati che si incontrano a quel vertice. Anna può scegliere i numeri interi blu in modo che i numeri interi rossi scritti sui vertici siano esattamente $1, 2, 3, 4, 5, 6, 7, 8$ (non necessariamente in quell'ordine)?
-
-[[Quesiti/src_canimath_2024_automne#q04|src_canimath_2024_automne__Q04]]
 
 
 
@@ -157,8 +151,6 @@ level: Coupe Animath Automne
 > 
 > Qualunque sia il colore di Quentin, si possono sempre trovare tre celle $C_1$, $C_2$ e $C_3$ di colori distinti in coppia in modo tale che $C_1$ e $C_2$ sono nella stessa riga, e $C_2$ e $C_3$ sono nella stessa colonna.
 
-[[Quesiti/src_canimath_2024_automne#q05|src_canimath_2024_automne__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -183,8 +175,6 @@ level: Coupe Animath Automne
 *ABCD quadrato, triangoli equilaterali ABE e DAF esteriori; punto medio H di EF, G = (BF) ∩(CE); mostra GH=GC*
 
 > $ABCD$ sia quadrato e $E$ e $F$ puntino l'esterno di $ABCD$ in modo tale che i triangoli $ABE$ e $DAF$ siano equilaterali. $H$ sia il punto medio di $[EF]$ e $G$ il punto di intersezione delle linee $(BF)$ e $(CE)$. Mostra che $GH = GC$.
-
-[[Quesiti/src_canimath_2024_automne#q06|src_canimath_2024_automne__Q06]]
 
 
 
@@ -212,8 +202,6 @@ level: Coupe Animath Automne
 *Reali a,b,c>0 con il prodotto di somma in coppia ≥; mostrare a+b+c ≥ (3/4) abc*
 
 > Che $a$, $b$ e $c$ siano numeri reali rigorosamente positivi in modo tale che $$a + b \ge ab, \quad b + c \ge bc, \quad c + a \ge ca.$$ Mostri che $a + b + c \ge \dfrac{3}{4}\,abc$.
-
-[[Quesiti/src_canimath_2024_automne#q07|src_canimath_2024_automne__Q07]]
 
 
 
@@ -246,7 +234,6 @@ level: Coupe Animath Automne
 > Qui si aspetta solo una risposta numerica.
 
 **Risposta:** 2024
-[[Quesiti/src_canimath_2024_automne#q08|src_canimath_2024_automne__Q08]]
 
 
 
@@ -274,8 +261,6 @@ level: Coupe Animath Automne
 *Integra a≥2,b≥2 con (a−1)/(b−1)−a/b=1; mostrare a/b e (a−1)/(b−1) sono integri*
 
 > $a \ge 2$ e $b \ge 2$ siano due integri. Supponiamo che $$\frac{a-1}{b-1} - \frac{a}{b} = 1.$$ Mostri che $\dfrac{a}{b}$ e $\dfrac{a-1}{b-1}$ sono numeri interi.
-
-[[Quesiti/src_canimath_2024_automne#q09|src_canimath_2024_automne__Q09]]
 
 
 
@@ -308,8 +293,6 @@ level: Coupe Animath Automne
 
 > Determinare se nel piano esistono cinque punti distinti $A$, $B$, $C$, $D$ e $P$, verificando le seguenti condizioni: \begin{itemize} \item il quadrilaterale $ABCD$ non si interseca; \item il punto $P$ si trova rigorosamente all'interno di questo quadrilaterale; \item i segmenti $[AP]$, $[BP]$, $[CP]$ e $[DP]$ sono tutti contenuti all'interno del quadrilaterale $ABCD$; \item le equalità delle lunghezze $AP = AB$, $BP = BC$, $CP = CD$ e $DP = DA$. # Finire #
 
-[[Quesiti/src_canimath_2024_automne#q10|src_canimath_2024_automne__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,method_cassetti,method_colorazione,method_estremalita,method_doppio_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_stima,skill_astrazione"></span>
@@ -339,8 +322,6 @@ level: Coupe Animath Automne
 > 
 > Qualunque sia il colore di Quentin, si possono sempre trovare tre celle $C_1$, $C_2$ e $C_3$ di colori distinti in coppia in modo tale che $C_1$ e $C_2$ sono nella stessa riga, e $C_2$ e $C_3$ sono nella stessa colonna.
 
-[[Quesiti/src_canimath_2024_automne#q11|src_canimath_2024_automne__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -365,8 +346,6 @@ level: Coupe Animath Automne
 *ABCD quadrato, triangoli equilaterali ABP e DAQ esteriore; calcolo NM/NC*
 
 > $ABCD$ sia quadrato e $P$ e $Q$ puntino l'esterno di $ABCD$ in modo tale che i triangoli $ABP$ e $DAQ$ siano equilaterali. $N$ sia il punto medio di $[PQ]$ e $M$ il punto di intersezione delle linee $(BQ)$ e $(DP)$. Calcolare $\dfrac{NM}{NC}$.
-
-[[Quesiti/src_canimath_2024_automne#q12|src_canimath_2024_automne__Q12]]
 
 
 
@@ -393,8 +372,6 @@ Sequenza di numeri interi infiniti: k+l ∙ a_k+a_l; mostrare k−l ∙ a_k−a_
 
 > Lasciate che $a_1, a_2, \ldots$ sia una sequenza infinita di numeri interi. Supponiamo che per tutti gli integri $k \ge 1$ e $l \ge 1$, $k + l$ divida $a_k + a_l$. Indicare che per tutti gli integri $k \ge 1$ e $l \ge 1$ con $k \ne l$, $k - l$ divide $a_k - a_l$.
 
-[[Quesiti/src_canimath_2024_automne#q13|src_canimath_2024_automne__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,topic_algebra,method_invarianti,method_estremalita,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_stima"></span>
@@ -419,8 +396,6 @@ Sequenza di numeri interi infiniti: k+l ∙ a_k+a_l; mostrare k−l ∙ a_k−a_
 *100 reales su un cerchio, ogni ≤ somma di due vicini; numero massimo di quelli strettamente positivi*
 
 > Un centinaio di numeri reali sono posizionati attorno a un cerchio, in modo che ogni numero sia al massimo uguale alla somma dei suoi due vicini (andando in senso orario). Determinare il numero massimo di numeri reali rigorosamente positivi che possono apparire su questo cerchio.
-
-[[Quesiti/src_canimath_2024_automne#q14|src_canimath_2024_automne__Q14]]
 
 
 
@@ -455,5 +430,3 @@ Sequenza di numeri interi infiniti: k+l ∙ a_k+a_l; mostrare k−l ∙ a_k−a_
 > Per tutti i numeri reali $x_1, \ldots, x_{2024}$, esiste sempre un indice $i$ con $1 \le i \le 2024$ tale che $$\{x_i - x_1\} + \{x_i - x_2\} + \{x_i - x_3\} + \cdots + \{x_i - x_{2024}\} \le \alpha.$$
 > 
 > Ricordiamo che $\{x\}$ indica la parte frazionaria del numero reale $x$, cioè $\{x\} = x - \lfloor x \rfloor$ dove $\lfloor x \rfloor$ è la parte integrale di $x$ (il numero intero più grande inferiore o uguale a $x$). Per esempio, $\{1.2\} = 0.2$, $\{3\} = 0$ e $\{-2.4\} = 0.6$.
-
-[[Quesiti/src_canimath_2024_automne#q15|src_canimath_2024_automne__Q15]]

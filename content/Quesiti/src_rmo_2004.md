@@ -36,8 +36,6 @@ level: RMO
 
 ![[src_rmo_2004__q01.png]]
 
-[[Quesiti/src_rmo_2004#q01|src_rmo_2004__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -62,8 +60,6 @@ level: RMO
 *Tanti interi positivi sulle facce cubiche; trovare tutti i valori possibili della somma facciale T*
 
 > I numeri interi positivi sono scritti su tutte le facce di un cubo, uno su ciascuno. A ciascun angolo (vertice) del cubo è scritto il prodotto dei numeri sulle facce che si incontrano all'angolo. La somma dei numeri scritti in tutti gli angoli è il 2004. Se $T$ indica la somma dei numeri su tutte le facce, trovare tutti i possibili valori di $T$.
-
-[[Quesiti/src_rmo_2004#q02|src_rmo_2004__Q02]]
 
 
 
@@ -98,8 +94,6 @@ level: RMO
 > 
 > (b) $\gcd(\lambda_n, \lambda_{n+1}) = 1$.
 
-[[Quesiti/src_rmo_2004#q03|src_rmo_2004__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,method_inclusione_esclusione,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -128,8 +122,6 @@ level: RMO
 > Prova che il numero di triples $(A, B, C)$ dove $A$, $B$, $C$ sono sottoinsiemi di $\{1, 2, \cdots, n\}$ in modo tale che $A \cap B \cap C = \emptyset$, $A \cap B \ne \emptyset$, $B \cap C \ne \emptyset$ siano $7^n - 6^n + 5^n$.
 
 ![[src_rmo_2004__q04.png]]
-
-[[Quesiti/src_rmo_2004#q04|src_rmo_2004__Q04]]
 
 
 
@@ -168,8 +160,6 @@ level: RMO
 
 ![[src_rmo_2004__q05.png]]
 
-[[Quesiti/src_rmo_2004#q05|src_rmo_2004__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_induzione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
@@ -194,8 +184,6 @@ level: RMO
 *Sequenza primaria p_{n+1} = fattore primario più grande del prodotto+1; prova p_n ≠ 5*
 
 > Che $(p_1, p_2, p_3, \cdots)$ sia una sequenza di numeri primi definita da $p_1 = 2$ e per $n \ge 1$, $p_{n+1}$ è il più grande fattore primo di $p_1 p_2 p_3 \cdots p_n + 1$. Prove che $p_n \ne 5$ per qualsiasi $n$.
-
-[[Quesiti/src_rmo_2004#q06|src_rmo_2004__Q06]]
 
 
 
@@ -229,5 +217,3 @@ level: RMO
 > a) $y < x < 1$; e
 > 
 > (b) $x^2 + y^2 < 1$.
-
-[[Quesiti/src_rmo_2004#q07|src_rmo_2004__Q07]]

@@ -46,7 +46,6 @@ level: squadre
 > centimetres long is the side of the rhombus?
 
 **Answer:** 20
-[[Quesiti/src_kangourou_2015_squadre_a#q01|src_kangourou_2015_squadre_a__Q01]]
 
 
 
@@ -77,7 +76,6 @@ level: squadre
 > Four odd digits How many multiples (positive integers) of 9 are there whose writing consists of four odd digits all different from each other?
 
 **Answer:** 24
-[[Quesiti/src_kangourou_2015_squadre_a#q02|src_kangourou_2015_squadre_a__Q02]]
 
 
 
@@ -109,7 +107,6 @@ level: squadre
 > The angles of the polygon For a polygon consider the following property (P): each of its internal angles measures 168 or 169 degrees. Write in the order the minimum and maximum number of sides for a polygon having the property (P). Write 0000 if there are no polygons with the property (P).
 
 **Answer:** 3032
-[[Quesiti/src_kangourou_2015_squadre_a#q03|src_kangourou_2015_squadre_a__Q03]]
 
 
 
@@ -148,7 +145,6 @@ level: squadre
 > The triangle Observe the figure (which does not necessarily respect the data, it is only indicative). The triangles ABC and AXY are right-angled at C and Y respectively, the segments AX and BX have the same length, the segment AX bisects the BAC angle and the measure of the angle AXY is 7 times that of the angle XBC. What is the measure in degrees of the angle ABC?
 
 **Answer:** 36
-[[Quesiti/src_kangourou_2015_squadre_a#q04|src_kangourou_2015_squadre_a__Q04]]
 
 
 
@@ -181,7 +177,6 @@ level: squadre
 > Twins in a race A weird class is made up of six pairs of twins. The 12 students are to be split into two teams of six elements each, who will compete in a competition, so that no team has among its members both a student and his twin. How many different ways can the two teams be composed?
 
 **Answer:** 32
-[[Quesiti/src_kangourou_2015_squadre_a#q05|src_kangourou_2015_squadre_a__Q05]]
 
 
 
@@ -213,7 +208,6 @@ level: squadre
 > Using his jigsaw, Joseph can manufacture square wooden tablets of any size (reasonable), provided the side measures an integer number of centimeters. One of these tablets must be inserted inside a circular metal ring with a radius of 8 cm. How many centimeters is the side of the largest tablet Joseph can make for the purpose?
 
 **Answer:** 11
-[[Quesiti/src_kangourou_2015_squadre_a#q06|src_kangourou_2015_squadre_a__Q06]]
 
 
 
@@ -260,7 +254,6 @@ level: squadre
 > Y
 
 **Answer:** 1785
-[[Quesiti/src_kangourou_2015_squadre_a#q07|src_kangourou_2015_squadre_a__Q07]]
 
 
 
@@ -294,7 +287,6 @@ level: squadre
 > Two circles The centers of two circles of radius 1 meter are 3 meters apart. Consider any of the points at which the circles meet and, for each of them, trace the line to it tangent at that point. How many degrees does the largest of the four angles formed by these two lines measure?
 
 **Answer:** 120
-[[Quesiti/src_kangourou_2015_squadre_a#q08|src_kangourou_2015_squadre_a__Q08]]
 
 
 
@@ -326,7 +318,6 @@ level: squadre
 > cm wide and 1 cm high. After, by placing some of them side by side, she formed a cube, how many has she got left?
 
 **Answer:** 64
-[[Quesiti/src_kangourou_2015_squadre_a#q09|src_kangourou_2015_squadre_a__Q09]]
 
 
 
@@ -360,7 +351,6 @@ level: squadre
 > Dogs, cats and chickens A square lawn of area 900 m2 is fenced. The owner wants to let some dogs run, some cats, and some chickens, but he wants to keep animals of different species from coming into contact with each other. He then decides to divide it into three rectangular parcels all of the same area, each separated from the others by a net. He wants to minimize the length of the net to be used (which can be cut in the most appropriate way). How many metres of net will he need to buy?
 
 **Answer:** 50
-[[Quesiti/src_kangourou_2015_squadre_a#q10|src_kangourou_2015_squadre_a__Q10]]
 
 
 
@@ -394,7 +384,6 @@ level: squadre
 > Forward and backward To train, one day Ernesto decides to do an experiment: starting from a certain point on a straight road, he starts to take a step forward, then he takes two steps forward and one step backward, then three steps forward and two steps backward, then four steps forward and three steps backward and so on. An Ernesto's step is always exactly one meter long. When he reaches a distance of 80 meters from the point where he had started, he decides to stop. How many meters did Ernesto walk before he stopped?
 
 **Answer:** 1640
-[[Quesiti/src_kangourou_2015_squadre_a#q11|src_kangourou_2015_squadre_a__Q11]]
 
 
 
@@ -426,7 +415,6 @@ level: squadre
 > The lengths of the sides of a rectangular parallelepiped are expressed by integer numbers of centimeters. The areas of two faces are 24 and 30 square centimeters. How many cubic centimeters can the volume of the parallelepiped be worth at most?
 
 **Answer:** 720
-[[Quesiti/src_kangourou_2015_squadre_a#q12|src_kangourou_2015_squadre_a__Q12]]
 
 
 
@@ -459,7 +447,6 @@ level: squadre
 > What is the sum of the digits of the square of this number?
 
 **Answer:** 891
-[[Quesiti/src_kangourou_2015_squadre_a#q13|src_kangourou_2015_squadre_a__Q13]]
 
 
 
@@ -502,7 +489,6 @@ level: squadre
 > of the nonagon?
 
 **Answer:** 39
-[[Quesiti/src_kangourou_2015_squadre_a#q14|src_kangourou_2015_squadre_a__Q14]]
 
 
 
@@ -547,4 +533,3 @@ level: squadre
 >                                               Questions and solutions
 
 **Answer:** 33
-[[Quesiti/src_kangourou_2015_squadre_a#q15|src_kangourou_2015_squadre_a__Q15]]

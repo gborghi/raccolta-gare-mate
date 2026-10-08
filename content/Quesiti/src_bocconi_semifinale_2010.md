@@ -38,8 +38,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 ![[src_bocconi_semifinale_2010__q01.png]]
 
-**Answer:** Eliminare i fiammiferi che trasformano l'addizione in $8 + 6 = 16$ (rimuovendo due segmenti specifici)
-[[Quesiti/src_bocconi_semifinale_2010#q01|src_bocconi_semifinale_2010__Q01]]
+**Answer:** Remove the matches that turn the addition into $8 + 6 = 16$ (removing two specific segments)
 
 
 
@@ -72,7 +71,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 ![[src_bocconi_semifinale_2010__q02.png]]
 
 **Answer:** 9 cm
-[[Quesiti/src_bocconi_semifinale_2010#q02|src_bocconi_semifinale_2010__Q02]]
 
 
 
@@ -104,8 +102,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 ![[src_bocconi_semifinale_2010__q03.png]]
 
-**Answer:** Luca deve togliere 5 e 11
-[[Quesiti/src_bocconi_semifinale_2010#q03|src_bocconi_semifinale_2010__Q03]]
+**Answer:** Luca must remove 5 and 11
 
 
 
@@ -137,8 +134,7 @@ Magic square 3x3: reconstruct the missing values
 
 ![[src_bocconi_semifinale_2010__q04.png]]
 
-**Answer:** Il quadrato magico completato ha righe: $8,1,6$ / $3,5,7$ / $4,9,2$
-[[Quesiti/src_bocconi_semifinale_2010#q04|src_bocconi_semifinale_2010__Q04]]
+**Answer:** The completed magic square has rows: $8,1,6$ / $3,5,7$ / $4,9,2$
 
 
 
@@ -167,7 +163,6 @@ Magic square 3x3: reconstruct the missing values
 > Thursday is a market day for farmers who exchange their animals in the village square. Here are the "prices": a duck is worth two chickens; a cow is worth a goat plus three ducks; a goat is worth two ducks plus two chickens. How many chickens can a farmer get for a cow?
 
 **Answer:** 12 galline
-[[Quesiti/src_bocconi_semifinale_2010#q05|src_bocconi_semifinale_2010__Q05]]
 
 
 
@@ -195,8 +190,7 @@ Magic square 3x3: reconstruct the missing values
 
 > There are square tables in Sara and Sergio's school warehouse. A chair can be placed around each of them, on either side. For the school party, students used 24 of these square tables, forming with them a large rectangular table (without holes). Around this large rectangular table they then placed the chairs, one on each side "free" of the square tables. How many chairs did they put in, minimum?
 
-**Answer:** 20 sedie
-[[Quesiti/src_bocconi_semifinale_2010#q06|src_bocconi_semifinale_2010__Q06]]
+**Answer:** 20 chairs
 
 
 
@@ -224,8 +218,7 @@ Magic square 3x3: reconstruct the missing values
 
 > In Francesco's garden, some crows and some sparrows rest quietly on the long thread where the mother usually lays the laundry. Francesco likes to see them fly away and then, deliberately, he claps his hands very hard: frightened, 8 sparrows fly away but 5 then return. Soon after, Francis' dog barks and 3 crows take off; 2 then return. At this point, on the string, there are 13 birds. How many sparrows were on the line at the beginning of our "story"?
 
-**Answer:** 14 passerotti
-[[Quesiti/src_bocconi_semifinale_2010#q07|src_bocconi_semifinale_2010__Q07]]
+**Answer:** 14 sparrows
 
 
 
@@ -253,8 +246,7 @@ Magic square 3x3: reconstruct the missing values
 
 > In Jacob's class, when everyone is present, there are more than 16 students but less than 40. Today, two out of every seven students are absent because of the flu, and, oddly enough, there are as many females as males in the classroom. How many pupils (male plus female) are in school today?
 
-**Answer:** 20 alunni
-[[Quesiti/src_bocconi_semifinale_2010#q08|src_bocconi_semifinale_2010__Q08]]
+**Answer:** 20 pupils
 
 
 
@@ -286,8 +278,7 @@ Magic square 3x3: reconstruct the missing values
 
 ![[src_bocconi_semifinale_2010__q09.png]]
 
-**Answer:** (vedere figura nella soluzione)
-[[Quesiti/src_bocconi_semifinale_2010#q09|src_bocconi_semifinale_2010__Q09]]
+**Answer:** (see the figure in the solution)
 
 
 
@@ -316,7 +307,6 @@ Magic square 3x3: reconstruct the missing values
 > In a right triangle, the product of the lengths of the three sides is twice the product of the three heights. What is the measure (in degrees) of one of the two sharp angles of this right triangle?
 
 **Answer:** $45^\circ$
-[[Quesiti/src_bocconi_semifinale_2010#q10|src_bocconi_semifinale_2010__Q10]]
 
 
 
@@ -345,7 +335,6 @@ Magic square 3x3: reconstruct the missing values
 > Multiplying a positive integer by 4, Nando gets a number that is written with the same digits, but written in reverse order. What's the minimum number Nando wrote?
 
 **Answer:** 2178
-[[Quesiti/src_bocconi_semifinale_2010#q11|src_bocconi_semifinale_2010__Q11]]
 
 
 
@@ -373,8 +362,7 @@ Magic square 3x3: reconstruct the missing values
 
 > At the Mathcity chess tournament, each player had to compete with each of the other participants. Two affected players, however, were only able to play three games each. The others, which these players were supposed to play, were therefore cancelled. In total, there were 83 games. How many players were enrolled in the tournament, including the two patients?
 
-**Answer:** 15 giocatori
-[[Quesiti/src_bocconi_semifinale_2010#q12|src_bocconi_semifinale_2010__Q12]]
+**Answer:** 15 players
 
 
 
@@ -407,7 +395,6 @@ Magic square 3x3: reconstruct the missing values
 ![[src_bocconi_semifinale_2010__q13.png]]
 
 **Answer:** 134
-[[Quesiti/src_bocconi_semifinale_2010#q13|src_bocconi_semifinale_2010__Q13]]
 
 
 
@@ -435,8 +422,7 @@ Magic square 3x3: reconstruct the missing values
 
 > How many squares can be formed by joining four points of the grid of the drawing? (All squares must be counted, regardless of their orientation)
 
-**Answer:** 90 quadrati
-[[Quesiti/src_bocconi_semifinale_2010#q14|src_bocconi_semifinale_2010__Q14]]
+**Answer:** 90 squares
 
 
 
@@ -465,7 +451,6 @@ Magic square 3x3: reconstruct the missing values
 > The sixth power of a positive integer $N$ is a 9-digit number. By arranging these numbers in descending order, you get 987744320. What was the initial number $N$?
 
 **Answer:** $N = 27$
-[[Quesiti/src_bocconi_semifinale_2010#q15|src_bocconi_semifinale_2010__Q15]]
 
 
 
@@ -496,5 +481,4 @@ Magic square 3x3: reconstruct the missing values
 
 > The evidence of a high-level Mathematics course is kept in a super-secure safe with multiple locks. The competition jury consists of nine commissioners and each of them has the key to some locks. Knowing that: - at least 6 members of the jury must be present in order to open the safe; - 6 commissioners any one can open the safe; how many locks, at least, does the safe have? (Each key opens a single lock and of course the safe only opens when all the locks are open.)
 
-**Answer:** 504 chiavi
-[[Quesiti/src_bocconi_semifinale_2010#q16|src_bocconi_semifinale_2010__Q16]]
+**Answer:** 504 keys

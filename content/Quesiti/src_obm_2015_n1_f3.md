@@ -49,8 +49,6 @@ level: OBM Nível 1
 
 ![[src_obm_2015_n1_f3__q01.png]]
 
-[[Quesiti/src_obm_2015_n1_f3#q01|src_obm_2015_n1_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
@@ -92,8 +90,6 @@ level: OBM Nível 1
 
 ![[src_obm_2015_n1_f3__q02.png]]
 
-[[Quesiti/src_obm_2015_n1_f3#q02|src_obm_2015_n1_f3__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_backward,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -130,8 +126,6 @@ level: OBM Nível 1
 > b) Qual è il valore di $\ell$?
 
 ![[src_obm_2015_n1_f3__q03.png]]
-
-[[Quesiti/src_obm_2015_n1_f3#q03|src_obm_2015_n1_f3__Q03]]
 
 
 
@@ -172,8 +166,6 @@ level: OBM Nível 1
 > 
 > c) Trovare il valore di ciascuna lettera nell'uguaglianza: $$( F + E + L + Z ) \times ( A + N + O ) \times ( N + O + V + O ) = 1715$$
 
-[[Quesiti/src_obm_2015_n1_f3#q04|src_obm_2015_n1_f3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -210,5 +202,3 @@ level: OBM Nível 1
 > c) Nella figura seguente, ci sono quadrati $ABCD$, $EFGH$, $CHIJ$, $LDJM$ e $JGON$. È noto che $AB = 5$ cm, $BI = 5$ cm, $IE = 5$ cm e $EF = 12$ cm. Qual è l'area del triangolo $MNJ$?
 
 ![[src_obm_2015_n1_f3__q05.png]]
-
-[[Quesiti/src_obm_2015_n1_f3#q05|src_obm_2015_n1_f3__Q05]]

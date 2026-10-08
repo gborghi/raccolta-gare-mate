@@ -48,7 +48,6 @@ level: OBM Nível 3
 > - **(E)** $4^{52}$
 
 **Risposta:** E
-[[Quesiti/src_obm_2010_n3_f1#q01|src_obm_2010_n3_f1__Q01]]
 
 
 
@@ -91,7 +90,6 @@ level: OBM Nível 3
 > - **(E)** $105$
 
 **Risposta:** B
-[[Quesiti/src_obm_2010_n3_f1#q02|src_obm_2010_n3_f1__Q02]]
 
 
 
@@ -136,8 +134,6 @@ level: OBM Nível 3
 
 ![[src_obm_2010_n3_f1__q03.png]]
 
-[[Quesiti/src_obm_2010_n3_f1#q03|src_obm_2010_n3_f1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -175,8 +171,6 @@ level: OBM Nível 3
 > - **(C)** $\frac{1}{12}$
 > - **(D)** $\frac{5}{12}$
 > - **(E)** $\frac{2}{3}$
-
-[[Quesiti/src_obm_2010_n3_f1#q04|src_obm_2010_n3_f1__Q04]]
 
 
 
@@ -221,8 +215,6 @@ level: OBM Nível 3
 
 ![[src_obm_2010_n3_f1__q05.png]]
 
-[[Quesiti/src_obm_2010_n3_f1#q05|src_obm_2010_n3_f1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
@@ -264,7 +256,6 @@ level: OBM Nível 3
 > - **(E)** è necessario avere maggiori dati
 
 **Risposta:** C
-[[Quesiti/src_obm_2010_n3_f1#q06|src_obm_2010_n3_f1__Q06]]
 
 
 
@@ -304,8 +295,6 @@ level: OBM Nível 3
 > - **(C)** $10$
 > - **(D)** $15$
 > - **(E)** $20$
-
-[[Quesiti/src_obm_2010_n3_f1#q07|src_obm_2010_n3_f1__Q07]]
 
 
 
@@ -348,7 +337,6 @@ level: OBM Nível 3
 > - **(E)** $105$
 
 **Risposta:** B
-[[Quesiti/src_obm_2010_n3_f1#q08|src_obm_2010_n3_f1__Q08]]
 
 
 
@@ -391,8 +379,6 @@ level: OBM Nível 3
 > - **(E)** $40$
 
 ![[src_obm_2010_n3_f1__q09.png]]
-
-[[Quesiti/src_obm_2010_n3_f1#q09|src_obm_2010_n3_f1__Q09]]
 
 
 
@@ -444,8 +430,6 @@ level: OBM Nível 3
 > - **(D)** Dernaldo
 > - **(E)** Non è possibile determinarlo.
 
-[[Quesiti/src_obm_2010_n3_f1#q10|src_obm_2010_n3_f1__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_analitica,topic_algebra,method_coordinate,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -480,8 +464,6 @@ level: OBM Nível 3
 > (A), (B), (C), (D), (E): cinque schizzi di piano di coordinate candidati (cfr. figura).
 
 ![[src_obm_2010_n3_f1__q11.png]]
-
-[[Quesiti/src_obm_2010_n3_f1#q11|src_obm_2010_n3_f1__Q11]]
 
 
 
@@ -523,7 +505,6 @@ level: OBM Nível 3
 > - **(E)** $\frac{18}{7}$
 
 **Risposta:** E
-[[Quesiti/src_obm_2010_n3_f1#q12|src_obm_2010_n3_f1__Q12]]
 
 
 
@@ -566,8 +547,6 @@ level: OBM Nível 3
 > - **(E)** $100^\circ$
 
 ![[src_obm_2010_n3_f1__q13.png]]
-
-[[Quesiti/src_obm_2010_n3_f1#q13|src_obm_2010_n3_f1__Q13]]
 
 
 
@@ -612,8 +591,6 @@ level: OBM Nível 3
 
 ![[src_obm_2010_n3_f1__q14.png]]
 
-[[Quesiti/src_obm_2010_n3_f1#q14|src_obm_2010_n3_f1__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_solida,topic_combinatoria,topic_logica,method_casework,skill_ragionamento_geometrico,skill_casework_accurato"></span>
@@ -657,8 +634,6 @@ level: OBM Nível 3
 
 ![[src_obm_2010_n3_f1__q15.png]]
 
-[[Quesiti/src_obm_2010_n3_f1#q15|src_obm_2010_n3_f1__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica"></span>
@@ -700,7 +675,6 @@ level: OBM Nível 3
 > - **(E)** $1<a<b$
 
 **Risposta:** D
-[[Quesiti/src_obm_2010_n3_f1#q16|src_obm_2010_n3_f1__Q16]]
 
 
 
@@ -740,8 +714,6 @@ level: OBM Nível 3
 > - **(C)** $1002$
 > - **(D)** $1003$
 > - **(E)** $1004$
-
-[[Quesiti/src_obm_2010_n3_f1#q17|src_obm_2010_n3_f1__Q17]]
 
 
 
@@ -786,8 +758,6 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 
 ![[src_obm_2010_n3_f1__q18.png]]
 
-[[Quesiti/src_obm_2010_n3_f1#q18|src_obm_2010_n3_f1__Q18]]
-
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -831,8 +801,6 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 
 ![[src_obm_2010_n3_f1__q19.png]]
 
-[[Quesiti/src_obm_2010_n3_f1#q19|src_obm_2010_n3_f1__Q19]]
-
 
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_combinatoria,topic_algebra,topic_insiemi_funzioni,method_doppio_conteggio,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -874,7 +842,6 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 > - **(E)** $11^{11!}$
 
 **Risposta:** B
-[[Quesiti/src_obm_2010_n3_f1#q20|src_obm_2010_n3_f1__Q20]]
 
 
 
@@ -915,8 +882,6 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 > - **(D)** $(\log n)^n<n!<n^{\log n}$
 > - **(E)** $n^{\log n}<(\log n)^n<n!$
 
-[[Quesiti/src_obm_2010_n3_f1#q21|src_obm_2010_n3_f1__Q21]]
-
 
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_estremalita,skill_casework_accurato,skill_stima"></span>
@@ -956,8 +921,6 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 > - **(D)** $30$
 > - **(E)** $105$
 
-[[Quesiti/src_obm_2010_n3_f1#q22|src_obm_2010_n3_f1__Q22]]
-
 
 
 <span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica"></span>
@@ -996,8 +959,6 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 > - **(C)** $5$
 > - **(D)** $6$
 > - **(E)** $7$
-
-[[Quesiti/src_obm_2010_n3_f1#q23|src_obm_2010_n3_f1__Q23]]
 
 
 
@@ -1044,7 +1005,6 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 ![[src_obm_2010_n3_f1__q24.png]]
 
 **Risposta:** E
-[[Quesiti/src_obm_2010_n3_f1#q24|src_obm_2010_n3_f1__Q24]]
 
 
 
@@ -1084,5 +1044,3 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 > - **(C)** $3$
 > - **(D)** $5$
 > - **(E)** $7$
-
-[[Quesiti/src_obm_2010_n3_f1#q25|src_obm_2010_n3_f1__Q25]]

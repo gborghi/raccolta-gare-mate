@@ -33,8 +33,6 @@ level: JMO Honsen
 
 > Lasciate che $ABC$ sia un triangolo. La linea tangente al circoncircolo di $\triangle ABC$ al vertice $A$ incontra la linea $BC$ al punto $P$. I piedi $Q$ e $R$ siano i piedi delle perpendicolari da $P$ alle linee $AB$ e $AC$, rispettivamente. Mostra che la riga $BC$ è perpendicolare alla riga $QR$.
 
-[[Quesiti/src_jmo22mq_honsen#q01|src_jmo22mq_honsen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_funzionali,topic_algebra,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
@@ -60,8 +58,6 @@ level: JMO Honsen
 *Ricerca tutte le funzioni reali che soddisfano un'equazione funzionale*
 
 > Trovare tutte le funzioni $f$ definite su $\mathbb{R}$ e prendere valori reali in modo tale che $$f(f(x+y)f(x-y)) = x^2 - yf(y)$$ tenga per tutti i numeri reali $x, y$.
-
-[[Quesiti/src_jmo22mq_honsen#q02|src_jmo22mq_honsen__Q02]]
 
 
 
@@ -92,8 +88,6 @@ level: JMO Honsen
 > 
 > **Condizione:** Per ogni intero $x$, se $p$ divide $x^n - 1$ allora $p^2$ divide anche $x^n - 1$.
 
-[[Quesiti/src_jmo22mq_honsen#q03|src_jmo22mq_honsen__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_lettura_attenta,skill_astrazione"></span>
@@ -118,8 +112,6 @@ level: JMO Honsen
 *Due triangoli di uguale occhio che condividono l'apice P; punti di mezzo di archi di due cerchi*
 
 > Nel piano, $PAB$ e $PCD$ siano triangoli con $PA = PB$ e $PC = PD$. Supponiamo che $P$, $A$, $C$ siano collineari (in tale ordine) e $B$, $P$, $D$ siano collineari (in tale ordine). $S_1$ sia il circoncircolo di $\triangle PAC$ (passando per $A$ e $C$) e $S_2$ sia il circoncircolo di $\triangle BPD$ (passando per $B$ e $D$), e supponiamo che $S_1$ e $S_2$ si incontrino in due punti distinti $X$ e $Y$. Il $Z$ deve essere il punto medio dell'arco di $S_1$ che non contiene l'altra intersezione, e il $W$ deve essere il punto medio dell'arco di $S_2$ che non contiene l'altra intersezione (cioè $Z$ e $W$ sono i punti medio di archi $XY$ su $S_1$ e $S_2$ rispettivamente, sui lati che non contengono $P$). Qui $ZW$ indica la lunghezza del segmento $ZW$. Mostra che il triangolo $PXY$ ha il suo circoncircolo centrato nel punto medio di $ZW$.
-
-[[Quesiti/src_jmo22mq_honsen#q04|src_jmo22mq_honsen__Q04]]
 
 
 
@@ -157,5 +149,3 @@ level: JMO Honsen
 > Movimento del giocatore $B$: ** Spostare il pezzo dalla sua posizione attuale $(x,y)$ a $(x+1,y)$ o $(x,y+1)$, e ripeterlo tra $1$ e $k$ volte totale in turno. Tuttavia, il pezzo non può essere spostato in un punto della griglia che ha già un timbro.
 > 
 > Se $B$ non è in grado di spostare il pezzo (tutti i punti della rete vicini raggiungibili da $B$ sono stampati o $B$ non ha mossa valida), allora $A$ vince. Trova tutti gli enti positivi $k$ per i quali $A$ può garantire una vittoria in un numero finito di giri.
-
-[[Quesiti/src_jmo22mq_honsen#q05|src_jmo22mq_honsen__Q05]]

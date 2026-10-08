@@ -37,8 +37,7 @@ level: kangourou
 
 > The figure shows two equal squares that have exactly one vertex in common. Is it possible to determine the measure of angle $ABC$? (see figure)
 
-**Answer:** 45 gradi
-[[Quesiti/src_kangourou_2015_finale_student#qs1|src_kangourou_2015_finale_student__QS1]]
+**Answer:** 45 degrees
 
 
 
@@ -67,7 +66,6 @@ level: kangourou
 > 2 . You want to draw on one of these sheets a grid of size (n + 1) × n and the one on the shorter side is made up of square cells, no matter what size, but the same for all cells. You want to make sure that each side of the grid is parallel to one edge of the sheet and that the distance of each side of the grid from the edge of the nearest sheet is the same, no matter which, for each of the four sides. What are the possible values of n? S3. (11 points) The currency in use in Khangland is the kang and there are only 1, 2 or 3 kang coins. Obviously, with coins like these, you can make any amount of an integer kang. It shows that for every positive integer N, the different possible ways to realize the sum of N + 1 kang are in the narrowest number.
 
 **Answer:** 1 and 2
-[[Quesiti/src_kangourou_2015_finale_student#qs2|src_kangourou_2015_finale_student__QS2]]
 
 
 
@@ -100,7 +98,6 @@ level: kangourou
 > Note: to obtain, for example, $4$ kang, the way $1+1+2$ must be considered the same as the way $1+2+1$ (but not the way $2+2$).
 
 **Answer:** proof
-[[Quesiti/src_kangourou_2015_finale_student#qs3|src_kangourou_2015_finale_student__QS3]]
 
 
 
@@ -129,7 +126,6 @@ level: kangourou
 > $51$ crows are perched in a row on a branch of a large tree. Each time (and only each time) one of them caws, its neighbor to the right and the one to the left, if they exist, take flight. Every crow that takes flight flies for exactly one minute, then returns to its place immediately letting out a loud caw. This morning the first to caw was the crow at the end of the branch, and then they continued, according to the described rule, for exactly one hour: when the hour was up, all the crows in flight returned to the branch, each letting out one last loud caw. How many caws were made in that hour, from the first to the last instant inclusive?
 
 **Answer:** 931
-[[Quesiti/src_kangourou_2015_finale_student#qs4|src_kangourou_2015_finale_student__QS4]]
 
 
 
@@ -158,7 +154,6 @@ level: kangourou
 > Given a triangle, what is the minimum number of lines parallel to the sides that need to be drawn to divide it into exactly $100$ regions?
 
 **Answer:** 16
-[[Quesiti/src_kangourou_2015_finale_student#qs5|src_kangourou_2015_finale_student__QS5]]
 
 
 
@@ -186,4 +181,3 @@ level: kangourou
 > Three circles in space are pairwise tangent and the three tangent points are all different from each other. Does it necessarily follow that the three circles are either coplanar or lie on the same sphere?
 
 **Answer:** true
-[[Quesiti/src_kangourou_2015_finale_student#qs6|src_kangourou_2015_finale_student__QS6]]

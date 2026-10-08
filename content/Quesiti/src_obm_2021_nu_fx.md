@@ -43,8 +43,6 @@ level: OBM Nível Universitário
 > 
 > b) Ci sono solo finitamente molte matrici della forma di cui sopra con tutti i numeri interi $a, b, c$.
 
-[[Quesiti/src_obm_2021_nu_fx#q01|src_obm_2021_nu_fx__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_insiemi_funzioni,topic_funzionali,method_ricorsione,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
@@ -72,8 +70,6 @@ level: OBM Nível Universitário
 
 > Determinare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ della classe $C^2$ (cioè $f$ è doppio differenziabile con la seconda derivata continua) in modo tale che $$f(t)^2 = f(t\sqrt{2})$$ per ogni reale $t$.
 
-[[Quesiti/src_obm_2021_nu_fx#q02|src_obm_2021_nu_fx__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_casework,method_invarianti,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -98,8 +94,6 @@ level: OBM Nível Universitário
 *Ricerca tutti gli integri positivi k per il quale piano ((α^n) = m2−k per tutti i grandi n*
 
 > Trova tutti i numeri interi positivi $k$ per i quali esiste un numero irrazionale $\alpha > 1$ e un intero positivo $N$ tale che $\lfloor \alpha^n \rfloor$ sia di forma $m^2 - k$ per un certo numero intero $m$, per ogni numero intero $n > N$.
-
-[[Quesiti/src_obm_2021_nu_fx#q03|src_obm_2021_nu_fx__Q03]]
 
 
 
@@ -127,8 +121,6 @@ level: OBM Nível Universitário
 
 > Per ogni intero $n > 1$, $k(n)$ sia il più grande intero positivo $k$ tale che $n = m^k$ per un intero positivo $m$. Determinazione $$\lim_{n \to \infty} \frac{1}{n} \sum_{j=2}^{n} k(j).$$
 
-[[Quesiti/src_obm_2021_nu_fx#q04|src_obm_2021_nu_fx__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
@@ -153,8 +145,6 @@ level: OBM Nível Universitário
 *Caracterizzare tutti i tripli reali che sono valori propri di una matrice non negativa 3×3*
 
 > Determinare tutti i tripli $(\lambda_1, \lambda_2, \lambda_3) \in \mathbb{R}^3$ in modo tale che esista una matrice $3 \times 3$ $A_{3 \times 3}$ con entrate reali non negative i cui valori propri sono $\lambda_1, \lambda_2, \lambda_3$.
-
-[[Quesiti/src_obm_2021_nu_fx#q05|src_obm_2021_nu_fx__Q05]]
 
 
 
@@ -192,5 +182,3 @@ level: OBM Nível Universitário
 > Prova che $(\alpha, \beta)$ è una coppia di bacana se e solo se la concatenamento $\alpha\beta$ è un palindromo.
 > 
 > *Ricordo: * Siamo d'accordo che la parola vuota (con lettere $0$) è un palindromo. Se le parole $u = a_1 a_2 \ldots a_i$ e $v = b_1 b_2 \ldots b_j$ sono indicate, il simbolo $uv$ indica la loro concatenamento $a_1 a_2 \ldots a_i b_1 b_2 \ldots b_j$.
-
-[[Quesiti/src_obm_2021_nu_fx#q06|src_obm_2021_nu_fx__Q06]]

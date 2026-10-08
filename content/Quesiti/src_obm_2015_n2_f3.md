@@ -37,8 +37,6 @@ level: OBM Nível 2
 > 
 > Ad esempio, $1^2 + 1^2 + 3^2 + 3^2 + 7^2 + 10^2 + 5^2 + 12^2$ e $1^2 + 3^2 + 1^2 + 3^2 + 7^2 + 5^2 + 10^2 + 12^2$ sono due ordini diversi di scrivere 169 come somma di quadrati.
 
-[[Quesiti/src_obm_2015_n2_f3#q01|src_obm_2015_n2_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_lettura_attenta,skill_astrazione"></span>
@@ -72,8 +70,6 @@ level: OBM Nível 2
 > 
 > b) Dimostra che il circoncircolo del triangolo $RST$ è tangente al circoncircolo del triangolo $QRB$.
 
-[[Quesiti/src_obm_2015_n2_f3#q02|src_obm_2015_n2_f3__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_geometria_piana,method_induzione,method_ricorsione,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_modellizzazione"></span>
@@ -98,8 +94,6 @@ level: OBM Nível 2
 *Triangolo suddiviso da ceviani da n divisioni uguali; regioni di conteggio*
 
 > Che $ABC$ sia un triangolo e $n$ un intero positivo. Al lato $BC$ si considerano i punti $A_1, A_2, \ldots, A_{2^n - 1}$ che dividono $BC$ in $2^n$ parti uguali, in modo che $BA_1 = A_1A_2 = \cdots = A_{2^n-1}C$. Definire analogamente i punti $B_1, B_2, \ldots, B_{2^n-1}$ sui lati $CA$ e $AB$. Disegnare i segmenti $AA_1, AA_2, \ldots, AA_{2^n-1}$, $BB_1, BB_2, \ldots, BB_{2^n-1}$, $CC_1, CC_2, \ldots, CC_{2^n-1}$. Determinare, in funzione di $n$, in quante regioni la regione delimitata dal triangolo $ABC$ è divisa da questi segmenti.
-
-[[Quesiti/src_obm_2015_n2_f3#q03|src_obm_2015_n2_f3__Q03]]
 
 
 
@@ -142,8 +136,6 @@ level: OBM Nível 2
 
 ![[src_obm_2015_n2_f3__q04.png]]
 
-[[Quesiti/src_obm_2015_n2_f3#q04|src_obm_2015_n2_f3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
@@ -180,8 +172,6 @@ level: OBM Nível 2
 > 
 > b) Determinare i tre numeri interi più piccoli $n$ per i quali $$d_1 - d_2 + d_3 - \cdots + (-1)^{k-1}\,d_k = n - 4.$$
 
-[[Quesiti/src_obm_2015_n2_f3#q05|src_obm_2015_n2_f3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_trigonometria,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -206,5 +196,3 @@ level: OBM Nível 2
 *Triangolo di scalene con bisettori interni; angolo di calcolo BCA*
 
 > Il $ABC$ deve essere un triangolo di scalene con $AD$, $BE$ e $CF$ come bisettori interni, con $D$ su $BC$, $E$ su $AC$ e $F$ su $AB$. È dato che $\angle AFE = \angle ADC$. Calcolare la misura dell'angolo $\angle BCA$.
-
-[[Quesiti/src_obm_2015_n2_f3#q06|src_obm_2015_n2_f3__Q06]]

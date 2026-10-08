@@ -41,8 +41,6 @@ level: BMO Round 2
 
 ![[src_bmo2_1993__q01.png]]
 
-[[Quesiti/src_bmo2_1993#q01|src_bmo2_1993__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -67,8 +65,6 @@ level: BMO Round 2
 *Prova $2^{m-1} \equiv 1 \pmod{m}$ per il tipo Mersenne $m$*
 
 > Let $m = 2^p - 1$, dove $p$ è un numero primo superiore a $3$. Prove che $2^{m-1}$ ha un residuo $1$ diviso per $m$.
-
-[[Quesiti/src_bmo2_1993#q02|src_bmo2_1993__Q02]]
 
 
 
@@ -98,8 +94,6 @@ level: BMO Round 2
 
 > Che $P$ sia un punto interno del triangolo $ABC$ e che $\alpha$, $\beta$, $\gamma$ siano definiti da $$\alpha = \angle BPC - \angle BAC, \quad \beta = \angle CPA - \angle CBA, \quad \gamma = \angle APB - \angle ACB.$$ Provi che $$PA \cdot \sin \alpha = PB \cdot \sin \beta = PC \cdot \sin \gamma.$$
 
-[[Quesiti/src_bmo2_1993#q03|src_bmo2_1993__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_doppio_conteggio,method_conteggio,method_simmetria,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -124,5 +118,3 @@ level: BMO Round 2
 *Medio delle somme di differenze digitali su tutti i numeri $m$ a cifre fisse*
 
 > Indichiamo $Z(m, n)$ l'insieme di tutti gli integri positivi a $m$-cifre (in base $10$) che hanno precisamente $a$, $b$ due, $c$ tre, $\ldots$, $n$ nove (in modo che $a + b + \cdots + n \le m$, con le cifre rimanenti siano zeri). Per ogni $N \in Z(m, n)$, definire $d(N)$ come la somma dei valori assoluti di tutte le differenze in coppia dei numeri consecutivi di $N$. Trova il valore medio di $d(N)$ in quanto $N$ si estende su tutti i possibili elementi di $Z(m, n)$.
-
-[[Quesiti/src_bmo2_1993#q04|src_bmo2_1993__Q04]]

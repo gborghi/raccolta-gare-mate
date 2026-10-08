@@ -33,8 +33,6 @@ level: IMO
 
 > Sia $d$ un qualsiasi intero positivo diverso da $2$, $5$ e $13$. Si dimostri che è possibile trovare due interi distinti $a$ e $b$ nell'insieme $\{2, 5, 13, d\}$ tali che $ab - 1$ non sia un quadrato perfetto.
 
-[[Quesiti/src_imho_1986#q01|src_imho_1986__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_invarianti,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -59,8 +57,6 @@ level: IMO
 *Se una sequenza di rotazioni ritorna alla posizione iniziale, allora il triangolo è equilatero*
 
 > Siano dato un triangolo $A_1 A_2 A_3$ e un punto $P_0$ nel piano. Definiamo $A_s = A_{s-3}$ per ogni $s \ge 4$. Costruiamo un insieme di punti $P_1$, $P_2$, $P_3$, $\ldots$ tali che $P_{k+1}$ sia l'immagine di $P_k$ mediante una rotazione di centro $A_{k+1}$ e angolo $120^\circ$ in senso orario (per ogni $k = 0, 1, 2, \ldots$). Si dimostri che se $P_{1986} = P_0$, allora il triangolo $A_1 A_2 A_3$ è equilatero.
-
-[[Quesiti/src_imho_1986#q02|src_imho_1986__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: IMO
 
 > A ciascun vertice di un pentagono regolare viene assegnato un numero intero in modo che la somma dei cinque numeri sia positiva. Se tre vertici consecutivi sono etichettati rispettivamente con i numeri $x$, $y$, $z$ e se il numero assegnato al quarto vertice consecutivo è $y < 0$, allora è consentita l’operazione seguente: i numeri $x$, $y$, $z$ vengono sostituiti rispettivamente con $x + y$, $-y$, $z + y$. Tale operazione viene ripetuta finché almeno uno dei cinque numeri è negativo. Si dimostri che questa procedura termina necessariamente dopo un numero finito di passi.
 
-[[Quesiti/src_imho_1986#q03|src_imho_1986__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione"></span>
@@ -113,8 +107,6 @@ level: IMO
 *Luogo del vertice X del triangolo che scivola intorno a un n-agono regolare*
 
 > Siano $A$ e $B$ vertici consecutivi di un poligono regolare di $n$ lati ($n \ge 5$) nel piano, con centro in $O$. Un triangolo $XYZ$, congruente a e inizialmente sovrapposto a $OAB$, si muove nel piano in modo tale che i vertici $Y$ e $Z$ descrivano l'intero perimetro del poligono, mentre $X$ rimane sempre all'interno del poligono. Si determini il luogo descritto dal punto $X$.
-
-[[Quesiti/src_imho_1986#q04|src_imho_1986__Q04]]
 
 
 
@@ -151,8 +143,6 @@ level: IMO
 > \item[(iii)] $f(x) \ne 0$ per $0 \le x < 2$.
 > \end{itemize}
 
-[[Quesiti/src_imho_1986#q05|src_imho_1986__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_bigezione,method_grafi,method_colorazione,skill_astrazione,skill_modellizzazione,skill_ragionamento_geometrico"></span>
@@ -177,5 +167,3 @@ level: IMO
 *Colorare i punti a coordinate intere in modo che le rette parallele agli assi differiscano al più di 1*
 
 > Si consideri un insieme finito di punti nel piano, ciascuno con coordinate intere. Si dimostri che è sempre possibile colorare alcuni dei punti dell'insieme di rosso e gli altri di bianco in modo tale che, per ogni retta $L$ parallela a uno degli assi coordinati, la differenza (in valore assoluto) tra il numero di punti bianchi e quello di punti rossi appartenenti a $L$ non sia maggiore di $1$.
-
-[[Quesiti/src_imho_1986#q06|src_imho_1986__Q06]]

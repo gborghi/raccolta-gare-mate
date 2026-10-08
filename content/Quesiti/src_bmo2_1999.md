@@ -41,8 +41,6 @@ level: BMO Round 2
 > 
 > (ii) Per quali valori di $n$ è possibile esprimere $S_n$ come l'unione di tre sottoinsiemi non vuoti dissociati in modo che gli elementi dei tre sottoinsiemi abbiano somme uguali?
 
-[[Quesiti/src_bmo2_1999#q01|src_bmo2_1999__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -67,8 +65,6 @@ level: BMO Round 2
 *Essagono circostato intorno al cerchio; linee simultanee attraverso vertici opposti*
 
 > Il $ABCDEF$ deve essere un esagono (che potrebbe non essere regolare), che circonscrive un cerchio $S$. Il cerchio $S$ tocca rispettivamente $AB$, $CD$, $EF$ ai loro punti di mezzo $P$, $Q$, $R$. Che $X$, $Y$, $Z$ siano rispettivamente i punti di contatto di $S$ con $BC$, $DE$ e $FA$. Prove che $PY$, $QZ$, $RX$ sono simultanei.
-
-[[Quesiti/src_bmo2_1999#q02|src_bmo2_1999__Q02]]
 
 
 
@@ -95,8 +91,6 @@ level: BMO Round 2
 *P,q,r non negativi che soddisfano p+q+r=1 implicano disuguaglianza*
 
 > I valori reali non negativi $p$, $q$ e $r$ soddisfano $p + q + r = 1$. Provare che $$7(pq + qr + rp) \le 2 + 9pqr.$$
-
-[[Quesiti/src_bmo2_1999#q03|src_bmo2_1999__Q03]]
 
 
 
@@ -130,5 +124,3 @@ level: BMO Round 2
 > (i) Quanto può essere piccola la somma delle cifre (in base 10) di un tale numero?
 > 
 > (ii) Un tale numero può avere la somma delle sue cifre (in base 10) pari al 1999?
-
-[[Quesiti/src_bmo2_1999#q04|src_bmo2_1999__Q04]]

@@ -45,8 +45,6 @@ level: BMO Round 2
 > 
 > Trova tutti $k$ in modo che ci siano infinitamente molti $k$-numeri.
 
-[[Quesiti/src_bmo_2021-22_round2#q01|src_bmo_2021-22_round2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_funzionali,topic_algebra,method_casework,method_backward,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
@@ -73,8 +71,6 @@ level: BMO Round 2
 
 > Trova tutte le funzioni $f$ dai numeri interi positivi ai numeri interi positivi in modo che per tutti $x, y$ abbiamo: $$2y\, f(f(y) + x) = f(x+1)\, f(2y).$$
 
-[[Quesiti/src_bmo_2021-22_round2#q02|src_bmo_2021-22_round2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_invarianti,method_doppio_conteggio,method_casework,skill_astrazione,skill_modellizzazione,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -99,8 +95,6 @@ level: BMO Round 2
 *Le caselle di visualizzazione possono essere suddivise in due pile regolari non vuote*
 
 > Le carte provenienti da mazzi di carte identiche $s$ vengono messe in scatole. Ogni mazzo contiene 50 schede, etichettate da $1$ a $50$. Ogni scatola può contenere al massimo carte $2022$. Una pila di scatole è chiamata *regular* se quella pila contiene uguali numeri di carte con ogni etichetta. Mostrare che esiste un certo $N$ in modo che se $n \ge N$, le scatole possano essere suddivise in due pile regolari non vuote.
-
-[[Quesiti/src_bmo_2021-22_round2#q03|src_bmo_2021-22_round2__Q03]]
 
 
 
@@ -134,5 +128,3 @@ level: BMO Round 2
 > (Un *arco minore * di un cerchio è il più breve dei due archi con dati punti di fine.)
 > 
 > Prova che $Q$ si trova su $BC$ e prova che la riga $AT$ passa attraverso $Q$.
-
-[[Quesiti/src_bmo_2021-22_round2#q04|src_bmo_2021-22_round2__Q04]]

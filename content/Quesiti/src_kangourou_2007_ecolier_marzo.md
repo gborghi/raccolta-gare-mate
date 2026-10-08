@@ -44,7 +44,6 @@ level: kangourou
 > Look at the figure. Zoe follows one of the paths from home to school and never returns. When she passes over a number, she notes it. Which triples of numbers, among those proposed, could she have noted when she arrived at school? A) 1, 2 and 4 B) 2, 3 and 4 C) 2, 3 and 5 D) 1, 5 and 6 E) 1, 2 and 5
 
 **Answer:** C
-[[Quesiti/src_kangourou_2007_ecolier_marzo#q01|src_kangourou_2007_ecolier_marzo__Q01]]
 
 
 
@@ -77,7 +76,6 @@ Common letters to KANGOUROU and PROBLEMA
 > How many letters do the words KANGOUROU and PROBLEMA have in common? A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** C
-[[Quesiti/src_kangourou_2007_ecolier_marzo#q02|src_kangourou_2007_ecolier_marzo__Q02]]
 
 
 
@@ -109,7 +107,6 @@ Common letters to KANGOUROU and PROBLEMA
 > I weighed my bike. Which of the following results may I have found? A) 8 kg B) 1 kg C) 800 g D) 80 kg        E) 800 kg
 
 **Answer:** A
-[[Quesiti/src_kangourou_2007_ecolier_marzo#q03|src_kangourou_2007_ecolier_marzo__Q03]]
 
 
 
@@ -142,7 +139,6 @@ Common letters to KANGOUROU and PROBLEMA
 > From a rectangle constructed with a square sheet of paper I cut out the figure shown beside it. One of the following figures remained: which one?
 
 **Answer:** B
-[[Quesiti/src_kangourou_2007_ecolier_marzo#q04|src_kangourou_2007_ecolier_marzo__Q04]]
 
 
 
@@ -194,7 +190,6 @@ Common letters to KANGOUROU and PROBLEMA
 > In six and a half hours it will be exactly four in the morning. What time is it? A) 21: 30 B) 04: 00 C) 20: 00 D) 02: 30 E) 10: 30 1 2 3 4 5 6 school house A) B) C) D) E) Text_07.qxp 16-04-2007 12:02 Page 5
 
 **Answer:** A
-[[Quesiti/src_kangourou_2007_ecolier_marzo#q05|src_kangourou_2007_ecolier_marzo__Q05]]
 
 
 
@@ -228,7 +223,6 @@ Common letters to KANGOUROU and PROBLEMA
 > You only have the digits 0 and 7. How many different three-digit numbers can you write? A) 8 B) 3 C) 7 D) 6 E) 4
 
 **Answer:** E
-[[Quesiti/src_kangourou_2007_ecolier_marzo#q06|src_kangourou_2007_ecolier_marzo__Q06]]
 
 
 
@@ -261,7 +255,6 @@ Common letters to KANGOUROU and PROBLEMA
 > What number must be inserted into the gray cloud for the calculation to be correct?
 
 **Answer:** E
-[[Quesiti/src_kangourou_2007_ecolier_marzo#q07|src_kangourou_2007_ecolier_marzo__Q07]]
 
 
 
@@ -298,7 +291,6 @@ How to exchange gifts (3 friends)
 > For Christmas, three friends intend to exchange gifts in this way: each makes only one gift (not to herself, of course) and receives one. How many ways can the project be implemented? A) 1 B) 2 C) 3 D) 4 E) 5 Questions from N. 9 to N. 16 are worth 4 points each.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2007_ecolier_marzo#q08|src_kangourou_2007_ecolier_marzo__Q08]]
 
 
 
@@ -345,7 +337,6 @@ How to exchange gifts (3 friends)
 > E) yellow
 
 **Answer:** A
-[[Quesiti/src_kangourou_2007_ecolier_marzo#q09|src_kangourou_2007_ecolier_marzo__Q09]]
 
 
 
@@ -385,7 +376,6 @@ How to exchange gifts (3 friends)
 > E) December 30, 2000
 
 **Answer:** C
-[[Quesiti/src_kangourou_2007_ecolier_marzo#q10|src_kangourou_2007_ecolier_marzo__Q10]]
 
 
 
@@ -484,7 +474,6 @@ How to exchange gifts (3 friends)
 > Kang 2007
 
 **Answer:** D
-[[Quesiti/src_kangourou_2007_ecolier_marzo#q11|src_kangourou_2007_ecolier_marzo__Q11]]
 
 
 
@@ -525,7 +514,6 @@ How to exchange gifts (3 friends)
 > The carpenter's laboratory has two machines A and B, the operation of which is shown in the figure. What is the correct sequence in the use of machines to obtain ? (a) BBA B) ABB C) BAB D) BA E) BABBB
 
 **Answer:** B
-[[Quesiti/src_kangourou_2007_ecolier_marzo#q12|src_kangourou_2007_ecolier_marzo__Q12]]
 
 
 
@@ -561,7 +549,6 @@ How many seats can Arrigo sit in?
 > Fifteen boys are sitting in a circle. Each one wears a hat: the first is red, the second white, the third blue, the fourth red again, the fifth white, the sixth blue, and so on. Arrigo, who wears an orange hat, wants to enter the circle so that he has a red hat nearby, but not a blue hat. How many seats can he sit in? A) 4 B) 5 C) 10 D) 15 E) 1
 
 **Answer:** B
-[[Quesiti/src_kangourou_2007_ecolier_marzo#q13|src_kangourou_2007_ecolier_marzo__Q13]]
 
 
 
@@ -596,7 +583,6 @@ How many seats can Arrigo sit in?
 > Anna, Bianca, Cecilia, and Diana each practice one of the following sports: karate, soccer, volleyball, and judo. Anna does not practice sports that use a ball, Bianca, the judoka, often goes to the stadium to attend football matches. Which of the following statements can be true? A) Anna plays volleyball B) Bianca plays soccer C) Cecilia plays volleyball D) Diana plays karate E) Anna plays judo
 
 **Answer:** C
-[[Quesiti/src_kangourou_2007_ecolier_marzo#q14|src_kangourou_2007_ecolier_marzo__Q14]]
 
 
 
@@ -640,7 +626,6 @@ How many seats can Arrigo sit in?
 > E) 22
 
 **Answer:** B
-[[Quesiti/src_kangourou_2007_ecolier_marzo#q15|src_kangourou_2007_ecolier_marzo__Q15]]
 
 
 
@@ -706,8 +691,6 @@ How many seats can Arrigo sit in?
 
 **Answer:** C
 
-[[Quesiti/src_kangourou_2007_ecolier_marzo#q16|src_kangourou_2007_ecolier_marzo__Q16]]
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,method_conteggio,skill_conteggio_sistematico"></span>
@@ -741,7 +724,6 @@ How many seats can Arrigo sit in?
 > Imagine you're writing one after another all the numbers from 1 to 100 inclusive: how many digits have you written? A) 100 B) 150 C) 190 D) 192 E) 200
 
 **Answer:** D
-[[Quesiti/src_kangourou_2007_ecolier_marzo#q17|src_kangourou_2007_ecolier_marzo__Q17]]
 
 
 
@@ -777,7 +759,6 @@ How many seats can Arrigo sit in?
 > Chiara and Donatella have an appointment at 7:05. When she arrives, Donatella thinks she's 15 minutes early, but her watch is 7 minutes behind; Chiara thinks she's 10 minutes late, but her watch is 7 minutes ahead. Which of the two friends has to wait for the other and for how long? A) Donatella waits for 5 minutes B) Donatella waits for 14 minutes C) Donatella waits for 11 minutes D) Chiara waits for Donatella for 5 minutes E) Chiara waits for Donatella for 11 minutes
 
 **Answer:** C
-[[Quesiti/src_kangourou_2007_ecolier_marzo#q18|src_kangourou_2007_ecolier_marzo__Q18]]
 
 
 
@@ -813,7 +794,6 @@ How many seats can Arrigo sit in?
 > A die is a cube whose faces are numbered from 1 to 6. The sum of the numbers on two opposite faces is always 7. Seven dice are stacked as shown in the figure. Imagine that you can observe the piles from every angle. What is the sum of the points that are still invisible, hidden between the dice or under the piles? A) 49 B) 47 C) 46 D) 42 E) 35
 
 **Answer:** C
-[[Quesiti/src_kangourou_2007_ecolier_marzo#q19|src_kangourou_2007_ecolier_marzo__Q19]]
 
 
 
@@ -875,8 +855,6 @@ How many seats can Arrigo sit in?
 
 **Answer:** E
 
-[[Quesiti/src_kangourou_2007_ecolier_marzo#q20|src_kangourou_2007_ecolier_marzo__Q20]]
-
 
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_combinatoria,method_ricorsione,skill_riconoscimento_pattern"></span>
@@ -911,7 +889,6 @@ How many seats can Arrigo sit in?
 > The figure shows a sequence of three "squared" squares with some blackened cells. How many white cells will the next square have if we build it on the same principle? A) 50 B) 60 C) 65 D) 70 E) 75
 
 **Answer:** C
-[[Quesiti/src_kangourou_2007_ecolier_marzo#q21|src_kangourou_2007_ecolier_marzo__Q21]]
 
 
 
@@ -949,7 +926,6 @@ How many seats can Arrigo sit in?
 > E) 20075
 
 **Answer:** A
-[[Quesiti/src_kangourou_2007_ecolier_marzo#q22|src_kangourou_2007_ecolier_marzo__Q22]]
 
 
 
@@ -984,7 +960,6 @@ How many seats can Arrigo sit in?
 > Anna has a large number of square cards like the one next to her. Placing four of these cards appropriately can build a closed circuit (in white in the second figure). Anna wants to build a larger circuit: what is the minimum number of cards that allows her to implement her project? A) 8 B) 10 C) 9 D) 16 E) 12
 
 **Answer:** E
-[[Quesiti/src_kangourou_2007_ecolier_marzo#q23|src_kangourou_2007_ecolier_marzo__Q23]]
 
 
 
@@ -1034,4 +1009,3 @@ How many seats can Arrigo sit in?
 > 1 Kangourou of Mathematics 2007 Category Écolier For fourth or fifth graders of primary school
 
 **Answer:** B
-[[Quesiti/src_kangourou_2007_ecolier_marzo#q24|src_kangourou_2007_ecolier_marzo__Q24]]

@@ -35,7 +35,6 @@ level: kangourou
 > Gianni and Elvira play like this. There are 66 tokens on the table, each of which can take 1 or 2 or 3 or 4 or 5 tokens at each turn. Whoever is forced to take the last token loses. Elvira, who wants to win, wants to be the one to start at all costs. Why?
 
 **Answer:** 35
-[[Quesiti/src_kangourou_2019_junior_finale#qj1|src_kangourou_2019_junior_finale__QJ1]]
 
 
 
@@ -64,7 +63,6 @@ level: kangourou
 > Every vertex of a square has a positive integer written on it. If two vertices are adjacent, one of the two corresponding integers divides the other; if two vertices are opposite, neither of the two corresponding integers divides the other. What's the smallest possible value for the sum of these four integers?
 
 **Answer:** 35
-[[Quesiti/src_kangourou_2019_junior_finale#qj2|src_kangourou_2019_junior_finale__QJ2]]
 
 
 
@@ -89,8 +87,6 @@ level: kangourou
 *Bruno and Carlo can have a day of rest together (sports programmes)*
 
 > Bruno and Carlo practice three sports: football, volleyball, and swimming, no more than one a day. A day of football must be followed by two days of rest, a day of volleyball by one day of rest, a day of swimming does not require days of rest and may replace a day of rest. Each person has a training programme that is repeated periodically: in each period each person practices each sport the same number of times and the minimum interval of time between two consecutive times in which one of them practices the same sport is the same for all sports. The programme also requires that rest days be reduced to the minimum possible. Bruno and Carlo each started their own program on the same day. They're doing different sports today and they'd like to go out and have fun on the first day of rest for both of them. Can they be sure that they will succeed in their endeavor?
-
-[[Quesiti/src_kangourou_2019_junior_finale#qj3|src_kangourou_2019_junior_finale__QJ3]]
 
 
 
@@ -119,7 +115,6 @@ level: kangourou
 > 4) year N + 3: in the following 4 years days are added according to the scheme: 1+1+2+1. After the first 20 years necessary to add 25 days, it takes another 3 years in the first case and only another 2 in the second and third cases to add a lunar month; instead, in the fourth case, 22 years add only 27 days and 23 add 29: to add 28+28=56=55+1 days, just pass 44 + 1 = 45 years. However, if the day in question is between 1/1 and 28/2, the patterns are the same but shifted (2→1, 3→2, 4→3, 1→4). You never get to 2100 anyway. (**) More generally, it can be noted that the longest minimum time interval after which a certain lunar phase occurs on 29 February is always no longer than 248 years. Since the minimum period with which it recurs
 
 **Answer:** 248
-[[Quesiti/src_kangourou_2019_junior_finale#qj4|src_kangourou_2019_junior_finale__QJ4]]
 
 
 
@@ -148,7 +143,6 @@ level: kangourou
 > For which non-negative integers $n$, the number $5^{5n+1} + 4^{5n+2} + 3^{5n}$ is divisible by 11?
 
 **Answer:** all
-[[Quesiti/src_kangourou_2019_junior_finale#qj5|src_kangourou_2019_junior_finale__QJ5]]
 
 
 
@@ -178,5 +172,3 @@ level: kangourou
 ![[src_kangourou_2019_junior_finale__probj6.png]]
 
 > $ABC$ is an acute triangle with orthocenter $H$, with side $AB$ longer than side $AC$; denote by $E$ the point symmetric to $C$ with respect to the altitude drawn from $A$ and by $F$ the intersection of the line passing through $E$ and $H$ with the line passing through $A$ and $C$. Prove that the circumcenter of triangle $AEF$ lies on the ray starting from $A$ and passing through $B$.
-
-[[Quesiti/src_kangourou_2019_junior_finale#qj6|src_kangourou_2019_junior_finale__QJ6]]

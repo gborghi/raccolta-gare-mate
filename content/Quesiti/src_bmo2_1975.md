@@ -52,8 +52,6 @@ level: BMO Round 2
 > 
 > b) dimostrare che se $f$ è differenziabile ovunque, e trovare il $f$ più generale in questo caso.
 
-[[Quesiti/src_bmo2_1975#q01|src_bmo2_1975__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_induzione,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -81,8 +79,6 @@ level: BMO Round 2
 
 > Prova che ogni intero positivo che non è membro del set infinito $$3,\,-2,\,2^2 \cdot 3,\,-2^3,\,\ldots,\,2^{2k} \cdot 3,\,-2^{2k+1},\,\ldots$$ è uguale alla somma di due o più membri del set.
 
-[[Quesiti/src_bmo2_1975#q02|src_bmo2_1975__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_probabilita,topic_combinatoria,method_conteggio,method_induzione,method_simmetria,skill_modellizzazione,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -107,8 +103,6 @@ level: BMO Round 2
 La sala di probabilità A si riempie di n concorrenti prima della sala B
 
 > Ci sono paesi che partecipano a un concorso internazionale di matematica, con due concorrenti di ciascun paese. Il concorso si svolge in due sale, $A$ e $B$. All'inizio del concorso i concorrenti $2n$ formano una coda, in qualsiasi ordine. Il concorrente in testa alla coda va per primo alla porta della stanza $A$. Ogni concorrente successivo va prima alla porta della stanza $A$. Se il suo compatriota non è già nella stanza, entra; altrimenti entra nell'altra stanza. Se tutti gli ordini di coda sono ugualmente probabili, determinare con prova la probabilità che la stanza $A$ sia riempita di concorrenti $n$ prima della stanza $B$.
-
-[[Quesiti/src_bmo2_1975#q03|src_bmo2_1975__Q03]]
 
 
 
@@ -142,5 +136,3 @@ La sala di probabilità A si riempie di n concorrenti prima della sala B
 > Prova che una tale configurazione di 12 cerchi esiste sulla superficie di una sfera con tutti i 12 cerchi con uguali raggi.
 
 ![[src_bmo2_1975__q04.png]]
-
-[[Quesiti/src_bmo2_1975#q04|src_bmo2_1975__Q04]]

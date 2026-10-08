@@ -35,8 +35,6 @@ level: BMO Round 2
 
 > Il primo termine $x_1$ di una sequenza è $2014$. Ogni termine successivo della sequenza è definito in termini di termine precedente. La formula iterativa è $$x_{n+1} = \frac{(\sqrt{2}+1)x_n - 1}{(\sqrt{2}+1) + x_n}.$$ Trova il $2015$th termine $x_{2015}$.
 
-[[Quesiti/src_bmo_2014-15_round2#q01|src_bmo_2014-15_round2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_doppio_conteggio,method_induzione,method_invarianti,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_lettura_attenta,skill_modellizzazione"></span>
@@ -70,8 +68,6 @@ level: BMO Round 2
 > 
 > b) Esistono un numero strano di classi che contengono più ragazzi che ragazze.
 
-[[Quesiti/src_bmo_2014-15_round2#q02|src_bmo_2014-15_round2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -100,8 +96,6 @@ level: BMO Round 2
 > Due cerchi si toccano internamente a $A$. Un accordo variabile $PQ$ del cerchio esterno tocca il cerchio interno. Prove che il locus dell'incentro del triangolo $AQP$ è un altro cerchio che tocca i circoli dati a $A$.
 > 
 > L'incentro di un triangolo è il centro del cerchio unico che si trova all'interno del triangolo e tocca tutti e tre i lati. Un locus è la raccolta di tutti i punti che soddisfano una determinata condizione.
-
-[[Quesiti/src_bmo_2014-15_round2#q03|src_bmo_2014-15_round2__Q03]]
 
 
 
@@ -143,5 +137,3 @@ level: BMO Round 2
 > c) Non tre dei punti si trovano sulla stessa linea retta.
 > 
 > Esiste un ciclo $100$?
-
-[[Quesiti/src_bmo_2014-15_round2#q04|src_bmo_2014-15_round2__Q04]]

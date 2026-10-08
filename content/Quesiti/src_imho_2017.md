@@ -37,8 +37,6 @@ level: IMO
 > $$a_{n+1} = \begin{cases} \sqrt{a_n} & \text{if } \sqrt{a_n} \text{ is an integer,} \\ a_n + 3 & \text{otherwise,} \end{cases} \quad \text{for each } n \ge 0.$$
 > Determinare tutti i valori di $a_0$ per cui esiste un numero $A$ tale che $a_n = A$ per infiniti valori di $n$.
 
-[[Quesiti/src_imho_2017#q01|src_imho_2017__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_funzionali,topic_algebra,method_casework,method_simmetria,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
@@ -65,8 +63,6 @@ level: IMO
 
 > Sia $\mathbb{R}$ l'insieme dei numeri reali. Determinare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ tali che, per tutti i numeri reali $x$ e $y$,
 > $$f(f(x)f(y)) = f(x + y).$$
-
-[[Quesiti/src_imho_2017#q02|src_imho_2017__Q02]]
 
 
 
@@ -109,8 +105,6 @@ level: IMO
 > 
 > È sempre possibile, indipendentemente da come si muova il coniglio e dai punti segnalati dal dispositivo di tracciamento, che la cacciatrice scelga le proprie mosse in modo tale che dopo $10^9$ round possa garantire che la distanza tra lei e il coniglio sia al massimo $100$?
 
-[[Quesiti/src_imho_2017#q03|src_imho_2017__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -135,8 +129,6 @@ level: IMO
 *Geometria della circonferenza con retta tangente, punto medio e intersezione con la circonferenza circoscritta*
 
 > Siano $R$ e $S$ due punti distinti su una circonferenza $\Omega$ tali che $RS$ non sia un diametro. Sia $\ell$ la retta tangente a $\Omega$ nel punto $R$. Sia il punto $T$ tale che $S$ sia il punto medio del segmento $RT$. Sia il punto $J$ situato sull'arco minore $RS$ della circonferenza $\Omega$ in modo che la circonferenza circoscritta $\Gamma$ al triangolo $JST$ intersechi $\ell$ in due punti distinti. Sia $A$ il punto comune tra $\Gamma$ e $\ell$ che si trova più vicino a $R$. La retta $AJ$ incontra nuovamente $\Omega$ nel punto $K$. Si dimostri che la retta $KT$ è tangente a $\Gamma$.
-
-[[Quesiti/src_imho_2017#q04|src_imho_2017__Q04]]
 
 
 
@@ -183,8 +175,6 @@ level: IMO
 > 
 > Si dimostri che ciò è sempre possibile.
 
-[[Quesiti/src_imho_2017#q05|src_imho_2017__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
@@ -211,5 +201,3 @@ level: IMO
 
 > Una coppia ordinata $(x, y)$ di interi si dice punto primitivo se il massimo comun divisore tra $x$ e $y$ è uguale a $1$. Dato un insieme finito $S$ di punti primitivi, si dimostri che esistono un intero positivo $n$ e degli interi $a_0, a_1, \ldots, a_n$ tali che, per ogni $(x, y)$ appartenente a $S$, vale la seguente condizione:
 > $$a_0 x^n + a_1 x^{n-1} y + a_2 x^{n-2} y^2 + \cdots + a_{n-1} x y^{n-1} + a_n y^n = 1.$$
-
-[[Quesiti/src_imho_2017#q06|src_imho_2017__Q06]]

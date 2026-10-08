@@ -35,7 +35,6 @@ level: PRMO
 > Qual è il più piccolo intero positivo $k$ tale che $k(3^3 + 4^3 + 5^3) = a^n$ per alcuni interi positivi $a$ e $n$, con $n > 1$?
 
 **Risposta:** 1
-[[Quesiti/src_prmo_2013#q01|src_prmo_2013__Q01]]
 
 
 
@@ -61,8 +60,6 @@ level: PRMO
 *Valore della somma di 1/(S_n+S_{n-1}) per n=1 a 99*
 
 > Let $S_n = \sum_{k=0}^{n} \frac{1}{\sqrt{k+1} + \sqrt{k}}$. Qual è il valore di $\sum_{n=1}^{99} \frac{1}{S_n + S_{n-1}}$?
-
-[[Quesiti/src_prmo_2013#q02|src_prmo_2013__Q02]]
 
 
 
@@ -91,7 +88,6 @@ level: PRMO
 > È dato che l'equazione $x^2 + ax + 20 = 0$ ha radici interi. Qual è la somma di tutti i valori possibili di $a$?
 
 **Risposta:** 0
-[[Quesiti/src_prmo_2013#q03|src_prmo_2013__Q03]]
 
 
 
@@ -120,7 +116,6 @@ level: PRMO
 > Tre punti $X$, $Y$, $Z$ sono su una linea retta tale che $XY = 10$ e $XZ = 3$. Qual è il prodotto di tutti i possibili valori di $YZ$?
 
 **Risposta:** 91
-[[Quesiti/src_prmo_2013#q04|src_prmo_2013__Q04]]
 
 
 
@@ -149,7 +144,6 @@ level: PRMO
 > Ci sono sfere rosse $n - 1$, sfere verdi $n$ e sfere blu $n + 1$ in una borsa. Il numero di modi per scegliere due palle dalla borsa che hanno colori diversi è di 299. Qual è il valore di $n$?
 
 **Risposta:** 10
-[[Quesiti/src_prmo_2013#q05|src_prmo_2013__Q05]]
 
 
 
@@ -175,8 +169,6 @@ level: PRMO
 *Ricerca S(5N+2013) dove N è il numero intero positivo più piccolo con somma digitale 2013*
 
 > $S(M)$ indichi la somma delle cifre di un intero positivo $M$ scritto nella base 10. $N$ sia il numero intero positivo più piccolo tale che $S(N) = 2013$. Qual è il valore di $S(5N + 2013)$?
-
-[[Quesiti/src_prmo_2013#q06|src_prmo_2013__Q06]]
 
 
 
@@ -205,7 +197,6 @@ level: PRMO
 > Accettiamo insieme Akbar e Birbal di $n$ marmi, dove $n > 0$. Akbar dice a Birbal: "Se ti do un po' di marmi, allora avrai il doppio dei miei". Birbal dice a Akbar: "Se ti do un po' di marmi, allora avrai tre volte più di me". Qual è il valore minimo possibile di $n$ per il quale le affermazioni sopra indicate sono entrambe vere?
 
 **Risposta:** 9
-[[Quesiti/src_prmo_2013#q07|src_prmo_2013__Q07]]
 
 
 
@@ -233,7 +224,6 @@ level: PRMO
 > I lati $AB$ e $BC$ siano paralleli di un trapezio $ABCD$. I punti medi $P$ e $Q$ siano i punti medi dei diagonali $AC$ e $BD$. Se $AD = 16$ e $BC = 20$, qual è la lunghezza di $PQ$?
 
 **Risposta:** 2
-[[Quesiti/src_prmo_2013#q08|src_prmo_2013__Q08]]
 
 
 
@@ -258,8 +248,6 @@ level: PRMO
 *Angolo BOC quando B,H,I,C sono conciclici nel triangolo ABC*
 
 > In un triangolo $ABC$, $H$, $I$ e $O$ siano rispettivamente l'ortocentro, l'incentro e il circoncentro. Se i punti $B$, $H$, $I$, $C$ si trovano su un cerchio, qual è la magnitudine di $\angle BOC$ in gradi?
-
-[[Quesiti/src_prmo_2013#q09|src_prmo_2013__Q09]]
 
 
 
@@ -286,8 +274,6 @@ level: PRMO
 
 > Carol ricevette tre numeri e gli fu chiesto di aggiungere il più grande dei tre al prodotto degli altri due. Invece, moltiplicò la più grande con la somma delle altre due, ma ottenne comunque la risposta giusta. Qual è la somma dei tre numeri?
 
-[[Quesiti/src_prmo_2013#q10|src_prmo_2013__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -313,8 +299,6 @@ Valore di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
 
 > Tre numeri reali $x$, $y$, $z$ sono tali che $x^2 + 6y = -17$, $y^2 + 4z = 1$ e $z^2 + 2x = 2$. Qual è il valore di $x^2 + y^2 + z^2$?
 
-[[Quesiti/src_prmo_2013#q11|src_prmo_2013__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -338,8 +322,6 @@ Valore di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
 *Lunghezza del PC in triangolo equilaterale con PQRS rettangolo inciso*
 
 > Lasciate che $ABC$ sia un triangolo equilaterale. Che $P$ e $S$ siano punti su $AB$ e $AC$, rispettivamente, e che $Q$ e $R$ siano punti su $BC$ in modo tale che $PQRS$ sia un rettangolo. Se $PQ = \sqrt{3}\,PS$ e la superficie di $PQRS$ sono $28\sqrt{3}$, quale è la lunghezza di $PC$?
-
-[[Quesiti/src_prmo_2013#q12|src_prmo_2013__Q12]]
 
 
 
@@ -368,7 +350,6 @@ Valore di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
 > Ogni elemento del set $S = \{1, 2, \ldots, 1000\}$ è assegnato un colore. Supponiamo che per qualsiasi due elementi $a$, $b$ di $S$, se $15$ divide $a + b$ allora entrambi ricevono lo stesso colore. Qual è il numero massimo di colori distinti utilizzati?
 
 **Risposta:** 3
-[[Quesiti/src_prmo_2013#q13|src_prmo_2013__Q13]]
 
 
 
@@ -395,8 +376,6 @@ Valore di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
 
 > Che $m$ sia il più piccolo numero intero parziale per il quale $1 + 2 + \cdots + m$ è il quadrato di un intero e che $n$ sia il più piccolo numero intero pari per il quale $1 + 2 + \cdots + n$ è il quadrato di un intero. Qual è il valore di $m + n$?
 
-[[Quesiti/src_prmo_2013#q14|src_prmo_2013__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -421,8 +400,6 @@ Valore di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
 *L'area di ABCD data A2B2C2D2 (punti di centro dei punti di centro) è un rettangolo 4x6*
 
 > I punti $A_1$, $B_1$, $C_1$, $D_1$ siano i punti medi dei lati di un quadrilaterale converso $ABCD$ e $A_2$, $B_2$, $C_2$, $D_2$ siano i punti medi dei lati del quadrilaterale $A_1 B_1 C_1 D_1$. Se $A_2 B_2 C_2 D_2$ è un rettangolo con lati 4 e 6, qual è la superficie di $ABCD$?
-
-[[Quesiti/src_prmo_2013#q15|src_prmo_2013__Q15]]
 
 
 
@@ -449,8 +426,6 @@ Valore di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
 
 > $f(x) = x^2 - 3x + b$ e $g(x) = x^2 + bx - 3$, dove $b$ è un numero reale. Qual è la somma di tutti i valori possibili di $b$ per i quali le equazioni $f(x) = 0$ e $g(x) = 0$ hanno una radice comune?
 
-[[Quesiti/src_prmo_2013#q16|src_prmo_2013__Q16]]
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -474,8 +449,6 @@ Valore di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
 *Radius del cerchio S1 data configurazione del cerchio con angolo YXO=30 e raggio S2=100*
 
 > Il $S$ deve essere un cerchio con il centro $O$. Un accordo $AB$, non di diametro, divide $S$ in due regioni $R_1$ e $R_2$ in modo tale che $O$ appartiene a $R_2$. Il $S_1$ deve essere un cerchio con centro in $R_1$, toccando $AB$ a $X$ e $S$ internamente. Il $S_2$ deve essere un cerchio con centro in $R_2$, che tocchi $AB$ a $Y$, il cerchio $S$ internamente e attraversa il centro di $S$. Il punto $X$ si trova sul diametro che attraversa il centro di $S_2$ e $Y$. Se $\angle YXO = 30^\circ$ e il raggio di $S_2$ è di 100, qual è il raggio di $S_1$?
-
-[[Quesiti/src_prmo_2013#q17|src_prmo_2013__Q17]]
 
 
 
@@ -504,7 +477,6 @@ Valore di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
 > Qual è il valore massimo possibile di $k$ tale che il 2013 possa essere scritto come somma di $k$ numeri interi positivi consecutivi?
 
 **Risposta:** 61
-[[Quesiti/src_prmo_2013#q18|src_prmo_2013__Q18]]
 
 
 
@@ -531,8 +503,6 @@ Valore di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
 
 > In un triangolo $ABC$ con $\angle BCA = 90^\circ$, il bisettore perpendicolare di $AB$ interseca i segmenti $AB$ e $AC$ rispettivamente a $X$ e $Y$. Se il rapporto tra la superficie quadrilaterale $BXYC$ e la superficie del triangolo $ABC$ è $13 : 18$ e $BC = 12$, qual è la lunghezza di $AC$?
 
-[[Quesiti/src_prmo_2013#q19|src_prmo_2013__Q19]]
-
 
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_simmetria,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
@@ -557,5 +527,3 @@ Valore di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
 *Summa di numeri naturali inferiori a 64 con esattamente tre 1s nella base 2*
 
 > Qual è la somma (in base 10) di tutti i numeri naturali inferiori a 64 che hanno esattamente tre numeri nella loro rappresentazione base 2?
-
-[[Quesiti/src_prmo_2013#q20|src_prmo_2013__Q20]]

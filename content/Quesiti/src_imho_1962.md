@@ -33,8 +33,6 @@ level: IMO
 
 > Find the smallest natural number $n$ with the following properties: (a) its decimal representation has 6 as the last digit; (b) if the last digit 6 is deleted and placed before the remaining digits, the resulting number is four times the original number $n$.
 
-[[Quesiti/src_imho_1962#q01|src_imho_1962__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica"></span>
@@ -107,8 +105,6 @@ level: IMO
 > (a) Si dimostri che il tetraedro SABC è regolare.
 > (b) Si dimostri viceversa che per ogni tetraedro regolare esistono cinque tali sfere.
 
-[[Quesiti/src_imho_1962#q02|src_imho_1962__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_geometria_analitica,method_coordinate,skill_ragionamento_geometrico"></span>
@@ -133,8 +129,6 @@ level: IMO
 *Place of moving XY media on the cube*
 
 > Consider the $ABCDA'B'C'D'$ cube (the face $ABCD$ is the bottom base, the face $A'B'C'D'$ is the top, $AA', BB', CC', DD'$ are the side tips). The point $X$ moves at a constant speed along the perimeter of the square $ABCD$, and the point $Y$ moves at the same speed along the perimeter of the square $B'C'CB$. Initially $X$ is in $A$ and $Y$ is in $B'$. Determine and map the geometric location of the midpoint of $XY$.
-
-[[Quesiti/src_imho_1962#q03|src_imho_1962__Q03]]
 
 
 
@@ -161,8 +155,6 @@ Solve cos^2 x + cos^2 2x + cos^2 3x = 1
 
 > Solve the equation $\cos^2 x + \cos^2 2x + \cos^2 3x = 1$.
 
-[[Quesiti/src_imho_1962#q04|src_imho_1962__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -186,8 +178,6 @@ Solve cos^2 x + cos^2 2x + cos^2 3x = 1
 *Building D on the circle by circumcirculating quadrilateral*
 
 > Three distinct points $A, B, C$ are given on the $K$ circle. Build (with line and compass) a point $D$ on $K$ such that a circle can be inscribed in the $ABCD$ quadrilateral thus formed.
-
-[[Quesiti/src_imho_1962#q05|src_imho_1962__Q05]]
 
 
 
@@ -213,8 +203,6 @@ Solve cos^2 x + cos^2 2x + cos^2 3x = 1
 
 > Consider yourself an isosceles triangle. either $r$ the radius of its circumscribed circle and $\rho$ the radius of its inscribed circle. Show that the $d$ distance between the centers of these two circles is $d = \sqrt{r(r - 2\rho)}$.
 
-[[Quesiti/src_imho_1962#q06|src_imho_1962__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_solida,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -238,5 +226,3 @@ Solve cos^2 x + cos^2 2x + cos^2 3x = 1
 *Tetrahedron with five spheres tangent to the spines and regulated*
 
 > The tetrahedron $SABC$ has the following property: there are five spheres, each tangent to the $SA, SB, SC, BC, CA, AB$ beams or their extensions. (a) Demonstrate that the tetrahedron $SABC$ is isosceles, i.e. $SA = BC$, $SB = CA$, $SC = AB$. (b) Demonstrate that the five spheres are congruent.
-
-[[Quesiti/src_imho_1962#q07|src_imho_1962__Q07]]

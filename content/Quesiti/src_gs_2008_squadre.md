@@ -37,7 +37,6 @@ level: squadre
 > If it's A, B, D, and E wearing those colors, the rest is completed in 2 ways 2-3. If they are A (or E), B and D, the rest is completed in 1 way 4-5. If they are A, B (or D) and E, the rest is completed in 3 ways.
 
 **Answer:** 13.60
-[[Quesiti/src_gs_2008_squadre#q01|src_gs_2008_squadre__Q01]]
 
 
 
@@ -65,7 +64,6 @@ level: squadre
 > 2 . Therefore ≥ 199 and the value 199 ` and actually obtained conpk = 1 2 + 1 2 1 199. Solution of problem 5 (Lethal Cocktail) 2·45+1·40+1·0 4 = 32.5 Solution of problem 6 (Tadfield Zoo, I) The situation ` and outlined by matrix A B C D E yellow blue X green X X red X X X X
 
 **Answer:** 2745
-[[Quesiti/src_gs_2008_squadre#q02|src_gs_2008_squadre__Q02]]
 
 
 
@@ -94,7 +92,6 @@ level: squadre
 > 3. The required area ` eA(1 + 32 + 34) = 91A = 7735 m2. Solution to problem 17 (Tadfield Zoo, II) The situation ` and always outlined by the matrix A B C D E yellow(1) blue (2) X X green (2) X X red (3) X X X Lodio for red and that for green are independent. At least two of these must be worn. The cases are (4 4 ) +
 
 **Answer:** 2475
-[[Quesiti/src_gs_2008_squadre#q03|src_gs_2008_squadre__Q03]]
 
 
 
@@ -127,7 +124,6 @@ level: squadre
 > What is the maximum number of trips from the quarry to the warehouse that the truck will have to make to transport all the stones?
 
 **Answer:** 199
-[[Quesiti/src_gs_2008_squadre#q04|src_gs_2008_squadre__Q04]]
 
 
 
@@ -155,7 +151,6 @@ level: squadre
 > If they're A and E, the rest is completed in three ways.
 
 **Answer:** 32.5
-[[Quesiti/src_gs_2008_squadre#q05|src_gs_2008_squadre__Q05]]
 
 
 
@@ -188,8 +183,6 @@ level: squadre
 > If they're B and D, the rest you can't complete 8-9. If they're B (or D) and E, the rest is completed in 1 way 10-11. If they are A and B (or D), the rest is completed in 1 mode 3.
 > 
 > The total is 2 + 1 × 2 + 2 × 3 + 3 + 0 + 2 × 1 + 2 × 1 = 17
-
-[[Quesiti/src_gs_2008_squadre#q06|src_gs_2008_squadre__Q06]]
 
 
 
@@ -259,7 +252,6 @@ level: squadre
 > What is the length in centimeters of the path of the longest ecstasy?
 
 **Answer:** 89.04
-[[Quesiti/src_gs_2008_squadre#q07|src_gs_2008_squadre__Q07]]
 
 
 
@@ -291,7 +283,6 @@ level: squadre
 > What is the area covered by the paint in $\text{dm}^2$, including the bases?
 
 **Answer:** 4398
-[[Quesiti/src_gs_2008_squadre#q08|src_gs_2008_squadre__Q08]]
 
 
 
@@ -323,7 +314,6 @@ level: squadre
 > What is the width in degrees of one of the four angles at the same point?
 
 **Answer:** 42
-[[Quesiti/src_gs_2008_squadre#q09|src_gs_2008_squadre__Q09]]
 
 
 
@@ -355,7 +345,6 @@ level: squadre
 > How much could he measure the long side of the sheet from which he had begun? How much could he at least measure? Give the difference between the two measurements in millimetres as an answer.
 
 **Answer:** 2320
-[[Quesiti/src_gs_2008_squadre#q10|src_gs_2008_squadre__Q10]]
 
 
 
@@ -391,7 +380,6 @@ level: squadre
 > What is the area of W in $\text{cm}^2$?
 
 **Answer:** 104
-[[Quesiti/src_gs_2008_squadre#q11|src_gs_2008_squadre__Q11]]
 
 
 
@@ -425,8 +413,6 @@ level: squadre
 
 **Answer:** 5188
 
-[[Quesiti/src_gs_2008_squadre#q12|src_gs_2008_squadre__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_probabilita,method_conteggio,skill_conteggio_sistematico"></span>
@@ -451,8 +437,6 @@ level: squadre
 *Probability of separate birthdays*
 
 > What's the probability that Adam, Pepper, Wensleydale and Brian's birthdays fall on four different days of the week? The sum of the numerator and denominator of the fraction obtained after simplifying all the common factors shall be given as the answer.
-
-[[Quesiti/src_gs_2008_squadre#q13|src_gs_2008_squadre__Q13]]
 
 
 
@@ -482,8 +466,6 @@ level: squadre
 > Newton Pulsifer is trying to determine a four-digit combination to open a lock box. After torturing the witch, who owned the coffin, Newton discovered that the combination is a perfect square with the penultimate digit 5.
 > 
 > What's the largest four-digit number that could be the combination Newton was looking for?
-
-[[Quesiti/src_gs_2008_squadre#q14|src_gs_2008_squadre__Q14]]
 
 
 
@@ -516,7 +498,6 @@ level: squadre
 > Write the difference between the smallest and the largest of the numbers of rooms where Aziraphale must search for the predestinate.
 
 **Answer:** 7858
-[[Quesiti/src_gs_2008_squadre#q15|src_gs_2008_squadre__Q15]]
 
 
 
@@ -549,7 +530,6 @@ level: squadre
 > What is the area occupied by the three ponds in $\text{m}^2$?
 
 **Answer:** 7735
-[[Quesiti/src_gs_2008_squadre#q16|src_gs_2008_squadre__Q16]]
 
 
 
@@ -582,7 +562,6 @@ level: squadre
 > In how many ways could the monkeys Albert, Berto, Sure, Derto, and Erto have worn the shirts, given their color aversions?
 
 **Answer:** 17
-[[Quesiti/src_gs_2008_squadre#q17|src_gs_2008_squadre__Q17]]
 
 
 
@@ -622,7 +601,6 @@ level: squadre
 > (see figure)
 
 **Answer:** 6000
-[[Quesiti/src_gs_2008_squadre#q18|src_gs_2008_squadre__Q18]]
 
 
 
@@ -654,7 +632,6 @@ level: squadre
 > What's the positive integer that Warlock raised to the 14th power?
 
 **Answer:** 119
-[[Quesiti/src_gs_2008_squadre#q19|src_gs_2008_squadre__Q19]]
 
 
 
@@ -690,7 +667,6 @@ level: squadre
 > What is the maximum possible number of megaliths on the strip in the great plain?
 
 **Answer:** 4808
-[[Quesiti/src_gs_2008_squadre#q20|src_gs_2008_squadre__Q20]]
 
 
 
@@ -727,7 +703,6 @@ The following table shows the number of players in the table:
 > [N.B. Two configurations which differ only in one rotation shall be considered the same for the purposes of counting.]
 
 **Answer:** 122
-[[Quesiti/src_gs_2008_squadre#q21|src_gs_2008_squadre__Q21]]
 
 
 
@@ -768,7 +743,6 @@ Shortest path triangular billiards with bounces
 > [N.B. Consider yourself ball and pointed holes, the ball on the same point of the hole and players as powerful as it can serve.]
 
 **Answer:** 0916
-[[Quesiti/src_gs_2008_squadre#q22|src_gs_2008_squadre__Q22]]
 
 
 
@@ -797,7 +771,6 @@ Shortest path triangular billiards with bounces
 > In how many ways could the monkeys Albert, Berto, Sure, Derto and Erto have worn the shirts that Sylvier had bought if they had no aversion to any color?
 
 **Answer:** 440
-[[Quesiti/src_gs_2008_squadre#q23|src_gs_2008_squadre__Q23]]
 
 
 
@@ -846,4 +819,3 @@ Prophecy by Agnes Nutter, true/false and divisibility
 > What was the year of Agnes Nutter's prophecy?
 
 **Answer:** 2053
-[[Quesiti/src_gs_2008_squadre#q24|src_gs_2008_squadre__Q24]]

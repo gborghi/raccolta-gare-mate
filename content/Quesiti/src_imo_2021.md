@@ -33,8 +33,6 @@ level: IMO
 
 > It is $n \geq 100$ a whole. Ivan writes the numbers $n, n+1, \ldots, 2n$ each on a different card. Then he mixes these$n+1$cards and divides them into two piles. Demonstrate that at least one of the two stacks contains two cards such that the sum of their numbers is a perfect square.
 
-[[Quesiti/src_imo_2021#q01|src_imo_2021__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica"></span>
@@ -62,8 +60,6 @@ level: IMO
 
 > Demonstrate that the inequality $$\sum_{i=1}^{n} \sum_{j=1}^{n} \sqrt{|x_i - x_j|} \leq \sum_{i=1}^{n} \sum_{j=1}^{n} \sqrt{|x_i + x_j|}$$ applies to all real numbers $x_1, \ldots, x_n$.
 
-[[Quesiti/src_imo_2021#q02|src_imo_2021__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
@@ -89,8 +85,6 @@ level: IMO
 
 > Whether $D$ is an inner point of the acute triangle $ABC$ with $AB > AC$, such that $\angle DAB = \angle CAD$. The $E$ point on the $AC$ segment satisfies $\angle ADE = \angle BCD$, the $F$ point on the $AB$ segment satisfies $\angle FDA = \angle DBC$, and the $X$ point on the $AC$ straight line satisfies $CX = BX$. The circus centers of the triangles $O_1$ and $O_2$ are $ADC$ and $EXD$, respectively. Demonstrate that $BC$, $EF$ and $O_1O_2$ are competitors.
 
-[[Quesiti/src_imo_2021#q03|src_imo_2021__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -115,8 +109,6 @@ level: IMO
 This is the sum of the tangent equations AD+DT+TX+XA=...
 
 > Both $\Gamma$ a circle with a centre $I$, and $ABCD$ a convex quadrilateral such that each of the segments $AB$, $BC$, $CD$ and $DA$ is tangent to $\Gamma$. If $\Omega$ the circle surrounding the $AIC$ triangle. The extension of $BA$ beyond $A$ is $\Omega$ in $X$, and the extension of $BC$ beyond $C$ is $\Omega$ in $Z$. The lengths of $AD$ and $CD$ beyond $D$ meet $\Omega$ in $Y$ and $T$ respectively. Show that $$AD + DT + TX + XA = CD + DY + YZ + ZC.$$
-
-[[Quesiti/src_imo_2021#q04|src_imo_2021__Q04]]
 
 
 
@@ -147,8 +139,6 @@ This is the sum of the tangent equations AD+DT+TX+XA=...
 > 
 > Demonstrate that a value of $k$ exists such that, on the $k$-eighth move, Saltarello exchanges two nuts $a$ and $b$ for $a < k < b$.
 
-[[Quesiti/src_imo_2021#q05|src_imo_2021__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_doppio_conteggio,skill_conteggio_sistematico"></span>
@@ -173,5 +163,3 @@ This is the sum of the tangent equations AD+DT+TX+XA=...
 *A contains at least m/2 elements (sub-sets of sum m^k)*
 
 > They are $m \geq 2$ an integer, $A$ a finite set of integers (not necessarily positive), and $B_1, B_2, B_3, \ldots, B_m$ subsets of $A$. For each $k = 1, 2, \ldots, m$ the sum of the elements of $B_k$ shall be $m^k$. Demonstrate that $A$ contains at least $\dfrac{m}{2}$ elements.
-
-[[Quesiti/src_imo_2021#q06|src_imo_2021__Q06]]

@@ -35,8 +35,6 @@ level: Olimpiade Polacca Round 2
 
 > Provare che tutte le funzioni $f:\mathbb{R}\to\mathbb{R}$ che soddisfano $$\forall x\in\mathbb{R}\ \ f(x)=f(2x)=f(1-x)$$ sono periodiche.
 
-[[Quesiti/src_pol_2002_r2#q01|src_pol_2002_r2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -64,8 +62,6 @@ level: Olimpiade Polacca Round 2
 
 > In un quadrilaterale converso $ABCD$ le seguenti equazioni $$\angle ADB = 2\angle ACB \quad \text{and} \quad \angle BDC = 2\angle BAC$$ si trovano. Prove che $AD=CD$.
 
-[[Quesiti/src_pol_2002_r2#q02|src_pol_2002_r2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_cassetti,method_doppio_conteggio,method_estremalita,skill_conteggio_sistematico,skill_stima"></span>
@@ -90,8 +86,6 @@ level: Olimpiade Polacca Round 2
 In un'associazione di n membri con 6 commissioni ciascuna di almeno n/4 membri, dimostrare che due commissioni condividono almeno n/30 membri.*
 
 > Si dà un intero positivo $n$. In un'associazione composta da membri $n$ si svolgono 6 commissioni. Ogni commissione contiene almeno $n/4$ persone. Dimostrare che esistono due commissioni che contengono almeno $n/30$ persone in comune.
-
-[[Quesiti/src_pol_2002_r2#q03|src_pol_2002_r2__Q03]]
 
 
 
@@ -120,8 +114,6 @@ In un'associazione di n membri con 6 commissioni ciascuna di almeno n/4 membri, 
 
 > Trova tutti i numeri $p \le q \le r$ in modo tale che tutti i numeri $$pq+r,\ pq+r^2,\ qr+p,\ qr+p^2,\ rp+q,\ rp+q^2$$ siano primi.
 
-[[Quesiti/src_pol_2002_r2#q04|src_pol_2002_r2__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,method_trigonometria,method_disuguaglianze,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_stima"></span>
@@ -149,8 +141,6 @@ In un'associazione di n membri con 6 commissioni ciascuna di almeno n/4 membri, 
 
 > Il triangolo $ABC$ con $\angle BAC = 90^\circ$ è la base della piramide $ABCD$. Inoltre contiene $$AD=BD \quad \text{and} \quad AB=CD.$$ Prove che $\angle ACD \ge 30^\circ$.
 
-[[Quesiti/src_pol_2002_r2#q05|src_pol_2002_r2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_disuguaglianze,topic_algebra,method_induzione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -177,5 +167,3 @@ In un'associazione di n membri con 6 commissioni ciascuna di almeno n/4 membri, 
 *Ricerca tutti gli integri positivi n in modo tale che per tutti i reali x_i,y_i la disuguaglianza del prodotto con le somme dei quadrati sotto radici quadrate sia contenuta.*
 
 > Trovare tutti gli integri positivi $n$ in modo tale che per tutti i numeri reali $x_1,x_2,\ldots,x_n,y_1,y_2,\ldots,y_n$ si verifichi la seguente disuguaglianza $$x_1x_2\ldots x_n + y_1y_2\ldots y_n \le \sqrt{x_1^2+y_1^2}\cdot\sqrt{x_2^2+y_2^2}\cdot\ldots\cdot\sqrt{x_n^2+y_n^2}$$.
-
-[[Quesiti/src_pol_2002_r2#q06|src_pol_2002_r2__Q06]]

@@ -39,7 +39,6 @@ level: OBM Nível 2
 ![[src_obm_2000_n2_f3__q01.png]]
 
 **Risposta:** 13
-[[Quesiti/src_obm_2000_n2_f3#q01|src_obm_2000_n2_f3__Q01]]
 
 
 
@@ -65,8 +64,6 @@ level: OBM Nível 2
 *Due mazzi di 50 carte a doppio lato che mostrano ciascuno 1-100; mostrano che tutte le 100 carte possono essere posizionate in modo che le facce verso l'alto mostrino ogni numero da 1 a 100.*
 
 > Isabel ha due mazzi, ognuno con carte $50$. Su ciascun mazzo sono scritti i numeri da $1$ a $100$ (su ogni carta sono scritti due numeri, uno su ogni faccia della carta). A causa di un difetto di fabbricazione, la distribuzione dei numeri delle schede non è uguale nei due mazzi (ad esempio, in uno dei mazzi la $1$ appare sulla stessa scheda della $2$; nell'altro, la $1$ appare con la $76$). Indicare come Isabel deve procedere in modo che, quando si collocano le carte $100$ su un tavolo, le facce rivolte verso l'alto mostrino tutti i numeri da $1$ a $100$.
-
-[[Quesiti/src_obm_2000_n2_f3#q02|src_obm_2000_n2_f3__Q02]]
 
 
 
@@ -103,8 +100,6 @@ level: OBM Nível 2
 
 ![[src_obm_2000_n2_f3__q03.png]]
 
-[[Quesiti/src_obm_2000_n2_f3#q03|src_obm_2000_n2_f3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -131,5 +126,4 @@ level: OBM Nível 2
 
 > È possibile trovare due potenze di $2$, distinte e con lo stesso numero di cifre, in modo tale che una possa essere ottenuta mediante una riorganizzazione delle cifre dell'altra?
 
-**Risposta:** No, it is not possible.
-[[Quesiti/src_obm_2000_n2_f3#q04|src_obm_2000_n2_f3__Q04]]
+**Risposta:** No, non è possibile.

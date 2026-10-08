@@ -42,8 +42,6 @@ level: OBM Nível 1
 
 ![[src_obm_2008_n1_f3__q01.png]]
 
-[[Quesiti/src_obm_2008_n1_f3#q01|src_obm_2008_n1_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_invarianti,method_induzione,skill_riconoscimento_pattern,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -78,8 +76,6 @@ level: OBM Nível 1
 > L'operazione si ripete a tempo indeterminato. Per esempio, partendo da 889, otteniamo la sequenza di numeri $$889,\ 990,\ 1,\ 2,\ 3,\ 4,\ 5,\ 6,\ 7,\ 8,\ 9,\ 0.$$
 > 
 > a) Scrivi la sequenza dei numeri quando il primo numero è 2008. b) dimostrare che, indipendentemente dal numero iniziale, dopo un numero finito di applicazioni dell'operazione di Esmeralda, essa ottiene 0.
-
-[[Quesiti/src_obm_2008_n1_f3#q02|src_obm_2008_n1_f3__Q02]]
 
 
 
@@ -118,8 +114,6 @@ level: OBM Nível 1
 > a) Determinare in quanti modi il giardo può produrre un rivestimento per $n = 1, 2, 3, 4, 5, 6, 7$. b) In quanti modi il giardo può coprire la lavagna per $n = 15$?
 
 ![[src_obm_2008_n1_f3__q03.png]]
-
-[[Quesiti/src_obm_2008_n1_f3#q03|src_obm_2008_n1_f3__Q03]]
 
 
 
@@ -174,8 +168,6 @@ level: OBM Nível 1
 
 ![[src_obm_2008_n1_f3__q04.png]]
 
-[[Quesiti/src_obm_2008_n1_f3#q04|src_obm_2008_n1_f3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_cassetti,method_induzione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta,skill_stima"></span>
@@ -205,5 +197,3 @@ level: OBM Nível 1
 > Chiamiamo un intero positivo $n$ *garbosy* se ha un multiple la cui quattro cifre principali della sua rappresentazione decimale sono 2008. Ad esempio, 7 è disgustoso perché 200858 è un moltiplo di 7 e inizia con 2008. Si noti che $200858 = 28694 \times 7$.
 > 
 > a) Mostrare che il 17 e' un'imbarazzo. b) Mostrare che ogni numero intero positivo è un'imbarazzo.
-
-[[Quesiti/src_obm_2008_n1_f3#q05|src_obm_2008_n1_f3__Q05]]

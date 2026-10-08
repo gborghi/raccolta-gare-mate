@@ -35,8 +35,6 @@ level: Olimpiade Polacca Round 3
 
 > Determinare tutti gli integri positivi $a, b$ in modo tale che i numeri $a^2 + 1$ e $b^2 + 1$ siano primi e la seguente uguaglianza $$(a^2 + 1)(b^2 + 1) = (a^2 - 1)(b^2 - 1) + r^2 + 1$$ sia valida.
 
-[[Quesiti/src_pol_2002_r3#q01|src_pol_2002_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -62,8 +60,6 @@ level: Olimpiade Polacca Round 3
 
 > All'esterno di un triangolo $ABC$ sono costruiti due rettangoli $ACPQ$ e $BKLC$. Supponendo che le superfici di questi rettangoli siano uguali, dimostrare che il punto medio del segmento $PL$, il punto $C$ e il centro circundante del triangolo $ABC$ sono collineari.
 
-[[Quesiti/src_pol_2002_r3#q02|src_pol_2002_r3__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_casework,skill_riconoscimento_pattern,skill_astrazione,skill_lettura_attenta"></span>
@@ -88,8 +84,6 @@ level: Olimpiade Polacca Round 3
 *Sostituire due dei tre enti della scheda nera con la somma e la differenza assoluta; raggiungere due zero*
 
 > Su una lavagna sono scritte tre numeri interi non negativi. Di questi numeri due $k, m$ sono scelti e sostituiti dai numeri $k + m$ e $|k - m|$. Il terzo numero rimane invariato. Con questi tre nuovi numeri procedono in modo simile. L'obiettivo è quello di ottenere almeno due numeri uguali a $0$. Scopri se è possibile.
-
-[[Quesiti/src_pol_2002_r3#q03|src_pol_2002_r3__Q03]]
 
 
 
@@ -118,8 +112,6 @@ level: Olimpiade Polacca Round 3
 
 > Prove che per tutti i numeri interi positivi $n \ge 3$ e per tutti i numeri reali positivi $r_1, r_2, \ldots, r_n$ si trova la seguente catena di disuguaglianze $$\sum_{k=1}^{n} \frac{1}{r_{k+1} + r_{k+2}} \ge \frac{n}{\displaystyle\sum_{k=1}^{n} r_k}$$ (dove $r_{n+1} = r_1,\ r_{n+2} = r_2,\ r_{n+3} = r_3,\ r_{n+4} = r_4$).
 
-[[Quesiti/src_pol_2002_r3#q04|src_pol_2002_r3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_astrazione,skill_modellizzazione"></span>
@@ -147,8 +139,6 @@ level: Olimpiade Polacca Round 3
 
 > Sono indicate una sfera $s$ e un piano $\pi$. Sul piano $\pi$ sono indicati tre punti non collineari $A, B, C$. Attraverso ciascuno di questi punti viene costruita una linea tangente a $s$. I punti di contatto di queste linee con $s$ sono indicati rispettivamente da $K, L, M$. Un punto $P$ si trova su $s$ e soddisfa $$\frac{AK}{AP} = \frac{BL}{BP} = \frac{CM}{CP}.$$ Prove che la circosfera della piramide $ABCP$ è tangente a $s$.
 
-[[Quesiti/src_pol_2002_r3#q05|src_pol_2002_r3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_congruenze,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
@@ -175,5 +165,3 @@ level: Olimpiade Polacca Round 3
 *Sequenza a_1=k+1, a_{n+1}=a_n2-4a_n+1; mostrare termini distinti sono coprime*
 
 > Si dà un intero positivo $k$. La sequenza $(a_n)$ è definita da $$a_1 = k + 1, \quad a_{n+1} = a_n^2 - 4a_n + 1 \quad \text{for } n \ge 1.$$ Mostra che per $m \ne n$ i numeri $a_m, a_n$ sono relativamente primi.
-
-[[Quesiti/src_pol_2002_r3#q06|src_pol_2002_r3__Q06]]

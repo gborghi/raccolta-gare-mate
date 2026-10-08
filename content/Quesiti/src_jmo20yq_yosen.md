@@ -35,7 +35,6 @@ level: JMO Yosen
 > Trova il numero di 6 tupli $(a,b,c,d,e,f)$ di numeri interi positivi soddisfaci $a > b > c > d > e > f$ e $a + f = b + e = c + d = 22$.
 
 **Risposta:** 4
-[[Quesiti/src_jmo20yq_yosen#q01|src_jmo20yq_yosen__Q01]]
 
 
 
@@ -64,7 +63,6 @@ level: JMO Yosen
 > Trova la media di tutti gli enti tra $0$ e $10000$ (inclusi) la cui rappresentazione decimale non contiene la cifra $1$.
 
 **Risposta:** 2469
-[[Quesiti/src_jmo20yq_yosen#q02|src_jmo20yq_yosen__Q02]]
 
 
 
@@ -93,7 +91,6 @@ level: JMO Yosen
 > Che $n$ sia un intero positivo a 3 cifre, tutti i cui numeri sono distinti e non zero. Che $g$ sia il più grande divisore comune di tutti e sei i numeri a 3 cifre ottenuti permutando i numeri di $n$. Trova il valore massimo possibile di $g$.
 
 **Risposta:** 18
-[[Quesiti/src_jmo20yq_yosen#q03|src_jmo20yq_yosen__Q03]]
 
 
 
@@ -120,8 +117,6 @@ level: JMO Yosen
 
 > Il quadrilaterale $ABCD$ è inserito in un cerchio di raggio $1$ e l'angolo tra le due diagonali è $60^\circ$. Il punto di intersezione di $P$ è il punto di intersezione dei diagonali $AC$ e $BD$. Date $AP = \dfrac{1}{2}$ e $CP = \dfrac{3}{2}$, trovare tutti i possibili valori di $|BP - DP|$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
-[[Quesiti/src_jmo20yq_yosen#q04|src_jmo20yq_yosen__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -146,8 +141,6 @@ level: JMO Yosen
 *Contare i triangoli ABC (fino alla rietichettatura delle verte) con tutti gli angoli interiori interiori*
 
 > Trova il numero di triangoli $ABC$ i cui tre angoli interni sono tutti multipli interi di $1^\circ$. Due triangoli che differiscono solo per una permutazione delle etichette $A$, $B$, $C$ (cioè che hanno lo stesso multiset di angoli) vengono contati come uguali.
-
-[[Quesiti/src_jmo20yq_yosen#q05|src_jmo20yq_yosen__Q05]]
 
 
 
@@ -176,7 +169,6 @@ level: JMO Yosen
 > Ci sono $3$ uccelli rossi, $3$ uccelli blu e $3$ uccelli gialli, ciascuno sulla propria isola (il che dà $9$ isole in totale). I ponti tra le isole devono essere costruiti soddisfacendo le seguenti due condizioni: tra le due isole c'è al massimo un ponte; per ogni ponte, i due uccelli nei suoi punti di fine sono di colori diversi. Per due uccelli dello stesso colore, le loro isole non sono collegate da alcun percorso di ponti (cioè, sono in componenti collegati diversi). (La configurazione senza ponti conta come $1$.)
 
 **Risposta:** 54
-[[Quesiti/src_jmo20yq_yosen#q06|src_jmo20yq_yosen__Q06]]
 
 
 
@@ -203,8 +195,6 @@ level: JMO Yosen
 
 > Una sequenza infinita di interi positivi $a_0, a_1, a_2, \ldots$ soddisfa le seguenti due condizioni per ogni intero non negativo $n$:\n\n$\bullet$ $a_0$ divide $a_n$.\n\n$\bullet$ $|a_n - a_{n+1}| \le 5$.\n\nRicerca il valore massimo possibile di $a_0$.
 
-[[Quesiti/src_jmo20yq_yosen#q07|src_jmo20yq_yosen__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -229,8 +219,6 @@ level: JMO Yosen
 *Ricerca l'area del triangolo ABC con il punto interno P, date le distanze AP, BP, CP e angolo BAC*
 
 > C'è un punto $P$ all'interno del triangolo $ABC$. Poiché $AP = \sqrt{3}$, $BP = 5$, $CP = 2$, $AB : AC = 2 : 1$ e $\angle BAC = 60^\circ$, si trova l'area del triangolo $ABC$. Qui $XY$ indica la lunghezza del segmento $XY$.
-
-[[Quesiti/src_jmo20yq_yosen#q08|src_jmo20yq_yosen__Q08]]
 
 
 
@@ -257,8 +245,6 @@ level: JMO Yosen
 
 > In quanti modi le pietre bianche $2010$ e le pietre nere $2010$ possono essere disposte in una singola riga in modo tale che la seguente condizione sia valida?\n\nCondizione: Il numero di coppie adiacenti (posizioni consecutive) in cui la pietra bianca è immediatamente a sinistra della pietra nera è strano.
 
-[[Quesiti/src_jmo20yq_yosen#q09|src_jmo20yq_yosen__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -283,8 +269,6 @@ level: JMO Yosen
 *Summa massima di n^2 data la somma di n è pari a 5*
 
 > Per un intero positivo $n$, $S(n)$ indica la somma delle cifre di $n$ nella base $10$. Dato che $S(n) = 5$, trovare il valore massimo possibile di $S(n^2)$.
-
-[[Quesiti/src_jmo20yq_yosen#q10|src_jmo20yq_yosen__Q10]]
 
 
 
@@ -311,8 +295,6 @@ level: JMO Yosen
 
 > In quadrilaterali $ABCD$, $\angle DAB = 110^\circ$, $\angle ABC = 50^\circ$, $\angle BCD = 70^\circ$. $M$ e $N$ siano rispettivamente i punti intermedi di $AB$ e $CD$. Prendere un punto $P$ sul segmento $MN$ in modo tale che $AM : CN = MP : NP$ e $AP = CP$. Trova la misura di $\angle APC$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
-[[Quesiti/src_jmo20yq_yosen#q11|src_jmo20yq_yosen__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,method_grafi,method_estremalita,method_casework,skill_modellizzazione,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -337,5 +319,3 @@ level: JMO Yosen
 *Maxime nuove rotte aperte dopo la chiusura di un ponte in una rete di alberi di nodo 2010*
 
 > Ci sono aeroporti $2010$. Alcune coppie di aeroporti sono collegate da voli diretti bidirezionali, che soddisfano le seguenti due condizioni: 1) Per due aeroporti $A$ e $B$, si può viaggiare da $A$ a $B$ utilizzando uno o più voli diretti. Le nuove rotte dirette (che differiscono da quelle chiuse, e ciascuna è un volo bidirezionale) vengono quindi aperte una per una in modo da soddisfare di nuovo le condizioni (1) e (2). Trovare il numero massimo possibile di nuove rotte da aprire.\n\nNota: Un volo diretto da aeroporto $X$ a aeroporto $Y$ serve anche come volo diretto da $Y$ a $X$.
-
-[[Quesiti/src_jmo20yq_yosen#q12|src_jmo20yq_yosen__Q12]]

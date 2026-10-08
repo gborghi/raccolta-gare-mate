@@ -40,7 +40,6 @@ level: kangourou
 > What is the minimum number of laces that Silvia could have bought? Justify your answer.
 
 **Answer:** 5
-[[Quesiti/src_kangourou_2005_junior_finale#qj1|src_kangourou_2005_junior_finale__QJ1]]
 
 
 
@@ -73,7 +72,6 @@ level: kangourou
 > $$UN \times 6 = BIO$$
 
 **Answer:** 16
-[[Quesiti/src_kangourou_2005_junior_finale#qj2|src_kangourou_2005_junior_finale__QJ2]]
 
 
 
@@ -121,7 +119,6 @@ level: kangourou
 > In the figure you see a regular hexagon. Can you divide it into 8 parts of equal shape and size? In the case of a negative answer, you must give reasons; in the case of an affirmative answer, explain directly on the figure the subdivision you propose, together with any clarifications you deem appropriate. (see figure)
 
 **Answer:** Yes
-[[Quesiti/src_kangourou_2005_junior_finale#qj3|src_kangourou_2005_junior_finale__QJ3]]
 
 
 
@@ -149,7 +146,6 @@ level: kangourou
 > What is the algebraic sum of all the coefficients (each with its own sign) of the expansion of $(2x - y + z)^8$?
 
 **Answer:** 256
-[[Quesiti/src_kangourou_2005_junior_finale#qj4|src_kangourou_2005_junior_finale__QJ4]]
 
 
 
@@ -181,8 +177,7 @@ level: kangourou
 > $$1! \times 2! \times \cdots \times 99! \times 100!$$
 > of the factorials of the first $100$ positive integers is not a perfect square, but its quotient by $50!$ is.
 
-**Answer:** dimostrazione
-[[Quesiti/src_kangourou_2005_junior_finale#qj5|src_kangourou_2005_junior_finale__QJ5]]
+**Answer:** proof
 
 
 
@@ -257,4 +252,3 @@ level: kangourou
 > (Hint: identify a conveniently small set $S$ of boxes with the property that each Greek cross covers at least one box belonging to $S$.)
 
 **Answer:** proof
-[[Quesiti/src_kangourou_2005_junior_finale#qj6|src_kangourou_2005_junior_finale__QJ6]]

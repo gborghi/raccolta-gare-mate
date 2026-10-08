@@ -50,8 +50,6 @@ level: OBM Nível 2
 
 ![[src_obm_2015_n2_f1__q01.png]]
 
-[[Quesiti/src_obm_2015_n2_f1#q01|src_obm_2015_n2_f1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico"></span>
@@ -82,8 +80,6 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > La media aritmetica dei numeri dell'anno 2015 è pari a 2, dal momento che $\frac{2+0+1+5}{4}=\frac{8}{4}=2$. Quante volte in questo secolo succederà che la media delle cifre dell'anno sia uguale a 2?
 > 
 > (A) 3 (B) 5 (C) 6 (D) 7 (E) 9
-
-[[Quesiti/src_obm_2015_n2_f1#q02|src_obm_2015_n2_f1__Q02]]
 
 
 
@@ -119,8 +115,6 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 
 ![[src_obm_2015_n2_f1__q03.png]]
 
-[[Quesiti/src_obm_2015_n2_f1#q03|src_obm_2015_n2_f1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_logica,topic_aritmetica,method_casework,skill_lettura_attenta"></span>
@@ -151,8 +145,6 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > Joao è un uomo molto premuroso e ha deciso di festeggiare, in un solo giorno, il giorno della Madre e il compleanno di sua moglie Marta. Sapendo che in un determinato anno le due date coincidono e che il giorno dopo la celebrazione non coinciderà più (il giorno della madre viene celebrato la seconda domenica di maggio), quale delle opzioni rappresenta una possibile data per il compleanno di Marta?
 > 
 > (A) 04 maggio (B) 05 maggio (C) 06 maggio (D) 07 maggio (E) 08 maggio
-
-[[Quesiti/src_obm_2015_n2_f1#q04|src_obm_2015_n2_f1__Q04]]
 
 
 
@@ -189,8 +181,6 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 
 ![[src_obm_2015_n2_f1__q05.png]]
 
-[[Quesiti/src_obm_2015_n2_f1#q05|src_obm_2015_n2_f1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
@@ -221,8 +211,6 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > L'insieme di soluzioni dell'equazione $(x-a)^2=b^2$, con $a,b$ numeri reali positivi, è:
 > 
 > (A) $\{a+b\}$ (B) $\{a-b\}$ (C) $\{a+b,a-b\}$ (D) $\{-a+b,a+b\}$ (E) $\{a+b,-a-b\}$
-
-[[Quesiti/src_obm_2015_n2_f1#q06|src_obm_2015_n2_f1__Q06]]
 
 
 
@@ -273,8 +261,6 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > - **(D)** BB con più del 47% dei voti.
 > - **(E)** Nessuna delle dichiarazioni precedenti deriva dalle informazioni fornite.
 
-[[Quesiti/src_obm_2015_n2_f1#q07|src_obm_2015_n2_f1__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_logica,topic_aritmetica,method_casework,skill_lettura_attenta,skill_casework_accurato"></span>
@@ -305,8 +291,6 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > Qual è la somma dei quadrati delle quantità di vocali e consonanti della risposta corretta? Nota: non contare le lettere A, B, C, D, E delle alternative.
 > 
 > (A) Venti-sei (B) Settanta-tre (C) Ottantacinque (D) Novanta-sei (E) cento sedici
-
-[[Quesiti/src_obm_2015_n2_f1#q08|src_obm_2015_n2_f1__Q08]]
 
 
 
@@ -342,8 +326,6 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 
 ![[src_obm_2015_n2_f1__q09.png]]
 
-[[Quesiti/src_obm_2015_n2_f1#q09|src_obm_2015_n2_f1__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -375,8 +357,6 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > 
 > (A) 2021 (B) 2022 (C) 2023 (D) 2025 (E) 2026
 
-[[Quesiti/src_obm_2015_n2_f1#q10|src_obm_2015_n2_f1__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -407,8 +387,6 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > Il numero $5^2=25$ è un quadrato perfetto e il numero $4^3=64$ è un cubo perfetto. Qual è il numero intero positivo più piccolo che è doppio di un quadrato perfetto e allo stesso tempo triplo di un cubo perfetto?
 > 
 > (A) 72 (B) 98 (C) 144 (D) 216 (E) 256
-
-[[Quesiti/src_obm_2015_n2_f1#q11|src_obm_2015_n2_f1__Q11]]
 
 
 
@@ -445,8 +423,6 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 
 ![[src_obm_2015_n2_f1__q12.png]]
 
-[[Quesiti/src_obm_2015_n2_f1#q12|src_obm_2015_n2_f1__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,topic_aritmetica,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -476,8 +452,6 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > Carlos e i suoi cinque amici, Danilo ed Edson, andarono al cinema. Carlos pagò l'ingresso per tutti; Danilo restituì a Carlos la sua parte. In modo che l'importo che ciascuno avrebbe pagato fosse lo stesso quando si divide il costo comune, Danilo ed Edson hanno pagato rispettivamente R\$ 8.00 and R\$ 14.00. Per Carlos, tuttavia, dal momento che il valore totale per testa era R\$ 32,00. Qual è il prezzo dell'ingresso al cinema?
 > 
 > (A) R\$ 10.00 (B) R\$ 12.00 (C) R\$ 15.00 (D) R\$ 18.00 (E) R\$ 20.00
-
-[[Quesiti/src_obm_2015_n2_f1#q13|src_obm_2015_n2_f1__Q13]]
 
 
 
@@ -514,8 +488,6 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 
 ![[src_obm_2015_n2_f1__q14.png]]
 
-[[Quesiti/src_obm_2015_n2_f1#q14|src_obm_2015_n2_f1__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_stima"></span>
@@ -546,8 +518,6 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > Fabiana ha 55 cubes della stessa taglia, 10 rossi, 15 blu e 30 verdi. Lei vuole costruire una singola torre che impichi questi cubetti in modo tale che due cubetti vicini abbiano sempre colori diversi. Quanti cubetti può mettere a piombo?
 > 
 > (A) 39 (B) 51 (C) 52 (D) 54 (E) 55
-
-[[Quesiti/src_obm_2015_n2_f1#q15|src_obm_2015_n2_f1__Q15]]
 
 
 
@@ -584,8 +554,6 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 
 ![[src_obm_2015_n2_f1__q16.png]]
 
-[[Quesiti/src_obm_2015_n2_f1#q16|src_obm_2015_n2_f1__Q16]]
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana,method_estremalita,skill_ragionamento_geometrico,skill_stima"></span>
@@ -616,8 +584,6 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > Un triangolo ha tutti i lati interi distinti, il più grande di loro misura il 2015. Quali sono le misure degli altri due lati in modo che l'area del triangolo sia la più piccola possibile?
 > 
 > (A) 2 e 2014 (B) 3 e 2013 (C) 1006 e 1010 (D) 1007 e 1009
-
-[[Quesiti/src_obm_2015_n2_f1#q17|src_obm_2015_n2_f1__Q17]]
 
 
 
@@ -650,8 +616,6 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > 
 > (A) $\alpha+\beta=\gamma$ (B) $\alpha+\beta=2\gamma$ (C) $\alpha+\beta+\gamma=180^\circ$ (D) $\alpha+\beta=90^\circ$ (E) $\alpha+\beta=45^\circ$
 
-[[Quesiti/src_obm_2015_n2_f1#q18|src_obm_2015_n2_f1__Q18]]
-
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,method_estremalita,skill_stima,skill_manipolazione_algebrica"></span>
@@ -682,8 +646,6 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > La media dei numeri naturali $n$ è superiore a 25,65 e inferiore a 25,75. Qual è il minimo valore possibile per $n$?
 > 
 > (A) 5 (B) 3 (C) 6 (D) 100 (E) 50
-
-[[Quesiti/src_obm_2015_n2_f1#q19|src_obm_2015_n2_f1__Q19]]
 
 
 
@@ -716,8 +678,6 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > 
 > (A) 8 (B) 7 (C) 6 (D) 5 (E) 4
 
-[[Quesiti/src_obm_2015_n2_f1#q20|src_obm_2015_n2_f1__Q20]]
-
 
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_casework,method_inclusione_esclusione,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -748,8 +708,6 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > Jonas ama osservare gli orologi digitali sparsi in tutta la sua città che gli informano dell'ora e della data. Poiché sono digitali, l'ora appare nel formato (ora: minuto) e la data nel formato (giorno / mese). In un determinato giorno si è verificata una coincidenza: l'ora (ora e minuto, ad es. 12:06) coincideva con la data nel formato giorno/mese (le stesse cifre del giorno e del mese). Chiama questo un momento codificato. Si può anche verificare che l'ora coincida con la data lettura in senso inverso (ad es. 60:21, lettura all'indietro), e chiama questo un momento di codifica inversa. Considerando l'intero anno 2015 (considerato come un anno bisestivo), dal 01/01/2015 alle 00:00 al 31/12/2015 alle 23:59, quanti momenti sono codificati o codificati in modo inverso?
 > 
 > (A) 365 (B) 455 (C) 465 (D) 629 (E) 699
-
-[[Quesiti/src_obm_2015_n2_f1#q21|src_obm_2015_n2_f1__Q21]]
 
 
 
@@ -786,8 +744,6 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 
 ![[src_obm_2015_n2_f1__q22.png]]
 
-[[Quesiti/src_obm_2015_n2_f1#q22|src_obm_2015_n2_f1__Q22]]
-
 
 
 <span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_congruenze,skill_casework_accurato,skill_conteggio_sistematico"></span>
@@ -823,8 +779,6 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 
 ![[src_obm_2015_n2_f1__q23.png]]
 
-[[Quesiti/src_obm_2015_n2_f1#q23|src_obm_2015_n2_f1__Q23]]
-
 
 
 <span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -854,8 +808,6 @@ Giada che Jade cammini dal segretariato al giardino botanico
 > Esmeralda e Jade lasciano il segretariato dell'OBM e vanno al Giardino Botanico. I due se ne andarono allo stesso tempo, Esmeralda in bicicletta e Jade a piedi. La velocità di Esmeralda è quattro volte quella di Jade, e le due velocità sono costanti. Esmeralda arrivò al giardino botanico, aspettò 5 minuti e poi tornò per la stessa strada, incontrando Jade, che era a metà strada. Quanto tempo ci vuole per andare da Jade al giardino botanico?
 > 
 > A) 30 minuti B) 35 minuti C) 40 minuti D) 45 minuti E) 50 minuti
-
-[[Quesiti/src_obm_2015_n2_f1#q24|src_obm_2015_n2_f1__Q24]]
 
 
 
@@ -887,5 +839,3 @@ Giada che Jade cammini dal segretariato al giardino botanico
 > A Julieta piace scrivere il numero 2015 come la somma di tre numeri. Non sempre lo scrive come la somma di tre diversi numeri; ad esempio, $2015=670+671+674$ e $175+920+920=2015$. Si noti che nel secondo esempio il numero 920 appare due volte nella stessa somma. In questo modo, in quanti modi possibili due numeri sembrano uguali come lo stesso pacchetto?
 > 
 > (A) 50 (B) 100 (C) 450 (D) 858 (E) 907
-
-[[Quesiti/src_obm_2015_n2_f1#q25|src_obm_2015_n2_f1__Q25]]

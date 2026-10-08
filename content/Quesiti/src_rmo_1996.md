@@ -33,8 +33,6 @@ level: RMO
 
 > I lati di un triangolo sono tre numeri interi consecutivi e il suo raggio è di quattro unità. Determina il circondario.
 
-[[Quesiti/src_rmo_1996#q01|src_rmo_1996__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato,skill_conteggio_sistematico"></span>
@@ -60,8 +58,6 @@ level: RMO
 *Ricerca tutti i tripli numeri interi positivi (a,b,c) che soddisfano un'equazione prodotto dalle frazioni*
 
 > Trovare tutti i triples $(a, b, c)$ di numeri interi positivi in modo tale che $$\left(1 + \frac{1}{a}\right)\left(1 + \frac{1}{b}\right)\left(1 + \frac{1}{c}\right) = 3.$$
-
-[[Quesiti/src_rmo_1996#q02|src_rmo_1996__Q02]]
 
 
 
@@ -89,8 +85,6 @@ level: RMO
 *Solvi un sistema di due equazioni polinomiche in x e y reali*
 
 > Risolvere per i numeri reali $x$ e $y$: $$xy^2 = 15x^2 + 17xy + 15y^2$$ $$x^2 y = 20x^2 + 3y^2.$$
-
-[[Quesiti/src_rmo_1996#q03|src_rmo_1996__Q03]]
 
 
 
@@ -123,8 +117,6 @@ level: RMO
 > 
 > Provare che $n$ è massimo di 6. Inoltre, mostrare che a partire da qualsiasi cifra si può trovare un numero a sei cifre con queste proprietà.
 
-[[Quesiti/src_rmo_1996#q04|src_rmo_1996__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_disuguaglianze,topic_geometria_piana,method_disuguaglianze,method_trigonometria,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -152,8 +144,6 @@ level: RMO
 
 > Che $ABC$ sia un triangolo e $h_a$ l'altitudine attraverso $A$. Prove che $$(b + c)^2 \ge a^2 + 4h_a^2.$$ (Come al solito $a$, $b$, $c$ indicano rispettivamente i lati $BC$, $CA$ e $AB$.)
 
-[[Quesiti/src_rmo_1996#q05|src_rmo_1996__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_induzione,skill_manipolazione_algebrica,skill_astrazione,skill_riconoscimento_pattern"></span>
@@ -179,8 +169,6 @@ level: RMO
 
 > Dato qualsiasi numero intero positivo $n$ mostrano che ci sono due numeri razionali positivi $a$ e $b$, $a \ne b$, che non sono interi e che sono tali che $a - b$, $a^2 - b^2$, $\ldots$, $a^n - b^n$ sono tutti interi.
 
-[[Quesiti/src_rmo_1996#q06|src_rmo_1996__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_casework,method_estremalita,method_cassetti,skill_astrazione,skill_conteggio_sistematico,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
@@ -205,5 +193,3 @@ level: RMO
 *Un sottogruppo di 50 elementi di {1,...,100} senza due elementi che sommano a 100 contiene un quadrato*
 
 > Se $A$ è un sottoinsieme di cinquanta elementi del set $\{1, 2, 3, \ldots, 100\}$ in modo tale che non ci siano due numeri da $A$ sommati fino a 100, indicare che $A$ contiene un quadrato.
-
-[[Quesiti/src_rmo_1996#q07|src_rmo_1996__Q07]]

@@ -36,7 +36,6 @@ level: kangourou
 > 3x2005 = 2004 + 2006 + … . Which of the following numbers do you need to substitute for the dots to make the equality? A) 2005        B) 2006        C) 2007        D) 2008        E) 2009
 
 **Answer:** A
-[[Quesiti/src_kangourou_2006_benjamin#q01|src_kangourou_2006_benjamin__Q01]]
 
 
 
@@ -74,7 +73,6 @@ level: kangourou
 > Look at the figure: six numbers are written on as many sheets. By placing all six sheets side by side, you can form ten-digit numbers. Which one's the biggest? A) 9 876 543 210          B) 4 130 975 682          C) 3 097 568 241 D) 7 568 413 092          E) 7 685 413 092
 
 **Answer:** E
-[[Quesiti/src_kangourou_2006_benjamin#q02|src_kangourou_2006_benjamin__Q02]]
 
 
 
@@ -111,7 +109,6 @@ How many houses along the avenue with civic numbers
 > As we walk down Kangtown's main avenue, we notice that each house is assigned a (and only one) civic number, odd to those on the left, even to those on the right. On the left side, the numbers go from 1 to 39; on the right side, they go from 2 to 34. How many houses are along the avenue? A) 8 B) 36 C) 37 D) 38 E) 73
 
 **Answer:** C
-[[Quesiti/src_kangourou_2006_benjamin#q03|src_kangourou_2006_benjamin__Q03]]
 
 
 
@@ -151,7 +148,6 @@ How many houses along the avenue with civic numbers
 > At a sportswear store in Stockholm, the combinations of items shown have these prices. You can also buy each item individually. How many crowns does one of those footballs cost? A) 100 B) 200 C) 300 D) 400 E) 500
 
 **Answer:** B
-[[Quesiti/src_kangourou_2006_benjamin#q04|src_kangourou_2006_benjamin__Q04]]
 
 
 
@@ -219,7 +215,6 @@ How many houses along the avenue with civic numbers
 > Kang 2006
 
 **Answer:** C
-[[Quesiti/src_kangourou_2006_benjamin#q05|src_kangourou_2006_benjamin__Q05]]
 
 
 
@@ -252,7 +247,6 @@ How many houses along the avenue with civic numbers
 > Choose the figure in which the smaller of the two angles formed by the two hands of the clock measures 150°.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2006_benjamin#q06|src_kangourou_2006_benjamin__Q06]]
 
 
 
@@ -285,7 +279,6 @@ How many houses along the avenue with civic numbers
 > A) 3629        B) 3530     C) 2720           D) 2621          E) 2603
 
 **Answer:** D
-[[Quesiti/src_kangourou_2006_benjamin#q07|src_kangourou_2006_benjamin__Q07]]
 
 
 
@@ -319,7 +312,6 @@ How many houses along the avenue with civic numbers
 > Look at the figure. In how many ways can we write the number 2006 by following the arrows? A) 5           B) 6           C) 7           D) 8           E) 9
 
 **Answer:** D
-[[Quesiti/src_kangourou_2006_benjamin#q08|src_kangourou_2006_benjamin__Q08]]
 
 
 
@@ -393,7 +385,6 @@ How many houses along the avenue with civic numbers
 > The figure shows a sheet of paper shaped like a regular hexagon. It is folded so that the three vertices indicated with a dot go exactly to the center of the hexagon and the others remain standing. What figure do you get? A) a six-pointed star B) a dodecagon C) a hexagon D) a square E) a triangle
 
 **Answer:** E
-[[Quesiti/src_kangourou_2006_benjamin#q09|src_kangourou_2006_benjamin__Q09]]
 
 
 
@@ -468,8 +459,6 @@ How many houses along the avenue with civic numbers
 
 **Answer:** B
 
-[[Quesiti/src_kangourou_2006_benjamin#q10|src_kangourou_2006_benjamin__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -511,7 +500,6 @@ How many houses along the avenue with civic numbers
 > The "star" in the figure features four circles, a square, and four triangles. The triangles are equilateral; the circles are equal, they touch each other without overlapping and they touch the sides of the square. If the radius of each circle is five centimeters, how much in centimeters does the perimeter of the "star" measure? A) 40 B) 80 C) 120 D) 160 E) 240
 
 **Answer:** D
-[[Quesiti/src_kangourou_2006_benjamin#q11|src_kangourou_2006_benjamin__Q11]]
 
 
 
@@ -541,7 +529,6 @@ How many houses along the avenue with civic numbers
 > Consider only integers greater than 0. What is the difference between the sum of the first 1000 even numbers and the sum of the first 1000 odd numbers? A) 1                B) 200             C) 500           D) 1000           E) 2000
 
 **Answer:** D
-[[Quesiti/src_kangourou_2006_benjamin#q12|src_kangourou_2006_benjamin__Q12]]
 
 
 
@@ -581,7 +568,6 @@ How many houses along the avenue with civic numbers
 > A die is in the position indicated in the figure. How many complete turns of the track will it take for the die, rotating each time by one face, to return to the exact starting position? (a) 1 (b) 2 (c) 3 (d) 4 (e) cannot be determined
 
 **Answer:** A
-[[Quesiti/src_kangourou_2006_benjamin#q13|src_kangourou_2006_benjamin__Q13]]
 
 
 
@@ -621,7 +607,6 @@ How many houses along the avenue with civic numbers
 > The square in the figure is divided into 10 x 10 squares. We color each of them by assigning the same color to all the squares that are on the same line parallel to the highlighted diagonal; we use the five colors available in the following order: red, yellow, blue, green, black, red, yellow, blue, ... and so on (see figure). What color will be assigned to the square in the lower right corner? A) red B) yellow C) blue D) green E) black
 
 **Answer:** D
-[[Quesiti/src_kangourou_2006_benjamin#q14|src_kangourou_2006_benjamin__Q14]]
 
 
 
@@ -716,8 +701,6 @@ How many houses along the avenue with civic numbers
 
 **Answer:** B
 
-[[Quesiti/src_kangourou_2006_benjamin#q15|src_kangourou_2006_benjamin__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,method_telescoping,skill_riconoscimento_pattern"></span>
@@ -751,7 +734,6 @@ How many houses along the avenue with civic numbers
 > What is the result of the sequence of operations shown in the box? A) 111111111 B) 1010101010 C) 100000000 D) 999999999 E) 0
 
 **Answer:** B
-[[Quesiti/src_kangourou_2006_benjamin#q16|src_kangourou_2006_benjamin__Q16]]
 
 
 
@@ -787,7 +769,6 @@ How many houses along the avenue with civic numbers
 > You have a cube and you want to color three faces blue and three faces red. How many different ways can you do that? (Two cubes are differently coloured if, however one is turned, the other cannot be obtained.) A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** B
-[[Quesiti/src_kangourou_2006_benjamin#q17|src_kangourou_2006_benjamin__Q17]]
 
 
 
@@ -827,7 +808,6 @@ How many houses along the avenue with civic numbers
 > The diameter AB of the circle in the figure is 10 cm. What is the perimeter of the region highlighted if the smaller rectangles in the figure are all the same? A) 8 cm B) 16 cm C) 20 cm D) 25 cm E) 30 cm
 
 **Answer:** C
-[[Quesiti/src_kangourou_2006_benjamin#q18|src_kangourou_2006_benjamin__Q18]]
 
 
 
@@ -865,7 +845,6 @@ How many houses along the avenue with civic numbers
 > I had a 15-meter long rope. By cutting it properly, I obtained pieces that were a whole number of meters in length. The number of pieces is as large as possible, consistent with the fact that there are not two of the same length. How many cuts did I make? A) 3 B) 4 C) 5 D) 6 E) 15.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2006_benjamin#q19|src_kangourou_2006_benjamin__Q19]]
 
 
 
@@ -945,7 +924,6 @@ How many houses along the avenue with civic numbers
 > Questions from No. 21 to No. 30 are worth 5 points each
 
 **Answer:** E
-[[Quesiti/src_kangourou_2006_benjamin#q20|src_kangourou_2006_benjamin__Q20]]
 
 
 
@@ -990,7 +968,6 @@ How many houses along the avenue with civic numbers
 > In Figures 1 and 2 two quadrilaterals are represented, each constructed by approaching the same two equal isosceles triangles: the first is a parallelogram, the second a rhombus. The perimeter of the parallelogram is 3 centimeters longer than the perimeter of each triangle; instead, the perimeter of the rhombus is 7 centimeters longer than that of each triangle. So the perimeter of each triangle is in centimeters, A) 3 B) 7 C) 11 D) 13 E) 16
 
 **Answer:** D
-[[Quesiti/src_kangourou_2006_benjamin#q21|src_kangourou_2006_benjamin__Q21]]
 
 
 
@@ -1033,7 +1010,6 @@ How many houses along the avenue with civic numbers
 > A river runs through a city and there are two islets; there are also six bridges as shown in the figure next to it. How many different routes allow you to go from point A to point B by crossing each bridge once and only once? A) 0 B) 2 C) 4 D) 6 E) more than 6
 
 **Answer:** D
-[[Quesiti/src_kangourou_2006_benjamin#q22|src_kangourou_2006_benjamin__Q22]]
 
 
 
@@ -1073,7 +1049,6 @@ How many houses along the avenue with civic numbers
 > D) 1/8; 9/80; 1/10     E) none of the preceding
 
 **Answer:** D
-[[Quesiti/src_kangourou_2006_benjamin#q23|src_kangourou_2006_benjamin__Q23]]
 
 
 
@@ -1160,8 +1135,6 @@ How many houses along the avenue with civic numbers
 
 **Answer:** E
 
-[[Quesiti/src_kangourou_2006_benjamin#q24|src_kangourou_2006_benjamin__Q24]]
-
 
 
 <span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_funzionali,topic_combinatoria,method_ricorsione,skill_riconoscimento_pattern"></span>
@@ -1203,7 +1176,6 @@ How many houses along the avenue with civic numbers
 > A) 124            B) 148             C) 61               D) 254            E) 120
 
 **Answer:** A
-[[Quesiti/src_kangourou_2006_benjamin#q25|src_kangourou_2006_benjamin__Q25]]
 
 
 
@@ -1277,7 +1249,6 @@ How many houses along the avenue with civic numbers
 > What is the smallest number of points that you can remove from the figure shown next to you so that there are not three left that are the vertices of any equilateral triangle? A) 2 B) 3 C) 4 D) 5 E) 6
 
 **Answer:** C
-[[Quesiti/src_kangourou_2006_benjamin#q26|src_kangourou_2006_benjamin__Q26]]
 
 
 
@@ -1313,7 +1284,6 @@ How many houses along the avenue with civic numbers
 > At one camp, Aldo and Bruno set a fire to cook their food, using 15 pieces of the same wood: 8 were brought by Aldo and 7 by Bruno. Carlo asks if he can use the same fire to cook and rewards his friends with 30 coins, all of the same value. The fair way to divide coins between Aldo and Bruno is: A) 22 to Aldo and 8 to Bruno. B) 20 to Aldo and 10 to Bruno. C) 15 to Aldo and 15 to Bruno. D) 16 to Aldo and 14 to Bruno. E) 18 to Aldo and 12 to Bruno.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2006_benjamin#q27|src_kangourou_2006_benjamin__Q27]]
 
 
 
@@ -1372,8 +1342,6 @@ How many houses along the avenue with civic numbers
 
 **Answer:** B
 
-[[Quesiti/src_kangourou_2006_benjamin#q28|src_kangourou_2006_benjamin__Q28]]
-
 
 
 <span class="atom-split" id="q29" data-atom="q29" data-title="Quesito 29" data-tags="topic_geometria_solida,topic_logica,skill_ragionamento_geometrico"></span>
@@ -1410,7 +1378,6 @@ How many houses along the avenue with civic numbers
 > Six letters are written on the faces of a cube. The figure shows two possible plane developments of that cube, the second of which omits some letters. What letter should be written in place of the question mark? A) A) B) B) C) C) D) E) It is not possible to say with certainty.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2006_benjamin#q29|src_kangourou_2006_benjamin__Q29]]
 
 
 
@@ -1463,5 +1430,3 @@ How many houses along the avenue with civic numbers
 > For students in first or second year of middle school
 
 **Answer:** C
-
-[[Quesiti/src_kangourou_2006_benjamin#q30|src_kangourou_2006_benjamin__Q30]]

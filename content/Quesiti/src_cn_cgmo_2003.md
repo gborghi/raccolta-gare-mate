@@ -40,8 +40,6 @@ level: China Girls' Mathematical Olympiad
 
 ![[src_cn_cgmo_2003__q01.png]]
 
-[[Quesiti/src_cn_cgmo_2003#q01|src_cn_cgmo_2003__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_stima"></span>
@@ -66,8 +64,6 @@ level: China Girls' Mathematical Olympiad
 *Ricerca la somma massima meno min del valore della posizione del sedile per 47 studenti nella griglia 6x8*
 
 > Ci sono 47 studenti in una classe con sedi disposti in 6 righe $\times$ 8 colonne, e il posto nella riga $i$-th e $j$-th colonna è indicato da $(i, j)$. Ora, viene fatto un aggiustamento per i posti degli studenti nel nuovo semestre scolastico. Per uno studente con il sedile originale $(i, j)$, se il suo nuovo sedile è $(m, n)$, diciamo che lo studente è spostato da $[m, n] - [i, j] = m - i + n - j$ e definiamo il valore della posizione dello studente come $|m - i + n - j|$. $S$ indichi la somma dei valori di posizione di tutti gli studenti. Determinare la differenza tra i valori più grandi e più piccoli possibili di $S$.
-
-[[Quesiti/src_cn_cgmo_2003#q02|src_cn_cgmo_2003__Q02]]
 
 
 
@@ -102,8 +98,6 @@ level: China Girls' Mathematical Olympiad
 > 
 > (Posizionato da Qian Zhanwang)
 
-[[Quesiti/src_cn_cgmo_2003#q03|src_cn_cgmo_2003__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_disuguaglianze,method_induzione,method_telescoping,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_stima"></span>
@@ -130,8 +124,6 @@ level: China Girls' Mathematical Olympiad
 *Sequenza con a_{n+1}=a_n^2-a_n+1: prova somma di prodotti reciproci < 1*
 
 > $\{a_n\}_{n=1}^{\infty}$ sia una sequenza di numeri reali come $a_1 = 2$, $a_{n+1} = a_n^2 - a_n + 1$ per $n = 1, 2, \ldots$. Dimostrare che $$\frac{1}{a_1} + \frac{1}{a_1 a_2} + \cdots + \frac{1}{a_1 a_2 \cdots a_{2003}} < 1.$$ (posato da Li Shenghong)
-
-[[Quesiti/src_cn_cgmo_2003#q04|src_cn_cgmo_2003__Q04]]
 
 
 
@@ -165,8 +157,6 @@ level: China Girls' Mathematical Olympiad
 
 ![[src_cn_cgmo_2003__q05.png]]
 
-[[Quesiti/src_cn_cgmo_2003#q05|src_cn_cgmo_2003__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_doppio_conteggio,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -191,5 +181,3 @@ level: China Girls' Mathematical Olympiad
 *Al massimo la metà dei divisori propri di n fine nella cifra 5*
 
 > Che $n \ge 2$ sia un intero positivo, e che $S_n$ sia l'insieme di tutti i divisori interi positivi di $n$ (esclusi $1$ e $n$ stesso). Prova che almeno la metà degli elementi di $S_n$ ha le ultime cifre uguali a $5$. (Possibile da Feng Zanting)
-
-[[Quesiti/src_cn_cgmo_2003#q06|src_cn_cgmo_2003__Q06]]

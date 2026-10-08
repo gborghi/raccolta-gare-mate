@@ -35,7 +35,6 @@ level: kangourou
 > Let $n$ be the smallest positive integer such that the number $7 \times n$ has $2021$ digits. What is the units digit of $n$?
 
 **Answer:** 9
-[[Quesiti/src_kangourou_2020_student_settembre#q01|src_kangourou_2020_student_settembre__Q01]]
 
 
 
@@ -76,7 +75,6 @@ level: kangourou
 > (c) for each method of filling the grid there is at most a special number.
 
 **Answer:** a)F b)V c)V
-[[Quesiti/src_kangourou_2020_student_settembre#q02|src_kangourou_2020_student_settembre__Q02]]
 
 
 
@@ -105,7 +103,6 @@ level: kangourou
 > How many pairs $(x, y)$ of integers (not necessarily positive) such that $x^2 + 7y = xy$?
 
 **Answer:** 6
-[[Quesiti/src_kangourou_2020_student_settembre#q03|src_kangourou_2020_student_settembre__Q03]]
 
 
 
@@ -134,7 +131,6 @@ Comparison between 129^29 and 4095^17
 > Which of the two numbers $129^{29}$ and $4095^{17}$ is greater?
 
 **Answer:** the second
-[[Quesiti/src_kangourou_2020_student_settembre#q04|src_kangourou_2020_student_settembre__Q04]]
 
 
 
@@ -164,8 +160,6 @@ Comparison between 129^29 and 4095^17
 ![[src_kangourou_2020_student_settembre__prob5.png]]
 
 > A center circumference $I$ is inscribed in a triangle $ABC$: denotes with $D$ and $E$ its tangent points on the sides $BC$ and $AC$ respectively. Also denote with $M$ and $N$ the mean points of $BC$ and $AB$ respectively and with $P$ the intersection between the connecting line $A$ with $I$ and the connecting line $D$ with $E$. It shows that $M$, $N$ and $P$ are aligned.
-
-[[Quesiti/src_kangourou_2020_student_settembre#q05|src_kangourou_2020_student_settembre__Q05]]
 
 
 
@@ -205,5 +199,4 @@ Comparison between 129^29 and 4095^17
 > 
 > (It may be useful to know that, once a positive number $a$ is fixed, there exists a number $M = M(a)$ such that one has $1 + \frac{1}{2^a} + \frac{1}{3^a} + \cdots + \frac{1}{n^a} < M$ for every $n \in \mathbb{N}$ if and only if $a > 1$.)
 
-**Answer:** FALSA
-[[Quesiti/src_kangourou_2020_student_settembre#q06|src_kangourou_2020_student_settembre__Q06]]
+**Answer:** FALSE

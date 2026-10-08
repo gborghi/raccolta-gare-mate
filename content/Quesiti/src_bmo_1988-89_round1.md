@@ -34,8 +34,6 @@ level: BMO Round 1
 
 > Trova tutti gli integri $a, b, c$ per i quali $$(x-a)(x-10) + 1 = (x+b)(x+c) \quad \text{for all } x.$$
 
-[[Quesiti/src_bmo_1988-89_round1#q01|src_bmo_1988-89_round1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -63,8 +61,6 @@ level: BMO Round 1
 
 > I punti $P$, $Q$ si trovano rispettivamente sui lati $AB$, $AC$ del triangolo $ABC$ e sono tali che $AP = x$, $AQ = y$, rispettivamente, con la convenzione che $x > 0$ se $P$ è sullo stesso lato di $A$ come $B$, e $x < 0$ sul lato opposto; lo stesso vale per $y$. Indicare che $PQ$ passa attraverso il centroide del triangolo se e solo se $$3xy = bx + cy$$ dove $b = AC$, $c = AB$.
 
-[[Quesiti/src_bmo_1988-89_round1#q02|src_bmo_1988-89_round1__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -89,8 +85,6 @@ level: BMO Round 1
 *Espresso la superficie del triangolo ABC in termini di aree dei triangoli OBC, OCA, OAB*
 
 > $OA$, $OB$, $OC$ sono linee reciprocamente perpendicolari. Esprimere l'area del triangolo $ABC$ in termini di aree dei triangoli $OBC$, $OCA$, $OAB$.
-
-[[Quesiti/src_bmo_1988-89_round1#q03|src_bmo_1988-89_round1__Q03]]
 
 
 
@@ -129,8 +123,6 @@ level: BMO Round 1
 > 
 > Prova che, dalla terza riga in poi, ogni riga contiene almeno un numero pari.
 
-[[Quesiti/src_bmo_1988-89_round1#q04|src_bmo_1988-89_round1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_trigonometria,topic_disuguaglianze,method_disuguaglianze,method_trigonometria,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -156,8 +148,6 @@ level: BMO Round 1
 *Prove sin A + sin B + sin C > 2 per il triangolo acuto*
 
 > Nessun angolo di un triangolo $ABC$ supera $90^\circ$. Provare che $$\sin A + \sin B + \sin C > 2.$$
-
-[[Quesiti/src_bmo_1988-89_round1#q05|src_bmo_1988-89_round1__Q05]]
 
 
 
@@ -187,5 +177,3 @@ level: BMO Round 1
 *Prove tutti i termini della sequenza di numeri interi sono odd*
 
 > La sequenza $\{a_n\}$ di numeri interi è definita da $$a_1 = 2, \quad a_2 = 7$$ e $$-\frac{1}{2} < a_{n+1} - \frac{a_n^2}{a_{n-1}} \le \frac{1}{2} \quad \text{for } n \ge 2.$$ Prove che $a_n$ è odd per tutti $n > 1$.
-
-[[Quesiti/src_bmo_1988-89_round1#q06|src_bmo_1988-89_round1__Q06]]

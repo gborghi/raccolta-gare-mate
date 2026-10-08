@@ -37,8 +37,6 @@ level: BMO Round 1
 > 
 > Prove che $AD_1 + AD_2 = BE_1 + BE_2 = CF_1 + CF_2$.
 
-[[Quesiti/src_bmo1_1981#q01|src_bmo1_1981__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
@@ -69,8 +67,6 @@ level: BMO Round 1
 > $m$ e $n$ sono integri positivi. $S_n$ è la somma dei termini $m$ di $$-(n-1)n(n+1) + (n+1)(n+2)(n+3) - (n+3)(n+4)(n+5) + \cdots$$ in cui i termini si alternano in segno e ciascuno, dopo il primo, è il prodotto di numeri interi consecutivi con l'ultimo ma uno omesso.
 > 
 > Provare che $S_n$ è divisibile da $n!$, ma non necessariamente da $n!(n+1)$.
-
-[[Quesiti/src_bmo1_1981#q02|src_bmo1_1981__Q02]]
 
 
 
@@ -105,8 +101,6 @@ level: BMO Round 1
 > 
 > (ii) $abc \ge (a+b-c)(b+c-a)(c+a-b)$.
 
-[[Quesiti/src_bmo1_1981#q03|src_bmo1_1981__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_geometria_solida,method_conteggio,method_doppio_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_modellizzazione"></span>
@@ -136,8 +130,6 @@ level: BMO Round 1
 > 
 > Prova che non può tagliare più di $\dfrac{n^2(n-2)}{4}$ del tetraedro di $S$ in sezioni incrociate quadrilaterali.
 
-[[Quesiti/src_bmo1_1981#q04|src_bmo1_1981__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_stima"></span>
@@ -162,8 +154,6 @@ level: BMO Round 1
 *Trovare il valore più piccolo di 12^m - 5^n per i numeri interi positivi m, n*
 
 > Trova, con prova, il minimo valore possibile di $\left|12^m - 5^n\right|$, dove $m$ e $n$ sono interi positivi.
-
-[[Quesiti/src_bmo1_1981#q05|src_bmo1_1981__Q05]]
 
 
 
@@ -197,5 +187,3 @@ level: BMO Round 1
 > $a_1, a_2, \ldots, a_n$ sono diversi numeri interi non zero. $$P_i = \prod_{j \ne i}(a_i - a_j)$$ è il prodotto dei fattori $(n-1)$ $(a_i - a_1)$, $(a_i - a_2)$, $\ldots$, $(a_i - a_{n-1})$, escluso il fattore zero $(a_i - a_i)$.
 > 
 > Prova che se $k$ è un intero non negativo, $$\sum_{i=1}^{n} \frac{a_i^k}{P_i}$$ è un intero.
-
-[[Quesiti/src_bmo1_1981#q06|src_bmo1_1981__Q06]]

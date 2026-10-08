@@ -45,8 +45,6 @@ level: biennio
 > - **(D)** 147
 > - **(E)** 146
 
-[[Quesiti/src_archimede_2020_riserva_biennio#q01|src_archimede_2020_riserva_biennio__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
@@ -86,8 +84,6 @@ level: biennio
 > - **(D)** 127
 > - **(E)** 126
 
-[[Quesiti/src_archimede_2020_riserva_biennio#q02|src_archimede_2020_riserva_biennio__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
@@ -126,8 +122,6 @@ level: biennio
 > - **(D)** 29
 > - **(E)** 25
 
-[[Quesiti/src_archimede_2020_riserva_biennio#q03|src_archimede_2020_riserva_biennio__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica"></span>
@@ -162,8 +156,6 @@ level: biennio
 > - **(C)** 261
 > - **(D)** 266
 > - **(E)** 268
-
-[[Quesiti/src_archimede_2020_riserva_biennio#q04|src_archimede_2020_riserva_biennio__Q04]]
 
 
 
@@ -203,8 +195,6 @@ level: biennio
 > - **(D)** 6°
 > - **(E)** 8°
 
-[[Quesiti/src_archimede_2020_riserva_biennio#q05|src_archimede_2020_riserva_biennio__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_casi_conteggio,skill_casework_accurato"></span>
@@ -241,8 +231,6 @@ level: biennio
 > - **(C)** 20
 > - **(D)** 34
 > - **(E)** 32
-
-[[Quesiti/src_archimede_2020_riserva_biennio#q06|src_archimede_2020_riserva_biennio__Q06]]
 
 
 
@@ -283,8 +271,6 @@ level: biennio
 > - **(D)** 108
 > - **(E)** 72
 
-[[Quesiti/src_archimede_2020_riserva_biennio#q07|src_archimede_2020_riserva_biennio__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,method_conteggio,skill_ragionamento_geometrico"></span>
@@ -322,8 +308,6 @@ level: biennio
 > - **(C)** 24
 > - **(D)** 27
 > - **(E)** 36
-
-[[Quesiti/src_archimede_2020_riserva_biennio#q08|src_archimede_2020_riserva_biennio__Q08]]
 
 
 
@@ -365,8 +349,6 @@ Maximum number of knights at tables bounded by neighbours
 > - **(D)** 51
 > - **(E)** 39
 
-[[Quesiti/src_archimede_2020_riserva_biennio#q09|src_archimede_2020_riserva_biennio__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,skill_modellizzazione"></span>
@@ -404,8 +386,6 @@ Maximum number of knights at tables bounded by neighbours
 > - **(D)** 216
 > - **(E)** 273
 
-[[Quesiti/src_archimede_2020_riserva_biennio#q10|src_archimede_2020_riserva_biennio__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_solida"></span>
@@ -442,8 +422,6 @@ Maximum number of knights at tables bounded by neighbours
 > - **(D)** 64
 > - **(E)** 80
 
-[[Quesiti/src_archimede_2020_riserva_biennio#q11|src_archimede_2020_riserva_biennio__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -479,5 +457,3 @@ Maximum number of knights at tables bounded by neighbours
 > - **(C)** 19
 > - **(D)** 18
 > - **(E)** 24 The Archimedean Games 2020/2021 Good reserve competition   PROOF code: BB02
-
-[[Quesiti/src_archimede_2020_riserva_biennio#q12|src_archimede_2020_riserva_biennio__Q12]]

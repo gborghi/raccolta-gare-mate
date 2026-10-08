@@ -41,8 +41,6 @@ level: IMO
 > $$xy = z^2$$
 > dove $a$ e $b$ sono costanti. Si diano le condizioni che devono soddisfare $a$ e $b$ affinché $x, y, z$ (le soluzioni del sistema) siano numeri positivi distinti.
 
-[[Quesiti/src_imho_1961#q01|src_imho_1961__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,topic_geometria_piana,method_disuguaglianze,skill_manipolazione_algebrica"></span>
@@ -73,8 +71,6 @@ level: IMO
 >
 > In quale caso si ha l'uguaglianza?
 
-[[Quesiti/src_imho_1961#q02|src_imho_1961__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_trigonometria,method_casework,method_trigonometria,skill_manipolazione_algebrica"></span>
@@ -99,8 +95,6 @@ level: IMO
 *Risolvere cos^n x - sin^n x = 1*
 
 > Risolvere l'equazione $\cos^n x - \sin^n x = 1$, dove $n$ è un numero naturale.
-
-[[Quesiti/src_imho_1961#q03|src_imho_1961__Q03]]
 
 
 
@@ -131,8 +125,6 @@ level: IMO
 > $$\frac{P_1 P}{PQ_1}, \quad \frac{P_2 P}{PQ_2}, \quad \frac{P_3 P}{PQ_3}$$
 > almeno uno è $\leq 2$ e almeno uno è $\geq 2$.
 
-[[Quesiti/src_imho_1961#q04|src_imho_1961__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -161,8 +153,6 @@ level: IMO
 > $$b \tan\frac{\omega}{2} \leq c < b.$$
 > In quale caso si ha l'uguaglianza?
 
-[[Quesiti/src_imho_1961#q05|src_imho_1961__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,topic_geometria_analitica,method_coordinate,skill_ragionamento_geometrico"></span>
@@ -187,5 +177,3 @@ level: IMO
 *Luogo del baricentro G dei medi al variare di A',B',C'*
 
 > Si consideri un piano $\varepsilon$ e tre punti non allineati $A$, $B$, $C$ situati dallo stesso lato del piano $\varepsilon$; si supponga che il piano individuato da questi tre punti non sia parallelo al piano $\varepsilon$. Nel piano $\varepsilon$ si scelgano tre punti arbitrari $A'$, $B'$, $C'$. Siano $L$, $M$, $N$ i punti medi dei segmenti $AA'$, $BB'$, $CC'$; sia $G$ il baricentro del triangolo $LMN$. (Non si considereranno configurazioni dei punti $A'$, $B'$, $C'$ tali che i punti $L$, $M$, $N$ non formino un triangolo.) Qual è il luogo del punto $G$ quando i punti $A'$, $B'$, $C'$ variano indipendentemente nel piano $\varepsilon$?
-
-[[Quesiti/src_imho_1961#q06|src_imho_1961__Q06]]

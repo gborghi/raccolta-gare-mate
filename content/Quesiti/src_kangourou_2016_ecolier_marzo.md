@@ -51,7 +51,6 @@ Within days the kangaroo will be 8 weeks old*
 > E) 19
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_ecolier_marzo#q01|src_kangourou_2016_ecolier_marzo__Q01]]
 
 
 
@@ -99,7 +98,6 @@ Within days the kangaroo will be 8 weeks old*
 > E) 80
 
 **Answer:** A
-[[Quesiti/src_kangourou_2016_ecolier_marzo#q02|src_kangourou_2016_ecolier_marzo__Q02]]
 
 
 
@@ -139,7 +137,6 @@ Within days the kangaroo will be 8 weeks old*
 > E) 5
 
 **Answer:** B
-[[Quesiti/src_kangourou_2016_ecolier_marzo#q03|src_kangourou_2016_ecolier_marzo__Q03]]
 
 
 
@@ -180,7 +177,6 @@ Within days the kangaroo will be 8 weeks old*
 > D) E)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2016_ecolier_marzo#q04|src_kangourou_2016_ecolier_marzo__Q04]]
 
 
 
@@ -230,7 +226,6 @@ Within days the kangaroo will be 8 weeks old*
 >
 
 **Answer:** A
-[[Quesiti/src_kangourou_2016_ecolier_marzo#q05|src_kangourou_2016_ecolier_marzo__Q05]]
 
 
 
@@ -285,7 +280,6 @@ Within days the kangaroo will be 8 weeks old*
 > E) 4
 
 **Answer:** D
-[[Quesiti/src_kangourou_2016_ecolier_marzo#q06|src_kangourou_2016_ecolier_marzo__Q06]]
 
 
 
@@ -336,7 +330,6 @@ Within days the kangaroo will be 8 weeks old*
 > E) 7
 
 **Answer:** B
-[[Quesiti/src_kangourou_2016_ecolier_marzo#q07|src_kangourou_2016_ecolier_marzo__Q07]]
 
 
 
@@ -380,8 +373,6 @@ Within days the kangaroo will be 8 weeks old*
 
 **Answer:** D
 
-[[Quesiti/src_kangourou_2016_ecolier_marzo#q08|src_kangourou_2016_ecolier_marzo__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,skill_conteggio_sistematico"></span>
@@ -418,7 +409,6 @@ Within days the kangaroo will be 8 weeks old*
 > Which of the following statements on the figure is correct? A) The number of circles is equal to that of the squares. B) There are fewer circles than triangles. C) The number of circles is twice that of triangles. D) There are more squares than triangles. E) The number of triangles is two more than that of the circles.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_ecolier_marzo#q09|src_kangourou_2016_ecolier_marzo__Q09]]
 
 
 
@@ -454,7 +444,6 @@ Within days the kangaroo will be 8 weeks old*
 > Sara has two cards; she wrote a number on each face of each card. The sum of the numbers written on the first card is equal to the sum of the numbers written on the second. Also, the sum of the four numbers is 32. Sara put the two cards on the table, and now we see numbers 5 and 12. What are the numbers on the faces of the two cards we don't see? A)  7 and 0 B) 8 and 1 C) 6 and 3 D) 9 and 2 E) 11 and 4
 
 **Answer:** E
-[[Quesiti/src_kangourou_2016_ecolier_marzo#q10|src_kangourou_2016_ecolier_marzo__Q10]]
 
 
 
@@ -490,7 +479,6 @@ Within days the kangaroo will be 8 weeks old*
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_ecolier_marzo#q11|src_kangourou_2016_ecolier_marzo__Q11]]
 
 
 
@@ -553,7 +541,6 @@ Within days the kangaroo will be 8 weeks old*
 > E) 19
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_ecolier_marzo#q12|src_kangourou_2016_ecolier_marzo__Q12]]
 
 
 
@@ -603,7 +590,6 @@ Within days the kangaroo will be 8 weeks old*
 > E) 2, 3 and 5
 
 **Answer:** A
-[[Quesiti/src_kangourou_2016_ecolier_marzo#q13|src_kangourou_2016_ecolier_marzo__Q13]]
 
 
 
@@ -651,7 +637,6 @@ Within days the kangaroo will be 8 weeks old*
 > E) 9
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_ecolier_marzo#q14|src_kangourou_2016_ecolier_marzo__Q14]]
 
 
 
@@ -727,7 +712,6 @@ Within days the kangaroo will be 8 weeks old*
 > E) 6
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_ecolier_marzo#q15|src_kangourou_2016_ecolier_marzo__Q15]]
 
 
 
@@ -811,7 +795,6 @@ Maximum squares certainly occupied by 8 out of 11 coins
 > The questions from N. 17 to N. 24 are worth five points each.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2016_ecolier_marzo#q16|src_kangourou_2016_ecolier_marzo__Q16]]
 
 
 
@@ -854,7 +837,6 @@ Maximum squares certainly occupied by 8 out of 11 coins
 > B) C) D) 	                   E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2016_ecolier_marzo#q17|src_kangourou_2016_ecolier_marzo__Q17]]
 
 
 
@@ -902,7 +884,6 @@ Maximum squares certainly occupied by 8 out of 11 coins
 > E) 60
 
 **Answer:** B
-[[Quesiti/src_kangourou_2016_ecolier_marzo#q18|src_kangourou_2016_ecolier_marzo__Q18]]
 
 
 
@@ -953,7 +934,6 @@ How many pears if there are 25 apples on the trees
 > E) 56
 
 **Answer:** D
-[[Quesiti/src_kangourou_2016_ecolier_marzo#q19|src_kangourou_2016_ecolier_marzo__Q19]]
 
 
 
@@ -1007,7 +987,6 @@ How many pears if there are 25 apples on the trees
 > E) All of them.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2016_ecolier_marzo#q20|src_kangourou_2016_ecolier_marzo__Q20]]
 
 
 
@@ -1058,7 +1037,6 @@ How many pears if there are 25 apples on the trees
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_ecolier_marzo#q21|src_kangourou_2016_ecolier_marzo__Q21]]
 
 
 
@@ -1108,7 +1086,6 @@ How many pears if there are 25 apples on the trees
 > E) To the right of plate T.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2016_ecolier_marzo#q22|src_kangourou_2016_ecolier_marzo__Q22]]
 
 
 
@@ -1156,7 +1133,6 @@ How many pears if there are 25 apples on the trees
 > E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2016_ecolier_marzo#q23|src_kangourou_2016_ecolier_marzo__Q23]]
 
 
 
@@ -1229,4 +1205,3 @@ How many pears if there are 25 apples on the trees
 > E) Elio
 
 **Answer:** B
-[[Quesiti/src_kangourou_2016_ecolier_marzo#q24|src_kangourou_2016_ecolier_marzo__Q24]]

@@ -34,7 +34,6 @@ level: kangourou
 > All the boys in Luigi and Michele's class lined up. Behind Luigi are 16 boys, and Michele is one of them. There are 14 boys in front of Michele, and Luigi is one of them. Between Luigi and Michele there are 7 boys (without counting Luigi and Michele). How many kids are in that class?
 
 **Answer:** 23
-[[Quesiti/src_kangourou_2012_ecolier_finale#qe1|src_kangourou_2012_ecolier_finale__QE1]]
 
 
 
@@ -62,7 +61,6 @@ level: kangourou
 > In one photograph, four clocks appear: one marks 4:45, another 5:05, another marks 5:25, and the last at 5:40. It is known that when the photograph was taken, two of them were stationary, while the other two, while running at the correct speed, were one 20 minutes ahead and the other 20 minutes behind. What time was the photo taken?
 
 **Answer:** 5:05
-[[Quesiti/src_kangourou_2012_ecolier_finale#qe2|src_kangourou_2012_ecolier_finale__QE2]]
 
 
 
@@ -90,7 +88,6 @@ level: kangourou
 > Elena has 20 balls, each colored with one and only one of the following colors: green, red, blue, brown. 17 are not green, 5 are red, 12 are not blue. How many brown balls are there?
 
 **Answer:** 4
-[[Quesiti/src_kangourou_2012_ecolier_finale#qe3|src_kangourou_2012_ecolier_finale__QE3]]
 
 
 
@@ -119,7 +116,6 @@ level: kangourou
 > If all odd integers between 1 and 2012 are multiplied by each other, what number does the product end with?
 
 **Answer:** 5
-[[Quesiti/src_kangourou_2012_ecolier_finale#qe4|src_kangourou_2012_ecolier_finale__QE4]]
 
 
 
@@ -151,7 +147,6 @@ level: kangourou
 > The figure, drawn on grid paper, represents a kangaroo. You want to cut it so you only get triangles. What's the minimum number of triangles you can get? (see figure)
 
 **Answer:** 6
-[[Quesiti/src_kangourou_2012_ecolier_finale#qe5|src_kangourou_2012_ecolier_finale__QE5]]
 
 
 
@@ -184,4 +179,3 @@ level: kangourou
 > Peter wants to line up a number of traditional dice (the sum of points on opposite faces is always 7), as shown in the figure. He joins two faces together only if the number of points on both faces is the same, and he wants to get a row so that the sum of points on all the faces that are visible is 100. Can he do it? If so, how many dice does he have to use? If not, why? (see figure)
 
 **Answer:** no
-[[Quesiti/src_kangourou_2012_ecolier_finale#qe6|src_kangourou_2012_ecolier_finale__QE6]]

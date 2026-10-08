@@ -34,7 +34,6 @@ level: kangourou
 > If the answer A is correct, then so is B.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2006_junior_marzo#q01|src_kangourou_2006_junior_marzo__Q01]]
 
 
 
@@ -62,7 +61,6 @@ Advanced cubes building the largest cube
 > If the answer C is not correct, then neither is B.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2006_junior_marzo#q02|src_kangourou_2006_junior_marzo__Q02]]
 
 
 
@@ -93,7 +91,6 @@ Advanced cubes building the largest cube
 > If answer B is wrong, then neither are D and E. You know that in the questions put by Kangourou, one and only one of the answers is correct. So you can conclude that the correct answer is A) A               B) B              C) C              D) D                 E) E
 
 **Answer:** C
-[[Quesiti/src_kangourou_2006_junior_marzo#q03|src_kangourou_2006_junior_marzo__Q03]]
 
 
 
@@ -122,7 +119,6 @@ Advanced cubes building the largest cube
 > 4. Peter says that exactly 25% of his personal library is made up of literature books, while exactly 1/9 of it is made up of mathematics books. The number of Junior books in Peter's library is known to be between 50 and 100. How many books is that library made of? A) 50 B) 54 C) 64 D) 72 E) 92
 
 **Answer:** D
-[[Quesiti/src_kangourou_2006_junior_marzo#q04|src_kangourou_2006_junior_marzo__Q04]]
 
 
 
@@ -151,7 +147,6 @@ Minimum minutes for numbers to become multiples of 5
 > 5. On the board are the numbers 1, 2, 3, 4. Every minute Luisa erases two numbers and replaces each with the number she gets by adding 1. What's the minimum number of minutes passed that all the numbers written on the board can become multiples of 5? A) 4 B) 5 C) 8 D) 10 E) Such a configuration can never occur. Kang 2006 Pag. 22 22 Kang 2006 Pag.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2006_junior_marzo#q05|src_kangourou_2006_junior_marzo__Q05]]
 
 
 
@@ -183,7 +178,6 @@ Minimum minutes for numbers to become multiples of 5
 > 6. A circle is divided into four arcs: the 2 lengths of three of them are 2, 5, 6 meters. How many 5 30° meters is the fourth arc long, if on the arc of length x 2 there rests a central angle of 30 degrees? A) 7 B) 9 C) 13 6 D) 3π E) 11
 
 **Answer:** E
-[[Quesiti/src_kangourou_2006_junior_marzo#q06|src_kangourou_2006_junior_marzo__Q06]]
 
 
 
@@ -211,7 +205,6 @@ Minimum minutes for numbers to become multiples of 5
 > 7. Two trains of the same length are traveling to meet each other on a double track line, the first at 100 km/h and the second at 120 km/h. When they cross, from a window of the second train, a passenger observes that it takes exactly six seconds for the first train to completely pass in front of them. In how many seconds does a passenger on the first train see the second train pass in front of him? A) 5 B) 6 C) Between 6 and 7 D) 7 E) More than 7
 
 **Answer:** B
-[[Quesiti/src_kangourou_2006_junior_marzo#q07|src_kangourou_2006_junior_marzo__Q07]]
 
 
 
@@ -243,7 +236,6 @@ Minimum minutes for numbers to become multiples of 5
 > 8. The radius of the road sign you see in the figure measures 20 centimeters. Each of the grey areas is a quarter of a circle whose area is the same as the surface that appears clear. How many centimeters does the radius of this circle measure? A) B) C) 20/3 D) 12,5 E) 10 10 2 4 5
 
 **Answer:** A
-[[Quesiti/src_kangourou_2006_junior_marzo#q08|src_kangourou_2006_junior_marzo__Q08]]
 
 
 
@@ -272,7 +264,6 @@ Minimum minutes for numbers to become multiples of 5
 > 9. Only one of the numbers we propose can be the number of edges of a prism. Which one? A) 100 B) 200 C) 2005 D) 2006 E) 2007
 
 **Answer:** E
-[[Quesiti/src_kangourou_2006_junior_marzo#q09|src_kangourou_2006_junior_marzo__Q09]]
 
 
 
@@ -301,7 +292,6 @@ Minimum minutes for numbers to become multiples of 5
 > 10. The numbers a, b, c, d, e are positive and it is known that ab = 2, bc = 3, Junior Junior cd = 4, de = 5. What is the value of the ratio e/a ? A) 15/8 B) 5/6 C) 3/2 D) 4/5 E) The information is insufficient. Questions from No. 11 to No. 20 are worth 4 points each
 
 **Answer:** A
-[[Quesiti/src_kangourou_2006_junior_marzo#q10|src_kangourou_2006_junior_marzo__Q10]]
 
 
 
@@ -329,7 +319,6 @@ Minimum minutes for numbers to become multiples of 5
 > 11. A tactless person asked a lady about her age. The lady, somewhat resented, replied: "If I were to die at the age of one hundred, my age today would be four-thirds of half the time I would have left to live". How old is the lady? A) 20 B) 40 C) 50 D) 60 E) 80 Kang 2006 Pag. 23 23
 
 **Answer:** B
-[[Quesiti/src_kangourou_2006_junior_marzo#q11|src_kangourou_2006_junior_marzo__Q11]]
 
 
 
@@ -357,7 +346,6 @@ Minimum minutes for numbers to become multiples of 5
 > 12. Answer D). A rhombus in which the shorter diagonal measures as much as the side is obtainable by joining two equilateral triangles (equal).
 
 **Answer:** D
-[[Quesiti/src_kangourou_2006_junior_marzo#q12|src_kangourou_2006_junior_marzo__Q12]]
 
 
 
@@ -389,7 +377,6 @@ Minimum minutes for numbers to become multiples of 5
 > 13. The rectangle in the figure is divided into six squares. The side of the smallest square measures one centimetre. How many centimetres does the side of the largest square measure? 1 1 A) 5.5 B) 6 C) 7 D) 8 E) A value different from the previous ones. K A N
 
 **Answer:** C
-[[Quesiti/src_kangourou_2006_junior_marzo#q13|src_kangourou_2006_junior_marzo__Q13]]
 
 
 
@@ -418,7 +405,6 @@ Minimum minutes for numbers to become multiples of 5
 > 14. Each letter represents a digit: the letters equal- + K A G represent the same digit and different letters represent different digits + K N G different. What number does the letter A represent? ------- A) 4 B) 5 C) 6 D) 7 E) 3 2 0 0 6
 
 **Answer:** B
-[[Quesiti/src_kangourou_2006_junior_marzo#q14|src_kangourou_2006_junior_marzo__Q14]]
 
 
 
@@ -446,7 +432,6 @@ Minimum minutes for numbers to become multiples of 5
 > 15. You're trying to answer a question from Kangourou and you've come to the following conclusions:
 
 **Answer:** C
-[[Quesiti/src_kangourou_2006_junior_marzo#q15|src_kangourou_2006_junior_marzo__Q15]]
 
 
 
@@ -509,7 +494,6 @@ Minimum minutes for numbers to become multiples of 5
 > Two equal equilateral triangles, with a perimeter of 18 meters, are partially overlapped as shown in the figure: in particular each side of one is parallel to one side of the other. How many metres does the perimeter of the hexagonal figure forming the intersection of the two triangles measure? A)                  B) 12             C) 13 D) 14              E) 15
 
 **Answer:** B
-[[Quesiti/src_kangourou_2006_junior_marzo#q16|src_kangourou_2006_junior_marzo__Q16]]
 
 
 
@@ -578,7 +562,6 @@ Minimum minutes for numbers to become multiples of 5
 > Kang 2006
 
 **Answer:** A
-[[Quesiti/src_kangourou_2006_junior_marzo#q17|src_kangourou_2006_junior_marzo__Q17]]
 
 
 
@@ -620,7 +603,6 @@ Minimum minutes for numbers to become multiples of 5
 > Look at the figure: a square of 125 square meters was divided into five regions all of the same area, four of which are squares. What is the length in meters of the shortest side of the remaining region? A) 1 B) 1.2 C) D) E) 19.In a family consisting of two parents and some children, the average age is 18. Without his 38-year-old father, the average age drops to 14. How many children are in that family? A) 2                B) 3                 C) 4                  D) 5                E) 6
 
 **Answer:** E
-[[Quesiti/src_kangourou_2006_junior_marzo#q18|src_kangourou_2006_junior_marzo__Q18]]
 
 
 
@@ -648,7 +630,6 @@ Minimum minutes for numbers to become multiples of 5
 > 19. Answer C. Let n be the number of children: adding up the years of all members of the family gets 18(n + 2), adding up the years of all members excluding the father gets 14(n + 1). So it has to be 18(n + 2) - 14(n + 1) = 38, so we get n = 4.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2006_junior_marzo#q19|src_kangourou_2006_junior_marzo__Q19]]
 
 
 
@@ -690,7 +671,6 @@ Minimum minutes for numbers to become multiples of 5
 > In an amusement park there is a box containing: - 15 balls, each half red and half blue; - 12 balls, each half blue and half green; - 9 balls, each half green and half red. Taking a ball out of the box at random costs a euro. If you present seven balls that have at least one color in common, you are given a prize that you care very much about. How many euros will you have to spend, at most, to secure the prize? A) 7 B) 8 C) 9 D) 10 E) 11 Questions from N. 21 to N. 30 is worth 5 points each.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2006_junior_marzo#q20|src_kangourou_2006_junior_marzo__Q20]]
 
 
 
@@ -756,7 +736,6 @@ Minimum minutes for numbers to become multiples of 5
 > An island is inhabited only by truthful people (people who always tell the truth) and false people (people who always lie). Every inhabitant of the island knows what category each inhabitant belongs to. A traveling foreigner, who knows the situation on the island, meets two residents A and B and wants to find out which category they belong to. After receiving the answer to the question "Are you both true?" from A, he is still unable to decide. But once you get the answer to the new question "Are you in the same category?" from A again, you can finally identify them. What's the situation? A) A and B are both False. B) A and B are both true. C) A is True, B is False. D) A is False, B is True. E) Without knowing the answers obtained by the foreigner, one cannot decide. (ii) 2 5 2 − (ii) 1 5 3 − (ii) 2 5 5 − junior_06.qxp 20/02/2006 23.44 Page 25
 
 **Answer:** A
-[[Quesiti/src_kangourou_2006_junior_marzo#q21|src_kangourou_2006_junior_marzo__Q21]]
 
 
 
@@ -789,7 +768,6 @@ Minimum minutes for numbers to become multiples of 5
 > Adding up three different positive numbers, you get 20. Let's say p is the product of the two largest numbers. So A) p is certainly less than 99. B) p is certainly greater than 0.001. C) p is certainly different from 25. D) p is certainly different from 75. (e) each of the foregoing statements is false.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2006_junior_marzo#q22|src_kangourou_2006_junior_marzo__Q22]]
 
 
 
@@ -829,7 +807,6 @@ Minimum minutes for numbers to become multiples of 5
 > Two squares of 1 metre side are in the position indicated in the figure: they share a vertex and one side of one of the two lies on a diagonal of the other. What is the area of the quadrilateral at their intersection in square meters? A)               B) C) D) E)
 
 **Answer:** A
-[[Quesiti/src_kangourou_2006_junior_marzo#q23|src_kangourou_2006_junior_marzo__Q23]]
 
 
 
@@ -872,7 +849,6 @@ Minimum minutes for numbers to become multiples of 5
 > A square PQRS of 10 centimetres on the side rotates without slipping along a segment. Initially the vertices P and Q lie on the segment: the first rotation takes place by pivoting on Q and carrying R on the segment, as indicated in the figure; the subsequent ones take place as suggested by the figure. The rotations end when, for the first time, vertex P comes back into contact with the segment. What is the length of the curve described by P in centimetres? A) B) C) D) E)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2006_junior_marzo#q24|src_kangourou_2006_junior_marzo__Q24]]
 
 
 
@@ -919,7 +895,6 @@ Minimum minutes for numbers to become multiples of 5
 > E) 48
 
 **Answer:** B
-[[Quesiti/src_kangourou_2006_junior_marzo#q25|src_kangourou_2006_junior_marzo__Q25]]
 
 
 
@@ -1048,7 +1023,6 @@ Minimum minutes for numbers to become multiples of 5
 > Kang 2006
 
 **Answer:** D
-[[Quesiti/src_kangourou_2006_junior_marzo#q26|src_kangourou_2006_junior_marzo__Q26]]
 
 
 
@@ -1084,7 +1058,6 @@ Minimum minutes for numbers to become multiples of 5
 > So we pick three different points on a circumference and we assign them, one for each of them, the numbers 1, 2, 3. Within each of the three arcs identified by the three points, we choose a random point and assign the sum of the numbers already assigned to the extremes. So far, we've selected six points in total and assigned them the six numbers 1, 3, 2, 5, 3, 4. By following the same criteria, we perform the operation four more times: at the end we will have selected a total of 96 points and assigned 96 numbers to them. How much is the sum of all these numbers? A) 486           B) 2187          C) 1458            D) 4374          E) 378.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2006_junior_marzo#q27|src_kangourou_2006_junior_marzo__Q27]]
 
 
 
@@ -1126,7 +1099,6 @@ Minimum minutes for numbers to become multiples of 5
 > The final result of a football match is 5-4 in favour of the home team that scored first and, since then, has always been ahead. How many different ways can the final score be matured? (i.e. in how many different orders can the goals have been scored?) A) 17 B) 13 C) 20 D) 14 E) 9
 
 **Answer:** D
-[[Quesiti/src_kangourou_2006_junior_marzo#q28|src_kangourou_2006_junior_marzo__Q28]]
 
 
 
@@ -1158,7 +1130,6 @@ Minimum minutes for numbers to become multiples of 5
 > We denote with Y the sum of the digits of the positive integer X and with Z the sum of the digits of the number Y. For how many positive integers X happens that X + Y + Z is equal to 60 ? A) 0 B) 1 C) 2 D) 3 E) More than 3
 
 **Answer:** D
-[[Quesiti/src_kangourou_2006_junior_marzo#q29|src_kangourou_2006_junior_marzo__Q29]]
 
 
 
@@ -1314,5 +1285,3 @@ Minimum minutes for numbers to become multiples of 5
 > For students in second or third year of high school
 
 **Answer:** A
-
-[[Quesiti/src_kangourou_2006_junior_marzo#q30|src_kangourou_2006_junior_marzo__Q30]]

@@ -40,7 +40,6 @@ level: squadre
 > A strange coincidence The young Meriandin Escherbach, called Morry, regularly alternates 12 hours of wakefulness and 15 hours of sleep. The village pastry chef throws his celebrated sweets all over the county every Sunday at noon. Always at noon, every 30 days, Morry's landlord comes to claim the rent. Today, Meriandin woke up exactly as the pastry chef squeezed the broomsticks and the landlord knocked on his door. How many days from now will this happen again?
 
 **Answer:** 0630
-[[Quesiti/src_gas_2009_semifinale_b#q01|src_gas_2009_semifinale_b__Q01]]
 
 
 
@@ -72,7 +71,6 @@ level: squadre
 > The El-Romb courtyard The summit of the leaders of the free peoples of Middle-earth takes place at El-Romb's home in Riemandell. The garden of the house is a large square ABCD side 80 meters. Two fine fountains rise on M and N the midpoints of AB and CD. El-Romb speaks from point V, right in the middle of MBCN, to an audience that's all inside the courtyard formed by the AVN triangle. What is the yard area in square meters?
 
 **Answer:** 1600
-[[Quesiti/src_gas_2009_semifinale_b#q02|src_gas_2009_semifinale_b__Q02]]
 
 
 
@@ -108,7 +106,6 @@ level: squadre
 > The age of the institutions The institutions, or shepherds of the forests, are millennial intelligent trees. Polimino Tuc, called Polino, is instead a specimen of gobbits, creatures that resemble small, rounded humans, lively and lovers of beautiful life. Talking to an entity, Polino discovers the legendary longevity of these extraordinary creatures. When Polino asks him how old he is, the student responds seraphically and scanning the words: (20102 −20082)(20102 −20072)(20102 −20062)...(20102 −02) (20092 −20082)(20092 −20072)(20092 −20062)...(20092 −02) How old is this particular entity?
 
 **Answer:** 4020
-[[Quesiti/src_gas_2009_semifinale_b#q03|src_gas_2009_semifinale_b__Q03]]
 
 
 
@@ -141,7 +138,6 @@ Succession with average variations, term value 1000
 > Soldier plus, soldier minus The King Theorem barracks are full of soldiers who are moved from one location to another year on an annual basis as needed. The particularity is that from last year to this year the average change in the number of soldiers in the n and n+1 squadrons was n for each n ≥1. Knowing that the 2009 barracks had 1,000 more soldiers, how many more soldiers did the 1,000 barracks have?
 
 **Answer:** 2008
-[[Quesiti/src_gas_2009_semifinale_b#q04|src_gas_2009_semifinale_b__Q04]]
 
 
 
@@ -173,7 +169,6 @@ Succession with average variations, term value 1000
 > In the mines of Toria the company of heroes led by the wizard Gaussdalf the Grey stumbles upon a secret door. If you open it, you could access an important shortcut, but to do so you need to know the product (α−1) ((β−1), where α and β are the roots of the polynomial 9x2 +9002x−2009. Name the product. . . and come in.
 
 **Answer:** 0778
-[[Quesiti/src_gas_2009_semifinale_b#q05|src_gas_2009_semifinale_b__Q05]]
 
 
 
@@ -205,7 +200,6 @@ Succession with average variations, term value 1000
 > A calculated risk Morry bets with Polino that the latter will fail to find the last 4 digits of the numerator of the smallest rational number of the form a/b (reduced to minimum terms) with ab = 28! And so b is not a multiple of 35. What number will Polino have to guess to win the bet?
 
 **Answer:** 2401
-[[Quesiti/src_gas_2009_semifinale_b#q06|src_gas_2009_semifinale_b__Q06]]
 
 
 
@@ -242,7 +236,6 @@ Maximum combined attempts of 7 digits 1-4 without singles
 > The fate of the free peoples of One Middle Earth rests on the shoulders of a young gobbit. Frobino Massim-Mattlinks, called Frobbo, is the bearer of the ring of power. To protect him, Frobbo put him in a closed box with a combination. While Frobbo and his friend Sam are sleeping, the evil G'dellum tries to take over. Knowing that the combination is made up of 7 digits, each between 1 and 4, and that no number appears once, how many attempts will you have to make to get your number back? . . What, honey? Team competition 2009  Semifinal B  Problem texts  Pag. 1 di 2
 
 **Answer:** 3196
-[[Quesiti/src_gas_2009_semifinale_b#q07|src_gas_2009_semifinale_b__Q07]]
 
 
 
@@ -274,7 +267,6 @@ Maximum combined attempts of 7 digits 1-4 without singles
 > Princess Euleryn has a secret diary protected by a five-digit lock. Hermilinguo wants to open it and he knows exactly three digits are the same, but he doesn't know where they are and what they are. How many attempts will you have to make?
 
 **Answer:** 7200
-[[Quesiti/src_gas_2009_semifinale_b#q08|src_gas_2009_semifinale_b__Q08]]
 
 
 
@@ -308,7 +300,6 @@ Maximum combined attempts of 7 digits 1-4 without singles
 > The visions of Divisor I Polyedril, or visionary stones, are magical crystals that allow you to see remote things in time and space. Tauron called the Dark Lord of Middle-earth, or simply the Enemy, sabotaged King Divisor's Polyedril, which now only shows scary images and reality shows. The polyhedron has the shape of an icosahedron but Tauron magically erased some of the solid's stalks. It is now possible to travel the entire skeleton formed by the remaining spines by passing once and only once for each of them. How many lashes did you wipe at least?
 
 **Answer:** 0005
-[[Quesiti/src_gas_2009_semifinale_b#q09|src_gas_2009_semifinale_b__Q09]]
 
 
 
@@ -341,7 +332,6 @@ Minimum total number of soldiers with 5a^4=6b^3
 > In the midst of the clash between the forces of the Dark Lord and the free peoples of One Middle Earth, Gaussdalf realizes that, given to the units of Tauron's army and b the units that constitute that of the free peoples, the ratio 5a4 = 6b3 is true. What is the minimum total number of soldiers on the battlefield considering both armies and assuming that at least someone was actually there?
 
 **Answer:** 0900
-[[Quesiti/src_gas_2009_semifinale_b#q10|src_gas_2009_semifinale_b__Q10]]
 
 
 
@@ -373,7 +363,6 @@ Minimum total number of soldiers with 5a^4=6b^3
 > A tailor-made box The nazgul approaches, and Frobbo hides the ring in a quadrilateral ABCD container of area 6480 mm2, where AD is perpendicular to AB and CD and such that 4AB = 5CD. The ring fits perfectly into the container, touching all four sides. How many millimeters does the radius of the ring measure?
 
 **Answer:** 0040
-[[Quesiti/src_gas_2009_semifinale_b#q11|src_gas_2009_semifinale_b__Q11]]
 
 
 
@@ -407,7 +396,6 @@ Minimum total number of soldiers with 5a^4=6b^3
 > Among the many characteristics of the ring is a singular and disturbing brightness that is manifested by a very strange phenomenon. Three energy spheres travel the entire circumference of the ring in the same direction at constant speeds, respectively of 2009, 1246 and 763 rounds per minute. When at least two of them are overlapping, a slight glow is released from the ring. How many flashes occur every minute if at any given moment the three spheres are perfectly overlapping?
 
 **Answer:** 2478
-[[Quesiti/src_gas_2009_semifinale_b#q12|src_gas_2009_semifinale_b__Q12]]
 
 
 
@@ -446,7 +434,6 @@ Minimum total number of soldiers with 5a^4=6b^3
 > The tower's walls The tower of the sorcerer Sarumath the White, lord of Isengraf and traitor of the free peoples, stands in the middle of a plain and is surrounded by two perimeters of walls that intersect each other: the oldest walls draw in the plain a convex quadrilateral ABCD, while the most recent ones are circular in shape and intersect 8 times with the former, remaining divided by the intersection points into 8 arches. Of these, the 4 interiors of the ancient walls are such that the sums of the lengths of two non-consecutive ones are equal to each other. The DAB angle of the quadrilateral is 108°; furthermore, d BCD −d CDA = 30°. Determine the angle d of ABC.
 
 **Answer:** 0138
-[[Quesiti/src_gas_2009_semifinale_b#q13|src_gas_2009_semifinale_b__Q13]]
 
 
 
@@ -482,7 +469,6 @@ Minimum total number of soldiers with 5a^4=6b^3
 > The power ring Frobbo inherited years ago the power ring from his cousin Bobo Mattlinks. Frobbo has often wondered how Gaussdalf discovered that Bobo's was really the ring of power. Well, an ancient scroll says that the ring would have lit up if someone had pronounced the whole solutions (x,y) of the equation 2x2 +5y2 xy−14 = 11 Gaussdalf recounts with emotion the day when, after a long reflection, he took the ring in his hand and began to recite the solutions. What is the sum of the absolute values of all the numbers you said on that occasion?
 
 **Answer:** 0164
-[[Quesiti/src_gas_2009_semifinale_b#q14|src_gas_2009_semifinale_b__Q14]]
 
 
 
@@ -515,7 +501,6 @@ Minimum total number of soldiers with 5a^4=6b^3
 > The Battle of Pontor The Battle of Pontor, between Gaussdalf and Tauron, took place in a square forest, from the perimeter of 68 Km. The scriptures record, for both contenders, the sum of the squares of the distances from the vertices of the battlefield: Gaussdalf 747 Km2, Tauron 603 Km2. How many yards away did the wizard and the dark lord have to face each other?
 
 **Answer:** 9000
-[[Quesiti/src_gas_2009_semifinale_b#q15|src_gas_2009_semifinale_b__Q15]]
 
 
 
@@ -561,4 +546,3 @@ Minimum total number of soldiers with 5a^4=6b^3
 > . . I 'm not . Competition in teams .2 .9 X NATIONAL GARA A Semifinal squad B  SOLUTIONS  8 May 2009 Nr. The problem
 
 **Answer:** 0257
-[[Quesiti/src_gas_2009_semifinale_b#q16|src_gas_2009_semifinale_b__Q16]]

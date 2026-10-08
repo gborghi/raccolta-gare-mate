@@ -37,7 +37,6 @@ level: squadre
 > Cube difference The measurements in meters of the sides of two cubes are integers. The difference (positive) in their volumes is 37 m3. How many square meters is the difference (positive) between their surface areas?
 
 **Answer:** 0042
-[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q01|src_kangourou_2023_kangourou_squadre_f2__Q01]]
 
 
 
@@ -68,7 +67,6 @@ level: squadre
 > Examination A university examination was taken by 210 students. The average score (out of thirty) reported by the girls is 25, the average score reported by the boys is 20; the average score calculated for all participants is 23. How many girls have passed the exam?
 
 **Answer:** 0126
-[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q02|src_kangourou_2023_kangourou_squadre_f2__Q02]]
 
 
 
@@ -103,7 +101,6 @@ Gamme of glues for parallel 7x6x5
 > Amedeo glue has a large number of parallel-piped blocks, each measuring (in centimeters) 2 × 1 × 1. Approach  without leaving empty spaces  and join some of these blocks together to obtain a parallel-piped rectangle measuring (in centimeters) 7 × 6 × 5. For two adhering surfaces, 1 gram of glue is needed per cm2. Every time two surfaces are adhering, you have to stick them together. How many grams of glue do you use to build the parallelepiped?
 
 **Answer:** 0418
-[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q03|src_kangourou_2023_kangourou_squadre_f2__Q03]]
 
 
 
@@ -134,7 +131,6 @@ Gamme of glues for parallel 7x6x5
 > Mixtures One mixture A is 90% water and one mixture B is 54%. 160 litres were taken from mixture B and mixed with n litres of mixture A to produce a new mixture in which the water content is 78%. How much is n?
 
 **Answer:** 0320
-[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q04|src_kangourou_2023_kangourou_squadre_f2__Q04]]
 
 
 
@@ -166,7 +162,6 @@ Gamme of glues for parallel 7x6x5
 > The sum of Anna Anna wrote six positive integers all different from each other, summed them up and got 2,023. The largest of the numbers Anna wrote is the smallest one that, under the constraint laid down, allows for such a sum. What's the number?
 
 **Answer:** 0340
-[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q05|src_kangourou_2023_kangourou_squadre_f2__Q05]]
 
 
 
@@ -199,7 +194,6 @@ Gamme of glues for parallel 7x6x5
 > On a huge square sheet of square paper, with 2,023 squares per side, you want to draw lines, none parallel to those that delimit the squares, so that all the vertices of the squares that appear on the sheet are covered by at least one line. What is the smallest number of lines that is sufficient to trace?
 
 **Answer:** 4046
-[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q06|src_kangourou_2023_kangourou_squadre_f2__Q06]]
 
 
 
@@ -229,7 +223,6 @@ Gamme of glues for parallel 7x6x5
 > Ten digits A 10-digit integer is the product of five consecutive integers and is the largest 10-digit integer that enjoys this property. Which is the largest of the five consecutive integers?
 
 **Answer:** 0102
-[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q07|src_kangourou_2023_kangourou_squadre_f2__Q07]]
 
 
 
@@ -263,7 +256,6 @@ Gamme of glues for parallel 7x6x5
 > The square in the figure is divided into 4 congruent rectangles and a square, all of which have an area of 300 cm2. How long is the PQ segment?
 
 **Answer:** 0030
-[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q08|src_kangourou_2023_kangourou_squadre_f2__Q08]]
 
 
 
@@ -294,7 +286,6 @@ Gamme of glues for parallel 7x6x5
 > What is the smallest positive integer k such that the number 193 × k + 9 is a perfect square?
 
 **Answer:** 0187
-[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q09|src_kangourou_2023_kangourou_squadre_f2__Q09]]
 
 
 
@@ -326,7 +317,6 @@ Gamme of glues for parallel 7x6x5
 > Angela has this task: on a sheet of paper she must draw three red triangles and five blue triangles on a sheet of paper. The number N of intersection points between different coloured sides must be finite. What is the maximum possible value of N?
 
 **Answer:** 0090
-[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q10|src_kangourou_2023_kangourou_squadre_f2__Q10]]
 
 
 
@@ -358,7 +348,6 @@ Gamme of glues for parallel 7x6x5
 > Circular track Paul and Gino train to run along a circular track. They start from diametrically opposite points, but run in opposite directions, each at its own constant speed. When they meet for the first time, Paul has traveled 100 meters from the start; when they meet for the second time, Gino has traveled 150 meters from the first meeting point. How long is the track?
 
 **Answer:** 0350
-[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q11|src_kangourou_2023_kangourou_squadre_f2__Q11]]
 
 
 
@@ -398,7 +387,6 @@ Gamme of glues for parallel 7x6x5
 > To manufacture precision machinery, cylindrical crowns of very expensive material are required, all of the same thickness and homogeneity, all with an internal cylinder of 4 cm in diameter, but with an external cylinder of variable diameter. For the larger ones, the outer diameter is 28 cm; the smaller ones weigh half the larger ones. The cost of the crowns is directly proportional to the measurement of the outer diameter; that of one of the largest is 2023 euros. How much does one of the smaller ones cost?
 
 **Answer:** 1445
-[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q12|src_kangourou_2023_kangourou_squadre_f2__Q12]]
 
 
 
@@ -434,7 +422,6 @@ Gamme of glues for parallel 7x6x5
 > BANANA How many different ways can the word BANANA be read in the table below, keeping in mind that for each cell read, the next cell must share a side with it and that the same cell can be read multiple times?
 
 **Answer:** 0084
-[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q13|src_kangourou_2023_kangourou_squadre_f2__Q13]]
 
 
 
@@ -519,7 +506,6 @@ Gamme of glues for parallel 7x6x5
 > The area of the rectangle In the figure, ABCD is a rectangle, F is the midpoint of the side AB, N is the midpoint of the side BC and M is the common point to the straight lines containing one side AB, the other the DN segment. The area of the triangle FMN is 99. What is the area of the rectangle ABCD?
 
 **Answer:** 0264
-[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q14|src_kangourou_2023_kangourou_squadre_f2__Q14]]
 
 
 
@@ -573,4 +559,3 @@ Gamme of glues for parallel 7x6x5
 > Questions and solutions
 
 **Answer:** 2066
-[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q15|src_kangourou_2023_kangourou_squadre_f2__Q15]]

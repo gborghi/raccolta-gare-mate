@@ -33,8 +33,6 @@ level: Olimpiade Polacca Round 2
 
 > Trova la lunghezza più grande possibile di una sequenza di numeri interi consecutivi che sono tutti espressi nella forma $x^3 + 2y^2$ per alcuni numeri interi $x, y$.
 
-[[Quesiti/src_pol_2008_r2#q01|src_pol_2008_r2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: Olimpiade Polacca Round 2
 *Pentagono converso con condizioni di angolo uguale; dimostrare AS perpendicolare a CD dove S è l'intersezione delle diagonali BD e CE.*
 
 > Un pentagono convexo $ABCDE$ è tale che $\angle ABD = \angle ACE$, $\angle ACB = \angle ACD$, $\angle ADC = \angle ADE$ e $\angle ADB = \angle AEC$. Le diagonali $BD$ e $CE$ si intersecano a $S$. Prova che $AS$ è perpendicolare a $CD$.
-
-[[Quesiti/src_pol_2008_r2#q02|src_pol_2008_r2__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: Olimpiade Polacca Round 2
 
 > Trova tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ che soddisfano $$f(f(x) - y) = f(x) + f(f(y) - f(-x)) + x \quad \text{for all real } x, y.$$
 
-[[Quesiti/src_pol_2008_r2#q03|src_pol_2008_r2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,skill_modellizzazione,skill_riconoscimento_pattern"></span>
@@ -113,8 +107,6 @@ level: Olimpiade Polacca Round 2
 *Su una scheda di n x n di numeri interi che sommano a 0, una mossa riduce un quadrato del suo numero di vicini e aumenta ogni vicino di 1; decidere se qualche n>=2 permette sempre di zerizzare tutte le voci.*
 
 > In ogni quadrato di una tabella $n \times n$ c'è un intero tale che la somma di tutti gli enti nella tabella è $0$. Una mossa consiste nel scegliere un quadrato e diminuire il numero in esso per il numero di quadrati vicini (al fianco), aumentando al contempo i numeri in ciascuno dei quadrati vicini di $1$. Determina se c'è un $n \ge 2$ per il quale possiamo sempre trasformare tutti i numeri interi in zero in finite mosse.
-
-[[Quesiti/src_pol_2008_r2#q04|src_pol_2008_r2__Q04]]
 
 
 
@@ -142,8 +134,6 @@ level: Olimpiade Polacca Round 2
 
 > In un triangolo $ABC$ con $AC = BC$, il punto $D$ sul lato $AB$ è tale che $AD < DB$ e $E$ siano il riflesso di $A$ in $CD$. Provare che $$\frac{AC}{CD} = \frac{BE}{BD - AD}.$$
 
-[[Quesiti/src_pol_2008_r2#q05|src_pol_2008_r2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_induzione,method_congruenze,method_cassetti,skill_astrazione,skill_modellizzazione,skill_riconoscimento_pattern"></span>
@@ -168,5 +158,3 @@ level: Olimpiade Polacca Round 2
 *Per n non divisibile per 3, mostrare che c'è un intero positivo m tale che ogni intero >= m è la somma digitali di qualche moltiplo di n.*
 
 > Se $n$ è un intero positivo non divisibile da $3$, indicare che esiste un intero positivo $m$ in modo tale che ogni intero non inferiore a $m$ sia la somma di cifre di qualche multiplo di $n$.
-
-[[Quesiti/src_pol_2008_r2#q06|src_pol_2008_r2__Q06]]

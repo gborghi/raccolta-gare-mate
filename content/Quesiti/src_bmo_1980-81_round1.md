@@ -36,8 +36,6 @@ level: BMO Round 1
 > 
 > Prove che $A'Q_1 = A'Q_2 = B'R_1 = B'R_2 = C'S_1 = C'S_2$.
 
-[[Quesiti/src_bmo_1980-81_round1#q01|src_bmo_1980-81_round1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -69,8 +67,6 @@ level: BMO Round 1
 > 
 > Provare che $S_n$ è divisibile da $m!$, ma non necessariamente da $(m+1)!$.
 
-[[Quesiti/src_bmo_1980-81_round1#q02|src_bmo_1980-81_round1__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_geometria_solida,method_conteggio,method_doppio_conteggio,method_estremalita,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_stima"></span>
@@ -100,8 +96,6 @@ level: BMO Round 1
 > 
 > Prova che non può tagliare più di $\dfrac{n^2(n-2)^2}{64}$ del tetraede (con vertici tra i punti $n$) in quadrilaterali.
 
-[[Quesiti/src_bmo_1980-81_round1#q03|src_bmo_1980-81_round1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_stima"></span>
@@ -126,8 +120,6 @@ level: BMO Round 1
 *Trova il minimo valore positivo di m - <128^> n*
 
 > Trova, con prova, il minimo possibile valore positivo di $|128^m - 9^n|$, dove $m$ e $n$ sono interi positivi.
-
-[[Quesiti/src_bmo_1980-81_round1#q04|src_bmo_1980-81_round1__Q04]]
 
 
 
@@ -162,8 +154,6 @@ level: BMO Round 1
 > 
 > Prova che se $k$ è un intero non negativo, $$\sum_{i=1}^{n} \frac{a_i^k}{P_i}$$ è un intero.
 
-[[Quesiti/src_bmo_1980-81_round1#q05|src_bmo_1980-81_round1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_induzione,method_fattorizzazione,method_telescoping,skill_manipolazione_algebrica,skill_astrazione,skill_riconoscimento_pattern"></span>
@@ -194,5 +184,3 @@ level: BMO Round 1
 > $a_1, a_2, \ldots, a_n$ sono diversi enti non zero. $P_i$ è il prodotto dei fattori $(n-1)$ $(a_j - a_i)$ per tutti $j \neq i$.
 > 
 > Provare che $$\sum_{i=1}^{n} \frac{1}{P_i}$$ è un numero intero.
-
-[[Quesiti/src_bmo_1980-81_round1#q06|src_bmo_1980-81_round1__Q06]]

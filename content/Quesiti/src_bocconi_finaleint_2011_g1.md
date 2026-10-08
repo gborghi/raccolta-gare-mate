@@ -41,8 +41,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 ![[src_bocconi_finaleint_2011_g1__q01.png]]
 
-[[Quesiti/src_bocconi_finaleint_2011_g1#q01|src_bocconi_finaleint_2011_g1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_logica,topic_combinatoria,method_casework,skill_ragionamento_geometrico,skill_lettura_attenta,skill_casework_accurato"></span>
@@ -74,7 +72,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 ![[src_bocconi_finaleint_2011_g1__q02.png]]
 
 **Answer:** 1120
-[[Quesiti/src_bocconi_finaleint_2011_g1#q02|src_bocconi_finaleint_2011_g1__Q02]]
 
 
 
@@ -107,7 +104,6 @@ Order to extract keys from Father Benedict
 ![[src_bocconi_finaleint_2011_g1__q03.png]]
 
 **Answer:** 83142675
-[[Quesiti/src_bocconi_finaleint_2011_g1#q03|src_bocconi_finaleint_2011_g1__Q03]]
 
 
 
@@ -139,8 +135,7 @@ Order to extract keys from Father Benedict
 
 ![[src_bocconi_finaleint_2011_g1__q04.png]]
 
-**Answer:** 27 centesimi; 1102 (2011 al contrario)
-[[Quesiti/src_bocconi_finaleint_2011_g1#q04|src_bocconi_finaleint_2011_g1__Q04]]
+**Answer:** 27 cents; 1102 (2011 reversed)
 
 
 
@@ -169,7 +164,6 @@ Order to extract keys from Father Benedict
 > Caso plays with four chips whose faces are numbered from 1 to 8 (one digit per face). Throw the tokens out the first time and you get: $6$, $1$, $4$ and $3$ (the other faces are hidden). He throws them a second time and gets $1$, $3$, $5$ and $7$. Throw them out a third time and you get $3$, $7$, $2$ and $6$. The total of each launch is therefore $14$, $16$ and $18$ respectively. **If you throw them away a fourth time, what is the maximum total you will get? **
 
 **Answer:** 23
-[[Quesiti/src_bocconi_finaleint_2011_g1#q05|src_bocconi_finaleint_2011_g1__Q05]]
 
 
 
@@ -202,7 +196,6 @@ Order to extract keys from Father Benedict
 ![[src_bocconi_finaleint_2011_g1__q06.png]]
 
 **Answer:** 2
-[[Quesiti/src_bocconi_finaleint_2011_g1#q06|src_bocconi_finaleint_2011_g1__Q06]]
 
 
 
@@ -232,8 +225,6 @@ Order to extract keys from Father Benedict
 > The Octavian solid has eight faces, each of which is a triangle. A number from $1$ to $8$ must be written on each face, using all of them. The sum of the numbers written on each quadruple of triangles with a common vertex shall be the same. **Write out the five missing numbers.**
 
 ![[src_bocconi_finaleint_2011_g1__q07.png]]
-
-[[Quesiti/src_bocconi_finaleint_2011_g1#q07|src_bocconi_finaleint_2011_g1__Q07]]
 
 
 
@@ -266,7 +257,6 @@ Order to extract keys from Father Benedict
 ![[src_bocconi_finaleint_2011_g1__q08.png]]
 
 **Answer:** 7
-[[Quesiti/src_bocconi_finaleint_2011_g1#q08|src_bocconi_finaleint_2011_g1__Q08]]
 
 
 
@@ -297,8 +287,6 @@ Order to extract keys from Father Benedict
 
 ![[src_bocconi_finaleint_2011_g1__q09.png]]
 
-[[Quesiti/src_bocconi_finaleint_2011_g1#q09|src_bocconi_finaleint_2011_g1__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_backward,skill_lettura_attenta,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -326,7 +314,6 @@ Order to extract keys from Father Benedict
 > Apollonia is playing a math game. He writes a number, on the side of it he can read the same numbers in different possible order, and so on until he writes $'1'$. For example, it starts by writing $'323'$, then writes $'5'$ on the side, because in $'323'$ it reads the following different $4$ numbers: $2$, $30$, $32$ and $323$ (but not $33$, as it is necessary that the digits that make up the number read are placed next to each other). Then it starts again with $'5'$, in which it can read only the number $5$, then on the side of it it writes $'1'$, and stops. She then wrote three numbers below: $'323'$, $'5'$, $'1'$. Today, playing her game, Apollonia wrote $4$ numbers. **What is the smallest number from which it can be started? **
 
 **Answer:** 1230
-[[Quesiti/src_bocconi_finaleint_2011_g1#q10|src_bocconi_finaleint_2011_g1__Q10]]
 
 
 
@@ -354,8 +341,7 @@ Minimum weight of luggage Mr and Mrs Leggeri
 
 > When a passenger flies with the airline AIR-MATHS, any kilogram of his personal luggage above a certain weight $P$ shall be taxed. The baggage of Mr and Mrs LEGGERI weighs in all $58$ kilos. LEGGERI baggage had to pay $11 €$ in full. The baggage of Mr and Mrs PESANTI also weighs a total of $58$ kg, but the baggage of Mr and Mrs PESANTI had to pay $20 €$. **What is the minimum weight of $P$ in kilograms? **
 
-**Answer:** 18 chilogrammi
-[[Quesiti/src_bocconi_finaleint_2011_g1#q11|src_bocconi_finaleint_2011_g1__Q11]]
+**Answer:** 18 kilograms
 
 
 
@@ -388,7 +374,6 @@ Minimum weight of luggage Mr and Mrs Leggeri
 ![[src_bocconi_finaleint_2011_g1__q12.png]]
 
 **Answer:** 92
-[[Quesiti/src_bocconi_finaleint_2011_g1#q12|src_bocconi_finaleint_2011_g1__Q12]]
 
 
 
@@ -419,8 +404,6 @@ Minimum weight of luggage Mr and Mrs Leggeri
 
 ![[src_bocconi_finaleint_2011_g1__q13.png]]
 
-[[Quesiti/src_bocconi_finaleint_2011_g1#q13|src_bocconi_finaleint_2011_g1__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,topic_geometria_piana,method_estremalita,method_doppio_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_modellizzazione"></span>
@@ -448,7 +431,6 @@ Minimum remaining pieces 8x8 chessboard with 3x3 squares
 > In the game of chess, there's no more than one piece in every cell. At the end of a match the remaining pieces are arranged in such a way that there are exactly four pieces per square $3 \times 3$ on each side of the chessboard $8 \times 8$. **In total, how many pieces are left, at least? **
 
 **Answer:** 22
-[[Quesiti/src_bocconi_finaleint_2011_g1#q14|src_bocconi_finaleint_2011_g1__Q14]]
 
 
 
@@ -481,7 +463,6 @@ Minimum remaining pieces 8x8 chessboard with 3x3 squares
 ![[src_bocconi_finaleint_2011_g1__q15.png]]
 
 **Answer:** $\frac{101}{315}$
-[[Quesiti/src_bocconi_finaleint_2011_g1#q15|src_bocconi_finaleint_2011_g1__Q15]]
 
 
 
@@ -510,7 +491,6 @@ Minimum remaining pieces 8x8 chessboard with 3x3 squares
 > A $AB$ anti-segment is the part of the $AB$ straight (taken on its outer side) of the $[AB]$ segment (taken on that straight side) since that segment is of no length (except when an anti-segment is composed of two hill-shaped halves). If $3$ anti-segments are plotted on a plane, they can divide the plane, at most, into $4$ regions. **In how many regions, at most, can we divide a plan by tracing anti-segments on it $2011$**
 
 **Answer:** 2 021 056
-[[Quesiti/src_bocconi_finaleint_2011_g1#q16|src_bocconi_finaleint_2011_g1__Q16]]
 
 
 
@@ -539,7 +519,6 @@ Minimum remaining pieces 8x8 chessboard with 3x3 squares
 > A large cube $2011 \times 2011 \times 2011$ is composed of $8.132.727.331$ identical small cubes. A plane perpendicular to a diagonal of the cube passes through its center. **How many small cubes does it intersect? **
 
 **Answer:** 9 099 271
-[[Quesiti/src_bocconi_finaleint_2011_g1#q17|src_bocconi_finaleint_2011_g1__Q17]]
 
 
 
@@ -572,4 +551,3 @@ Minimum remaining pieces 8x8 chessboard with 3x3 squares
 ![[src_bocconi_finaleint_2011_g1__q18.png]]
 
 **Answer:** $\frac{24}{5}$
-[[Quesiti/src_bocconi_finaleint_2011_g1#q18|src_bocconi_finaleint_2011_g1__Q18]]

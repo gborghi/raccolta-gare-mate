@@ -41,8 +41,6 @@ level: OBM Nível 2
 > 
 > b) Determinare il rapporto tra la superficie del triangolo $XYZ$ e la superficie del triangolo $ABC$.
 
-[[Quesiti/src_obm_2017_n2_f3#q01|src_obm_2017_n2_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_simmetria,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -77,8 +75,6 @@ level: OBM Nível 2
 > 
 > b) Trova almeno una soluzione $(x, y, z)$ per l'equazione data.
 
-[[Quesiti/src_obm_2017_n2_f3#q02|src_obm_2017_n2_f3__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -103,8 +99,6 @@ level: OBM Nível 2
 *n×n tabella con celle bianche e nere; ogni riga e colonna contengono un numero diverso*
 
 > $n > 1$ sia un numero intero positivo. Si consideri una tabella $n \times n$ in cui alcune delle celle $n^2$ sono dipinte in nero e le altre in bianco. Prove che è possibile scegliere le celle $(n-1)^2$ dalla tabella in modo tale che, dopo aver rimosso la riga e la colonna contenenti ciascuna cellula scelta, il numero di celle nere e celle bianche rimanenti sia diverso.
-
-[[Quesiti/src_obm_2017_n2_f3#q03|src_obm_2017_n2_f3__Q03]]
 
 
 
@@ -144,8 +138,6 @@ level: OBM Nível 2
 > 
 > c) Scrivere, nella lingua Imp, il numero la cui rappresentazione decimale standard è $2017$.
 
-[[Quesiti/src_obm_2017_n2_f3#q04|src_obm_2017_n2_f3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -183,8 +175,6 @@ level: OBM Nível 2
 > 
 > *Osservazione: L'incentro di un triangolo è l'intersezione dei suoi bisettici di angolo interno, e il circoncircolo è il cerchio che attraversa tutti e tre i vertici.*
 
-[[Quesiti/src_obm_2017_n2_f3#q05|src_obm_2017_n2_f3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_induzione,method_fattorizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_astrazione"></span>
@@ -209,5 +199,3 @@ level: OBM Nível 2
 Per tutti gli integri positivi n, a^n + 2017b^n ha fattori primi più distinti di n*
 
 > Prova che per ogni intero positivo $n$ esistono interi positivi $a$ e $b$, con $\gcd(a, b) = 1$, in modo tale che $a^n + 2017b^n$ abbia più di $n$ fattori primi distinti.
-
-[[Quesiti/src_obm_2017_n2_f3#q06|src_obm_2017_n2_f3__Q06]]

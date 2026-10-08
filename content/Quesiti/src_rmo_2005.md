@@ -37,8 +37,6 @@ level: RMO
 
 ![[src_rmo_2005__q01.png]]
 
-[[Quesiti/src_rmo_2005#q01|src_rmo_2005__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -63,8 +61,6 @@ level: RMO
 *Integra x,y: 17 divide due espressioni implica 17 divide terzo*
 
 > Se $x$, $y$ sono numeri interi e 17 divide sia $x^2 - 3xy + 2y^2 + x - y$ che $x^2 - 3xy + 2y^2 - 5x + 7y$, dimostri che 17 divide $xy - 12x + 15y$.
-
-[[Quesiti/src_rmo_2005#q02|src_rmo_2005__Q02]]
 
 
 
@@ -91,8 +87,6 @@ level: RMO
 
 > Se $a$, $b$, $c$ sono tre numeri reali come $|a - b| \ge |c|$, $|b - c| \ge |a|$, $|c - a| \ge |b|$, dimostrate che uno di $a$, $b$, $c$ è la somma degli altri due.
 
-[[Quesiti/src_rmo_2005#q03|src_rmo_2005__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -117,8 +111,6 @@ level: RMO
 *Conta i numeri a 5 cifre contenenti il blocco 15 e divisibili per 15*
 
 > Trova il numero di tutti i numeri a 5 cifre (in base 10) ognuno dei quali contiene il blocco 15 e è divisibile per 15. (Per esempio, 34545 e 34155 sono due tali numeri.)
-
-[[Quesiti/src_rmo_2005#q04|src_rmo_2005__Q04]]
 
 
 
@@ -149,8 +141,6 @@ level: RMO
 
 ![[src_rmo_2005__q05.png]]
 
-[[Quesiti/src_rmo_2005#q05|src_rmo_2005__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,method_estremalita,skill_manipolazione_algebrica,skill_casework_accurato,skill_conteggio_sistematico"></span>
@@ -176,8 +166,6 @@ level: RMO
 *Tutti i tripli di integri positivi con a+b+c+ab+bc+ca = abc+1*
 
 > Determinare tutti i triples $(a, b, c)$ di numeri interi positivi quali $a \le b \le c$ e $$a + b + c + ab + bc + ca = abc + 1.$$
-
-[[Quesiti/src_rmo_2005#q06|src_rmo_2005__Q06]]
 
 
 
@@ -205,5 +193,3 @@ level: RMO
 *Reali positivi sommati a 1; espressioni cubiche minime danno radici reali*
 
 > $a$, $b$, $c$ siano tre numeri reali positivi come $a + b + c = 1$. Provare che le radici dell'equazione $x^2 + x + 4\lambda = 0$ sono reali.
-
-[[Quesiti/src_rmo_2005#q07|src_rmo_2005__Q07]]

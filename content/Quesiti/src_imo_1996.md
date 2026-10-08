@@ -50,8 +50,6 @@ level: IMO
 > (b) Si dimostri che ciò è possibile per r = 73.
 > (c) È possibile per r = 97?
 
-[[Quesiti/src_imo_1996#q01|src_imo_1996__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,skill_ragionamento_geometrico"></span>
@@ -82,8 +80,6 @@ level: IMO
 > ∠APB − ∠ACB = ∠APC − ∠ABC.
 > Siano D ed E gli incentri dei triangoli APB e APC, rispettivamente.
 > Si dimostri che le rette AP, BD ed EC si incontrano in un punto.
-
-[[Quesiti/src_imo_1996#q02|src_imo_1996__Q02]]
 
 
 
@@ -128,8 +124,6 @@ level: IMO
 > ore 9:00 - 13:30
 > 11 luglio 1996
 
-[[Quesiti/src_imo_1996#q03|src_imo_1996__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze"></span>
@@ -153,8 +147,6 @@ level: IMO
 *Least square value with 15a+16b and 16a-15b both squares*
 
 > The positive integers $a$ and $b$ are such that the numbers $15a + 16b$ and $16a - 15b$ are both squares of positive integers. What's the smallest possible value that the least of these two squares can take?
-
-[[Quesiti/src_imo_1996#q04|src_imo_1996__Q04]]
 
 
 
@@ -181,8 +173,6 @@ level: IMO
 *circumradii sum at least half perimeter*
 
 > If $ABCDEF$ is a convex hexagon such that $AB$ is parallel to $DE$, $BC$ is parallel to $EF$, and $CD$ is parallel to $FA$. The radii of the circles surrounding the triangles $FAB$, $BCD$, $DEF$, respectively, and $P$ are the perimeter of the hexagon. Show that $$R_A + R_C + R_E \geq \frac{P}{2}.$$
-
-[[Quesiti/src_imo_1996#q05|src_imo_1996__Q05]]
 
 
 
@@ -219,5 +209,3 @@ level: IMO
 > (b) For each $i$ with $1 \leq i \leq n$, $x_i - x_{i-1} = p$ or $x_i - x_{i-1} = -q$ is given.
 > 
 > Demonstrate the existence of $i < j$ indexes with $(i, j) \neq (0, n)$, such as $x_i = x_j$.
-
-[[Quesiti/src_imo_1996#q06|src_imo_1996__Q06]]

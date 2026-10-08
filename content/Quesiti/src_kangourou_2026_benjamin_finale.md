@@ -35,8 +35,6 @@ level: kangourou
 
 **Answer:** C
 
-[[Quesiti/src_kangourou_2026_benjamin_finale#qb1|src_kangourou_2026_benjamin_finale__QB1]]
-
 
 
 <span class="atom-split" id="qb2" data-atom="qb2" data-title="Quesito B2" data-tags="topic_aritmetica,skill_modellizzazione"></span>
@@ -63,8 +61,6 @@ level: kangourou
 > There are 4 sacks and each weighs an integer number of kilograms. If we choose 3 of them in each of the four possible ways, the total weight of the 3 chosen is either 50 or 60 kilograms. How many possible differences in weight are there between the heaviest sack and the lightest one?
 
 **Answer:** 1
-
-[[Quesiti/src_kangourou_2026_benjamin_finale#qb2|src_kangourou_2026_benjamin_finale__QB2]]
 
 
 
@@ -93,8 +89,6 @@ level: kangourou
 
 **Answer:** 8
 
-[[Quesiti/src_kangourou_2026_benjamin_finale#qb3|src_kangourou_2026_benjamin_finale__QB3]]
-
 
 
 <span class="atom-split" id="qb4" data-atom="qb4" data-title="Quesito B4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -121,8 +115,6 @@ level: kangourou
 > In a square, four segments have been drawn, each having one endpoint at the same interior point of the square and the other endpoint at the midpoint of one of the sides. The areas (in square centimeters) of three of the four resulting quadrilaterals are given as $200$, $320$, and $160$. What is the area of the fourth quadrilateral, in square centimeters?
 
 **Answer:** 280
-
-[[Quesiti/src_kangourou_2026_benjamin_finale#qb4|src_kangourou_2026_benjamin_finale__QB4]]
 
 
 
@@ -151,8 +143,6 @@ level: kangourou
 
 **Answer:** it is a square
 
-[[Quesiti/src_kangourou_2026_benjamin_finale#qb5|src_kangourou_2026_benjamin_finale__QB5]]
-
 
 
 <span class="atom-split" id="qb6" data-atom="qb6" data-title="Quesito B6" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
@@ -180,5 +170,3 @@ level: kangourou
 > In a bag there are 46 green, red or yellow marbles. I know that, by drawing them at random, to be certain of having at least 10 of the same color I must draw 26. How many must I plan to draw to be certain of having at least 20 of the same color?
 
 **Answer:** 46, all of them
-
-[[Quesiti/src_kangourou_2026_benjamin_finale#qb6|src_kangourou_2026_benjamin_finale__QB6]]

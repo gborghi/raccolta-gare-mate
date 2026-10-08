@@ -37,7 +37,6 @@ level: squadre
 > What is the result of the following expression 6/3 × 9/6 × 12/9 × ... × (3n + 3)/(3n) × ... × 2019/2016 ?
 
 **Answer:** 0673
-[[Quesiti/src_kangourou_2019_squadre_finale#q01|src_kangourou_2019_squadre_finale__Q01]]
 
 
 
@@ -77,7 +76,6 @@ level: squadre
 > The figure to the right shows a frame made of wooden strips, all of the same thickness; 12 of these are bevelled at one end (symmetrically as the other figure suggests) so that they can be glued to the center of symmetry of the frame, distributing them so that the measurement of the angle between each strip and the one following it (clockwise) is constant. How many degrees does the angle denoted by α measure?
 
 **Answer:** 0015
-[[Quesiti/src_kangourou_2019_squadre_finale#q02|src_kangourou_2019_squadre_finale__Q02]]
 
 
 
@@ -111,7 +109,6 @@ level: squadre
 > The lock The code for opening a lock is made up of four different digits. Compared to that code, each of the following four numbers 6427 4271 6412 2671 has two digits in the correct position, one in the incorrect position and one not present. What's the code?
 
 **Answer:** 6471
-[[Quesiti/src_kangourou_2019_squadre_finale#q03|src_kangourou_2019_squadre_finale__Q03]]
 
 
 
@@ -178,7 +175,6 @@ level: squadre
 > cube without ever passing through the same vertex twice. In how many different ways can you do this?
 
 **Answer:** 0016
-[[Quesiti/src_kangourou_2019_squadre_finale#q04|src_kangourou_2019_squadre_finale__Q04]]
 
 
 
@@ -207,7 +203,6 @@ level: squadre
 > How many factors of 55 do you have to multiply to get a result of 5 to the power of 55 ?
 
 **Answer:** 0625
-[[Quesiti/src_kangourou_2019_squadre_finale#q05|src_kangourou_2019_squadre_finale__Q05]]
 
 
 
@@ -240,7 +235,6 @@ level: squadre
 > The kangaroo One day a kangaroo makes a northward jump out of his house and returns home with a southward jump; the next day he makes two northward jumps and returns home with two southward jumps; the next day he again makes three northward jumps and returns home with three southward jumps, and so on for a few days. Right now, counting all the jumps he's made since day one, he's made 2019. How many jumps away from home is he?
 
 **Answer:** 0039
-[[Quesiti/src_kangourou_2019_squadre_finale#q06|src_kangourou_2019_squadre_finale__Q06]]
 
 
 
@@ -278,7 +272,6 @@ level: squadre
 > α
 
 **Answer:** 0103
-[[Quesiti/src_kangourou_2019_squadre_finale#q07|src_kangourou_2019_squadre_finale__Q07]]
 
 
 
@@ -309,7 +302,6 @@ level: squadre
 > Prime factors One of the prime factors of 12345 is a number greater than 500. What is the sum of all its prime factors?
 
 **Answer:** 0831
-[[Quesiti/src_kangourou_2019_squadre_finale#q08|src_kangourou_2019_squadre_finale__Q08]]
 
 
 
@@ -345,7 +337,6 @@ level: squadre
 > The folded circle A circular segment of a circle of radius 9 is folded inside the circle so that the arc passes through the centre O of the circumference as shown in the figure. Which integer is closest to the length of the outline of the resulting figure that is highlighted with a solid line?
 
 **Answer:** 0053
-[[Quesiti/src_kangourou_2019_squadre_finale#q09|src_kangourou_2019_squadre_finale__Q09]]
 
 
 
@@ -376,7 +367,6 @@ level: squadre
 > How many of the first thousand perfect fourth powers of positive integers have 1 or 6 as a unit number?
 
 **Answer:** 0800
-[[Quesiti/src_kangourou_2019_squadre_finale#q10|src_kangourou_2019_squadre_finale__Q10]]
 
 
 
@@ -409,7 +399,6 @@ Minimum number of women in parliament 300 MPs
 > Parliament has 300 members; the four parties represented have exactly 10%, 20%, 25% and 45% of the total. In neither party the difference between the two numbers of elected representatives of both sexes is greater than 1. What is the minimum number of women (or men) who can be present in that parliament?
 
 **Answer:** 0149
-[[Quesiti/src_kangourou_2019_squadre_finale#q11|src_kangourou_2019_squadre_finale__Q11]]
 
 
 
@@ -484,7 +473,6 @@ Minimum number of women in parliament 300 MPs
 > The lattice A lattice is an assembly of bars articulated at their junction points. When its cells are square or rectangular the structure is generally not rigid (see figure) without the addition of diagonal bars. How many diagonal bars, at a minimum, must be added to a 4 × 4 square mesh mesh that contains none to make it rigid?
 
 **Answer:** 0007
-[[Quesiti/src_kangourou_2019_squadre_finale#q12|src_kangourou_2019_squadre_finale__Q12]]
 
 
 
@@ -516,7 +504,6 @@ Minimum number of women in parliament 300 MPs
 > Average The product of three consecutive positive integers is divisible by 6! = 6 × 5 × 4 × 3 × 2 × 1. What's the smallest possible average for the three numbers?
 
 **Answer:** 0009
-[[Quesiti/src_kangourou_2019_squadre_finale#q13|src_kangourou_2019_squadre_finale__Q13]]
 
 
 
@@ -546,7 +533,6 @@ Minimum number of women in parliament 300 MPs
 > Perfect squares For how many positive integers n does it happen that both n - 2019 and n + 6000 are perfect squares?
 
 **Answer:** 0007
-[[Quesiti/src_kangourou_2019_squadre_finale#q14|src_kangourou_2019_squadre_finale__Q14]]
 
 
 
@@ -611,4 +597,3 @@ Minimum number of women in parliament 300 MPs
 > Questions and solutions
 
 **Answer:** 0007
-[[Quesiti/src_kangourou_2019_squadre_finale#q15|src_kangourou_2019_squadre_finale__Q15]]

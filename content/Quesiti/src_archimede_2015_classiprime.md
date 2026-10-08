@@ -40,7 +40,6 @@ level: Classi Prime
 > Find α so that 2α is 444. A α = 512 B α = 8 C α = 128 D α = 256 E α = 232 F α = 216
 
 **Answer:** A
-[[Quesiti/src_archimede_2015_classiprime#q01|src_archimede_2015_classiprime__Q01]]
 
 
 
@@ -82,7 +81,6 @@ level: Classi Prime
 > The value of x is as follows: x = A B C D . Then: A x = A: (B: C: D) B x = A: (B: (C: D) C x = A: B: C: D D x = A: B: (C: D) And x = A: (B: C) D F None of the other answers are accurate
 
 **Answer:** A
-[[Quesiti/src_archimede_2015_classiprime#q02|src_archimede_2015_classiprime__Q02]]
 
 
 
@@ -118,7 +116,6 @@ level: Classi Prime
 > In the triangle ABC, isosceles on the base AB, the height relative to AB is twice that relative to the side CB. If the perimeter of the triangle is 120 cm, how big is the CB side? A 48cm B 36cm C 24cm D 50cm E 45cm F 42cm
 
 **Answer:** A
-[[Quesiti/src_archimede_2015_classiprime#q03|src_archimede_2015_classiprime__Q03]]
 
 
 
@@ -157,7 +154,6 @@ level: Classi Prime
 > In the following sentence (taken from a well-known Kenoncè song) a figure is unreadable and is replaced by an asterisk: 71 gatti, in line for 17, with the rest of 14 Knowing that the sentence is correct from a mathematical point of view, find the missing figure. A 1 B 2 C 6 D 0 E 3 F data are insufficient to answer
 
 **Answer:** A
-[[Quesiti/src_archimede_2015_classiprime#q04|src_archimede_2015_classiprime__Q04]]
 
 
 
@@ -198,7 +194,6 @@ level: Classi Prime
 > Professor Facciocomipare doesn't usually tell the students the grades of the questions, so Claudia only knows the grades of two of the seven questions she asked: they're a 7 and a 9. You also know that questions are always numbered and that Prof. It puts the score on the page by doing the arithmetic mean of the scores and rounding it to the nearest integer. If he ends up with eight on the page, what's the minimum value that he can have on the average of five not-knowing votes? A 7, 4 B 7, 2 C 7, 5 D 7, 6 E 7, 8 F None of the other answers are correct
 
 **Answer:** A
-[[Quesiti/src_archimede_2015_classiprime#q05|src_archimede_2015_classiprime__Q05]]
 
 
 
@@ -237,7 +232,6 @@ level: Classi Prime
 > A rectangular prism-shaped vessel with a square base is tall and narrow and full of water up to the edge. If all the water is poured into another container of the same shape, but with a square base with the three-dimensional side, the water level in the new container reaches the height of 12 mm. How tall was the first container? A 108mm B 36mm C 48mm D 324mm E 144mm F It cannot be determined if the sides of the bases are not known
 
 **Answer:** A
-[[Quesiti/src_archimede_2015_classiprime#q06|src_archimede_2015_classiprime__Q06]]
 
 
 
@@ -326,7 +320,6 @@ level: Classi Prime
 > A regular hexagon has an area of 144 cm2. What is the area of the smallest equilateral triangle that contains it? A 216cm2 B 192cm2 C 288cm2 D 180cm2 E 240cm2 F 256cm2
 
 **Answer:** A
-[[Quesiti/src_archimede_2015_classiprime#q07|src_archimede_2015_classiprime__Q07]]
 
 
 
@@ -368,7 +361,6 @@ level: Classi Prime
 > In Kenoncè there are serious problems with school building: 2 out of 3 schools are unusable. To solve the problem, the Prime Minister has decreed: (a) Each institution will reduce its hours to just two days a week, each of which will be 15 hours of lessons. (b) Each healthy school building will be used by 3 institutions, each of which will have two days a week. How many different ways can three institutions divide the days from Monday to Saturday so that the days of the same institution are never consecutive? A 30 B 89 C 10 D 12 E 24 F 18
 
 **Answer:** A
-[[Quesiti/src_archimede_2015_classiprime#q08|src_archimede_2015_classiprime__Q08]]
 
 
 
@@ -406,7 +398,6 @@ level: Classi Prime
 > How many different ways can I paint a cube, coloring each face white or black? (two colours are to be considered identical, and therefore counted only once, if one can be obtained from the other by rotating the cube in space) A 10 B 6 C 8 D 9 E 24 F 16
 
 **Answer:** A
-[[Quesiti/src_archimede_2015_classiprime#q09|src_archimede_2015_classiprime__Q09]]
 
 
 
@@ -441,7 +432,6 @@ level: Classi Prime
 > The value of the expression: 1234567896·1234567894−1234567899·1234567891. A 15 B 0 C 10 D 6 E 5 F 31
 
 **Answer:** A
-[[Quesiti/src_archimede_2015_classiprime#q10|src_archimede_2015_classiprime__Q10]]
 
 
 
@@ -480,7 +470,6 @@ level: Classi Prime
 > When the polynomial p(x) = x6+3x5+3x4+9x3+24x2+24x+8 is broken down as the product of polynomials with lower integer coefficients, not further broken down, we get: A 4 polynomials of 1°grade and one of 2°grade B 6 polynomials of 1°grade C 3 polynomials of 1°grade and one of 3°grade D 2 polynomials of 1°grade and 2 of 2°grade E 2 polynomials of 1°grade and one of 4°grade F none of the other answers is accurate
 
 **Answer:** A
-[[Quesiti/src_archimede_2015_classiprime#q11|src_archimede_2015_classiprime__Q11]]
 
 
 
@@ -516,7 +505,6 @@ level: Classi Prime
 > How many different prime numbers divide the number 1122221100? (remember that 1 is NOT a prime number) A 8 B 7 C less than 7 D 9 E 10 F more than 10
 
 **Answer:** A
-[[Quesiti/src_archimede_2015_classiprime#q12|src_archimede_2015_classiprime__Q12]]
 
 
 
@@ -557,7 +545,6 @@ level: Classi Prime
 > In a nursery school on Kenoncè Island, 23 children are enrolled, all in the same classroom. One day, Luca, to pass the time, builds a big cube using exactly all the wooden cubes in school. Then the teacher, in order to make her companions play the same game, divides the entire cubes into equal parts among all the children (including Luke) and orders each of them to build a cube using exactly all the cubes they have received. Knowing that the children are able to complete the assignment, counting the number of absentees that day. A 15 B 7 C 10 D 3 E 9 F the data provided are insufficient
 
 **Answer:** A
-[[Quesiti/src_archimede_2015_classiprime#q13|src_archimede_2015_classiprime__Q13]]
 
 
 
@@ -603,7 +590,6 @@ level: Classi Prime
 > After the Great Depression, tourists have returned to the island of Kenoncè. Compared to the previous year, foreign tourists grew by 5% and domestic tourists by 1%. This led to a 2.5% increase in the total number of tourists. What was the share of foreign tourists compared to the total number of tourists in the previous year? A 3 8 B 1 3 C 1 2 D 2 5 E 3 7 F not uniquely determinable from the data provided
 
 **Answer:** A
-[[Quesiti/src_archimede_2015_classiprime#q14|src_archimede_2015_classiprime__Q14]]
 
 
 
@@ -646,7 +632,6 @@ level: Classi Prime
 > In a high school on Kenoncè Island, Professor Bocciotutti chooses who to interview from among her 21 pupils. (a) She randomly opens a 288-page book (numbered 1 to 288), chooses one of the two pages on which she opened it and checks the number N. (b) If N ≤21 takes the student marked with the number N from the register list, otherwise it replaces N with the sum of its digits and repeats operation (b). What is the number of students most likely to be selected? A 10 B 9 C 11 D 8 and 12 F all students are equally likely to be selected
 
 **Answer:** A
-[[Quesiti/src_archimede_2015_classiprime#q15|src_archimede_2015_classiprime__Q15]]
 
 
 
@@ -682,7 +667,6 @@ level: Classi Prime
 > Find the smallest positive integer m such that there is a list of positive integers whose sum is m and whose product is 720. A m = 19 B m = 16 C m = 17 D m = 18 E m = 20 F m = 21
 
 **Answer:** A
-[[Quesiti/src_archimede_2015_classiprime#q16|src_archimede_2015_classiprime__Q16]]
 
 
 
@@ -721,7 +705,6 @@ How many Italian tournaments can all end up with equal scores?
 > In an Italian tennis tournament each player plays each other exactly once and earns 1 point if he wins and 0 points if he loses. Obviously, a tennis match can't end evenly. On Kenoncè Island every year there are 5 tournaments, with 8, 5, 17, 15 and 16 players participating. How many of them, at most, can end up with all the players on the same score? A 3 B 1 C 2 D none E 4 F all
 
 **Answer:** A
-[[Quesiti/src_archimede_2015_classiprime#q17|src_archimede_2015_classiprime__Q17]]
 
 
 
@@ -766,4 +749,3 @@ How many Italian tournaments can all end up with equal scores?
 > Solutions
 
 **Answer:** A
-[[Quesiti/src_archimede_2015_classiprime#q18|src_archimede_2015_classiprime__Q18]]

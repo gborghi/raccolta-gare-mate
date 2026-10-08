@@ -47,7 +47,6 @@ This is the total number of units in the Union.
 > - **(E)** 5
 
 **Answer:** D
-[[Quesiti/src_archimede_2022_biennio#q01|src_archimede_2022_biennio__Q01]]
 
 
 
@@ -91,7 +90,6 @@ This is the total number of units in the Union.
 > - **(E)** white
 
 **Answer:** C
-[[Quesiti/src_archimede_2022_biennio#q02|src_archimede_2022_biennio__Q02]]
 
 
 
@@ -132,7 +130,6 @@ This is the total number of units in the Union.
 > - **(E)** 60°
 
 **Answer:** B
-[[Quesiti/src_archimede_2022_biennio#q03|src_archimede_2022_biennio__Q03]]
 
 
 
@@ -175,7 +172,6 @@ This is the total number of units in the Union.
 > - **(E)** 27
 
 **Answer:** E
-[[Quesiti/src_archimede_2022_biennio#q04|src_archimede_2022_biennio__Q04]]
 
 
 
@@ -219,7 +215,6 @@ This is the total number of units in the Union.
 > - **(E)** 31,80
 
 **Answer:** B
-[[Quesiti/src_archimede_2022_biennio#q05|src_archimede_2022_biennio__Q05]]
 
 
 
@@ -261,7 +256,6 @@ This is the total number of units in the Union.
 > - **(E)** 38
 
 **Answer:** C
-[[Quesiti/src_archimede_2022_biennio#q06|src_archimede_2022_biennio__Q06]]
 
 
 
@@ -387,7 +381,6 @@ This is the total number of units in the Union.
 > - **(E)** 67
 
 **Answer:** E
-[[Quesiti/src_archimede_2022_biennio#q07|src_archimede_2022_biennio__Q07]]
 
 
 
@@ -431,7 +424,6 @@ This is the total number of units in the Union.
 > - **(E)** 1800
 
 **Answer:** A
-[[Quesiti/src_archimede_2022_biennio#q08|src_archimede_2022_biennio__Q08]]
 
 
 
@@ -479,7 +471,6 @@ This is the total number of units in the Union.
 > - **(E)** 3
 
 **Answer:** B
-[[Quesiti/src_archimede_2022_biennio#q09|src_archimede_2022_biennio__Q09]]
 
 
 
@@ -522,7 +513,6 @@ This is the total number of units in the Union.
 > - **(E)** 9
 
 **Answer:** D
-[[Quesiti/src_archimede_2022_biennio#q10|src_archimede_2022_biennio__Q10]]
 
 
 
@@ -563,7 +553,6 @@ This is the total number of units in the Union.
 > - **(E)** 216
 
 **Answer:** A
-[[Quesiti/src_archimede_2022_biennio#q11|src_archimede_2022_biennio__Q11]]
 
 
 
@@ -606,7 +595,6 @@ This is the total number of units in the Union.
 > - **(E)** 4/9
 
 **Answer:** E
-[[Quesiti/src_archimede_2022_biennio#q12|src_archimede_2022_biennio__Q12]]
 
 
 
@@ -663,7 +651,6 @@ This is the total number of units in the Union.
 > - **(E)** 699
 
 **Answer:** B
-[[Quesiti/src_archimede_2022_biennio#q13|src_archimede_2022_biennio__Q13]]
 
 
 
@@ -707,7 +694,6 @@ This is the total number of units in the Union.
 > - **(E)** AA′ = 3 cm BB′ = 6 cm CC′ = 8 cm
 
 **Answer:** E
-[[Quesiti/src_archimede_2022_biennio#q14|src_archimede_2022_biennio__Q14]]
 
 
 
@@ -752,7 +738,6 @@ This is the total number of units in the Union.
 > - **(E)** 1/90
 
 **Answer:** A
-[[Quesiti/src_archimede_2022_biennio#q15|src_archimede_2022_biennio__Q15]]
 
 
 
@@ -796,4 +781,3 @@ This is the total number of units in the Union.
 > - **(E)** 11/2 211
 
 **Answer:** C
-[[Quesiti/src_archimede_2022_biennio#q16|src_archimede_2022_biennio__Q16]]

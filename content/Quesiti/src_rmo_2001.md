@@ -37,8 +37,6 @@ level: RMO
 
 ![[src_rmo_2001__q01.png]]
 
-[[Quesiti/src_rmo_2001#q01|src_rmo_2001__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -63,8 +61,6 @@ level: RMO
 *Trova tutte le coppie prime p,q che rendono p2 + 7pq + q2 un quadrato perfetto*
 
 > Trova tutti i numeri primi $p, q$ in modo tale che $p^2 + 7pq + q^2$ sia il quadrato di un intero.
-
-[[Quesiti/src_rmo_2001#q02|src_rmo_2001__Q02]]
 
 
 
@@ -95,8 +91,6 @@ level: RMO
 > 
 > (Qui $\lfloor z \rfloor$ indica, per qualsiasi $z$ reale, il più grande numero intero non superiore a $z$; ad esempio\ $\lfloor 7/6 \rfloor = 1$.)
 
-[[Quesiti/src_rmo_2001#q03|src_rmo_2001__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_doppio_conteggio,method_invarianti,method_casework,skill_ragionamento_geometrico,skill_astrazione,skill_conteggio_sistematico"></span>
@@ -123,8 +117,6 @@ level: RMO
 *Array simmetrico n×n con le voci 1..n: diagonale è una permutazione quando n è odd*
 
 > Considera un array di numeri $n \times n$: $$\begin{pmatrix} a_{11} & a_{12} & \cdots & a_{1n} \\ a_{21} & a_{22} & \cdots & a_{2n} \\ \vdots & & & \vdots \\ a_{n1} & a_{n2} & \cdots & a_{nn} \end{pmatrix}$$ Supponiamo che ciascuno dei numeri $n$ $1, 2, \ldots, n$ si verifichi in un certo ordine, e $a_{ij} = a_{ji}$ per $i = 1, 2, \ldots, n$ e $j = 1, 2, \ldots, n$. Se $n$ è impar, dimostrare che i numeri $a_{11}, a_{22}, \ldots, a_{nn}$ sono $1, 2, 3, \ldots, n$ in un certo ordine.
-
-[[Quesiti/src_rmo_2001#q04|src_rmo_2001__Q04]]
 
 
 
@@ -155,8 +147,6 @@ level: RMO
 
 ![[src_rmo_2001__q05.png]]
 
-[[Quesiti/src_rmo_2001#q05|src_rmo_2001__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_disuguaglianze,topic_geometria_piana,method_disuguaglianze,method_simmetria,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima"></span>
@@ -183,8 +173,6 @@ level: RMO
 
 > Se $x, y, z$ sono i lati di un triangolo, dimostrare che $$\left| x^2(y - z) + y^2(z - x) + z^2(x - y) \right| < xyz.$$
 
-[[Quesiti/src_rmo_2001#q06|src_rmo_2001__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
@@ -209,5 +197,3 @@ level: RMO
 *Il prodotto dei primi 200 interi pari meno il prodotto dei primi 200 interi unici è divisibile per 401*
 
 > Prove che il prodotto dei primi $200$ pari interi positivi differisce dal prodotto dei primi $200$ integri unici positivi per un multiple di $401$.
-
-[[Quesiti/src_rmo_2001#q07|src_rmo_2001__Q07]]

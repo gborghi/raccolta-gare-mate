@@ -37,8 +37,6 @@ level: OBM Nível 1
 
 ![[src_obm_2011_n1_f2__q01.png]]
 
-[[Quesiti/src_obm_2011_n1_f2#q01|src_obm_2011_n1_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -63,8 +61,6 @@ level: OBM Nível 1
 *Ricerca la somma facciale opposta alla somma facciale 8 su un cubo etichettato*
 
 > A ogni vertice di un cubo, Esmeralda scrive un numero. Quindi calcola la somma dei quattro numeri alle vertici di ciascuna faccia. Trova che le sei somme facciali sono $8$, $10$, $11$, $12$, $13$ e $e$. La faccia con somma $x$ è opposta alla faccia con somma $8$. Qual è il valore di $x$?
-
-[[Quesiti/src_obm_2011_n1_f2#q02|src_obm_2011_n1_f2__Q02]]
 
 
 
@@ -91,8 +87,6 @@ level: OBM Nível 1
 
 > Due tribù vivono su un'isola: la tribù verde e la tribù rossa. I membri di una tribù dicono sempre la verità, e i membri dell'altra tribù mentono sempre. Un giorno, $100$ persone si sono radunate in cerchio e un giornalista ha chiesto a ciascuno: "Il tuo vicino a destra è un bugiardo?" In seguito si è verificato che $48$ persone avevano risposto "sì". Al massimo, quante persone della tribù rossa (i bugiardi) potrebbero esserci nel cerchio?
 
-[[Quesiti/src_obm_2011_n1_f2#q03|src_obm_2011_n1_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -117,8 +111,6 @@ level: OBM Nível 1
 *Massa totale di un cubo 4x4x4 costruito a partire da piccoli cubi ponderati per conto del vicino*
 
 > Con piccoli cubetti della stessa dimensione, è stato costruito un grande cubo $4 \times 4 \times 4$. I piccoli cubetti sono fatti di materiali diversi: un piccolo cubetto che ha esattamente $3$ vicini facciali (cubi che condividono un volto con esso) pesa $10$ grammi; uno con $4$ vicini facciali pesa $8$ grammi; uno con $5$ vicini facciali pesa $6$ grammi; e uno con $6$ vicini facciali pesa $4$ grammi. Qual è la massa totale del grande cubo, in grammi?
-
-[[Quesiti/src_obm_2011_n1_f2#q04|src_obm_2011_n1_f2__Q04]]
 
 
 
@@ -145,8 +137,6 @@ level: OBM Nível 1
 
 > Quanti numeri $3$ di cifre che non contengono cifre zero hanno almeno due cifre uguali?
 
-[[Quesiti/src_obm_2011_n1_f2#q05|src_obm_2011_n1_f2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_fattorizzazione,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -171,8 +161,6 @@ level: OBM Nível 1
 *Conta fratelli di 60 anni che sono inferiori a 1000*
 
 > Diciamo che due o più numeri sono fratelli quando hanno esattamente gli stessi fattori primi. Ad esempio, $10 = 2 \times 5$ e $20 = 2^2 \times 5$ sono fratelli, poiché $2$ e $5$ sono i loro unici fattori primari. Il numero $60$ può avere fratelli inferiori a $1000$. Quanti fratelli hanno meno di $1000$ $60$?
-
-[[Quesiti/src_obm_2011_n1_f2#q06|src_obm_2011_n1_f2__Q06]]
 
 
 
@@ -214,8 +202,6 @@ level: OBM Nível 1
 > 
 > b) Qual è la cifra di unità di $1^2 + 2^2 + \cdots + 2011^2$?
 
-[[Quesiti/src_obm_2011_n1_f2#q07|src_obm_2011_n1_f2__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,method_estremalita,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -253,8 +239,6 @@ level: OBM Nível 1
 > 
 > c) Esistono numeri il cui selo è $(6;\, m)$? Qual è il minimo valore possibile di $m$?
 
-[[Quesiti/src_obm_2011_n1_f2#q08|src_obm_2011_n1_f2__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_casework,method_invarianti,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_modellizzazione"></span>
@@ -291,5 +275,3 @@ level: OBM Nível 1
 > b) Diamantino sostiene di poter ottenere $11$ quadrati sul proprio geoplano. Mostrare che è possibile ottenere la stessa quantità anche sulla griglia $5 \times 5$ di unghie mostrata sotto. Non dimenticate di segnare le frecce sul disegno.
 
 ![[src_obm_2011_n1_f2__q09.png]]
-
-[[Quesiti/src_obm_2011_n1_f2#q09|src_obm_2011_n1_f2__Q09]]

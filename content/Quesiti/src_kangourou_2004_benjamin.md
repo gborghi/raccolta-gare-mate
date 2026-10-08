@@ -38,7 +38,6 @@ level: kangourou
 > (10  x 100)  x (20 x 80) = A)  20000 x 80000       B)  2000 x 8000 C)  2000 x 80000 D)  20000 x 8000 E)  2000 x 800
 
 **Answer:** E
-[[Quesiti/src_kangourou_2004_benjamin#q01|src_kangourou_2004_benjamin__Q01]]
 
 
 
@@ -111,7 +110,6 @@ level: kangourou
 > You 've got 16 cards: 4 spades (P), 4 clubs (F), 4 diamonds (Q), and 4 hearts (C). You have to place them in the pattern shown in the figure, one per square, so that in each row and in each column there is a card for each sign. You've already begun the work as shown in the figure. Which card do you have to put in the square where the question mark appears? A) P B) F C) Q D) C E) more than one choice is possible
 
 **Answer:** C
-[[Quesiti/src_kangourou_2004_benjamin#q02|src_kangourou_2004_benjamin__Q02]]
 
 
 
@@ -145,7 +143,6 @@ level: kangourou
 > How much is the diameter of the circle in the figure in centimeters? (The angles indicated by a square are straight and one of them is in the centre of the circle.) A) 18 B) 12 C) 10 D) 12.5 E) 14
 
 **Answer:** C
-[[Quesiti/src_kangourou_2004_benjamin#q03|src_kangourou_2004_benjamin__Q03]]
 
 
 
@@ -174,7 +171,6 @@ level: kangourou
 > 360 000 seconds is equivalent to A) 3 hours B) 6 hours C) 8 and a half hours D) 10 hours E) more than 10 hours
 
 **Answer:** E
-[[Quesiti/src_kangourou_2004_benjamin#q04|src_kangourou_2004_benjamin__Q04]]
 
 
 
@@ -207,7 +203,6 @@ Weight of 1 apple and 1 orange *
 > 3 apples and 2 oranges weigh a total of 255 grams; 2 apples and 3 oranges weigh a total of 285 grams. All apples have the same weight and all oranges have the same weight. How many grams do 1 apple and 1 orange weigh in total? A) 110 B) 108         C) 105        D) 104        E) 102
 
 **Answer:** B
-[[Quesiti/src_kangourou_2004_benjamin#q05|src_kangourou_2004_benjamin__Q05]]
 
 
 
@@ -275,7 +270,6 @@ Weight of 1 apple and 1 orange *
 > D) 9           E) 15
 
 **Answer:** B
-[[Quesiti/src_kangourou_2004_benjamin#q06|src_kangourou_2004_benjamin__Q06]]
 
 
 
@@ -308,7 +302,6 @@ Weight of 1 apple and 1 orange *
 > Which of the following is not a 2004 divider? A) 3 B) 4 C) 6 D) 8 E) 12
 
 **Answer:** D
-[[Quesiti/src_kangourou_2004_benjamin#q07|src_kangourou_2004_benjamin__Q07]]
 
 
 
@@ -342,7 +335,6 @@ Carrots eaten by the rabbit mother
 > The three members of a rabbit family ate a total of 73 carrots. The father ate 5 carrots more than the mother. Bunny the son ate 12 carrots. How many carrots did the mother eat? A) 27 B) 28 C) 31 D) 33          E) 56
 
 **Answer:** B
-[[Quesiti/src_kangourou_2004_benjamin#q08|src_kangourou_2004_benjamin__Q08]]
 
 
 
@@ -373,7 +365,6 @@ Carrots eaten by the rabbit mother
 > Nine consecutive bus stops are located along a road so that the distance between two adjacent stops is always the same. The distance between the first and third stop is 600 meters. How far is the first stop from the ninth? A)  1200      B)  1500     C)  1800      D)  2400    E)  2700
 
 **Answer:** D
-[[Quesiti/src_kangourou_2004_benjamin#q09|src_kangourou_2004_benjamin__Q09]]
 
 
 
@@ -411,7 +402,6 @@ Carrots eaten by the rabbit mother
 > A square cardboard of 6 centimeters on the side is used to build a box 1 centimeter high, as suggested by the figure (shaded squares are removed). How many cubic centimetres is the volume of the box? A) 16 B) 36 C) 30 D) 25 E) 24 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2004_benjamin#q10|src_kangourou_2004_benjamin__Q10]]
 
 
 
@@ -477,7 +467,6 @@ Carrots eaten by the rabbit mother
 > Kang 2004
 
 **Answer:** D
-[[Quesiti/src_kangourou_2004_benjamin#q11|src_kangourou_2004_benjamin__Q11]]
 
 
 
@@ -517,7 +506,6 @@ Carrots eaten by the rabbit mother
 > A sheet of paper is folded five times in a row, as shown in the figure showing with a stretch the line along which, from time to time, the folding is carried out. A hole is then made in the center of the folded sheet, which is then laid out until the initial configuration is restored. How many holes are there on the paper now? A) 6 B) 10          C) 16 D) 20         E) 32
 
 **Answer:** E
-[[Quesiti/src_kangourou_2004_benjamin#q12|src_kangourou_2004_benjamin__Q12]]
 
 
 
@@ -555,7 +543,6 @@ Carrots eaten by the rabbit mother
 > To equal symbols correspond equal numbers, to different symbols correspond different numbers. In the displayed addition, what digit corresponds to the square? A) 9 B) 8 C) 7 D) 6 E) 5
 
 **Answer:** D
-[[Quesiti/src_kangourou_2004_benjamin#q13|src_kangourou_2004_benjamin__Q13]]
 
 
 
@@ -590,7 +577,6 @@ Carrots eaten by the rabbit mother
 > You got 108 red balls and 180 green balls. You want to distribute them in boxes, so that each box contains balls all of the same color and the number of balls is the same for each box. What's the minimum number of boxes you can run the operation? A) 288 B) 36 C) 18 D) 8 E) 2
 
 **Answer:** D
-[[Quesiti/src_kangourou_2004_benjamin#q14|src_kangourou_2004_benjamin__Q14]]
 
 
 
@@ -624,7 +610,6 @@ Carrots eaten by the rabbit mother
 > The sum of two positive integers is 77. The smaller of the two times 8 gives the same result as the other times 6. How much is the larger of the two numbers? A) 33 B) 39 C) 43 D) 44         E) 54
 
 **Answer:** D
-[[Quesiti/src_kangourou_2004_benjamin#q15|src_kangourou_2004_benjamin__Q15]]
 
 
 
@@ -690,7 +675,6 @@ Carrots eaten by the rabbit mother
 > What's the minimum number of squares we need to paint if we want the large square in the figure to have at least one axis of symmetry? A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** B
-[[Quesiti/src_kangourou_2004_benjamin#q16|src_kangourou_2004_benjamin__Q16]]
 
 
 
@@ -744,7 +728,6 @@ Carrots eaten by the rabbit mother
 > Kang 2004
 
 **Answer:** E
-[[Quesiti/src_kangourou_2004_benjamin#q17|src_kangourou_2004_benjamin__Q17]]
 
 
 
@@ -786,7 +769,6 @@ Carrots eaten by the rabbit mother
 > Four snails crawled on a floor made of rectangular tiles all equal to each other. The figure shows the trace left by each of them. You know that the trail left by Fin is 25 decimetres long, the one left by Pin is 37 decimetres long and the one left by Rin is 38 decimetres long. How long is the trail left by the Tin snail? A) 27 B) 30          C) 35 D) 36          E) 40
 
 **Answer:** C
-[[Quesiti/src_kangourou_2004_benjamin#q18|src_kangourou_2004_benjamin__Q18]]
 
 
 
@@ -821,7 +803,6 @@ Carrots eaten by the rabbit mother
 > Turtle Island has a very strange climate: every Monday and Wednesday it rains, every Saturday there is fog while the rest of the days there is sunshine. A group of tourists plan to spend 44 consecutive days on the island. What day of the week should be their first day of vacation if they want to enjoy as many sunny days as possible? (a) Monday (b) Tuesday (c) Wednesday (d) Thursday (e) Friday
 
 **Answer:** D
-[[Quesiti/src_kangourou_2004_benjamin#q19|src_kangourou_2004_benjamin__Q19]]
 
 
 
@@ -874,7 +855,6 @@ Carrots eaten by the rabbit mother
 > A closed-response test (such as Kangourou) consists of 10 questions. For each correct answer, 5 points are awarded, while for each wrong answer, 3 points are subtracted. All competitors answered all the questions: Angelo scored 34 points, Betta scored 10 and Clemente scored only 2. How many were the correct answers overall? (A) 17 B) 18 C) 15 D) 13 E) 21 A) B) C) D) E) Fin Pin Rin Tin
 
 **Answer:** A
-[[Quesiti/src_kangourou_2004_benjamin#q20|src_kangourou_2004_benjamin__Q20]]
 
 
 
@@ -910,7 +890,6 @@ Carrots eaten by the rabbit mother
 > Look at the figure. What is the ratio between the area of the surface left blank and the area of the shaded surface? A)  1:4        B)  1:5        C)  1:6        D)  2:5 E)  2:7
 
 **Answer:** A
-[[Quesiti/src_kangourou_2004_benjamin#q21|src_kangourou_2004_benjamin__Q21]]
 
 
 
@@ -943,7 +922,6 @@ How many mushrooms did Stefania collect?
 > Stefania and Simonetta went to mushrooms and collected a total of 70. 5/9 of the mushrooms mushrooms collected by Stefania are porcini and 2/17 of the mushrooms collected by Simonetta are ovoli. How many mushrooms did Stefania collect? A)  27 B)  36 C)  45 D)  54        E)  9
 
 **Answer:** B
-[[Quesiti/src_kangourou_2004_benjamin#q22|src_kangourou_2004_benjamin__Q22]]
 
 
 
@@ -1009,7 +987,6 @@ How many mushrooms did Stefania collect?
 > In the figure, 9 boxes are aligned: the first contains the number 7 and the last contains the number 6. What number do we have to write in the second, if we want for every three consecutive boxes, the sum of the numbers that appear to you to be 21? A) 7 B) 8 C) 6 D) 10 E) 21
 
 **Answer:** B
-[[Quesiti/src_kangourou_2004_benjamin#q23|src_kangourou_2004_benjamin__Q23]]
 
 
 
@@ -1050,7 +1027,6 @@ How many mushrooms did Stefania collect?
 > The figure shows some pearls (represented by circles) connected by strings (represented by segments). How many of these threads is it enough to remove to get a necklace, made of a single ring, that contains all the pearls? A) 18 B) 19 C) 20 D) 21 E) It is impossible to obtain such a necklace by simply removing threads
 
 **Answer:** B
-[[Quesiti/src_kangourou_2004_benjamin#q24|src_kangourou_2004_benjamin__Q24]]
 
 
 
@@ -1091,7 +1067,6 @@ How many mushrooms did Stefania collect?
 > In a store a month ago, two items were priced the same. One of the two subsequently received a 5% discount while the other received a 15% increase. As a result of these changes, the two prices now differ by 6 euros. What is the current price of the cheaper item? A) € 1,5      B) € 6 C) € 28,5    D) € 30      E) € 34,50 7 6
 
 **Answer:** C
-[[Quesiti/src_kangourou_2004_benjamin#q25|src_kangourou_2004_benjamin__Q25]]
 
 
 
@@ -1131,7 +1106,6 @@ How many mushrooms did Stefania collect?
 > Matteo stacked some cubes on top of each other, all of them equal to each other. He thus obtained a construction that, seen from the front, right and above, appears as shown by the figures (without taking into account the perspective). What is the maximum number of cubes that Matteo could have used? A) 19          B) 20          C) 21         D) 22          E) 23
 
 **Answer:** A
-[[Quesiti/src_kangourou_2004_benjamin#q26|src_kangourou_2004_benjamin__Q26]]
 
 
 
@@ -1166,7 +1140,6 @@ How many mushrooms did Stefania collect?
 > Consider the construction done by Matteo and illustrated in the preceding question. Now we ask you, what is the minimum number of cubes that Matteo could have used? (Naturally, any cube other than the base must rest on another cube.) A) 11          B) 12          C) 13          D) 15          E) 19
 
 **Answer:** C
-[[Quesiti/src_kangourou_2004_benjamin#q27|src_kangourou_2004_benjamin__Q27]]
 
 
 
@@ -1200,7 +1173,6 @@ How many mushrooms did Stefania collect?
 > A) 200       B) 225        C) 250        D) 275       E) 300
 
 **Answer:** E
-[[Quesiti/src_kangourou_2004_benjamin#q28|src_kangourou_2004_benjamin__Q28]]
 
 
 
@@ -1231,7 +1203,6 @@ How many mushrooms did Stefania collect?
 > Alfonso divided by 3 the number (i.e. the number formed from 2004 digits all equal to 1). How many zeros are in the quotient he got? A) 1002      B) 669        C) 668        D) 667       E) 665
 
 **Answer:** D
-[[Quesiti/src_kangourou_2004_benjamin#q29|src_kangourou_2004_benjamin__Q29]]
 
 
 
@@ -1305,4 +1276,3 @@ How many mushrooms did Stefania collect?
 >  BENJAMIN 2004 SOLUTIONS
 
 **Answer:** C
-[[Quesiti/src_kangourou_2004_benjamin#q30|src_kangourou_2004_benjamin__Q30]]

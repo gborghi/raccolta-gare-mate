@@ -34,8 +34,6 @@ level: BMO Round 2
 
 > Trovare tutti i triples di numeri interi positivi $(a, b, c)$ in modo tale che $$\left(1 + \frac{1}{a}\right)\left(1 + \frac{1}{b}\right)\left(1 + \frac{1}{c}\right) = 2.$$
 
-[[Quesiti/src_bmo2_1995#q01|src_bmo2_1995__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -61,8 +59,6 @@ level: BMO Round 2
 
 > $ABC$ sia un triangolo, e $D$, $E$, $F$ siano i punti medi di $BC$, $CA$, $AB$ rispettivamente. Prova che $\angle DAC = \angle ABE$ se e solo se $\angle AFC = \angle ADB$.
 
-[[Quesiti/src_bmo2_1995#q02|src_bmo2_1995__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_casework,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
@@ -87,8 +83,6 @@ level: BMO Round 2
 *Raggiungere i limiti sulle radici date condizioni di somma e somma di prodotti*
 
 > $a$, $b$, $c$ siano numeri reali che soddisfino $a < b < c$, $a + b + c = 6$ e $ab + bc + ca = 9$. Prove che $0 < a < 1 < b < 3 < c < 4$.
-
-[[Quesiti/src_bmo2_1995#q03|src_bmo2_1995__Q03]]
 
 
 
@@ -118,5 +112,3 @@ level: BMO Round 2
 > (a) Determinare, con chiarezza, in quanti modi le persone $2n$ possono essere accoppiate per formare squadre $n$ di $2$.
 > 
 > b) dimostrare che $(n!)^{n+1}$ è divisibile per $(n+1)!^{n}$ per tutti gli integri positivi $n$.
-
-[[Quesiti/src_bmo2_1995#q04|src_bmo2_1995__Q04]]

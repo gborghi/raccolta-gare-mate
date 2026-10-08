@@ -38,7 +38,6 @@ level: kangourou
 > Kang is a station on a single track line. In the figure, you can see the Kang track pattern, each of which has a length: the running track is the top track, while the bottom track starts and ends with two dead-end tracks. All trains running on the line are made up of a locomotive, which is at the head, and some carriages: the length of each locomotive and carriage is 19 meters. What are the least restrictive conditions to be imposed on the composition of two trains in order to cross at Kang? Please note that all types of maneuvers (especially trains may reverse) and signalling compatible with the station layout are allowed, including the breaking of trains into carriage groups. (see figure)
 
 **Answer:** max 13 carriages
-[[Quesiti/src_kangourou_2015_finale_junior#qj1|src_kangourou_2015_finale_junior__QJ1]]
 
 
 
@@ -107,8 +106,7 @@ level: kangourou
 
 > The figure shows two equal squares that have exactly one vertex $A$ in common. Is it possible to determine the measure of angle $ABC$? (see figure)
 
-**Answer:** 45 gradi
-[[Quesiti/src_kangourou_2015_finale_junior#qj2|src_kangourou_2015_finale_junior__QJ2]]
+**Answer:** 45 degrees
 
 
 
@@ -137,7 +135,6 @@ level: kangourou
 > In the usual A4 (rectangular) sheets, the ratio between the length of the longest side and the length of the shortest side is $\sqrt{2}$. You want to draw on one of these sheets a grid of $(n+1) \times n$ size made up of square cells, no matter what size, but the same for all cells. You want to make sure that each side of the grid is parallel to one edge of the sheet and that the distance of each side of the grid from the edge of the nearest sheet is the same, no matter which, for each of the four sides. What are the possible values of $n$?
 
 **Answer:** 1 and 2
-[[Quesiti/src_kangourou_2015_finale_junior#qj3|src_kangourou_2015_finale_junior__QJ3]]
 
 
 
@@ -166,7 +163,6 @@ level: kangourou
 > In Kangland, the currency used is the kang and there are only 1, 2 or 3 kang coins. Obviously, with coins like these, you can make any amount of an integer kang. Show that, for each positive integer $N$, the different possible ways to realize the amount of $N+1$ kang are in a strictly higher number than the different possible ways to realize the amount of $N$ kang. Note: to obtain, for example, 4 kang, the $1+1+2$ mode must be considered equal to the $1+2+1$ mode (but not the $2+2$ mode).
 
 **Answer:** proof
-[[Quesiti/src_kangourou_2015_finale_junior#qj4|src_kangourou_2015_finale_junior__QJ4]]
 
 
 
@@ -195,7 +191,6 @@ level: kangourou
 > 51 crows are perched in a row on a branch of a large tree. Each time (and only each time) one of them caws, its neighbor to the right and the one to the left, if they exist, take flight. Each crow that takes flight flies for exactly one minute, then returns to its place immediately letting out a loud caw. This morning the first to caw was the crow at the end of the branch and then they continued, according to the described rule, for exactly one hour: at the end of the hour all the crows in flight returned to the branch, each letting out one last loud caw. How many caws were made in that hour, from the first to the last instant inclusive?
 
 **Answer:** 931
-[[Quesiti/src_kangourou_2015_finale_junior#qj5|src_kangourou_2015_finale_junior__QJ5]]
 
 
 
@@ -224,4 +219,3 @@ level: kangourou
 > Given a triangle, what is the minimum number of lines parallel to the sides that need to be drawn to divide it into exactly 100 regions?
 
 **Answer:** 16
-[[Quesiti/src_kangourou_2015_finale_junior#qj6|src_kangourou_2015_finale_junior__QJ6]]

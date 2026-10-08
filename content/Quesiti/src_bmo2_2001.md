@@ -37,8 +37,6 @@ level: BMO Round 2
 > 
 > Trova $\frac{q}{p}$ in termini di $n$.
 
-[[Quesiti/src_bmo2_2001#q01|src_bmo2_2001__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -64,8 +62,6 @@ level: BMO Round 2
 *Ricerca tutte le coppie di numeri interi che soddisfano un'equazione diofantina*
 
 > Trova tutte le coppie di integri $(x, y)$ soddisfacenti $$1 + x^2 y = x^2 + 2xy + 2x + y.$$
-
-[[Quesiti/src_bmo2_2001#q02|src_bmo2_2001__Q02]]
 
 
 
@@ -96,8 +92,6 @@ level: BMO Round 2
 > 
 > Mostra che $\angle BAD = \angle FDC$.
 
-[[Quesiti/src_bmo2_2001#q03|src_bmo2_2001__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_estremalita,method_casework,method_doppio_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_stima"></span>
@@ -126,5 +120,3 @@ level: BMO Round 2
 > Le nane $N$ di altezza $1, 2, \ldots, N$ sono disposte in cerchio. Per ciascuna delle coppie $N$ di nane vicine, viene calcolata la differenza positiva tra le altezze; la somma di queste differenze $N$ viene chiamata il valore $V$ dell'arrangimento.
 > 
 > Trova (con prova) i valori massimi e minimi possibili di $V$.
-
-[[Quesiti/src_bmo2_2001#q04|src_bmo2_2001__Q04]]

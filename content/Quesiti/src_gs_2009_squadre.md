@@ -34,7 +34,6 @@ level: squadre
 > The paranoid robot Marvin is on the edge of the tower A cornice of Megadodo Publications, the publishing house of the 78-meter-high Galactic Guide to Auto Stoppers (G2AS), has just finished the existential discussion with the Frogstar Robot Tank and looks toward the top of the only hill of Ursa Minor B. In fact, you're looking at the light at the top of the antenna on the top of the hill, and to do that, you raise your head 30 degrees. Knowing that the hill is 856 meters high, the antenna is 6 meters high and Marvin's eyes are 2 meters from the cornice, what is the distance in meters between Marvin's eyes and the top of the antenna?
 
 **Answer:** 1564
-[[Quesiti/src_gs_2009_squadre#q01|src_gs_2009_squadre__Q01]]
 
 
 
@@ -62,7 +61,6 @@ level: squadre
 > 2 . The height ` and √ c2 + 2cd + d2 4 − d2 2 = √ c2 + 2cd− d2 2 . The total height ` ec+d+ √ c2+2cd−d2 2 = 137+120+193 2 = 225 mm. Solution to problem 10 (SCS polygon) Fix two vertices between 33 to form a
 
 **Answer:** 406
-[[Quesiti/src_gs_2009_squadre#q02|src_gs_2009_squadre__Q02]]
 
 
 
@@ -91,7 +89,6 @@ level: squadre
 > At a hypergalactic station near Arcturus, travelers form a single queue to access the ticket office gates and it is always the one in front of the queue that turns to one of the available gates. Nine travelers are in line, with three gateways in operation; they spend different times, once in front of the gate, to buy their tickets: 4, 6, 9, 11, 15, 36, 38, 40 and 45 minutes. The time taken to complete the purchases was as short as possible under the conditions described. What was the time it took?
 
 **Answer:** 74
-[[Quesiti/src_gs_2009_squadre#q03|src_gs_2009_squadre__Q03]]
 
 
 
@@ -119,7 +116,6 @@ level: squadre
 > To take into account the processing time required by Deep Thought, to produce the Answer to the Definitive Question about Life, the Universe and the Whole, the Unified Syndicate of Philosophers and Other Thinkers (SUFAP) has arranged a water clessandra formed by two cones, connected at the vertices. Water fills the bottom cone. The water wheel is turned and the water starts to fall; after 2009 years, the water is exactly half the height of the lower cone. The water keeps falling regularly. After how many years since the SUFAP's clex hydrometer was turned, will all the water be in the bottom cone?
 
 **Answer:** 2296
-[[Quesiti/src_gs_2009_squadre#q04|src_gs_2009_squadre__Q04]]
 
 
 
@@ -147,7 +143,6 @@ level: squadre
 > 5 . . . 1215 ... ... 8 24 72 216 648 1944 10 30 90 270 810 11 . . . 891 ... ... 23 69 207 621 1863 25 75 225 675 26 . . . 702 ... ... 74 222 666 1998 76 228 684 77 . . . 693 ... ...
 
 **Answer:** 420
-[[Quesiti/src_gs_2009_squadre#q05|src_gs_2009_squadre__Q05]]
 
 
 
@@ -173,8 +168,6 @@ level: squadre
 *Three different speed clocks, common time*
 
 > According to G2AS, in the headquarters of the Galactic Geo-temporal Control, on huge walls, there are clocks that indicate the exact time of many planets. In one corner, there are analog clock hands, which indicate the time of the only three planets in the universe where the day is divided into 12 hours and 60 minutes: Fallia, Ciceronicus, and Bethselamin. When Trillian looks at the clocks, Fallia's clock is at 7, Bethselamin's clock is at 11, and Ciceronicus's clock is at 2. But as an hour passes on Fallia's clock, Ciceronicus's moves an hour and 20 minutes, and while Bethselamin's clock counts 12 hours, Fallia's counts 36. What time will Fallia's clock mark the first time that those of Bethselamin and Ciceronicus will mark the same hour? You get the answer using the first two digits for the hour, the last two digits for the minute.
-
-[[Quesiti/src_gs_2009_squadre#q06|src_gs_2009_squadre__Q06]]
 
 
 
@@ -207,7 +200,6 @@ level: squadre
 > Arguing about aesthetics with the Blagulon Kappa Computer, paranoid robot Marvin takes a 16cm and 25cm rectangular sheet of paper, folds it along a diagonal, then glues the overlapping parts. What is the $\text{cm}^2$ value of the polygon area obtained?
 
 **Answer:** 259.04
-[[Quesiti/src_gs_2009_squadre#q07|src_gs_2009_squadre__Q07]]
 
 
 
@@ -237,7 +229,6 @@ Probability of extraction of red and blue shirts
 > = 7 8 of the total volume. It will take 2009 8 7 = 2296 years.
 
 **Answer:** 0.974358
-[[Quesiti/src_gs_2009_squadre#q08|src_gs_2009_squadre__Q08]]
 
 
 
@@ -266,7 +257,6 @@ Probability of extraction of red and blue shirts
 > In Slartibartfast's studio, there is a supermobile consisting of four 1.2dm diameter marble balls, locked in a transparent box, with a 2.4dm square side base without a lid; in the center, above the four marble balls, a 1.37dm diameter steel ball is supported. What is the height in mm of the supermobile?
 
 **Answer:** 225
-[[Quesiti/src_gs_2009_squadre#q09|src_gs_2009_squadre__Q09]]
 
 
 
@@ -295,7 +285,6 @@ Probability of extraction of red and blue shirts
 > In the hall of Sirius Cybernetics Corporation, a decorative panel consists of a regular polygon of 33 sides inscribed in a circle. As an exercise, the Marvin robot controls all trapezoids (including parallelograms) that can be generated with 4 of the 33 vertices of the polygon. How many traps have you checked?
 
 **Answer:** 3960
-[[Quesiti/src_gs_2009_squadre#q10|src_gs_2009_squadre__Q10]]
 
 
 
@@ -325,8 +314,6 @@ Probability of extraction of red and blue shirts
 
 > 11 . . . 891 ... ... 23 69 207 621 1863 25 75 225 675 26 . . . 702 ... ... 74 222 666 1998 76 228 684 77 . . . 693 ... ... 223 669 2007 224 672 226 675 ... ...
 
-[[Quesiti/src_gs_2009_squadre#q11|src_gs_2009_squadre__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_combinatoria,method_fattorizzazione,skill_manipolazione_algebrica"></span>
@@ -354,7 +341,6 @@ Probability of extraction of red and blue shirts
 > On an island in Damogran, there are very contentious peasants. Each of these is in dispute with the others on territorial grounds; for this reason they have turned to a justice of the peace who has opened a practice for each dispute. Knowing that the judge has 438,516 practices in his office, how many farmers are there on the island?
 
 **Answer:** 937
-[[Quesiti/src_gs_2009_squadre#q12|src_gs_2009_squadre__Q12]]
 
 
 
@@ -380,8 +366,6 @@ Probability of extraction of red and blue shirts
 *Final figures of a power of 3 (benefit)*
 
 > One hundred neo-mathematicians from the laboratories of Sirius Cybernetics Corporation have devised a system to win at the Santraginus 5 casino. Hooloovoo, the boss, puts in the three dollar altars with which the group of neo-mathematicians starts playing; every night they play, the group triples the fortune. To avoid suspicion, they play once every two weeks, every Thursday. They started on Thursday 20 March 2008; they stopped yesterday. After returning to Hooloovoo the three dollars he had invested initially, the neo-mathematicians divided the total assets they had won into equal parts, rounding it up to a whole number of dollars, and donated the rest to charity. How much have the Altaris donated to charity?
-
-[[Quesiti/src_gs_2009_squadre#q13|src_gs_2009_squadre__Q13]]
 
 
 
@@ -417,8 +401,6 @@ Probability of extraction of red and blue shirts
 > - They all wake up at the same time between 7 and 8. At that exact moment, the clock on the big clock shows three distinct numbers. - They start eating lunch, all at the same time, when the big digital clock indicates a time that, as a six-digit number, is exactly three times that of the alarm clock; the three numbers in the clock frames are the same as the alarm clock, but clearly in a different arrangement. - They all go to sleep at the same time, when the large digital clock indicates a time which, as a six-digit number, is exactly three times the time of the beginning of lunch; still the three numbers in the clock frames are the same as the time of waking up (and lunch), but in a different arrangement.
 > 
 > What's the wake-up time? Write down the minutes and seconds.
-
-[[Quesiti/src_gs_2009_squadre#q14|src_gs_2009_squadre__Q14]]
 
 
 
@@ -467,7 +449,6 @@ Probability of extraction of red and blue shirts
 > Once you have identified the circles that the archaeologists intend to dig, you count for each of the 9 columns how many of these circles it belongs to; you give the sum of the product of those 9 numbers with the sum of those 9 numbers as the answer.
 
 **Answer:** 88
-[[Quesiti/src_gs_2009_squadre#q15|src_gs_2009_squadre__Q15]]
 
 
 
@@ -496,7 +477,6 @@ Probability of extraction of red and blue shirts
 > To pay for a Pan Galactic Gargle Blaster at the Illegal Bistró, you take 50 Altarian dollars, you divide the 50 coins into two heaps, you count the coins of each of the two heaps and you write the product of the two counts. Then you take one of the heaps with more than one coin and you divide it into two heaps, you count the coins of each heap and you write down the product of the two counts. It continues as long as all the heaps are of one coin. All the products are added. You pay the final amount you get (not 50 Altarian dollars). What is the maximum amount that you can pay?
 
 **Answer:** 1225
-[[Quesiti/src_gs_2009_squadre#q16|src_gs_2009_squadre__Q16]]
 
 
 
@@ -524,7 +504,6 @@ Probability of extraction of red and blue shirts
 > On the planet Ursa Minor Beta, there is a very long two-lane railway right-of-way where, thanks to a sophisticated computer system, trains can travel in both directions on each single-lane. In all the straight lines, no two trains ever travel on the same track. The distance between the two monorails is 1.9m. Trains travel at constant and predetermined speeds: the most commonly used for fast and normal travel are 295.4 km/h and 147.7 km/h, respectively, when converted into the decimal metric system. Each train has a small antenna at its tip (negligible size) that, when necessary, emits a radio signal. When the antennas of two trains are less than or equal to 749.25 m away, they emit a continuous radio signal to signal each other's position. Railway engineers have found that the signal is transmitted for a longer time when two trains are moving in the same direction than when two trains are moving in opposite directions. What is the relationship between the duration of the transmission of the signal between two trains travelling in the same direction, one travelling at high speed and the other travelling at normal speed, and the duration of the transmission of the signal between two trains travelling in opposite directions, one travelling at high speed and the other travelling at normal speed? In the answer, you write the ratio multiplied by 100.
 
 **Answer:** 3
-[[Quesiti/src_gs_2009_squadre#q17|src_gs_2009_squadre__Q17]]
 
 
 
@@ -553,7 +532,6 @@ Probability of extraction of red and blue shirts
 > Altair's Army of Apparent Contradiction (ECA) only enlists people who are willing to tell the truth or lie. They have very powerful, almost paradoxical weapons that can annihilate exterminated territories in a single, absurd blow. A regiment of 2009 soldiers is made up of honest and lying men. A colonel (you don't become an ECA colonel if you don't always tell the truth) orders the regiment's 2009 soldiers to take a stand, rectangular on 41 rows. At that point, each soldier exclaims: Among those around me, there is exactly one liar. The colonel checks that the soldiers are perfectly aligned, that around each soldier there are 8 soldiers, excluding those on the sides of the rectangle of survey. As a final check, he asks the soldiers in the front line to declare how many liars they have in line. Each of the soldiers in the front row declares: Next to me, in the front row, there is exactly one liar. Among the 2009 ECA soldiers, how many are honest?
 
 **Answer:** 1771
-[[Quesiti/src_gs_2009_squadre#q18|src_gs_2009_squadre__Q18]]
 
 
 
@@ -589,7 +567,6 @@ Probability of extraction of red and blue shirts
 > How many centimetres is the diameter of this circumference?
 
 **Answer:** 8.7
-[[Quesiti/src_gs_2009_squadre#q19|src_gs_2009_squadre__Q19]]
 
 
 
@@ -620,7 +597,6 @@ Probability of extraction of red and blue shirts
 > Analyzing himself, the paranoid robot Marvin finds, in the recesses of his digital circuits, an operation $\square$ between natural numbers with the following properties: $$a \mathbin{\square} (a+b) = a \mathbin{\square} b, \qquad a \mathbin{\square} b = b \mathbin{\square} a, \qquad a \mathbin{\square} 0 = a$$ for any natural numbers $a, b$. To pass the time, Marvin calculates the value of $n \mathbin{\square} 2009$ for all $n$ from 1 to 2008. What's the maximum value Marvin calculated?
 
 **Answer:** 287
-[[Quesiti/src_gs_2009_squadre#q20|src_gs_2009_squadre__Q20]]
 
 
 
@@ -649,7 +625,6 @@ Probability of extraction of red and blue shirts
 > In the Traal beetles, the game of double head-and-cross, with a coin, is played between two teams of two players. A player from the first team throws the coin: if a cross comes out, he is eliminated from the game; if a head comes out, nothing happens. Now, a player from the other team throws a coin: if he gets a cross, he's eliminated; if he gets a head, he's eliminating one of the players from the first team. The game moves back to the first team and continues as from the beginning. He loses the team that finishes first. What are the odds of the first team winning? The answer is given by writing the first four digits of the result other than 0, 1 and 9, in the order in which they appear. (For example, if the result was $\frac{5}{7} = 0.714285714\ldots$, you should write 7428.)
 
 **Answer:** 0.21875
-[[Quesiti/src_gs_2009_squadre#q21|src_gs_2009_squadre__Q21]]
 
 
 
@@ -678,7 +653,6 @@ Probability of extraction of red and blue shirts
 > To demonstrate his ultra-psychic abilities to clients, Dr. Gag Halfrunt has the patient perform an easy experiment: He tells him to extract a number of balls from a box containing 2009 balls, numbered from 1 to 2009. He, speaking to the patient, will make sure that, among the balls extracted, there are at least two that give three times the number of the other. The thing is, Gag always pulls out the least number of balls that assures him he gets the result. What is the minimum number $n$ such that, taking any $n$ balls numbered from 1 to 2009, there are two of these with numbers that are one triple the other?
 
 **Answer:** 1508
-[[Quesiti/src_gs_2009_squadre#q22|src_gs_2009_squadre__Q22]]
 
 
 
@@ -707,7 +681,6 @@ Probability of extraction of red and blue shirts
 > After drinking three Pan Galactic Gargle Blasters, Ford and Zaphod had the Nutri-matic Food Synthesizer generate a huge rectangular square-shaped chocolate tablet: 9002 columns, each composed of 2009 square-shaped chocolate. They decide to play a game: they may splash the box on a top; then, in turn, each of them will break the table (or what is left of it) into two rectangular pieces, along one of the drains between the boxes, eating one of the two parts. Whoever eats the box with the mayonnaise loses. Ford plays first. Which rectangle must eat on the first move to be sure of winning? The answer indicates the number of different pictures from 2009 and 9002 of one of the sides of the piece of chocolate you have to eat.
 
 **Answer:** 6993
-[[Quesiti/src_gs_2009_squadre#q23|src_gs_2009_squadre__Q23]]
 
 
 
@@ -736,4 +709,3 @@ Probability of extraction of red and blue shirts
 > Planets participating in the MCD Galactic Championship tournament must register two teams for the tournament; each team plays once and only once against all teams from the other participating planets, but does not play against the other team from its own planet. MCD is a very special game: this year, it predicts that a game will end when the sum of the points scored by the two teams is 2009, but with one important exception. When the sum reaches 2009, if the scores of the two teams have a maximum common divisor other than 1, the lead team's score is zeroed and the game continues. Knowing that all matches ended with different scores (2008-1 and 1-2008 are considered equal scores), how many teams could be at most?
 
 **Answer:** 42
-[[Quesiti/src_gs_2009_squadre#q24|src_gs_2009_squadre__Q24]]

@@ -43,7 +43,6 @@ level: JMO Yosen
 ![[src_jmo22yq_yosen__q01.png]]
 
 **Risposta:** 10
-[[Quesiti/src_jmo22yq_yosen#q01|src_jmo22yq_yosen__Q01]]
 
 
 
@@ -76,7 +75,6 @@ level: JMO Yosen
 ![[src_jmo22yq_yosen__q02.png]]
 
 **Risposta:** 70
-[[Quesiti/src_jmo22yq_yosen#q02|src_jmo22yq_yosen__Q02]]
 
 
 
@@ -105,7 +103,6 @@ level: JMO Yosen
 > $a, b, c, d, e, f, g, h, i$ sono integri reciprocamente distinti, ognuno scelto da $1$ a $9$. Il valore massimo $N$ deve essere $a \times b \times c + d \times e \times f + g \times h \times i$ per tutte le assegnazioni. Trova il valore minimo di $N$.
 
 **Risposta:** 72
-[[Quesiti/src_jmo22yq_yosen#q03|src_jmo22yq_yosen__Q03]]
 
 
 
@@ -134,7 +131,6 @@ level: JMO Yosen
 > $A$ sia un intero positivo che sia un multiple di $3$ ma non un multiple di $9$. Quando ogni cifra di $A$ viene aggiunta a $A$, il risultato è un multiple di $9$. Trova il valore minimo possibile di $A$.
 
 **Risposta:** 138
-[[Quesiti/src_jmo22yq_yosen#q04|src_jmo22yq_yosen__Q04]]
 
 
 
@@ -163,7 +159,6 @@ level: JMO Yosen
 > Trova tutti gli integri positivi il cui prodotto di tutti i divisori positivi è uguale a $2^{240}$.
 
 **Risposta:** $2^{15} \cdot 3^5$
-[[Quesiti/src_jmo22yq_yosen#q05|src_jmo22yq_yosen__Q05]]
 
 
 
@@ -201,7 +196,6 @@ level: JMO Yosen
 > Trova il numero di tali coloranti.
 
 **Risposta:** 39800
-[[Quesiti/src_jmo22yq_yosen#q06|src_jmo22yq_yosen__Q06]]
 
 
 
@@ -234,7 +228,6 @@ level: JMO Yosen
 > (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 **Risposta:** \frac{4\sqrt{21}}{7}
-[[Quesiti/src_jmo22yq_yosen#q07|src_jmo22yq_yosen__Q07]]
 
 
 
@@ -267,7 +260,6 @@ level: JMO Yosen
 > Condizione: il primo numero scritto è $2012$ e l'ultimo numero scritto è $1$. Dopo aver scritto un numero $n$, il numero successivo scritto è un intero positivo inferiore a $\sqrt{n}$.
 
 **Risposta:** 201
-[[Quesiti/src_jmo22yq_yosen#q08|src_jmo22yq_yosen__Q08]]
 
 
 
@@ -296,7 +288,6 @@ level: JMO Yosen
 > I giocatori A e B scrivono ciascuno due numeri interi su una lavagna. Il prodotto dei due numeri di A è il doppio della somma dei due numeri di B, e la somma dei due numeri di A è almeno grande come il prodotto dei due numeri di B. Trova tutti i valori possibili della somma dei due numeri di B. (I quattro numeri scritti non sono necessariamente distinti.)
 
 **Risposta:** 8, 9, 10, 13, 17, 19, 27
-[[Quesiti/src_jmo22yq_yosen#q09|src_jmo22yq_yosen__Q09]]
 
 
 
@@ -327,7 +318,6 @@ level: JMO Yosen
 > Quanti integri positivi $n$ soddisfano $$\left\lfloor \frac{1000000}{n} \right\rfloor - \left\lfloor \frac{1000000}{n+1} \right\rfloor = 1?$$ (Qui $\lfloor x \rfloor$ indica il numero intero più grande non superiore a $x$.)
 
 **Risposta:** 1172
-[[Quesiti/src_jmo22yq_yosen#q10|src_jmo22yq_yosen__Q10]]
 
 
 
@@ -364,7 +354,6 @@ level: JMO Yosen
 > Trova il numero di tali coloranti. (Le colorazioni legate alla rotazione o alla riflessione sono conteggiate come diverse.)
 
 **Risposta:** \binom{2n}{n}^2
-[[Quesiti/src_jmo22yq_yosen#q11|src_jmo22yq_yosen__Q11]]
 
 
 
@@ -406,4 +395,3 @@ level: JMO Yosen
 ![[src_jmo22yq_yosen__q12.png]]
 
 **Risposta:** 4\sqrt{61}
-[[Quesiti/src_jmo22yq_yosen#q12|src_jmo22yq_yosen__Q12]]

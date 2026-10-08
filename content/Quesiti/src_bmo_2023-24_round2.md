@@ -37,8 +37,6 @@ La prova 49 dei primi 60 termini di una sequenza decimale ha ≥3 fattori primi*
 > 
 > Prova che nei primi 60 termini della sequenza, almeno 49 hanno tre o più fattori primi (si ammette i fattori primi ripetuti; ad esempio, $76 = 2 \times 2 \times 19$ ha tre fattori primi).
 
-[[Quesiti/src_bmo_2023-24_round2#q01|src_bmo_2023-24_round2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_funzionali,topic_algebra,method_fattorizzazione,method_induzione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
@@ -64,8 +62,6 @@ La prova 49 dei primi 60 termini di una sequenza decimale ha ≥3 fattori primi*
 *Ricerca tutte le funzioni interi che soddisfano 2f(f(n))=5f(n)−2n*
 
 > Trova tutte le funzioni $f$ dai numeri interi ai numeri interi in modo che per tutti i numeri interi $n$: $$2f(f(n)) = 5f(n) - 2n.$$
-
-[[Quesiti/src_bmo_2023-24_round2#q02|src_bmo_2023-24_round2__Q02]]
 
 
 
@@ -96,8 +92,6 @@ La prova 49 dei primi 60 termini di una sequenza decimale ha ≥3 fattori primi*
 > 
 > Provare che il quadrilaterale $AXPY$ è ciclico.
 
-[[Quesiti/src_bmo_2023-24_round2#q03|src_bmo_2023-24_round2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_casework,method_congruenze,skill_ragionamento_geometrico,skill_modellizzazione,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -122,5 +116,3 @@ La prova 49 dei primi 60 termini di una sequenza decimale ha ≥3 fattori primi*
 *Ricerca tutti (m,n) per i quali n pile di oggetti m possono essere svuotate*
 
 > Lasciate che $m < n$ siano numeri interi positivi. Inizia con pile $n$, ciascuno degli oggetti $m$. eseguire ripetutamente la seguente operazione: scegliere due pile e rimuovere l'insieme degli oggetti $n$ da queste due pile. Per quale $(m, n)$ è possibile svuotare tutte le pile?
-
-[[Quesiti/src_bmo_2023-24_round2#q04|src_bmo_2023-24_round2__Q04]]

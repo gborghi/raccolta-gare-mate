@@ -59,7 +59,6 @@ level: kangourou
 > E) 7
 
 **Answer:** D
-[[Quesiti/src_kangourou_2013_cadet#q01|src_kangourou_2013_cadet__Q01]]
 
 
 
@@ -108,7 +107,6 @@ level: kangourou
 > E) 99
 
 **Answer:** D
-[[Quesiti/src_kangourou_2013_cadet#q02|src_kangourou_2013_cadet__Q02]]
 
 
 
@@ -147,7 +145,6 @@ level: kangourou
 > In the figure, you see six square sheets. Each contains a region, highlighted in dark gray, which leaves some rectangular (possibly square) portions of paper free. How many regions highlighted in dark gray have the same perimeter as the square sheet that houses them? A) 2 B) 3 C) 4 D) 5 E) 6
 
 **Answer:** C
-[[Quesiti/src_kangourou_2013_cadet#q03|src_kangourou_2013_cadet__Q03]]
 
 
 
@@ -194,7 +191,6 @@ level: kangourou
 > E) 6
 
 **Answer:** C
-[[Quesiti/src_kangourou_2013_cadet#q04|src_kangourou_2013_cadet__Q04]]
 
 
 
@@ -242,7 +238,6 @@ level: kangourou
 >
 
 **Answer:** A
-[[Quesiti/src_kangourou_2013_cadet#q05|src_kangourou_2013_cadet__Q05]]
 
 
 
@@ -290,7 +285,6 @@ level: kangourou
 >       E) 8
 
 **Answer:** C
-[[Quesiti/src_kangourou_2013_cadet#q06|src_kangourou_2013_cadet__Q06]]
 
 
 
@@ -343,7 +337,6 @@ level: kangourou
 >  E) 11
 
 **Answer:** E
-[[Quesiti/src_kangourou_2013_cadet#q07|src_kangourou_2013_cadet__Q07]]
 
 
 
@@ -376,7 +369,6 @@ level: kangourou
 > The average number of children in 5 households cannot be A) 0,2. B) 1,2. C) 2,2. D) 2,4. E) 2,5.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2013_cadet#q08|src_kangourou_2013_cadet__Q08]]
 
 
 
@@ -420,7 +412,6 @@ Lisa's turn when Marco reaches her (source)
 > D) 2,4 E) 7,5
 
 **Answer:** A
-[[Quesiti/src_kangourou_2013_cadet#q09|src_kangourou_2013_cadet__Q09]]
 
 
 
@@ -468,7 +459,6 @@ Lisa's turn when Marco reaches her (source)
 > (E) 18 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2013_cadet#q10|src_kangourou_2013_cadet__Q10]]
 
 
 
@@ -506,7 +496,6 @@ Lisa's turn when Marco reaches her (source)
 > The angles α, β, γ in the figure are 55, 40 and 35 degrees respectively. How many degrees does δ measure? A) 100 B) 105 C) 120 D) 125 E) 130
 
 **Answer:** E
-[[Quesiti/src_kangourou_2013_cadet#q11|src_kangourou_2013_cadet__Q11]]
 
 
 
@@ -544,7 +533,6 @@ The youngest of five girls by birth
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2013_cadet#q12|src_kangourou_2013_cadet__Q12]]
 
 
 
@@ -577,7 +565,6 @@ The youngest of five girls by birth
 > The perimeter of a trapezoid is 5 and the lengths of its sides are expressed by integers. How many degrees do the two smaller angles of the trapezoid measure? A) Both 30. B) Both 60. C) Both 45. D) One 30 and the other 45. E) One 45 and the other 90.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2013_cadet#q13|src_kangourou_2013_cadet__Q13]]
 
 
 
@@ -621,7 +608,6 @@ The youngest of five girls by birth
 > E)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2013_cadet#q14|src_kangourou_2013_cadet__Q14]]
 
 
 
@@ -668,7 +654,6 @@ The youngest of five girls by birth
 > E) 60
 
 **Answer:** B
-[[Quesiti/src_kangourou_2013_cadet#q15|src_kangourou_2013_cadet__Q15]]
 
 
 
@@ -740,7 +725,6 @@ The youngest of five girls by birth
 > The figure shows an ABCD rectangle which • has sides parallel to the coordinate axes, • lies under the x-axis and to the right of the y-axis. For each of the vertices, we calculate the ratio between its y coordinate and its x coordinate. For which of the four points is this ratio the minimum? A) A B) B C) C D) D E) depends on the rectangle.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2013_cadet#q16|src_kangourou_2013_cadet__Q16]]
 
 
 
@@ -776,7 +760,6 @@ The youngest of five girls by birth
 > I wrote all the four-digit numbers on the board that contain the same digits as 2013, arranging them in increasing order. What's the biggest difference between two consecutive numbers in this sequence? A) 702 B) 703 C) 693 D) 793 E) 198
 
 **Answer:** A
-[[Quesiti/src_kangourou_2013_cadet#q17|src_kangourou_2013_cadet__Q17]]
 
 
 
@@ -833,7 +816,6 @@ The youngest of five girls by birth
 > In the grid 6×8 shown in the figure there are 24 cells are not intersected by any of the two diagonals. If we trace the diagonals of a grid 6×10 how many cells are not intersected by any of the two diagonals? A) 28          B) 29          C) 30          D) 31            E) 32
 
 **Answer:** E
-[[Quesiti/src_kangourou_2013_cadet#q18|src_kangourou_2013_cadet__Q18]]
 
 
 
@@ -918,7 +900,6 @@ The youngest of five girls by birth
 >          E)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2013_cadet#q19|src_kangourou_2013_cadet__Q19]]
 
 
 
@@ -968,7 +949,6 @@ The youngest of five girls by birth
 > E) 42 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2013_cadet#q20|src_kangourou_2013_cadet__Q20]]
 
 
 
@@ -1005,7 +985,6 @@ The youngest of five girls by birth
 > The change operation on a triple of numbers consists of replacing each of the three numbers in the triple with the sum of the other two. For example, the change operation transforms {3, 4, 6} into {10, 9, 7}; by applying change to this second triple, we obtain the triple {16, 17, 19}. Let's start from the triple {1, 2, 3}; how many times do we have to apply change consecutively for the number 2013 to appear in the triple? A) 8 B) 9 C) 10 D) 2013 E) 2013 will never appear.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2013_cadet#q21|src_kangourou_2013_cadet__Q21]]
 
 
 
@@ -1052,7 +1031,6 @@ The youngest of five girls by birth
 > E) 17
 
 **Answer:** C
-[[Quesiti/src_kangourou_2013_cadet#q22|src_kangourou_2013_cadet__Q22]]
 
 
 
@@ -1105,7 +1083,6 @@ The youngest of five girls by birth
 > E) 16
 
 **Answer:** C
-[[Quesiti/src_kangourou_2013_cadet#q23|src_kangourou_2013_cadet__Q23]]
 
 
 
@@ -1155,7 +1132,6 @@ The youngest of five girls by birth
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2013_cadet#q24|src_kangourou_2013_cadet__Q24]]
 
 
 
@@ -1192,7 +1168,6 @@ The youngest of five girls by birth
 > Four cars enter a roundabout at the same time, each from different entrances, as shown in the figure. Each car makes less than a full lap around the roundabout and each car comes out of a different exit from each other. How many different ways can this happen? A) 9           B) 12          C) 15          D) 24           E) 81
 
 **Answer:** A
-[[Quesiti/src_kangourou_2013_cadet#q25|src_kangourou_2013_cadet__Q25]]
 
 
 
@@ -1241,7 +1216,6 @@ The youngest of five girls by birth
 > E) none.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2013_cadet#q26|src_kangourou_2013_cadet__Q26]]
 
 
 
@@ -1286,7 +1260,6 @@ The youngest of five girls by birth
 > E) 1007
 
 **Answer:** B
-[[Quesiti/src_kangourou_2013_cadet#q27|src_kangourou_2013_cadet__Q27]]
 
 
 
@@ -1328,7 +1301,6 @@ The youngest of five girls by birth
 > D) Q 3 = C 2. E) None of the previous relations is correct.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2013_cadet#q28|src_kangourou_2013_cadet__Q28]]
 
 
 
@@ -1366,7 +1338,6 @@ The youngest of five girls by birth
 > Lucia prepared six pancakes and engraved a number from 1 to 6 on each, then cooked them in the order indicated by the number. While she was working (but we don't know when and how many times), her children walked into the kitchen and ate the hottest pancakes each time. Which of the following cannot be the order in which the pancakes were eaten? A) 456231 B) 125436 C) 325461 D) 123456 E) 654321
 
 **Answer:** A
-[[Quesiti/src_kangourou_2013_cadet#q29|src_kangourou_2013_cadet__Q29]]
 
 
 
@@ -1411,4 +1382,3 @@ The youngest of five girls by birth
 > STRINGA CADET 2013
 
 **Answer:** C
-[[Quesiti/src_kangourou_2013_cadet#q30|src_kangourou_2013_cadet__Q30]]

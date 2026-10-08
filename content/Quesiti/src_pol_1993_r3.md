@@ -36,8 +36,6 @@ level: Olimpiade Polacca Round 3
 
 > Trova tutte le soluzioni razionali $x, y, z, t, w$ al seguente sistema: $$2xy = t^2 - w^2 + z^2,$$ $$2xz = t^2 - y^2 + w^2,$$ $$2yz = t^2 - w^2 + x^2.$$
 
-[[Quesiti/src_pol_1993_r3#q01|src_pol_1993_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -62,8 +60,6 @@ level: Olimpiade Polacca Round 3
 *Circolo inscritto in un trapezoide; prova DE=FC se AB=2CD.*
 
 > Un cerchio $k$ con centro $O$ è inserito in un trapezoide non-isosceles $ABCD$ con base più lunga $AB$. $M$ sia il punto medio di $AB$. La linea $CD$ tocca $k$ al punto $E$ e interseca la linea $OM$ al punto $F$. Prove che $DE = FC$ se e solo se $AB = 2CD$.
-
-[[Quesiti/src_pol_1993_r3#q02|src_pol_1993_r3__Q02]]
 
 
 
@@ -92,8 +88,6 @@ level: Olimpiade Polacca Round 3
 
 > Indichiamo $g(k)$ il più grande divisore odd di un intero positivo $k$. Abbiamo impostato $$f(k) = \begin{cases} k/2 + k/g(k) & \text{for } k \text{ even;} \\ 2^{(k+1)/2} & \text{for } k \text{ odd.} \end{cases}$$ e definito la sequenza $x_n$ da $x_1 = 1$ e $x_{n+1} = f(x_n)$ per $n \in \mathbb{N}$. Indicare che il numero $800$ appare nella sequenza esattamente una volta e determinare per quale $n$ $x_n = 800$.
 
-[[Quesiti/src_pol_1993_r3#q03|src_pol_1993_r3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_geometria_solida,method_colorazione,method_doppio_conteggio,method_invarianti,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_astrazione"></span>
@@ -118,8 +112,6 @@ level: Olimpiade Polacca Round 3
 *Polyedro converso a faccia triangolare, vertici a 3 colori; dimostrare che il numero delle facce dell'arcobaleno è pari.*
 
 > Si deve dare un poliedro convexo le cui facce sono tutte triangolari. I vertici del poliedro sono colorati utilizzando tre colori. Prova che il numero di volti con vertici in tutti e tre i colori è pari.
-
-[[Quesiti/src_pol_1993_r3#q04|src_pol_1993_r3__Q04]]
 
 
 
@@ -148,8 +140,6 @@ level: Olimpiade Polacca Round 3
 
 > Trova tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ che soddisfano le seguenti condizioni: $$f(-x) = -f(x) \quad \text{and} \quad f(x+1) = f(x) + 1 \quad \text{for } x \in \mathbb{R};$$ $$f\!\left(\frac{1}{x}\right) = \frac{f(x)}{x^2} \quad \text{for } x \neq 0.$$
 
-[[Quesiti/src_pol_1993_r3#q05|src_pol_1993_r3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione"></span>
@@ -174,5 +164,3 @@ level: Olimpiade Polacca Round 3
 *Determine il volume del tetraedro dalle aree del viso e dal circondario.*
 
 > Scopri se è possibile determinare il volume di un tetraedro conoscendo le aree delle sue facce e il suo circondario.
-
-[[Quesiti/src_pol_1993_r3#q06|src_pol_1993_r3__Q06]]

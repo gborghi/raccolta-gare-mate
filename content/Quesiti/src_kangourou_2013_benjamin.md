@@ -37,8 +37,6 @@ level: kangourou
 
 > Look at the figure. Mara and Bruna are at the two ends of the indicated path: what distance must Mara travel to reach Bruna? A) 300 m B) 400 m C) 800 m D) 1 km	            E) 700 m
 
-[[Quesiti/src_kangourou_2013_benjamin#q01|src_kangourou_2013_benjamin__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
@@ -71,8 +69,6 @@ level: kangourou
 *How many cubes are needed to build the large cube*
 
 > Nicholas is learning to drive: for now he can bend to the right, but he is not yet able to bend to the left. Now, with his car, he's at point A on the map and he's going to get to point B in the direction and direction the arrow points. What is the minimum number of curves (all on the right) that will allow them to get to B? A) 3 B) 4 C) 6 D) 8 E) 10
-
-[[Quesiti/src_kangourou_2013_benjamin#q02|src_kangourou_2013_benjamin__Q02]]
 
 
 
@@ -112,8 +108,6 @@ level: kangourou
 > C) 35
 >         	
 > D) 37 E) 40
-
-[[Quesiti/src_kangourou_2013_benjamin#q03|src_kangourou_2013_benjamin__Q03]]
 
 
 
@@ -159,8 +153,6 @@ level: kangourou
 >       	
 > E) 9
 
-[[Quesiti/src_kangourou_2013_benjamin#q04|src_kangourou_2013_benjamin__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,skill_lettura_attenta"></span>
@@ -202,8 +194,6 @@ level: kangourou
 >        	
 > (E) 8 Brown
 >
-
-[[Quesiti/src_kangourou_2013_benjamin#q05|src_kangourou_2013_benjamin__Q05]]
 
 
 
@@ -248,7 +238,6 @@ level: kangourou
 > (b) OKLMN C) OMLKN D) OMLNK E) OMKLN
 
 **Answer:** E
-[[Quesiti/src_kangourou_2013_benjamin#q06|src_kangourou_2013_benjamin__Q06]]
 
 
 
@@ -282,7 +271,6 @@ level: kangourou
 > To heal himself, Michele must take pills, each one (from the second onward) a quarter of an hour away from the previous one. He took the first one at 11:05. What time did he take the fourth? A) 11:40 B) 11:50 C) 11:55 D) 12:00	            	 E) 12:05
 
 **Answer:** B
-[[Quesiti/src_kangourou_2013_benjamin#q07|src_kangourou_2013_benjamin__Q07]]
 
 
 
@@ -328,7 +316,6 @@ level: kangourou
 > E) 6
 
 **Answer:** C
-[[Quesiti/src_kangourou_2013_benjamin#q08|src_kangourou_2013_benjamin__Q08]]
 
 
 
@@ -382,7 +369,6 @@ level: kangourou
 > E)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2013_benjamin#q09|src_kangourou_2013_benjamin__Q09]]
 
 
 
@@ -429,8 +415,6 @@ level: kangourou
 > Start
 > 
 > Questions from No. 11 to No. 20 are worth 4 points each
-
-[[Quesiti/src_kangourou_2013_benjamin#q10|src_kangourou_2013_benjamin__Q10]]
 
 
 
@@ -510,7 +494,6 @@ level: kangourou
 > Notice the figure: By drawing two circles, Stephen delimits three different regions. What is the maximum number of different regions that you can delimit by drawing two squares? A) 3 B) 5 C) 7 D) 9	           E) 12
 
 **Answer:** D
-[[Quesiti/src_kangourou_2013_benjamin#q11|src_kangourou_2013_benjamin__Q11]]
 
 
 
@@ -558,7 +541,6 @@ level: kangourou
 > E)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2013_benjamin#q12|src_kangourou_2013_benjamin__Q12]]
 
 
 
@@ -609,7 +591,6 @@ level: kangourou
 > E) 6
 
 **Answer:** C
-[[Quesiti/src_kangourou_2013_benjamin#q13|src_kangourou_2013_benjamin__Q13]]
 
 
 
@@ -652,7 +633,6 @@ level: kangourou
 > E) 3
 
 **Answer:** B
-[[Quesiti/src_kangourou_2013_benjamin#q14|src_kangourou_2013_benjamin__Q14]]
 
 
 
@@ -700,7 +680,6 @@ level: kangourou
 >
 
 **Answer:** D
-[[Quesiti/src_kangourou_2013_benjamin#q15|src_kangourou_2013_benjamin__Q15]]
 
 
 
@@ -749,7 +728,6 @@ level: kangourou
 > E) 7
 
 **Answer:** C
-[[Quesiti/src_kangourou_2013_benjamin#q16|src_kangourou_2013_benjamin__Q16]]
 
 
 
@@ -790,7 +768,6 @@ level: kangourou
 > D) 60 E) 10
 
 **Answer:** A
-[[Quesiti/src_kangourou_2013_benjamin#q17|src_kangourou_2013_benjamin__Q17]]
 
 
 
@@ -828,7 +805,6 @@ level: kangourou
 > In each cell of a grid 4 × 4 a number is written. Numbers written in adjacent cells, i.e. having one side in common, differ by 1. Among the written numbers are 9 and 3; the latter appears in the upper left cell. How many different numbers appear in the grid? A) 4 B) 6 C) 7 D) 8 E) 9
 
 **Answer:** C
-[[Quesiti/src_kangourou_2013_benjamin#q18|src_kangourou_2013_benjamin__Q18]]
 
 
 
@@ -872,7 +848,6 @@ level: kangourou
 > E) 10
 
 **Answer:** B
-[[Quesiti/src_kangourou_2013_benjamin#q19|src_kangourou_2013_benjamin__Q19]]
 
 
 
@@ -970,7 +945,6 @@ level: kangourou
 > Questions from No. 21 to No. 30 are worth 5 points each
 
 **Answer:** E
-[[Quesiti/src_kangourou_2013_benjamin#q20|src_kangourou_2013_benjamin__Q20]]
 
 
 
@@ -1021,7 +995,6 @@ level: kangourou
 > E) None of the previous statements is true.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2013_benjamin#q21|src_kangourou_2013_benjamin__Q21]]
 
 
 
@@ -1077,7 +1050,6 @@ level: kangourou
 > E) 16
 
 **Answer:** B
-[[Quesiti/src_kangourou_2013_benjamin#q22|src_kangourou_2013_benjamin__Q22]]
 
 
 
@@ -1117,7 +1089,6 @@ level: kangourou
 > D) 14.               	 E) 27.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2013_benjamin#q23|src_kangourou_2013_benjamin__Q23]]
 
 
 
@@ -1162,7 +1133,6 @@ level: kangourou
 > D) 4 E) 5
 
 **Answer:** B
-[[Quesiti/src_kangourou_2013_benjamin#q24|src_kangourou_2013_benjamin__Q24]]
 
 
 
@@ -1208,7 +1178,6 @@ Boys giving left hand to a girl in a circle
 >
 
 **Answer:** A
-[[Quesiti/src_kangourou_2013_benjamin#q25|src_kangourou_2013_benjamin__Q25]]
 
 
 
@@ -1263,7 +1232,6 @@ Boys giving left hand to a girl in a circle
 > E) 6
 
 **Answer:** B
-[[Quesiti/src_kangourou_2013_benjamin#q26|src_kangourou_2013_benjamin__Q26]]
 
 
 
@@ -1320,7 +1288,6 @@ Boys giving left hand to a girl in a circle
 > E) 2013
 
 **Answer:** D
-[[Quesiti/src_kangourou_2013_benjamin#q27|src_kangourou_2013_benjamin__Q27]]
 
 
 
@@ -1369,7 +1336,6 @@ Boys giving left hand to a girl in a circle
 >                 E) 70
 
 **Answer:** D
-[[Quesiti/src_kangourou_2013_benjamin#q28|src_kangourou_2013_benjamin__Q28]]
 
 
 
@@ -1412,7 +1378,6 @@ Boys giving left hand to a girl in a circle
 > Alice has four identical cubes, on each face of which a number is shown. A net of each of the cubes is shown in the upper left figure. Alice glues the four cubes to the solid 2×2×1 shown in the figure to the left below, warning that two faces can only match if the numbers shown on them are equal. Finally, Alice calculates the sum of the numbers on the visible faces of the solid. What is the highest sum she can get? A) 64 B) 56 C) 80 	            D) 70 E) 68
 
 **Answer:** E
-[[Quesiti/src_kangourou_2013_benjamin#q29|src_kangourou_2013_benjamin__Q29]]
 
 
 
@@ -1464,4 +1429,3 @@ Boys giving left hand to a girl in a circle
 > BENJAMIN STRING 2013
 
 **Answer:** D
-[[Quesiti/src_kangourou_2013_benjamin#q30|src_kangourou_2013_benjamin__Q30]]

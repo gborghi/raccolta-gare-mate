@@ -41,8 +41,6 @@ level: JMO Honsen
 > 
 > Quando un giocatore non può eseguire l'operazione, il gioco finisce. Trova il numero intero massimo $m$ in modo che A possa sempre garantire che il suo nome compare in almeno $m$ quadrati quando il gioco termina, indipendentemente dalla strategia di B.
 
-[[Quesiti/src_jmo32hq_honsen#q01|src_jmo32hq_honsen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_insiemi_funzioni,method_fattorizzazione,method_induzione,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -70,8 +68,6 @@ level: JMO Honsen
 
 > Lasciate che $f$ sia una funzione strettamente in aumento dai numeri interi positivi ai numeri interi positivi. Trovare tutti tali $f$ in modo che $$f^{100}(m) + mn = f(m)f(n)$$ si tenga per ogni coppia di integri positivi $m, n$. Qui $f^{100}(n)$ indica $f(f(\cdots f(n)\cdots))$ con $f$ applicato $100$ volte.
 
-[[Quesiti/src_jmo32hq_honsen#q02|src_jmo32hq_honsen__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -96,8 +92,6 @@ level: JMO Honsen
 *Il triangolo isosceles, il circoncircolo, il circoncentro di HDF si trova su Gamma*
 
 > Che $ABC$ sia un triangolo di uguali dimensioni con $AB = AC$. Il $O$ deve essere un punto rigorosamente all'interno del triangolo (non su nessun lato). Il $\Gamma$ deve essere il circoncircolo del triangolo $ABC$. Le linee che attraversano $O$ incontrano il segmento $BC$ a $D$ e il segmento $AC$ (escluse le estremità) a $E$, e queste due linee si incrociano. Che $F$ sia un punto su $\Gamma$ diverso da $A$, $B$, $C$ in modo tale che $B$, $D$, $F$ siano collineari (o che la linea $BD$ rientri a $\Gamma$ a $F$). Il $H$ è la seconda intersezione del circoncircolo del triangolo $AEO$ con $\Gamma$. Prove che il centro circoncentrale del triangolo $HDF$ si trova su $\Gamma$. Qui, $XY$ indica la lunghezza del segmento $XY$.
-
-[[Quesiti/src_jmo32hq_honsen#q03|src_jmo32hq_honsen__Q03]]
 
 
 
@@ -124,8 +118,6 @@ level: JMO Honsen
 *Ricerca tutte le coppie di numeri interi positivi con 3^x - 8^y = 2xy+1*
 
 > Trova tutte le coppie di integri positivi $(x, y)$ soddisfacenti $$3^x - 8^y = 2xy + 1.$$
-
-[[Quesiti/src_jmo32hq_honsen#q04|src_jmo32hq_honsen__Q04]]
 
 
 
@@ -164,5 +156,3 @@ level: JMO Honsen
 > Trovare il numero intero positivo minimo $m$ per il quale è valida la seguente affermazione:
 > 
 > I numeri reali sono scritti in ognuno dei 999 quadrati disposti in un cerchio. Per ogni quadrato $A$ e per ogni intero positivo $k \le m$, almeno uno dei seguenti valori è: \begin{itemize} \item La differenza tra il numero scritto nel quadrato $k$ passi in senso orario da $A$ e il numero scritto in $A$ equivale a $k$. \item La differenza tra il numero scritto nel quadrato $k$ passi in senso contrario all'orologio da $A$ e il numero scritto in $A$ equivale a $k$. Poi esiste un quadrato $S$ tale che, lasciando $x$ essere il numero reale scritto in $S$, per ogni intero positivo $k$ con $k < 999$, almeno uno dei seguenti contiene: \begin{itemize} \item Il numero scritto nel quadrato $k$ passi in senso orario da $S$ equivale a $x + k$. \item Il numero scritto nel quadrato $k$ passi in senso contrario all'orologio da $S$ equivale a $x + k$. # Finire #
-
-[[Quesiti/src_jmo32hq_honsen#q05|src_jmo32hq_honsen__Q05]]

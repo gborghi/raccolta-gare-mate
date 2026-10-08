@@ -35,7 +35,6 @@ level: JMO Yosen
 > Trova il numero di quadrupli $(a, b, c, d)$ di numeri interi da 1 a 9 soddisfacendo $0 < b - a < c - b < d - c$.
 
 **Risposta:** 7
-[[Quesiti/src_jmo21yq_yosen#q01|src_jmo21yq_yosen__Q01]]
 
 
 
@@ -64,7 +63,6 @@ level: JMO Yosen
 > Che $A$ sia la somma di tutti gli integri positivi non superiori al 2011 che lasciano un residuo di 1 quando diviso per 3, e che $B$ sia la somma di tutti gli integri positivi non superiori al 2011 che lasciano un residuo di 2 quando diviso per 3. Trova $A - B$.
 
 **Risposta:** 1341
-[[Quesiti/src_jmo21yq_yosen#q02|src_jmo21yq_yosen__Q02]]
 
 
 
@@ -90,8 +88,6 @@ level: JMO Yosen
 *Ricerca tutti i primi della forma axbxcxd+exfxg con cifre distinte 1..7*
 
 > Trova tutti i numeri primi che possono essere espressi come $a \times b \times c \times d + e \times f \times g$ utilizzando diversi interi positivi $a, b, c, d, e, f, g$, ciascuno al massimo 7.
-
-[[Quesiti/src_jmo21yq_yosen#q03|src_jmo21yq_yosen__Q03]]
 
 
 
@@ -122,8 +118,6 @@ level: JMO Yosen
 
 ![[src_jmo21yq_yosen__q04.png]]
 
-[[Quesiti/src_jmo21yq_yosen#q04|src_jmo21yq_yosen__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
@@ -148,8 +142,6 @@ level: JMO Yosen
 *Dicina cifra del prodotto dei numeri interi ≤2011 che terminano in 3 o 7*
 
 > Il $X$ deve essere il prodotto di tutti i numeri interi positivi non superiori al 2011 il cui numero unitario è 3 o 7. Trova la decina di $X$.
-
-[[Quesiti/src_jmo21yq_yosen#q05|src_jmo21yq_yosen__Q05]]
 
 
 
@@ -176,8 +168,6 @@ level: JMO Yosen
 
 > Nel triangolo $ABC$ con $\angle ABC = 90^\circ$, i punti $P, Q, R$ si trovano rispettivamente sui lati $BC$, $CA$, $AB$, con $AQ : QC = 2 : 1$, $AR = AQ$, $QP = QR$ e $\angle PQR = 90^\circ$. Con $CP = 1$, trovare $AR$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
-[[Quesiti/src_jmo21yq_yosen#q06|src_jmo21yq_yosen__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -203,8 +193,6 @@ level: JMO Yosen
 
 > Una griglia $3 \times 3$ è riempita con i numeri interi da 1 a 9, ognuno apparendo esattamente una volta (uno per cella). Per ciascuna colonna, è indicato il secondo più grande dei 3 numeri scritti in quella colonna. Si è scoperto che il secondo più grande dei tre numeri segnati era 5. In questo caso, quante disposizioni dei 9 numeri interi sono possibili?
 
-[[Quesiti/src_jmo21yq_yosen#q07|src_jmo21yq_yosen__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
@@ -229,8 +217,6 @@ level: JMO Yosen
 *Ricerca un numero intero a 4 cifre P dalle condizioni a 2 cifre sul prodotto di due numeri a 2 cifre*
 
 > Ci sono due numeri interi positivi a 2 cifre $x$ e $y$ in modo tale che la decina di $x$ equivale alla cifra di unità di $y$, e la decina di $y$ equivale alla cifra di unità di $x$. Il numero $P$ è il prodotto di $x$ e $y$; quindi $P$ è un numero a 4 cifre, e il numero formato dalle due cifre inferiori di $P$ (considerato un intero a 2 cifre) è 23 più grande del numero formato dalle due cifre superiori di $P$ (considerato un intero a 2 cifre). Trova il valore di $P$.
-
-[[Quesiti/src_jmo21yq_yosen#q08|src_jmo21yq_yosen__Q08]]
 
 
 
@@ -261,8 +247,6 @@ level: JMO Yosen
 > 
 > **Condizione: ** Per ogni marmo di un dato colore, esiste un marmo dello stesso colore adiacente.
 
-[[Quesiti/src_jmo21yq_yosen#q09|src_jmo21yq_yosen__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_funzionali,topic_algebra,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
@@ -290,8 +274,6 @@ level: JMO Yosen
 
 > Considera le funzioni $f$ definite sui numeri interi positivi che assumono valori di numeri interi positivi in modo tale che per tutti i numeri interi positivi $x, y$, $$(x + y) f(x) \le x^2 + f(xy) + 110$$ si mantenga. Trova i valori minimi e massimi possibili di $f(23) + f(2011)$.
 
-[[Quesiti/src_jmo21yq_yosen#q10|src_jmo21yq_yosen__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -316,8 +298,6 @@ level: JMO Yosen
 *OM:ON per un quadrilaterale tangenziale con incentro O*
 
 > Il quadrilaterale $ABCD$ è circoscritto intorno a un cerchio centrato a $O$ (il cerchio è tangente a tutti e quattro i lati), con $OA = 5$, $OB = 6$, $OC = 7$, $OD = 8$. Il segmento $M$ deve essere il punto medio del segmento $AC$ e il segmento $N$ deve essere il punto medio del segmento $BD$. Trova $OM : ON$. Qui $XY$ indica la lunghezza del segmento $XY$.
-
-[[Quesiti/src_jmo21yq_yosen#q11|src_jmo21yq_yosen__Q11]]
 
 
 
@@ -344,5 +324,3 @@ level: JMO Yosen
 *Maximizzare il rapporto di somme per i reali non negativi sommando a 1*
 
 > $n \ge 2$ sia un numero intero positivo. Per i valori reali non negativi $a_1, \ldots, a_n$ che soddisfano $a_1 + \cdots + a_n = 1$, trovare il valore massimo possibile di $$\left(\sum_{i=1}^{n} i a_i\right)\left(\sum_{i=1}^{n} \frac{a_i}{i}\right)^2.$$
-
-[[Quesiti/src_jmo21yq_yosen#q12|src_jmo21yq_yosen__Q12]]

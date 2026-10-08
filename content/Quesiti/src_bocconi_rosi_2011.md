@@ -36,7 +36,6 @@ level: Giochi di Rosi
 > Today Mark feels particularly rich and is ready to invest his savings. So he learned about the prices of some cars and learned that buying two luxury cars, one medium-cylinder and two vintage, costs 176,000 euros. On the other hand, if you buy three luxury cars, two medium-cylinder and one vintage, you would spend a total of 197,000 euros. How much will you spend if you're content with one luxury car and three vintage cars?
 
 **Answer:** 155.000 Euro
-[[Quesiti/src_bocconi_rosi_2011#q01|src_bocconi_rosi_2011__Q01]]
 
 
 
@@ -69,7 +68,6 @@ level: Giochi di Rosi
 ![[src_bocconi_rosi_2011__q02.png]]
 
 **Answer:** 16
-[[Quesiti/src_bocconi_rosi_2011#q02|src_bocconi_rosi_2011__Q02]]
 
 
 
@@ -98,7 +96,6 @@ level: Giochi di Rosi
 > **How many distinct three-digit numbers can be formed with the digits $1, 2, 3, 4, 5$?**
 
 **Answer:** 60
-[[Quesiti/src_bocconi_rosi_2011#q03|src_bocconi_rosi_2011__Q03]]
 
 
 
@@ -127,7 +124,6 @@ level: Giochi di Rosi
 > **How many three-digit numbers can be formed with the digits $1, 2, 3, 4, 5$?**
 
 **Answer:** 125
-[[Quesiti/src_bocconi_rosi_2011#q04|src_bocconi_rosi_2011__Q04]]
 
 
 
@@ -157,7 +153,6 @@ level: Giochi di Rosi
 > Three endless travelers finally arrive at a restaurant and ask for a plate of potatoes. When the host brings them, the first finds them already asleep. Then leave the plate on the table. One in three travelers wakes up and eats a third of the potatoes; then he falls asleep again. At this point a second traveler wakes up, eats a third of the potatoes left in the plate, and then he falls asleep again. Shortly afterward the third traveler wakes up, unaware that his adventure companions have already served themselves, and he also eats a third of the potatoes left in the dish. When the host comes to pick up the dish, he finds it still contains eight potatoes. How many potatoes did you bring first?
 
 **Answer:** 27
-[[Quesiti/src_bocconi_rosi_2011#q05|src_bocconi_rosi_2011__Q05]]
 
 
 
@@ -190,7 +185,6 @@ level: Giochi di Rosi
 ![[src_bocconi_rosi_2011__q06.png]]
 
 **Answer:** $\sqrt{3} = 1{,}732$
-[[Quesiti/src_bocconi_rosi_2011#q06|src_bocconi_rosi_2011__Q06]]
 
 
 
@@ -222,7 +216,6 @@ level: Giochi di Rosi
 ![[src_bocconi_rosi_2011__q07.png]]
 
 **Answer:** $\frac{5}{9}$
-[[Quesiti/src_bocconi_rosi_2011#q07|src_bocconi_rosi_2011__Q07]]
 
 
 
@@ -255,7 +248,6 @@ level: Giochi di Rosi
 ![[src_bocconi_rosi_2011__q08.png]]
 
 **Answer:** $371 \text{ cm}^2$
-[[Quesiti/src_bocconi_rosi_2011#q08|src_bocconi_rosi_2011__Q08]]
 
 
 
@@ -283,8 +275,7 @@ level: Giochi di Rosi
 
 > Two (precious) barrels contain a total of 350 litres of Brunello di Montalcino. Taking 20 liters from the first bottle and 80 from the second, the wine left in the two bottles is the same (the same number of liters). How many liters were in the box that initially contained more?
 
-**Answer:** 205 litri
-[[Quesiti/src_bocconi_rosi_2011#q09|src_bocconi_rosi_2011__Q09]]
+**Answer:** 205 liters
 
 
 
@@ -312,8 +303,7 @@ level: Giochi di Rosi
 
 > Deborah, Jacob, and Luke have a combined age of 32. Jacob and Luke are twins, while Deborah was born 4 years after Luke. What is Deborah's age?
 
-**Answer:** 8 anni
-[[Quesiti/src_bocconi_rosi_2011#q10|src_bocconi_rosi_2011__Q10]]
+**Answer:** 8 years
 
 
 
@@ -342,8 +332,7 @@ Chocolates received from Carla in the second distribution*
 
 > Deborah, Jacob, and Luke went to visit their cousins Carla and Milena. Uncle Desiderio, to celebrate the meeting, distributed some chocolates to everyone: Debora had 7, Jacob 3, Luke 2, Carla 8 and Milena 9. At this point, Desiderio had 21 chocolates left to distribute and he wants to do so so that after this second distribution, all cousins have the same number of chocolates. How many chocolates has Carla (in the second order) received?
 
-**Answer:** 2 cioccolatini
-[[Quesiti/src_bocconi_rosi_2011#q11|src_bocconi_rosi_2011__Q11]]
+**Answer:** 2 chocolates
 
 
 
@@ -371,8 +360,7 @@ Places in Liliana's favourite film
 
 > Liliana's favorite movie theater, when it's 40 percent empty, has 72 fewer viewers than when it's 80 percent full. How many seats does Liliana's favorite movie have?
 
-**Answer:** 360 posti
-[[Quesiti/src_bocconi_rosi_2011#q12|src_bocconi_rosi_2011__Q12]]
+**Answer:** 360 seats
 
 
 
@@ -401,7 +389,6 @@ The cost of the lost book in the classroom library
 > At the beginning of the year, the classroom library consisted of 20 books. Their average cost was 30 euros each. At the end of the year, unfortunately, one book was lost and now the average cost of each book has risen to 31 euros. How much did the lost book cost?
 
 **Answer:** 11 Euro
-[[Quesiti/src_bocconi_rosi_2011#q13|src_bocconi_rosi_2011__Q13]]
 
 
 
@@ -431,7 +418,6 @@ The cost of the lost book in the classroom library
 > The appointment was for 3:00 p.m. but Peter's friends are all late. One with a delay of 47 minutes, another with a delay of half an hour, another with a delay of 35 minutes, another with a delay of 20 minutes, another with a delay of 25 minutes, another with an hour and 10 minutes, another with a delay of 53 minutes. Nando came in third. What time did Nando arrive yesterday?
 
 **Answer:** 15.30
-[[Quesiti/src_bocconi_rosi_2011#q14|src_bocconi_rosi_2011__Q14]]
 
 
 
@@ -464,7 +450,6 @@ The cost of the lost book in the classroom library
 ![[src_bocconi_rosi_2011__q15.png]]
 
 **Answer:** $1 - 2 - 5$
-[[Quesiti/src_bocconi_rosi_2011#q15|src_bocconi_rosi_2011__Q15]]
 
 
 
@@ -498,7 +483,6 @@ The cost of the lost book in the classroom library
 ![[src_bocconi_rosi_2011__q16.png]]
 
 **Answer:** 85
-[[Quesiti/src_bocconi_rosi_2011#q16|src_bocconi_rosi_2011__Q16]]
 
 
 
@@ -527,7 +511,6 @@ The cost of the lost book in the classroom library
 > Descending down a river, Amerigo took two hours to travel 50 miles [60 km]. To get back to the starting point, going up the river, it took three. **What is the current velocity in km/h (assumed constant)?**
 
 **Answer:** 5 km/h
-[[Quesiti/src_bocconi_rosi_2011#q17|src_bocconi_rosi_2011__Q17]]
 
 
 
@@ -557,7 +540,6 @@ The cost of the lost book in the classroom library
 > Amerigo has a small "fixation": he uses two digits to indicate the time and another two digits to indicate the minutes. For example, write $08\text{h}\,04$ or $22\text{h}\,41$. Then multiply the two digits of the hours between them and equally multiply the two digits of the minutes between them. It's all happy when the results of the two multiplication are the same (as in the previous examples where you have $0 \times 8 = 0$ and $0 \times 4 = 0$, or $2 \times 2 = 4$ and $4 \times 1 = 4$). How many times does this happen between$14\text{h}\,00$and$17\text{h}\,00$?
 
 **Answer:** 8
-[[Quesiti/src_bocconi_rosi_2011#q18|src_bocconi_rosi_2011__Q18]]
 
 
 
@@ -591,7 +573,6 @@ The cost of the lost book in the classroom library
 ![[src_bocconi_rosi_2011__q19.png]]
 
 **Answer:** 42
-[[Quesiti/src_bocconi_rosi_2011#q19|src_bocconi_rosi_2011__Q19]]
 
 
 
@@ -620,4 +601,3 @@ The time Renato had charged the pendulum yesterday.
 > Yesterday, Renato simultaneously charged his old pendulum and his old wake. This morning, waking up, he can't help but notice that the wake indicates 6:00 while the pendulum indicates 7:00. At this point it is remembered that the alarm goes back three minutes every hour while the pendulum goes forward (as opposed to the exact time) for two minutes every hour. What time did Renato load them yesterday?
 
 **Answer:** 18.36
-[[Quesiti/src_bocconi_rosi_2011#q20|src_bocconi_rosi_2011__Q20]]

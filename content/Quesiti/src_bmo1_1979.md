@@ -33,8 +33,6 @@ level: BMO Round 1
 
 > Trovare tutti i triangoli $ABC$ per i quali $AB + AC = 2$ cm, $AD + BC = \sqrt{5}$ cm, dove $AD$ è l'altitudine attraverso $A$, incontrando $BC$ ad angolazioni rette in $D$.
 
-[[Quesiti/src_bmo1_1979#q01|src_bmo1_1979__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,topic_trigonometria,method_simmetria,method_trigonometria,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: BMO Round 1
 *Ricerca punti unici sui raggi in modo che tre triangoli condividano perimetro 2s*
 
 > Da un punto $O$ nello spazio 3D emergono tre raggi $OA$, $OB$, $OC$, gli angoli $BOC$, $COA$, $AOB$ sono $\alpha$, $\beta$ e $\gamma$ rispettivamente. $0 < \alpha, \beta, \gamma < \pi$. Prove che, data la $2s > 0$, ci sono punti unici $X$, $Y$, $Z$ su $OA$, $OB$, $OC$ rispettivamente in modo tale che i triangoli $YOZ$, $ZOX$ e $XOY$ abbiano tutti lo stesso perimetro $2s$, ed esprimere $OX$ in termini di $s$ e $\sin\alpha$, $\sin\beta$, $\sin\gamma$.
-
-[[Quesiti/src_bmo1_1979#q02|src_bmo1_1979__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: BMO Round 1
 
 > $S$ è un insieme di integri unici positivi distinti $\{a_i\}$, $i = 1$ a $n$. Nessuna differenza $|a_i - a_j|$ è uguale, $1 \le i < j \le n$. Provare che $$\sum_{i=1}^{n} a_i \ge \frac{1}{3}n(n^2+2).$$
 
-[[Quesiti/src_bmo1_1979#q03|src_bmo1_1979__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_insiemi_funzioni,topic_funzionali,method_backward,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
@@ -113,8 +107,6 @@ level: BMO Round 1
 *Equazione funzionale razionale implica che f è costante*
 
 > La funzione $f$ è definita sui numeri razionali e assume solo valori razionali. Per tutte le $x$ e $y$ razionali, $$f(x + f(y)) = f(x) \cdot f(y).$$ dimostri che $f$ è coerente.
-
-[[Quesiti/src_bmo1_1979#q04|src_bmo1_1979__Q04]]
 
 
 
@@ -141,8 +133,6 @@ level: BMO Round 1
 
 > Per $m$ un intero positivo indica con $p(m)$ il numero di modi di esprimere $m$ come la somma di uno o più interi positivi. Quindi $p(4) = 5$, perché ci sono 5 modi diversi, cioè $1+1+1+1$, $1+1+2$, $1+3$, $2+2$, $4$. Prova che per $n > 1$, $$p(n+1) - 2p(n) + p(n-1) \ge 0.$$
 
-[[Quesiti/src_bmo1_1979#q05|src_bmo1_1979__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_fattorizzazione,method_induzione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -167,5 +157,3 @@ level: BMO Round 1
 *Non esiste un primo in sequenza formato con l'aggiunta ripetuta di 0001*
 
 > Prova che nella sequenza infinita di enti $10001$, $100010001$, $1000100010001$, $\ldots$ non vi è un numero primo. Si noti che ogni numero intero dopo il primo (dieci mila e uno) viene ottenuto adiacendo $0001$ ai numeri del numero intero precedente.
-
-[[Quesiti/src_bmo1_1979#q06|src_bmo1_1979__Q06]]

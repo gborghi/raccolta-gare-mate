@@ -39,7 +39,6 @@ level: kangourou
 > Four chocolate bars cost six euros more than one bar. How much does a chocolate bar cost? A) 1 euro B) 2 euro C) 3 euro D) 4 euro E) 5 euro
 
 **Answer:** B
-[[Quesiti/src_kangourou_2012_cadet#q01|src_kangourou_2012_cadet__Q01]]
 
 
 
@@ -79,7 +78,6 @@ level: kangourou
 > E) 15
 
 **Answer:** A
-[[Quesiti/src_kangourou_2012_cadet#q02|src_kangourou_2012_cadet__Q02]]
 
 
 
@@ -119,7 +117,6 @@ level: kangourou
 > Mary has five cardboard letters like those drawn below. With a pair of scissors, she cuts each one of them once (along a straight line) so that each letter produces as many pieces as possible. Which letter produces the most pieces? A) B) C) D) E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2012_cadet#q03|src_kangourou_2012_cadet__Q03]]
 
 
 
@@ -153,7 +150,6 @@ How many heads does the dragon have after the cuts?
 > A dragon initially has five heads. Every time we cut one off, they grow five new heads. One by one, we're cutting the dragon six heads. How many heads does the dragon have at this point? A) 25 B) 28 C) 29 D) 30 E) 35
 
 **Answer:** C
-[[Quesiti/src_kangourou_2012_cadet#q04|src_kangourou_2012_cadet__Q04]]
 
 
 
@@ -187,7 +183,6 @@ How many heads does the dragon have after the cuts?
 > A number (in decimal form) has five digits. Multiplying them together, we get 5. What is the sum of the five digits? A) 1 B) 5 C) 6 D) 25 E) A number different from the previous one
 
 **Answer:** E
-[[Quesiti/src_kangourou_2012_cadet#q05|src_kangourou_2012_cadet__Q05]]
 
 
 
@@ -227,7 +222,6 @@ How many heads does the dragon have after the cuts?
 > In which of the following expressions can we replace the number 8, every time it occurs, with the same positive number (other than 8) and get the same result? A)  (8 + 8) : 8 + 8 B) 8 ⋅(8 + 8) : 8 C) 8 + 8 – 8 + 8 D)  (8 + 8 – 8) ⋅8 E) (8 + 8 – 8) : 8
 
 **Answer:** E
-[[Quesiti/src_kangourou_2012_cadet#q06|src_kangourou_2012_cadet__Q06]]
 
 
 
@@ -268,7 +262,6 @@ How many heads does the dragon have after the cuts?
 > In the public gardens there are 9 avenues arranged as shown in the figure. Every alley is 50 meters long. Anna wants to go from A to B without going down the same alleyway more than once. How many meters is the longest path she can choose to follow? A) 450 B) 400 C) 350 D) 300 E) 200
 
 **Answer:** C
-[[Quesiti/src_kangourou_2012_cadet#q07|src_kangourou_2012_cadet__Q07]]
 
 
 
@@ -310,7 +303,6 @@ How many heads does the dragon have after the cuts?
 > The figure shows you two triangles in a precise position. In each of the two triangles, choose a vertex so that the segment that joins the two vertices you chose doesn't cut either of the two triangles. How many ways can you operate the choice? A) 1 B) 2 C) 3 D) 4 E) more than 4
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_cadet#q08|src_kangourou_2012_cadet__Q08]]
 
 
 
@@ -352,7 +344,6 @@ How many heads does the dragon have after the cuts?
 > William folds a sheet of paper in half as shown in the figure. If he makes two straight cuts with the scissors and then reopens the sheet, he certainly cannot get one of the following shapes. Which one? A) B) C) D) E)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_cadet#q09|src_kangourou_2012_cadet__Q09]]
 
 
 
@@ -394,7 +385,6 @@ How many heads does the dragon have after the cuts?
 > The parallel-piped rectangle you see in the figure is made by assembling four blocks of different colors, one of which is white. Each block, in turn, is made by attaching 4 cubes, all of the same size and color. What's the white block? (A) B) C) D) E) Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_cadet#q10|src_kangourou_2012_cadet__Q10]]
 
 
 
@@ -451,7 +441,6 @@ How many heads does the dragon have after the cuts?
 > Kang 2012
 
 **Answer:** B
-[[Quesiti/src_kangourou_2012_cadet#q11|src_kangourou_2012_cadet__Q11]]
 
 
 
@@ -503,7 +492,6 @@ How many heads does the dragon have after the cuts?
 > E) 18
 
 **Answer:** C
-[[Quesiti/src_kangourou_2012_cadet#q12|src_kangourou_2012_cadet__Q12]]
 
 
 
@@ -543,7 +531,6 @@ How many heads does the dragon have after the cuts?
 > Barbara wants to complete the grid that follows by inserting a number into each of the empty cells. She wants the sum of the first three numbers (left) to be 100, the sum of the three numbers in the middle to be 200 and the sum of the last three is 300. What number do you have to put in the central cell of the grid? A) 50 B) 60 C) 70 D) 75 E) 100
 
 **Answer:** B
-[[Quesiti/src_kangourou_2012_cadet#q13|src_kangourou_2012_cadet__Q13]]
 
 
 
@@ -582,7 +569,6 @@ How many heads does the dragon have after the cuts?
 > The figure shows a stellar pentagon and the degree measurements of some of the angles formed by its sides. How many degrees does the angle in A measure? A) 35 B) 42 C) 51 D) 65 E) 109
 
 **Answer:** C
-[[Quesiti/src_kangourou_2012_cadet#q14|src_kangourou_2012_cadet__Q14]]
 
 
 
@@ -619,7 +605,6 @@ How many heads does the dragon have after the cuts?
 > We have four cards. The numbers 2, 5, 7 and 12 are each written on one side of a card; on the opposite side one of the following attributes is instead written: divisible by 7, prime, odd, greater than 100. It is known that in each card the number written does not correspond to the attribute written on the opposite face. What number is written on the card with the attribute  greater than 100? A) 2 B) 5 C) 7 D) 12 E) 2 or 5, but it is not possible to decide
 
 **Answer:** C
-[[Quesiti/src_kangourou_2012_cadet#q15|src_kangourou_2012_cadet__Q15]]
 
 
 
@@ -730,7 +715,6 @@ How many heads does the dragon have after the cuts?
 > From an equilateral triangle with a side length of 6 cm three equilateral triangles were cut as shown in the figure, where the remaining hexagon is highlighted in gray. The sum of the perimeters of the three cut triangles is equal to the perimeter of the hexagon. How many centimeters does the side of the cut triangles measure? A) 1 B) 1.2 C) 1.25 D) 1.5 E) 2 Aid first strawberries strawberries 10 130 58° 100° 93° x ° A B C D E Aid dopo 100° 93° 58° x °
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_cadet#q16|src_kangourou_2012_cadet__Q16]]
 
 
 
@@ -768,7 +752,6 @@ Maximum number of mice seen by Leo*
 > A form of cut-up cheese was left unattended and the mice stole pieces all day. Leo, a lazy cat, noted that each mouse stole less than 10 pieces of cheese, that each mouse stole a different number of pieces from the others, that no mouse stole exactly twice the pieces of another mouse. What is the maximum number of different mice that Leo could have seen? A) 4 B) 5 C) 6 D) 7 E) 8
 
 **Answer:** C
-[[Quesiti/src_kangourou_2012_cadet#q17|src_kangourou_2012_cadet__Q17]]
 
 
 
@@ -803,7 +786,6 @@ Maximum number of mice seen by Leo*
 > At the airport there is a 500-metre-long horizontal moving walkway that moves at a speed of 4 km/h. Anna and Luigi climb together on the moving walkway: Luigi stands still while Anna walks at a speed of 6 km/h: in the moment she leaves the moving walkway, how many meters is Anna from Luigi? A) 100 B) 160 C) 200 D) 250 E) 300
 
 **Answer:** E
-[[Quesiti/src_kangourou_2012_cadet#q18|src_kangourou_2012_cadet__Q18]]
 
 
 
@@ -841,7 +823,6 @@ Maximum number of mice seen by Leo*
 > There's a magic square that can talk. If he tells the truth, his side becomes two centimeters shorter, but if he lies, his perimeter doubles. Initially his side was 8 cm long; then he made four statements, two of which were true and two false, but we don't know in which order. How many centimeters can you measure the perimeter of the magic square after the four statements? A) 28 B) 80 C) 88 D) 112 E) 120
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_cadet#q19|src_kangourou_2012_cadet__Q19]]
 
 
 
@@ -880,7 +861,6 @@ Maximum number of mice seen by Leo*
 > A cube rolls on the floor, rotating around its edges. The face touching the plane passes in order through the positions 1, 2, 3, 4, 5, 6 and 7 shown in the figure. Only two of these positions are occupied by the same face of the cube: which? A) 1 and 7 B) 1 and 6 C) 1 and 5 D) 2 and 7 E) 2 and 6 The questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2012_cadet#q20|src_kangourou_2012_cadet__Q20]]
 
 
 
@@ -931,7 +911,6 @@ Maximum number of mice seen by Leo*
 > Page 20 Kang 2012 Kang 2012
 
 **Answer:** E
-[[Quesiti/src_kangourou_2012_cadet#q21|src_kangourou_2012_cadet__Q21]]
 
 
 
@@ -1010,7 +989,6 @@ Maximum number of mice seen by Leo*
 > Find the ratio between the area of the CMN triangle (highlighted in gray in the figure) and that of the ABCD square, knowing that M is the middle point of AD and MN is perpendicular to AC. A) 1:6 B) 1:5 C) 7:36 D) 3:16 E) 7:40
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_cadet#q22|src_kangourou_2012_cadet__Q22]]
 
 
 
@@ -1046,7 +1024,6 @@ Maximum number of mice seen by Leo*
 > David arranges the twelve integers from 1 to 12 in a circle, so that two adjacent numbers always differ by 2 or 3. Which of the following numbers are certainly adjacent? A) 5 and 8 B) 3 and 5 C) 7 and 9 D) 6 and 8 E) 4 and 6
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_cadet#q23|src_kangourou_2012_cadet__Q23]]
 
 
 
@@ -1085,7 +1062,6 @@ Maximum number of mice seen by Leo*
 > The region you see in the figure is obtained by placing side by side a square of 4 cm on the side, a square of 5 cm on the side, a triangle with an area of 8 cm2 and a parallelogram. How much is the area of the parallelogram (shaded) in square centimetres? A) 15 B) 16 C) 18 D) 20 E) 21
 
 **Answer:** B
-[[Quesiti/src_kangourou_2012_cadet#q24|src_kangourou_2012_cadet__Q24]]
 
 
 
@@ -1120,7 +1096,6 @@ How many people were dancing at that moment?
 > Tango is danced in pairs of a man and a woman. No more than 50 people attended a dance party. At some point, three-quarters of the men were dancing with four-fifths of the women. How many people were dancing at that moment? A) 20 B) 24 C) 30 D) 32 E) 46
 
 **Answer:** B
-[[Quesiti/src_kangourou_2012_cadet#q25|src_kangourou_2012_cadet__Q25]]
 
 
 
@@ -1185,7 +1160,6 @@ How many people were dancing at that moment?
 > Kang 2012
 
 **Answer:** D
-[[Quesiti/src_kangourou_2012_cadet#q26|src_kangourou_2012_cadet__Q26]]
 
 
 
@@ -1223,7 +1197,6 @@ How many people were dancing at that moment?
 > There are 30 stories in a book. The stories all have different lengths: 1, 2, 3, ..., 30 pages, but they are not said to be in increasing order of length. Every story begins on a new page and there are no blank pages between one story and another. The first story begins on page 1. How many stories can start on an odd page? A) 15 B) 18 C) 20 D) 21 E) 23
 
 **Answer:** E
-[[Quesiti/src_kangourou_2012_cadet#q27|src_kangourou_2012_cadet__Q27]]
 
 
 
@@ -1259,7 +1232,6 @@ How many people were dancing at that moment?
 > An equilateral triangle rotates, always in the same direction, around its center before 3 degrees, then 9 degrees, then 27 degrees, and so on (i.e. at the n-th rotation it rotates by 3n degrees). How many different positions (including the first) will the triangle occupy during these rotations? A) 3 B) 4 C) 5 D) 6 E) 360
 
 **Answer:** B
-[[Quesiti/src_kangourou_2012_cadet#q28|src_kangourou_2012_cadet__Q28]]
 
 
 
@@ -1302,7 +1274,6 @@ How many people were dancing at that moment?
 > E) can be any of the proposed measurements.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2012_cadet#q29|src_kangourou_2012_cadet__Q29]]
 
 
 
@@ -1357,5 +1328,3 @@ How many people were dancing at that moment?
 > SOLUTIONS CADET 2012
 
 **Answer:** A
-
-[[Quesiti/src_kangourou_2012_cadet#q30|src_kangourou_2012_cadet__Q30]]

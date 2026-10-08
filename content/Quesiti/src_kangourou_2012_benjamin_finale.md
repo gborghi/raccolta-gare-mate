@@ -34,7 +34,6 @@ level: kangourou
 > In one photograph, four clocks appear: one marks 4:45, another 5:05, another marks 5:25, and the last marks 5:40. We know that when the photo was taken, two of them were still, while the other two were marking at the right speed, but one was 20 minutes ahead and the other was 20 minutes behind. What time was the photo taken?
 
 **Answer:** 5:05
-[[Quesiti/src_kangourou_2012_benjamin_finale#qb1|src_kangourou_2012_benjamin_finale__QB1]]
 
 
 
@@ -62,7 +61,6 @@ level: kangourou
 > Elena has 20 marbles, each colored with one and only one of the following colors: green, red, blue, brown. 17 are not green; 5 are red; 12 are not blue. How many brown marbles are there?
 
 **Answer:** 4
-[[Quesiti/src_kangourou_2012_benjamin_finale#qb2|src_kangourou_2012_benjamin_finale__QB2]]
 
 
 
@@ -91,7 +89,6 @@ level: kangourou
 > If all odd integers between $1$ and $2012$ are multiplied by each other, what digit does the product end with?
 
 **Answer:** 5
-[[Quesiti/src_kangourou_2012_benjamin_finale#qb3|src_kangourou_2012_benjamin_finale__QB3]]
 
 
 
@@ -123,7 +120,6 @@ level: kangourou
 > The figure, drawn on grid paper, represents a kangaroo. You want to cut it so that you only get triangles. What's the minimum number of triangles you can get? (see figure)
 
 **Answer:** 6
-[[Quesiti/src_kangourou_2012_benjamin_finale#qb4|src_kangourou_2012_benjamin_finale__QB4]]
 
 
 
@@ -156,7 +152,6 @@ level: kangourou
 > Peter wants to line up a number of traditional dice (the sum of the dots on opposite faces is always 7), as the figure shows you. He glues two faces together only if the number of points on both faces is equal, and he wants to get a row so that the sum of points on all the faces exposed is $2012$. Can he do it, and if so, how many dice does he have to use? (see figure)
 
 **Answer:** no
-[[Quesiti/src_kangourou_2012_benjamin_finale#qb5|src_kangourou_2012_benjamin_finale__QB5]]
 
 
 
@@ -184,4 +179,3 @@ level: kangourou
 > Maurizio is in a 99-story skyscraper, but he doesn't remember what floor it is. The system to call the elevator is unusual. Each floor has a panel with buttons from 0 to 99: by pressing a button the elevator reaches the floor corresponding to the number shown on the key, but it is occupied, whatever the floor, for the time it takes to travel 99 floors. Considering that Maurizio can see from the glass of the door if the elevator is passing through his floor and that the elevator is now on floor 0, what is the minimum number of buttons pressed which will guarantee that he knows which floor he is on?
 
 **Answer:** 6
-[[Quesiti/src_kangourou_2012_benjamin_finale#qb6|src_kangourou_2012_benjamin_finale__QB6]]

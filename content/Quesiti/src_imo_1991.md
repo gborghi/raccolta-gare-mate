@@ -48,8 +48,6 @@ level: IMO
 > 8
 > 27.
 
-[[Quesiti/src_imo_1991#q01|src_imo_1991__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze"></span>
@@ -79,8 +77,6 @@ level: IMO
 > minori di n e primi con n. Se
 > a2 −a1 = a3 −a2 = · · = ak −ak−1 > 0,
 > si dimostri che n è un numero primo oppure una potenza di 2.
-
-[[Quesiti/src_imo_1991#q02|src_imo_1991__Q02]]
 
 
 
@@ -115,8 +111,6 @@ level: IMO
 > 18 luglio 1991
 > Tempo a disposizione: 4½ ore
 
-[[Quesiti/src_imo_1991#q03|src_imo_1991__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_grafi"></span>
@@ -145,8 +139,6 @@ level: IMO
 > 
 > [A graph is a set of points, called vertices, together with a set of vertices that connect certain pairs of distinct vertices. Each pair of vertices $u$, $v$ belongs to at most one beam. The graph $G$ is connected if, for each pair of distinct vertices $x$, $y$, there is a succession of vertices $x = v_0, v_1, v_2, \ldots, v_m = y$ such that each pair $v_i, v_{i+1}$ (with $0 \leq i < m$) is joined by a beam of $G$.]
 
-[[Quesiti/src_imo_1991#q04|src_imo_1991__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_disuguaglianze"></span>
@@ -170,8 +162,6 @@ level: IMO
 *Interior point gives an angle at most 30 degrees*
 
 > Whether $ABC$ a triangle and $P$ an internal point at $ABC$. Demonstrate that at least one of the angles $\angle PAB$, $\angle PBC$, $\angle PCA$ is less than or equal to $30°$.
-
-[[Quesiti/src_imo_1991#q05|src_imo_1991__Q05]]
 
 
 
@@ -199,5 +189,3 @@ level: IMO
 *Construct bounded sequence with separation condition for a>1*
 
 > An infinite sequence $x_0, x_1, x_2, \ldots$ of real numbers is said to be finite if there exists a constant $C$ such that $|x_i| \leq C$ for each $i \geq 0$. Given a real number $a > 1$, construct a finite sequence $x_0, x_1, x_2, \ldots$ such that $$|x_i - x_j| \cdot |i - j|^a \geq 1$$ for each pair of distinct nonnegative integers $i$, $j$.
-
-[[Quesiti/src_imo_1991#q06|src_imo_1991__Q06]]

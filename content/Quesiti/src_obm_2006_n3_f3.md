@@ -33,8 +33,6 @@ level: OBM Nível 3
 
 > Il $ABC$ deve essere un triangolo, $P$ il piede del bisettore dell'angolo interno da $B$ a lato $AC$, e $I$ l'incentro di $ABC$. Se $AP + AB = CB$, dimostrare che $API$ è un triangolo di uguali dimensioni.
 
-[[Quesiti/src_obm_2006_n3_f3#q01|src_obm_2006_n3_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_geometria_piana,method_estremalita,method_conteggio,method_doppio_conteggio,skill_conteggio_sistematico,skill_modellizzazione,skill_stima,skill_ragionamento_geometrico"></span>
@@ -59,8 +57,6 @@ level: OBM Nível 3
 *Limita un^2 < f(n) < bn^2 per i triangoli a max pari dimensioni*
 
 > $n$ sia un numero intero, $n \ge 3$. Definire $f(n)$ come il numero massimo di triangoli di isosceles le cui vertici appartengono a un insieme di punti $n$ nel piano senza tre punti collineari. Prova che esistono costanti positive $a$ e $b$ tali da $an^2 < f(n) < bn^2$ per ogni numero intero $n \ge 3$.
-
-[[Quesiti/src_obm_2006_n3_f3#q02|src_obm_2006_n3_f3__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: OBM Nível 3
 
 > Determinare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ in modo tale che $$f\bigl(x f(y) + f(x)\bigr) = 2f(x) + xy$$ per tutte le $x, y$ reali.
 
-[[Quesiti/src_obm_2006_n3_f3#q03|src_obm_2006_n3_f3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,method_estremalita,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_casework_accurato"></span>
@@ -114,8 +108,6 @@ level: OBM Nível 3
 
 > Un intero positivo si chiama \emph{thrown} (arrojado) quando ha 8 divisori positivi la cui somma è 3240. Ad esempio, il 2006 viene gettato perché i suoi 8 divisori positivi sono $1, 2, 17, 34, 59, 118, 1003, 2006$, e la loro somma è 3240. Trova il più piccolo intero positivo gettato.
 
-[[Quesiti/src_obm_2006_n3_f3#q04|src_obm_2006_n3_f3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -140,8 +132,6 @@ level: OBM Nível 3
 *I lati opposti di 1003-gon convex sono paralleli e congruenti*
 
 > Che $P$ sia un poligono converso con lati 2006. Le diagonali 1003 che collegano vertici opposti e i segmenti 1003 che collegano i punti medi di lati opposti sono tutti simultanei, cioè tutti i segmenti del 2006 condividono un punto comune. Prova che i lati opposti di $P$ sono paralleli e congruenti.
-
-[[Quesiti/src_obm_2006_n3_f3#q05|src_obm_2006_n3_f3__Q05]]
 
 
 
@@ -171,5 +161,3 @@ level: OBM Nível 3
 > Il professore Piraldo ha un modo peculiare di giudicare le partite di calcio (calcio) in cui vengono segnati molti gol. Un gioco con un punteggio di $m$ obiettivi a $n$ obiettivi, $m \ge n$, è chiamato \emph{balanced} quando $m \le f(n)$, e \emph{unbalanced} quando $m > f(n)$, dove $f$ è la funzione definita da $f(0) = 0$ e, per $n \ge 1$, $f(n) = 2n - f(r) + r$, dove $r$ è il più grande intero tale che $r \le n$ e $f(r) \le n$.
 > 
 > Dato $\phi = \dfrac{1+\sqrt{5}}{2}$, dimostrare che un gioco con punteggio $m$ a $n$, $m \ge n$, è equilibrato se e solo se $m \le \phi n$, e squilibrato se e solo se $m \ge \phi n + 1$.
-
-[[Quesiti/src_obm_2006_n3_f3#q06|src_obm_2006_n3_f3__Q06]]

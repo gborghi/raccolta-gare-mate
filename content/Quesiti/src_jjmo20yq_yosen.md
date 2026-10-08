@@ -35,7 +35,6 @@ level: JJMO Yosen
 > Ogni cella di una griglia $2 \times 2$ è riempita con esattamente una lettera scelta da $A$, $B$, $C$. Due celle che condividono un bordo devono contenere lettere diverse. Una cellula può ricevere una lettera anche se le cellule adiacenti usano la stessa lettera in altre posizioni; l'unico vincolo è che ogni coppia di cellule adiacenti ai bordi ha lettere diverse. Due riempimenti sono considerati uguali se uno può essere ottenuto dall'altro mediante rotazione o riflessione della griglia. Trova il numero di riempimenti distinti.
 
 **Risposta:** 18
-[[Quesiti/src_jjmo20yq_yosen#q01|src_jjmo20yq_yosen__Q01]]
 
 
 
@@ -64,7 +63,6 @@ level: JJMO Yosen
 > $(p, q)$ sia una coppia di numeri primi con $p \le q$ tale che $pq$ divida $15(p-1)(q-1)$. Trova il numero di tutte le coppie $(p, q)$.
 
 **Risposta:** 31
-[[Quesiti/src_jjmo20yq_yosen#q02|src_jjmo20yq_yosen__Q02]]
 
 
 
@@ -97,7 +95,6 @@ level: JJMO Yosen
 ![[src_jjmo20yq_yosen__q03.png]]
 
 **Risposta:** 9
-[[Quesiti/src_jjmo20yq_yosen#q03|src_jjmo20yq_yosen__Q03]]
 
 
 
@@ -126,7 +123,6 @@ level: JJMO Yosen
 > Nel triangolo $ABC$ con $AB = 5$, $BC = 7$, $CA = 6$, $D$, $E$, $F$ siano punti sui lati $BC$, $CA$ e $AB$ rispettivamente (non coincidendo con nessun vertice). Il quadrilaterale $ABDE$ ha un cerchio circoscritto e il quadrilaterale $BCEF$ ha anche un cerchio circoscritto. Il cerchio circonscritto del triangolo $BDF$ è tangente al segmento di linea $EF$. Trova la lunghezza $EF$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 **Risposta:** \dfrac{75}{37}
-[[Quesiti/src_jjmo20yq_yosen#q04|src_jjmo20yq_yosen__Q04]]
 
 
 
@@ -155,7 +151,6 @@ level: JJMO Yosen
 > C'è una griglia $45 \times 45$ di quadrati unitari. Esattamente le cellule $2022$ devono essere colorate di nero. Trova il numero intero massimo $n$ in modo tale che, indipendentemente dal modo in cui le celle $2022$ sono scelte, esista sempre una sottogrida contiguale $n \times n$ (formata da righe consecutive $n$ e colonne consecutive $n$ della griglia originale) in cui ogni cella è colorata in nero.
 
 **Risposta:** 22
-[[Quesiti/src_jjmo20yq_yosen#q05|src_jjmo20yq_yosen__Q05]]
 
 
 
@@ -188,7 +183,6 @@ level: JJMO Yosen
 ![[src_jjmo20yq_yosen__q06.png]]
 
 **Risposta:** 2+\sqrt{2}
-[[Quesiti/src_jjmo20yq_yosen#q06|src_jjmo20yq_yosen__Q06]]
 
 
 
@@ -217,7 +211,6 @@ level: JJMO Yosen
 > Trova il numero di 5 tupli $(a, b, c, d, e)$ di enti interi non negativi che soddisfano $a + b + c + d + e = 2022$ in modo tale che nessuno di $a, b, c, d, e$ sia divisibile da $3$. (Il numero intero $0$ non è considerato divisibile da $3$ ai fini di questo problema.)
 
 **Risposta:** 500149500
-[[Quesiti/src_jjmo20yq_yosen#q07|src_jjmo20yq_yosen__Q07]]
 
 
 
@@ -250,7 +243,6 @@ Assegna da 1-8 a 20 blocchi di cubo 3x3x3 così che ogni faccia esterna mostri t
 ![[src_jjmo20yq_yosen__q08.png]]
 
 **Risposta:** 80640
-[[Quesiti/src_jjmo20yq_yosen#q08|src_jjmo20yq_yosen__Q08]]
 
 
 
@@ -279,7 +271,6 @@ Assegna da 1-8 a 20 blocchi di cubo 3x3x3 così che ogni faccia esterna mostri t
 > Trova il numero di interi positivi $n \le 2022$ per i quali esiste un intero positivo divisibile da $n$, ha esattamente una cifra uguale a $0$ e tutte le altre cifre uguali a $2$.
 
 **Risposta:** 1700
-[[Quesiti/src_jjmo20yq_yosen#q09|src_jjmo20yq_yosen__Q09]]
 
 
 
@@ -308,7 +299,6 @@ Assegna da 1-8 a 20 blocchi di cubo 3x3x3 così che ogni faccia esterna mostri t
 > $a, b, c, d$ siano numeri interi che soddisfino $0 < a < b < c < d < 163$. Considerate i quadrati $103$ disposti in un anello (circolo), con un quadrato etichettato $S$ e il quadrato passo uno in senso contrario all'orologio da $S$ etichettato $G$. Un token inizia a $S$. I giocatori $A$ e $B$ si alternano, a partire da $A$:\n- Al turno di $A$: spostare il token in senso orario di $c$ o $d$ quadrati.\n- Al turno di $B$: spostare il token in senso orario di $a$ o $b$ quadrati.\nL'obiettivo del giocatore $B$ è quello di avere il token a terra su $G$ immediatamente dopo uno dei movimenti di $B$. Trova il numero di 4 doppi $(a, b, c, d)$ per i quali il giocatore $B$ può sempre raggiungere l'obiettivo in finite mosse, indipendentemente dalle scelte del giocatore $A$.
 
 **Risposta:** 515100
-[[Quesiti/src_jjmo20yq_yosen#q10|src_jjmo20yq_yosen__Q10]]
 
 
 
@@ -337,7 +327,6 @@ Assegna da 1-8 a 20 blocchi di cubo 3x3x3 così che ogni faccia esterna mostri t
 > Lasciate che $ABC$ sia un triangolo di uguali dimensioni con $AB = AC$, e lasciate che $P$ sia un punto interno soddisfacente $\angle PAB = \angle PBC = \angle PCA$. Se le superfici dei triangoli $PAB$ e $PCA$ sono rispettivamente $4$ e $1$, si trova la lunghezza $BC$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 **Risposta:** \sqrt{26}
-[[Quesiti/src_jjmo20yq_yosen#q11|src_jjmo20yq_yosen__Q11]]
 
 
 
@@ -370,4 +359,3 @@ Assegna da 1-8 a 20 blocchi di cubo 3x3x3 così che ogni faccia esterna mostri t
 ![[src_jjmo20yq_yosen__q12.png]]
 
 **Risposta:** 12544
-[[Quesiti/src_jjmo20yq_yosen#q12|src_jjmo20yq_yosen__Q12]]

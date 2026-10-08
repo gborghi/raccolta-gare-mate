@@ -33,8 +33,6 @@ level: BMO Round 2
 
 > Trova il valore minimo di $x^2 + y^2 + z^2$ dove $x, y, z$ sono numeri reali come $x^3 + y^3 + z^3 - 3xyz = 1$.
 
-[[Quesiti/src_bmo_2007-08_round2#q01|src_bmo_2007-08_round2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -59,8 +57,6 @@ level: BMO Round 2
 *Trovare il rapporto laterale del triangolo dagli angoli incentro-circumcentro*
 
 > Il triangolo $ABC$ deve avere il centro $I$ e il circoncentro $O$. Supponiamo che $\angle AIO = 90^\circ$ e $\angle CIO = 45^\circ$. Trova il rapporto $AB : BC : CA$.
-
-[[Quesiti/src_bmo_2007-08_round2#q02|src_bmo_2007-08_round2__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: BMO Round 2
 
 > Adrian ha disegnato un cerchio nel piano $xy$ il cui raggio è un intero positivo. L'origine si trova da qualche parte dentro il cerchio. È consentito fargli domande del tipo "Il punto $(x, y)$ è all'interno del suo cerchio?" Dopo ogni domanda egli risponderà con verità "sì" o "no". Mostrare che è sempre possibile dedurre il raggio del cerchio dopo almeno sessanta domande. [Nota: ogni punto che si trova esattamente sul cerchio può essere considerato situato all'interno del cerchio.]
 
-[[Quesiti/src_bmo_2007-08_round2#q03|src_bmo_2007-08_round2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -113,5 +107,3 @@ level: BMO Round 2
 *Infinitamente molte diverse coppie di numeri interi con una relazione di divisibilità*
 
 > Prove che ci sono infinite coppie di integri positivi distinti $x, y$ in modo tale che $x^2 + y^2$ sia divisibile da $x^3 + y^2$.
-
-[[Quesiti/src_bmo_2007-08_round2#q04|src_bmo_2007-08_round2__Q04]]

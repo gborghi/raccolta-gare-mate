@@ -46,7 +46,6 @@ level: biennio
 > - **(E)** 0,0027.
 
 **Answer:** C
-[[Quesiti/src_archimede_1998_biennio#q01|src_archimede_1998_biennio__Q01]]
 
 
 
@@ -125,7 +124,6 @@ level: biennio
 > - **(E)** None of the previous ones.
 
 **Answer:** A
-[[Quesiti/src_archimede_1998_biennio#q02|src_archimede_1998_biennio__Q02]]
 
 
 
@@ -166,7 +164,6 @@ level: biennio
 > - **(E)** 3(n + 1)2.
 
 **Answer:** A
-[[Quesiti/src_archimede_1998_biennio#q03|src_archimede_1998_biennio__Q03]]
 
 
 
@@ -212,7 +209,6 @@ level: biennio
 > - **(E)** 36.
 
 **Answer:** D
-[[Quesiti/src_archimede_1998_biennio#q04|src_archimede_1998_biennio__Q04]]
 
 
 
@@ -278,7 +274,6 @@ level: biennio
 > - **(E)** π/6.
 
 **Answer:** A
-[[Quesiti/src_archimede_1998_biennio#q05|src_archimede_1998_biennio__Q05]]
 
 
 
@@ -320,7 +315,6 @@ level: biennio
 > - **(E)** It's impossible to determine.
 
 **Answer:** C
-[[Quesiti/src_archimede_1998_biennio#q06|src_archimede_1998_biennio__Q06]]
 
 
 
@@ -362,7 +356,6 @@ level: biennio
 > - **(E)** 1700 km.
 
 **Answer:** B
-[[Quesiti/src_archimede_1998_biennio#q07|src_archimede_1998_biennio__Q07]]
 
 
 
@@ -408,7 +401,6 @@ level: biennio
 > - **(E)** 1 0, 3.
 
 **Answer:** B
-[[Quesiti/src_archimede_1998_biennio#q08|src_archimede_1998_biennio__Q08]]
 
 
 
@@ -448,7 +440,6 @@ level: biennio
 > - **(E)** None of the above.
 
 **Answer:** C
-[[Quesiti/src_archimede_1998_biennio#q09|src_archimede_1998_biennio__Q09]]
 
 
 
@@ -488,7 +479,6 @@ level: biennio
 > - **(E)** The surface of the largest sphere is three times the sum of the surfaces of the other two.
 
 **Answer:** C
-[[Quesiti/src_archimede_1998_biennio#q10|src_archimede_1998_biennio__Q10]]
 
 
 
@@ -533,7 +523,6 @@ level: biennio
 > - **(E)** None of the previous ones.
 
 **Answer:** A
-[[Quesiti/src_archimede_1998_biennio#q11|src_archimede_1998_biennio__Q11]]
 
 
 
@@ -617,7 +606,6 @@ level: biennio
 > - **(E)** 27.
 
 **Answer:** E
-[[Quesiti/src_archimede_1998_biennio#q12|src_archimede_1998_biennio__Q12]]
 
 
 
@@ -659,7 +647,6 @@ level: biennio
 > - **(E)** 13.
 
 **Answer:** B
-[[Quesiti/src_archimede_1998_biennio#q13|src_archimede_1998_biennio__Q13]]
 
 
 
@@ -736,7 +723,6 @@ level: biennio
 > - **(E)** None of the previous ones. b b
 
 **Answer:** D
-[[Quesiti/src_archimede_1998_biennio#q14|src_archimede_1998_biennio__Q14]]
 
 
 
@@ -778,7 +764,6 @@ level: biennio
 > - **(E)** 46 · 65 · 54.
 
 **Answer:** D
-[[Quesiti/src_archimede_1998_biennio#q15|src_archimede_1998_biennio__Q15]]
 
 
 
@@ -820,7 +805,6 @@ level: biennio
 > - **(E)** 60 spikes and 60 vertices.
 
 **Answer:** B
-[[Quesiti/src_archimede_1998_biennio#q16|src_archimede_1998_biennio__Q16]]
 
 
 
@@ -868,7 +852,6 @@ How much pay is paid between an old man and a young woman
 > - **(E)** The number of salaries is uncertain.
 
 **Answer:** C
-[[Quesiti/src_archimede_1998_biennio#q17|src_archimede_1998_biennio__Q17]]
 
 
 
@@ -913,7 +896,6 @@ How much pay is paid between an old man and a young woman
 > - **(E)** The previous answers are all wrong.
 
 **Answer:** E
-[[Quesiti/src_archimede_1998_biennio#q18|src_archimede_1998_biennio__Q18]]
 
 
 
@@ -956,7 +938,6 @@ How much pay is paid between an old man and a young woman
 > - **(E)** None of the above.
 
 **Answer:** A
-[[Quesiti/src_archimede_1998_biennio#q19|src_archimede_1998_biennio__Q19]]
 
 
 
@@ -996,4 +977,3 @@ How much pay is paid between an old man and a young woman
 > - **(E)** ≥10.
 
 **Answer:** C
-[[Quesiti/src_archimede_1998_biennio#q20|src_archimede_1998_biennio__Q20]]

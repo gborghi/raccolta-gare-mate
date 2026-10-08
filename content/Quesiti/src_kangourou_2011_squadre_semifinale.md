@@ -42,7 +42,6 @@ level: squadre
 > e.g. 1011 for 10.11.)
 
 **Answer:** 1735
-[[Quesiti/src_kangourou_2011_squadre_semifinale#q01|src_kangourou_2011_squadre_semifinale__Q01]]
 
 
 
@@ -77,7 +76,6 @@ level: squadre
 > What a mistake! Alfredo, a very careless gardener, is assigned to cover with grass a plot of land on which he has a map in scale 1 : n. He calculates the area of his image on the map, multiplies it by n and buys the grass turves that allow him to cover a plot of area equal to the result, spending 14 euros. Once on the spot, he naturally realizes that he needs many more pieces of grass: he goes to buy them, but in the meantime the price has gone up by 6% and he spends 42 euros more than he would have spent if he had bought them together with the first ones. How much is n?
 
 **Answer:** 51
-[[Quesiti/src_kangourou_2011_squadre_semifinale#q02|src_kangourou_2011_squadre_semifinale__Q02]]
 
 
 
@@ -221,7 +219,6 @@ level: squadre
 > Three squares Within a rectangle three squares are arranged as shown in the figure. Some of the angles formed by the various sides present are measured in degrees (the figure is purely indicative, it does not correspond exactly to the measurements declared). What is the value of the measurement in degrees given by X?
 
 **Answer:** 41
-[[Quesiti/src_kangourou_2011_squadre_semifinale#q03|src_kangourou_2011_squadre_semifinale__Q03]]
 
 
 
@@ -254,7 +251,6 @@ level: squadre
 > Carlo and Gigi were assigned some math problems as vacation assignments. The number of problems assigned to Carlo is four times the number of problems assigned to Gigi. When they meet again after the holidays, they find that they have solved the same number of problems, but the percentage of problems Carlo solved is equal to the percentage of problems Gigi did not solve. What's the percentage of problems Gigi solved?
 
 **Answer:** 80
-[[Quesiti/src_kangourou_2011_squadre_semifinale#q04|src_kangourou_2011_squadre_semifinale__Q04]]
 
 
 
@@ -292,7 +288,6 @@ level: squadre
 > of my cousin?
 
 **Answer:** 21
-[[Quesiti/src_kangourou_2011_squadre_semifinale#q05|src_kangourou_2011_squadre_semifinale__Q05]]
 
 
 
@@ -323,7 +318,6 @@ level: squadre
 > Look at the cube A cube of 11 cm on the side is obtained by approaching cubes of 1 cm on the side. What is the maximum number of these cubes that can be seen simultaneously by a single person?
 
 **Answer:** 331
-[[Quesiti/src_kangourou_2011_squadre_semifinale#q06|src_kangourou_2011_squadre_semifinale__Q06]]
 
 
 
@@ -354,7 +348,6 @@ level: squadre
 > How many positive integers, written in decimal notation, are 20 times the sum of their digits? (Write [9999] if you believe there are infinitely many.)
 
 **Answer:** 1
-[[Quesiti/src_kangourou_2011_squadre_semifinale#q07|src_kangourou_2011_squadre_semifinale__Q07]]
 
 
 
@@ -385,7 +378,6 @@ level: squadre
 > What is the value of the sum 5 + 10 + 15 + … + 295 + 300 ?
 
 **Answer:** 9150
-[[Quesiti/src_kangourou_2011_squadre_semifinale#q08|src_kangourou_2011_squadre_semifinale__Q08]]
 
 
 
@@ -417,7 +409,6 @@ level: squadre
 > A long treaty A treaty consists of four parts. Its articles are numbered in the first part from 1.1 to 1.59, the second from 2.1 to 2.54, the third from 3.1 to 3.342, and the fourth from 4.1 to 4.10. How many digits in total were written to number all these articles?
 
 **Answer:** 1602
-[[Quesiti/src_kangourou_2011_squadre_semifinale#q09|src_kangourou_2011_squadre_semifinale__Q09]]
 
 
 
@@ -450,7 +441,6 @@ level: squadre
 > Two progressions Consider the sets of positive integers A ={0, 3, 6, 9, ...} (arithmetic progression with common difference 3 starting from 0) and B = {0, 13, 26, 39, ...} (arithmetic progression with common difference 13 starting from 0). Consider now the set A ∪ B and arrange its elements in ascending order (i.e. A ∪ B = {0, 3, 6, 9, 12, 13, 15, ...}. What number occupies the 2009 position in A ∪ B?
 
 **Answer:** 5220
-[[Quesiti/src_kangourou_2011_squadre_semifinale#q10|src_kangourou_2011_squadre_semifinale__Q10]]
 
 
 
@@ -487,7 +477,6 @@ level: squadre
 > integer results, all different from each other, that it is possible to obtain?
 
 **Answer:** 45
-[[Quesiti/src_kangourou_2011_squadre_semifinale#q11|src_kangourou_2011_squadre_semifinale__Q11]]
 
 
 
@@ -521,7 +510,6 @@ level: squadre
 > The cyclist and the walker Stefano's house is 60 km from Andrea's. Every Saturday Stefano, a keen cyclist, goes to see Andrea on his bike, leaving at noon, cycling at a steady pace and taking two hours. Today, however, Andrew, who is a good walker, has no time to wait for him. So he decides to go on foot to meet him, leaving at noon. Andrea's speed is also constant and it's 6 km/h. What time will they meet? (Write the time using the digits of a digital clock with no other signs, for example write 1539 to indicate 3 and 39 p.m.)
 
 **Answer:** 1340
-[[Quesiti/src_kangourou_2011_squadre_semifinale#q12|src_kangourou_2011_squadre_semifinale__Q12]]
 
 
 
@@ -553,7 +541,6 @@ level: squadre
 > The Tournament In a volleyball tournament (where matches cannot end in a draw), each team has played each other twice (home and away). Twenty percent of the teams haven't won a game. How many games were played in total in that tournament?
 
 **Answer:** 20
-[[Quesiti/src_kangourou_2011_squadre_semifinale#q13|src_kangourou_2011_squadre_semifinale__Q13]]
 
 
 
@@ -588,7 +575,6 @@ level: squadre
 > /deleted numbers The integers from 1 to 2011 included are written in the order: 1, 2, ... , 2011. They are then deleted, in order, the second, fourth, sixth and so on. Then, of the remaining numbers, they are deleted in the order, the third, the sixth, the ninth and so on. Of the remaining numbers, the fourth, eighth, twelfth and so on are now deleted. This criterion continues, increasing the deletion step by one unit over the remaining numbers. The number 1997 has just been deleted: how many numbers are still written?
 
 **Answer:** 673
-[[Quesiti/src_kangourou_2011_squadre_semifinale#q14|src_kangourou_2011_squadre_semifinale__Q14]]
 
 
 
@@ -635,4 +621,3 @@ level: squadre
 > Questions and solutions
 
 **Answer:** 6
-[[Quesiti/src_kangourou_2011_squadre_semifinale#q15|src_kangourou_2011_squadre_semifinale__Q15]]

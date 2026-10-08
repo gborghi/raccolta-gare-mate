@@ -39,7 +39,6 @@ level: kangourou
 > How many integers are there between −20,16 and 3,17? A) 16 B) 17 C) 20 D) 23 E) 24
 
 **Answer:** E
-[[Quesiti/src_kangourou_2016_cadet_marzo#q01|src_kangourou_2016_cadet_marzo__Q01]]
 
 
 
@@ -77,7 +76,6 @@ level: kangourou
 > Which of the following road signs has the most axes of symmetry? A) B) C) D) E)
 
 **Answer:** A
-[[Quesiti/src_kangourou_2016_cadet_marzo#q02|src_kangourou_2016_cadet_marzo__Q02]]
 
 
 
@@ -111,7 +109,6 @@ level: kangourou
 > Instead of adding 26 to a certain number, Rita subtracted it and got -14. What number would she have got if she had actually added 26? A) 12 B) 14 C) 36 D) 38 E) 40
 
 **Answer:** D
-[[Quesiti/src_kangourou_2016_cadet_marzo#q03|src_kangourou_2016_cadet_marzo__Q03]]
 
 
 
@@ -149,7 +146,6 @@ level: kangourou
 > Consider the two shaded angles in the figure. How many degrees does their sum measure? A) 150 B) 180 C) 270 D) 320 E) 360
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_cadet_marzo#q04|src_kangourou_2016_cadet_marzo__Q04]]
 
 
 
@@ -184,7 +180,6 @@ level: kangourou
 > Kanga collected the candy contained in 555 packs of 9 candies each in a single heap and now packs bags of 15 candies each. How many bags will he have? A) 999 B) 925 C) 555 D) 333 E) 111
 
 **Answer:** D
-[[Quesiti/src_kangourou_2016_cadet_marzo#q05|src_kangourou_2016_cadet_marzo__Q05]]
 
 
 
@@ -236,7 +231,6 @@ level: kangourou
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_cadet_marzo#q06|src_kangourou_2016_cadet_marzo__Q06]]
 
 
 
@@ -283,7 +277,6 @@ level: kangourou
 > E) 12
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_cadet_marzo#q07|src_kangourou_2016_cadet_marzo__Q07]]
 
 
 
@@ -329,7 +322,6 @@ level: kangourou
 > C) 100 D) 120 E) 150
 
 **Answer:** B
-[[Quesiti/src_kangourou_2016_cadet_marzo#q08|src_kangourou_2016_cadet_marzo__Q08]]
 
 
 
@@ -377,7 +369,6 @@ level: kangourou
 > E) 15
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_cadet_marzo#q09|src_kangourou_2016_cadet_marzo__Q09]]
 
 
 
@@ -434,8 +425,6 @@ level: kangourou
 
 **Answer:** E
 
-[[Quesiti/src_kangourou_2016_cadet_marzo#q10|src_kangourou_2016_cadet_marzo__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,topic_geometria_piana,skill_ragionamento_geometrico,skill_ragionamento_geometrico"></span>
@@ -484,7 +473,6 @@ level: kangourou
 > E) 32
 
 **Answer:** E
-[[Quesiti/src_kangourou_2016_cadet_marzo#q11|src_kangourou_2016_cadet_marzo__Q11]]
 
 
 
@@ -529,7 +517,6 @@ level: kangourou
 > E) 40
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_cadet_marzo#q12|src_kangourou_2016_cadet_marzo__Q12]]
 
 
 
@@ -564,7 +551,6 @@ level: kangourou
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2016_cadet_marzo#q13|src_kangourou_2016_cadet_marzo__Q13]]
 
 
 
@@ -600,7 +586,6 @@ level: kangourou
 > Mauro transcribes the results of the quarter-finals, semi-finals and the final of a knockout tournament. The results, in an order that does not necessarily reflect that of the matches, are: Bruno beats Alex, Carlo beats Dino, Gianni beats Luigi, Gianni beats Carlo, Carlo beats Bruno, Enrico beats Franco and Gianni beats Enrico. Which pair of players played the final? A) Gianni and Luigi B) Gianni and Carlo C) Carlo and Bruno D) Gianni and Enrico E) Carlo and Dino
 
 **Answer:** B
-[[Quesiti/src_kangourou_2016_cadet_marzo#q14|src_kangourou_2016_cadet_marzo__Q14]]
 
 
 
@@ -644,7 +629,6 @@ level: kangourou
 >              E)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2016_cadet_marzo#q15|src_kangourou_2016_cadet_marzo__Q15]]
 
 
 
@@ -692,7 +676,6 @@ level: kangourou
 > E) 92
 
 **Answer:** D
-[[Quesiti/src_kangourou_2016_cadet_marzo#q16|src_kangourou_2016_cadet_marzo__Q16]]
 
 
 
@@ -743,7 +726,6 @@ level: kangourou
 > E) 81
 
 **Answer:** B
-[[Quesiti/src_kangourou_2016_cadet_marzo#q17|src_kangourou_2016_cadet_marzo__Q17]]
 
 
 
@@ -791,7 +773,6 @@ level: kangourou
 > E) 14
 
 **Answer:** D
-[[Quesiti/src_kangourou_2016_cadet_marzo#q18|src_kangourou_2016_cadet_marzo__Q18]]
 
 
 
@@ -844,7 +825,6 @@ level: kangourou
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2016_cadet_marzo#q19|src_kangourou_2016_cadet_marzo__Q19]]
 
 
 
@@ -889,7 +869,6 @@ level: kangourou
 > D) 16 E) The situation described can never occur. The questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2016_cadet_marzo#q20|src_kangourou_2016_cadet_marzo__Q20]]
 
 
 
@@ -940,7 +919,6 @@ level: kangourou
 > E) 16
 
 **Answer:** D
-[[Quesiti/src_kangourou_2016_cadet_marzo#q21|src_kangourou_2016_cadet_marzo__Q21]]
 
 
 
@@ -975,7 +953,6 @@ What does Paul think?
 > Peter's watch is 10 minutes behind, but he thinks it's 5 minutes ahead. Paul's watch is 5 minutes ahead, but he thinks it's 10 minutes behind. Both look at their watch at the same time: Peter thinks it's 12:00. What time does Paul think it is? A) 11:30 B) 11:45 C) 12:00 D) 12:30 E) 12:45
 
 **Answer:** E
-[[Quesiti/src_kangourou_2016_cadet_marzo#q22|src_kangourou_2016_cadet_marzo__Q22]]
 
 
 
@@ -1021,7 +998,6 @@ What does Paul think?
 > E)  8
 
 **Answer:** D
-[[Quesiti/src_kangourou_2016_cadet_marzo#q23|src_kangourou_2016_cadet_marzo__Q23]]
 
 
 
@@ -1076,7 +1052,6 @@ What does Paul think?
 > E) 9
 
 **Answer:** E
-[[Quesiti/src_kangourou_2016_cadet_marzo#q24|src_kangourou_2016_cadet_marzo__Q24]]
 
 
 
@@ -1130,7 +1105,6 @@ What does Paul think?
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_cadet_marzo#q25|src_kangourou_2016_cadet_marzo__Q25]]
 
 
 
@@ -1179,8 +1153,6 @@ What does Paul think?
 > E) 243
 
 **Answer:** C
-
-[[Quesiti/src_kangourou_2016_cadet_marzo#q26|src_kangourou_2016_cadet_marzo__Q26]]
 
 
 
@@ -1233,7 +1205,6 @@ What does Paul think?
 > E) E
 
 **Answer:** B
-[[Quesiti/src_kangourou_2016_cadet_marzo#q27|src_kangourou_2016_cadet_marzo__Q27]]
 
 
 
@@ -1276,7 +1247,6 @@ What does Paul think?
 > On each of the 14 cubes of the pyramid in the figure Gaia wrote a different positive integer. The sum of the 9 integers written on the cubes at the base is 50. The whole written on every other cube is the sum of the whole written on the four cubes below it. What's the biggest whole Gaia could have written on the cube at the top? A) 120 B) 118 C) 110 D) 104 E) 102
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_cadet_marzo#q28|src_kangourou_2016_cadet_marzo__Q28]]
 
 
 
@@ -1321,7 +1291,6 @@ What does Paul think?
 > D) 20 E) There is more than one possibility.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2016_cadet_marzo#q29|src_kangourou_2016_cadet_marzo__Q29]]
 
 
 
@@ -1364,5 +1333,3 @@ What does Paul think?
 > 	
 > B) C) D) E)
 >
-
-[[Quesiti/src_kangourou_2016_cadet_marzo#q30|src_kangourou_2016_cadet_marzo__Q30]]

@@ -34,8 +34,6 @@ level: OBM Nível 3
 
 > Prove che esistono integri positivi $a_1, a_2, \ldots, a_{2020}$ tali che $$\frac{1}{a_1} + \frac{1}{2a_2} + \frac{1}{3a_3} + \cdots + \frac{1}{2020\,a_{2020}} = 1.$$
 
-[[Quesiti/src_obm_2020_n3_fx#q01|src_obm_2020_n3_fx__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_induzione,method_ricorsione,method_estremalita,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -63,8 +61,6 @@ level: OBM Nível 3
 
 > Per un intero positivo $n$, definire $F^{(0)}_n = n$, $F^{(1)}_n = n$ e, per $p > 2$: $$F^{(p)}_n = F^{(p-1)}_n + F^{(p-1)}_{n+1}.$$ Un intero positivo $a$ si chiama *fibonacciano* se $F^{(p)}_a = a$ per un intero positivo $p$ e per un certo $n > 3$. Prove che esistono infiniti interi positivi che non sono fibonacciani.
 
-[[Quesiti/src_obm_2020_n3_fx#q02|src_obm_2020_n3_fx__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -90,8 +86,6 @@ level: OBM Nível 3
 
 > Che $r_A$, $r_B$, $r_C$ siano le radici mistilineari del triangolo $XYZ$ centrato a $P$ all'interno del triangolo. Il cerchio $\omega_A$ (centro $X$) è interno tangente a $r_B r_C$; il cerchio $\omega_B$ (centro $Y$) è interno tangente a $r_C r_A$; e il cerchio $\omega_C$ (centro $Z$) è interno tangente a $r_A r_B$. Il punto $P$ si trova all'interno del triangolo $XYZ$ in modo tale che le linee $r_A$, $r_B$, $r_C$ siano le tangenti interne comuni delle coppie di cerchi corrispondenti. La linea $s_A$ deve essere la linea interna tangente a $\omega_B$ e $\omega_C$ che non contiene $r_A$; la linea $s_B$ deve essere la linea interna tangente a $\omega_A$ e $\omega_C$ che non contiene $r_B$; la linea $s_C$ deve essere la linea interna tangente a $\omega_A$ e $\omega_B$ che non contiene $r_C$. Prove che $s_A$, $s_B$ e $s_C$ si incontrano in un punto comune $Q$, e che $P$ e $Q$ sono coniugati isogonali in triangolo $XYZ$ , cioè che le linee $XP$ e $XQ$ sono simmetriche rispetto al bisettore angolare di $\angle YXZ$, e allo stesso modo per i vertici $Y$ e $Z$.
 
-[[Quesiti/src_obm_2020_n3_fx#q03|src_obm_2020_n3_fx__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -116,8 +110,6 @@ level: OBM Nível 3
 *Excircles touch points: le perpendicolari ai lati sono simultanee*
 
 > Lasciate che $ABC$ sia un triangolo. Gli escircoli (ciascuno tangente ad un lato e le estensioni degli altri due lati) toccano i lati $BC$, $CA$ e $AB$ rispettivamente ai punti $U$, $V$ e $W$. Il $r_u$ deve essere la linea attraverso $U$ perpendicolare a $BC$, $r_v$ la linea attraverso $V$ perpendicolare a $CA$ e $r_w$ la linea attraverso $W$ perpendicolare a $AB$. Provare che le linee $r_u$, $r_v$ e $r_w$ passano attraverso un punto comune.
-
-[[Quesiti/src_obm_2020_n3_fx#q04|src_obm_2020_n3_fx__Q04]]
 
 
 
@@ -152,8 +144,6 @@ level: OBM Nível 3
 > 
 > (b) (6 punti) Qual è il numero minimo di domande necessario per fare questa determinazione, quando è possibile?
 
-[[Quesiti/src_obm_2020_n3_fx#q05|src_obm_2020_n3_fx__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_insiemi_funzioni,method_ricorsione,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -186,5 +176,3 @@ level: OBM Nível 3
 > (a) (2 punti) Determinare il numero di soluzioni reali distinte dell'equazione $f^1(x) = x$.
 > 
 > b) (8 punti) Determinare, per ogni intero non negativo $n$, il numero di soluzioni reali distinte dell'equazione $f^n(x) = 0$.
-
-[[Quesiti/src_obm_2020_n3_fx#q06|src_obm_2020_n3_fx__Q06]]

@@ -37,8 +37,6 @@ level: OBM Nível 1
 > 
 > Quanti cubetti avrà bisogno?
 
-[[Quesiti/src_obm_2005_n1_f3#q01|src_obm_2005_n1_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
@@ -71,8 +69,6 @@ level: OBM Nível 1
 > In quanti modi possono essere posizionati i pulsanti formando un triangolo rettangolo le cui gambe sono parallele ai lati della tavola?
 > 
 > Un triangolo rettangolo è qualsiasi triangolo che abbia un angolo $90^\circ$. I lati che formano questo angolo sono chiamati gambe (catetos).
-
-[[Quesiti/src_obm_2005_n1_f3#q02|src_obm_2005_n1_f3__Q02]]
 
 
 
@@ -111,8 +107,6 @@ level: OBM Nível 1
 
 ![[src_obm_2005_n1_f3__q03.png]]
 
-[[Quesiti/src_obm_2005_n1_f3#q03|src_obm_2005_n1_f3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
@@ -146,8 +140,6 @@ level: OBM Nível 1
 > 
 > b) Indicare che il segmento $BD$ è parallelo al segmento $EC$.
 
-[[Quesiti/src_obm_2005_n1_f3#q04|src_obm_2005_n1_f3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
@@ -180,5 +172,3 @@ Proprietà P (numero perfetto) definita come somma di divisori positivi uguali a
 > Mostrare che nessun quadrato perfetto ha la proprietà P.
 > 
 > Un intero positivo è un quadrato perfetto se è uguale al quadrato di un intero. Ad esempio, $1 = 1^2$, $4 = 2^2$ e $9 = 3^2$ sono quadrati perfetti.
-
-[[Quesiti/src_obm_2005_n1_f3#q05|src_obm_2005_n1_f3__Q05]]

@@ -37,8 +37,6 @@ level: JMO Honsen
 
 > Trova tutte le coppie di integri positivi $(m, n)$ in modo che sia $$\frac{n^2+1}{2m}$$ che $$\sqrt{2^{n-1}+m+4}$$ siano integri.
 
-[[Quesiti/src_jmo30hq_honsen#q01|src_jmo30hq_honsen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -63,8 +61,6 @@ level: JMO Honsen
 *Circoli e condizione di perpendicularità nel triangolo ABC*
 
 > Il $ABC$ deve essere un triangolo con $BC < AB$ e $BC < AC$. sui lati $AB$ e $AC$, prendere rispettivamente i punti $D$ e $E$ in modo tale che $BD = CE = BC$. La linea $P$ deve essere l'intersezione della linea $BE$ e della linea $CD$. $Q$ sia uno dei punti di intersezione del circoncircolo del triangolo $ABE$ e del circoncircolo del triangolo $ACD$ diversi da $A$. Provare che la linea $PQ$ e la linea $BC$ sono perpendicolari.
-
-[[Quesiti/src_jmo30hq_honsen#q02|src_jmo30hq_honsen__Q02]]
 
 
 
@@ -92,8 +88,6 @@ level: JMO Honsen
 *Ricerca tutte le funzioni in cui una determinata disuguaglianza si applica a tutti gli integri*
 
 > Trova tutte le funzioni $f$ definite sui numeri interi positivi che assumono valori di numeri interi positivi in modo tale che per qualsiasi numero intero $m, n \ge 1$, $$m^2 + f(n)^2 + (m - f(n))^3 \ge f(m)^2 + n^2$$ sia contenuto.
-
-[[Quesiti/src_jmo30hq_honsen#q03|src_jmo30hq_honsen__Q03]]
 
 
 
@@ -128,8 +122,6 @@ level: JMO Honsen
 > 
 > Indipendentemente dal modo in cui il giocatore $B$ gioca, dimostrare che quando tutte le operazioni $n$ sono terminate, il giocatore $A$ può sempre fare in modo che il numero di segmenti che collegano un punto speciale con un pezzo su di esso a un punto speciale senza un pezzo su di esso sia almeno $\dfrac{n}{6}$.
 
-[[Quesiti/src_jmo30hq_honsen#q04|src_jmo30hq_honsen__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_induzione,method_cassetti,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -160,5 +152,3 @@ level: JMO Honsen
 > Trova tutte le sequenze $a_1, a_2, \ldots$ di interi positivi in modo tale che per tutti gli interi positivi $m, n$, $$\gcd(a_{m+n}, a_m + a_n) > c(m+n)$$ si tenga, dove $c$ è un certo numero reale positivo fisso.
 > 
 > Qui, per i numeri interi positivi $x, y$, $\gcd(x, y)$ indica il più grande divisore comune di $x$ e $y$.
-
-[[Quesiti/src_jmo30hq_honsen#q05|src_jmo30hq_honsen__Q05]]

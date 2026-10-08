@@ -43,7 +43,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > How many different arrival orders are possible?
 
 **Answer:** 24
-[[Quesiti/src_bocconi_finaleint_2007_g2#q01|src_bocconi_finaleint_2007_g2__Q01]]
 
 
 
@@ -76,7 +75,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > What is this number?
 
 **Answer:** 369
-[[Quesiti/src_bocconi_finaleint_2007_g2#q02|src_bocconi_finaleint_2007_g2__Q02]]
 
 
 
@@ -106,8 +104,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > Mathine's mother is a merchant. Mathine likes to look at button boxes of all colors. In a button box there are $12$, and in a cardboard box, there are $12$ button boxes. Mathine's mom is coming to get her order for$24$button cards. Mathine counted the $2007$ buttons.
 > 
 > How many buttons are missing on the command?
-
-[[Quesiti/src_bocconi_finaleint_2007_g2#q03|src_bocconi_finaleint_2007_g2__Q03]]
 
 
 
@@ -141,7 +137,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > Using one or more of these four stamps, ** for how many of the following values can Timothée obtain exactly that value? ** $$0{,}40\,€\;;\;0{,}50\,€\;;\;0{,}80\,€\;;\;0{,}90\,€\;;\;1{,}00\,€\;;\;1{,}10\,€\;;\;1{,}20\,€\;;\;1{,}30\,€\;;\;1{,}40\,€\;;\;1{,}50\,€\;;\;1{,}60\,€$$
 
 **Answer:** 2
-[[Quesiti/src_bocconi_finaleint_2007_g2#q04|src_bocconi_finaleint_2007_g2__Q04]]
 
 
 
@@ -178,7 +173,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 ![[src_bocconi_finaleint_2007_g2__q05.png]]
 
 **Answer:** 4 kg
-[[Quesiti/src_bocconi_finaleint_2007_g2#q05|src_bocconi_finaleint_2007_g2__Q05]]
 
 
 
@@ -210,8 +204,7 @@ Aline's age derived from a mathematical magic game
 > 
 > What is the age of Aline?**
 
-**Answer:** 27 anni
-[[Quesiti/src_bocconi_finaleint_2007_g2#q06|src_bocconi_finaleint_2007_g2__Q06]]
+**Answer:** 27 years
 
 
 
@@ -249,8 +242,7 @@ Aline's age derived from a mathematical magic game
 
 ![[src_bocconi_finaleint_2007_g2__q07.png]]
 
-**Answer:** (disposizione mostrata nella figura della soluzione)
-[[Quesiti/src_bocconi_finaleint_2007_g2#q07|src_bocconi_finaleint_2007_g2__Q07]]
+**Answer:** (arrangement shown in the figure of the solution)
 
 
 
@@ -286,7 +278,6 @@ Aline's age derived from a mathematical magic game
 > **How many words does Ali Baba have to say, at least, including the beginning and the end? **
 
 **Answer:** 7
-[[Quesiti/src_bocconi_finaleint_2007_g2#q08|src_bocconi_finaleint_2007_g2__Q08]]
 
 
 
@@ -323,7 +314,6 @@ Aline's age derived from a mathematical magic game
 ![[src_bocconi_finaleint_2007_g2__q09.png]]
 
 **Answer:** 93
-[[Quesiti/src_bocconi_finaleint_2007_g2#q09|src_bocconi_finaleint_2007_g2__Q09]]
 
 
 
@@ -356,7 +346,6 @@ Aline's age derived from a mathematical magic game
 > **What was this amount, expressed in euro and cents? **
 
 **Answer:** 1,03 €
-[[Quesiti/src_bocconi_finaleint_2007_g2#q10|src_bocconi_finaleint_2007_g2__Q10]]
 
 
 
@@ -389,7 +378,6 @@ Aline's age derived from a mathematical magic game
 > **What is the larger of these two numbers? **
 
 **Answer:** 534 ; 546 ; 654
-[[Quesiti/src_bocconi_finaleint_2007_g2#q11|src_bocconi_finaleint_2007_g2__Q11]]
 
 
 
@@ -422,7 +410,6 @@ Aline's age derived from a mathematical magic game
 > How many balls does Bill have to extract at least randomly to make sure he has balls of at least different colors?
 
 **Answer:** 67
-[[Quesiti/src_bocconi_finaleint_2007_g2#q12|src_bocconi_finaleint_2007_g2__Q12]]
 
 
 
@@ -460,8 +447,7 @@ Aline's age derived from a mathematical magic game
 
 ![[src_bocconi_finaleint_2007_g2__q13.png]]
 
-**Answer:** 2 soluzioni
-[[Quesiti/src_bocconi_finaleint_2007_g2#q13|src_bocconi_finaleint_2007_g2__Q13]]
+**Answer:** 2 solutions
 
 
 
@@ -494,7 +480,6 @@ Aline's age derived from a mathematical magic game
 ![[src_bocconi_finaleint_2007_g2__q14.png]]
 
 **Answer:** 75 cm²
-[[Quesiti/src_bocconi_finaleint_2007_g2#q14|src_bocconi_finaleint_2007_g2__Q14]]
 
 
 
@@ -531,7 +516,6 @@ Aline's age derived from a mathematical magic game
 ![[src_bocconi_finaleint_2007_g2__q15.png]]
 
 **Answer:** 350 m
-[[Quesiti/src_bocconi_finaleint_2007_g2#q15|src_bocconi_finaleint_2007_g2__Q15]]
 
 
 
@@ -563,8 +547,7 @@ The size of the chocolate table to ensure Alice's victory
 > 
 > What size of board should Alice choose if she wants to be sure of winning, playing her best, knowing that a board has at least two squares and that each of its two sizes is up to ten squares?
 
-**Answer:** 1:2 ; 1:5 ; 1:7 ; 1:9 ; 3:3 ; 3:5 ; 3:7 ; 5:5 ; 5:7 ; 7:7 (10 soluzioni)
-[[Quesiti/src_bocconi_finaleint_2007_g2#q16|src_bocconi_finaleint_2007_g2__Q16]]
+**Answer:** 1:2 ; 1:5 ; 1:7 ; 1:9 ; 3:3 ; 3:5 ; 3:7 ; 5:5 ; 5:7 ; 7:7 (10 solutions)
 
 
 
@@ -593,7 +576,6 @@ The size of the chocolate table to ensure Alice's victory
 > It is recalled that a regular icosahedron is a polyhedron whose $20$ faces are identical equilateral triangles (with $12$ vertices and $30$ edges). Here, it's a lamp whose beams each measure $80$ cm in length. A beetle starts from the midpoint of a spike to follow a trajectory corresponding to a straight line on a flat, single-piece pattern of polyhedron. When touching a beam of a face already visited, ** what distance, expressed in mm, will it have traveled, at most?** A face is considered to be visited if the distance traveled on this face is nothing. You can take $1{,}414$ for $\sqrt{2}$; $1{,}732$ for $\sqrt{3}$; $2{,}236$ for $\sqrt{5}$; $2{,}645$ for $\sqrt{7}$; $3{,}606$ for $\sqrt{13}$; $4{,}123$ for $\sqrt{17}$ and $4{,}359$ for $\sqrt{19}$, and round the distance to the nearest millimeter.
 
 **Answer:** 528,5 cm
-[[Quesiti/src_bocconi_finaleint_2007_g2#q17|src_bocconi_finaleint_2007_g2__Q17]]
 
 
 
@@ -626,4 +608,3 @@ The size of the chocolate table to ensure Alice's victory
 > In a tree, how many stems are there, at most?
 
 **Answer:** 188
-[[Quesiti/src_bocconi_finaleint_2007_g2#q18|src_bocconi_finaleint_2007_g2__Q18]]

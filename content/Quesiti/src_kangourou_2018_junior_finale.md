@@ -35,7 +35,6 @@ level: kangourou
 > Antonia and Luca are playing heads or tails for the sum of $8$ euros, tossing a fair coin. They decide that the sum will be pocketed by the first of them to have had $6$ tosses in their favor. When they are at the score of $5$ for Antonia and $3$ for Luca, however, they are forced to interrupt the game and discuss how to split the $8$ euros (which neither has won so far). What is the fair way to split them (that is, the way that takes into account the probability of victory that each of the two has at the moment of the interruption)?
 
 **Answer:** 7 euros to Antonia and 1 to Luca
-[[Quesiti/src_kangourou_2018_junior_finale#q01|src_kangourou_2018_junior_finale__Q01]]
 
 
 
@@ -64,7 +63,6 @@ level: kangourou
 > The sides of a quadrilateral measure $1$, $4$, $7$, $8$. What can its area be, at most?
 
 **Answer:** 18
-[[Quesiti/src_kangourou_2018_junior_finale#q02|src_kangourou_2018_junior_finale__Q02]]
 
 
 
@@ -93,7 +91,6 @@ level: kangourou
 > From a standard deck of $52$ cards, Chiara discarded some cards, making sure that all four aces remained in the remaining deck. Now she draws four cards at random from this reduced deck. If the probability of drawing exactly the four aces is $1/1001$, how many cards did she throw away?
 
 **Answer:** 38
-[[Quesiti/src_kangourou_2018_junior_finale#q03|src_kangourou_2018_junior_finale__Q03]]
 
 
 
@@ -125,7 +122,6 @@ level: kangourou
 > In the figure you see a regular pentagon in which four diagonals have been drawn that identify two shaded regions $A$ and $B$. Express the area of $B$ as a function of the area of $A$.
 
 **Answer:** the area of B is twice that of A
-[[Quesiti/src_kangourou_2018_junior_finale#q04|src_kangourou_2018_junior_finale__Q04]]
 
 
 
@@ -154,7 +150,6 @@ Show that the solution of x^5+x=10 is irrational
 > Consider as already proven that the $x^5 + x = 10$ equation admits only one solution (real positive). Show that such a solution is not a rational number (i.e. it cannot be expressed as a quotient of two integers).
 
 **Answer:** irrational (proof)
-[[Quesiti/src_kangourou_2018_junior_finale#q05|src_kangourou_2018_junior_finale__Q05]]
 
 
 
@@ -180,5 +175,3 @@ Show that the solution of x^5+x=10 is irrational
 *Prove that there exists a circle with exactly n lattice nodes*
 
 > Imagine the plane as a sheet of graph paper (all squares of the same side) unlimited in every direction and call *node* every vertex of every square. Prove that for every $n$ there exists a circle containing inside it exactly $n$ nodes.
-
-[[Quesiti/src_kangourou_2018_junior_finale#q06|src_kangourou_2018_junior_finale__Q06]]

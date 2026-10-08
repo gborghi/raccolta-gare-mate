@@ -42,7 +42,6 @@ level: OBM Nível 2
 ![[src_obm_2008_n2_f1__q01.png]]
 
 **Risposta:** E
-[[Quesiti/src_obm_2008_n2_f1#q01|src_obm_2008_n2_f1__Q01]]
 
 
 
@@ -72,7 +71,6 @@ level: OBM Nível 2
 > Quanti dei seguenti numeri sono superiori a $10$? $$3\sqrt{11},\ 4\sqrt{7},\ 5\sqrt{5},\ 6\sqrt{3},\ 7\sqrt{2}$$ (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
 
 **Risposta:** C
-[[Quesiti/src_obm_2008_n2_f1#q02|src_obm_2008_n2_f1__Q02]]
 
 
 
@@ -102,7 +100,6 @@ level: OBM Nível 2
 > $\sqrt{12^{12}}$ è uguale a: (A) $6^{6}$ \quad (B) $12^{2\sqrt{3}}$ \quad (C) $2^{12}\cdot 3^{3}$ \quad (D) $6^{12}$ \quad (E) $\sqrt{12}^{\sqrt{12}}$
 
 **Risposta:** C
-[[Quesiti/src_obm_2008_n2_f1#q03|src_obm_2008_n2_f1__Q03]]
 
 
 
@@ -132,7 +129,6 @@ level: OBM Nível 2
 > Una grande impresa ha dipendenti $84$, che parlano almeno una delle due lingue, il portoghese e l'inglese. Inoltre, $20\%$ di chi parla portoghese parla anche inglese, e $80\%$ di chi parla inglese parla anche portoghese. Quanti dipendenti parlano entrambe le lingue? (A) $12$ \quad (B) $14$ \quad (C) $15$ \quad (D) $16$ \quad (E) $18$
 
 **Risposta:** D
-[[Quesiti/src_obm_2008_n2_f1#q04|src_obm_2008_n2_f1__Q04]]
 
 
 
@@ -160,8 +156,6 @@ level: OBM Nível 2
 
 > Edmilson, Carlos ed Eduardo hanno guadagnato un totale di R\$150.00 washing cars. They earned the amounts in dimes (moedas de dez centavos). Since none of them had change to divide the equal amounts among the three, Carlos and Eduardo gave their dimes to Edmilson, who then had more money in dimes, and they divided the dimes among themselves. In the end, each one could divide his original amount of dimes; Eduardo received R\$10.00 in dime e gli altri divisi ugualmente, in modo che ognuno finisse con un numero intero di dime. Quanto guadagnava Eduardo prima della divisione? (A) R\$76.00 \quad (B) R\$51.00 \quad (C) R\$23.00 \quad (D) R\$50.00 \quad (E) R\$100.00
 
-[[Quesiti/src_obm_2008_n2_f1#q05|src_obm_2008_n2_f1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -186,8 +180,6 @@ level: OBM Nível 2
 *Summa di tutti i numeri dati media di 5 più grandi e 5 più piccoli*
 
 > Alcune cifre sono scritte sulla lavagna. La media aritmetica del $5$ più grande è $68$ e la media aritmetica del $5$ più piccolo è $44$. La somma di tutti i numeri è: (A) $560$ \quad (B) $504$ \quad (C) $112$ \quad (D) $56$ \quad (E) $70$
-
-[[Quesiti/src_obm_2008_n2_f1#q06|src_obm_2008_n2_f1__Q06]]
 
 
 
@@ -219,8 +211,6 @@ level: OBM Nível 2
 
 ![[src_obm_2008_n2_f1__q07.png]]
 
-[[Quesiti/src_obm_2008_n2_f1#q07|src_obm_2008_n2_f1__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_casework,skill_conteggio_sistematico"></span>
@@ -247,8 +237,6 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 
 > La prima fase dell'OBM si svolge il 14 giugno, sabato dell'anno bisto $2008$. Da ora in poi, tra quanti anni il 14 giugno sarà di nuovo sabato? (A) $4$ \quad (B) $5$ \quad (C) $6$ \quad (D) $7$ \quad (E) $8$
 
-[[Quesiti/src_obm_2008_n2_f1#q08|src_obm_2008_n2_f1__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,method_casework,skill_riconoscimento_pattern,skill_casework_accurato"></span>
@@ -274,8 +262,6 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 *Cifri a, b, c con numeri prim di due cifre che sumano aaa*
 
 > Le cifre $a$, $b$ e $c$ sono tali che i numeri a due cifre $\overline{aa}$, $\overline{bc}$ e $\overline{cb}$ siano numeri primi e $\overline{aa}+\overline{bc}+\overline{cb}=\overline{aaa}$. Se $c<a$, allora $\overline{bc}$ è uguale a: (A) $19$ \quad (B) $17$ \quad (C) $37$ \quad (D) $29$ \quad (E) $59$
-
-[[Quesiti/src_obm_2008_n2_f1#q09|src_obm_2008_n2_f1__Q09]]
 
 
 
@@ -309,8 +295,6 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 
 > Cinque integri positivi $a, b, c, d, e$ superiori a uno soddisfano le seguenti condizioni: $$a(b+c+d+e)=128$$ $$b(a+c+d+e)=155$$ $$c(a+b+d+e)=203$$ $$d(a+b+c+e)=243$$ $$e(a+b+c+d)=275$$ Quanto è $a+b+c+d+e$? (A) $9$ \quad (B) $16$ \quad (C) $25$ \quad (D) $36$ \quad (E) $49$
 
-[[Quesiti/src_obm_2008_n2_f1#q10|src_obm_2008_n2_f1__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -340,8 +324,6 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 > 
 > \textit{Osservazione:} Il triangolo ortico di un triangolo è il triangolo le cui vertici sono le intersezioni delle altitudini del triangolo con i rispettivi lati. Si può dimostrare che le altitudini di qualsiasi triangolo sono sempre i bisettori del suo triangolo ortico (l'ortocentro è il punto di incontro delle altitudini del triangolo originale). (A) $5$ \quad (B) $6$ \quad (C) $7$ \quad (D) $8$ \quad (E) $9$
 
-[[Quesiti/src_obm_2008_n2_f1#q11|src_obm_2008_n2_f1__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_combinatoria,method_fattorizzazione,method_casework,skill_conteggio_sistematico"></span>
@@ -367,8 +349,6 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 *Contare numeri interi inferiori a 500 con esattamente 15 divisori*
 
 > Quanti numeri interi positivi più piccoli di $500$ hanno esattamente $15$ distinti divisori di numeri interi positivi? (A) $0$ \quad (B) $1$ \quad (C) $2$ \quad (D) $3$ \quad (E) $4$
-
-[[Quesiti/src_obm_2008_n2_f1#q12|src_obm_2008_n2_f1__Q12]]
 
 
 
@@ -396,8 +376,6 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 
 > $P(n)$ sia la somma delle cifre del numero $n$. Per esempio, $P(1234)=1+2+3+4=10$. Qual è il valore di $P(1)+P(2)+P(3)+\ldots+P(1000)$? (A) $200$ \quad (B) $500$ \quad (C) $400$ \quad (D) $900$ \quad (E) $2250$
 
-[[Quesiti/src_obm_2008_n2_f1#q13|src_obm_2008_n2_f1__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico"></span>
@@ -423,8 +401,6 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 *Medi per fare R\$10.00 con monete 10c e 25c, almeno una ciascuna*
 
 > In quanti modi possiamo dividere R\$10.00 into coins of $10$ centavos and of $25$ centavos, using at least one coin of each type? (A) $15$ \quad (B) $16$ \quad (C) $17$ \quad (D) $18$ \quad (E) $19$
-
-[[Quesiti/src_obm_2008_n2_f1#q14|src_obm_2008_n2_f1__Q14]]
 
 
 
@@ -452,8 +428,6 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 
 > I numeri $a$, $b$, $c$, $d$ sono numeri interi come $a<2b$, $b<3c$, $c<4d$. Se $d<40$, il valore più grande possibile di $a$ sarà: (A) $960$ \quad (B) $959$ \quad (C) $951$ \quad (D) $934$ \quad (E) $927$
 
-[[Quesiti/src_obm_2008_n2_f1#q15|src_obm_2008_n2_f1__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,topic_combinatoria,skill_manipolazione_algebrica"></span>
@@ -478,8 +452,6 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 *Summa magica di un quadrato magico di ordine-7 con numeri da 1 a 49*
 
 > La figura seguente è un esempio di quadrato magico di ordine $4$. La somma dei numeri $4$ in ogni riga, colonna o diagonale è $34$. Quindi diciamo che la somma magica di questo quadrato magico è $34$. Supponiamo che esista un quadrato magico dell'ordine $7$, formato dai numeri interi da $1$ a $49$. Determina la sua somma magica. (A) $175$ \quad (B) $2450$ \quad (C) $1225$ \quad (D) $190$ \quad (E) $100$
-
-[[Quesiti/src_obm_2008_n2_f1#q16|src_obm_2008_n2_f1__Q16]]
 
 
 
@@ -511,8 +483,6 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 
 > Si noti che: $$3^{2}+4^{2}=5^{2},$$ $$3^{3}+4^{3}+12^{2}=13^{2},$$ $$3^{4}+4^{4}+12^{2}+84^{2}=85^{2}.$$ Qual è il valore più piccolo possibile della somma $x+y$ con $x$, $y$ interi positivi come $3^{5}+4^{5}+12^{2}+84^{2}+x^{2}=y^{2}$? (A) $289$ \quad (B) $250$ \quad (C) $425$ \quad (D) $795$ \quad (E) $103$
 
-[[Quesiti/src_obm_2008_n2_f1#q17|src_obm_2008_n2_f1__Q17]]
-
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,skill_manipolazione_algebrica"></span>
@@ -537,8 +507,6 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 *Un numero a tre cifre 629 volte inferiore alla somma di tutti gli altri*
 
 > Un certo numero a tre cifre è $629$ volte inferiore alla somma di tutti gli altri numeri a tre cifre. Questo numero è: (A) $450$ \quad (B) $785$ \quad (C) $630$ \quad (D) $471$ \quad (E) $525$
-
-[[Quesiti/src_obm_2008_n2_f1#q18|src_obm_2008_n2_f1__Q18]]
 
 
 
@@ -570,8 +538,6 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 
 ![[src_obm_2008_n2_f1__q19.png]]
 
-[[Quesiti/src_obm_2008_n2_f1#q19|src_obm_2008_n2_f1__Q19]]
-
 
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -596,8 +562,6 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 *Angolo IAO tra le direzioni incentro e circoncentro*
 
 > In un triangolo $ABC$, $\angle A=20^\circ$ e $\angle B=110^\circ$. Se $I$ è l'incentro (centro del cerchio inciso) e $O$ è il circumcentro (centro del cerchio circoscritto) del triangolo $ABC$, qual è la misura dell'angolo $\angle IAO$? (A) $20^\circ$ \quad (B) $25^\circ$ \quad (C) $30^\circ$ \quad (D) $40^\circ$ \quad (E) $35^\circ$
-
-[[Quesiti/src_obm_2008_n2_f1#q20|src_obm_2008_n2_f1__Q20]]
 
 
 
@@ -624,8 +588,6 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 *Minimum di ragazze tra il 60% della classe che svolge attività comunitarie*
 
 > Una classe ha ragazzi e ragazze. Durante le vacanze, $60\%$ di tutti gli studenti di quella classe sono andati a fare lavori comunitari. Almeno quante ragazze hanno partecipato a questo lavoro? (A) $1$ \quad (B) $2$ \quad (C) $4$ \quad (D) $6$ \quad (E) $8$
-
-[[Quesiti/src_obm_2008_n2_f1#q21|src_obm_2008_n2_f1__Q21]]
 
 
 
@@ -655,8 +617,6 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 > Nella figura seguente i punti $A$, $B$, $C$ sono collineari, così come i punti $D$, $E$, $F$. Le due linee $ABC$ e $DEF$ sono parallele. Lasciando $A_1$, $A_2$ e $A_3$ essere le aree delle regioni evidenziate nella figura, possiamo affermare che: (A) $A_3=2A_1=2A_2$ \quad (B) $A_2=A_3-A_1$ \quad (C) $A_3=A_2+A_3$ \quad (D) $A_3=A_1+A_2$ \quad (E) $A_2^{2}=A_1\cdot A_3$
 
 ![[src_obm_2008_n2_f1__q22.png]]
-
-[[Quesiti/src_obm_2008_n2_f1#q22|src_obm_2008_n2_f1__Q22]]
 
 
 
@@ -700,8 +660,6 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 
 ![[src_obm_2008_n2_f1__q23.png]]
 
-[[Quesiti/src_obm_2008_n2_f1#q23|src_obm_2008_n2_f1__Q23]]
-
 
 
 <span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_aritmetica,topic_logica,method_casework,method_fattorizzazione,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -732,8 +690,6 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 
 ![[src_obm_2008_n2_f1__q24.png]]
 
-[[Quesiti/src_obm_2008_n2_f1#q24|src_obm_2008_n2_f1__Q24]]
-
 
 
 <span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_combinatoria,topic_geometria_solida,method_casework,method_conteggio,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
@@ -759,5 +715,3 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 *Cubini piccoli con faccia rossa e blu provenienti da un cubo tagliato*
 
 > Ho un cubo di legno con tre facce rosse e tre facce blu. È tagliato in cubetti $3\times 3\times 3=27$ più piccoli. Quanti di questi cubetti più piccoli hanno almeno una faccia rossa e almeno una faccia blu? (A) $6$ \quad (B) $12$ \quad (C) $14$ \quad (D) $16$ \quad (E) Dipende dalla disposizione delle facce rosse e delle facce blu.
-
-[[Quesiti/src_obm_2008_n2_f1#q25|src_obm_2008_n2_f1__Q25]]

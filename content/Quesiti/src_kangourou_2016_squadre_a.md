@@ -42,7 +42,6 @@ level: squadre
 > There are 200 tickets numbered from 1 to 200. James wants to match as many of these tickets as possible so that, for each pair of tickets he forms, the sum of the numbers shown on the tickets is 100. How many different pairs can he form? Attention: pairs should not be considered ordered, for example pairs {1,99} and {99,1} should be considered as a single pair.
 
 **Answer:** 49
-[[Quesiti/src_kangourou_2016_squadre_a#q01|src_kangourou_2016_squadre_a__Q01]]
 
 
 
@@ -75,7 +74,6 @@ level: squadre
 > School and sports In winter, of the 300 pupils in a school, 180 play football and the remaining 120 ski. In summer, all students either play tennis or swim, but no one does both. Fifty-six percent of those who play tennis in the summer play football in the winter; 30 percent of those who play football in the winter, swim in the summer. How many students are skiing and swimming?
 
 **Answer:** 21
-[[Quesiti/src_kangourou_2016_squadre_a#q02|src_kangourou_2016_squadre_a__Q02]]
 
 
 
@@ -105,7 +103,6 @@ level: squadre
 > The central number The sum of 9 consecutive integers is 31000; the central number is 9x. What is the value of x ?
 
 **Answer:** 499
-[[Quesiti/src_kangourou_2016_squadre_a#q03|src_kangourou_2016_squadre_a__Q03]]
 
 
 
@@ -136,7 +133,6 @@ level: squadre
 > Exactly 6 The positive integer N has exactly 6 distinct divisors, including 1 and N. The product of five of these is 5000. Which divisor is not among these five?
 
 **Answer:** 25
-[[Quesiti/src_kangourou_2016_squadre_a#q04|src_kangourou_2016_squadre_a__Q04]]
 
 
 
@@ -170,7 +166,6 @@ Minimum number of cubes for filling 160x140x100
 > A company produces only polystyrene cubes whose sides measure an integer number of centimetres, at the customer's choice (if reasonable). You have to fill exactly one box in the shape of a rectangular parallel-piped, whose dimensions in centimetres are 160 × 140 × 100, with polystyrene cubes, all equal between them. If you want to order as few cubes as possible, how many do you need to order?
 
 **Answer:** 280
-[[Quesiti/src_kangourou_2016_squadre_a#q05|src_kangourou_2016_squadre_a__Q05]]
 
 
 
@@ -255,7 +250,6 @@ Minimum number of cubes for filling 160x140x100
 > E
 
 **Answer:** 45
-[[Quesiti/src_kangourou_2016_squadre_a#q06|src_kangourou_2016_squadre_a__Q06]]
 
 
 
@@ -291,7 +285,6 @@ Minimum number of cubes for filling 160x140x100
 > length of the second?
 
 **Answer:** 400
-[[Quesiti/src_kangourou_2016_squadre_a#q07|src_kangourou_2016_squadre_a__Q07]]
 
 
 
@@ -322,7 +315,6 @@ Minimum number of cubes for filling 160x140x100
 > The circular crown You have a circular crown whose outer and inner radii measure 12 and 2 cm respectively. You want to divide it into circular crowns, each with an area equal to that of the inner circle that was removed to form the initial crown. How many circumferences do you have to draw?
 
 **Answer:** 34
-[[Quesiti/src_kangourou_2016_squadre_a#q08|src_kangourou_2016_squadre_a__Q08]]
 
 
 
@@ -354,7 +346,6 @@ Minimum number of cubes for filling 160x140x100
 > It is exactly noon. From this moment on, for half an hour, a train will travel at 195 km/h; then, again for half an hour, it will travel at 190 km/h and so on, decreasing its speed by 5 km/h every half an hour until it stops. How many kilometers has it traveled from noon until it stops?
 
 **Answer:** 1950
-[[Quesiti/src_kangourou_2016_squadre_a#q09|src_kangourou_2016_squadre_a__Q09]]
 
 
 
@@ -385,7 +376,6 @@ Minimum number of cubes for filling 160x140x100
 > A bracelet for Carla Carla has seven rings of different colors. By placing them one by one and connecting them, he wants to build a bracelet. How many different bracelets can it form?
 
 **Answer:** 360
-[[Quesiti/src_kangourou_2016_squadre_a#q10|src_kangourou_2016_squadre_a__Q10]]
 
 
 
@@ -416,7 +406,6 @@ Minimum number of cubes for filling 160x140x100
 > Average speed A train has completed half of a journey at an average speed of 50 km/h. What was its average speed (in km/h) for the remainder of the route, if the average speed on the entire route was 75 km/h?
 
 **Answer:** 150
-[[Quesiti/src_kangourou_2016_squadre_a#q11|src_kangourou_2016_squadre_a__Q11]]
 
 
 
@@ -446,7 +435,6 @@ Minimum number of cubes for filling 160x140x100
 > A positive integer N divided by 23 gives remainder 16. What is the remainder of N^2 divided by 23?
 
 **Answer:** 3
-[[Quesiti/src_kangourou_2016_squadre_a#q12|src_kangourou_2016_squadre_a__Q12]]
 
 
 
@@ -477,7 +465,6 @@ Minimum number of cubes for filling 160x140x100
 > The arithmetic mean of 20 positive integers all different from each other is 101. What is the maximum value of the largest of these 20 numbers?
 
 **Answer:** 1830
-[[Quesiti/src_kangourou_2016_squadre_a#q13|src_kangourou_2016_squadre_a__Q13]]
 
 
 
@@ -539,7 +526,6 @@ Minimum number of cubes for filling 160x140x100
 > The grid You want to insert the numbers 1, 2, 3, 4, 5, 6, 7, 8, 9 into the still empty cells of the grid in the figure so that you always get the same number whether you add the numbers in a column or add those in a row. What is the sum of the numbers in the shaded cells?
 
 **Answer:** 22
-[[Quesiti/src_kangourou_2016_squadre_a#q14|src_kangourou_2016_squadre_a__Q14]]
 
 
 
@@ -597,4 +583,3 @@ Minimum number of cubes for filling 160x140x100
 > Questions and solutions
 
 **Answer:** 11
-[[Quesiti/src_kangourou_2016_squadre_a#q15|src_kangourou_2016_squadre_a__Q15]]

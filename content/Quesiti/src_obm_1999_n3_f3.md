@@ -39,7 +39,6 @@ level: OBM Nível 3
 ![[src_obm_1999_n3_f3__q01.png]]
 
 **Risposta:** \frac{1}{2}
-[[Quesiti/src_obm_1999_n3_f3#q01|src_obm_1999_n3_f3__Q01]]
 
 
 
@@ -65,8 +64,6 @@ level: OBM Nível 3
 *Prove la cifra decimale non zero di sqrt(2) in un determinato intervallo*
 
 > Prove che esiste almeno una cifra decimale diversa da zero tra le cifre di $\sqrt{2}$ tra la $1{,}000{,}000$th e la $3{,}000{,}000$th decimale dopo il punto decimale.
-
-[[Quesiti/src_obm_1999_n3_f3#q02|src_obm_1999_n3_f3__Q02]]
 
 
 
@@ -95,7 +92,6 @@ level: OBM Nível 3
 > Abbiamo una tabella quadrata. Desideriamo posizionare pezzi $n$ sulle celle della lavagna in modo tale che nessun pezzo $4$ costituisca le vertici di un rettangolo con lati paralleli ai lati della lavagna. Determinare il valore massimo di $n$ per il quale tale costruzione è possibile.
 
 **Risposta:** 34
-[[Quesiti/src_obm_1999_n3_f3#q03|src_obm_1999_n3_f3__Q03]]
 
 
 
@@ -130,8 +126,6 @@ level: OBM Nível 3
 > 
 > Più precisamente: dimostrare che esistono due città antipodali in cui il prezzo di $\textit{Kriptonita}$ differisce al massimo di $100$ $\textit{Urghs}$.
 
-[[Quesiti/src_obm_1999_n3_f3#q04|src_obm_1999_n3_f3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_modellizzazione,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -158,8 +152,7 @@ level: OBM Nível 3
 
 > In $\textit{Tumbolia}$ ci sono $n$ squadre di calcio. Si organizzerà un campionato round-robin in modo che ciascuna squadra giochi esattamente una volta contro l'altra. Tutte le partite si svolgono la domenica e una squadra non può giocare più di una volta la stessa domenica. Determinare il numero intero positivo minimo $n$ per il quale è possibile tenere un tale campionato nelle domenica $n$.
 
-**Risposta:** n = 2k-1 \text{ if } n=2k, \text{ and } n \text{ if } n \text{ is odd}
-[[Quesiti/src_obm_1999_n3_f3#q05|src_obm_1999_n3_f3__Q05]]
+**Risposta:** n = 2k-1 \text{ se } n=2k, \text{ e } n \text{ se } n \text{ è dispari}
 
 
 
@@ -190,5 +183,3 @@ level: OBM Nível 3
 > Se il triangolo $ABC$ è considerato, mostrare come costruire con il bordo stretto e la bussola un triangolo $A'B'C'$ di superficie minima come $C' \in AC$, $A' \in AB$, $B' \in BC$ e $$\angle B'A'C' = \angle BAC, \quad \angle A'C'B' = \angle ABC, \quad \angle A'B'C' = \angle ACB.$$
 
 ![[src_obm_1999_n3_f3__q06.png]]
-
-[[Quesiti/src_obm_1999_n3_f3#q06|src_obm_1999_n3_f3__Q06]]

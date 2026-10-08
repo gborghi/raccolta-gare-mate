@@ -40,7 +40,6 @@ level: squadre
 > newspaper cost?
 
 **Answer:** 120
-[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q01|src_kangourou_2015_squadre_ecolier_f__Q01]]
 
 
 
@@ -75,7 +74,6 @@ level: squadre
 > the 10-cent ones. How many are the 10-cent ones?
 
 **Answer:** 2
-[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q02|src_kangourou_2015_squadre_ecolier_f__Q02]]
 
 
 
@@ -107,7 +105,6 @@ level: squadre
 > One by one Alberto writes down the whole numbers starting from 1, this way: 1 2 3 4 5 6 7 8 9 10 11 12... . When he has written 1788 digits, he gets tired and stops. What are the last four digits he wrote?
 
 **Answer:** 1632
-[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q03|src_kangourou_2015_squadre_ecolier_f__Q03]]
 
 
 
@@ -187,7 +184,6 @@ The longest route in the nine park alleys
 > In the figure, you can see the layout of nine park avenues, each 100 meters long. Caesar wants to walk from point A to point B without going through any avenue twice, while also passing more than once through some of the points where two or more avenues meet. How many meters is the longest path he can take?
 
 **Answer:** 700
-[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q04|src_kangourou_2015_squadre_ecolier_f__Q04]]
 
 
 
@@ -220,7 +216,6 @@ The longest route in the nine park alleys
 > My way In the street where I live, the houses are numbered, starting at one end of the street, on one side with consecutive odd integers starting at 1, on the other side with consecutive even integers starting at 2. My house is number 137. If the numbering had started at the other end of the street, my house would have the number 85. How many houses are on the same side as mine, including mine?
 
 **Answer:** 111
-[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q05|src_kangourou_2015_squadre_ecolier_f__Q05]]
 
 
 
@@ -258,7 +253,6 @@ The longest route in the nine park alleys
 > The rectangles In the figure you see a grid with 6 rows and 5 columns, formed by placing side by side 30 squares all of the same size. Five of these squares are blackened. How many rectangles that do not contain any black squares can be found in the grid? Attention: among rectangles should also be considered squares, regardless of their size!
 
 **Answer:** 99
-[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q06|src_kangourou_2015_squadre_ecolier_f__Q06]]
 
 
 
@@ -289,7 +283,6 @@ The longest route in the nine park alleys
 > A cyclist climbs a mountain road constantly maintaining a speed of 21 kilometers per hour. When he goes down the same road, he doubles his speed, taking 50 minutes less than the time he took to climb. How many kilometers is that road?
 
 **Answer:** 35
-[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q07|src_kangourou_2015_squadre_ecolier_f__Q07]]
 
 
 
@@ -323,7 +316,6 @@ The longest route in the nine park alleys
 > Emma exchanges two of the digits of the number 4129. Luigi does the same thing, without knowing which digits Emma exchanged. What is the maximum difference between Emma's number and Luigi's?
 
 **Answer:** 7695
-[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q08|src_kangourou_2015_squadre_ecolier_f__Q08]]
 
 
 
@@ -358,7 +350,6 @@ Cakes with 13 flavors out of 15 without lemon and pistachio together*
 > The ice cream cake To celebrate Roberta's birthday, Mom asked the ice cream maker to pack an ice cream cake with as many flavors as possible. The ice cream maker, who has 15 flavors, including lemon and pistachio, told her that she can put up to 13 of them in her cake. Roberta's mom doesn't want the lemon and pistachio flavors in the cake. Among how many different cakes with 13 flavors each can Roberta's mom choose? (Two cakes are different if one has at least one taste that is not in the other.)
 
 **Answer:** 27
-[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q09|src_kangourou_2015_squadre_ecolier_f__Q09]]
 
 
 
@@ -393,7 +384,6 @@ Cakes with 13 flavors out of 15 without lemon and pistachio together*
 > How old is the teacher? An integer greater than 1 is said to be prime if it is divisible only by 1 and for itself (e.g., 13 is prime and 15 is not). Two prime numbers are called consecutive if there are no other prime numbers between them (e.g., 31 and 37 are consecutive prime numbers). To Angelo, who asked his age, the teacher replied: "I am over 30 years old and my age is the product of two prime numbers that are not consecutive: in fact, there is exactly one prime number between them that is different from them". Of course, Angelo's teacher is not retired yet. How old is he?
 
 **Answer:** 55
-[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q10|src_kangourou_2015_squadre_ecolier_f__Q10]]
 
 
 
@@ -431,7 +421,6 @@ Cakes with 13 flavors out of 15 without lemon and pistachio together*
 > all full of sugar. How many small spoons full of sugar are needed to fill the jar?
 
 **Answer:** 16
-[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q11|src_kangourou_2015_squadre_ecolier_f__Q11]]
 
 
 
@@ -464,7 +453,6 @@ Cakes with 13 flavors out of 15 without lemon and pistachio together*
 > How careless! At Christmas, Alexander received a notebook of 365 pages. Every day, starting from the first of January last year and starting on the first page, Alexander wrote the date of the day (without the year) on the first page he found free: he started by writing 0101, then 0201 and so on (in some days of February he wrote for example 1302). Through his carelessness, however, he wrote the dates as if every month had 30 days. What date did he write this morning?
 
 **Answer:** 805
-[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q12|src_kangourou_2015_squadre_ecolier_f__Q12]]
 
 
 
@@ -503,7 +491,6 @@ Cakes with 13 flavors out of 15 without lemon and pistachio together*
 > The mosaic you see in the figure is a mosaic formed by joining white square tiles and black square tiles, all of the same size. The outer edge of the mosaic consists of 16 black tiles. Imagine a mosaic built in the same way, but the outer edge of which, however, is made up of 4,000 black tiles. In this imaginary mosaic, how many more black tiles are there than white tiles?
 
 **Answer:** 2001
-[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q13|src_kangourou_2015_squadre_ecolier_f__Q13]]
 
 
 
@@ -542,7 +529,6 @@ Cakes with 13 flavors out of 15 without lemon and pistachio together*
 > will be the greatest possible?
 
 **Answer:** 2109
-[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q14|src_kangourou_2015_squadre_ecolier_f__Q14]]
 
 
 
@@ -597,4 +583,3 @@ Cakes with 13 flavors out of 15 without lemon and pistachio together*
 > Questions and solutions
 
 **Answer:** 250
-[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q15|src_kangourou_2015_squadre_ecolier_f__Q15]]

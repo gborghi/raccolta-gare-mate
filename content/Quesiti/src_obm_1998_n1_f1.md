@@ -47,7 +47,6 @@ level: OBM Nível 1
 > - **(E)** $81^{11}$
 
 **Risposta:** E
-[[Quesiti/src_obm_1998_n1_f1#q01|src_obm_1998_n1_f1__Q01]]
 
 
 
@@ -88,7 +87,6 @@ level: OBM Nível 1
 > - **(E)** $15$
 
 **Risposta:** D
-[[Quesiti/src_obm_1998_n1_f1#q02|src_obm_1998_n1_f1__Q02]]
 
 
 
@@ -129,7 +127,6 @@ level: OBM Nível 1
 > - **(E)** $27$
 
 **Risposta:** A
-[[Quesiti/src_obm_1998_n1_f1#q03|src_obm_1998_n1_f1__Q03]]
 
 
 
@@ -169,7 +166,6 @@ level: OBM Nível 1
 > - **(E)** $75$
 
 **Risposta:** E
-[[Quesiti/src_obm_1998_n1_f1#q04|src_obm_1998_n1_f1__Q04]]
 
 
 
@@ -209,7 +205,6 @@ level: OBM Nível 1
 > - **(E)** Il numero meno $1$
 
 **Risposta:** E
-[[Quesiti/src_obm_1998_n1_f1#q05|src_obm_1998_n1_f1__Q05]]
 
 
 
@@ -250,7 +245,6 @@ level: OBM Nível 1
 > - **(E)** $10$
 
 **Risposta:** C
-[[Quesiti/src_obm_1998_n1_f1#q06|src_obm_1998_n1_f1__Q06]]
 
 
 
@@ -291,7 +285,6 @@ level: OBM Nível 1
 > - **(E)** Impossibile determinare dalle informazioni fornite
 
 **Risposta:** C
-[[Quesiti/src_obm_1998_n1_f1#q07|src_obm_1998_n1_f1__Q07]]
 
 
 
@@ -344,7 +337,6 @@ level: OBM Nível 1
 ![[src_obm_1998_n1_f1__q08.png]]
 
 **Risposta:** A
-[[Quesiti/src_obm_1998_n1_f1#q08|src_obm_1998_n1_f1__Q08]]
 
 
 
@@ -389,7 +381,6 @@ level: OBM Nível 1
 ![[src_obm_1998_n1_f1__q09.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_1998_n1_f1#q09|src_obm_1998_n1_f1__Q09]]
 
 
 
@@ -429,7 +420,6 @@ level: OBM Nível 1
 > - **(E)** $10{,}000\,\text{m}^2$
 
 **Risposta:** A
-[[Quesiti/src_obm_1998_n1_f1#q10|src_obm_1998_n1_f1__Q10]]
 
 
 
@@ -469,7 +459,6 @@ level: OBM Nível 1
 > - **(E)** $3.75$
 
 **Risposta:** B
-[[Quesiti/src_obm_1998_n1_f1#q11|src_obm_1998_n1_f1__Q11]]
 
 
 
@@ -510,7 +499,6 @@ level: OBM Nível 1
 > - **(E)** $42$
 
 **Risposta:** B
-[[Quesiti/src_obm_1998_n1_f1#q12|src_obm_1998_n1_f1__Q12]]
 
 
 
@@ -555,7 +543,6 @@ level: OBM Nível 1
 ![[src_obm_1998_n1_f1__q13.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_1998_n1_f1#q13|src_obm_1998_n1_f1__Q13]]
 
 
 
@@ -596,7 +583,6 @@ level: OBM Nível 1
 > - **(E)** $48$
 
 **Risposta:** C
-[[Quesiti/src_obm_1998_n1_f1#q14|src_obm_1998_n1_f1__Q14]]
 
 
 
@@ -636,7 +622,6 @@ level: OBM Nível 1
 > - **(E)** $3{,}917$
 
 **Risposta:** A
-[[Quesiti/src_obm_1998_n1_f1#q15|src_obm_1998_n1_f1__Q15]]
 
 
 
@@ -677,7 +662,6 @@ level: OBM Nível 1
 > - **(E)** $18$
 
 **Risposta:** D
-[[Quesiti/src_obm_1998_n1_f1#q16|src_obm_1998_n1_f1__Q16]]
 
 
 
@@ -717,7 +701,6 @@ level: OBM Nível 1
 > - **(E)** $98$
 
 **Risposta:** B
-[[Quesiti/src_obm_1998_n1_f1#q17|src_obm_1998_n1_f1__Q17]]
 
 
 
@@ -758,7 +741,6 @@ level: OBM Nível 1
 > - **(E)** In questa città ci sono più auto che persone .
 
 **Risposta:** D
-[[Quesiti/src_obm_1998_n1_f1#q18|src_obm_1998_n1_f1__Q18]]
 
 
 
@@ -803,7 +785,6 @@ level: OBM Nível 1
 ![[src_obm_1998_n1_f1__q19.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_1998_n1_f1#q19|src_obm_1998_n1_f1__Q19]]
 
 
 
@@ -844,4 +825,3 @@ Determina il giorno in cui sia un bugiardo che uno che dice la verità diranno: 
 > - **(E)** Domenica
 
 **Risposta:** B
-[[Quesiti/src_obm_1998_n1_f1#q20|src_obm_1998_n1_f1__Q20]]

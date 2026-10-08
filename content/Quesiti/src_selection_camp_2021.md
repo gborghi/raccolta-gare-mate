@@ -37,8 +37,6 @@ level: CAMP Selection Camp
 
 > Tra i vertici $100$ di un normale $100$-gon, $41$ sono di colore nero e i rimanenti $59$ sono di colore bianco. Provare che si possono scegliere $24$ quadrilaterali convexi $Q_1, Q_2, \ldots, Q_{24}$, ognuno dei quali ha quattro di questi vertici $100$ come vertici, soddisfacendo le seguenti due condizioni: \begin{itemize} \item Non due di $Q_1, \ldots, Q_{24}$ hanno alcun punto in comune (ne' nei loro interni ne' sui loro confini). \item Per ogni numero intero $i$ con $1 \le i \le 24$, tra i quattro vertici di $Q_i$ esattamente tre sono dello stesso colore e il rimanente è dell'altro colore. # Finire #
 
-[[Quesiti/src_selection_camp_2021#q01|src_selection_camp_2021__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_stima"></span>
@@ -65,8 +63,6 @@ level: CAMP Selection Camp
 
 > $a, b, c, d$ siano numeri reali che soddisfino $(a+c)(b+d) = ac + bd$. Trova il valore minimo di $$\frac{a}{b} + \frac{b}{c} + \frac{c}{d} + \frac{d}{a}.$$
 
-[[Quesiti/src_selection_camp_2021#q02|src_selection_camp_2021__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_estremalita,skill_riconoscimento_pattern,skill_casework_accurato"></span>
@@ -91,8 +87,6 @@ level: CAMP Selection Camp
 *insieme senza somma: alcuni a_i non riescono a dividere la somma dei vicini*
 
 > $n$ sia un numero intero con $n \ge 3$. Che $S$ sia un insieme composto da $n$ interamente distinti integri positivi in modo tale che la somma di due elementi distinti di $S$ non sia mai un elemento di $S$. Scrivere $S = \{a_1, a_2, \ldots, a_n\}$ con $a_1 < a_2 < \cdots < a_n$. Prova che esiste un intero $i$ con $2 \le i \le n-1$ tale che $a_{i-1} + a_{i+1}$ non sia divisibile da $a_i$.
-
-[[Quesiti/src_selection_camp_2021#q03|src_selection_camp_2021__Q03]]
 
 
 
@@ -119,8 +113,6 @@ level: CAMP Selection Camp
 
 > Che $\triangle ABC$ sia un triangolo di uguali dimensioni con $AB = AC$, e che $D$ sia un punto laterale $BC$ con $BD < CD$. Perpendicolari da $D$ alle linee $AB$ e $AC$, e $P$ e $Q$ siano i rispettivi piedi. Supponiamo che il bisettore perpendicolare del segmento $PQ$ incontra il segmento $AB$ ad un punto $E$, e che il circoncircolo di $\triangle APQ$ incontra la linea $AB$ ad un punto $A$ e ad un secondo punto $F$ (a differenza di $A$). Prova che se $Q$, $E$, $F$ sono collineari, allora $\angle BAC = 90^\circ$.
 
-[[Quesiti/src_selection_camp_2021#q04|src_selection_camp_2021__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_analitica,topic_combinatoria,topic_aritmetica,method_coordinate,method_casework,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
@@ -145,8 +137,6 @@ level: CAMP Selection Camp
 *Lattice convex n-gon diviso dal punto interno in aree pari consecutive*
 
 > Trova tutti gli enti $n \ge 4$ che soddisfano la seguente condizione. Esiste una convexa $n$-gon la cui verticale sono tutti punti reticolari (punti le cui due coordinate sono entrambe enti) e un punto $P$ nel suo interno in modo tale che, denotando le aree dei triangoli $n$ in cui $P$ divide il poligono (unendo $P$ alle verticali) da $S_1, S_2, \ldots, S_n$ in qualche ordine, e lasciando $S$ essere l'area dell'intero poligono, le quantità $2S_1, 2S_2, \ldots, 2S_n$ sono numeri interi consecutivi e il loro valore più grande è divisibile da $S$.
-
-[[Quesiti/src_selection_camp_2021#q05|src_selection_camp_2021__Q05]]
 
 
 
@@ -178,8 +168,6 @@ level: CAMP Selection Camp
 
 > $n$ e $m$ siano numeri primi. C'è una griglia con righe $n$ e colonne $m$, e un intero positivo è scritto in ogni cella. Per la cella nella riga $r$ e nella colonna $c$, $a(r,c)$ indica il numero intero scritto lì. Considera una coppia ordinata $(R, C)$ in cui $R$ è un insieme di righe e $C$ è un insieme di colonne. Tale coppia è chiamata \emph{good} se entrambi i seguenti contenuti: \begin{enumerate} \item[(i)] Per ogni riga $r'$ e per ogni $r \in R$, esiste un $c \in C$ tale che $a(r, c) \le a(r', c)$. \item[(ii) Per ogni colonna $c'$ e per ogni $c \in C$, esiste $r \in R$ tale che $a(r, c) \le a(r, c')$. \end{enumerate} Inoltre, per una buona coppia $(R, C)$, supponiamo che $|R| + |C|$ sia maggiore o uguale a $|R'| + |C'|$ per ogni altra buona coppia $(R', C')$. Quando $(R, C)$ e $(R', C')$ sono due coppie buone (massime), dimostrare che il numero di elementi di $R$ è uguale al numero di elementi di $R'$.
 
-[[Quesiti/src_selection_camp_2021#q06|src_selection_camp_2021__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_funzionali,topic_algebra,method_simmetria,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -206,8 +194,6 @@ level: CAMP Selection Camp
 
 > Trovare tutte le funzioni $f$ definite sui numeri reali e prendere valori reali in modo che, per tutti i numeri reali $x$ e $y$, $$f\left(x^2 + xy + y^2\right) = 2x^2 f(y) + 2x f\bigl(f(y)\bigr) + f\left(-x^2 - xy^2\right) + f\left(y^2\right).$$
 
-[[Quesiti/src_selection_camp_2021#q07|src_selection_camp_2021__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_doppio_conteggio,method_casework,skill_conteggio_sistematico,skill_modellizzazione"></span>
@@ -232,8 +218,6 @@ level: CAMP Selection Camp
 *Persone raggruppate in n cerchi con condizione di cerchio comune; conteggio totale*
 
 > $n$ sia un numero intero con $n \ge 2$. Ci sono $n$ cerchi (gruppi), e esattamente $n$ persone si riuniscono a ogni cerchio, in modo che in totale $n^2$ persone circondano i cerchi. Le persone appartenenti a un cerchio sono reciprocamente distinte, e due persone che appartengono entrambi a un cerchio comune appartengono esattamente a un cerchio in comune. Determina, in tutte queste configurazioni, quante persone ci possono essere.
-
-[[Quesiti/src_selection_camp_2021#q08|src_selection_camp_2021__Q08]]
 
 
 
@@ -260,8 +244,6 @@ level: CAMP Selection Camp
 
 > $\triangle ABC$ sia un triangolo acuto con $AB < AC$. L'incentro è $I$ e l'excentro è $I_A$ situato all'interno dell'angolo $A$ (l'excentro è $A$). L'incircolo di $\triangle ABC$ tocca il lato $BC$ al punto $D$. La linea $AD$ incontra la linea $BI_A$ a $E$ e la linea $CI_A$ a $F$. Dimostrare che il circoncircolo di $\triangle AID$ e il circoncircolo di $\triangle I_A E F$ sono tangenti tra loro. (Qui $XY$ indica la lunghezza del segmento $XY$; l'incircolo è il cerchio che, tra i cerchi tangenti alla linea $BC$, la linea $AB$ e la linea $AC$, è tangente internamente.)
 
-[[Quesiti/src_selection_camp_2021#q09|src_selection_camp_2021__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_grafi,skill_astrazione,skill_riconoscimento_pattern"></span>
@@ -287,8 +269,6 @@ level: CAMP Selection Camp
 
 > Per ogni numero primo $p$, esiste un regno $P$ costituito da isole $1, 2, \ldots, p$. Per due isole distinte $n$ e $m$ del regno $P$, un ponte li collega se e solo se $(n^2 - m + 1)(m^2 - n + 1)$ è divisibile da $p$. Prove che esistono infinite prime $p$ per le quali esiste una coppia di due isole distinte del regno $P$ che non possono essere raggiunte l'una dall'altra viaggiando attraverso i ponti.
 
-[[Quesiti/src_selection_camp_2021#q10|src_selection_camp_2021__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -313,8 +293,6 @@ level: CAMP Selection Camp
 *Due cerchi tangenti esternamente producono punti collineari A, X, Y*
 
 > Che $\Gamma$ sia il circoncircolo di un triangolo acuto $ABC$ e che $I$ sia il suo incentro. Lasciate che $\omega_B$ e $\omega_C$ siano due cerchi che siano tangenti l'uno all'altro. Il cerchio $\omega_B$ è tangente a lato $AC$, e il cerchio $\omega_C$ è tangente a lato $AB$. Inoltre $\omega_B$ è tangente alla linea $AB$ in un punto $M$, e $\omega_C$ è tangente alla linea $AC$ in un punto $N$. Le linee $PM$ e $QN$ si incontrano al punto $X$ e $\omega_B$ e $\omega_C$ si incontrano al punto $Y$. Prova che $A$, $X$, $Y$ si trovano su una singola linea.
-
-[[Quesiti/src_selection_camp_2021#q11|src_selection_camp_2021__Q11]]
 
 
 
@@ -342,5 +320,3 @@ level: CAMP Selection Camp
 *Equazione funzionale sui numeri interi utilizzando iterazioni di f*
 
 > Trova tutte le funzioni $f$ definite sui numeri interi e prendi valori di numeri interi in modo tale che, per tutti i numeri interi $a$ e $b$, $$f^{\,a^2 + b^2}(a + b) = a f(a) + b f(b).$$ Qui $f^0(n) = n$, e per un intero positivo $k$, $f^k(n) = f\bigl(f^{k-1}(n)\bigr)$.
-
-[[Quesiti/src_selection_camp_2021#q12|src_selection_camp_2021__Q12]]

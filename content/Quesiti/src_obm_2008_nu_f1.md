@@ -33,8 +33,6 @@ level: OBM Nível Universitário
 
 > Determinare tutti i valori interi di $n$ per i quali l'equazione $x^3 - 13x + n = 0$ ha tre radici interi.
 
-[[Quesiti/src_obm_2008_nu_f1#q01|src_obm_2008_nu_f1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_analitica,method_coordinate,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -63,8 +61,6 @@ level: OBM Nível Universitário
 
 > Considerate le linee indicate dalle equazioni parametriche $$\begin{cases}(x,y,z)=(0,0,1)\cdot t\end{cases},\quad \begin{cases}(x,y,z)=(1,2,0)+(1,0,0)\cdot t\end{cases},$$ $$\begin{cases}(x,y,z)=(1,1,0)+(0,1,0)\cdot t\end{cases},\quad \begin{cases}(x,y,z)=(1,0,0)+(1,1,1)\cdot t\end{cases}.$$ Quante linee intersecano tutte e quattro contemporaneamente?
 
-[[Quesiti/src_obm_2008_nu_f1#q02|src_obm_2008_nu_f1__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_conteggio,method_ricorsione,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_modellizzazione"></span>
@@ -89,8 +85,6 @@ level: OBM Nível Universitário
 *Conta i passi di Esmeralda nel 2008 sulla griglia di numeri interi che finiscono all'origine*
 
 > Esmeralda cammina attraverso i punti con le coordinate interi del piano. Se in un determinato momento si trova al punto $(a, b)$, in un solo passo può passare a uno dei due seguenti punti: $(a+1, b)$, $(a-1, b)$, $(a, b+1)$ o $(a, b-1)$. In quanti modi Esmeralda può partire da $(0, 0)$ e camminare esattamente $2008$ passi, finendo a $(0, 0)$?
-
-[[Quesiti/src_obm_2008_nu_f1#q03|src_obm_2008_nu_f1__Q03]]
 
 
 
@@ -119,8 +113,6 @@ level: OBM Nível Universitário
 
 > Supponiamo che esistano le matrici $n \times n$ $A$ e $B$, diverse dalla matrice di identità $I$ e soddisfacente $$\begin{cases} A^4 = I \\ ABA^{-1} = B^k \end{cases}.$$ Mostri che esiste un intero $k > 0$ tale che $B^k = I$, e determina il più piccolo $k$ con questa proprietà.
 
-[[Quesiti/src_obm_2008_nu_f1#q04|src_obm_2008_nu_f1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_analitica,topic_geometria_piana,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_astrazione,skill_stima"></span>
@@ -146,8 +138,6 @@ level: OBM Nível Universitário
 
 > Diciamo che un iperbola copre un punto se il punto appartiene a una delle due regioni infinite determinate dall'iperbola che contiene i suoi foci. Qual è il più piccolo numero di iperbole necessario per coprire tutti i punti del piano?
 
-[[Quesiti/src_obm_2008_nu_f1#q05|src_obm_2008_nu_f1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_trigonometria,method_telescoping,method_trigonometria,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_stima"></span>
@@ -172,5 +162,3 @@ level: OBM Nível Universitário
 *Limito di calcolo di P_n P_{n+1}/n per una sequenza di somma trigonometrica*
 
 > Let $P_n = \displaystyle\sum_{k=0}^{n} \sin\!\left(\frac{\pi k}{n}\right)$. Calcolare $\displaystyle\lim_{n \to \infty} \frac{P_n P_{n+1}}{n}$.
-
-[[Quesiti/src_obm_2008_nu_f1#q06|src_obm_2008_nu_f1__Q06]]

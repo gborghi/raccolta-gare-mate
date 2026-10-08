@@ -49,7 +49,6 @@ level: OBM Nível 3
 > - **(E)** $\dfrac{x^3+y^3}{x+y}$
 
 **Risposta:** C
-[[Quesiti/src_obm_2000_n3_f1#q01|src_obm_2000_n3_f1__Q01]]
 
 
 
@@ -91,7 +90,6 @@ level: OBM Nível 3
 > - **(E)** $21^\circ$
 
 **Risposta:** C
-[[Quesiti/src_obm_2000_n3_f1#q02|src_obm_2000_n3_f1__Q02]]
 
 
 
@@ -138,7 +136,6 @@ level: OBM Nível 3
 ![[src_obm_2000_n3_f1__q03.png]]
 
 **Risposta:** D
-[[Quesiti/src_obm_2000_n3_f1#q03|src_obm_2000_n3_f1__Q03]]
 
 
 
@@ -181,7 +178,6 @@ level: OBM Nível 3
 > - **(E)** 21
 
 **Risposta:** C
-[[Quesiti/src_obm_2000_n3_f1#q04|src_obm_2000_n3_f1__Q04]]
 
 
 
@@ -224,7 +220,6 @@ level: OBM Nível 3
 > - **(E)** può essere maggiore di 1.
 
 **Risposta:** D
-[[Quesiti/src_obm_2000_n3_f1#q05|src_obm_2000_n3_f1__Q05]]
 
 
 
@@ -269,7 +264,6 @@ level: OBM Nível 3
 > - **(E)** 2002
 
 **Risposta:** E
-[[Quesiti/src_obm_2000_n3_f1#q06|src_obm_2000_n3_f1__Q06]]
 
 
 
@@ -316,7 +310,6 @@ level: OBM Nível 3
 > - **(E)** Non ci sono informazioni sufficienti per determinare il numero.
 
 **Risposta:** D
-[[Quesiti/src_obm_2000_n3_f1#q07|src_obm_2000_n3_f1__Q07]]
 
 
 
@@ -359,7 +352,6 @@ Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
 > - **(E)** 5
 
 **Risposta:** D
-[[Quesiti/src_obm_2000_n3_f1#q08|src_obm_2000_n3_f1__Q08]]
 
 
 
@@ -402,7 +394,6 @@ Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
 > - **(E)** 55
 
 **Risposta:** E
-[[Quesiti/src_obm_2000_n3_f1#q09|src_obm_2000_n3_f1__Q09]]
 
 
 
@@ -445,7 +436,6 @@ Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
 > - **(E)** 15
 
 **Risposta:** D
-[[Quesiti/src_obm_2000_n3_f1#q10|src_obm_2000_n3_f1__Q10]]
 
 
 
@@ -492,7 +482,6 @@ Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
 ![[src_obm_2000_n3_f1__q11.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2000_n3_f1#q11|src_obm_2000_n3_f1__Q11]]
 
 
 
@@ -535,7 +524,6 @@ Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
 > - **(E)** Le medie delle due classi possono peggiorare o migliorare, a seconda dei voti dei candidati.
 
 **Risposta:** D
-[[Quesiti/src_obm_2000_n3_f1#q12|src_obm_2000_n3_f1__Q12]]
 
 
 
@@ -582,7 +570,6 @@ Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
 ![[src_obm_2000_n3_f1__q13.png]]
 
 **Risposta:** A
-[[Quesiti/src_obm_2000_n3_f1#q13|src_obm_2000_n3_f1__Q13]]
 
 
 
@@ -624,7 +611,6 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > - **(E)** non può essere determinato
 
 **Risposta:** A
-[[Quesiti/src_obm_2000_n3_f1#q14|src_obm_2000_n3_f1__Q14]]
 
 
 
@@ -667,7 +653,6 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > - **(E)** 4
 
 **Risposta:** B
-[[Quesiti/src_obm_2000_n3_f1#q15|src_obm_2000_n3_f1__Q15]]
 
 
 
@@ -710,7 +695,6 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > - **(E)** 20
 
 **Risposta:** E
-[[Quesiti/src_obm_2000_n3_f1#q16|src_obm_2000_n3_f1__Q16]]
 
 
 
@@ -753,7 +737,6 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > - **(E)** 334
 
 **Risposta:** A
-[[Quesiti/src_obm_2000_n3_f1#q17|src_obm_2000_n3_f1__Q17]]
 
 
 
@@ -796,7 +779,6 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > - **(E)** 500.000
 
 **Risposta:** D
-[[Quesiti/src_obm_2000_n3_f1#q18|src_obm_2000_n3_f1__Q18]]
 
 
 
@@ -843,7 +825,6 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 ![[src_obm_2000_n3_f1__q19.png]]
 
 **Risposta:** E
-[[Quesiti/src_obm_2000_n3_f1#q19|src_obm_2000_n3_f1__Q19]]
 
 
 
@@ -879,7 +860,6 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 ![[src_obm_2000_n3_f1__q20.png]]
 
 **Risposta:** A
-[[Quesiti/src_obm_2000_n3_f1#q20|src_obm_2000_n3_f1__Q20]]
 
 
 
@@ -926,7 +906,6 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 ![[src_obm_2000_n3_f1__q21.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2000_n3_f1#q21|src_obm_2000_n3_f1__Q21]]
 
 
 
@@ -969,7 +948,6 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > - **(E)** 111
 
 **Risposta:** B
-[[Quesiti/src_obm_2000_n3_f1#q22|src_obm_2000_n3_f1__Q22]]
 
 
 
@@ -1011,7 +989,6 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > - **(E)** 11h01min
 
 **Risposta:** A
-[[Quesiti/src_obm_2000_n3_f1#q23|src_obm_2000_n3_f1__Q23]]
 
 
 
@@ -1054,7 +1031,6 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > - **(E)** $P(-1)\cdot P(1)$
 
 **Risposta:** B
-[[Quesiti/src_obm_2000_n3_f1#q24|src_obm_2000_n3_f1__Q24]]
 
 
 
@@ -1097,4 +1073,3 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > - **(E)** 105
 
 **Risposta:** A
-[[Quesiti/src_obm_2000_n3_f1#q25|src_obm_2000_n3_f1__Q25]]

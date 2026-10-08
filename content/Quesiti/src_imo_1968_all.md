@@ -32,8 +32,6 @@ level: IMO
 
 > Si dimostri che esiste uno e un solo triangolo i cui lati sono numeri interi consecutivi, e tale che uno dei suoi angoli sia il doppio di un altro.
 
-[[Quesiti/src_imo_1968_all#q01|src_imo_1968_all__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_casework_accurato"></span>
@@ -58,8 +56,6 @@ level: IMO
 *Determinare i numeri naturali per cui il prodotto delle cifre è uguale a x² - 10x - 22*
 
 > Determinare tutti i numeri naturali $x$ tali che il prodotto delle loro cifre (nella notazione decimale) è uguale a $x^2 - 10x - 22$.
-
-[[Quesiti/src_imo_1968_all#q02|src_imo_1968_all__Q02]]
 
 
 
@@ -110,8 +106,6 @@ level: IMO
 > 
 > (c) se $\Delta > 0$, esistono più di una soluzione.
 
-[[Quesiti/src_imo_1968_all#q03|src_imo_1968_all__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,method_estremalita"></span>
@@ -135,8 +129,6 @@ level: IMO
 *Ogni tetraedro ha un vertice i cui spigoli formano un triangolo*
 
 > Si dimostri che in ogni tetraedro esiste un vertice tale che i tre spigoli che vi si incontrano hanno lunghezze che possono essere i lati di un triangolo.
-
-[[Quesiti/src_imo_1968_all#q04|src_imo_1968_all__Q04]]
 
 
 
@@ -174,8 +166,6 @@ level: IMO
 > 
 > (b) Per $a = 1$, fornire un esempio di una funzione non costante con le proprietà richieste.
 
-[[Quesiti/src_imo_1968_all#q05|src_imo_1968_all__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_telescoping"></span>
@@ -203,5 +193,3 @@ level: IMO
 > Per ogni numero naturale $n$, si valuti la somma
 > $$\sum_{k=0}^{\infty} \left\lfloor \frac{n + 2^k}{2^{k+1}} \right\rfloor = \left\lfloor \frac{n+1}{2} \right\rfloor + \left\lfloor \frac{n+2}{4} \right\rfloor + \cdots + \left\lfloor \frac{n + 2^k}{2^{k+1}} \right\rfloor + \cdots$$
 > (Il simbolo $\lfloor x \rfloor$ indica il massimo intero non superiore a $x$.)
-
-[[Quesiti/src_imo_1968_all#q06|src_imo_1968_all__Q06]]

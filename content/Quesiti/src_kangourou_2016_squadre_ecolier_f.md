@@ -35,7 +35,6 @@ level: squadre
 > Who am I? I'm triple my double. What number am I?
 
 **Answer:** 0
-[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q01|src_kangourou_2016_squadre_ecolier_f__Q01]]
 
 
 
@@ -67,7 +66,6 @@ level: squadre
 > The numbering to the number 7 we add up 4, then again 4, then again 4 and so on until we first exceed the number 200: that's where we stop. Let's just consider the numbers we got by doing all these sums: how many of them are multiples of 3?
 
 **Answer:** 16
-[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q02|src_kangourou_2016_squadre_ecolier_f__Q02]]
 
 
 
@@ -98,7 +96,6 @@ level: squadre
 > It was still Friday. What will be the first year after 2016 in which 1° January will fall again on a Friday?
 
 **Answer:** 2021
-[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q03|src_kangourou_2016_squadre_ecolier_f__Q03]]
 
 
 
@@ -128,7 +125,6 @@ level: squadre
 > Cows On a farm, there are only cows and chickens. The total number of legs is equal to 300 plus twice the total number of heads. How many cows are there?
 
 **Answer:** 150
-[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q04|src_kangourou_2016_squadre_ecolier_f__Q04]]
 
 
 
@@ -159,7 +155,6 @@ level: squadre
 > Thirty-six squares A square is cut into 36 smaller squares. One of these has an area greater than 1 cm2, while all the others have an area of 1 cm2. How many centimeters does the side of the starting square measure?
 
 **Answer:** 18
-[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q05|src_kangourou_2016_squadre_ecolier_f__Q05]]
 
 
 
@@ -194,7 +189,6 @@ level: squadre
 > would have had to make to win?
 
 **Answer:** 5
-[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q06|src_kangourou_2016_squadre_ecolier_f__Q06]]
 
 
 
@@ -225,7 +219,6 @@ Distance B-C between four cities on the road
 > The four cities Traveling on a highway, one encounters in order four cities we will call A, B, C and D. If the distance between A and D is 250 km, that between C and A is 135 km and that between B and D is 165 km, how many kilometers is B from C?
 
 **Answer:** 50
-[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q07|src_kangourou_2016_squadre_ecolier_f__Q07]]
 
 
 
@@ -262,7 +255,6 @@ Distance B-C between four cities on the road
 > 2
 
 **Answer:** 836
-[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q08|src_kangourou_2016_squadre_ecolier_f__Q08]]
 
 
 
@@ -299,7 +291,6 @@ Distance B-C between four cities on the road
 > apples has remained in the dish. What is the minimum number of apples that could have been initially in the dish?
 
 **Answer:** 8
-[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q09|src_kangourou_2016_squadre_ecolier_f__Q09]]
 
 
 
@@ -328,7 +319,6 @@ Distance B-C between four cities on the road
 > Sum and product The sum of two consecutive odd integers is 196. What's their product?
 
 **Answer:** 9603
-[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q10|src_kangourou_2016_squadre_ecolier_f__Q10]]
 
 
 
@@ -359,7 +349,6 @@ Distance B-C between four cities on the road
 > I've listed all the seven-digit numbers (i.e. from 1,000,000 to 9,999,999 included) where there are exactly six 9s. How many numbers are on my list?
 
 **Answer:** 62
-[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q11|src_kangourou_2016_squadre_ecolier_f__Q11]]
 
 
 
@@ -390,7 +379,6 @@ How much does Maria have (Lucia, Maria, Nina = 31)
 > Lucia, Maria and Nina Lucia, Maria and Nina have a total of 31 euros. Lucia has less than Maria and Maria has less than Nina; but if Nina gives two euros to Lucia, Maria and Nina have the same number of euros and Lucia has more than each of them. How many euros does Maria have?
 
 **Answer:** 10
-[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q12|src_kangourou_2016_squadre_ecolier_f__Q12]]
 
 
 
@@ -423,7 +411,6 @@ How much does Maria have (Lucia, Maria, Nina = 31)
 > In a concert hall there are 20 rows, each with 16 seats, numbered from left to right, for the viewer. The number of seats on my right is equal to the number of rows in front of me and it's double the seats on my left. What row and where am I sitting? Write the result by first indicating the row number and then the seat number, in both cases using two digits (possibly 01 to indicate 1, etc.).
 
 **Answer:** 1106
-[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q13|src_kangourou_2016_squadre_ecolier_f__Q13]]
 
 
 
@@ -455,7 +442,6 @@ Minimum number of 5-seat tents for 31 boys with no empty seats
 > In camp A group of 31 boys go camping with their tents: some are three-seaters, others are five-seaters. What is the minimum number of five-seat tents they may have brought, if everyone has a place but there are no empty places in any of the tents?
 
 **Answer:** 2
-[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q14|src_kangourou_2016_squadre_ecolier_f__Q14]]
 
 
 
@@ -498,4 +484,3 @@ Minimum number of 5-seat tents for 31 boys with no empty seats
 >       Questions and solutions
 
 **Answer:** 5
-[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q15|src_kangourou_2016_squadre_ecolier_f__Q15]]

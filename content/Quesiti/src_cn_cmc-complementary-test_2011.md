@@ -37,8 +37,6 @@ level: China Mathematical Competition (Complementary Test)
 
 ![[src_cn_cmc-complementary-test_b11_w69__q01.png]]
 
-[[Quesiti/src_cn_cmc-complementary-test_2011#q01|src_cn_cmc-complementary-test_2011__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_estremalita,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione,skill_astrazione"></span>
@@ -72,8 +70,6 @@ level: China Mathematical Competition (Complementary Test)
 > (60 marchi) Prova per qualsiasi intero $n > 1$, esiste un polinomio di grado $n$, $$f(x) = x^n + a_{n-1}x^{n-1} + \cdots + a_1 x + a_0,$$ con le seguenti proprietà: (1) $a_0, a_1, \ldots, a_{n-1}$ sono tutti interi positivi; (2) Per qualsiasi intero positivo $a$ e arbitrario $b$ ($b \ge 2$) interi positivi $r_1, r_2, \ldots, r_b$ che sono diversi tra loro, abbiamo $$f(a) \ne f(r_1)f(r_2)\cdots f(r_b).$$
 
 ![[src_cn_cmc-complementary-test_b11_w69__q02.png]]
-
-[[Quesiti/src_cn_cmc-complementary-test_2011#q02|src_cn_cmc-complementary-test_2011__Q02]]
 
 
 
@@ -111,8 +107,6 @@ level: China Mathematical Competition (Complementary Test)
 > 
 > (2) Per qualsiasi intero positivo $a$ e arbitrario $b$ ($b \geq 2$) interi positivi $r_1, r_2, \ldots, r_b$ che sono diversi tra loro, abbiamo $$f(a) \neq f(r_1)f(r_2)\cdots f(r_b) + 2.$$
 
-[[Quesiti/src_cn_cmc-complementary-test_2011#q03|src_cn_cmc-complementary-test_2011__Q03]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_estremalita,method_casework,method_congruenze,skill_conteggio_sistematico,skill_casework_accurato,skill_ragionamento_geometrico"></span>
@@ -140,4 +134,3 @@ level: China Mathematical Competition (Complementary Test)
 > (20 punti) Dato un array $3 \times 9$ $A$ con ogni cella contenente un intero positivo, diciamo che un $m \times n$ ($1 \leq m \leq 3$, $1 \leq n \leq 9$) subarray di $A$ è un "buono rettangolo" se ogni numero nelle sue celle è un multiple di $10$. Una cellula di $A$ è "cattiva" se non è contenuta in alcun "buono rettangolo". Trova il numero massimo di "celle cattive" in $A$.
 
 **Risposta:** 25
-[[Quesiti/src_cn_cmc-complementary-test_2011#q05|src_cn_cmc-complementary-test_2011__Q05]]

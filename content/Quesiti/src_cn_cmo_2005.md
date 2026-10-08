@@ -38,8 +38,6 @@ level: China Mathematical Olympiad
 
 > Il modulo di misurazione deve essere il modulo di misurazione del modulo di misurazione. Dimostrare l'esistenza di $x \in \mathbb{R}$ in modo tale che le due disuguaglianze $$\cos^2\theta_1 \cos^2\theta_2 - (\sin\theta_1 \sin\theta_2 - x)^2 \geq 0,$$ $$\cos^2\theta_3 \cos^2\theta_4 - (\sin\theta_3 \sin\theta_4 - x)^2 \geq 0$$ si verifichino contemporaneamente se e solo se $$\sum_{i=1}^{4} \sin^2\theta_i \leq 2\left(1 + \prod_{i=1}^{4} \sin\theta_i + \prod_{i=1}^{4} \cos\theta_i\right).$$ (Posizionato da Li Shenghong)
 
-[[Quesiti/src_cn_cmo_2005#q01|src_cn_cmo_2005__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -68,8 +66,6 @@ level: China Mathematical Olympiad
 > Un cerchio incrocia i lati $BC$, $CA$, $AB$ di $\triangle ABC$ in due punti per ciascun lato nell'ordine seguente: $(D_1, D_2)$, $(E_1, E_2)$, $(F_1, F_2)$. I segmenti di linea $E_1F_2$ e $E_2F_1$ si incrociano al punto $L$, $F_1D_2$ e $F_2D_1$ si incrociano al punto $M$, $D_1E_2$ e $D_2E_1$ si incrociano al punto $N$. Provare che $AL$, $BM$ e $CN$ sono simultanei. (Posato da Ye Zhonghao)
 
 ![[src_cn_cmo_2005__q02.png]]
-
-[[Quesiti/src_cn_cmo_2005#q02|src_cn_cmo_2005__Q02]]
 
 
 
@@ -100,8 +96,6 @@ level: China Mathematical Olympiad
 
 ![[src_cn_cmo_2005__q03.png]]
 
-[[Quesiti/src_cn_cmo_2005#q03|src_cn_cmo_2005__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_induzione,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
@@ -131,8 +125,6 @@ level: China Mathematical Olympiad
 
 > Let $\{a_n\}$ essere una sequenza tale che $a_1 = \dfrac{21}{16}$ e $$2a_n - 3a_{n-1} = \frac{3}{2^{n+1}}, \quad n \geq 2.$$ Let $m$ essere un intero positivo e $m \geq 2$. Prove che per $n \leq m$, $$\left(a_n + \frac{3}{2^{n+3}}\right)^{\frac{1}{m}}\left(m - \left(\frac{2}{3}\right)^{\frac{n(m-1)}{m}}\right) < \frac{m^2 - 1}{m - n + 1}.$$ (Posato da Zhu Huawei)
 
-[[Quesiti/src_cn_cmo_2005#q04|src_cn_cmo_2005__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_piana,method_estremalita,method_casework,method_doppio_conteggio,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_stima"></span>
@@ -160,7 +152,6 @@ level: China Mathematical Olympiad
 > In un rettangolo $ABCD$ (compreso il suo confine) ci sono 5 punti con superficie unitaria tale che nessuno di essi sia collineare. Trova il numero minimo di triangoli con superficie non superiore a $\dfrac{1}{4}$ e vertici scelti da questi 5 punti. (Posato da Leng Gangsong)
 
 **Risposta:** 2
-[[Quesiti/src_cn_cmo_2005#q05|src_cn_cmo_2005__Q05]]
 
 
 
@@ -191,4 +182,3 @@ level: China Mathematical Olympiad
 > Trovare tutte le soluzioni di numeri interi non negativi $(x, y, z, w)$ della seguente equazione $$2^x - 3^y \cdot 5^z \cdot 7^w = 1.$$ (Posizionato da Chen Yonggao)
 
 **Risposta:** $(1,0,0,0),(3,0,1,0),(1,1,0,1),(5,1,1,0)$
-[[Quesiti/src_cn_cmo_2005#q06|src_cn_cmo_2005__Q06]]

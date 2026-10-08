@@ -37,8 +37,6 @@ level: nazionale
 
 > Jack writes on the board the number x0 = 20242024. And then he deletes it and writes in its place x1 = x0 −π Then you delete x1 and write in its place x2 = x1 −π, and so on. In other words, with each move, Jack deletes the previously written number xn and replaces it with xn+1 = ̊xn −π ̊. Prove that there is a value of n such that xn+2 = xn.
 
-[[Quesiti/src_cesenatico_2024#q01|src_cesenatico_2024__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
@@ -73,8 +71,7 @@ level: nazionale
 
 > Let's have a square of the unit side in the plane. A point M of the median plane says if there are two points P and Q, belonging to the edge of the square, such that • the segment PQ has unit length, • M is the middle point of PQ. Determine the whole of all the median points.
 
-**Answer:** due segmenti e quattro archi
-[[Quesiti/src_cesenatico_2024#q02|src_cesenatico_2024__Q02]]
+**Answer:** two segments and four arcs
 
 
 
@@ -113,8 +110,7 @@ Are 72, 71 and 72^71 Egyptians?
 
 > An integer n is defined as Egyptian if there exists a sequence of strictly increasing positive integers 0 < a1 < a2 < ... < ak = n (so the last term of the sequence is n) such that 1 a1 + 1 a2 + · · + 1 ak = 1. (a) Determine whether the number n = 72 is Egyptian. (b) Determine whether the number n = 71 is Egyptian. (c) Determine whether the number n = 7271 is Egyptian.
 
-**Answer:** 72 si, 71 no, 72^71 si
-[[Quesiti/src_cesenatico_2024#q03|src_cesenatico_2024__Q03]]
+**Answer:** 72 yes, 71 no, 72^71 yes
 
 
 
@@ -150,8 +146,6 @@ Are 72, 71 and 72^71 Egyptians?
 ![[src_cesenatico_2024__prob4.png]]
 
 > Whether ABCD is a rectangle with AB < BC, inscribed in a circumference Γ. They are P on the BC (not containing A) and Q on the CD (not containing A) such that BP = CQ. The circumference of diameter AQ again intersects the straight AP in S. The line for B and perpendicular to AQ intersects the line AP in X. (a) Demonstrate that XS = PS. (b) Demonstrate that AX = DQ. Italian Olympic Games of Mathematics 2024 -- Texts and solutions -- Page 1 of 14
-
-[[Quesiti/src_cesenatico_2024#q04|src_cesenatico_2024__Q04]]
 
 
 
@@ -204,7 +198,6 @@ Are 72, 71 and 72^71 Egyptians?
 > A fortress is a finite set of boxes in an infinite square grid, with the property that from each box you can reach every other box by always moving between boxes with one side in common. The walls of the fortress are the unitary segments of the grid separating a square of the fortress from a square not belonging to the fortress. The area A of a fortress is the number of squares that make up it. The perimeter P of a fortress is the total length of its walls. The figure below shows three possible fortresses, with their area and perimeter values. A = 23, P = 26 A = 20, P = 34 A = 17, P = 30 b Some boxes of the fortress may contain a guard, who watches over all boxes located above, below, to the right or left of its position, without walls in the middle (each guard also watches over the box in which it is located). For example, a guard placed in the box with the tip of the first fortress guards six boxes, including the one in which it is located. (a) Determine the smallest k for which k guards are sufficient to monitor any possible fortress with perimeter P ≤2024. (b) Determine the smallest k for which k guards are sufficient to monitor any possible fortress with area A ≤2024.
 
 **Answer:** 506 e 1012
-[[Quesiti/src_cesenatico_2024#q05|src_cesenatico_2024__Q05]]
 
 
 
@@ -242,5 +235,4 @@ Are 72, 71 and 72^71 Egyptians?
 
 > For each positive integer n, determine the smallest real number Mn such that 1 a1 + a1 a2 + a2 a3 + · · + an−1 an ≤Mn for each n-upple (a1, a2, . . . , an) of integers such as 1 < a1 < a2 < . . . < an.
 
-**Answer:** M1=1/2, M2=7/6, Mn=n-1 per n>=3
-[[Quesiti/src_cesenatico_2024#q06|src_cesenatico_2024__Q06]]
+**Answer:** M1=1/2, M2=7/6, Mn=n-1 for n>=3

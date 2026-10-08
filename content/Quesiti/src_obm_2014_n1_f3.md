@@ -49,8 +49,6 @@ level: OBM Nível 1
 
 ![[src_obm_2014_n1_f3__q01.png]]
 
-[[Quesiti/src_obm_2014_n1_f3#q01|src_obm_2014_n1_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -92,8 +90,6 @@ level: OBM Nível 1
 
 ![[src_obm_2014_n1_f3__q02.png]]
 
-[[Quesiti/src_obm_2014_n1_f3#q02|src_obm_2014_n1_f3__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_invarianti,skill_lettura_attenta,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
@@ -131,8 +127,6 @@ level: OBM Nível 1
 
 ![[src_obm_2014_n1_f3__q03.png]]
 
-[[Quesiti/src_obm_2014_n1_f3#q03|src_obm_2014_n1_f3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -169,8 +163,6 @@ level: OBM Nível 1
 > a) Qual è la somma di tutti i numeri a tre cifre forniti da $O=1$, $B=2$, $M=3$?
 > 
 > b) Quali sono tutti i valori del numero OBM in modo che nell'addizione di cui sopra, X sia anche un numero (cioè il risultato OOOX è un numero a quattro cifre)?
-
-[[Quesiti/src_obm_2014_n1_f3#q04|src_obm_2014_n1_f3__Q04]]
 
 
 
@@ -216,5 +208,3 @@ level: OBM Nível 1
 > a) Supponiamo che mettano monete $11$ sul tavolo. Se Ana gioca prima e toglie due monete, mostra come Beatriz può vincere la partita (indipendentemente dalle mosse rimanenti di Ana).
 > 
 > b) Ora supponiamo che mettano monete $15$ sul tavolo. Mostrare che il primo giocatore può sempre vincere (indipendentemente dalle mosse del secondo giocatore).
-
-[[Quesiti/src_obm_2014_n1_f3#q05|src_obm_2014_n1_f3__Q05]]

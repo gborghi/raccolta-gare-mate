@@ -33,8 +33,6 @@ level: BMO Round 1
 
 > Determinare il punto $P$ all'interno di un triangolo $ABC$ per il quale il prodotto $PL \cdot PM \cdot PN$ è un massimo, dove $L$, $M$, $N$ sono i piedi delle perpendicolari da $P$ a $BC$, $CA$ e $AB$ rispettivamente.
 
-[[Quesiti/src_bmo_1977-78_round1#q01|src_bmo_1977-78_round1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: BMO Round 1
 *Prove non razionale con denominatore ≤100 ha blocco decimale 167 in dieci cifre consecutive*
 
 > Prova che non esiste un numero razionale $\dfrac{p}{q}$, con denominatore $q \leq 100$, la cui espansione decimale contiene il blocco di cifre consecutive $167$ in dieci cifre consecutive.
-
-[[Quesiti/src_bmo_1977-78_round1#q02|src_bmo_1977-78_round1__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: BMO Round 1
 *Mostra che la sequenza u_n ha una sola soluzione con u_1 < u_2*
 
 > Mostrare che esiste una sola e unica sequenza $\{u_n\}$ di integri come $u_1 < u_2$ e $$u_n^2 + 1 = u_{n-1} \cdot u_{n+1} \quad \text{for all } n > 1.$$
-
-[[Quesiti/src_bmo_1977-78_round1#q03|src_bmo_1977-78_round1__Q03]]
 
 
 
@@ -119,8 +113,6 @@ level: BMO Round 1
 > 
 > Prova che le quattro altitudini di un tetraedro sono simultanee se e solo se ogni bordo del tetraedro è perpendicolare al suo bordo opposto.
 
-[[Quesiti/src_bmo_1977-78_round1#q04|src_bmo_1977-78_round1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_cassetti,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_modellizzazione"></span>
@@ -150,8 +142,6 @@ level: BMO Round 1
 > 
 > Prove che esiste una sfera di raggio unitario all'interno della quale ci sono almeno 6 dei punti dati.
 
-[[Quesiti/src_bmo_1977-78_round1#q05|src_bmo_1977-78_round1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_trigonometria,topic_algebra,topic_aritmetica,method_induzione,method_ricorsione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
@@ -180,5 +170,3 @@ level: BMO Round 1
 > Mostra che se $k$ è un intero non zero, $2\cos k\theta$ è un polinomio in $2\cos\theta$ di grado $k$ in $2\cos\theta$.
 > 
 > Quindi o altrimenti dimostrare che se $k$ è razionale allora $2\cos k\theta$ è uguale a uno dei numeri $0, \pm 1, \pm 2$, o è irrazionale.
-
-[[Quesiti/src_bmo_1977-78_round1#q06|src_bmo_1977-78_round1__Q06]]

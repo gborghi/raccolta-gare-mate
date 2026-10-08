@@ -39,7 +39,6 @@ level: kangourou
 > Which of the following operations produces the greatest result? A) 2 + 0 + 0 + 3 B) 2 x 0 x 0 x 3 C) (2 +0) x (0 + 3) D) 20 x 0 x 3 E) (2 x 0) + (0 x 3)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2003_benjamin#q01|src_kangourou_2003_benjamin__Q01]]
 
 
 
@@ -79,8 +78,6 @@ level: kangourou
 
 **Answer:** A
 
-[[Quesiti/src_kangourou_2003_benjamin#q02|src_kangourou_2003_benjamin__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,skill_lettura_attenta"></span>
@@ -111,7 +108,6 @@ level: kangourou
 > How many integers are between 2.09 and 15.3? A) 13 B) 14 C) 11 D) 12 E) infinite
 
 **Answer:** A
-[[Quesiti/src_kangourou_2003_benjamin#q03|src_kangourou_2003_benjamin__Q03]]
 
 
 
@@ -145,7 +141,6 @@ level: kangourou
 > Sum the smallest positive integer divisible by 2 and by 3 to the smallest positive integer divisible by 2, by 3 and by 4. You get A) 9 B) 30 C) 20 D) 24 E) 18
 
 **Answer:** E
-[[Quesiti/src_kangourou_2003_benjamin#q04|src_kangourou_2003_benjamin__Q04]]
 
 
 
@@ -183,7 +178,6 @@ level: kangourou
 > The sum of the numbers in each of the two rings in the figure shall be 55. Which number should replace the letter X? A) 9 B) 10 C) 13 D) 16 E) 17
 
 **Answer:** B
-[[Quesiti/src_kangourou_2003_benjamin#q05|src_kangourou_2003_benjamin__Q05]]
 
 
 
@@ -257,7 +251,6 @@ level: kangourou
 > Kang 2003
 
 **Answer:** D
-[[Quesiti/src_kangourou_2003_benjamin#q06|src_kangourou_2003_benjamin__Q06]]
 
 
 
@@ -294,7 +287,6 @@ level: kangourou
 > Look at the figure. How much is the x-measure of the side of the largest square? A) 9 cm B) 2 cm          C) 7 cm D) 11 cm E) 10 cm
 
 **Answer:** D
-[[Quesiti/src_kangourou_2003_benjamin#q07|src_kangourou_2003_benjamin__Q07]]
 
 
 
@@ -334,7 +326,6 @@ level: kangourou
 > The figure shows the clown David dancing on top of two balls with a cube in the middle. The radius of the lower ball is 6 dm while the radius of the upper ball is one third of it. The side of the cube is 4 dm longer than the radius of the upper ball. What's the height from the floor of the building where the clown dances? A)  14 dm       B)  20 dm C)  22 dm D)  24 dm E)  28 dm
 
 **Answer:** C
-[[Quesiti/src_kangourou_2003_benjamin#q08|src_kangourou_2003_benjamin__Q08]]
 
 
 
@@ -371,7 +362,6 @@ level: kangourou
 > The average age of a football team's players on the pitch (11 players) at the start of a match is 23. At the start of the second half two players, both aged 26, are replaced by a 20-year-old and a 21-year-old. After these replacements, what's the new average age of the team? A) 21,5 B) 21 C) 20 D) 22,5 E) 22
 
 **Answer:** E
-[[Quesiti/src_kangourou_2003_benjamin#q09|src_kangourou_2003_benjamin__Q09]]
 
 
 
@@ -411,7 +401,6 @@ level: kangourou
 > How many of the triangles, that can be identified in the figure alongside, have an area equal to that of each of the 6 squares (equals) that, when approached, form the rectangle? A) 3 B) 5 C) 6 D) 7 E) 8 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2003_benjamin#q10|src_kangourou_2003_benjamin__Q10]]
 
 
 
@@ -444,7 +433,6 @@ Date 2003 minutes after 20.03 *
 > What date is 2003 minutes after 20:03 on March 20, 2003? A) 21-03-2003 B) 22-03-2003 C) 23-03-2003 D) 21-04-2003 E) 22-04-2003
 
 **Answer:** B
-[[Quesiti/src_kangourou_2003_benjamin#q11|src_kangourou_2003_benjamin__Q11]]
 
 
 
@@ -497,7 +485,6 @@ Date 2003 minutes after 20.03 *
 > Kang 2003
 
 **Answer:** C
-[[Quesiti/src_kangourou_2003_benjamin#q12|src_kangourou_2003_benjamin__Q12]]
 
 
 
@@ -538,7 +525,6 @@ Date 2003 minutes after 20.03 *
 > The rectangle in the figure is constructed by placing 7 squares side by side, for some of which the side length is indicated. Square A is the one with the larger area, while square B is the one with the smaller area. How many squares like B can be contained, without overlapping, in square A? (a) 16 (b) 25 (c) 36 (d) 49 (e) cannot be answered without further information
 
 **Answer:** B
-[[Quesiti/src_kangourou_2003_benjamin#q13|src_kangourou_2003_benjamin__Q13]]
 
 
 
@@ -573,7 +559,6 @@ Date 2003 minutes after 20.03 *
 > Elizabeth has 20 beads of different colors: yellow, green, blue, and black. 17 beads are not green, 5 are black, 12 are not yellow. How many blue beads does Elizabeth have? A) 3 B) 4 C) 5 D) 8 E) 15
 
 **Answer:** B
-[[Quesiti/src_kangourou_2003_benjamin#q14|src_kangourou_2003_benjamin__Q14]]
 
 
 
@@ -620,7 +605,6 @@ Date 2003 minutes after 20.03 *
 > E) 31
 
 **Answer:** E
-[[Quesiti/src_kangourou_2003_benjamin#q15|src_kangourou_2003_benjamin__Q15]]
 
 
 
@@ -660,7 +644,6 @@ Date 2003 minutes after 20.03 *
 > The ABCD square in the figure consists of an inner square (white) and four equal rectangles coloured in gray (next to each other without overlap). Each gray rectangle has a perimeter of 40 cm. What is the area of the square ABCD? A) 400 cm2 B) 200 cm2 C) 160 cm2 D) 100 cm2 E) 80 cm2
 
 **Answer:** A
-[[Quesiti/src_kangourou_2003_benjamin#q16|src_kangourou_2003_benjamin__Q16]]
 
 
 
@@ -715,7 +698,6 @@ Date 2003 minutes after 20.03 *
 > Kang 2003
 
 **Answer:** B
-[[Quesiti/src_kangourou_2003_benjamin#q17|src_kangourou_2003_benjamin__Q17]]
 
 
 
@@ -748,7 +730,6 @@ Date 2003 minutes after 20.03 *
 > Let's build a little house from the drawing alongside reproduced on a cardboard. What little house is impossible ? A) B) C) D)               E)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2003_benjamin#q18|src_kangourou_2003_benjamin__Q18]]
 
 
 
@@ -782,7 +763,6 @@ Date 2003 minutes after 20.03 *
 > We have a regular hexagon, we pick three vertices at random, and we consider the triangle identified by these three vertices. This triangle is certainly not A) right triangle B) equilateral C) isosceles non-equilateral D) obtuse E) acute non-equilateral
 
 **Answer:** E
-[[Quesiti/src_kangourou_2003_benjamin#q19|src_kangourou_2003_benjamin__Q19]]
 
 
 
@@ -818,7 +798,6 @@ Date 2003 minutes after 20.03 *
 > The regular octagon in the figure has an area of 36 m2. How much is the area of the grey triangle? A) 12 m2 B) 18 m2 C) 9 m2 D) 4 m2 E) 6 m2 The questions from N. 21 to N. 30 is worth 5 points each.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2003_benjamin#q20|src_kangourou_2003_benjamin__Q20]]
 
 
 
@@ -872,7 +851,6 @@ Date 2003 minutes after 20.03 *
 > Kang 2003
 
 **Answer:** C
-[[Quesiti/src_kangourou_2003_benjamin#q21|src_kangourou_2003_benjamin__Q21]]
 
 
 
@@ -905,7 +883,6 @@ Date 2003 minutes after 20.03 *
 > Walter decides to put all the integers from 0 to 109 in a table, following the criterion suggested by the figure next to it. Which of the following tiles cannot possibly be part of Walter's number table? A)              B)                 C)                D)              E)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2003_benjamin#q22|src_kangourou_2003_benjamin__Q22]]
 
 
 
@@ -942,7 +919,6 @@ Date 2003 minutes after 20.03 *
 > You've got six sticks that are 1cm, 2cm, 3cm, 2001cm, 2002cm and 2003cm long. You have to choose three of these and form a triangle (which doesn't reduce to a segment). How many different choices of three sticks can you make? A) 1 B) 3 C) 5 D) 6 E) 20
 
 **Answer:** D
-[[Quesiti/src_kangourou_2003_benjamin#q23|src_kangourou_2003_benjamin__Q23]]
 
 
 
@@ -978,7 +954,6 @@ Red dragons in the trench
 > In a ditch there are completely red dragons and completely green dragons. Each red dragon has six heads, eight legs and two tails. Every green dragon has eight heads, six legs and four tails. Of all the dragons, there are 44 tails. The number of green legs is 6 less than the number of red heads. How many red dragons are in that ditch? A) 6 B) 7 C) 8 D) 9 E) 10
 
 **Answer:** C
-[[Quesiti/src_kangourou_2003_benjamin#q24|src_kangourou_2003_benjamin__Q24]]
 
 
 
@@ -1013,7 +988,6 @@ Red dragons in the trench
 > Look at the figure. How many centimeters separates A from B by following the path suggested by the continuous stretch? A) 10200 cm B) 2500 cm C) 909 cm D) 10100 cm E) 9900 cm
 
 **Answer:** D
-[[Quesiti/src_kangourou_2003_benjamin#q25|src_kangourou_2003_benjamin__Q25]]
 
 
 
@@ -1115,7 +1089,6 @@ Red dragons in the trench
 > Kang 2003
 
 **Answer:** A
-[[Quesiti/src_kangourou_2003_benjamin#q26|src_kangourou_2003_benjamin__Q26]]
 
 
 
@@ -1148,7 +1121,6 @@ Red dragons in the trench
 > The figure on the side consists of five equal isosceles right triangles. Find the area of the colored part. A) 20 cm2 B) 25 cm2 C) 35 cm2 D) 45 cm2 E) cannot be determined
 
 **Answer:** D
-[[Quesiti/src_kangourou_2003_benjamin#q27|src_kangourou_2003_benjamin__Q27]]
 
 
 
@@ -1193,7 +1165,6 @@ Red dragons in the trench
 > E) it cannot be determined
 
 **Answer:** B
-[[Quesiti/src_kangourou_2003_benjamin#q28|src_kangourou_2003_benjamin__Q28]]
 
 
 
@@ -1230,7 +1201,6 @@ Red dragons in the trench
 > In one country everyone knows each other: some of them always lie, while others always tell the truth. We meet a group of four people from this country and we ask each of them, how many of you are liars? We get the following 4 different answers: 0, 1, 2, 3. How many really lie in that group of people? (a) 1 (b) 2 (c) 3 (d) 4 (e) it cannot be established
 
 **Answer:** E
-[[Quesiti/src_kangourou_2003_benjamin#q29|src_kangourou_2003_benjamin__Q29]]
 
 
 
@@ -1272,4 +1242,3 @@ Red dragons in the trench
 > Commented answers Benjamin level I and II middle school
 
 **Answer:** D
-[[Quesiti/src_kangourou_2003_benjamin#q30|src_kangourou_2003_benjamin__Q30]]

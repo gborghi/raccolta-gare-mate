@@ -33,8 +33,6 @@ level: BMO Round 2
 
 > Due cerchi incrociati $C_1$ e $C_2$ hanno una tangente comune che tocca $C_1$ a $P$ e $C_2$ a $Q$. I due cerchi si incrociano a $M$ e $N$, dove $N$ è più vicino a $PQ$ rispetto a $M$. Provare che i triangoli $MNP$ e $MNQ$ hanno aree uguali.
 
-[[Quesiti/src_bmo2_2000#q01|src_bmo2_2000__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_stima"></span>
@@ -59,8 +57,6 @@ level: BMO Round 2
 *Valuta minima dell'espressione data a valori reali positivi con xy=32*
 
 > Dato che $x, y$ sono numeri reali positivi che soddisfano $xy = 32$, trovare il valore minimo di $x^2 + 4xy + 4y^2$.
-
-[[Quesiti/src_bmo2_2000#q02|src_bmo2_2000__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: BMO Round 2
 
 > Trova i numeri interi positivi $n$ e $k$ tali da $\left(\sqrt{6} + \sqrt{5} - 1\right)^{49} + \left(\sqrt{6} + \sqrt{5} + 1\right)^{49} = 49 + 2\sqrt{6k}$.
 
-[[Quesiti/src_bmo2_2000#q03|src_bmo2_2000__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_cassetti,method_congruenze,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta,skill_modellizzazione"></span>
@@ -113,5 +107,3 @@ level: BMO Round 2
 *insieme di dieci elementi distinti la cui somma è divisibile per 6; sostituire dieci con sette*
 
 > (a) Trovare un insieme $A$ di dieci elementi distinti in modo tale che sei elementi distinti di $A$ abbiano una somma divisibile per 6. (b) È possibile trovare un tale insieme quando "dieci" viene sostituito da "sette"?
-
-[[Quesiti/src_bmo2_2000#q04|src_bmo2_2000__Q04]]

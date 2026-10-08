@@ -53,7 +53,6 @@ level: kangourou
 > E) 14
 
 **Answer:** D
-[[Quesiti/src_kangourou_2016_student_marzo#q01|src_kangourou_2016_student_marzo__Q01]]
 
 
 
@@ -91,7 +90,6 @@ level: kangourou
 >     E)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_student_marzo#q02|src_kangourou_2016_student_marzo__Q02]]
 
 
 
@@ -131,7 +129,6 @@ level: kangourou
 > Two friends want to build a bridge, as short as possible, over a stream and they realize that no matter how they choose a point on their shore from which to start the bridge, the length of the bridge remains the same. Which of the following cannot represent their stream? A) B) C) D) E)
 
 **Answer:** B
-[[Quesiti/src_kangourou_2016_student_marzo#q03|src_kangourou_2016_student_marzo__Q03]]
 
 
 
@@ -176,7 +173,6 @@ level: kangourou
 > E) 2017
 
 **Answer:** A
-[[Quesiti/src_kangourou_2016_student_marzo#q04|src_kangourou_2016_student_marzo__Q04]]
 
 
 
@@ -244,7 +240,6 @@ level: kangourou
 >
 
 **Answer:** A
-[[Quesiti/src_kangourou_2016_student_marzo#q05|src_kangourou_2016_student_marzo__Q05]]
 
 
 
@@ -295,7 +290,6 @@ level: kangourou
 > E) 7
 
 **Answer:** B
-[[Quesiti/src_kangourou_2016_student_marzo#q06|src_kangourou_2016_student_marzo__Q06]]
 
 
 
@@ -348,7 +342,6 @@ level: kangourou
 > E) 8
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_student_marzo#q07|src_kangourou_2016_student_marzo__Q07]]
 
 
 
@@ -391,7 +384,6 @@ level: kangourou
 > B) 3/2 C) 4/3 D) 7/4 E) 8/5
 
 **Answer:** E
-[[Quesiti/src_kangourou_2016_student_marzo#q08|src_kangourou_2016_student_marzo__Q08]]
 
 
 
@@ -437,7 +429,6 @@ level: kangourou
 > E) 4
 
 **Answer:** E
-[[Quesiti/src_kangourou_2016_student_marzo#q09|src_kangourou_2016_student_marzo__Q09]]
 
 
 
@@ -489,7 +480,6 @@ level: kangourou
 > (e) 10 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2016_student_marzo#q10|src_kangourou_2016_student_marzo__Q10]]
 
 
 
@@ -544,7 +534,6 @@ level: kangourou
 >
 
 **Answer:** D
-[[Quesiti/src_kangourou_2016_student_marzo#q11|src_kangourou_2016_student_marzo__Q11]]
 
 
 
@@ -626,7 +615,6 @@ level: kangourou
 > D) 105 E) 220
 
 **Answer:** D
-[[Quesiti/src_kangourou_2016_student_marzo#q12|src_kangourou_2016_student_marzo__Q12]]
 
 
 
@@ -671,7 +659,6 @@ level: kangourou
 > E) 2
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_student_marzo#q13|src_kangourou_2016_student_marzo__Q13]]
 
 
 
@@ -709,7 +696,6 @@ level: kangourou
 > E) None of the above.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2016_student_marzo#q14|src_kangourou_2016_student_marzo__Q14]]
 
 
 
@@ -757,7 +743,6 @@ level: kangourou
 > E) 0
 
 **Answer:** B
-[[Quesiti/src_kangourou_2016_student_marzo#q15|src_kangourou_2016_student_marzo__Q15]]
 
 
 
@@ -806,7 +791,6 @@ level: kangourou
 > E) The information is not sufficient to answer.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2016_student_marzo#q16|src_kangourou_2016_student_marzo__Q16]]
 
 
 
@@ -842,7 +826,6 @@ level: kangourou
 > The two equations x2 + ax + b = 0 and x2 + bx + a = 0 have both real roots. We know that the sum of the squares of the roots of the first equation is equal to the sum of the squares of the roots of the second and that a ≠ b. The value of a + b A) is 0. B) is  −2. C) is  4. D) is  −4. E) cannot be determined.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2016_student_marzo#q17|src_kangourou_2016_student_marzo__Q17]]
 
 
 
@@ -917,7 +900,6 @@ level: kangourou
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2016_student_marzo#q18|src_kangourou_2016_student_marzo__Q18]]
 
 
 
@@ -965,7 +947,6 @@ level: kangourou
 > E) 0 or 1 or 2.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2016_student_marzo#q19|src_kangourou_2016_student_marzo__Q19]]
 
 
 
@@ -1007,7 +988,6 @@ level: kangourou
 > James scored 5 points A, B, C, D and E on a circumference and plotted the right tangent to the circumference in A, choosing the points so that all five angles marked in the figure with x are equal. What is the angle of ABD ? (a) 66° B) 70° 30 C) 72° D) 75° E) 77° 30 Questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_student_marzo#q20|src_kangourou_2016_student_marzo__Q20]]
 
 
 
@@ -1053,7 +1033,6 @@ level: kangourou
 > E) Infinite.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_student_marzo#q21|src_kangourou_2016_student_marzo__Q21]]
 
 
 
@@ -1088,7 +1067,6 @@ level: kangourou
 > A circle is inscribed in a quadrilateral (i.e. the four sides of the quadrilateral are tangent to its circumference). The ratio of the perimeter of the quadrilateral to the length of the circumference is 4: 3. What is the ratio between the area of the quadrilateral and that of the circle? A) 4 : π B) 3√2 : π C) 16 : 9 D) π : 3 E) 4 : 3
 
 **Answer:** E
-[[Quesiti/src_kangourou_2016_student_marzo#q22|src_kangourou_2016_student_marzo__Q22]]
 
 
 
@@ -1170,7 +1148,6 @@ level: kangourou
 > E) 27
 
 **Answer:** D
-[[Quesiti/src_kangourou_2016_student_marzo#q23|src_kangourou_2016_student_marzo__Q23]]
 
 
 
@@ -1217,7 +1194,6 @@ level: kangourou
 >
 
 **Answer:** E
-[[Quesiti/src_kangourou_2016_student_marzo#q24|src_kangourou_2016_student_marzo__Q24]]
 
 
 
@@ -1252,7 +1228,6 @@ level: kangourou
 > Using one and only one time all the digits from 1 to 9 were written three numbers of three digits each. Which of the following numbers cannot be the sum of the three numbers? A) 1500 B) 1503 C) 1512 D) 1521 E) 1575
 
 **Answer:** A
-[[Quesiti/src_kangourou_2016_student_marzo#q25|src_kangourou_2016_student_marzo__Q25]]
 
 
 
@@ -1299,7 +1274,6 @@ level: kangourou
 > E) 12
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_student_marzo#q26|src_kangourou_2016_student_marzo__Q26]]
 
 
 
@@ -1348,7 +1322,6 @@ level: kangourou
 > C) 62,5 D)100 E)125
 
 **Answer:** B
-[[Quesiti/src_kangourou_2016_student_marzo#q27|src_kangourou_2016_student_marzo__Q27]]
 
 
 
@@ -1384,7 +1357,6 @@ level: kangourou
 > Anna chose a positive integer n and wrote the sum of all positive integers from 1 to n. A certain prime number p divides that sum, but does not divide any of the addends. Which of the following values can be n + p ? A) 217 B) 221 C) 229 D) 245 E) 269
 
 **Answer:** A
-[[Quesiti/src_kangourou_2016_student_marzo#q28|src_kangourou_2016_student_marzo__Q28]]
 
 
 
@@ -1507,7 +1479,6 @@ level: kangourou
 >
 
 **Answer:** A
-[[Quesiti/src_kangourou_2016_student_marzo#q29|src_kangourou_2016_student_marzo__Q29]]
 
 
 
@@ -1564,4 +1535,3 @@ level: kangourou
 > A category
 
 **Answer:** C
-[[Quesiti/src_kangourou_2016_student_marzo#q30|src_kangourou_2016_student_marzo__Q30]]

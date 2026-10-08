@@ -33,8 +33,6 @@ level: IMO
 
 > Siano scelti sei punti sui lati di un triangolo equilatero $ABC$: $A_1$, $A_2$ sul lato $BC$; $B_1$, $B_2$ sul lato $CA$; e $C_1$, $C_2$ sul lato $AB$, in modo che siano i vertici di un esagono convesso $A_1A_2B_1B_2C_1C_2$ con lati tutti uguali. Si dimostri che le rette $A_1B_2$, $B_1C_2$ e $C_1A_2$ sono concorrenti.
 
-[[Quesiti/src_imho_2005#q01|src_imho_2005__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_induzione,method_congruenze,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: IMO
 *Successione di interi con n-divisibilità; ogni intero compare esattamente una volta*
 
 > Sia $a_1, a_2, \ldots$ una successione di interi con infiniti termini positivi e infiniti termini negativi. Si supponga che per ogni numero intero positivo $n$, i numeri $a_1, a_2, \ldots, a_n$ lascino $n$ resti diversi nella divisione per $n$. Si dimostri che ogni intero compare esattamente una volta nella successione.
-
-[[Quesiti/src_imho_2005#q02|src_imho_2005__Q02]]
 
 
 
@@ -89,8 +85,6 @@ level: IMO
 > Siano $x, y, z$ numeri reali ciascuno maggiore di $1$. Si dimostri che
 > $$\frac{x^5-x^2}{x^5+y^3+z^3}+\frac{y^5-y^2}{y^5+z^3+x^3}+\frac{z^5-z^2}{z^5+x^3+y^3}\ge 0.$$
 
-[[Quesiti/src_imho_2005#q03|src_imho_2005__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -118,8 +112,6 @@ level: IMO
 > Determinare tutti gli interi positivi primi con tutti i termini della successione infinita
 > $$a_n = 2^n + 3^n + 6^n - 1, \quad n \ge 1.$$
 
-[[Quesiti/src_imho_2005#q04|src_imho_2005__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_lettura_attenta,skill_modellizzazione"></span>
@@ -145,8 +137,6 @@ level: IMO
 
 > Sia $ABCD$ un quadrilatero convesso fisso con $BC = DA$ e $BC$ non paralleli a $DA$. Siano due punti variabili $E$ e $F$ rispettivamente sui lati $BC$ e $DA$, tali da soddisfare $BE = DF$. Le rette $AC$ e $BD$ si intersecano in $P$, le rette $BD$ e $EF$ si intersecano in $Q$, le rette $EF$ e $AC$ si intersecano in $R$. Si dimostri che le circonferenze circoscritte ai triangoli $PQB$, $QRE$ e $PRA$ hanno un punto in comune diverso da $P$.
 
-[[Quesiti/src_imho_2005#q05|src_imho_2005__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_doppio_conteggio,method_casework,method_cassetti,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta,skill_stima"></span>
@@ -171,5 +161,3 @@ level: IMO
 *Competizione di matematica: almeno 2 concorrenti hanno risolto esattamente 5 problemi ciascuno*
 
 > In una gara matematica, in cui sono stati proposti $6$ problemi ai partecipanti, ogni coppia di questi problemi è stata risolta da più di $\frac{2}{5}$ dei concorrenti. Inoltre, nessun concorrente ha risolto tutti e $6$ problemi. Si dimostri che ci sono almeno $2$ concorrenti che hanno risolto esattamente $5$ problemi ciascuno.
-
-[[Quesiti/src_imho_2005#q06|src_imho_2005__Q06]]

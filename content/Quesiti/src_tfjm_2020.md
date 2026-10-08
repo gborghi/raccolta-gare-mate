@@ -79,8 +79,6 @@ level: TFJM²
 
 ![[src_tfjm_2020__q01.png]]
 
-[[Quesiti/src_tfjm_2020#q01|src_tfjm_2020__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_estremalita,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione,skill_stima,skill_lettura_attenta"></span>
@@ -143,8 +141,6 @@ level: TFJM²
 > **7.** Proporre e studiare altre vie di ricerca.
 
 ![[src_tfjm_2020__q02.png]]
-
-[[Quesiti/src_tfjm_2020#q02|src_tfjm_2020__Q02]]
 
 
 
@@ -228,8 +224,6 @@ level: TFJM²
 > **7.** Proporre e studiare altre vie di ricerca.
 
 ![[src_tfjm_2020__q03.png]]
-
-[[Quesiti/src_tfjm_2020#q03|src_tfjm_2020__Q03]]
 
 
 
@@ -320,8 +314,6 @@ level: TFJM²
 
 ![[src_tfjm_2020__q04.png]]
 
-[[Quesiti/src_tfjm_2020#q04|src_tfjm_2020__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_casework,method_estremalita,method_induzione,skill_ragionamento_geometrico,skill_modellizzazione,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -394,8 +386,6 @@ level: TFJM²
 > **6.** Proporre e studiare altre vie di ricerca.
 
 ![[src_tfjm_2020__q05.png]]
-
-[[Quesiti/src_tfjm_2020#q05|src_tfjm_2020__Q05]]
 
 
 
@@ -471,8 +461,6 @@ La polizia drone cattura il ladro sul grafico della città in pochi giorni.
 > **7.** Proporre e studiare altre vie di ricerca.
 
 ![[src_tfjm_2020__q06.png]]
-
-[[Quesiti/src_tfjm_2020#q06|src_tfjm_2020__Q06]]
 
 
 
@@ -563,8 +551,6 @@ La polizia drone cattura il ladro sul grafico della città in pochi giorni.
 
 ![[src_tfjm_2020__q07.png]]
 
-[[Quesiti/src_tfjm_2020#q07|src_tfjm_2020__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,topic_algebra,method_induzione,method_ricorsione,method_congruenze,method_invarianti,skill_modellizzazione,skill_astrazione,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -642,5 +628,3 @@ La polizia drone cattura il ladro sul grafico della città in pochi giorni.
 > **6.** Proporre e studiare altre direzioni di ricerca.
 
 ![[src_tfjm_2020__q08.png]]
-
-[[Quesiti/src_tfjm_2020#q08|src_tfjm_2020__Q08]]

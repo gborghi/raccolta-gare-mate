@@ -37,8 +37,6 @@ level: China National Team Selection Test
 
 ![[src_cn_ctst_b11_w166__q01.png]]
 
-[[Quesiti/src_cn_ctst_2014#q01|src_cn_ctst_2014__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_conteggio,method_doppio_conteggio,method_estremalita,method_simmetria,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
@@ -72,8 +70,6 @@ level: China National Team Selection Test
 > 
 > (2) Trovare il numero di coloranti in modo tale da raggiungere il massimo $N$. (Due colorazioni sono diverse se qualche vertice è di colore diverso.)
 
-[[Quesiti/src_cn_ctst_2014#q02|src_cn_ctst_2014__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_induzione,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_stima"></span>
@@ -100,8 +96,6 @@ level: China National Team Selection Test
 *Mostra che nessun numero intero positivo 2 volte soddisfa una determinata equazione moltiplicativa.*
 
 > Mostrare che non ci sono $2$-tuples $(x, y)$ di numeri interi positivi che soddisfano l'equazione $$(x + 1)(y + 2)^{x-1}(y + 2014) = (y + 1)(x + 2)^{y-1}(x + 1023).$$ (posato da Li Weigu)
-
-[[Quesiti/src_cn_ctst_2014#q03|src_cn_ctst_2014__Q03]]
 
 
 
@@ -131,8 +125,6 @@ level: China National Team Selection Test
 > Date un numero intero parso $k \ge 3$. Prova che esistono infiniti interi positivi $a$ in modo tale che $a$ non abbia due divisori positivi $d_1, d_2$ che soddisfino $d_1 + d_2 = k$.
 > 
 > (Proposto da Ya Hongbing)
-
-[[Quesiti/src_cn_ctst_2014#q04|src_cn_ctst_2014__Q04]]
 
 
 
@@ -166,7 +158,6 @@ level: China National Team Selection Test
 > (Proposto da Leng Gangsong)
 
 **Risposta:** $\lambda_0(n) = \begin{cases} \dfrac{n}{4} & \text{if } n \text{ is even}, \\ \dfrac{n}{4\cos^2\!\left(\dfrac{\pi}{2n}\right)} & \text{if } n \text{ is odd}. \end{cases}$
-[[Quesiti/src_cn_ctst_2014#q05|src_cn_ctst_2014__Q05]]
 
 
 
@@ -197,5 +188,3 @@ level: China National Team Selection Test
 > Per un intero positivo $k > 1$, $f(k)$ indichi il numero di modi di fattorizzare $k$ in un prodotto di interi positivi ognuno più grande di $1$ (l'ordine dei fattori non è contato; ad esempio, $12 = 2 \times 6 = 3 \times 4 = 2 \times 2 \times 3$, quindi $f(12) = 4$). Prova che se $p$ è il primo divisore più grande di $n$, allora $$f(n) \le \frac{n}{p}.$$
 > 
 > (Proposto da Ya Yijun)
-
-[[Quesiti/src_cn_ctst_2014#q06|src_cn_ctst_2014__Q06]]

@@ -33,8 +33,6 @@ level: Olimpiade Polacca Round 3
 
 > I numeri reali $a_1, a_2, \ldots, a_n$ ($n \ge 3$) soddisfano le condizioni $a_1 = a_n = 0$ e $a_{k-1} + a_{k+1} \ge 2a_k$ per $k = 2, 3, \ldots, n-1$. Prove che nessuno dei numeri $a_1, a_2, \ldots, a_n$ è positivo.
 
-[[Quesiti/src_pol_1967_r3#q01|src_pol_1967_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_estremalita,method_cassetti,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: Olimpiade Polacca Round 3
 *100 persone in una sala; dimostrare che esistono 4 persone che si conoscono reciprocamente*
 
 > Ci sono 100 persone in una sala, ognuno conosce almeno 66 degli altri. Prove che c'è un caso in cui, tra tutti e quattro, due di loro si conoscono.
-
-[[Quesiti/src_pol_1967_r3#q02|src_pol_1967_r3__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: Olimpiade Polacca Round 3
 
 > Sul piano sono posizionati due triangoli esterni l'uno all'altro. Mostrare che esiste sempre una linea che attraversa due vertici di un triangolo e separa il terzo vertice da tutti i vertici dell'altro triangolo.
 
-[[Quesiti/src_pol_1967_r3#q03|src_pol_1967_r3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_estremalita,method_cassetti,method_induzione,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -113,8 +107,6 @@ level: Olimpiade Polacca Round 3
 *100 persone in sala; 4 che si conoscono tutti esistono*
 
 > Ci sono 100 persone in una sala, ognuno conosce almeno 67 degli altri. Prova che ci sono sempre quattro di loro che si conoscono.
-
-[[Quesiti/src_pol_1967_r3#q04|src_pol_1967_r3__Q04]]
 
 
 
@@ -144,8 +136,6 @@ level: Olimpiade Polacca Round 3
 
 > I punti $A, B, C, D, E$ nello spazio hanno la proprietà che $$AB = BC = CD = DE = EA,$$ $$\angle ABC = \angle BCD = \angle CDE = \angle DEA = \angle EAB.$$ dimostra che i punti $A, B, C, D, E$ si trovano su un piano.
 
-[[Quesiti/src_pol_1967_r3#q05|src_pol_1967_r3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_simmetria,method_induzione,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
@@ -170,5 +160,3 @@ level: Olimpiade Polacca Round 3
 *Il poligono ciclico con lati unici e angoli uguali è regolare*
 
 > Prova che se un poligono ciclico con un numero impar di lati ha tutti gli angoli uguali, allora questo poligono è regolare.
-
-[[Quesiti/src_pol_1967_r3#q06|src_pol_1967_r3__Q06]]

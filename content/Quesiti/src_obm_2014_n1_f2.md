@@ -33,8 +33,6 @@ level: OBM Nível 1
 
 > Carolina scrive una sequenza di numeri interi positivi in cui: se un numero è pari, il numero successivo è la metà di esso; se è strano, il numero successivo è sette unità più grande. Il primo numero della sequenza è 10, quindi i primi tre numeri di questa sequenza sono 10, 5, 12, $\ldots$
 
-[[Quesiti/src_obm_2014_n1_f2#q01|src_obm_2014_n1_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: OBM Nível 1
 *Dieci bambini in fila; scambi minimi di vicini per spostare la posizione più alta alla posizione più corta*
 
 > Dieci bambini formano una linea dalla più corta alla più alta. È noto che in questa linea non ci sono due bambini della stessa altezza. Con qualche movimento, il bambino più alto si muove nella posizione del più corto, usando solo scambi tra bambini vicini. Qual è il numero minimo di scambi di posizioni da effettuare?
-
-[[Quesiti/src_obm_2014_n1_f2#q02|src_obm_2014_n1_f2__Q02]]
 
 
 
@@ -91,8 +87,6 @@ level: OBM Nível 1
 
 ![[src_obm_2014_n1_f2__q03.png]]
 
-[[Quesiti/src_obm_2014_n1_f2#q03|src_obm_2014_n1_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -122,8 +116,6 @@ level: OBM Nível 1
 
 ![[src_obm_2014_n1_f2__q04.png]]
 
-[[Quesiti/src_obm_2014_n1_f2#q04|src_obm_2014_n1_f2__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -152,8 +144,6 @@ level: OBM Nível 1
 > L'insieme $\{18, 54\}$ ha la proprietà che la somma dei suoi elementi, 72, equivale al doppio della loro differenza, 36. Quante serie di due interi positivi, entrambi inferiori a 100, hanno questa proprietà?
 > 
 > *Nota: le serie $\{18, 54\}$ e $\{54, 18\}$ sono uguali.*
-
-[[Quesiti/src_obm_2014_n1_f2#q05|src_obm_2014_n1_f2__Q05]]
 
 
 
@@ -188,8 +178,6 @@ level: OBM Nível 1
 
 ![[src_obm_2014_n1_f2__q06.png]]
 
-[[Quesiti/src_obm_2014_n1_f2#q06|src_obm_2014_n1_f2__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_casework,method_estremalita,skill_conteggio_sistematico,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
@@ -216,8 +204,6 @@ level: OBM Nível 1
 *Numero 2014: pari, senza cifre ripetute, cifra somma prima; trovare più piccolo e più grande con le stesse proprietà*
 
 > Il numero 2014 è pari, non ha cifre ripetute nella sua rappresentazione, e la somma delle sue cifre è un numero primo. a) Qual è il numero intero positivo più piccolo con queste tre proprietà? b) Qual è il numero intero positivo più grande con queste tre proprietà?
-
-[[Quesiti/src_obm_2014_n1_f2#q07|src_obm_2014_n1_f2__Q07]]
 
 
 
@@ -254,8 +240,6 @@ level: OBM Nível 1
 
 ![[src_obm_2014_n1_f2__q08.png]]
 
-[[Quesiti/src_obm_2014_n1_f2#q08|src_obm_2014_n1_f2__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_casework_accurato,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -290,5 +274,3 @@ level: OBM Nível 1
 > *Nota: Ricorda che la divisione per zero non è consentita, quindi le espressioni che richiedono questa operazione non sono consentite.*
 > 
 > a) Quale di questi risultati non è un numero intero? b) In quanti modi possiamo mettere i segni tra i numeri? c) Quanti risultati diversi sono possibili?
-
-[[Quesiti/src_obm_2014_n1_f2#q09|src_obm_2014_n1_f2__Q09]]

@@ -41,8 +41,6 @@ level: BMO Round 1
 > 
 > (ii) Esprimere un vero teorema sulle ellisse o se vi piace su conico in generale di cui (i) è un caso particolare.
 
-[[Quesiti/src_bmo_1972-73_round1#q01|src_bmo_1972-73_round1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_geometria_piana,method_cassetti,method_estremalita,skill_ragionamento_geometrico,skill_stima"></span>
@@ -72,8 +70,6 @@ level: BMO Round 1
 > 
 > Prove che esiste un triangolo di superficie $\le \frac{1}{8}$ la cui verticale sono tre dei punti.
 
-[[Quesiti/src_bmo_1972-73_round1#q02|src_bmo_1972-73_round1__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -102,8 +98,6 @@ level: BMO Round 1
 > Una curva che costituisce il quartiere $x^2 + y^2 = r^2$, $x, y \ge 0$, insieme al segmento di linea $x = r$, $-h \le y \le 0$, è rotata intorno a $x = 0$ per formare una superficie di rivoluzione che è un emisfero su un cilindro. Una stringa è stretta strettamente sulla superficie dal punto della curva $(r\sin\alpha, -r\cos\alpha)$ al punto $(r\alpha, -h)$ nel piano della curva. Indicare che la stringa non si trova in un piano se $\tan\theta > \frac{r}{h}$.
 > 
 > [Si possono assumere formule triangolari sferiche come $\cos a = \cos b \cos c + \sin b \sin c \cos\alpha$, $\sin a \cos\beta = \cos b \sin c - \sin b \cos c \cos\alpha$. In un triangolo sferico i lati $a, b, c$ sono archi di grandi cerchi e sono misurati dagli angoli che essi sottendono al centro della sfera.]
-
-[[Quesiti/src_bmo_1972-73_round1#q03|src_bmo_1972-73_round1__Q03]]
 
 
 
@@ -138,8 +132,6 @@ level: BMO Round 1
 
 ![[src_bmo_1972-73_round1__q04.png]]
 
-[[Quesiti/src_bmo_1972-73_round1#q04|src_bmo_1972-73_round1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
@@ -172,8 +164,6 @@ level: BMO Round 1
 > Supponiamo che ci sia un insieme finito $S = \{2^{r_1} - 3,\ 2^{r_2} - 3,\ \ldots\}$ con proprietà $Q$ e con membri $k$. I fattori primi di questi numeri $k$ siano $p_1, p_2, \ldots, p_j$. Considerate il numero $N = 2^{(p_1-1)(p_2-1)\cdots(p_j-1)} + 1$. Per il teorema di Fermat $2^{p-1} \equiv 1 \pmod{p}$ per ogni primo $p$ che non divide $a$. Pertanto $N \equiv -3 + 3 \equiv 1 \pmod{p_s}$, $s = 1$ a $r$ e $N - 3$ possono essere aggiunti a $S$ per dare un insieme più grande con proprietà $Q$.
 > 
 > Date una prova adeguatamente ampliata e motivata che vi sia un insieme infinito di interi positivi della forma $2^k - 3$ con proprietà $Q$.
-
-[[Quesiti/src_bmo_1972-73_round1#q05|src_bmo_1972-73_round1__Q05]]
 
 
 
@@ -208,8 +198,6 @@ level: BMO Round 1
 > 
 > Trova il rapporto tra il numero di ragazzi e ragazze in classe.
 
-[[Quesiti/src_bmo_1972-73_round1#q06|src_bmo_1972-73_round1__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_geometria_analitica,skill_manipolazione_algebrica,skill_modellizzazione,skill_stima"></span>
@@ -241,8 +229,6 @@ level: BMO Round 1
 > Determinare l'aspettativa di vita (in anni corretti a un decimale) di un draconiano di età $70$.
 > 
 > N.B. All'età $100$ tutti i draconiani vengono giustiziati.
-
-[[Quesiti/src_bmo_1972-73_round1#q07|src_bmo_1972-73_round1__Q07]]
 
 
 
@@ -276,8 +262,6 @@ level: BMO Round 1
 > 
 > (ii) Trovare le condizioni su $a, b, c, d$ in modo che $T^n = I$ ma $T^2 \ne I$.
 
-[[Quesiti/src_bmo_1972-73_round1#q08|src_bmo_1972-73_round1__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_analitica,topic_algebra,method_coordinate,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -307,8 +291,6 @@ level: BMO Round 1
 > 
 > Indicare che le linee $L_r = 0$, $r = 1, 2, 3$ sono simultanee e trovare le coordinate della loro concordanza.
 
-[[Quesiti/src_bmo_1972-73_round1#q09|src_bmo_1972-73_round1__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_logica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -337,8 +319,6 @@ level: BMO Round 1
 > Costruire un grafico di flusso dettagliato per un programma informatico per stampare tutti gli enti interi positivi fino a $100$ del modulo $c^2 = a^2 - b^2$, dove $a$, $b$, $c$ sono interi positivi e $a \ge b > c$.
 > 
 > Non c'è bisogno di stampare in ordine ascendente o di evitare ripetizioni.
-
-[[Quesiti/src_bmo_1972-73_round1#q10|src_bmo_1972-73_round1__Q10]]
 
 
 
@@ -385,5 +365,3 @@ level: BMO Round 1
 > Ottenere $\dot{\theta}$ in termini di $\alpha$.
 > 
 > [Il momento di inerzia di un cilindro uniforme attorno al suo asse è $\frac{1}{2}\,(\text{mass})(\text{radius})^2$.]
-
-[[Quesiti/src_bmo_1972-73_round1#q11|src_bmo_1972-73_round1__Q11]]

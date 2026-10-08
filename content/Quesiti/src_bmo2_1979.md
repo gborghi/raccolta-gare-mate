@@ -35,8 +35,6 @@ level: BMO Round 2
 
 > $a, b, c, d$ sono diversi numeri reali positivi. Prova che se almeno uno dei numeri $c$ e $d$ si trova tra i numeri $a$ e $b$, o almeno uno dei numeri $a$ e $b$ si trova tra i numeri $c$ e $d$, allora $$(*) \quad \sqrt{(a+b)(c+d)} \ge \sqrt{ab} + \sqrt{cd}.$$ dimostra altrimenti che i quattro numeri possono essere scelti in modo tale che $(*)$ sia falso.
 
-[[Quesiti/src_bmo2_1979#q01|src_bmo2_1979__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -61,8 +59,6 @@ level: BMO Round 2
 *Due triangoli equilaterali condividono il vertice C; dimostrare che i triangoli O'M e OA'B' sono simili*
 
 > Due triangoli equilaterali hanno un vertice comune $C$. Circondando ogni triangolo nella direzione antiorologiale, i vertici sono scritti $C, A, B$ e $C, A', B'$. $O$ è il centro del triangolo $CAB$ e né $A'$ né $B'$ coincidono con $O$. $M$ è il punto medio di $A'B'$ e $N$ è il punto medio di $AB'$. Provare che i triangoli $O'MN$ e $OA'B'$ sono simili.
-
-[[Quesiti/src_bmo2_1979#q02|src_bmo2_1979__Q02]]
 
 
 
@@ -91,8 +87,6 @@ level: BMO Round 2
 
 > La sequenza di numeri interi positivi $a_n$ è definita da $$a_0 = 1979, \quad a_{n+1} = \lfloor \tfrac{1}{2}(a_0 + a_1 + a_2 + \cdots + a_n) \rfloor \quad (n \ge 0),$$ dove $\lfloor x \rfloor$ indica il numero intero più grande non superiore a $x$. (ad esempio $\lfloor 3 \rfloor = 3$ e $\lfloor 5 \rfloor = 5$.) Determinare $a_{1979}$.
 
-[[Quesiti/src_bmo2_1979#q03|src_bmo2_1979__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_algebra,method_induzione,method_doppio_conteggio,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
@@ -118,5 +112,3 @@ level: BMO Round 2
 *Identificazione della somma binaria dei numeri interi positivi*
 
 > $b(k)$ indichi il numero di $1$ nell'espansione binaria del numero intero non negativo $k$. Ad esempio $b(13) = 3$ dal momento che $13$ è $1101$ in binario. Prova che per tutti gli integri positivi $n$, $$\sum_{k=0}^{2^n - 1} (-1)^{b(k)} k^n = (-1)^n \cdot 2^{\frac{1}{2}n(n-1)}.$$
-
-[[Quesiti/src_bmo2_1979#q04|src_bmo2_1979__Q04]]

@@ -38,8 +38,6 @@ level: RMO
 
 ![[src_rmo_2002__q01.png]]
 
-[[Quesiti/src_rmo_2002#q01|src_rmo_2002__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -66,8 +64,6 @@ level: RMO
 
 > Risolvere la seguente equazione per $x$ reale: $$(x^2 + x - 2)^4 + (2x^2 - x - 1)^4 = 27(x^2 - 1)^4.$$
 
-[[Quesiti/src_rmo_2002#q02|src_rmo_2002__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_induzione,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -92,8 +88,6 @@ level: RMO
 *Mostra abc divide l'espansione di (a+b+c)^n*
 
 > $a, b, c$ siano integri positivi in modo tale che $a$ divida $b^5$, $b$ divida $c^5$ e $c$ divida $a^5$. Provare che $abc$ divide $(a + b + c)^{31}$.
-
-[[Quesiti/src_rmo_2002#q03|src_rmo_2002__Q03]]
 
 
 
@@ -127,8 +121,6 @@ level: RMO
 > 
 > (ii) Indicare che $|a_1 - b_1| + |a_2 - b_2| + |a_3 - b_3| + |a_4 - b_4| + |a_5 - b_5| = 25$ per ciascuna di tali partizioni.
 
-[[Quesiti/src_rmo_2002#q04|src_rmo_2002__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -158,8 +150,6 @@ level: RMO
 
 ![[src_rmo_2002__q05.png]]
 
-[[Quesiti/src_rmo_2002#q05|src_rmo_2002__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_disuguaglianze,method_telescoping,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_riconoscimento_pattern"></span>
@@ -185,8 +175,6 @@ level: RMO
 *Ricercare la doppia disuguaglianza con somma di tipo armonico*
 
 > Per qualsiasi numero naturale $n > 1$, dimostrare la disuguaglianza: $$\frac{1}{2} < \frac{1}{n^2+1} + \frac{2}{n^2+2} + \frac{3}{n^2+3} + \cdots + \frac{n}{n^2+n} < \frac{1}{2} + \frac{1}{2n}.$$
-
-[[Quesiti/src_rmo_2002#q06|src_rmo_2002__Q06]]
 
 
 
@@ -214,5 +202,3 @@ level: RMO
 *Ricerca tutti gli integri a,b,c,d che soddisfano due condizioni*
 
 > Trova tutti gli enti $a, b, c, d$ che soddisfano le seguenti relazioni: (i) $1 \le a \le b \le c \le d$; (ii) $ab + cd = a + b + c + d + 3$.
-
-[[Quesiti/src_rmo_2002#q07|src_rmo_2002__Q07]]

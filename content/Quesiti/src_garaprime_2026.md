@@ -50,7 +50,6 @@ level: Classi Prime
 > - **(E)** 2450
 
 **Answer:** B
-[[Quesiti/src_garaprime_2026#q01|src_garaprime_2026__Q01]]
 
 
 
@@ -90,7 +89,6 @@ level: Classi Prime
 > - **(E)** 40
 
 **Answer:** C
-[[Quesiti/src_garaprime_2026#q02|src_garaprime_2026__Q02]]
 
 
 
@@ -130,7 +128,6 @@ level: Classi Prime
 > - **(E)** There is no polygon with this property.
 
 **Answer:** D
-[[Quesiti/src_garaprime_2026#q03|src_garaprime_2026__Q03]]
 
 
 
@@ -230,7 +227,6 @@ level: Classi Prime
 > - **(E)** 26
 
 **Answer:** A
-[[Quesiti/src_garaprime_2026#q04|src_garaprime_2026__Q04]]
 
 
 
@@ -325,7 +321,6 @@ level: Classi Prime
 > - **(E)** 2
 
 **Answer:** B
-[[Quesiti/src_garaprime_2026#q05|src_garaprime_2026__Q05]]
 
 
 
@@ -367,7 +362,6 @@ level: Classi Prime
 > - **(E)** M = 6
 
 **Answer:** C
-[[Quesiti/src_garaprime_2026#q06|src_garaprime_2026__Q06]]
 
 
 
@@ -407,7 +401,6 @@ level: Classi Prime
 > - **(E)** 32
 
 **Answer:** C
-[[Quesiti/src_garaprime_2026#q07|src_garaprime_2026__Q07]]
 
 
 
@@ -450,7 +443,6 @@ level: Classi Prime
 > - **(E)** 2075
 
 **Answer:** C
-[[Quesiti/src_garaprime_2026#q08|src_garaprime_2026__Q08]]
 
 
 
@@ -492,7 +484,6 @@ level: Classi Prime
 > - **(E)** 240
 
 **Answer:** B
-[[Quesiti/src_garaprime_2026#q09|src_garaprime_2026__Q09]]
 
 
 
@@ -533,7 +524,6 @@ level: Classi Prime
 > - **(E)** 17
 
 **Answer:** E
-[[Quesiti/src_garaprime_2026#q10|src_garaprime_2026__Q10]]
 
 
 
@@ -575,7 +565,6 @@ Maximum of the largest of four integers with mean 2026 *
 > - **(E)** 8101
 
 **Answer:** C
-[[Quesiti/src_garaprime_2026#q11|src_garaprime_2026__Q11]]
 
 
 
@@ -616,7 +605,6 @@ Maximum of the largest of four integers with mean 2026 *
 > - **(E)** 2/3
 
 **Answer:** E
-[[Quesiti/src_garaprime_2026#q12|src_garaprime_2026__Q12]]
 
 
 
@@ -658,7 +646,6 @@ Maximum of the largest of four integers with mean 2026 *
 > - **(E)** 2027
 
 **Answer:** B
-[[Quesiti/src_garaprime_2026#q13|src_garaprime_2026__Q13]]
 
 
 
@@ -700,7 +687,6 @@ Problems written by Mark when Anna finished
 > - **(E)** 84
 
 **Answer:** C
-[[Quesiti/src_garaprime_2026#q14|src_garaprime_2026__Q14]]
 
 
 
@@ -743,7 +729,6 @@ Problems written by Mark when Anna finished
 > - **(E)** The information is insufficient
 
 **Answer:** D
-[[Quesiti/src_garaprime_2026#q15|src_garaprime_2026__Q15]]
 
 
 
@@ -785,7 +770,6 @@ Problems written by Mark when Anna finished
 > - **(E)** 36 cm
 
 **Answer:** B
-[[Quesiti/src_garaprime_2026#q16|src_garaprime_2026__Q16]]
 
 
 
@@ -825,7 +809,6 @@ Problems written by Mark when Anna finished
 > - **(E)** 18218
 
 **Answer:** A
-[[Quesiti/src_garaprime_2026#q17|src_garaprime_2026__Q17]]
 
 
 
@@ -867,4 +850,3 @@ Problems written by Mark when Anna finished
 > - **(E)** 2025 Test n. 1 Italian Mathematical Union Mathematical Olympiad Project XI National Competition for the First Classes Monday 26 January 2026 Name: Cognome: Gender: M F Date of birth: City: School: The competition lasts 2 hours and 30 minutes and consists of 18 problems. Only one of the answers is correct. The letter corresponding to the correct answer shall be shown, for each question, on this page in the window at the bottom. Every right answer is worth 5 points, every wrong answer is worth 0 points, and every problem left unanswered is worth 1 point. Cancellations on the grid are not allowed. The use of electronic devices, compass and goniometer shall not be permitted. The problems are not in order of difficulty, but alternate randomly. If you have been given an optical reading sheet, you will need to enter the answers only there and finally deliver only that sheet. Otherwise, you'll need to enter your answers in the grid below and deliver this sheet. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 Test number 2
 
 **Answer:** D
-[[Quesiti/src_garaprime_2026#q18|src_garaprime_2026__Q18]]

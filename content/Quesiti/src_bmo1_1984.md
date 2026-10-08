@@ -33,8 +33,6 @@ level: BMO Round 1
 
 > $P$, $Q$, $R$ sono punti arbitrari sui lati $BC$, $CA$ e $AB$ rispettivamente del triangolo $ABC$. Prova che il triangolo le cui vertici sono i centri dei cerchi $AQR$, $BRP$, $CPQ$ è simile al triangolo $ABC$.
 
-[[Quesiti/src_bmo1_1984#q01|src_bmo1_1984__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_induzione,method_congruenze,method_conteggio,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -59,8 +57,6 @@ level: BMO Round 1
 *Coefficienti binomiali mod 3: il conteggio del resto-1 supera il conteggio del resto-2*
 
 > Che $a_n$ sia il numero dei coefficienti binomiali $\binom{r}{n}$ ($0 \le r \le n$) che lasciano il rimanente $1$ sulla divisione da $3$ e che $b_n$ sia il numero che lascia il rimanente $2$. Prove che $a_n > b_n$ per tutti i numeri interi positivi $n$.
-
-[[Quesiti/src_bmo1_1984#q02|src_bmo1_1984__Q02]]
 
 
 
@@ -93,8 +89,6 @@ Due disuguaglianze: prodotto vincolato da m! e disuguaglianza di potenza ciclica
 > 
 > (ii) dimostrare che se $a$, $b$, $c$, $d$, $e$ sono numeri reali positivi allora $$\left(\frac{a}{b}\right)^a \cdot \left(\frac{b}{c}\right)^b \cdot \left(\frac{c}{d}\right)^c \cdot \left(\frac{d}{e}\right)^d \cdot \left(\frac{e}{a}\right)^e \ge \frac{a}{b} + \frac{b}{c} + \frac{c}{d} + \frac{d}{e} + \frac{e}{a}.$$
 
-[[Quesiti/src_bmo1_1984#q03|src_bmo1_1984__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_casework,method_congruenze,skill_lettura_attenta,skill_manipolazione_algebrica,skill_casework_accurato"></span>
@@ -126,8 +120,6 @@ Due disuguaglianze: prodotto vincolato da m! e disuguaglianza di potenza ciclica
 > 
 > (Per un numero reale $x$ la "parte integrale" $[x]$ è il numero intero più grande che è $\le x$.)
 
-[[Quesiti/src_bmo1_1984#q04|src_bmo1_1984__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,skill_ragionamento_geometrico,skill_astrazione,skill_modellizzazione"></span>
@@ -153,8 +145,6 @@ Due disuguaglianze: prodotto vincolato da m! e disuguaglianza di potenza ciclica
 
 > Un piano taglia un cono circolare destro con vertice $V$ in ellisse $E$ e incontra l'asse del cono a $C$. $A$ è un'estremità dell'asse principale di $E$. Prova che l'area della superficie curva del cono inclinato con $V$ come vertice e $E$ come base è $$\frac{VA}{VC} \cdot \text{(area of } E\text{)}.$$
 
-[[Quesiti/src_bmo1_1984#q05|src_bmo1_1984__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -179,8 +169,6 @@ Due disuguaglianze: prodotto vincolato da m! e disuguaglianza di potenza ciclica
 *Divisibilità per m: l'esistenza di y dall'esistenza di x con x^2-a divisibile per m*
 
 > Lasciate che $a$, $m$ siano numeri interi positivi. Prova che se esiste un intero $x$ tale che $x^2 - a$ sia divisibile da $m$, allora esiste un intero $y$ tale che sia $a^2 - y$ che $y^2 - a$ siano divisibili da $m$.
-
-[[Quesiti/src_bmo1_1984#q06|src_bmo1_1984__Q06]]
 
 
 
@@ -209,5 +197,3 @@ Due disuguaglianze: prodotto vincolato da m! e disuguaglianza di potenza ciclica
 *Quadrillatore a cerchio inciso: quattro quantità associate sono uguali*
 
 > $ABCD$ è un quadrilaterale che ha un cerchio inciso. Con il lato $AB$ è associato $$u_{AB} = P_A \sin DAB + P_B \sin ABC$$ dove $P_A$, $P_B$ sono le perpendicolari da $A$, $B$ rispettivamente al lato opposto $CD$. Definire anche $u_{BC}$, $u_{CD}$, $u_{DA}$, utilizzando in ogni caso le perpendicolari verso il lato opposto. Indicare che $$u_{AB} = u_{BC} = u_{CD} = u_{DA}.$$
-
-[[Quesiti/src_bmo1_1984#q07|src_bmo1_1984__Q07]]

@@ -33,8 +33,6 @@ level: Olimpiade Polacca Round 1
 
 > Prove che per ogni intero $n \ge 3$ la somma dei cubi di tutti i numeri naturali inferiori a $n$ e coprimo con $n$ è divisibile da $n$.
 
-[[Quesiti/src_pol_2000_r1#q01|src_pol_2000_r1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -61,8 +59,6 @@ level: Olimpiade Polacca Round 1
 
 > In un triangolo a angolo acuto $ABC$ con $\angle ACB = 2\angle ABC$, $D$ è il punto laterale $BC$ che soddisfa $2\angle BAD = \angle ABC$. Provare che $$\frac{1}{BD} = \frac{1}{AB} + \frac{1}{AC}.$$
 
-[[Quesiti/src_pol_2000_r1#q02|src_pol_2000_r1__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima"></span>
@@ -87,8 +83,6 @@ level: Olimpiade Polacca Round 1
 Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 
 > La somma dei numeri positivi $a, b, c$ è $1$. Prove che $a^2 + b^2 + c^2 + 2\sqrt{3abc} \le 1$.
-
-[[Quesiti/src_pol_2000_r1#q03|src_pol_2000_r1__Q03]]
 
 
 
@@ -115,8 +109,6 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 
 > Ogni punto di un cerchio è dipinto con uno dei tre colori. Prove che esistono tre punti dello stesso colore sul cerchio che sono vertici di un triangolo di uguale taglia.
 
-[[Quesiti/src_pol_2000_r1#q04|src_pol_2000_r1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_fattorizzazione,method_estremalita,skill_manipolazione_algebrica,skill_casework_accurato"></span>
@@ -141,8 +133,6 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 *Ricerca tutte le coppie di integri positivi (a,b) con a^3+6ab+1 e b^3+6ab+1 entrambi i cubi.*
 
 > Trovare tutte le coppie $(a, b)$ di numeri interi positivi in modo tale che i numeri $a^3 + 6ab + 1$ e $b^3 + 6ab + 1$ siano cubetti di numeri interi positivi.
-
-[[Quesiti/src_pol_2000_r1#q05|src_pol_2000_r1__Q05]]
 
 
 
@@ -169,8 +159,6 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 
 > Un punto $X$ si trova all'interno o sul confine del triangolo $ABC$ con $\angle C = 90^\circ$. I punti $P, Q, R$ sono le proiezioni di $X$ rispettivamente su $BC$, $CA$ e $AB$. Prova che l'uguaglianza $AR \cdot RB = BP \cdot PC + AQ \cdot QC$ è valida se e solo se $X$ si trova sul lato $AB$.
 
-[[Quesiti/src_pol_2000_r1#q06|src_pol_2000_r1__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima"></span>
@@ -196,8 +184,6 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 *Per ogni intero positivo n e t in (1/2,1) esistono a,b in (1999,2000) con (1/2)a^n+1/2)b^n < (ta+(1-t) b)^n.*
 
 > Mostrare che per ogni numero intero positivo $n$ e per ogni numero $t \in \left(\frac{1}{2}, 1\right)$ esistono numeri $a, b \in (1999, 2000)$ tali che $$\frac{1}{2}a^n + \frac{1}{2}b^n < (ta + (1-t)b)^n.$$
-
-[[Quesiti/src_pol_2000_r1#q07|src_pol_2000_r1__Q07]]
 
 
 
@@ -226,8 +212,6 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 
 > Le funzioni $c(n, k)$ sono definite per gli integri $n \ge k \ge 0$ da $c(n, 0) = c(n, n) = 1$ per tutti $n \ge 0$ e $$c(n+1, k) = 2^k c(n, k) + c(n, k-1) \quad \text{for} \quad n \ge k \ge 1.$$ Prove che $c(n, k) = c(n, n-k)$ per tutti $n$ e $k$.
 
-[[Quesiti/src_pol_2000_r1#q08|src_pol_2000_r1__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,method_congruenze,method_estremalita,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -252,8 +236,6 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 *Interi positivi m,n con mn dividendo m^2+n^2+m; dimostrare m è un quadrato perfetto.*
 
 > Supponiamo che gli integri positivi $m$ e $n$ siano tali che $mn$ divida $m^2 + n^2 + m$. Prova che $m$ è un quadrato perfetto.
-
-[[Quesiti/src_pol_2000_r1#q09|src_pol_2000_r1__Q09]]
 
 
 
@@ -280,8 +262,6 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 
 > Lasciate che $\overrightarrow{OA}, \overrightarrow{OB}, \overrightarrow{OC}$ siano vettori unitari ortogonali in coppia nello spazio. Lasciate che $O$ sia un piano variabile attraverso $O$, e lasciate che $A', B', C'$ sia le proiezioni di $A, B, C$ su $O$. Trova l'insieme dei valori di $OA'^2 + OB'^2 + OC'^2$ quando $O$ assume tutte le posizioni possibili.
 
-[[Quesiti/src_pol_2000_r1#q10|src_pol_2000_r1__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_aritmetica,method_cassetti,method_estremalita,skill_conteggio_sistematico,skill_astrazione"></span>
@@ -306,8 +286,6 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 *Set M di n^2+1 interi positivi dove tra qualsiasi n+1 due sono comparabili per divisibilità; dimostrare una catena di divisibilità a_1,...,a_{n+1} con a_{i+1} ̊ a_i.*
 
 > $M$ sia un insieme di integri positivi $n^2 + 1$ che abbiano la seguente proprietà: in ogni numero $n + 1$ da $M$ ci sono due numeri, uno dei quali divide l'altro. Dimostrare che esistono diversi elementi $a_1, \ldots, a_{n+1}$ di $M$, come $a_{i+1} \mid a_i$ per $i = 1, 2, \ldots, n$.
-
-[[Quesiti/src_pol_2000_r1#q11|src_pol_2000_r1__Q11]]
 
 
 
@@ -335,5 +313,3 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 *D,E,F sui lati BC,CA,AB del triangolo acuto; i circoncircoli di AEF, BFD, CDE si incontrano a P; date tre condizioni di rapporto dimostrano che AD,BE,CF sono altitudini.*
 
 > I punti $D, E, F$ sono prelevati sui rispettivi lati $BC, CA, AB$ di un triangolo acuto $ABC$. I circoncircoli dei triangoli $AEF$, $BFD$, $CDE$ si incontrano al punto $P$. Prove che se $$\frac{PD}{PE} = \frac{BD}{AE}, \quad \frac{PE}{PF} = \frac{CE}{BF}, \quad \frac{PF}{PD} = \frac{AF}{CD},$$ allora $AD$, $BE$, $CF$ sono le altitudini del triangolo $ABC$.
-
-[[Quesiti/src_pol_2000_r1#q12|src_pol_2000_r1__Q12]]

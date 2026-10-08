@@ -36,8 +36,7 @@ level: China Girls' Mathematical Olympiad
 
 > Un intero positivo $m$ è chiamato buono, se c'è un intero positivo $n$ tale che $m$ è il quotiente di $n$ sul numero di divisori interi positivi di $n$ (inclusi 1 e $n$ stesso). Provare che $1, 2, \cdots, 17$ sono numeri buoni e che 18 non è un buon numero.
 
-**Risposta:** 18 is not a good number
-[[Quesiti/src_cn_cgmo_2007#q01|src_cn_cgmo_2007__Q01]]
+**Risposta:** 18 non è un numero buono
 
 
 
@@ -67,8 +66,7 @@ level: China Girls' Mathematical Olympiad
 
 > Lasciate che $ABC$ sia un triangolo acuto. I punti $D$, $E$ e $F$ si trovano rispettivamente sui segmenti $BC$, $CA$ e $AB$, e ciascuno dei tre segmenti $AD$, $BE$ e $CF$ contiene il centro circondazionale di $\triangle ABC$. Prova che se due dei rapporti $\frac{BD}{DC}, \frac{CE}{EA}, \frac{AF}{FB}, \frac{BF}{FA}, \frac{CD}{DB}, \frac{AE}{EC}$ sono numeri interi, il triangolo $ABC$ è uguale.
 
-**Risposta:** ABC is isosceles
-[[Quesiti/src_cn_cgmo_2007#q02|src_cn_cgmo_2007__Q02]]
+**Risposta:** ABC è isoscele
 
 
 
@@ -98,7 +96,6 @@ level: China Girls' Mathematical Olympiad
 > Che $n$ sia un numero intero superiore a 3, e che $a_1, a_2, \ldots, a_n$ sia un numero reale non negativo con $a_1 + a_2 + \cdots + a_n = 2$. Determinare il valore minimo di $$\frac{a_1}{a_2^2+1} + \frac{a_2}{a_3^2+1} + \cdots + \frac{a_n}{a_1^2+1}.$$
 
 **Risposta:** \frac{3}{2}
-[[Quesiti/src_cn_cgmo_2007#q03|src_cn_cgmo_2007__Q03]]
 
 
 
@@ -125,8 +122,6 @@ level: China Girls' Mathematical Olympiad
 
 > L'insieme $S$ è costituito da punti $n > 2$ nel piano. L'insieme $P$ è costituito da linee $m$ nel piano in modo tale che ogni linea di $P$ sia un asse di simmetria di $S$. Prove che $m \le n$, e determina quando l'uguaglianza è valida.
 
-[[Quesiti/src_cn_cgmo_2007#q04|src_cn_cgmo_2007__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -151,5 +146,3 @@ level: China Girls' Mathematical Olympiad
 *Prove DE perpendicolare a EF in triangolo con angoli dati*
 
 > Il punto $D$ si trova all'interno del triangolo $ABC$ in modo tale che $\angle DAC = \angle DCA = 30^\circ$ e $\angle DBA = 60^\circ$. Il punto $E$ è il punto medio del segmento $BC$. Il punto $F$ si trova sul segmento $AC$ con $AF = 2FC$. Prove che $DE \perp EF$.
-
-[[Quesiti/src_cn_cgmo_2007#q05|src_cn_cgmo_2007__Q05]]

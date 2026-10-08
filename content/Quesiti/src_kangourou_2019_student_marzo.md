@@ -41,7 +41,6 @@ level: kangourou
 > The numbers 1, 2, 3 and 4 are written one for each cell in a 2x2 table. If the sums of the numbers written in each row and those of the numbers written in each column are calculated, two of the values obtained are 4 and 5. What are the other two? A) 6 and 6 B) 3 and 5 C) 4 and 5 D) 4 and 6 E) 5 and 6
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_student_marzo#q01|src_kangourou_2019_student_marzo__Q01]]
 
 
 
@@ -91,7 +90,6 @@ level: kangourou
 > E)
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_student_marzo#q02|src_kangourou_2019_student_marzo__Q02]]
 
 
 
@@ -139,7 +137,6 @@ level: kangourou
 > E)
 
 **Answer:** D
-[[Quesiti/src_kangourou_2019_student_marzo#q03|src_kangourou_2019_student_marzo__Q03]]
 
 
 
@@ -185,7 +182,6 @@ level: kangourou
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2019_student_marzo#q04|src_kangourou_2019_student_marzo__Q04]]
 
 
 
@@ -226,7 +222,6 @@ level: kangourou
 > Three four-digit numbers were each written on a plate. The figure shows how the plates are overlaid and the digits that remain visible. We know that the sum of the three numbers is 11126. What are the hidden digits? A) 1, 4 and 7. B) 3, 3 and 3. C) 4, 5 and 6. D) 4, 5 and 7. E) None of the preceding three.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_student_marzo#q05|src_kangourou_2019_student_marzo__Q05]]
 
 
 
@@ -273,7 +268,6 @@ level: kangourou
 > E) 31
 
 **Answer:** B
-[[Quesiti/src_kangourou_2019_student_marzo#q06|src_kangourou_2019_student_marzo__Q06]]
 
 
 
@@ -320,7 +314,6 @@ level: kangourou
 > E) 6
 
 **Answer:** B
-[[Quesiti/src_kangourou_2019_student_marzo#q07|src_kangourou_2019_student_marzo__Q07]]
 
 
 
@@ -371,7 +364,6 @@ level: kangourou
 > E)
 
 **Answer:** C
-[[Quesiti/src_kangourou_2019_student_marzo#q08|src_kangourou_2019_student_marzo__Q08]]
 
 
 
@@ -406,7 +398,6 @@ level: kangourou
 > Michele wants to define a new operation on real numbers by putting x * y = y - x. If a, b and c satisfy equality (a * b) * c = a * (b * c), which of the following equalities must be true? A) a = b B) b = c C) a = c D) a = 0 E) c = 0
 
 **Answer:** D
-[[Quesiti/src_kangourou_2019_student_marzo#q09|src_kangourou_2019_student_marzo__Q09]]
 
 
 
@@ -453,7 +444,6 @@ level: kangourou
 > (E) 16 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2019_student_marzo#q10|src_kangourou_2019_student_marzo__Q10]]
 
 
 
@@ -496,7 +486,6 @@ Maximum power of 3 that divides 7! + 8! + 9!
 > E) a power of 3 greater than 36.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2019_student_marzo#q11|src_kangourou_2019_student_marzo__Q11]]
 
 
 
@@ -546,7 +535,6 @@ Maximum power of 3 that divides 7! + 8! + 9!
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2019_student_marzo#q12|src_kangourou_2019_student_marzo__Q12]]
 
 
 
@@ -592,7 +580,6 @@ Maximum power of 3 that divides 7! + 8! + 9!
 > A tank with the shape of a rectangular parallelepiped contains 120 m3 of water, which only partially fills it. Depending on the face of the parallelepiped resting on the ground, the height of the water is 2, 3 or 5 metres, as shown in the figures, which are not in scale. How many cubic meters is the volume of the tank? A) 160 B) 180 C) 200 D) 220 E) 240
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_student_marzo#q13|src_kangourou_2019_student_marzo__Q13]]
 
 
 
@@ -660,7 +647,6 @@ Maximum power of 3 that divides 7! + 8! + 9!
 > E) The man is 1.75 or 1.70.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2019_student_marzo#q14|src_kangourou_2019_student_marzo__Q14]]
 
 
 
@@ -720,7 +706,6 @@ Maximum power of 3 that divides 7! + 8! + 9!
 > E) 24/5
 
 **Answer:** D
-[[Quesiti/src_kangourou_2019_student_marzo#q15|src_kangourou_2019_student_marzo__Q15]]
 
 
 
@@ -774,7 +759,6 @@ Maximum power of 3 that divides 7! + 8! + 9!
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2019_student_marzo#q16|src_kangourou_2019_student_marzo__Q16]]
 
 
 
@@ -813,7 +797,6 @@ The probability that Mary wins by drawing the fruit candy
 > C) 1/2 D) 5/6 E) 1/3
 
 **Answer:** A
-[[Quesiti/src_kangourou_2019_student_marzo#q17|src_kangourou_2019_student_marzo__Q17]]
 
 
 
@@ -855,7 +838,6 @@ The probability that Mary wins by drawing the fruit candy
 > Two squares of sides respectively a and b (with a < b) lie on the same plane and have only one vertex in common with the points of one of the sides of the minor square that emerges from it, as shown in the figure. What is the area of the shaded triangle in the figure? A) √ab B) a2/2 C) b2/2 D) (a2 + b2)/4 E) (a2 + b2)/2
 
 **Answer:** B
-[[Quesiti/src_kangourou_2019_student_marzo#q18|src_kangourou_2019_student_marzo__Q18]]
 
 
 
@@ -898,7 +880,6 @@ The probability that Mary wins by drawing the fruit candy
 > D) 20. E) 25
 
 **Answer:** A
-[[Quesiti/src_kangourou_2019_student_marzo#q19|src_kangourou_2019_student_marzo__Q19]]
 
 
 
@@ -951,7 +932,6 @@ The probability that Mary wins by drawing the fruit candy
 > E) 5 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_student_marzo#q20|src_kangourou_2019_student_marzo__Q20]]
 
 
 
@@ -988,7 +968,6 @@ The probability that Mary wins by drawing the fruit candy
 > E) a5 + 1= b.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2019_student_marzo#q21|src_kangourou_2019_student_marzo__Q21]]
 
 
 
@@ -1041,7 +1020,6 @@ The probability that Mary wins by drawing the fruit candy
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2019_student_marzo#q22|src_kangourou_2019_student_marzo__Q22]]
 
 
 
@@ -1123,7 +1101,6 @@ The probability that Mary wins by drawing the fruit candy
 > E) 22
 
 **Answer:** C
-[[Quesiti/src_kangourou_2019_student_marzo#q23|src_kangourou_2019_student_marzo__Q23]]
 
 
 
@@ -1169,7 +1146,6 @@ The probability that Mary wins by drawing the fruit candy
 > E) 20
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_student_marzo#q24|src_kangourou_2019_student_marzo__Q24]]
 
 
 
@@ -1214,7 +1190,6 @@ The probability that Mary wins by drawing the fruit candy
 > E) It can take several distinct values.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2019_student_marzo#q25|src_kangourou_2019_student_marzo__Q25]]
 
 
 
@@ -1261,7 +1236,6 @@ The probability that Mary wins by drawing the fruit candy
 > E) Infinitely many
 
 **Answer:** D
-[[Quesiti/src_kangourou_2019_student_marzo#q26|src_kangourou_2019_student_marzo__Q26]]
 
 
 
@@ -1341,7 +1315,6 @@ The probability that Mary wins by drawing the fruit candy
 > In the square ABCD a DEFB polygon with DE and FB perpendicular to FE has been drawn, as shown in the figure. If the segments DE, EF and FB are 5, 1 and 2 respectively, what is the length of the side of the square? (A) 3√2 B) 7√2/2 C) 11/2 D) 5√2 E) None of the above.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2019_student_marzo#q27|src_kangourou_2019_student_marzo__Q27]]
 
 
 
@@ -1384,7 +1357,6 @@ The probability that Mary wins by drawing the fruit candy
 > D) 400 E) 49
 
 **Answer:** C
-[[Quesiti/src_kangourou_2019_student_marzo#q28|src_kangourou_2019_student_marzo__Q28]]
 
 
 
@@ -1433,7 +1405,6 @@ The probability that Mary wins by drawing the fruit candy
 >
 
 **Answer:** B
-[[Quesiti/src_kangourou_2019_student_marzo#q29|src_kangourou_2019_student_marzo__Q29]]
 
 
 
@@ -1494,4 +1465,3 @@ The probability that Mary wins by drawing the fruit candy
 >
 
 **Answer:** C
-[[Quesiti/src_kangourou_2019_student_marzo#q30|src_kangourou_2019_student_marzo__Q30]]

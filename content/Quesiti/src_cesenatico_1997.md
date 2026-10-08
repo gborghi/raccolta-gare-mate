@@ -45,8 +45,6 @@ level: nazionale
 > 
 > (see figure)
 
-[[Quesiti/src_cesenatico_1997#q01|src_cesenatico_1997__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_funzionali,method_simmetria,skill_manipolazione_algebrica"></span>
@@ -92,8 +90,6 @@ level: nazionale
 > 
 > Please note that $f$ is said to be odd if $f(-x) = -f(x)$ for each $x$; $f$ is said to be periodic if $T > 0$ exists such that $f(x + T) = f(x)$ for each $x$.
 
-[[Quesiti/src_cesenatico_1997#q02|src_cesenatico_1997__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_logica,method_colorazione,method_conteggio,skill_conteggio_sistematico"></span>
@@ -132,8 +128,6 @@ level: nazionale
 > 
 > (see figure)
 
-[[Quesiti/src_cesenatico_1997#q03|src_cesenatico_1997__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico"></span>
@@ -166,8 +160,6 @@ level: nazionale
 > either $ABCD$ a generic tetrahedron of which the length $a$ of the $AB$ beam and the $S$ area of the tetrahedron projection on a plane perpendicular to the rectum for $A$ and $B$ are known.
 > 
 > Determine the volume of the tetrahedron.
-
-[[Quesiti/src_cesenatico_1997#q04|src_cesenatico_1997__Q04]]
 
 
 
@@ -206,8 +198,6 @@ level: nazionale
 > 
 > The maximum possible value of $d_n$ shall be determined.
 
-[[Quesiti/src_cesenatico_1997#q05|src_cesenatico_1997__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_logica,method_grafi,skill_modellizzazione"></span>
@@ -244,5 +234,3 @@ level: nazionale
 > What is the minimum expense that the traveller must bear?
 > 
 > (see figure)
-
-[[Quesiti/src_cesenatico_1997#q06|src_cesenatico_1997__Q06]]

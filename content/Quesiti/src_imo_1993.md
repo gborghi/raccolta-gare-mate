@@ -36,8 +36,6 @@ level: IMO
 > non può essere espresso come prodotto di due polinomi non costanti
 > a coefficienti interi.
 
-[[Quesiti/src_imo_1993#q01|src_imo_1993__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
@@ -70,8 +68,6 @@ level: IMO
 >
 > (a) Calcolare il rapporto (AB · CD)/(AC · BD).
 > (b) Dimostrare che le tangenti in C alle circonferenze circoscritte ai triangoli ACD e BCD sono perpendicolari.
-
-[[Quesiti/src_imo_1993#q02|src_imo_1993__Q02]]
 
 
 
@@ -114,8 +110,6 @@ level: IMO
 > 19 luglio 1993
 > Tempo a disposizione: 4½ ore
 
-[[Quesiti/src_imo_1993#q03|src_imo_1993__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze,skill_ragionamento_geometrico"></span>
@@ -146,8 +140,6 @@ level: IMO
 > 
 > Demonstrate that for $A$, $B$, $C$, $X$ points in the plane: $$m(ABC) \leq m(ABX) + m(AXC) + m(XBC).$$
 
-[[Quesiti/src_imo_1993#q04|src_imo_1993__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,method_ricorsione"></span>
@@ -172,8 +164,6 @@ level: IMO
 *Existence of f with f(1)=2, f(f(n))=f(n)+n, increasing*
 
 > Does there exist a function $f : \mathbf{N} \to \mathbf{N}$ such that $$f(1) = 2, \quad f(f(n)) = f(n) + n \text{ for all } n \in \mathbf{N}, \quad f(n) < f(n+1) \text{ for all } n \in \mathbf{N}?$$
-
-[[Quesiti/src_imo_1993#q05|src_imo_1993__Q05]]
 
 
 
@@ -211,5 +201,3 @@ This is the total number of steps to be taken to achieve the desired results.
 > (b) If $n = 2^k$, $M(n) = n^2 - 1$ may be taken;
 > 
 > (c) If $n = 2^k + 1$, you may take $M(n) = n^2 - n + 1$.
-
-[[Quesiti/src_imo_1993#q06|src_imo_1993__Q06]]

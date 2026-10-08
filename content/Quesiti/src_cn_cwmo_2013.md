@@ -33,8 +33,6 @@ level: China Western Mathematical Olympiad
 
 > Un insieme non vuoto $A \subseteq \{1, 2, 3, \ldots, n\}$ è chiamato un buon insieme di gradi $n$ se $|A| \leq \min_{a \in A} a$. $a_n$ indichi il numero di buoni gruppi di grado $n$. Prova che $a_n = a_{n-1} + a_{n-2} + 1$ per qualsiasi numero intero positivo $n \geq 1$.
 
-[[Quesiti/src_cn_cwmo_2013#q01|src_cn_cwmo_2013__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_casework,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
@@ -61,8 +59,6 @@ level: China Western Mathematical Olympiad
 *Sosteniamo la disuguaglianza della somma per i reali in [0,1]*
 
 > $n$ sia un numero intero, $n \ge 2$ e $x_1, x_2, \ldots, x_n \in [0, 1]$. Provare che $$3\sum_{1 \le k < r \le n} k x_k x_r \le (n-1)\sum_{k=1}^{n} k x_k.$$ (posato da Guangjian)
-
-[[Quesiti/src_cn_cwmo_2013#q02|src_cn_cwmo_2013__Q02]]
 
 
 
@@ -92,8 +88,6 @@ level: China Western Mathematical Olympiad
 > Come mostrato nella figura. 6.1, $PA$, $PB$ sono tangenti al cerchio con il centro $O$ a $A$ e $B$, il punto $C$ (diverso da $A$, $B$) è su un arco minore $AB$. La linea $l$ attraverso il punto $C$ e perpendicolare a $PC$ incontra rispettivamente i bisettori angolari di $\angle AOC$ e $\angle BOC$ nei punti $D$ e $E$. Prova che $CD = CE$. (Possibile da He Yijie)
 
 ![[src_cn_cwmo_b11_w268__q03.png]]
-
-[[Quesiti/src_cn_cwmo_2013#q03|src_cn_cwmo_2013__Q03]]
 
 
 
@@ -125,8 +119,7 @@ level: China Western Mathematical Olympiad
 
 ![[src_cn_cwmo_b11_w268__q04.png]]
 
-**Risposta:** all $n \geq 4$ with $n \not\equiv 2 \pmod{4}$
-[[Quesiti/src_cn_cwmo_2013#q04|src_cn_cwmo_2013__Q04]]
+**Risposta:** tutti gli $n \geq 4$ con $n \not\equiv 2 \pmod{4}$
 
 
 
@@ -154,5 +147,4 @@ level: China Western Mathematical Olympiad
 
 > Trova tutti gli integri positivi $a$ in modo tale che $(2^n - n^2) \mid (a^n - n^a)$ per tutti gli integri positivi $n \geq 4$. (Posizionato da Yang Mingliang)
 
-**Risposta:** $a = 2$ or $a = 4$
-[[Quesiti/src_cn_cwmo_2013#q05|src_cn_cwmo_2013__Q05]]
+**Risposta:** $a = 2$ oppure $a = 4$

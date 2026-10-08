@@ -36,7 +36,6 @@ level: squadre
 > ABAB Numbers How many four-digit numbers are ABAB-shaped, with the digit A different from the digit B?
 
 **Answer:** 0081
-[[Quesiti/src_kangourou_2022_ecolier_squadre#q01|src_kangourou_2022_ecolier_squadre__Q01]]
 
 
 
@@ -68,7 +67,6 @@ level: squadre
 > of the digits of the result?
 
 **Answer:** 6066
-[[Quesiti/src_kangourou_2022_ecolier_squadre#q02|src_kangourou_2022_ecolier_squadre__Q02]]
 
 
 
@@ -100,7 +98,6 @@ Time of three brothers, Bruno how many minutes
 > Three brothers, Antonio, Bruno, and Carlo, left home together to visit their grandmother. Carlo walked there and spent twice as much time as Bruno, who ran; Bruno spent twice as much time as Antonio, who rode his bicycle. Antonio arrived an hour ahead of Carlo. How many minutes did it take Bruno to be at his grandmother's?
 
 **Answer:** 0040
-[[Quesiti/src_kangourou_2022_ecolier_squadre#q03|src_kangourou_2022_ecolier_squadre__Q03]]
 
 
 
@@ -134,7 +131,6 @@ Time of three brothers, Bruno how many minutes
 > The first digit goes to the end Simona writes an integer number of four digits, then removes its first digit and moves it to the end of the number (for example, if the number written was 1023 it would get 0231). Now Simona sums up the two numbers so obtained and realizes that the number she had written at the beginning is the largest that allows her to have as sum of the two still a four-digit number. What number had she written at the beginning?
 
 **Answer:** 9090
-[[Quesiti/src_kangourou_2022_ecolier_squadre#q04|src_kangourou_2022_ecolier_squadre__Q04]]
 
 
 
@@ -165,7 +161,6 @@ Time of three brothers, Bruno how many minutes
 > Sandro wrote all the three-digit numbers such that the number of tens is twice that of the units and the sum of the three digits is divisible by 6. What is the sum of all the numbers Sandro wrote?
 
 **Answer:** 4494
-[[Quesiti/src_kangourou_2022_ecolier_squadre#q05|src_kangourou_2022_ecolier_squadre__Q05]]
 
 
 
@@ -200,7 +195,6 @@ Time of three brothers, Bruno how many minutes
 > Sergio the painter Sergio has painted the part of the square you see in the figure in gray, which is divided into 36 squares. With the same amount of paint, how many complete squares could he have painted?
 
 **Answer:** 0018
-[[Quesiti/src_kangourou_2022_ecolier_squadre#q06|src_kangourou_2022_ecolier_squadre__Q06]]
 
 
 
@@ -239,7 +233,6 @@ Time of three brothers, Bruno how many minutes
 > 2
 
 **Answer:** 0014
-[[Quesiti/src_kangourou_2022_ecolier_squadre#q07|src_kangourou_2022_ecolier_squadre__Q07]]
 
 
 
@@ -306,7 +299,6 @@ Time of three brothers, Bruno how many minutes
 > In the figure you see 10 dots arranged like this: 1 in the first row, 2 in the second, 3 in the third and 4 in the fourth. Only one dot is inside, the other nine are on the edge. By increasing the rows in the figure and following the same criterion (each next row one more dot), when the dots inside will be 36, how many dots will be in total?
 
 **Answer:** 0066
-[[Quesiti/src_kangourou_2022_ecolier_squadre#q08|src_kangourou_2022_ecolier_squadre__Q08]]
 
 
 
@@ -337,7 +329,6 @@ Time of three brothers, Bruno how many minutes
 > The mirror On a wall the number  appears and in front of the wall there is a mirror. By reading the number visible in the mirror and calculating the difference with the number visible on the wall, what is the result?
 
 **Answer:** 3483
-[[Quesiti/src_kangourou_2022_ecolier_squadre#q09|src_kangourou_2022_ecolier_squadre__Q09]]
 
 
 
@@ -368,7 +359,6 @@ Time of three brothers, Bruno how many minutes
 > The 5-digit quotient The quotient of division of 952,164 by 18 is a 5-digit Q number. You just have to swap two digits of the dividend so that the quotient in division by 18 decreases by 1,500. What is the smallest four-digit number that you can write using both the digits that have been swapped and only them?
 
 **Answer:** 2225
-[[Quesiti/src_kangourou_2022_ecolier_squadre#q10|src_kangourou_2022_ecolier_squadre__Q10]]
 
 
 
@@ -408,7 +398,6 @@ Time of three brothers, Bruno how many minutes
 > What is the sum of all the digits that are replaced by letters in the operation?
 
 **Answer:** 0029
-[[Quesiti/src_kangourou_2022_ecolier_squadre#q11|src_kangourou_2022_ecolier_squadre__Q11]]
 
 
 
@@ -441,7 +430,6 @@ Time of three brothers, Bruno how many minutes
 > The alignments We want to align all the numbers 1, 2, 3, 4, 5, 6, 7, 8, 9 so that they don't all appear in this order, but that anyway 1 precedes 2, 2 precedes 3, 3 precedes 4, 4 precedes 5, 5 precedes 6 and 6 precedes 7. How many ways can we do this? Attention: 1 must be before 2 but there could be other numbers between the two; the same for 2 and 3 and so on.
 
 **Answer:** 0071
-[[Quesiti/src_kangourou_2022_ecolier_squadre#q12|src_kangourou_2022_ecolier_squadre__Q12]]
 
 
 
@@ -475,7 +463,6 @@ Time of three brothers, Bruno how many minutes
 > she has right now. How many euros does Antonio have right now?
 
 **Answer:** 0674
-[[Quesiti/src_kangourou_2022_ecolier_squadre#q13|src_kangourou_2022_ecolier_squadre__Q13]]
 
 
 
@@ -507,7 +494,6 @@ Time of three brothers, Bruno how many minutes
 > 1,000 coins for 6 bags 1,000 coins are distributed in 6 bags. Each bag contains at least one coin. The first contains three times the coins of the second which in turn contains twice the coins of the third. How many coins can there be in the third bag at most?
 
 **Answer:** 0110
-[[Quesiti/src_kangourou_2022_ecolier_squadre#q14|src_kangourou_2022_ecolier_squadre__Q14]]
 
 
 
@@ -551,4 +537,3 @@ Time of three brothers, Bruno how many minutes
 > Questions and solutions
 
 **Answer:** 0100
-[[Quesiti/src_kangourou_2022_ecolier_squadre#q15|src_kangourou_2022_ecolier_squadre__Q15]]

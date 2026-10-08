@@ -51,7 +51,6 @@ level: 2 livello
 > - **(E)** 105°
 
 **Answer:** C
-[[Quesiti/src_archimede_2019_2livello#q01|src_archimede_2019_2livello__Q01]]
 
 
 
@@ -94,7 +93,6 @@ level: 2 livello
 > - **(E)** 42
 
 **Answer:** D
-[[Quesiti/src_archimede_2019_2livello#q02|src_archimede_2019_2livello__Q02]]
 
 
 
@@ -139,7 +137,6 @@ level: 2 livello
 > - **(E)** 6
 
 **Answer:** C
-[[Quesiti/src_archimede_2019_2livello#q03|src_archimede_2019_2livello__Q03]]
 
 
 
@@ -184,7 +181,6 @@ level: 2 livello
 > - **(E)** The data are not sufficient to determine this.
 
 **Answer:** D
-[[Quesiti/src_archimede_2019_2livello#q04|src_archimede_2019_2livello__Q04]]
 
 
 
@@ -231,7 +227,6 @@ Round table students, four types, sum of*
 > - **(E)** 440
 
 **Answer:** B
-[[Quesiti/src_archimede_2019_2livello#q05|src_archimede_2019_2livello__Q05]]
 
 
 
@@ -276,7 +271,6 @@ Round table students, four types, sum of*
 > - **(E)** 66666
 
 **Answer:** A
-[[Quesiti/src_archimede_2019_2livello#q06|src_archimede_2019_2livello__Q06]]
 
 
 
@@ -319,7 +313,6 @@ Round table students, four types, sum of*
 > - **(E)** The data are not sufficient to determine this
 
 **Answer:** C
-[[Quesiti/src_archimede_2019_2livello#q07|src_archimede_2019_2livello__Q07]]
 
 
 
@@ -363,7 +356,6 @@ Round table students, four types, sum of*
 > - **(E)** Both Charles and Barbara may have come in second.
 
 **Answer:** C
-[[Quesiti/src_archimede_2019_2livello#q08|src_archimede_2019_2livello__Q08]]
 
 
 
@@ -407,7 +399,6 @@ Round table students, four types, sum of*
 > - **(E)** The degree of p (x) q (x) is multiple of 8.
 
 **Answer:** E
-[[Quesiti/src_archimede_2019_2livello#q09|src_archimede_2019_2livello__Q09]]
 
 
 
@@ -451,7 +442,6 @@ Full colour with 6 colours, conditions*
 > - **(E)** 3936
 
 **Answer:** E
-[[Quesiti/src_archimede_2019_2livello#q10|src_archimede_2019_2livello__Q10]]
 
 
 
@@ -496,7 +486,6 @@ Full colour with 6 colours, conditions*
 > - **(E)** 2019π
 
 **Answer:** B
-[[Quesiti/src_archimede_2019_2livello#q11|src_archimede_2019_2livello__Q11]]
 
 
 
@@ -542,7 +531,6 @@ Full colour with 6 colours, conditions*
 > - **(E)** 21 Problems with a numerical answer  5 points
 
 **Answer:** D
-[[Quesiti/src_archimede_2019_2livello#q12|src_archimede_2019_2livello__Q12]]
 
 
 
@@ -574,7 +562,6 @@ Knights and thieves at the table, 3 are wrong
 > On the Island of Knights and Snatchers, the Knights tell the truth except when they're wrong and the Snatchers always lie. During a meeting, 40 islanders sit around a large round table and each one says, "I'm next to a Knight and a Pigeon". Knowing that three knights present are wrong, how many knights are in the meeting?
 
 **Answer:** 27
-[[Quesiti/src_archimede_2019_2livello#q13|src_archimede_2019_2livello__Q13]]
 
 
 
@@ -604,7 +591,6 @@ Knights and thieves at the table, 3 are wrong
 > How many ordered pairs (x,y) of positive integers less than or equal to 2019 are such that x + y and xy + 1 are powers of 2?
 
 **Answer:** 37
-[[Quesiti/src_archimede_2019_2livello#q14|src_archimede_2019_2livello__Q14]]
 
 
 
@@ -636,8 +622,6 @@ Knights and thieves at the table, 3 are wrong
 
 > There are 4037 lamps arranged in rows and numbered from 1 to 4037. Initially, each light bulb can be switched on or off. One move consists of choosing two bulbs numbered a, b such that a/b or b/a is a prime number and changing the status of both. Demonstrate that in a finite number of moves you can make the bulbs from 1 to 2019 all on whatever the initial configuration is.
 
-[[Quesiti/src_archimede_2019_2livello#q15|src_archimede_2019_2livello__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -666,8 +650,6 @@ Knights and thieves at the table, 3 are wrong
 *Isosceles triangle, circus, conic points*
 
 > Demonstrative Exercise Whether ABC is an isosceles triangle on the basis of BC and whether D and E are points on the sides AB, BC respectively, such that the lines DE and AC are parallel. Also consider the point F on the straight DE which is on the opposite side of D to E and is such that FE is congruent to AD. So O is the circus of the BDE triangle, show that the points O, F, A, D lie on a circumference.
-
-[[Quesiti/src_archimede_2019_2livello#q16|src_archimede_2019_2livello__Q16]]
 
 
 
@@ -704,4 +686,3 @@ Knights and thieves at the table, 3 are wrong
 > Demonstrative Exercise Let's say a positive integer with an even number of digits is correct if, by reading the individual digits aloud, we get a correct description of the number itself. Or rather, if each odd-positional digit indicates how many times the next digit appears in the whole number. For example, 1210 is correct, because it has un 2, a 0, as well as 2121, because it has dues 1, two 1, whereas 1031 is not, because it says it has un 0, three 1, when it actually has two 1. (a) Demonstrate that there are more than 2019 correct numbers. (b) Demonstrate that the correct integers are finite. (c) Find the number of digits of the largest correct number.
 
 **Answer:** 162
-[[Quesiti/src_archimede_2019_2livello#q17|src_archimede_2019_2livello__Q17]]

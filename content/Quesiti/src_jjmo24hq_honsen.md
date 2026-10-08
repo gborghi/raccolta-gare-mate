@@ -42,8 +42,6 @@ level: JJMO Honsen
 > 
 > Trova il valore più grande che $n$ può assumere.
 
-[[Quesiti/src_jjmo24hq_honsen#q01|src_jjmo24hq_honsen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -68,8 +66,6 @@ level: JJMO Honsen
 *Bissettore angolare, bisettore perpendicolare di AD, quattro punti conciclici*
 
 > Nel triangolo $ABC$, $D$ sia l'intersezione del bisettore di $\angle BAC$ con il lato $BC$, e $P, Q$ sia l'intersezione del bisettore perpendicolare del segmento $AD$ con i lati $AB, AC$ rispettivamente. Prendere un punto $X$ sul segmento $AP$ e un punto $Y$ sul segmento $AQ$ in modo tale che $\angle BQP = \angle XQP$ e $\angle CPQ = \angle YPQ$. Provare che i quattro punti $B, C, Y, X$ si trovano su un singolo cerchio.
-
-[[Quesiti/src_jjmo24hq_honsen#q02|src_jjmo24hq_honsen__Q02]]
 
 
 
@@ -104,8 +100,6 @@ level: JJMO Honsen
 > 
 > Qui, una potenza di due significa un intero espressibile nella forma $2^m$ utilizzando un intero non negativo $m$. Inoltre, $2^0 = 1$.
 
-[[Quesiti/src_jjmo24hq_honsen#q03|src_jjmo24hq_honsen__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_stima"></span>
@@ -132,8 +126,6 @@ level: JJMO Honsen
 *Minimizzare il rapporto max/min sotto restrizione di prodotto ciclica*
 
 > I numeri reali positivi $x_1, x_2, \dots, x_{2026}$ soddisfano $$(x_1 + x_2)(x_2 + x_3) \cdots (x_{2025} + x_{2026})(x_{2026} + x_1) = 3^{2026}\, x_1 x_2 \cdots x_{2026}.$$ $M$ sia il valore massimo tra $x_1, x_2, \dots, x_{2026}$, e $m$ sia il valore minimo. Trova il minimo valore possibile di $\dfrac{M}{m}$.
-
-[[Quesiti/src_jjmo24hq_honsen#q04|src_jjmo24hq_honsen__Q04]]
 
 
 
@@ -167,5 +159,3 @@ level: JJMO Honsen
 > Per ogni numero intero $i$ con $1 \le i \le m$, immediatamente dopo aver inserito la carta scritta $a_i$, tra le carte $a_i$ poi allineate nelle celle, il numero intero scritto sulla $b_i$-a contare da sinistra è $c_i$.
 > 
 > Trova il valore più piccolo che $m$ può assumere.
-
-[[Quesiti/src_jjmo24hq_honsen#q05|src_jjmo24hq_honsen__Q05]]

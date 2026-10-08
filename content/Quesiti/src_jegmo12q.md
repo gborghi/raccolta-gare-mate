@@ -35,8 +35,6 @@ level: JEGMO
 
 > Trova tutte le coppie $(p, q)$ di numeri primi con $p \le q$ in modo tale che $$\frac{p^2 - 3q + q^2}{p + q}$$ sia un numero intero.
 
-[[Quesiti/src_jegmo12q#q01|src_jegmo12q__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -61,8 +59,6 @@ level: JEGMO
 *Il centro di PQ si trova sul circoncircolo di ABC; collinearità dell'ortocentro*
 
 > Il $ABC$ deve essere un triangolo acuto con il centro orto $H$. Prendi un punto $P$ (diverso da $H$) sul circoncircolo di $\triangle AHB$, e un punto $Q$ (diverso da $H$) sul circoncircolo di $\triangle AHC$, in modo tale che $P$, $H$, $Q$ siano collineari in questo ordine. Indicare che il punto medio del segmento $PQ$ si trova sul circoncircolo di $\triangle ABC$.
-
-[[Quesiti/src_jegmo12q#q02|src_jegmo12q__Q02]]
 
 
 
@@ -97,8 +93,6 @@ level: JEGMO
 > 
 > Trova tutti i valori di $n$ per i quali esiste un tale sistema.
 
-[[Quesiti/src_jegmo12q#q03|src_jegmo12q__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_invarianti,method_casework,method_induzione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
@@ -129,8 +123,6 @@ level: JEGMO
 > Una sequenza di numeri reali positivi $a_1, a_2, \ldots$ soddisfa $$a_{n+1} = a_n \cdot \lfloor a_n \rfloor$$ per tutti i numeri interi positivi $n$. Prova che $a_n = a_1$ vale per tutti gli integri positivi $n$.
 > 
 > (Qui, per un numero reale $r$, $\lfloor r \rfloor$ indica il numero intero più grande inferiore o uguale a $r$. Ad esempio, $\lfloor 3.14 \rfloor = 3$ e $\lfloor 5 \rfloor = 5$.)
-
-[[Quesiti/src_jegmo12q#q04|src_jegmo12q__Q04]]
 
 
 
@@ -167,5 +159,3 @@ level: JEGMO
 > La cella direttamente sopra e la cella direttamente sotto esistono e sono entrambi neri. \item La cella direttamente a sinistra e la cella direttamente a destra esistono e sono entrambi neri. # Finire #
 > 
 > Quando è possibile rendere tutte le cellule nere ripetendo questa operazione finitamente molte volte, trovare il numero minimo di cellule che devono essere inizialmente di colore nero.
-
-[[Quesiti/src_jegmo12q#q05|src_jegmo12q__Q05]]

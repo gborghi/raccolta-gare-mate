@@ -45,8 +45,6 @@ level: Concours Général
 > 
 > 3. Torniamo al caso generale. Mostrare che si può trovare un triangolo equilaterale $A'B'C'$ nello spazio la cui proiezione ortogonale sul piano $P$ è il triangolo $ABC$, e dedurre l'insieme $\mathcal{F}$.
 
-[[Quesiti/src_cgen_1995#q01|src_cgen_1995__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_insiemi_funzioni,topic_algebra,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -71,8 +69,6 @@ level: Concours Général
 *Convergenza di una sequenza definita da una ricorrenza di radice quadrata*
 
 > Studiare la convergenza della sequenza $(u_n)_{n \in \mathbb{N}}$ definita da $$\begin{cases} u_0 \ge 0 \text{ and for all } n \in \mathbb{N}:\\[4pt] u_{n+1} = \sqrt{u_n + \dfrac{4}{n+1}} \end{cases}$$
-
-[[Quesiti/src_cgen_1995#q02|src_cgen_1995__Q02]]
 
 
 
@@ -103,8 +99,6 @@ level: Concours Général
 > 
 > Qual è il valore minimo dell'area di $D$ e per quale configurazione di $\Gamma_1$, $\Gamma_2$, $\Gamma_3$ viene raggiunto? Giustifica la tua risposta.
 
-[[Quesiti/src_cgen_1995#q03|src_cgen_1995__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
@@ -131,5 +125,3 @@ level: Concours Général
 *Sei punti con distanze in coppia che si sommano a i+j*
 
 > Che $A_1$, $A_2$, $A_3$, $B_1$, $B_2$, $B_3$ siano sei punti nel piano in modo tale che per tutti gli integri $i$ e $j$ in $\{1, 2, 3\}$: $$A_i B_j = i + j.$$ Cosa si può dire di questi sei punti?
-
-[[Quesiti/src_cgen_1995#q04|src_cgen_1995__Q04]]

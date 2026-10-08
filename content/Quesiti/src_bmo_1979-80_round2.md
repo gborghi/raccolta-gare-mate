@@ -36,8 +36,6 @@ level: BMO Round 2
 
 > $VLMN$ e $VABC$ sono tetraedri con $A$, $B$, $C$ su $VL$, $VM$, $VN$ prodotte se necessario. Il centro del triangolo $LMN$ coincide con il centroide del triangolo $ABC$. (i) Determinare $VA$, $VB$, $VC$ in termini di lati del triangolo $LMN$ e $VL$, $VM$, $VN$. (ii) Determinare la condizione che i tetraedri abbiano volumi uguali. (iii) Se i tetraedri hanno volumi diseguali, determinare, con la prova, quale ha il volume maggiore.
 
-[[Quesiti/src_bmo_1979-80_round2#q01|src_bmo_1979-80_round2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_fattorizzazione,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
@@ -63,8 +61,6 @@ level: BMO Round 2
 *Ricerca tutti i numeri primi in una sequenza di numeri interi definita*
 
 > Determinare, con prova, tutti i numeri primi della sequenza $\{u_n\}$ di numeri interi definiti da $$u_0 = 2, \quad u_1 = a, \quad u_{n+1} = a u_n - u_{n-1} \qquad (n \ge 0).$$
-
-[[Quesiti/src_bmo_1979-80_round2#q02|src_bmo_1979-80_round2__Q02]]
 
 
 
@@ -93,8 +89,6 @@ level: BMO Round 2
 
 > Dimostra che se $a_0 = 0$, $a_1$, $a_2$, $\ldots$, $a_n$ sono numeri reali, allora $$\sum_{i=1}^{n} a_i(a_{i-1} - a_i) \le \tfrac{1}{4}\sum_{i=1}^{n}(a_i - a_{i-1})^2,$$ tenuta di uguaglianza se e solo se $a_i = a_n$ $(0 \le i \le n).$
 
-[[Quesiti/src_bmo_1979-80_round2#q03|src_bmo_1979-80_round2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_doppio_conteggio,method_casework,skill_conteggio_sistematico,skill_modellizzazione"></span>
@@ -119,5 +113,3 @@ level: BMO Round 2
 Torneo di ponte: ogni coppia è avversaria esattamente una volta
 
 > Dato un insieme di persone $n$, è desideroso organizzare una serie di giochi di bridge in modo tale che ogni due persone $n$ giocino come avversari in esattamente una partita. Mostrare che questo può essere fatto se e solo se $n$ è di forma $n = 4m+1$, dove $m$ è un intero positivo. (Non vi è alcuna limitazione sul numero di volte, se del caso, in cui due persone giocano come partner.)
-
-[[Quesiti/src_bmo_1979-80_round2#q04|src_bmo_1979-80_round2__Q04]]

@@ -37,8 +37,6 @@ level: RMO
 
 ![[src_rmo_2012_r4__q01.png]]
 
-[[Quesiti/src_rmo_2012_r4#q01|src_rmo_2012_r4__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -64,8 +62,6 @@ level: RMO
 
 > $a, b, c$ siano integri positivi in modo tale che $a$ divida $b^2$, $b$ divida $c^2$ e $c$ divida $a^2$. Provare che $abc$ divide $(a + b + c)^7$.
 
-[[Quesiti/src_rmo_2012_r4#q02|src_rmo_2012_r4__Q02]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_conteggio,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -90,8 +86,6 @@ level: RMO
 *Conta coppie {A,B} di sottoinsiemi di {1,...,11} con A != B e una data intersezione*
 
 > Let $X = \{1, 2, 3, \ldots, 11\}$. Trovare il numero di coppie $\{A, B\}$ come $A \subseteq X$, $B \subseteq X$, $A \neq B$ e $A \cap B = \{4, 5, 7, 8, 9, 10\}$.
-
-[[Quesiti/src_rmo_2012_r4#q04|src_rmo_2012_r4__Q04]]
 
 
 
@@ -122,8 +116,6 @@ level: RMO
 
 ![[src_rmo_2012_r4__q05.png]]
 
-[[Quesiti/src_rmo_2012_r4#q05|src_rmo_2012_r4__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,method_simmetria,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
@@ -149,5 +141,3 @@ level: RMO
 *Solvi il sistema simmetrico 1/(xy)=x/z+1, 1/(yz)=y/x+1, 1/(zx)=z/y+1 per i reali positivi*
 
 > Risolvere il sistema di equazioni per i numeri reali positivi: $$\frac{1}{xy} = \frac{x}{z} + 1, \quad \frac{1}{yz} = \frac{y}{x} + 1, \quad \frac{1}{zx} = \frac{z}{y} + 1.$$
-
-[[Quesiti/src_rmo_2012_r4#q06|src_rmo_2012_r4__Q06]]

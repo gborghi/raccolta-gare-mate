@@ -35,8 +35,6 @@ level: JMO Honsen
 
 > Trovare tutte le funzioni $f$ definite sui numeri interi positivi che assumono valori interi positivi in modo tale che, per tutti i numeri interi positivi $m$ e $n$, le seguenti due condizioni siano equivalenti: - $n \mid m$ (cioè $n$ divide $m$); - $f(m) = f(n)$.
 
-[[Quesiti/src_jmo31hq_honsen#q01|src_jmo31hq_honsen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_backward,method_invarianti,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_casework_accurato"></span>
@@ -70,8 +68,6 @@ level: JMO Honsen
 > 
 > Determina per quali cellule iniziali Taro può garantire di spostare la pietra nella cellula $1$, indipendentemente dal gioco di Jiro.
 
-[[Quesiti/src_jmo31hq_honsen#q02|src_jmo31hq_honsen__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_trigonometria,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -97,8 +93,6 @@ level: JMO Honsen
 *Triangolo acuto, punti su lati con BD=CE; prova uguale angolo con punto di circoncircolo*
 
 > Lasciate che $\triangle ABC$ sia un triangolo acuto. Il punto $D$ e il punto $E$ devono essere punti rispettivamente sui lati $AB$ e $AC$, soddisfacendo il punto $BD = CE$. $P$ sia un punto sul segmento $DE$ e $Q$ sia un punto sull'arco $BC$ del cerchio circonscritto di $\triangle ABC$ non contenente $A$. Supponiamo che $BP \cdot PC = QD \cdot QE$ e che i punti $A, B, C, D, E, P, Q$ siano tutti distinti. Provare che $$\angle BPC = \angle BAC + \angle EQD.$$
-
-[[Quesiti/src_jmo31hq_honsen#q03|src_jmo31hq_honsen__Q03]]
 
 
 
@@ -128,8 +122,6 @@ level: JMO Honsen
 
 > Considera una sequenza di enti $a_1, a_2, \ldots, a_{2021}$ in cui ogni termine soddisfa $1 \le a_i \le 2016$, e per tutti gli indici validi $n$ la disuguaglianza $$a_{n+2} > a_{n+1} + a_n$$ è mantenuta. Trova il valore minimo possibile di $$\max(a_1, a_2, \ldots, a_{2021}) - \min(a_1, a_2, \ldots, a_{2021}).$$
 
-[[Quesiti/src_jmo31hq_honsen#q04|src_jmo31hq_honsen__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_doppio_conteggio,method_invarianti,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_ragionamento_geometrico"></span>
@@ -154,5 +146,3 @@ level: JMO Honsen
 *2n×2n griglia di colore bianco/nero; numero finito di 2×2 quadrati tutti neri di 2n−1*
 
 > $n$ sia un numero intero positivo. Considera una griglia $2n \times 2n$ di quadrati unitari. Ogni cella è di colore bianco o nero. Una cellula bianca viene selezionata, e poi ogni cellula che condivide un lato con quella cellula bianca è di colore nero (cellule che erano già nere rimangono nere); la cellula bianca selezionata stessa è anche di colore nero. Prove che, in qualche condizione della colorazione iniziale, il numero di sottoreti $2 \times 2$ in cui tutte e quattro le celle sono nere è massimo $2n - 1$.
-
-[[Quesiti/src_jmo31hq_honsen#q05|src_jmo31hq_honsen__Q05]]

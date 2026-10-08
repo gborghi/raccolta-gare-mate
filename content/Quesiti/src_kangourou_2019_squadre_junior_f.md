@@ -40,7 +40,6 @@ level: squadre
 > orthogonal monometric Cartesian system.)
 
 **Answer:** 0317
-[[Quesiti/src_kangourou_2019_squadre_junior_f#q01|src_kangourou_2019_squadre_junior_f__Q01]]
 
 
 
@@ -76,7 +75,6 @@ level: squadre
 > that represents the area of the total surface of the tetrahedron, expressed in square centimeters?
 
 **Answer:** 0076
-[[Quesiti/src_kangourou_2019_squadre_junior_f#q02|src_kangourou_2019_squadre_junior_f__Q02]]
 
 
 
@@ -108,7 +106,6 @@ level: squadre
 > square are the number itself. What is it?
 
 **Answer:** 9376
-[[Quesiti/src_kangourou_2019_squadre_junior_f#q03|src_kangourou_2019_squadre_junior_f__Q03]]
 
 
 
@@ -142,7 +139,6 @@ level: squadre
 > (Write in order the numerator and the denominator of the fraction reduced to lowest terms.)
 
 **Answer:** 2027
-[[Quesiti/src_kangourou_2019_squadre_junior_f#q04|src_kangourou_2019_squadre_junior_f__Q04]]
 
 
 
@@ -177,7 +173,6 @@ level: squadre
 > (not strictly) increasing or decreasing order?
 
 **Answer:** 9990
-[[Quesiti/src_kangourou_2019_squadre_junior_f#q05|src_kangourou_2019_squadre_junior_f__Q05]]
 
 
 
@@ -210,7 +205,6 @@ level: squadre
 > positive integers n are such that [n/20] = [n/17] ?
 
 **Answer:** 0056
-[[Quesiti/src_kangourou_2019_squadre_junior_f#q06|src_kangourou_2019_squadre_junior_f__Q06]]
 
 
 
@@ -248,7 +242,6 @@ level: squadre
 > Gino and Q’ that of Lino after three hours of running, how many degrees does the convex angle P’OQ’ measure?
 
 **Answer:** 0010
-[[Quesiti/src_kangourou_2019_squadre_junior_f#q07|src_kangourou_2019_squadre_junior_f__Q07]]
 
 
 
@@ -285,7 +278,6 @@ level: squadre
 > elements of S?
 
 **Answer:** 4035
-[[Quesiti/src_kangourou_2019_squadre_junior_f#q08|src_kangourou_2019_squadre_junior_f__Q08]]
 
 
 
@@ -319,7 +311,6 @@ level: squadre
 > obtained is a number that differs by 0.5 from the initial number. What is the initial number?
 
 **Answer:** 1622
-[[Quesiti/src_kangourou_2019_squadre_junior_f#q09|src_kangourou_2019_squadre_junior_f__Q09]]
 
 
 
@@ -354,7 +345,6 @@ level: squadre
 > the pairs in which the elements are swapped, such as (1.5; 3) and (3; 1.5))
 
 **Answer:** 0050
-[[Quesiti/src_kangourou_2019_squadre_junior_f#q10|src_kangourou_2019_squadre_junior_f__Q10]]
 
 
 
@@ -392,7 +382,6 @@ level: squadre
 > What is the integer closest to the length in centimeters of the other side?
 
 **Answer:** 0119
-[[Quesiti/src_kangourou_2019_squadre_junior_f#q11|src_kangourou_2019_squadre_junior_f__Q11]]
 
 
 
@@ -425,7 +414,6 @@ level: squadre
 > decimal representation of the number $(\sqrt{50} + 7)^4$?
 
 **Answer:** 9999
-[[Quesiti/src_kangourou_2019_squadre_junior_f#q12|src_kangourou_2019_squadre_junior_f__Q12]]
 
 
 
@@ -468,7 +456,6 @@ level: squadre
 > to include the circumference that bounds them).
 
 **Answer:** 2664
-[[Quesiti/src_kangourou_2019_squadre_junior_f#q14|src_kangourou_2019_squadre_junior_f__Q14]]
 
 
 
@@ -505,4 +492,3 @@ level: squadre
 > involved are different, or even just invited to different parties).
 
 **Answer:** 2880
-[[Quesiti/src_kangourou_2019_squadre_junior_f#q15|src_kangourou_2019_squadre_junior_f__Q15]]

@@ -33,8 +33,6 @@ level: IMO
 
 > Sia il triangolo $BCF$ rettangolo in $B$. Sia $A$ il punto sulla retta $CF$ tale che $FA = FB$ e $F$ giacciano tra $A$ e $C$. Sia $D$ un punto scelto in modo che $DA = DC$ e $AC$ siano le bisettrici dell'angolo $\angle DAB$. Sia $E$ un punto scelto in modo che $EA = ED$ e $AD$ siano le bisettrici dell'angolo $\angle EAC$. Sia $M$ il punto medio di $CF$. Sia $X$ il punto tale che $AMXE$ sia un parallelogramma (dove $AM \parallel EX$ e $AE \parallel MX$). Si dimostri che le rette $BD$, $FX$ e $ME$ sono concorrenti.
 
-[[Quesiti/src_imho_2016#q01|src_imho_2016__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_casework,method_colorazione,method_invarianti,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_casework_accurato"></span>
@@ -72,8 +70,6 @@ level: IMO
 > 
 > \textbf{Nota.} Le righe e le colonne di una tabella $n \times n$ sono etichettate da $1$ a $n$ in un ordine naturale. Così ogni cella corrisponde a una coppia di interi positivi $(i,j)$ con $1 \le i, j \le n$. Per $n > 1$, la tabella ha $4n - 2$ diagonali di due tipi. Una diagonale del primo tipo è costituita da tutte le celle $(i,j)$ per cui $i + j$ è costante, e una diagonale del secondo tipo è costituita da tutte le celle $(i,j)$ per cui $i - j$ è costante.
 
-[[Quesiti/src_imho_2016#q02|src_imho_2016__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_aritmetica,method_congruenze,method_induzione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -98,8 +94,6 @@ level: IMO
 *Poligono convesso con vertici a coordinate intere, area S, n dispari che divide 25S*
 
 > Sia $P = A_1 A_2 \cdots A_k$ un poligono convesso nel piano. I vertici $A_1, A_2, \ldots, A_k$ hanno coordinate intere e giacciono su una circonferenza. Sia $S$ l'area di $P$. Dato un intero positivo dispari $n$ tale che i quadrati delle lunghezze dei lati di $P$ siano numeri interi divisibili per $n$. Si dimostri che $25 S$ è un numero intero divisibile per $n$.
-
-[[Quesiti/src_imho_2016#q03|src_imho_2016__Q03]]
 
 
 
@@ -130,8 +124,6 @@ level: IMO
 > $$\{P(a+1), P(a+2), \ldots, P(a+b)\}$$
 > sia fragrante?
 
-[[Quesiti/src_imho_2016#q04|src_imho_2016__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_combinatoria,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -160,8 +152,6 @@ level: IMO
 > Sull'board è scritta l'equazione
 > $$(x-1)(x-2)\cdots(x-2016) = (x-1)(x-2)\cdots(x-2016)$$,
 > con $2016$ fattori lineari su ciascun lato. Qual è il valore minimo possibile di $k$ per cui è possibile cancellare esattamente $k$ di questi $4032$ fattori lineari in modo che rimanga almeno un fattore su ciascun lato e l'equazione così ottenuta non abbia soluzioni reali?
-
-[[Quesiti/src_imho_2016#q05|src_imho_2016__Q05]]
 
 
 
@@ -195,5 +185,3 @@ level: IMO
 > (a) Si dimostri che Geoff può sempre ottenere ciò che desidera se $n$ è dispari.
 > 
 > (b) Si dimostri che Geoff non può mai realizzare il suo desiderio se $n$ è pari.
-
-[[Quesiti/src_imho_2016#q06|src_imho_2016__Q06]]

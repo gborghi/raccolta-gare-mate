@@ -40,7 +40,6 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > A) 60 \quad B) 120 \quad C) 180 \quad D) 240 \quad E) 300
 
 **Risposta:** C
-[[Quesiti/src_obm_2012_n2_f1#q01|src_obm_2012_n2_f1__Q01]]
 
 
 
@@ -72,8 +71,6 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) Seis \quad B) Cinco \quad C) Quatro \quad D) Tr\^{e}s \quad E) Due
 
-[[Quesiti/src_obm_2012_n2_f1#q02|src_obm_2012_n2_f1__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -104,8 +101,6 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > In un certo contesto un numero è chiamato bacio se è un intero che è $3{,}5$ volte un altro intero. Ad esempio, $3{,}5$ è un bacio, poiché è $3{,}5$ volte $1$. Quanti numeri di bacio esistono tra $2{,}1$ e $33{,}3$?
 > 
 > A) 61 Quad B) 62 Quad C) 60 Quad D) 66 Quad E) 33
-
-[[Quesiti/src_obm_2012_n2_f1#q03|src_obm_2012_n2_f1__Q03]]
 
 
 
@@ -141,8 +136,6 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 
 ![[src_obm_2012_n2_f1__q04.png]]
 
-[[Quesiti/src_obm_2012_n2_f1#q04|src_obm_2012_n2_f1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -173,8 +166,6 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > Nell'espressione $\dfrac{M \times A \times T \times E \times M}{A \times T \times J \times C \times A}$, le lettere diverse rappresentano cifre diverse e le lettere uguali rappresentano cifre uguali. Qual è il valore più grande possibile di questa espressione?
 > 
 > A) 38 \quad B) 96 \quad C) 159 \quad D) 358 \quad E) 648
-
-[[Quesiti/src_obm_2012_n2_f1#q05|src_obm_2012_n2_f1__Q05]]
 
 
 
@@ -211,8 +202,6 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 
 ![[src_obm_2012_n2_f1__q06.png]]
 
-[[Quesiti/src_obm_2012_n2_f1#q06|src_obm_2012_n2_f1__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,method_fattorizzazione,method_simmetria,skill_manipolazione_algebrica"></span>
@@ -246,7 +235,6 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > A) 4 \quad B) 3 \quad C) 1 \quad D) 0 \quad E) $-1$
 
 **Risposta:** E
-[[Quesiti/src_obm_2012_n2_f1#q07|src_obm_2012_n2_f1__Q07]]
 
 
 
@@ -283,8 +271,6 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > Osservazione: il mese di gennaio corrisponde al numero di mese $1$ e così via.
 
-[[Quesiti/src_obm_2012_n2_f1#q08|src_obm_2012_n2_f1__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_conteggio,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -315,8 +301,6 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > Fernando scrive una sequenza di numeri $1234561234561234566\ldots$ Quante volte al massimo la cifra $7$ si ripete in $123456$ in modo che il numero che otteniamo sia il più piccolo multiple di $77$?
 > 
 > A) 7 \quad B) 11 \quad C) 18 \quad D) 49 \quad E) 77
-
-[[Quesiti/src_obm_2012_n2_f1#q09|src_obm_2012_n2_f1__Q09]]
 
 
 
@@ -353,8 +337,6 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 
 ![[src_obm_2012_n2_f1__q10.png]]
 
-[[Quesiti/src_obm_2012_n2_f1#q10|src_obm_2012_n2_f1__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
@@ -388,7 +370,6 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > A) 1875 \quad B) 405 \quad C) 390 \quad D) 330 \quad E) 105
 
 **Risposta:** B
-[[Quesiti/src_obm_2012_n2_f1#q11|src_obm_2012_n2_f1__Q11]]
 
 
 
@@ -421,8 +402,6 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) 1 \quad B) 2 \quad C) 3 \quad D) 9 \quad E) infinitamente molti
 
-[[Quesiti/src_obm_2012_n2_f1#q12|src_obm_2012_n2_f1__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,topic_logica,method_casework,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
@@ -454,8 +433,6 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) 52 kg \quad B) 51 kg \quad C) 49 kg \quad D) 48 kg \quad E) 46 kg
 
-[[Quesiti/src_obm_2012_n2_f1#q13|src_obm_2012_n2_f1__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_modellizzazione"></span>
@@ -485,8 +462,6 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > Il grande artigliere Tornado sta per fare il colpo più bello della sua carriera. Si trova davanti al gol e prevede che la palla, al partire, percorrerà $2$ metri in linea retta fino a un punto, e quindi descriverà un semicircolo, raggiungendo $3$ metri di altitudine sul terreno solido al gol. Qual è la distanza percorsa fino a quando la palla entra nel gol?
 > 
 > A) 3 \quad B) 3.5 \quad C) 4 \quad D) 4.5 \quad E) 5
-
-[[Quesiti/src_obm_2012_n2_f1#q14|src_obm_2012_n2_f1__Q14]]
 
 
 
@@ -525,7 +500,6 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 ![[src_obm_2012_n2_f1__q15.png]]
 
 **Risposta:** C
-[[Quesiti/src_obm_2012_n2_f1#q15|src_obm_2012_n2_f1__Q15]]
 
 
 
@@ -557,8 +531,6 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > Esmeralda sta organizzando la sua festa di compleanno e, a causa di un errore nella distribuzione degli inviti, non sa se saranno presenti persone $4$ o $6$. Quindi ha intenzione di lasciare la torta tagliata in alcuni pezzi in modo che, se $4$ o $6$ persone vengono, ognuno di loro riceverà la stessa quantità di pezzi interi di torta, senza che nessun pezzo abbia bisogno di essere tagliato ulteriormente. Qual è il numero minimo di pezzi per raggiungere questo obiettivo?
 > 
 > A) 24 \quad B) 10 \quad C) 8 \quad D) 7 \quad E) 6
-
-[[Quesiti/src_obm_2012_n2_f1#q16|src_obm_2012_n2_f1__Q16]]
 
 
 
@@ -595,8 +567,6 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 
 ![[src_obm_2012_n2_f1__q17.png]]
 
-[[Quesiti/src_obm_2012_n2_f1#q17|src_obm_2012_n2_f1__Q17]]
-
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria,topic_algebra,method_conteggio,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
@@ -627,8 +597,6 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > Renan disegnò una tavola $4 \times 4$, come mostrato nella figura di seguito, e contò tutti i quadrati con lati paralleli ai lati della tavola, con vertici scelti tra i vertici dei piccoli quadrati della tavola, e ottenne i quadrati $30$. Che numero avrebbe ottenuto Renan se avesse fatto lo stesso con una lavagna $4 \times 2012$?
 > 
 > A) 30180 \quad B) 32175 \quad C) 20110 \quad D) 25190 \quad E) 8048
-
-[[Quesiti/src_obm_2012_n2_f1#q18|src_obm_2012_n2_f1__Q18]]
 
 
 
@@ -661,8 +629,6 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) 2 \quad B) 12 \quad C) 7 \quad D) 10 \quad E) 8
 
-[[Quesiti/src_obm_2012_n2_f1#q19|src_obm_2012_n2_f1__Q19]]
-
 
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -693,8 +659,6 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > Quanti numeri esistono tra $23456$ e $65432$ in modo tale che il prodotto delle loro cifre sia un numero impar che non è un multiple di $7$?
 > 
 > A) 128 \quad B) 256 \quad C) 512 \quad D) 1024 \quad E) 2048
-
-[[Quesiti/src_obm_2012_n2_f1#q20|src_obm_2012_n2_f1__Q20]]
 
 
 
@@ -731,8 +695,6 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 
 ![[src_obm_2012_n2_f1__q21.png]]
 
-[[Quesiti/src_obm_2012_n2_f1#q21|src_obm_2012_n2_f1__Q21]]
-
 
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -764,8 +726,6 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) 2 \quad B) 4 \quad C) 8 \quad D) 16 \quad E) 32
 
-[[Quesiti/src_obm_2012_n2_f1#q22|src_obm_2012_n2_f1__Q22]]
-
 
 
 <span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -796,8 +756,6 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > In $2012$ abbiamo l'edizione $34$ dell'OBM e $\mathrm{mdc}(2012, 34) = 2$. Supponendo che l'OBM si svolga sempre ogni anno, in quale anno si verificherà il più grande valore possibile per il $\mathrm{mdc}$ dell'anno e l'edizione dell'OBM tenuta in quell'anno?
 > 
 > A) 12 \quad B) 28 \quad C) 38 \quad D) 1978 \quad E) 2012
-
-[[Quesiti/src_obm_2012_n2_f1#q23|src_obm_2012_n2_f1__Q23]]
 
 
 
@@ -834,8 +792,6 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 
 ![[src_obm_2012_n2_f1__q24.png]]
 
-[[Quesiti/src_obm_2012_n2_f1#q24|src_obm_2012_n2_f1__Q24]]
-
 
 
 <span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_combinatoria,topic_aritmetica,method_grafi,method_estremalita,method_casework,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -866,5 +822,3 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > Quanti elementi hanno il più grande sottoinsieme di $\{1, 2, 3, \ldots, 25\}$ che non contiene due numeri distinti il cui prodotto è un quadrato perfetto?
 > 
 > A) 15 \quad B) 16 \quad C) 17 \quad D) 18 \quad E) 19
-
-[[Quesiti/src_obm_2012_n2_f1#q25|src_obm_2012_n2_f1__Q25]]

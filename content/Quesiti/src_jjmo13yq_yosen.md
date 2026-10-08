@@ -39,7 +39,6 @@ level: JJMO Yosen
 ![[src_jjmo13yq_yosen__q01.png]]
 
 **Risposta:** \frac{5\pi}{2}-2
-[[Quesiti/src_jjmo13yq_yosen#q01|src_jjmo13yq_yosen__Q01]]
 
 
 
@@ -77,7 +76,6 @@ level: JJMO Yosen
 ![[src_jjmo13yq_yosen__q02.png]]
 
 **Risposta:** 6
-[[Quesiti/src_jjmo13yq_yosen#q02|src_jjmo13yq_yosen__Q02]]
 
 
 
@@ -112,7 +110,6 @@ level: JJMO Yosen
 ![[src_jjmo13yq_yosen__q03.png]]
 
 **Risposta:** 588
-[[Quesiti/src_jjmo13yq_yosen#q03|src_jjmo13yq_yosen__Q03]]
 
 
 
@@ -141,7 +138,6 @@ level: JJMO Yosen
 > Ci sono carte etichettate $1, 2, \ldots, 12$, una di ciascuna, $12$ carte in totale. Sono distribuite a tre persone A, B e C, ognuna con carte $4$. Per ciascuna persona viene calcolata la somma dei quadrati dei numeri sulle loro carte: la somma di A è $204$, la somma di B è $211$ e la somma di C è $235$. Determinare i numeri delle carte distribuite a A e a B.
 
 **Risposta:** A: \{2,6,8,10\},\ B: \{4,5,7,11\}
-[[Quesiti/src_jjmo13yq_yosen#q04|src_jjmo13yq_yosen__Q04]]
 
 
 
@@ -174,7 +170,6 @@ Accordi comuni di grande cerchio tangenti a due cerchi interni; trovare p^2-q^2*
 ![[src_jjmo13yq_yosen__q05.png]]
 
 **Risposta:** 384
-[[Quesiti/src_jjmo13yq_yosen#q05|src_jjmo13yq_yosen__Q05]]
 
 
 
@@ -203,7 +198,6 @@ Accordi comuni di grande cerchio tangenti a due cerchi interni; trovare p^2-q^2*
 > Le caselle $2015$ sono disposte in fila. In ciascuna scatola mettiamo esattamente una palla, che è rossa, blu o bianca. Inoltre, nelle scatole in posizioni dispari che contano da sinistra non si colloca una palla bianca, e nelle scatole adiacenti non devono contenere palle dello stesso colore. Quanti modi ci sono per mettere le palle?
 
 **Risposta:** 2\cdot 3^{1007}
-[[Quesiti/src_jjmo13yq_yosen#q06|src_jjmo13yq_yosen__Q06]]
 
 
 
@@ -233,7 +227,6 @@ Accordi comuni di grande cerchio tangenti a due cerchi interni; trovare p^2-q^2*
 > Trova il numero reale positivo $x$ che soddisfa la seguente equazione: $$x + \sqrt{x(x+1)} + \sqrt{x(x+2)} + \sqrt{(x+1)(x+2)} = 2.$$
 
 **Risposta:** \frac{1}{24}
-[[Quesiti/src_jjmo13yq_yosen#q07|src_jjmo13yq_yosen__Q07]]
 
 
 
@@ -266,7 +259,6 @@ Distribuire le palle a 5 colori a A, B, C in modo che ciascuna abbia 0 o >=2 di 
 > Condizione: per ogni colore di palla, ciascuna persona detiene palle $0$ di quel colore o almeno palle $2$ di quel colore.
 
 **Risposta:** 1530
-[[Quesiti/src_jjmo13yq_yosen#q08|src_jjmo13yq_yosen__Q08]]
 
 
 
@@ -295,7 +287,6 @@ Distribuire le palle a 5 colori a A, B, C in modo che ciascuna abbia 0 o >=2 di 
 > Lasciate che $ABC$ sia un triangolo di uguali dimensioni con $AB = AC$, e lasciate che $P$ sia un punto all'interno di esso. Poiché $\angle BAC = 70^\circ$, $\angle PBC = 30^\circ$ e $\angle APC = 150^\circ$, si trova la misura di $\angle PAC$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 **Risposta:** \frac{35}{2}^\circ
-[[Quesiti/src_jjmo13yq_yosen#q09|src_jjmo13yq_yosen__Q09]]
 
 
 
@@ -332,7 +323,6 @@ Distribuire le palle a 5 colori a A, B, C in modo che ciascuna abbia 0 o >=2 di 
 > Operazione 2: Scegli un numero intero $j$ con $1 \le j \le 100$ e gira ogni moneta nelle celle della colonna $j$ in coda in alto.
 
 **Risposta:** 6\cdot 4^{100}-6\cdot 3^{100}+2^{100}
-[[Quesiti/src_jjmo13yq_yosen#q10|src_jjmo13yq_yosen__Q10]]
 
 
 
@@ -361,7 +351,6 @@ Distribuire le palle a 5 colori a A, B, C in modo che ciascuna abbia 0 o >=2 di 
 > In un piano ci sono $5$ punti $A, B, C, D, O$. Tra questi, $A, B, C, D$ si trova in questo ordine sulla stessa linea retta, mentre $O$ non è in quella linea. Si ritiene che $OA = 16$, $OB = 10$, $OC = 9$, $OD = 12$ e $\angle AOB = \angle COD$. Trova il valore di $\dfrac{BC}{AD}$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 **Risposta:** \frac{38}{105}
-[[Quesiti/src_jjmo13yq_yosen#q11|src_jjmo13yq_yosen__Q11]]
 
 
 
@@ -394,4 +383,3 @@ Distribuire le palle a 5 colori a A, B, C in modo che ciascuna abbia 0 o >=2 di 
 > Operazione: Scegli una delle celle adiacenti (in alto, in basso, a sinistra o a destra) alla cella che contiene il pezzo e scambia il pezzo con la moneta in quella cella (scambia le loro posizioni).
 
 **Risposta:** 47
-[[Quesiti/src_jjmo13yq_yosen#q12|src_jjmo13yq_yosen__Q12]]

@@ -34,8 +34,6 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 
 > Risolvere in numeri reali $x, y, z$ il sistema di equazioni $$\begin{cases} x^3 = 5y^3 - 4z \\ y^3 = 5z^3 - 4x \\ z^3 = 5x^3 - 4y \end{cases}$$
 
-[[Quesiti/src_pol_2008_r1#q01|src_pol_2008_r1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_estremalita,method_simmetria,skill_ragionamento_geometrico"></span>
@@ -60,8 +58,6 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 *All'interno di un angolo convexo con vertice P e un dato punto A, punti X, Y sui raggi con PX=PY ridurre al minimo AX+AY; dimostrare angolo XAP = angolo YAP.*
 
 > All'interno di un angolo convexo con vertice $P$ è dato un punto $A$. I punti $X$ e $Y$ si trovano su diversi raggi dell'angolo in modo che $PX = PY$ e la somma $AX + AY$ siano minimi. Prove che $\angle XAP = \angle YAP$.
-
-[[Quesiti/src_pol_2008_r1#q02|src_pol_2008_r1__Q02]]
 
 
 
@@ -90,8 +86,6 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 
 > Una sequenza $(a_n)$ di numeri interi è definita da $a_1 = 1$, $a_2 = 2$ e $$a_n = 3a_{n-1} + 5a_{n-2} \quad \text{for } n = 3, 4, 5, \ldots .$$ Esiste un numero intero $k \ge 2$ per il quale $k$ divide $a_n$ per tutti $n = 1, 2, \ldots$?
 
-[[Quesiti/src_pol_2008_r1#q03|src_pol_2008_r1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_doppio_conteggio,method_conteggio,method_simmetria,skill_conteggio_sistematico"></span>
@@ -116,8 +110,6 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 *Dato il peso alternativo w(A) dei sottoinsiemi non vuoti di {1,...,n}, si trova la somma di w(A) su tutti i sottoinsiemi 2^n-1.*
 
 > $n \ge 1$ sia un dato numero intero. Per ogni sottoinsieme non vuoto $A$ di $\{1, 2, \ldots, n\}$ definire il numero $w(A)$ come segue: se $a_1 > a_2 > \cdots > a_k$ sono gli elementi di $A$, allora $w(A) = a_1 - a_2 + a_3 - \cdots + (-1)^{k+1} a_k$. Trova la somma dei numeri $w(A)$ su tutti i possibili sottogruppi $2^n - 1$ $A$.
-
-[[Quesiti/src_pol_2008_r1#q04|src_pol_2008_r1__Q04]]
 
 
 
@@ -146,8 +138,6 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 
 > Trova tutti i triples $(p, q, r)$ dei numeri primi per i quali $$pq + qr + rp \quad \text{and} \quad p^3 + q^3 + r^3 - 2pqr$$ sono divisibili da $p + q + r$.
 
-[[Quesiti/src_pol_2008_r1#q05|src_pol_2008_r1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -172,8 +162,6 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 *Ricerca tutti i polinomi di coefficiente reale W(x) con W(x^2) W(x^3) = W(x)^5 per tutti gli x reali.*
 
 > Trovare tutti i polinomi $W(x)$ con coefficienti reali in modo tale che $W(x^2) W(x^3) = W(x)^5$ sia valido per ogni numero reale $x$.
-
-[[Quesiti/src_pol_2008_r1#q06|src_pol_2008_r1__Q06]]
 
 
 
@@ -200,8 +188,6 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 
 > In un insieme di persone $n$ si formano società $2^n - 1$ (una società è un sottoinsieme non vuoto di persone). Ogni società deve scegliere un leader secondo la seguente regola: se una società $C$ è l'unione $A \cup B$ di due società $A$ e $B$, allora il leader di $C$ è anche il leader di almeno una delle società $A$ e $B$. Trova il numero di possibili scelte di leader.
 
-[[Quesiti/src_pol_2008_r1#q07|src_pol_2008_r1__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_solida,topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
@@ -227,8 +213,6 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 
 > La base di una piramide $SABCD$ è un quadrilaterale converso $ABCD$. Una sfera è inserita nella piramide e tocca la base $ABCD$ al punto $P$. Prove che $\angle APB + \angle CPD = 180^\circ$.
 
-[[Quesiti/src_pol_2008_r1#q08|src_pol_2008_r1__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_disuguaglianze,method_disuguaglianze,method_estremalita,skill_stima,skill_manipolazione_algebrica"></span>
@@ -253,8 +237,6 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 *Trova la più piccola a tale che per tutti i valori reali x,y,z >= a con x+y+z=3, x^3+y^3+z^3 >=3.*
 
 > Determinare il numero più piccolo $a$ che abbia la seguente proprietà: per tutti i numeri reali $x, y, z \ge a$ che soddisfano $x + y + z = 3$, esso detiene $x^3 + y^3 + z^3 \ge 3$.
-
-[[Quesiti/src_pol_2008_r1#q09|src_pol_2008_r1__Q09]]
 
 
 
@@ -283,8 +265,6 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 
 > Si dà un numero primo $p$. Una sequenza di interi positivi $a_1, a_2, \ldots$ soddisfa la relazione $$a_{n+1} = a_n + p \left\lfloor \sqrt[p]{a_n} \right\rfloor \quad \text{for } n = 1, 2, 3 \ldots$$ Mostra che c'è un termine in questa sequenza che è la potenza $p$- di un intero.
 
-[[Quesiti/src_pol_2008_r1#q10|src_pol_2008_r1__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico"></span>
@@ -312,8 +292,6 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 
 > I punti $P_1, P_2, P_3, P_4, P_5, P_6, P_7$ si trovano rispettivamente sui lati $BC$, $CA$, $AB$, $BC$, $CA$, $AB$, $BC$ di un triangolo $ABC$ e soddisfano $$\angle P_1 P_2 C = \angle A P_2 P_3 = \angle P_3 P_4 B = \angle C P_4 P_5 = \angle P_5 P_6 A = \angle B P_6 P_7 = 60^\circ .$$ Prove che $P_1 \equiv P_7$.
 
-[[Quesiti/src_pol_2008_r1#q11|src_pol_2008_r1__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_aritmetica,method_colorazione,method_casework,method_estremalita,skill_conteggio_sistematico,skill_astrazione"></span>
@@ -338,5 +316,3 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 *Dato il numero intero m>=2, trovare il più piccolo n>=m in modo che ogni 2 colorazioni di {m,...,n} producano un monocromatico a,b,c con ab=c.*
 
 > Si deve dare un numero intero $m \ge 2$. Trovare il numero intero più piccolo $n \ge m$ con la proprietà che, per ogni partizione del set $\{m, m+1, \ldots, n\}$ in due sottoinsiemi, uno dei sottoinsiemi contiene tre numeri $a, b, c$ (non necessariamente distinti) con $ab = c$.
-
-[[Quesiti/src_pol_2008_r1#q12|src_pol_2008_r1__Q12]]

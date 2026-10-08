@@ -37,8 +37,6 @@ level: kangourou
 
 > Adele wrote a number consisting of 3 odd digits and some even digits, while Marco wrote a number consisting of 2 odd digits and some even digits. Gianna added Adele's number to Marco's. How many odd digits will Gianna's result have at least? A) 0 (i.e. it may not have) B) 1 C) 2 D) 3 E) 4
 
-[[Quesiti/src_kangourou_2023_benjamin_semifinale#q01|src_kangourou_2023_benjamin_semifinale__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,skill_conteggio_sistematico"></span>
@@ -113,8 +111,6 @@ Sum of Gabriele's triple renata, number discarded
 
 > (Points 3) See the grid on the right where the integers from 1 to 9 are shown. Gabriele picked four of these numbers, Renata picked four more. The sum of the numbers chosen by Renata is three times the sum of the numbers chosen by Gabriele. What's the number neither of them picked? A) 1           B) 5             C) 7             D) 8           E) 9
 
-[[Quesiti/src_kangourou_2023_benjamin_semifinale#q02|src_kangourou_2023_benjamin_semifinale__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_logica,method_casework,skill_lettura_attenta"></span>
@@ -144,8 +140,6 @@ Sum of Gabriele's triple renata, number discarded
 *min cards to turn over*
 
 > (Points 3) Aldo has five cards: for each of them on one face there is a letter of the alphabet, on the opposite face an integer. The cards are placed on the table and show the following faces: E, G, 4, 7, 8. Aldo declares that, for each card, if on one face there is a vowel, on the opposite face there is an even number. Marta wants to check if Aldo's telling the truth, but she wants to turn over as few cards as possible. How many cards will she have to turn over at most? A) 1           B) 2             C) 3            D) 4            E) 5
-
-[[Quesiti/src_kangourou_2023_benjamin_semifinale#q03|src_kangourou_2023_benjamin_semifinale__Q03]]
 
 
 
@@ -182,8 +176,6 @@ Sum of Gabriele's triple renata, number discarded
 > in the figure. In which column was the number 2,023 entered?
 > A) A           B) D           C) F            D) H           E) I
 
-[[Quesiti/src_kangourou_2023_benjamin_semifinale#q04|src_kangourou_2023_benjamin_semifinale__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,skill_modellizzazione"></span>
@@ -215,8 +207,6 @@ Sum of Gabriele's triple renata, number discarded
 
 > There are two guards in a power station. There are also two safety sound signals: one rings every two minutes, the other rings every three minutes. When they ring at the same time, you hear a single ring. At 12:00 they rang at the same time and there was only one guard in the station; when the second guard entered the station, they rang again at the same time and, from 12:00 up to that moment included, the first guard, always present, heard 13 bells. What time did the second guard enter the station? A) 12:12         B) 12:15          C) 12:18            D) 12:24           E) 12:30
 
-[[Quesiti/src_kangourou_2023_benjamin_semifinale#q05|src_kangourou_2023_benjamin_semifinale__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica"></span>
@@ -245,8 +235,6 @@ Sum of Gabriele's triple renata, number discarded
 *possible difference*
 
 > Clara wrote an integer number of three digits, Dalia wrote the number that has the same digits as Clara's, but written in opposite order (i.e., in the two numbers, the hundreds digit and the units digit are exchanged, while the tens digit is the same). Which of the answers listed could be the difference between Clara's number and Dalia's? A) 378            B) 295            C) 196             D) 495            E) 504
-
-[[Quesiti/src_kangourou_2023_benjamin_semifinale#q06|src_kangourou_2023_benjamin_semifinale__Q06]]
 
 
 
@@ -399,8 +387,6 @@ Sum of Gabriele's triple renata, number discarded
 > ...
 > ...
 
-[[Quesiti/src_kangourou_2023_benjamin_semifinale#q07|src_kangourou_2023_benjamin_semifinale__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -426,8 +412,6 @@ Sum of Gabriele's triple renata, number discarded
 *which time gives the smaller acute angle*
 
 > (Points 5) In which of the following hours and minutes do the two hands of a clock (with a 12-hour dial) form the minor acute angle? A) 02:11             B) 04:22               C) 06:33            D) 08:44              E) 10:55
-
-[[Quesiti/src_kangourou_2023_benjamin_semifinale#q08|src_kangourou_2023_benjamin_semifinale__Q08]]
 
 
 
@@ -458,8 +442,6 @@ Sum of Gabriele's triple renata, number discarded
 
 > (Points 6) How many positive integers less than 40 have the property that the sum of the squares of their two digits is itself a perfect square? (Numbers must be thought of as two digits anyway, for example 4 must be thought of as 04.) A) 1 B) 9 C) 12 D) 13 E) 14 Open-ended questions
 
-[[Quesiti/src_kangourou_2023_benjamin_semifinale#q09|src_kangourou_2023_benjamin_semifinale__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,skill_modellizzazione"></span>
@@ -484,8 +466,6 @@ Sum of Gabriele's triple renata, number discarded
 *total family*
 
 > I have as many brothers as I have sisters. For each of my brothers, it happens that the number of his sisters is twice the number of his brothers. With Mom and Dad, how many of us are in the family?
-
-[[Quesiti/src_kangourou_2023_benjamin_semifinale#q10|src_kangourou_2023_benjamin_semifinale__Q10]]
 
 
 
@@ -516,8 +496,6 @@ Sum of Gabriele's triple renata, number discarded
 ![[src_kangourou_2023_benjamin_semifinale__prob11.png]]
 
 > (Points 5) In the ABC triangle shown in the figure, the height EC from C meets the bisector AD of angle BAC at O. Angle ABC measures 60 degrees, angle AOE measures 70. How many degrees does angle ACB measure?
-
-[[Quesiti/src_kangourou_2023_benjamin_semifinale#q11|src_kangourou_2023_benjamin_semifinale__Q11]]
 
 
 
@@ -575,8 +553,6 @@ Sum of Gabriele's triple renata, number discarded
 
 > With a black marker, Lorenzo drew on a sheet of paper 10 squares of 1 cm side, 10 squares of 2 cm side and 10 squares of 3 cm side and then cut them (the edges remained clearly visible after cutting). Now he has to use some of them to get the same drawing that appears in the figure. In order to perform this task, he may place them side by side or partially overlapped. How many are enough for him?
 
-[[Quesiti/src_kangourou_2023_benjamin_semifinale#q12|src_kangourou_2023_benjamin_semifinale__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_logica,method_estremalita,skill_casework_accurato"></span>
@@ -608,8 +584,6 @@ Sum of Gabriele's triple renata, number discarded
 > mixed bags, in each of which the set of pears weighs as much as the set of apples. Certainly 
 > I could not have hoped to use more pears than the ones I used. How many pears did I not use?
 
-[[Quesiti/src_kangourou_2023_benjamin_semifinale#q13|src_kangourou_2023_benjamin_semifinale__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
@@ -639,8 +613,6 @@ Sum of Gabriele's triple renata, number discarded
 
 > (Points 6) Maurizio and Carlo each have a box of balls. Each ball weighs a whole number of grams; in each of the boxes, the balls all have the same weight, but those in Maurizio's box are lighter than those in Carlo's box. Multiplying the weight of one of Maurizio's balls by that of one of Carlo's balls gets 81; adding up the weights of all the balls gets 1001. How many grams does each of Maurizio's balls weigh?
 
-[[Quesiti/src_kangourou_2023_benjamin_semifinale#q14|src_kangourou_2023_benjamin_semifinale__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato"></span>
@@ -665,8 +637,6 @@ Sum of Gabriele's triple renata, number discarded
 *n is 23*
 
 > (Points 6) How many positive integers n are there such that the remainder of the division 2023 : n is 23?
-
-[[Quesiti/src_kangourou_2023_benjamin_semifinale#q15|src_kangourou_2023_benjamin_semifinale__Q15]]
 
 
 
@@ -697,8 +667,6 @@ Sum of Gabriele's triple renata, number discarded
 > so that each one is the product of the two numbers written adjacent to it. How many numbers are
 > written?
 
-[[Quesiti/src_kangourou_2023_benjamin_semifinale#q16|src_kangourou_2023_benjamin_semifinale__Q16]]
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,method_casework,skill_manipolazione_algebrica"></span>
@@ -724,8 +692,6 @@ Sum of Gabriele's triple renata, number discarded
 Find n *
 
 > That's how Gaia plays. He writes an integer n, then he multiplies it randomly or by 5 or by 6. To the product, the random sum is either 5 or 6. At the sum, he randomly subtracts five or six. If the end result is 78, what number is n?
-
-[[Quesiti/src_kangourou_2023_benjamin_semifinale#q17|src_kangourou_2023_benjamin_semifinale__Q17]]
 
 
 
@@ -757,5 +723,3 @@ Find n *
 > obtain from the alignment of the remaining digits (one fewer than before) a new number that is divisible
 > by 9. There are several ways to do this. What is the sum of the digits that can be removed as the
 > possible ways vary?
-
-[[Quesiti/src_kangourou_2023_benjamin_semifinale#q18|src_kangourou_2023_benjamin_semifinale__Q18]]

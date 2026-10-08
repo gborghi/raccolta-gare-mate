@@ -33,8 +33,6 @@ level: BMO Round 2
 
 > Trova tutte le soluzioni in numeri interi non negativi $a, b, c$ a $\sqrt{a} + \sqrt{b} + \sqrt{c} = 2009$.
 
-[[Quesiti/src_bmo_2008-09_round2#q01|src_bmo_2008-09_round2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: BMO Round 2
 *Il cerchio di circumcentro del triangolo BHC si trova sul cerchio del triangolo ABC*
 
 > Che $ABC$ sia un triangolo acuto e che $H$ sia l'ortocentro del triangolo $ABC$. Prova che il centro del circoncircolo del triangolo $BHC$ si trova sul circoncircolo del triangolo $ABC$.
-
-[[Quesiti/src_bmo_2008-09_round2#q02|src_bmo_2008-09_round2__Q02]]
 
 
 
@@ -88,8 +84,6 @@ level: BMO Round 2
 *Ricerca tutte le funzioni reali che soddisfano un'equazione funzionale cubica simmetrica*
 
 > Trova tutte le funzioni $f$ dai numeri reali ai numeri reali che soddisfano $$f(x)^3 + f(y)^3 + f(z)^3 = f(x+y+z)\bigl(f(x)^2 + f(y)^2 + f(z)^2 - f(x)f(y) - f(y)f(z) - f(z)f(x)\bigr)$$ per tutti i numeri reali $x, y, z$.
-
-[[Quesiti/src_bmo_2008-09_round2#q03|src_bmo_2008-09_round2__Q03]]
 
 
 
@@ -123,5 +117,3 @@ Il 2009 implica l'esistenza di casi di uguaglianza
 > Ad esempio, se $n = 10$ allora la rappresentazione binaria è $1010$, quindi $k(10) = 10$ (conteggiando tutti gli integri positivi distinti rappresentabili da un blocco contiguo di cifre di $1010$, notando che $0$ non conta come un intero positivo).
 > 
 > Indicare che se $k(n) \le 2009$, allora $n \le 2^{20}$, e determinare i valori di $n$ per cui vale l'uguaglianza.
-
-[[Quesiti/src_bmo_2008-09_round2#q04|src_bmo_2008-09_round2__Q04]]

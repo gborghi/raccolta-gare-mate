@@ -41,8 +41,6 @@ level: China Western Mathematical Olympiad
 > 
 > b) $2^{m+1} p^k$ è il numero intero positivo più piccolo $n$ che soddisfa l'equazione di congruenza $2^n \equiv 1 \pmod{p^{k+1}}$.
 
-[[Quesiti/src_cn_cwmo_2010#q01|src_cn_cwmo_2010__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -72,8 +70,6 @@ level: China Western Mathematical Olympiad
 
 ![[src_cn_cwmo_b11_w236__q02.png]]
 
-[[Quesiti/src_cn_cwmo_2010#q02|src_cn_cwmo_2010__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_casework,method_conteggio,method_doppio_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
@@ -98,8 +94,6 @@ level: China Western Mathematical Olympiad
 *Ricerca tutti i n con n sottoinsiemi di k di intersezione singola in coppia di {1,...,n}*
 
 > Determinare tutti i possibili valori del numero intero positivo $n$ in modo che ci siano $n$ diversi $k$-sottotitoli $A_1, A_2, \ldots, A_n$ dell'insieme $\{1, 2, \ldots, n\}$ con $|A_i \cap A_j| = 1$ per tutti $1 \le i < j \le n$ e $2 \le k \le 3$.
-
-[[Quesiti/src_cn_cwmo_2010#q03|src_cn_cwmo_2010__Q03]]
 
 
 
@@ -142,8 +136,6 @@ level: China Western Mathematical Olympiad
 > 
 > Prove che $\max_{1 \le k \le n} a_k b_k \le \dfrac{10}{n^2}$.
 
-[[Quesiti/src_cn_cwmo_2010#q04|src_cn_cwmo_2010__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_ricorsione,method_induzione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -171,7 +163,6 @@ level: China Western Mathematical Olympiad
 > $k$ sia un numero intero e $k > 1$. Definire una sequenza $\{a_n\}$ come segue: $a_1 = 0$, $a_2 = 1$ e $a_{n+1} = ka_n + a_{n-1}$ per $n = 1, 2, \ldots$ Determinare, con la prova, tutti i possibili $k$ in modo che esistano integri non negativi $\ell, m$ ($\ell \ne m$) e integri positivi $p, q$ in modo che $a_\ell + ka_p = a_m + ka_q$.
 
 **Risposta:** k=2
-[[Quesiti/src_cn_cwmo_2010#q05|src_cn_cwmo_2010__Q05]]
 
 
 
@@ -202,8 +193,6 @@ level: China Western Mathematical Olympiad
 
 ![[src_cn_cwmo_b11_w236__q06.png]]
 
-[[Quesiti/src_cn_cwmo_2010#q06|src_cn_cwmo_2010__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_grafi,method_casework,method_estremalita,skill_modellizzazione,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
@@ -228,5 +217,3 @@ level: China Western Mathematical Olympiad
 *Trova tutte le n in cui ogni giocatore non è superato nel torneo di round-robin*
 
 > Ci sono giocatori $n$ ($n \ge 3$) in un torneo di tennis da tavolo, in cui due giocatori hanno una partita. Il giocatore $A$ è chiamato non superato dal giocatore $B$, se almeno uno dei perdenti del giocatore $A$ non è un perdente di $B$. Determinare, con la prova, tutti i valori di $n$ in modo tale che possa verificarsi il seguente caso: dopo aver terminato tutte le partite, ogni giocatore non è superato da nessun altro giocatore.
-
-[[Quesiti/src_cn_cwmo_2010#q07|src_cn_cwmo_2010__Q07]]

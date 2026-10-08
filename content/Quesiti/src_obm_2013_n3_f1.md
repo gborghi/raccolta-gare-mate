@@ -39,7 +39,6 @@ level: OBM Nível 3
 > (A) $2$ \quad (B) $9$ \quad (C) $18$ \quad (D) $90$ \quad (E) $1800$
 
 **Risposta:** C
-[[Quesiti/src_obm_2013_n3_f1#q01|src_obm_2013_n3_f1__Q01]]
 
 
 
@@ -71,7 +70,6 @@ level: OBM Nível 3
 > (A) Niente, visto che pagherà la stessa somma. Quad (B) Perderà reais. \quad (C) Otterrà $105$ reais. Quad (D) Perderà i reais. Quad (E) Perderà $105$ reais.
 
 **Risposta:** D
-[[Quesiti/src_obm_2013_n3_f1#q02|src_obm_2013_n3_f1__Q02]]
 
 
 
@@ -102,8 +100,6 @@ level: OBM Nível 3
 > 
 > (A) $0$ \quad (B) $1$ \quad (C) $2$ \quad (D) $3$ \quad (E) $4$
 
-[[Quesiti/src_obm_2013_n3_f1#q03|src_obm_2013_n3_f1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_casework,method_estremalita,skill_conteggio_sistematico,skill_lettura_attenta,skill_stima"></span>
@@ -133,8 +129,6 @@ level: OBM Nível 3
 > 
 > (A) $4$ \quad (B) $5$ \quad (C) $6$ \quad (D) $7$ \quad (E) $8$
 
-[[Quesiti/src_obm_2013_n3_f1#q04|src_obm_2013_n3_f1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -163,8 +157,6 @@ level: OBM Nível 3
 > Joana riempie completamente una griglia rettangolare scrivendo i numeri da $1$ a $2013$, un numero in ogni cella. Comincia nella prima colonna e la riempie dall'alto verso il basso; poi riempie la seconda colonna da basso verso l'alto, e continua in questa direzione, riempendo la terza colonna dall'alto verso il basso, la quarta, ecc., fino a raggiungere l'ultima colonna e finire nell'angolo inferiore-destra. Il numero $50$ è nella seconda colonna e il numero $100$ è nella quarta colonna. In quale colonna è scritto il numero $1000$?
 > 
 > (A) $23$ \quad (B) $31$ \quad (C) $33$ \quad (D) $39$ \quad (E) $61$
-
-[[Quesiti/src_obm_2013_n3_f1#q05|src_obm_2013_n3_f1__Q05]]
 
 
 
@@ -197,7 +189,6 @@ level: OBM Nível 3
 > (A) $4$ \quad (B) $3+\sqrt{3}$ \quad (C) $2+2\sqrt{2}$ \quad (D) $2+\sqrt{5}$ \quad (E) $5$
 
 **Risposta:** E
-[[Quesiti/src_obm_2013_n3_f1#q06|src_obm_2013_n3_f1__Q06]]
 
 
 
@@ -229,7 +220,6 @@ level: OBM Nível 3
 > (A) $\sqrt{7}$ \quad (B) $2\sqrt{2}$ \quad (C) $3$ \quad (D) $\sqrt{10}$ \quad (E) $2\sqrt{3}$
 
 **Risposta:** D
-[[Quesiti/src_obm_2013_n3_f1#q07|src_obm_2013_n3_f1__Q07]]
 
 
 
@@ -273,7 +263,6 @@ level: OBM Nível 3
 > (A) $45$ \quad (B) $46$ \quad (C) $62$ \quad (D) $63$ \quad (E) $64$
 
 **Risposta:** A
-[[Quesiti/src_obm_2013_n3_f1#q08|src_obm_2013_n3_f1__Q08]]
 
 
 
@@ -306,7 +295,6 @@ level: OBM Nível 3
 > (A) $6$ \quad (B) $8$ \quad (C) $12$ \quad (D) $24$ \quad (E) $36$
 
 **Risposta:** B
-[[Quesiti/src_obm_2013_n3_f1#q09|src_obm_2013_n3_f1__Q09]]
 
 
 
@@ -339,7 +327,6 @@ level: OBM Nível 3
 > (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
 
 **Risposta:** C
-[[Quesiti/src_obm_2013_n3_f1#q10|src_obm_2013_n3_f1__Q10]]
 
 
 
@@ -369,8 +356,6 @@ level: OBM Nível 3
 > Considerate cinque punti dell'aereo. Qual è la quantità massima di triangoli equilaterali con vertici tra tre di questi cinque punti?
 > 
 > (A) $2$ \quad (B) $3$ \quad (C) $4$ \quad (D) $5$ \quad (E) $6$
-
-[[Quesiti/src_obm_2013_n3_f1#q11|src_obm_2013_n3_f1__Q11]]
 
 
 
@@ -403,8 +388,6 @@ level: OBM Nível 3
 > (A) $35^\circ$ \quad (B) $10^\circ$ \quad (C) $20^\circ$ \quad (D) $30^\circ$ \quad (E) $55^\circ$
 
 ![[src_obm_2013_n3_f1__q12.png]]
-
-[[Quesiti/src_obm_2013_n3_f1#q12|src_obm_2013_n3_f1__Q12]]
 
 
 
@@ -441,7 +424,6 @@ level: OBM Nível 3
 ![[src_obm_2013_n3_f1__q13.png]]
 
 **Risposta:** B
-[[Quesiti/src_obm_2013_n3_f1#q13|src_obm_2013_n3_f1__Q13]]
 
 
 
@@ -482,7 +464,6 @@ level: OBM Nível 3
 > (A) $4$ \quad (B) $5$ \quad (C) $6$ \quad (D) $12$ \quad (E) $24$
 
 **Risposta:** D
-[[Quesiti/src_obm_2013_n3_f1#q14|src_obm_2013_n3_f1__Q14]]
 
 
 
@@ -512,8 +493,6 @@ level: OBM Nível 3
 > Una \emph{potenza perfetta} è un intero della forma $a^b$, dove $a$ e $b$ sono interi, $b > 1$. La potenza $f(n)$ deve essere la potenza perfetta più grande che non superi $n$. Per esempio, $f(7) = 4$, $f(8) = 8$ e $f(99) = 81$. Tracciando casualmente un intero $k$ con $1 \le k \le 100$, qual è la probabilità che $f(k)$ sia un quadrato perfetto?
 > 
 > (A) $64\%$ \quad (B) $72\%$ \quad (C) $81\%$ \quad (D) $90\%$ \quad (E) $96\%$
-
-[[Quesiti/src_obm_2013_n3_f1#q15|src_obm_2013_n3_f1__Q15]]
 
 
 
@@ -548,8 +527,6 @@ level: OBM Nível 3
 
 ![[src_obm_2013_n3_f1__q16.png]]
 
-[[Quesiti/src_obm_2013_n3_f1#q16|src_obm_2013_n3_f1__Q16]]
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -579,8 +556,6 @@ level: OBM Nível 3
 > 
 > (A) $12$ \quad (B) $24$ \quad (C) $36$ \quad (D) $48$ \quad (E) $100$
 
-[[Quesiti/src_obm_2013_n3_f1#q17|src_obm_2013_n3_f1__Q17]]
-
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -609,8 +584,6 @@ Distribuire 10 palle bianche e 8 palle rosse in 5 scatole uguali, ciascuna scato
 > In quanti modi possiamo distribuire le sfere bianche e le sfere rosse in cinque scatole uguali, in modo tale che ogni scatole abbia almeno una sfera e che ogni scatole abbia un numero diverso di sfere bianche?
 > 
 > (A) $330$ \quad (B) $348$ \quad (C) $512$ \quad (D) $676$ \quad (E) $900$
-
-[[Quesiti/src_obm_2013_n3_f1#q18|src_obm_2013_n3_f1__Q18]]
 
 
 
@@ -642,7 +615,6 @@ Numero più vicino al numero di cifre di 3^400*
 > (A) $100$ \quad (B) $150$ \quad (C) $200$ \quad (D) $240$ \quad (E) $300$
 
 **Risposta:** C
-[[Quesiti/src_obm_2013_n3_f1#q19|src_obm_2013_n3_f1__Q19]]
 
 
 
@@ -674,8 +646,6 @@ Numero più vicino al numero di cifre di 3^400*
 > 
 > (A) $43$ \quad (B) $44$ \quad (C) $87$ \quad (D) $88$ \quad (E) $89$
 
-[[Quesiti/src_obm_2013_n3_f1#q20|src_obm_2013_n3_f1__Q20]]
-
 
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -703,8 +673,6 @@ Numero più vicino al numero di cifre di 3^400*
 > Nel trapezoide $ABCD$, con $AB$ parallelo a $CD$, l'angolo $\angle BAD$ misura $82^\circ$ e l'angolo $\angle ABC$ misura $74^\circ$. Supponiamo che esista un punto $P$ sul lato $CD$ tale che $AD + DP = PC + CB = AB$. Quanto misura l'angolo $\angle APB$?
 > 
 > (A) $76^\circ$ \quad (B) $77^\circ$ \quad (C) $78^\circ$ \quad (D) $79^\circ$ \quad (E) $80^\circ$
-
-[[Quesiti/src_obm_2013_n3_f1#q21|src_obm_2013_n3_f1__Q21]]
 
 
 
@@ -734,8 +702,6 @@ Numero più vicino al numero di cifre di 3^400*
 > Quanti numeri a quattro cifre con cifre distinte non hanno $1$ nelle unità, né $2$ nelle decine, né $3$ nelle centinaia, né $4$ nelle migliaia?
 > 
 > (A) Meno di $1000$ \quad (B) Più di $1000$ e meno di $2000$ \quad (C) Più di $2000$ e meno di $3000$ \quad (D) Più di $3000$ e meno di $4000$ \quad (E) Più di $4000$
-
-[[Quesiti/src_obm_2013_n3_f1#q22|src_obm_2013_n3_f1__Q22]]
 
 
 
@@ -768,7 +734,6 @@ Numero più vicino al numero di cifre di 3^400*
 > (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
 
 **Risposta:** C
-[[Quesiti/src_obm_2013_n3_f1#q23|src_obm_2013_n3_f1__Q23]]
 
 
 
@@ -801,7 +766,6 @@ Numero più vicino al numero di cifre di 3^400*
 > (A) $0$ \quad (B) $1$ \quad (C) $2$ \quad (D) $4$ \quad (E) $n$, dove $n$ è il grado di $p(x)$
 
 **Risposta:** C
-[[Quesiti/src_obm_2013_n3_f1#q24|src_obm_2013_n3_f1__Q24]]
 
 
 
@@ -834,4 +798,3 @@ Numero più vicino al numero di cifre di 3^400*
 > (A) $\dfrac{1+\sqrt{5}}{2}$ \quad (B) $\sqrt{5}$ \quad (C) $\dfrac{3+\sqrt{5}}{2}$ \quad (D) $1+\sqrt{5}$ \quad (E) $2+\sqrt{5}$
 
 **Risposta:** E
-[[Quesiti/src_obm_2013_n3_f1#q25|src_obm_2013_n3_f1__Q25]]

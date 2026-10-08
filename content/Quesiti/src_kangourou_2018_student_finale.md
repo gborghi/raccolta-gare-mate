@@ -34,7 +34,6 @@ level: kangourou
 > The sides of a quadrilateral measure $1, 4, 7, 8$. What can its area be, at most?
 
 **Answer:** 18
-[[Quesiti/src_kangourou_2018_student_finale#q01|src_kangourou_2018_student_finale__Q01]]
 
 
 
@@ -63,7 +62,6 @@ level: kangourou
 > From a standard 52-card deck, Chiara discarded some cards, making sure all four aces remained in the remaining deck. Now extract four cards randomly from this reduced deck. If the probability of drawing exactly the four aces is $\frac{1}{1001}$, how many cards did she throw away?
 
 **Answer:** 38
-[[Quesiti/src_kangourou_2018_student_finale#q02|src_kangourou_2018_student_finale__Q02]]
 
 
 
@@ -91,8 +89,7 @@ Show that the solution of x^5+x=10 is irrational
 
 > It already considers that the $x^5 + x = 10$ equation admits only one solution (real positive). It shows that such a solution is not a rational number (i.e. it cannot be expressed as a quotient of two integers).
 
-**Answer:** irrazionale (dim.)
-[[Quesiti/src_kangourou_2018_student_finale#q03|src_kangourou_2018_student_finale__Q03]]
+**Answer:** irrational (proof)
 
 
 
@@ -121,7 +118,6 @@ Show that the solution of x^5+x=10 is irrational
 > Show that a 20-digit (decimal) integer whose first 11 digits (left) are all $``1"$ cannot be a perfect square.
 
 **Answer:** not a square (proof)
-[[Quesiti/src_kangourou_2018_student_finale#q04|src_kangourou_2018_student_finale__Q04]]
 
 
 
@@ -150,7 +146,6 @@ Show that the solution of x^5+x=10 is irrational
 > Imagine the plane as a square sheet (all with the same side length) boundless in every direction and call **node** each vertex of each square. Prove that for every $n$ there exists a circle containing exactly $n$ nodes inside.
 
 **Answer:** it always exists (proof)
-[[Quesiti/src_kangourou_2018_student_finale#q05|src_kangourou_2018_student_finale__Q05]]
 
 
 
@@ -182,5 +177,4 @@ Show that the solution of x^5+x=10 is irrational
 
 > Call **rhombic** every convex equilateral polygon if it is possible to tile it with a finite number of rhombi having the same side as the polygon. Characterize in the most explicit way possible all convex equilateral rhombic polygons.
 
-**Answer:** lati a coppie paralleli
-[[Quesiti/src_kangourou_2018_student_finale#q06|src_kangourou_2018_student_finale__Q06]]
+**Answer:** sides parallel in pairs

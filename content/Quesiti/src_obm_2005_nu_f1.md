@@ -33,8 +33,6 @@ level: OBM Nível Universitário
 
 > $f : \mathbb{R} \to \mathbb{R}$ definito da $f(x) = x^3 + ax^2 + bx + c$, dove $a$, $b$, $c$ sono numeri interi. È noto che $f(1) = f(-1) = 0$. Le linee tangenti al grafico di $f$ nei punti $A = (-1,\,0)$ e $B = (1,\,0)$ si incrociano al punto $C$. Calcolare l'area del triangolo $ABC$, sapendo che quest'area è un numero intero.
 
-[[Quesiti/src_obm_2005_nu_f1#q01|src_obm_2005_nu_f1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_insiemi_funzioni,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -61,8 +59,6 @@ level: OBM Nível Universitário
 
 > Calcolare l'integrale $$\int_0^{\pi/4} \ln(1 + \tan x)\, dx.$$
 
-[[Quesiti/src_obm_2005_nu_f1#q02|src_obm_2005_nu_f1__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_disuguaglianze,method_estremalita,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima"></span>
@@ -88,8 +84,6 @@ level: OBM Nível Universitário
 *Maximizzare il volume del tetraedro inciso in un ellissoide*
 
 > Trova il più grande volume possibile di un tetraedro inserito nell'ellipsoide con l'equazione $$\frac{x^2}{9} + \frac{y^2}{16} + \frac{z^2}{25} = 1.$$
-
-[[Quesiti/src_obm_2005_nu_f1#q03|src_obm_2005_nu_f1__Q03]]
 
 
 
@@ -118,8 +112,6 @@ level: OBM Nível Universitário
 
 > Lasciate che $A$ e $B$ siano matrici quadrate reali della stessa dimensione in modo tale che, per ogni intero positivo $k$, $$(A + B)^k = A^k + B^k.$$ dimostri che se $A$ è invertibile allora $B$ è la matrice zero.
 
-[[Quesiti/src_obm_2005_nu_f1#q04|src_obm_2005_nu_f1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,method_fattorizzazione,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -147,8 +139,6 @@ level: OBM Nível Universitário
 
 > Determinare tutti i valori di $\alpha$ per i quali la matrice $A = (a_{ij})_{n \times n}$, definita da $$a_{ij} = \cos((i-1)\cdot j\alpha),$$ per $1 \le i,\, j \le n$, ha determinante uguale a zero.
 
-[[Quesiti/src_obm_2005_nu_f1#q05|src_obm_2005_nu_f1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,method_estremalita,skill_stima,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -173,5 +163,3 @@ level: OBM Nível Universitário
 *Prove che per qualsiasi permutazione di cifre esistono meno di 27 potenze distinte del 2005 con n cifre*
 
 > Prove che esistono meno di 27 potenze distinte del 2005 (cioè numeri della forma $n^{27}$, dove $n$ è un numero intero positivo), tutti con lo stesso numero di cifre, in modo che uno di essi possa essere ottenuto da qualsiasi altro mediante una permutazione delle sue cifre.
-
-[[Quesiti/src_obm_2005_nu_f1#q06|src_obm_2005_nu_f1__Q06]]

@@ -35,8 +35,6 @@ level: China Southeastern Mathematical Olympiad
 
 > Quanti integri $a$ soddisfano la condizione: per ogni $a$, l'equazione $x^2 = ax + a + 1$ rispetto a $x$ ha radici pari e $|x| < 1000$?
 
-[[Quesiti/src_cn_csmo_2007#q03|src_cn_csmo_2007__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
@@ -63,8 +61,6 @@ level: China Southeastern Mathematical Olympiad
 *Semicircolo con punti C, D, tangente a B incontra CD a P; linea PO incontra CA e AD; prova OE = OF*
 
 > Come mostrato nella figura, i punti $C$ e $D$ sono sul semicircolo con $O$ come centro e $AB$ come diametro. La linea tangente al semicircolo al punto $B$ incontra la linea $CD$ al punto $P$. La linea $PO$ incrocia rispettivamente $CA$ e $AD$ nei punti $E$ e $F$. Provare $OE = OF$.
-
-[[Quesiti/src_cn_csmo_2007#q04|src_cn_csmo_2007__Q04]]
 
 
 
@@ -95,7 +91,6 @@ level: China Southeastern Mathematical Olympiad
 > Supponiamo $a_n = \min\left\{k + \frac{n+1}{k} \mid k \in \mathbb{N}^*\right\}$, troviamo il valore di $S_{n^2} = [a_1] + [a_2] + \cdots + [a_{n^2}]$, dove $n \ge 2$, e $[x]$ denota il numero intero più grande inferiore o uguale a $x$.
 
 **Risposta:** $S_{n^2} = 4m^2 + 3m + 1$
-[[Quesiti/src_cn_csmo_2007#q05|src_cn_csmo_2007__Q05]]
 
 
 
@@ -123,8 +118,6 @@ level: China Southeastern Mathematical Olympiad
 *Limminum n quindi ogni sequenza di numeri interi positivi sommata al 2007 ha termini consecutivi sommati a 30*
 
 > Trovare il numero intero positivo più piccolo $n$ in modo tale che qualsiasi sequenza di numeri interi positivi $a_1, a_2, \cdots, a_n$ soddisfa $\sum_{i=1}^{n} a_i = 2007$ deve avere diversi termini consecutivi la cui somma è $30$.
-
-[[Quesiti/src_cn_csmo_2007#q06|src_cn_csmo_2007__Q06]]
 
 
 
@@ -159,8 +152,6 @@ level: China Southeastern Mathematical Olympiad
 > 
 > (2) $a + 1$, $b + 1$, $c + 1$ costituiscono la progressione geometrica.
 
-[[Quesiti/src_cn_csmo_2007#q07|src_cn_csmo_2007__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_induzione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -186,5 +177,3 @@ level: China Southeastern Mathematical Olympiad
 *Prove la somma ciclica di a^k/(a+b) ≥ 3/2 per abc=1 e per l'intero k≥2*
 
 > Date i numeri reali $a$, $b$, $c$ tali che $abc = 1$, dimostrino che per tutti gli integri $k \geqslant 2$, $$\frac{a^k}{a+b} + \frac{b^k}{b+c} + \frac{c^k}{c+a} \geqslant \frac{3}{2}.$$
-
-[[Quesiti/src_cn_csmo_2007#q08|src_cn_csmo_2007__Q08]]

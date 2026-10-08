@@ -38,7 +38,6 @@ level: kangourou
 > The four arcs that delimit the shaded region are all the same length, equal to the length of the two stretched arcs. This length is a quarter of the length of a circumference of radius 1 cm. How many square centimeters is the area of the shaded region? (see figure)
 
 **Answer:** 2
-[[Quesiti/src_kangourou_2020_cadet_finale#qc1|src_kangourou_2020_cadet_finale__QC1]]
 
 
 
@@ -67,7 +66,6 @@ level: kangourou
 > In the Cartesian plane, how long is the shortest path linking the $(808, 808)$ point to the $(404, -808)$ point by touching the $y$ axis at least once?
 
 **Answer:** 2020
-[[Quesiti/src_kangourou_2020_cadet_finale#qc2|src_kangourou_2020_cadet_finale__QC2]]
 
 
 
@@ -96,7 +94,6 @@ level: kangourou
 > If $n$ is the smallest positive integer such that the number $7 \cdot n$ has 2021 digits. What is the units digit of $n$?
 
 **Answer:** 9
-[[Quesiti/src_kangourou_2020_cadet_finale#qc3|src_kangourou_2020_cadet_finale__QC3]]
 
 
 
@@ -136,8 +133,7 @@ level: kangourou
 > 
 > (c) for each method of filling the grid there is at most a special number.
 
-**Answer:** aF bV cV
-[[Quesiti/src_kangourou_2020_cadet_finale#qc4|src_kangourou_2020_cadet_finale__QC4]]
+**Answer:** a) false, b) true, c) true
 
 
 
@@ -192,8 +188,7 @@ level: kangourou
 
 > On a circle, 10 points are marked, all distinct from one another. Consider all possible convex polygons (that is, non-self-intersecting polygons whose interior angles all measure less than $180°$) whose vertices are some of the marked points. Let $p$ be any one of the marked points. Are there more polygons that contain $p$ or those that do not contain it, or are there an equal number? (see figure)
 
-**Answer:** piu p
-[[Quesiti/src_kangourou_2020_cadet_finale#qc5|src_kangourou_2020_cadet_finale__QC5]]
+**Answer:** more contain p
 
 
 
@@ -222,4 +217,3 @@ level: kangourou
 > How many pairs $(x, y)$ of integers (not necessarily positive) such that $x^2 + 7y = xy$?
 
 **Answer:** 6
-[[Quesiti/src_kangourou_2020_cadet_finale#qc6|src_kangourou_2020_cadet_finale__QC6]]

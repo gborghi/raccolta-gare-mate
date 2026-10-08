@@ -36,7 +36,6 @@ level: squadre
 > How many positive integers n are such that both n - 2012 and n + 2012 are four-digit numbers?
 
 **Answer:** 4976
-[[Quesiti/src_kangourou_2012_squadre_semifinale#q01|src_kangourou_2012_squadre_semifinale__Q01]]
 
 
 
@@ -67,7 +66,6 @@ level: squadre
 > The right triangle the ABC triangle is a right triangle in A. The circumference with center in A and passing through B intersects the hypotenuse BC at point D: the BD segment is 20 cm long and the DC segment is 16 cm long. How much is the square of the length of the leg AC?
 
 **Answer:** 936
-[[Quesiti/src_kangourou_2012_squadre_semifinale#q02|src_kangourou_2012_squadre_semifinale__Q02]]
 
 
 
@@ -140,7 +138,6 @@ level: squadre
 > The colored trapezoid In the figure you see a trapezoid, part of which has been colored gray. The main base of the trapezoid is 7 metres long, the minor base is 3 metres long. What percentage of the trapezoid's surface is left white?
 
 **Answer:** 42
-[[Quesiti/src_kangourou_2012_squadre_semifinale#q03|src_kangourou_2012_squadre_semifinale__Q03]]
 
 
 
@@ -172,7 +169,6 @@ level: squadre
 > By adding two "1"s, Stephen wrote a number and then added a 1 before his digits and another 1 after his digits (for example, if he had written 17 the first time, he would have written 1171). If you make the difference between the number written the second time and the number written the first time, you get 14789. What number did he write the first time?
 
 **Answer:** 532
-[[Quesiti/src_kangourou_2012_squadre_semifinale#q04|src_kangourou_2012_squadre_semifinale__Q04]]
 
 
 
@@ -203,7 +199,6 @@ level: squadre
 > A very long sum Sum all the four-digit numbers that can be formed using only the digits 1, 2, 3 and 4, even repeated. What are the first four digits of the result you get?
 
 **Answer:** 7110
-[[Quesiti/src_kangourou_2012_squadre_semifinale#q05|src_kangourou_2012_squadre_semifinale__Q05]]
 
 
 
@@ -235,7 +230,6 @@ level: squadre
 > Rectangles and squares A rectangle of 112 cm perimeter is cut into three parallel strips and each of these strips is cut into five parts: thus, without any excesses, fifteen squares are all equal between them. What are the dimensions (in centimeters) of the rectangle? (Write down below the larger followed by the smaller.)
 
 **Answer:** 3521
-[[Quesiti/src_kangourou_2012_squadre_semifinale#q06|src_kangourou_2012_squadre_semifinale__Q06]]
 
 
 
@@ -271,7 +265,6 @@ level: squadre
 > 8:00. In how many seconds will the two hands be overlapping for the first time?
 
 **Answer:** 2610
-[[Quesiti/src_kangourou_2012_squadre_semifinale#q07|src_kangourou_2012_squadre_semifinale__Q07]]
 
 
 
@@ -304,7 +297,6 @@ level: squadre
 > Giulia wants to ride her bicycle to a friend's house who is 18 km away from her. They agreed on the time of the visit by telephone, assuming that Julia would take an hour to make the trip. The first 5 km of the road, however, are in a slight climb and, after having traveled them, Giulia realizes that she has pedalled at an average speed of only 10 km/h. If she does not want to be late and if she wants to keep a constant speed for the remaining kilometres, how many kilometres per hour must this speed be?
 
 **Answer:** 26
-[[Quesiti/src_kangourou_2012_squadre_semifinale#q08|src_kangourou_2012_squadre_semifinale__Q08]]
 
 
 
@@ -335,7 +327,6 @@ level: squadre
 > Cube and triangles Assigned a cube, how many different right triangles can be identified that have as vertices three of the vertices of the cube?
 
 **Answer:** 48
-[[Quesiti/src_kangourou_2012_squadre_semifinale#q09|src_kangourou_2012_squadre_semifinale__Q09]]
 
 
 
@@ -366,7 +357,6 @@ level: squadre
 > How many integers between 200 and 999 are such that, multiplying the number of units by the number of tens, we get the number of hundreds?
 
 **Answer:** 22
-[[Quesiti/src_kangourou_2012_squadre_semifinale#q10|src_kangourou_2012_squadre_semifinale__Q10]]
 
 
 
@@ -397,7 +387,6 @@ How much did Charles spend (average friends 82)
 > Shopping Carlo and eight of his friends bought some items. Charles' friends spent an average of 82 euros each; Charles spent 64 euros more than the average of what Charles and his eight friends spent. How much did Charles spend?
 
 **Answer:** 154
-[[Quesiti/src_kangourou_2012_squadre_semifinale#q11|src_kangourou_2012_squadre_semifinale__Q11]]
 
 
 
@@ -429,7 +418,6 @@ How much did Charles spend (average friends 82)
 > A very visited park At the entrance to a park there is a turnstile that counts the entrances, since its foundation. After Paul's entrance, the turnstile reads 31879564, which is a number made up of digits all different from each other: the next time the number of entrances will still be made up of digits all different from each other, how many visitors will have entered after Paul?
 
 **Answer:** 38
-[[Quesiti/src_kangourou_2012_squadre_semifinale#q12|src_kangourou_2012_squadre_semifinale__Q12]]
 
 
 
@@ -461,7 +449,6 @@ How much did Charles spend (average friends 82)
 > Revenue The profit and income (in euro) from a sale are two numbers of three digits each. For these two numbers the tens digit is the same, while those of units and hundreds are exchanged between them. Multiplying the two numbers gives us 71685. How much revenue?
 
 **Answer:** 531
-[[Quesiti/src_kangourou_2012_squadre_semifinale#q13|src_kangourou_2012_squadre_semifinale__Q13]]
 
 
 
@@ -492,7 +479,6 @@ How much did Charles spend (average friends 82)
 > If you divide 1059, 1417 and 2312 by a certain integer n greater than 1, you always get the same remainder. What's the number n?
 
 **Answer:** 179
-[[Quesiti/src_kangourou_2012_squadre_semifinale#q14|src_kangourou_2012_squadre_semifinale__Q14]]
 
 
 
@@ -538,4 +524,3 @@ How much did Charles spend (average friends 82)
 > Questions and Answers
 
 **Answer:** 112
-[[Quesiti/src_kangourou_2012_squadre_semifinale#q15|src_kangourou_2012_squadre_semifinale__Q15]]

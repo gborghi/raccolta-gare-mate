@@ -32,8 +32,6 @@ level: RMO
 
 > $ABC$ sia un triangolo rettangolare con $\angle B = 90^\circ$. Il $I$ deve essere il centro di $ABC$. Lasciate che $AI$ si intersechi con $BC$ all'interno di $F$. Disegnare una linea perpendicolare a $AI$ a $I$. Lasciate che $AC$ si intersechi a $E$. Prova che $IE = IF$.
 
-[[Quesiti/src_rmo_2016_r2#q01|src_rmo_2016_r2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima"></span>
@@ -61,8 +59,6 @@ level: RMO
 
 > $a, b, c$ siano numeri reali positivi in modo tale che $$\frac{a}{1+b} + \frac{b}{1+c} + \frac{c}{1+a} = 1.$$ dimostri che $abc \le \frac{1}{8}$.
 
-[[Quesiti/src_rmo_2016_r2#q02|src_rmo_2016_r2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
@@ -87,8 +83,6 @@ level: RMO
 *Trova tutte le n con n^3 = 8S(n) ^3 + 4S(n) + 1*
 
 > Per qualsiasi numero naturale $n$, espresso nella base 10, $S(n)$ indichi la somma di tutti i numeri di $n$. Trova tutti i numeri naturali $n$ in modo tale che $n^3 = 8S(n)^3 + 4S(n) + 1$.
-
-[[Quesiti/src_rmo_2016_r2#q03|src_rmo_2016_r2__Q03]]
 
 
 
@@ -115,8 +109,6 @@ level: RMO
 
 > Quanti numeri naturali a 6 cifre contenenti solo le cifre $1, 2, 3$ in cui $3$ si verifica esattamente due volte e il numero è divisibile da $9$?
 
-[[Quesiti/src_rmo_2016_r2#q04|src_rmo_2016_r2__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -140,8 +132,6 @@ level: RMO
 *Circoli di ACD e ABD si intersecano lateralmente; riflessione K; prova FK=BC*
 
 > $ABC$ sia un triangolo rettangolare con $\angle B = 90^\circ$. Il $AD$ deve essere il bisettore di $\angle A$ con $D$ su $BC$. Lasciate che il circoncircolo del triangolo $ACD$ si intersechi di nuovo $AB$ in $E$, e che il circoncircolo del triangolo $ABD$ si intersechi di nuovo $AC$ in $F$. Il $K$ deve essere il riflesso di $E$ nella riga $BC$. Prove che $FK = BC$.
-
-[[Quesiti/src_rmo_2016_r2#q05|src_rmo_2016_r2__Q05]]
 
 
 
@@ -168,5 +158,3 @@ level: RMO
 *AP {1,4,7,...} ha infinite subsequenze HP a 3 termini con condizione di rapporto*
 
 > Mostrare che la progressione aritmetica infinita $\{1, 4, 7, 10, \ldots\}$ ha infinite successioni a 3 termini nella progressione armonica in modo tale che per due triples $(a_1, a_2, a_3)$ e $(b_1, b_2, b_3)$ in progressione armonica, uno ha $$\frac{a_1}{b_1} = \frac{a_2}{b_2}.$$
-
-[[Quesiti/src_rmo_2016_r2#q06|src_rmo_2016_r2__Q06]]

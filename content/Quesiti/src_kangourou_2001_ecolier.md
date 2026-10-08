@@ -52,7 +52,6 @@ level: kangourou
 > - **(E)**
 
 **Answer:** C
-[[Quesiti/src_kangourou_2001_ecolier#q01|src_kangourou_2001_ecolier__Q01]]
 
 
 
@@ -93,7 +92,6 @@ level: kangourou
 > - **(E)** 9
 
 **Answer:** D
-[[Quesiti/src_kangourou_2001_ecolier#q02|src_kangourou_2001_ecolier__Q02]]
 
 
 
@@ -129,7 +127,6 @@ level: kangourou
 > Jimmy buys his mom a nice present: a chocolate heart like the one in the picture. If each square contains 10 grams of chocolate, what is the weight of the whole heart of chocolate? (A) 340 gr. (B) 360 gr. (C) 380 gr. (D) 400 gr. (E) 420 gr.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2001_ecolier#q03|src_kangourou_2001_ecolier__Q03]]
 
 
 
@@ -187,7 +184,6 @@ level: kangourou
 > - **(E)** 8 Kangourou 15 March 2001, category Ecolier. Page N. 3
 
 **Answer:** C
-[[Quesiti/src_kangourou_2001_ecolier#q04|src_kangourou_2001_ecolier__Q04]]
 
 
 
@@ -234,7 +230,6 @@ level: kangourou
 > - **(E)** 3
 
 **Answer:** C
-[[Quesiti/src_kangourou_2001_ecolier#q05|src_kangourou_2001_ecolier__Q05]]
 
 
 
@@ -274,7 +269,6 @@ level: kangourou
 > - **(E)** 18 – 6 : 3 = 16
 
 **Answer:** E
-[[Quesiti/src_kangourou_2001_ecolier#q06|src_kangourou_2001_ecolier__Q06]]
 
 
 
@@ -317,7 +311,6 @@ level: kangourou
 > - **(E)** 5
 
 **Answer:** E
-[[Quesiti/src_kangourou_2001_ecolier#q07|src_kangourou_2001_ecolier__Q07]]
 
 
 
@@ -354,7 +347,6 @@ level: kangourou
 > The drawing below represents the map of the neighborhood where Peter lives. Each block is a square whose sides measure 100 meters. What is the minimum distance that Peter must travel to school (if the width of the streets is considered negligible)? (A) 100 m. (B) 200 m. (C) 350 m. (D) 450 m. (E) 500 m. The questions from N. 9 to N. 16 is worth 4 points each.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2001_ecolier#q08|src_kangourou_2001_ecolier__Q08]]
 
 
 
@@ -395,7 +387,6 @@ Roberta's age when Cristina has the double
 > - **(E)** 10 years. Kangourou 15 March 2001, category Ecolier. Page N. 4
 
 **Answer:** C
-[[Quesiti/src_kangourou_2001_ecolier#q09|src_kangourou_2001_ecolier__Q09]]
 
 
 
@@ -441,7 +432,6 @@ Roberta's age when Cristina has the double
 > - **(E)** 4.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2001_ecolier#q10|src_kangourou_2001_ecolier__Q10]]
 
 
 
@@ -485,7 +475,6 @@ Roberta's age when Cristina has the double
 > - **(E)** 5.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2001_ecolier#q11|src_kangourou_2001_ecolier__Q11]]
 
 
 
@@ -529,7 +518,6 @@ Roberta's age when Cristina has the double
 > - **(E)** 52.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2001_ecolier#q12|src_kangourou_2001_ecolier__Q12]]
 
 
 
@@ -571,7 +559,6 @@ Roberta's age when Cristina has the double
 > Kangourou 15 March 2001, category Ecolier. This item is not intended to be used. 5
 
 **Answer:** E
-[[Quesiti/src_kangourou_2001_ecolier#q13|src_kangourou_2001_ecolier__Q13]]
 
 
 
@@ -614,7 +601,6 @@ How many more stamps does Arthur have?
 > - **(E)** It depends on the number of stamps each holds.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2001_ecolier#q14|src_kangourou_2001_ecolier__Q14]]
 
 
 
@@ -656,7 +642,6 @@ How many more stamps does Arthur have?
 > - **(E)** 5.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2001_ecolier#q15|src_kangourou_2001_ecolier__Q15]]
 
 
 
@@ -702,7 +687,6 @@ How many more stamps does Arthur have?
 > - **(E)** 6. Questions from N. 17 to N. 24 are worth five points each.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2001_ecolier#q16|src_kangourou_2001_ecolier__Q16]]
 
 
 
@@ -746,7 +730,6 @@ How many more stamps does Arthur have?
 > - **(E)** 11.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2001_ecolier#q17|src_kangourou_2001_ecolier__Q17]]
 
 
 
@@ -798,7 +781,6 @@ How many more stamps does Arthur have?
 > - **(E)** 30.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2001_ecolier#q18|src_kangourou_2001_ecolier__Q18]]
 
 
 
@@ -846,7 +828,6 @@ How many more stamps does Arthur have?
 > - **(E)** 22. Kangourou 15 March 2001, category Ecolier. Page N. 6
 
 **Answer:** C
-[[Quesiti/src_kangourou_2001_ecolier#q19|src_kangourou_2001_ecolier__Q19]]
 
 
 
@@ -887,7 +868,6 @@ How many more stamps does Arthur have?
 > - **(E)** 6.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2001_ecolier#q20|src_kangourou_2001_ecolier__Q20]]
 
 
 
@@ -927,7 +907,6 @@ How many more stamps does Arthur have?
 > Five friends spread their beach towels out to form a large square (see figure next to it). Anna and Betty have their square-shaped fabrics of equal size, each with a perimeter of 720 cm. Carla, Debora, and Elsa have rectangular-shaped fabrics, which are also the same size. What's the perimeter of Elsa's beach towel? (A) 600 cm (B) 560 cm (C) 440 cm (D) 360 cm (E) 300 cm.
 
 **Answer:** A
-[[Quesiti/src_kangourou_2001_ecolier#q21|src_kangourou_2001_ecolier__Q21]]
 
 
 
@@ -971,7 +950,6 @@ How many more stamps does Arthur have?
 > - **(E)** Eight hours.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2001_ecolier#q22|src_kangourou_2001_ecolier__Q22]]
 
 
 
@@ -1015,7 +993,6 @@ How many more stamps does Arthur have?
 > - **(E)** 20.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2001_ecolier#q23|src_kangourou_2001_ecolier__Q23]]
 
 
 
@@ -1072,5 +1049,3 @@ How many more stamps does Arthur have?
 > - **(E)** none of the previous scores.
 
 **Answer:** E
-
-[[Quesiti/src_kangourou_2001_ecolier#q24|src_kangourou_2001_ecolier__Q24]]

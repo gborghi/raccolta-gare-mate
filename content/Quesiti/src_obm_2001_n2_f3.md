@@ -45,8 +45,6 @@ level: OBM Nível 2
 
 ![[src_obm_2001_n2_f3__q01.png]]
 
-[[Quesiti/src_obm_2001_n2_f3#q01|src_obm_2001_n2_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_logica,method_colorazione,method_casework,method_invarianti,skill_ragionamento_geometrico,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -88,8 +86,6 @@ level: OBM Nível 2
 
 ![[src_obm_2001_n2_f3__q02.png]]
 
-[[Quesiti/src_obm_2001_n2_f3#q02|src_obm_2001_n2_f3__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_aritmetica,method_fattorizzazione,method_disuguaglianze,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_stima"></span>
@@ -119,8 +115,6 @@ level: OBM Nível 2
 
 ![[src_obm_2001_n2_f3__q03.png]]
 
-[[Quesiti/src_obm_2001_n2_f3#q03|src_obm_2001_n2_f3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
@@ -145,8 +139,6 @@ level: OBM Nível 2
 *Dimostra che non esistono due interi a, b che soddisfano (a+b)(a^2+b^2)=2001*
 
 > Indicare che non esistono due integri $a$ e $b$ tali da $(a+b)(a^2+b^2)=2001$.
-
-[[Quesiti/src_obm_2001_n2_f3#q04|src_obm_2001_n2_f3__Q04]]
 
 
 
@@ -174,8 +166,6 @@ level: OBM Nível 2
 
 > Lasciate che $a$, $b$ e $c$ siano numeri reali non zeri come $a+b+c=0$. Calcolare i possibili valori di $$\frac{(a^3+b^3+c^3)^2(a^4+b^4+c^4)}{(a^5+b^5+c^5)^2}.$$
 
-[[Quesiti/src_obm_2001_n2_f3#q05|src_obm_2001_n2_f3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_astrazione,skill_modellizzazione"></span>
@@ -200,5 +190,3 @@ level: OBM Nível 2
 *Prove le quattro altitudini di un quadrilaterale convex in concorso se il quadrilaterale è ciclico*
 
 > In un quadrilaterale convexo, l'altitudine ** rispetto a un lato è definita come la perpendicolare a quel lato che passa attraverso il punto medio del lato opposto. Prova che le quattro altitudini hanno un punto comune se e solo se il quadrilaterale è iscribile (ciclico), cioè se e solo se esiste un cerchio che contiene i suoi quattro vertici.
-
-[[Quesiti/src_obm_2001_n2_f3#q06|src_obm_2001_n2_f3__Q06]]

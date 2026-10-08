@@ -33,8 +33,6 @@ level: JMO Honsen
 
 > Che $ABC$ sia un triangolo acuto con $AB < AC$, che $O$ sia il suo centro circundante, e che $D$ sia il punto di intersezione del bisettore di $\angle BAC$ con il lato $BC$. Sul raggio $DO$ prendere due punti distinti $P, Q$, entrambi situati sul lato opposto della linea $AC$ da $B$ e sullo stesso lato della linea $AB$ come $C$, in modo che i tre punti $D, P, Q$ si trovino in questo ordine. Inoltre, $AB = BP$, $AC = CQ$ e $\angle ABP = \angle ACQ$ sono tenuti. Trova il valore di $\angle BAC$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
-[[Quesiti/src_jmo36hq_honsen#q01|src_jmo36hq_honsen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_estremalita,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
@@ -67,8 +65,6 @@ level: JMO Honsen
 > Il più piccolo intero dispari maggiore di $a_{n+1}$ e coprimo con $a_n$ è $a_{n+2}$.
 > 
 > Si dimostri che esiste un intero positivo $C$ tale che $|a_n - 2n| \leq C$ vale per ogni intero positivo $n$.
-
-[[Quesiti/src_jmo36hq_honsen#q02|src_jmo36hq_honsen__Q02]]
 
 
 
@@ -103,8 +99,6 @@ level: JMO Honsen
 > 
 > Determinare, in termini di $n$, il minimo valore possibile di $m$ per il quale esiste un tale colorante.
 
-[[Quesiti/src_jmo36hq_honsen#q03|src_jmo36hq_honsen__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,topic_algebra,method_casework,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -131,8 +125,6 @@ level: JMO Honsen
 *Ricerca tutte le funzioni reali con f(x^2+f(y) ^2) +2f(x) y=f(x+f(y)) ^2*
 
 > Trovare tutte le funzioni $f$ definite sui numeri reali e prendere valori reali in modo tale che, per tutti i numeri reali $x, y$, $$f\!\left(x^2 + f(y)^2\right) + 2f(x)\,y = f\!\left(x + f(y)\right)^2$$ si trova.
-
-[[Quesiti/src_jmo36hq_honsen#q04|src_jmo36hq_honsen__Q04]]
 
 
 
@@ -168,5 +160,3 @@ level: JMO Honsen
 > $I_A$, $I_B$ e $I_C$ siano rispettivamente gli incentri dei triangoli $BCP$, $CAP$ e $ABP$. Se il circoncircolo del triangolo $II_BI_C$, il circoncircolo del triangolo $II_CI_A$ e il circoncircolo del triangolo $II_AI_B$ incontrano $\pi$ rispettivamente nei punti $X$, $Y$ e $Z$ (ciascuno diverso da $I$), il triangolo $XYZ$ è simile a $\mathcal{T}$.
 > 
 > Qui $UV$ indica la lunghezza del segmento $UV$.
-
-[[Quesiti/src_jmo36hq_honsen#q05|src_jmo36hq_honsen__Q05]]

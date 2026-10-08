@@ -34,8 +34,6 @@ level: INMO
 
 > Che $AB$ sia un cordone di un cerchio $\mathscr{C}_1$ che non è diametro e $M$ sia il punto medio di $AB$. Il $T$ deve essere un punto sul cerchio $\mathscr{C}_2$ con $OM$ come diametro. La tangente di $\mathscr{C}_2$ a $T$ incontra $\mathscr{C}_1$ a $P$. Indicare che $$PA^2 + PB^2 = 4PT^2.$$
 
-[[Quesiti/src_inmo_1998#q01|src_inmo_1998__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -60,8 +58,6 @@ level: INMO
 *Condizione di razionalità per la somma di due radici quadrate*
 
 > $a$ e $b$ siano numeri reali positivi. Prova che se $\sqrt{a} + \sqrt{b}$ è un numero razionale, allora lo sono anche $\sqrt{a}$ e $\sqrt{b}$.
-
-[[Quesiti/src_inmo_1998#q02|src_inmo_1998__Q02]]
 
 
 
@@ -88,8 +84,6 @@ level: INMO
 
 > $p, q, r, s$ siano quattro integri con $5 \mid s$. Se vi è un intero $a$ per il quale $pa^2 + qa + r$ è divisibile per 5, dimostrare che vi è un intero $b$ tale che $sb^2 + rb + q$ sia anche divisibile per 5.
 
-[[Quesiti/src_inmo_1998#q03|src_inmo_1998__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -114,8 +108,6 @@ level: INMO
 *Quadrilatero ciclico con radius unitario e diagonali uguali è un quadrato*
 
 > Un quadrilaterale convex $ABCD$ è inserito in un cerchio di raggio unitario. Mostra che se $AB \cdot BC \cdot CD \cdot DA \ge 4$, allora $ABCD$ è un quadrato.
-
-[[Quesiti/src_inmo_1998#q04|src_inmo_1998__Q04]]
 
 
 
@@ -146,8 +138,6 @@ level: INMO
 
 > Supponiamo che $a, b, c$ siano numeri reali in modo tale che l'equazione quadrata $$x^2 - (a + b + c)x + (ab + bc + ca) = 0$$ abbia radici della forma $\alpha \pm i\beta$, dove $\alpha > 0$ e $\beta \neq 0$ sono numeri reali. Mostrare che: a) I numeri $a, b, c$ sono tutti positivi. b) I numeri $\sqrt{a}$, $\sqrt{b}$, $\sqrt{c}$ sono i lati di un triangolo.
 
-[[Quesiti/src_inmo_1998#q05|src_inmo_1998__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_estremalita,method_congruenze,skill_conteggio_sistematico,skill_modellizzazione,skill_riconoscimento_pattern"></span>
@@ -172,5 +162,3 @@ level: INMO
 *Scegliere n numeri interi da 0..2n in modo che la media sia un intero, trovare n minimo*
 
 > Vogliamo scegliere $n$ dei numeri interi $2n$ $0, 1, 2, \ldots, 2n-1$ in modo tale che la media dei numeri interi $n$ scelti sia un numero intero e il più piccolo possibile. Mostrare che questo può essere fatto per ogni intero positivo $n$ e trovare questo valore più piccolo.
-
-[[Quesiti/src_inmo_1998#q06|src_inmo_1998__Q06]]

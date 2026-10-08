@@ -35,8 +35,7 @@ This is Jacob's birthday.
 
 > Next January Jacob will be able to say, "The day after tomorrow will be exactly one week after my birthday". On what day does Jacob turn 10?
 
-**Answer:** 28 dicembre
-[[Quesiti/src_bocconi_autunno_2007#q01|src_bocconi_autunno_2007__Q01]]
+**Answer:** 28 December
 
 
 
@@ -70,7 +69,6 @@ This is Jacob's birthday.
 ![[src_bocconi_autunno_2007__q02.png]]
 
 **Answer:** 8
-[[Quesiti/src_bocconi_autunno_2007#q02|src_bocconi_autunno_2007__Q02]]
 
 
 
@@ -103,7 +101,6 @@ This is Jacob's birthday.
 ![[src_bocconi_autunno_2007__q03.png]]
 
 **Answer:** 41
-[[Quesiti/src_bocconi_autunno_2007#q03|src_bocconi_autunno_2007__Q03]]
 
 
 
@@ -135,8 +132,7 @@ This is Jacob's birthday.
 
 ![[src_bocconi_autunno_2007__q04.png]]
 
-**Answer:** La linea evidenziata nella soluzione mostra come deve essere suddivisa la figura
-[[Quesiti/src_bocconi_autunno_2007#q04|src_bocconi_autunno_2007__Q04]]
+**Answer:** The line highlighted in the solution shows how the figure must be divided
 
 
 
@@ -166,7 +162,6 @@ This is Jacob's birthday.
 > Every morning, Luke wakes up at 6:48 a.m. and wakes up five minutes later. They then take a quarter of an hour to eat breakfast, 18 minutes to wash and dress, and 6 minutes to carefully check the contents of the folder. Then take one minute to greet your mother with affection and three minutes to get to the bus stop. Wait for him for two minutes. The bus leaves him outside the school a quarter of an hour later. At this point, he still has five minutes left to chat with his companions before the bell rings. What time exactly is the bell ringing at Luke's school?
 
 **Answer:** 7,58
-[[Quesiti/src_bocconi_autunno_2007#q05|src_bocconi_autunno_2007__Q05]]
 
 
 
@@ -199,7 +194,6 @@ This is Jacob's birthday.
 ![[src_bocconi_autunno_2007__q06.png]]
 
 **Answer:** 441
-[[Quesiti/src_bocconi_autunno_2007#q06|src_bocconi_autunno_2007__Q06]]
 
 
 
@@ -232,7 +226,6 @@ This is Jacob's birthday.
 ![[src_bocconi_autunno_2007__q07.png]]
 
 **Answer:** 12
-[[Quesiti/src_bocconi_autunno_2007#q07|src_bocconi_autunno_2007__Q07]]
 
 
 
@@ -262,7 +255,6 @@ This is Jacob's birthday.
 > Our four friends are Carla, Desiderio, Luca and Milena. Two of them wear glasses, two have a hat, and two are left-handed. The two friends, who use their right hand to write, have glasses and do not wear a hat. The leftists are a boy and a girl. Desire is left. What about Luke? Is that left? (Yes or no?) Does he wear the hat? Do you have glasses? (Yes or no?) Look for the right answers.
 
 **Answer:** Luca is not left-handed, he has the cap, he has the glasses
-[[Quesiti/src_bocconi_autunno_2007#q08|src_bocconi_autunno_2007__Q08]]
 
 
 
@@ -292,7 +284,6 @@ This is Jacob's birthday.
 > Nando loves playing with his friends. He won three on Monday. He won another MSK on Tuesday. On Wednesday, he won another$3 \times 3 \times 3$. And so on and so forth: every day of the week he wins more, three times as many as he had won the day before. So, on Saturday, he still wins $3 \times 3 \times 3 \times 3 \times 3$, coming up to 2008 figures. How many figures did he have on Monday before he won his first three figures?
 
 **Answer:** 916
-[[Quesiti/src_bocconi_autunno_2007#q09|src_bocconi_autunno_2007__Q09]]
 
 
 
@@ -327,7 +318,6 @@ This is Jacob's birthday.
 > How many simultaneously true sentences are in the box? 1. The number of true sentences in this box is greater than 12. The number of true sentences contained in this box is greater than 2 3. The number of true sentences in this box is greater than 3 4. The number of true sentences in this box is greater than 4.5. The number of false sentences contained in this box is greater than 16. The number of false sentences contained in this box is greater than 0
 
 **Answer:** 5
-[[Quesiti/src_bocconi_autunno_2007#q10|src_bocconi_autunno_2007__Q10]]
 
 
 
@@ -359,8 +349,7 @@ This is Jacob's birthday.
 
 > Quebec was founded in 1608 (in 2008 it will be exactly four hundred years). The square of 1608 is $2.585.664$. This number has considerable properties: it is a square; the sum of its digits is a square (36) and also the product of its digits is a square (5.760). Write a three-digit number greater than 200, with the same properties: • the square of an integer; • the sum of its digits is the square of an integer; • also the product of its digits is the square of a positive integer.
 
-**Answer:** uno tra 225, 256, 289, 324, 361, 400, 441, 484, 529, 576, 625, 676, 729, 784, 841, 900, 961
-[[Quesiti/src_bocconi_autunno_2007#q11|src_bocconi_autunno_2007__Q11]]
+**Answer:** any one of 225, 256, 289, 324, 361, 400, 441, 484, 529, 576, 625, 676, 729, 784, 841, 900, 961
 
 
 
@@ -392,7 +381,6 @@ This is Jacob's birthday.
 > We wrote the number formed by the alignment of all integers from 1 to 2008. In the line below, we've returned the number that we've got so, but we're writing the numbers in the reverse order. We then calculated the sum of these two numbers. $$1\,2\,3\,4\,5\,6\,7\,8\,9\,1\,0\,1\,1\,1\,2\,1\,3\,\ldots$$ $$8\,0\,0\,2\,7\,0\,0\,2\,6\,0\,0\,2\,5\,0\,0\,2\,4\,\ldots$$ What is the 200th digit and the 201th digit (left) of the sum?
 
 **Answer:** 2 e 1
-[[Quesiti/src_bocconi_autunno_2007#q12|src_bocconi_autunno_2007__Q12]]
 
 
 
@@ -425,7 +413,6 @@ This is Jacob's birthday.
 ![[src_bocconi_autunno_2007__q13.png]]
 
 **Answer:** 20
-[[Quesiti/src_bocconi_autunno_2007#q13|src_bocconi_autunno_2007__Q13]]
 
 
 
@@ -459,7 +446,6 @@ This is Jacob's birthday.
 ![[src_bocconi_autunno_2007__q14.png]]
 
 **Answer:** 7748
-[[Quesiti/src_bocconi_autunno_2007#q14|src_bocconi_autunno_2007__Q14]]
 
 
 
@@ -489,7 +475,6 @@ This is Jacob's birthday.
 > The years 2007, 2008 and 2009 are three consecutive years squareddivisible: each of the three numbers is divisible by the square of an integer greater than 1 (2007 is divisible by 9, 2008 by 4 and 2009 by 49). What will be the next three consecutive years squared?
 
 **Answer:** 2023, 2024, 2025
-[[Quesiti/src_bocconi_autunno_2007#q15|src_bocconi_autunno_2007__Q15]]
 
 
 
@@ -522,8 +507,7 @@ This is Jacob's birthday.
 
 ![[src_bocconi_autunno_2007__q16.png]]
 
-**Answer:** 2015 metri circa
-[[Quesiti/src_bocconi_autunno_2007#q16|src_bocconi_autunno_2007__Q16]]
+**Answer:** about 2015 meters
 
 
 
@@ -553,7 +537,6 @@ This is Jacob's birthday.
 > Writing a three-digit number uses three different digits $c$, $d$, $u$ ($c$ for hundreds, $d$ for tens and $u$ for units; the number of hundreds is nothing). Let's square this number and then divide it by 2. So we get a five-digit number that's written as$cdduc$. What was the starting number?
 
 **Answer:** 1552
-[[Quesiti/src_bocconi_autunno_2007#q17|src_bocconi_autunno_2007__Q17]]
 
 
 
@@ -588,4 +571,3 @@ This is Jacob's birthday.
 ![[src_bocconi_autunno_2007__q18.png]]
 
 **Answer:** $390\sqrt{3}\times 2 \approx 1351$ m
-[[Quesiti/src_bocconi_autunno_2007#q18|src_bocconi_autunno_2007__Q18]]

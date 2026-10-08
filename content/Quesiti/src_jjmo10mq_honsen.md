@@ -33,8 +33,6 @@ level: JJMO Honsen
 
 > Che $ABCDE$ sia un pentagono tale che il quadrilaterale $ABCD$ sia quadrato. Supponiamo $\angle AEC + \angle BED = 180^\circ$. Prova che il triangolo $\triangle AEC$ è un triangolo acuto. (Un poligono converso è quello in cui tutti gli angoli interni sono inferiori a $180^\circ$.)
 
-[[Quesiti/src_jjmo10mq_honsen#q01|src_jjmo10mq_honsen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: JJMO Honsen
 *moltipli a 7 cifre di 7 stabili sotto tutti i riordini a cifre*
 
 > $n$ è un numero di 7 cifre che è un multiple di $7$. Supponiamo che non importa come i numeri di $n$ siano riordinati, il numero risultante è sempre un multiple di $7$. Trova tutte queste $n$.
-
-[[Quesiti/src_jjmo10mq_honsen#q02|src_jjmo10mq_honsen__Q02]]
 
 
 
@@ -95,8 +91,6 @@ level: JJMO Honsen
 > 
 > Trovare, in termini di $N$, il valore minimo di $a$ (con appropriato $b$) in modo tale che, per alcuni posizionamenti iniziali di monete $N$, si possa infine inserire una moneta in ogni cella applicando ripetutamente l'operazione.
 
-[[Quesiti/src_jjmo10mq_honsen#q03|src_jjmo10mq_honsen__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -121,8 +115,6 @@ level: JJMO Honsen
 *Triangolo isosceles, costruzione circumcentrale; prova angolo PMQ = 90°*
 
 > Che $\triangle ABC$ sia un triangolo di uguali dimensioni con $\angle BAC = 30^\circ$. Il punto $X$ deve essere un punto all'interno del triangolo $ABC$ tale che $\angle XBC = \angle XCB = 30^\circ$. Per il segmento $BX$, prendere il punto $P$ in modo che $AP = BP$; per il segmento $CX$, prendere il punto $Q$ in modo che $AQ = CQ$. Il $M$ deve essere il punto medio di $BC$. Prove che $\angle PMQ = 90^\circ$.
-
-[[Quesiti/src_jjmo10mq_honsen#q04|src_jjmo10mq_honsen__Q04]]
 
 
 
@@ -152,5 +144,3 @@ level: JJMO Honsen
 > Ci sono infinite carte, ognuna etichettata con un intero non negativo, e per ogni intero non negativo ci sono infinite carte con quel numero. Da queste carte vengono tratte le carte $2012$ (che vengono sostituite ogni volta). Questa operazione di disegno viene ripetuta. Trova il numero intero positivo più piccolo $n$ che soddisfa la seguente condizione:
 > 
 > **Condizione: ** Per ogni numero intero positivo $k$, la somma dei numeri scritti sulle carte $2012$ tirate al tiro $k$-th è sempre pari.
-
-[[Quesiti/src_jjmo10mq_honsen#q05|src_jjmo10mq_honsen__Q05]]

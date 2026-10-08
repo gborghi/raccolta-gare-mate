@@ -36,8 +36,6 @@ level: OBM Nível 1
 > 
 > (A) $24$ \quad (B) $26$ \quad (C) $27$ \quad (D) $37$ \quad (E) $38$
 
-[[Quesiti/src_obm_2013_n1_f1#q01|src_obm_2013_n1_f1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -71,8 +69,6 @@ level: OBM Nível 1
 
 ![[src_obm_2013_n1_f1__q02.png]]
 
-[[Quesiti/src_obm_2013_n1_f1#q02|src_obm_2013_n1_f1__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,skill_lettura_attenta,skill_manipolazione_algebrica,skill_stima"></span>
@@ -100,8 +96,6 @@ level: OBM Nível 1
 > Un mercato vende arance solo in borse di $5$ kg ciascuna. Di ogni chilogrammo di arancione, $55\%$ è succo. Inoltre, $1$ kg di succo corrisponde a $900$ ml di succo. Quindi, quanti litri di succo possiamo estrarre da due sacchetti di arance?
 > 
 > (A) $4.5$ \quad (B) $4.8$ \quad (C) $4.95$ \quad (D) $5$ \quad (E) $5.1$
-
-[[Quesiti/src_obm_2013_n1_f1#q03|src_obm_2013_n1_f1__Q03]]
 
 
 
@@ -136,8 +130,6 @@ level: OBM Nível 1
 
 ![[src_obm_2013_n1_f1__q04.png]]
 
-[[Quesiti/src_obm_2013_n1_f1#q04|src_obm_2013_n1_f1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_casework,method_estremalita,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -166,8 +158,6 @@ level: OBM Nível 1
 > Tra i numeri naturali da $1$ a $n$, almeno $11$ sono divisibili da $5$ e al massimo $9$ sono divisibili da $6$. Al massimo, quanti di questi numeri sono divisibili per $7$?
 > 
 > (A) $4$ \quad (B) $5$ \quad (C) $6$ \quad (D) $7$ \quad (E) $8$
-
-[[Quesiti/src_obm_2013_n1_f1#q05|src_obm_2013_n1_f1__Q05]]
 
 
 
@@ -200,8 +190,6 @@ level: OBM Nível 1
 > (A) $\dfrac{1}{12}$ \quad (B) $\dfrac{1}{8}$ \quad (C) $\dfrac{1}{6}$ \quad (D) $\dfrac{1}{5}$ \quad (E) $\dfrac{1}{2}$
 
 ![[src_obm_2013_n1_f1__q06.png]]
-
-[[Quesiti/src_obm_2013_n1_f1#q06|src_obm_2013_n1_f1__Q06]]
 
 
 
@@ -236,8 +224,6 @@ level: OBM Nível 1
 
 ![[src_obm_2013_n1_f1__q07.png]]
 
-[[Quesiti/src_obm_2013_n1_f1#q07|src_obm_2013_n1_f1__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_casework,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -271,8 +257,6 @@ level: OBM Nível 1
 
 ![[src_obm_2013_n1_f1__q08.png]]
 
-[[Quesiti/src_obm_2013_n1_f1#q08|src_obm_2013_n1_f1__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_ricorsione,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -302,8 +286,6 @@ level: OBM Nível 1
 > 
 > (A) $345$ \quad (B) $456$ \quad (C) $567$ \quad (D) $678$ \quad (E) $789$
 
-[[Quesiti/src_obm_2013_n1_f1#q09|src_obm_2013_n1_f1__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,topic_aritmetica,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -331,8 +313,6 @@ level: OBM Nível 1
 > Nell'aggiunta dei termini uguali $2013^{2013} + 2013^{2013} + \cdots + 2013^{2013} = 2013^{2014}$, scritti in forma semplificata, sono stati scritti molti segni di aggiunta $(+)$. Quante sono state scritte?
 > 
 > (A) $1006$ \quad (B) $2009$ \quad (C) $2012$ \quad (D) $2014$ \quad (E) $4026$
-
-[[Quesiti/src_obm_2013_n1_f1#q10|src_obm_2013_n1_f1__Q10]]
 
 
 
@@ -371,8 +351,6 @@ level: OBM Nível 1
 > - **(D)** La somma di tre numeri primi non è mai un numero primo.
 > - **(E)** Il prodotto di due numeri primi può essere un numero primo.
 
-[[Quesiti/src_obm_2013_n1_f1#q11|src_obm_2013_n1_f1__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -409,8 +387,6 @@ level: OBM Nível 1
 > - **(D)** Perderà reais.
 > - **(E)** Perderà reais.
 
-[[Quesiti/src_obm_2013_n1_f1#q12|src_obm_2013_n1_f1__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,topic_aritmetica,method_casework,method_estremalita,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -439,8 +415,6 @@ level: OBM Nível 1
 > Il prezzo di ingresso in uno stadio di calcio è di R\$$7.50$ for adults and R\$$2.50$ for children. In the last Sunday's game, the stadium collected R\$$3000.00$ da parte di un pubblico inferiore a $600$ che paga lo spettatore. Almeno quanti adulti paganti c'erano nello stadio?
 > 
 > (A) $299$ \quad (B) $301$ \quad (C) $310$ \quad (D) $361$ \quad (E) $450$
-
-[[Quesiti/src_obm_2013_n1_f1#q13|src_obm_2013_n1_f1__Q13]]
 
 
 
@@ -474,8 +448,6 @@ level: OBM Nível 1
 
 ![[src_obm_2013_n1_f1__q14.png]]
 
-[[Quesiti/src_obm_2013_n1_f1#q14|src_obm_2013_n1_f1__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -504,8 +476,6 @@ level: OBM Nível 1
 > L'insegnante Marli ha proposto una elezione per rappresentare la classe di sesto anno. Cinque studenti si presentarono come candidati. Tutti gli studenti hanno votato e il vincitore è stato Pedrinho, con voti $10$. Gli altri quattro candidati hanno ricevuto ciascuno un numero diverso di voti. Almeno quanti studenti ci sono in questa classe?
 > 
 > (A) $16$ \quad (B) $30$ \quad (C) $34$ \quad (D) $36$ \quad (E) $40$
-
-[[Quesiti/src_obm_2013_n1_f1#q15|src_obm_2013_n1_f1__Q15]]
 
 
 
@@ -536,8 +506,6 @@ Chi di quattro amici è nato a marzo dai mesi di nascita relativi
 > 
 > (A) Ana \quad (B) Beatriz \quad (C) Cristina \quad (D) Dalva \quad (E) Nessuno di loro
 
-[[Quesiti/src_obm_2013_n1_f1#q16|src_obm_2013_n1_f1__Q16]]
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -567,8 +535,6 @@ Chi di quattro amici è nato a marzo dai mesi di nascita relativi
 > 
 > (A) $23$ \quad (B) $31$ \quad (C) $33$ \quad (D) $39$ \quad (E) $61$
 
-[[Quesiti/src_obm_2013_n1_f1#q17|src_obm_2013_n1_f1__Q17]]
-
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_piana,topic_combinatoria,method_casework,skill_ragionamento_geometrico,skill_casework_accurato"></span>
@@ -597,8 +563,6 @@ Chi di quattro amici è nato a marzo dai mesi di nascita relativi
 > Un quadrato di superficie $144$ cm$^2$ può essere decomposto in sei quadrati con lati interi, non tutti uguali. Qual è la somma dei perimetri di tutti e sei i quadrati?
 > 
 > (A) $36$ cm \quad (B) $84$ cm \quad (C) $96$ cm \quad (D) $112$ cm \quad (E) $164$ cm
-
-[[Quesiti/src_obm_2013_n1_f1#q18|src_obm_2013_n1_f1__Q18]]
 
 
 
@@ -633,8 +597,6 @@ Chi di quattro amici è nato a marzo dai mesi di nascita relativi
 
 ![[src_obm_2013_n1_f1__q19.png]]
 
-[[Quesiti/src_obm_2013_n1_f1#q19|src_obm_2013_n1_f1__Q19]]
-
 
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_conteggio,skill_casework_accurato,skill_ragionamento_geometrico"></span>
@@ -667,5 +629,3 @@ Chi di quattro amici è nato a marzo dai mesi di nascita relativi
 > (A) $2$ \quad (B) $3$ \quad (C) $4$ \quad (D) $5$ \quad (E) $6$
 
 ![[src_obm_2013_n1_f1__q20.png]]
-
-[[Quesiti/src_obm_2013_n1_f1#q20|src_obm_2013_n1_f1__Q20]]

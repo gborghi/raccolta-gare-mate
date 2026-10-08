@@ -34,7 +34,6 @@ level: kangourou
 > A 68-year-old father has two children, ages 37 and 42. How many years ago was the sum of the ages of the two sons equal to the age of the father?
 
 **Answer:** 11 years ago
-[[Quesiti/src_kangourou_2017_benjamin_finale#qb1|src_kangourou_2017_benjamin_finale__QB1]]
 
 
 
@@ -62,7 +61,6 @@ level: kangourou
 > An airline allows carrying luggage without overpayment provided that the weight does not exceed a certain threshold; in case of excess weight, an additional amount must be paid for each kilogram (or fraction of kilogram) above the threshold. Anna and Mark's luggage weighs the same weight: they weigh a total of 60 kilograms and, in total, they both had to pay 11 euros more. Henry also has a suitcase. It weighs 60 kilograms and he had to pay an extra 33 euros. How many kilograms is the threshold beyond which the overpayment must be made?
 
 **Answer:** 24
-[[Quesiti/src_kangourou_2017_benjamin_finale#qb2|src_kangourou_2017_benjamin_finale__QB2]]
 
 
 
@@ -91,7 +89,6 @@ It is better to choose 9 or 10 in the dice game.
 > A friend invites you to play dice like this. You and he repeatedly roll two identical fair dice, with the faces numbered, as usual, from 1 to 6, and calculate the sum of the points. If the sum is 9, one of you wins, if the sum is 10, the other one wins, if the sum is different from 9 and from 10, neither of you wins. He lets you choose between 9 and 10 the sum that makes you win, keeping for himself the other of the two that you did not choose. Which one is best for you, and why?
 
 **Answer:** 9
-[[Quesiti/src_kangourou_2017_benjamin_finale#qb3|src_kangourou_2017_benjamin_finale__QB3]]
 
 
 
@@ -120,7 +117,6 @@ Maximum friends with triples of candies of different flavors
 > Lucilla has several candies: 6 mint, 7 lemon, 8 orange, and 12 strawberry. She wants to give three to each of her friends, but each friend asks to have candies all of different flavors. Considering the wishes of friends, how many friends can she please, at most?
 
 **Answer:** 10
-[[Quesiti/src_kangourou_2017_benjamin_finale#qb4|src_kangourou_2017_benjamin_finale__QB4]]
 
 
 
@@ -148,7 +144,6 @@ Maximum friends with triples of candies of different flavors
 > A line aircraft shall fly daily from an airport $A$ to an airport $B$ and return from $B$ to $A$ along the same straight route, always keeping the engines at maximum power. Yesterday there was no wind, but today there was a steady wind from $A$ to $B$ throughout the day. Overall, did both flights take the same amount of time today as yesterday? Less time? More time? Justify your answer as you see fit.
 
 **Answer:** more time
-[[Quesiti/src_kangourou_2017_benjamin_finale#qb5|src_kangourou_2017_benjamin_finale__QB5]]
 
 
 
@@ -177,4 +172,3 @@ Maximum friends with triples of candies of different flavors
 > Are there sequences of (at least two) consecutive positive integers such that the sum of the digits of each number in the sequence is divisible by 7? If yes, how many numbers can there be at most in one of these sequences?
 
 **Answer:** Yes, at most two
-[[Quesiti/src_kangourou_2017_benjamin_finale#qb6|src_kangourou_2017_benjamin_finale__QB6]]

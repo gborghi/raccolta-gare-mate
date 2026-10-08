@@ -40,8 +40,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 **Answer:** 4
 
-[[Quesiti/src_bocconi_finaleint_2010_g2#q01|src_bocconi_finaleint_2010_g2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_estremalita,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -69,7 +67,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > If the four $\boxed{2}\;\boxed{0}\;\boxed{352}\;\boxed{36}$ cards are drawn next to each other as shown in the drawing, the number $2035236$ is read. What is the largest number that can be formed by arranging these four cards differently?
 
 **Answer:** 3 635 220
-[[Quesiti/src_bocconi_finaleint_2010_g2#q02|src_bocconi_finaleint_2010_g2__Q02]]
 
 
 
@@ -97,7 +94,6 @@ Two years ago, Alice and Alain were 20 years old together; now Alain is 10. Find
 > Two years ago, Alice and Alain were two years apart. Today, Alain is $10$ years old. What's Alice's age?
 
 **Answer:** 14
-[[Quesiti/src_bocconi_finaleint_2010_g2#q03|src_bocconi_finaleint_2010_g2__Q03]]
 
 
 
@@ -126,7 +122,6 @@ Two years ago, Alice and Alain were 20 years old together; now Alain is 10. Find
 > Matilde has bought three game magazines: Mega-jeux, Planete-jeux and Star-jeux. The prices of these magazines are, in disorder, $4$ euro, $5$ euro and $6$ euro. If she had only bought Mega-jeux and Planete-jeux, Matilde would have paid a different amount than $10$ euro. If she had only bought Planete-Jeux and Star-Jeux, Matilde would have paid a different sum of $10$ euro. And what's the price of each magazine, knowing that Star Games costs less than Mega Games?
 
 **Answer:** Mega-jeux 6, Planete-Jeux 5, Star-jeux 4
-[[Quesiti/src_bocconi_finaleint_2010_g2#q04|src_bocconi_finaleint_2010_g2__Q04]]
 
 
 
@@ -155,7 +150,6 @@ Two years ago, Alice and Alain were 20 years old together; now Alain is 10. Find
 > In my wallet I have only euro coins, each weighing $7,5$ grams, and euro coins, each weighing $8,5$ grams. Knowing that my coins weigh in total $87,5$ grams, how many euros do I have in my wallet?
 
 **Answer:** 16
-[[Quesiti/src_bocconi_finaleint_2010_g2#q05|src_bocconi_finaleint_2010_g2__Q05]]
 
 
 
@@ -184,7 +178,6 @@ Two years ago, Alice and Alain were 20 years old together; now Alain is 10. Find
 > Substitute the columns with all digits from $1$ to $9$ except one so that: in each column, the digits of the operation are written from top to bottom from smallest to largest; the addition is accurate. The addition is $\_\,\_\,\_\,\_ + \_\,\_ + \_\,\_ = 2010$.
 
 **Answer:** 1842 + 73 + 95 = 2010 ; 1925 + 37 + 48 = 2010
-[[Quesiti/src_bocconi_finaleint_2010_g2#q06|src_bocconi_finaleint_2010_g2__Q06]]
 
 
 
@@ -213,7 +206,6 @@ Two years ago, Alice and Alain were 20 years old together; now Alain is 10. Find
 > There are two types of people in LogicLand, the Oui-Oui who always tell the truth and the Non-No who never tell the truth. Two Oui-Oui and two No-No each make a statement about one of the other three. I'm going to tell you something. and a Oui-Oui. Bob: Daniel and a Oui-Oui. Camille:  ... and a Oui-Oui. Daniel:  ... and a Oui-Oui. Complete the three missing names.
 
 **Answer:** Alice: Camille; Camille: Alice; Daniel: Bob
-[[Quesiti/src_bocconi_finaleint_2010_g2#q07|src_bocconi_finaleint_2010_g2__Q07]]
 
 
 
@@ -242,7 +234,6 @@ Two years ago, Alice and Alain were 20 years old together; now Alain is 10. Find
 > Tatiana collected shells on the beach. It divides them into lots so that the number of shells in a pile is never a multiple of $3$. The product of all these numbers and maximum: how much is it worth?
 
 **Answer:** 10 240
-[[Quesiti/src_bocconi_finaleint_2010_g2#q08|src_bocconi_finaleint_2010_g2__Q08]]
 
 
 
@@ -271,7 +262,6 @@ Find the smallest multiple of 2010 whose destination is written without using th
 > The goal of $2010$, equal to $1005$, is written with two  $0$ . What is the smallest multiple of $2010$ whose destination is written without using the figure  $0$ ? Answer $0$ if you think that's impossible.
 
 **Answer:** 46 230
-[[Quesiti/src_bocconi_finaleint_2010_g2#q09|src_bocconi_finaleint_2010_g2__Q09]]
 
 
 
@@ -300,7 +290,6 @@ Find the smallest multiple of 2010 whose destination is written without using th
 > The terms of the Prosper Geoffroy succession are integers of $3$ digits. Each term (other than the smallest of the succession) is obtained by multiplying the previous one by a number (forcibly whole, but strictly higher than $1$) that is always the same. If the number of terms in the succession is as large as possible, which is the largest term?
 
 **Answer:** 972
-[[Quesiti/src_bocconi_finaleint_2010_g2#q10|src_bocconi_finaleint_2010_g2__Q10]]
 
 
 
@@ -333,7 +322,6 @@ Find the smallest multiple of 2010 whose destination is written without using th
 ![[src_bocconi_finaleint_2010_g2__q11.png]]
 
 **Answer:** 30
-[[Quesiti/src_bocconi_finaleint_2010_g2#q11|src_bocconi_finaleint_2010_g2__Q11]]
 
 
 
@@ -362,7 +350,6 @@ Band of 11 boxes: first 20, last 10, sum of the numbers in 10 of 20 is 4444, and
 > In each of the eleven boxes of a band, a number is written. In the first box the number $20$ is written. In the 11th box the number $10$ is written. The sum of all numbers that are not equal to $10$ or $20$ and equal to $4444$. The sum of four numbers in consecutive boxes shall always be $2010$. What's the number in box six?
 
 **Answer:** 484
-[[Quesiti/src_bocconi_finaleint_2010_g2#q12|src_bocconi_finaleint_2010_g2__Q12]]
 
 
 
@@ -391,7 +378,6 @@ Band of 11 boxes: first 20, last 10, sum of the numbers in 10 of 20 is 4444, and
 > The product of three numbers not divisible by $10$ and narrowly less than $201$ and equal to $201000$. How much is their sum?
 
 **Answer:** 216, 271
-[[Quesiti/src_bocconi_finaleint_2010_g2#q13|src_bocconi_finaleint_2010_g2__Q13]]
 
 
 
@@ -424,7 +410,6 @@ Band of 11 boxes: first 20, last 10, sum of the numbers in 10 of 20 is 4444, and
 ![[src_bocconi_finaleint_2010_g2__q14.png]]
 
 **Answer:** 1, 2, 4, 5, 7
-[[Quesiti/src_bocconi_finaleint_2010_g2#q14|src_bocconi_finaleint_2010_g2__Q14]]
 
 
 
@@ -453,7 +438,6 @@ Band of 11 boxes: first 20, last 10, sum of the numbers in 10 of 20 is 4444, and
 > Mathias found an eight-digit number all different from each other equal to the square of the sum of the two four-digit numbers obtained by cutting it into two (formed respectively with the four digits to the left and the four digits to the right of the eight-digit number). Find out what Mathias' number is.
 
 **Answer:** 60 481 729
-[[Quesiti/src_bocconi_finaleint_2010_g2#q15|src_bocconi_finaleint_2010_g2__Q15]]
 
 
 
@@ -485,8 +469,7 @@ Band of 11 boxes: first 20, last 10, sum of the numbers in 10 of 20 is 4444, and
 
 ![[src_bocconi_finaleint_2010_g2__q16.png]]
 
-**Answer:** 2 soluzioni
-[[Quesiti/src_bocconi_finaleint_2010_g2#q16|src_bocconi_finaleint_2010_g2__Q16]]
+**Answer:** 2 solutions
 
 
 
@@ -519,7 +502,6 @@ Band of 11 boxes: first 20, last 10, sum of the numbers in 10 of 20 is 4444, and
 ![[src_bocconi_finaleint_2010_g2__q17.png]]
 
 **Answer:** 20
-[[Quesiti/src_bocconi_finaleint_2010_g2#q17|src_bocconi_finaleint_2010_g2__Q17]]
 
 
 
@@ -548,4 +530,3 @@ Band of 11 boxes: first 20, last 10, sum of the numbers in 10 of 20 is 4444, and
 > An electric guzzler has $65$ lamps. Each lamp may be switched off or on (two states). The garland and the circle: you choose a starting lamp, then a direction. Once it passes through all the lamps, the signal spreads to the starting lamp, and so on. One operation consists of passing the signal from a lamp to the following: if the lamp that leaves and turns on, then the one to which it is directed changes state; if the lamp that leaves and turns off, then the one to which it is directed does not change state. Before the first operation, all the lamps are lit. After how many operations will all the lamps be turned on again for the first time?
 
 **Answer:** 4161
-[[Quesiti/src_bocconi_finaleint_2010_g2#q18|src_bocconi_finaleint_2010_g2__Q18]]

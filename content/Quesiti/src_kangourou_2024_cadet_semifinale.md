@@ -38,7 +38,6 @@ level: kangourou
 > (Point 2) In the plane are drawn 2024 circles all distinct from each other. How many common points could all the circles have at most? A) 0 B) 1 C) 2 D) 3 E) 1012 Answer: C). The solution. For two points infinite planar circles pass (each point on the axis of the segment that has them as endpoints is the center of one of them), for three points only one passes.
 
 **Answer:** C
-[[Quesiti/src_kangourou_2024_cadet_semifinale#q01|src_kangourou_2024_cadet_semifinale__Q01]]
 
 
 
@@ -126,7 +125,6 @@ level: kangourou
 > that of triangle ANC with respect to base CN, which is 2 cm long.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2024_cadet_semifinale#q02|src_kangourou_2024_cadet_semifinale__Q02]]
 
 
 
@@ -188,7 +186,6 @@ level: kangourou
 > that B) is true in any case. It is trivial to find examples in which A) is false.
 
 **Answer:** B
-[[Quesiti/src_kangourou_2024_cadet_semifinale#q03|src_kangourou_2024_cadet_semifinale__Q03]]
 
 
 
@@ -228,7 +225,6 @@ level: kangourou
 > Obviously if x  17 the value of y becomes no less than 21 and all the more so the result is unacceptable.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2024_cadet_semifinale#q04|src_kangourou_2024_cadet_semifinale__Q04]]
 
 
 
@@ -273,7 +269,6 @@ level: kangourou
 > Answer D. The solution. The criterion of divisibility by 11 requires that the difference between the sum of the even and odd place numbers is divisible by 11. So we have K + N + A + O - (A + G + R + O) is divisible by 11, so also K + N - (G + R) is divisible by 11. So it's RKGN, whereas the numbers represented by the other words might not be.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2024_cadet_semifinale#q05|src_kangourou_2024_cadet_semifinale__Q05]]
 
 
 
@@ -306,7 +301,6 @@ level: kangourou
 > (Points 4) The decimal representation of the integer N has the form 20230...0, where the unindicated digits are all 0. It is known that 0,0002024% of N is greater than 2025. How many digits must N have at least? A) 6 B) 7 C) 8 D) 10 E) 12 Answer: D). Solution. The positive integer k must be such that 2023 × 10k × 2024 / 107+2 > 2025: one must therefore have k ≥ 6.
 
 **Answer:** D
-[[Quesiti/src_kangourou_2024_cadet_semifinale#q06|src_kangourou_2024_cadet_semifinale__Q06]]
 
 
 
@@ -354,8 +348,6 @@ level: kangourou
 
 **Answer:** E
 
-[[Quesiti/src_kangourou_2024_cadet_semifinale#q07|src_kangourou_2024_cadet_semifinale__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_fattorizzazione,skill_conteggio_sistematico"></span>
@@ -392,7 +384,6 @@ Maximum number of Spaniards with 143 handshakes
 > (Point 5) At a party at the Italian Embassy a number of Spaniards and some Frenchmen were invited, more than one for each nationality and even more than one Italian was present. Every Italian welcomes every foreign guest once and only once with a handshake and there are no other handshakes: in the end, the handshakes total 143. How many Spaniards could there be at most? A) 7 B) 8 C) 9 D) 10 E) 11 Answer: E). Solution. The number of handshakes is the product of the number of Italians with the sum of the number of Spaniards and the number of Frenchmen. If we want to express 143 as the product of integers, there are only two possibilities: 1 × 143 and 11 × 13. The first is to be ruled out by hypothesis. So the foreigners could be a maximum of 13 and then the Spanish a maximum of 13 – 2 = 11.
 
 **Answer:** E
-[[Quesiti/src_kangourou_2024_cadet_semifinale#q08|src_kangourou_2024_cadet_semifinale__Q08]]
 
 
 
@@ -436,7 +427,6 @@ Maximum number of Spaniards with 143 handshakes
 > Open-ended questions
 
 **Answer:** B
-[[Quesiti/src_kangourou_2024_cadet_semifinale#q09|src_kangourou_2024_cadet_semifinale__Q09]]
 
 
 
@@ -474,7 +464,6 @@ Maximum number of Spaniards with 143 handshakes
 > (Points 4) An n-antiprism is a solid like the one suggested in the figure. It has a lower base and an upper base which are congruent regular polygons with n sides and a lateral surface consisting of triangles obtained by joining each pair of adjacent vertices of each base with one of the vertices of the other, as also suggested by the figure. How many faces, including the bases, does a 2024-antiprism have? The answer is 4050. The solution. Each side of each base generates one and only one face of the side surface.
 
 **Answer:** 4050
-[[Quesiti/src_kangourou_2024_cadet_semifinale#q10|src_kangourou_2024_cadet_semifinale__Q10]]
 
 
 
@@ -551,7 +540,6 @@ Maximum number of Spaniards with 143 handshakes
 > (Points 5) On each face of a cube is written a positive integer, and all six numbers are different from each other. You know, however you consider two adjacent faces, the only common divisor of the two numbers that you see is 1. What is the minimum value of the sum of the six numbers? Remember, they say two faces are adjacent if they have an edge in common. Answer: 0022. Solution. It is clear that the number 6 cannot be used because it would necessarily be found on a face adjacent to the one with 2 or the one with 3 or the one with 4.
 
 **Answer:** 0022
-[[Quesiti/src_kangourou_2024_cadet_semifinale#q11|src_kangourou_2024_cadet_semifinale__Q11]]
 
 
 
@@ -585,7 +573,6 @@ Maximum number of Spaniards with 143 handshakes
 > (Points 5) I wrote all the integers from 2 to 60 on a sheet. I then gave the sheet to a friend with the following instruction: every time I say a number, you have to delete that number and all its multiples from the sheet. I want all the numbers written on the paper to be deleted. How many numbers, at least, do I say? Answer: 0017. Solution. I have to ask him to delete all prime numbers less than 60, that is, those that have no divisors other than 1 and themselves.
 
 **Answer:** 0017
-[[Quesiti/src_kangourou_2024_cadet_semifinale#q12|src_kangourou_2024_cadet_semifinale__Q12]]
 
 
 
@@ -620,7 +607,6 @@ Maximum number of Spaniards with 143 handshakes
 > (Points 6) The set of integers between 1 and 18 included must be divided into nine pairs, so that the sum of the two numbers that make up each pair is a perfect square. How many different ways can you do that? The answer is: 0001. The solution. The perfect squares obtained by adding the two numbers of the various pairs can only be 4, 9, 16 or 25. It is immediately apparent that some couplings are mandatory: (18, 7), (17, 8), (16, 9); furthermore, since 9 - 2 = 7, coupling (2, 14) is also mandatory. However, it follows from the latter that all the others are also required: one must have (11, 5), hence in the order (4, 12), (13, 3), (6, 10), (1, 15).
 
 **Answer:** 0001
-[[Quesiti/src_kangourou_2024_cadet_semifinale#q13|src_kangourou_2024_cadet_semifinale__Q13]]
 
 
 
@@ -653,7 +639,6 @@ Maximum number of Spaniards with 143 handshakes
 > (Points 6) In the figure you can see an isolated L-shaped brick made from a 1 cm side cube by removing a parallelepiped in centimetres, 1⁄2, 1⁄2 and
 
 **Answer:** 0042
-[[Quesiti/src_kangourou_2024_cadet_semifinale#q14|src_kangourou_2024_cadet_semifinale__Q14]]
 
 
 
@@ -682,7 +667,6 @@ Maximum number of Spaniards with 143 handshakes
 > 15. (6 points) Four real numbers a, b, c, d all different from 0 are such that their sum is 0, as is the sum of their inverses with the inverse of their product. What is the value of (cd – ab)(c + d)? Answer: 0001. Solution. From the second condition one obtains cd(a + b) + ab(c + d) = – 1. From the first, since a + b = – (c + d), one then obtains that the number sought is 1.
 
 **Answer:** 0001
-[[Quesiti/src_kangourou_2024_cadet_semifinale#q15|src_kangourou_2024_cadet_semifinale__Q15]]
 
 
 
@@ -710,7 +694,6 @@ For how many seconds Aldo is waiting for Bernardo
 > 16. The wheels of Aldo's bicycle have a radius of 30 cm, those of Bernardo's bicycle a radius of 24 cm. Aldo and Bernardo start to pedal at the same time in the same direction and, at the same time, the number of turns made by their wheels is the same and remains constant during the pedal. After 15 minutes, Aldo stops to wait for Bernardo. For how many seconds will he have to wait for him? The answer is 0225. The solution. The ratio of the lengths of the radii (A/B) is 5/4, the length of the circumference is proportional to the radius, so the inverse ratio is between the time required to travel the same distance. So to get to where Aldo got to, Bernardo needs 5/4 of Aldo's time, so 1/4 more than he has so far.
 
 **Answer:** 0225
-[[Quesiti/src_kangourou_2024_cadet_semifinale#q16|src_kangourou_2024_cadet_semifinale__Q16]]
 
 
 
@@ -738,7 +721,6 @@ For how many seconds Aldo is waiting for Bernardo
 > 17. (Points 7) I want to express as many integers as possible using just the number 4 and exactly four times. I can place the digit 4 several times, use the four arithmetic operations and arrange brackets in the ways I think are appropriate. For example, I can write 0 = 4 – 4 + 4 – 4, or 15 = 44/4 + 4, or 160 = (44 – 4) × 4. How many of the integers between 0 and 10 can I express with this procedure? The answer is 0011. The solution. 0 = 4 – 4 + 4 – 4; 1 = 44/44; 2 = 4/4 + 4/4; 3 = (4 + 4 + 4)/4; 4 = 4 – (4 – 4)/4; 5 = (4 × 4 + 4)/4; 6 = (4 + 4)/4 + 4; 7 = 44/4 – 4; 8 = 4 + 4 + 4 – 4; 9 = 4 + 4 + 4/4; 10 = (44 – 4)/4.
 
 **Answer:** 0011
-[[Quesiti/src_kangourou_2024_cadet_semifinale#q17|src_kangourou_2024_cadet_semifinale__Q17]]
 
 
 
@@ -767,4 +749,3 @@ Maximum number of consecutive integers with sum of cubes = 2024
 > 18. (Points 8) Adding the cubes of some consecutive integers gives us a result of 2024. How many of these integers can be at most? It may be useful to remember that for every positive integer n, the sum of the cubes of the first n positive integers coincides with the square of the sum of these first n integers. The answer is 0011. The solution. The sum of the first n positive integers is n(n + 1)/2: quickly finds that $45^{2}$ = 2025 is the sum of the cubes of the integers from 1 to 9. So 2024 is the sum of the cubes of integers from 2 to 9, but also the cubes of integers from -1 to 9. It is easy to see that this sequence of consecutive integers cannot be extended.
 
 **Answer:** 0011
-[[Quesiti/src_kangourou_2024_cadet_semifinale#q18|src_kangourou_2024_cadet_semifinale__Q18]]

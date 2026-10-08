@@ -34,7 +34,6 @@ level: kangourou
 > Before the optical reader was used, Kangourou's response cards were examined by hand. A human proofreader examined an average of two cards per minute. At eleven o'clock in the morning of a certain day he had examined half the cards assigned to him for that day. At noon he had examined two thirds of them. If he had never stopped and continued at the same pace, how many cards would he have left to examine at one o'clock that afternoon?
 
 **Answer:** 120
-[[Quesiti/src_kangourou_2005_cadet_finale#qc1|src_kangourou_2005_cadet_finale__QC1]]
 
 
 
@@ -63,7 +62,6 @@ Greek cross on chessboard 7x7 negative total sum*
 > Consider a chessboard $7 \times 7$ and call a Greek cross each configuration of 5 of its cross-arranged squares so that each box has at least one side in common with another square of the cross (so each cross has 4 equal arms each consisting of a square). You can have 49 integers, not necessarily all of them equal to each other, on the 49 squares, one per square, so that the total sum of these integers is negative, but the sum of the numbers corresponding to the squares covered by any Greek cross is positive?
 
 **Answer:** Yes
-[[Quesiti/src_kangourou_2005_cadet_finale#qc2|src_kangourou_2005_cadet_finale__QC2]]
 
 
 
@@ -125,7 +123,6 @@ Greek cross on chessboard 7x7 negative total sum*
 > Look at the figure. The $ABC$ triangle is right-angled and the point $P$ is $1$ cm away from both the leg $AB$, which is $8$ cm long, and the hypotenuse $BC$, which is $10$ cm long. What is the area of the shaded rectangle? (see figure)
 
 **Answer:** 5 cm2
-[[Quesiti/src_kangourou_2005_cadet_finale#qc3|src_kangourou_2005_cadet_finale__QC3]]
 
 
 
@@ -158,7 +155,6 @@ Next eclipse of two rotating planets
 > Kang is an imaginary star that owns two planets: Enigma and Math. They move in the same plane, each describing a circular orbit centered in Kang with constant angular velocity, but different from each other. In fact, Enigma, the furthest, rotates around Kang clockwise in 7 days, while Math takes 5 days, rotating counterclockwise. At this moment an eclipse of Enigma by Math can be observed (see figure). How long before the next eclipse occurs? (see figure)
 
 **Answer:** 3 days minus 2 hours
-[[Quesiti/src_kangourou_2005_cadet_finale#qc4|src_kangourou_2005_cadet_finale__QC4]]
 
 
 
@@ -189,7 +185,6 @@ Next eclipse of two rotating planets
 > If $x$ and $y$ are two strictly positive integers such that $$x + y + xy = 90,$$ how many possible values are there for of the sum $x + y$?
 
 **Answer:** one, 18
-[[Quesiti/src_kangourou_2005_cadet_finale#qc5|src_kangourou_2005_cadet_finale__QC5]]
 
 
 
@@ -224,4 +219,3 @@ Next eclipse of two rotating planets
 > Determine, thanks to these indications, how many finalists the fortune teller predicts for that memorable edition of Kangourou.
 
 **Answer:** 3435
-[[Quesiti/src_kangourou_2005_cadet_finale#qc6|src_kangourou_2005_cadet_finale__QC6]]

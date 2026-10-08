@@ -33,8 +33,6 @@ level: OBM Nível Universitário
 
 > Che $O$ sia un punto e $r$ una linea nel piano. Per ogni punto $P$ di $r$, $r_P$ deve essere perpendicolare a $OP$ che passa attraverso $P$. Prove che l'insieme $\{r_P \mid P \in r\}$ è l'insieme di tutte le linee tangenti di una parabola.
 
-[[Quesiti/src_obm_2001_nu_f2#q01|src_obm_2001_nu_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_analitica,topic_aritmetica,method_disuguaglianze,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -59,8 +57,6 @@ level: OBM Nível Universitário
 *Ogni linea attraverso l'origine incontra infinitamente molti cerchi centrati in punti interi*
 
 > $\varepsilon$ sia un numero reale positivo arbitrario. Con centro in ogni punto del piano con coordinate interi, disegnare un cerchio di raggio $\varepsilon$. Prove che ogni linea che passa attraverso l'origine incontra infinitamente molti di questi cerchi.
-
-[[Quesiti/src_obm_2001_nu_f2#q02|src_obm_2001_nu_f2__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: OBM Nível Universitário
 *Esistenza di X in SL(2,Z) tale che X^t AX sia uguale a una delle quattro matrici*
 
 > Definire $SL(2,\mathbb{Z})$ come l'insieme di matrici $2 \times 2$ con voci interi e determinante $1$. Che $A \in SL(2,\mathbb{Z})$ sia una matrice tale che esista $n > 0$ un intero con $A^n = I$. Prova che esiste $X \in SL(2,\mathbb{Z})$ tale che $X^T A X$ sia uguale a una delle seguenti matrici: $$\pm\begin{pmatrix}1 & 0\\0 & 1\end{pmatrix},\quad \pm\begin{pmatrix}0 & -1\\1 & 0\end{pmatrix},\quad \pm\begin{pmatrix}0 & -1\\1 & -1\end{pmatrix},\quad \pm\begin{pmatrix}0 & -1\\1 & 1\end{pmatrix}.$$
-
-[[Quesiti/src_obm_2001_nu_f2#q03|src_obm_2001_nu_f2__Q03]]
 
 
 
@@ -118,8 +112,6 @@ level: OBM Nível Universitário
 > Se si seguono i segmenti unitari della figura di seguito, si può determinare quanti percorsi distinti esistono da $A$ a $B$ senza passare più di una volta attraverso alcun punto.
 
 ![[src_obm_2001_nu_f2__q04.png]]
-
-[[Quesiti/src_obm_2001_nu_f2#q04|src_obm_2001_nu_f2__Q04]]
 
 
 
@@ -154,8 +146,6 @@ level: OBM Nível Universitário
 > 
 > b) Calcolare $I(u)$ per tutti $u \in \mathbb{R}$.
 
-[[Quesiti/src_obm_2001_nu_f2#q05|src_obm_2001_nu_f2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_analitica,topic_geometria_piana,method_estremalita,method_disuguaglianze,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta,skill_astrazione"></span>
@@ -184,5 +174,3 @@ level: OBM Nível Universitário
 > $D$ è l'insieme dei punti di $\mathbb{R}^2$ con $|p| \le 1$. Che $f : D \to D$ sia una funzione soggettiva che soddisfi $|f(p) - f(q)| \le |p - q|$ per tutti $p, q \in D$. Provare che $f$ è un'isometria, cioè $|f(p) - f(q)| = |p - q|$ per tutti $p, q \in D$.
 > 
 > (Notazione: $|(x,y)| = \sqrt{x^2 + y^2}$.)
-
-[[Quesiti/src_obm_2001_nu_f2#q06|src_obm_2001_nu_f2__Q06]]

@@ -32,8 +32,6 @@ level: INMO
 
 > Nel triangolo $ABC$ con $CA = CB$, il punto $E$ si trova sul circoncircolo di $ABC$ in modo tale che $\angle ECB = 90^\circ$. La linea attraverso $E$ parallela a $CB$ si interseca tra $CA$ in $F$ e $AB$ in $G$. Prove che il centro del circoncircolo del triangolo $EGB$ si trova sul circoncircolo del triangolo $ECF$.
 
-[[Quesiti/src_inmo_2024#q01|src_inmo_2024__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_modellizzazione"></span>
@@ -58,8 +56,6 @@ level: INMO
 *2024x2024 gioco di colorare la tavola; trovare i quadrati massimi Mohit può colorare rosso*
 
 > Tutti i quadrati di una scheda $2024 \times 2024$ sono di colore bianco. In una mossa, Mohit può selezionare una riga o una colonna di cui ogni quadrato è bianco, scegliere esattamente 1000 quadrati in questa riga o colonna, e colorarli tutti rossi. Trova il numero massimo di quadrati che Mohit può colorare rosso in un numero finito di mosse.
-
-[[Quesiti/src_inmo_2024#q02|src_inmo_2024__Q02]]
 
 
 
@@ -87,8 +83,6 @@ level: INMO
 *Odd primo p divide la somma delle potenze dei numeri interi a, b, c*
 
 > Che $p$ sia un numero primo impar e $a, b, c$ un numero intero in modo che tutti i numeri interi $$a^{2021} + b^{2023},\quad a^{2023} + c^{2021},\quad a^{2025} + c^{2025}$$ siano divisibili da $p$. Provare che $p$ divide ciascuno di $a, b, c$.
-
-[[Quesiti/src_inmo_2024#q03|src_inmo_2024__Q03]]
 
 
 
@@ -119,8 +113,6 @@ level: INMO
 > 
 > \textit{Nota.} Ad esempio, $\{1, 3, 5\}$ è un insieme cardinale perché ha 3 elementi distinti, e l'insieme contiene 3.
 
-[[Quesiti/src_inmo_2024#q04|src_inmo_2024__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -149,8 +141,6 @@ level: INMO
 > I punti $A_1, A_2, A_3, A_4$ si trovano sul cerchio $\Gamma$ in ordine contraria al senso orario e $P$ sono un punto nello stesso piano. Per $i \in \{1, 2, 3\}$, $\tau_i$ indichi la rotazione contro il senso orario del piano incentrato su $A_i$, dove l'angolo di rotazione è uguale all'angolo al vertice $A_i$ in $\triangle A_1 A_2 A_3 A_4$. Inoltre, definire $P_i$ come il punto $\tau_{i+2}(\tau_{i+1}(\tau_i(P)))$, dove gli indici sono presi modulo 3 (cioè $\tau_4 = \tau_1, \tau_5 = \tau_2$).
 > 
 > Prove che il raggio del circoncircolo di $\triangle P_1 P_2 P_3$ è al massimo quello di $\Gamma$.
-
-[[Quesiti/src_inmo_2024#q05|src_inmo_2024__Q05]]
 
 
 
@@ -183,5 +173,3 @@ level: INMO
 > Per ogni numero intero positivo $n \ge 3$, definire $A_n$ e $B_n$ come $$A_n = \sqrt{n^2+1} + \sqrt{n^2+2} + \cdots + \sqrt{n^2+2n-1},$$ $$B_n = \sqrt{n^2+2} + \sqrt{n^2+4} + \cdots + \sqrt{n^2+2n}.$$ Determinare tutti i numeri interi positivi $n \ge 3$ per i quali $\lfloor A_n \rfloor = \lfloor B_n \rfloor$.
 > 
 > Per qualsiasi numero reale $x$, $\lfloor x \rfloor$ indica il numero intero più grande $N$ tale che $N \le x$.
-
-[[Quesiti/src_inmo_2024#q06|src_inmo_2024__Q06]]

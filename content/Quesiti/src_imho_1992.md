@@ -37,8 +37,6 @@ level: IMO
 > $$(a-1)(b-1)(c-1)$$
 > sia divisore di $abc - 1$.
 
-[[Quesiti/src_imho_1992#q01|src_imho_1992__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_funzionali,topic_algebra,method_backward,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -66,8 +64,6 @@ level: IMO
 > Sia $\mathbf{R}$ l'insieme di tutti i numeri reali. Determinare tutte le funzioni $f : \mathbf{R} \to \mathbf{R}$ tali che
 > $$f\left(x^2 + f(y)\right) = y + \left(f(x)\right)^2 \quad \text{for all } x, y \in \mathbf{R}.$$
 
-[[Quesiti/src_imho_1992#q02|src_imho_1992__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_estremalita,method_casework,method_colorazione,method_grafi,skill_conteggio_sistematico,skill_casework_accurato,skill_ragionamento_geometrico,skill_stima"></span>
@@ -93,8 +89,6 @@ level: IMO
 
 > Si considerino nove punti nello spazio, nessuno dei quali quattro complanari. Ogni coppia di punti è congiunta da un segmento che viene colorato o di blu, o di rosso, oppure lasciato non colorato. Si determini il più piccolo valore di $n$ tale che, ogni volta che esattamente $n$ spigoli sono colorati, l'insieme degli spigoli colorati contiene necessariamente un triangolo i cui tre lati siano dello stesso colore.
 
-[[Quesiti/src_imho_1992#q03|src_imho_1992__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -119,8 +113,6 @@ level: IMO
 *Luogo del punto medio nella configurazione della circonferenza circoscritta*
 
 > Nel piano sia $C$ una circonferenza, $L$ una retta tangente alla circonferenza $C$, e $M$ un punto su $L$. Si determini il luogo dei punti $P$ con la seguente proprietà: esistono due punti $Q, R$ su $L$ tali che $M$ sia il punto medio del segmento $QR$ e $C$ sia la circonferenza inscritta del triangolo $PQR$.
-
-[[Quesiti/src_imho_1992#q04|src_imho_1992__Q04]]
 
 
 
@@ -151,8 +143,6 @@ level: IMO
 > $$|S|^2 \leq |S_x| \cdot |S_y| \cdot |S_z|,$$
 > dove $|A|$ indica il numero di elementi dell'insieme finito $|A|$.
 > (Nota: La proiezione ortogonale di un punto su un piano è il piede della perpendicolare condotta da quel punto al piano.)
-
-[[Quesiti/src_imho_1992#q05|src_imho_1992__Q05]]
 
 
 
@@ -190,5 +180,3 @@ level: IMO
 > **(b)** Determinare un intero $n$ tale che $S(n) = n^2 - 14$.
 > 
 > **(c)** Si dimostri che esistono infiniti interi $n$ tali che $S(n) = n^2 - 14$.
-
-[[Quesiti/src_imho_1992#q06|src_imho_1992__Q06]]

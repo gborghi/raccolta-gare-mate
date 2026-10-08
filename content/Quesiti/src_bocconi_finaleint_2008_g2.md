@@ -39,7 +39,6 @@ Order of 7 overlapping cards
 > Matilde put seven cards on each other. In what order did you place them?
 
 **Answer:** GEFADCB
-[[Quesiti/src_bocconi_finaleint_2008_g2#q01|src_bocconi_finaleint_2008_g2__Q01]]
 
 
 
@@ -67,8 +66,7 @@ Order of 7 overlapping cards
 
 > A herd consists of camels and dromedaries (at least one animal of each species). There are a total of 29 gobs. How many animals does the herd include at least? Remember, a camel has two hoofs and a dromedary has only one.
 
-**Answer:** 15 bestie
-[[Quesiti/src_bocconi_finaleint_2008_g2#q02|src_bocconi_finaleint_2008_g2__Q02]]
+**Answer:** 15 animals
 
 
 
@@ -98,8 +96,7 @@ Order of 7 overlapping cards
 
 > Divide a rectangle $3 \times 4$ into 12 small squares. What is the maximum number of small diagonals that can be drawn so that: $\bullet$ two diagonals cannot cross; $\bullet$ two diagonals cannot touch one end?
 
-**Answer:** 8 diagonali
-[[Quesiti/src_bocconi_finaleint_2008_g2#q03|src_bocconi_finaleint_2008_g2__Q03]]
+**Answer:** 8 diagonals
 
 
 
@@ -128,7 +125,6 @@ Order of 7 overlapping cards
 > Alice multiplies by 5, Beatrice adds 4, Camille subtracts 3 and Dorothée divides by 2. They start at 1. In what order do they have to operate to get to 11 operating once each? Each operation shall be indicated by the corresponding initial letter (A for Alice, B for Beatrice, C for Camille and D for Dorothée).
 
 **Answer:** B A C D
-[[Quesiti/src_bocconi_finaleint_2008_g2#q04|src_bocconi_finaleint_2008_g2__Q04]]
 
 
 
@@ -171,9 +167,7 @@ Order of 7 overlapping cards
 >
 > How many of the statements in the above boxes are true?
 
-**Answer:** 2 frasi vere
-
-[[Quesiti/src_bocconi_finaleint_2008_g2#q05|src_bocconi_finaleint_2008_g2__Q05]]
+**Answer:** 2 true sentences
 
 
 
@@ -202,7 +196,6 @@ Order of 7 overlapping cards
 > Jean-Louis is trying to remember Michel's cell phone number. He noted that the number, at 8 digits all different, starts with 06 and that two successive digits in the number differ by at least 2. After a few moments of reflection, it is also remembered that Michel's phone number is the largest possible (after 0) having this property. What's Michel's number?
 
 **Answer:** 06 97 58 31 42
-[[Quesiti/src_bocconi_finaleint_2008_g2#q06|src_bocconi_finaleint_2008_g2__Q06]]
 
 
 
@@ -230,8 +223,7 @@ Order of 7 overlapping cards
 
 > Nicole Hatz plays this game. It starts with a non-zero number, which it writes. If this number is even, divide it by 2 and write the result. When the last written number is odd, multiply it by 3, add 1 to the result and write the resulting number. It stops when you write 1. For example, starting from 5, write the following list of numbers: $5\ ;\ 16\ ;\ 8\ ;\ 4\ ;\ 2\ ;\ 1$. How many numbers will it have on the longest list you can write starting with a number that's at most equal to 10?
 
-**Answer:** 20 numeri (partendo da 9)
-[[Quesiti/src_bocconi_finaleint_2008_g2#q07|src_bocconi_finaleint_2008_g2__Q07]]
+**Answer:** 20 numbers (starting from 9)
 
 
 
@@ -259,8 +251,7 @@ Order of 7 overlapping cards
 
 > A target has ten regions. Each of these points has a different number of points, chosen from the numbers: $2,\ 7,\ 12,\ 17,\ 22,\ 37,\ 42,\ 57,\ 62$ and $77$. How many arrows do you need to throw, at least, to get a total score of 100?
 
-**Answer:** 5 freccette
-[[Quesiti/src_bocconi_finaleint_2008_g2#q08|src_bocconi_finaleint_2008_g2__Q08]]
+**Answer:** 5 darts
 
 
 
@@ -292,8 +283,7 @@ Order to visit 16 tapes without going through them twice.
 
 ![[src_bocconi_finaleint_2008_g2__q09.png]]
 
-**Answer:** 2 soluzioni: 1,2,3,4,8,7,10,13,15,14,11,12,9,6,5 oppure 1,2,3,4,8,13,15,14,11,12,9,10,7,6,5
-[[Quesiti/src_bocconi_finaleint_2008_g2#q09|src_bocconi_finaleint_2008_g2__Q09]]
+**Answer:** 2 solutions: 1,2,3,4,8,7,10,13,15,14,11,12,9,6,5 or 1,2,3,4,8,13,15,14,11,12,9,10,7,6,5
 
 
 
@@ -325,8 +315,7 @@ Order to visit 16 tapes without going through them twice.
 
 ![[src_bocconi_finaleint_2008_g2__q10.png]]
 
-**Answer:** 48 triangoli rettangoli
-[[Quesiti/src_bocconi_finaleint_2008_g2#q10|src_bocconi_finaleint_2008_g2__Q10]]
+**Answer:** 48 right triangles
 
 
 
@@ -356,8 +345,6 @@ Order to visit 16 tapes without going through them twice.
 > Color as many vertices as possible of this triangular network, so that there are never two colored vertices on the same traced line.
 
 ![[src_bocconi_finaleint_2008_g2__q11.png]]
-
-[[Quesiti/src_bocconi_finaleint_2008_g2#q11|src_bocconi_finaleint_2008_g2__Q11]]
 
 
 
@@ -391,8 +378,7 @@ Order to visit 16 tapes without going through them twice.
 
 ![[src_bocconi_finaleint_2008_g2__q12.png]]
 
-**Answer:** 1 soluzione
-[[Quesiti/src_bocconi_finaleint_2008_g2#q12|src_bocconi_finaleint_2008_g2__Q12]]
+**Answer:** 1 solution
 
 
 
@@ -423,8 +409,7 @@ Order to visit 16 tapes without going through them twice.
 
 > Math-Pays Social Security wants to give Sissi a number. It is the largest possible number such that the numbers consisting of two consecutive digits: $\bullet$ are all different from each other; $\bullet$ never form prime numbers or squares. Remember the prime numbers and the two-digit squares: $11,\ 13,\ 16,\ 17,\ 19,\ 23,\ 25,\ 29,\ 31,\ 36,\ 37,\ 41,\ 43,\ 47,\ 49,\ 53,\ 59,\ 61,\ 64,\ 67,\ 71,\ 73,\ 79,\ 81,\ 83,\ 89$ and $97$. What's the number of digits in the number?
 
-**Answer:** 18 cifre
-[[Quesiti/src_bocconi_finaleint_2008_g2#q13|src_bocconi_finaleint_2008_g2__Q13]]
+**Answer:** 18 digits
 
 
 
@@ -454,8 +439,6 @@ Order to visit 16 tapes without going through them twice.
 > Cut the grid into five square pieces of paper each containing the same area and perimeter. Note: the unit length is the side of a small square of the square, and the unit area is that of a small square.
 
 ![[src_bocconi_finaleint_2008_g2__q14.png]]
-
-[[Quesiti/src_bocconi_finaleint_2008_g2#q14|src_bocconi_finaleint_2008_g2__Q14]]
 
 
 
@@ -488,7 +471,6 @@ Order to visit 16 tapes without going through them twice.
 ![[src_bocconi_finaleint_2008_g2__q15.png]]
 
 **Answer:** 48 figure
-[[Quesiti/src_bocconi_finaleint_2008_g2#q15|src_bocconi_finaleint_2008_g2__Q15]]
 
 
 
@@ -521,7 +503,6 @@ Order to visit 16 tapes without going through them twice.
 ![[src_bocconi_finaleint_2008_g2__q16.png]]
 
 **Answer:** 41 × 49 ; 59 × 34
-[[Quesiti/src_bocconi_finaleint_2008_g2#q16|src_bocconi_finaleint_2008_g2__Q16]]
 
 
 
@@ -554,7 +535,6 @@ Order to visit 16 tapes without going through them twice.
 > Hector's computer password is a number of the form AB (the digits of the numbers A and B are written consecutively). Hector knows that even if he forgets it, he can find his password again, but he only knows that: $\bullet$ A and B are two four-digit numbers (not starting with zero); $\bullet$ A is greater than B; $\bullet$ A and B have no common divisor other than 1; $\bullet$ the number of four digits AB is a succession term whose first term is A, the second term is B and each subsequent term is the sum of the two terms that precede it. What's Hector's password?
 
 **Answer:** 6764 5819
-[[Quesiti/src_bocconi_finaleint_2008_g2#q17|src_bocconi_finaleint_2008_g2__Q17]]
 
 
 
@@ -591,5 +571,4 @@ Order to visit 16 tapes without going through them twice.
 
 ![[src_bocconi_finaleint_2008_g2__q18.png]]
 
-**Answer:** 4 soluzioni: 6 12 10 5 4 9 8 7 ; 7 6 9 4 5 10 12 8 ; 7 6 12 10 5 4 9 8 ; 6 9 4 5 10 12 8 7
-[[Quesiti/src_bocconi_finaleint_2008_g2#q18|src_bocconi_finaleint_2008_g2__Q18]]
+**Answer:** 4 solutions: 6 12 10 5 4 9 8 7 ; 7 6 9 4 5 10 12 8 ; 7 6 12 10 5 4 9 8 ; 6 9 4 5 10 12 8 7

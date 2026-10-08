@@ -33,8 +33,6 @@ level: Olimpiade Polacca Round 3
 
 > Determinare tutti i numeri interi positivi $n$ e i numeri reali $r$ in modo tale che il polinomio $2x^2+2x+1$ divida $(x+1)^n - r$.
 
-[[Quesiti/src_pol_1996_r3#q01|src_pol_1996_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
@@ -59,8 +57,6 @@ level: Olimpiade Polacca Round 3
 *Punto interno del triangolo ABC con angolo PBC = angolo PCA < angolo PAB; linea BP incontra il circoncircolo di nuovo a E, il circoncircolo di APE incontra il CE di nuovo a F; dimostrare che l'APEF è un quadrilaterale convexo e che il rapporto tra la sua area e l'area del triangolo ABP è indipendente da P.*
 
 > $P$ sia un punto interno di un triangolo $ABC$ tale che $\angle PBC = \angle PCA < \angle PAB$. La linea $BP$ interseca nuovamente il circoncircolo del triangolo $ABC$ al punto $E$. Il circoncircolo del triangolo $APE$ si interseca di nuovo con $CE$ a $F$. Prove che $APEF$ è un quadrilaterale convesso e che il rapporto tra la sua superficie e la superficie del triangolo $ABP$ non dipende dalla scelta di $P$.
-
-[[Quesiti/src_pol_1996_r3#q02|src_pol_1996_r3__Q02]]
 
 
 
@@ -96,8 +92,6 @@ level: Olimpiade Polacca Round 3
 > 
 > b) Nella disuguaglianza sopra indicata, determinare tutti i casi di uguaglianza.
 
-[[Quesiti/src_pol_1996_r3#q03|src_pol_1996_r3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
@@ -121,8 +115,6 @@ level: Olimpiade Polacca Round 3
 *Tetraedro ABCD con angolo BAC = angolo ACD e angolo CDB = angolo DBA; dimostrare AB = CD.*
 
 > Supponiamo che un tetraedro $ABCD$ sia tale che $\angle BAC = \angle ACD$ e $\angle CDB = \angle DBA$. Prove che $AB = CD$.
-
-[[Quesiti/src_pol_1996_r3#q04|src_pol_1996_r3__Q04]]
 
 
 
@@ -151,8 +143,6 @@ level: Olimpiade Polacca Round 3
 
 > Per un numero naturale $k$, indichiamo con $p(k)$ il numero primo minore che non divide $k$. Difiniamo $q(k)$ come il prodotto di tutti i numeri primi inferiori a $p(k)$ se $p(k) > 2$, e come 1 altrimenti. La sequenza $(x_n)$ è data da $x_0 = 1$ e $$x_{n+1} = \frac{x_n\, p(x_n)}{q(x_n)} \qquad \text{for } n = 0, 1, 2, \ldots.$$ Determina tutti gli integri positivi $n$ in modo tale che $x_n = 111111$.
 
-[[Quesiti/src_pol_1996_r3#q05|src_pol_1996_r3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_probabilita,method_conteggio,method_ricorsione,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -177,5 +167,3 @@ level: Olimpiade Polacca Round 3
 *Tra le permutazioni f di {1,...,n} con f(i) >= i-1 per tutti i, p_n è la probabilità che una scelta casuale soddisfi anche f(i) <= i+1 per tutti i; determinare tutti n con p_n > 1/3.*
 
 > Considera la raccolta di tutte le permutazioni $f$ del set $\{1, 2, \ldots, n\}$ che soddisfano $f(i) \ge i-1$ per tutte le $i$. $p_n$ sia la probabilità che una permutazione scelta casualmente da questa collezione soddisfi anche $f(i) \le i+1$ per tutti $i$. Determinare tutti i $n$ per i quali $p_n > 1/3$.
-
-[[Quesiti/src_pol_1996_r3#q06|src_pol_1996_r3__Q06]]

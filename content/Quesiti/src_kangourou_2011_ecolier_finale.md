@@ -35,7 +35,6 @@ level: kangourou
 > Carlo's digital clock is faulty: sometimes, but not always, instead of the digit $0$ it shows the digit $8$ and vice versa. If Carlo reads $20.08$ on the clock, what time could it really be? Write all possible times.
 
 **Answer:** 20.00, 20.08
-[[Quesiti/src_kangourou_2011_ecolier_finale#qe1|src_kangourou_2011_ecolier_finale__QE1]]
 
 
 
@@ -63,7 +62,6 @@ level: kangourou
 > The three letters $A$, $B$ and $C$ each represent one digit and different letters represent different digits. You know that$A + A + A + A = CB$and that$B + B + B + B = A$. What is the digit represented by $A$?
 
 **Answer:** 8
-[[Quesiti/src_kangourou_2011_ecolier_finale#qe2|src_kangourou_2011_ecolier_finale__QE2]]
 
 
 
@@ -92,7 +90,6 @@ level: kangourou
 > Next to each $\bullet$ point in the figure a number must be written so that the sum of the numbers written at the ends of each segment is always the same regardless of the segment. Two numbers have already been written. What number should be written instead of $x$ and why? (see figure)
 
 **Answer:** 1
-[[Quesiti/src_kangourou_2011_ecolier_finale#qe3|src_kangourou_2011_ecolier_finale__QE3]]
 
 
 
@@ -121,7 +118,6 @@ level: kangourou
 > In the Mirabilandia final, six problems are proposed for each of the five categories, one for each of the following scores: $5$, $7$, $11$, $14$, $18$ and $22$. Of course, in each category the six problems must all be different, but the same problem can be assigned to more than one category. Please note, however, that if a problem gives a certain score in a category and also appears in a higher category, it must give a lower score in the latter category. The organising committee wants to prepare as few problems as possible. What's this number?
 
 **Answer:** 10
-[[Quesiti/src_kangourou_2011_ecolier_finale#qe4|src_kangourou_2011_ecolier_finale__QE4]]
 
 
 
@@ -151,8 +147,6 @@ level: kangourou
 
 **Answer:** 2016
 
-[[Quesiti/src_kangourou_2011_ecolier_finale#qe5|src_kangourou_2011_ecolier_finale__QE5]]
-
 
 
 <span class="atom-split" id="qe6" data-atom="qe6" data-title="Quesito E6" data-tags="topic_algebra,topic_logica,skill_modellizzazione"></span>
@@ -179,4 +173,3 @@ Minutes of Julius and minutes with the two brothers
 > Paul and Julius are two brothers: they live in the same house and attend the same school. They walk to school on the same route and, when they are not together on the route, each one keeps his pace constant: from home to school Paul, the youngest, takes $16$ minutes, Julius takes $12$. One day Julius said to Paul, "Go to school, I'll meet you, and then we'll walk together at your pace". Paul leaves, and after a minute, Julius too. How many minutes will it take Julius to get to school? How many minutes will the two brothers walk together?
 
 **Answer:** 15; 12
-[[Quesiti/src_kangourou_2011_ecolier_finale#qe6|src_kangourou_2011_ecolier_finale__QE6]]
