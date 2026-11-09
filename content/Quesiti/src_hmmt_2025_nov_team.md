@@ -179,7 +179,7 @@ level: HMMT November Team Round
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Terne con a + b = c modulo 143*
+*Terne con a + b = c sotto 143*
 
 > [45] Sia $S$ l'insieme di tutti gli interi positivi minori di 143 e primi con 143. Calcolare il numero di terne ordinate $(a,b,c)$ di elementi di $S$ tali che $a+b=c$.
 
