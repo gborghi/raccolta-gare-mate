@@ -884,7 +884,8 @@ level: squadre
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Area:** [[Algebra e Analisi]]
-**Risposta:** 1058
+**Risposta:** 0810
+**Fonte risposta:** soluzione ufficiale, [PDF p.12](https://www.phiquadro.it/archivio/2019_8%20marzo%20-%20Gara%20.pdf#page=12)
 **Fonte:** [apri PDF p.6](https://www.phiquadro.it/archivio/2019_8%20marzo%20-%20Gara%20.pdf#page=6) · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
 
 
@@ -898,7 +899,7 @@ level: squadre
 > Demetrius's question (Giuseppe Rosolini)
 > Demetrius: Helena, consider the pairs of positive even numbers (a, d) with a < d < 100 such that the sequence a, a + d, a + 2d, ..., a + n · d, ..., as n ranges over the natural numbers, contains no squares of natural numbers but contains infinitely many cubes of natural numbers. Among these, take the pairs (a, d) such that the difference d − a is minimal. Which pair (a, d) among the latter has minimal a? [Give the answer by writing, in order, the tens digit of a, the units digit of a, the tens digit of d and the units digit of d.]
 
-**Answer:** 1058
+**Answer:** 0810
 
 
 
@@ -926,7 +927,8 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 1058
+**Fonte risposta:** soluzione ufficiale, [PDF p.12](https://www.phiquadro.it/archivio/2019_8%20marzo%20-%20Gara%20.pdf#page=12)
 **Fonte:** [apri PDF p.6](https://www.phiquadro.it/archivio/2019_8%20marzo%20-%20Gara%20.pdf#page=6) · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
 
 
@@ -945,7 +947,7 @@ level: squadre
 > The circles C\_1, C\_2 and C\_3 have no other points in common. The circle C\_1 has radius 20 m, C\_3 has radius 5 m, the length of segment BC is 40 m, the length of segment AB is 20 m. The centre of circle C\_2 is O\_2; call E a point on C\_3. I ask you to find the maximum value d\_1 that the segment O\_2E can take and the minimum possible value d\_2 that the segment O\_2E can take. Tell me what d\_1 − d\_2 is in centimetres.
 > The End
 
-**Answer:** not given in the source
+**Answer:** 1058
 
 
 

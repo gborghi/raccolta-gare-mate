@@ -28,7 +28,8 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 9216
+**Fonte risposta:** soluzione ufficiale, [PDF p.1](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=1)
 **Fonte:** [apri PDF p.1](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=1) · fairmath.it (Coppa Fermat 2004)
 
 
@@ -41,7 +42,7 @@ level: squadre
 
 > The mosaic. In 2000, the international year of mathematics, the World Mathematical Union chose the atoll of Tematamaki to host facilities for the development and dissemination of mathematical research. In the same year a reception hall was built, whose floor is a simple mosaic consisting of a 99 × 99 array of square tiles, all made of Carrara marble except those on the border and on the two diagonals. Determine how many Carrara marble tiles there are in the mosaic.
 
-**Answer:** not given in the source
+**Answer:** 9216
 
 
 
@@ -61,7 +62,8 @@ level: squadre
 > sua volta pesava 4 kg meno della corazza. Determinare quanti
 > grammi pesava lo scudo del guerriero Matteo.
 
-**Risposta:** non indicata nella fonte
+**Risposta:** 6800
+**Fonte risposta:** soluzione ufficiale, [PDF p.1](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=1)
 **Fonte:** [apri PDF p.1](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=1) · fairmath.it (Coppa Fermat 2004)
 
 
@@ -74,7 +76,7 @@ level: squadre
 
 > The armour. The main hero in the history of the atoll, the warrior Matteo, wore a beautiful suit of armour with a total weight of 21.4 kg, made up of a helmet, a shield and a breastplate. The helmet weighed 3 kg less than the shield, which in turn weighed 4 kg less than the breastplate. Determine how many grams the warrior Matteo's shield weighed.
 
-**Answer:** not given in the source
+**Answer:** 6800
 
 
 
@@ -97,7 +99,8 @@ level: squadre
 > è risultata la millesima per i Carabinieri. Determinare quante
 > ville abusive sono state costruite.
 
-**Risposta:** non indicata nella fonte
+**Risposta:** 1990
+**Fonte risposta:** soluzione ufficiale, [PDF p.1](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=1)
 **Fonte:** [apri PDF p.1](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=1) · fairmath.it (Coppa Fermat 2004)
 
 
@@ -110,7 +113,7 @@ level: squadre
 
 > Illegal building. Unfortunately, as everyone knows, the whole world is alike, and a large number of illegal villas have been built on the shores of the atoll too. To get an overall picture of the situation, the Carabinieri and the Guardia di Finanza started from two different points of the shore and counted the illegal buildings proceeding clockwise. In this way, the fifth villa counted by the Carabinieri turned out to be the thousandth for the Guardia di Finanza, and the fifth villa counted by the Guardia di Finanza turned out to be the thousandth for the Carabinieri. Determine how many illegal villas have been built.
 
-**Answer:** not given in the source
+**Answer:** 1990
 
 
 
@@ -169,7 +172,8 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 0135
+**Fonte risposta:** soluzione ufficiale, [PDF p.1](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=1)
 **Fonte:** [apri PDF p.1](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=1) · fairmath.it (Coppa Fermat 2004)
 
 
@@ -182,7 +186,7 @@ level: squadre
 
 > The atoll. The shape of the atoll of Tematamaki recalls a letter V, which can be thought of as obtained by taking two equal isosceles trapezoids and gluing them along a leg. Knowing that the remaining two legs of the trapezoids lie on the same line, determine the measure in degrees of the angle between a leg and the shorter base in the two trapezoids.
 
-**Answer:** not given in the source
+**Answer:** 0135
 
 
 
@@ -243,7 +247,8 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 0128
+**Fonte risposta:** soluzione ufficiale, [PDF p.2](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=2)
 **Fonte:** [apri PDF p.2](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=2) · fairmath.it (Coppa Fermat 2004)
 
 
@@ -256,7 +261,7 @@ level: squadre
 
 > Look into my eyes. On the door of the office of a well-known hypnotist, Dr. Gio MindFlyer, there is a logo consisting of a square, in which a circle is inscribed, in which a square is inscribed, in which a circle is inscribed, and so on. In total, 15 squares appear in the logo, the smallest of which has a side of 1 mm. Determine how many millimetres the side of the largest square measures.
 
-**Answer:** not given in the source
+**Answer:** 0128
 
 
 
@@ -310,7 +315,8 @@ level: squadre
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 6600
+**Fonte risposta:** soluzione ufficiale, [PDF p.2](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=2)
 **Fonte:** [apri PDF p.2](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=2) · fairmath.it (Coppa Fermat 2004)
 
 
@@ -323,7 +329,7 @@ level: squadre
 
 > Sailing. In the first regatta of the season, the winning boat completed the course in an hour and a half. The second regatta was held on a course 10% longer and, because of the different weather conditions, the winning boat kept an average speed 10% lower than the winner of the previous race. Determine how many seconds the winner of the second regatta took to complete the course.
 
-**Answer:** not given in the source
+**Answer:** 6600
 
 
 
@@ -384,7 +390,8 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 0729
+**Fonte risposta:** soluzione ufficiale, [PDF p.2](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=2)
 **Fonte:** [apri PDF p.2](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=2) · fairmath.it (Coppa Fermat 2004)
 
 
@@ -397,7 +404,7 @@ level: squadre
 
 > So many fish! At the Genoa aquarium, the coral reef tank contains fish of many species: a table shows the public how many fish of each species swim in the tank. The most numerous species is the clownfish: there are 100 of them. During his visit Massimo notices a strange coincidence: the quantities in the table are all different, and each of them is the product of 4 prime factors, not necessarily distinct (for example 100 = 2·2·5·5). Determine the maximum number of fish swimming in the tank. Recall that 1 is not a prime number.
 
-**Answer:** not given in the source
+**Answer:** 0729
 
 
 
@@ -418,7 +425,8 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 0720
+**Fonte risposta:** soluzione ufficiale, [PDF p.2](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=2)
 **Fonte:** [apri PDF p.2](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=2) · fairmath.it (Coppa Fermat 2004)
 
 
@@ -431,7 +439,7 @@ level: squadre
 
 > Tempus fugit. This competition started (or at least was supposed to start) at 14:00:00 and will end at 16:00:00. Throughout, the time is constantly shown by a 6-digit digital clock (2 for the hours, 2 for the minutes, 2 for the seconds). Determine for how many seconds, during the competition, the 6 digits shown by the clock will all be different.
 
-**Answer:** not given in the source
+**Answer:** 0720
 
 
 
@@ -461,7 +469,8 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 6601
+**Fonte risposta:** soluzione ufficiale, [PDF p.3](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=3)
 **Fonte:** [apri PDF p.3](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=3) · fairmath.it (Coppa Fermat 2004)
 
 
@@ -476,7 +485,7 @@ level: squadre
 > ∗ ∗ × ∗ ∗ = ∗ ∗ ∗ ∗ ∗ ∗ ∗
 > In spite of the disaster, Valentina still manages to reconstruct the calculation. Determine the result of the multiplication.
 
-**Answer:** not given in the source
+**Answer:** 6601
 
 
 
@@ -504,7 +513,8 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 5994
+**Fonte risposta:** soluzione ufficiale, [PDF p.3](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=3)
 **Fonte:** [apri PDF p.3](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=3) · fairmath.it (Coppa Fermat 2004)
 
 
@@ -517,7 +527,7 @@ level: squadre
 
 > Big Brother. The well-known TV format has reached the atoll too, and very soon a certain number of mathematicians will be isolated in a special area for over three months. To avoid any contact with the outside, the area will be surrounded by a wall with a square plan, 3 metres high, one brick thick, with an outer side of 100 metres. To build the wall, bricks 20 cm long are available, with depth and height equal to half the length. Each brick costs 10 euro cents. To make the wall sturdier, it will be built in the usual way, that is laying the bricks in several rows starting from the ground, each row offset by half a brick with respect to the row below. If some bricks need to be cut in half, a firm offers to do it at a price of 20 euro cents per cut. Determine the minimum cost, in euros, of building the wall. Neglect the cost and the space taken up by the cement needed to hold the bricks together.
 
-**Answer:** not given in the source
+**Answer:** 5994
 
 
 
@@ -544,7 +554,8 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 0576
+**Fonte risposta:** soluzione ufficiale, [PDF p.3](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=3)
 **Fonte:** [apri PDF p.3](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=3) · fairmath.it (Coppa Fermat 2004)
 
 
@@ -557,7 +568,7 @@ level: squadre
 
 > Esoteric symbols. In a cave on the atoll, archaeologists have found many rock paintings. All the paintings contain a certain kind of “magic triangle”, evidently linked to the rites of the ancient inhabitants of the island. Schematically, it is an isosceles triangle in which the altitude to the base and the segment joining the midpoints of the two equal sides are drawn. This gives 5 segments, which determine 7 points, in which all and only the digits from 1 to 7 are written, so that on each of the 5 segments drawn the sum of the 3 numbers that appear is always the same. Reading from left to right the 3 digits written on the base, one gets a 3-digit integer. Determine the difference between the maximum and the minimum value that the integer written on the base can take.
 
-**Answer:** not given in the source
+**Answer:** 0576
 
 
 
@@ -619,7 +630,8 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 2013
+**Fonte risposta:** soluzione ufficiale, [PDF p.3](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=3)
 **Fonte:** [apri PDF p.3](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=3) · fairmath.it (Coppa Fermat 2004)
 
 
@@ -632,7 +644,7 @@ level: squadre
 
 > Touch wood. An ancient prophecy says that the atoll will be swallowed by the waters of the sea, and that this will happen in a year whose number is the difference between two 4-digit palindromic numbers (that is, numbers that do not change when read from left to right or from right to left). The chronicles recall the scenes of panic of 1782 (which is 5005 − 3223), while the last time the inhabitants were at risk was in 2002 (which can be written, for example, as 5225 − 3223). Determine the next year in which the inhabitants will have to worry.
 
-**Answer:** not given in the source
+**Answer:** 2013
 
 
 
@@ -691,7 +703,8 @@ level: squadre
 > euro.
 > Determinare quante persone hanno partecipato alla raccolta.
 
-**Risposta:** non indicata nella fonte
+**Risposta:** 0030
+**Fonte risposta:** soluzione ufficiale, [PDF p.4](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=4)
 **Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2004)
 
 
@@ -704,7 +717,7 @@ level: squadre
 
 > They never change! To give the organiser a present, some participants in this competition started a collection: the majority put in 20 euros each, while a minority, consisting of all the Genoese, contributed 15 euros each. Since in the end the money was still not enough, everybody paid in another euro each. In this way a total of 600 euros was collected. Determine how many people took part in the collection.
 
-**Answer:** not given in the source
+**Answer:** 0030
 
 
 
@@ -768,7 +781,8 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 1892
+**Fonte risposta:** soluzione ufficiale, [PDF p.4](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=4)
 **Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2004)
 
 
@@ -781,7 +795,7 @@ level: squadre
 
 > Vintage... gardens. In the 19th century, to celebrate a glorious event in the history of the atoll, the authorities decided to build a large garden in the shape of a right triangle. Trees were planted at the vertices and along the whole perimeter, at regular distances from one another. It is known that the total number of trees coincides with the year in which the garden was built, and that on the hypotenuse (endpoints included) there is one tree more than on the longer leg (endpoints included). Determine how many trees there are around the garden.
 
-**Answer:** not given in the source
+**Answer:** 1892
 
 
 
@@ -803,7 +817,8 @@ level: squadre
 
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 0576
+**Fonte risposta:** soluzione ufficiale, [PDF p.4](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=4)
 **Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2004)
 
 
@@ -818,7 +833,7 @@ level: squadre
 > 1/2 + 1/3 + 1/4 + 1/5 + 1/6 + 1/7 + 1/8 + 1/9 + 1/10 + 1/11
 > Federico wants to delete some terms, so that the sum of the remaining ones is 1. Determine the maximum possible value of the product of the denominators of the remaining fractions.
 
-**Answer:** not given in the source
+**Answer:** 0576
 
 
 
@@ -845,7 +860,8 @@ level: squadre
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 0431
+**Fonte risposta:** soluzione ufficiale, [PDF p.5](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=5)
 **Fonte:** [apri PDF p.5](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=5) · fairmath.it (Coppa Fermat 2004)
 
 
@@ -858,7 +874,7 @@ level: squadre
 
 > And after so much effort... To recover from the efforts of this competition, the 7 members of a team organised a spaghetti dinner with garlic, oil and chili pepper. The portions of pasta served are the same for everyone except for the captain, who is entitled to a double portion, and the runner who hands in the answers, who, having run so much, is entitled to a triple portion. Knowing that 4 whole chili peppers were put in the sauce, and that the plates were filled at random after mixing the pasta well with the sauce, determine the probability that at least one diner finds more than one chili pepper on his plate. Having expressed the probability as an irreducible fraction m/n, write the sum m + n as the answer.
 
-**Answer:** not given in the source
+**Answer:** 0431
 
 
 
@@ -883,7 +899,8 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 1140
+**Fonte risposta:** soluzione ufficiale, [PDF p.5](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=5)
 **Fonte:** [apri PDF p.5](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=5) · fairmath.it (Coppa Fermat 2004)
 
 
@@ -896,4 +913,4 @@ level: squadre
 
 > An infernal... mechanism. Three gear wheels have collinear centres and are connected so that, when the central wheel turns, the other two turn as well. The central wheel has 39 teeth, the other two have 38 and 52 teeth respectively. In the rest position, the line joining the centres is drawn on the wheels. Then the mechanism is set in motion at the constant speed that makes the central wheel complete a full turn in three and a half minutes. Determine after how many seconds the three segments drawn on the three wheels are parallel for the first time.
 
-**Answer:** not given in the source
+**Answer:** 1140

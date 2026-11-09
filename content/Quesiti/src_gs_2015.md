@@ -364,7 +364,8 @@ level: squadre
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
-**Risposta:** 0729
+**Risposta:** 2000
+**Fonte risposta:** soluzione ufficiale, [PDF p.9](https://www.phiquadro.it/archivio/2015_6%20marzo%20-%20Gara%20.pdf#page=9)
 **Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2015_6%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
 
 
@@ -379,7 +380,7 @@ level: squadre
 > A transparent cube is seen floating in outer space, with R. Strauss's Also sprach Zarathustra in the background: a rod, entirely inside the cube, joins two diametrically opposite vertices. A hand appears from deep space, holding a circular saw; it makes no noise because it is in deep space. It strikes an extremely violent straight blow that passes through a vertex of the cube and, moving perpendicularly to the rod, cuts it in two.
 > Voice-over: What is 1000 times the ratio between the longer and the shorter part of the cut rod?
 
-**Answer:** 0729
+**Answer:** 2000
 
 
 
@@ -405,7 +406,8 @@ level: squadre
 
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 0729
+**Fonte risposta:** soluzione ufficiale, [PDF p.9](https://www.phiquadro.it/archivio/2015_6%20marzo%20-%20Gara%20.pdf#page=9)
 **Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2015_6%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
 
 
@@ -425,7 +427,7 @@ level: squadre
 > Newsreader: We are interviewing him to find out which number he wrote under the root.
 > Voice-over: Which number did he write under the root?
 
-**Answer:** not given in the source
+**Answer:** 0729
 
 
 

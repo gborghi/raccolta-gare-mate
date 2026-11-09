@@ -34,7 +34,8 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 0175
+**Fonte risposta:** soluzione ufficiale, [PDF p.1](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=1)
 **Fonte:** [apri PDF p.1](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=1) · fairmath.it (Coppa Fermat 2006)
 
 
@@ -47,7 +48,7 @@ level: squadre
 
 > The pizza board. To host the competitors of this team competition, the organisers have had an Olympic village built, in whose restaurant excellent “tagliere” pizza is served. A tagliere is a large pizza divided into 8 equal slices. A “margherita” tagliere costs 8 euros; by paying 2 euros more, anchovies can be added on half a tagliere, and by paying 3 euros mushrooms can be added, again on half a tagliere. Three friends go to the restaurant and order 2 taglieri, one all “margherita” and one half with mushrooms and half with anchovies. The first friend eats 3/4 of the mushroom part and 1/4 of the “margherita” tagliere, the second half of the anchovy part and 3 slices of “margherita”, the third eats what is left. In the end, being extremely scrupulous, each one pays for what he has eaten. Determine, in euro cents, the difference between the amount paid by the one who spent the most and that paid by the one who spent the least.
 
-**Answer:** not given in the source
+**Answer:** 0175
 
 
 
@@ -72,7 +73,8 @@ level: squadre
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 0290
+**Fonte risposta:** soluzione ufficiale, [PDF p.1](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=1)
 **Fonte:** [apri PDF p.1](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=1) · fairmath.it (Coppa Fermat 2006)
 
 
@@ -85,7 +87,7 @@ level: squadre
 
 > Managing the champion. Stefano plays in a football team taking part in a 20-team league, in which each team meets each of the others twice, once at home and once away. Technical analyses show that in each match Stefano runs on average 10 km, uniformly distributed over the duration of the match. To manage his effort, the coach has decided that Stefano will play the whole of the 2 derbies and of all the other home matches, while he will play only the first half in all the other away matches. Determine how many km Stefano will run during the whole league.
 
-**Answer:** not given in the source
+**Answer:** 0290
 
 
 
@@ -109,7 +111,8 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 3012
+**Fonte risposta:** soluzione ufficiale, [PDF p.1](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=1)
 **Fonte:** [apri PDF p.1](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=1) · fairmath.it (Coppa Fermat 2006)
 
 
@@ -122,7 +125,7 @@ level: squadre
 
 > The torch. The organisers of this competition have done things in a big way, having the Olympic torch brought all the way here. The last torch-bearer reached the competition venue today, 24 March 2006, at 10:30, but the torch had been lit in Olympia exactly 2006 hours earlier. Determine on which day the torch was lit. In the answer use the 2 digits on the left for the day and the 2 digits on the right for the month (for example write 0702 for 7 February).
 
-**Answer:** not given in the source
+**Answer:** 3012
 
 
 
@@ -148,7 +151,8 @@ level: squadre
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 0735
+**Fonte risposta:** soluzione ufficiale, [PDF p.2](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=2)
 **Fonte:** [apri PDF p.2](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=2) · fairmath.it (Coppa Fermat 2006)
 
 
@@ -161,7 +165,7 @@ level: squadre
 
 > Phishing. Some crooks would like to intercept the combination of the safe containing the Olympic medals, which consists of a sequence of 6 digits. The system they devised should make each digit of the combination, when typed by an attendant, appear immediately on the thieves' display. Unfortunately for them, the system does not work well yet: it works perfectly when the digits 2, 6, 0 are pressed, but when the other digits are used nothing appears on the display. The last time the attendants opened the safe, only the 4 digits 2006 appeared, in this order, on the crooks' display. Determine how many possible combinations the crooks would have to try to be sure of opening the safe.
 
-**Answer:** not given in the source
+**Answer:** 0735
 
 
 
@@ -218,7 +222,8 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 2025
+**Fonte risposta:** soluzione ufficiale, [PDF p.2](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=2)
 **Fonte:** [apri PDF p.2](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=2) · fairmath.it (Coppa Fermat 2006)
 
 
@@ -231,7 +236,7 @@ level: squadre
 
 > The exhibition. In a school a whole room has been fitted out to display the trophies won in the various editions of this competition. To protect the precious floor from the wear due to thousands of visitors, the room, which is square, has been furnished with 4 equal rectangular carpets, without overlaps, so as to form a walkway running along the whole perimeter, leaving uncovered only a square in the centre of the room. Knowing that the perimeter of each carpet is 9 metres, determine how many square decimetres the area of the room measures.
 
-**Answer:** not given in the source
+**Answer:** 2025
 
 
 
@@ -264,7 +269,8 @@ level: squadre
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 5101
+**Fonte risposta:** soluzione ufficiale, [PDF p.2](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=2)
 **Fonte:** [apri PDF p.2](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=2) · fairmath.it (Coppa Fermat 2006)
 
 
@@ -283,7 +289,7 @@ level: squadre
 > 5. There are at least 2 doped teams.
 > Today, under pressure from the mass media, the investigators declared that one and only one of the leaked news items is correct. Determine how things stand. Compose the answer as follows: in the first position from the left write the number of the correct statement; in the second position write 0 if the Alfieri team is clean, 1 if it is doped, 2 if the information is not sufficient to establish it; in the third and fourth positions write the same for the Boccaccio and Carducci high schools respectively.
 
-**Answer:** not given in the source
+**Answer:** 5101
 
 
 
@@ -304,7 +310,8 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 0910
+**Fonte risposta:** soluzione ufficiale, [PDF p.2](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=2)
 **Fonte:** [apri PDF p.2](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=2) · fairmath.it (Coppa Fermat 2006)
 
 
@@ -317,7 +324,7 @@ level: squadre
 
 > The defenestration. In a bathroom of the Olympic village the organisers would like to replace a rectangular mirror measuring 109 × 156 centimetres (its thickness is negligible). For technical reasons, it would be convenient to take the mirror out through the bathroom window, which is rectangular but only 60 centimetres wide. Determine, in millimetres, the minimum height the window must have for the mirror to get out (whole).
 
-**Answer:** not given in the source
+**Answer:** 0910
 
 
 
@@ -429,7 +436,8 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 0729
+**Fonte risposta:** soluzione ufficiale, [PDF p.3](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=3)
 **Fonte:** [apri PDF p.3](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=3) · fairmath.it (Coppa Fermat 2006)
 
 
@@ -446,7 +454,7 @@ level: squadre
 > • it grew 1 millimetre on the other days.
 > Determine, if things continue in the same way, how many millimetres tall the stem will be on the night of next New Year's Eve.
 
-**Answer:** not given in the source
+**Answer:** 0729
 
 
 
@@ -469,7 +477,8 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 0074
+**Fonte risposta:** soluzione ufficiale, [PDF p.3](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=3)
 **Fonte:** [apri PDF p.3](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=3) · fairmath.it (Coppa Fermat 2006)
 
 
@@ -482,7 +491,7 @@ level: squadre
 
 > Drunkards. All the bottles of wine served at the restaurant of the Olympic village are priced at a whole number of euros written using only the digit 8 (some are indeed very expensive, but apparently they are worth it). At the end of its stay in the village, a team presents its sponsors with a receipt for as much as 70000 (seventy thousand) euros of wine. The receipt lists one by one all the bottles consumed, with their prices. Determine the minimum number of digits 8 appearing on the receipt.
 
-**Answer:** not given in the source
+**Answer:** 0074
 
 
 
@@ -509,7 +518,8 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 6262
+**Fonte risposta:** soluzione ufficiale, [PDF p.4](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=4)
 **Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2006)
 
 
@@ -522,7 +532,7 @@ level: squadre
 
 > The first pond. A large park surrounds the Olympic village. Two sides of the park are bounded by 2 straight roads forming an angle of 56° with each other. In the park there is also a circular pond, tangent to the two roads. A third road, also tangent to the pond, meets the 2 previous roads at two crossroads, where Andrea and Luca are at this moment. The 3 roads described bound a triangle that does not contain the pond. Determine the maximum and the minimum possible value of the measure in degrees of the angle with vertex at the centre of the pond whose sides pass through Andrea and Luca respectively. Neglect the width of the roads and of the crossroads. In the answer use the 2 digits on the left for the maximum and the remaining 2 for the minimum.
 
-**Answer:** not given in the source
+**Answer:** 6262
 
 
 
@@ -554,7 +564,8 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 4139
+**Fonte risposta:** soluzione ufficiale, [PDF p.4](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=4)
 **Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2006)
 
 
@@ -567,7 +578,7 @@ level: squadre
 
 > The game of the goose. Two friends want to build a large Game of the Goose on a squared poster. As one might imagine, the track consists of a sequence of square cells placed so that 2 consecutive cells have a side in common, while 2 non-consecutive cells do not even have a point in common. The track starts from the top-left cell, then runs along the top side, then the right side, the bottom side, then goes back up the left side up to the third-to-last cell and then proceeds inwards, spiralling clockwise as long as cells are available. For example, if the starting rectangle were 8 × 10 (8 rows, 10 columns), the track would end in the cell in row 5, column 3. Determine in which row and in which column the track drawn in an 80 × 100 rectangle ends. In the answer use the 2 digits on the left for the row and the remaining 2 for the column.
 
-**Answer:** not given in the source
+**Answer:** 4139
 
 
 
@@ -591,7 +602,8 @@ level: squadre
 
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 6560
+**Fonte risposta:** soluzione ufficiale, [PDF p.4](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=4)
 **Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2006)
 
 
@@ -604,7 +616,7 @@ level: squadre
 
 > The equation. Totally absorbed by the team competition, a competitor forgot to write down his homework. He vaguely remembers that he had to solve an equation of the type x^9 − … x + 3 = 0, but he just cannot recall the coefficient of x set by the teacher. He only remembers that it was a positive multiple of 10, and he knows that the equation must have at least one integer solution, since that was precisely the topic of the latest lessons. Determine the forgotten coefficient.
 
-**Answer:** not given in the source
+**Answer:** 6560
 
 
 
@@ -626,7 +638,8 @@ level: squadre
 > km”. Determinare, in metri, la differenza tra la massima e la
 > minima distanza che ci può essere tra Guglielmo e Valentina.
 
-**Risposta:** non indicata nella fonte
+**Risposta:** 1000
+**Fonte risposta:** soluzione ufficiale, [PDF p.4](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=4)
 **Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2006)
 
 
@@ -639,7 +652,7 @@ level: squadre
 
 > Enigmatic directions. Valentina has stayed in her room in the Olympic village, located exactly 1 km from the Olympic torch. Guglielmo calls her in her room on his mobile phone and, to show off the power of his GPS palmtop, tells her: “Now my distance from the torch, in km, is the square of the distance between the two of us, also in km.” Determine, in metres, the difference between the maximum and the minimum possible distance between Guglielmo and Valentina.
 
-**Answer:** not given in the source
+**Answer:** 1000
 
 
 
@@ -667,7 +680,8 @@ level: squadre
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Area:** [[Algebra e Analisi]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 3121
+**Fonte risposta:** soluzione ufficiale, [PDF p.5](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=5)
 **Fonte:** [apri PDF p.5](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=5) · fairmath.it (Coppa Fermat 2006)
 
 
@@ -680,7 +694,7 @@ level: squadre
 
 > The island of the dishonest. The 5 contestants of a well-known reality show have been shipwrecked on an island. To get food, they start by piling up all the coconuts they manage to collect. During the night one of the contestants decides to take his share in advance: he divides the coconuts into 5 equal piles, finds that one is left over and throws it to the monkeys, then hides his share and goes back to sleep. After a while the second contestant wakes up with the same idea: he divides the remaining coconuts into 5 piles, finds that one is left over and throws it to the monkeys, then hides his share and goes back to sleep. Later in the night the remaining 3 contestants also wake up one after the other, all with the same idea, and all of them, in carrying it out, throw one coconut to the monkeys because it is left over in the division. The next morning the contestants, looking innocent, divide the remaining coconuts into 5 equal piles, and in doing so none is left over. Determine the minimum number of coconuts in the original pile.
 
-**Answer:** not given in the source
+**Answer:** 3121
 
 
 
@@ -702,7 +716,8 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 2060
+**Fonte risposta:** soluzione ufficiale, [PDF p.5](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=5)
 **Fonte:** [apri PDF p.5](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=5) · fairmath.it (Coppa Fermat 2006)
 
 
@@ -715,7 +730,7 @@ level: squadre
 
 > The Games of Eight. After more than 3 centuries, this year the Games of Eight will be held, a very famous mathematical competition that takes place only in the years whose digit sum is 8, like 2006 indeed. This tradition derives from the fact that the first edition was held precisely in the year 8 AD. Determine in which year the 88th edition was or will be held.
 
-**Answer:** not given in the source
+**Answer:** 2060
 
 
 
@@ -736,7 +751,8 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 1344
+**Fonte risposta:** soluzione ufficiale, [PDF p.5](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=5)
 **Fonte:** [apri PDF p.5](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=5) · fairmath.it (Coppa Fermat 2006)
 
 
@@ -749,7 +765,7 @@ level: squadre
 
 > The second pond. In the park of the Olympic village, besides the circular one, there is also a pond shaped like a right triangle. One of the 2 legs is 35 metres long, and the other 2 sides also have a whole number of metres as their length. Determine, in metres, the sum of the maximum and the minimum perimeter the pond can have.
 
-**Answer:** not given in the source
+**Answer:** 1344
 
 
 
@@ -776,7 +792,8 @@ level: squadre
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 2925
+**Fonte risposta:** soluzione ufficiale, [PDF p.5](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=5)
 **Fonte:** [apri PDF p.5](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=5) · fairmath.it (Coppa Fermat 2006)
 
 
@@ -789,7 +806,7 @@ level: squadre
 
 > Bowling 1. At the bowling alley of the Olympic village a certain number of (perfectly spherical) balls must be stacked. First the attendants try with 4 balls and immediately discover that they can put 3 on the ground, pairwise tangent, and then place the fourth on top, so that it is tangent to the first 3. Trying a little more, they discover that they can place 6 balls on the ground “in a triangle”, and put the previous structure on top of them, thus building a “3-layer pyramid” containing 10 balls. At this point they understand that the structure can be widened and raised at will in the same way. Determine how many balls fit in a “25-layer pyramid”.
 
-**Answer:** not given in the source
+**Answer:** 2925
 
 
 
@@ -813,7 +830,8 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 0017
+**Fonte risposta:** soluzione ufficiale, [PDF p.5](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=5)
 **Fonte:** [apri PDF p.5](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=5) · fairmath.it (Coppa Fermat 2006)
 
 
@@ -826,7 +844,7 @@ level: squadre
 
 > Barter. Two farmers have agreed that a pig is worth 560 euros and a sheep is worth 390. Since both of them have many sheep and many pigs but no cash, they decided to use the animals as currency. For example, if the first owes the second 50 euros, he pays him with 3 sheep and gets 2 pigs back as change, thus settling the debt with 5 animals changing hands. Determine the minimum number of animals that must change owner (payment plus change) to settle a debt of 20 euros.
 
-**Answer:** not given in the source
+**Answer:** 0017
 
 
 
@@ -846,7 +864,8 @@ level: squadre
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 4119
+**Fonte risposta:** soluzione ufficiale, [PDF p.6](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=6)
 **Fonte:** [apri PDF p.6](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=6) · fairmath.it (Coppa Fermat 2006)
 
 
@@ -859,7 +878,7 @@ level: squadre
 
 > Bowling 2. After some time the bowling attendants of a previous problem have finally managed to build a 25-layer pyramid of balls. Assuming that the radius of each ball is 10 centimetres, determine how many millimetres the height of the pyramid measures, that is the distance from the ground to the top of the highest ball.
 
-**Answer:** not given in the source
+**Answer:** 4119
 
 
 
@@ -926,7 +945,8 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 0334
+**Fonte risposta:** soluzione ufficiale, [PDF p.6](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=6)
 **Fonte:** [apri PDF p.6](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=6) · fairmath.it (Coppa Fermat 2006)
 
 
@@ -939,4 +959,4 @@ level: squadre
 
 > Advertising tips. A modern advertising structure consists of a right prism whose base is a regular hexagon with sides of 1 metre. The prism rotates at constant speed around its axis, thus showing in turn the 6 lateral faces, on which there are advertising posters. Michela, having stood still for some time in front of the structure, noticed that from her observation point 3 posters can be seen at the same time for half of the time (obviously at varying angles) and only 2 for the other half. Determine, in centimetres, Michela's distance from the axis of rotation.
 
-**Answer:** not given in the source
+**Answer:** 0334

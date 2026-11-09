@@ -211,7 +211,8 @@ level: squadre
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 0082
+**Fonte risposta:** soluzione ufficiale, [PDF p.6](https://www.phiquadro.it/archivio/2008_7%20aprile%20-%20Roma.pdf#page=6)
 **Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2008_7%20aprile%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
 
 
@@ -224,7 +225,7 @@ level: squadre
 
 > Piero plays a solitaire game on the computer. The computer stores the outcome of every game (won or lost) and shows the percentage of games won, rounding it to the nearest integer (for a percentage such as 78.5 it rounds up, i.e. to 79). So far Piero has played 100 games and has a win percentage of 90%. How many consecutive games must Piero now win for the computer to give him a win percentage of 95%?
 
-**Answer:** not given in the source
+**Answer:** 0082
 
 
 
@@ -278,7 +279,8 @@ level: squadre
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 3596
+**Fonte risposta:** soluzione ufficiale, [PDF p.7](https://www.phiquadro.it/archivio/2008_7%20aprile%20-%20Roma.pdf#page=7)
 **Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2008_7%20aprile%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
 
 
@@ -293,7 +295,7 @@ level: squadre
 > figure 1
 > The game consists of filling the empty cells with non-negative integers, so that each cell is the sum of the two on which it rests. Mr Mauro, however, notices that the Sommiramide in question is not uniquely determined (that is, there are several ways of completing it) and suggests to the person in charge of the column to add a number in the top cell, so that the solution becomes unique. What is the largest number that can be put in the top cell so that this happens?
 
-**Answer:** not given in the source
+**Answer:** 3596
 
 
 
@@ -496,7 +498,8 @@ level: squadre
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Area:** [[Algebra e Analisi]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 1935
+**Fonte risposta:** soluzione ufficiale, [PDF p.11](https://www.phiquadro.it/archivio/2008_7%20aprile%20-%20Roma.pdf#page=11)
 **Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2008_7%20aprile%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
 
 
@@ -509,7 +512,7 @@ level: squadre
 
 > Of a function F : Z → Z, that is, a function associating an integer with every integer, it is known that F(F(x)) = x + 2 and that F(25) = 100. What is F(2008)?
 
-**Answer:** not given in the source
+**Answer:** 1935
 
 
 
@@ -526,7 +529,8 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 5376
+**Fonte risposta:** soluzione ufficiale, [PDF p.11](https://www.phiquadro.it/archivio/2008_7%20aprile%20-%20Roma.pdf#page=11)
 **Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2008_7%20aprile%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
 
 
@@ -539,7 +543,7 @@ level: squadre
 
 > How many triangles with integer side lengths have perimeter 508?
 
-**Answer:** not given in the source
+**Answer:** 5376
 
 
 

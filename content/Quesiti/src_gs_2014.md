@@ -449,7 +449,8 @@ level: squadre
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-**Risposta:** 2750
+**Risposta:** 8750
+**Fonte risposta:** soluzione ufficiale, [PDF p.8](https://www.phiquadro.it/archivio/GS2014.pdf#page=8)
 **Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/GS2014.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2014 (= fairmath.it, Coppa Galileo 2014)
 
 
@@ -463,7 +464,7 @@ level: squadre
 > Probability at the bar (40 points)
 > MISTERIUS has managed to recover the video of the famous dice game between Bagolot and Enrico Fermi at the bar in Göttingen in 1923. As can be seen in the video, Bagolot and Fermi have three dice: one with 4 faces, numbered from 1 to 4; another with 6 faces, numbered from 1 to 6; the last one with 8 faces, numbered from 1 to 8. Bagolot challenges Fermi to the following gamble: Fermi rolls all the dice once; then Bagolot throws one of them away; Fermi rolls the two remaining dice a second time. All the points obtained are added up (from the first roll of three dice and the second roll of the two remaining ones): if the sum is 15, Fermi wins 100 marks from Bagolot; otherwise Bagolot wins 10 from Fermi. One sees Fermi roll all three dice together once, getting 8 as the sum of the faces. Unfortunately the video ends abruptly; it is known that at that point something astonishing happened: Bagolot evaluated perfectly his probabilities of winning the 10 marks depending on the die he would throw away. What was his best probability of winning the 10 marks? [Write as the solution the first 4 digits after the decimal point of the result.]
 
-**Answer:** 2750
+**Answer:** 8750
 
 
 
@@ -488,7 +489,8 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 0104
+**Fonte risposta:** soluzione ufficiale, [PDF p.8](https://www.phiquadro.it/archivio/GS2014.pdf#page=8)
 **Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/GS2014.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2014 (= fairmath.it, Coppa Galileo 2014)
 
 
@@ -502,7 +504,7 @@ level: squadre
 > Hydrophobic Leveraine (40 points)
 > We at MISTERIUS have discovered that mathematicians are eccentric. For example, Leveraine had a round swimming pool with a diameter of 20 m; when he was struck by hydrophobia, he had the water surface reduced by having an island shaped like an equilateral triangle placed in the pool, with its three vertices touching the edge of the pool. Leveraine's hydrophobia reached acute levels and he had another, square, island superimposed on the first, again with its vertices touching the edge of the pool and with one side parallel to one of the sides of the triangle. The visible water surface left no longer frightened Leveraine. How many m^2 did the area of the visible water measure?
 
-**Answer:** not given in the source
+**Answer:** 0104
 
 
 
@@ -526,7 +528,8 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 2750
+**Fonte risposta:** soluzione ufficiale, [PDF p.8](https://www.phiquadro.it/archivio/GS2014.pdf#page=8)
 **Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/GS2014.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2014 (= fairmath.it, Coppa Galileo 2014)
 
 
@@ -542,7 +545,7 @@ level: squadre
 > 0.(9F5 repeating) = n/810 for a suitable integer n.
 > Bagolot proved that, if it exists, such a digit F is unique, but to this day it is not known whether the property, now known as Bagolot's Conjecture, is satisfied by some digit F (and some n). If you solve BC, answer by writing first F, followed by the three digits of n.
 
-**Answer:** not given in the source
+**Answer:** 2750
 
 
 

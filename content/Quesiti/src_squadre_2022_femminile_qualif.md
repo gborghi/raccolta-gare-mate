@@ -167,7 +167,8 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-**Risposta:** non indicata nella fonte
+**Risposta:** 0018
+**Fonte risposta:** soluzione ufficiale, [PDF p.6](https://www.phiquadro.it/archivio/2022_28%20gennaio%20-%20Ga.pdf#page=6)
 **Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2022_28%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2022 (Gara Femminile - Qualificazione)
 
 
@@ -182,7 +183,7 @@ level: squadre
 > How many zeros does the factorial 40! end with when written in base 12?
 > This problem is useless because nobody writes in base 12. But the solution is easy.
 
-**Answer:** not given in the source
+**Answer:** 0018
 
 
 

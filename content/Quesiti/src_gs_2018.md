@@ -332,7 +332,8 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
-**Risposta:** 0349
+**Risposta:** 2683
+**Fonte risposta:** soluzione ufficiale, [PDF p.8](https://www.phiquadro.it/archivio/2018_2%20marzo%20-%20Gara%20.pdf#page=8)
 **Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2018_2%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2018 (= fairmath.it, Coppa Gauss 2018)
 
 
@@ -346,7 +347,7 @@ level: squadre
 > Potato peeler
 > Emanuele (to Ludovico, who is peeling potatoes): In a rectangle with sides 30 m and 60 m two identical circles are placed, tangent to each other and each tangent to three sides of the rectangle. Drawing the diagonal, a chord is formed on each circle. How many centimetres does the longer of the two measure? (Ludovico slices a finger with the potato peeler.)
 
-**Answer:** 0349
+**Answer:** 2683
 
 
 
@@ -367,7 +368,8 @@ level: squadre
 > Luigi Amedeo È logico, chef!
 > Voce fuori campo Quanti piatti equilibrati si possono fare?
 
-**Risposta:** non indicata nella fonte
+**Risposta:** 0349
+**Fonte risposta:** soluzione ufficiale, [PDF p.8](https://www.phiquadro.it/archivio/2018_2%20marzo%20-%20Gara%20.pdf#page=8)
 **Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2018_2%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2018 (= fairmath.it, Coppa Gauss 2018)
 
 
@@ -383,7 +385,7 @@ level: squadre
 > Luigi Amedeo: That's logical, chef!
 > Voice-over: How many balanced dishes can be made?
 
-**Answer:** not given in the source
+**Answer:** 0349
 
 
 
