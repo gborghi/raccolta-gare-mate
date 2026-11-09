@@ -126,7 +126,7 @@ level: Purple Comet Middle School
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -135,8 +135,8 @@ level: Purple Comet Middle School
 
 > Tarisa ha corso a velocità costante e ha completato un percorso di 12 chilometri in 80 minuti. Pam ha percorso lo stesso tragitto in bicicletta a una velocità di 6 chilometri all'ora maggiore di quella di corsa di Tarisa. Determinare quanti minuti ha impiegato Pam per percorrere i 12 chilometri.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi]]
 **Risposta:** 0048
 **Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · [soluzione ufficiale PDF p.2](https://purplecomet.org/files/2025MSSolutions.pdf#page=2)
 **Fonte:** [apri PDF p.1](https://purplecomet.org/files/2025MS_English.pdf#page=1) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
@@ -180,7 +180,7 @@ level: Purple Comet Middle School
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_probabilita,topic_algebra"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -189,8 +189,8 @@ level: Purple Comet Middle School
 
 > La media aritmetica dei numeri reali $a$, $b$ e $c$ è 22. Determinare la media aritmetica dei numeri $ab+\frac{c^2}{2}$, $bc+\frac{a^2}{2}$ e $ca+\frac{b^2}{2}$.
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_algebra|Algebra]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi]]
 **Risposta:** 0726
 **Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · [soluzione ufficiale PDF p.3](https://purplecomet.org/files/2025MSSolutions.pdf#page=3)
 **Fonte:** [apri PDF p.2](https://purplecomet.org/files/2025MS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
@@ -323,7 +323,7 @@ level: Purple Comet Middle School
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags=""></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -333,6 +333,8 @@ level: Purple Comet Middle School
 > Determinare il numero reale positivo $x$ per cui
 > $$2\sqrt[3]{1+\frac{x}{2}}+\sqrt[3]{1-x}=3.$$
 
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi]]
 **Risposta:** 0126
 **Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · [soluzione ufficiale PDF p.5](https://purplecomet.org/files/2025MSSolutions.pdf#page=5)
 **Fonte:** [apri PDF p.2](https://purplecomet.org/files/2025MS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
@@ -462,7 +464,7 @@ level: Purple Comet Middle School
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_solida,topic_aritmetica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -471,8 +473,8 @@ level: Purple Comet Middle School
 
 > Nello spazio a tre dimensioni siano $A=(0,0,0)$ e $B=(18,24,30)$. Determinare quanti sono i punti del segmento $\overline{AB}$ tali che esattamente una delle tre coordinate del punto sia intera, come $(0.75, 1, 1.25)$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0054
 **Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · [soluzione ufficiale PDF p.7](https://purplecomet.org/files/2025MSSolutions.pdf#page=7)
 **Fonte:** [apri PDF p.3](https://purplecomet.org/files/2025MS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)

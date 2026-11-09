@@ -125,6 +125,7 @@ level: MEMO gara a squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $k=100\binom{n}{2}$
+**Nota:** Per $n=1$ la formula dà $k=0$, mentre il testo chiede un intero positivo.
 **Fonte risposta:** [soluzione ufficiale PDF p.27](https://www.memo2025.de/media/MEMO-2025-SolutionBooklet.pdf#page=27)
 **Fonte:** [apri PDF p.1](https://www.memo2025.de/media/MEMO_2025_T_en.pdf#page=1) · Middle European Mathematical Olympiad 2025, Chemnitz (testi ufficiali e Solution Booklet)
 
@@ -139,6 +140,8 @@ level: MEMO gara a squadre
 > Find the largest positive integer $k$, depending on $n$, such that the governor can always choose $k$ toll stations for the federal government to collect the toll revenue, while satisfying the demand of the city mayors.
 
 **Answer:** $k=100\binom{n}{2}$
+
+**Note:** For $n=1$ the formula gives $k=0$, whereas the statement asks for a positive integer.
 
 
 

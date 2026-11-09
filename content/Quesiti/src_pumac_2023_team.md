@@ -91,7 +91,7 @@ level: PUMaC Team Round
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags=""></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -100,6 +100,8 @@ level: PUMaC Team Round
 
 > Determinare il più grande intero $x<1000$ tale che $\binom{1515}{x}$ e $\binom{1975}{x}$ siano entrambi dispari.
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0419
 **Fonte risposta:** [soluzione ufficiale PDF p.2](https://jason-shi-f9dm.squarespace.com/s/Team_Round_2023-2.pdf#page=2)
 **Fonte:** [apri PDF p.1](https://jason-shi-f9dm.squarespace.com/s/Team_Round_2023.pdf#page=1) · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
@@ -313,7 +315,7 @@ level: PUMaC Team Round
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags=""></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -322,6 +324,8 @@ level: PUMaC Team Round
 
 > Qual è la somma di tutti i possibili $\binom ij$ con i vincoli $i\ge10$, $j\ge0$ e $i+j\le20$? Coppie $i, j$ diverse che danno lo stesso valore vanno contate separatamente: per esempio, si contano sia $\binom{10}{1}$ sia $\binom{10}{9}$.
 
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 27633
 **Fonte risposta:** [soluzione ufficiale PDF p.5](https://jason-shi-f9dm.squarespace.com/s/Team_Round_2023-2.pdf#page=5)
 **Fonte:** [apri PDF p.2](https://jason-shi-f9dm.squarespace.com/s/Team_Round_2023.pdf#page=2) · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)

@@ -165,7 +165,7 @@ level: Baltic Way
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags=""></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -175,6 +175,8 @@ level: Baltic Way
 > $n\ge3$ amici giocano a palla prigioniera. All'inizio tutti i giocatori sono liberi. Quando un giocatore libero $A$ elimina un altro giocatore libero $B$, $A$ imprigiona $B$ e libera tutti i giocatori imprigionati in quel momento da $B$. Due eliminazioni non possono avvenire contemporaneamente.
 > Determinare il minimo numero di eliminazioni dopo le quali è possibile che, per ogni coppia di giocatori, almeno uno dei due abbia liberato l'altro.
 
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $\frac{n(n-1)}{2}+1$
 **Fonte risposta:** [soluzione ufficiale PDF p.13](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=13)
 **Fonte:** [apri PDF p.3](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=3) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)

@@ -17,7 +17,7 @@ level: HMMT February Team Round
 
 *Esagono regolare diviso da OA e OB*
 
-> [20] Sia $P$ un esagono regolare di centro $O$. I punti distinti $A$ e $B$ stanno sul contorno di $P$. I segmenti $OA$ e $OB$ dividono l'interno di $P$ in due poligoni $R_1$ e $R_2$. Siano $a_1$ e $a_2$ le aree di $R_1$ e $R_2$, e $p_1$ e $p_2$ i perimetri di $R_1$ e $R_2$, rispettivamente. Sapendo che $a_1/p_1=a_2/p_2$, dimostrare che $a_1=a_2$.
+> [20] Sia $\mathcal P$ un esagono regolare di centro $O$. I punti distinti $A$ e $B$ stanno sul contorno di $\mathcal P$. I segmenti $OA$ e $OB$ dividono l'interno di $\mathcal P$ in due poligoni $R_1$ e $R_2$. Siano $a_1$ e $a_2$ le aree di $R_1$ e $R_2$, e $p_1$ e $p_2$ i perimetri di $R_1$ e $R_2$, rispettivamente. Sapendo che $a_1/p_1=a_2/p_2$, dimostrare che $a_1=a_2$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
@@ -68,7 +68,7 @@ level: HMMT February Team Round
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags=""></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -77,6 +77,8 @@ level: HMMT February Team Round
 
 > [30] Siano $\alpha$ e $\beta$ numeri complessi tali che $\alpha\beta+\alpha+\beta+100=0$. Supponiamo che $|\alpha|=|\beta|=M$ per un numero reale non negativo $M$. Determinare, con dimostrazione, tutti i possibili valori di $M$.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi]]
 **Risposta:** $M=10$
 **Fonte risposta:** [soluzione ufficiale PDF p.3](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/solutions.pdf#page=3)
 **Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
@@ -93,7 +95,7 @@ level: HMMT February Team Round
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags=""></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -102,6 +104,8 @@ level: HMMT February Team Round
 
 > [35] Un insieme $S$ di numeri razionali si dice *inclusivo* se $0$ non appartiene a $S$ e, per ogni scelta di elementi $x$, $y$, $z$ di $S$ (non necessariamente distinti), anche il numero $xy+z$ appartiene a $S$. Determinare, con dimostrazione, tutti i numeri razionali $a$ per cui esiste un insieme inclusivo che contiene $a$.
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** tutti i razionali tranne $0$ e $-\frac1n$ con $n$ intero positivo
 **Fonte risposta:** [soluzione ufficiale PDF p.6](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/solutions.pdf#page=6)
 **Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
@@ -118,7 +122,7 @@ level: HMMT February Team Round
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags=""></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -127,6 +131,8 @@ level: HMMT February Team Round
 
 > [40] Alla lavagna sono scritti i numeri $1, 2, \dots, 2026$. Un'operazione consiste nel sostituire un numero qualsiasi della lavagna con la differenza positiva tra il numero più grande e il numero più piccolo presenti in quel momento sulla lavagna. Determinare, con dimostrazione, il minimo numero di operazioni necessario per rendere uguali tutti i numeri sulla lavagna.
 
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3037
 **Fonte risposta:** [soluzione ufficiale PDF p.7](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/solutions.pdf#page=7)
 **Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)

@@ -64,7 +64,7 @@ level: PUMaC Team Round
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags=""></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -73,6 +73,8 @@ level: PUMaC Team Round
 
 > Si supponga che $x=\sqrt{2-\sqrt{2+\sqrt{2-x}}}$. Determinare $x$.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi]]
 **Risposta:** $2\cos\frac{3\pi}{7}$
 **Fonte risposta:** [soluzione ufficiale PDF p.2](https://jason-shi-f9dm.squarespace.com/s/Team-Solutions.pdf#page=2)
 **Fonte:** [apri PDF p.1](https://jason-shi-f9dm.squarespace.com/s/PUMaC_2025_Team.pdf#page=1) · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
@@ -128,7 +130,7 @@ level: PUMaC Team Round
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0003
-**Fonte risposta:** [soluzione ufficiale PDF p.2](https://jason-shi-f9dm.squarespace.com/s/Team-Solutions.pdf#page=2)
+**Fonte risposta:** [soluzione ufficiale PDF p.2](https://jason-shi-f9dm.squarespace.com/s/Team-Solutions.pdf#page=2) — chiave ufficiale non verificata: il testo è ambiguo sull’orientamento dei caricatori 1×3; un conteggio esaustivo con la lettura letterale dà 7 configurazioni (21 caricatori) con i 1×3 lungo il lato da 6, oppure 4 (20 caricatori) con i 1×3 lungo il lato da 5
 **Fonte:** [apri PDF p.1](https://jason-shi-f9dm.squarespace.com/s/PUMaC_2025_Team.pdf#page=1) · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
 
 
@@ -139,7 +141,7 @@ level: PUMaC Team Round
 
 > Zappy Zack wants to place rectangular chargers on a $6 \times 5$ power grid. He has $(1 \times 3)$ chargers and $(1 \times 1)$ chargers. The top leftmost outlet doesn't work, so he cannot plug any chargers into it. Furthermore, any $(1 \times 1)$ charger must be adjacent to a $(1 \times 3)$ charger (diagonals do not count). He also cannot rotate any chargers. Zack places chargers into the slots such that he maximizes the total number of chargers he places down. How many ways could he have done this?
 
-**Answer:** 0003
+**Answer:** 0003 — official key not verified: the statement is ambiguous about the orientation of the 1×3 chargers; an exhaustive count under the literal reading gives 7 configurations (21 chargers) with the 1×3 pieces along the side of length 6, or 4 (20 chargers) with them along the side of length 5
 
 
 
@@ -394,7 +396,7 @@ level: PUMaC Team Round
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags=""></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_algebra"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -405,6 +407,8 @@ level: PUMaC Team Round
 > $$x=\frac{\sqrt2}{\sqrt{\sqrt{x+1}+\sqrt x}-\sqrt{\sqrt x+\sqrt{x-1}}}.$$
 > Determinare $\lfloor x\rfloor$.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi]]
 **Risposta:** 0255
 **Fonte risposta:** [soluzione ufficiale PDF p.11](https://jason-shi-f9dm.squarespace.com/s/Team-Solutions.pdf#page=11)
 **Fonte:** [apri PDF p.2](https://jason-shi-f9dm.squarespace.com/s/PUMaC_2025_Team.pdf#page=2) · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)

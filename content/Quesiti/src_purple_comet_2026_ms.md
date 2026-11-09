@@ -37,7 +37,7 @@ level: Purple Comet Middle School
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags=""></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -46,6 +46,8 @@ level: Purple Comet Middle School
 
 > Il lunedì una scatola di ciambelle viene scontata del 10 per cento. Il martedì a quel prezzo ridotto si applica un ulteriore sconto del 20 per cento. Determinare la percentuale di sconto complessiva.
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0028
 **Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/1>) · [soluzione ufficiale PDF p.1](https://purplecomet.org/files/2026MSSolutions.pdf#page=1)
 **Fonte:** [apri PDF p.1](https://purplecomet.org/files/2026MS_English.pdf#page=1) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
@@ -338,7 +340,7 @@ level: Purple Comet Middle School
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -347,8 +349,8 @@ level: Purple Comet Middle School
 
 > Casey, Pat e Sandy hanno guardato l'elenco di tutti i sottoinsiemi dell'insieme $S$. Casey ha cerchiato tutti i sottoinsiemi con esattamente 2 elementi, Pat tutti quelli con esattamente 8 elementi e Sandy tutti quelli con esattamente 13 elementi. Pat e Sandy hanno cerchiato lo stesso numero, positivo, di sottoinsiemi. Determinare quanti sottoinsiemi ha cerchiato Casey.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0210
 **Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/1>) · [soluzione ufficiale PDF p.5](https://purplecomet.org/files/2026MSSolutions.pdf#page=5)
 **Fonte:** [apri PDF p.2](https://purplecomet.org/files/2026MS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)

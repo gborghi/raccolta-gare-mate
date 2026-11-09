@@ -86,7 +86,7 @@ level: Concours Général
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (prova a dimostrazione / a risposta aperta).
-**Fonte:** [apri PDF p.2](https://www.vmaths.fr/wp-content/uploads/CG/Concours_General_2026_enonce.pdf#page=2) · Concours Général des Lycées 2026 (testo ufficiale, vmaths.fr)
+**Fonte:** [apri PDF p.2](https://www.vmaths.fr/wp-content/uploads/CG/Concours_General_2026_enonce.pdf#page=2) · Concours Général des Lycées 2026 (soggetto ufficiale, copia su vmaths.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -284,7 +284,7 @@ level: Concours Général
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (prova a dimostrazione / a risposta aperta).
-**Fonte:** [apri PDF p.4](https://www.vmaths.fr/wp-content/uploads/CG/Concours_General_2026_enonce.pdf#page=4) · Concours Général des Lycées 2026 (testo ufficiale, vmaths.fr)
+**Fonte:** [apri PDF p.4](https://www.vmaths.fr/wp-content/uploads/CG/Concours_General_2026_enonce.pdf#page=4) · Concours Général des Lycées 2026 (soggetto ufficiale, copia su vmaths.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -438,7 +438,7 @@ level: Concours Général
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (prova a dimostrazione / a risposta aperta).
-**Fonte:** [apri PDF p.7](https://www.vmaths.fr/wp-content/uploads/CG/Concours_General_2026_enonce.pdf#page=7) · Concours Général des Lycées 2026 (testo ufficiale, vmaths.fr)
+**Fonte:** [apri PDF p.7](https://www.vmaths.fr/wp-content/uploads/CG/Concours_General_2026_enonce.pdf#page=7) · Concours Général des Lycées 2026 (soggetto ufficiale, copia su vmaths.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
