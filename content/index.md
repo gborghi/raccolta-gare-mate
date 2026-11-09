@@ -8,14 +8,14 @@ title: Raccolta Gare di Matematica
     <div class="home-hero-copy">
       <div class="home-hero-eyebrow">Archivio didattico · Open · it / en</div>
       <h1 class="home-hero-title">Le gare di matematica,<br><em>coltivate</em> e catalogate.</h1>
-      <p class="home-hero-lead">Un archivio vivo di <strong>17.800 quesiti</strong> — Giochi di Archimede, Kangourou, Cesenatico e gare internazionali — con testo, risposta e classificazione per argomento, metodo e abilità.</p>
+      <p class="home-hero-lead">Un archivio vivo di <strong>18.600 quesiti</strong> — Giochi di Archimede, Kangourou, Cesenatico e gare internazionali — con testo, risposta e classificazione per argomento, metodo e abilità.</p>
       <div class="home-hero-cta">
         <a class="btn-primary" href="Clusters/">Esplora l'archivio</a>
         <a class="btn-ghost" href="cerca">Ricerca per tag →</a>
       </div>
       <div class="home-hero-stats">
-        <div class="stat"><span class="stat-n">17.800</span><span class="stat-l">Quesiti</span></div>
-        <div class="stat"><span class="stat-n">572</span><span class="stat-l">Gare</span></div>
+        <div class="stat"><span class="stat-n">18.600</span><span class="stat-l">Quesiti</span></div>
+        <div class="stat"><span class="stat-n">608</span><span class="stat-l">Gare</span></div>
         <div class="stat"><span class="stat-n">12</span><span class="stat-l">Argomenti</span></div>
       </div>
     </div>

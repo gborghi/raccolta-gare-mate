@@ -31,8 +31,13 @@ function normPdfPath(p) {
     .replace(/^\.\//, "")
     .trim()
 }
-function driveLink(alias, rawPath) {
+function driveLink(alias, rawPath, frag = "") {
   const label = (alias && alias.trim()) || "📄 Testo (PDF)"
+  // public web sources (e.g. phiquadro.it / fairmath.it) pass through unchanged
+  if (/^<?\s*https?:\/\//i.test(rawPath)) {
+    const url = rawPath.replace(/^<\s*/, "").replace(/\s*>$/, "").trim().replace(/ /g, "%20")
+    return `[${label}](${url}${frag || ""})`
+  }
   const rel = normPdfPath(rawPath)
   const id = PDF_DRIVE[rel]
   if (!id) {
@@ -243,12 +248,12 @@ function transform(content) {
     return `<div class="qtable" data-field="${spec.field}" data-values="${spec.values.join(",")}"></div>`
   })
   // angle-bracket form: [alias](<../../some path/file.pdf#page=N>) — path may contain spaces
-  content = content.replace(/\[([^\]]*)\]\(<([^>]*?\.pdf)(?:#[^>]*)?>\)/gi, (_m, a, p) =>
-    driveLink(a, p),
+  content = content.replace(/\[([^\]]*)\]\(<([^>]*?\.pdf)(#[^>]*)?>\)/gi, (_m, a, p, f) =>
+    driveLink(a, p, f),
   )
   // plain form: [alias](../../file.pdf#page=N) — no spaces
-  content = content.replace(/\[([^\]]*)\]\(\s*([^)\s]*?\.pdf)(?:#[^)\s]*)?\s*\)/gi, (_m, a, p) =>
-    driveLink(a, p),
+  content = content.replace(/\[([^\]]*)\]\(\s*([^)\s]*?\.pdf)(#[^)\s]*)?\s*\)/gi, (_m, a, p, f) =>
+    driveLink(a, p, f),
   )
   // drop the now-redundant backticked source path in "Sorgente: `path.pdf` · …"
   content = content.replace(/`[^`]*\.pdf`/gi, "")
@@ -587,14 +592,14 @@ title: Raccolta Gare di Matematica
     <div class="home-hero-copy">
       <div class="home-hero-eyebrow">Archivio didattico · Open · it / en</div>
       <h1 class="home-hero-title">Le gare di matematica,<br><em>coltivate</em> e catalogate.</h1>
-      <p class="home-hero-lead">Un archivio vivo di <strong>17.800 quesiti</strong> — Giochi di Archimede, Kangourou, Cesenatico e gare internazionali — con testo, risposta e classificazione per argomento, metodo e abilità.</p>
+      <p class="home-hero-lead">Un archivio vivo di <strong>18.600 quesiti</strong> — Giochi di Archimede, Kangourou, Cesenatico e gare internazionali — con testo, risposta e classificazione per argomento, metodo e abilità.</p>
       <div class="home-hero-cta">
         <a class="btn-primary" href="Clusters/">Esplora l'archivio</a>
         <a class="btn-ghost" href="cerca">Ricerca per tag →</a>
       </div>
       <div class="home-hero-stats">
-        <div class="stat"><span class="stat-n">17.800</span><span class="stat-l">Quesiti</span></div>
-        <div class="stat"><span class="stat-n">572</span><span class="stat-l">Gare</span></div>
+        <div class="stat"><span class="stat-n">18.600</span><span class="stat-l">Quesiti</span></div>
+        <div class="stat"><span class="stat-n">608</span><span class="stat-l">Gare</span></div>
         <div class="stat"><span class="stat-n">12</span><span class="stat-l">Argomenti</span></div>
       </div>
     </div>
