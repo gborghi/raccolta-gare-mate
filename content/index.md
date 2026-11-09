@@ -15,7 +15,7 @@ title: Raccolta Gare di Matematica
       </div>
       <div class="home-hero-stats">
         <div class="stat"><span class="stat-n">18.900</span><span class="stat-l">Quesiti</span></div>
-        <div class="stat"><span class="stat-n">625</span><span class="stat-l">Gare</span></div>
+        <div class="stat"><span class="stat-n">630</span><span class="stat-l">Gare</span></div>
         <div class="stat"><span class="stat-n">12</span><span class="stat-l">Argomenti</span></div>
       </div>
     </div>
