@@ -49,7 +49,7 @@ level: PUMaC Team Round
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0336
-**Fonte risposta:** [soluzione ufficiale PDF p.2](https://jason-shi-f9dm.squarespace.com/s/Team-Solutions.pdf#page=2)
+**Fonte risposta:** [soluzione ufficiale PDF p.2](https://jason-shi-f9dm.squarespace.com/s/Team-Solutions.pdf#page=2) — La chiave ufficiale (336 = 8·7·6) non identifica le colorazioni ottenibili l’una dall’altra per rotazione, come invece richiede il testo; con questa identificazione il numero è 56.
 **Fonte:** [apri PDF p.1](https://jason-shi-f9dm.squarespace.com/s/PUMaC_2025_Team.pdf#page=1) · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
 
 
@@ -60,7 +60,7 @@ level: PUMaC Team Round
 
 > A regular octahedron is a polyhedron with 6 vertices, 12 edges, and 8 triangular faces, where each vertex connects to exactly 4 others and there are 3 pairs of opposite vertices. Each vertex is assigned one of 8 colors. Adjacent vertices (connected by an edge) must have different colors, and opposite vertices must have the same color. Additionally, for each triangular face, the three vertices must use at least 3 different colors. Two colorings are considered the same if one can be obtained from the other by rotating the octahedron in 3D space. How many ways can the octahedron be colored?
 
-**Answer:** 0336
+**Answer:** 0336 — The official key (336 = 8·7·6) does not identify colourings related by rotation, as the statement requires; with that identification the count is 56.
 
 
 
