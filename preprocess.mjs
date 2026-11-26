@@ -500,7 +500,7 @@ async function main() {
         competition: data.competition ?? "",
         quesito: data.quesito ?? "",
         summary: data.summary ?? "",
-        answer: data.answer ?? "",
+        answer: "", // letter stays in the page details only; not in quesiti.json
         topics: data.topics ?? [],
         methods: data.methods ?? [],
         skills: data.skills ?? [],

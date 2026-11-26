@@ -121,6 +121,7 @@ await import("./scripts/fix-link-case.mjs")           // Quartz lower-cases path
 await fs.writeFile(`${PUB}/robots.txt`, "User-agent: *\nAllow: /\n\nSitemap: https://raccolta-gare-mate.pages.dev/sitemap.xml\n")
 await fs.writeFile(`${PUB}/.nojekyll`, "")
 await import("./scripts/write-redirects.mjs")       // old URLs of vanished gara pages -> successor (static/redirects.json)
+await import("./scripts/strip-public-answers.mjs")   // quesiti.json: no answer letter in the published JSON
 await import("./scripts/make-search-meta.mjs")       // static/searchMeta.json (search: metadata / campo:valore)
 process.env.HOST = "github"; await import("./scripts/host-urls.mjs") // sitemap/robots/RSS -> GitHub base URL
 await import("./scripts/write-mirror-manifest.mjs")   // LAST: hashes of every published file
