@@ -1732,3 +1732,40 @@ table.qtable-table th.qtable-th,
   }
   .ar-shell.toc-open .ar-toc { transform: none; }
 }
+
+// =====================================================================
+// Risposta nascosta (scripts/answer-reveal.mjs): <details class="q-answer"> chiuso, si apre al clic
+// =====================================================================
+details.q-answer {
+  margin: 0.7rem 0 0.9rem;
+}
+details.q-answer > summary {
+  display: inline-block;
+  list-style: none;
+  cursor: pointer;
+  user-select: none;
+  border: 1.5px solid var(--accent, var(--secondary));
+  color: var(--accent, var(--secondary));
+  border-radius: 999px;
+  padding: 0.3rem 1rem;
+  font-family: var(--titleFont);
+  font-weight: 600;
+  font-size: 0.92rem;
+}
+details.q-answer > summary::-webkit-details-marker {
+  display: none;
+}
+details.q-answer > summary::before {
+  content: "▸ ";
+}
+details.q-answer[open] > summary::before {
+  content: "▾ ";
+}
+details.q-answer[open] > summary {
+  background: var(--accent, var(--secondary));
+  color: #241d08;
+}
+details.q-answer > p {
+  margin: 0.5rem 0 0 0.3rem;
+  font-size: 1.05rem;
+}
